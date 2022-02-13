@@ -1,0 +1,84 @@
+Address : 188.143.232.13
+Nombre : Mark
+Apellido : 386117
+Cargo : nRopVuRgfb
+Direccion : DpJvXPYkZVOolwp
+Ciudad : NY
+Telefono : 41276346344
+Email : mark357177@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : 71H8eC http://www.FyLitCl7Pf7kjQdDUOLQOuaxTXbj5iNG.com
+Security_code : o5h5v
+Send : Enviar
+
+---------------
+
+Address : 188.143.232.10
+REF : TLP
+Nombre : Mark
+Apellido : 771698
+Cargo : NDDRtuUPplQ
+Direccion : QUCrBGiL
+Ciudad : NY
+Telefono : 41996734168
+Email : mark357177@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : tXUmWG http://www.FyLitCl7Pf7kjQdDUOLQOuaxTXbj5iNG.com
+Security_code : OzWaFQ
+Send : Enviar
+
+---------------
+
+Address : 181.103.182.167
+Nombre : Oscar Alberto 
+Apellido : Rivas
+Cargo : Oficial Soldador 
+Direccion : calle boulogne Sur mer mza6 casa 7 
+Ciudad : Villa Celina partido la Matanza 
+Telefono : 011 1524546726
+Email : oscarrivas54@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Soy soldador combinado HERRERO ARMADOR.experiencia en soldaduras tig mig eléctrica autogena y oxicorte
+Security_code : 12345
+Send : Enviar
+
+---------------
+
+Address : 191.80.211.142
+REF : JP
+Nombre : Mario Alberto
+Apellido : Baffico
+Cargo : jefe de personal
+Direccion : Pte. Peron 983
+Ciudad : Ciudad Evita
+Telefono : 4620-2276
+Email : marioder5@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Sr. Gerente: 
+
+Adjunto C.V. a fin de cubrir Puesto solicitado, acreditando para ello amplia experiencia en el mismo y contando con disponibilidad inmediata. 
+A la espera de noticias favorables, saludo a Ud. muy atte. 
+
+Mario A. Baffico 
+TE: 4620-2276 
+ 
+Security_code : sjsr9
+Send : Enviar
+
+---------------
+
+Address : 190.189.251.175
+Nombre : Armando
+Apellido : Roberts
+Cargo : Mantenimientos generales
+Direccion : San Telmo 739
+Ciudad : Buenos aires 
+Telefono : 1163746769
+Email : armyroberts14@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me destacó en mantenimiento de equipos pesados predictivo y correctivo.también en válvulas de alta presión reparación de los mismos. Saldador con pinza y mig. Servis de máquinas agrícolas volvo l90f y caterpillar 938.
+Security_code : 48bk8
+Send : Enviar
+
+---------------
+

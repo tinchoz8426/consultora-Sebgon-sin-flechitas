@@ -1,0 +1,92 @@
+Address : 190.227.43.17
+Nombre : Carolina
+Apellido : Yaakoby
+Cargo : Promotora de viajes 
+Direccion : cordoba 1043
+Ciudad : Corral de Bustos
+Telefono : 03468421347
+Email : carolina_nyakoby@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Soy una ama de casa con deseos detrabajar y sobre  todo poder hacer algo que este en mis posibilidades y que no exeda mis limites culturales 
+Security_code : p7qfn
+Send : Enviar
+
+---------------
+
+Address : 186.23.134.111
+Nombre : Ángela Jineth
+Apellido : Rueda Salazar
+Cargo : Comunicaciones
+Direccion : Yerbal 773
+Ciudad : Capital Federal
+Telefono : 15-38885736
+Email : angela.jrs@gmail.com
+
+---------------
+
+Address : 186.23.134.111
+Nombre : Ángela Jineth
+Apellido : Rueda Salazar
+Cargo : Comunicaciones
+Direccion : Yerbal 773
+Ciudad : Capital Federal
+Telefono : 15-38885736
+Email : angela.jrs@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Srs. Sebgon, consultora
+Saludos cordiales.
+
+Adjunto mi curriculum vitae para formar parte de su base de datos y ser tenida en cuanta en el momento en que se abra un proceso de selección en el cual se ajuste mi perfil. Soy comunicadora social con experiencia en medios audiovisuales, escritos y en comunicación de empresas y organizaciones.
+
+Muchas gracias por su atención, 
+Ángela Rueda. 
+Security_code : trb8v
+Send : Enviar
+
+---------------
+
+Address : 190.113.131.182
+Nombre : Sebastian Horacio
+Apellido : Jofre
+Cargo : Repositor de mercaderia
+Direccion : Laprida s/n Cruz de Piedra Maipú 
+Ciudad : Mendza
+Telefono : 261250789
+Email : angeles.mza2013@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Busco trabajo como repositor o como albañil y que tengo experiencia en ambas áreas.
+Security_code : ymsz9
+Send : Enviar
+
+---------------
+
+Address : 190.113.131.182
+Nombre : Sebastian Horacio
+Apellido : Jofre
+Cargo : Repositor de mercaderia
+Direccion : Laprida s/n Cruz de Piedra Maipú 
+Ciudad : Mendza
+Telefono : 261250789
+Email : angeles.mza2013@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Busco trabajo como repositor o como albañil y que tengo experiencia en ambas áreas.
+Security_code : hp9pn
+Send : Enviar
+
+---------------
+
+Address : 190.113.131.182
+Nombre : Sebastian Horacio
+Apellido : Jofre
+Cargo : Repositor de mercaderia
+Direccion : Laprida s/n Cruz de Piedra Maipú 
+Ciudad : Mendza
+Telefono : 261250789
+Email : angeles.mza2013@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Busco trabajo como repositor o como albañil y que tengo experiencia en ambas áreas.
+Security_code : 5qn4z
+Send : Enviar
+
+---------------
+

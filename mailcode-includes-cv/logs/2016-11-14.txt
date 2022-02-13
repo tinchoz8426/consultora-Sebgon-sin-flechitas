@@ -1,0 +1,88 @@
+Address : 190.228.175.146<br>
+ <br>REF : EP-1
+ <br>Nombre : Claudio Daniel
+ <br>Apellido : Schmeck
+ <br>Cargo : Encargado
+ <br>Direccion : Marck 1658
+ <br>Ciudad : Jose Leon Suarez
+ <br>Telefono : 4725348
+ <br>Email : claudio.schmeck@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : •	Amplia y sólida experiencia en el área productiva: 
+•	Coordinación de actividad de varias líneas de producción de productos masivos
+•	Programación de producción (horarios, calendarización, etc.)Responsable de seguridad e higiene
+
+ <br>Security_code : 4h3ng
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 107.167.113.34<br>
+ <br>Nombre : Maria Jose
+ <br>Apellido : Abbate
+ <br>Cargo : Recepcionista, Secretaria
+ <br>Direccion : 25 de Mayo 330
+ <br>Ciudad : Temperley
+ <br>Telefono : 1540725065
+ <br>Email : majoabb@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buen dia, les envío mi CV para que me tengan en cuenta para algun puesto que requiera mi experiencia.
+Muchas gracias.
+ <br>Security_code : vwk58
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.230.126.14<br>
+ <br>Nombre : Mercedes Alejandra
+ <br>Apellido : Casavecchia 
+ <br>Cargo : Jefe de Personal
+ <br>Direccion : Av. Congreso 2554, Piso 8 Dto. A
+ <br>Ciudad : C. Autónoma de Buenos Aires
+ <br>Telefono : 1531614499
+ <br>Email : casale77@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Adjunto mi cv para formar parte de su base de datos y ser considerada en la búsqueda de Jefe de Personal.
+Cordialmente.
+
+Lic. Alejandra Casavecchia
+ <br>Security_code : vfwj2
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 179.41.204.190<br>
+ <br>Nombre : Sofia
+ <br>Apellido : Tula
+ <br>Cargo : recepcionista, atencion al publico, ventas
+ <br>Direccion : Grecia 2093
+ <br>Ciudad : Buenos aires
+ <br>Telefono : 1544155064
+ <br>Email : sofiagostinatula@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas tardes.
+Adjunto mi cv para postularme a ofertas laborales en sector de ventas atenciòn al pùblico y recepcionista/asistente/secretaria.
+Desde ya, muchas gracias.
+Sofìa Tula.
+ <br>Security_code : nbhfj
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.23.51.158<br>
+ <br>Nombre : AGUSTINA
+ <br>Apellido : LA TORRE
+ <br>Cargo : RECURSOS HUMANOS
+ <br>Direccion : Guemes 689
+ <br>Ciudad : San Antono de Padua
+ <br>Telefono : 1558212431
+ <br>Email : agustina.latorre@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : ADJUNTO CV PARA LAS BÚSQUEDAS ACTIVAS EN RELACIÓN CON MI PERFIL 
+GRACIAS
+
+ <br>Security_code : J4P8B
+ <br>Send : Enviar
+ <br>
+---------------
+

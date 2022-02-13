@@ -1,0 +1,15 @@
+Address : 190.247.105.124
+Nombre : Gisela Soledad
+Apellido : Banegas
+Cargo : Secretaria/ recepcion/administracion
+Direccion : Migueletes 1968
+Ciudad : Capital federal
+Telefono : 02396 15429990
+Email : gibanegas@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Soy Gisela Banegas tengo 28 años, soy profesora de Artes Visuales tengo experiencia de trabajo como secretaria en diferentes entidades
+Security_code : x4krn
+Send : Enviar
+
+---------------
+

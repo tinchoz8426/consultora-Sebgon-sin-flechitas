@@ -1,0 +1,18 @@
+Address : 200.31.1.98
+Nombre : Hugo
+Apellido : Squinobal
+Cargo : Jerárquico
+Direccion : Tablada 172
+Ciudad : Córdoba
+Telefono : 03543477307
+Email : squinobal@salsipuedes.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Objetivo		
+
+Generar valor para el mercado y la organización con la que me vincule, utilizando para ello mi alto nivel de responsabilidad profesional, completo dominio de la gestión tecnológica y/o desarrollo de negocios o nuevos emprendimientos, transformación de grandes negocios a empresas, logística de distribución y reparto, sistemas de certificación de calidad ISO, buenas prácticas de manufactura, Haccp, Seis Sigma, etc. Solvencia para gerenciar, conducir y liderar grupos de recursos humanos en trabajos interdisciplinarios y capacidad para administrar proyectos complejos.
+
+Security_code : b7fy9
+Send : Enviar
+
+---------------
+

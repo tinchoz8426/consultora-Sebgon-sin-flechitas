@@ -1,0 +1,33 @@
+Address : 190.227.36.38<br>
+ <br>REF : ROT-1
+ <br>Nombre : Ramiro Nicolas
+ <br>Apellido : Falsone Flores
+ <br>Cargo : Programador CNC
+ <br>Direccion : Independencia, 5025
+ <br>Ciudad : Villa Ballester
+ <br>Telefono : 1161224013
+ <br>Email : ramirofalsone@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola. Espero que me tengan en cuenta, cualquier cosa estoy a su disposición. 
+Saludos
+ <br>Security_code : nqc8v
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.47.137.198<br>
+ <br>REF : JPER-1
+ <br>Nombre : Roberto
+ <br>Apellido : Quirico
+ <br>Cargo : Jefe de personal 
+ <br>Direccion : Guardia Nacional
+ <br>Ciudad : argentina
+ <br>Telefono : 1133774874
+ <br>Email : robertoquirico.rq@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Soy el candidato
+ <br>Security_code : 32582
+ <br>Send : Enviar
+ <br>
+---------------
+

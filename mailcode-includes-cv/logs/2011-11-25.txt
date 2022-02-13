@@ -1,0 +1,15 @@
+Address : 190.173.90.86
+Nombre : karina soledad
+Apellido : zigante
+Cargo : camarera recepcionista atencion al publico
+Direccion : pintos 2560
+Ciudad : buenos aires
+Telefono : 44625289
+Email : kari_sol80@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : espero me tengan en cuenta para poder ingresar a la base de datos ya que necesito trabajar urgente gracias
+Security_code : kkn8t
+Send : Enviar
+
+---------------
+

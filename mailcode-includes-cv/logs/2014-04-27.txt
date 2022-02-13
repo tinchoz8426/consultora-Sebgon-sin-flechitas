@@ -1,0 +1,93 @@
+Address : 186.128.172.17
+Nombre : Patricia Inés
+Apellido : Rodriguez Mlynskas
+Cargo : secretaria/Asistente Bilingue (Inglés)
+Direccion : J M Jorge 489
+Ciudad : Gral Fernandez Oro
+Telefono : (0299) 4996812
+Email : rodriguezmlynskas@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Busqueda laboral, amplia disponibilidad horaria comienzo inmediato.
+Security_code : 84p9y
+Send : Enviar
+
+---------------
+
+Address : 186.128.172.17
+Nombre : Patricia Inés
+Apellido : Rodriguez Mlynskas
+Cargo : secretaria/Asistente Bilingue (Inglés)
+Direccion : J M Jorge 489
+Ciudad : Gral Fernandez Oro
+Telefono : (0299) 4996812
+Email : rodriguezmlynskas@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Busqueda laboral, amplia disponibilidad horaria comienzo inmediato.
+Security_code : 84p9y
+Send : Enviar
+
+---------------
+
+Address : 190.190.19.87
+Nombre : Marianela Inés
+Apellido : Marchesano Miglio
+Cargo : Especialista de producto
+Direccion : Pringles 324 3A
+Ciudad : C.A.B.A
+Telefono : 49586456
+Email : marianela.marchesano@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Dejo mi CV actualizado al dìa de la fecha
+Security_code : 7wms5
+Send : Enviar
+
+---------------
+
+Address : 186.18.204.18
+Nombre : Marina
+Apellido : Novaresi
+Cargo : Administracion
+Direccion :  j  A Roca 360
+Ciudad : RAMOS MEJIA
+Telefono : 1558122365
+Email : marina.novaresi@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenas tardes, soy Marina Novaresi, estudiante del segundo año de la carrera de Administración de empresas, cuento con cursos de asistente secretaria ejecutiva, sistema tango gestión y calipso y profesorado de Ingles del Instituto Candbridge de Cultura Inglesa, capacitación en normas ISO 9001, además de experiencia en  atención al cliente, proveedores, recepcionista y administrativa.
+Me encuentro en la búsqueda de un puesto de trabajo que sea mas a fin a mi carrera y con estabilidad laboral, ya que mi interés es desarrollarme tanto en el campo académico como el  laboral.. Actualmente cuento con disponibilidad inmediata.
+Quedo a la espera de una respuesta favorable para una futura entrevista. 
+Saludo cordial.
+Security_code : RQ9JN
+Send : Enviar
+
+---------------
+
+Address : 190.195.196.254
+Nombre : ELSA NOEMI
+Apellido : SERVELLO
+Cargo : SECRETARIA DE ODONTOLO O MEDICO
+Direccion : HONDURAS 1339
+Ciudad : BAHIA BLANCA
+Telefono : 0291-154296168
+Email : elsaservello12@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : ME GUSTARIA ALGUN TRABAJO ADMINISTRATIVO O ALGUNA SECRETARIA.
+Security_code : r2K4m
+Send : Enviar
+
+---------------
+
+Address : 186.62.73.68
+Nombre : Mirta Noemi
+Apellido : Galvan
+Cargo : Recepcionista
+Direccion : 24 e/ 121 y 122
+Ciudad : Berazategui
+Telefono : 1134113622
+Email : noe.arg82@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : mi disponibilidad es full time.
+Security_code : btvz5
+Send : Enviar
+
+---------------
+

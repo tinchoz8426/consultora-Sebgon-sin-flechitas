@@ -1,0 +1,172 @@
+Address : 190.48.222.128
+REF : electromecanico
+Nombre : Diego
+Apellido : Vega
+Cargo : Tecnico Electronico
+Direccion : Salvigny 5324
+Ciudad : Laferrere
+Telefono : 1557068854
+Email : halcon.nocturno74@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Sueldo Neto Mensual $ 5000
+Security_code : 5cz4w
+Send : Enviar
+
+---------------
+
+Address : 190.51.98.117
+REF : electromecanico
+Nombre : Jonathan
+Apellido : Casco
+Cargo : ayudante tecnico
+Direccion : suipacha 3575
+Ciudad : Los Polvorines
+Telefono : 011-1560544495
+Email : zonyx@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Le envio mi curriculum para que puedan evaluar si hay disponible algun puesto acorde a mis conocimientos. Desde ya les agradezco su atencion y espero su respuesta
+Security_code : gv3mq
+Send : Enviar
+
+---------------
+
+Address : 190.51.38.216
+Nombre : Xoana
+Apellido : Giovannini
+Cargo : Empleada administrativa
+Direccion : calle 25 nº 3293
+Ciudad : Berazategui
+Telefono : 1537874771
+Email : xoana_giovannini@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Muchas gracias por su atención.Xoana.
+Security_code : tgzks
+Send : Enviar
+
+---------------
+
+Address : 190.192.144.24
+Nombre : Karina Alejandra
+Apellido : Frias
+Cargo : Administrativa, y similares.
+Direccion : Dublin 4287 1º
+Ciudad : Capital Federal
+Telefono : (011)4524-0728
+Email : karina.a.frias@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Mi nombre es Karina Frias.
+Estoy en busca de un trabajo en el que pueda utilizar mis conocimientos y seguir creciendo profesionalmente. Poseo gran capacidad de trabajo en equipo y de forma individual. Gozo de muchas ganas de trabajar, obtener un ingreso propio, y así cumplir mis objetivos de vida. Tengo el secundario terminado con un titulo de Perito Mercantil, y además, cursos de sistema Tango y diseño gráfico, con certificados en mano. También poseo experiencia en Office, S. Tango, atención al cliente, atención telefónica, cadetería.
+Saludos.
+Security_code : t7tkp
+Send : Enviar
+
+---------------
+
+Address : 200.123.170.97
+Nombre : Claudia
+Apellido : Hapanowicz
+Cargo : Administrativa de Personal
+Direccion : Larrea 263
+Ciudad : Morón
+Telefono : 15-4979-8112
+Email : claudia.hapa@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenos días, me gustaría que me tengan en cuenta para este puesto u otrop dentro de la consultora. Si bien estoy trabajando actualmente tengo disponibilidad.
+Desde ya muchas gracias.
+Security_code : rrhn3
+Send : Enviar
+
+---------------
+
+Address : 186.18.1.13
+Nombre : Tatiana Elisabet
+Apellido : Rolhaiser
+Cargo : asistente RRHH
+Direccion : Pedro Goyena Av
+Ciudad : Capital Federal
+Telefono : 3434475696
+Email : tatianarolhaiser@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : AGRADECERIA ME TENGAN EN CUENTA EN SU PROXIMO RECLUTAMIENTO DE PERSONAL. 
+GRACIAS!!!
+Security_code : jqb82
+Send : Enviar
+
+---------------
+
+Address : 190.193.65.39
+Nombre : Carlos Gustavo
+Apellido : Gatti
+Cargo : Ingeniero Electrónico
+Direccion : Paraguay 920
+Ciudad : Rosario
+Telefono : 0341-156173897
+Email : cgatti80@yahoo.es
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola, quería dejarles mis datos personales (CV) para cualquier búsqueda laboral que pudiese existir.
+Sin más saludos cordiales.
+Security_code : sbj8k
+Send : Enviar
+
+---------------
+
+Address : 200.80.229.2
+Nombre : nora viviana
+Apellido : catini
+Cargo : trabajadora social
+Direccion : malnati 650 
+Ciudad : san miguel
+Telefono : 1535387121
+Email : nora_catini@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : quisiera saber si todavia necesitan trabajadoras sociales para ambientales y visitas domiciliarias. posee movilidad propia y experiencia en realizacion de informes gracias
+Security_code : vypf8
+Send : Enviar
+
+---------------
+
+Address : 190.173.111.121
+Nombre : NATALIA
+Apellido : PORRETTI
+Cargo : ADMINISTRATIVA/ RECEPCINISTA
+Direccion : MALASPINA 1655
+Ciudad : HURLINGHAM
+Telefono : 1535843818
+Email : nataliaporretti@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me oriento a la busqueda de una empresa donde pueda desarrollar mis conocimientos y adquirir nuevos. Con responsabilidad y compromiso.
+Security_code : rd8sg
+Send : Enviar
+
+---------------
+
+Address : 190.173.111.121
+Nombre : Natalia
+Apellido : Porretti
+Cargo : Administrativa/ Recepcion/ Salud
+Direccion : Malaspina 1655
+Ciudad : Hurlingham
+Telefono : 1535843818
+Email : nataliaporretti@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me encuentro en la busqueda de una empresa donde pueda desarrollarme y adquirir nuevos conocimientos.Con responsabilidad y compromiso.
+Security_code : h93g3
+Send : Enviar
+
+---------------
+
+Address : 190.231.239.54
+Nombre : Martin
+Apellido : Quispe
+Cargo : Tec. Sup. Higiene y Seguridad
+Direccion : Pje. Congresal Acevedo 355
+Ciudad : San Fernando del Valle de Catamarca
+Telefono : 03833-15642998
+Email : martinquispe@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Disponibilidad para trabajar en otras provincias
+Security_code : dyqwq
+Send : Enviar
+
+---------------
+

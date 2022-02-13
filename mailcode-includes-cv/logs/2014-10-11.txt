@@ -1,0 +1,46 @@
+Address : 186.134.206.249
+Nombre : Alan Daniel
+Apellido : gimenez
+Cargo : indistinto
+Direccion : rosales 3621 
+Ciudad : jose marmol
+Telefono : 4219-7009
+Email : alandanielgimenez@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me encuentro en la busqueda de algun empleo , ya que estoy desempleado,me siento capacitado para hacer cualquier tarea que se me asigne. desde ya muchas gracias.
+Alan Daniel Gimenez
+Security_code : c8b84
+Send : Enviar
+
+---------------
+
+Address : 190.16.4.43
+REF : GTE COM
+Nombre : María Fernanda
+Apellido : Grassi
+Cargo : Gerente Comercial
+Direccion : Emilio Mitre 519
+Ciudad : Capital Federal 
+Telefono : 155 888 3521
+Email : mf.grassi@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Soy licenciada en Comercialización con un Master en Telecomunicaciones y Gestión de la Información. A mis 42 años, aporto sólida experiencia gerenciando equipos interdisciplinarios teniendo participación en las siguientes áreas: Comercialización, Atención al Cliente, Telemarketing, Marketing, Merchandising y Recursos Humanos. En empresas Nacionales e Internacionales en distintas Industrias Internet, Tecnología, Telecomunicaciones, Bebidas y Alimenticia, Gobierno y Financiera.
+
+Tengo experiencia en el Area de Bebidas ya que trabajé en Sparkling empresa de Agua Embotellada.
+Con seguridad ustedes contarán con oportunidades para alguien con habilidades de liderazgo, buenas relaciones interpersonales y que sepa construir equipos de trabajo con excelencia.
+
+Confío en que próximamente me concedan una entrevista, de modo de facilitar mi postulación a los puestos que se presenten en vuestra consultora.
+
+Sin otro particular, aprovecho para saludarlo muy atentamente.
+
+____________________________________________________
+Lic. Ma. Fernanda Grassi
+Teléfono: (011) 155 888 3521 - (011) 4431-0408 
+mf.grassi@gmail.com
+
+
+Security_code : vh79k
+Send : Enviar
+
+---------------
+

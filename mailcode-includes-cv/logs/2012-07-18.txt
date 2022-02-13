@@ -1,0 +1,66 @@
+Address : 190.50.205.66
+Nombre : David Matias
+Apellido : Cortón
+Cargo : Administrativo, Comunicador Social
+Direccion : Marmol 3956
+Ciudad : Buenos Aires (San justo)
+Telefono : 1156948144
+Email : dcorton@live.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Busqueda laboral
+Security_code : n9785
+Send : Enviar
+
+---------------
+
+Address : 186.153.175.227
+Nombre : pablo javier
+Apellido : barrientos
+Cargo : operario
+Direccion : gorriti 595
+Ciudad : benavidez
+Telefono : 011-1553795558
+Email : pablochivo_@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : buenas tardes, estoy en la busqueda de trabajo y les dejo mi curriculum. gracias
+Security_code : njsbj
+Send : Enviar
+
+---------------
+
+Address : 186.123.104.163
+Nombre : Claudia
+Apellido : Araujo
+Cargo : trabajadora social
+Direccion : olazabal 872
+Ciudad : guernica
+Telefono : 02224-476307
+Email : claudia83araujo@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me gustaria que por favor me tengan en cuenta para ocupar algun puesto laboral, ya que lo necesito para desarrollarme profesionalmente. gracias
+Security_code : 5vzn7
+Send : Enviar
+
+---------------
+
+Address : 200.117.113.60
+Nombre : diego
+Apellido : maggi fernandez
+Cargo : Administrativo,Distribucion y Logistica, Produccion
+Direccion : potosi 495
+Ciudad : San isidro
+Telefono : 1556301991
+Email : diegomaggif@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Espero ser tenido en cuenta.
+
+
+Desde ya muchas gracias.
+
+Saludos Atte.
+
+Security_code : hcb6p
+Send : Enviar
+
+---------------
+

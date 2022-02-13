@@ -1,0 +1,21 @@
+Address : 201.210.167.217<br>
+ <br>Nombre : Kari 
+ <br>Apellido : Barrios
+ <br>Cargo : Banca Financiera
+ <br>Direccion : Araoz 1528 Palermo, CABA, Comuna 14. Argentina
+ <br>Ciudad : Palermo
+ <br>Telefono : 0054-1127184498
+ <br>Email : irak29ve@yahoo.es
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Soy Kari Barrios , profesional en Servicios turisticos y en Banca Financiera, con amplia experiencia en el sector bancario durante mas de catorce (14) años, responsable, dominio de ingles intermedio, habilidades de negociacion, rápida adaptacion a los cambios , comprometida, honesta.
+Adjunto encontrara mi sintesis curricular.
+Espero tener la oportunidad de exponerle mis conocimientos y mi deseo de formar parte de un gran equipo de trabajo.
+
+Atte.
+
+Kari Barrios
+ <br>Security_code : c3m9f
+ <br>Send : Enviar
+ <br>
+---------------
+

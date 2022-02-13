@@ -1,0 +1,64 @@
+Address : 186.62.81.136
+Nombre : Ivan
+Apellido : Korsch
+Cargo : Administrativo/ Operario
+Direccion : Calle 5 N°5056
+Ciudad : Berazategui
+Telefono : 42562920/ 1530138219
+Email : i.f.korsch@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Dejo Adjunto mi CV. Actualmente estoy desempleado y tengo disponibilidad full time. Gracias
+Security_code : t4tfd
+Send : Enviar
+
+---------------
+
+Address : 186.62.81.136
+Nombre : Ivan
+Apellido : Korsch
+Cargo : Administrativo/ Operario
+Direccion : Calle 5 N°5056
+Ciudad : Berazategui
+Telefono : 42562920/ 1530138219
+Email : i.f.korsch@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Dejo adjunto mi CV. Actualmente me encuentro desempleado. Tengo disponibilidad horaria full time.
+Muchas gracias
+Security_code : 348cx
+Send : Enviar
+
+---------------
+
+Address : 186.62.81.136
+Nombre : Ivan
+Apellido : Korsch
+Cargo : Administrativo/ Operario
+Direccion : Calle 5 N°5056
+Ciudad : Berazategui
+Telefono : 42562920/ 1530138219
+Email : i.f.korsch@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Dejo adjunto mi CV. Actualmente me encuentro desempleado. Tengo disponibilidad horaria full time.
+Muchas gracias
+Security_code : 348cx
+Send : Enviar
+
+---------------
+
+Address : 190.195.175.117
+Nombre : Bárbara
+Apellido : Heredia
+Cargo : empleado
+Direccion : Carlos Gardel 
+Ciudad : Buenos Aires
+Telefono : 1164862059
+Email : bheredia@live.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Busco empleo para poder lograr progreso, experiencia, mayor conocimiento e independencia. 
+Desde ya, muchas gracias. 
+Saludos cordiales.
+Security_code : 7tzwt
+Send : Enviar
+
+---------------
+

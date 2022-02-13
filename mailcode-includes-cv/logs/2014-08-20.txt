@@ -1,0 +1,123 @@
+Address : 190.19.83.210
+REF : GETECOM
+Nombre : Vicente 
+Apellido : Ilkaydin
+Cargo : Gerente de Compras
+Direccion : La Pampa 997 
+Ciudad : Capital Federal
+Telefono : 1168895412
+Email : vicenteilkaydin@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : *
+Security_code : hcdyy
+Send : Enviar
+
+---------------
+
+Address : 181.22.10.160
+Nombre : marianela
+Apellido : vila
+Cargo : adminitrativo/comercial
+Direccion : 7 n 668
+Ciudad : la plata
+Telefono : 0221 4222540
+Email : marianela686@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : me gustaria q me manden las ofertas laborales al mail ingresado con anterioridad
+gracias
+Security_code : cy6r9
+Send : Enviar
+
+---------------
+
+Address : 186.130.200.225
+Nombre : Ileana
+Apellido : Corro
+Cargo : Recepcionista
+Direccion : Hipolito Yrigoyen 3251
+Ciudad : CABA
+Telefono : 541138400112
+Email : ileanac_88@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Desde ya, muchas gracias por recibir mi curriculum vitae.
+Saludo atte. Ileana Corro
+Security_code : 2phtr
+Send : Enviar
+
+---------------
+
+Address : 186.61.6.178
+Nombre : Liliana
+Apellido : Aguirre
+Cargo : cajera atencion al cliente
+Direccion : banfield
+Ciudad : buenos aires
+Telefono : 4273.4911 / 155812-8108
+Email : liliana_aristiqui@terra.com
+MAX_FILE_SIZE : 2097152
+Mensaje : hola deseo postularme para empleos de cajera o atencion al cliente. soy puntual y responsable. 
+Security_code : yctqg
+Send : Enviar
+
+---------------
+
+Address : 186.0.138.122
+Nombre : maria victoria
+Apellido : avila
+Cargo : Administración Facturación  
+Direccion : Saenz peña 1880
+Ciudad : Merlo buenos aires
+Telefono : 15-68721757
+Email : kokina91@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : trabajo actualmente, pero tengo disponibilidad horaria full time
+Security_code : 3fyww
+Send : Enviar
+
+---------------
+
+Address : 186.158.229.163
+Nombre : VDV
+Apellido : VXZV
+Cargo : XZVVZV
+Direccion : VZXVZ
+Ciudad : ZVZV
+Telefono : VZVZVZ
+Email : VZVZV@GSFG
+MAX_FILE_SIZE : 2097152
+Mensaje : BFGSF
+Security_code : wbd2z8
+Send : Enviar
+
+---------------
+
+Address : 186.158.229.163
+Nombre : dvsd
+Apellido : vdvdv
+Cargo : dvsdv
+Direccion : dsvsd
+Ciudad : vdvds
+Telefono : vsdvsd
+Email : vsdvdsv
+MAX_FILE_SIZE : 2097152
+Mensaje : vdvdsvd
+Security_code : fWnpm
+Send : Enviar
+
+---------------
+
+Address : 186.158.229.163
+Nombre : fdsfdf
+Apellido : dsfdsfdsf
+Cargo : sdfsd
+Direccion : fsdfs
+Ciudad : fsdfdsf
+Telefono : sdfdsf
+Email : sdfsdf
+MAX_FILE_SIZE : 2097152
+Mensaje : sdfsdfdsf
+Security_code : wb2z8
+Send : Enviar
+
+---------------
+

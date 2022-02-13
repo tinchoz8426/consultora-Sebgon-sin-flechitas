@@ -1,0 +1,262 @@
+Address : 200.124.184.2
+Nombre : Matias
+Apellido : Petetta
+Cargo : supervisor o gerente
+Direccion : guemes 969
+Ciudad : Rio segundo - Cordoba
+Telefono : 03572-15589781
+Email : matute22_mm@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me gustaria trabajar en algun puesto que me pueda superar y crecer como prfesional y escalar en el trabajo que realice.EStoy buscando un trabajo urgentemente
+Security_code : bxp7m
+Send : Enviar
+
+---------------
+
+Address : 181.165.90.109
+Nombre : Leonela Romina
+Apellido : Benitez
+Cargo : Administrativo, atención al cliente, ventas.
+Direccion : 25 de mayo 1079
+Ciudad : Cordoba Capital
+Telefono : 351-152670223
+Email : leonelabenitez_@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Gracias por su tiempo desde ya.
+Security_code : rhm2y
+Send : Enviar
+
+---------------
+
+Address : 181.239.29.92
+Nombre : Alexis
+Apellido : Serrano
+Cargo : Cadete, Ayudante de cocina
+Direccion : Calle 128a Berazategui
+Ciudad : Berazategui
+Telefono : 42563601
+Email : alexisgardelito@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Una persona activa y con ganas de trabajar, con metas grande y gran capacidad de atencion.
+Security_code : r3xsf
+Send : Enviar
+
+---------------
+
+Address : 190.17.116.115
+Nombre : Virginia
+Apellido : Torletti
+Cargo : Administracion/Atencion al cliente sector salud
+Direccion : Sol de mayo 462 - Alto Alberdi
+Ciudad : Córdoba
+Telefono : 0351 - 152426954
+Email : vir.07@live.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Busco empleo con preferencia en el sector salud,sin preferencias en el área de trabajo. No excluyo otra área de trabajo. Disponibilidad full time.
+Security_code : t83jf
+Send : Enviar
+
+---------------
+
+Address : 201.231.64.172
+Nombre : Pamela Stefania
+Apellido : Alvarez
+Cargo : GERENTE
+Direccion : ITUZAINGO 670
+Ciudad : CORDOBA 
+Telefono : 152321750
+Email : alvarezpamela8@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimado/a:
+ 
+Buenas tardes, estoy  buscando  trabajo soy  Diseñadora Industrial  y  me encuentro  cursando  en su  ultimo  año  la Maestría en Ingeniería en Calidad, en la  UTN.
+Quería saber si tienen alguna vacante en calidad de producción o Diseño, desde ya muchas gracias 
+atte:
+Alvarez Pamela
+Security_code : 4QFTQ
+Send : Enviar
+
+---------------
+
+Address : 190.245.80.139
+Nombre : María Paz
+Apellido : Larken
+Cargo : Administrativo, Secretaria, Recepcionista, Organización de eventos, Tareas contables
+Direccion : Italia 2766
+Ciudad : Buenos Aires
+Telefono : 11 62396478
+Email : mariapazlarken@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Mi objetivo principal es poder iniciarme en una empresa de primer nivel que permita desarrollar mis capacidades dentro del mercado laboral, con el fin de contribuir al crecimiento de la empresa y profesional.
+Security_code : zyqrq
+Send : Enviar
+
+---------------
+
+Address : 186.153.116.119
+Nombre : norma
+Apellido : pereyra
+Cargo : trabajadora social
+Direccion : francisco medus 1946
+Ciudad : paraná
+Telefono : 543434547269
+Email : bebypereyra@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Si bien tengo 65 años, psicofísica y socialmente tengo capacidades para realizar visitas socioambientales, precisas y a la vez con un trato respetuoso al entrevistado/a Cordialmente. Norma
+Security_code : tfxfk
+Send : Enviar
+
+---------------
+
+Address : 186.153.116.119
+Nombre : norma
+Apellido : pereyra
+Cargo : trabajadora social
+Direccion : francisco medus 1946
+Ciudad : paraná
+Telefono : 543434547269
+Email : bebypereyra@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Si bien tengo 65 años, psicofísica y socialmente tengo capacidades para realizar visitas socioambientales, precisas y a la vez con un trato respetuoso al entrevistado/a Cordialmente. Norma
+Security_code : xnfhm
+Send : Enviar
+
+---------------
+
+Address : 181.47.237.57
+Nombre : Rogelio Adrian
+Apellido : Trillo
+Cargo : Comercial
+Direccion : Gascon 678 3B
+Ciudad : Capital Federal
+Telefono : 0111538261907
+Email : rogelio.trillo@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me encuentro a entera disposicion, en caso que deseen conocerme.
+Security_code : vpg8q
+Send : Enviar
+
+---------------
+
+Address : 181.47.237.57
+REF : GTE COM
+Nombre : Rogelio Adrian
+Apellido : Trillo
+Cargo : Comercial
+Direccion : Gascon 678 3B
+Ciudad : Capital Federal
+Telefono : 0111538261907
+Email : rogelio.trillo@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Gracias por la oportunidad.
+Security_code : pmbdj
+Send : Enviar
+
+---------------
+
+Address : 181.29.117.26
+Nombre : SERGIO OSCAR
+Apellido : CABRERIZO
+Cargo : ADMINISTRATIVO CONTABLE
+Direccion : AVELLANEDA 1434
+Ciudad : BERNAL
+Telefono : 4259-4127
+Email : scabrerizo2003@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : DESEO INCORPORARME EN EL AREA ADMINISTRATIVA CONTABLE
+Security_code : 4Wfjk
+Send : Enviar
+
+---------------
+
+Address : 181.29.117.26
+Nombre : SERGIO OSCAR
+Apellido : CABRERIZO
+Cargo : ADMINISTRATIVO CONTABLE
+Direccion : AVELLANEDA 1434
+Ciudad : BERNAL
+Telefono : 4259-4127
+Email : scabrerizo2003@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : INCORPORARME AL AREA CONTABLE
+Security_code : pns7g
+Send : Enviar
+
+---------------
+
+Address : 190.2.121.151
+Nombre : Liliana Isabel
+Apellido : Delgadillo
+Cargo : vendedor / administrativo
+Direccion : B° Intersindical Radio Catamarca 
+Ciudad : salta
+Telefono : 4244151
+Email : lili_isabel@live.com
+MAX_FILE_SIZE : 2097152
+Mensaje : deseo recibir oferta de empleo comerciales o administrativos
+Security_code : w4ztk
+Send : Enviar
+
+---------------
+
+Address : 190.2.121.151
+Nombre : Liliana Isabel
+Apellido : Delgadillo
+Cargo : vendedor / administrativo
+Direccion : B° Intersindical Radio Catamarca 
+Ciudad : salta
+Telefono : 4244151
+Email : lili_isabel@live.com
+MAX_FILE_SIZE : 2097152
+Mensaje : deseo recibir oferta de empleo comerciales o administrativos
+Security_code : w4ztk
+Send : Enviar
+
+---------------
+
+Address : 190.193.138.151
+REF : ADMINISTRATIVA-DE-COMPRAS
+Nombre : Maria Agustina
+Apellido : Mahon
+Cargo : Administrativa
+Direccion : Venezuela 770 CABA
+Ciudad : Ciudad de Buenos Aires
+Telefono : 43439473
+Email : magustinamahon@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Soy muy proactiva y tengo muchas ganas de trabajar.
+Security_code : 76hvr
+Send : Enviar
+
+---------------
+
+Address : 186.128.95.205
+Nombre : Sabrina Del Carmen
+Apellido : Molina
+Cargo : Cajera o Recepcion
+Direccion : Ameghino 825 (E)
+Ciudad : San Juan
+Telefono : 0264-155804140
+Email : mayra_fd31@hotmail.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Deceo Trabajar y estoy dispuesta de horario..
+Security_code : tm2tp
+Send : Enviar
+
+---------------
+
+Address : 190.30.213.57
+Nombre : RAUL
+Apellido : ESCALANTE
+Cargo : INSPECTOR HIGIENE Y SEGURIDAD-RRHH
+Direccion : BARRIO 1 DE MAYO MZA 328 B LOTE 16
+Ciudad : SALTA
+Telefono : 0387-156112415
+Email : hysescalante@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : SERIA UN GRATO HONOR SER SELECCIONADO
+Security_code : fnhsk
+Send : Enviar
+
+---------------
+

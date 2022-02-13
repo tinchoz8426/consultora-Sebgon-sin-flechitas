@@ -1,0 +1,45 @@
+Address : 190.194.72.153
+Nombre : Lucila
+Apellido : Vercellini
+Cargo : Atencion al publico
+Direccion : Salta 992
+Ciudad : Lanus
+Telefono : 42475102
+Email : lucilavercellini@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Como estudiante universitaria se me es dificil encontrar un trabajo que me permita realizar ambas actividades. 
+Security_code : QXCM2
+Send : Enviar
+
+---------------
+
+Address : 190.229.1.140
+Nombre : Carolina
+Apellido : Romero
+Cargo : Comerciante
+Direccion : Rio segundo 1078
+Ciudad : cordoba
+Telefono : 0351-152074659
+Email : Caro_vivalaexpress@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : hola que tal me presento soy Carolina Romero tengo 19 años y estoy necesitando trabajo, soy muy capar y tengo mucha predispocision para aprender nuevas cosas
+Security_code : wrqxq
+Send : Enviar
+
+---------------
+
+Address : 181.95.107.110
+Nombre : Lautaro Tomas
+Apellido : Forte
+Cargo : Cualquiera
+Direccion : Av san isidro 4040 12 a
+Ciudad : Buenos aires
+Telefono : 47024919
+Email : lauti_elboste@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Necesito conseguir trabajo.
+Security_code : qxs7r
+Send : Enviar
+
+---------------
+

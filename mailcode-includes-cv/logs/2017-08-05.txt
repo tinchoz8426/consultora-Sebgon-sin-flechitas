@@ -1,0 +1,108 @@
+Address : 66.249.85.9<br>
+ <br>Nombre : Johanna Elizabeth
+ <br>Apellido : Apaldetti 
+ <br>Cargo : Tecnica en seguridad e higiene
+ <br>Direccion : Ramirez 3459
+ <br>Ciudad : Rafael Calzada
+ <br>Telefono : 1166932480
+ <br>Email : Apaldettijohanna@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola,adjunto mi cv para ocupar puestos de seguridad e higiene laboral.
+ <br>Security_code : rbdwn
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 138.219.249.9<br>
+ <br>Nombre : Marcelo Diego
+ <br>Apellido : Oliveraa
+ <br>Cargo : chofer reparto
+ <br>Direccion : guanabara 69
+ <br>Ciudad : virrey del pino
+ <br>Telefono : 02202492447
+ <br>Email : Marcceolivera@otlook.es
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : HOLA TENGO 43 AÑO CASA HIJO 4 Y ESTOY BUSCANDO TRABAJO 
+ <br>Security_code : 2zqty
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.138.55.132<br>
+ <br>Nombre : Fabián 
+ <br>Apellido : Romano
+ <br>Cargo : Supervisor de producción 
+ <br>Direccion : wright 2559 Ciudad jardin el palomar buenos aires argentina
+ <br>Ciudad : El Palomar
+ <br>Telefono : 1141983890
+ <br>Email : fromano63@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : En archivo adjunto hago llegar mi CV con un vasta trayectoria en 12 países del mundo manejando grande dotaciones de personal Saludos Fabián Romano Wcd4W
+ <br>Security_code : Wcd4W
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 107.167.107.38<br>
+ <br>Nombre : Rocio
+ <br>Apellido : Cicerone
+ <br>Cargo : repositor
+ <br>Direccion : shusman y cataluña 2102
+ <br>Ciudad : moreno
+ <br>Telefono : 3446362145
+ <br>Email : rochy-linkinpark@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : mi objetivo es conseguir un trabajo crecer laboralmente adquiriendo experiencia y responsabilidades
+ <br>Security_code : qm8by
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.18.119.226<br>
+ <br>REF : TE-1
+ <br>Nombre : Juan Ricardo
+ <br>Apellido : Bertelegni
+ <br>Cargo : TÉCNICO ELÉCTRICO
+ <br>Direccion : Ortega y Gasset 1975
+ <br>Ciudad : Caba
+ <br>Telefono : 223 155 506646
+ <br>Email : juanbertelegni@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola. Soy diplomado en tecnicatura electronica de la fi mdp (3er año completo de ing electronica). Actualmente soy Service de telecentro y estoy viviendo en caba. Saludos.
+ <br>Security_code : 6wtfj
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.1.237.12<br>
+ <br>REF : JPER-1
+ <br>Nombre : Gabriela
+ <br>Apellido : Costa
+ <br>Cargo : Jefe de Personal
+ <br>Direccion : Baigorria 3247
+ <br>Ciudad : Caba
+ <br>Telefono : 1158138571
+ <br>Email : gabrielamcosta@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Especialista en la gestión y estrategia de RRHH
+ <br>Security_code : grfvk
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.55.202.46<br>
+ <br>REF : chr
+ <br>Nombre : ALBERTO HORACIO
+ <br>Apellido : ROSALIN
+ <br>Cargo : chofer
+ <br>Direccion : copello 1756 jose c paz
+ <br>Ciudad : jose c paz
+ <br>Telefono : 02320468706  1168562460
+ <br>Email : rosalin.alberto.horacio@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : deseo este trabajo
+ <br>Security_code : 9xj8m
+ <br>Send : Enviar
+ <br>
+---------------
+

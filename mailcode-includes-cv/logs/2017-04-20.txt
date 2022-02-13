@@ -1,0 +1,99 @@
+Address : 181.30.62.74<br>
+ <br>REF : ROT-1
+ <br>Nombre : MAXIMILIANO
+ <br>Apellido : PUCCIO
+ <br>Cargo : RESPONSABLE DE OFICINA TECNICA
+ <br>Direccion : URQIOZA 651
+ <br>Ciudad : RAMOS MEJIA
+ <br>Telefono : 1156698379
+ <br>Email : maximilianopuccio@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimado,
+Buen dia, adjunto mi cv para el puesto de Referencia : ROT-1.
+
+Gracias.
+ <br>Security_code : ncbny
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.7<br>
+ <br>REF : chr
+ <br>Nombre : Maximiliano del valle 
+ <br>Apellido : Espeche
+ <br>Cargo : Chofer
+ <br>Direccion : José Bonifacio 2861
+ <br>Ciudad : Capital federal
+ <br>Telefono : 1568645659
+ <br>Email : Maximilianoespeche@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Quisiera tomar el puesto de chófer.
+En los horarios ..Hasta las 17hr.
+Nocturno a partir de las 21.
+ <br>Security_code : Jrvmf
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 200.45.219.182<br>
+ <br>Nombre : Camila
+ <br>Apellido : Errea
+ <br>Cargo : Diseño Gráfico
+ <br>Direccion : Av. del Puerto 530
+ <br>Ciudad : Tigre, BsAs
+ <br>Telefono : 48713423
+ <br>Email : mani.errea@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Busco trabajo part time
+ <br>Security_code : tmt8s
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.143.135.73<br>
+ <br>REF : ROT-1
+ <br>Nombre : Claudio 
+ <br>Apellido : Matko
+ <br>Cargo : Jefe
+ <br>Direccion : Jaramillo 3311
+ <br>Ciudad : CABA
+ <br>Telefono : 1536801988
+ <br>Email : matko.claudio@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Adjunto mis Referencias por propuestas laborales.
+ <br>Security_code : k8qjr
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.92.97.215<br>
+ <br>Nombre : Maria Victoria 
+ <br>Apellido : Ruberto
+ <br>Cargo : Legales
+ <br>Direccion : Avenida Avellaneda 2830
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 47447580
+ <br>Email : victoriaruberto@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Mi nombre es María Victoria, tengo 23 años. Soy una persona activa, respetuosa, sociable, con fácil interacción con la gente, soy responsable y dinámica. Tengo muchas de aprender y poder desarrollar mis capacidades, adquirir experiencia, así como también busco un ambiente de trabajo respetuoso, donde el respeto sea mutuo y así poder aprender con mayor facilidad.
+ <br>Security_code : j26nh
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 179.38.175.38<br>
+ <br>REF : chr
+ <br>Nombre : CHRISTIAN
+ <br>Apellido : ELETA
+ <br>Cargo : CHOFER
+ <br>Direccion : Vergara 3107
+ <br>Ciudad : Berazategui
+ <br>Telefono : 1163361129
+ <br>Email : eletachris@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : registro cargas generales en vigencia libreta sanitaria en vigencia
+ <br>Security_code : 967pk
+ <br>Send : Enviar
+ <br>
+---------------
+

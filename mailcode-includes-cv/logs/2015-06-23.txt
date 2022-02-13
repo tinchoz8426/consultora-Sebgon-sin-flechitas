@@ -1,0 +1,170 @@
+Address : 190.231.37.121
+Nombre : Gabriela
+Apellido : Alegre
+Cargo : Atencion al publico
+Direccion : Dorrego 849
+Ciudad : Victoria Entre Rios
+Telefono : 03436421587
+Email : gabilaalegria@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto curriculum. quisiera poder acceder a un puesto de trabajo, ya que en la actualidad me encuentro desempleada y necesito trabajar..
+Security_code : 24cxf
+Send : Enviar
+
+---------------
+
+Address : 181.23.43.103
+Nombre : facundo juan eduardo
+Apellido : Godoy
+Cargo : operario maquinista
+Direccion : las hortencias 100 merlo
+Ciudad : merlo
+Telefono : 11-3266-7813   (0220)498-6297
+Email : facu-30@hotmail.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Me postulo a cualquier oferta laboral dentro de zona oeste
+Security_code : r24gh
+Send : Enviar
+
+---------------
+
+Address : 200.125.82.233
+Nombre : Lucas Pedro
+Apellido : Mosso Bancalari
+Cargo : Ingeniero Químico
+Direccion : Vidt 2016
+Ciudad : Buenos Aires
+Telefono : 1131639363
+Email : lucasmossobancalari@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me pongo en contacto para hacer llegar mi curriculum vitae  para que se me considere al surgir una vacante como ingeniero químico.
+Con mi formación académica y el entusiasmo  de  haber concluído mis estudios, estoy seguro que podré asumir con responsabilidad los retos y metas que  me planteen.
+Me considero una persona responsable, con aspiraciones y deseos de superación. Adaptable al cambio. Con perfil dinámico y metódico.
+Quedo a disposición para acordar una entrevista y comentar en profundidad mi formación. Pueden localizarme al  siguiente número telefónico: celular (54) 1131639363, o a mi correo electrónico lucasmossobancalari@hotmail.com.
+Saludo atentamente,
+Lucas Mosso Bancalari
+
+Security_code : rbgtv
+Send : Enviar
+
+---------------
+
+Address : 186.182.119.82
+Nombre : CARLOS
+Apellido : VIRREIRA
+Cargo : WEBMASTER
+Direccion : BAYARDI 2536 3 C
+Ciudad : CASTELAR
+Telefono : 52944035
+Email : CHV@CTN.COM.AR
+MAX_FILE_SIZE : 2097152
+Mensaje : ESTOY PROBANDO ADJUNTAR PDF
+Security_code : r5cw7
+Send : Enviar
+
+---------------
+
+Address : 186.182.119.82
+Nombre : CARLOS
+Apellido : VIRREIRA
+Cargo : WEBMASTER
+Direccion : BAYARDI 2536 3 C
+Ciudad : CASTELAR
+Telefono : 52944035
+Email : CHV@CTN.COM.AR
+MAX_FILE_SIZE : 2097152
+Mensaje : ESTOY PROBANDO ADJUNTAR PDF
+Security_code : r5cw7
+Send : Enviar
+
+---------------
+
+Address : 186.182.119.82
+Nombre : CARLOS
+Apellido : VIRREIRA
+Cargo : WEBMASTER
+Direccion : BAYARDI 2536 3 C
+Ciudad : CASTELAR
+Telefono : 52944035
+Email : CHV@CTN.COM.AR
+MAX_FILE_SIZE : 2097152
+Mensaje : ESTOY PROBANDO ADJUNTAR PDF
+Security_code : cm4x5
+Send : Enviar
+
+---------------
+
+Address : 186.182.119.82
+Nombre : CARLOS
+Apellido : VIRREIRA
+Cargo : WEBMASTER
+Direccion : BAYARDI 2536 3 C
+Ciudad : CASTELAR
+Telefono : 52944035
+Email : CHV@CTN.COM.AR
+MAX_FILE_SIZE : 2097152
+Mensaje : ESTOY PROBANDO ADJUNTAR PDF
+Security_code : 7thzh
+Send : Enviar
+
+---------------
+
+Address : 186.182.119.82
+Nombre : CARLOS
+Apellido : VIRREIRA
+Cargo : WEBMASTER
+Direccion : BAYARDI 2536 3 C
+Ciudad : CASTELAR
+Telefono : 52944035
+Email : CHV@CTN.COM.AR
+MAX_FILE_SIZE : 2097152
+Mensaje : ESTOY PROBANDO ADJUNTAR PDF
+Security_code : d9d7q
+Send : Enviar
+
+---------------
+
+Address : 186.138.230.135
+Nombre : FRE
+Apellido : FFVFV
+Cargo : VVV
+Direccion : RVRVR
+Ciudad : TGTGTGTG
+Telefono : 444445556FGGG
+Email : andrea@consultorasebgon.com
+Mensaje : GIKNRTBML{KTNMB{LKTMBLTKBMV
+Security_code : fxf9c
+Send : Enviar
+
+---------------
+
+Address : 186.182.119.82
+Nombre : CARLOS
+Apellido : VIRREIRA
+Cargo : WEBMASTER
+Direccion : BAYARDI 2536 3 C
+Ciudad : CASTELAR
+Telefono : 52944035
+Email : CHV@CTN.COM.AR
+MAX_FILE_SIZE : 2097152
+Mensaje : PRUEBA HOTELES.PDF
+Security_code : nq5ns
+Send : Enviar
+
+---------------
+
+Address : 186.138.230.135
+Nombre : kgkg
+Apellido : gkgl
+Cargo : khvkl
+Direccion : hgfkfikyfdok
+Ciudad : kfckfkug
+Telefono : 5667878989
+Email : tambascio@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : kgfogpihyop
+Security_code : vg9cw
+Send : Enviar
+
+---------------
+

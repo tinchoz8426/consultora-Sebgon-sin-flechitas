@@ -1,0 +1,32 @@
+Address : 200.127.141.118
+Nombre : Juan Emilio
+Apellido : Villarreal
+Cargo : Empleado
+Direccion : General Nazar 1232
+Ciudad : Aldo Bonzi
+Telefono : 44422180
+Email : juany.villarreal@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Seguir creciendo en el ambito laboral. 
+Security_code : 5c9by
+Send : Enviar
+
+---------------
+
+Address : 190.177.202.171
+Nombre : Roxana Magdalena
+Apellido : Roa Alegre
+Cargo : atencion al publico
+Direccion : lanza 2547
+Ciudad : capital federal
+Telefono : 49198117
+Email : roxana_roa@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : me postulo : cajera 
+vendedora
+atencion al cliente.
+Security_code : sfx5g
+Send : Enviar
+
+---------------
+

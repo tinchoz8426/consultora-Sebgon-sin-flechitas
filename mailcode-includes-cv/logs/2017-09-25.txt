@@ -1,0 +1,205 @@
+Address : 186.141.136.94<br>
+ <br>REF : chr
+ <br>Nombre : Nazareno 
+ <br>Apellido : Carrizo
+ <br>Cargo : Chofer
+ <br>Direccion : M segurola 
+ <br>Ciudad : Buenos aires
+ <br>Telefono : 1535639626
+ <br>Email : Nazarenocarrizo58@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estoy en busca de trabajo estable 
+ <br>Security_code : Skgwf
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.190.64.231<br>
+ <br>REF : JPER-1
+ <br>Nombre : Alfredo
+ <br>Apellido : Caramuti
+ <br>Cargo : Jefe RRHH
+ <br>Direccion : dorrego 3130
+ <br>Ciudad : Olivos
+ <br>Telefono : 1540512024
+ <br>Email : caramuti@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimado Selector
+ <br>Security_code : bbs4s
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.119.78.12<br>
+ <br>REF : chr
+ <br>Nombre : Jonathan Maximiliano
+ <br>Apellido : Villalba
+ <br>Cargo : Chofer
+ <br>Direccion : Calle 900 casa 47 sector g
+ <br>Ciudad : Ciudad evita
+ <br>Telefono : 15 5262 9729
+ <br>Email : jonathanmvillalba@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me postulo para el puesto de chofer
+ <br>Security_code : 8r72b
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.119.78.12<br>
+ <br>Nombre : Jonathan Maximiliano
+ <br>Apellido : Villalba
+ <br>Cargo : Chofer
+ <br>Direccion : Calle 900 casa 47 sector g
+ <br>Ciudad : Ciudad evita
+ <br>Telefono : 15 5262 9729
+ <br>Email : jonathanmvillalba@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Solicito me tengan en cuenta
+ <br>Security_code : Oqhvw
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.119.78.12<br>
+ <br>Nombre : Jonathan Maximiliano
+ <br>Apellido : Villalba
+ <br>Cargo : Chofer
+ <br>Direccion : Calle 900 casa 47 sector g
+ <br>Ciudad : Ciudad evita
+ <br>Telefono : 15 5262 9729
+ <br>Email : jonathanmvillalba@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Solicito me tengan en cuenta
+ <br>Security_code : Pqhvw
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.47.187.102<br>
+ <br>REF : chr
+ <br>Nombre : braulio ramon 
+ <br>Apellido : dominguez ayala
+ <br>Cargo : chofer 
+ <br>Direccion : san martin 2420
+ <br>Ciudad : Quilmes
+ <br>Telefono : 1161352920 
+ <br>Email : braulio.ayala2372@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : me interesa el puesto de chofer de reparto
+ <br>Security_code : hjdyh
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.28.1.128<br>
+ <br>Nombre : Cecilia 
+ <br>Apellido : Sal
+ <br>Cargo : ATENCION AL CLIENTE/CAJERA/RECEPCIONISTA ENTRE OTRAS
+ <br>Direccion : NICOLAS AVELLANEDA 1478
+ <br>Ciudad : CASTELAR
+ <br>Telefono : 1153274537
+ <br>Email : ceverosal@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : envio mi curriculum vitae, tengo disponibilidad horaria y experiencia en diferetes rubros y empresas.
+atte, cecilia sal.
+ <br>Security_code : hjydj
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.139.19.13<br>
+ <br>REF : JPER-1
+ <br>Nombre : Gerson
+ <br>Apellido : Vega
+ <br>Cargo : Jefe de personal
+ <br>Direccion : Calle chile, 1436
+ <br>Ciudad : Capital Federal
+ <br>Telefono : 1116543229
+ <br>Email : gergo19_87@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Con disponibilidad de cambiar de domicilio, si se requiere
+ <br>Security_code : 2gtkx
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.139.19.13<br>
+ <br>REF : JPER-1
+ <br>Nombre : Gerson
+ <br>Apellido : Vega
+ <br>Cargo : Jefe de personal
+ <br>Direccion : Calle chile, 1436
+ <br>Ciudad : Capital Federal
+ <br>Telefono : 1116543229
+ <br>Email : gergo19_87@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Con disponibilidad de cambiar de domicilio, si se requiere
+ <br>Security_code : 2gtkx
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.139.19.13<br>
+ <br>REF : JPER-1
+ <br>Nombre : Gerson
+ <br>Apellido : Vega
+ <br>Cargo : Jefe de personal
+ <br>Direccion : Calle chile, 1436
+ <br>Ciudad : Capital Federal
+ <br>Telefono : 1116543229
+ <br>Email : gergo19_87@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Con disponibilidad de cambiar de domicilio, si se requiere
+ <br>Security_code : 2gtKx
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.139.19.13<br>
+ <br>REF : JPER-1
+ <br>Nombre : Gerson
+ <br>Apellido : Vega
+ <br>Cargo : Jefe de personal
+ <br>Direccion : Calle chile, 1436
+ <br>Ciudad : Capital Federal
+ <br>Telefono : 1116543229
+ <br>Email : gergo19_87@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Con disponibilidad de cambiar de domicilio, si se requiere
+ <br>Security_code : KgKr3
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.139.19.13<br>
+ <br>REF : JPER-1
+ <br>Nombre : Gerson
+ <br>Apellido : Vega
+ <br>Cargo : Jefe de personal
+ <br>Direccion : Calle chile, 1436
+ <br>Ciudad : Capital Federal
+ <br>Telefono : 1116543229
+ <br>Email : gergo19_87@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Con disponibilidad de cambiar de domicilio, si se requiere
+ <br>Security_code : 2z8xm
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.139.19.13<br>
+ <br>Nombre : Gerson
+ <br>Apellido : Vega
+ <br>Cargo : Jefe de personal
+ <br>Direccion : Calle chile, 1436
+ <br>Ciudad : Capital Federal
+ <br>Telefono : 1116543229
+ <br>Email : gergo19_87@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Con disponibilidad de cambiar de residencia, si se requiere
+ <br>Security_code : 79zwn
+ <br>Send : Enviar
+ <br>
+---------------
+

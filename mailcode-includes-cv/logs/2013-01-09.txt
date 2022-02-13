@@ -1,0 +1,36 @@
+Address : 200.115.224.222
+Nombre : Rocio
+Apellido : Saldivia
+Cargo : Administrativos, RRHH Junior/ Recepcion
+Direccion : Moldes 2220, Belgrano
+Ciudad : CABA
+Telefono : 011- 1565615444
+Email : roci_ras@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : 
+Obtener un puesto de trabajo en el cual pueda contribuir, con mi experiencia laboral, habilidades y desempeño,  en el logro de las metas generales de la empresa. 
+
+Security_code : 2yzg5
+Send : Enviar
+
+---------------
+
+Address : 190.17.195.97
+Nombre : Michelle
+Apellido : Tirel
+Cargo : Diseño Gráfico
+Direccion : Boyaca 1530
+Ciudad : C.A.B.A.
+Telefono : 1136309929
+Email : mtirel@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimado/a :
+                Mi nombre es Michelle Tirel, tengo 23 años y soy estudiante avanzada de la carrera de Diseño Gráfico en la UBA.
+Les envío mi CV ya que me gustaría que lo tengan en cuenta para una futura búsqueda laboral acorde a mi perfil.
+Desde ya muchas gracias.
+Atte.
+Security_code : ztrkg
+Send : Enviar
+
+---------------
+

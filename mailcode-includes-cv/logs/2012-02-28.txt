@@ -1,0 +1,62 @@
+Address : 200.117.96.220
+Nombre : Marcela Cristina
+Apellido : Cesareo
+Cargo : Consultora Psicologica
+Direccion : Sargento Cabral 1721
+Ciudad : Buenos Aires
+Telefono : 4751.7768
+Email : marce.cesareo@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Envio mi cv a los efectos de ser considerado en sus busquedas desde ya muchas Gracias  Clr. Marcela Cesareo
+Security_code : k2hdg
+Send : Enviar
+
+---------------
+
+Address : 190.245.133.153
+Nombre : Luis David
+Apellido : MARQUEZ RUARTE
+Cargo : Auditor de Sistemas
+Direccion : Arenales 1166
+Ciudad : Ciudad Autónoma de Buenos Aires
+Telefono : (011) 1564969712
+Email : ldmarquez@fibertel.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Estoy disponible para una incorporación inmediata.
+En la espera de una entrevista en la cual convenir mi remuneración, me despido de Uds. muy atentamente.
+
+Security_code : 69m8h
+Send : Enviar
+
+---------------
+
+Address : 201.213.247.76
+Nombre : Juan Marcelo
+Apellido : Achaval
+Cargo : oficial
+Direccion : Catalanes 4165
+Ciudad : cordoba
+Telefono : 157654856
+Email : juanachaval@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : quiero crecer con la empresa y viestar a mi familia
+Security_code : qw5yd
+Send : Enviar
+
+---------------
+
+Address : 186.135.7.125
+Nombre : Pablo Angel
+Apellido : Juárez
+Cargo : operario
+Direccion : Cuba 2232
+Ciudad : Libertad
+Telefono : 1166059193
+Email : pabloempleo@hotmail.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Busco trabajo como operario en zona oeste del gran bs.as. Tengo estudios secundarios completos y estoy terminando un curso de soldadura eléctrica. y mig. Además soy instructor de musculación y personal trainer. 
+Security_code : g6c4h
+Send : Enviar
+
+---------------
+

@@ -1,0 +1,24 @@
+Address : 181.2.166.16
+REF : jefe-de-operaciones
+Nombre : mariela alejandra
+Apellido : gomez
+Cargo : vendedora,atencion al publico
+Direccion : rio gallegos 747
+Ciudad : monte grande
+Telefono : 1564689239
+Email : ale_mariel19@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me pongo en contacto con ustedes para ofrecerle mi currículum con mis datos personales, profesionales y otros datos de interés. 
+. Pueden ustedes ponerse en contacto conmigo mediante mi móvil (1564689239). Espero recibir pronto noticias suyas, mediante una entrevista personal. 
+
+Estoy a su entera disposición, esperando sus noticias. 
+
+Un cordial saludo. 
+
+
+FDO.: Mariela Gomez
+Security_code : n3qbc
+Send : Enviar
+
+---------------
+

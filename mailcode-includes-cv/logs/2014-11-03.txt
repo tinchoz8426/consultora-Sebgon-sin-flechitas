@@ -1,0 +1,176 @@
+Address : 201.253.83.169
+Nombre : Juan Ignacio
+Apellido : Gonzalez Masriera
+Cargo : Administrativo
+Direccion : Billinghurst 1720
+Ciudad : CABA
+Telefono : 1541650792
+Email : juan_gm5@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto mi CV con el fin de estar en la base de datos.
+Security_code : 69dff
+Send : Enviar
+
+---------------
+
+Address : 190.225.155.146
+REF : GERENTE-DE-PRODUCCION
+Nombre : Eduardo
+Apellido : Aiassa
+Cargo : gerente de producción
+Direccion : Navarro 3546
+Ciudad : Cap. Fed
+Telefono : 15-5737-8680
+Email : eduardo.aiassa@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados Señores,
+Durante los últimos 17 años me he desempeñado como Gerente de Planta en la industria. Tengo una fuerte experiencia en la gestión integral de unidades de negocio, coordinando grandes grupos de trabajo sindicalizados. Dentro de los cuales destaco producción, programación y control de la producción, calidad, proyectos y mantenimiento. Las fortalezas las destaco en accionamiento sobre costos, utilización de herramientas de calidad, cambio cultural y cumplimiento de objetivos de rentabilidad. Asimismo poseo experiencia internacional de 20 años en empresas como Goodyear y Culligan.
+ 
+Soy ingeniero, avanzado en inglés, fluído en portugués, cuento con más de quince años de experiencia como Gerente en la industria, y 20 en industrias multinacionales líderes. 
+
+Estoy disponible para reunirme con Uds. a su entera conveniencia para discutir mi background.
+Cordialmente,
+ 
+Ing. EDUARDO F. AIASSA
+(011) 15-5737-8680
+eduardo.aiassa@gmail.com
+
+Security_code : 2xb35
+Send : Enviar
+
+---------------
+
+Address : 190.225.155.146
+REF : GERENTE-DE-PRODUCCION
+Nombre : Eduardo
+Apellido : Aiassa
+Cargo : gerente de producción
+Direccion : Navarro 3546
+Ciudad : Cap. Fed
+Telefono : 15-5737-8680
+Email : eduardo.aiassa@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados Señores,
+Durante los últimos 17 años me he desempeñado como Gerente de Planta en la industria. Tengo una fuerte experiencia en la gestión integral de unidades de negocio, coordinando grandes grupos de trabajo sindicalizados. Dentro de los cuales destaco producción, programación y control de la producción, calidad, proyectos y mantenimiento. Las fortalezas las destaco en accionamiento sobre costos, utilización de herramientas de calidad, cambio cultural y cumplimiento de objetivos de rentabilidad. Asimismo poseo experiencia internacional de 20 años en empresas como Goodyear y Culligan.
+ 
+Soy ingeniero, avanzado en inglés, fluído en portugués, cuento con más de quince años de experiencia como Gerente en la industria, y 20 en industrias multinacionales líderes. 
+
+Estoy disponible para reunirme con Uds. a su entera conveniencia para discutir mi background.
+Cordialmente,
+ 
+Ing. EDUARDO F. AIASSA
+(011) 15-5737-8680
+eduardo.aiassa@gmail.com
+
+Security_code : 2xb35
+Send : Enviar
+
+---------------
+
+Address : 190.225.155.146
+REF : GERENTE-DE-PRODUCCION
+Nombre : Eduardo
+Apellido : Aiassa
+Cargo : gerente de producción
+Direccion : Navarro 3546
+Ciudad : Cap. Fed
+Telefono : 15-5737-8680
+Email : eduardo.aiassa@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados Señores,
+Durante los últimos 17 años me he desempeñado como Gerente de Planta en la industria. Tengo una fuerte experiencia en la gestión integral de unidades de negocio, coordinando grandes grupos de trabajo sindicalizados. Dentro de los cuales destaco producción, programación y control de la producción, calidad, proyectos y mantenimiento. Las fortalezas las destaco en accionamiento sobre costos, utilización de herramientas de calidad, cambio cultural y cumplimiento de objetivos de rentabilidad. Asimismo poseo experiencia internacional de 20 años en empresas como Goodyear y Culligan.
+ 
+Soy ingeniero, avanzado en inglés, fluído en portugués, cuento con más de quince años de experiencia como Gerente en la industria, y 20 en industrias multinacionales líderes. 
+
+Estoy disponible para reunirme con Uds. a su entera conveniencia para discutir mi background.
+Cordialmente,
+ 
+Ing. EDUARDO F. AIASSA
+(011) 15-5737-8680
+eduardo.aiassa@gmail.com
+
+Security_code : 5mm4s
+Send : Enviar
+
+---------------
+
+Address : 190.2.123.113
+Nombre : Adriana
+Apellido : Gomezfaure
+Cargo : Nutricionista
+Direccion : 25 de Mayo 250
+Ciudad : Salta Capital
+Telefono : 387-4203336
+Email : adrigomezfaure@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola buenas tardes! Les envío mi Cv porque estoy buscando trabajo hace tiempo. Soy licenciada en Nutrición. Vivo en Salta capital. Me operaron de las caderas y tengo dificultades para caminar. Poseo certificado de discapacidad. Y como su consultora figura como una de las cuales uno puede recurrir en un caso como el mio, es que les estoy enviando este mail. 
+Cualquier ayuda sera muy bien recibida....
+Muchisimas gracias!!!!
+Lic Adriana Gomez Faure
+
+P.D.: Adjunto mi cv
+Security_code : cv65y
+Send : Enviar
+
+---------------
+
+Address : 190.173.51.52
+Nombre : LUIS JAVIER
+Apellido : CACERES
+Cargo : TECNICO MECANICO / CHOFER 
+Direccion : CALLE 850 Nº 945
+Ciudad : QUILMES 
+Telefono : 42806476    CEL 1131903352
+Email : JAVIERCACERES827@YAHOO.COM.AR
+MAX_FILE_SIZE : 2097152
+Mensaje : HOLA ME DIRIJO A QUIEN CORRESPONDA ;ME POSTULO PARA EL AREA DE MANTENIMIENTO O CHOFER 
+Security_code : 2mj25
+Send : Enviar
+
+---------------
+
+Address : 186.23.167.132
+Nombre : Natalin
+Apellido : colli
+Cargo : Junior- Seleccion de Personal
+Direccion : Pergamino N° 9 
+Ciudad : avellaneda
+Telefono : 1556105161
+Email : natalin.colli@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Envio mi Curriculum Vitae para ser tenido en cuenta en sus busquedas.
+Security_code : 78qxh
+Send : Enviar
+
+---------------
+
+Address : 181.228.208.153
+Nombre : Hector Damian
+Apellido : Benitez
+Cargo : Tecnico 
+Direccion : Pumacahua 868
+Ciudad : Capita Federal
+Telefono : 111569728129
+Email : damianbenitez0@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenas noches, envío mi cv ante cualquier puesto de trabajo que soliciten, desde ya muchas gracias.
+Security_code : 6byd8
+Send : Enviar
+
+---------------
+
+Address : 201.254.56.115
+Nombre : Maria Florencia
+Apellido : Simone
+Cargo : Administrativa, cajera, Instrumentadora, secretaria, etc
+Direccion : Av. General Paz 13069  depto: 5
+Ciudad : Buenos Aires
+Telefono : 011445484564
+Email : simoneflorencia@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Desde ya se agradece el tiempo de leer mi CV, esperando ser del perfil buscado
+Security_code : pf3h9
+Send : Enviar
+
+---------------
+

@@ -1,0 +1,199 @@
+Address : 181.90.1.128<br>
+ <br>REF : EP-1
+ <br>Nombre : Javier Ernesto
+ <br>Apellido : Sayous
+ <br>Cargo : Encargado de produccion
+ <br>Direccion : Maturin 2365
+ <br>Ciudad : C.A.B.A
+ <br>Telefono : 1535979428
+ <br>Email : javier_1962@hotmail.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Tengo basta experiencia en la industria alimenticia no solo en la parte de producción si no también la implementación de sistemas de calidad para certificación de plantas
+ <br>Security_code : syxz6
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.59.2.119<br>
+ <br>Nombre : Carolina
+ <br>Apellido : Ruiz Diaz
+ <br>Cargo : Recepción 
+ <br>Direccion : Silva
+ <br>Ciudad : LLAVALLOL (CP=1836)
+ <br>Telefono : 1149744547
+ <br>Email : ca-le-ca@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hoy soy lo que estan buscando para cubrir puesto de trabajo. 
+ <br>Security_code : Vwy3f
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.59.2.119<br>
+ <br>Nombre : Carolina
+ <br>Apellido : Ruiz Diaz
+ <br>Cargo : Recepción 
+ <br>Direccion : Silva
+ <br>Ciudad : LLAVALLOL (CP=1836)
+ <br>Telefono : 1149744547
+ <br>Email : ca-le-ca@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hoy soy lo que estan buscando para cubrir puesto de trabajo. 
+ <br>Security_code : Vwy3f
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.59.2.119<br>
+ <br>Nombre : Carolina
+ <br>Apellido : Ruiz Diaz
+ <br>Cargo : Recepción 
+ <br>Direccion : Silva
+ <br>Ciudad : LLAVALLOL (CP=1836)
+ <br>Telefono : 1149744547
+ <br>Email : ca-le-ca@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hoy soy lo que estan buscando para cubrir puesto de trabajo. 
+ <br>Security_code : vwy3f
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.59.2.119<br>
+ <br>Nombre : Carolina
+ <br>Apellido : Ruiz Diaz
+ <br>Cargo : Recepción 
+ <br>Direccion : Silva
+ <br>Ciudad : LLAVALLOL (CP=1836)
+ <br>Telefono : 1149744547
+ <br>Email : ca-le-ca@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Soy lo que estan buscando para cubrir puesto de trabajo. 
+ <br>Security_code : vjjd6
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.59.2.119<br>
+ <br>Nombre : Carolina
+ <br>Apellido : Ruiz Diaz
+ <br>Cargo : Recepción 
+ <br>Direccion : Silva
+ <br>Ciudad : LLAVALLOL (CP=1836)
+ <br>Telefono : 1149744547
+ <br>Email : ca-le-ca@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Soy lo que estan buscando para cubrir puesto de trabajo. 
+ <br>Security_code : VR8zm
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.59.2.119<br>
+ <br>Nombre : Carolina
+ <br>Apellido : Ruiz Diaz
+ <br>Cargo : Recepción 
+ <br>Direccion : Silva
+ <br>Ciudad : LLAVALLOL (CP=1836)
+ <br>Telefono : 1149744547
+ <br>Email : ca-le-ca@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Soy lo que estan buscando para cubrir puesto de trabajo. 
+ <br>Security_code : f438n
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.7<br>
+ <br>REF : TEC. EL
+ <br>Nombre : martin hugo
+ <br>Apellido : almiron
+ <br>Cargo : Tec.el
+ <br>Direccion : de la peña 147
+ <br>Ciudad : A
+ <br>Telefono : 1523491100
+ <br>Email : martinalmironsae@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Adjunto cv para puesto requerido
+ <br>Security_code : 33d2p
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.47.73.115<br>
+ <br>REF : TEC. EL
+ <br>Nombre : Pablo Andrés
+ <br>Apellido : Quiroga Espinosa
+ <br>Cargo : técnico electrónico especializado
+ <br>Direccion : 689
+ <br>Ciudad : Caballito
+ <br>Telefono : +541167472714
+ <br>Email : quirogaespinosa@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Tengo el agrado de dirigirme a UD. a fin de presentarle mi currículo para cubrir alguna vacante que se pudiera producir.
+
+Mis pretensiones son mínimas. Trabajar mientras rindo la carrera descrita en mi currículo. Estoy dispuesto a realizar cualquier tipo de tarea que se me encomiende.
+
+Además poseo muy buenos conocimientos en el área informática y administrativa.
+
+Quedo a su disposición para rendir las pruebas de suficiencia que estime necesarias.
+ <br>Security_code : vk9rn
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.47.73.115<br>
+ <br>REF : TEC. EL
+ <br>Nombre : Pablo Andrés
+ <br>Apellido : Quiroga Espinosa
+ <br>Cargo : técnico electrónico especializado
+ <br>Direccion : 689
+ <br>Ciudad : Caballito
+ <br>Telefono : +541167472714
+ <br>Email : quirogaespinosa@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Tengo el agrado de dirigirme a UD. a fin de presentarle mi currículo para cubrir alguna vacante que se pudiera producir.
+
+Mis pretensiones son mínimas. Trabajar mientras rindo la carrera descrita en mi currículo. Estoy dispuesto a realizar cualquier tipo de tarea que se me encomiende.
+
+Además poseo muy buenos conocimientos en el área informática y administrativa.
+
+Quedo a su disposición para rendir las pruebas de suficiencia que estime necesarias.
+ <br>Security_code : d89qb
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.194.217.178<br>
+ <br>REF : ROT-1
+ <br>Nombre : Carlos
+ <br>Apellido : Ruiz
+ <br>Cargo : Responsable Oficina Técnica
+ <br>Direccion : Av Las Heras 2370 1 G, Av Las Heras 2370 1 G
+ <br>Ciudad : Capital Federal
+ <br>Telefono : 0379154226474
+ <br>Email : carlos.ruiz.08.92@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Ingeniero Mecánico recientemente graduado de la UTN FRBA.
+ <br>Security_code : 5r6ym
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.178.98.82<br>
+ <br>REF : EM
+ <br>Nombre : Yohnny Wilson
+ <br>Apellido : Prego Dorse
+ <br>Cargo : Electromecanico
+ <br>Direccion : Ramón Bravo 1072
+ <br>Ciudad : Claypole
+ <br>Telefono : 1127405021
+ <br>Email : yohnnydorse@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buena noches:
+              A quien corresponda, me dirijo a Uds. Por motivo de la solicitud de empleo que publicaron, para el cargo de Electromecanico, me interesa, desde ya a las ordenes gracias
+ <br>Security_code : c7ntr
+ <br>Send : Enviar
+ <br>
+---------------
+

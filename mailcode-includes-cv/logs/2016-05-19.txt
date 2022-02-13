@@ -1,0 +1,94 @@
+Address : 186.56.163.64<br>
+ <br>Nombre : Rodrigo Manuel
+ <br>Apellido : Viegas
+ <br>Cargo : RRHH
+ <br>Direccion : centenario 977
+ <br>Ciudad : San Antonio de Padua
+ <br>Telefono : 1121931459
+ <br>Email : ro.roo12@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje :  
+ <br>Security_code : mdj59
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.247.160.138<br>
+ <br>Nombre : Julia
+ <br>Apellido : Aguiar
+ <br>Cargo : abogada
+ <br>Direccion : 43 582
+ <br>Ciudad : La Plata
+ <br>Telefono : 2215043974
+ <br>Email : aguiar.julia@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me dirijo a Ud con el fin de enviarles mi CV y que pueda estar a disposición de quien esté interesado. Desde ya, muchas gracias.
+
+Saludos cordiales,
+
+Julia Aguiar.
+ <br>Security_code : by42d
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.210.79.159<br>
+ <br>Nombre : MARLYN
+ <br>Apellido : BARANENKO
+ <br>Cargo : RECURSOS HUMANOS
+ <br>Direccion : VENEZUELA
+ <br>Ciudad : VALENCIA
+ <br>Telefono : 04244969711
+ <br>Email : MARLYNDBA@GMAIL.COM
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : MANEJO PERFECTAMENTE EL IDIOMA INGLES
+ <br>Security_code : vzjvp
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.22.197.187<br>
+ <br>Nombre : horacio
+ <br>Apellido : Bernigaud
+ <br>Cargo : cañista
+ <br>Direccion : calle 28 nª 3124
+ <br>Ciudad : berazategui bs. as.
+ <br>Telefono : 1533346013
+ <br>Email : bernigaudhoracio@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : les envio c.v.
+ <br>Security_code : 8y437
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.39.198.247<br>
+ <br>Nombre : Gabriel
+ <br>Apellido : Alfonso
+ <br>Cargo : tecnico
+ <br>Direccion : irigoyen 47
+ <br>Ciudad : san juan
+ <br>Telefono : 2645465743
+ <br>Email : gabyalfo1@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : búsqueda de empleo
+ <br>Security_code : 4knz
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.138.245.2<br>
+ <br>Nombre : walter ramon
+ <br>Apellido : ojeda
+ <br>Cargo : operario
+ <br>Direccion : paderewski 3302
+ <br>Ciudad : hurlingha buenos aires
+ <br>Telefono : 1151497859
+ <br>Email : walterojeda34@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje :  
+ <br>Security_code : 26q6x
+ <br>Send : Enviar
+ <br>
+---------------
+

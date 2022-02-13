@@ -1,0 +1,124 @@
+Address : 181.91.143.58<br>
+ <br>REF : ACO-1
+ <br>Nombre : Rodrigo Hernan 
+ <br>Apellido : Vera
+ <br>Cargo : ACO-1
+ <br>Direccion : Delgado 645
+ <br>Ciudad : Buenos Aires 
+ <br>Telefono : 3794096636
+ <br>Email : rodrigohernanvera@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me dirijo a ustedes con el fin de remitirles mi CV para ser considerado ante posibles futuros procesos de selección que puedan ajustarse a mi perfil.
+Cómo podrán observar en el CV adjunto, soy Técnico en Despacho Aduanero con Una Orientación al Comercio Internacional, además tengo un buen expediente académico y buen nivel de Inglés y Portugués. 
+Quedo a su disposición para cualquier información adicional que puedan necesitar. 
+Cordialmente 
+Rodrigo Vera 
+ <br>Security_code : m48fv
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.91.143.58<br>
+ <br>REF : ACO-1
+ <br>Nombre : Rodrigo Hernan 
+ <br>Apellido : Vera
+ <br>Cargo : ACO-1
+ <br>Direccion : Delgado 645
+ <br>Ciudad : Buenos Aires 
+ <br>Telefono : 3794096636
+ <br>Email : rodrigohernanvera@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me dirijo a ustedes con el fin de remitirles mi CV para ser considerado ante posibles futuros procesos de selección que puedan ajustarse a mi perfil.
+Cómo podrán observar en el CV adjunto, soy Técnico en Despacho Aduanero con Una Orientación al Comercio Internacional, además tengo un buen expediente académico y buen nivel de Inglés y Portugués. 
+Quedo a su disposición para cualquier información adicional que puedan necesitar. 
+Cordialmente 
+Rodrigo Vera 
+ <br>Security_code : fw533
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.125.227.111<br>
+ <br>REF : TE-1
+ <br>Nombre : antonio
+ <br>Apellido : garcia
+ <br>Cargo : tecnico electrico
+ <br>Direccion : av las heras 3874, caba.
+ <br>Ciudad : capital federal
+ <br>Telefono : 1557562434
+ <br>Email : garciaadj@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : profesional en el area de mantenimiento electrico y automatización con experiencia en el sector industrial, petroleo y Gas.
+ <br>Security_code : 49mx6
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.165.11.192<br>
+ <br>REF : TM-2
+ <br>Nombre : Rubén Alberto
+ <br>Apellido : Margni
+ <br>Cargo : Técnico mecánico
+ <br>Direccion : Coronel Salvadores 1166
+ <br>Ciudad : Caba
+ <br>Telefono : 1134741809/43011552
+ <br>Email : rubenmargni@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenos días,
+A continuación les envío mi CV.
+
+Muchas gracias
+Ruben
+ <br>Security_code : 82qtc
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.45.47.74<br>
+ <br>REF : TM-2
+ <br>Nombre : SEBASTIAN
+ <br>Apellido : PAOLONI
+ <br>Cargo : tecnico mantenimiento
+ <br>Direccion : LIBERTAD, 7444
+ <br>Ciudad : JOSE LEON SUAREZ
+ <br>Telefono : 1131667336
+ <br>Email : seba-funebrero@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : tecnico
+ <br>Security_code : 2swnn
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.45.47.74<br>
+ <br>REF : TM-2
+ <br>Nombre : SEBASTIAN
+ <br>Apellido : PAOLONI
+ <br>Cargo : tecnico mantenimiento
+ <br>Direccion : LIBERTAD, 7444
+ <br>Ciudad : JOSE LEON SUAREZ
+ <br>Telefono : 1131667336
+ <br>Email : seba-funebrero@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : tecnico
+ <br>Security_code : 2swnn
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.45.47.74<br>
+ <br>REF : TM-2
+ <br>Nombre : SEBASTIAN
+ <br>Apellido : PAOLONI
+ <br>Cargo : tecnico mantenimiento
+ <br>Direccion : LIBERTAD, 7444
+ <br>Ciudad : JOSE LEON SUAREZ
+ <br>Telefono : 1131667336
+ <br>Email : seba-funebrero@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : tecnico
+ <br>Security_code : 2swnn
+ <br>Send : Enviar
+ <br>
+---------------
+

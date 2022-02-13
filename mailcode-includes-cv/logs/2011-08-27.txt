@@ -1,0 +1,45 @@
+Address : 190.190.152.222
+Nombre : Carolina
+Apellido : Juszczyk
+Cargo : siglo 21 atencion en call center
+Direccion : martin garcia 442 9G
+Ciudad : Córdoba
+Telefono : 157545643
+Email : carolinajus@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Quisiera postularme para un puesto en el call center de la universidad siglo 21, no encontre el aviso en esta página, me entere que ustedes trabajan buscando empleados para ellos y por eso le envio mi curriculum. 
+Security_code : z99qp
+Send : Enviar
+
+---------------
+
+Address : 190.113.176.93
+Nombre : Claudio
+Apellido : Santarossa
+Cargo : Contador
+Direccion : San Juan 469
+Ciudad : Ciudad de Mendoza
+Telefono : 262715481063
+Email : claudiosantarossa@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Busco un trabajo donde se me permita crecer tanto profesional como personalmente.Soy Contador Publico Nacional egresado de la Universidad Nacional de Cuyo
+Security_code : q8b5v
+Send : Enviar
+
+---------------
+
+Address : 190.139.134.189
+Nombre : Luciana Angela
+Apellido : Ojeda
+Cargo : alimenticio
+Direccion : Cordoba 1056
+Ciudad : Villa Constitucion
+Telefono : 03400- 476325
+Email : luchi_205@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Incorporar mis conocimientos en las tareas que organiza su empresa.
+Security_code : n3rch
+Send : Enviar
+
+---------------
+

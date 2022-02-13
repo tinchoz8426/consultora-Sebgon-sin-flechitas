@@ -1,0 +1,39 @@
+Address : 186.129.7.187
+Nombre : Marcelo
+Apellido : Cestaro
+Cargo : Operario
+Direccion : Tuyuti 1525
+Ciudad : Tapiales
+Telefono : 4442 - 5359
+Email : marcelocestaro@hotmail.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Cursando segundo año de la tecnicatura higiene y seguridad industrial.
+Security_code : d8rfd
+Send : Enviar
+
+---------------
+
+Address : 200.125.122.34
+Nombre : Angeles
+Apellido : Segovia Tino
+Cargo : Recepcionista, Diseño Grafico
+Direccion : Av. Libertador 774
+Ciudad : Buenos Aires Capital Federal
+Telefono : 011 1566856520
+Email : tinoangeles@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenas tardes,
+
+Estoy buscando trabajo, ya sea en el areas de Diseño Grafico y Recepcionista/Administracion Quiero trabajar, aportar mi capacidad e inteligencia y que la empresa me de la oportunidad de poder desarrollarme y aprender.
+Con la convicción de poseer el perfil requerido para un muy buen desempeño en el cargo a cubrir, quedo a entera disposición para hacerle llegar, sea en una entrevista personal o por el medio que se me indique, las ampliaciones y/o la documentación probatoria correspondiente.
+ 
+Disponibilidad horaria: fulltime
+
+Desde ya muchas gracias, saludos cordiales.
+Ángeles, Segovia Tino
+
+Security_code : 3vy4g
+Send : Enviar
+
+---------------
+

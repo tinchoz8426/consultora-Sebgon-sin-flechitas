@@ -1,0 +1,166 @@
+Address : 190.16.178.191
+Nombre : EVELIN ANYELÉN
+Apellido : STAFUZA
+Cargo : atencion al cliente
+Direccion : cullen n° 2845
+Ciudad : esperanza
+Telefono : 03482-15634898
+Email : eve_vhs_09@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : mi objetivo es obtener un puesto de trabajo y juntar dinero para la universidad.
+Security_code : MXDXM
+Send : Enviar
+
+---------------
+
+Address : 190.16.178.191
+Nombre : EVELIN ANYELÉN
+Apellido : STAFUZA
+Cargo : atencion al cliente
+Direccion : cullen n° 2845
+Ciudad : esperanza
+Telefono : 03482-15634898
+Email : eve_vhs_09@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : mi objetivo es obtener un puesto de trabajo y juntar dinero para la universidad.
+Security_code : jcq3s
+Send : Enviar
+
+---------------
+
+Address : 190.113.143.131
+Nombre : Pedro
+Apellido : Vodanovich
+Cargo : ----
+Direccion : Martinez de Rosas 3298
+Ciudad : Mendoza
+Telefono : 261-4370281 /261-6417461
+Email : pivb@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje :  "Soy una persona en búsqueda permanente de superación y perfeccionamiento, con valores de compromiso, respeto e innovación. Mis fortalezas son la capacidad de análisis y las buenas relaciones humanas lo que me permite lograr buenos resultados en el trabajo en equipo...."
+
+Security_code : 45dm9
+Send : Enviar
+
+---------------
+
+Address : 181.168.217.48
+REF : GTE COM
+Nombre : Juan Ignacio
+Apellido : Garberi
+Cargo : Gerente Comercial
+Direccion : Rodriguez Peña 2168
+Ciudad : Mar del Plata
+Telefono : 0223 15 635 2671
+Email : juan.ignacio.garberi@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Envío en adjunto mi CV. Quedo a disposición para concertar una entrevista. Saludos cordiales,
+Security_code : 4j37k
+Send : Enviar
+
+---------------
+
+Address : 201.235.133.53
+Nombre : Nicolas
+Apellido : Cappiello
+Cargo : Arquitecto, director de obra
+Direccion : Juncal 4551
+Ciudad : CABA
+Telefono : 62111912
+Email : cappiellonico@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenos Días,
+
+Adjunto mi CV a fin de ser tenido en cuenta para futuras búsquedas en mi campo profesional.
+
+Saludos cordiales.
+
+
+Nicolás Cappiello
+Security_code : fqh58
+Send : Enviar
+
+---------------
+
+Address : 201.235.133.53
+Nombre : Nicolas
+Apellido : Cappiello
+Cargo : Arquitecto, director de obra
+Direccion : Juncal 4551
+Ciudad : CABA
+Telefono : 62111912
+Email : cappiellonico@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenos Días,
+
+Adjunto mi CV a fin de ser tenido en cuenta para futuras búsquedas en mi campo profesional.
+
+Saludos cordiales.
+
+
+Nicolás Cappiello
+Security_code : fqh58
+Send : Enviar
+
+---------------
+
+Address : 186.13.0.42
+Nombre : Diego
+Apellido : Quinteros
+Cargo : Dibujante
+Direccion : Alfonsina Storni 10741
+Ciudad : Moreno
+Telefono : 02374819147
+Email : quinterosdiego89@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : busco algún empleo como dibujante o cadista
+Security_code : vmc8f
+Send : Enviar
+
+---------------
+
+Address : 186.130.21.7
+Nombre : graciela
+Apellido : muñoz
+Cargo : administracion, preceptora
+Direccion : falucho 2056 oeste
+Ciudad : capital, san juan
+Telefono : 02644234100
+Email : grace_angeles@live.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Me pongo en contacto con ustedes para hacerle llegar mi currículum para postularme en algun trabajo como administrativa o algo similar.
+Security_code : 2tjjd
+Send : Enviar
+
+---------------
+
+Address : 186.130.21.7
+Nombre : graciela
+Apellido : muñoz
+Cargo : administracion, preceptora
+Direccion : falucho 2056 oeste
+Ciudad : capital, san juan
+Telefono : 02644234100
+Email : grace_angeles@live.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Me pongo en contacto con ustedes para hacerle llegar mi currículum para postularme en algun trabajo como administrativa o algo similar.
+Security_code : 2tjjd
+Send : Enviar
+
+---------------
+
+Address : 186.130.21.7
+Nombre : graciela
+Apellido : muñoz
+Cargo : administracion, preceptora
+Direccion : falucho 2056 oeste
+Ciudad : capital, san juan
+Telefono : 02644234100
+Email : grace_angeles@live.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Me pongo en contacto con ustedes para hacerle llegar mi currículum para postularme en algun trabajo como administrativa o algo similar.
+Security_code : 54cpk
+Send : Enviar
+
+---------------
+

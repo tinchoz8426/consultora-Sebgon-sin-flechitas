@@ -1,0 +1,125 @@
+Address : 186.124.253.192
+Nombre : carlos
+Apellido : travesani
+Cargo : cualquiera
+Direccion : mendoza 3046
+Ciudad : santa fe 
+Telefono : 03424529318 cel 3426985839
+Email : cjtravesani@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : CURRICULUM VITAE
+
+DATOS PERSONALES
+
+APELLIDO Y NOMBRE: TRAVESANI CARLOS
+DNI: 14.992.726
+TEL. FIJO: 0342-4529318
+TEL. CELULAR: 0342-156- 985839
+EMAIL: cjtravesani@gmail.com
+DOMICILIO: CASTELLANOS 1364 - 
+SANTA FE – C.P. 3000
+
+EDUCACION
+
+NIVEL UNIVERSITARIO                                                 
+U.N.L. FACULTAD DE CIENCIAS ECONOMICAS 
+DOMICILIO: MORENO 2557 
+SANTA FE - C.P. 3000
+TEL. 0342-4571179/180/181
+EMAIL: alumnado@fce.unl.edu.ar
+CARRERA: LICENCIATURA EN COMERCIALIZACION: cursado terminado con todas las materias aprobadas,  trabajo en la tesis actualmente. (se adjunta analítico)
+TITULO: LICENCIADO EN COMERCIALIZACIÓN.
+
+NIVEL TERCIARIO:
+INSTITUTO SUPERIOR EN CIENCIAS COMERCIALES. A.D.E.
+Particular Inc. Nº 4010
+DOMICILIO: URQUIZA 3100
+TEL: 0342-4520249
+SANTA FE - C.P. 3000
+TITULO TERCIARIO: TECNICO SUPERIOR EN MARKETING
+
+NIVEL SECUNDARIO Y PRIMARIO:
+COLEGIO LA SALLE JOBSON
+DOMICILIO: ALBERDI 3240
+SANTA FE - C.P. 3000
+TITULO: PERITO MERCANTIL
+
+ESTUDIOS COMPLEMENTARIOS:
+•	MANEJO DE PROGRAMA DYANE PARA REALIZAR ENCUESTAS
+•	MANEJO DE PC: (WORD- EXCELL)
+•	CONOCIMIENTOS DE IDIOMAS: INGLES Y PORTUGUES BASICO 
+•	CURSO DE OPERATORIA BURSATIL
+•	INSTRUCTOR DE SOBRECARGA
+
+
+
+
+EXPERIENCIA LABORAL:
+
+SERVICIOS DE MARKETING:
+ASESORAMIENTO DE MARKETING: desde marzo de 2009 hasta el presente  me desempeño como  asesor de marketing para el instituto IPAU desarrollando tareas en el área de comunicaciones y de satisfacción y fidelizacion  de la clientela. 
+ASESORAMIENTO DE MARKETING: desde marzo de 2010 he desarrollado tareas de asesoramiento comercial para CASA SEGADO.
+CLIENTE. SUSANA SEGADO  TEL: 0342-156-103309. 
+INVESTIGACION DE MERCADOS PARA GIMNASIO RUCALAF.(año 2006)
+CLIENTE: NELSON, LORDI.  TEL: 0342-154-566391
+DESARROLLO DE PROGRAMA DE MARKETING INTERNO PARA GIMNASIO RUCALAF. (año 2006)
+CLIENTE: NELSON, LORDI.  TEL: 0342-154-566391
+DESARROLLO DE PROGRAMA DE COMUNICACIÓN PARA GIMNASIO RUCALAF. (año 2006)
+CLIENTE: NELSON, LORDI.  TEL: 0342-154-566391
+DESARROLLO DE PLAN DE MARKETING PARA COMBASOL SRL.(año 2005)
+CLIENTE: TOYE, JUAN CRUZ. TEL: 0342-154238644
+INVESTIGACION DE MERCADOS PARA HELADERIA VIA VERONA. (año1999)
+CLIENTE: LORDI
+INSTITUTO IPAU: desde marzo de 1999 hasta el presente me desempeño como DOCENTE  en las materias  MATEMATICA BASICA, ESTADISTICA BASICA, MORFOLOGIA DE MERCADOS, POLITICA DE DISTRIBUCION,  MARKETING.
+RESPONSABLE: FERNANDO BURGUES
+DOMICILIO: MARIANO COMAS 2947
+TEL: 0342- 4554936     SANTA FE - C.P. 3000
+INSTITUTO CORDOBA: desde el mes de Octubre de 1998 hasta Marzo de 1999 me desempeñe como DOCENTE en las materias de ESTADISTICA BASICA Y MATEMATICA BASICA.
+RESPONSABLE: SILVANA BONGIOVANI
+DOMICILIO: 1º DE MAYO 2373
+TEL: 0342- 4526044   SANTA FE - C.P. 3000
+AUTOSERVICIO LA HUERTA: desde el mes de  marzo del año 1994 hasta noviembre de 1996 propietario en sociedad  de un autoservicio ubicado en el barrio EL POZO.
+COMERCIALIZADORA DE SERVICIOS BANCARIO: desde el mes de febrero  de 1993 hasta enero de 1994 me desempeñe como VENDEDOR DE PRODUCTOS BANCARIOS para dicha comercializadora.
+RESPONSABLE: JULIO PENNO
+DOMICILIO: ITURRASPE 2482
+TEL: 0342-4000809   SANTA FE - C.P. 3000
+MAYORISTA BELLOMO INTEGRAL: desde el mes de abril de 1987 hasta noviembre de 1990 me desempeñe como empleado ADMINISTRATIVO.
+RESPONSABLE: ENZO BELLOMO.
+DOMICILIO: CHACABUCO 2339
+TEL: 0342- 156-319807   SANTA FE - C.P. 3000
+
+Security_code : bzbh3
+Send : Enviar
+
+---------------
+
+Address : 186.134.1.37
+Nombre : noemi valeria
+Apellido : oblitas
+Cargo : operaria de produccion o personal de limpieza
+Direccion : beron de astrada 1203
+Ciudad : ramos mejia
+Telefono : 44432741
+Email : valerianoemi_80@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Yw994
+Security_code : yw994
+Send : Enviar
+
+---------------
+
+Address : 186.18.192.48
+Nombre : Diego Enrique
+Apellido : Torres
+Cargo : Administrativo
+Direccion : La Selva 4086
+Ciudad : Buenos Aires
+Telefono : 113-792-3750
+Email : torresdiego732@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Envío mi C.V para postulaciones acordes a mi perfil. Muchas Gracias
+Security_code : g62k5
+Send : Enviar
+
+---------------
+

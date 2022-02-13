@@ -1,0 +1,15 @@
+Address : 186.177.201.72<br>
+ <br>Nombre : ariel
+ <br>Apellido : borda
+ <br>Cargo : administracion//operario
+ <br>Direccion : hiroshima 960
+ <br>Ciudad : pablo nogues
+ <br>Telefono : 1134782524
+ <br>Email : borda_ariel@live.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Aqui les envio mi c.v
+ <br>Security_code : sgwhv
+ <br>Send : Enviar
+ <br>
+---------------
+

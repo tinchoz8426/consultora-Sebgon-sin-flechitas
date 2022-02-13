@@ -1,0 +1,70 @@
+Address : 201.213.122.99
+Nombre : Estefania Belen
+Apellido : Gerli Riera
+Cargo : Administractiva
+Direccion : Combate de los pozos 757
+Ciudad : Ciudad Autonoma de Buenos Aires
+Telefono : 49424574
+Email : estefania.gerli@live.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Busco empleo como administractiva.
+Security_code : 5y2ss
+Send : Enviar
+
+---------------
+
+Address : 190.49.45.34
+REF : gerente-de-operaciones
+Nombre : MARTIN
+Apellido : DIEZ
+Cargo : GERENTE DE OPERACIONES
+Direccion : SALTA 607
+Ciudad : NEUQUEN
+Telefono : 0299 155184271
+Email : mg_diez@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Estoy dispuesto a continuar mi formación en cualquier emplazamiento de la Argentina y/o exterior.
+
+Saludos, 
+Martin Diez
+Security_code : 5ndzn
+Send : Enviar
+
+---------------
+
+Address : 186.1.237.248
+Nombre : Martina
+Apellido : Sens
+Cargo : Asistente RR.HH
+Direccion : Lujan 226
+Ciudad : San Antonio de Padua
+Telefono : 1567962994
+Email : martina.sens@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estoy buscando trabajo en el area de recursos humanos para poder aprender y adquirir experiencia en el área, dado que es lo que estoy estudiando
+Security_code : nftwv
+Send : Enviar
+
+---------------
+
+Address : 190.172.85.212
+Nombre : Noelia 
+Apellido : heredia quisbert
+Cargo : recepcionista, secretaria.asistente 
+Direccion : saenz 454
+Ciudad : buenos aires
+Telefono : 1541697539
+Email : amoorprohibido_18@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : hola:
+me dirijo a usted por motivo del aviso de publicado en la pagina para postularme a la misma, poseo experiencia en trabajos similares, dispónibilad horaria,capacidad de aprendisaje y trabajo en grupo.
+espero su pronta respuesta atentamente :
+noelia heredia 
+
+1541697539
+
+Security_code : bpwxf
+Send : Enviar
+
+---------------
+

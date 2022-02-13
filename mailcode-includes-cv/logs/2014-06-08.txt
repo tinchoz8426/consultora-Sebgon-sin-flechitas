@@ -1,0 +1,107 @@
+Address : 190.30.131.211
+Nombre : GABRIELA
+Apellido : GHIANNI
+Cargo : AREA COMERCIAL u otros puestos
+Direccion : EMILIO ZOLA 6223
+Ciudad : VILLA BALLESTER
+Telefono : 1568600272
+Email : gabrielasg2004@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Tambien estoy en busqueda de pasantias para rubro Turismo ya que estoy en 1° año de la carrera.
+Security_code : mrx6h
+Send : Enviar
+
+---------------
+
+Address : 190.30.131.211
+Nombre : GABRIELA
+Apellido : GHIANNI
+Cargo : TURISMO pasantia
+Direccion : EMILIO ZOLA 6223
+Ciudad : VILLA BALLESTER
+Telefono : 1568600272
+Email : gabrielasg2004@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : En busqueda de puestos para area Turismo,sin experiencia, para pasantia como estudiante
+Security_code : 293rb
+Send : Enviar
+
+---------------
+
+Address : 181.29.114.41
+Nombre : Dahiana
+Apellido : Chanampa
+Cargo : Recepcion
+Direccion : tucuman 509
+Ciudad : san nicolas capital federal
+Telefono : 01162112395
+Email : dahi88c@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto cv para posible puesto disponible. Muchas gracias!
+Saludos!
+Security_code : nc66b
+Send : Enviar
+
+---------------
+
+Address : 181.29.114.41
+Nombre : Dahiana
+Apellido : Chanampa
+Cargo : Recepcion
+Direccion : tucuman 509
+Ciudad : san nicolas capital federal
+Telefono : 01162112395
+Email : dahi88c@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto cv para posible puesto disponible  Muchas gracias!
+Saludos
+Security_code : vf7xw
+Send : Enviar
+
+---------------
+
+Address : 181.46.249.28
+Nombre : Mónica
+Apellido : Mager
+Cargo : psicóloga, coordinadora, recursos humanos, acompañante terapéutico.
+Direccion : belasut 222
+Ciudad : buenos aires
+Telefono : 1550353017
+Email : monicamager@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : xxx
+Security_code : 96khj
+Send : Enviar
+
+---------------
+
+Address : 190.179.43.140
+Nombre : Matías
+Apellido : Martín
+Cargo : Administrativo
+Direccion : Avellaneda 2018
+Ciudad : Llavallol
+Telefono : 1531581647
+Email : matias_martin2003@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Solicito una oportunidad laboral por favor, ya que estoy en plazo fijo actualmente. Muchas gracias
+Security_code : t56t5
+Send : Enviar
+
+---------------
+
+Address : 179.37.180.99
+Nombre : Leandro Enrique
+Apellido : Cabrera
+Cargo : Psicología
+Direccion : Aristóbulo del Valle 1142
+Ciudad : Burzaco
+Telefono : 15 6445 7429
+Email : leacabre@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estudiante de Licenciatura en Psicología.
+Security_code : jth5w
+Send : Enviar
+
+---------------
+

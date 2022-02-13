@@ -1,0 +1,30 @@
+Address : 201.250.181.68
+Nombre : Braian ezequiel
+Apellido : Novo Salinas
+Cargo : mecanico, tecnico mecanico
+Direccion : bartolome mitre 2571
+Ciudad : merlo
+Telefono : 1536788458
+Email : braianovosalinas@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : busco trabajo, en el rubro como mecánico o tecnico, operario, etc
+Security_code : wmcmh
+Send : Enviar
+
+---------------
+
+Address : 186.122.46.119
+Nombre : Gisela
+Apellido : Gismondi
+Cargo : empleada
+Direccion : general roca n346, Mones Cazón. 
+Ciudad : Mones Cazón
+Telefono : 2396438949
+Email : giseg_346@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Busco adquirir experiencia en el ámbito laboral- independizarme, cubrir gastos. 
+Security_code : m2sbn
+Send : Enviar
+
+---------------
+

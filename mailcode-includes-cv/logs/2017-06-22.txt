@@ -1,0 +1,521 @@
+Address : 168.195.108.23<br>
+ <br>REF : chr
+ <br>Nombre : Guillermo Esteban
+ <br>Apellido : Almada
+ <br>Cargo : Chofer
+ <br>Direccion : Stevenson 1972
+ <br>Ciudad : Moron
+ <br>Telefono : 1166635894
+ <br>Email : almada232@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas necesito trabajo les mando mi cv por cualquier consulta a su disposicion muchas gracias
+ <br>Security_code : Cgj73
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 200.125.74.112<br>
+ <br>REF : chr
+ <br>Nombre : Christian Pablo
+ <br>Apellido : Sarmiento
+ <br>Cargo : Chofer de reparto
+ <br>Direccion : Carlos Casares 5572
+ <br>Ciudad : Isidro Casanova
+ <br>Telefono : 112159594
+ <br>Email : sarmientocristian014@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Experiencia y referencias comprobables
+ <br>Security_code : 5t24x
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.178.147.16<br>
+ <br>REF : chr
+ <br>Nombre : Federico
+ <br>Apellido : Rodriguez
+ <br>Cargo : Chofer de camion
+ <br>Direccion : Costa Rica 852
+ <br>Ciudad : Bs as, Lomas de Zamora
+ <br>Telefono : 42698412
+ <br>Email : Federodriguez.90@outlook.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Amplia formación en técnicas de conducción segura.
+Especialista en conducción de camiones con remolque, contenedores, acoplados, vehículos de gran tonelaje y viajes a larga distancia.
+Gran destreza manual.
+Capacidad para aprender rápidamente.
+Buena predisposición al trabajo.
+Disponibilidad full time, horarios rotativos (mañana, tarde y noche) y dispuesto a realizar horas extras.
+ <br>Security_code : 6yn6f
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.178.147.16<br>
+ <br>Nombre : Federico
+ <br>Apellido : Rodriguez
+ <br>Cargo : Chofer de camion
+ <br>Direccion : Costa Rica 852
+ <br>Ciudad : Bs as, Lomas de Zamora
+ <br>Telefono : 42698412
+ <br>Email : Federodriguez.90@outlook.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Amplia formación en técnicas de conducción segura.
+Especialista en conducción de camiones con remolque, contenedores, acoplados, vehículos de gran tonelaje y viajes a larga distancia.
+Gran destreza manual.
+Capacidad para aprender rápidamente.
+Buena predisposición al trabajo.
+Disponibilidad full time, horarios rotativos (mañana, tarde y noche) y dispuesto a realizar horas extras.
+ <br>Security_code : 6zd4j
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.18.229.204<br>
+ <br>REF : ROT-1
+ <br>Nombre : Jhoan
+ <br>Apellido : Ramirez
+ <br>Cargo : Oficina Tecnica
+ <br>Direccion : Av Corrientes 3339
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 1127781782
+ <br>Email : jhoan_pinch@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : anexo mi cv, espero sea considerado para cualquier oportunidad laboral
+
+gracias de antemano
+saludos cordiales
+ <br>Security_code : pyty
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.11<br>
+ <br>REF : chr
+ <br>Nombre : Matias Daniel
+ <br>Apellido : Montivero
+ <br>Cargo : Chofer manejo de camión 
+ <br>Direccion : Urquiza 1437
+ <br>Ciudad : San Miguel
+ <br>Telefono : 1122940855
+ <br>Email : douglaselperro22@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola estoy en busca de un puesto laboral en su empresa la cual poseo varios de sus requisitos licencia al día categoría cargas generales y mercancías peligrosas máquinas viales secundario completo experiencia comprobables en camión 1114 ,tractor Fiat 600 y camión de mudanzas gracias por su atención atentamente Montivero Matías
+ <br>Security_code : Hxpnx
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.7<br>
+ <br>REF : chr
+ <br>Nombre : Matias Daniel
+ <br>Apellido : Montivero
+ <br>Cargo : Chofer manejo de camión 
+ <br>Direccion : Urquiza 1437
+ <br>Ciudad : San Miguel
+ <br>Telefono : 1122940855
+ <br>Email : douglaselperro22@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola estoy en busca de un puesto laboral en su empresa la cual poseo varios de sus requisitos licencia al día categoría cargas generales y mercancías peligrosas máquinas viales secundario completo experiencia comprobables en camión 1114 ,tractor Fiat 600 y camión de mudanzas gracias por su atención atentamente Montivero Matías
+ <br>Security_code : hxpnx
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.25.231.25<br>
+ <br>REF : chr
+ <br>Nombre : Rodrigo Hernan
+ <br>Apellido : Solis
+ <br>Cargo : CHOFER
+ <br>Direccion : VIOLETA ANTIER
+ <br>Ciudad : GUERNICA
+ <br>Telefono : 43971416
+ <br>Email : solisrodrigo226@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : NECESITO TRABAJAR PARA PODER ALIMENTAR A MI FAMILIA Y PODER PAGAR LAS CUENTAS COMO TODA PERSONA
+ <br>Security_code : f63xg
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.11<br>
+ <br>REF : chr
+ <br>Nombre : Jorge Daniel
+ <br>Apellido : Peralta
+ <br>Cargo : Operario de deposito
+ <br>Direccion : E. Wilde 4781
+ <br>Ciudad : Jose C. Paz
+ <br>Telefono : 1138295885
+ <br>Email : jorgedanielperalta9@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Tengo muchas ganas de trabajar.
+ <br>Security_code : 36prc
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.17.217.140<br>
+ <br>Nombre : Marcos Federico
+ <br>Apellido : CALDERON
+ <br>Cargo : chofer
+ <br>Direccion : Aristobulo del Valle 644
+ <br>Ciudad : TIGRE
+ <br>Telefono : 1164052392
+ <br>Email : mcalderon87@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Busco trabajo de chofer. responsable y ganas de trabajar 
+ <br>Security_code : p57s4
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.17.217.140<br>
+ <br>Nombre : Marcos Federico
+ <br>Apellido : CALDERON
+ <br>Cargo : chofer
+ <br>Direccion : Aristobulo del Valle 644
+ <br>Ciudad : TIGRE
+ <br>Telefono : 1164052392
+ <br>Email : mcalderon87@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Busco trabajo de chofer. responsable y ganas de trabajar 
+ <br>Security_code : p57s4
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 200.125.74.243<br>
+ <br>REF : chr
+ <br>Nombre : sergio sebastian
+ <br>Apellido : alvarez
+ <br>Cargo : Chofer camion
+ <br>Direccion : Uriburu, 971
+ <br>Ciudad : Florencio varela
+ <br>Telefono : 4213 0894
+ <br>Email : Lubesan290613@hotmail.es
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Cnrt al dia
+Cursos al dia 
+ <br>Security_code : Vpd8w
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 200.125.74.243<br>
+ <br>REF : chr
+ <br>Nombre : sergio sebastian
+ <br>Apellido : alvarez
+ <br>Cargo : Chofer camion
+ <br>Direccion : Uriburu, 971
+ <br>Ciudad : Florencio varela
+ <br>Telefono : 4213 0894
+ <br>Email : Lubesan290613@hotmail.es
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Cnrt al dia
+Cursos al dia
+ <br>Security_code : 7w3sv
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 200.125.74.243<br>
+ <br>REF : chr
+ <br>Nombre : sergio sebastian
+ <br>Apellido : alvarez
+ <br>Cargo : Chofer camion
+ <br>Direccion : Uriburu, 971
+ <br>Ciudad : Florencio varela
+ <br>Telefono : 4213 0894
+ <br>Email : Lubesan290613@hotmail.es
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Cnrt al dia
+Cursos al dia
+ <br>Security_code : 7w3sv
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 200.125.74.125<br>
+ <br>REF : chr
+ <br>Nombre : Martin
+ <br>Apellido : Vercilli
+ <br>Cargo : Chofef
+ <br>Direccion : Centenera 2353
+ <br>Ciudad : San justo
+ <br>Telefono : 1568237994
+ <br>Email : martinvercilli@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Necesito trabajar soy responsable
+ <br>Security_code : Pvxx2
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 200.125.74.243<br>
+ <br>REF : chr
+ <br>Nombre : sergio sebastian
+ <br>Apellido : alvarez
+ <br>Cargo : Chofer camion
+ <br>Direccion : Uriburu, 971
+ <br>Ciudad : Florencio varela
+ <br>Telefono : 4213 0894
+ <br>Email : Lubesan290613@hotmail.es
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Cnrt al dia
+Cursos al dia
+ <br>Security_code : q84jd
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 200.125.74.125<br>
+ <br>REF : chr
+ <br>Nombre : Martin
+ <br>Apellido : Vercilli
+ <br>Cargo : Chofef
+ <br>Direccion : Centenera 2353
+ <br>Ciudad : San justo
+ <br>Telefono : 1568237994
+ <br>Email : martinvercilli@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Necesito trabajar soy responsable
+ <br>Security_code : Pvxx2
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 200.125.74.125<br>
+ <br>REF : chr
+ <br>Nombre : Martin
+ <br>Apellido : Vercilli
+ <br>Cargo : Chofef
+ <br>Direccion : Centenera 2353
+ <br>Ciudad : San justo
+ <br>Telefono : 1568237994
+ <br>Email : martinvercilli@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Necesito trabajar soy responsable
+ <br>Security_code : 12345
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 200.125.74.125<br>
+ <br>REF : chr
+ <br>Nombre : Martin
+ <br>Apellido : Vercilli
+ <br>Cargo : Chofef
+ <br>Direccion : Centenera 2353
+ <br>Ciudad : San justo
+ <br>Telefono : 1568237994
+ <br>Email : martinvercilli@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Necesito trabajar soy responsable
+ <br>Security_code : Boca5
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 200.125.74.125<br>
+ <br>REF : chr
+ <br>Nombre : Martin
+ <br>Apellido : Vercilli
+ <br>Cargo : Chofef
+ <br>Direccion : Centenera 2353
+ <br>Ciudad : San justo
+ <br>Telefono : 1568237994
+ <br>Email : martinvercilli@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Necesito trabajar soy responsable
+ <br>Security_code : Martinyivana
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 200.125.74.125<br>
+ <br>REF : chr
+ <br>Nombre : Martin
+ <br>Apellido : Vercilli
+ <br>Cargo : Chofef
+ <br>Direccion : Centenera 2353
+ <br>Ciudad : San justo
+ <br>Telefono : 1568237994
+ <br>Email : martinvercilli@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Necesito trabajar soy responsable
+ <br>Security_code : Pvxx2
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 200.125.74.125<br>
+ <br>REF : chr
+ <br>Nombre : Martin
+ <br>Apellido : Vercilli
+ <br>Cargo : Chofef
+ <br>Direccion : Centenera 2353
+ <br>Ciudad : San justo
+ <br>Telefono : 1568237994
+ <br>Email : martinvercilli@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Necesito trabajar soy responsable
+ <br>Security_code : 38q28
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.13.65.211<br>
+ <br>REF : chr
+ <br>Nombre : Andres Gustavo
+ <br>Apellido : Jabif
+ <br>Cargo : Chofer
+ <br>Direccion : Av Constuyentes 2800
+ <br>Ciudad : Bs as
+ <br>Telefono : 1531009792
+ <br>Email : andresjabif00@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Poseo registro profesional y cnrt al dia
+ <br>Security_code : 4bhr8
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.230.120.19<br>
+ <br>REF : chr
+ <br>Nombre : Eliodoro
+ <br>Apellido : Lopez Armas
+ <br>Cargo : CHOFER
+ <br>Direccion : PUEYRREDON 5651
+ <br>Ciudad : SAN MARTIN
+ <br>Telefono : 1527308508
+ <br>Email : yani9320@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : estoy interesado en la búsqueda de chófer de reparto.
+ <br>Security_code : rp56c
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.13.67.45<br>
+ <br>REF : chr
+ <br>Nombre : Matias
+ <br>Apellido : Servin
+ <br>Cargo : Vendedor
+ <br>Direccion : Saavedra 294
+ <br>Ciudad : Merlo
+ <br>Telefono : 1566013883
+ <br>Email : santy10guada16@outlook.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Tengo experiencia en ventas
+ <br>Security_code : Pv32s
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.182.109.171<br>
+ <br>Nombre : Alejandra
+ <br>Apellido : Tuttobene
+ <br>Cargo : Administrativa, otros
+ <br>Direccion : ALVAREZ JONTE 2125
+ <br>Ciudad : Castelar
+ <br>Telefono : 1533645962
+ <br>Email : atuttobene1@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Busco trabajo part time
+ <br>Security_code : vttvx
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 200.125.74.145<br>
+ <br>REF : chr
+ <br>Nombre : jorge
+ <br>Apellido : guzman
+ <br>Cargo : ayudante de chofer
+ <br>Direccion : perdriel 332 
+ <br>Ciudad : tablada
+ <br>Telefono : 1171606342
+ <br>Email : yoyiguzman1982@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : estoy a su disposición y espero su respuesta a la brevedad
+ <br>Security_code : 5cv5k
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 200.125.74.145<br>
+ <br>Nombre : jorge
+ <br>Apellido : guzman
+ <br>Cargo : ayudante de chofer carga y descarga
+ <br>Direccion : perdriel 332 
+ <br>Ciudad : tablada
+ <br>Telefono : 1171606342
+ <br>Email : yoyiguzman1982@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : espero su respuesta a la brevedad
+ <br>Security_code : qbgfg
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 191.80.203.21<br>
+ <br>Nombre : matias
+ <br>Apellido : Girondo
+ <br>Cargo : Chofer de reparto
+ <br>Direccion : Watt 3424
+ <br>Ciudad : Laferrere
+ <br>Telefono : 1120260077
+ <br>Email : matiasgirondo89@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola buenas tardes te adjunto mi CV con amplia experiencia en transporte; espero lo logren tener en cuenta desde ya muchas gracias
+ <br>Security_code : 4szyt
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 191.80.203.21<br>
+ <br>Nombre : matias
+ <br>Apellido : Girondo
+ <br>Cargo : Chofer de reparto
+ <br>Direccion : Watt 3424
+ <br>Ciudad : Laferrere
+ <br>Telefono : 1120260077
+ <br>Email : matiasgirondo89@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola buenas tardes te adjunto mi CV con amplia experiencia en transporte; espero lo logren tener en cuenta desde ya muchas gracias
+ <br>Security_code : 4szyt
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 191.80.203.21<br>
+ <br>Nombre : Matias
+ <br>Apellido : Girondo
+ <br>Cargo : Chofer de reparto
+ <br>Direccion : Watt 3424
+ <br>Ciudad : Laferrere
+ <br>Telefono : 1120260077
+ <br>Email : matiasgirondo89@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas tardes te adjunto mi CV espero logren tenerlo en cuenta desde ya muchas gracias.
+ <br>Security_code : nny5r
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.225.72.107<br>
+ <br>REF : chr
+ <br>Nombre : Hugo Adolfo 
+ <br>Apellido : Idone 
+ <br>Cargo : Chofer y tareas en general 
+ <br>Direccion : Clemente oneli 2550
+ <br>Ciudad : Beccar 
+ <br>Telefono : 1134742715 y 47239295
+ <br>Email : hugoidone@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Tengo experiencia e chofer de autoelevador y todo lo referente en depósito de carga y descarga
+ <br>Security_code : 8gg6j
+ <br>Send : Enviar
+ <br>
+---------------
+

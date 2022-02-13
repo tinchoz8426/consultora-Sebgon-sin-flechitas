@@ -1,0 +1,112 @@
+Address : 186.65.66.78
+Nombre : Gabriela
+Apellido :  Carbajal
+Cargo : atención al publico, ventas 
+Direccion : codigo 2401 
+Ciudad : Comodoro Rivadavia
+Telefono : 2974729966
+Email : noe_20_12@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : busco trabajo con el fin    de lograr mis metas
+Security_code : fn2z2
+Send : Enviar
+
+---------------
+
+Address : 186.65.66.78
+Nombre : Gabriela
+Apellido :  Carbajal
+Cargo : atención al publico, ventas 
+Direccion : codigo 2401 
+Ciudad : Comodoro Rivadavia
+Telefono : 2974729966
+Email : noe_20_12@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : busco trabajo con el fin    de lograr mis metas
+Security_code : fn2z2
+Send : Enviar
+
+---------------
+
+Address : 186.59.115.216
+Nombre : LEONARDO ISMAEL SANTIAGO
+Apellido : ROSELLO
+Cargo : Indiferente
+Direccion : 9 de Julio 855 6° Piso Dpto 2
+Ciudad : Mendoza
+Telefono : 2954-15547165
+Email : leo-74@live.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenos dias, les envio mi CV ya que estoy realizando una busqueda laboral, puedo radicarme en las siguientes provincias, La Pampa, Mendoza o Capital Federal, apunto a lograr estabilidad laboral, la funcion y area no es determinante, he realizado todo tipo de tareas.
+Desde ya muchas gracias..
+Leonardo Rosello
+Security_code : 3537v
+Send : Enviar
+
+---------------
+
+Address : 190.229.5.134
+Nombre : Jorge David 
+Apellido : Fernández
+Cargo : Diseñador Gráfico, Publicitario y Web
+Direccion : Otamendi 4131
+Ciudad : Cordoba
+Telefono : 0351 152532277
+Email : contacto@davidfernandez.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenos días,
+
+Mi nombre es David Fernández, y soy Diseñador Gráfico y Publicitario. Actualmente me encuentro en la búsqueda de un puesto laboral acorde a mis capacidades, por lo cual he decidido acercarle mi Curriculum Vitae con el deseo de formar parte de su base de datos.
+
+Me presento como un profesional flexible, responsable, orientado al logro de resultados y bien predispuesto al trabajo en equipo. Como podrá observar, cuento con experiencia en diferentes áreas del diseño, siempre con el claro objetivo de obtener resultados originales y eficaces. 
+
+Actualmente estoy cursando la Licenciatura en Diseño en modalidad semipresencial, sólo los fines de semana, lo que me posibilita una disponibilidad full time el resto de los días, en caso de ser requerido.
+
+Además adjunto un enlace, dónde podrá observar parte de mi carpeta de trabajos en Diseño de Identidad, Diseño Editorial, Diseño Web y más.
+http://www.davidfernandez.com.ar/portfolio.htm
+
+Si fuera necesario podría acercarme personalmente para cualquier consulta adicional o entrevista. Quedo a la espera de su respuesta,
+ 
+Saluda atentamente,
+
+
+David Fernández
+Diseñador Gráfico y Web
+Móvil: +54 351 2532277 
+www.davidfernandez.com.ar
+
+Security_code : rm7fk
+Send : Enviar
+
+---------------
+
+Address : 190.113.148.114
+Nombre : Maria Belen
+Apellido : Pino suarez
+Cargo : vendedora-cajera
+Direccion : Huarpes 3617 Godoy cruz
+Ciudad : mendoza
+Telefono : 2616414046
+Email : frutito_pink@live.com
+MAX_FILE_SIZE : 2097152
+Mensaje : les mando mi c.v via internet ya que no encontre su direccion por esta via. muchas gracias.
+Security_code : h3x6x
+Send : Enviar
+
+---------------
+
+Address : 190.49.199.204
+Nombre : laura
+Apellido : de maria
+Cargo : prof socio ambiental
+Direccion : sanchez la fuente 792
+Ciudad : san luis
+Telefono : 02664921219
+Email : lauvdemaria@hotmail.es
+MAX_FILE_SIZE : 2097152
+Mensaje : poseo un 25% de materias cursadas en la carrera :TECNICATURA EN MINORIDAD Y FAMILIA.En la Univ de Lomas de Zamora.BS.AS
+Security_code : 69qds
+Send : Enviar
+
+---------------
+

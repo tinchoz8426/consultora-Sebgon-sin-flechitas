@@ -1,0 +1,33 @@
+Address : 190.55.184.62
+Nombre : Patricio Ricardo
+Apellido : Zanet
+Cargo : Comercial
+Direccion : Virasoro 756
+Ciudad : Capital Federal
+Telefono : 1560132732
+Email : patriciozanet@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenas tardes les envio mi cv para futuras busquedas
+Security_code : 8jjkc
+Send : Enviar
+
+---------------
+
+Address : 190.188.237.96
+Nombre : Natalia Soledad
+Apellido : Morales
+Cargo : Antropóloga
+Direccion : calle 43 n° 962
+Ciudad : La Plata
+Telefono : 0221-155707165
+Email : moralesnatalia@live.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados: 
+          Les envío mi curriculum para que lo puedan agregar a su base de datos y de esta manera poder ser considerada en futuros empleos relacionados con mi profesión. Muchas gracias. 
+Los saluda atentamente,
+Natalia Morales
+Security_code : 2k9gm
+Send : Enviar
+
+---------------
+

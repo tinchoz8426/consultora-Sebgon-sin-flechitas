@@ -1,0 +1,32 @@
+Address : 66.249.85.7<br>
+ <br>REF : chr
+ <br>Nombre : Erwin alexis
+ <br>Apellido : Terrazas Vera
+ <br>Cargo : Chofer profecional
+ <br>Direccion : Cosquin 4097
+ <br>Ciudad : Cuidad autónoma de buenos aires
+ <br>Telefono : 1125332792
+ <br>Email : alexisterrazas40@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Muy buen chofer profecional capacitado en gestión y economia
+ <br>Security_code : Dwhct
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.229.36.117<br>
+ <br>REF : chr
+ <br>Nombre : Cristian ariel
+ <br>Apellido : Sacaba
+ <br>Cargo : Chofer
+ <br>Direccion : Berutti
+ <br>Ciudad : San Fernando 
+ <br>Telefono : 1161234876
+ <br>Email : cristianariel1504@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Desempeñarme de la mejor manera  en mi puestpuesto 
+ <br>Security_code : Msh2c
+ <br>Send : Enviar
+ <br>
+---------------
+

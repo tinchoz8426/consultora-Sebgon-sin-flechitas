@@ -1,0 +1,85 @@
+Address : 186.58.7.115
+Nombre : matias ezequiel
+Apellido : occhiuzzi
+Cargo : operario
+Direccion : felipe pastre 1975
+Ciudad : hurlingham
+Telefono : 011 - 4662 - 7053
+Email : el22_fox@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto le remito mi Currículum Vitae para su consideración y le manifiesto mi interés en participar en los procesos de selección que requieran de un profesional de mis características.
+
+Con respecto a mi persona, quisiera destacar, que soy una persona de actitud positiva en general, de facil adaptacion a un equipo y sobre todo con ganas de trabajar.
+Le agradezco de antemano su atención y quedo a su disposición para mantener una entrevista cuando surja una posición que considere puede encajar con mi perfil. 
+
+Atentamente,
+Matias occhiuzzi
+
+Security_code : q33ry
+Send : Enviar
+
+---------------
+
+Address : 186.59.140.33
+REF : gerente-de-operaciones
+Nombre : nahuel9212010@hotmail.co
+Apellido : contreras 
+Cargo : empleado 
+Direccion : 153/415y416
+Ciudad : La Plata
+Telefono : (0221)474-2623
+Email : nahuel9212010@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : los que mas nesecito es laburar lo mas pronto posible 
+Security_code : s4cck
+Send : Enviar
+
+---------------
+
+Address : 186.22.199.22
+Nombre : ivan
+Apellido : sosa
+Cargo : Auxiliar contable/asistente
+Direccion : pasteur 2836
+Ciudad : San Justo. Pcia de Bs.As
+Telefono : 4482-2037
+Email : ivan.sosa@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me considero una persona responsable y puntual, mi objetivo es crecer profesionalmente en una empresa. Tengo experiencia en tareas administrativas,tal como menciono en el cv que adjunto por este medio.Desde ya muchas gracias.
+Security_code : bck2d
+Send : Enviar
+
+---------------
+
+Address : 190.55.89.229
+Nombre : VALERIA
+Apellido : MONTOYA
+Cargo : EMPLEADA ADMINISTRATIVA..
+Direccion : Nicasio Oroño 1858 piso 1 D
+Ciudad : Capital Federal
+Telefono : 1531986409
+Email : vale.montoya75@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : NO TENGO PROBLEMAS  DE HORARIOS.
+INGLES BASICO.
+Security_code : d2qXS
+Send : Enviar
+
+---------------
+
+Address : 190.55.89.229
+Nombre : VALERIA
+Apellido : MONTOYA
+Cargo : EMPLEADA ADMINISTRATIVA..
+Direccion : Nicasio Oroño 1858 piso 1 D
+Ciudad : Capital Federal
+Telefono : 1531986409
+Email : vale.montoya75@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : NO TENGO PROBLEMAS  DE HORARIOS.
+INGLES BASICO.
+Security_code : d2qXS
+Send : Enviar
+
+---------------
+

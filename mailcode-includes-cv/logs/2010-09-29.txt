@@ -1,0 +1,22 @@
+Address : 186.56.155.47
+Nombre : Germán Ariel
+Apellido : Botter
+Cargo : Ingeniero Mecanico
+Direccion : Formosa 2694
+Ciudad : Merlo
+Telefono : 0220-4832645
+Email : bottergerman@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Atención: 
+Dirección de Recursos Humanos
+Les envió mi CV para que sea tenido en cuenta en futuras búsquedas laborales. 
+A la espera de una respuesta favorable.
+Los saluda atte.
+
+                           Germán A. Botter
+
+Security_code : vvxmn
+Send : Enviar
+
+---------------
+

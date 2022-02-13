@@ -1,0 +1,49 @@
+Address : 190.175.11.67
+Nombre : Andrea Dayana
+Apellido : Cequeira
+Cargo : Atencion al cliente
+Direccion : Av.jujuy 449
+Ciudad : CABA
+Telefono : 1540423392
+Email : es.andreh@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Les adjunto mi cv con el fin de que sea tomado en cuenta a la hora de la selección de empleados, actualmente me encuentro sin trabajo.
+Sin otro motivo me despido esperando una pronta respuesta.
+Saludos cordiales.
+Security_code : crbvs
+Send : Enviar
+
+---------------
+
+Address : 186.133.45.157
+REF : JP
+Nombre : Eduardo Gabriel 
+Apellido : Vargas
+Cargo : Jefe de Planta (Ind. Alimenticia)
+Direccion : Panamá 539 Barrio Mutual
+Ciudad : Rio Grande
+Telefono : 2964 576657
+Email : egvargasm@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimado Selector; adjunto envío historial laboral para participar de la búsqueda de un Jefe de Planta. Estoy a disposición en caso de requerir mayor información.
+Saludos cordiales, Eduardo.
+Security_code : 3h6rv
+Send : Enviar
+
+---------------
+
+Address : 181.46.27.103
+Nombre : Alexander Gildo
+Apellido : escalera
+Cargo : Todos
+Direccion : Laguna y pasaje h 352
+Ciudad : flores -buenos aires capital federal
+Telefono : 1130831275
+Email : alexander_escalera@live.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Espero tener suerte y conseguir un trabajo. Gracias
+Security_code : djq2r
+Send : Enviar
+
+---------------
+

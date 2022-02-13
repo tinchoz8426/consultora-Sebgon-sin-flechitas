@@ -1,0 +1,47 @@
+Address : 190.48.173.72
+Nombre : diego sebastian
+Apellido : entrena
+Cargo : operario de deposito - carga y descarga
+Direccion : bouchard 1160
+Ciudad : buenos aires
+Telefono : 11 32 86 20 40 
+Email : drier_diego@hotmail.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : hola: queria saber si habria alguna vacante para operario de deposito o para correo gracias....
+Security_code : zt434
+Send : Enviar
+
+---------------
+
+Address : 190.55.210.81
+Nombre : Carlos Javier
+Apellido : Sartori
+Cargo : Técnico en Seguridad e Higiene
+Direccion : Otamendi 5175
+Ciudad : Tablada
+Telefono : 1135635302
+Email : cj_sartori@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados, les envío mi CV. Saludos Cordiales
+Security_code : n2jmf
+Send : Enviar
+
+---------------
+
+Address : 200.70.25.211
+Nombre : federico
+Apellido : norkus
+Cargo : Gerencia de Marketing
+Direccion : juncal 4600
+Ciudad : Buenos Aires
+Telefono : 011 15 6605 5924
+Email : norkusf@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto mi CV para ser tenido en cuenta en búsquedas en el rubro de Marketing y Turismo. Y quedo a disposición para una entrevista personal.
+
+saludos,
+Security_code : rt2x9
+Send : Enviar
+
+---------------
+

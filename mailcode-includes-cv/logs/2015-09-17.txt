@@ -1,0 +1,78 @@
+Address : 179.37.163.217
+Nombre : avalos
+Apellido : jonatan
+Cargo : administrativo
+Direccion : guemes 220
+Ciudad : ezeiza
+Telefono : 43863062
+Email : jonytwingo_07@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : deseo encontrar un buen clima laboral.
+Security_code : hzf4s
+Send : Enviar
+
+---------------
+
+Address : 186.135.26.239
+Nombre : Emiliano Alberto
+Apellido : Cuscueta
+Cargo : tecnico  Electronico y Telecomunicaicones
+Direccion : Carlos Tejedor 1570
+Ciudad : libertad
+Telefono : 1561178011
+Email : emiliano_antena@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : envio mi CV a fin de que me tengan en su base de datos para puestos de tecnico en electronica  en toda la zona oeste ,preferentemente castelar,,ituz, merlo,, padua,, poseo movilidad propia, mucha sgracias
+Security_code : bhkzc
+Send : Enviar
+
+---------------
+
+Address : 190.189.193.124
+REF : S.Cal
+Nombre : Fernando Damian
+Apellido : Gutiérre<
+Cargo : Supervisor
+Direccion : Bv Los Alemanes 5225
+Ciudad : Cordoba
+Telefono : 0351-3395771
+Email : ferdamian2012@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Postulacion
+Security_code : dcx46
+Send : Enviar
+
+---------------
+
+Address : 181.170.1.173
+Nombre : Aylen
+Apellido : Rubinich
+Cargo : Administración 
+Direccion : Antelo 815
+Ciudad : Rosario
+Telefono : 4306046
+Email : aylurubinich@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : disponibilidad de horario, movilidad propia.
+Security_code : 5q6k5
+Send : Enviar
+
+---------------
+
+Address : 186.138.36.144
+Nombre : Irina Cecilia
+Apellido : Blas Pisco
+Cargo : Recepcionista administrativa
+Direccion : Diego de Aráoz 3334
+Ciudad : Morón
+Telefono : 46235566
+Email : 1540745174
+MAX_FILE_SIZE : 2097152
+Mensaje : Saludos cordiales,
+Les adjunto mi hoja de vida laboral con mis experiencias, para en lo que mi perfil se ajuste.
+Muchas gracias!!
+Security_code : 488w7
+Send : Enviar
+
+---------------
+

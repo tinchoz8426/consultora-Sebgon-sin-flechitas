@@ -1,0 +1,24 @@
+Address : 181.29.183.145<br>
+ <br>Nombre : Gabriel
+ <br>Apellido : Czemerys
+ <br>Cargo : gerente ventas/comercial
+ <br>Direccion : Barrio Privalo La Campina , Lote 30 , Las Glicinas y Los Jazmines
+ <br>Ciudad : Pilar
+ <br>Telefono : 01141975806
+ <br>Email : gczemerys@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Profesional del Consumo Masivo , Cuidado Personal, Farma,  Innovacion y Tecnologia , con amplia experiencia nacional e internacional , orientado a resultados por más de 17 años con habilidades y fortalezas desarrolladas en manejo de equipos de ventas , productividad  , planificación , dirección de proyectos , capacitación  , desarrollo de talentos , procesos y  mercaderías para garantizar mejoras en rentabilidad , calidad de servicio y expectativas de directorios  y clientes. Con experiencia en Chile , USA (Puerto Rico)y British West Indies, altamente adaptable a las necesidades de mercados cambiantes y multiculturales aplicándolo en la ejecución de planes y entregables . Habilidad  identificando áreas de oportunidad en procesos , personas y políticas que impacten en cambios que mejoren ventas , productividad , comportamientos y rentabilidad mediante esfuerzos colectivos de equipos de trabajo. Inspirando sus equipos utilizando variados métodos que impacten en cambios a través de la organización en orden de obtener los objetivos  de la compañía con el uso más efectivo de los recursos , comunicando fuertemente una visión común enfocada en superación y creatividad. Ha participado en Startups , desarrollos y reorganizaciones  para aplicarlos a  las necesidades cambiantes de los negocios y asegurar valor para accionistas y directorios , con amplia habilidad organizativa  , comprometido con los objetivos de la compañía , autónomo , tenaz y  resistente a la frustración cumplió  función y reportó a ejecutivos nivel-C o miembros del directorio.
+HABILIDADES ESPECIALES
+	Liderazgo , Desarrollo, Formación y Construcción de equipos de trabajo efectivos
+	Orientación a la acción,  Resultados, Productividad , P&L/Margen/Inventarios/Rotación/Ebitda
+	Gerenciamiento Comercial y Operativo ,Creativo e Innovador , Experiencia Multicultural , Bilingüe 
+	Enfocado en Clientes , Personas,  Calidad de Servicio , KPI´s , Tableros de Comando
+	Planificación Estratégica, Comunicación Efectiva ,  Mejora de Procesos Multifuncionales , Six Sigma.
+	Desarrollo de Negocios , Mercados ,  Mercaderías, Servicios , Ventas  y Marketing
+	Direccion y Desarrollo Comercial en ambientes B2B / B2C  
+
+ <br>Security_code : skk4y
+ <br>Send : Enviar
+ <br>
+---------------
+

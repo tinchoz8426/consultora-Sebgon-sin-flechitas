@@ -1,0 +1,47 @@
+Address : 190.224.168.194
+Nombre : Jose Luis
+Apellido : Benitez
+Cargo : administracion
+Direccion : pellegrini
+Ciudad : san miguel  de tucuman 
+Telefono : 381 5981164
+Email : graficamjm@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : buenas tardes aca les  adjunto mi  cv. espero una pronta respuesta favorable.
+Security_code : t78sm
+Send : Enviar
+
+---------------
+
+Address : 181.47.139.93
+Nombre : Romina
+Apellido : Dominguez
+Cargo : Empleada Administrativa
+Direccion : Av. Corrientes 4271
+Ciudad : Capital Federal
+Telefono : 1564400973
+Email : rom.dominguez@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenos días,
+
+Me pongo en contacto con ustedes para ofrecerles mi currículum con mis datos personales,  profesionales y otros datos de interés.
+
+Actualmente me encuentro empleada en una pequeña empresa enfocada al Marketing integral y la organización de eventos corporativos. Y, si bien, estoy a gusto con el puesto, me encuentro en un momento profesional en el que no tengo mucho lugar para seguir creciendo dentro de la compañía.
+
+Estoy en búsqueda de un puesto en el que me pueda desarrollar como profesional administrativa, aplicando los conocimientos y experiencia adquirida a lo largo de mi carrera laboral. 
+
+Soy una persona muy organizada y profesional en mi trabajo, proactiva, creativa, responsable y dispuesta a seguir aprendiendo.
+
+Pueden ponerse en contacto conmigo mediante mi celular personal (15 6440 0973) a partir de las 09:00 am o vía correo electrónico. 
+
+Espero recibir pronto noticias suyas sobre mi candidatura.
+
+Quedo a su disposición,
+Un saludo cordial
+
+Romina Dominguez
+Security_code : c7nw3
+Send : Enviar
+
+---------------
+

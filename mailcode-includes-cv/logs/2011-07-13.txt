@@ -1,0 +1,31 @@
+Address : 190.50.124.200
+REF : gerente-de-operaciones
+Nombre : nancy mabel
+Apellido : ruiz
+Cargo : mucama
+Direccion : falucho 7575
+Ciudad : mar del plata
+Telefono : 0223-154496835-02234871961
+Email : lore.l.r@live.com
+MAX_FILE_SIZE : 2097152
+Mensaje : nesecito trabajar gracias
+Security_code : h6g2y
+Send : Enviar
+
+---------------
+
+Address : 190.221.84.61
+Nombre : MARIA FERNANDA
+Apellido : AMADO
+Cargo : ADMINISTRATIVA DE RECURSOS HUMANOS
+Direccion : 24 DE OCTUBRE 1040
+Ciudad : ITUZAINGO
+Telefono : 46230393/ 1565999285
+Email : MFERNANDA.AMADO@YAHOO.COM.AR
+MAX_FILE_SIZE : 2097152
+Mensaje : DESEO FORMAR PARTE DE LA BASE DE DATOS DE LA EMPRESA. 
+Security_code : FYCTR
+Send : Enviar
+
+---------------
+

@@ -1,0 +1,115 @@
+Address : 190.19.4.116
+Nombre : Macarena
+Apellido : Silva
+Cargo : Administrativa
+Direccion : Formosa 626
+Ciudad : Capital Federal
+Telefono : 1557303026
+Email : macarenasilva28@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Sr./Sra.Responsable del sector:
+
+Soy María Macarena Silva tengo 23 años. Soy estudiante de Sociología en la Universidad de Buenos Aires, estoy cursando el 3er año de la carrera.
+Cuento con experiencia en el área administrativa y pedagógica tanto en instituciones públicas como privadas. Les envío mi currículum vitae en el cual podrán ver de manera más detallada toda mi experiencia laboral.
+Desde ya muchísimas gracias.
+
+Saludos cordiales,
+Security_code : VCHFS
+Send : Enviar
+
+---------------
+
+Address : 186.182.115.211
+Nombre : Micaela 
+Apellido : Morales
+Cargo : atención al cliente, cajera
+Direccion : Presidente Ibañez 
+Ciudad : Moron
+Telefono : 1131058598
+Email : miqa.cdm@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : .
+Security_code : swdp9
+Send : Enviar
+
+---------------
+
+Address : 200.43.175.187
+Nombre : Juan Pablo
+Apellido : Arano
+Cargo : Jefe de planta - Gerente
+Direccion : Sixto Romagnoli 103 - Monte Cristo
+Ciudad : Córdoba
+Telefono : 0351155142178
+Email : juanpabloarano@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto mi CV para que lo tengan en cuenta para  alguna oportunidad laboral. 
+Security_code : hyznh
+Send : Enviar
+
+---------------
+
+Address : 181.29.152.140
+REF : administrativo-logistica
+Nombre : Carlos Julio
+Apellido : Ferraris Rodriguez
+Cargo : administrativo-logistica
+Direccion : Gral. Jose  Artigas 669
+Ciudad : Ituzaingo
+Telefono : 1562255634
+Email : carlosferraris83@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : 10 años de experiencia en reparto.conocimiento de la zona.trato con el cliente.control de mercaderia.
+Security_code : mmfjg
+Send : Enviar
+
+---------------
+
+Address : 200.85.108.254
+REF : jefe-de-operaciones
+Nombre : mario
+Apellido : carbone
+Cargo : chofer
+Direccion : 25 de mayo 1569
+Ciudad : pilar
+Telefono : 02304421176
+Email : marito12_16@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : hola. les dejo mi cv desde ya muchas gracias
+Security_code : mczhd
+Send : Enviar
+
+---------------
+
+Address : 181.166.100.46
+Nombre : Maria Mercedes
+Apellido : Basualto Repossi
+Cargo : Administrativa
+Direccion : Julio Besada 7560
+Ciudad : Martin Coronado
+Telefono : 48404491
+Email : mercedes_basualto@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Les envió mi CV, quedo a su disposición
+
+Saludos
+Security_code : mkfj7
+Send : Enviar
+
+---------------
+
+Address : 186.123.133.78
+Nombre : JESICA NATALIA
+Apellido : CAMPOS
+Cargo : cajera
+Direccion : san fernando 2400,covimet
+Ciudad : mendoza
+Telefono : 2616672303
+Email : yesica_n_campos@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : confio en esta prestigiosa empresa,y es por ello que que confio mi cv y mis datos personales 
+Security_code : pr3kp
+Send : Enviar
+
+---------------
+

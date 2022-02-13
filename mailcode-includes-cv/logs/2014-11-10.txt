@@ -1,0 +1,280 @@
+Address : 181.26.39.77
+Nombre : mario
+Apellido : aguilar
+Cargo : tecnico en mantenimiento
+Direccion : saenz peña 1355
+Ciudad : longchamps
+Telefono : 42331145
+Email : aguilar_mario10@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : les adjunto mi cv para que lo consideren ante alguna oferta laboral. por el momento estoy desempleado y tengo disponibilidad horaria.
+Security_code : gymr4
+Send : Enviar
+
+---------------
+
+Address : 181.26.39.77
+REF : TECM
+Nombre : mario 
+Apellido : aguilar
+Cargo : tecnico en mantenimiento
+Direccion : saenz peña 1355
+Ciudad : longchamps
+Telefono : 42331145
+Email : aguilar_mario10@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Soy tecnico electronico pero cuento con amplia experiencia en mecanica, mantenimiento correctivo y preventivo.
+Security_code : xx7vf
+Send : Enviar
+
+---------------
+
+Address : 181.26.39.77
+REF : TECM
+Nombre : mario 
+Apellido : aguilar
+Cargo : tecnico en mantenimiento
+Direccion : saenz peña 1355
+Ciudad : longchamps
+Telefono : 42331145
+Email : aguilar_mario10@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Soy tecnico electronico pero cuento con amplia experiencia en mecanica, mantenimiento correctivo y preventivo.
+Security_code : xx7vf
+Send : Enviar
+
+---------------
+
+Address : 181.26.39.77
+REF : TECM
+Nombre : mario 
+Apellido : aguilar
+Cargo : tecnico en mantenimiento
+Direccion : saenz peña 1355
+Ciudad : longchamps
+Telefono : 42331145
+Email : aguilar_mario10@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Soy tecnico electronico pero cuento con amplia experiencia en mecanica, mantenimiento correctivo y preventivo.
+Security_code : 3bx8y
+Send : Enviar
+
+---------------
+
+Address : 181.26.39.77
+REF : TECM
+Nombre : mario 
+Apellido : aguilar
+Cargo : tecnico en mantenimiento
+Direccion : saenz peña 1355
+Ciudad : longchamps
+Telefono : 42331145
+Email : aguilar_mario10@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Soy tecnico electronico pero cuento con amplia experiencia en mecanica, mantenimiento correctivo y preventivo. 
+Security_code : 3bx8y
+Send : Enviar
+
+---------------
+
+Address : 181.26.39.77
+REF : TECM
+Nombre : mario 
+Apellido : aguilar
+Cargo : tecnico en mantenimiento
+Direccion : saenz peña 1355
+Ciudad : longchamps
+Telefono : 42331145
+Email : aguilar_mario10@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Soy tecnico electronico pero cuento con amplia experiencia en mecanica, mantenimiento correctivo y preventivo. 
+Security_code : 3bx8y
+Send : Enviar
+
+---------------
+
+Address : 181.26.39.77
+REF : TECM
+Nombre : mario 
+Apellido : aguilar
+Cargo : tecnico en mantenimiento
+Direccion : saenz peña 1355
+Ciudad : longchamps
+Telefono : 42331145
+Email : aguilar_mario10@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Soy tecnico electronico pero cuento con amplia experiencia en mecanica, mantenimiento correctivo y preventivo. 
+Security_code : 2zx4w
+Send : Enviar
+
+---------------
+
+Address : 181.26.39.77
+REF : TECM
+Nombre : mario 
+Apellido : aguilar
+Cargo : tecnico en mantenimiento
+Direccion : saenz peña 1355
+Ciudad : longchamps
+Telefono : 42331145
+Email : aguilar_mario10@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Soy tecnico electronico pero cuento con amplia experiencia en mecanica, mantenimiento correctivo y preventivo. 
+Security_code : 3fm8r
+Send : Enviar
+
+---------------
+
+Address : 190.183.255.186
+REF : GTE COM
+Nombre : Jorge Gustavo
+Apellido :  Silva
+Cargo : Gerente Comercial
+Direccion : Barrio Pujol - Mz. 12 - Casa 14
+Ciudad : Corrientes Capital
+Telefono : 379154586110
+Email : gusilva70@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Vista la oferta laboral para Gerente Comercial, les envío mi CV actualizado con la intención de participar en dicha búsqueda. A la espera de una pronta entrevista, me despido atte. Saludos.
+Jorge Gusrtavo Silva
+Security_code : j9bs6
+Send : Enviar
+
+---------------
+
+Address : 190.183.255.186
+REF : GTE VEN
+Nombre : Jorge Gustavo
+Apellido : Silva
+Cargo : Gerente de Ventas
+Direccion : Barrio Pujol Mz. 12 - Casa 14
+Ciudad : Corrientes Capital
+Telefono : 379154586110
+Email : gusilva70@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Vista la oferta laboral para Gerente de Ventas, les envíomi CV actualizado para que lo tengan en cuenta para dicha búsqueda.
+A la espera de una pronta entrevista, aprovecho la oportunidad para saludarlos atentamente. JGS
+Security_code : httdd
+Send : Enviar
+
+---------------
+
+Address : 181.25.249.192
+Nombre : GUSTAVO ALEJANDRO
+Apellido : FARIAS
+Cargo : Empleado de Deposito
+Direccion : Ingeniero Huergo 2258
+Ciudad : Monte Grande
+Telefono : 42818877
+Email : gustavofarias2010@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : En este momento estoy buscando trabajo,para ello estoy dispuesto a poner en practica todos mis conocimientos y mi experiencia en pos de un empleo seguro.
+Security_code : hh2dn
+Send : Enviar
+
+---------------
+
+Address : 190.193.134.229
+Nombre : Maria Julieta Celeste
+Apellido : Lombardo
+Cargo : Recepcionista ,secretaria, atención al cliente
+Direccion : Hipolito Yrigoyen 2339 dto F
+Ciudad : Bs As, capital federal
+Telefono : 156 571 3625
+Email : julilombardo01@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : .
+Security_code : 7czx9
+Send : Enviar
+
+---------------
+
+Address : 190.104.229.50
+Nombre : Celeste
+Apellido : Diaz
+Cargo : call center
+Direccion : Lomas de zamora- capital federal
+Ciudad : Buenos Aires
+Telefono : 1157108520
+Email : celestealejandra0@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : BUSCO TRABAJO CON EL OBJETIVO DE CRECER PROFESIONALMENTE Y LOGRAR UNA INDEPENDENCIA SALARIAL
+Security_code : 728ny
+Send : Enviar
+
+---------------
+
+Address : 190.104.229.50
+Nombre : Celeste
+Apellido : Diaz
+Cargo : call center
+Direccion : Lomas de zamora- capital federal
+Ciudad : Buenos Aires
+Telefono : 1157108520
+Email : celestealejandra0@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : BUSCO TRABAJO CON EL OBJETIVO DE CRECER PROFESIONALMENTE Y LOGRAR UNA INDEPENDENCIA SALARIAL
+Security_code : 728ny
+Send : Enviar
+
+---------------
+
+Address : 190.174.204.38
+Nombre : Gabriela
+Apellido : Herrera
+Cargo : Secretaria/asistente adm/ recepción
+Direccion : Capitán Rojas 2231
+Ciudad : Banfield
+Telefono : 1153311505
+Email : gsoledadh@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Envío mi CV 
+Security_code : 5nvw
+Send : Enviar
+
+---------------
+
+Address : 190.174.204.38
+Nombre : Gabriela
+Apellido : Herrera
+Cargo : Secretaria/asistente adm/ recepción
+Direccion : Capitán Rojas 2231
+Ciudad : Banfield
+Telefono : 1153311505
+Email : gsoledadh@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Envío CV
+Security_code : pwzqx
+Send : Enviar
+
+---------------
+
+Address : 196.32.74.2
+Nombre : vanina mariel
+Apellido : rodriguez
+Cargo : administracion
+Direccion : mocoreta 4057
+Ciudad : san justo, pcia bs as 
+Telefono : 1550034262
+Email : vanmararg@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimado/a: 
+
+En respuesta al anuncio publicado me dirijo a ustedes con el fin de remitirles mi C.V.  para aspirar al puesto ofertado, ya que seré de gran utilidad para cumplir con  las necesidades que el mismo requiere, con el fin de colaborar al continuo desarrollo de vuestra compañía. 
+Espero tener la oportunidad de conversar con ustedes en una entrevista para personalmente exponerles mis conocimientos y mi deseo de formar parte de su grupo de trabajo. 
+
+Quedo a su disposición para ampliar cuanta información estimen necesaria.
+
+Reciban un cordial saludo,
+
+Rodríguez, Vanina
+vanmararg@hotmail.com
+Cel.: 15-500-34262
+
+
+
+Security_code : m482d
+Send : Enviar
+
+---------------
+

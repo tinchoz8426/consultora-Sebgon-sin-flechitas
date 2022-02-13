@@ -1,0 +1,61 @@
+Address : 181.29.160.28
+Nombre : Christian
+Apellido : Domenichini
+Cargo : Soporte tecnico- telecomunicaciones - helpdesk
+Direccion : Deheza 1534
+Ciudad : Ituzaingo
+Telefono :  1526592558
+Email : cddomechristian1@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Tengo una experiencia de más de 20 años en Tecnologías de la Información. Soy Analista Técnico de hardware, software, telefonía, redes, sistemas de almacenamiento, sistemas de automatización ingeniería de procesos con especialidad DCS y plataformas Invensys-Foxboro, IA Series, especialista en telecomunicaciones sistemas Avaya. 
+Security_code : z6rmn
+Send : Enviar
+
+---------------
+
+Address : 186.23.187.191
+Nombre : José antonio
+Apellido : Lopez badra
+Cargo : Logística 
+Direccion : 2 de mayo 4373
+Ciudad : Buenos aires 
+Telefono : 1564403687
+Email : joselopezbadra@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Acompaño cv
+Security_code : Mm4ts
+Send : Enviar
+
+---------------
+
+Address : 190.137.12.60
+Nombre : Nadia Vanesa
+Apellido : López
+Cargo : Atención al cliente
+Direccion : Celestino Vidal 3071 Barrio Patricios
+Ciudad : Córdoba
+Telefono : 3512316075
+Email : nadialopez_23@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Cuento en mi curriculum n curso idoneo de Operador en Call Center de la prestigiosa institución I.C.I, y varios cursos de capacitación en diferentes áreas, una de ellas Facturación Médica.
+Security_code : xnjkj
+Send : Enviar
+
+---------------
+
+Address : 201.213.97.28
+Nombre : Cintia
+Apellido : Iorgi
+Cargo : Traductora, secretaria bilingue, recepcionista, asistente.
+Direccion : Roca 1281
+Ciudad : Quilmes
+Telefono : +5491137560536
+Email : cintia.iorgi@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : ​Mi nombre es Cintia Iorgi y soy traductora pública de inglés matriculada en el CTPCBA. 
+Poseo 3 años de experiencia como secretaria y recepcionista,​ así como también en tareas de asistencia y coordinación de proyectos. Me considero una persona detallista​ y organizada.
+Security_code : 2kwf5
+Send : Enviar
+
+---------------
+

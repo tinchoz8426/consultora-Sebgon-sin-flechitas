@@ -1,0 +1,126 @@
+Address : 190.55.11.115
+Nombre : Maria Elena
+Apellido : Lewis
+Cargo : Secretaria/ Administrativa
+Direccion : Rafaela 3976
+Ciudad : Capital Federal
+Telefono : (011) 15-3764--8919
+Email : mlewis.was.lewis@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : En caso de dar con el perfil buscado en dichos rubros, agradeceria la posiblidad de concretar una entrevista.
+
+Saludos Cordiales: Lewis Maria Elena
+Security_code : hcjgq
+Send : Enviar
+
+---------------
+
+Address : 200.112.156.112
+Nombre : natalia
+Apellido : ruiz
+Cargo : encargada
+Direccion : entre rios 2281
+Ciudad : Mar del Plata 
+Telefono : (02255)15-528668
+Email : nataliaruiz_220@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : hola soy natalia ruiz y me interesaria mucho estar en su consultura.
+Security_code : yiyg9
+Send : Enviar
+
+---------------
+
+Address : 190.49.244.110
+Nombre : Patrícia
+Apellido : Alcantara
+Cargo : Periodista
+Direccion : Av San Juan 245 Depto 15a
+Ciudad : Capital Federal
+Telefono : 15 3606 2101
+Email : patricia.alfig@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Soy periodista brasileña y hace dos años que estoy cursando una maestria en Historia del Arte en Buenos Aires
+Security_code : sz2z6
+Send : Enviar
+
+---------------
+
+Address : 190.192.153.93
+REF : adper
+Nombre : daiana
+Apellido : stepien
+Cargo : Administrador de rrhh
+Direccion : altolaguirre 1865
+Ciudad : ciudad autonoma de buenos aires
+Telefono : 45230406
+Email : daianastepien@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : En este primer contacto, me complace adjuntar mis datos personales y academicos a fin de ser tomada en cuenta para el puesto.
+Desde ya muchas gracias.
+Security_code : 8nvxz
+Send : Enviar
+
+---------------
+
+Address : 186.110.92.1
+Nombre : Pablo
+Apellido : Perea
+Cargo : Tecnico en Higiene y seguridad
+Direccion : Chacabuco 263
+Ciudad : Tucuman
+Telefono : 0381156117655
+Email : pdp_2282@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me dirijo a uds con el fin de poder cubrir la vacante que estan solicitando para San Miguel de Tucuman para cubrir los servicios externos.
+Adjunto mi curriculum y espero tener noticias prontas.
+Slds.
+Security_code : vypnf
+Send : Enviar
+
+---------------
+
+Address : 190.231.117.67
+Nombre : matias daniel 
+Apellido : canteros
+Cargo : operario
+Direccion : frank lloyd wright 1005
+Ciudad : pablo nogues
+Telefono : 15-34893370
+Email : mdcanteros@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me postulo como operario en cualquier ambito que me sea competente
+Security_code : d2d7t
+Send : Enviar
+
+---------------
+
+Address : 24.232.124.39
+Nombre : Daniel Carmelo
+Apellido : Calbosa
+Cargo : Quimico
+Direccion : Mendoza 5244 4 ºC
+Ciudad : CABA
+Telefono : 45872176
+Email : dccalbosa@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Soy Lic en Quimica con experiencia en el area tecnica y comercial de productos qcos para limpieza y desinfección
+Security_code : 87q93
+Send : Enviar
+
+---------------
+
+Address : 186.58.165.90
+Nombre : OSCAR
+Apellido : RAMOS
+Cargo : CHOFER PROFECIONAL
+Direccion : ricardo gutierrez 1139
+Ciudad : avellaneda
+Telefono : 42019126
+Email : pachu411@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : busco trabajo de chofer tengo experiencia y referencias 
+Security_code : 7q3fz
+Send : Enviar
+
+---------------
+

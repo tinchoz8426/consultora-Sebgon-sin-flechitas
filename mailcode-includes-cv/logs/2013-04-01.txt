@@ -1,0 +1,107 @@
+Address : 181.166.139.139
+Nombre : Noelia Mónica
+Apellido : Varani
+Cargo : Licenciada en Nutrición/Nutricionista
+Direccion : Pasaje Renque Curá 1718
+Ciudad : Capital Federal
+Telefono : 4758-9036
+Email : tati_varani@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Mi nombre es Noelia Mónica Varani aquí les envío mi cv para ser tenida en cuenta en posibles busquedas. Mis valores son la responsabilidad, etica, compromiso, la vocación.
+Security_code : rngs5
+Send : Enviar
+
+---------------
+
+Address : 201.255.108.84
+Nombre : yanina carla
+Apellido : Bozzi
+Cargo : Tecnica en higiene y seguridad ambiental
+Direccion : 11 n 766
+Ciudad : La Plata
+Telefono : 0221-156238670
+Email : yanina.bozzi.ck@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Soy Tecnica en higiene y seguridad ,actualmente cursando la licenciatura, a fin de año me recibo y me gustaría poder ejercer mi carrera .saludos
+Security_code : v6g84
+Send : Enviar
+
+---------------
+
+Address : 201.255.108.84
+Nombre : yanina carla
+Apellido : Bozzi
+Cargo : Tecnica en higine y seguridad industrial
+Direccion : 11 y 91 n 766
+Ciudad : La Plata
+Telefono : 0221156238670
+Email : yanina.bozzi.ck@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola soy técnica como ya nombre arriba ,actualmente cursando la licenciatura ,prota a recibirme y me gustaría poder comenzar a ejercer mi carrera.saludos
+Security_code : 395vn
+Send : Enviar
+
+---------------
+
+Address : 201.255.108.84
+Nombre : yanina carla
+Apellido : bozzi
+Cargo : tecnica en higiene y seguridad industrial
+Direccion : 11y91
+Ciudad : la plata
+Telefono : 0221156238670
+Email : yanina.bozzi.ck@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : hola técnica en higiene y seguridad ,actualmente cursando la licenciatura ,pronta a recibirme ,me gustaría poder empesar a ejercer la carrera ,saludos
+Security_code : nc6zc
+Send : Enviar
+
+---------------
+
+Address : 186.130.34.144
+REF : administrativa-compras
+Nombre : Julieta
+Apellido : Prado
+Cargo : administrativa-compras
+Direccion : Choele choel 184
+Ciudad : Mendoza
+Telefono : 2614985506
+Email : julietaantonellaprado@hotmail.es
+MAX_FILE_SIZE : 2097152
+Mensaje : No tengo remuneracion pretendida, escucho oferta razonable.
+Security_code : 7j257
+Send : Enviar
+
+---------------
+
+Address : 186.56.168.199
+Nombre : Daniela
+Apellido : Alarcon
+Cargo : Recepcionista/Camarera
+Direccion : Sarmiento 3122
+Ciudad : Capital Federal
+Telefono : 02966-15607112
+Email : danush_92@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola, que tal?Mi nombre es Daniela. Actualmente soy estudiante universitaria, me encuentro cursando la carrera de Lic. en composición coreográfica mensiòn danza. Estoy interesada en formar parte de una empresa, ya que estoy en la búsqueda de puesto de medio tiempo que me permita continuar con mis estudios universitarios y a la vez poder desarrollarme y crecer profesionalmente dentro de una empresa. Tengo disponibilidad de Lunes a Lunes de 17:30Hs a 04:00Hs. Desde ya muchas gracias. Saludos!
+Security_code : bpykb
+Send : Enviar
+
+---------------
+
+Address : 186.123.135.209
+REF : tecnico-electornico
+Nombre : Karina
+Apellido : Esquivel
+Cargo : Admin de Compras, Pago a Proveedores, Secretaria Recpcionista
+Direccion : Ruta 7 KM 55.500
+Ciudad : Gral. Rodriguez
+Telefono : 115039-0320
+Email : karu2038@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Busco empleo en zona oeste, en los puestos que antes mencione segun mi perfil. Muchas Gracias  Karina
+Security_code : nf39m
+Send : Enviar
+
+---------------
+

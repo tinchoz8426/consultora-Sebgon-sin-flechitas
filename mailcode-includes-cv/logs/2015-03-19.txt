@@ -1,0 +1,142 @@
+Address : 190.30.154.105
+REF : VEN
+Nombre : Valentina
+Apellido : Montes de Oca
+Cargo : Vendedora
+Direccion : oro 2419
+Ciudad : caba
+Telefono : 1540769630
+Email : valentina.mdo@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Busco empleo
+Security_code : ztrbt
+Send : Enviar
+
+---------------
+
+Address : 190.173.200.163
+Nombre : Leonor Alejandra
+Apellido : Villamayor
+Cargo : Gerente
+Direccion : Nazareth 481
+Ciudad : Temperley
+Telefono : 1553841205
+Email : leuvillamayor@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Soy una persona que le gusta crecer y me adapto muy bien a los cambios. Creo que el trabajo en equipo es la mejor solución para que el trabajo salga bien y la empresa obtenga buenos resultados. 
+
+Espero poder cumplir con sus expectativas.
+Desde ya muchas gracias
+Security_code : 4j6yj
+Send : Enviar
+
+---------------
+
+Address : 190.48.140.59
+Nombre : María de los Angeles 
+Apellido : Berisso
+Cargo : encuestadora
+Direccion : Padre Varvello 170
+Ciudad : Paso del Rey
+Telefono : 1557098126
+Email : angelesberisso@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Les adjunto mi CV, para postularme como encuestadora o algun puesto siñilar. Gracias.
+Security_code : dzzt8
+Send : Enviar
+
+---------------
+
+Address : 190.48.140.59
+Nombre : María de los Angeles 
+Apellido : Berisso
+Cargo : encuestadora
+Direccion : Padre Varvello 170
+Ciudad : Paso del Rey
+Telefono : 1557098126
+Email : angelesberisso@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Les adjunto mi CV, para postularme como encuestadora o algún puesto similar. Gracias.
+Security_code : dzzt8
+Send : Enviar
+
+---------------
+
+Address : 181.46.56.30
+Nombre : Viviana 
+Apellido : Rial
+Cargo : Administrativa
+Direccion : Basavilbaso 1758 - 5° B
+Ciudad : Lanús Este
+Telefono : 1550941376
+Email : sweetfreckles30@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : 
+Estimados, buenas tardes!
+
+Antes que nada, disculpas por la molestia.
+
+He consultado a través de la página web a dónde podría enviar mi CV y me han informado esta dirección de email.
+
+Hago envío del mismo por cualquier oferta laboral acorde a mi pérfil.
+
+Desde ya muchas gracias!
+
+Viviana Rial
+Security_code : brxph
+Send : Enviar
+
+---------------
+
+Address : 181.46.56.30
+Nombre : Viviana 
+Apellido : Rial
+Cargo : Administrativa
+Direccion : Basavilbaso 1758 - 5° B
+Ciudad : Lanús Este
+Telefono : 1550941376
+Email : sweetfreckles30@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : 
+Estimados, buenas tardes!
+
+Antes que nada, disculpas por la molestia.
+
+He consultado a través de la página web a dónde podría enviar mi CV y me han informado esta dirección de email.
+
+Hago envío del mismo por cualquier oferta laboral acorde a mi pérfil.
+
+Desde ya muchas gracias!
+
+Viviana Rial
+Security_code : brxph
+Send : Enviar
+
+---------------
+
+Address : 181.46.56.30
+Nombre : Viviana 
+Apellido : Rial
+Cargo : Administrativa
+Direccion : Basavilbaso 1758 - 5° B
+Ciudad : Lanús Este
+Telefono : 1550941376
+Email : sweetfreckles30@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : 
+Estimados, buenas tardes!
+
+Antes que nada, disculpas por la molestia.
+
+He consultado a través de la página web a dónde podría enviar mi CV y me han informado esta dirección de email.
+
+Hago envío del mismo por cualquier oferta laboral acorde a mi pérfil.
+
+Desde ya muchas gracias!
+
+Viviana Rial
+Security_code : 82fym
+Send : Enviar
+
+---------------
+

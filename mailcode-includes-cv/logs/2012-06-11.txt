@@ -1,0 +1,16 @@
+Address : 190.179.142.47
+Nombre : Rosalinda Dominga
+Apellido : Aguirrre
+Cargo : Técnico en higiene y seguridad laboral
+Direccion : Bº huarpes II mza7 casa 18 Carrodilla, Lujan
+Ciudad : Mendoza
+Telefono : 2614363795
+Email : cachita_00@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Quisiera poder ser parte de la organizacón seguir capacitandome ya q no tengo experiencias solo unas pasantias de las cuales me han servido mucho solo necesito una oportunidad de poder brindar mis conocimientos.
+  Muchas gracias
+Security_code : p9qz3
+Send : Enviar
+
+---------------
+

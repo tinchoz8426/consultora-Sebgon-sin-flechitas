@@ -1,0 +1,15 @@
+Address : 190.48.207.53
+Nombre : María Florencia
+Apellido : Stagliano
+Cargo : Recursos Humanos
+Direccion : Entre Ríos 1143- Ciudad de Luzuriaga
+Ciudad : La Matanza
+Telefono : 1568348196
+Email : florencia.stagliano@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estoy en la busqueda de trabajo para el área de recursos humanos, ya sea part o full time, mi deseo es poder adquirir experiencia en el área.
+Security_code : jf9wd
+Send : Enviar
+
+---------------
+

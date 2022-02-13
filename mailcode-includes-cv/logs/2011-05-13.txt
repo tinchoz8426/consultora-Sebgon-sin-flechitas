@@ -1,0 +1,43 @@
+Address : 190.190.29.53
+Nombre : Silvio
+Apellido : Arancibia
+Cargo : seguridad e higiene
+Direccion : jose marmol 270
+Ciudad : lanus
+Telefono : 42401710
+Email : cylbio@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : De mi consideración:
+                              
+Por la presente envío mi CV para ser tenido en cuenta, en el momento que la empresa necesite incorporar personal.
+
+Sin otro particular saludo atentamente.
+Security_code : 3m6bj
+Send : Enviar
+
+---------------
+
+Address : 201.231.61.153
+Nombre : Natalia Belén 
+Apellido : Ortiz
+Cargo : selectora
+Direccion : chile 42 piso 3.dpto B
+Ciudad : Córdoba
+Telefono : 0351-153491088
+Email : nati86_04@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : 														Estimados,
+
+Vista la Oferta Laboral Profesional RRHH les hago llegar mis datos personales y profesionales en Currículum Vitae a fin de ser tenido en cuenta como candidato.
+
+Con la convicción de poseer el perfil requerido para un muy buen desempeño en el cargo a cubrir, quedo a entera disposición para hacerle llegar, sea en una entrevista personal o por el medio que se me indique, las ampliaciones y/o la documentación probatoria correspondiente.
+
+Esperando una respuesta positiva lo saluda atentamente,
+
+    Natalia Ortiz
+
+Security_code : sjny2
+Send : Enviar
+
+---------------
+

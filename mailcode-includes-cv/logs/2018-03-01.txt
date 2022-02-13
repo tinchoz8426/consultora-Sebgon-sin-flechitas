@@ -1,0 +1,234 @@
+Address : 186.129.193.21<br>
+ <br>Nombre : Florencia 
+ <br>Apellido : Luna 
+ <br>Cargo : Atención al público 
+ <br>Direccion : 3 de febrero 5668
+ <br>Ciudad : Mar del plata
+ <br>Telefono : 2235575656
+ <br>Email : Florencialuna27@gmail.com 
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Soy una persona dispuesta a trabajar y aprender nuevas experiencia laborales. 
+ <br>Security_code : rrsyj
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.83.12<br>
+ <br>REF : SP-1
+ <br>Nombre : Antonio Eduardo
+ <br>Apellido : Figueroa
+ <br>Cargo : Suprvisor de produccion
+ <br>Direccion : Washington 4069 francisco alvarez
+ <br>Ciudad : Bs as 
+ <br>Telefono : 1136364977
+ <br>Email : rome-fig@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Muy responsable y dinamico,etc.
+ <br>Security_code : W5tn5
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.194.102.74<br>
+ <br>Nombre : Marina
+ <br>Apellido : Gandolfo
+ <br>Cargo : Producción-Calidad
+ <br>Direccion : Chañar 1045
+ <br>Ciudad : Lincoln
+ <br>Telefono : 02355-15574117
+ <br>Email : marina_gandolfo@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados, adjunto CV por posible oferta laboral. Soy Ingeniera en Alimentos recibida en la UNNOBA en Junin. Actualmente me desempeño como Directora de Bromatología, pero al ser un puesto temporario (Gobierno de turno) sigo en búsqueda activa de nueva propuesta laboral. Me intertesa el área de producción o calidad. 
+
+Mi objetivo de un nuevo puesto es principalmente crecer profesionalmente, aprender y trabajar en un buen clima laboral. Por ello solicito tenga a bien de tenerme en cuenta para cualquier propuesta.
+
+Me considero una persona proactiva, responsable, puntual, que aprende rápido, con capacidad para resolver los problemas que surgen, con buen manejo de personal.
+
+Cualquier duda, contarán con contactos para pedir referencias.
+
+Dispongo de posibilidad para radicarme en cualquier ciudad. 
+
+Muchas gracias.
+
+Saludos
+
+Marina Gandolfo
+ <br>Security_code : my8wt
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.47.109.114<br>
+ <br>REF : ACO-1
+ <br>Nombre : Luis
+ <br>Apellido : Noriega
+ <br>Cargo : Analista de comercio exterior
+ <br>Direccion : Gral Jose Gervasio Artigas, 1801 piso 5 apto 23
+ <br>Ciudad : ciudad autonoma de buenos aire
+ <br>Telefono : +54 1122546904
+ <br>Email : luisnoriega85@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Con la convicción de poseer el perfil requerido para un muy buen desempeño en el cargo a cubrir, quedo a entera disposición para hacerle llegar, sea en una entrevista personal o por el medio que se me indique, las ampliaciones y/o la documentación probatoria correspondiente.
+
+
+
+Esperando una respuesta positiva lo saluda atentamente,
+
+Lcdo. Luis Noriega
+ <br>Security_code : hdsdw
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.47.139.213<br>
+ <br>REF : TM-2
+ <br>Nombre : Mauro
+ <br>Apellido : Garcia
+ <br>Cargo : Tecnico Mecanico
+ <br>Direccion : Beruti 34
+ <br>Ciudad : Avellaneda
+ <br>Telefono : 011538292408
+ <br>Email : mau.garcia2@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Que tal? 
+Adjunto mi CV para ser tenido en cuenta.
+
+Gracias
+ <br>Security_code : xv57n
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.45.232.195<br>
+ <br>REF : TE-1
+ <br>Nombre : Ángel Gastón
+ <br>Apellido : Acosta
+ <br>Cargo : Técnico eléctrico
+ <br>Direccion : Guido 3049
+ <br>Ciudad : Pilar
+ <br>Telefono : 1136341812
+ <br>Email : angel_acosta1@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas tardes, cuento con la experiencia necesaria el puesto y el compromiso a realizar trabajos en grupo y solo.
+ <br>Security_code : Qngc9
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.47.139.213<br>
+ <br>REF : TM-2
+ <br>Nombre : Mauro
+ <br>Apellido : Garcia
+ <br>Cargo : Tecnico Mecanico
+ <br>Direccion : Beruti 34
+ <br>Ciudad : Avellaneda
+ <br>Telefono : 011538292408
+ <br>Email : mau.garcia2@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Que tal? 
+Adjunto mi CV para ser tenido en cuenta.
+
+Gracias
+ <br>Security_code : xv57n
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.45.232.195<br>
+ <br>REF : TE-1
+ <br>Nombre : Ángel Gastón
+ <br>Apellido : Acosta
+ <br>Cargo : Técnico eléctrico
+ <br>Direccion : Guido 3049
+ <br>Ciudad : Pilar
+ <br>Telefono : 1136341812
+ <br>Email : angel_acosta1@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas tardes, cuento con la experiencia necesaria el puesto y el compromiso a realizar trabajos en grupo y solo.
+ <br>Security_code : qngc9
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.47.139.213<br>
+ <br>REF : TM-2
+ <br>Nombre : Mauro
+ <br>Apellido : Garcia
+ <br>Cargo : Tecnico Mecanico
+ <br>Direccion : Beruti 34
+ <br>Ciudad : Avellaneda
+ <br>Telefono : 011538292408
+ <br>Email : mau.garcia2@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Que tal? 
+Adjunto mi CV para ser tenido en cuenta.
+
+Gracias
+ <br>Security_code : njcym
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.16.121.63<br>
+ <br>REF : EP-1
+ <br>Nombre : Matías
+ <br>Apellido : Obregón
+ <br>Cargo : Jefe/Encargado
+ <br>Direccion : Montevideo 443
+ <br>Ciudad : GENERAL PACHECO (CP=1617)
+ <br>Telefono : 1155080972
+ <br>Email : matias_obregon@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Adjunto mi Cv en formato PDF
+ <br>Security_code : y9frm
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.130.16.132<br>
+ <br>Nombre : nestor david
+ <br>Apellido : Delacoste
+ <br>Cargo : empleado
+ <br>Direccion : Marconi 1074
+ <br>Ciudad : San Miguel
+ <br>Telefono : 351-7874715
+ <br>Email : davidelacoste@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Aquí les adjunto mi curriculum con numero de teléfono para cualquier consulta o entrevista
+ <br>Security_code : y68dt
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.255.127.68<br>
+ <br>REF : TE-1
+ <br>Nombre : Lucas German
+ <br>Apellido : Rojo
+ <br>Cargo : Tecnico electromecanico
+ <br>Direccion : Honduras 755
+ <br>Ciudad : Merlo
+ <br>Telefono : 15-65904807
+ <br>Email : lucas_rojo_95@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Deseo solicitar una oportunidad de empleo en dicho puesto.
+ <br>Security_code : cxmfn
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.95.190.137<br>
+ <br>REF : TE-1
+ <br>Nombre : Darwin
+ <br>Apellido : Davila
+ <br>Cargo : Tecnico Electrico
+ <br>Direccion : Residencias El Jebito
+ <br>Ciudad : El Tocuyo
+ <br>Telefono : +584126782942
+ <br>Email : darwinevencio@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Soy Extranjero tengo la capacidad de cambiar el pais de residencia
+ <br>Security_code : 444rk
+ <br>Send : Enviar
+ <br>
+---------------
+

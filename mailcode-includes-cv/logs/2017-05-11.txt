@@ -1,0 +1,68 @@
+Address : 201.249.58.90<br>
+ <br>REF : SP-1
+ <br>Nombre : Victor
+ <br>Apellido : Duque
+ <br>Cargo : Supervisor de producción
+ <br>Direccion : viamonte 1727
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : +5491161331352
+ <br>Email : victormduquef@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Persona comprometida, proactiva, innovadora, emprendedora, con capacidad para asumir retos y cumplir metas, con deseos de superación profesional y crecimiento personal, con facilidades para el trabajo en equipo, dominio de grupos y trabajo bajo presión. 
+Lectura e interpretación de planos, disciplinas mecánica, electricidad, civil, instrumentación y procesos.
+Conocimiento en procesos de contratación, licitaciones, análisis de precios unitarios, manejo de contratistas, planificación y control de proyectos y contratos.
+Manejo de herramientas: Manejo del paquete Microsoft Office, Project, Autocad. Manejo del idioma inglés (nivel intermedio).
+
+ <br>Security_code : mypv4
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.252.86.40<br>
+ <br>REF : EP-1
+ <br>Nombre : Matias
+ <br>Apellido : Dotras
+ <br>Cargo : Encargado de Produccion
+ <br>Direccion : Quintanilla 841
+ <br>Ciudad : Tigre
+ <br>Telefono : 47487457
+ <br>Email : matidotras@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : estoy muy interesado en el puesto
+ <br>Security_code : 64bhs
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.194.199.69<br>
+ <br>REF : SP-1
+ <br>Nombre : Hari
+ <br>Apellido : Medina Mendez
+ <br>Cargo : Supervisor de produccion
+ <br>Direccion : Av Santa Fe 3229 6° C
+ <br>Ciudad : Recoleta
+ <br>Telefono : 1150218475
+ <br>Email : harimedina08@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas tardes,en archivo adjunto les anexo mi curriculum,para participar en el proceso de selección, en la vacante de supervisor de producción. Agradezco la atención recibida,me despido quedando atento. Hari Medina
+ <br>Security_code : p9rf4
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.137.239.154<br>
+ <br>REF : JPER-1
+ <br>Nombre : Nancy Alejandra
+ <br>Apellido : Fernandez
+ <br>Cargo : JPER-1
+ <br>Direccion : Rio Bermejo 8950
+ <br>Ciudad : Loma Hermosa-Part. Tres de Febrero
+ <br>Telefono : 15-2534-4217
+ <br>Email : nancy_alejandra_fernandez@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Soy una profesional del Area de RRHH .
+ <br>Security_code : jsfgw
+ <br>Send : Enviar
+ <br>
+---------------
+

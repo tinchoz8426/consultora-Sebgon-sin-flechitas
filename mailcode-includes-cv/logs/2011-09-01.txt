@@ -1,0 +1,36 @@
+Address : 200.114.178.68
+Nombre : Jorge Eduardo
+Apellido : Carlsson
+Cargo : Agente de Propaganda medica (APM)/Ventas
+Direccion : Condarco 5074
+Ciudad : Capital Federal
+Telefono : 011-45730482
+Email : jorgecarlsson@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Solicito su atención para busqueda laboral según lo descripto en la parte superior
+Security_code : sxhvt
+Send : Enviar
+
+---------------
+
+Address : 186.153.132.98
+Nombre : Romina
+Apellido : Novoa
+Cargo : Recursos Humanos
+Direccion : Santiago 5621
+Ciudad : Isidro Casanova
+Telefono : 46694496
+Email : rominanovoa@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados
+
+Les acerco mi Cv a fin de que puedan evaluarlo para alguna posición que deban cubrir en el sector de RRHH.
+
+Desde ya muchas gracias
+
+Saludos
+Security_code : yfmtc
+Send : Enviar
+
+---------------
+

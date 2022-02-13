@@ -1,0 +1,183 @@
+Address : 179.39.58.213
+Nombre : María Laura
+Apellido : Amarilla
+Cargo : Diseñadora Gráfica
+Direccion : Ciudad de la Paz 1972
+Ciudad : Capital Federal
+Telefono : 1150619343
+Email : lau.amar2@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenos Días:
+  Les adjunto mi currículum para que me tengan en cuenta en futuras búsquedas.
+Saludos atentamente.
+Laura.
+Security_code : 5xhs2
+Send : Enviar
+
+---------------
+
+Address : 179.39.58.213
+Nombre : María Laura
+Apellido : Amarilla
+Cargo : Diseñadora Gráfica
+Direccion : Ciudad de la Paz 1972
+Ciudad : Capital Federal
+Telefono : 1150619343
+Email : lau.amar2@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenos Días:
+  Les adjunto mi currículum para que me tengan en cuenta en futuras búsquedas.
+Saludos atentamente.
+Laura.
+Security_code : 5xhs2
+Send : Enviar
+
+---------------
+
+Address : 179.39.58.213
+Nombre : María Laura
+Apellido : Amarilla
+Cargo : Diseñadora Gráfica
+Direccion : Ciudad de la Paz 1972
+Ciudad : Capital Federal
+Telefono : 1150619343
+Email : lau.amar2@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenos Días:
+  Les adjunto mi currículum para que me tengan en cuenta en futuras búsquedas.
+Saludos atentamente.
+Laura.
+Security_code : 5xhs2
+Send : Enviar
+
+---------------
+
+Address : 179.39.58.213
+Nombre : María Laura
+Apellido : Amarilla
+Cargo : Diseñadora Gráfica
+Direccion : Ciudad de la Paz 1972
+Ciudad : Capital Federal
+Telefono : 1150619343
+Email : lau.amar2@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenos Días:
+  Les adjunto mi currículum para que me tengan en cuenta en futuras búsquedas.
+Saludos atentamente.
+Laura.
+Security_code : 5xhs2
+Send : Enviar
+
+---------------
+
+Address : 179.39.58.213
+Nombre : María Laura
+Apellido : Amarilla
+Cargo : Diseñadora Gráfica
+Direccion : Ciudad de la Paz 1972
+Ciudad : Capital Federal
+Telefono : 1150619343
+Email : lau.amar2@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenos Días:
+  Les adjunto mi currículum para que me tengan en cuenta en futuras búsquedas.
+Saludos atentamente.
+Laura.
+Security_code : vf2n4
+Send : Enviar
+
+---------------
+
+Address : 179.39.58.213
+Nombre : María Laura
+Apellido : Amarilla
+Cargo : Diseñadora Gráfica
+Direccion : Ciudad de la Paz 1972
+Ciudad : Capital Federal
+Telefono : 1150619343
+Email : lau.amar2@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenos Días:
+  Les adjunto mi currículum para que me tengan en cuenta en futuras búsquedas.
+Saludos atentamente.
+Laura.
+Security_code : vf2n4
+Send : Enviar
+
+---------------
+
+Address : 179.39.58.213
+Nombre : María Laura
+Apellido : Amarilla
+Cargo : Diseñadora Gráfica
+Direccion : Ciudad de la Paz 1972
+Ciudad : Capital Federal
+Telefono : 1150619343
+Email : lau.amar2@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenos Días:
+  Les adjunto mi currículum para que me tengan en cuenta en futuras búsquedas.
+Saludos atentamente.
+Laura.
+Security_code : ts6v9
+Send : Enviar
+
+---------------
+
+Address : 181.95.183.207
+REF : GTEP
+Nombre : Eduardo
+Apellido : Aiassa
+Cargo : Gerente de Planta
+Direccion : Navarro 3546
+Ciudad : Capital Federal
+Telefono : 15-5737-8680
+Email : eduardo.aiassa@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados Señores,
+Durante los últimos 17 años me he desempeñado como Gerente de Planta en la industria, 10 en alimentos y bebidas. Tengo una fuerte experiencia en la gestión integral de unidades de negocio, coordinando grupos de trabajo sindicalizados. Dentro de los cuales destaco producción, programación y control de la producción, calidad, proyectos y mantenimiento. Las fortalezas las destaco en accionamiento sobre costos, utilización de herramientas de calidad, cambio cultural y cumplimiento de objetivos de rentabilidad. Asimismo poseo experiencia internacional de 20 años en empresas como Goodyear y Culligan (alim y bebidas).
+ 
+Soy ingeniero, avanzado en inglés, fluído en portugués, cuento con más de quince años de experiencia como Gerente en la industria, y 20 en industrias multinacionales líderes. 
+ 
+Estoy disponible para reunirme con Uds. a su entera conveniencia para discutir mi background.
+Cordialmente,
+ 
+Ing. EDUARDO F. AIASSA
+(011) 15-5737-8680
+eduardo.aiassa@gmail.com
+Security_code : 7x52b
+Send : Enviar
+
+---------------
+
+Address : 181.46.54.63
+Nombre : Belen
+Apellido : Ambrustolo
+Cargo : Administrativo, recepcion
+Direccion : Arenales 1311
+Ciudad : Buenos Aires
+Telefono : 1560305194
+Email : belenambrustolo@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : A continuación adjunto mi cv, con el fin que se me considere para futuras búsquedas acordes a mi perfil.
+Security_code : 5jycz
+Send : Enviar
+
+---------------
+
+Address : 200.43.230.15
+REF : GTEP
+Nombre : Jorge
+Apellido : Deriu
+Cargo : GTEP
+Direccion : Julian Alvares 1708
+Ciudad : CABA
+Telefono : 2267 15665320
+Email : academico2010@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Les adjunto mi CV considero postularme al puesto ofrecido
+Security_code : jmhrt
+Send : Enviar
+
+---------------
+

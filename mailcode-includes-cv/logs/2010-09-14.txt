@@ -1,0 +1,79 @@
+Address : 200.59.250.191
+REF : exp
+Nombre : Dario Nicolas
+Apellido : Cerda
+Cargo : tecnico o Administrativo
+Direccion : cohihue 210
+Ciudad : centenario - neuquen
+Telefono : (0299) 155 466 310
+Email : dario_cerdhotmail.coma
+MAX_FILE_SIZE : 2097152
+Mensaje : Quisiera que se me de la oportunidad de alguna entrevista para algun puesto vacante y asi poder mostrar mi predisposicion para el trabajo. 
+Security_code : 4cxbj
+Send : Enviar
+
+---------------
+
+Address : 200.59.250.191
+Nombre : Dario Nicolas 
+Apellido : Cerda
+Cargo : Tecnico o Administrativo
+Direccion : Coihue 210
+Ciudad : Centenario - Neuquen 
+Telefono : (0299) 155 466 310
+Email : dario_cerda@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Quisiera tener la oportunidad de una entrevista para algun puesto vacante que se adpte a mi perfil y asi poder mostrar mi ganas y predisposicion para trabajar
+Security_code : p2jmz
+Send : Enviar
+
+---------------
+
+Address : 200.59.250.191
+REF : adper
+Nombre : Dario Nicolas
+Apellido : Cerda
+Cargo : Adminitrativo de Personal
+Direccion : saihueque 210
+Ciudad : centenario - neuquen 
+Telefono : 0299 - 155 466 310
+Email : dario_cerda@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Por alguna entrevista por favor estoy a la espera de que se me contacte. gracias
+Security_code : 4rkp6
+Send : Enviar
+
+---------------
+
+Address : 190.16.14.93
+REF : gerente-financiero
+Nombre : Carlos Alberto
+Apellido : Loza Cuello
+Cargo : Administrativo - Atención al cliente
+Direccion : belgrano 103 - 6h
+Ciudad : Córdoba
+Telefono : 03524 - 15527469
+Email : y_yo517@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Muchas Grcias
+Security_code : c7p3h
+Send : Enviar
+
+---------------
+
+Address : 190.16.14.93
+REF : gerente-financiero
+Nombre : carlos alberto
+Apellido : loza cuello
+Cargo : administrativo - atencion al cliente
+Direccion : belgrano 103 - 6h
+Ciudad : cordoba
+Telefono : 03524 - 15527469
+Email : y_yo517@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : muchas gracias
+Security_code : jvv23
+Send : Enviar
+
+---------------
+

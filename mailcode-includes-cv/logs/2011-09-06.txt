@@ -1,0 +1,63 @@
+Address : 186.12.13.180
+REF : gerente-de-operaciones
+Nombre : Cristian Ariel
+Apellido : Alvarez
+Cargo : gerente-de-operaciones
+Direccion : Nueva Provincia 2173
+Ciudad : Bahia Blanca
+Telefono : 0291-4553173
+Email : alvarezcristian_ariel@live.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : espero poder calificar, desde ya muchas gracias
+Security_code : fp7k2
+Send : Enviar
+
+---------------
+
+Address : 186.12.13.180
+REF : tecnico-de-mantenimiento
+Nombre : Cristian Ariel
+Apellido : Alvarez
+Cargo : tecnico-de-mantenimiento
+Direccion : Nueva Provincia 2173
+Ciudad : Bahia Blanca
+Telefono : 0291-4553173
+Email : alvarezcristian_ariel@live.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Espero calificar para su busqueda
+Security_code : 9sjzw
+Send : Enviar
+
+---------------
+
+Address : 186.57.17.62
+Nombre : martín hernan
+Apellido : acosta
+Cargo : operario
+Direccion : santa clara 252
+Ciudad : lujan
+Telefono : 02323-438223
+Email : martinhernanacosta@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : busco trabajo en la zona de lujan
+Security_code : cfyq7
+Send : Enviar
+
+---------------
+
+Address : 186.130.178.38
+REF : responsable-mantenimiento
+Nombre : fernando
+Apellido : barretto
+Cargo : Soporte IT Semi Jr - Tecnico en Informatica
+Direccion : pellico 1545
+Ciudad : Paso del Rey
+Telefono : 011-15-6102-0004
+Email : f.graficos@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Por favor tenagn en cuenta mi c.v. para sus ofertas laborales
+Security_code : 9v3jj
+Send : Enviar
+
+---------------
+

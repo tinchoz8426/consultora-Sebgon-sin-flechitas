@@ -1,0 +1,46 @@
+Address : 190.84.144.43
+Nombre : Yomaira Andrea
+Apellido : Prieto Bustos
+Cargo : Director de Recursos Humanos
+Direccion : calle 169a n. 55a-49 torre 1 apto 601
+Ciudad : Bogotá
+Telefono : 3007472903
+Email : psicologarh@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados Señores,
+
+La presente es con el objeto de enviarles mi hoja de vida para ofertas relacionadas con la Dirección de Recursos Humanos.
+
+Cuento con una amplia trayectoria en RRHH en la que he logrado resultados importantes para la gestión estratégica del talento humano.
+
+Me encantaría poder ampliar la información consignada en mi hoja de vida por lo tanto, si lo estiman conveniente podemos acordar una entrevista personal o reunión por skype.
+
+Agradezco su atención y quedo atenta a sus comentarios.
+
+Cordial Saludo,
+
+Yomaira Andrea Prieto
+skype: andrea.prieto3
+Celular: 3007472903
+fijo: 6941065 
+
+Security_code : 6p869
+Send : Enviar
+
+---------------
+
+Address : 181.164.84.71
+Nombre : Cristian Andrés
+Apellido : Encina
+Cargo : Repositor, cadete administrativo
+Direccion : Progreso 565
+Ciudad : Buenos Aires
+Telefono : 1532872174
+Email : cristianaencina@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto C.V. a fin de ser tenido en cuenta en sus actuales y/o futuras búsquedas laborales.
+Security_code : qbgcx
+Send : Enviar
+
+---------------
+

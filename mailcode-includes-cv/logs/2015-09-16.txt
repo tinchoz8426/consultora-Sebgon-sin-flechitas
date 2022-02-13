@@ -1,0 +1,137 @@
+Address : 186.57.34.30
+Nombre : Ponciano
+Apellido : Potes
+Cargo : Dibujante Proyectista
+Direccion : Rivadavia 4396
+Ciudad : Olavarria
+Telefono : +549 2284 638093
+Email : ppotes@imposa.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimado/a responsable de RRHH. 
+                                                        Mi nombre es Ponciano Potes, soy un joven profesional M.M.O, con un marcado perfil técnico. Actualmente me encuentro en la búsqueda de nuevos horizontes laborales.
+Me desarrollo en gestión/documentación técnica y producción, en áreas relacionadas a la construcción, tanto civil como metalúrgica.
+Por mi formación y trayectoria he adquirido aptitudes, competencias y conocimientos que me permiten asegurar que soy capaz para cubrir un puesto acorde a mi perfil, como así también afrontar el compromiso y predisposición por desarrollar nuevas actividades.
+Me considero una persona joven, responsable, en la constante búsqueda de crecimiento personal, tomando el auto-desafío como medio de canalización, sin responsabilizar el entorno o contexto.
+Sin más extensión, me despido, solicitando una pronta respuesta, e invitándolos a visitar mi perfil profesional Linkedin ( https://ar.linkedin.com/in/ppotes  )
+  
+Atte. Ponciano Potes
+
+Security_code : g9hhd
+Send : Enviar
+
+---------------
+
+Address : 168.96.252.161
+Nombre : Mariano
+Apellido : Tiseyra
+Cargo : Contador/Auditor/Analista Contable
+Direccion : Tunuyán 133   Lomas de Zamora
+Ciudad : Lomas de Zamora, GBA Sur
+Telefono : 1135079415
+Email : tiseyram@yahoo.com
+MAX_FILE_SIZE : 2097152
+Mensaje : .
+Security_code : rg39k
+Send : Enviar
+
+---------------
+
+Address : 190.139.43.20
+Nombre : Antonio
+Apellido : Vargas
+Cargo : Empleado
+Direccion : Bº 80 viv mz b casa 4
+Ciudad : Paso de los libres 
+Telefono : 03772-15435531
+Email : antoniovargas@live.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenas Tardes, Aquí eh dejado mi curriculum vitae
+Security_code : 5cb9g
+Send : Enviar
+
+---------------
+
+Address : 190.136.176.178
+Nombre : Maria Laura
+Apellido : Niz
+Cargo : administrativa
+Direccion : Bolivar 4983
+Ciudad : Villa Ballester
+Telefono : 0111553278186
+Email : aliromoreti@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenas tardes adjunto mi cv para futuras vacantes en puestos de atención al publico, tareas contables, recepcionista
+Security_code : 55gnn
+Send : Enviar
+
+---------------
+
+Address : 190.97.40.55
+Nombre : guillermina paola
+Apellido : sanchez
+Cargo : atencion al publico,administracion,secretaria
+Direccion : tucuman 925
+Ciudad : bahia blanca
+Telefono : (291)154223881
+Email : guipao18@outlook.com
+MAX_FILE_SIZE : 2097152
+Mensaje : dispuesta a integrarme a un nuevo cambio en equipo
+Security_code : qgddw
+Send : Enviar
+
+---------------
+
+Address : 190.136.172.50
+Nombre : Facundo
+Apellido : Guaytima Quiles
+Cargo : Vendedor, administrativo, cajero
+Direccion : general paz 1365
+Ciudad : villa ballester
+Telefono : 1538293005
+Email : facu_guaytima@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto mi CV para busquedas laborales. 
+Security_code : x2t34
+Send : Enviar
+
+---------------
+
+Address : 190.15.210.227
+REF : ASCO
+Nombre : Francisco Javier
+Apellido : Leon
+Cargo : Comercial , ventas
+Direccion : Boulonge Sur Mer y JA Calle 5to A
+Ciudad : Mendoza
+Telefono : 0261 153015810
+Email : limalimon042000@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Dispuesto a aprender y a escuchar , creo en el trabajo en equipo
+Security_code : pbjnv
+Send : Enviar
+
+---------------
+
+Address : 186.19.185.196
+Nombre : Rodrigo Ariel
+Apellido : PRADIER
+Cargo : Selección y Reclutamiento de Personal
+Direccion : Alto Perú Nª142
+Ciudad : José María EZEIZA
+Telefono : 01138856883
+Email : tranerpra@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Escribo con el fin de poder ejercer conjuntamente con Uds. la actividad de Selección y Reclutamiento de Personal, en carácter de freelance.
+
+Cuento con experiencia en el campo de las Pericias de Identificaciones e idoneidades de perfiles, dentro de una fuerza de seguridad que integro (Servicio Penitenciario Federal) desde el 2007. Y amplio desarrollo en la operatividad de la comunicación social y digital, contando con matricula profesional nacional ante el Consejo Profesional de Ingeniería de Telecomunicaciones, Electrónica y Computación.-
+
+Poseo amplia formación en psico-grafotécnicas (anotación ante la Asociación de Grafólogos Oficiales de la República Argentina), como recurso principal para identificación y selección de perfiles y roles o características en sujetos. Y actualmente tramitando la Titulación de Grado, ya finalizada su cursada, en la Maestría en Psicología Industrial - Organizacional y Gestión de Recursos Humanos ante el Centro de Formación de la UNESCO.-
+
+Para su mejor proveer, se adjunta a la misma, el C.V.
+
+Atte...
+Security_code : g5bz3
+Send : Enviar
+
+---------------
+

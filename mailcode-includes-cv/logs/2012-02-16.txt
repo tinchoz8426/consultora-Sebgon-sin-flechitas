@@ -1,0 +1,45 @@
+Address : 190.179.194.89
+Nombre : Oscar Alfredo
+Apellido : Rojas
+Cargo : Ingeniero Industrial
+Direccion : Los Olmos 1229
+Ciudad : Mendoza
+Telefono : 0261 - 155028685
+Email : oscar_rojas84@hotmail.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados,
+
+Adjunto mi CV para formar parte de su base de datos y postularme a futuras búsquedas laborales acordes a mi perfil.
+
+Muchas gracias
+Security_code : ctjxw
+Send : Enviar
+
+---------------
+
+Address : 190.48.229.64
+Nombre : Gustavo Javier
+Apellido : Martínez Acosta
+Cargo : Gerencia Marketing/Comercial/Ventas
+Direccion : Vucetich 2298
+Ciudad : Castelar, Pcia.de Buenos Aires
+Telefono : 44833878
+Email : gmartinezacosta@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimado Sres,
+
+Tengo el agrado de dirigirme a Ustedes con el fin de acercarles mi CV.
+Desde ya sería un Honor poder ser considerado en futuras búsquedas,
+
+Quedando a su disposición,
+
+Saluda Atte.,
+
+Lic. Gustavo J. Martínez Acosta
+Cel.: 153 341 2690
+
+Security_code : mwq4j
+Send : Enviar
+
+---------------
+

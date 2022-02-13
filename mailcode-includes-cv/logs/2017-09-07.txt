@@ -1,0 +1,51 @@
+Address : 190.194.176.142<br>
+ <br>Nombre : Natalia
+ <br>Apellido : Flea
+ <br>Cargo : T{ecnico Higiene y Seguridad Laboral
+ <br>Direccion : Alsina 5079
+ <br>Ciudad : San Martin
+ <br>Telefono : 1165707535
+ <br>Email : nataliaflea@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenos días. Mi nombre es Natalia, me encuentro cursando el último año de la Carrera Técnico en Higiene y Seguridad Laboral. Les envio mi Curriculum para futuras búsquedas.
+Desde ya muchas gracias.
+Saludos.
+Natalia
+
+ <br>Security_code : bz6gj
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.235.230.41<br>
+ <br>REF : Tectron
+ <br>Nombre : Javier
+ <br>Apellido : Cordoba
+ <br>Cargo : Tecnico Electronico
+ <br>Direccion : AV Gaona 1891
+ <br>Ciudad : CABA
+ <br>Telefono : 1138296868
+ <br>Email : cordobaejavier@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Postulacion Tecnico Electronico
+ <br>Security_code : tkr8n
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.112.13.92<br>
+ <br>REF : chr
+ <br>Nombre : pedro fabian
+ <br>Apellido : gonzalez
+ <br>Cargo : chofer de reparto
+ <br>Direccion : don segundo sombra 4178
+ <br>Ciudad : isidro casanova
+ <br>Telefono : 1549467434
+ <br>Email : gonza1985p@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : me postulo a este trabajo y poder dar lo mejor de mi tanto para la empresa como para mi crecimiento personal
+ <br>Security_code : hyzpk
+ <br>Send : Enviar
+ <br>
+---------------
+

@@ -1,0 +1,133 @@
+Address : 190.190.57.188<br>
+ <br>REF : ACO-1
+ <br>Nombre : Ariel
+ <br>Apellido : Fradusco
+ <br>Cargo : ANALISTA DE COMERCIO INTERNACIONAL/EXTERIOR
+ <br>Direccion : Corredor Bancalari Benavidez 3901, Gral. Pacheco
+ <br>Ciudad : Tigre
+ <br>Telefono : 15-5848-5055
+ <br>Email : afradusco@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas tardes,
+
+Deseo postularme para el trabajo de referencia.
+Esperando una oprtunidad de tener una entrevista personal
+les adjunto mi CV y le mando un saludo.
+Ariel
+ <br>Security_code : yfwg4
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.169.105.159<br>
+ <br>REF : ACO
+ <br>Nombre : Yliana
+ <br>Apellido : Mogollón
+ <br>Cargo : Asistente Comercial
+ <br>Direccion : Amenábar 3357
+ <br>Ciudad : Capital Federal
+ <br>Telefono : 1124007308
+ <br>Email : ylianamc@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas tardes,Poseo experiencia en ventas de salón y amplia experiencia administrativa.
+ <br>Security_code : b47st
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.77.235.19<br>
+ <br>REF : TM-2
+ <br>Nombre : BERNARDO
+ <br>Apellido : MARCHENA
+ <br>Cargo : TM-2
+ <br>Direccion : ANACO
+ <br>Ciudad : ANACO
+ <br>Telefono : 58 4128779355
+ <br>Email : marchena230779@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : ESTOY DISPUESTO A RECIDENCIARME EN CUALQUIER PARTE DEL PAIS
+ <br>Security_code : m5g7s
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.11<br>
+ <br>REF : EP-1
+ <br>Nombre : Cristian
+ <br>Apellido : Giménez
+ <br>Cargo : Encargado /jefe
+ <br>Direccion : Pueyrredon 3803
+ <br>Ciudad : José c paz
+ <br>Telefono : 1570441607
+ <br>Email : ccriss1972@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados envío mi CV para puesto.saludos
+ <br>Security_code : Tk5gn
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.11<br>
+ <br>REF : EP-1
+ <br>Nombre : Cristian
+ <br>Apellido : Giménez
+ <br>Cargo : Encargado /jefe
+ <br>Direccion : Pueyrredon 3803
+ <br>Ciudad : José c paz
+ <br>Telefono : 1570441607
+ <br>Email : ccriss1972@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados ,envío mi CV. Saludos
+ <br>Security_code : R7cj5
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.7<br>
+ <br>REF : EP-1
+ <br>Nombre : Cristian
+ <br>Apellido : Giménez
+ <br>Cargo : Encargado /jefe
+ <br>Direccion : Pueyrredon 3803
+ <br>Ciudad : José c paz
+ <br>Telefono : 1570441607
+ <br>Email : ccriss1972@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados ,envío mi CV. Saludos
+ <br>Security_code : R7cj5
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.9<br>
+ <br>REF : EP-1
+ <br>Nombre : Cristian
+ <br>Apellido : Giménez
+ <br>Cargo : Encargado /jefe
+ <br>Direccion : Pueyrredon 3803
+ <br>Ciudad : José c paz
+ <br>Telefono : 1570441607
+ <br>Email : ccriss1972@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados ,envío mi CV. Saludos
+ <br>Security_code : R7cj5
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.11<br>
+ <br>REF : EP-1
+ <br>Nombre : Cristian
+ <br>Apellido : Giménez
+ <br>Cargo : Encargado /jefe
+ <br>Direccion : Pueyrredon 3803
+ <br>Ciudad : José c paz
+ <br>Telefono : 1570441607
+ <br>Email : ccriss1972@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados ,envío mi CV. Saludos
+ <br>Security_code : R7cj5
+ <br>Send : Enviar
+ <br>
+---------------
+

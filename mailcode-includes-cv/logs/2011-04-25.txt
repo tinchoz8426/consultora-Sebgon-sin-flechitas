@@ -1,0 +1,41 @@
+Address : 190.3.144.16
+Nombre : Antonio David
+Apellido : Costabel
+Cargo : Indistinto
+Direccion : Las Matgaritas  1635
+Ciudad : Pilar
+Telefono : 02320659051
+Email : david_norte3@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : De mi mayor consideración:
+
+Tengo el agrado de dirigirme a Uds. con el fin de transmitirles mi deseo  firme de incorporarme a su organización. 
+  Me presento como una persona activa, responsable, creativa, flexible, orientada al logro de resultados y a la resolución y evolución constante en las tareas asignadas.
+El objetivo que me he impuesto, es el de formar parte del personal de una empresa prestigiosa, confiable y con proyectos ambiciosos. 
+Si fuera necesario podría acercarme personalmente para cualquier consulta adicional o entrevista personal. Solo tiene que comunicarse al teléfono: 02320 659051 o por mail David_norte3@hotmail.com 
+Pongo, además, en su conocimiento que estoy en condiciones de asumir la responsabilidad de este empleo en forma inmediata, y con amplia disponibilidad de horarios.
+Quedando a la espera de su respuesta.
+Me despido atte. 
+Antonio David Costabel
+
+
+Security_code : 2j2nt
+Send : Enviar
+
+---------------
+
+Address : 190.228.93.110
+Nombre : Maria Soledad
+Apellido : Marelli
+Cargo : Administrativo
+Direccion : Africa 53
+Ciudad : Palpala
+Telefono : 0388 154129351
+Email : mar2solsi@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Les envio mi CV con el fin de postularme para algún puesto que pueda surgir en un futuro en la provincia de Jujuy
+Security_code : zxbnm
+Send : Enviar
+
+---------------
+

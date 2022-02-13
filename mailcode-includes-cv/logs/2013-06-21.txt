@@ -1,0 +1,15 @@
+Address : 186.22.45.170
+Nombre : VALERIA LIA
+Apellido : SAIEG
+Cargo : Desarrollo y Calidad
+Direccion : Soler 1019
+Ciudad : Ituzaingo
+Telefono : 20712889 o 1168062608
+Email : valerialiasaieg@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenas tardes me pongo en contacto con ustedes para solicitarles por favor tengan a bien considerarme para la próxima búsqueda laboral, por ello adjunto mi CV. En lo personal me gustaría trabajar en una empresa de primer nivel, tanto para desarrollarme como profesional, como para aprender nuevos conocimientos, para tal fin pongo a disposición mi empeño y entusiasmo y fuerza laboral en pos del logro de los objetivos organizacionales. Saludo a usted atentamente y quedo a su disposición para una entrevista. 
+Security_code : vbb39
+Send : Enviar
+
+---------------
+

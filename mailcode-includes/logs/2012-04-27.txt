@@ -1,0 +1,12 @@
+Address : 190.11.199.187
+Nombre : Diego Andrés
+Apellido : Capitani
+Empresa : Instituto Velez Sarsfield
+Telefono : 03537-15442427
+Email : diegocapitani@hotmail.com
+Mensaje : Hola, estoy organizando una jornada de capacitacion desde una escuela y necesito disertantes para abarcar palabras como liderzgo, motivacion, exito, fracaso, eleccion, convicciom, etc. Espero su respuesta, gracias!!!
+Security_code : 2q7nd
+Send : Enviar
+
+---------------
+

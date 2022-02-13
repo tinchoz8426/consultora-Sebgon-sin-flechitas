@@ -1,0 +1,12 @@
+Address : 190.216.194.4
+ <br>Nombre : Leidy Biviana
+ <br>Apellido : Bueno Salazar
+ <br>Empresa : Leidy Biviana Bueno Salazar
+ <br>Telefono : 3132382064
+ <br>Email : bi-vis@hotmail.com
+ <br>Mensaje : Requiiero una capacitacion de servicio al cliente y relaciones interpersonales
+ <br>Security_code : 3w8d4
+ <br>Send : Enviar
+ <br>
+---------------
+

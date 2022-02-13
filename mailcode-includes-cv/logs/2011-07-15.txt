@@ -1,0 +1,33 @@
+Address : 190.51.92.75
+Nombre : Gisela
+Apellido : Gonzalez
+Cargo : administrativo - diseño
+Direccion : buchardo 2456 - 3º
+Ciudad : villa luzuriaga
+Telefono : 4443-9587
+Email : gisu73@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : busco un puesto de trabajo en zona oeste
+Security_code : hb7x2
+Send : Enviar
+
+---------------
+
+Address : 200.127.66.167
+Nombre : Adriana
+Apellido : Fatnozzi
+Cargo : Vendedora
+Direccion : Jose Hernandez 2699 PBA
+Ciudad : CABA
+Telefono : 01147818979
+Email : adrianafantozzi@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados:
+Tengo el agrado de tomar contacto con ustedes para hacerles llegar mi curriculum y poder ser tenida en cuenta para sus búsquedas laborales. 
+Cordialmente,
+Adriana
+Security_code : fywrp
+Send : Enviar
+
+---------------
+

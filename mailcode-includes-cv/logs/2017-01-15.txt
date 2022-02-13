@@ -1,0 +1,18 @@
+Address : 190.228.213.186<br>
+ <br>REF : ACO-1
+ <br>Nombre : Maria Antonella
+ <br>Apellido : Yannelli
+ <br>Cargo : ANALISTA DE COMERCIO INTERNACIONAL/EXTERIOR 
+ <br>Direccion : Moldes 2479
+ <br>Ciudad : CABA
+ <br>Telefono : 0351152107933
+ <br>Email : antonellayannelli@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimado/a: Dejo adjunto mi CV y datos para ser considderada para el puesto de ANALISTA DE COMERCIO INTERNACIONAL/EXTERIOR. 
+Atte, 
+Yannelli Antonella
+ <br>Security_code : 9h7wx
+ <br>Send : Enviar
+ <br>
+---------------
+

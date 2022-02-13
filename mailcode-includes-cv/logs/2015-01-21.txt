@@ -1,0 +1,99 @@
+Address : 190.31.200.121
+Nombre : VERONICA AYLEN
+Apellido : CARREÑO
+Cargo : ASISTENTE CONTABLE
+Direccion : ROQUE TOLLO 2575 - CORDOBA
+Ciudad : CORDOB, CAPITAL
+Telefono : 0351-158125525
+Email : veronica_angel2@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Envio CV
+Security_code : jyqvr
+Send : Enviar
+
+---------------
+
+Address : 186.61.2.182
+Nombre : Lautaro
+Apellido : Gomez
+Cargo : cadete
+Direccion : 2 de mayo 2872
+Ciudad : lanus oeste
+Telefono : 42497383
+Email : lauchaboca22@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Busco trabajo como cadete administrativo o telemarketer
+Security_code : 9ydmk
+Send : Enviar
+
+---------------
+
+Address : 190.19.42.251
+Nombre : María Verónica
+Apellido : Pavón
+Cargo : Secretaria, Recepcionista
+Direccion : Lautaro 60, PB C
+Ciudad : Capital Federal
+Telefono : 1549160460
+Email : mveronicapvn@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me dirijo a Uds a los efectos de poner a Vstro. conocimiento mi CV para ser tenido en cuenta en aquellas selecciones de personal que apunten a mi perfil.
+Atentamente
+Security_code : 7ddsh
+Send : Enviar
+
+---------------
+
+Address : 200.63.23.146
+Nombre : Florencia
+Apellido : Fagioli
+Cargo : Auxiliar en Relaciones Públicas
+Direccion : Clarín 260
+Ciudad : San Antonio de Padua
+Telefono : 02204837787
+Email : florencia.sf@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenas Tardes, le envió mi currículum vitae con el fin de postularme para los empleos afínes a Relaciones Públicas ya que estoy interesada en aprender, ampliar y mejorar mis conocimientos en el área, así como también, lograr aportar al equipo/empresa mi mayor predisposición, compromiso y responsabilidad con el logro de los objetivos propuestos por el mismo para el buen desempeño del puesto.
+
+Esperando cumplir con sus requisitos y expectativas.
+Lo saluda atentamente.
+Florencia Fagioli.
+Security_code : j3gj6
+Send : Enviar
+
+---------------
+
+Address : 200.63.23.146
+Nombre : Florencia
+Apellido : Fagioli
+Cargo : Auxiliar en Relaciones Públicas
+Direccion : Clarín 260
+Ciudad : San Antonio de Padua
+Telefono : 0220-483-7787
+Email : florencia.sf@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenas Tardes, le envió mi currículum vitae con el fin de postularme para los empleos afínes a Relaciones Públicas ya que estoy interesada en aprender, ampliar y mejorar mis conocimientos en el área, así como también, lograr aportar al equipo/ empresa mi mayor predisposición, compromiso y responsabilidad con el logro de los objetivos propuestos por el mismo para el buen desempeño del puesto.
+
+Esperando cumplir con sus requisitos y expectativas.
+Lo saluda atentamente.
+Florencia Fagioli.
+Security_code : zp8zw
+Send : Enviar
+
+---------------
+
+Address : 179.60.238.43
+Nombre : Edgar Esteban
+Apellido : Chamorro
+Cargo : tareas generales de imprenta
+Direccion : calle 302 casa 150 sector c
+Ciudad : ciudad evita
+Telefono : 15-3499-7720
+Email : araceliteamo100@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : me responsabilizo a cumplir con los objetivos que me sean brindados por el empleador
+Security_code : 1706
+Send : Enviar
+
+---------------
+

@@ -1,0 +1,33 @@
+Address : 190.174.177.87
+Nombre : Gonzalo
+Apellido : Sicart
+Cargo : Gerente de Administración y Finanzas
+Direccion : Gral.Eugenio Garzon 3357
+Ciudad : C.A.B.A.
+Telefono : 15-4175-6161
+Email : gsicart@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Es mi deseo integrar su base de datos, a los efectos de poder participar en los procesos de selección en donde mi perfil sea el requerido.
+Security_code : rr7zy
+Send : Enviar
+
+---------------
+
+Address : 200.42.141.186
+Nombre : carla
+Apellido : delgado
+Cargo : administrativa
+Direccion : jufre 654
+Ciudad : buenos Aires
+Telefono : 47718019
+Email : carladelgado03@hotmail.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenas Tardes! 
+ 
+Me comunico por medio de mi interés de pertenecer a su empresa y por ello adjunto mi curriculum vitae,espero este acorde a su busqueda. Quedando a la espera de sus respuestas.
+
+Security_code : bw393
+Send : Enviar
+
+---------------
+

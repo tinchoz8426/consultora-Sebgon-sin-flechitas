@@ -1,0 +1,60 @@
+Address : 190.229.83.199
+Nombre : Evelyn
+Apellido : Ferrari
+Cargo : asistente juridico
+Direccion : italia 465 9 a
+Ciudad : rosario
+Telefono : 3415592988
+Email : eveferrari465@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : soy estudiante del 4/5to año de abogacia , me gustaria encontrar un trabajo acorde a lo que estoy estudiando. Tengo un amplio hs y muchas ganas de trabajar
+Security_code : ys8tg
+Send : Enviar
+
+---------------
+
+Address : 181.26.8.240
+Nombre : Carlos
+Apellido : Diehl
+Cargo : calidad
+Direccion : italia 1380
+Ciudad : burzaco
+Telefono : 1565984170
+Email : carlosarturodiehl@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : en busqueda laboral activa
+Security_code : h45xk
+Send : Enviar
+
+---------------
+
+Address : 181.31.148.158
+Nombre : Guillermo
+Apellido : Gianre
+Cargo : Telemarketin
+Direccion : Pueyrredon 152
+Ciudad : Cordoba
+Telefono : 0356215503111
+Email : guillermogianre@hotmail.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : .
+Security_code : ryrgj
+Send : Enviar
+
+---------------
+
+Address : 200.123.39.2
+Nombre : Gabriela soledad
+Apellido : Cordo
+Cargo : atencion al cliente o cajera
+Direccion : chaco 5512
+Ciudad : Santa Fe
+Telefono : 3425152273
+Email : gabrielacordo16@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Ingresar a una empresa en la que pueda poner en práctica todos mis conocimientos, que me brinde la oportunidad de alcanzar todas mis metas trazadas, además que me ofrezca la oportunidad de crecer en el área laboral, personal e intelectual.
+Security_code : 9ytvd
+Send : Enviar
+
+---------------
+

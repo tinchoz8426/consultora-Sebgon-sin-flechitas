@@ -1,0 +1,50 @@
+Address : 186.157.208.119<br>
+ <br>Nombre : albano eugenio
+ <br>Apellido : festa
+ <br>Cargo : administrativo
+ <br>Direccion : garnica 1690
+ <br>Ciudad : hurlingham
+ <br>Telefono : 1550206988
+ <br>Email : euge.festa92@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenos dias estoy en busca de empleo , soy una persona muy capas que aprende rápido y se desenvuelve  bien en todos los ambientes laborales.
+desde ya muchas gracias.
+ <br>Security_code : jjbnt
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.110.113.26<br>
+ <br>Nombre : ELDA ALEJANDRA
+ <br>Apellido : REYNOSO
+ <br>Cargo : vendedora
+ <br>Direccion : PJE SAN JOSE MZA F LOTE 16
+ <br>Ciudad : ALBERDI
+ <br>Telefono : 3815682215
+ <br>Email : ale-reynoso27@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : disponibilidad horarioa. capacidad para realizar y aprender cualquier desafio
+ <br>Security_code : 669s7
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 152.170.247.57<br>
+ <br>Nombre : Rocío
+ <br>Apellido : Buttafuoco
+ <br>Cargo : Recursos Humanos
+ <br>Direccion : Avenida San Martin 3530 4 piso ''c''
+ <br>Ciudad : CABA
+ <br>Telefono : 1134931653
+ <br>Email : rocio_buttafuoco@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas tardes, mi nombre es Rocío Belén Buttafuoco. Soy estudiante avanzada de la carrera de Relaciones del Trabajo en la Universidad de Buenos Aires, tan solo me quedan 8 materias para la licenciatura y mi promedio general es 8.
+No poseo experiencia laboral y estoy en búsqueda de mi primer empleo. 
+Envío mi curriculum vitae de modo que quede en su base de datos para cualquier futura búsqueda que dé con mi perfil.
+A la espera de una respuesta favorable.
+Saludos cordiales, Rocío.
+ <br>Security_code : dzbbm
+ <br>Send : Enviar
+ <br>
+---------------
+

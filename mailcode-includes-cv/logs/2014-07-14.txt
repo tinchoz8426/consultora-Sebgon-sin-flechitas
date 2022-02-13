@@ -1,0 +1,178 @@
+Address : 186.182.27.137
+Nombre : marcia 
+Apellido : muraco
+Cargo : empleada
+Direccion : calle 56
+Ciudad : berazategui
+Telefono : (011)54353187
+Email : mar_u6@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me encuentro en la búsqueda de un puesto de trabajo para atención al cliente o limpieza.
+Security_code : dnxqp
+Send : Enviar
+
+---------------
+
+Address : 201.235.235.126
+REF : TECNICO-ELECTRONICO
+Nombre : Leandro Javier
+Apellido : Schiel
+Cargo : Técnico Electronico
+Direccion : Gavilan 1749
+Ciudad : Capital Federal
+Telefono : 1551441363
+Email : leandro_schiel@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Técnico Eléctrico con Orientación a Electrónica Industrial 
+Security_code : gxq9m
+Send : Enviar
+
+---------------
+
+Address : 201.235.235.126
+Nombre : Leandro Javier
+Apellido : Schiel
+Cargo : Técnico Electrico
+Direccion : Gavilan 1749
+Ciudad : Capital Federal
+Telefono : 1551441363
+Email : leandro_schiel@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Técnico Eléctrico con Orientación a Electrónica Industrial 
+Security_code : k2bsy
+Send : Enviar
+
+---------------
+
+Address : 190.111.232.100
+Nombre : Gonzalo
+Apellido : Ligero
+Cargo : Comunicación
+Direccion : Santiago del Estero 321
+Ciudad : CABA
+Telefono : 1168876149
+Email : gonzalo@newgatemedia.com
+MAX_FILE_SIZE : 2097152
+Mensaje : ¿Cómo están? Mi nombre es Gonzalo y estudio Comunicación en UADE. Actualmente, me desempeño como Asistente de Redacción en la editorial turística Newgate Travel Media, donde se realizan el semanario Rèport y la Guía GATA Tec, entre otras publicaciones.
+Sin embargo, este es mi último mes en la empresa, por lo que estoy buscando un nuevo trabajo, un horizonte donde poder desarrollarme y evolucionar como profesional de la comunicación. Por eso, les envío mi currículum para trabajar con ustedes. Mi intención es seguir evolucionando y vivir de lo que me apasiona.
+En mi currículum podrán observar algunos links de notas que escribí en los medios donde estuve. Me encantaría que me otorgaran la posibilidad de que me conozcan mejor en una entrevista.
+
+Gracias.
+Saludos 
+Security_code : 6QJZ9
+Send : Enviar
+
+---------------
+
+Address : 190.111.232.100
+Nombre : Gonzalo
+Apellido : Ligero
+Cargo : Comunicación
+Direccion : Santiago del Estero 321
+Ciudad : CABA
+Telefono : 1168876149
+Email : gonzalo@newgatemedia.com
+MAX_FILE_SIZE : 2097152
+Mensaje : ¿Cómo están? Mi nombre es Gonzalo y estudio Comunicación en UADE. Actualmente, me desempeño como Asistente de Redacción en la editorial turística Newgate Travel Media, donde se realizan el semanario Rèport y la Guía GATA Tec, entre otras publicaciones.
+Sin embargo, este es mi último mes en la empresa, por lo que estoy buscando un nuevo trabajo, un horizonte donde poder desarrollarme y evolucionar como profesional de la comunicación. Por eso, les envío mi currículum para trabajar con ustedes. Mi intención es seguir evolucionando y vivir de lo que me apasiona.
+En mi currículum podrán observar algunos links de notas que escribí en los medios donde estuve. Me encantaría que me otorgaran la posibilidad de que me conozcan mejor en una entrevista.
+
+Gracias.
+Saludos 
+Security_code : gxq9m
+Send : Enviar
+
+---------------
+
+Address : 186.62.41.140
+Nombre : Natalia Beatriz
+Apellido : Szczyrha
+Cargo : administrativo/ventas/comercial/turistico
+Direccion : 203 A e/ Camino General Belgrano y 254
+Ciudad : Buenos Aires
+Telefono : 1161341331/ 43911971
+Email : natyszczyrha@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me gustaría tener la oportunidad de trabajar en una empresa que me permita superarme y crecer día a día.
+No tengo un puesto preferencial, sí muchas ganas de crecer.
+Security_code : wq43v
+Send : Enviar
+
+---------------
+
+Address : 186.62.41.140
+Nombre : Natalia Beatriz
+Apellido : Szczyrha
+Cargo : administrativo/ventas/comercial/turistico
+Direccion : 203 A e/ Camino General Belgrano y 254
+Ciudad : Buenos Aires
+Telefono : 1161341331/ 43911971
+Email : natyszczyrha@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me gustaría tener la oportunidad de trabajar en una empresa que me permita superarme y crecer día a día.
+No tengo un puesto preferencial, sí muchas ganas de crecer.
+Security_code : wq43v
+Send : Enviar
+
+---------------
+
+Address : 190.104.214.15
+Nombre : Miguel
+Apellido : Quezada
+Cargo : Cualquiera
+Direccion : Bernardo de Irigoyen
+Ciudad : Capital federal
+Telefono : 11 3627 9746
+Email : miguel.quezada.v@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola, me destaco en la atención al cliente, por la empatía y claridad en entregar una información, saludos
+Security_code : fjqgy
+Send : Enviar
+
+---------------
+
+Address : 190.104.214.15
+Nombre : Miguel
+Apellido : Quezada
+Cargo : Cualquiera
+Direccion : Bernardo de Irigoyen
+Ciudad : Capital federal
+Telefono : 11 3627 9746
+Email : miguel.quezada.v@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola, me destaco en la atención al cliente, por la empatía y claridad en entregar una información, saludos
+Security_code : gxq9m
+Send : Enviar
+
+---------------
+
+Address : 190.104.214.15
+Nombre : Miguel
+Apellido : Quezada
+Cargo : Cualquiera
+Direccion : Bernardo de Irigoyen
+Ciudad : Capital federal
+Telefono : 11 3627 9746
+Email : miguel.quezada.v@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola, me destaco en la atención al cliente, por la empatía y claridad en entregar una información, saludos
+Security_code : wq43v
+Send : Enviar
+
+---------------
+
+Address : 190.104.214.15
+Nombre : Miguel
+Apellido : Quezada
+Cargo : Cualquiera
+Direccion : Bernardo de Irigoyen
+Ciudad : Capital federal
+Telefono : 11 3627 9746
+Email : miguel.quezada.v@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola, me destaco en la atención al cliente, por la empatía y claridad en entregar una información, saludos
+Security_code : zhrpw
+Send : Enviar
+
+---------------
+

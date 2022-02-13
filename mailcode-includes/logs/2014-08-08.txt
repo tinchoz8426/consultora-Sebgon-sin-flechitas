@@ -1,0 +1,12 @@
+Address : 181.15.107.26
+Nombre : mariano
+Apellido : alvarenga duarte
+Empresa : gemez s.a.
+Telefono : 43130110 int 223
+Email : mariano.alvarenga@gemez.com.ar
+Mensaje : Consulta: cotización de los siguientes servicios a cargo Cuadro de incendio Estudio de carga de fuego Plan anual de capacitacion Capacitaciones Atencion a inspecciones de ART Atencion a inspecciones de organismos municipales Mapa de riesgos Resoluciones de la SRT (415, 463 etc) Analisis de riesgos por puesto de trabajo Medicion de los niveles de iluminación Medicion de los niveles de ruido Programas de seguridad Estudio de Elementos de proteccion personal por puesto de trabajo Asesoramiento en Medio Ambiente
+Security_code : zmh7y
+Send : Enviar
+
+---------------
+

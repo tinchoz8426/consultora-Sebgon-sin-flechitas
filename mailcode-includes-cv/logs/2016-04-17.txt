@@ -1,0 +1,180 @@
+Address : 186.134.175.102
+Nombre : Andrea
+Apellido : Romero Jakiemon
+Cargo : Administrativa/Atencion al cliente
+Direccion : Ituzaingo 4671
+Ciudad : Lanus
+Telefono : 1569613225
+Email : andrea.jakiemon@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Que tal,
+Les envio mi cv ya que me encuentr en la busqueda de empleo.
+Saludos.
+Security_code : xz9zx
+Send : Enviar
+
+---------------
+
+Address : 181.110.135.219
+REF : OEL
+Nombre : Lucas santiago
+Apellido :  Farias 
+Cargo : oficial
+Direccion : Alarcón 172  tigre 
+Ciudad : Don  Torcuato 
+Telefono : 0111524221471
+Email :  javierdetorcuato26@hotmail.con
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola soy  lucas  Farias soy  oficial  electricista y  estoy sin  trabajo no tengo secundario
+Security_code : 4nsyr
+Send : Enviar
+
+---------------
+
+Address : 190.19.128.65
+Nombre : HORACIO
+Apellido : ROJAS
+Cargo : mantenimiento
+Direccion : IRALA 46
+Ciudad : CABA
+Telefono : 43071257
+Email : tecnicoelectricistayaa@hotmail.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : cv
+Security_code : 58g8d
+Send : Enviar
+
+---------------
+
+Address : 190.19.128.65
+Nombre : HORACIO
+Apellido : ROJAS
+Cargo : mantenimiento
+Direccion : IRALA 46
+Ciudad : CABA
+Telefono : 43071257
+Email : tecnicoelectricistayaa@hotmail.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : cv
+Security_code : 58g8d
+Send : Enviar
+
+---------------
+
+Address : 190.137.253.17
+Nombre : marcelo oscar
+Apellido : cepeda
+Cargo : oficial cañista
+Direccion : av.falcon 527
+Ciudad : san nicolas de los arroyos
+Telefono : 0336 154566248
+Email : marcelocepeda1@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : hola mi nombre es Marcelo Cepeda soy Oficial Cañista hace 15 años en distintas empresas de la zona 
+Me interesaria formar parte de su staff.
+Desde ya muchas gracias
+Security_code : fs767
+Send : Enviar
+
+---------------
+
+Address : 190.137.253.17
+Nombre : marcelo oscar
+Apellido : cepeda
+Cargo : oficial cañista
+Direccion : av.falcon 527
+Ciudad : san nicolas de los arroyos
+Telefono : 0336 154566248
+Email : marcelocepeda1@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : hola mi nombre es Marcelo Cepeda soy Oficial Cañista hace 15 años en distintas empresas de la zona 
+Me interesaria formar parte de su staff.
+Desde ya muchas gracias
+Security_code : fs767
+Send : Enviar
+
+---------------
+
+Address : 190.137.253.17
+Nombre : marcelo oscar
+Apellido : cepeda
+Cargo : oficial cañista
+Direccion : av.falcon 527
+Ciudad : san nicolas de los arroyos
+Telefono : 0336 154566248
+Email : marcelocepeda1@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : hola mi nombre es Marcelo Cepeda soy Oficial Cañista hace 15 años en distintas empresas de la zona 
+Me interesaria formar parte de su staff.
+Desde ya muchas gracias
+Security_code : fs767
+Send : Enviar
+
+---------------
+
+Address : 190.137.253.17
+Nombre : marcelo oscar
+Apellido : cepeda
+Cargo : oficial cañista
+Direccion : av.falcon 527
+Ciudad : san nicolas de los arroyos
+Telefono : 0336 154566248
+Email : marcelocepeda1@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : hola mi nombre es Marcelo Cepeda soy Oficial Cañista hace 15 años que me desempeño en esta profesion.
+Me gustaria ser parte del staff de trabajo.
+Desde ya muchas gracias. 
+Security_code : 3cr7z
+Send : Enviar
+
+---------------
+
+Address : 190.137.253.17
+Nombre : marcelo oscar
+Apellido : cepeda
+Cargo : oficial cañista
+Direccion : av.falcon 527
+Ciudad : san nicolas de los arroyos
+Telefono : 0336 154566248
+Email : marcelocepeda1@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : hola mi nombre es Marcelo Cepeda soy Oficial Cañista hace 15 años que me desempeño en esta profesion.
+Me gustaria ser parte del staff de trabajo.
+Desde ya muchas gracias. 
+Security_code : 3cr7z
+Send : Enviar
+
+---------------
+
+Address : 190.137.253.17
+Nombre : marcelo oscar
+Apellido : cepeda
+Cargo : oficial cañista
+Direccion : av.falcon 527
+Ciudad : san nicolas de los arroyos
+Telefono : 0336 154566248
+Email : marcelocepeda1@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : hola mi nombre es Marcelo Cepeda soy Oficial Cañista hace 15 años que me desempeño en esta profesion.
+Me gustaria ser parte del staff de trabajo.
+Desde ya muchas gracias. 
+Security_code : 4xshc
+Send : Enviar
+
+---------------
+
+Address : 190.247.40.89
+Nombre : Alejandra Marina 
+Apellido : Cecaloni
+Cargo : Ventas/ atencion al cliente
+Direccion : Honorio Pueyrredon 1141
+Ciudad : Caba 
+Telefono : 48573370
+Email : alececaloni@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenas noches, adjunto mi cv, desde ya muchas gracias. Saludos cordiales. Alejandra Cecaloni
+Security_code : wd2y5
+Send : Enviar
+
+---------------
+

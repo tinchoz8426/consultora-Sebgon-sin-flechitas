@@ -1,0 +1,338 @@
+Address : 190.11.44.229
+Nombre : Facundo Nahuel
+Apellido : Sartini 
+Cargo : Ingeniero Civil
+Direccion : Girardi 1093
+Ciudad : Villa Gobernador Galvez
+Telefono : 0341-155990470
+Email : taefacu@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola: Aqui les dejo mi CV. Soy Ingeniero civil y espero su atencion.
+Saludos.
+Facundo Sartini
+Security_code : mcwgw
+Send : Enviar
+
+---------------
+
+Address : 190.11.44.229
+Nombre : Facundo Nahuel
+Apellido : Sartini 
+Cargo : Ingeniero Civil
+Direccion : Girardi 1093
+Ciudad : Villa Gobernador Galvez
+Telefono : 0341-155990470
+Email : taefacu@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola: Aqui les dejo mi CV. Soy Ingeniero civil y espero su atencion.
+Saludos.
+Facundo Sartini
+Security_code : df8tk
+Send : Enviar
+
+---------------
+
+Address : 190.11.44.229
+Nombre : Facundo Nahuel
+Apellido : Sartini 
+Cargo : Ingeniero Civil
+Direccion : Girardi 1093
+Ciudad : Villa Gobernador Galvez
+Telefono : 0341-155990470
+Email : taefacu@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola: Aqui les dejo mi CV. Soy Ingeniero civil y espero su atencion.
+Saludos.
+Facundo Sartini
+Security_code : 3skns
+Send : Enviar
+
+---------------
+
+Address : 190.11.44.229
+Nombre : Facundo Nahuel
+Apellido : Sartini
+Cargo : Ingeniero Civil
+Direccion : Girardi 1093
+Ciudad : Villa Gobernador Galvez
+Telefono : 0341-155990470
+Email : taefacu@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola: Espero su contestacion.
+Saludos.
+FACUNDO Sartini.
+Security_code : 8yzy6
+Send : Enviar
+
+---------------
+
+Address : 190.11.44.229
+Nombre : Facundo Nahuel
+Apellido : Sartini
+Cargo : Ingeniero Civil
+Direccion : Girardi 1093
+Ciudad : Villa Gobernador Galvez
+Telefono : 0341-155990470
+Email : taefacu@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola: Espero su contestacion.
+Saludos.
+FACUNDO Sartini.
+Security_code : zg7rx
+Send : Enviar
+
+---------------
+
+Address : 186.133.188.174
+Nombre : Ariana Laura
+Apellido : Antúnez
+Cargo : Psicóloga
+Direccion : Bº Mudón Mbk 1 Dpto 10
+Ciudad : Neuquén
+Telefono : 0299-155234037
+Email : ariantunez@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Soy psicóloga. Tengo 25 años y resido en Neuquén.
+Me recibí en la Universidad Nacional del Comahue y me matriculé en el Colegio de Psicólogos de la provincia de Neuquén (M.P.N. N°: 1376). Me gustaría encontrar un puesto de trabajo en el que pueda utilizar mis conocimientos y mejorar los mismos.
+Security_code : xxj9v
+Send : Enviar
+
+---------------
+
+Address : 190.15.197.150
+REF : TECNICO-ELECTRONICO
+Nombre : JUAN ELIAS
+Apellido : CORRADI PEREYRA
+Cargo : TECNICO ELECTR.EN MAQ.INDUST.RIALES DE LA  UNIV.TEC. DE LA UTN CARGO EL QUE SE ME ASIGNE SOY TECNICO EN ELECRONICA DE MAQUINARIAS INDUSTRIALES (UTN) MZA.-
+Direccion : MORENO 3357-4ºSEC. OESTE-MENDOZA- C.P.5500
+Ciudad : CIUDAD
+Telefono : 4300701  CEL.0261-155632561
+Email : CORRADI MIGUEL@HOTMAIL.COM..AR
+MAX_FILE_SIZE : 2097152
+Mensaje : SOLICITO EL PUESTO QUE SE ME ASIGNE, DESEANDO LOGRAS SUS OBJETIVOS AL IGUAL QUE LOS MIOS
+Security_code : m4n8n
+Send : Enviar
+
+---------------
+
+Address : 190.15.197.150
+REF : TECNICO-ELECTRONICO
+Nombre : JUAN ELIAS
+Apellido : CORRADI PEREYRA
+Cargo : TECNICO ELECTR.EN MAQ.INDUST.RIALES DE LA  UNIV.TEC. DE LA UTN CARGO EL QUE SE ME ASIGNE SOY TECNICO EN ELECRONICA DE MAQUINARIAS INDUSTRIALES (UTN) MZA.-
+Direccion : MORENO 3357-4ºSEC. OESTE-MENDOZA- C.P.5500
+Ciudad : CIUDAD
+Telefono : 4300701  CEL.0261-155632561
+Email : CORRADI MIGUEL@HOTMAIL.COM..AR
+MAX_FILE_SIZE : 2097152
+Mensaje : SOLICITO EL PUESTO QUE SE ME ASIGNE, DESEANDO LOGRAS SUS OBJETIVOS AL IGUAL QUE LOS MIOS
+Security_code : m4n8n
+Send : Enviar
+
+---------------
+
+Address : 190.15.197.150
+REF : TECNICO-ELECTRONICO
+Nombre : MIGUEL ANGEL
+Apellido : CORRADI  PEREYRA
+Cargo : EL QUE SE ME ASIGNE 
+Direccion : MORENO 3357-4ºSEC. OESTE-MENDOZA- C.P.5500
+Ciudad : CIUDAD MENDOZA
+Telefono : 4223146 - 4300701
+Email : CORRADI MIGUEL@HOTMAIL.COM..AR
+MAX_FILE_SIZE : 2097152
+Mensaje : SOLICITO EL PUESTO QUE USTEDES CONSIDEREN ASIGNARME
+Security_code : 2TNMW
+Send : Enviar
+
+---------------
+
+Address : 190.183.13.167
+Nombre : Raul
+Apellido : Bocanegra
+Cargo : juridico
+Direccion : Avenida Ejercito 1660
+Ciudad : paraná
+Telefono : 4372895
+Email : bocanegra_raul@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Actividad relacionado o no con lo jurídico
+Security_code : t92td
+Send : Enviar
+
+---------------
+
+Address : 190.231.57.11
+Nombre : Georgina
+Apellido : Renni
+Cargo : Asistente juridico
+Direccion : sargento cabral 175
+Ciudad : arroyo seco
+Telefono : 03402 420102
+Email : cainfernando.rennicaincito@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : si tengo que reubicarme o salir del pais estoy disponible
+Security_code : 5f2q5
+Send : Enviar
+
+---------------
+
+Address : 190.231.57.11
+Nombre : Georgina
+Apellido : Renni
+Cargo : Asistente juridico
+Direccion : sargento cabral 175
+Ciudad : arroyo seco
+Telefono : 03402 420102
+Email : cainfernando.rennicaincito@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : si tengo que reubicarme o salir del pais estoy disponible
+Security_code : 5f2q5
+Send : Enviar
+
+---------------
+
+Address : 186.128.36.178
+Nombre : Mayra
+Apellido : Mulet
+Cargo : de lo que sea
+Direccion : Ruben mariel 6137 Bª Camus
+Ciudad : San Juan
+Telefono : 02644266654
+Email : mayramulet@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : hola necesito trabajar de forma urgente gracias
+Security_code : grwpc
+Send : Enviar
+
+---------------
+
+Address : 190.137.21.115
+Nombre : Romina del carmen
+Apellido : Andreu
+Cargo : administracion, recepcion
+Direccion : Julio Moreno 1082, Loma Hermosa
+Ciudad : Buenos Aires
+Telefono : 1562918997
+Email : andreurominadc@hotmail.es
+MAX_FILE_SIZE : 2097152
+Mensaje : ...
+Security_code : 42s68
+Send : Enviar
+
+---------------
+
+Address : 200.68.87.5
+REF : GTE COM.EXT
+Nombre : Federico
+Apellido : Laborda
+Cargo : Gerente de Comercio Exterior
+Direccion : Comandante Tomas Espora 848 
+Ciudad : Martinez, San Isidro
+Telefono : 011 15 57203907
+Email : frlaborda@yahoo.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Senores Consultora Sebgon
+Presente
+
+Tengo el agrado de enviarles adjunto mi informacion profesional interesado en la postulacion a una busqueda que Uds llevan a cabo de un Gerente de Comercio Exterior.
+Poseo una amplia experiencia en empresas exportadoras.
+
+Actualmente asesoro como consultor independiente a clientes exportadores en su operativa de Comercio Exterior entorno BCRA y operativa de Tesoreria y cambios.
+
+Estoy a su disposicion a fin de conocernos y ampliar mi informacion asi como conocer mas detalles de vuestra busqueda.
+
+Los saludo cordialmente.
+
+Federico Laborda
+Security_code : 9s34g
+Send : Enviar
+
+---------------
+
+Address : 190.226.177.106
+REF : GTE COM.EXT
+Nombre : Javier 
+Apellido : Gomez
+Cargo : Gerente de COMEX
+Direccion : Concepcion Arenal 2478 2B
+Ciudad : Capital Federal
+Telefono : 1136724917
+Email : javierandresgomez@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados,
+
+Deseo postularme para la  posición ofrecida. Poseo amplia experiencia en comercio exterior de bebidas.
+
+Saludos cordiales,
+
+Javier Gomez
+Security_code : phy7q
+Send : Enviar
+
+---------------
+
+Address : 190.188.171.59
+Nombre : Ruben 
+Apellido : Manchado
+Cargo : Empleado
+Direccion : Aguero 1945
+Ciudad : Vicente Lopez
+Telefono : 47615405
+Email : rubenmanchado@yahoo.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Les envio mi c.v 
+Security_code : 4c387
+Send : Enviar
+
+---------------
+
+Address : 190.189.127.220
+Nombre : Stefania Solange
+Apellido : Paredes Deris
+Cargo : Recepcionista/ secretaria
+Direccion : oliden 2698
+Ciudad : caba
+Telefono : 011-1521754964
+Email : sparedesderis@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenas tardes, mi nombre es Stefania, y me gustaria poder conseguir un empleo, mi disponibilidad horaria es amplia,y cuento con responsabilidad y me dispongo a aprender todo lo que se me indique. Muchas gracias 
+Security_code : acrnk
+Send : Enviar
+
+---------------
+
+Address : 190.193.137.199
+Nombre : WALTER
+Apellido : CORDOBA
+Cargo : ADMINISTRATIVO
+Direccion : AMERICA 209 3°B
+Ciudad : HAEDO
+Telefono : 1533978899
+Email : waltercordobapas@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados,
+Les hago llegar mi CV para que sea tenido encuenta para trabajos segun mi experiencia.
+
+Saludos cordiales,
+Walter Cordoba.
+Security_code : rh3gb
+Send : Enviar
+
+---------------
+
+Address : 186.13.116.134
+Nombre : Atilio
+Apellido : Fernandez
+Cargo : Tecnico en Electronica y afines
+Direccion : Campoamor 137
+Ciudad : Banfield
+Telefono : 1126529825
+Email : atilio-fhotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Agradeceria tengan presente en caso de puesto vacante de Electronica serio responsable dedicado
+Security_code : w5ncn
+Send : Enviar
+
+---------------
+

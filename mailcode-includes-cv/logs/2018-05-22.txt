@@ -1,0 +1,46 @@
+Address : 200.125.105.99<br>
+ <br>Nombre : Andrea Elizabeth
+ <br>Apellido : Prieto Avalos
+ <br>Cargo : Administrativo 
+ <br>Direccion : Lautaro 1953
+ <br>Ciudad : 1722
+ <br>Telefono : 1134834810
+ <br>Email : prietoandrea.94@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola que tal? Soy recientemente graduada de Tecnico Superior en Administracion Contable, mi disponibilidad es full time. Saludos. 
+ <br>Security_code : 8zfcm
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.122.54.22<br>
+ <br>Nombre : Reinaldo 
+ <br>Apellido : Aguiar
+ <br>Cargo : INGENIERO DE PLANIFICACIÓN Y CONTROL DE PROYECTOS
+ <br>Direccion : Charcas 4641 7-A
+ <br>Ciudad : CABA
+ <br>Telefono : +5491137774362
+ <br>Email : raguiar10@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Soy Ingeniero Industrial con 16 años de graduado y 11 años trabajando como Planificador para proyectos Petroleros, con amplios conocimientos de las herramientas de Planificación Primavera P6 y Microsoft Project.
+ <br>Security_code : bmj4t
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.31.15.191<br>
+ <br>REF : EP-1
+ <br>Nombre : Gabriel
+ <br>Apellido : Finten
+ <br>Cargo : Encargado de producción
+ <br>Direccion : Cabello 3476 6A
+ <br>Ciudad : CABA
+ <br>Telefono : 0249154520124
+ <br>Email : fintengabriel@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Ingeniero en Alimentos con experiencia en investigación y desarrollo de productos, gestión de recursos humanos, procesos de elaboración de alimentos, y auditorias de calidad. Experiencia de trabajo con equipos multidisciplinarios y personas de distintas nacionalidades. Proactivo y con gran enfoque a lograr resultados de calidad.
+ <br>Security_code : dn47t
+ <br>Send : Enviar
+ <br>
+---------------
+

@@ -1,0 +1,126 @@
+Address : 181.166.104.14<br>
+ <br>REF : RTC
+ <br>Nombre : mario alberto
+ <br>Apellido : junger
+ <br>Cargo : Rep. Tec. Com.
+ <br>Direccion : Pje m. pescador 2334
+ <br>Ciudad : CABA
+ <br>Telefono : 116 509 2945
+ <br>Email : majunger@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenos Dias.
+Me interesa este Cargo.
+Sds.
+ <br>Security_code : hx5pm
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.28<br>
+ <br>REF : TEQ
+ <br>Nombre : Teresa
+ <br>Apellido : Bazan
+ <br>Cargo : Analista de control
+ <br>Direccion : Hipolito Yrigoyen 2884 pb B
+ <br>Ciudad : Lanus oeste
+ <br>Telefono : 1137608100
+ <br>Email : teresatbazan@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenos días les envío mi cv,muchas gracias.
+ <br>Security_code : njqh9
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.18<br>
+ <br>Nombre : Teresa
+ <br>Apellido : Bazan
+ <br>Cargo : Analista de control
+ <br>Direccion : Hipolito Yrigoyen 2884 pb B
+ <br>Ciudad : Lanus oeste
+ <br>Telefono : 1137608100
+ <br>Email : teresatbazan@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenos días les envío mi cv, muchas gracias.
+ <br>Security_code : cjrtc
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.23<br>
+ <br>Nombre : Teresa
+ <br>Apellido : Bazan
+ <br>Cargo : Analista de control de calidad
+ <br>Direccion : Hipolito Yrigoyen 2884 pb b
+ <br>Ciudad : Lanus oeste
+ <br>Telefono : 1537608100
+ <br>Email : teresatbazan@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenos días les envío mi cv.
+ <br>Security_code : bzcrz
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.23.1.240<br>
+ <br>Nombre : DIEGO MARTIN
+ <br>Apellido : HERNANDEZ
+ <br>Cargo : JEFE Y SUPERVISOR DE PRODUCCIÓN, ASEGURAMIENTO DE LA CALIDAD Y HSE 
+ <br>Direccion : DOBLAS 160 6 4
+ <br>Ciudad : CABA
+ <br>Telefono : 1536130790
+ <br>Email : diegomh2000@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : 
+Estimado:
+Soy Diego Hernandez, me pongo en contacto con ud; a fin de presentarme y acércale mi Curriculum Vitae para que mi perfil sea evaluado en una futura búsqueda laboral.
+Tengo amplía experiencia en la industria Farmacéutica en las áreas de Producción y Aseguramiento de la calidad.
+En cuanto a mi formación soy Licenciado en Seguridad e Higiene.
+Desde ya muchas gracias y saludos cordiales.
+Diego Hernandez
+1536130790 
+
+ <br>Security_code : 78knd
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.18.27.120<br>
+ <br>Nombre : Alexos
+ <br>Apellido : Tango
+ <br>Cargo : Administrativo
+ <br>Direccion : Constitución 2952 depto PB:C, (entre La Rioja y Dean Funes)
+ <br>Ciudad : Capital Federal
+ <br>Telefono : 1154732243
+ <br>Email : alexis.cruz.tango@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : A quien corresponda
+
+Me dirijo a uds. con el fin de poder hacerle llevar mi Cv ya que me encuentro en la busqueda activa de empleo.
+
+Saludos cordiales
+Alexis Tango
+ <br>Security_code : gwd6j
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.188.90.179<br>
+ <br>Nombre : Alexander Jose
+ <br>Apellido : Rojas Rodríguez
+ <br>Cargo : Gerente de Sistemas
+ <br>Direccion : Coche
+ <br>Ciudad : Caracas
+ <br>Telefono : 04122110505
+ <br>Email : alexrojas2002@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenos Dias
+
+Anexo síntesis curricular para su revisión
+
+Saludos
+ <br>Security_code : 9qw7q
+ <br>Send : Enviar
+ <br>
+---------------
+

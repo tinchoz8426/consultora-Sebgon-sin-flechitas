@@ -1,0 +1,81 @@
+Address : 186.62.37.142
+REF : jefe-de-operaciones
+Nombre : Gabriela
+Apellido : Clavellino
+Cargo : Logística y Comercio Exterior
+Direccion : Lavalle 1435
+Ciudad : Quilmes
+Telefono : 1142549504 // 1557000160
+Email : gclavellino@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimado Sr. /Sra.
+ 
+De mi consideración:
+ 
+Tengo el agrado de dirigirme a Ud. con el propósito de postularme en búsquedas acordes a mi perfil.
+Cuento con una vasta experiencia obtenida en diferentes ramos del comercio internacional, así como también tengo experiencia adquirida en el área de MP&L (Material Planning and Logistics) realizando control de stocks y coberturas controlando variaciones de releases y programas de producción de acuerdo al sistema Kanban y JIT.  Ambas áreas resultan de mi interés para seguir cultivando nuevos conocimientos.
+En cuanto a mi formación, soy Licenciada en Comercio Internacional. Cuento con un fluido manejo del inglés y de herramientas informáticas. Proactiva, con muy buenas relaciones interpersonales y con capacidad de afrontar los retos profesionales.
+Adjunto mi curriculum vitae. Una entrevista será el marco adecuado donde pueda profundizar aspectos de mi perfil que resulten de su interés.
+ 
+Sin otro particular, le saluda atentamente.
+ 
+Gabriela S. Clavellino
+ 
+Tel. Part. 4254 9504 / Cel. 15 5700 0160
+gclavellino@yahoo.com.ar
+Security_code : sfxnz
+Send : Enviar
+
+---------------
+
+Address : 200.85.106.246
+Nombre : Noelia
+Apellido : Lucero
+Cargo : Analista de Recursos Humanos
+Direccion : Soler 
+Ciudad : Pilar
+Telefono : 1565491966
+Email : noelialucerospavioli@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buen día, adjunto mi Cv para búsquedas referidas al área de Recursos Humanos.
+Muchas gracias.
+Security_code : ghhhc
+Send : Enviar
+
+---------------
+
+Address : 201.255.139.4
+Nombre : Alejandro
+Apellido : Magla
+Cargo : Chofer
+Direccion : Balcarce 178
+Ciudad : Quilmes
+Telefono : 1564710533
+Email : alejandromagla@live.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola, a quien corresponda dejo adjunto mi cv para postularme en la búsqueda de un trabajo. saludos cordiales.
+Security_code : cbgfj
+Send : Enviar
+
+---------------
+
+Address : 190.172.174.118
+Nombre : Magdalena Carolina
+Apellido : Adúriz
+Cargo : Administrativo/Contractual
+Direccion : Lucas Lucero 2651 
+Ciudad : Neuquén
+Telefono : 0299 154575968
+Email : aduriz.mc@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenas tardes:
+Envío CV para futuras busquedas laborales.
+
+Saludos Cordiales,
+
+Carolina Adúriz
+Security_code : yzw4n
+Send : Enviar
+
+---------------
+

@@ -1,0 +1,24 @@
+Address : 186.136.135.31
+Nombre : Gabriela Andrea 
+Apellido : Sternberg
+Cargo : Abogada Senior
+Direccion : Virrey Arredondo 2456,  5to. B
+Ciudad : C.A.B.A.
+Telefono : 4787-3815
+Email : gabrielasternberg@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : De mi mayor consideracion, 
+
+A continuación,  adjunto mi CV con mis datos personales y profesionales, para  futuras búsquedas.  Como se desprende de mi CV,  soy abogada, egresada de la Universidad de Buenos Aires y realicé un máster en “Derecho y Economía” con orientación Derecho Empresario, en la Universidad Torcuato Di Tella. Tengo sólida experiencia en el asesoramiento jurídico empresario, área en la cual me he desempeño hace más de nueve años.  Además, tengo un excelente nivel de inglés tanto oral como escrito. 
+
+Esperando una respuesta favorable para poder concertar una entrevista personal y ampliar los datos incluídos en mi CV, los  saludo cordialmente, 
+
+Gabriela Andrea Sternberg 
+(gabrielasternberg@gmail.com, celular: 156-803-4087)
+
+
+Security_code : 2m2px
+Send : Enviar
+
+---------------
+

@@ -1,0 +1,75 @@
+Address : 190.12.106.242<br>
+ <br>Nombre : ALEJANDRO
+ <br>Apellido : ALI
+ <br>Cargo : ADMINISTRTIVO
+ <br>Direccion : AV. REMIGIO LOPEZ 806
+ <br>Ciudad : SAN MIGUEL - SAN MIG
+ <br>Telefono : 1131154128
+ <br>Email : alejandrodanielali@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : CV de alejandro ali
+ <br>Security_code : xk78z
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.138.158.185<br>
+ <br>Nombre : Ana Virginia
+ <br>Apellido : Bureau
+ <br>Cargo : Legales - atencion al publico - administrativo - asistente juridico
+ <br>Direccion : Maipú 2055 2 c 
+ <br>Ciudad : rosario
+ <br>Telefono : 3416188962
+ <br>Email : ana.bureau@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Soy Ana Bureau y estoy interesada en adquirir un trabajo para crecer en lo profesional y en lo personal aportando los conocimientos adquiridos en mis estudios realizados y en mi experiencia laboral.
+ <br>Security_code : jr3f7
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.219.171.110<br>
+ <br>Nombre : Cristhian Juan Manuel
+ <br>Apellido : Vega
+ <br>Cargo : Vendedor
+ <br>Direccion : Ituzaingo 1279
+ <br>Ciudad : Concordia
+ <br>Telefono : 3454045158
+ <br>Email : cristianjuan2013@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola, me llamo Vega Cristhian y busco trabajo activamente. Busco estabilidad economica, me gusta mucho las ventas pero no tengo problemas en desempeñarme y aprender en otras areas. Soy proactivo,ordenado, simpatico, honesto, puntual, dinamico y respetuoso.
+ <br>Security_code : xfjpr
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.16.155.97<br>
+ <br>Nombre : Rocío 
+ <br>Apellido : López
+ <br>Cargo : Jr. recursos humanos
+ <br>Direccion : C. Pellegrini 394 
+ <br>Ciudad : Morón
+ <br>Telefono : 1124620526
+ <br>Email : rocio__l@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me encuentro en búsqueda activa de trabajo, disponibilidad full time.
+ <br>Security_code : bskyv
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.197.224.153<br>
+ <br>Nombre : Luciana Paola
+ <br>Apellido : López
+ <br>Cargo : administración
+ <br>Direccion : Saavedra 770
+ <br>Ciudad : Bahía Blanca
+ <br>Telefono : 291-4021857
+ <br>Email : lucianalopez_77@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Solicito tengan a bien incorporarme es su base de datos para disponibilidad laboral en mi localidad de residencia. Muchas gracias.
+ <br>Security_code : 3nqnk
+ <br>Send : Enviar
+ <br>
+---------------
+

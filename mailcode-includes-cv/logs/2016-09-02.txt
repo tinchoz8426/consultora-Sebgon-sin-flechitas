@@ -1,0 +1,161 @@
+Address : 181.197.88.32<br>
+ <br>Nombre : Manuel
+ <br>Apellido : Rodríguez Chaves
+ <br>Cargo : Gerencia General, Gerencia Producción o Planta, Gerencia Calidad, Gerencia Operaciones
+ <br>Direccion : David, Panamá
+ <br>Ciudad : Panamá
+ <br>Telefono : 0050767478780
+ <br>Email : manuelroch5@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Adjunto mi hoja de vida para ser considerada para futuras contrataciones, de acuerdo al perfil que busca la empresa interesada.
+ <br>Security_code : gp7tz
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 200.41.184.98<br>
+ <br>REF : GTEP
+ <br>Nombre : Gonzalo 
+ <br>Apellido : Cañete
+ <br>Cargo : Gerente de Planta
+ <br>Direccion : Alto Perú 745
+ <br>Ciudad : San Isidro
+ <br>Telefono : 011-15-6290-4445
+ <br>Email : gonzalocanete@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buen día, 
+Actualmente me encuentro trabajando en una empresa en la que fabricamos saborizante para alimento balanceado para mascotas donde cumplimos con las normas de calidad para la industria alimenticia. 
+Evaluaría la posibilidad de cambiar de trabajo por un sueldo mayor a $80000 brutos.
+Saludos,
+Gonzalo Cañete
+ <br>Security_code : ndyx6
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 200.68.64.165<br>
+ <br>Nombre : Natalia
+ <br>Apellido : Carrubba
+ <br>Cargo : administrativa
+ <br>Direccion : Ciudad de la Paz 562
+ <br>Ciudad : caba
+ <br>Telefono : 1553897701
+ <br>Email : naticarrubba@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Por medio de la presente les acerco mi CV para su consideracion.
+Atentamente
+ <br>Security_code : f3kt5
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.18.30.217<br>
+ <br>Nombre : Dante Damián 
+ <br>Apellido : Romero
+ <br>Cargo : Cañista 
+ <br>Direccion : Caseros 2456 9 G
+ <br>Ciudad : Provincia bueno Aires 
+ <br>Telefono : 1166503185
+ <br>Email : romerodantedamian@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Soldador montajes industriales 
+ <br>Security_code : b2vhn
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.18.146.30<br>
+ <br>REF : SE.BIL
+ <br>Nombre : Eguiyoed
+ <br>Apellido : Torres
+ <br>Cargo : Secretaria Bilingue
+ <br>Direccion : Av. Corrientes 6139
+ <br>Ciudad : CABA
+ <br>Telefono : 11 68269858
+ <br>Email : eguiyoed@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Busco pertenecer a una organizaciòn donde pueda agregar valor a la misma desarrollando las habilidades y destrezas adquiridas a lo largo de mi experiencia laboral.
+ <br>Security_code : 58ftx
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.18.146.30<br>
+ <br>REF : SE.BIL
+ <br>Nombre : Eguiyoed
+ <br>Apellido : Torres
+ <br>Cargo : Secretaria Bilingue
+ <br>Direccion : Av. Corrientes 6139
+ <br>Ciudad : CABA
+ <br>Telefono : 11 68269858
+ <br>Email : eguiyoed@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Busco pertenecer a una organizaciòn donde pueda agregar valor a la misma desarrollando las habilidades y destrezas adquiridas a lo largo de mi experiencia laboral.
+ <br>Security_code : 58ftx
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.18.146.30<br>
+ <br>REF : SE.BIL
+ <br>Nombre : Eguiyoed
+ <br>Apellido : Torres
+ <br>Cargo : Secretaria Bilingue
+ <br>Direccion : Av. Corrientes 6139
+ <br>Ciudad : CABA
+ <br>Telefono : 11 68269858
+ <br>Email : eguiyoed@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Busco pertenecer a una organizaciòn donde pueda agregar valor a la misma desarrollando las habilidades y destrezas adquiridas a lo largo de mi experiencia laboral.
+ <br>Security_code : jg8s9
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.28<br>
+ <br>REF : SuP
+ <br>Nombre : Manuel 
+ <br>Apellido : Buera
+ <br>Cargo : Supervisor de producción 
+ <br>Direccion : Calle 158 N 4564
+ <br>Ciudad : Berazategui 
+ <br>Telefono : 1164804261
+ <br>Email : manuelbuera@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola,mis pretensiones salariales son 23000 netos
+ <br>Security_code : v2cpz
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.28<br>
+ <br>Nombre : Manuel 
+ <br>Apellido : Buera
+ <br>Cargo : Supervisor de producción 
+ <br>Direccion : Calle 158 N 4564
+ <br>Ciudad : Berazategui 
+ <br>Telefono : 1164804261
+ <br>Email : manuelbuera@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Pretensiones económicas $23000 netos 
+ <br>Security_code : p93w2
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.18.122.39<br>
+ <br>REF : SuP
+ <br>Nombre : Ricardo Luis
+ <br>Apellido : Gimenez
+ <br>Cargo : supervisor
+ <br>Direccion : A .DEL VALLE 2064
+ <br>Ciudad : BARRIO EL GAUCHO (CP=1852)BURZACO
+ <br>Telefono : 3973-6701
+ <br>Email : grl007_@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : USTEDES YA ME ENTREVISTARON EN OTRA POSTULCION.GRACIAS
+ <br>Security_code : 7sqmn
+ <br>Send : Enviar
+ <br>
+---------------
+

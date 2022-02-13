@@ -1,0 +1,118 @@
+Address : 66.249.83.155<br>
+ <br>REF : chr
+ <br>Nombre : Roberto carlos
+ <br>Apellido : Lopez
+ <br>Cargo : Chofer
+ <br>Direccion : California 6469
+ <br>Ciudad : Buenos aires
+ <br>Telefono : 1124140151
+ <br>Email : Lopezrobertocarlos435@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Cumplir con su espectativa
+ <br>Security_code : n3c36
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.83.155<br>
+ <br>REF : chr
+ <br>Nombre : Roberto carlos
+ <br>Apellido : Lopez
+ <br>Cargo : Chofer
+ <br>Direccion : California 6469
+ <br>Ciudad : Buenos aires
+ <br>Telefono : 1124140151
+ <br>Email : Lopezrobertocarlos435@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Cumplir con su espectativa
+ <br>Security_code : n3c36
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.171.113.22<br>
+ <br>REF : JPER-1
+ <br>Nombre : SABRINA INES
+ <br>Apellido : RODRIGUEZ
+ <br>Cargo : Jefe de Personal
+ <br>Direccion : CABA
+ <br>Ciudad : CABA
+ <br>Telefono : 1554099805
+ <br>Email : sabrinainesrodriguez1981@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Cuento con mas de 15 años de experiencia en Recursos Humanos, desarrollada en empresas, tanto locales como multinacionales de gran envergadura y con reportes locales y regionales.
+ 
+Cuento con amplia experiencia en áreas tanto "hard" como "soft", "startups" y formación y liderazgo de equipos de alto desempeño, tanto para trabajar en sedes administrativas como en plantas.
+
+En cuanto a la remuneración pretendida, seria a convenir de acuerdo a las responsabilidades y funciones especificas, como así también tamaño, estructuras y dotación de la compañía.
+ 
+Quedo a disposicion para una entrevista personal para cuando lo consideren oportuno.
+ <br>Security_code : 92gnq
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.16.104.203<br>
+ <br>Nombre : José María
+ <br>Apellido : Schweikofsky
+ <br>Cargo : Analista, Supervisor
+ <br>Direccion : Hipólito Yrigoyen 3251
+ <br>Ciudad : CABA
+ <br>Telefono : 3754659874
+ <br>Email : schweikofsky.jose@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Con la presente adjunto Currículum Vitae, con mis datos personales, experiencia laboral y formación, por si le es de interés en una presente o futura selección de personal.
+
+Saludos cordiales
+ <br>Security_code : dxcpf
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.230.121.8<br>
+ <br>Nombre : carlos yamil
+ <br>Apellido : dora
+ <br>Cargo : chofer de ambulancia o reparto y vendedor o administrativo, soy muy activo y dinamico con buen desarrollo 
+ <br>Direccion : semana de mayo 1976
+ <br>Ciudad : moreno
+ <br>Telefono : 1135856543
+ <br>Email : doratraslados@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : cuento con movilidad propia y muchas ganas de trabajar para lograr alcanzar cada una de mis metas personales.
+ <br>Security_code : v4jm5
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.47.187.102<br>
+ <br>REF : chr
+ <br>Nombre : braulio ramon 
+ <br>Apellido : dominguez ayala
+ <br>Cargo : chofer 
+ <br>Direccion : san martin 2420 
+ <br>Ciudad : buenos aires 
+ <br>Telefono : 1161352920 
+ <br>Email : braulio.ayala2372@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : tengo mas de 20 años en trasporte de carga soy puntual en horarios y responsabilidad en mi trabajos espero tener una oportunidad en su enpresa sin otra cosa saludo att 
+ <br>Security_code : 6n4fc
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.164.52.229<br>
+ <br>REF : chr
+ <br>Nombre : Luis
+ <br>Apellido : Wierenicz
+ <br>Cargo : Chofer
+ <br>Direccion : General José Maria Paz 1338
+ <br>Ciudad : Temperley
+ <br>Telefono : 1164169936
+ <br>Email : la.wierenicz@yahoo.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Mi nombre es Luis tengo 45 años, poseo experiencia en semirremolque y chasis con acoplado, registros y LNH al día.
+ <br>Security_code : 9rnkk
+ <br>Send : Enviar
+ <br>
+---------------
+

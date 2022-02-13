@@ -1,0 +1,82 @@
+Address : 181.1.230.236
+REF : jefe-de-garantia-de-calidad
+Nombre : Carlos Ariel
+Apellido : Galeano
+Cargo : Jefe de Garantía de Calidad
+Direccion : Carlos Pellegrini 5530
+Ciudad : Billinghurst
+Telefono : 48421910
+Email : arielgaleano@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto mi CV para que sea tenido en cuenta en la presente y/o futuras búsquedas laborales.
+Desde ya muchas gracias.
+Saludos cordiales.
+Security_code : pkw87
+Send : Enviar
+
+---------------
+
+Address : 201.253.216.225
+Nombre : Alan Esteban
+Apellido : Levy
+Cargo : Comunicacion
+Direccion : Le Breton 5728
+Ciudad : Ciudad Autónoma de Buenos Aires
+Telefono : 155 860 3943
+Email : prensasteps@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados:
+
+Les adjunto mi CV actualizado.
+
+Perfil:
+
+- Ciencias de la Comunicación
+- Redacciones
+- Radio / medios
+- Procesos educativos
+-  Periodismo
+- Creatividad
+- Publicidad
+- Asistencia Ejecutiva
+- Relaciones públicas / institucionales
+- Recursos Humanos
+Security_code : 5xsmf
+Send : Enviar
+
+---------------
+
+Address : 186.19.201.130
+REF : jefe-de-garantia-de-calidad
+Nombre : Juan 
+Apellido : Barabino
+Cargo : Jefe de Garantía de Calidad
+Direccion : Av. La Plata 323 9B
+Ciudad : Ciudad Autónoma de Buenos Aires
+Telefono : 1550261131
+Email : jp.barabino@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Les acerco mi CV para la presente como futuras búsquedas. Soy un ingeniero ambiental joven con experiencia en Sistemas de Gestión y postgrado en Calidad y Gestión de Proyectos. 
+Espero futuros contactos. Saludos cordiales,
+Security_code : cbzdy
+Send : Enviar
+
+---------------
+
+Address : 186.19.201.130
+REF : jefe-de-garantia-de-calidad
+Nombre : Juan 
+Apellido : Barabino
+Cargo : Jefe de Garantía de Calidad
+Direccion : Av. La Plata 323 9B
+Ciudad : Ciudad Autónoma de Buenos Aires
+Telefono : 1550261131
+Email : jp.barabino@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Les acerco mi CV para la presente como futuras búsquedas. Soy un ingeniero ambiental joven con experiencia en Sistemas de Gestión y postgrado en Calidad y Gestión de Proyectos. 
+Espero futuros contactos. Saludos cordiales,
+Security_code : cbzdy
+Send : Enviar
+
+---------------
+

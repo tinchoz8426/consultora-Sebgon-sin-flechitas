@@ -1,0 +1,46 @@
+Address : 190.97.63.135
+Nombre : María Laura
+Apellido : Rizzo
+Cargo : Salud
+Direccion : Zapiola 36 dpto 16
+Ciudad : Bahia Blanca
+Telefono : O291-154272136
+Email : laura_rizzo2003@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Quisiera postularme para todo lo relacionado con Salud en los Hospitales u organismos estatales
+Security_code : rnyqm
+Send : Enviar
+
+---------------
+
+Address : 186.148.141.131
+Nombre : Horacio Federico
+Apellido : Schmidt
+Cargo : Administrativo
+Direccion : 9 de Julio 647
+Ciudad : San Cayetano
+Telefono : 0298315651579
+Email : hfedeschmidt@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me encuentro en la búsqueda de un empleo administrativo en Mar del Plata.
+Security_code : w64jf
+Send : Enviar
+
+---------------
+
+Address : 190.195.138.197
+Nombre : Maria Rosario
+Apellido : Buezas
+Cargo : Técnico químico 
+Direccion : Esmeralda 339
+Ciudad : Capital Federal
+Telefono : 15-53428022
+Email : rosario_buezas@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me encuentro en búsqueda laboral 
+Muchas Gracias
+Security_code : 63749
+Send : Enviar
+
+---------------
+

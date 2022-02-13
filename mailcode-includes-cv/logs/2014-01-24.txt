@@ -1,0 +1,92 @@
+Address : 181.46.102.191
+Nombre : Jacqueline
+Apellido : Abuin
+Cargo : Selectora junior
+Direccion : larrea 1466 piso 2 depto B
+Ciudad : capital federal 
+Telefono : 0111559123149
+Email : jackyabuin@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola soy Psic´´ologa del área laboral realizando la diplomatura en RR.HH en la UBA y estoy interesada en adquirir experiencia en mi carrera, desde ya cuento con la mejor predisposición por aprender y desempeñarme con éxito. 
+Security_code : 7vhv5
+Send : Enviar
+
+---------------
+
+Address : 190.172.213.76
+Nombre : Micaela Soledad
+Apellido : Despo
+Cargo : cajera
+Direccion : Av Eva Peron 1730
+Ciudad : Moron
+Telefono : 1134586068
+Email : micaeladespo@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Mis objetivos son contribuir con mi experiencia y conocimientos en el sector de ventas, caja y atención al publico para formar parte de una empresa que me permita desarrollarme tanto laboral como personalmente siendo capaz de brindarle a la empresa  lo mejor de mis aportes
+Security_code : vnvxz
+Send : Enviar
+
+---------------
+
+Address : 190.189.39.98
+Nombre : Carolina
+Apellido : Gonza
+Cargo : Recepcionista
+Direccion : Bermejo 2537
+Ciudad : Buenos Aires
+Telefono : 1534893862
+Email : Carolinajgonza@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenas tardes, aca les envio mi Curricum vitae, espero poder contar con algun trabajo desde ya muchas gracias. 
+atte: Carolina Gonza
+Security_code : mkznh
+Send : Enviar
+
+---------------
+
+Address : 186.137.112.237
+Nombre : Alexis Roberto 
+Apellido : Salomon
+Cargo : Administrativo,ventas
+Direccion : Nueva York 4325 3 Piso
+Ciudad : Capital Federal
+Telefono : 1568140109
+Email : ale_salomon08@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me desempeño como administrativo,en atención al cliente,asesor de compra y ventas.
+Amplia disponibilidad horaria.
+Security_code : dhrd4
+Send : Enviar
+
+---------------
+
+Address : 200.70.32.164
+Nombre : Erica Fernanda
+Apellido : Bonetto Guerrero
+Cargo : administrativa
+Direccion : Bandera de los Andes 9915
+Ciudad : Mendoza
+Telefono : 2615909727
+Email : fernanda.outlook.com
+MAX_FILE_SIZE : 2097152
+Mensaje : soy responsable y buena persona, no pude cargar curriculum. Desde ya muchas gracias
+Security_code : sxfqm
+Send : Enviar
+
+---------------
+
+Address : 186.13.4.185
+Nombre : decio mariano
+Apellido : acevedo
+Cargo : cualquiera
+Direccion : calle 6 tembei pora
+Ciudad : sauce viejo
+Telefono : 0342155553619 0342155000748
+Email : decioacevedo@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Espero una grata y pronta entrevista laboral. muchas gracias.
+Security_code : 39m4s
+Send : Enviar
+
+---------------
+

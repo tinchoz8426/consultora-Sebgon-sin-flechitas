@@ -1,0 +1,136 @@
+Address : 37.228.107.72
+Nombre : carla
+Apellido : quinteros
+Cargo : personal de limpieza,cadeta,operarios,ventas,camarera.
+Direccion : brasil 1469
+Ciudad : buenos aires
+Telefono : 1530850969
+Email : carlaquinteros19@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : estoy buscando un empleo,tengo experiencia en limpieza de oficinas y edificios
+Security_code : v685g
+Send : Enviar
+
+---------------
+
+Address : 201.176.128.203
+Nombre : maximiliano
+Apellido : gomez
+Cargo : operario
+Direccion : garcia merou 6009
+Ciudad : laferrere
+Telefono : 1530398965
+Email : omg_1980@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : me siento capacitado y con amplia experiencia para cubrir cualquier puesto.
+Security_code : sv33k
+Send : Enviar
+
+---------------
+
+Address : 201.176.128.203
+Nombre : maximiliano
+Apellido : gomez
+Cargo : operario
+Direccion : garcia merou 6009
+Ciudad : laferrere
+Telefono : 1530398965
+Email : omg_1980@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : me siento capacitado y con amplia experiencia para cubrir cualquier puesto.
+Security_code : sv33k
+Send : Enviar
+
+---------------
+
+Address : 181.25.213.145
+Nombre : miguel
+Apellido : aguera
+Cargo : atencion al cliente
+Direccion : pedro dreyer 1354
+Ciudad : monte grande 
+Telefono : 1126538052
+Email : miguel_aguera94@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados,
+
+Mi nombre es Miguel Aguera, tengo 20 años y actualmente estoy buscando trabajo en Buenos Aires. Yo soy una persona responsable, comprometida y pro-activa. Tengo experiencia en trabajar en equipo y tambien en solucionar problemas a mi cuenta. Tengo la capacidad de adaptarme rapido a nuevas situaciones y aprendo muy rapido.
+
+Agradeceria una invitación a una entrevista, en la cual nos podemos conocer personalmente.
+Saludos cordiales
+
+Security_code : vh4cr
+Send : Enviar
+
+---------------
+
+Address : 186.136.93.91
+Nombre : Norca
+Apellido : Loayza Lopez
+Cargo : Gerente Comercial
+Direccion : Av. maipu 4117
+Ciudad : Olivos, Buenos Aires
+Telefono : 1562820309
+Email : info@norcaloayza.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto CV par su evaluacion.
+Security_code : 47g96
+Send : Enviar
+
+---------------
+
+Address : 190.0.175.5
+Nombre : Jesica
+Apellido : Redes
+Cargo : Administrativa Cobranzas
+Direccion : San Martin 999
+Ciudad : Ramos Mejia
+Telefono : 011-153878-8304
+Email : jesicaredes@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados, adjunto mi curriculum vitae para que sea tenido en cuenta para concretar una entrevista y poder ampliar personalmente mi experiencia y mis expectativas laborales.
+Desde ya muchas gracias
+Security_code : 99ty7
+Send : Enviar
+
+---------------
+
+Address : 181.44.19.61
+Nombre : Micaela
+Apellido : Charles Mengeón
+Cargo : Recepcionista/Cajera/Administrativa
+Direccion : Salta 765
+Ciudad : General Pacheco
+Telefono : 1534622970
+Email : miicaela.e@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me encuentro en búsqueda de una nueva experiencia laboral, con mucha predisposición y ganas de aprender. Cuento con un amplio conocimiento en Microsoft Office y manejo de PC, buena presencia, trato con clientes y manejo de caja.
+Security_code : gzg82
+Send : Enviar
+
+---------------
+
+Address : 186.136.112.171
+Nombre : Daniel Horacio
+Apellido : Boye
+Cargo : Administrativo -asistente -auxiliar -coordinador
+Direccion : Palpa 3120
+Ciudad : caba
+Telefono : 1168186375
+Email : db30145@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados, Les le hago llegar mi CV, con la experiencia adquirida, para vuestra consideración para cualquier  vacante acorde a mi perfil, Administrativo - Sr. o Semi-Senior-  que les pudiera surgir, quedando a vuestra disposición por cualquier inquietud que les surgiere al respecto.
+
+Remuneración pretendida: A convenir - 
+
+Atentos Saludos
+Daniel Horacio Boyé
+db30145@gmail.com
+ar.linkedin.com/pub/daniel- horacio-boyé/79/7b2/998/
+Mensajes 4827-0429 / 45540383
+Móvil 1168186375
+Security_code : zh4cg
+Send : Enviar
+
+---------------
+

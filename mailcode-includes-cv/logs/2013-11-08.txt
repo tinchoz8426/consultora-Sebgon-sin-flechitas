@@ -1,0 +1,42 @@
+Address : 
+Nombre : Yamila
+Apellido : Garcia
+Cargo : Comunicación interna/institucional
+Direccion : Graham Bell 911
+Ciudad : Paso del Rey
+Telefono : 1159748751
+Email : yamylag@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Tengo el agrado de dirigirme a Ustedes, a fin de acercarles mi CV, para eventuales búsquedas acordes a mi perfil. 
+Cuento con una amplia experiencia relacionada a lo comunicacional y periodístico, debido a las diferentes prácticas realizadas en medios gráficos, radiofónicos y audiovisuales.
+En cuanto a mi formación, eh estudiado la carrera de grado “Licenciatura en Comunicación Social”, habiendo elegido la orientación en Periodismo. Consiguiente a ello, poseo gran Capacidad de comunicación a nivel verbal y escrito. 
+Además realicé cursos para seguir capacitándome en distintas áreas, como ser, diseño web, oratoria y presentaciones eficaces, Instructor en Formación Profesional; Coaching y Liderazgo.
+
+Estimo que una entrevista será el marco adecuado para profundizar aspectos de mi perfil.
+
+Security_code : Zf5Z9
+Send : Enviar
+
+---------------
+
+Address : 
+Nombre : Yamila
+Apellido : Garcia
+Cargo : Comunicación interna/institucional
+Direccion : Graham Bell 911
+Ciudad : Paso del Rey
+Telefono : 1159748751
+Email : yamylag@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Tengo el agrado de dirigirme a Ustedes, a fin de acercarles mi CV, para eventuales búsquedas acordes a mi perfil. 
+Cuento con una amplia experiencia relacionada a lo comunicacional y periodístico, debido a las diferentes prácticas realizadas en medios gráficos, radiofónicos y audiovisuales.
+En cuanto a mi formación, eh estudiado la carrera de grado “Licenciatura en Comunicación Social”, habiendo elegido la orientación en Periodismo. Consiguiente a ello, poseo gran Capacidad de comunicación a nivel verbal y escrito. 
+Además realicé cursos para seguir capacitándome en distintas áreas, como ser, diseño web, oratoria y presentaciones eficaces, Instructor en Formación Profesional; Coaching y Liderazgo.
+
+Estimo que una entrevista será el marco adecuado para profundizar aspectos de mi perfil.
+
+Security_code : w2my2
+Send : Enviar
+
+---------------
+

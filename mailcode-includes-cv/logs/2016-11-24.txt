@@ -1,0 +1,18 @@
+Address : 201.180.92.147<br>
+ <br>REF : JPER-1
+ <br>Nombre : Daniel
+ <br>Apellido : Daumas
+ <br>Cargo : Jefe de Personal
+ <br>Direccion : Madariaga 3323 
+ <br>Ciudad : San Justo
+ <br>Telefono : 1563514335
+ <br>Email : danieldaumas@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : El motivo del presente es postular al puesto de JEFE DE PERSONAL,cuento con disponibilidad inmediata.
+Adjunto mi cv, para vuestra evaluación.
+Remuneración pretendida: $ 40000 (netos)
+ <br>Security_code : 44gb8
+ <br>Send : Enviar
+ <br>
+---------------
+

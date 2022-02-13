@@ -1,0 +1,16 @@
+Address : 190.177.110.170
+Nombre : German
+Apellido : Sperli
+Cargo : Recepcionista
+Direccion : avenida fuertes
+Ciudad : Coronel Dorrego
+Telefono : 0291154194778
+Email : chepe_cl7@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola! soy Técnico Superior en Hoteleria y quería hacerles llegar mi curriculum. gracias 
+atte.
+Security_code : cf9cw
+Send : Enviar
+
+---------------
+

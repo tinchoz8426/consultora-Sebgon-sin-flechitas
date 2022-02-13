@@ -1,0 +1,333 @@
+Address : 201.250.142.191
+Nombre : patricia
+Apellido : garay
+Cargo : administrativa
+Direccion : haedo 276
+Ciudad : moreno
+Telefono : 1155899600
+Email : patricia.garay@live.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Busco trabajo como empleada administrativa o secretaria
+Security_code : mhr9y
+Send : Enviar
+
+---------------
+
+Address : 190.138.125.63
+Nombre : Maria Victoria
+Apellido : Montes de Oca
+Cargo : Lic. Trabajo Social
+Direccion : Fray Justo Santa Maria de Oro 2419, 2b
+Ciudad : Caba
+Telefono : 011-1540769630
+Email : victoriamdo56@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estoy recién recibida, con ganas de desempeñarme como trabajadora social y aprender.
+Security_code : 8jvbs
+Send : Enviar
+
+---------------
+
+Address : 190.138.125.63
+Nombre : Maria Victoria
+Apellido : Montes de Oca
+Cargo : Lic. Trabajo Social
+Direccion : Fray Justo Santa Maria de Oro 2419, 2b
+Ciudad : Caba
+Telefono : 011-1540769630
+Email : victoriamdo56@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estoy recién recibida, con ganas de desempeñarme como trabajadora social y aprender.
+Security_code : 8jvbs
+Send : Enviar
+
+---------------
+
+Address : 190.138.125.63
+Nombre : Maria Victoria
+Apellido : Montes de Oca
+Cargo : Lic. Trabajo Social
+Direccion : Fray Justo Santa Maria de Oro 2419, 2b
+Ciudad : Caba
+Telefono : 011-1540769630
+Email : victoriamdo56@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estoy recién recibida, con ganas de desempeñarme como trabajadora social y aprender.
+Security_code : 8jvbs
+Send : Enviar
+
+---------------
+
+Address : 190.138.125.63
+Nombre : Maria Victoria
+Apellido : Montes de Oca
+Cargo : Lic. Trabajo Social
+Direccion : Fray Justo Santa Maria de Oro 2419, 2b
+Ciudad : Caba
+Telefono : 011-1540769630
+Email : victoriamdo56@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estoy recién recibida, con ganas de desempeñarme como trabajadora social y aprender.
+Security_code : mv7wm
+Send : Enviar
+
+---------------
+
+Address : 206.132.109.62
+Nombre : Maria Rosa
+Apellido : Gamarra
+Cargo : auxiliar de farmacia, operario, repositor/a, secretaria, recepcionista
+Direccion : Europa 2075
+Ciudad : San Luis
+Telefono : 2664841005
+Email : mariarosa_gamarra@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me gustaria q Me ayudaran a encontrar UN trabajo... y demostrar mis conocimientos y poder seguir creciendon con mis conocimientos.
+Security_code : ddz65
+Send : Enviar
+
+---------------
+
+Address : 181.168.216.223
+REF : SUPERVISOR-DE-SEGURIDAD
+Nombre : TOMAS FRANCISCO
+Apellido : HERNANDEZ CABADA
+Cargo : supervisor de seguridad
+Direccion : BUENOS AIRES 2770
+Ciudad : MAR DEL PLATA
+Telefono : 02234-4910626
+Email : hernandez.tomas63@yahoo.com
+MAX_FILE_SIZE : 2097152
+Mensaje : MI NECESIDAD ES TRABAJAR.
+Security_code : pz6y6
+Send : Enviar
+
+---------------
+
+Address : 186.61.10.245
+Nombre : Cristhian
+Apellido : Gomez
+Cargo : Administrativo
+Direccion : Jorge 4660
+Ciudad : Rafael Calzada
+Telefono : 011 1536396091
+Email : cristhianggomez2014@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Mi nombre es Cristhian Gustavo Gomez y aqui les envio mi curriculum, ya que hace dos meses estoy desempleado y necesito trabajar. Desde ya muchas gracias.
+Saluda atentamente Cristhian Gomez.
+Security_code : hvkhd
+Send : Enviar
+
+---------------
+
+Address : 186.61.10.245
+Nombre : Cristhian
+Apellido : Gomez
+Cargo : Administrativo
+Direccion : Jorge 4660
+Ciudad : Rafael Calzada
+Telefono : 011 1536396091
+Email : cristhianggomez2014@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Mi nombre es Cristhian Gustavo Gomez y aqui les envio mi curriculum, ya que hace dos meses estoy desempleado y necesito trabajar. Desde ya muchas gracias.
+Saluda atentamente Cristhian Gomez.
+Security_code : hvkhd
+Send : Enviar
+
+---------------
+
+Address : 181.168.101.42
+Nombre : Jose Nicolas
+Apellido : Fernandez
+Cargo : boca de pozo
+Direccion : amancay 601
+Ciudad : Neuquen
+Telefono : 2995812510
+Email : nico_1590_100@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : hola soy técnico en electro-mecánica no tengo experiencia en el petroleo,pero tengo todas las intenciones de aprender y dar mas de lo que se puede, necesito muchísimo el trabajo tengo un hijo en camino y me gustaría darle lo que ami no me pudieron dar soy joven 23 años, trabaje un tiempo en el taller mecánico de mi padre 4 años en una empresa de ventas de electrodomésticos, se soldar.
+Sepan disculpar la molestias me despido y espero una respuesta favorable saludos atentamente y muchas gracias..
+                                                                   Jose Nicolas Fernandez
+Security_code : n8yxb
+Send : Enviar
+
+---------------
+
+Address : 186.23.106.12
+Nombre : Ricardo Daniel
+Apellido : Alvarez
+Cargo : Supervisor o Jefe de Producción
+Direccion : Av. Rivadavia 6163 - PB - Dpto. 4 - CABA
+Ciudad : CABA
+Telefono : 3531-7009
+Email : ricardoalvarez_44@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenos días.
+Soy Técnico Químico, con amplia experiencia como Supervisor de Producción.
+Estoy desempleado desde el 01/04/2014 y busco trabajo desde entonces.
+Muchas gracias.
+Saludo muy atte.
+
+Ricardo Alvarez
+Security_code : v9mst
+Send : Enviar
+
+---------------
+
+Address : 186.23.106.12
+Nombre : Ricardo Daniel
+Apellido : Alvarez
+Cargo : Supervisor o Jefe de Producción
+Direccion : Av. Rivadavia 6163 - PB - Dpto. 4 - CABA
+Ciudad : CABA
+Telefono : 3531-7009
+Email : ricardoalvarez_44@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenos días.
+Soy Técnico Químico, con amplia experiencia como Supervisor de Producción.
+Estoy desempleado desde el 01/04/2014 y busco trabajo desde entonces.
+Muchas gracias.
+Saludo muy atte.
+
+Ricardo Alvarez
+Security_code : v9mst
+Send : Enviar
+
+---------------
+
+Address : 190.51.42.8
+REF : SUPERVISOR-DE-SEGURIDAD
+Nombre : Anahi Gimena
+Apellido : Cuellar
+Cargo : SUPERVISOR-DE-SEGURIDAD
+Direccion : 21
+Ciudad : Berazategui
+Telefono : 42566829
+Email : anahicuellar@outlook.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje :                                                                                                     Abril  2014
+Sr/Sra:
+
+Me dirijo a usted ya que estoy en búsqueda de un nuevo trabajo, podrá observar mi formación técnica en informática y mis estudios certificados en inglés. 
+
+Actualmente soy estudiante de la Tecnicatura Superior en Seguridad e Higiene y Control Ambiental laboral y me resta tan solo 7 materias para recibirme, he adquirido nuevas técnicas sobre como planificar y limitarme a los plazos límites, saber expresarme de manera escrita y oral, comunicarme en diferentes niveles y usar mi imaginación para solucionar problemas de forma creativa.
+
+Soy una persona muy trabajadora y responsable. Por el momento cuento con disponibilidad completa e inmediata y estoy dispuesta a reubicarme de ciudad. 
+
+Si necesita alguna otra información estaré complacida en brindársela.
+
+Saludos cordiales
+
+Anahi Cuellar
+
+Tel: 42566829
+Cel: 1530799616
+Mail: anahicuellar@outlook.com.ar
+
+
+Security_code : BF9WP
+Send : Enviar
+
+---------------
+
+Address : 190.51.42.8
+REF : SUPERVISOR-DE-SEGURIDAD
+Nombre : Anahi Gimena
+Apellido : Cuellar
+Cargo : SUPERVISOR-DE-SEGURIDAD
+Direccion : 21
+Ciudad : Berazategui
+Telefono : 42566829
+Email : anahicuellar@outlook.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje :                                                                                                     Abril  2014
+Sr/Sra:
+
+Me dirijo a usted ya que estoy en búsqueda de un nuevo trabajo, podrá observar mi formación técnica en informática y mis estudios certificados en inglés. 
+
+Actualmente soy estudiante de la Tecnicatura Superior en Seguridad e Higiene y Control Ambiental laboral y me resta tan solo 7 materias para recibirme, he adquirido nuevas técnicas sobre como planificar y limitarme a los plazos límites, saber expresarme de manera escrita y oral, comunicarme en diferentes niveles y usar mi imaginación para solucionar problemas de forma creativa.
+
+Soy una persona muy trabajadora y responsable. Por el momento cuento con disponibilidad completa e inmediata y estoy dispuesta a reubicarme de ciudad. 
+
+Si necesita alguna otra información estaré complacida en brindársela.
+
+Saludos cordiales
+
+Anahi Cuellar
+
+Tel: 42566829
+Cel: 1530799616
+Mail: anahicuellar@outlook.com.ar
+
+
+Security_code : bf9wp
+Send : Enviar
+
+---------------
+
+Address : 186.23.106.12
+Nombre : Ricardo Daniel
+Apellido : Alvarez
+Cargo : Supervisor o Jefe de Producción
+Direccion : Av. Rivadavia 6163 - PB - Dpto. 4 - CABA
+Ciudad : CABA
+Telefono : 3531-7009
+Email : ricardoalvarez_44@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenos días.
+Soy Técnico Químico, con amplia experiencia como Supervisor de Producción.
+Estoy desempleado desde el 01/04/2014 y busco trabajo desde entonces.
+Muchas gracias.
+Saludo muy atte.
+
+Ricardo Alvarez
+Security_code : 7mgzh
+Send : Enviar
+
+---------------
+
+Address : 181.14.120.95
+Nombre : andrea 
+Apellido : gonzalez
+Cargo : tecnica de hys
+Direccion : zapiola 1927
+Ciudad : capital federal
+Telefono : 1561582902
+Email : andreavigonzalez@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : cv tecnica de seguridad  e higiene
+Security_code : 5npn5
+Send : Enviar
+
+---------------
+
+Address : 186.182.10.62
+Nombre : gabriela
+Apellido : barua
+Cargo : -
+Direccion : magan 1244
+Ciudad : avellaneda
+Telefono : 541133946000
+Email : gabriela.barua@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : .
+Security_code : nfpfd
+Send : Enviar
+
+---------------
+
+Address : 186.182.10.62
+Nombre : gabriela
+Apellido : barua
+Cargo : -
+Direccion : magan 1244
+Ciudad : avellaneda
+Telefono : 541133946000
+Email : gabriela.barua@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : .
+Security_code : nfpfd
+Send : Enviar
+
+---------------
+

@@ -1,0 +1,46 @@
+Address : 181.165.80.21<br>
+ <br>Nombre : maria de los angeles
+ <br>Apellido : perez
+ <br>Cargo : Atencion al cliente
+ <br>Direccion : av. juan b. justo
+ <br>Ciudad : cordoba
+ <br>Telefono : 351-2181200 / 3521-531562
+ <br>Email : meryperez005@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : busco trabajo para poder pagar mis estudios y mantenerme ami misma sin depender de nadien
+ <br>Security_code : 6b8wn
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.19.238.248<br>
+ <br>Nombre : Guillermo Ulises
+ <br>Apellido : Garcia
+ <br>Cargo : Comunicación
+ <br>Direccion : Don Orione 1260
+ <br>Ciudad : San Fernando
+ <br>Telefono : 1158582844
+ <br>Email : garciaguillermoulises@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me considero una persona proactiva, dinámica y flexible, con gran voluntad para afrontar nuevos desafíos. 
+Capaz de tomar decisiones y aceptar responsabilidades, me muestro creativo e innovador.
+ <br>Security_code : Ksbty
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.231.207.56<br>
+ <br>Nombre : Anny Kattherine
+ <br>Apellido : Meaño Rivero
+ <br>Cargo : Ingeniero electricista
+ <br>Direccion : Av. Estado de Israel 4701. Apartamento 23, piso 7.
+ <br>Ciudad : villa crespo
+ <br>Telefono : 1166660157
+ <br>Email : annykattherine@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Es un gusto poder saludarles y hacer contacto con ustedes, el motivo de la presente es presentarme y solicitarle una oportunidad de trabajo. Por este medio le envió mi curriculum vitae para que sea tomado en cuenta en sus vacantes disponibles. Me considero una persona muy emprendedora, trabajadora y de retos, cuento con la experiencia necesaria y una gran habilidad en atención al cliente. Desde Joven he demostrado mucha responsabilidad, y lealtad a mi trabajo., Mi aspiración y deseo más grande es poder desarrollarme en una empresa de calidad , donde pueda crecer profesional y personalmente.
+ <br>Security_code : m87tn
+ <br>Send : Enviar
+ <br>
+---------------
+

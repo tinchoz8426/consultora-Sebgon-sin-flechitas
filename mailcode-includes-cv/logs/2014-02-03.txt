@@ -1,0 +1,78 @@
+Address : 181.95.14.72
+Nombre : Isabel
+Apellido : Murature
+Cargo : cajera, atencion al cliente.
+Direccion : agustin aguirre 73
+Ciudad : Alta Gracia
+Telefono : 03543 15611322
+Email : isabelmurature4@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : hola que tal, estoy buscando trabajo y estoy dispuesta a progresar y capacitarme en lo que sea necedario para poder trabajar.
+
+Security_code : fkt8n
+Send : Enviar
+
+---------------
+
+Address : 190.2.107.109
+Nombre : TANIA FABRINA
+Apellido : CORSETTI
+Cargo : RECURSOS HUMANOS
+Direccion : PARAGUAY 1661 EP "B"
+Ciudad : ROSARIO
+Telefono : 0341 156145807
+Email : tania_c80@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenos días, soy Licenciada en Antropología Sociocultural y estoy buscando trabajo, razón por la cual les hago llegar mi cv. Muchas gracias, saludos.
+Security_code : n77vz
+Send : Enviar
+
+---------------
+
+Address : 190.185.103.12
+REF : Gerente-de-Administracion-y-Finanzas
+Nombre : Rodrigo Antonio
+Apellido : Fernandez
+Cargo : Gerencia de Finanzas
+Direccion : Anaya 4024
+Ciudad : Neuquen
+Telefono : 0299-155361704
+Email : raf05@cema.edu.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Envio el CV.
+Saludos Cordiales,
+Security_code : b2sg7
+Send : Enviar
+
+---------------
+
+Address : 201.234.253.196
+Nombre : jaquelina
+Apellido : ranieri
+Cargo : auxiliar de recursos humanos
+Direccion : corrientes 1774 12 L 
+Ciudad : rosario
+Telefono : 0247715457778
+Email : jaquelina_ranieri@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Aca dejo mi cv con el fin de encontrar un empleo acorde con el.
+Security_code : 6m5md
+Send : Enviar
+
+---------------
+
+Address : 200.117.208.208
+Nombre : Iván Stefano
+Apellido : Pugliese
+Cargo : Repositor
+Direccion : Venta y media 5243
+Ciudad : Córdoba
+Telefono : 4845145
+Email : ivan-pugliese@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me encuentro en posición de conseguir trabajo, soy una persona responsable y trabajadora, me adapto bien a cualquier ambiente. desde ya muchas gracias
+Security_code : d3qy5
+Send : Enviar
+
+---------------
+

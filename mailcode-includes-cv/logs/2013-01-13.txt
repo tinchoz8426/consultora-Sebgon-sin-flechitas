@@ -1,0 +1,35 @@
+Address : 190.18.59.118
+Nombre : Florencia 
+Apellido : Cataldo
+Cargo : Asistente de Recursos Humanos
+Direccion : Av. Perón 635
+Ciudad : Campana
+Telefono : 03489 - 15522263
+Email : florcataldo@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto mi CV ya que me interesaría desempeñarme y aplicar mis conocimientos en el área de RRHH.
+Muchas gracias.
+
+Atte.
+
+Florencia Cataldo.-
+Security_code : 8wrkb
+Send : Enviar
+
+---------------
+
+Address : 190.174.181.246
+Nombre : Walter Hernan
+Apellido : Acosta
+Cargo : Supervisor
+Direccion : Beron de Astrada 5583 3º A
+Ciudad : Tablada
+Telefono : 1551084471
+Email : walterh_acosta74@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Envio mi CV para una futura postulacion.
+Security_code : br9km
+Send : Enviar
+
+---------------
+

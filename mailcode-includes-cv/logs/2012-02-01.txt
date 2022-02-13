@@ -1,0 +1,30 @@
+Address : 190.247.215.108
+Nombre : Pablo Daniel
+Apellido : Tobler
+Cargo : Administrativo
+Direccion : Gascon 826 13 i
+Ciudad : Capital Federal
+Telefono : 48654362/0348715622840
+Email : pablotobler@msn.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Durante mis 4 años de trabajo en la fundación educativa “Capacitare” ocupe un cargo administrativo y, a su vez, un cargo docente en las materias Historia, y en la materia Educación Cívica, de nivel medio para adultos. En el puesto administrativo mis principales funciones eran la atención al público, personal y telefónicamente; cobranza y control de pagos de los alumnos; supervisión de las diferentes sedes que posee la fundación en la provincia de Buenos Aires y de San Luis, comprobando los legajos de los alumnos, el estado de los libros legales, etcétera. Para dicha función era necesario el seguimiento ordenado de los pasos  y plazos legales, y el trabajo en equipo ya que se necesita establecer un círculo virtuoso en la transferencia de la información de manera clara y concisa.   
+Security_code : 674rr
+Send : Enviar
+
+---------------
+
+Address : 190.18.230.22
+Nombre : Mauro
+Apellido : Magliarella
+Cargo : vendedor
+Direccion : Gral Deheza 779 pb a
+Ciudad : Córdoba
+Telefono : 0351 155107430
+Email : amaurom@hotmail.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Disponibilidad para insertarme inmediatamente en una empresa. 
+Security_code : 2dtgg
+Send : Enviar
+
+---------------
+

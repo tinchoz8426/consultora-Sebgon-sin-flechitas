@@ -1,0 +1,30 @@
+Address : 190.1.9.39<br>
+ <br>Nombre : cristhian
+ <br>Apellido : araneda
+ <br>Cargo : repositor/atencion al publico
+ <br>Direccion : sarmiento 2300
+ <br>Ciudad : mar del plata
+ <br>Telefono : 2914191159
+ <br>Email : cristhianaraneda2014@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : soy responsable, carismatico y con ganas de trabajar ,crecer dia a dia
+ <br>Security_code : sm74m
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.124.16.169<br>
+ <br>Nombre : Betina Elizabeth 
+ <br>Apellido : Soto Porporatto
+ <br>Cargo : Freelance positions
+ <br>Direccion : Duarte Quiros 2592 
+ <br>Ciudad : Cordoba
+ <br>Telefono : 0351 155201918
+ <br>Email : betsotop@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Periodista Bilingüe con experiencia en Project Management, Marketing y Redacción de contenidos. En búsqueda de oportunidades freelance en el rubro. 
+ <br>Security_code : 8d6j7
+ <br>Send : Enviar
+ <br>
+---------------
+

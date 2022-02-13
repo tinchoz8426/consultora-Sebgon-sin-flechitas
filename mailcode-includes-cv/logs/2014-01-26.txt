@@ -1,0 +1,60 @@
+Address : 186.59.115.150
+Nombre : Karen Janet
+Apellido : Navarro
+Cargo : CAJERA - ADMINISTRATIVA
+Direccion : jorge newbery
+Ciudad : Mendoza
+Telefono : 0261- 4264240
+Email : frankotymakco@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me precento mi nombre es Karen Navarro y dejo mi cv cargado. 
+Security_code : ntbrh
+Send : Enviar
+
+---------------
+
+Address : 186.59.115.150
+Nombre : Karen Janet
+Apellido : Navarro
+Cargo : CAJERA - ADMINISTRATIVA
+Direccion : jorge newbery
+Ciudad : Mendoza
+Telefono : 0261- 4264240
+Email : frankotymakco@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me precento mi nombre es Karen Navarro y dejo mi cv cargado. 
+Security_code : ntbrh
+Send : Enviar
+
+---------------
+
+Address : 181.166.128.166
+Nombre : cristian javier 
+Apellido : Rios
+Cargo : operario 
+Direccion : el zonda 
+Ciudad : jose c paz 
+Telefono : 1569572163
+Email : jcristianrios@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : deseo poder cumplir las expectativas necesarias para poder conseguir empleo atraves de ustedes ,. desde ya muchas gracias
+Security_code : drhw5
+Send : Enviar
+
+---------------
+
+Address : 181.29.93.132
+Nombre : maximiliano
+Apellido : escudero
+Cargo : vigilancia o operador
+Direccion : villaroel908
+Ciudad : buenos aires
+Telefono : 1133697344
+Email : pochi_isaias09@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : necesito un trabajo
+Security_code : svj6f
+Send : Enviar
+
+---------------
+

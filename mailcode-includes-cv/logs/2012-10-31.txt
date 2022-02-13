@@ -1,0 +1,45 @@
+Address : 190.174.63.144
+Nombre : ROMINA
+Apellido : TREJO
+Cargo : asesora de ventas/ creditos personales y tareas afines
+Direccion : GRAL. SAVIO N° 3578
+Ciudad : LOS POLVORINES
+Telefono : 1530068637
+Email : trejoromina@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : estoy en busca de trabajo en tareas relacionadas como venta y creditos personales y afines. gracias por su atencion.
+Security_code : rqbfv
+Send : Enviar
+
+---------------
+
+Address : 190.189.116.91
+Nombre : Leonardo Bruno
+Apellido : De Zan
+Cargo : Legales
+Direccion : Cosquin 1679
+Ciudad : Capital Federal
+Telefono : 1530306628
+Email : leonardodezan@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Soy estudiante de la carrera de Abogacía en la Universidad de Buenos Aires, actualmente me encuentro cursando el C.P.C. Me considero una persona hábil,  proactiva con alta capacidad analítica, visión general del negocio y orientada a resultados; que desea colocar a su disposición todo su potencial profesional y humanístico, con adaptabilidad al trabajo en equipo y manejo de equipos de trabajo. 
+Security_code : szwnj
+Send : Enviar
+
+---------------
+
+Address : 186.18.203.130
+Nombre : Damian
+Apellido : Vega
+Cargo : Administrativo.
+Direccion : Bueras 1929
+Ciudad : Lanus
+Telefono : 42408419
+Email : vegaa@live.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje :  Hola soy Damian Vega, tengo 22 años, y soy estudiante de Lic. en Ciencia y Tecnologia de Alimentos.
+Security_code : hqvn8
+Send : Enviar
+
+---------------
+

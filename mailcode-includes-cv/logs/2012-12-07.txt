@@ -1,0 +1,17 @@
+Address : 186.109.173.95
+Nombre : Miguel Angel
+Apellido : Di Gregorio
+Cargo : segun  CV
+Direccion : Fray C: Rodriguez 3949
+Ciudad : Villa Adelina- Vte. Lopez
+Telefono : 47632755
+Email : sulufe03@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto CV para v/ evaluacion.
+Cordialmente
+MADG
+Security_code : YCnjk
+Send : Enviar
+
+---------------
+

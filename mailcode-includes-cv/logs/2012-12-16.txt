@@ -1,0 +1,24 @@
+Address : 190.173.83.204
+REF : administrativa-compras
+Nombre : Sandra Emilia 
+Apellido : Allegri
+Cargo : Administrativa de compras para Hurlingham y Secretaria Ejecutiva para Bella Vista
+Direccion : Juan de Garay 3354
+Ciudad : Hurlingham
+Telefono : 1565795787
+Email : san
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimado selector de personal:
+
+He conocido a través de diferentes medios la importante actividad que viene desarrollando su empresa en su área  y me siento muy interesado en ser parte de su equipo de trabajo. Considero que mi excelente formación académica, capacidad de trabajo y mi deseo de superación, sumados a mi profesionalidad, podrán contribuir en el logro de los objetivos. Por estas razones, adjunto mi CV para que tenga en cuenta mi candidatura a una posible vacante en esta área. 
+Como puede apreciar mi CV, tengo 10 años en área de secretarial ejecutivo, administrativo, contable, atención al cliente, reclamos, ventas corporativas, a particulares y auditoría de calidad.  Además cuento con experiencia en el área de recursos humanos y con el manejo de personal (una dotación de 20 personas a mi cargo) y durante 3 años he desarrollado un micro emprendimiento de ediciones multimedia.  Además cuento con experiencia académica que respaldan mi trayectoria laboral.
+Finalmente, le agradezco su atención prestada y deseo que me conceda la oportunidad de una entrevista personal donde pueda ampliar mi currícula. Me despido de usted atentamente, esperando su pronta respuesta.
+
+
+Sandra E. Allegri.-
+
+Security_code : cxw2c
+Send : Enviar
+
+---------------
+

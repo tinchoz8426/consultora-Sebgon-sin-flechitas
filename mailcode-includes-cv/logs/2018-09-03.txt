@@ -1,0 +1,393 @@
+Address : 181.21.42.13<br>
+ <br>Nombre : Hugo Mauricio 
+ <br>Apellido : Ohaco
+ <br>Cargo : empleado
+ <br>Direccion : rivadavia 1186
+ <br>Ciudad : comodoro rivadavia 
+ <br>Telefono : 02974749388
+ <br>Email : ohacomauricio@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Ala espera de una repuesta favorable. Saluda Atte. Mauricio
+ <br>Security_code : n2v5t
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.11<br>
+ <br>Nombre : Julieta
+ <br>Apellido : Zárate 
+ <br>Cargo : Cajera, atención al cliente
+ <br>Direccion : Avenida españa y calle 6
+ <br>Ciudad : San juan
+ <br>Telefono : 2646210139
+ <br>Email : Julietazarate76@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buen día busco con urgencia trabajo,no tengo hijos ni problemas con horarios . Tengo experiencia y certificado de trabajo anterior. Necesito trabajar por favor . Desde ya, muchas gracias.
+ <br>Security_code : 662vf
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.125.76.141<br>
+ <br>Nombre : Yair
+ <br>Apellido : Silva
+ <br>Cargo : CARGA Y DESCARGA
+ <br>Direccion : BIEDMA 5750
+ <br>Ciudad : ROSARIO
+ <br>Telefono : 4317301
+ <br>Email : yairrsilva@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : busco cualquier bacante laboran.
+ <br>Security_code : 4vxcb
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 24.232.152.10<br>
+ <br>REF : TEC. EL
+ <br>Nombre : Antonio Diego
+ <br>Apellido : Sessa
+ <br>Cargo : TEC. EL
+ <br>Direccion : Roberto Wernicke 1723
+ <br>Ciudad : san isidro
+ <br>Telefono : 1554141550
+ <br>Email : adsessa@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola, 
+Me interesa su propuesta,
+Estoy a su disposicion.
+Saludos, Antonio Sessa.
+ <br>Security_code : 3h69c
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.172.143.114<br>
+ <br>Nombre : emanuel
+ <br>Apellido : ruiz
+ <br>Cargo : repositor o limpieza
+ <br>Direccion : verbena 5853
+ <br>Ciudad : Claypole
+ <br>Telefono : 1152615066
+ <br>Email : emiliianoo@hotmail.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : estoy en busca de trabajo de repositor o de limpieza, tengo disponibilidad horaria full time y tengo ganas de segir adquiriendo mas conocimientos en otros trabajos
+ <br>Security_code : s4mgm
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.255.240.13<br>
+ <br>Nombre : Marina Elena
+ <br>Apellido : Pantazis
+ <br>Cargo : Contable, administrativo, finanzas
+ <br>Direccion : Lebensohn, 648
+ <br>Ciudad : Avellaneda
+ <br>Telefono : 1539550239
+ <br>Email : marina.pantazis@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : 
+
+Estimados Sres Sebgon,
+Adjunto mi Curriculum Vitae para su consideración y le manifiesto mi interés en participar en los procesos de selección que requieran de una profesional con mis características.
+Soy Contadora Publica, tengo un nivel avanzado de Ingles.
+A mis 35 años, aporto una experiencia administrativa, contable  y comercial, adquirida en empresas nacionales y multinacionales.
+Mis funciones en Accenture (de Junio 2016 hasta fines de Febrero 2017) hasta que finalizo el contrato abarcaban:
+* Procesamiento y registración de Altas, Bajas y Amortizaciones de Activos Fijos.
+* Procesamiento y registración de Importaciones y Exportaciones de Activos Fijos.
+* Cierre contable mensual de Activos Fijos.
+Acostumbrada a trabajar en equipo me considero una persona dinámica, con iniciativa y capacidad de organización.
+Pese a estar bien considerada en mi puesto anterior, considero que ha llegado el momento de enfrentarme a un nuevo reto profesional que me permita aportar y ampliar mis conocimientos y experiencia.
+Mi Curriculum Vitae está disponible en su página web para su consideración y les manifiesto mi interés en participar en los procesos de selección que requieran de una profesional de mis características.
+Les agradezco de antemano su atención y quedo a su disposición para mantener una entrevista que considere encaje con mi perfil.
+
+Saluda atentamente,
+
+Marina Pantazis
+
+ <br>Security_code : gwnrv
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.125.137.211<br>
+ <br>REF : JPER-1
+ <br>Nombre : Braian
+ <br>Apellido : Ceravolo
+ <br>Cargo : JPER-1
+ <br>Direccion : La Crujia 3509
+ <br>Ciudad : GENERAL SAN MARTIN - SAN ANDRES
+ <br>Telefono : 1535151050
+ <br>Email : brianl_23@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados, envío CV para la posición.
+
+
+Saludos cordiales.
+ <br>Security_code : 4vr6n
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.11<br>
+ <br>Nombre : Ana laura
+ <br>Apellido : Alba Coria
+ <br>Cargo : Cajera
+ <br>Direccion : 15 bis n 824
+ <br>Ciudad : General pico
+ <br>Telefono : 2302369950
+ <br>Email : Anii_94@hotmail.es
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Busco trabajo
+ <br>Security_code : 4ynk6
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.9<br>
+ <br>Nombre : Ana laura
+ <br>Apellido : Alba Coria
+ <br>Cargo : Cajera
+ <br>Direccion : 15 bis n 824
+ <br>Ciudad : General pico
+ <br>Telefono : 2302369950
+ <br>Email : Anii_94@hotmail.es
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Busco trabajo
+ <br>Security_code : 4ynk6
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.7<br>
+ <br>Nombre : Ana laura
+ <br>Apellido : Alba Coria
+ <br>Cargo : Cajera
+ <br>Direccion : 15 bis n 824
+ <br>Ciudad : General pico
+ <br>Telefono : 2302369950
+ <br>Email : Anii_94@hotmail.es
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Busco trabajo
+ <br>Security_code : 4ynk6
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.9<br>
+ <br>Nombre : Patricia viviana
+ <br>Apellido : Ocampo
+ <br>Cargo : Administración
+ <br>Direccion : Ch 152 MHz "B" casa "10"
+ <br>Ciudad : Posadas
+ <br>Telefono : 3764-664447
+ <br>Email : Parto_okampo25@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estaré esperando su respuesta. Gracias
+ <br>Security_code : Wykhx
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.9<br>
+ <br>Nombre : Patricia viviana
+ <br>Apellido : Ocampo
+ <br>Cargo : Administración
+ <br>Direccion : Ch 152 MHz "B" casa "10"
+ <br>Ciudad : Posadas
+ <br>Telefono : 3764-664447
+ <br>Email : Parto_okampo25@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estaré esperando su respuesta. Gracias
+ <br>Security_code : dhh9s
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.143.198.189<br>
+ <br>Nombre : Matias jesus
+ <br>Apellido : Carrizo
+ <br>Cargo : Albañil
+ <br>Direccion : Huarpes 3273 Barrio pedro molina1 
+ <br>Ciudad : Guaymallen mendoza
+ <br>Telefono : 2615898018
+ <br>Email : No tengo
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me gustaria poder progresar tengo 19 años y muchas ganas de trabajar horario full time
+ <br>Security_code : 38xf2
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.229.128.128<br>
+ <br>Nombre : Ariany
+ <br>Apellido : Medina
+ <br>Cargo : Admon
+ <br>Direccion : Esmeralda con Av Corrientes
+ <br>Ciudad : CABA
+ <br>Telefono : 1137628547
+ <br>Email : armedinacolina81@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Tengo disponibilidad horaria e inmediata. Envío mi CV para que esté a su disposición, mi deseo es insertarme laboralmente para adquirir nuevas experiencias, aprendizajes y oportunidades, sin limitante a ocupar una vacante junior.  
+ <br>Security_code : 5c56z
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.167.244.56<br>
+ <br>REF : EP-1
+ <br>Nombre : Rafael 
+ <br>Apellido : Carrillo
+ <br>Cargo : Encargado de producción
+ <br>Direccion : Buenos aires
+ <br>Ciudad : buenos aires
+ <br>Telefono : +54 9 11 3519-7191
+ <br>Email : rafaelcarrillo@hotmail.es
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Adjunto SC para su evaluación.
+ <br>Security_code : nrqdg
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.189.230.110<br>
+ <br>Nombre : Elena Beatriz
+ <br>Apellido : Piňero
+ <br>Cargo : Cajera
+ <br>Direccion : Mentruyt 951
+ <br>Ciudad : Banfield
+ <br>Telefono : 1521892650/42022931
+ <br>Email : Macaumaeli1010.@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Creo poder ser parte de la empresa cuento con experiencia 
+ <br>Security_code : h9fg6
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 170.51.40.134<br>
+ <br>Nombre : Diana
+ <br>Apellido : Mesquids
+ <br>Cargo : Administrativo
+ <br>Direccion : Mitre 2795
+ <br>Ciudad : San Pedro
+ <br>Telefono : 3329566989
+ <br>Email : Diamesq03@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : CV Diana Mesquida
+ <br>Security_code : Wrp62
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.25.173.235<br>
+ <br>Nombre : juan Facundo
+ <br>Apellido : Lopez
+ <br>Cargo : Supervisor 
+ <br>Direccion : Cnel Arguero 1768
+ <br>Ciudad : San MIGUEL
+ <br>Telefono : 1150059380
+ <br>Email : lopezjuanfacundo@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados, Buenas tardes, adjunto C.V. agradecere tener presente para ocupar posicion acorde con experiencia adquirida en empresas lideres de los rubros, Quimica, Alimentos, Logistica, Perfumista.Saludos cordiales. Lopez Juan Facundo
+ <br>Security_code : V2hmh
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.191.239.54<br>
+ <br>REF : TEC. EL
+ <br>Nombre : Jean Carlos
+ <br>Apellido : Castañeda Telles
+ <br>Cargo : Tecnicos electrotecnicos
+ <br>Direccion : Olleros 3570
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 1127043018
+ <br>Email : juancct15@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buen dia adjunto CV soy tecnico Superior Universitario en electrotecnia e Ing en Telecomunicaciones, mi perfil profesional se inclina mas a la realizacion de proyectos electricos en BT, MT, 
+ <br>Security_code : 36vkn
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.164.15.34<br>
+ <br>REF : TE-1
+ <br>Nombre : Orlando Luis
+ <br>Apellido : Campos Wetter
+ <br>Cargo : Técnico electricista
+ <br>Direccion : Avenida de mayo 1385
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : +54 9 1162210812
+ <br>Email : orlando.camposw@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Experiencia en electricidad con mas de 7 años ejerciendo labores en el rubro.
+ <br>Security_code : sn7p7
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.164.15.34<br>
+ <br>REF : EM
+ <br>Nombre : Orlando Luis
+ <br>Apellido : Campos Wetter
+ <br>Cargo : Electromecánico
+ <br>Direccion : Avenida de mayo 1385
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 1162210812
+ <br>Email : orlando.camposw@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Solidos conocimiemtno en electrecidad, instrumentacion y control de procesos.
+ <br>Security_code : 8d57x
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.213.7.10<br>
+ <br>REF : TE-1
+ <br>Nombre : Daniel Alberto
+ <br>Apellido : Alvarez
+ <br>Cargo : Tecnico electronico
+ <br>Direccion : San vicente 542
+ <br>Ciudad : Avellaneda
+ <br>Telefono : 1125363357
+ <br>Email : danalvarez2018@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Adjunto cv
+ <br>Security_code : tj4m3
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.213.7.10<br>
+ <br>REF : TE-1
+ <br>Nombre : Daniel Alberto
+ <br>Apellido : Alvarez
+ <br>Cargo : Tecnico electronico
+ <br>Direccion : San vicente 542
+ <br>Ciudad : Avellaneda
+ <br>Telefono : 1125363357
+ <br>Email : danalvarez2018@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Adjunto cv
+ <br>Security_code : tj4m3
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.213.7.10<br>
+ <br>REF : TE-1
+ <br>Nombre : Daniel Alberto
+ <br>Apellido : Alvarez
+ <br>Cargo : Tecnico electronico
+ <br>Direccion : San vicente 542
+ <br>Ciudad : Avellaneda
+ <br>Telefono : 1125363357
+ <br>Email : danalvarez2018@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Adjunto CV
+ <br>Security_code : pdqwx
+ <br>Send : Enviar
+ <br>
+---------------
+

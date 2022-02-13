@@ -1,0 +1,16 @@
+Address : 186.126.242.22
+REF : administrativo-logistica
+Nombre : Julian
+Apellido : Saganias
+Cargo : Administrativo de Logistica
+Direccion : calle 58 n° 489
+Ciudad : zarate
+Telefono : 3487639151
+Email : juliansaganias@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenas tardes, por medio de la presente le adjunto mi curriculum, esperando me tengan en cuenta para futuras eventualidades. Desde ya gracias, sds.
+Security_code : tsyz8
+Send : Enviar
+
+---------------
+

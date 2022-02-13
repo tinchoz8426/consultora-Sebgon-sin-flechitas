@@ -1,0 +1,106 @@
+Address : 190.225.30.190
+Nombre : diego alberto
+Apellido : minuet
+Cargo : mantenimiento
+Direccion : publica 1 pasaje miranda
+Ciudad : cordoba
+Telefono : 0351 154599215
+Email : diego.minuet@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : trabajo en laboratorios meg line en mantenimiento
+Security_code : g64yt
+Send : Enviar
+
+---------------
+
+Address : 201.255.243.187
+Nombre : Eliana Magali
+Apellido : Patella
+Cargo : Recepcionista
+Direccion : Migueletes 680
+Ciudad : Capital Federal, Buenos Aires
+Telefono : 5778-2226
+Email : patellaeliana@hotmail.es
+MAX_FILE_SIZE : 2097152
+Mensaje : Les envio mi curriculum por el aviso de recepcionista en la zona de Retiro.
+Security_code : rh3w3
+Send : Enviar
+
+---------------
+
+Address : 200.126.224.155
+Nombre : Fiorella
+Apellido : Forlani
+Cargo : Asistente de Recursos Humanos
+Direccion : Mendoza 1374
+Ciudad : Río Cuarto
+Telefono : 0358 - 154352347
+Email : Forly_fiore@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados, dejo adjunto mi cv. Vivo en la Ciudad de Río Cuarto pero estoy buscando trabajo en Bs As p poder continuar con mis estudis allí
+Security_code : qdyhd
+Send : Enviar
+
+---------------
+
+Address : 190.178.128.118
+Nombre : Lorena Belen
+Apellido : Leiva
+Cargo : Analista en alimentos/control de calidad
+Direccion : Santa Cecilia 3051
+Ciudad : Mar del Plata
+Telefono : 0223-4890746
+Email : sleiva_mdp@hotmail.com
+
+---------------
+
+Address : 190.230.82.139
+REF : electromecanico
+Nombre : Diego Alberto
+Apellido : Biasoni
+Cargo : tecnico mecanico
+Direccion : La Rioja 3747
+Ciudad : cordoba
+Telefono : 03465-15664522
+Email : diegoatta77@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Debido a mi reciente llegada a la ciudad de cordoba en busca de radicarme para crecer profecional, personal y laboralmente. Me encuentro en busqueda de puestos laborales referidos a mis estuios y experiencias.
+ Espero mi curriculum vitae sea el adecuado en su busqueda. 
+ Gracias.
+Security_code : vfnxs
+Send : Enviar
+
+---------------
+
+Address : 190.231.159.3
+Nombre : Mariana Verónica
+Apellido : Beritella
+Cargo : Recepcionista
+Direccion : Olimpia 3286. Bº Ampliación Jardín del Pilar
+Ciudad : Córdoba
+Telefono : 0351 4644278/ 4550650
+Email : vero_050388@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje :  En el puesto de trabajo asignado,  en primer lugar quiero capacitarme y brindar  todos mis conocimientos, para que luego con la práctica debida alcanzar el máximo rendimiento. Siempre es mi deseo  aprender y superarme en las tareas que me tocan realizar. Quiero que  mis compañeros tengan mi apoyo y que ellos también me brinden  su conocimiento y práctica responsable para que podamos compartir y entre todos aprender para que en  consecuencia rindamos  lo máximo y la empresa se vea favorecida por nuestro aporte e idoneidad.   
+Security_code : 9qy6p
+Send : Enviar
+
+---------------
+
+Address : 186.59.26.232
+Nombre : Jorge
+Apellido : Pereyra
+Cargo : Técnico en Higiene y Seguridad
+Direccion : Dr. Brandi N° 48
+Ciudad : Maipu - Mendoza
+Telefono : 0261 - 4813689
+Email : jorgedu_pey@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me me gustaría ser considerado para ingresar  en su plantel , les adjunto mi  CV.-
+ Saludos Cordiales.-
+
+Security_code : sptp5
+Send : Enviar
+
+---------------
+

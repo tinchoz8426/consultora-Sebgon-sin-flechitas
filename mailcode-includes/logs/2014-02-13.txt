@@ -1,0 +1,20 @@
+Address : 80.31.201.141
+Nombre : Jorge
+Apellido : López
+Empresa : Overcome (aún pendiente de salida)
+Telefono : 626189048
+Email : jorge.lopezaguado@gmail.com
+Mensaje : Buenas tardes,
+
+Somos un grupo de amigos que queremos sacar una página web de ofertas-descuentos, con el añadido de nuestra propia linea de ropa.
+
+¿Podeis sugerirme que puedo hacer como evento para lanzar el producto?
+
+Un cordial saludo,
+
+Jorge
+Security_code : rbxjd
+Send : Enviar
+
+---------------
+

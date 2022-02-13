@@ -1,0 +1,128 @@
+Address : 181.117.4.127
+Nombre : Maria Cecilia
+Apellido : Villalba
+Cargo : Cajera Administrativa Recepcionista
+Direccion : Pte Juan D. Peron 560
+Ciudad : Lomas de Zamora
+Telefono : 011-42831043
+Email : esperanza1206@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me gustaría ser tenida en cuenta para cubrir un puesto,considero que mi experiencia y motivación pueden contribuir al buen desempeño de la tarea. Solicito a Ud. evalúe  la posibilidad de mantener una entrevista para ampliar aspectos de mi perfil. 
+
+Security_code : 389fk
+Send : Enviar
+
+---------------
+
+Address : 200.127.107.69
+Nombre : Ailen Denise
+Apellido : Cruceño 
+Cargo : Tecnico en seguridad,higiene y control ambiental de las industriaas
+Direccion : San Lorenzo 1104
+Ciudad : Gral Rodriguez
+Telefono : 0111531393439
+Email : aileen-33@msn.com
+MAX_FILE_SIZE : 2097152
+Mensaje : 
+Hola me encuentro en la busqueda de empleo , adjunto cv
+Security_code : 8fvby
+Send : Enviar
+
+---------------
+
+Address : 179.40.166.169
+Nombre : Esteban
+Apellido : da Bouza
+Cargo : vendedor
+Direccion : Bruselas 1582
+Ciudad : gba villa luzuriaga
+Telefono : 011-4914-0796
+Email : estebandabouza@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me dedico a ala venta ace mas de 5 años
+Security_code : 657fd
+Send : Enviar
+
+---------------
+
+Address : 190.211.210.161
+REF : TECME
+Nombre : Daniel
+Apellido : Donofrio
+Cargo : Tecnico Electricista Mecánico
+Direccion : Chubut 1331
+Ciudad : Bahía Blanca
+Telefono : 02914558665
+Email : daniel_donofrio@live.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola. Soy Daniel Donofrio. me gustaría que tengan en cuenta mi C.V para éste u otro oferta de trabajo.Gracias
+Security_code : k6m2k
+Send : Enviar
+
+---------------
+
+Address : 181.170.204.254
+Nombre : veronica GRASS0
+Apellido : grasso
+Cargo : recepcionista aministrativa
+Direccion : TRONADOR 3637
+Ciudad : buenos ayres
+Telefono : 1555259118
+Email : verito9388@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : hola 
+soy muy responsable
+Security_code : mf4t5
+Send : Enviar
+
+---------------
+
+Address : 190.139.154.21
+Nombre : DANIEL ALBERTO HORACIO PIERRE
+Apellido : PIERRE
+Cargo : TECNICO SUPERIOR EN SEGURIDAD E HIGIENE
+Direccion : LORETO 3566 4A
+Ciudad : CABA
+Telefono : 45549923
+Email : daniel.a.h.pierre@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : postulsrme para trabajo freelance
+Security_code : c5crc
+Send : Enviar
+
+---------------
+
+Address : 190.192.165.134
+Nombre : Viviana
+Apellido : Guigui.
+Cargo : Ps. Social. Analista Institucional.
+Direccion : Pedro I. Rivera 
+Ciudad : Buenos Aires.
+Telefono : 1566048881
+Email : vivianaguigui@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados.
+Me dirijo a ustedes para ofrecer mis servicios profesionales.Ya sea para Observación y Análisis de campo ocupacional y / u otras funciones afines que la consultora requiera.Como verán en mi C.V. , poseo amplia experiencia formativa y laboral, tanto en el país como en el exterior.
+A vuestra disposición.
+Atte.
+Viviana Guigui.
+Security_code : b22kp
+Send : Enviar
+
+---------------
+
+Address : 186.182.164.218
+Nombre : daniela fernanda
+Apellido : galeano
+Cargo : tipo.
+Direccion : colon 555
+Ciudad : ramos mejia
+Telefono : 01152919683
+Email : danielagaleanofer@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : cualquier puesto me interesa.
+Security_code : 3mgjs
+Send : Enviar
+
+---------------
+

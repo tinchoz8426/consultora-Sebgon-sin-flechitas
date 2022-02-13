@@ -1,0 +1,118 @@
+Address : 190.138.127.112<br>
+ <br>REF : chr
+ <br>Nombre : mariano
+ <br>Apellido : iannucci
+ <br>Cargo : chofer
+ <br>Direccion : conde zepelin 6319 
+ <br>Ciudad : ciudad jardin 
+ <br>Telefono : 1123415412
+ <br>Email : marianoiannucci@yahoo.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : A quienes corresponda:
+
+Conociendo la actividad a la que se dedica su empresa y viendo que responde a mis intereses. Envío mi CV adjunto a los fines de que puedan evaluar mis competencias. 
+Agradecería que me den una oportunidad para conocerme cuando ustedes lo dispongan.
+
+Sin más, los saludo cordialmente.
+
+
+ <br>Security_code : 96k42
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.182.4.216<br>
+ <br>Nombre : evelyn
+ <br>Apellido : szekely
+ <br>Cargo : limpieza otros
+ <br>Direccion : estanilado del campo 2155
+ <br>Ciudad : avellaneda
+ <br>Telefono : 1140836454
+ <br>Email : evelyn_martin1@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : estoy buscando trabajo
+ <br>Security_code : shr46
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.44.181.81<br>
+ <br>REF : chr
+ <br>Nombre : julio cesar 
+ <br>Apellido : gomez
+ <br>Cargo : chofer repartidor
+ <br>Direccion : salvigny 7506
+ <br>Ciudad : laferrere
+ <br>Telefono : 64557844
+ <br>Email : juliogomez11225@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : solicito entrevista para puesto de chofer repartidor en la tablada 
+ <br>Security_code : bvf5c
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.225.73.91<br>
+ <br>REF : ROT-1
+ <br>Nombre : lars 
+ <br>Apellido : andersen
+ <br>Cargo : tecnico
+ <br>Direccion : san isidro
+ <br>Ciudad : san isidro
+ <br>Telefono : 1158901164
+ <br>Email : andersenlars96@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estoy muy interesado en poder trabajar y dar lo mejor de mi para lograr cumplir con las tareas que se me asignen
+ <br>Security_code : pt4kd
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.225.73.91<br>
+ <br>REF : ROT-1
+ <br>Nombre : lars 
+ <br>Apellido : andersen
+ <br>Cargo : tecnico
+ <br>Direccion : san isidro
+ <br>Ciudad : san isidro
+ <br>Telefono : 1158901164
+ <br>Email : andersenlars96@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estoy muy interesado en poder trabajar y dar lo mejor de mi para lograr cumplir con las tareas que se me asignen
+ <br>Security_code : pt4kd
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.225.73.91<br>
+ <br>REF : ROT-1
+ <br>Nombre : lars 
+ <br>Apellido : andersen
+ <br>Cargo : tecnico
+ <br>Direccion : san isidro
+ <br>Ciudad : san isidro
+ <br>Telefono : 1158901164
+ <br>Email : andersenlars96@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estoy muy interesado en poder trabajar y dar lo mejor de mi para lograr cumplir con las tareas que se me asignen
+ <br>Security_code : pt4kd
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.225.73.91<br>
+ <br>REF : ROT-1
+ <br>Nombre : lars 
+ <br>Apellido : andersen
+ <br>Cargo : tecnico
+ <br>Direccion : san isidro
+ <br>Ciudad : san isidro
+ <br>Telefono : 1158901164
+ <br>Email : andersenlars96@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estoy muy interesado en poder trabajar y dar lo mejor de mi para lograr cumplir con las tareas que se me asignen
+ <br>Security_code : h59f7
+ <br>Send : Enviar
+ <br>
+---------------
+

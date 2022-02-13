@@ -1,0 +1,30 @@
+Address : 152.168.85.157<br>
+ <br>Nombre : Karen
+ <br>Apellido : Peralta
+ <br>Cargo : Cajera
+ <br>Direccion : José Melián
+ <br>Ciudad : Córdoba
+ <br>Telefono : 0351 155200664
+ <br>Email : Rabe1792@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me postulo para ser cajera, atención al cliente
+ <br>Security_code : r8mw6
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 168.90.86.150<br>
+ <br>Nombre : Diego Matias
+ <br>Apellido : Rojas
+ <br>Cargo : Tecnico Electronico,electrisista,Operario tecnico
+ <br>Direccion : Jorge Newbery 3677 entre Pintos y Ayerza
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 1153498409
+ <br>Email : eldiez49.dmr@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : S
+ <br>Security_code : vzz5p
+ <br>Send : Enviar
+ <br>
+---------------
+

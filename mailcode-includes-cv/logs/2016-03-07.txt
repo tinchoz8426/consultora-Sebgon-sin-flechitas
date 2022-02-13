@@ -1,0 +1,197 @@
+Address : 181.31.203.146
+REF : OEL
+Nombre : luis
+Apellido : macchi
+Cargo : tecnico electricista
+Direccion : Bartolome mitre 1341
+Ciudad : merlo
+Telefono : 0220 482 7872       15--58213683
+Email : macchiluis@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : gracias por su atencion muy buenos dias
+Security_code : 94tfv
+Send : Enviar
+
+---------------
+
+Address : 200.1.113.8
+Nombre : Juan Manuel
+Apellido : Pagnoni
+Cargo : Lic. en HyS
+Direccion : Avenida Santa Fe 2608 
+Ciudad : Palermo - CABA
+Telefono : 02474684552
+Email : jmpagnoni@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenos días, soy Licenciado en HyS, actualmente tengo trabajo pero si son visitas podría coordinar mis horarios y realizar las solicitadas por su consultora.
+
+Adjunto se encuentra mi CV.
+
+Muchas gracias, saludos.
+Juan Manuel Pagnoni
+Security_code : nqsnv
+Send : Enviar
+
+---------------
+
+Address : 179.36.189.8
+Nombre : José Emanuel
+Apellido : Santillán
+Cargo : Ayudante de electricista
+Direccion : Azul 6530
+Ciudad : Pontevedra
+Telefono : 1162901124
+Email : Emanuel_2TM_1_7@outlook.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Envío mi C.V con la espera de poder trabajar para ustedes.
+Security_code : Y9S8Y
+Send : Enviar
+
+---------------
+
+Address : 181.169.103.110
+Nombre : DIANA MARCELA
+Apellido : SOENGAS
+Cargo : Jefe de Operaciones Logísticas.
+Direccion : ESTADOS UNIDOS 1090
+Ciudad : FLORIDA OESTE, VICENTE LOPEZ
+Telefono : 15-4071-3319
+Email : dianasoengas@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : A quien corresponda: En adjunto envío CV para su evaluación.
+Quedo a su disposición para lo que crea oportuno.
+Saludos cordiales.
+Security_code : y4nm8
+Send : Enviar
+
+---------------
+
+Address : 186.56.159.171
+Nombre : mario
+Apellido : gomez
+Cargo : ofisial soldador
+Direccion : donato alvares 2961
+Ciudad : merlo
+Telefono : 0111558404138 - 02204851899
+Email : mariogomezmario40@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : hola 
+Security_code : sst4d
+Send : Enviar
+
+---------------
+
+Address : 181.26.33.224
+Nombre : Daiana
+Apellido : Spadaro
+Cargo : Secretaria / Telefonista
+Direccion : Carranza 1482
+Ciudad : Longchamps
+Telefono : 1161583765
+Email : daiana.spadaro@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Soy una persona cumplidora, puntual y respetuosa. Quisiera seguir aprendiendo mas labores.
+Security_code : zskyd
+Send : Enviar
+
+---------------
+
+Address : 91.193.45.7
+REF : TECME
+Nombre : Ezequiel
+Apellido : Nogueira
+Cargo : Tecnico Mecanico
+Direccion : italia 868
+Ciudad : Merlo
+Telefono : (0220) 4828970
+Email : ezequielnogueira@outlook.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Mi nombre es Ezequiel Nogueira 26 años y adjunto mi cv para que tengan a buen contemplar en la busqueda deseada.
+
+Saludos
+Security_code : 92skh
+Send : Enviar
+
+---------------
+
+Address : 91.193.45.7
+REF : TECME
+Nombre : Ezequiel
+Apellido : Nogueira
+Cargo : Tecnico Mecanico
+Direccion : italia 868
+Ciudad : Merlo
+Telefono : (0220) 4828970
+Email : ezequielnogueira@outlook.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Mi nombre es Ezequiel Nogueira 26 años y adjunto mi cv para que tengan a buen contemplar en la busqueda deseada.
+
+Saludos
+Security_code : 92skh
+Send : Enviar
+
+---------------
+
+Address : 91.193.45.7
+REF : TECME
+Nombre : Ezequiel
+Apellido : Nogueira
+Cargo : Tecnico Mecanico
+Direccion : italia 868
+Ciudad : Merlo
+Telefono : (0220) 4828970
+Email : ezequielnogueira@outlook.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Mi nombre es Ezequiel Nogueira 26 años y adjunto mi cv para que tengan a buen contemplar en la busqueda deseada.
+
+Saludos
+Security_code : ntzk2
+Send : Enviar
+
+---------------
+
+Address : 201.250.161.158
+Nombre : pablo
+Apellido : gonzalez
+Cargo : soldador
+Direccion : yapeyu 1148
+Ciudad : paso del rey
+Telefono : 0111565466842
+Email : pcgonzalez2005@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : desde ya agradecido
+Security_code : KdjKp
+Send : Enviar
+
+---------------
+
+Address : 201.250.161.158
+Nombre : pablo
+Apellido : gonzalez
+Cargo : soldador
+Direccion : yapeyu 1148
+Ciudad : paso del rey
+Telefono : 0111565466842
+Email : pcgonzalez2005@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : gracias
+Security_code : bp2p3
+Send : Enviar
+
+---------------
+
+Address : 190.17.122.218
+Nombre : lucas matias
+Apellido : cortez
+Cargo : logistica,deposito,comercio.
+Direccion : obispo trejo 1020 5b
+Ciudad : cordoba
+Telefono : 351-7513444
+Email : lukitas_tr76@outlook.com
+MAX_FILE_SIZE : 2097152
+Mensaje : buenas noches tengo muchas ganas de trabajar y estoy bien predispuesto para aprender a trabajar.gracias. 
+Security_code : y8z7d
+Send : Enviar
+
+---------------
+

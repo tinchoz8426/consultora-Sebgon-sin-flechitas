@@ -1,0 +1,19 @@
+Address : 190.230.72.104
+REF : gerente-de-operaciones
+Nombre : Mario Gabriel
+Apellido : Valiante
+Cargo : Administrativo o Comercial
+Direccion : Av San Martín 3188  4º 8
+Ciudad : CABA
+Telefono : 15 5 181 8300
+Email : valiantegabriel@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Desde ya muchas gracias por considerar mi CV.
+Cordialmente.
+
+Gabriel valiante
+Security_code : b5t6q
+Send : Enviar
+
+---------------
+

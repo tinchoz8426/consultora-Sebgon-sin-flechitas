@@ -1,0 +1,66 @@
+Address : 190.227.20.186
+Nombre : Luciana Lisandra
+Apellido : Presentado
+Cargo : Capacitadora
+Direccion : Batlle y ordoñez 324
+Ciudad : Rosario
+Telefono : 0341-152028653
+Email : lucianalisandra@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : disponibilidad para reubicarme
+Security_code : 3nfty
+Send : Enviar
+
+---------------
+
+Address : 186.38.21.178
+Nombre : Geraldina
+Apellido : Bernal
+Cargo : Administrativa
+Direccion : Miguel Andén 2358
+Ciudad : El Bolsón
+Telefono : 0341 153024520
+Email : geraldinabernal@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenos días,
+Mi intención es hacerles llegar mi cv para que me tengan en cuenta en futuras búsquedas en la localidad del El Bolsón, no sólo en administración.
+Desde ya les agradezco la atención prestada.
+Cordialmente.
+Security_code : mbwzr
+Send : Enviar
+
+---------------
+
+Address : 201.176.8.125
+Nombre : Graciela Beatriz
+Apellido : Cabrera
+Cargo : Asistente de compras/asistente de producción/recepcionista
+Direccion : Padre castañer 1788
+Ciudad : Morón
+Telefono : 15-3071-3467/4645-0027
+Email : gracebeatrix@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Las competencias a resaltar sobre mi desempeño profesional son: líder, creativa y dinámica, con Aptitudes y Actitudes basadas en la Responsabilidad, el Respeto y la Cordialidad; Capacidad de Autogestión, de asumir retos y habilidades para coordinar y ejecutar proyectos; Realizar gestiones administrativas y operativas; Asesoría y servicio al cliente. 	
+Security_code : y6hy5
+Send : Enviar
+
+---------------
+
+Address : 181.31.157.34
+Nombre : Evangelina
+Apellido : Cagnolo
+Cargo : Hotelería, pasteleria, gastronomía, panadería.
+Direccion : san lorenzo
+Ciudad : Córdoba
+Telefono : 03537-15519062
+Email : evange_cagnolo@hotmail.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola, buenas tardes, estoy interesada en puestos relacionados a la hotelería (ya que a fin de este mes comenzaré un taller sobre atención y servicio en hotelería, y el año que viene comenzaré la carrera de hotelería y turismo a distancia), pastelería, panadería y gastronomía en general.
+Espero su respuesta,
+desde ya muchas gracias.
+Evangelina Cagnolo.
+Security_code : npsvh
+Send : Enviar
+
+---------------
+

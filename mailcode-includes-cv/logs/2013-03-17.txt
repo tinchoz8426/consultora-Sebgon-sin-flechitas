@@ -1,0 +1,34 @@
+Address : 190.224.128.22
+Nombre : Andrea Carolina
+Apellido : Groh
+Cargo : Ingeniero Ambiental
+Direccion : Piedras 7090
+Ciudad : Santa Fe
+Telefono : 0342-155124186
+Email : andreacgroh@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estudiante avanzada de la carrera Ingeniería Ambiental, con amplia capacitación y actualización continua en temáticas relacionadas con el medio ambiente.
+
+Objetivos: integrar un equipo de trabajo el cual requiera mis capacidades y en el que pueda aplicar todo mi potencial, adquiriendo a su vez nuevos conocimientos y experiencias.
+
+Security_code : m6txj
+Send : Enviar
+
+---------------
+
+Address : 190.2.62.153
+REF : jefe-de-operaciones
+Nombre : marcelo
+Apellido : domañski
+Cargo : jefe en seguridad
+Direccion : seferinos ramirez 5450
+Ciudad : bs as
+Telefono : 4604-3626
+Email : flechadelsur2008@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : hola tengo una empresa de seguridad tengo 24 personas trabajando para mi, estoy buscando trabajar por otra parte ya que mi empresa entro en quiebra
+Security_code : fygdw
+Send : Enviar
+
+---------------
+

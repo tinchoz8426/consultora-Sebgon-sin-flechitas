@@ -1,0 +1,140 @@
+Address : 186.57.161.46
+Nombre : Hector Omar
+Apellido : Benavidez
+Cargo : herrero/soldador
+Direccion : j.j.castaños 1240
+Ciudad : morón 
+Telefono : 1533607619
+Email : benavidezhector.o@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : amplia experiencia de soldador en trabajos de herrería.
+Security_code : wqt3d
+Send : Enviar
+
+---------------
+
+Address : 186.56.237.175
+Nombre : Martin
+Apellido : Lupo
+Cargo : Indistinto
+Direccion : Echeverría 540
+Ciudad : San Antonio de Padua
+Telefono : 1531445403
+Email : martinlupo84@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estoy muy interesado en obtener un trabajo para poder seguir creciendo en forma personal y laboral. Mi objetivo es cumplir con las expectativas de todos los empleadores.
+Security_code : xfrs6
+Send : Enviar
+
+---------------
+
+Address : 186.62.42.34
+Nombre : Camila
+Apellido : Alfonso
+Cargo : Tareas administrativas en el área legal.
+Direccion : Marcelo T. de Alvear 584
+Ciudad : Quilmes
+Telefono : 42579019
+Email : camila.egr12@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Busco trabajo en el area de administracion, atencion al publico, secretaria del ambito legal.
+Security_code : nfcpj
+Send : Enviar
+
+---------------
+
+Address : 190.137.116.222
+REF : GETECOM
+Nombre : Alfredo Esteban
+Apellido : Uthurralt
+Cargo : Gerente de Compras Homecenter
+Direccion : Av. Ruiz Huidobro 3935, 10ºB  
+Ciudad : CABA
+Telefono : 15-6787-4115
+Email : authurralt@outlook.com
+MAX_FILE_SIZE : 2097152
+Mensaje : a quien corresponda.
+Ya me postulé por ZonaJobs a este cargo pero quiero asegurarme que les llegue mi CV.
+Gracias por su atención,saludos
+Alfredo E. Uthurralt
+
+Security_code : zjp7p
+Send : Enviar
+
+---------------
+
+Address : 186.182.60.9
+Nombre : daniel
+Apellido : guevara
+Cargo : operario
+Direccion : victor hugo 721
+Ciudad : buenos aires (avellaneda)
+Telefono : 54302242
+Email : lobens2004@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : por favor espero poder serles de utilidad 
+Security_code : fb5yv
+Send : Enviar
+
+---------------
+
+Address : 200.55.30.189
+Nombre : francisco
+Apellido : amarilla
+Cargo : operario.,encargado de control de calidad
+Direccion : calle cno real sur y esq 419A
+Ciudad : berazategui
+Telefono : 1158321169
+Email : fran22_amarilla@outlook.com
+MAX_FILE_SIZE : 2097152
+Mensaje : soy una persona con mucha experiencia en trabajos con maquinas inyectoras,manueales..etc..ya q eh trabajado en laboratorios..metalurgicas..fabrica de plastico..autopartes...y me siento capaz de desempeñar cualquier tarea que se me asigna
+Security_code : g t 9 w w
+Send : Enviar
+
+---------------
+
+Address : 190.18.199.77
+Nombre : Julián
+Apellido : Razetto
+Cargo : Ingeniero de Planta (Mantenimiento, Procesos, etc.)
+Direccion : Luis N. Palma 2152
+Ciudad : Gualeguaychú
+Telefono : 03446 423789
+Email : julianrazetto@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estoy en la búsqueda de alguna posición como ingeniero de planta (procesos, mantenimiento, proyectos, etc.). Tengo estudios de Ingeniería Mecánica (I.T.B.A.) y me he formado (posgrados) en distintas especialidades dentro de esta rama de la ingeniería en Barcelona donde también he hecho experiencia laboral.
+Security_code : 98ths
+Send : Enviar
+
+---------------
+
+Address : 190.18.199.77
+Nombre : Julián
+Apellido : Razetto
+Cargo : Ingeniero de Planta (Mantenimiento, Procesos, etc.)
+Direccion : Luis N. Palma 2152
+Ciudad : Gualeguaychú
+Telefono : 03446 423789
+Email : julianrazetto@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estoy en la búsqueda de alguna posición como ingeniero de planta (procesos, mantenimiento, proyectos, etc.). Tengo estudios de Ingeniería Mecánica (I.T.B.A.) y me he formado (posgrados) en distintas especialidades dentro de esta rama de la ingeniería en Barcelona donde también he hecho experiencia laboral.
+Security_code : 98ths
+Send : Enviar
+
+---------------
+
+Address : 190.18.199.77
+Nombre : Julián
+Apellido : Razetto
+Cargo : Ingeniero de Planta (Mantenimiento, Procesos, etc.)
+Direccion : Luis N. Palma 2152
+Ciudad : Gualeguaychú
+Telefono : 03446 423789
+Email : julianrazetto@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estoy en la búsqueda de alguna posición como ingeniero de planta (procesos, mantenimiento, proyectos, etc.). Tengo estudios de Ingeniería Mecánica (I.T.B.A.) y me he formado (posgrados) en distintas especialidades dentro de esta rama de la ingeniería en Barcelona donde también he hecho experiencia laboral.
+Security_code : r97r9
+Send : Enviar
+
+---------------
+

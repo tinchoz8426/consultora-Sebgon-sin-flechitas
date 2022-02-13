@@ -1,0 +1,32 @@
+Address : 181.46.136.146<br>
+ <br>Nombre : Carlos
+ <br>Apellido : Aguirre
+ <br>Cargo : fresador.mantenimientos de maquinas
+ <br>Direccion : Los pinos
+ <br>Ciudad : Longchamps
+ <br>Telefono : 1153311985
+ <br>Email : carua19ca@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : me postulo para el puesto de fresador
+ <br>Security_code : 769ps
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 200.59.164.24<br>
+ <br>REF : EP-1
+ <br>Nombre : María Belén 
+ <br>Apellido : Marino
+ <br>Cargo : Encargado de producción
+ <br>Direccion : Lugones 671
+ <br>Ciudad : Buenos aires
+ <br>Telefono : 1558182273
+ <br>Email : belen_marino@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Adjunto mi cv ya que estoy interesada en el anuncio. 
+Saludos, Belén
+ <br>Security_code : rbbrq
+ <br>Send : Enviar
+ <br>
+---------------
+

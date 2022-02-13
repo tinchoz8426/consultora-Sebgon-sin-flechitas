@@ -1,0 +1,177 @@
+Address : 190.221.86.56
+Nombre : Betiana
+Apellido : Lazcano
+Cargo : Administrativa
+Direccion : Albeniz 1371
+Ciudad : Hurlingham
+Telefono : 4452 8081
+Email : betiana.lazcano@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenas noches, soy Betiana Anabel Lazcano y me quiero postular para avisos vigentes, no poseo experiencia en el rubro pero tengo muchas motivaciones y buena predisposicion para aprender y desarrollarme en el puesto, mis datos estan en el CV adjunto por cualquier contacto. Desde ya muchas gracias. 
+Security_code : c562m
+Send : Enviar
+
+---------------
+
+Address : 181.117.6.201
+Nombre : Luis Carlos
+Apellido : Romero Fernández
+Cargo : Legal-Administrativo
+Direccion : Chubut 1557
+Ciudad : Moreno
+Telefono : 0111564876456
+Email : luis.cromero@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Dispuesto a ofrecer mi mejor rendimiento y generar grandes avances.
+Security_code : gdszd
+Send : Enviar
+
+---------------
+
+Address : 186.22.236.122
+Nombre : Paula
+Apellido : Díaz
+Cargo : Recepcionista
+Direccion : Fournier 2453 2º A
+Ciudad : Capital Federak
+Telefono : 11-6302-6285
+Email : p-diaz@live.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Disponibilidad horaria: De lunes a viernes FULL TIME.
+
+Remuneración pretendida: $7500.- sueldo neto.
+Security_code : sysvz
+Send : Enviar
+
+---------------
+
+Address : 200.127.3.119
+Nombre : Ezequiel
+Apellido : Puyos da Costa
+Cargo : Ingeniero Agrónomo
+Direccion : Ortiz de Ocampo 2515
+Ciudad : Capital federal
+Telefono : 0111564903222
+Email : epuyosdacosta@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Mi formación académica, mi experiencia laboral, mi perfil y mis ambiciones me generan la inquietud de ser eficiente constantemente. Esto quiere decir que tengo la predisposición a interiorizarme y especializarme en la actividad que vaya desarrollar y a poseer la capacidad de adaptarme ante cualquier circunstancia que presente la dinámica de la actividad.
+Security_code : mzdf2
+Send : Enviar
+
+---------------
+
+Address : 201.253.132.64
+Nombre : Enrique
+Apellido : Herrero Otero
+Cargo : Business Partner de RR.HH
+Direccion : moldes 1635 1º A
+Ciudad : CABA
+Telefono : 011-47889053
+Email : ehotaiko@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Sres de Sebgon Consultora
+ 
+Tengo el agrado de dirigirme a ustedes, haciéndoles llegar mi currículum vitae, con el objetivo de que éste sea incorporado en su base de datos y tomado en cuenta en toda búsqueda compatible con mis antecedentes profesionales.
+ 
+Soy profesional de Recursos Humanos. Mi experiencia laboral se ha desarrollado en mayor medida en una Empresa  Multinacional de primer nivel, desempeñando funciones ejecutivas y de Gestión.
+ 
+A lo largo de mi trayectoria profesional he asumido responsabilidades crecientes hasta ocupar el cargo de Business Partner Sr.
+
+Actualmente me encuentro interesado en una reinserción laboral, en el área de RRHH, que permita capitalizar mi conocimiento sobre la gestión integral de RRHH y la diversidad de experiencias que he desarrollado a lo largo de mi carrera.
+
+Quedo a disposición de ustedes para concertar una entrevista personal en la cual ampliaré los datos que estimen convenientes.
+ 
+Sin otro particular, los saluda cordialmente
+
+Enrique Herrero Otero
+
+Security_code : dvvjr
+Send : Enviar
+
+---------------
+
+Address : 24.232.105.40
+Nombre : Guillermo
+Apellido : Tirelli
+Cargo : Gerente Comercial
+Direccion : J. Ingenieros 2328
+Ciudad : Olivos
+Telefono : 1531056985
+Email : gwtirelli@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto mi C. V. a los efectos sea tenido en cuenta para búsquedas actuales o futuras.
+
+Atentamente
+
+Guillermo Tirelli
+Security_code : 6myb5
+Send : Enviar
+
+---------------
+
+Address : 186.57.130.187
+Nombre : Yanina Karen
+Apellido : Diaz
+Cargo : Administracion/Secretaria/Recepcionista/Telefonista
+Direccion : cmte. Peredo 1677
+Ciudad : Ituzaingo
+Telefono : 15-6051-8703
+Email : ykarendiaz@outlook.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimado/a,
+
+          Buenas tardes, mi nombre es Karen Diaz. En estos momentos me encuentro en búsqueda de un empleo y he dado por preferencia su empresa en la búsqueda, ya que veo estabilidad y seriedad en los recursos que ofrecen a los postulantes. 
+          Actualmente me encuentro abocada a la búsqueda de puestos relacionados con el Sector Administrativo
+como así mismo, también, puedo desempeñarme como Secretaria/ Recepcionista/ Telefonista. 
+
+Saludos cordiales,
+Karen Diaz
+Security_code : r5jqm
+Send : Enviar
+
+---------------
+
+Address : 186.57.130.187
+Nombre : Yanina Karen
+Apellido : Diaz
+Cargo : Administracion/Secretaria/Recepcionista/Telefonista
+Direccion : cmte. Peredo 1677
+Ciudad : Ituzaingo
+Telefono : 15-6051-8703
+Email : ykarendiaz@outlook.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimado/a,
+
+          Buenas tardes, mi nombre es Karen Diaz. En estos momentos me encuentro en búsqueda de un empleo y he dado por preferencia su empresa en la búsqueda, ya que veo estabilidad y seriedad en los recursos que ofrecen a los postulantes. 
+          Actualmente me encuentro abocada a la búsqueda de puestos relacionados con el Sector Administrativo
+como así mismo, también, puedo desempeñarme como Secretaria/ Recepcionista/ Telefonista. 
+
+Saludos cordiales,
+Karen Diaz
+Security_code : r5jqm
+Send : Enviar
+
+---------------
+
+Address : 186.57.130.187
+Nombre : Yanina Karen
+Apellido : Diaz
+Cargo : Administracion/Secretaria/Recepcionista/Telefonista
+Direccion : cmte. Peredo 1677
+Ciudad : Ituzaingo
+Telefono : 15-6051-8703
+Email : ykarendiaz@outlook.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimado/a,
+
+          Buenas tardes, mi nombre es Karen Diaz. En estos momentos me encuentro en búsqueda de un empleo y he dado por preferencia su empresa en la búsqueda, ya que veo estabilidad y seriedad en los recursos que ofrecen a los postulantes. 
+          Actualmente me encuentro abocada a la búsqueda de puestos relacionados con el Sector Administrativo
+como así mismo, también, puedo desempeñarme como Secretaria/ Recepcionista/ Telefonista. 
+
+Saludos cordiales,
+Karen Diaz
+Security_code : fjg8m
+Send : Enviar
+
+---------------
+

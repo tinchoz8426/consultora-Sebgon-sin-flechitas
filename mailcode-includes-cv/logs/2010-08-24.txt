@@ -1,0 +1,77 @@
+Address : 186.18.242.195
+Nombre : Noemí
+Apellido : De Los Santos
+Cargo : Psicóloga
+Direccion : Perito Moreno 3491
+Ciudad : Buenos Aires
+Telefono : 63798469
+Email : noemipsico@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me postulo para el puesto vacante de psicóloga con experiencia en administración y evalaución de técnicas. Si no califico para esta búsqueda tengan a bien considerarme para las posteriores. Muchas Gracias.
+Security_code : 2w4h2
+Send : Enviar
+
+---------------
+
+Address : 190.50.207.181
+Nombre : saulo
+Apellido : rios
+Cargo : operario
+Direccion : san matin nº 1715
+Ciudad : los polvorines
+Telefono : 1549734988 - 46603315
+Email : saulorios16@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : muchas gracias,por recibir mi c.v.
+Security_code : cn5v6
+Send : Enviar
+
+---------------
+
+Address : 200.114.132.138
+REF : exp
+Nombre : Jose Luis
+Apellido : Cordero
+Cargo : ejecutivo de cuentas
+Direccion : A. Magariños Cervantes 1828 16 B
+Ciudad : capital federal
+Telefono : 45857490
+Email : jlcordero@fibertel.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : adjunto mi curriculum para futuras busquedas
+Security_code : 27nft
+Send : Enviar
+
+---------------
+
+Address : 190.227.48.43
+REF : adper
+Nombre : SOTO
+Apellido : JENNIFER
+Cargo : ADMINISTRATIVO
+Direccion : AV PAINE 5212
+Ciudad : CORDOBA
+Telefono : 157066168
+Email : jeny_1455@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : administracion vta y atencion al publico son la tareas a las que aspiro realizar y tengo capacidad
+Security_code : sqy5y
+Send : Enviar
+
+---------------
+
+Address : 200.59.241.240
+Nombre : valeria belen
+Apellido : larrazabal
+Cargo : atencion al publico o secretaria 
+Direccion : antu 676
+Ciudad : neuquen
+Telefono : 154611017
+Email : belularra_1086@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : necesito trabajar 
+Security_code : x8jdd
+Send : Enviar
+
+---------------
+

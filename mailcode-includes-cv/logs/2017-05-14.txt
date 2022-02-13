@@ -1,0 +1,31 @@
+Address : 186.19.236.252<br>
+ <br>Nombre : Priscila
+ <br>Apellido : De Luca
+ <br>Cargo : Otro
+ <br>Direccion : Solier 4046
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 15 24712281
+ <br>Email : priscilamdeluca@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : .
+ <br>Security_code : fqqd4
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.138.191.8<br>
+ <br>REF : Tectron
+ <br>Nombre : Edgardo Gabriel
+ <br>Apellido : Galeano
+ <br>Cargo : Tecnico electronico
+ <br>Direccion : Fornabaio 2635 N| 2635 Quilmes
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 1135576260
+ <br>Email : gabygaleano@live.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Soy una persona responsable, compremetida con la empresa y dispuesto a seguir adquiriendo conocimientos para la cumplir todas las expectativas de la empresa
+ <br>Security_code : nhmf3
+ <br>Send : Enviar
+ <br>
+---------------
+

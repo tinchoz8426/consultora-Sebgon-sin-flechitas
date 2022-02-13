@@ -1,0 +1,67 @@
+Address : 186.125.70.136
+Nombre : Cintia
+Apellido : Boroni
+Cargo : Diseñador Textil
+Direccion : Azcuenaga 1464
+Ciudad : Capital Federal
+Telefono : 48292904
+Email : cintiaboroni@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimado/a Sr/a
+
+Mi nombre es Cintia Boroni, soy Diseñadora Textil - UBA. 
+Estoy interesada hacerles llegar mi Currículum Vítae. 
+Poseo un Portfolio en formato digital que en caso de ser necesario estoy dispuesta a adjuntar.
+Desde ya muchas gracias!
+
+Cintia
+Security_code : kf5kj
+Send : Enviar
+
+---------------
+
+Address : 186.125.70.136
+Nombre : Cintia
+Apellido : Boroni
+Cargo : Diseñador Textil
+Direccion : Azcuénaga 1464
+Ciudad : Capital Federal
+Telefono : 48292904
+Email : cintiaboroni@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimado/a Sr/a
+
+Mi nombre es Cintia Boroni, soy Diseñadora Textil - UBA. 
+Estoy interesada hacerles llegar mi Currículum Vítae. 
+Poseo un Portfolio en formato digital que en caso de ser necesario estoy dispuesta a adjuntar.
+Desde ya muchas gracias!
+
+Cintia
+Security_code : jy9j9
+Send : Enviar
+
+---------------
+
+Address : 190.177.89.147
+Nombre : Maria Ines
+Apellido : Retes
+Cargo : TECNICO EN SEGURIDAD E HIGIENE
+Direccion : Undiano 461
+Ciudad : bahia blanca
+Telefono : 0291 154708539
+Email : inesretes@msn.com 
+MAX_FILE_SIZE : 2097152
+Mensaje : De mi consideración:
+                                 Soy MARIA INÉS RETES, Técnica en Seguridad e Higiene y Control Ambiental Industrial, me encuentro realizando la  Especialización en Seguridad, Higiene en el Trabajo Agrario, en la UBA-EPG
+                                Le adjunto mi CURRICULUM VITAE, con el fin de estar en vuestra base de datos para poder participar en la búsqueda en caso necesario de personal.
+                                Quedo a la espera de una respuesta favorable de vuestra parte.
+                                 Lo saludo muy atte.
+
+
+María Inés Retes
+DNI 30.191.810
+Security_code : d2cnj
+Send : Enviar
+
+---------------
+

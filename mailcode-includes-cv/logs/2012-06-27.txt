@@ -1,0 +1,51 @@
+Address : 186.130.205.197
+Nombre : Roxana Pamela 
+Apellido : Dielma
+Cargo : Empleada Administrativa 
+Direccion : El Rodeo 3702
+Ciudad : Moreno
+Telefono : 0237-4875295 / 011-30671712
+Email : roxxy_tecnica@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : A quien corresponda:
+De mi mayor consideración.                                        Tengo el agrado de dirigirme a usted, con el fin de ser tenida en cuenta en un posible empleo en el área de administración, a tal efecto adjunto, junto a la presente, mi Curriculum Vitaé. Desde ya muchas gracias.                                                                 Dielma Roxana Pamela                                                                  DNI. 36.312.654 
+
+Security_code : qttx6
+Send : Enviar
+
+---------------
+
+Address : 190.183.28.255
+Nombre : lorena silvana
+Apellido : vicente
+Cargo : Lic. en trabajo social
+Direccion : Eduardo salgado 162
+Ciudad : parana
+Telefono : 0343
+Email : loretrabajosocial@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : hola envio nuevamente mi mensaje yq que el antrior no tenia mi email. gracias espero su respuesta
+Security_code : 2prpn
+Send : Enviar
+
+---------------
+
+Address : 190.220.154.235
+Nombre : Fernando Ariel
+Apellido : Arriola Lezcano
+Cargo : Administración
+Direccion : Pedernera 35, casa 21
+Ciudad : Flores
+Telefono : 1144086270
+Email : fernando.arriola76@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenas noches,
+Les adjunto mi C.V.,y quedo a vuestar disposición en caso de una entrevista de trabajo.
+
+Saludos
+
+Security_code : 7sm38
+Send : Enviar
+
+---------------
+

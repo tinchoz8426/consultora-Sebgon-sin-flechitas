@@ -1,0 +1,56 @@
+Address : 186.56.172.142
+Nombre : Juan Esteban
+Apellido : Ramirez
+Cargo : Operario Tecnico
+Direccion : Castañeda 852
+Ciudad : Jose C. Paz
+Telefono : 02320434561
+Email : juanfdr1350@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : experiencia en metalurgica e ind alimenticia
+Security_code : mzn3k
+Send : Enviar
+
+---------------
+
+Address : 190.183.121.94
+REF : jefe-de-operaciones
+Nombre : Julio Oscar
+Apellido : Rivas
+Cargo : Supervisor // Administrador
+Direccion : Calle Pablo Crausaz 62
+Ciudad : Paraná
+Telefono : 0343-4350352
+Email : admrivas2002@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Sr/a.  Gerente 
+
+De mi mayor consideración,
+
+Tengo el agrado de dirigirme a Ud. para hacerle llegar mi curriculum vitae, con el fin de que pueda considerarlo en sus futuras búsquedas de personal.
+Especialmente en áreas de administración. 
+
+Entre mis puntos fuertes quisiera destacar, tales como:
+> Compromiso y automotivación.
+> Excelentes habilidades de liderazgo y comunicación.
+> Dedicación.
+> Excelente comunicación y relaciones interpersonales.
+> Actualización constante.
+> Creatividad.
+> Iniciativa.
+> Lealtad.
+> Honestidad.
+
+Destacándole mi máximo interés en cualquier oportunidad de crecimiento profesional, quedo a su total disposición para proveerle más información o para concertar una entrevista personal, si Ud. lo considera apropiado.
+
+Asimismo, de ser necesario poseo toda documentación pertinente para presentar en tiempo y forma (CUIL + Certificado de Buena Conducta + Certificado de Vecindad, etc).
+
+Atentamente,
+Julio Oscar Rivas
+Administrador de Consorcios
+Celular 0343-154516895
+Security_code : x8kn3
+Send : Enviar
+
+---------------
+

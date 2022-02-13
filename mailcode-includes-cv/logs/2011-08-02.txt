@@ -1,0 +1,64 @@
+Address : 186.137.100.192
+Nombre : Marcos Andres
+Apellido : Alvarez
+Cargo : Seguridad e Higiene
+Direccion : Sarmientos 253
+Ciudad : Bahía Blanca
+Telefono : 0291-4629230
+Email : alvarez.marcos@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenas tardes! Me dirijo a usted con la intención de hacerle llegar mi curriculum vitae el cual adjunto, soy Técnico en Seguridad, Higiene y Control Ambiental Industrial; también estoy cursando (a distancia) la Licenciatura en Higiene y Seguridad en el Trabajo.No tendría problemas en radicarme en otra localidad. Quedo a su entera disposición. 
+Saludos cordiales.
+Alvarez Marcos  
+
+Security_code : xh5jt
+Send : Enviar
+
+---------------
+
+Address : 186.122.7.127
+REF : gerente-de-operaciones
+Nombre : Estefania 
+Apellido : Fernandez
+Cargo : administrativa
+Direccion : Coronel Suarez 1387
+Ciudad : ciudad madero
+Telefono : 1133438041
+Email : estefaniayfernandez@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : adjunto mi CV y espero su respuesta lo antes posible, no tengo una pretencion alguna sobre los cargos ni sobre la remuneracion
+Security_code : ys9d9
+Send : Enviar
+
+---------------
+
+Address : 190.247.23.219
+Nombre : Norma Beatriz
+Apellido : Andrasnik
+Cargo : Secretaria
+Direccion : alvear 1402
+Ciudad : san fernando
+Telefono : 4744-5439
+Email : nbandras@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Busco trabajo para oficina, ya sea como secretaria, recepcionista, empleada administrativa.
+Security_code : wbxkx
+Send : Enviar
+
+---------------
+
+Address : 190.190.105.3
+Nombre : Pablo 
+Apellido : Castagnaro
+Cargo : Empleado
+Direccion : Centenera 81
+Ciudad : Buenos Aires
+Telefono : 011-4669-0653
+Email : pablo.castagnaro@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Soy de zona Oeste y estoy buscando empleo.
+Security_code : 5zq6y
+Send : Enviar
+
+---------------
+

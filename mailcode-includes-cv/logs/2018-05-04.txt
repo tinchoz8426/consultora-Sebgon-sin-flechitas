@@ -1,0 +1,79 @@
+Address : 190.17.152.145<br>
+ <br>Nombre : eduardo javier
+ <br>Apellido : fernandez
+ <br>Cargo : vigilador 
+ <br>Direccion : miguel cane 2915
+ <br>Ciudad : buenos aires
+ <br>Telefono : 44431489
+ <br>Email : marcelina_eduardo@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : necesito trabajo urgente por favor .
+ <br>Security_code : qwn3h
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.130.107.187<br>
+ <br>Nombre : Milton Nahuel
+ <br>Apellido : Corti
+ <br>Cargo : Cualquiera 
+ <br>Direccion : Santa Maria 1394
+ <br>Ciudad : Moron
+ <br>Telefono : 1165495292
+ <br>Email : MiltonNahuelCorti@Gmail.Com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : .
+ <br>Security_code : gwy5n
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.9.122.100<br>
+ <br>Nombre : Bárbara
+ <br>Apellido : Delgado
+ <br>Cargo : Recepcionista o Administrativa
+ <br>Direccion : Blas Parera 2364
+ <br>Ciudad : Quilmes Oeste
+ <br>Telefono : 01155679076
+ <br>Email : barbaradelgado43@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados mi nombre es Bárbara Delgado y les envío mi Currículum vitae porque me encuentro buscando trabajo, me postulo en áreas de Recepción y Administrativa estoy a disposición.
+
+Saludos
+ <br>Security_code : Kbmky
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.9.122.100<br>
+ <br>Nombre : Bárbara
+ <br>Apellido : Delgado
+ <br>Cargo : Recepcionista o Administrativa
+ <br>Direccion : Blas Parera 2364
+ <br>Ciudad : Quilmes Oeste
+ <br>Telefono : 01155679076
+ <br>Email : barbaradelgado43@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados mi nombre es Bárbara Delgado y les envío mi Currículum vitae porque me encuentro buscando trabajo, me postulo en áreas de Recepción y Administrativa estoy a disposición.
+
+Saludos
+ <br>Security_code : KbmKy
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.104.43.132<br>
+ <br>Nombre : Noemi Ester
+ <br>Apellido : Carlos Acuña
+ <br>Cargo : Administrativa
+ <br>Direccion : Infrarrojos 371
+ <br>Ciudad : Lomas de Zamora 
+ <br>Telefono : 1136685756
+ <br>Email : noemi_sther@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Quisiera postularme a la oferta de Administrativa en el Parque Industrial de Burzaco pero no estoy dentro del rango de la edad 
+ <br>Security_code : kn72w
+ <br>Send : Enviar
+ <br>
+---------------
+

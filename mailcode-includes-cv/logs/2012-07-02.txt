@@ -1,0 +1,67 @@
+Address : 190.174.17.23
+Nombre : Silvia
+Apellido : Decima
+Cargo : Dibujante
+Direccion : Besares 6278
+Ciudad : Laferrere
+Telefono : 1532891653
+Email : silvidecima@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenos dias estoy en la busqueda de un nuevo empleo ya sea como Dibujante o Administrativa Tecnica.
+Adjunto mis datos. gracias.
+Security_code : vd526
+Send : Enviar
+
+---------------
+
+Address : 200.68.94.249
+Nombre : Sabrina Laura
+Apellido : Castro
+Cargo : Ejecutivo de Cuentas 
+Direccion : Ayacucho 341 3 23
+Ciudad : Capital
+Telefono : 0111561885822
+Email : sabrinalcastro@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : De mi consideración:
+Mi nombre es Sabrina Castro : El  motivo de este mail es mi profundo interés en ingresar en el proceso de postulación para así poder integrarme a su empresa.
+Me considero proactiva, ordenada, perseverante, responsable y con capacidad de liderazgo.
+Cuento con disponibilidad completa e inmediata.
+Gracias por su tiempo, Sabrina Castro
+
+Security_code : gmdnr
+Send : Enviar
+
+---------------
+
+Address : 24.232.96.125
+Nombre : Cynthia Fabiana
+Apellido : Herrera Lamas
+Cargo : atencion al cliente- vendedoras
+Direccion : necochea 1874 depto 4
+Ciudad : salta
+Telefono : 0387 155191168 - 0387 155262139
+Email : fabiana_herrera20@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : me gustaria trabajar con ustedes brindarles mis conocimientos crecer como persona y profesionalmente
+Security_code : 63sxs
+Send : Enviar
+
+---------------
+
+Address : 190.178.248.237
+REF : administrativo-logistica
+Nombre : Leonardo Gabriel
+Apellido : Camarzana
+Cargo : administrativo-logistica
+Direccion : franklin168
+Ciudad : tandil
+Telefono : 0249 154622863
+Email : leokmar168@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Remuneración pretendida: 3500 - 4000$. Resido en Tandil, pero puedo localizarme frente a una oportunidad sin compromisos
+Security_code : wzd4v
+Send : Enviar
+
+---------------
+

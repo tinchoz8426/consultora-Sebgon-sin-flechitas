@@ -1,0 +1,56 @@
+Address : 190.48.90.181
+Nombre : Natalia
+Apellido : Silva
+Cargo : Asistente Jr de Recursos Humanos
+Direccion : san Jose de calasanz 668
+Ciudad : Caballito
+Telefono : 1568004343
+Email : nataliaasilva.1979@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : A quién corresponda,
+
+   Buenos días, adjunto Cv con información personal y experiencia laboral para futuras búsquedas que se ajusten a mi perfil.
+Una entrevista será, el marco adecuado en donde pueda profundizar aspectos de mi perfil que resulten de su interés.
+Saludo Cordialmente
+Natalia Silva
+Security_code : 97cd6
+Send : Enviar
+
+---------------
+
+Address : 200.123.136.13
+REF : VEN
+Nombre : Mario Juan
+Apellido : Turchi
+Cargo : Vendedor
+Direccion : Valdenegro 4781
+Ciudad : CABA
+Telefono : 1530002608
+Email : mariojuanturchi@hotmail.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : At Sr Gerente;
+Me postulo como vendedor. Resumo mi inquietud en dos escalas de valores.
+VISION; Alcanzar los objetivos laborales preestablecidos a efectos de  retribuir asi con resultados rentables en  tiempo  y forma
+MISION; Brindar soluciones creativas orientadas y vinculadas con la demanda como objeto a satisfacer, acorde a los resultados  proyectados
+
+Security_code : mwh2j
+Send : Enviar
+
+---------------
+
+Address : 186.62.4.9
+REF : VEN
+Nombre : jorge
+Apellido : ojeda
+Cargo : legales
+Direccion : mosconi 757
+Ciudad : provincia de bs as
+Telefono : 1132655680
+Email : ojeda3110@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Aclaración: tengo una discapacidad motriz que pese a estar en una silla de rueda esto ni me impide cumplir las funciones a asignar.  
+Security_code : 8bhxh
+Send : Enviar
+
+---------------
+

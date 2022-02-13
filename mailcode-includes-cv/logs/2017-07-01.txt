@@ -1,0 +1,95 @@
+Address : 186.23.63.90<br>
+ <br>REF : ROT-1
+ <br>Nombre : Luis Gustavo
+ <br>Apellido : Stivanello
+ <br>Cargo : Proyectista cadista
+ <br>Direccion : Quiroz 2285
+ <br>Ciudad : Ituzaingo
+ <br>Telefono : 1554982792/1549893632/46616962
+ <br>Email : luisstiv@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Responsable y dispuesto a nuevos desafios
+ <br>Security_code : hb6pq
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.104.47.146<br>
+ <br>Nombre : daniel
+ <br>Apellido : ocampos
+ <br>Cargo : tecnico
+ <br>Direccion : los aromos 10831
+ <br>Ciudad : Moreno
+ <br>Telefono : 1166792592
+ <br>Email : doeprof@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : deseo postularme
+ <br>Security_code : rg5p3
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.189.249.19<br>
+ <br>Nombre : Tamara
+ <br>Apellido : Tayhardat
+ <br>Cargo : Jefe de Planta
+ <br>Direccion : Humberto 1°, 1678
+ <br>Ciudad : Buenos Aires Capital Federal
+ <br>Telefono : 1137844734
+ <br>Email : tamaracth@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buen dia, 
+
+Mi nombre Tamara Carolina Tayhardat, soy Ingeniero Químico. Cuento con más de seis años de experiencia como Ingeniero de Procesos. Ejerciendo funciones de operación y evaluación, en la empresa de mejoramiento y refinación de crudo extra pesado, PDVSA-Petropiar (PDVSA-Chevron).
+
+Con capacidad de: Organizar y programar las tareas del sector, conducir equipos de trabajo y cumplir con objetivos propuestos. Gestionar el cumplimiento de las normas de aseguramiento de Calidad, Higiene, Seguridad y medioambiente de la empresa. Elaboración y seguimiento de gestión del área. Detección de oportunidades de mejora.
+
+Soy una persona a la que le gustan los nuevos desafíos y crecer cada día profesionalmente.
+
+Adjunto encontrará mi currículum en el cual mi información personal y profesional está más detallada. Les agradezco mucho la atención prestada.
+
+
+
+Saludos,
+
+Tamara Tayhardat
+
+Ingeniero Químico
+
+
+
+ <br>Security_code : 38rvc
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.45.246.196<br>
+ <br>Nombre : Carolina
+ <br>Apellido : Peluffo
+ <br>Cargo : Personal de Limpieza
+ <br>Direccion : Pagola 1132
+ <br>Ciudad : Merlo
+ <br>Telefono : (011)6576-2228
+ <br>Email : Carolinapeluffo@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola buenas tardes,le Adjunto mi Curriculum,para postularme ahora o en el futuro a un puesto vacante dirigido al sector de Personal de limpieza,ya que me encuentro desempleada,tengo experiencia y secundario terminado,desde ya muchas gracias.
+ <br>Security_code : my96q
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.18.141.64<br>
+ <br>Nombre : Cecilia
+ <br>Apellido : Piaggi
+ <br>Cargo : ACO
+ <br>Direccion : Aguilar 2448 7A
+ <br>Ciudad : Capital Federal
+ <br>Telefono : 1553140386
+ <br>Email : ceciale@fibertel.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Gracias por considerar mi perfil. Estoy en búsqueda activa
+ <br>Security_code : j2vrw
+ <br>Send : Enviar
+ <br>
+---------------
+

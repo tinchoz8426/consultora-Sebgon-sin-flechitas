@@ -1,0 +1,36 @@
+Address : 170.51.99.58<br>
+ <br>Nombre : Mario
+ <br>Apellido : Bulloza
+ <br>Cargo : Jefe de Personal
+ <br>Direccion : Sarandi 269
+ <br>Ciudad : CABA
+ <br>Telefono : 1558853503
+ <br>Email : mario_bulloza@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados 
+Por la presente les hago llegar mi CV para el puesto de referencia. 
+
+Saludos cordiales. 
+ <br>Security_code : 9hnbt
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 170.51.99.58<br>
+ <br>Nombre : Mario
+ <br>Apellido : Bulloza
+ <br>Cargo : Jefe de Personal
+ <br>Direccion : Sarandi 269
+ <br>Ciudad : CABA
+ <br>Telefono : 1558853503
+ <br>Email : mario_bulloza@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados
+Les remito mi CV para el puesto de Jefe de Personal. 
+Saludos cordiales 
+
+ <br>Security_code : mm29y
+ <br>Send : Enviar
+ <br>
+---------------
+

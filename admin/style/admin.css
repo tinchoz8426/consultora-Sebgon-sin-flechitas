@@ -1,0 +1,267 @@
+
+@charset "utf-8";
+/* CSS Document */
+
+
+body {
+	link:#336799; 
+	alink:#000099; 
+	vlink:#000099; 
+	color:#000000;
+}
+BODY {
+	margin : 0px;
+	background:none repeat scroll 0 0 #000;
+}
+body, td {
+font-family: Arial, Tahoma, Verdana, Lucida,  sans-serif;
+font-size:11px;
+}
+body {
+margin:0;
+}
+b {
+font-weight:bold;
+}
+a {
+text-decoration:none;
+}
+a:hover {
+text-decoration:underline;
+}
+/*form */
+#form{
+	background-color:#f8f8f8;
+	width:625px;
+	margin-top:-16px;
+	border-bottom:dashed 1px #b2aeaa;
+}
+#leftContact
+{
+	height:200px;
+	width:25%;
+	float:left;	
+}
+
+#leftContact li
+{
+	text-align:right;
+	padding:15px 10px 0px 0px;
+	width:100%;
+	list-style-type:none;
+}
+#rightContact
+{
+	height:200px;
+	float:left;	
+	text-align:left;
+}
+#rightContact li
+{
+	list-style-type:none;
+	color:#d9dadb;
+}
+#rightContact li input
+{
+	text-align:left;
+	margin:10px 0px 0px 10px;
+	width:300px;
+	border:1px solid #e4e3e3;
+	background-color:#f3f3f3;
+	list-style-type:none;
+	font-size:11px;
+}
+#rightContact .checkbox
+{
+	text-align:left;
+	margin:10px 0px 0px 10px;
+	width:20px;
+	border:1px solid #e4e3e3;
+	background-color:#f3f3f3;
+	list-style-type:none;
+}
+#rightContact li select
+{
+	text-align:left;
+	margin:10px 0px 0px 10px;
+	width:300px;
+	border:1px solid #e4e3e3;
+	background-color:#f3f3f3;
+	list-style-type:none;
+	font-size:11px;
+}
+#rightContact li file
+{
+	text-align:left;
+	margin:10px 0px 0px 10px;
+	width:300px;
+	border:1px solid #e4e3e3;
+	background-color:#f3f3f3;
+	list-style-type:none;
+	font-size:11px;
+}
+li#botonSend input
+{
+	text-align:left;
+	margin:10px 10px 0px;
+	border:none;
+	width:74px;
+	height:18px;
+	cursor:pointer;	
+	list-style-type:none;
+	background:#F8F8F8 url(../images/boton-enviarcomentario.png);
+	font-size:9px;
+}
+
+li#botonCancel input
+{
+	text-align:right;
+	margin:10px 0px 0px 0px;
+	width:300px;
+	border:none;
+	background-color:#fff;
+	cursor:pointer;	
+	list-style-type:none;
+}
+
+#rightContact li textarea
+{
+	text-align:left;
+	margin:10px 0px 0px 10px;
+	width:300px;
+	height:100px;
+	max-height:100px !important;
+	min-height:100px !important;
+	min-width:300px !important;
+	max-width:300px !important;
+	border:1px solid #e4e3e3;
+	background-color:#f3f3f3;
+	overflow:hidden;
+	font-size:11px;
+	list-style-type:none;
+}
+#rightEntire
+{
+	height:350px;
+}
+
+/*form*/
+
+/* ADMIN */
+.htmlarea table
+{
+	width:400px;
+}
+#adminGrilla
+{
+	background:#FFFFFF;
+}
+#adminGrilla table
+{
+	width:100%;
+}
+#adminGrilla table thead td
+{
+	color:#545454;
+	line-height:1.5em;	
+	text-align:center;
+	font-weight:bolder;
+}
+#adminGrilla table tfoot td
+{
+	line-height:1.5em;	
+	text-align:center;
+}
+#adminGrilla table tbody td
+{
+	color:#473233;
+	text-align:left;
+	padding-left:5px;
+	border-bottom: solid 1px #f1f1f2;
+}
+#adminGrilla table tbody th
+{
+	color:#473233;
+	text-align:left;
+	padding-left:5px;
+	border-bottom: solid 1px #f1f1f2;
+	width:30%;
+	font-size:12px;
+}
+#adminGrilla table tbody input
+{
+	width:400px;
+	height:25px;	
+	background:#f8f9f8;
+	border:1px solid #BCBEC0;
+	color:#545454;
+	padding:0;
+	margin:3px 0;
+	font-size:10px;
+}
+#adminGrilla table tbody select
+{
+	width:400px;
+	height:25px;	
+	background:#f8f9f8;
+	border:1px solid #BCBEC0;
+	color:#545454;
+	padding:0;
+	margin:3px 0;
+	font-size:10px;
+}
+#adminGrilla .file
+{
+	width:400px;
+	height:25px;	
+	background:#f8f9f8;
+	border:1px solid #BCBEC0;
+	color:#545454;
+	padding:0;
+	margin:3px 0;
+	font-size:10px;
+}
+#adminGrilla table tbody textarea
+{
+	width:400px;
+	height:25px;	
+	background:#f8f9f8;
+	border:1px solid #BCBEC0;
+	color:#545454;
+	padding:0;
+	margin:3px 0;
+	font-size:11px;
+}
+#adminGrilla table tfoot input
+{
+	height:25px;	
+	background:#f8f9f8;
+	border:1px solid #BCBEC0;
+	color:#545454;
+	padding:0 10px;
+	margin:3px 0;
+	font-size:10px;
+	text-align:center;
+}
+#adminGrilla a
+{
+	color:#545454;
+	font-size:11px;
+	font-weight:bold;
+}
+/* ADMIN */
+
+
+/* PAGINADOR */
+
+.paginador{clear:both;margin:0px auto;width:95%;border-collapse:collapse}
+.paginador th{font:700 11px/20px Arial, Helvetica, sans-serif;text-align:left;color:#333;padding:4px;white-space:nowrap;vertical-align: middle;background:#dbdbdb url(../grp/bg_19.gif) repeat-x}
+.paginador td{font:11px/17px Arial, Helvetica, sans-serif;text-align:left;color:#666;padding:4px;background: #fff;vertical-align:top;border-bottom:solid 1px #CCC}
+.paginador,.paginador tbody{border:none}
+.paginador .first{text-align: left}
+.paginador .first a{padding-left:10px;background:url(../grp/bullet_4.gif) no-repeat left 3px}
+.paginador .last{text-align:right}
+.paginador .last a{padding-right:10px;background:url(../grp/bullet_1.gif) no-repeat right 3px}
+.paginador th{text-align: center;background:#fff url(../grp/bg_3.gif) repeat-x}
+.paginador th a{font:400 11px/30px  Arial, Helvetica, sans-serif;text-decoration:none;color:#666}
+.paginador th a:hover{text-decoration:underline}

@@ -1,0 +1,183 @@
+Address : 190.224.243.103
+Nombre : Cristian
+Apellido : Noto 
+Cargo : Administrativo
+Direccion : Rawson 575
+Ciudad : concordia
+Telefono : 03454220478
+Email : cristian_concordia87@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : .
+Security_code : p7zjs
+Send : Enviar
+
+---------------
+
+Address : 200.114.253.238
+Nombre : Anahí
+Apellido : Pastorini
+Cargo : Recursos Humanos
+Direccion : Av. Teniente Juan Domingo Perón 1541 1B
+Ciudad : San Fernando
+Telefono : 1562125968
+Email : anahibelen_83@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenos días, me dirijo a ustedes con el fin de acercarles mi cv, dada mi formación y experiencia en el área de RRHH, es de mi interés participar de sus búsquedas.
+Desde ya muchas gracias, cualquier consulta estoy a su entera disposición
+
+Atte. Anahí Pastorini
+Security_code : 262y5
+Send : Enviar
+
+---------------
+
+Address : 181.31.108.188
+Nombre : Camilo
+Apellido : Ortín
+Cargo : Cadete - Auxiliar
+Direccion : San Lorenzo 135
+Ciudad : Córdoba
+Telefono : 0351-153947641
+Email : cami.ortin@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Soy estudiante de la carrera Contador Público en la Universidad Nacional de Córdoba, finalice el cursado y me restan 5 materias para recibirme, quisiera poner en práctica todos mis conocimientos aprendidos.
+Security_code : nkfs4
+Send : Enviar
+
+---------------
+
+Address : 181.31.108.188
+Nombre : Camilo
+Apellido : Ortín
+Cargo : Cadete - Auxiliar
+Direccion : San Lorenzo 135
+Ciudad : Córdoba
+Telefono : 0351-153947641
+Email : cami.ortin@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Soy estudiante de la carrera Contador Público en la Universidad Nacional de Córdoba, finalice el cursado y me restan 5 materias para recibirme, quisiera poner en práctica todos mis conocimientos aprendidos.
+Security_code : nkfs4
+Send : Enviar
+
+---------------
+
+Address : 181.31.108.188
+Nombre : Camilo
+Apellido : Ortín
+Cargo : Cadete - Auxiliar
+Direccion : San Lorenzo 135
+Ciudad : Córdoba
+Telefono : 0351-153947641
+Email : cami.ortin@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Soy estudiante de la carrera Contador Público en la Universidad Nacional de Córdoba, finalice el cursado y me restan 5 materias para recibirme, quisiera poner en práctica todos mis conocimientos aprendidos.
+Security_code : nkfs4
+Send : Enviar
+
+---------------
+
+Address : 181.31.108.188
+Nombre : Camilo
+Apellido : Ortín
+Cargo : Cadete - Auxiliar
+Direccion : San Lorenzo 135
+Ciudad : Córdoba
+Telefono : 0351-153947641
+Email : cami.ortin@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Soy estudiante de la carrera Contador Público en la Universidad Nacional de Córdoba, finalice el cursado y me restan 5 materias para recibirme, quisiera poner en práctica todos mis conocimientos aprendidos.
+Security_code : qcqh6
+Send : Enviar
+
+---------------
+
+Address : 181.168.81.176
+Nombre : Maria Sol
+Apellido : Osuna Navarro
+Cargo : administratia-recepcionista
+Direccion : Goethe 1157
+Ciudad : Hurlingham
+Telefono : 15-4165-3248
+Email : sol_osuna@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : A través del presente documento hago de su conocimiento mi interés por quedar registrada para un posible empleo.
+Mi nombre es Maria Sol Osuna Navarro, tengo 29 años; soltero y de nacionalidad Argentina. Actualmente estoy desocupada y mi deseo es descubrir nuevas oportunidades en base a mi capacidad. Tengo experiencia como empleada Administrativa (Telemed SRL) y telemarketer en Coca cola Femsa.
+Me presento como una persona activa, responsable, con ganas de seguir capacitarme si es necesario y orientada al logro de resultados y a la resolucion y evolucion constante en las tareas asignadas.
+Espero tener el agrado de exponerle mi situaciòn en una entrevista de trabajo.
+
+Security_code : 284vh
+Send : Enviar
+
+---------------
+
+Address : 200.125.88.88
+Nombre : MATIAS SEBASTIAN
+Apellido : SEMPOLI
+Cargo : Supervisor/Jefe de personal
+Direccion : Congresales 5629
+Ciudad : Buenos Aires
+Telefono : 39747304
+Email : mye_julieta@hoymail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me considero proactivo y con capacidad para formar parte de un equipo de trabajo. En estos momentos me encuentro con absoluta disponibilidad horaria para realizar turnos o jornadas rotativas.
+Quedo a su entera disposición ante una eventual entrevista personal con el objetivo de profundizar aspectos de mi perfil que resulten de su interés.
+
+Security_code : gdddjm
+Send : Enviar
+
+---------------
+
+Address : 181.46.26.1
+Nombre : Daniela Marina
+Apellido : Payarola
+Cargo : Administrativo - Organización de eventos
+Direccion : Yerbal 2624 PB E 
+Ciudad : C.A.B.A.
+Telefono : 11-2633-5731
+Email : daniela_payarola@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : A quien corresponda:
+   Me dirijo a Ud. para que tenga a bien adjuntar mi CV a su base de datos, para que me tenga en cuenta en posibles búsquedas futuras que se ajusten a mi perfil.
+    Sin otro en particular, saludo atentamente.
+Daniela Marina Payarola.-
+Security_code : dfmqn
+Send : Enviar
+
+---------------
+
+Address : 190.189.147.198
+Nombre : Alejandro
+Apellido : Ricart
+Cargo : Asistente de RRHH
+Direccion : Laserre 132
+Ciudad : José Mármol
+Telefono : 1524536118
+Email : alejandro.ricart@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados,
+      Tengo el agrado de dirigirme a Uds. Con el objeto de presentar y ofrecer mis servicios de Asistente de Recursos Humanos, los cuales responden a necesidades de contextos y demandas actuales. En el ámbito profesional, cuento con conocimientos, aptitudes y experiencia mínima necesaria  para asumir nuevos desafíos, así como también el desarrollo y cumplimiento de objetivos y metas. Actualmente me encuentro cursando la carrera de Recursos Humanos en la Universidad Argentina de la Empresa (UADE).
+La formación académica actual, conduce al fuerte desempeño y gestión de las labores en el aspecto completamente profesional, siendo la razón que acredita una posición propicia.
+Agradezco, especialmente, la atención atribuida a la presente. Asimismo, aprovecho la oportunidad para saludarlos con mi mayor consideración. 
+
+Alejandro Ricart.
+
+Security_code : byz3q
+Send : Enviar
+
+---------------
+
+Address : 186.134.160.115
+Nombre : ivana
+Apellido : vera
+Cargo : administrativo
+Direccion : 113
+Ciudad : buenos aires
+Telefono : 1565843119
+Email : ivanavera73@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : busco trabajo con urgencia
+Security_code : 278rv
+Send : Enviar
+
+---------------
+

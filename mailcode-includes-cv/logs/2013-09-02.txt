@@ -1,0 +1,17 @@
+Address : 181.166.38.67
+REF : gerente-produccion
+Nombre : Yanina
+Apellido : Garropoli
+Cargo : Gerente de Produccion
+Direccion : 132 n° 1619
+Ciudad : La Plata
+Telefono : 2216019496
+Email : yanig_88@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola.Soy Ingeniera Industrial y estoy interesada en el puesto. Les dejo mi CV para que lo analicen. Gracias
+Yanina Garropoli
+Security_code : n7bpn
+Send : Enviar
+
+---------------
+

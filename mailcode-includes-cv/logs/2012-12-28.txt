@@ -1,0 +1,31 @@
+Address : 200.47.116.91
+REF : tecnico-electornico
+Nombre : luis alberto
+Apellido : aldana
+Cargo : tec. electronico
+Direccion : santa maria de oro 1210
+Ciudad : moron
+Telefono : 1553311137
+Email : aldanaluis11@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : me postulo para el puesto de tec.electronico, actualmente trabajo en FATE (fabrica de neumaticos).
+Security_code : rxcvk
+Send : Enviar
+
+---------------
+
+Address : 201.252.69.161
+Nombre : lorena
+Apellido : lencina
+Cargo : operario / administrativo
+Direccion : nicaragua 2347
+Ciudad : rosario
+Telefono : 4592849
+Email : LORE94_BLACK@HOTMAIL.COM
+MAX_FILE_SIZE : 2097152
+Mensaje : me gustaria formar parte de su equpipo, recien inicio el camino laboral.. espero de serle de utilidad
+Security_code : zjgvy
+Send : Enviar
+
+---------------
+

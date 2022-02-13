@@ -1,0 +1,30 @@
+Address : 200.45.180.250
+Nombre : JUAN PABLO
+Apellido : ORSI
+Cargo : Docente-Trabajo Social
+Direccion : Comdarco 1460
+Ciudad : CABA
+Telefono : 1169650877
+Email : juanpabloorsi@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Docente, formador, prospección para constructoras, mineras, petroleras, etc
+Security_code : x5268
+Send : Enviar
+
+---------------
+
+Address : 190.31.216.226
+Nombre : Nelson Raúl 
+Apellido : Palavecino Suárez
+Cargo : Secretario o el que me asignen soy un joven profesional que se adapta 
+Direccion : nelsonsuar@hotmail.com
+Ciudad : San Fernando del Valle de Catamarca
+Telefono : 3834444751 - 3834444751
+Email : nelsonsuar@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Soy Estudiante de Abogacía y me faltan finales para ser Técnico Superior en Turismo, actualmente soy Guía Turístico. Me gusta hacer trabajos sociales con Instituciones, Organizaciones sin fines de lucros, capacitar y concientizar a la sociedad con identidades y cultura, realizar todos mis proyectos.
+Security_code : kvn49
+Send : Enviar
+
+---------------
+

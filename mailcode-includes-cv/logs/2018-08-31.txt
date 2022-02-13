@@ -1,0 +1,240 @@
+Address : 190.151.150.133<br>
+ <br>Nombre : Ulises Daniel
+ <br>Apellido : Romero
+ <br>Cargo : ~~~~~~~
+ <br>Direccion : Juan Bautista Justo 2233.
+ <br>Ciudad : zarate
+ <br>Telefono : 3489618006
+ <br>Email : Rmxpiuprime@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estoy en búsqueda de un trabajo,Me gusta ser activo y siempre aprender mas.
+ <br>Security_code : 69tnj
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.7<br>
+ <br>Nombre : Carlos guillermo
+ <br>Apellido : Aguiar
+ <br>Cargo : Limpieza
+ <br>Direccion : Misiones 639
+ <br>Ciudad : Bella vista, buenos aires
+ <br>Telefono : 1169036866
+ <br>Email : Guille47loko@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : No 
+ <br>Security_code : P75v3
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 170.51.99.90<br>
+ <br>REF : JPER-1
+ <br>Nombre : Luciana
+ <br>Apellido : Vassallo
+ <br>Cargo : Jefe de personL
+ <br>Direccion : Carlos Calvo 2200
+ <br>Ciudad : Pilar
+ <br>Telefono : 5491166627599
+ <br>Email : lula_va@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Adjunto mi CV 
+ <br>Security_code : 3shzb
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.175.2.247<br>
+ <br>Nombre : lautaro andres 
+ <br>Apellido : vera
+ <br>Cargo : --
+ <br>Direccion : Brown 260
+ <br>Ciudad : rio negro bariloche
+ <br>Telefono : 2944533461
+ <br>Email : lautaro52@hotmail.es
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Trabajo! 
+ <br>Security_code : dhxsj
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.175.2.247<br>
+ <br>Nombre : lautaro andres 
+ <br>Apellido : vera
+ <br>Cargo : --
+ <br>Direccion : Brown 260
+ <br>Ciudad : rio negro bariloche
+ <br>Telefono : 2944533461
+ <br>Email : lautaro52@hotmail.es
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Trabajo! 
+ <br>Security_code : dhxsj
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.175.2.247<br>
+ <br>Nombre : lautaro andres 
+ <br>Apellido : vera
+ <br>Cargo : --Trabajo
+ <br>Direccion : Bariloche Brown 260
+ <br>Ciudad : Rio negro
+ <br>Telefono : 2944533461
+ <br>Email : lautaro52@hotmail.es
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Trabajo! 
+ <br>Security_code : dhxsj
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.111.161.228<br>
+ <br>Nombre : Julian
+ <br>Apellido : Toranzos
+ <br>Cargo : Ayudante
+ <br>Direccion : La cienaga belen
+ <br>Ciudad : Catamarca
+ <br>Telefono : 3835431200
+ <br>Email : Toranzosjulian8@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Llama
+
+
+ <br>Security_code : 37642122
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.226.158.189<br>
+ <br>Nombre : Yanina Isabel
+ <br>Apellido : Lizarraga
+ <br>Cargo : Atencion al publico, Administracion
+ <br>Direccion : 7 de mayo 41
+ <br>Ciudad : Banda del Rio Sali - Tucuman
+ <br>Telefono : 3816667763
+ <br>Email : yannilizarraga@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas! Les dejo mi CV. Estoy buscando trabajo. Tengo buena presencia y muchas ganas de trabajar. Gracias
+ <br>Security_code : dd34v
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.143.136.205<br>
+ <br>Nombre : Adrian
+ <br>Apellido : Medero
+ <br>Cargo : Oficial
+ <br>Direccion : Misiones 178 rincon de los sauces
+ <br>Ciudad : Rincon de los sauces
+ <br>Telefono : 299 5788805
+ <br>Email : Jorgeadrianmedero@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola me dirijona ustede para poder desenpeñar mi trabajo en su empresa .tengo varios cursos y conicimientos en service de maquinaria vial .camiones y soy soldador y operario de maquinarias viales y chofer de pasajer c9n licencia al dia 
+ <br>Security_code : Vn5fq
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.143.136.205<br>
+ <br>Nombre : Adrian
+ <br>Apellido : Medero
+ <br>Cargo : Oficial
+ <br>Direccion : Misiones 178 rincon de los sauces
+ <br>Ciudad : Rincon de los sauces
+ <br>Telefono : 299 5788805
+ <br>Email : Jorgeadrianmedero@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola me dirijona ustede para poder desenpeñar mi trabajo en su empresa .tengo varios cursos y conicimientos en service de maquinaria vial .camiones y soy soldador y operario de maquinarias viales y chofer de pasajer c9n licencia al dia 
+ <br>Security_code : Vn5fq
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.179.159.223<br>
+ <br>Nombre : Juan
+ <br>Apellido : Rojas
+ <br>Cargo : Tarea de limpieza
+ <br>Direccion : Allemandri
+ <br>Ciudad : Buenos aires
+ <br>Telefono : 4264 6458
+ <br>Email : Rojas_elfachajuan@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola busco trabajo de limpieza
+ <br>Security_code : 3pwdf
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.9.162.74<br>
+ <br>Nombre : mauro
+ <br>Apellido : martinez
+ <br>Cargo : gastronomia
+ <br>Direccion : santa rosa 1172
+ <br>Ciudad : tinogasta
+ <br>Telefono : 03837 - 15405945
+ <br>Email : Emareales@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : desearia ser participe de tan prestigiososa empresa, y otorgar mi mayor esfuerzo para mejorar dia a dia.
+ <br>Security_code : d448t
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.9.162.74<br>
+ <br>Nombre : mauro
+ <br>Apellido : martinez
+ <br>Cargo : gastronomia
+ <br>Direccion : santa rosa 1172
+ <br>Ciudad : tinogasta
+ <br>Telefono : 03837 - 15405945
+ <br>Email : Emareales@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : desearia ser participe de tan prestigiososa empresa, y otorgar mi mayor esfuerzo para mejorar dia a dia.
+ <br>Security_code : d448t
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.191.186.111<br>
+ <br>REF : Ing. quim
+ <br>Nombre : Kerlyn
+ <br>Apellido : Marquina
+ <br>Cargo : Jefa de procesos Industriales
+ <br>Direccion : Tucuman 2249, 3F
+ <br>Ciudad : Mar del Plata
+ <br>Telefono : +5492234496363
+ <br>Email : marquinak1@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas tardes, es un placer saludarle.
+
+Mi nombre es Kerlyn Marquina, soy Ingeniero Químico con 14 años de experiencia en la industria petrolera, adicionalmente también cuento con amplia experiencia en ventas. Actualmente me encuentro en búsqueda activa de empleo.
+Cuento con movilidad propia y disponibilidad inmediata para incorporarme a trabajar.
+Le remito mi CV para su consideración.
+
+Por cualquier requerimiento adicional, estoy a la orden.
+
+Atentamente, 
+
+Kerlyn Marquina
++5492234496363
+ <br>Security_code : qxpq6
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.191.186.111<br>
+ <br>Nombre : Kerlyn
+ <br>Apellido : Marquina
+ <br>Cargo : Jefa de procesos Industriales
+ <br>Direccion : Tucuman 2249, 3F
+ <br>Ciudad : Mar del Plata
+ <br>Telefono : +5492234496363
+ <br>Email : marquinak1@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Jefa de procesos Industriales
+ <br>Security_code : qj9vh
+ <br>Send : Enviar
+ <br>
+---------------
+

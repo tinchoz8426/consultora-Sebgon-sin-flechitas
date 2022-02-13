@@ -1,0 +1,187 @@
+Address : 190.173.39.153
+Nombre : Maria Marta
+Apellido : Gugliotti
+Cargo : Analistas RR.HH
+Direccion : Mario Bravo 1139
+Ciudad : Capital Federal
+Telefono : 111559944099
+Email : maria.marta.gugliotti@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Les envio mi C.V, espero que me tengan en cuenta con algunas ofertas. 
+Desde ya muy agradecida
+  Maria
+Security_code : 5vwwd
+Send : Enviar
+
+---------------
+
+Address : 181.88.178.229
+Nombre : Cristian Dario
+Apellido : Garro
+Cargo : TECNICO UNIVERSITARIO ENERGIAS RENOVABLES 
+Direccion : San Juan Nº 2252
+Ciudad : San Luis
+Telefono : 266 4298105
+Email : g.cristian.d@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : hola
+Security_code : 5dz3y
+Send : Enviar
+
+---------------
+
+Address : 66.102.8.160
+Nombre : Micaela Belén
+Apellido : Irrazabal
+Cargo : Secretaria , recepcionista 
+Direccion : Pedro Ignacio Rivera 4130
+Ciudad : Capital Federal
+Telefono : +5491160434367
+Email : micaelairrazabal.mi@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : De mi consideración:
+Estoy muy interesada en participar en su proceso de selección.Les adjunto mi curriculum,  por lo que quedo a su disposición 
+para concertar una entrevista y comentar en profundidad mi formación y experiencia.
+A la espera de sus noticias, me despido atentamente.
+Security_code : Zv56z
+Send : Enviar
+
+---------------
+
+Address : 186.108.170.88
+Nombre : Marcos Joaquín
+Apellido : Lopez
+Cargo : Cañista
+Direccion : Artigas esq. Las Heras 
+Ciudad : Salta
+Telefono : 0387156234738
+Email : Marks1938@hotmail
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola quisiera postular me
+Security_code : rs43v
+Send : Enviar
+
+---------------
+
+Address : 181.192.44.252
+Nombre : juan sebastian
+Apellido : contrera
+Cargo : asistente, ayudante,vendedor,repositor,etc
+Direccion : piovano 3688 
+Ciudad : buenos aires, moreno
+Telefono : 1169641164
+Email : juanse.contre@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : busco trabajo acorde a mis habilidades, que me permita tener experiencia, tengo 20 años.
+rapidez para aprender, soy puntual, responsable.
+Security_code : 6tppw
+Send : Enviar
+
+---------------
+
+Address : 190.195.126.46
+Nombre : Hernán
+Apellido : Fenoglietto
+Cargo : Recepcionista Hotel 4/5 estrellas
+Direccion : Lugones 2330 7º B
+Ciudad : C.A.B.A
+Telefono : 4524159
+Email : hfenoglietto87@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Envío mi CV para alguna oportunidad que pueda surgir.
+Security_code : pmd9vv
+Send : Enviar
+
+---------------
+
+Address : 190.195.126.46
+Nombre : Hernán
+Apellido : Fenoglietto
+Cargo : Recepcionista Hotel 4/5 estrellas
+Direccion : Lugones 2330 7º B
+Ciudad : C.A.B.A
+Telefono : 4524159
+Email : hfenoglietto87@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Envío mi CV para alguna oportunidad que pueda surgir.
+Security_code : n99ss
+Send : Enviar
+
+---------------
+
+Address : 201.255.181.10
+Nombre : Luis Alejandro
+Apellido : Leone
+Cargo : Supervisor
+Direccion : Calle 9 nª 2487
+Ciudad : Berazategui
+Telefono : 4256-5805   1568854608
+Email : aleleone99@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me encuentro a su disposición para ampliar información de mi cv.
+Security_code : xb93p
+Send : Enviar
+
+---------------
+
+Address : 200.82.119.92
+Nombre : jorge antonio
+Apellido : gonzalez
+Cargo : encargado
+Direccion : quirrno 1737
+Ciudad : zarate
+Telefono : 03487 438708
+Email : j_gonzalez1705@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Espero prontas respuestas 
+Security_code : 59kg5
+Send : Enviar
+
+---------------
+
+Address : 190.138.136.218
+Nombre : Fabrizio
+Apellido : Oviedo
+Cargo : Periodista
+Direccion : Maracaná 938, Ciudad Evita
+Ciudad : Buenos Aires 
+Telefono : 1167997941
+Email : fabrizio.oviedo@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Joven entusiasta en busca de nuevas oportunidades laborales. Dinámico,  proactivo, con ganas de aprender y poder desarrollarme no solo profesional, sino personalmente. 
+Security_code : 3rpfz
+Send : Enviar
+
+---------------
+
+Address : 186.141.198.183
+REF : JP
+Nombre : KARINA LAURA UGONE
+Apellido : ugone
+Cargo : JEFE DE PERSONAL
+Direccion : ituzaingo 1232
+Ciudad : LANUS ESTE
+Telefono : 1569524957
+Email : karinaugone@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimado/a: Le envio mi CV a fin de tenerlo en cuenta para la busqueda de Referencia, como Jefe de Personal en Empresa Alimenticia en Avellaneda. A la espera de una respuesta favorable lo/a saludo cordialmente.
+Security_code : fnyjy
+Send : Enviar
+
+---------------
+
+Address : 190.11.40.189
+Nombre : LAURA
+Apellido : rojo
+Cargo : administrativa
+Direccion : las heras
+Ciudad : Villa Gobernador Galvez
+Telefono : 0341155792248
+Email : lau.rh2009@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me gustaría formar parte de su equipo de trabajo. Soy seria y responsable y con muchas ganas de trabajar. Desde ya quedo a su disposición para una futura entrevista laboral. Saluda atte.
+Security_code : Y2dhr
+Send : Enviar
+
+---------------
+

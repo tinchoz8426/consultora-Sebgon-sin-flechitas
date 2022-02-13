@@ -1,0 +1,30 @@
+Address : 190.138.80.23
+Nombre : silvana 
+Apellido : quetglas
+Cargo : psicologa
+Direccion : roca 255 2 A
+Ciudad : SAN MIGUEL DE TUCUMAN
+Telefono : 0385-154144868
+Email : SILVANAQUETGLAS99@HOTMAIL.COM
+MAX_FILE_SIZE : 2097152
+Mensaje : BUSCO UN PUESTO DE PSICOLOGA EN LA PROVINCIA DE TUCUMAN
+Security_code : 8HRZ8
+Send : Enviar
+
+---------------
+
+Address : 200.127.182.132
+Nombre : David Armando
+Apellido : Torri
+Cargo : Dpto. Capacitación
+Direccion : ayacucho 1942
+Ciudad : Córdoba
+Telefono : 0351-152154688
+Email : davidtorric@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Me dirijo a Uds. a fin de solicitar tengan a bien considerar mis antecedentes profesionales en el ámbito de la capacitación y docencia. Cordialmente.
+Security_code : w22th
+Send : Enviar
+
+---------------
+

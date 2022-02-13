@@ -1,0 +1,286 @@
+Address : 181.47.170.165
+Nombre : noelia
+Apellido : escola
+Cargo : legales
+Direccion : caba
+Ciudad : buenos aires
+Telefono : 1530104299
+Email : noelia19_66@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : les dejo mi CV, cualquier duda o consulta quedo a su disposición.
+Security_code : hmfck
+Send : Enviar
+
+---------------
+
+Address : 186.122.47.241
+Nombre : Laura Veronica
+Apellido : McIntyre
+Cargo : Salud
+Direccion : Humahuaca 560
+Ciudad : Perico - Jujuy
+Telefono : 03884911573/0388154350571
+Email : vero_mcintyre@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : .
+Security_code : bkrsk
+Send : Enviar
+
+---------------
+
+Address : 186.134.196.141
+Nombre : jonatan ariel
+Apellido : ORTMANN
+Cargo : soporte tecnico
+Direccion : CALLE 832 Nº 2252 S.F. SOLANO
+Ciudad : QUILMES 
+Telefono : 1532700397
+Email : ortmannsa@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : BÚSQUEDA LABORAL
+Security_code : RM74G
+Send : Enviar
+
+---------------
+
+Address : 181.29.126.164
+Nombre : Erica
+Apellido : Flor
+Cargo : Asistente de Marketing/Ventas
+Direccion : Guardia Vieja 4329 1º L
+Ciudad : CABA
+Telefono : 1554952970
+Email : ericarflor@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Les manifiesto mi interés en participar en los procesos de selección que requieran de una profesional de mis características.
+Me he desarrollado durante más de cinco años como Asistente de Ventas/Marketing y Analista de Producto. Reportando directamente al Gerente General, Gerente de Ventas y Marketing aporto una amplia experiencia en el área.  Análisis de mercados y competencias, administración de costos, carga de pedidos,  estudio de stock, atención a clientes son mis funciones principales, entre otras.
+Acostumbrada a trabajar en equipo, me considero una persona dinámica, con iniciativa y capacidad de organización y gestión.
+Les agradezco de antemano su atención y quedo a su disposición para mantener una entrevista cuando consideren.
+Atentamente.
+Erica Flor
+Security_code : c9nhh
+Send : Enviar
+
+---------------
+
+Address : 190.229.230.133
+Nombre : Gabriel Nicolas 
+Apellido : Figueroa De boeck
+Cargo : Auxiliar Instalador Gasista Domiciliario
+Direccion : San Juan 363 
+Ciudad : Tafi Viejo - S.M. de Tucuman
+Telefono : 3815-823 309
+Email : gabrielgnf@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Curriculum Vitae.
+Security_code : 96J72
+Send : Enviar
+
+---------------
+
+Address : 190.229.230.133
+Nombre : Gabriel Nicolas 
+Apellido : Figueroa De boeck
+Cargo : Auxiliar Instalador Gasista Domiciliario
+Direccion : San Juan 363 
+Ciudad : Tafi Viejo - S.M. de Tucuman
+Telefono : 3815-823 309
+Email : gabrielgnf@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Curriculum Vitae.
+Security_code : 73spw
+Send : Enviar
+
+---------------
+
+Address : 181.26.214.226
+REF : GTE COM
+Nombre : Nestor
+Apellido : Fachal
+Cargo : Gte. Comercial
+Direccion : Boston 147
+Ciudad : Temperley
+Telefono : 15 6758 5635
+Email : nfachal@speedy.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : La postulación es para la busqueda de gerente comercial de empresa a nivel nacional
+Security_code : p3xmq
+Send : Enviar
+
+---------------
+
+Address : 200.0.228.212
+Nombre : German 
+Apellido : Romero
+Cargo : atención al publico, administrativo, logistica y distribucion o afines
+Direccion : Tte. Fernandez 3257
+Ciudad : Castelar
+Telefono : 1161332854
+Email : shulai91@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : 
+Buenas Tardes:
+
+                     Mi nombre es Germán Romero, tengo 27 años, y me dirijo a usted para enviarle mi Curriculum Vitae y adherirme a su base de datos. Me considero una persona activa, que busca progresar tanto en el ámbito laboral como en el personal, puntual, con buena presencia y trato cordial, creativo y con predisposición al aprendizaje. Me encuentro en la búsqueda de un puesto de trabajo principalmente en Zona Oeste, preferentemente Part Time en cualquier horario (mañana-tarde-noche) tanto en sectores de atención al público, como puestos administrativos o afines. 
+                    Estoy dispuesto a tener una entrevista, sin problemas de horario cuando usted lo disponga. 
+
+Security_code : pzvqw
+Send : Enviar
+
+---------------
+
+Address : 200.0.228.212
+Nombre : German 
+Apellido : Romero
+Cargo : atención al publico, administrativo, logistica y distribucion o afines
+Direccion : Tte. Fernandez 3257
+Ciudad : Castelar
+Telefono : 1161332854
+Email : shulai91@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : 
+Buenas Tardes:
+
+                     Mi nombre es Germán Romero, tengo 27 años, y me dirijo a usted para enviarle mi Curriculum Vitae y adherirme a su base de datos. Me considero una persona activa, que busca progresar tanto en el ámbito laboral como en el personal, puntual, con buena presencia y trato cordial, creativo y con predisposición al aprendizaje. Me encuentro en la búsqueda de un puesto de trabajo principalmente en Zona Oeste, preferentemente Part Time en cualquier horario (mañana-tarde-noche) tanto en sectores de atención al público, como puestos administrativos o afines. 
+                    Estoy dispuesto a tener una entrevista, sin problemas de horario cuando usted lo disponga. 
+
+Security_code : pzvqw
+Send : Enviar
+
+---------------
+
+Address : 200.0.228.212
+Nombre : German 
+Apellido : Romero
+Cargo : atención al publico, administrativo, logistica y distribucion o afines
+Direccion : Tte. Fernandez 3257
+Ciudad : Castelar
+Telefono : 1161332854
+Email : shulai91@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : 
+Buenas Tardes:
+
+                     Mi nombre es Germán Romero, tengo 27 años, y me dirijo a usted para enviarle mi Curriculum Vitae y adherirme a su base de datos. Me considero una persona activa, que busca progresar tanto en el ámbito laboral como en el personal, puntual, con buena presencia y trato cordial, creativo y con predisposición al aprendizaje. Me encuentro en la búsqueda de un puesto de trabajo principalmente en Zona Oeste, preferentemente Part Time en cualquier horario (mañana-tarde-noche) tanto en sectores de atención al público, como puestos administrativos o afines. 
+                    Estoy dispuesto a tener una entrevista, sin problemas de horario cuando usted lo disponga. 
+
+Security_code : pzvqw
+Send : Enviar
+
+---------------
+
+Address : 200.0.228.212
+Nombre : German
+Apellido : Romero
+Cargo : atención al publico, administrativo, logistica y distribucion o afines
+Direccion : Tte. Fernandez 3257
+Ciudad : Castelar
+Telefono : 1161332854
+Email : shulai91@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : 
+Buenas Tardes:
+
+                     Mi nombre es Germán Romero, tengo 27 años, y me dirijo a usted para enviarle mi Curriculum Vitae y adherirme a su base de datos. Me considero una persona activa, que busca progresar tanto en el ámbito laboral como en el personal, puntual, con buena presencia y trato cordial, creativo y con predisposición al aprendizaje. Me encuentro en la búsqueda de un puesto de trabajo principalmente en Zona Oeste, preferentemente Part Time en cualquier horario (mañana-tarde-noche) tanto en sectores de atención al público, como puestos administrativos o afines. 
+                    Estoy dispuesto a tener una entrevista, sin problemas de horario cuando usted lo disponga. 
+
+Security_code : pzvqw
+Send : Enviar
+
+---------------
+
+Address : 200.0.228.212
+Nombre : German
+Apellido : Romero
+Cargo : atención al publico, administrativo, logistica y distribucion o afines
+Direccion : Tte. Fernandez 3257
+Ciudad : Castelar
+Telefono : 1161332854
+Email : shulai91@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : 
+Buenas Tardes:
+
+                     Mi nombre es Germán Romero, tengo 27 años, y me dirijo a usted para enviarle mi Curriculum Vitae y adherirme a su base de datos. Me considero una persona activa, que busca progresar tanto en el ámbito laboral como en el personal, puntual, con buena presencia y trato cordial, creativo y con predisposición al aprendizaje. Me encuentro en la búsqueda de un puesto de trabajo principalmente en Zona Oeste, preferentemente Part Time en cualquier horario (mañana-tarde-noche) tanto en sectores de atención al público, como puestos administrativos o afines. 
+                    Estoy dispuesto a tener una entrevista, sin problemas de horario cuando usted lo disponga. 
+
+Security_code : hhbvm
+Send : Enviar
+
+---------------
+
+Address : 181.46.28.86
+Nombre : Ariel Víctor
+Apellido : Alejo
+Cargo : RRHH
+Direccion : Inclan 3266, 1º E
+Ciudad : CABA
+Telefono : 156464-2836
+Email : alejoariel@hotmail.es
+MAX_FILE_SIZE : 2097152
+Mensaje : Mi disponibilidad es full-time e inmediata a nivel nacional.
+Security_code : 8mzjf
+Send : Enviar
+
+---------------
+
+Address : 181.46.28.86
+Nombre : Ariel Víctor
+Apellido : Alejo
+Cargo : RRHH
+Direccion : Inclan 3266, 1º E
+Ciudad : CABA
+Telefono : 156464-2836
+Email : alejoariel@hotmail.es
+MAX_FILE_SIZE : 2097152
+Mensaje : Mi disponibilidad es inmediata y full-time a nivel nacional.
+Security_code : bnjpq
+Send : Enviar
+
+---------------
+
+Address : 190.226.11.19
+Nombre : Andres
+Apellido : Konevky
+Cargo : Auditor contable, Administrativo Contable.
+Direccion : Corrientes 961
+Ciudad : Tucuman
+Telefono : 3814064647
+Email : andres_tuc@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Busco ofertas laborales en San Miguel de Tucuman afines a la carrera de CPN
+Security_code : cgq7s
+Send : Enviar
+
+---------------
+
+Address : 190.226.11.19
+Nombre : Andres
+Apellido : Konevky
+Cargo : Auditor contable, Administrativo Contable.
+Direccion : Corrientes 961
+Ciudad : Tucuman
+Telefono : 3814064647
+Email : andres_tuc@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Busco ofertas laborales en San Miguel de Tucuman afines a la carrera de CPN
+Security_code : cgq7s
+Send : Enviar
+
+---------------
+
+Address : 190.226.11.19
+Nombre : Andres
+Apellido : Konevky
+Cargo : Auditor contable, Administrativo Contable.
+Direccion : Corrientes 961
+Ciudad : Tucuman
+Telefono : 3814064647
+Email : andres_tuc@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Busco ofertas laborales en San Miguel de Tucuman afines a la carrera de CPN
+Security_code : psk5f
+Send : Enviar
+
+---------------
+

@@ -1,0 +1,138 @@
+Address : 190.16.110.248<br>
+ <br>Nombre : constanza nicolle
+ <br>Apellido : spitale
+ <br>Cargo : atencion al cliente ,reposicion de mercaderia
+ <br>Direccion : marianos ceballos 2909 
+ <br>Ciudad : cordoba 
+ <br>Telefono : 3517691027
+ <br>Email : cotynicolle@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : buscar trabajo 
+ <br>Security_code : g6yf8
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.12.4.27<br>
+ <br>REF : TEC. EL
+ <br>Nombre : Lucas Hernan
+ <br>Apellido : Larenas
+ <br>Cargo : Tecnico Electronico Especializado
+ <br>Direccion : Jose Ingenieros 2392
+ <br>Ciudad : Moreno
+ <br>Telefono : 1130049207
+ <br>Email : Servipakingya@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Pretencion salarial $60.000
+ <br>Security_code : 5cncv
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 200.61.240.148<br>
+ <br>Nombre : Luna Morena
+ <br>Apellido : Amaya
+ <br>Cargo : Asistente 
+ <br>Direccion : Bertholot
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 01122508613
+ <br>Email : lunamorenaamaya@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Mi pasión por el área me motiva a buscar opciones en empresas con un ambiente laboral de respeto, orientado a los objetivos pero con foco en las personas.
+ <br>Security_code : 4ns57
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.138.143.228<br>
+ <br>Nombre : OSCAR
+ <br>Apellido : COOLS
+ <br>Cargo : Seguridad
+ <br>Direccion : Ciudadela 
+ <br>Ciudad : Buenos aires 
+ <br>Telefono : 1155131174
+ <br>Email : Oscarcools645@gmail
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola. Me interesa el empleo de seguridad soy venezolano y tengo experiencia en mi país fui oficial. Tengo toda la dispocision para trabajar. Gracias!
+ <br>Security_code : d5xmy
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.138.143.228<br>
+ <br>Nombre : OSCAR
+ <br>Apellido : COOLS
+ <br>Cargo : Seguridad
+ <br>Direccion : Ciudadela 
+ <br>Ciudad : Buenos aires 
+ <br>Telefono : 1155131174
+ <br>Email : Oscarcools645@gmail
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola. Me interesa el empleo de seguridad soy venezolano y tengo experiencia en mi país fui oficial. Tengo toda la dispocision para trabajar. Gracias!
+ <br>Security_code : d5xmy
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.138.143.228<br>
+ <br>Nombre : OSCAR
+ <br>Apellido : COOLS
+ <br>Cargo : Seguridad
+ <br>Direccion : Ciudadela 
+ <br>Ciudad : Buenos aires 
+ <br>Telefono : 1155131174
+ <br>Email : Oscarcools645@gmail
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola. Me interesa el empleo de seguridad soy venezolano y tengo experiencia en mi país fui oficial. Tengo toda la dispocision para trabajar. Gracias!
+ <br>Security_code : d5xmy
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.166.165.42<br>
+ <br>REF : TEC. EL
+ <br>Nombre : Leandro 
+ <br>Apellido : Godoy
+ <br>Cargo : TÉCNICOS ELECTRÓNICOS ESPECIALIZADOS 
+ <br>Direccion : David Magdalena 3266
+ <br>Ciudad : Caseros
+ <br>Telefono : 4750-9660
+ <br>Email : leandrogodoy@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Se realiza postulación para Técnico Electrónico en función de disposición de amplios conocimientos en el area de informática realizando reparación integral de hardware 
+ <br>Security_code : 2pjt3
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.13.71.195<br>
+ <br>REF : TEC. EL
+ <br>Nombre : Matías
+ <br>Apellido : Ruggeri
+ <br>Cargo : técnico electrónico especializado
+ <br>Direccion : carlos casares 2240
+ <br>Ciudad : Castelar
+ <br>Telefono : 1162898672
+ <br>Email : mdruggeri@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas tardes, quería postularme para el empleo de técnico electrónico especializado. Gracias!
+ <br>Security_code : 99v8b
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.194.108.98<br>
+ <br>Nombre : Maximiliano
+ <br>Apellido : Rojas
+ <br>Cargo : Operario
+ <br>Direccion : Albizuri 5947
+ <br>Ciudad : Cordoba
+ <br>Telefono : 4951443
+ <br>Email : rojasfernandomaximiliano@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Espero tener la oportunidad de poder trabajar y aprender el oficio
+ <br>Security_code : ms93d
+ <br>Send : Enviar
+ <br>
+---------------
+

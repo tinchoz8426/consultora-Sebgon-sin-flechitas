@@ -1,0 +1,6 @@
+[16-Dec-2013 16:30:34 America/Buenos_Aires] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/sebgon/public_html/lib/init.php on line 21
+[16-Dec-2013 16:30:34 America/Buenos_Aires] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/sebgon/public_html/lib/init.php on line 25
+[16-Dec-2013 16:30:34 America/Buenos_Aires] PHP Warning:  mysql_error() expects parameter 1 to be resource, boolean given in /home/sebgon/public_html/lib/init.php on line 31
+[16-Dec-2013 16:30:34 America/Buenos_Aires] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/sebgon/public_html/clases/clases_novedadesGral.php on line 109
+[16-Dec-2013 16:30:34 America/Buenos_Aires] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/sebgon/public_html/clases/clases_novedadesGral.php on line 109
+[16-Dec-2013 16:30:34 America/Buenos_Aires] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/sebgon/public_html/clases/clases_novedadesGral.php on line 112

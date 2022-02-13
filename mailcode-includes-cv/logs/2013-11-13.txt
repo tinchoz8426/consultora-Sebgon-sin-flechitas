@@ -1,0 +1,102 @@
+Address : 
+Nombre : Carla Belen
+Apellido : Barzola
+Cargo : Secretaria, recepcionista
+Direccion : Manco Capac
+Ciudad : Cordoba
+Telefono : 157600360
+Email : carlabl@outlook.com
+MAX_FILE_SIZE : 2097152
+Mensaje : deseo trabajar, en lo que consideren, para mi es trabajo. gracias
+Security_code : 4mpw2
+Send : Enviar
+
+---------------
+
+Address : 
+Nombre : Carla Belen
+Apellido : Barzola
+Cargo : Secretaria, recepcionista
+Direccion : Manco Capac
+Ciudad : Cordoba
+Telefono : 157600360
+Email : carlabl@outlook.com
+MAX_FILE_SIZE : 2097152
+Mensaje : deseo trabajar, en lo que consideren, para mi es trabajo. gracias
+Security_code : 4mpw2
+Send : Enviar
+
+---------------
+
+Address : 
+Nombre : Brenda
+Apellido : Barrios
+Cargo : administrativa
+Direccion : Florida 407 dto. 2
+Ciudad : Capitán Bermudez
+Telefono : 155042330
+Email : brendab_011@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto aquí mi currriculum vitae para ser tenido en cuenta para el puesto que sea compatible a mis conocimientos y experiencias.
+Desde ya muchas gracias.
+Saluda atentamente.
+BARRIOS BRENDA
+Security_code : JWTMH
+Send : Enviar
+
+---------------
+
+Address : 
+Nombre : javier
+Apellido : gonzalez
+Cargo : publicidad
+Direccion : montes de oca 459
+Ciudad : CABA
+Telefono : 1149796746
+Email : jgcanvas@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenas tardes, les acerco mi CV para posibles busquedas.
+
+Casos de éxito y referencias laborales a disposición.
+Saludos Cordiales
+Security_code : z9fjq
+Send : Enviar
+
+---------------
+
+Address : 
+Nombre : javier
+Apellido : gonzalez
+Cargo : eventos
+Direccion : montes de oca 459
+Ciudad : CABA
+Telefono : 1149796746
+Email : jgcanvas@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenas tardes, les acerco mi CV para posibles busquedas.
+
+Casos de éxito y referencias laborales a disposición.
+Saludos Cordiales,
+
+Security_code : 3pd87
+Send : Enviar
+
+---------------
+
+Address : 
+Nombre : Sofia
+Apellido : Celentano
+Cargo : Administrativo
+Direccion : Verduga 1483
+Ciudad : Buenos Aires
+Telefono : 1121860657
+Email : celentanosofia@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenas tardes, les mando mi curriculum vitae. 
+
+Muchas gracias. 
+Security_code : thfk4
+Send : Enviar
+
+---------------
+

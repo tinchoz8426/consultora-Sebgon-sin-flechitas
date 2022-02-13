@@ -1,0 +1,60 @@
+Address : 186.39.171.148
+Nombre : SILVIA
+Apellido : MORALES
+Cargo : ADMINISTRATIVA
+Direccion : CALLE ALVAREZ CONDARCO MZA F CASA 16
+Ciudad : LAS HERAS
+Telefono : 0261-4480915
+Email : sil6782@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola aquí le envió mi curriculum
+Security_code : rr3rw
+Send : Enviar
+
+---------------
+
+Address : 186.39.171.148
+Nombre : SILVIA
+Apellido : MORALES
+Cargo : ADMINISTRATIVA
+Direccion : CALLE ALVAREZ CONDARCO MZA F CASA 16
+Ciudad : LAS HERAS
+Telefono : 0261-4480915
+Email : sil6782@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola aquí le envió mi curriculum
+Security_code : rr3rw
+Send : Enviar
+
+---------------
+
+Address : 186.39.171.148
+Nombre : SILVIA
+Apellido : MORALES
+Cargo : administratina comercial
+Direccion : CALLE ALVAREZ CONDARCO MZA F CASA 16
+Ciudad : LAS HERAS
+Telefono : 261 4480915
+Email : sil6782@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Aquí le envio mi curriculum.gracias
+Security_code : j5drx
+Send : Enviar
+
+---------------
+
+Address : 190.30.133.80
+Nombre : Betina
+Apellido : Stancanelli
+Cargo : Administrativo
+Direccion : Julio Besada 6043 Martin Coronado
+Ciudad : Buenos Aires
+Telefono : 153 176 2806
+Email : brstancanelli@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Busquedas laborales en zonas aledañas y Capital Federal.
+Security_code : 8czpk
+Send : Enviar
+
+---------------
+

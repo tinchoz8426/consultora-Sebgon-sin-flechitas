@@ -1,0 +1,15 @@
+Address : 186.136.178.176
+Nombre : Dolores
+Apellido : Insua
+Cargo : administrativo
+Direccion : Palpa 2473
+Ciudad : CABA
+Telefono : 1562955513
+Email : loinsua@live.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Estoy en la búsqueda de un puesto administrativo, secretaria, recepcionista, asistente o afines.
+Security_code : sn62y
+Send : Enviar
+
+---------------
+

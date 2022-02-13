@@ -1,0 +1,75 @@
+Address : 200.127.248.17
+Nombre : ANALIA BELKI
+Apellido : CAINELLI
+Cargo : Supervisor - Gerente
+Direccion : Coronel Olmedo 62 PB. Dpto. O
+Ciudad : Córdoba
+Telefono : 0351-152676139
+Email : anacainelli@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimado\a:
+  
+Envío currículum para ser evaluado. En caso de coincidir con el perfil que la empresa necesita, me encuentro a su 
+
+
+
+disposición para coordinar una entrevista personal.
+
+De lo contrario  me registren  es su base de datos para futuras búsquedas que necesite resolver.
+
+Saludos cordiales .-
+                             ANALIA B. CAINELLI
+
+
+Security_code : xpqha
+Send : Enviar
+
+---------------
+
+Address : 186.18.18.190
+Nombre : Federico Nicolas
+Apellido : Gomez
+Cargo : tecnico electronico jr
+Direccion : Santa maria del buen aire 424
+Ciudad : capital federal
+Telefono : 1566773005
+Email : federico.nicolas.gomez@hotmail.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenos dias mi nombre es Federico Gomez aca les dejo mi cv para postularme en algun trabajo que requieran tecnico electronico sin experiencia desde ya muchas gracias. Saludos cordiales
+Security_code : gmtcf
+Send : Enviar
+
+---------------
+
+Address : 186.18.18.190
+Nombre : stephanie
+Apellido : prots gomez
+Cargo : recepcionista/telefonista/asistente
+Direccion : rocha 1615 dto 17 p 
+Ciudad : capital federal
+Telefono : 1566614016
+Email : stephanie.prots@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenos dias, mi nombre es Stephanie Prots Gomez , me postulo para algun trabajo como recepcionista telefonista asistente sin experiencia pero con predisposicion para para diferentes obstaculos que puedan llegar a surgir a lo largo de la nueva experiencia. desde ya muchas gracias 
+saludos cordiales
+Security_code : 5rxh6
+Send : Enviar
+
+---------------
+
+Address : 186.141.192.39
+REF : gerente-de-operaciones
+Nombre : Vanesa
+Apellido : Pedrozo
+Cargo : Atencion al cliente
+Direccion : Bartolome mitre 490
+Ciudad : Moron
+Telefono : 1569998440
+Email : vdblanco@hotmai.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola soy vanesa estoy en busca de trabajo,tengo experiencia en ventas de tarjetas de creditos y atencion al cliente.  
+Security_code : 75swz
+Send : Enviar
+
+---------------
+

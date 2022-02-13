@@ -1,0 +1,35 @@
+Address : 190.188.238.192
+Nombre : Julia
+Apellido : Domínguez Ruppel
+Cargo : Gestión de RRHH
+Direccion : 4 nº853 3c
+Ciudad : La Plata
+Telefono : 0221 155242522
+Email : julia.dominguez@live.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto mi CV para ser tenida en cuenta en las próximas selecciones. 
+Gracias
+Security_code : mgm3w
+Send : Enviar
+
+---------------
+
+Address : 190.195.209.244
+Nombre : laura fernanda
+Apellido : Villamizar
+Cargo : recepción/secretaria/telemarketer
+Direccion : peru 708
+Ciudad : CABA
+Telefono : 541161589353
+Email : laura_villamixar@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola buenas noches, me gustaría hacerles una consulta, soy Colombiana y estoy en busca de trabajo, es posible dejar mi cv en su sucursal o es solo por internet. 
+Muchas gracias
+Espero pronta respuesta.
+
+Laura Villamizar 
+Security_code : 446hs
+Send : Enviar
+
+---------------
+

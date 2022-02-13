@@ -1,0 +1,68 @@
+Address : 181.45.88.30<br>
+ <br>REF : OEL
+ <br>Nombre : kevin
+ <br>Apellido : Cardozo
+ <br>Cargo : Electricista montador
+ <br>Direccion : Combate de los pozos 1571
+ <br>Ciudad : Capital Federal
+ <br>Telefono : 023345-15-423752
+ <br>Email : kevin_alvear@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : me gustaria formar parte de esta empresa donde pueda poner en práctica los conocimientos que tengo, que me ofrezca la oportunidad de superar todas mis metas y que me permita mejorar y crecer en el ámbito laboral, personal e intelectual
+ <br>Security_code : jhwrm
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 200.127.53.224<br>
+ <br>REF : E.DIS
+ <br>Nombre : Marianela
+ <br>Apellido : Scalone
+ <br>Cargo : Diseñador industrial
+ <br>Direccion : Lautaro 1308
+ <br>Ciudad : Capital Federal
+ <br>Telefono : 1541601028
+ <br>Email : marianelascalone@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados/as
+
+Mi nombre es Marianela Scalone, soy estudiante en el ultimo año de la carrera de diseño industrial, en la UBA. Vi su publicación en la búsqueda de un diseñador industrial y estoy interesada
+en formar parte de un equipo de profesionales en el rubro y poder ayudar con mis conocimientos y experiencia.
+Mis conocimientos en programas son, solidworks, rhinoceros, keyshot, illustrator, photoshop y autocad. Todos en conocimiento avanzado.
+Tengo experiencia en desarrollo de paginas web, branding y merchandising.
+Les adjunto mi curriculum para mas detalles.
+
+Gracias
+ <br>Security_code : v59kh
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.115.120.197<br>
+ <br>REF : JPL
+ <br>Nombre : Héctor Ramón
+ <br>Apellido : Mansilla
+ <br>Cargo : Jefe de Planta
+ <br>Direccion : B° Cerro de la Cruz - Manzana 258 - Casa 7
+ <br>Ciudad : San Luis
+ <br>Telefono : 02664 938688
+ <br>Email : hector_mansilla@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : A quien corresponda:
+Estoy radicado en San Luis, pero no tengo ningún inconveniente en radicarme en cualquier lugar del país.
+Soy oriundo de Bs As y estudié en la UTN de General Pacheco.
+Soy Ingeniero Mecánico y tengo un posgrado en Ingeniería Laboral (Higiene y Seguridad Industrial).
+Mi experiencia laboral me desarrolló en todas las áreas de manufactura.
+
+Saludos cordiales,
+
+Ing. Héctor R. Mansilla
+DNI 13.363.846
+Cel. 0266 4938688
+Skype: hector.mansilla15
+
+ <br>Security_code : gpvs9
+ <br>Send : Enviar
+ <br>
+---------------
+

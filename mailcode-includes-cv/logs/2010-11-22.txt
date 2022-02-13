@@ -1,0 +1,17 @@
+Address : 186.140.11.194
+Nombre : Laura Andrea
+Apellido : Carvallo
+Cargo : Analista de Seleccion y Desarrollo. Capacitadora
+Direccion : Peru 2867
+Ciudad : San Justo
+Telefono : 15 3315 2419
+Email : carvallolaura@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me gustaria formar parte de su equipo. 
+Podría tener un contacto para enviarles mi cv ?
+Gracias
+Security_code : 932jr
+Send : Enviar
+
+---------------
+

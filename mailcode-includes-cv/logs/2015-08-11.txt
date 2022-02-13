@@ -1,0 +1,267 @@
+Address : 181.103.15.160
+Nombre : Monica Mabel
+Apellido : Cardozo
+Cargo : El que sea necesario
+Direccion : B. Castañares m.35 l.13 gpo.648
+Ciudad : Salta
+Telefono : 155179506
+Email : leandrocja648@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : No tengo pretenciones en el puesto laboral lo que necesito es trabajar urgente
+Security_code : Kjrrt
+Send : Enviar
+
+---------------
+
+Address : 181.103.15.160
+Nombre : Monica Mabel
+Apellido : Cardozo
+Cargo : El que sea necesario
+Direccion : B. Castañares m.35 l.13 gpo.648
+Ciudad : Salta
+Telefono : 155179506
+Email : leandrocja648@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : No tengo pretenciones en el puesto laboral lo que necesito es trabajar urgente
+Security_code : kjrrt
+Send : Enviar
+
+---------------
+
+Address : 181.103.15.160
+Nombre : Monica Mabel
+Apellido : Cardozo
+Cargo : El que sea necesario
+Direccion : B. Castañares m.35 l.13 gpo.648
+Ciudad : Salta
+Telefono : 155179506
+Email : leandrocja648@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : No tengo pretenciones en el puesto laboral lo que necesito es trabajar urgente
+Security_code : 3dsm5
+Send : Enviar
+
+---------------
+
+Address : 188.143.232.35
+Nombre : Bradley
+Apellido : 9682
+Cargo : WlfwRnFvoByjoHCicN
+Direccion : RMXBQzsgTc
+Ciudad : NY
+Telefono : 43206666805
+Email : djbrucho3@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : DZMXN7 http://www.FyLitCl7Pf7kjQdDUOLQOuaxTXbj5iNG.com
+Security_code : XSs2v
+Send : Enviar
+
+---------------
+
+Address : 186.39.10.42
+Nombre : Luis Eduardo
+Apellido : Piñeyro
+Cargo : Gerente Planta Alimenticia- Lanus
+Direccion : Tucuman 280
+Ciudad : Suipacxha
+Telefono : 02346 533409
+Email : lpineyro@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimado, buenos dias.
+Adjunto CV para puesto de Gerente Planta Alimenticia en Lanus.
+Desde ya muchas gracias.
+Atte- Luis Piñeyro
+Security_code : dp7hv
+Send : Enviar
+
+---------------
+
+Address : 190.188.189.52
+REF : GT PL
+Nombre : Alejandro Daniel
+Apellido : Rio
+Cargo : GT PL
+Direccion : Llavallol 1048
+Ciudad : Lanús
+Telefono : 011-15-6113-5666
+Email : r.daneel.olivaw.ef@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Tengo el agrado de dirigirme a Uds. con motivo de poner a vuestra consideración mi CV, con relación a la oferta laboral de referencia.
+Atte.
+Security_code : 2ffzd
+Send : Enviar
+
+---------------
+
+Address : 186.134.215.173
+REF : GT PL
+Nombre : SILVIO FABIAN
+Apellido : DENIS
+Cargo : GERENTE DE PLANTA (GT PL)
+Direccion : BLANCO ENCALADA 3599
+Ciudad : LANUS ESTE
+Telefono : 15-2303-1562
+Email : sfdenis@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados: En referencia al puesto ofrecido de Gerente de Planta, envío mi cv esperando sea de vuestro interés. A la espera de una respuesta favorable, les envío un cordial saludo.
+Security_code : xscyk
+Send : Enviar
+
+---------------
+
+Address : 186.134.215.173
+REF : JP
+Nombre : SILVIO FABIAN
+Apellido : DENIS
+Cargo : JEFE DE PLANTA (JP)
+Direccion : BLANCO ENCALADA 3599
+Ciudad : LANUS ESTE
+Telefono : 15-2303-1562
+Email : sfdenis@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados: En referencia al puesto de Jefe de Producción, les envío mi cv esperando sea de vuestro interés. A la espera de una respuesta favorable, les envío un cordial saludo.
+Security_code : jpgvk
+Send : Enviar
+
+---------------
+
+Address : 190.179.246.168
+Nombre : Facundo
+Apellido : López López
+Cargo : Medio Ambiente
+Direccion : Gutierrez 837
+Ciudad : Godoy Cruz, Mendoza
+Telefono : 2615087864
+Email : facundolopezlopez@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Mi nombre es Facundo López López.  Le envío mi currículum con la intención de formar parte de su equipo de trabajo.
+Sin otro particular aprovecho la oportunidad para saludarle muy atte. Estoy a su entera disposición para una entrevista cuando usted lo disponga.
+
+Facundo López López
+Security_code : h9x5w
+Send : Enviar
+
+---------------
+
+Address : 186.62.27.222
+Nombre : Jonathan Maximiliano
+Apellido : villalba
+Cargo : Repositor
+Direccion : calle 254
+Ciudad : buenos aires - berazategui
+Telefono : 01132900884
+Email : villalbajonathan061@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Consisto con 4 años de experiencia en repositor, carga y descarga de mercaderia , vendedor. 
+Security_code : fvc4q
+Send : Enviar
+
+---------------
+
+Address : 186.62.89.117
+REF : ACO
+Nombre : Norely
+Apellido : Luna
+Cargo : asesor comercial
+Direccion : caña de azucar
+Ciudad : venezuela
+Telefono : 00584127551625
+Email : luna_norely@hotmail.fr
+MAX_FILE_SIZE : 2097152
+Mensaje : soy una mujer profesional con ganas de desarrollarme fuera del país tengo familiares en argentina.esperando que me tomen en cuenta gracias
+Security_code : s9f7p
+Send : Enviar
+
+---------------
+
+Address : 186.62.89.117
+REF : AFAC
+Nombre : Narahy
+Apellido : Luna Fernandez
+Cargo : Anlista de facturacion
+Direccion : ezpeleta calle nicaragua 432 casa 2
+Ciudad : buenos aires
+Telefono : 1134959884
+Email : narahyluna@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Disponibilidad y con ganas de trabajar y aprender.
+Security_code : hqbfh
+Send : Enviar
+
+---------------
+
+Address : 186.62.89.117
+REF : AFAC
+Nombre : Norely
+Apellido : Luna
+Cargo : analista de facturacion
+Direccion : caña de azucar
+Ciudad : venezuela
+Telefono : 00584127551625
+Email : luna_norely@hotmail.fr
+MAX_FILE_SIZE : 2097152
+Mensaje : Con mucha ganas de expandir mis conocimientos.
+Security_code : mp8fd
+Send : Enviar
+
+---------------
+
+Address : 186.19.176.208
+REF : JP
+Nombre : Federico
+Apellido : Martini
+Cargo : Jefe de Planta
+Direccion : guemes 3457 1b
+Ciudad : CABA
+Telefono : 39802538
+Email : martini_fj@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados,
+
+Adjunto mi experiencia en la industria para vuestra consideración en la actual búsqueda laboral.
+
+Cordiales saludos,
+
+Federico Martini.
+Security_code : 4s5pb
+Send : Enviar
+
+---------------
+
+Address : 186.19.176.208
+REF : JP
+Nombre : Federico
+Apellido : Martini
+Cargo : Jefe de Planta
+Direccion : guemes 3457 1b
+Ciudad : CABA
+Telefono : 39802538
+Email : martini_fj@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados,
+
+Adjunto mi experiencia en la industria para vuestra consideración en la actual búsqueda laboral.
+
+Cordiales saludos,
+
+Federico Martini.
+Security_code : 4s5pb
+Send : Enviar
+
+---------------
+
+Address : 190.175.44.28
+Nombre : Elsa
+Apellido : Gutiérrez
+Cargo : abogada para procuración
+Direccion : Escalada 1015
+Ciudad : Ciudad Autónoma de Buenos Aires
+Telefono : 64859592
+Email : dragutierrezelsa@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Actualmente, estoy tramitando el título, por lo que los servicios que ofrezco son de procuración, seguimiento y preparación de causas.
+Security_code : d6j6k
+Send : Enviar
+
+---------------
+

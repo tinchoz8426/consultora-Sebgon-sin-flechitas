@@ -1,0 +1,161 @@
+Address : 181.239.34.33
+Nombre : gustavo luis
+Apellido : godoy
+Cargo : oficial electricista
+Direccion : calle 60 n 5531
+Ciudad : hudson
+Telefono : 1131311970
+Email : ggtavo2000@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : amplia experiencia en el rubro
+Security_code : mqz93
+Send : Enviar
+
+---------------
+
+Address : 181.26.202.244
+REF : JP
+Nombre : Rodolfo
+Apellido : Rívola
+Cargo : Jefe de Personal
+Direccion : Iguazú 430
+Ciudad : Avellaneda
+Telefono : 15 3006 0559
+Email : rodolforivola@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Sres. de SEBGON, les remito mi CV a fin de postularme a la posición de Jefe de Personal para Empresa Alimenticia. 
+
+Atte. Rívola Rodolfo
+
+Security_code : jdmwh
+Send : Enviar
+
+---------------
+
+Address : 66.102.8.154
+REF : SuP
+Nombre : Leandro Ezequiel
+Apellido : Rohr
+Cargo : Operario o Supervisor de produccion
+Direccion : El Rancho 3902
+Ciudad : Ituzaingo
+Telefono : 15-30570031
+Email : leanrohr1985@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Queria postularme para algun puesto vacante, tengo 11 años de experiencia en la industria farmaceutica.
+Security_code : Kw8j5
+Send : Enviar
+
+---------------
+
+Address : 66.102.8.154
+REF : SuP
+Nombre : Leandro Ezequiel
+Apellido : Rohr
+Cargo : Operario o Supervisor de produccion
+Direccion : El Rancho 3902
+Ciudad : Ituzaingo
+Telefono : 15-30570031
+Email : leanrohr1985@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Queria postularme para algun puesto vacante, tengo 11 años de experiencia en la industria farmaceutica.
+Security_code : K4bq9
+Send : Enviar
+
+---------------
+
+Address : 66.102.8.160
+REF : SuP
+Nombre : Leandro Ezequiel
+Apellido : Rohr
+Cargo : Operario o Supervisor de produccion
+Direccion : El Rancho 3902
+Ciudad : Ituzaingo
+Telefono : 15-30570031
+Email : leanrohr1985@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Queria postularme para algun puesto vacante, tengo 11 años de experiencia en la industria farmaceutica.
+Security_code : nwcrf
+Send : Enviar
+
+---------------
+
+Address : 201.180.118.154
+Nombre : Leandro Ezequiel
+Apellido : Rohr
+Cargo : Operario o Supervisor de produccion
+Direccion : El Rancho 3902
+Ciudad : Ituzaingo
+Telefono : 15-30570031 / 15-30567408
+Email : leanrohr1985@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Tengo 11 años de experiencia en la industria farmaceutica. Actualmente estoy trabajando en un laboratorio tercerista.
+Security_code : xtfxw
+Send : Enviar
+
+---------------
+
+Address : 201.180.118.154
+Nombre : Leandro Ezequiel
+Apellido : Rohr
+Cargo : Operario o Supervisor de produccion
+Direccion : El Rancho 3902
+Ciudad : Ituzaingo
+Telefono : 15-30570031 / 15-30567408
+Email : leanrohr1985@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Tengo 11 años de experiencia en la industria farmaceutica. Actualmente estoy trabajando en un laboratorio tercerista.
+Security_code : xtfxw
+Send : Enviar
+
+---------------
+
+Address : 201.180.118.154
+Nombre : Leandro Ezequiel
+Apellido : Rohr
+Cargo : Operario o Supervisor de produccion
+Direccion : El Rancho 3902
+Ciudad : Ituzaingo
+Telefono : 15-30570031 / 15-30567408
+Email : leanrohr1985@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Tengo 11 años de experiencia en la industria farmaceutica. Actualmente estoy trabajando en un laboratorio tercerista.
+Security_code : t4f95
+Send : Enviar
+
+---------------
+
+Address : 201.180.118.154
+REF : SuP
+Nombre : Leandro Ezequiel
+Apellido : Rohr
+Cargo : Operario o Supervisor de produccion
+Direccion : El Rancho 3902
+Ciudad : Ituzaingo
+Telefono : 15-30570031 / 15-30567408
+Email : leanrohr1985@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Fui supervisor del area de Liquidos y Acondicionamiento durante cuatro años en laboratorio Phoenix
+Security_code : gkdc7
+Send : Enviar
+
+---------------
+
+Address : 186.137.252.207
+Nombre : Damian Alberto
+Apellido : Ramirez
+Cargo : Chofer - Mecánico - Repartidor - Carga y Descarga de Mercadería - 
+Direccion : French 252
+Ciudad : Longchamps
+Telefono : 1535462726
+Email : damiramirez80@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados,
+Les envío mi CV para que sea parte de su base de datos.
+Desde ya muchas gracias,
+Saludos
+Security_code : dyxw9
+Send : Enviar
+
+---------------
+

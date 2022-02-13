@@ -1,0 +1,15 @@
+Address : 24.232.12.125
+Nombre : Maria Florencia
+Apellido : Mastronicola
+Cargo : asistente diseño indumentaria y textil
+Direccion : Lavoisier 3170
+Ciudad : capital federal villa urquiza
+Telefono : 45712684
+Email : disinduflo@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : soy diseñadora de indumentaria y textil y busco trabaja en el area de produccion, compras, fichas tecnicas, seguimiento de produccion, contacto con clientes.
+Security_code : 834ns
+Send : Enviar
+
+---------------
+

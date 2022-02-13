@@ -1,0 +1,38 @@
+Address : 190.19.119.114
+Nombre : Roberto
+Apellido : Boggiano
+Cargo : Gerente Comercial
+Direccion : Azcuenaga 416
+Ciudad : Vicente Lopez
+Telefono : 541147914064
+Email : boggianoroberto@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : A quien corresponda:
+De mi consideración:
+Me dirijo a Ud. por medio de la presente a fin de participar en eventuales búsquedas que puedan surgir dentro de los departamentos de Ventas y Marketing de su prestigiosa compañía.
+Gracias a mi vasta experiencia laboral en la empresa Neumáticos Goodyear SRL confío en tener el perfil necesario para generar valor en su empresa.
+Soy una persona sumamente entusiasta y proactiva, con visión del negocio y gran capacidad analítica.
+Agradeciendo desde ya su atención y deseando me brinden la posibilidad de concertar una entrevista laboral donde poder ampliar la información que surge en el CV que les adjunt, lo saluda muy atte.,
+
+Roberto Boggiano
+
+Security_code : nqc3t
+Send : Enviar
+
+---------------
+
+Address : 200.115.252.147
+Nombre : Gabriela
+Apellido : Mielgo
+Cargo : Comunicación Y Marketing
+Direccion : Rivadavias 3900
+Ciudad : Capital Federal
+Telefono : 011 15 6214 2881
+Email : gabrielamielgo25@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Soy estudiante avanzado de la carrera Licenciatura en Ciencias de la Comunicación Social (UBA), restándome sólo un final para graduarme. Tengo amplia experiencia en Marketing On line y me interesaría poder desarrollarme en un área que complemente ambas competencias. Adjunto mi CV y aguardo posible entrevista en caso de considerarlo para algún puesto con las características deseadas. Saludos Cordiales.
+Security_code : 4ry3n
+Send : Enviar
+
+---------------
+

@@ -1,0 +1,30 @@
+Address : 201.212.78.31
+Nombre :  Emmanuel Lucio
+Apellido : Alvarez
+Cargo : Seguridad e Higiene y Medio Ambiente
+Direccion : coronel sayos 1338
+Ciudad : lanus oeste
+Telefono : 42623626
+Email : mingo_liniers@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola , les dejo mi cv , estoy estudiando seguridad e higiene en el instituto argentino de seguridad (IAS) , me encuentro cursando el tercer año de la tecnicatura , y  voy a realizar la licenciatura. En este momento me encuentro trabajando en Acindar Grupo ArceloMittal. Tengo muchas ganas de aprender y de ir adquiriendo conocimientos en grandes empresas en temas relacionados con la seguridad e higiene y medio ambiente. Prefiero ser contactado preferentemente via mail.Quedo a su entera disposcion. Desde ya muchas gracias y disculpe las molestias.Emmanuel Alvarez 
+Security_code : 7w824
+Send : Enviar
+
+---------------
+
+Address : 181.48.63.34
+Nombre : OSCAR ARLEY
+Apellido : CANENCIO ACOSTA
+Cargo : INGENIERO INDUSTRIAL
+Direccion : CR 95A 26-38 SUR 
+Ciudad : BOGOTA
+Telefono : 4606004
+Email : oscararley-c22@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : adjunto mi hoja de vida para que se me tenga en cueta en ofertas laborales
+Security_code : jsvmy
+Send : Enviar
+
+---------------
+

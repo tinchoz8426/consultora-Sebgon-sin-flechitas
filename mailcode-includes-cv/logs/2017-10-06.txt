@@ -1,0 +1,92 @@
+Address : 186.143.137.12<br>
+ <br>REF : JPER-1
+ <br>Nombre : antonio
+ <br>Apellido : balzano
+ <br>Cargo : jper-1
+ <br>Direccion : general piran 338
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 1167610045
+ <br>Email : antoniobalzano@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me encuentro en la busqueda laboral . Soy profesional desempenie actividades de coordinacion y trabajo en equipo Supervicion y tareas varias. Idioma y muy huena presencia y trato . 
+ <br>Security_code : 89bq9
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.136.80.194<br>
+ <br>REF : ROT-1
+ <br>Nombre : Guido
+ <br>Apellido : Forte
+ <br>Cargo : Diseñador Industrial
+ <br>Direccion : Castro Barros 2827
+ <br>Ciudad : Martinez
+ <br>Telefono : 5491558791557
+ <br>Email : guidoforte@outlook.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : En respuesta a la búsqueda laboral referida a diseñadores industriales, les hago llegar mis deseos de ser considerado en el proceso de selección para el puesto en cuestión. Adjunto mi curriculum vitae en formato PDF y quedo a su disposición. Un cordial saludo.
+ <br>Security_code : p2vhc
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 200.10.161.5<br>
+ <br>REF : chr
+ <br>Nombre : Gaston 
+ <br>Apellido : Ruiz
+ <br>Cargo : chofer de camion de reparto
+ <br>Direccion : Scalabrini Ortiz 1288
+ <br>Ciudad : Merlo
+ <br>Telefono : 1551635573
+ <br>Email : gastonchapy@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados,
+
+Vista la Oferta Laboral Chofer les hago llegar mis datos personales y profesionales en Currículum Vitae a fin de ser tenido en cuenta como candidato.
+Con la convicción de poseer el perfil requerido para un muy buen desempeño en el cargo a cubrir, quedo a entera disposición para hacerle llegar, sea en una entrevista personal o por el medio que se me indique, las ampliaciones y/o la documentación probatoria correspondiente.
+
+Esperando una respuesta positiva lo saluda atentamente,
+
+    Claudio Gaston Ruiz
+
+ <br>Security_code : kk5yc
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.105.109.59<br>
+ <br>REF : chr
+ <br>Nombre : Cristian David
+ <br>Apellido : Calaidis
+ <br>Cargo : chofer
+ <br>Direccion : Las Gardenias 
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 1121220855
+ <br>Email : vmazza@its.jnj.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Necesito trabajar por favor tenerme en cuenta para una entrevista personal
+ <br>Security_code : krx6p
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.47.229.188<br>
+ <br>REF : ROT-1
+ <br>Nombre : Nataly
+ <br>Apellido : Maldonado Salerno
+ <br>Cargo : RESPONSABLE DE OFICINA TECNICA 
+ <br>Direccion : Gorriti 3954
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 1125514527
+ <br>Email : salernonataly@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Soy residente de Argentina,DNI 95.712.627, DIBUJANTE CADISTA, emigrada de Venezuela y en búsqueda de oportunidades de trabajo.
+Tengo 10+ años de experiencia utilizando el software Auto-CAD, 3D Max Studio.
+Soy responsable, con actitud positiva, habilidades para la organización, creativa, capacidad para trabajar bajo presión y en equipo.
+
+
+ <br>Security_code : cf696
+ <br>Send : Enviar
+ <br>
+---------------
+

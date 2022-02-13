@@ -1,0 +1,357 @@
+Address : 201.179.131.58<br>
+ <br>Nombre : Gustavo Alejandro
+ <br>Apellido : Cordoba
+ <br>Cargo : Atencion al cliente / operario de deposito
+ <br>Direccion : Gral. Urquiza 2241 Parque Patricios
+ <br>Ciudad : Capital Federal
+ <br>Telefono : 1524983176
+ <br>Email : gustavo.cordoba07@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estoy dispuesto a adaptarme a cualquier tipo de empleo. Quiero ser independiente y poder crecer. Quiero poder independizarme y salir adelante de manera correcta.
+ <br>Security_code : bjngr
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 200.31.249.63<br>
+ <br>Nombre : Joaquín Nicolas
+ <br>Apellido : Grandiccelli
+ <br>Cargo : Ventas, Administración, Recursos Humanos
+ <br>Direccion : Olavarría esq Colon
+ <br>Ciudad : Mar del Plata
+ <br>Telefono : 2257547233
+ <br>Email : joaco_nano@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : .
+ <br>Security_code : 2wwvb
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.103.182.96<br>
+ <br>REF : OEL
+ <br>Nombre : mariano
+ <br>Apellido : maldovan
+ <br>Cargo : tecnico electricista
+ <br>Direccion : calle 634a 3378
+ <br>Ciudad : berazategui
+ <br>Telefono : 1130796426.... 02229.490395
+ <br>Email : mmaldovan@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me quiero postular al puesto de Electricista
+
+ <br>Security_code : y5295
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.30.26.164<br>
+ <br>REF : OEL
+ <br>Nombre : marcos antonio
+ <br>Apellido : valiente gonzales
+ <br>Cargo : Electricista
+ <br>Direccion : capdevilla 2723
+ <br>Ciudad : CAPITAL FEDERAL
+ <br>Telefono : 20064674
+ <br>Email : marcosantoniovalientegonzales@outlook.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Profesional técnico desea incorporarse a su grupo de trabajo cuento con experiencia en el área de electricidad transporte,transformación,distribución y medición de energia
+ <br>Security_code : 89Kd4
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.30.26.164<br>
+ <br>REF : OEL
+ <br>Nombre : marcos antonio
+ <br>Apellido : valiente gonzales
+ <br>Cargo : Electricista
+ <br>Direccion : capdevilla 2723
+ <br>Ciudad : CAPITAL FEDERAL
+ <br>Telefono : 20064674
+ <br>Email : marcosantoniovalientegonzales@outlook.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Profesional técnico desea incorporarse a su grupo de trabajo cuento con experiencia en el área de electricidad transporte,transformación,distribución y medición de energia
+ <br>Security_code : yyb63
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 196.32.95.227<br>
+ <br>Nombre : CRISTIAN MAXIMILIANO
+ <br>Apellido : NOSMOR
+ <br>Cargo : SOLDADOR OFICIAL O SUPERVISOR DE SOLDADURAS
+ <br>Direccion : SARGENTO PONCE 800
+ <br>Ciudad : AVELLANEDA
+ <br>Telefono : 11 68876922  42018326
+ <br>Email : CRISTIANNOSMOR@YAHOO.COM
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : HOLA ME GUSTARIA SER PARTE DE SU EMPRESA 
+ <br>Security_code : 5b8m4
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 191.80.183.230<br>
+ <br>REF : OEL
+ <br>Nombre : cristian
+ <br>Apellido : marquez
+ <br>Cargo : oficial electricista
+ <br>Direccion : españa 66
+ <br>Ciudad : ciudad evita,la matanza
+ <br>Telefono : 4487 2013
+ <br>Email : crisrojo79@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : HOLA ,DISPONBLE FULL TIME Y REMUNERACION NI MAS NI MENOS DE LO QUE CORRESPONDA
+ <br>Security_code : YY7ZV
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 179.41.206.177<br>
+ <br>REF : OEL
+ <br>Nombre : raul
+ <br>Apellido : cardoso
+ <br>Cargo : oficial electricista
+ <br>Direccion : soldado soasa 2615
+ <br>Ciudad : rafael castillo
+ <br>Telefono : 1137439259
+ <br>Email : cardosoraul810@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : hola me postulo al puesto de oficial eletricista desde ya mi saludos
+ <br>Security_code : 9hbsg
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 191.80.178.56<br>
+ <br>Nombre : walter david
+ <br>Apellido : varela
+ <br>Cargo : cañista soldador
+ <br>Direccion : la santamaria
+ <br>Ciudad : buenos aires
+ <br>Telefono : 1146937011
+ <br>Email : david_22_80@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : me encuentro desocupado 
+ <br>Security_code : n98p9
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.18<br>
+ <br>Nombre : Hugo roberto gorosito
+ <br>Apellido : Gorosito
+ <br>Cargo : Soldador calificado
+ <br>Direccion : Noches 1461 llavallol
+ <br>Ciudad : Buenos Aires Lomas  de zamora
+ <br>Telefono : 20569240
+ <br>Email : hugo.g_tatoo@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola soy soldador calificado estoy en la búsqueda de empleo ya q hace más sed os meces q estoy sin empleo me decempeño muy bien tenga las calificaciones se el manejo de varias máquinas grasias 
+ <br>Security_code : hcf6j
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 191.80.178.56<br>
+ <br>Nombre : walter david
+ <br>Apellido : varela
+ <br>Cargo : cañista soldador
+ <br>Direccion : la santamaria
+ <br>Ciudad : buenos aires
+ <br>Telefono : 1146937011
+ <br>Email : david_22_80@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : me encuentro desocupado
+ <br>Security_code : n2frz
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 191.80.178.56<br>
+ <br>Nombre : walter david
+ <br>Apellido : varela
+ <br>Cargo : cañista soldador
+ <br>Direccion : la santamaria
+ <br>Ciudad : buenos aires
+ <br>Telefono : 1146937011
+ <br>Email : david_22_80@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : me encuentro desocupado
+ <br>Security_code : 9sfgs
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.28<br>
+ <br>Nombre : Hugo roberto gorosito
+ <br>Apellido : Gorosito
+ <br>Cargo : Soldador calificado
+ <br>Direccion : Noches 1461 llavallol
+ <br>Ciudad : Buenos Aires Lomas  de zamora
+ <br>Telefono : 20569240
+ <br>Email : hugo.g_tatoo@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola soy soldador calificado estoy en búsqueda de empleo ya q hace más de dos meces q estoy decempleado se el manejo de varias máquinas me decempeño muy bien y muy responsable de mi trabajo 
+ <br>Security_code : Jth6f
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 191.80.178.56<br>
+ <br>Nombre : walter david
+ <br>Apellido : varela
+ <br>Cargo : cañista soldador
+ <br>Direccion : la santamaria 611
+ <br>Ciudad : buenos aires
+ <br>Telefono : 46937011
+ <br>Email : david_22_80@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : establecer una relacion laboral me encuentro desocupado
+ <br>Security_code : 5s8dj
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.177.200.66<br>
+ <br>REF : OEL
+ <br>Nombre : luis alberto
+ <br>Apellido : diaz
+ <br>Cargo : oficial electricista
+ <br>Direccion : abramo  26
+ <br>Ciudad : libertad
+ <br>Telefono : 02204976721
+ <br>Email : luisdiaz2008@live,com,ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : cargo oficial electricista mucha experienciaa en el rubro instalaciones reparaciones cañerias caleado tableros incendio detectores de gas humo termicos de agua 
+ <br>Security_code : hf79x
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.188.202.192<br>
+ <br>Nombre : Carolina Fabiana
+ <br>Apellido : Berti
+ <br>Cargo : RRHH
+ <br>Direccion : Vte. Casares 670
+ <br>Ciudad : Ramos Mejia
+ <br>Telefono : 46584861
+ <br>Email : berticarolina@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas tardes
+Adjunto el CV, cualquier consulta 1569527621
+ <br>Security_code : z3scb
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 200.49.206.193<br>
+ <br>Nombre : Marcos Antonio
+ <br>Apellido : Gauna
+ <br>Cargo : Soldador
+ <br>Direccion : Boneo 2460
+ <br>Ciudad : Pilar
+ <br>Telefono : 011-15-22850119
+ <br>Email : marcosg892010@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Le envío mi cv,me postulo para el puesto de soldador.
+ <br>Security_code : jqvnc
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 200.49.206.193<br>
+ <br>Nombre : Marcos Antonio
+ <br>Apellido : Gauna
+ <br>Cargo : Soldador
+ <br>Direccion : Boneo 2460
+ <br>Ciudad : Pilar
+ <br>Telefono : 011-15-22850119
+ <br>Email : marcosg892010@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Le envío mi cv,me postulo para el puesto de soldador.
+ <br>Security_code : jqvnc
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.18<br>
+ <br>REF : OEL
+ <br>Nombre : Eduardo
+ <br>Apellido : Bordon
+ <br>Cargo : Oficial electricista
+ <br>Direccion : Remedios de Escalada de San Martin 1055
+ <br>Ciudad : Claypole
+ <br>Telefono : 42191240
+ <br>Email : edugus71@live.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Poseo amplios conocimientos para el cargo de oficial electricist
+ <br>Security_code : qds7c
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.28<br>
+ <br>REF : OEL
+ <br>Nombre : Javier
+ <br>Apellido : Orellana
+ <br>Cargo : Oficial electricista
+ <br>Direccion : Alto laguirre 880
+ <br>Ciudad : Aldo bonzi
+ <br>Telefono : 44627314
+ <br>Email : hjorellana805@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola mi nombre es Javier soi electricista montador e instalador tengo el certificado todo para ser matriculado. Tengo conocimiento monofasico tanto en normas como en práctica soi completo, te hago montaje el cableado y la conexión completo.Y en trifasica  se arranque directo con marcha y paro ojos buey  de señalización te pongo para que indique cuando este andando la bobina del contactor y a fin de año me recibí de electricista industrial y se bastante si me necesitan avisenme un abrazo o.
+ <br>Security_code : 99428
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.23<br>
+ <br>REF : OEL
+ <br>Nombre : Javier
+ <br>Apellido : Orellana
+ <br>Cargo : Oficial electricista
+ <br>Direccion : Alto laguirre 880
+ <br>Ciudad : Aldo bonzi
+ <br>Telefono : 44627314
+ <br>Email : hjorellana805@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola mi nombre es Javier soi electricista montador e instalador tengo el certificado todo para ser matriculado. Tengo conocimiento monofasico tanto en normas como en práctica soi completo, te hago montaje el cableado y la conexión completo.Y en trifasica  se arranque directo con marcha y paro ojos buey  de señalización te pongo para que indique cuando este andando la bobina del contactor y a fin de año me recibí de electricista industrial y se bastante si me necesitan avisenme un abrazo o.
+ <br>Security_code : 99428
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.30.73.244<br>
+ <br>Nombre : cristian gonzalo
+ <br>Apellido : gracias ciapponi
+ <br>Cargo : call center
+ <br>Direccion : enrique tornu 2221
+ <br>Ciudad : cordoba
+ <br>Telefono : 0351152503232
+ <br>Email : cristiangonzalo758@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : estimado/a: 
+           aca les dejo mi curriculum
+ <br>Security_code : mvw8z
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.23.55.142<br>
+ <br>Nombre : Ariel Hernan 
+ <br>Apellido : Fredes
+ <br>Cargo : Junior
+ <br>Direccion : Aeronautica Argentina 1326
+ <br>Ciudad : Moreno
+ <br>Telefono : 156246-1510
+ <br>Email : arielfredes33@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Soy un estudiante pronto a recibirse con ganas de trabajar, soy capaz y me gustan los desafíos.
+ <br>Security_code : vnymk
+ <br>Send : Enviar
+ <br>
+---------------
+

@@ -1,0 +1,154 @@
+Address : 190.174.177.39
+Nombre : Carolina
+Apellido : Torres Aaanda
+Cargo : administrativa, secretaria, recepcionista
+Direccion : Merlo 1210
+Ciudad : La tablada
+Telefono : 44538482
+Email : carolinatorresaranda@hotmail.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Buena comunicacion interpersonal
+Security_code : 7chjq
+Send : Enviar
+
+---------------
+
+Address : 190.230.70.133
+Nombre : Diego
+Apellido : Callozzo
+Cargo : tecnico informatica
+Direccion : colon 1625
+Ciudad : san martin
+Telefono : 1532021198
+Email : diegogaston78@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Busco empleo
+Security_code : n48b8
+Send : Enviar
+
+---------------
+
+Address : 190.246.178.86
+Nombre : Rocío
+Apellido : Veccia
+Cargo : Hoteleria-turismo
+Direccion : Hoteleria-turismo y gastronomia
+Ciudad : Mar Del Plata
+Telefono : 2914064063
+Email : roo.mv@live.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Soy de Bahía Blanca, busco trabajo de temporada o tiempo indefinido en la costa.
+Security_code : kph3t
+Send : Enviar
+
+---------------
+
+Address : 186.59.62.37
+Nombre : carlos 
+Apellido : Tonelli
+Cargo : puestos varios
+Direccion :  B LOS BARRANCOS B18
+Ciudad : GODOY CRUZ MENDOZA
+Telefono : 02615526162
+Email : carlosatonelli@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : soy de mendoza saque la direccion de la pagina del ministerio de trabajo,si tienen vacantes de trabajo en mendoza dejo mi curriculum,gracias
+Security_code : vcw83
+Send : Enviar
+
+---------------
+
+Address : 186.59.62.37
+Nombre : carlos 
+Apellido : Tonelli
+Cargo : puestos varios
+Direccion :  B LOS BARRANCOS B18
+Ciudad : GODOY CRUZ MENDOZA
+Telefono : 02615526162
+Email : carlosatonelli@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : soy de mendoza saque la direccion de la pagina del ministerio de trabajo,si tienen vacantes de trabajo en mendoza dejo mi curriculum,gracias
+Security_code : vcw83
+Send : Enviar
+
+---------------
+
+Address : 186.59.62.37
+Nombre : carlos 
+Apellido : Tonelli
+Cargo : puestos varios
+Direccion :  B LOS BARRANCOS B18
+Ciudad : GODOY CRUZ MENDOZA
+Telefono : 02615526162
+Email : carlosatonelli@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : soy de mendoza saque la direccion de la pagina del ministerio de trabajo,si tienen vacantes de trabajo en mendoza dejo mi curriculum,gracias
+Security_code : 29kbk
+Send : Enviar
+
+---------------
+
+Address : 186.39.155.251
+Nombre : juan carlos
+Apellido : finsterbuch
+Cargo : tecnico
+Direccion : calle s/n
+Ciudad : godoy cruz 
+Telefono : 2616442425
+Email : jcdingo33@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : envio cv
+Security_code : 6pwmd
+Send : Enviar
+
+---------------
+
+Address : 190.57.230.200
+Nombre : German Dario
+Apellido : Taparello Muredda
+Cargo : Comercial Agronomo o Encargado agricola
+Direccion : Richieri 1145
+Ciudad : Gessler
+Telefono : 0340415514429
+Email : gtaparello@arcanetsa.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Sres . a quien corresponda : 
+                 Les envio mi Cv para que lo tengan en su base de datos por si existe alguna busqueda acorde a mi perfil.
+Gracias y Saludos.
+Agronomo German Taparello
+Security_code : qst4h
+Send : Enviar
+
+---------------
+
+Address : 190.136.241.172
+Nombre : Laura Romina
+Apellido : Garay
+Cargo : Secretaria
+Direccion : Cap. Pedro Giachino 524
+Ciudad : Malvinas Argentinas
+Telefono : 3515999422
+Email : garay_romi@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Un gusto contar con ustedes en esta búsqueda de trabajo que para mi es muy importante. Desde ya muchas gracias.
+Security_code : n2dzt
+Send : Enviar
+
+---------------
+
+Address : 190.136.241.172
+REF : TELE
+Nombre : Laura Romina
+Apellido : Garay
+Cargo : Telemarketing
+Direccion : Cap. Pedro Giachino 524
+Ciudad : Malvinas Argentinas
+Telefono : 3515999422
+Email : garay_romi@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Me interesa ser parte de su equipo de trabajo. Desde ya muchas gracias.
+Security_code : qgfx2
+Send : Enviar
+
+---------------
+

@@ -1,0 +1,71 @@
+Address : 186.60.142.249
+REF : GT PL
+Nombre : ALVARO
+Apellido : DOMINGUEZ
+Cargo : GERENTE DE PLANTA
+Direccion : CARLOS CALVO 1600
+Ciudad : BUENOS AIRES
+Telefono : 011 15 6646 7144
+Email : AEDOMIN@YAHOO.COM.AR
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto CV actualizado en referencia a la búsqueda de Gerente de Planta.
+Atte.
+Alvaro Dominguez
+Security_code : gmbqp
+Send : Enviar
+
+---------------
+
+Address : 181.91.124.240
+Nombre : Comesaña
+Apellido : Jorge
+Cargo : Gerente De Planta En Buenos Aires-GBA
+Direccion : El Ñandú 3173
+Ciudad : CABA
+Telefono : 011 61846263
+Email : comesanj@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados,
+Como podrán ver en mi CV , soy un profesional con amplia trayectoria en posiciones de altos mandos en calidad y Dirección de Planta. Espero encuentren mis competencias y experiencia de su interés y estoy seguro que cumplo con los requisitos del puesto ofrecido.
+Actualmente estoy trabajando e Córdoba, pero es de mi interés volver a trabajar m´s cerca de mi domicilio en Buenos Aires, aún cuando no sea en el GBA.
+Estoy siempre dispuesto a asumir nuevos desafíos y experiencias profesionales, por lo que las cuestiones de remuneración las entiendo como negociables. A nivel de ejemplo, les comento que en este momento tengo una remuneración neta de 39000 pesos+ gastos de alquiler de vivienda, bonus por performance  y Osde 310 a cargo de la empresa. Espero obtener condicines cercanas o superadoras, aunque como mencione más arriba, es un tema negociable.
+Muchas gracias por adelantado por el tiempo dedicado a considerar mi postulación. 
+Quedo a su disposición y a la espera de sus novedades
+
+Jorge Comesaña
+
+Security_code : sz4gz
+Send : Enviar
+
+---------------
+
+Address : 176.10.104.234
+Nombre : sally
+Apellido : 973014
+Cargo : ijbAlIihbzmvvciZrBO
+Direccion : HRjGsArycvaVjeyEOp
+Ciudad : NY
+Telefono : 41376928429
+Email : barny182@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : 9QeNm5 http://www.FyLitCl7Pf7kjQdDUOLQOuaxTXbj5iNG.com
+Security_code : YeOiG
+Send : Enviar
+
+---------------
+
+Address : 201.176.50.226
+Nombre : Luis Santiago
+Apellido : Torres
+Cargo : Operario de depósito y Expedición
+Direccion : Bogado 1293
+Ciudad : Rafael Castillo
+Telefono : (15)33923694
+Email : luchin-rc@hotmail.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola,les dejo mi CV. Muchas gracias.
+Security_code : 5fy3h
+Send : Enviar
+
+---------------
+

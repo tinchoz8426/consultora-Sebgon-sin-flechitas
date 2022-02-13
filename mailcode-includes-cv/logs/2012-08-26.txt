@@ -1,0 +1,33 @@
+Address : 201.212.241.233
+Nombre : Ignacio
+Apellido : Nestico
+Cargo : Selector, Oficina de Personal
+Direccion : Guemes 125
+Ciudad : Avellaneda
+Telefono : 53548397
+Email : ignacionestico@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenos días, favor de tener en cuenta mi CV.
+Muchas Gracias.
+
+Security_code : 7zbdq
+Send : Enviar
+
+---------------
+
+Address : 190.2.121.119
+REF : administrativa-compras
+Nombre : SILVIA MONICA
+Apellido : MORALES DEL VALLE
+Cargo : ADMINISTRATIVO
+Direccion : México 1848 - Piso 1° - Dpto. 4 -
+Ciudad : CABA
+Telefono : 038-154882861
+Email : unasisi@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Agradecería la oportunidad laboral para mi crecimiento intelectual y personal
+Security_code : 88w3c
+Send : Enviar
+
+---------------
+

@@ -1,0 +1,52 @@
+Address : 186.19.38.175
+Nombre : Julieta
+Apellido : Scarabotti
+Cargo : Tecnica Quimica
+Direccion : Salta 1430, Monte Grande
+Ciudad : Buenos Aires
+Telefono : 4296 9036
+Email : julieta_scarabotti@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buen dia, envio mi CV interesada por la oferta laboral en Computrabajo para Tecnica Quimica en el parque industrial de Burzaco. Estoy recibida de Lic. en Alimentos, cuento con experiencia en laboratorio. Resido cerca de la zona de trabajo y dispongo de movilidad propia.
+Desde ya muchas gracias.
+Atte.
+Security_code : yfmbp
+Send : Enviar
+
+---------------
+
+Address : 186.19.38.175
+REF : TEQ
+Nombre : Julieta
+Apellido : Scarabotti
+Cargo : Tecnica Quimica
+Direccion : Salta 1430, Monte Grande
+Ciudad : Buenos Aires
+Telefono : 4296 9036
+Email : julieta_scarabotti@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buen dia, envio mi CV ya que me encuentro interesada en la oferta laboral la cual contacte por Computrabajo. Me recibi de Lic. en Alimentos y cuento con experiencia en laboratorio. Resido cerca de la zona de trabajo y dispongo de movilidad propia.
+Desde ya muchas gracias.
+Atte.
+Security_code : nwys6
+Send : Enviar
+
+---------------
+
+Address : 190.189.58.204
+Nombre : PABLO CESAR
+Apellido : BALBIN MARTINEZ
+Cargo : DIBUJANTE PROYECTISTA
+Direccion : SAN PEDRITO 1387
+Ciudad : CAPITAL FEDERAL
+Telefono : (011) 4611-1134 (011)1565566030
+Email : PABLO.B.88@HOTMAIL.COM
+MAX_FILE_SIZE : 2097152
+Mensaje : Mi experiencia profesional hasta la fecha, demuestra mi capacidad para trabajar tanto solo como en equipo, tomar decisiones y aceptar responsabilidades. Me considero una persona dinámica, trabajadora y con gran voluntad para aprender, por eso creo que podría formar parte del equipo de trabajo.
+Esperando recibir noticias suyas, a fin de concertar una entrevista personal, reciba un cordial saludo
+
+Security_code : wh9cz
+Send : Enviar
+
+---------------
+

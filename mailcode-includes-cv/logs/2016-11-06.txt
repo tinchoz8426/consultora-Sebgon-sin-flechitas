@@ -1,0 +1,164 @@
+Address : 190.220.224.208<br>
+ <br>REF : EP-1
+ <br>Nombre : Paulo Omar
+ <br>Apellido : Besglibiak
+ <br>Cargo : encargado de produccion
+ <br>Direccion : calle 556 casa 2322
+ <br>Ciudad : Comodoro Rivadavia
+ <br>Telefono : 2974376983
+ <br>Email : drobes2_872@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : tengo lugar para residir en Partido de Berazategui igual.Estudio de Gastronomía en IGA,Tambien titulo Técnico quimico.Libreta sanitaria habilitada en Comodoro Rivadavia.
+
+ <br>Security_code : 487jw
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.220.224.208<br>
+ <br>REF : EP-1
+ <br>Nombre : Paulo Omar
+ <br>Apellido : Besglibiak
+ <br>Cargo : Encargado de produccion
+ <br>Direccion : calle 556 casa 2322
+ <br>Ciudad : Comodoro Rivadavia
+ <br>Telefono : 2974376983
+ <br>Email : drobes2_872@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : postulacion
+ <br>Security_code : y63tg
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.220.224.208<br>
+ <br>Nombre : Paulo omar
+ <br>Apellido : Besglibiak
+ <br>Cargo : industria y comercio
+ <br>Direccion : calle 556 casa 2322
+ <br>Ciudad : Comodoro Rivadavia
+ <br>Telefono : 2974376983
+ <br>Email : drobes2_872@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : También residencia en Berazategui.
+ <br>Security_code : p53dg
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.220.224.208<br>
+ <br>REF : EP-1
+ <br>Nombre : Paulo Omar
+ <br>Apellido : Besglibiak
+ <br>Cargo : encargado de produccion
+ <br>Direccion : calle 556 casa2322
+ <br>Ciudad : Comodoro rivadavia
+ <br>Telefono : 2974376983
+ <br>Email : drobes2_872@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Residencia también en Berazategui
+ <br>Security_code : dg5dm
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.220.224.208<br>
+ <br>REF : EP-1
+ <br>Nombre : Paulo Omar
+ <br>Apellido : Besglibiak
+ <br>Cargo : encargado de Produccion
+ <br>Direccion : calle 556 casa 2322
+ <br>Ciudad : Comodoro Rivadavia
+ <br>Telefono : 2974376983
+ <br>Email : drobes2_872@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : también con domicilio en Berazategui
+ <br>Security_code : k8d4n
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.22.140.155<br>
+ <br>REF : SP-1
+ <br>Nombre : Marcelo
+ <br>Apellido : Rolob
+ <br>Cargo : Supervisor 
+ <br>Direccion : Luján 4085
+ <br>Ciudad : Villa de mayo
+ <br>Telefono : 1550089978
+ <br>Email : rr70.mr@gmal.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Manejo de sindicato. Sistema camban. Tpm
+ <br>Security_code : Pbj5n
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.9<br>
+ <br>Nombre : Daniel
+ <br>Apellido : Medrano
+ <br>Cargo : Técnico Radiologo 
+ <br>Direccion : Vera 1117 
+ <br>Ciudad : Ciudad Autónoma de Buenos Aires
+ <br>Telefono : 1160054799
+ <br>Email : danielmedrano2255@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Soy Técnico Radiologo, busco empleo en el área de salud. Adjunto cv muchas gracias 
+ <br>Security_code : 6d4vm
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.51.8.154<br>
+ <br>REF : SP-1
+ <br>Nombre : RAMON ANTONIO
+ <br>Apellido : NUÑEZ
+ <br>Cargo : SUPERVISOR DE PRODUCCION 
+ <br>Direccion : 113 Nº 884
+ <br>Ciudad : BERAZATEGUI
+ <br>Telefono : 2974706477
+ <br>Email : n.ramonantonio@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : favor de tener en cuenta 
+full-time 
+disponibilidad inmediata 
+ <br>Security_code : 497qp
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.51.8.154<br>
+ <br>REF : EP-1
+ <br>Nombre : RAMON ANTONIO 
+ <br>Apellido : NUÑEZ
+ <br>Cargo : ENCARGADO DE PRODUCCIÓN
+ <br>Direccion : 113 Nº 884
+ <br>Ciudad : BERAZATEGUI
+ <br>Telefono : 0297154706477
+ <br>Email : n.ramonantonio@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : favor de tener en cuenta 
+full-time 
+disponibilidad inmediata 
+sañudos atte.
+ <br>Security_code : m2pt8
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.47.226.33<br>
+ <br>REF : SP-1
+ <br>Nombre : cesar 
+ <br>Apellido : carbajal pachas
+ <br>Cargo : SUPERVISOR DE PRODUCCION
+ <br>Direccion : JORGE NEWBERY 3316, PISO 2 , DEPARTAMENTO c
+ <br>Ciudad : colegiales
+ <br>Telefono : 1127287201
+ <br>Email : cesar.carpac@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : tengo habilidad para reconocer los atributos sensoriales de los alimentos, determinación de procedimientos operativos para la producción, programación, gestión y control de la producción, control de la aplicación del plan de calidad en la industria alimentaria.
+ <br>Security_code : 8ywjg
+ <br>Send : Enviar
+ <br>
+---------------
+

@@ -1,0 +1,32 @@
+Address : 186.141.201.211<br>
+ <br>Nombre : Juan cruz
+ <br>Apellido : Avendaño
+ <br>Cargo : atencion al cliente,mantenimiento,repocitor etc
+ <br>Direccion : onelli 1389
+ <br>Ciudad : San carlos de Bariloche
+ <br>Telefono : 154302107
+ <br>Email : juancruzbche@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : respeto,responsabilidad,seriedad y dedicacion.dispuesto a aprender y realizar cada tarea a la que me sea asignada, horario full time.
+ <br>Security_code : mhr4p
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.44.137.97<br>
+ <br>REF : JPER-1
+ <br>Nombre : jorge
+ <br>Apellido : saley
+ <br>Cargo : jefe de rrhh
+ <br>Direccion : evita 451 
+ <br>Ciudad : ciudad madero
+ <br>Telefono : 44424434
+ <br>Email : jorgesaley@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Señor selector, solicito tenga a bien aplicar mi CV. a esta busqueda.quedo atento a su comentario.
+atte.
+ <br>Security_code : sbv3h
+ <br>Send : Enviar
+ <br>
+---------------
+

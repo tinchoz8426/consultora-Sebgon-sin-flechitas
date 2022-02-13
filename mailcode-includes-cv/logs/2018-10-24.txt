@@ -1,0 +1,110 @@
+Address : 181.13.68.204<br>
+ <br>Nombre : Gabriela agostina
+ <br>Apellido : Gallo
+ <br>Cargo : Cualquiera que este disponible
+ <br>Direccion : Portugal 3356
+ <br>Ciudad : Victoria
+ <br>Telefono : 1126132594
+ <br>Email : Gabrielagallo731@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Desarrollar con responsabilidad el trabajo que se me asigne
+ <br>Security_code : 98wgk
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 170.51.34.251<br>
+ <br>REF : TEC. EL
+ <br>Nombre : Eduardo hector
+ <br>Apellido : Rayment
+ <br>Cargo : Tecnico electronico / electrico
+ <br>Direccion : Pellegrini 857 general las heras
+ <br>Ciudad : Gral. Las Heras
+ <br>Telefono : 0220155011173
+ <br>Email : Hector.rayment@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buendia quisiera ser parte de la.empresa para mostrar lo que se y podr seguir aprendiendo
+ <br>Security_code : g7vb8
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.7<br>
+ <br>REF : TEC. EL
+ <br>Nombre : Walter oscar
+ <br>Apellido : Zarate
+ <br>Cargo : Tecnico electronico
+ <br>Direccion : Santiago del estero 669
+ <br>Ciudad : Moron
+ <br>Telefono : 1553203339
+ <br>Email : w78ar@yahoo.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenos dias dejo mis datos para la siguiente postulacion
+ <br>Security_code : Y29m3
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.29<br>
+ <br>Nombre : Yanina vanesa
+ <br>Apellido : Chacoma
+ <br>Cargo : Administrativa
+ <br>Direccion : Nelida bosch 581. Cordon forestal
+ <br>Ciudad : Comodoro Rivadavia
+ <br>Telefono : 2974194159
+ <br>Email : yaninavanesa2008@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Excelente predisposición para aprender y trabajar en grupo. 20 años de experiencia en manejo de dinero.
+ <br>Security_code : P7mmv
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.7<br>
+ <br>Nombre : Walter oscar
+ <br>Apellido : Zarate
+ <br>Cargo : Tecnico electromecanico
+ <br>Direccion : Santiago del estero 669
+ <br>Ciudad : Moron
+ <br>Telefono : +541553203339
+ <br>Email : w78ar@yahoo.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Dejo mis datos para postular.Al puesto de mantenimiento.
+Muchas gracias.
+
+ <br>Security_code : gc37x
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.180.99.63<br>
+ <br>Nombre : MARCOS NELSON
+ <br>Apellido : ENTRAMBASAGUAS
+ <br>Cargo : Enfermero laboral
+ <br>Direccion : Pampa 1335
+ <br>Ciudad : San Justo
+ <br>Telefono : 1537554454
+ <br>Email : marcos_nelson@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Enfermero profesional con experiencia en instituciones y en empresas privadas de recolección y de logística. Amplia disponibilidad horaria.
+ <br>Security_code : rzcgd
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.244.99.216<br>
+ <br>REF : TEC. EL
+ <br>Nombre : carlos
+ <br>Apellido : monico
+ <br>Cargo : técnico electrónico especializado
+ <br>Direccion : thorne 
+ <br>Ciudad : ITUZAINGO 
+ <br>Telefono : 01153840857
+ <br>Email : monicocd@gmail.com 
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : técnico electrónico instrumentista y control
+ <br>Security_code : 9687m
+ <br>Send : Enviar
+ <br>
+---------------
+

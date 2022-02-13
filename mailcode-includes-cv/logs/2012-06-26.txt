@@ -1,0 +1,105 @@
+Address : 201.212.18.31
+Nombre : Marisa Florencia 
+Apellido : Quintana
+Cargo : Administrativo
+Direccion : Rios Gallardo 381
+Ciudad : Moron
+Telefono : 46960513
+Email : flor._15@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola: 
+
+Me pasaron este contacto y quisiera saber si existe la posibilidad de incorporarme laboralmente a la empresa. 
+
+Considerando que me encuentro a la búsqueda de un empleo administrativo, le envío para su consideración mi Curriculum Vitae.
+
+A la espera de respuesta favorable, hago propicio para saludarle muy atentamente.
+
+Marisa Florencia
+
+Security_code : q7mxh
+Send : Enviar
+
+---------------
+
+Address : 190.210.18.153
+REF : jefe-de-operaciones
+Nombre : MARIA SOLEDAD
+Apellido : POMA
+Cargo : Analista Contable
+Direccion : Chacabuco 1117  depto A 
+Ciudad : Ramos Mejia
+Telefono : 1534586647
+Email : soledad.poma@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estoy en busca de un nuevo lugar de trabajo, con buen clima, con ganas de trabjar y seguir sumando experiencia laboral
+Security_code : dpjc3
+Send : Enviar
+
+---------------
+
+Address : 190.138.21.57
+Nombre : Alicia Lorena
+Apellido : Perezlindo
+Cargo : Lic. en Trabajo Social
+Direccion : Malaver 5780
+Ciudad : Santa Fe
+Telefono : 0342-4883904
+Email : lorenaperezlindo@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Envío CV con antecedentes y datos personales, laborales y/o profesionales
+Security_code : q45f6
+Send : Enviar
+
+---------------
+
+Address : 181.5.167.51
+Nombre : faustino
+Apellido : estrada paredes
+Cargo : administrativo
+Direccion : rawson 174
+Ciudad : campana
+Telefono : 0348715313050
+Email : faustoest@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : estoy en la busqueda de alguna oferta laboral relacionado a lo administrativo
+Security_code : 3wk4x
+Send : Enviar
+
+---------------
+
+Address : 186.128.25.185
+Nombre : Jorge Alberto
+Apellido : Alaniz
+Cargo : Ayudante
+Direccion : Saveedra 931
+Ciudad : Mendoza
+Telefono : 154707991
+Email : jorgealbertoalaniz@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Necesito trabajo con urgencia
+Security_code : cpjyc
+Send : Enviar
+
+---------------
+
+Address : 24.232.198.194
+Nombre : Florencia
+Apellido : Igartúa
+Cargo : Analista RRHH
+Direccion : Librtador 336 piso 20 A
+Ciudad : Capital Federal
+Telefono : 01157595450
+Email : florencia.igartua83@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados,
+
+Me dirijo a ustedes con el fin de enviarles mi CV para poder participar de las búsquedas en el área de Recursos Humanos.
+
+Muchísimas gracias 
+Florencia 
+Security_code : q72zm
+Send : Enviar
+
+---------------
+

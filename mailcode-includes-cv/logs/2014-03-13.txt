@@ -1,0 +1,98 @@
+Address : 186.127.100.46
+Nombre : Emilse Yemina
+Apellido : Tobares
+Cargo : resepcionista, telefonista, secretaria
+Direccion : french 363 piso 2 dpto 11
+Ciudad : campana
+Telefono : 03489-15622168
+Email : emilsedemartinez@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : urgente
+Security_code : br4w8
+Send : Enviar
+
+---------------
+
+Address : 181.30.2.204
+Nombre : daniel
+Apellido : joroszonok
+Cargo : ventas
+Direccion : calle 50 nº 1279
+Ciudad : Miramar
+Telefono : 0229115462717
+Email : danielexeneixe@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : me dirijo a ustedes con el agrado de poder tener alguna oportunidad laboral en el campo que mejor me manejo que es lo relacionado con ventas       desde ya estoy interesado en cualquiera de las posibilidades, saludos atentamente daniel 
+Security_code : v5wgh
+Send : Enviar
+
+---------------
+
+Address : 181.30.2.204
+Nombre : daniel
+Apellido : joroszonok
+Cargo : ventas
+Direccion : calle 50 nº 1279
+Ciudad : Miramar
+Telefono : 0229115462717
+Email : danielexeneixe@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me dirijo a ustedes con el agrado de poder tener alguna oportunidad laboral en el campo que mejor me manejo que es lo relacionado con ventas       desde ya estoy interesado en cualquiera de las posibilidades, saludos atentamente daniel 
+Security_code : qfb2d
+Send : Enviar
+
+---------------
+
+Address : 181.31.201.185
+Nombre : Daniela
+Apellido : Urquiza
+Cargo : Vendedora/ at. al cliente/ recepcion
+Direccion : martin rodriguez 1573, ituzaingo
+Ciudad : buenos aires
+Telefono : 11-68504466
+Email : daniela-urquiza@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Tengo como objetivo desempeñarme en una empresa realizando tareas que contribuyan a mi formación profesional, sumando conocimientos y experiencia afines a mi carrera universitaria. Así mismo, asumiendo el compromiso de aportar mi mayor esfuerzo para una labor eficiente y responsable en los trabajos que me sean asignados. 
+La busqueda laboral que, en el presento, estoy realizando es amplia, ya que, necesito trabajo a corto plazo.
+Security_code : f6g9x
+Send : Enviar
+
+---------------
+
+Address : 181.31.201.185
+Nombre : Daniela
+Apellido : Urquiza
+Cargo : Vendedora/ at. al cliente/ recepcion
+Direccion : martin rodriguez 1573, ituzaingo
+Ciudad : buenos aires
+Telefono : 11-68504466
+Email : daniela-urquiza@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Tengo como objetivo desempeñarme en una empresa realizando tareas que contribuyan a mi formación profesional, sumando conocimientos y experiencia afines a mi carrera universitaria. Así mismo, asumiendo el compromiso de aportar mi mayor esfuerzo para una labor eficiente y responsable en los trabajos que me sean asignados. 
+La busqueda laboral que, en el presento, estoy realizando es amplia, ya que, necesito trabajo a corto plazo.
+Security_code : nyp64
+Send : Enviar
+
+---------------
+
+Address : 181.46.74.136
+Nombre : María José
+Apellido : Nabona Blengio
+Cargo : Lic. en Trabajo Social
+Direccion : Ecuador 654
+Ciudad : CABA
+Telefono : 1158396911
+Email : majo_nb@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenas tardes,
+
+Mi nombre es Ma. José Nabona Blengio, soy trabajadora social, amiga y colega de Daniela Abruzzese. Ayer ella tuvo una entrevista con Andrea y le indicaron que enviara mi CV por este medio.
+Quedo a su entera disposición ante cualquier consulta,
+Saludo atte.
+
+Nabona Blengio, Ma. José
+Security_code : d5jnj
+Send : Enviar
+
+---------------
+

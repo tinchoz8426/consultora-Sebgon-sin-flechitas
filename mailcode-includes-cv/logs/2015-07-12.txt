@@ -1,0 +1,31 @@
+Address : 186.59.38.55
+Nombre : javier
+Apellido : indiveri
+Cargo : camarero
+Direccion : ramirez 2949
+Ciudad : mendoza
+Telefono : 2615467448
+Email : juanindiveri@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : tengo movilidad libbreta sanitaria 
+Security_code : q6pjq
+Send : Enviar
+
+---------------
+
+Address : 190.113.189.204
+Nombre : cristhian marcelo
+Apellido : gallo
+Cargo : vendedor
+Direccion : mza 35 lote 18b campo contreras
+Ciudad : santiago del estero
+Telefono : 385-154860082
+Email : cristhiangallo1984@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : gracias por recibir mi cv, desde ya a su disposicion.-
+saludos!
+Security_code : 77wvx
+Send : Enviar
+
+---------------
+

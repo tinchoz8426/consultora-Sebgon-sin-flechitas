@@ -1,0 +1,85 @@
+Address : 201.255.54.65
+Nombre : Maria Lucrecia
+Apellido : Sarmiento
+Cargo : Psicologa
+Direccion : Riobamba 910
+Ciudad : Merlo
+Telefono : 0111568991030
+Email : sarmientolucrecia@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Mando aqui mi CV para posibles busquedas laborales en torno a mi profesion.
+Security_code : 6vdh2
+Send : Enviar
+
+---------------
+
+Address : 186.61.83.36
+Nombre : Nicolas
+Apellido : Barnetch
+Cargo : Administrativo
+Direccion : San Luis 560 (Alte. Brown)
+Ciudad : Buenos Aires
+Telefono : 42364262
+Email : nico.hdesk@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me dirijo a ustedes con el fin de comunicarles mi interés en varios de los puestos de trabajo. A continuación adjunto mi CV en formato .dot para vuestro análisis acerca de mi experiencia ubicándome en el puesto más adecuado entre los avisos publicados actualmente. Quedo a vuestra disposición para una futura entrevista.
+Desde ya muchas gracias.
+
+Security_code : 5y7s3
+Send : Enviar
+
+---------------
+
+Address : 186.61.83.36
+Nombre : nicolas
+Apellido : barnetch
+Cargo : administrativo
+Direccion : san luis 560 alte. brown
+Ciudad : buenos aires
+Telefono : 42364262
+Email : nico.hdesk@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me dirijo a ustedes con el fin de comunicarles mi interés en varios puestos. A continuación adjunto mi CV en formato .docx para vuestro análisis acerca de mi experiencia ubicándome en el puesto más adecuado entre los avisos publicados actualmente. Quedo a vuestra disposición para una futura entrevista.
+Desde ya muchas gracias.
+
+Security_code : fqsfr
+Send : Enviar
+
+---------------
+
+Address : 190.221.96.84
+Nombre : KARINA
+Apellido : ESQUIVEL
+Cargo : ADMINISTRATIVA - SECRETARIA
+Direccion : Diario La Nacion 2051 - Francisco Alvarez - Moreno
+Ciudad : PROV. BA AS
+Telefono : 155-039-0320
+Email : karu
+MAX_FILE_SIZE : 2097152
+Mensaje : deseo hacer esta presentacion espontanea. busco empleo en zona oeste moreno - fco alvarez o gral. rodriguez.
+
+De acuerdo a mi perfil busco en el sector administrativo - recepcion o segun su evaluacion otros puestos posibles.
+
+agradezco su atencion
+
+karina
+Security_code : mvg4r
+Send : Enviar
+
+---------------
+
+Address : 186.122.45.243
+Nombre : Rodrigo
+Apellido : Karam
+Cargo : indiferente
+Direccion : Epuyen 1315
+Ciudad : Puerto Madryn
+Telefono : 0280154852586
+Email : nextrek_1986@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola me llamo Rodrigo, soy una persona activa, responsable y con ganas de trabajar y progresar en la vida
+Security_code : 42bdn
+Send : Enviar
+
+---------------
+

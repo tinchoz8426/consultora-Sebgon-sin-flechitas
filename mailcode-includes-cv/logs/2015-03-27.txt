@@ -1,0 +1,118 @@
+Address : 190.51.86.247
+Nombre : Mariela
+Apellido : Scaturro
+Cargo : Cajera bancaria y comercial
+Direccion : Medina 291
+Ciudad : Ituzaingo
+Telefono : 44586348
+Email : mariela_scaturro@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Deseo formar parte de una empresa y desempeñarme en el puesto al que me postulo, me concidero una persona capacitada para este puesto, soy eficaz, positiva y con muchas ganas de aprender y trabajar en equipo
+Security_code : q835g
+Send : Enviar
+
+---------------
+
+Address : 190.51.86.247
+Nombre : Mariela
+Apellido : Scaturro
+Cargo : Cajera bancaria y comercial
+Direccion : Medina 291
+Ciudad : Ituzaingo
+Telefono : 44586348
+Email : marieluchidark@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Deseo formar parte de una empresa y desempeñarme en el puesto al que me postulo, me concidero una persona capacitada para este puesto, soy eficaz, positiva y con muchas ganas de aprender y trabajar en equipo
+Security_code : s8jmg
+Send : Enviar
+
+---------------
+
+Address : 181.44.31.115
+Nombre : Natalia Jessica
+Apellido : Ponce
+Cargo : Atencion al cliente, Telemarketing
+Direccion : Rio Juramento 161
+Ciudad : Argentina
+Telefono : 1534050995
+Email : njp.natalia@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Les dejo mi cv, Si usted lo puede tener en cuenta. Muchas Gracias
+Security_code : s9znj
+Send : Enviar
+
+---------------
+
+Address : 190.177.249.60
+Nombre : mauro hernan
+Apellido : taiana
+Cargo : todos
+Direccion : patricias argentinas 564
+Ciudad : merlo
+Telefono : 0111538252775
+Email : mauro_taiana@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : .
+Security_code : jbwwq
+Send : Enviar
+
+---------------
+
+Address : 190.190.73.192
+Nombre : Celina
+Apellido : Madueño
+Cargo : recepcionista- asistente
+Direccion : pedernera
+Ciudad : buenos aires
+Telefono : 1530097912
+Email : celymadu@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : A quien corresponda;
+
+
+Me dirijo a Ud.  con el fin de acercarle mi currículum vitae para poder participar en búsquedas laborales acordes a mi perfil dentro de su empresa.
+
+El año pasado finalicé mis estudios de secretariado ejecutivo en el instituto superior de secretarías ejecutivas (ISSE).
+Me considero proactiva y con capacidad para trabajar en equipo. Tengo experiencia en trabajos como asistente y atención al público.  
+Quedo a su disposición para concretar una reunión, si lo creen conveniente, a fin de conocernos personalmente y ampliar cualquier detalle de mi currículum que considere pertinente.
+
+A la espera de sus noticias, lo saludo cordialmente,
+
+
+Celina Madueño.
+
+Security_code : dtzp6
+Send : Enviar
+
+---------------
+
+Address : 181.44.61.157
+Nombre : CARLOS
+Apellido : Gutierrez
+Cargo : OPERARIO DE PRODUCCION
+Direccion : calle 117 Nº 1173
+Ciudad : berazategui
+Telefono : 1160124501
+Email : gutierrez.z@live.com
+MAX_FILE_SIZE : 2097152
+Mensaje : hola buen dia!! dejo mi cv actualizado.muchas gracias
+Security_code : 46qfn
+Send : Enviar
+
+---------------
+
+Address : 186.62.49.70
+Nombre : Anabella
+Apellido : Suparo
+Cargo : cajera
+Direccion : Dorrego 720
+Ciudad : Quilmes buenos aires
+Telefono : 4224-3412
+Email : AniithaSuparo@hotmail.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : responsable,cumplidora,necesito trabajar espero que me tengan en cuenta 
+Security_code : r7mfy
+Send : Enviar
+
+---------------
+

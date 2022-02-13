@@ -1,0 +1,80 @@
+Address : 190.221.86.33
+Nombre : Maximiliano sebastian
+Apellido : Chávez gomez
+Cargo : Operario, ayudante de cocina, personal de limpieza 
+Direccion : Granada 744
+Ciudad : Hurlingham
+Telefono : 11-3634-6098
+Email : chavezmaximiliano42@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me gustaria formar parte de su empresa ya que ando en busca de un trabajo fijo desde ya muchas gracias 
+Security_code : 455r2
+Send : Enviar
+
+---------------
+
+Address : 181.165.236.12
+Nombre : Ezequiel
+Apellido : Perez
+Cargo : Administrativo
+Direccion : 19 nº 1181
+Ciudad : La Plata
+Telefono : 02215453407
+Email : ezp.bby@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Dejo mi Curriculum para presentarme a cualquier puesto. Saludos Ezequiel
+Security_code : 48hmk
+Send : Enviar
+
+---------------
+
+Address : 190.244.7.31
+Nombre : Augusto 
+Apellido : Cereseto
+Cargo : Administractivo
+Direccion : jujuy 756
+Ciudad : Quilmes oeste
+Telefono : 42518470
+Email : acereseto12@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : A quien corresponda:
+Tengo el agrado de solicitar tengan a bien evaluar la posibilidad de conseguir un empleo en vuestra empresa, para lo que remito el correspondiente Currículum Vitae.
+Sin más aprovecho para saludar muy Atte.
+Augusto Cereseto
+
+
+ CURRICULUM VITAE 
+Datos personales: 
+Nombre y Apellido: Augusto Cereseto 
+Edad: 25 años 
+DNI: 35.402.402 
+Estado civil: Soltero 
+Fecha de nacimiento: 25 de septiembre de 1990 
+Domicilio: Jujuy 756 
+Localidad : Quilmes 
+Provincia: Buenos Aires 
+Código postal: 1882 
+Teléfono: 4251-8470 
+Teléfono alternativo: 11-3150-4796 
+E-mail: acereseto12yahoo.com.ar 
+
+Educación: 
+Título secundario en Secundario Instituto W. Pringle Morgan (promoción 2015) 
+Objetivos: 
+Tengo interés de incorporarme al mundo laboral, a través de una oportunidad 
+de trabajo en vuestra empresa. 
+Experiencia laboral: 
+Colaboración en tareas administrativas de facturación para el 
+Sanatorio Modelo Quilmes S.A. de Andrés Baranda 282, Quilmes Oeste. 
+Programas: 
+Dominio elemental de Microsoft Office 2007. 
+Cursos: 
+Formación laboral 4º ciclo en Instituto W. Pringle Morgan, (años 2014 y 2015) 
+Remuneración pretendida 
+Lo que marca el convenio colectivo de trabajo para vuestra actividad en particular.
+
+Security_code : ndqpq
+Send : Enviar
+
+---------------
+

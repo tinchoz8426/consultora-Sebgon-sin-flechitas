@@ -1,0 +1,32 @@
+Address : 190.193.200.52
+Nombre : gabriela guadalupe
+Apellido : gomez
+Cargo : odontologa
+Direccion : dean funes 1575
+Ciudad : rosario 
+Telefono : 0341 4641980
+Email : gabrielagomez83@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : A quien corresponda: Soy Gabriela Gomez de la ciudad de Rosario. Adjunto mi cv con el fin de ser tenida en cuenta en futuras busquedas de profesionales del area de odontologia en rosario yt alrededores. Tambien cuento con manejo del idioma ingles y pc. Desde ya muchas gracias!
+Saluda atte
+Gabriela Gomez
+Security_code : hd93w
+Send : Enviar
+
+---------------
+
+Address : 190.189.91.41
+Nombre : natalia
+Apellido : termini
+Cargo : seleccion de personal/psicopedagoga
+Direccion : corvalan 1779
+Ciudad : capital federal
+Telefono : 46350604
+Email : natycat_2@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : me interesaria recibir propuestas laborales en educacion, y recursos humanos.
+Security_code : my8j9
+Send : Enviar
+
+---------------
+

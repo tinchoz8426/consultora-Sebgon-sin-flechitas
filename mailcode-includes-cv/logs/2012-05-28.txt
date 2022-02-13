@@ -1,0 +1,128 @@
+Address : 186.136.141.15
+Nombre : MARIA FLORENCIA
+Apellido : DIETA
+Cargo : DISEÑADORA GRÁFICA
+Direccion : MOLDES 1361
+Ciudad : CABA
+Telefono : 1551650209
+Email : MFDIETA@GMAIL.COM
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados Sres.,
+ 
+Adjunto mis datos personales (currículum) para una posible Búsqueda Laboral dentro de la empresa.
+ 
+Podrán encontrar trabajos realizados en el siguiente link = www.mundolima.com
+ 
+Desde ya, les agradezco por leer este e-mail.
+ 
+Los saluda muy atentamente,
+Ma. Florencia Dieta
+Diseñadora Gráfica
+Cel: 1551650209
+
+Security_code : 8myvt
+Send : Enviar
+
+---------------
+
+Address : 190.190.203.242
+REF : administrativa-compras
+Nombre : Andrea
+Apellido : Diaz
+Cargo : Administrativa
+Direccion : Benito Lynch 1473
+Ciudad : Mar del plata
+Telefono : 0223 155320726
+Email : an-1982@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buen dia, 
+Adjunto mi CV a efectos de postularme como administrativa. Vivo en Mar del Plata, pero si la oferta es interesante estoy dispuesta a mudarme.
+Sin mas los saluda muy atentamente
+Andrea Diaz
+Security_code : v84vm
+Send : Enviar
+
+---------------
+
+Address : 190.19.55.74
+REF : jefe-de-operaciones
+Nombre : Lourdes
+Apellido : Benitez
+Cargo : secretaria ejecutiva
+Direccion : Piñero 900
+Ciudad : Bella vista
+Telefono : 1565428704
+Email : lu-15@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenos días mi nombre es Lourdes Benítez me estoy contactando con ustedes a través de este medio debido a que me encuentro interesada en sumarme a su equipo de trabajo.
+
+Envió adjunto mi curriculum vitae y quedo a su total disposición.
+
+Saluda atentamente,
+
+Lourdes Benítez.
+Security_code : hfdpy
+Send : Enviar
+
+---------------
+
+Address : 200.127.235.85
+Nombre : Eleonora Agustina
+Apellido : Urrutia
+Cargo : Administrativa
+Direccion : Azcuenaga 
+Ciudad : Moron
+Telefono : 1536013872
+Email : agustina_u@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenas Tardes :
+Les envio mi cv para ser evaluado y que puedan corroborar si mi perfil se ajusta a alguna de las busquedas administrativas
+En mi cv adjunto podran encontrar toda la información necesaria para ponerse en contacto conmigo. 
+Aguardo su respuesta
+Gracias 
+Security_code : c8qm3
+Send : Enviar
+
+---------------
+
+Address : 186.134.23.99
+Nombre : Vanesa
+Apellido : Sforzín
+Cargo : cf. en currículum
+Direccion : Intendente Rafael Amato 1540
+Ciudad : Haedo
+Telefono : 15-65839688
+Email : sforzinvanesa@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados: 
+Soy estudiante de Ing. en Alimentos promediando la carrera en la Universidad de Morón. Les adjunto mi currículum vitae ya que me encuentro en búsqueda activa de empleo. 
+Quedo a vuestra disposición para cualquier solicitud. 
+Muchas Gracias.
+Security_code : hmn43
+Send : Enviar
+
+---------------
+
+Address : 190.246.35.204
+Nombre : Marina Lucila
+Apellido : Esposito
+Cargo : Periodista-Redactora-Traductora
+Direccion : Bernardo de Irigoyen 1387
+Ciudad : Quilmes
+Telefono : 0111533927778
+Email : marinalesposito@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenos días, me llamo Marina Esposito y soy Licenciada en Comunicación Social.
+
+Les envío este mail porque me gustaría que me tuvieran en cuenta para la redacción y edición de contenidos, traducciones, transcripciones, correcciones, subtitulados, desgrabaciones, etc. Como verán en mi curriculum, cuento con bastante experiencia en el tema.
+
+Agradezco su amable atención.
+
+Sin más, los saludo atte.
+
+Marina Esposito
+Security_code : hdckm
+Send : Enviar
+
+---------------
+

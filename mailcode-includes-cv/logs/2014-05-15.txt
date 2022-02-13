@@ -1,0 +1,305 @@
+Address : 66.60.47.35
+Nombre : Dario Emmanuel
+Apellido : Martinez
+Cargo : Limpieza
+Direccion : albeniz 472
+Ciudad : Bs,As 
+Telefono : 1165791954
+Email : lalo300787@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estoy en busca de empleo
+Security_code : v4z5c
+Send : Enviar
+
+---------------
+
+Address : 190.17.37.226
+Nombre : Federico
+Apellido : Rostagno
+Cargo : ingeniero
+Direccion : Independencia 461 piso 3 dpto 4
+Ciudad : Cordoba
+Telefono : 351-2283835
+Email : rfede89@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estudiante de la carrera  ingenieria quimica en universidad tecnologica nacional solicito empleo turno mañana 07:00 am a 13:00pm
+Security_code : 6qsqz
+Send : Enviar
+
+---------------
+
+Address : 190.18.87.254
+Nombre : Ariana
+Apellido : Gabella
+Cargo : Administrativo
+Direccion : Pago Largo 633
+Ciudad : Rosario
+Telefono : (0341)156129169
+Email : ariana_gabella@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me postulo para cualquier tipo de tareas administrativas y de recepción. Actualmente me encuentro desempleada
+Security_code : tq958
+Send : Enviar
+
+---------------
+
+Address : 186.59.80.30
+Nombre : esteban
+Apellido : amate
+Cargo : al que necesiten
+Direccion : gregorio lemos 632
+Ciudad : mendoza
+Telefono : 261-155-347246
+Email : estebanamatee@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : ESTEBAN AMATE
+GREGORIO LEMOS 632 
+GODOY CRUZ MENDOZA
+0261-155347246
+ESTEBANAMATEE@GMAIL.COM
+14/05/2014
+
+Departamento de Recursos Humanos
+Estimados Sres.:
+
+
+Dada la profesionalidad de su empresa, cuya línea me resulta muy interesante, les ruego consideren, a la vista del Curriculum Vitae que les adjunto,  de una posibilidad de incorporarme a su empresa al puesto que usted crea necesario ya que estoy dispuesto a aprender y seguir capacitándome para un mejor desempeño en el puesto  solicitado.
+En caso de que lo consideren oportuno, les agradecería mantuviésemos una entrevista con objeto de ampliar los datos que aparecen en el Curriculum Vitae, así como todo aquello que consideren de su interés.
+A la espera de sus noticias, se despide atentamente,
+
+ESTEBAN AMATE
+
+Security_code : ghf5r
+Send : Enviar
+
+---------------
+
+Address : 190.16.6.248
+Nombre : bernardo enrique 
+Apellido : crespo
+Cargo : chofer
+Direccion : avellaneda 5236
+Ciudad : olavarria
+Telefono : 02284-15573416
+Email : masterdam33@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : ay le envio mis datos con el cv espero q me temgan en cuenta GARCIAS 
+Security_code : wzjsm
+Send : Enviar
+
+---------------
+
+Address : 181.46.252.98
+Nombre : Svitlana
+Apellido : Matus
+Cargo : Investigación
+Direccion : Rio de Janeiro 557 piso 7 dpto 60 CABA
+Ciudad : CABA
+Telefono : 49831624
+Email : lana_matus@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados
+Por favor, tengan a bien recibir mi curriculum. El hecho de contar con la experiencia de vida migratoria y la formación académica en sociología puede potenciar la diversidad cultural de un equipo de trabajo, diversidad que es, sin duda, el denominador común de nuestra sociedad argentina. 
+Soy una persona con energía efervescente, creativa y con capacidad analítica, amante  del la investigación ‘bricolage’, y me encantaría ser parte de un equipo con metas compartidas, donde la pasión por lo que uno hace puje por una superación constante y donde la integridad, el diálogo, la responsabilidad, la transparencia sean un  estandarte ético. 
+Reciban mis saludos cordiales,
+
+
+
+Lic. Svitlana Matus
+15-5094-2863
+lana_matus@hotmail.com
+
+Security_code : tb6yf
+Send : Enviar
+
+---------------
+
+Address : 181.28.11.20
+Nombre : gustavo exequiel
+Apellido : yurgens
+Cargo : construccion- instalador 
+Direccion : san juan 1686
+Ciudad : villa allende
+Telefono : 351-6643446
+Email : gustavo_yurgens@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : bueno yo estuve trabajando como pintor de edificios exteriores e interiores y en construccion de instalador de cableado 
+Security_code : 4v39b
+Send : Enviar
+
+---------------
+
+Address : 181.168.79.68
+Nombre : MARIA GABRIELA
+Apellido : GONZALEZ
+Cargo : OPERARIA DE PRODUCCION
+Direccion : HUEMUL 3041
+Ciudad : HURLINGHAM
+Telefono : 1166399986
+Email : mariagonzalez00242@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : buen día : 
+     les adjunto cv espero tener suerte en la búsqueda laboral desde ya muchas gracias 
+Security_code : fcfhs
+Send : Enviar
+
+---------------
+
+Address : 190.230.69.236
+Nombre : Cristian Hector
+Apellido : Mirabelli
+Cargo : Técnico Superior en Higiene y Seguridad Industrial
+Direccion : H. Rivero 4209
+Ciudad : General San Martin
+Telefono : 1130475237
+Email : mirabelli.ch@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola buenas tardes, a quien corresponda envío mi curriculum vitae mi nombre es Cristian soy Técnico Superior en Higiene, Seguridad y Control Ambiental Industrial, soy de San Martin y tengo unos 8 meses de experiencia en obras de construcción y visitas para ART, adjunto mi CV para cualquier oferta laboral que se presente. Desde ya muchas gracias.
+
+Atentamente Cristian Mirabelli
+Security_code : n3gz7
+Send : Enviar
+
+---------------
+
+Address : 200.45.16.139
+Nombre : Esteban
+Apellido : Nacht
+Cargo : Gerente
+Direccion : El Salvador 5946
+Ciudad : Capital Federal
+Telefono : 1568633416
+Email : esteban.nacht@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola:
+
+Adjunto mi CV por cualquier búsqueda laboral compatible con mi perfil.
+Security_code : jwqpk
+Send : Enviar
+
+---------------
+
+Address : 200.45.16.139
+Nombre : Esteban
+Apellido : Nacht
+Cargo : Gerente
+Direccion : El Salvador 5946
+Ciudad : Capital Federal
+Telefono : 1568633416
+Email : esteban.nacht@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola:
+
+Adjunto mi CV por cualquier búsqueda laboral compatible con mi perfil.
+Security_code : jwqpk
+Send : Enviar
+
+---------------
+
+Address : 200.45.16.139
+Nombre : Esteban
+Apellido : Nacht
+Cargo : Gerente
+Direccion : El Salvador 5946
+Ciudad : Capital Federal
+Telefono : 1568633416
+Email : esteban.nacht@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola:
+
+Adjunto mi CV por cualquier búsqueda laboral compatible con mi perfil.
+Security_code : jwqpk
+Send : Enviar
+
+---------------
+
+Address : 200.45.16.139
+Nombre : Esteban
+Apellido : Nacht
+Cargo : Gerente
+Direccion : El Salvador 5946
+Ciudad : Capital Federal
+Telefono : 1568633416
+Email : esteban.nacht@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola:
+
+Adjunto mi CV por cualquier búsqueda laboral compatible con mi perfil.
+Security_code : qpq5w
+Send : Enviar
+
+---------------
+
+Address : 190.18.50.168
+REF : ADMINISTRATIVA-DE-COMPRAS
+Nombre : Faviana 
+Apellido : Biolcati
+Cargo : Adm Compras
+Direccion : Barrio Santa Barbara
+Ciudad : Tigre
+Telefono : 1537846989
+Email : chinbiolcati@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto mi CV y mi inquietud, aguardando ser contada entre sus aspirantes. Gracias
+Security_code : mm8rf
+Send : Enviar
+
+---------------
+
+Address : 190.172.74.103
+Nombre : liliana
+Apellido : morales
+Cargo : administrativa
+Direccion : aut tte gral luis dellepiane 4494 5 "1"
+Ciudad : capital federal
+Telefono : 541146014834
+Email : raquelmorales68@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : estoy buscando empleo de administrativa
+Security_code : jwv4g
+Send : Enviar
+
+---------------
+
+Address : 190.172.74.103
+Nombre : liliana
+Apellido : morales
+Cargo : administrativa
+Direccion : aut tte gral luis dellepiane 4494 5 "1"
+Ciudad : capital federal
+Telefono : 541146014834
+Email : raquelmorales68@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : estoy buscando empleo de administrativa
+Security_code : 6x4dr
+Send : Enviar
+
+---------------
+
+Address : 201.250.49.12
+Nombre : Carllos Luydson
+Apellido : De Carvalho Nogueira
+Cargo : Administrativo
+Direccion : Bernardo de Irigoyen 858 7F
+Ciudad : Ciudad Autónoma de Buenos Aires
+Telefono : 43003162
+Email : carlloscarvalho_@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Sres. Área de Recursos humanos
+Me pongo en contacto con ustedes para ofrecerles mis datos personales, profesionales y otros datos de interés, para postularme dentro de su empresa a puestos a cubrir ahora o en un futuro próximo.
+Adjunto encontrarán mi Curriculum Vitae.
+Soy una persona creativa, responsable y solidaria, orientada al trabajo en equipo.
+Me destaco por integrarme con facilidad a lo que el entorno demande, por mi capacidad de adaptación y compromiso.
+Enfrento todo lo que hago como un desafío personal.
+Para desarrollar tareas en equipo soy comunicativo, dinámico y ordenado.
+Como pueden observar en el historial adjunto, me encuentro capacitado para desempeñar tareas administrativas, atención al cliente y facturación.
+Quedo a su entera disposición, 
+Atentamente.
+                                                                                                                  
+                                                                                                                  Carllos Nogueira
+
+Security_code : 2nnppg
+Send : Enviar
+
+---------------
+

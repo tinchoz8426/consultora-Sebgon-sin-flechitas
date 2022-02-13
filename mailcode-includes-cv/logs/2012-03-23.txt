@@ -1,0 +1,16 @@
+Address : 201.252.80.197
+Nombre : MARIA EUGENIA
+Apellido : HERRERA
+Cargo : sector campo
+Direccion : las palmas 7074
+Ciudad : buenos aires
+Telefono : 47695123
+Email : meh_1957@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenos dias, adjunto mi CV para que sea analizado por ustedes y ver si tendría la posibilidad de poder trabajar en la empresa, desde ya muchas gracias por su fina atención.
+Maria E. Herrera.
+Security_code : jgv7h
+Send : Enviar
+
+---------------
+

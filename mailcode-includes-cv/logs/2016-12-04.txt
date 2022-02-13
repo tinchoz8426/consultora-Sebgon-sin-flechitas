@@ -1,0 +1,77 @@
+Address : 200.125.110.73<br>
+ <br>Nombre : Elizabeth
+ <br>Apellido : Moreno
+ <br>Cargo : Secretaria Bilingue
+ <br>Direccion : Rincón 944, Dpto A, San Cristóbal, CABA
+ <br>Ciudad : CABA
+ <br>Telefono : 1160530131
+ <br>Email : moreneli@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Tengo el título de Técnico Superior en Secretariado Bilingue, 100% oral y escrito inglés-español, más de 10 años de experiencia profesional.
+ <br>Security_code : z9cb3
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 191.83.213.114<br>
+ <br>REF : EP-1
+ <br>Nombre : Gaston Omar
+ <br>Apellido : Jurado
+ <br>Cargo : Encargado de produccion
+ <br>Direccion : ITALIA
+ <br>Ciudad : SAN MIGUEL - SAN MIGUEL OESTE
+ <br>Telefono : 1569731463
+ <br>Email : juradogastonomar@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buen día envió mi cv quedo a su disposición desde ya muchas gracias saludos cordiales Jurado Gaston
+ <br>Security_code : jdyfy
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 191.83.213.114<br>
+ <br>REF : TE-1
+ <br>Nombre : Gaston Omar
+ <br>Apellido : Jurado
+ <br>Cargo : tec. electrico
+ <br>Direccion : ITALIA 3575
+ <br>Ciudad : SAN MIGUEL - SAN MIGUEL OESTE
+ <br>Telefono : 1569731463
+ <br>Email : juradogastonomar@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buen día envió mi cv quedo a su disposicion desde ya muchas gracias saludos cordiales  Jurado Gaston
+ <br>Security_code : 45fjk
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.195.21.59<br>
+ <br>Nombre : Adriana
+ <br>Apellido : Cordero
+ <br>Cargo : Ingeniero Industrial
+ <br>Direccion : Av. Scalabrini Ortiz 2019
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 11 62200191
+ <br>Email : adricordero10@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Disponibilidad inmediata y disponibilidad de mobilizacion
+ <br>Security_code : 3xdz5
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.195.21.59<br>
+ <br>Nombre : Irwin 
+ <br>Apellido : Olano
+ <br>Cargo : Coordinador
+ <br>Direccion : Av. Scalabrini Ortiz 2019
+ <br>Ciudad : Palermo
+ <br>Telefono : 1127403964
+ <br>Email : ing.irwinolano@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estoy interesado en cualquier cargo referente a mi carrera.
+ <br>Security_code : 564g8
+ <br>Send : Enviar
+ <br>
+---------------
+

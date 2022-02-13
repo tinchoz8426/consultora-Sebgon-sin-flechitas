@@ -1,0 +1,126 @@
+Address : 186.22.119.99
+Nombre : Silvina
+Apellido : Muller
+Cargo : Recepcion
+Direccion : Bernaldes 1126
+Ciudad : Capital Federal
+Telefono : 1551481149
+Email : silvi_2004_2@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Deseo un puesto laboral acorde a mi profesionalismo y responsabilidad.
+Security_code : 4sxw9
+Send : Enviar
+
+---------------
+
+Address : 181.14.207.125
+Nombre : Juan Alberto
+Apellido : Antunes
+Cargo : Seguridad. Servicio Técnico.
+Direccion : Reynares 8122
+Ciudad : Santa Fe
+Telefono : 0342-155379179
+Email : juan_alberto_antunes@outlook.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estoy en la búsqueda de un empleo.
+Desde ya muchas gracias.
+Security_code : c8vft
+Send : Enviar
+
+---------------
+
+Address : 201.216.207.201
+Nombre : veronica
+Apellido : vivas
+Cargo : higiene y seguridad laboral
+Direccion : av dorrego 898
+Ciudad : caba
+Telefono : 1562806858
+Email : veronica.vivas2912@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto CV 
+Security_code : b66sb
+Send : Enviar
+
+---------------
+
+Address : 201.235.234.61
+Nombre : Carolina Nicole
+Apellido : Ayail
+Cargo : Legales
+Direccion : Los Pirineos 1384
+Ciudad : Ciudad Autonoma Buenos Aires
+Telefono : 45827271
+Email : cn.ayail@outlook.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Interesada en trabajo part time. 
+Security_code : kd6k8
+Send : Enviar
+
+---------------
+
+Address : 181.109.226.230
+Nombre : leonela ayelen
+Apellido : leiva
+Cargo : seguridad 
+Direccion : av militar y san ignacio 222
+Ciudad : ciudadela
+Telefono : 46576926
+Email : leonelaciudadela@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Todavia no poseo experiencia laboral pero tengo muchas ganas de tener mi primer empleo para asi poder desempeñarme y aprender.
+Security_code : yxtd4
+Send : Enviar
+
+---------------
+
+Address : 186.63.31.59
+Nombre : Ana
+Apellido : Faranna
+Cargo : Empleado
+Direccion : LA QUILA
+Ciudad : CIUDAD EVITA
+Telefono : 1140662665
+Email : ana.fara14@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Gracias por recibir mi CV.
+Security_code : nh2wf
+Send : Enviar
+
+---------------
+
+Address : 186.63.31.59
+Nombre : Ana
+Apellido : Faranna
+Cargo : Empleado
+Direccion : LA QUILA
+Ciudad : CIUDAD EVITA
+Telefono : 1140662665
+Email : ana.fara14@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Gracias por recibir mi CV.
+Security_code : nh2wf
+Send : Enviar
+
+---------------
+
+Address : 190.189.90.215
+Nombre : Ezequiel
+Apellido : Trivigno
+Cargo : Asistente
+Direccion : Miralla 3570 1º A
+Ciudad : Capital Federal
+Telefono : 15-6111-0630
+Email : etrivigno@live.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenas tardes, adjunto envío mi CV ante la posibilidad de cubrir algún puesto acorde a mi perfil.
+
+
+Atte.
+Ezequiel
+
+Security_code : pfz27
+Send : Enviar
+
+---------------
+

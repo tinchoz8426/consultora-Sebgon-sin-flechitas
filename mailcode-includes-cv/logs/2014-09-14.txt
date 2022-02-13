@@ -1,0 +1,46 @@
+Address : 200.107.81.16
+Nombre : Franco
+Apellido : Bertedor
+Cargo : Cualquiera
+Direccion : Pasaje Coronda 4369
+Ciudad : Rosario
+Telefono : 156840539
+Email : franco_bertedor@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola que tal? estoy interesado en conseguir un empleo que ocupe mi horario libre ( desde la mañana, hasta las 17:30 hs)
+no mas de 8hs de trabajo. saludos
+Security_code : 98bhs
+Send : Enviar
+
+---------------
+
+Address : 186.137.141.100
+Nombre : MIRIAM
+Apellido : LONDON
+Cargo : RECEPCION
+Direccion : AV CORDOBA 6287
+Ciudad : CAPITAL FEDERAL
+Telefono : 1551016395
+Email : MLONDON03@HOTMAIL.COM
+MAX_FILE_SIZE : 2097152
+Mensaje : SE ADJUNTA CV
+Security_code : 87JMN
+Send : Enviar
+
+---------------
+
+Address : 190.115.44.126
+Nombre : Diego Luis 
+Apellido : Dayer
+Cargo : Legal
+Direccion : Rodriguez Peña 227
+Ciudad : Guaymallen, Mendoza
+Telefono : 0261156351709
+Email : dayer.diego@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Experiencia en área comercial por período mayor de tres años; como consecuencia de obtener el título de Abogado, mi expectativa es insertarme profesionalmente en un ámbito laboral donde pueda en un continuo aprendizaje y en colaboración con mis pares lograr la obtención de un objetivo en común.
+Security_code : tz6n3
+Send : Enviar
+
+---------------
+

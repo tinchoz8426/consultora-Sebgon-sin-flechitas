@@ -1,0 +1,78 @@
+Address : 190.72.63.207<br>
+ <br>Nombre : Edmary
+ <br>Apellido : Machillanda
+ <br>Cargo : Atención al Cliente
+ <br>Direccion : Caña de Azucar
+ <br>Ciudad : Maracay
+ <br>Telefono : 0058426959296
+ <br>Email : machillanda.edmary@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Técnico Superior Universitario en la especialidad de Publicidad y Mercadeo, egresando Agosto 2016, con experiencia en atención la cliente, ventas, asistente/recepcion. Con ganas de aprender constantemente en áreas relacionadas en mi formación académica.
+ <br>Security_code : yhyqp
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.22.183.60<br>
+ <br>Nombre : Sofia 
+ <br>Apellido : Cesar 
+ <br>Cargo : Recursos Humanos (aprendiz) 
+ <br>Direccion : Santa Cruz 9600
+ <br>Ciudad : Mar del plata 
+ <br>Telefono : 0223-155942075
+ <br>Email : sofiagcesar.1996@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola!me encantaría aprender aprender mucho mas de la carrera que estoy cursando pero como también me encantaría conseguir un trabajo, ya que en este momento lo necesito. Saludos!  
+ <br>Security_code : s77p8
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 179.40.76.112<br>
+ <br>Nombre : Miguel
+ <br>Apellido : Gutierrez Tellez
+ <br>Cargo : Jefe de Ingeniera y Obras
+ <br>Direccion : Caimancito 4765
+ <br>Ciudad : Caleta Olivia
+ <br>Telefono : 0297 156256278
+ <br>Email : mjgutierrez10@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Adjunto mi CV para que consideren en sus busquedas.
+Gracias
+ <br>Security_code : sbp6f
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.130.46.246<br>
+ <br>REF : GTEP
+ <br>Nombre : martin
+ <br>Apellido : villanueva
+ <br>Cargo : Gerente de Planta
+ <br>Direccion : larralde 1060
+ <br>Ciudad : moron
+ <br>Telefono : 44894615
+ <br>Email : villanueva.martin42@yahoo.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : adjunto información para vuestro analisis
+ <br>Security_code : zpckn
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 179.41.73.5<br>
+ <br>Nombre : valeria soledad
+ <br>Apellido : ortiz
+ <br>Cargo : operaria
+ <br>Direccion : zapiola 791
+ <br>Ciudad : merlo
+ <br>Telefono : 1126332648
+ <br>Email : vale_22_mlc@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : me postulo para cualquier oferta de operaria de produccion, con disponibilidad inmediata y horarios full time. ojala puedan tenerme encuenta. 
+saludos.
+ <br>Security_code : xvrwc
+ <br>Send : Enviar
+ <br>
+---------------
+

@@ -1,0 +1,35 @@
+Address : 138.59.141.190<br>
+ <br>Nombre : MARIANA ALEJANDRA
+ <br>Apellido : CACERES
+ <br>Cargo : RECEPCIONISTA
+ <br>Direccion : BARCELONA 2459
+ <br>Ciudad : LOMAS DE ZAMORA, GBA
+ <br>Telefono : 1168478796
+ <br>Email : mariana.caceres54@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Les adjunto mi curriculum vitae. Espero su pronta respuesta
+ <br>Security_code : t55vy
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.17.184.91<br>
+ <br>Nombre : Fernando Ezequiel
+ <br>Apellido : Selebam
+ <br>Cargo : Administrativo
+ <br>Direccion : Ugarte 1548 - 3D
+ <br>Ciudad : Olivos - Provincia Bs As
+ <br>Telefono : 1558868780
+ <br>Email : fselebam@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : eñores:
+Presente 
+              Por la presente me dirijo a Uds. Con el objeto de hacerles llegar mi CV. 
+              Ruego a Uds. tener en cuenta mis antecedentes para el caso de necesitar personal.
+              Quedo a vuestra disposición para ampliar antecedentes y elevar referencias.
+              Cordiales saludos.
+ <br>Security_code : ccmfz
+ <br>Send : Enviar
+ <br>
+---------------
+

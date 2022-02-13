@@ -1,0 +1,19 @@
+Address : 190.190.181.118
+Nombre : Federico Ariel
+Apellido : Posada
+Cargo : Atención al Cliente
+Direccion : San José 819
+Ciudad : Ciudad Autónoma de Buenos Aires
+Telefono : 1536756465
+Email : fedeposi@ymail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Sr/res Consultora Sebgon.
+
+De mi mayor consideración: 
+                                     Me dirijo a Usted/es con el fin de postularme laboralmente el área relacionada con mis experiencias laborales y conocimientos, en relacion a la misma adjunto mis antecedentes personales.
+                                     Sin  otro particular y a la espera de una favorable respuesta, saludo a Usted/es muy atentamente.
+Security_code : 3f2g8
+Send : Enviar
+
+---------------
+

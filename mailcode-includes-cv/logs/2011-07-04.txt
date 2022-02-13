@@ -1,0 +1,18 @@
+Address : 190.190.129.140
+Nombre : Gabriel
+Apellido : Povarchik
+Cargo : Supervisor / Gerencia
+Direccion : Ledesma y Ceballos 1246
+Ciudad : Córdoba
+Telefono : 1159099025
+Email : gpovarchik@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados, les adjunto mi carpeta de antecedentes con el fin de una posterior entrevista.
+Saluda muy atte.
+
+Gabriel Povarchik
+Security_code : dq2fv
+Send : Enviar
+
+---------------
+

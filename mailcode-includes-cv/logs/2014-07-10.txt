@@ -1,0 +1,45 @@
+Address : 190.189.205.9
+Nombre : Ornella
+Apellido : Giansetto
+Cargo : Recepción, Secretaria / Asistente
+Direccion : Rivadavia, 3276
+Ciudad : Buenos Aires
+Telefono : 1665042381
+Email : ornellagiansetto@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : La búsqueda que llevo a cabo consiste en un empleo con inclinación al ámbito administrativo, siendo cadete, recepcionista o secretaria las tareas a las cuales dirijo mi atención. En ellas garantizo un máximo de responsabilidad en cuanto a su ejecución.
+Security_code : 83834
+Send : Enviar
+
+---------------
+
+Address : 190.210.151.97
+Nombre : belizan
+Apellido : solange
+Cargo : secretaria / administracion / recursos humanos / comunicacion
+Direccion : constitucion 3355
+Ciudad : rosario
+Telefono : 0341 3148263
+Email : sol.belizan@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : estoy en la busqueda de un trabajo, donde pueda poner en funcion mis amplios conocimientos 
+Security_code : nqb4s
+Send : Enviar
+
+---------------
+
+Address : 186.109.117.69
+Nombre : Juan Pablo
+Apellido : Correa
+Cargo : Tecnico Superior en Higiene y Seguridad
+Direccion : Jose Marmol 359
+Ciudad : Aguilares (Tucuman)
+Telefono : 03865-15435922
+Email : juanpablocor2014@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : posibilidad de radicarme en cualquier ciudad preferentemente en el sur de argentina
+Security_code : 3rs55
+Send : Enviar
+
+---------------
+

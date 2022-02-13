@@ -1,0 +1,31 @@
+Address : 187.210.246.50<br>
+ <br>Nombre : pablo adan 
+ <br>Apellido : de la rosa espinoza
+ <br>Cargo : seguridad en minas
+ <br>Direccion : punta el mulato 8916 punta oriente 1
+ <br>Ciudad : chihuahua
+ <br>Telefono : 6142253936
+ <br>Email : aza.1976.za@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : buenas noches
+ <br>Security_code : sk7bf
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.180.21.149<br>
+ <br>REF : TEC. EL
+ <br>Nombre : Eduardo Hector
+ <br>Apellido : Rayment
+ <br>Cargo : tecnico electronico
+ <br>Direccion : pellegrini 857
+ <br>Ciudad : general las heras
+ <br>Telefono : 0220155011173
+ <br>Email : HECTOR.RAYMENT@GMAIL.COM
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : nesecito el trabajo de tecnico
+ <br>Security_code : 7vds2
+ <br>Send : Enviar
+ <br>
+---------------
+

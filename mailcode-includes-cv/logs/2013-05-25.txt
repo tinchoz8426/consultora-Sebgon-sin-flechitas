@@ -1,0 +1,33 @@
+Address : 190.113.143.24
+REF : tecnico-quimico
+Nombre : jose
+Apellido : tahan
+Cargo : encargado de seguridad
+Direccion : santa teresa de los andes 207
+Ciudad : mendoza
+Telefono : 0261-14724330 -0261156681778-02614987463
+Email : Jantoniotahan117498@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Tengo experiencia en refinerías, gasoductos  y petroquímica  con recepción despacho de materiales, remitos estok de materiales logística traslado, trato con clientes y distribuidor 
+ Pañol movimiento de herramientas, catálogos despacho y encomiendas para su distribución.
+
+Security_code : rrns5
+Send : Enviar
+
+---------------
+
+Address : 181.23.135.14
+Nombre : daniel mauricio
+Apellido : lucero muñoz
+Cargo : repositor, cajero
+Direccion : diaguitas 2190
+Ciudad : godoy cruz mendoza
+Telefono : 2616067215
+Email : lucerodanielmoises@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : lograr una entrevista ,para vacante lavoral
+Security_code : 6k66n
+Send : Enviar
+
+---------------
+

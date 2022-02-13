@@ -1,0 +1,88 @@
+Address : 186.22.40.41
+REF : JEOTEC
+Nombre : Fernando
+Apellido : Radzik
+Cargo : Jefe de Oficina Técnica
+Direccion : Av Congreso 3331 5º A
+Ciudad : CABA
+Telefono : 15-31992177
+Email : osiradzik@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buen día , me interesa postularme al puesto de Jefe de Oficina Técnica que tienen vacante
+Security_code : rbr5x
+Send : Enviar
+
+---------------
+
+Address : 190.191.176.48
+Nombre : Emmanuel
+Apellido : Turinetto
+Cargo : Ingeniero
+Direccion : Calle 43, Nº 183, Depto. 23
+Ciudad : La Plata
+Telefono : 0211-155980094
+Email : emmanuelturinetto@outlook.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados, buen día.
+
+Me dirijo a Uds. a los fines de remitirles mi CV para que sea evaluado y tenido en cuenta en búsquedas laborales actuales o futuras. Si bien cuento con 9 años de experiencia exclusiva en el rubro aeronáutico, estoy ampliamente capacitado para desempeñarme en otras áreas de la Ingeniería, especialmente en Mantenimiento y Control de Calidad.
+
+Sin otro particular, los saluda atte.,
+
+Ingeniero Aeronáutico Emmanuel Turinetto
+Security_code : bttxm
+Send : Enviar
+
+---------------
+
+Address : 190.16.96.78
+Nombre : Florencia
+Apellido : Federico
+Cargo : Administrativo / Recepcionista
+Direccion : Medrano 375
+Ciudad : Buenos Aires
+Telefono : 1567937170
+Email : florencia.federicoo@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Tengo experiencia en tareas administrativas varias, y también me interesan los puestos de Recepcionista y/o Atencion al cliente.
+Security_code : ry8cf
+Send : Enviar
+
+---------------
+
+Address : 186.153.210.109
+Nombre : Florencia
+Apellido : Paz
+Cargo : repositor externo
+Direccion : Fortin 4076
+Ciudad : cordoba
+Telefono : 3517503368
+Email : fsp_florencia520@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenas tardes mi nombre es Florencia,tengo 25 años, estoy en la busqueda de un empleo fijo, tengo disponibilidad fulltime, capacidad para aprender
+Security_code : sgn6s
+Send : Enviar
+
+---------------
+
+Address : 181.23.15.136
+Nombre : Luciano
+Apellido : Baratta
+Cargo : Administración o Compras
+Direccion : Zabala 76
+Ciudad : General Rodriguez
+Telefono : 011 15 3 764 1097
+Email : luciano.baratta@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados,
+Mi nombre es Luciano Baratta, soy un licenciado en economía de 30 años que busca un trabajo por General Rodríguez o zonas cercanas.
+Ante cualquier oportunidad que les pueda llegar a aparecer les agradecería que me tengan en cuenta.
+Desde ya muchas gracias
+
+Saludos
+Luciano Baratta
+Security_code : 7s49q
+Send : Enviar
+
+---------------
+

@@ -1,0 +1,54 @@
+Address : 190.176.54.145
+REF : administrativo-logistica
+Nombre : Alberto 
+Apellido : Dominguez
+Cargo : Administrativo de logistica
+Direccion : calle cubut 1280 oeste
+Ciudad : Chimbas San Juan
+Telefono : 0264 155205544
+Email : albertosud02@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados Señores: 
+
+Reciba un cordial saludo de mi parte, deseándole éxitos en sus actividades diarias. Soy Técnico Mecánico graduado y esta actividad no la hago desde hace mas de 12 años pero tengo experiencia en el rubro trabajando en mantenimiento de maquinas de cargas, palas cargadoras, motores, y experiencia en soldaduras
+
+Mi gran experiencia laboral ha sido en el área de Abastecimiento, Logísticas y almacenes dedicados a la minería con una experiencia de más de 12 años. He tenido también experiencia en el área de compras y planificación, en empresas dedicadas a la explotación y mantenimiento minero con Gestión de Compras para empresas mineras.
+
+Creo que mi perfil les puede interesar y que puedo serles útil, ya que poseo: 
+
+Capacidad de Trabajo:
+
+Facilidad de hablar en público y trabajo en equipo 
+Capacidad de negociación y manejo de conflictos, con cliente interno y externo y con personal a cargo. 
+Experiencia y conocimiento de áreas administrativas de empresas y planificaciones programadas para paradas de equipo. 
+Dominio del idioma inglés técnico a un 70%. 
+Proactivo y con buena disposición al cambio y fácil adaptación. 
+
+Le adjunto mi cv y cualquier información adicional que se necesite, estoy a las órdenes para proporcionarla y dispuesto a reubicarme en cualquier lugar. 
+
+
+Atentamente, 
+
+
+Alberto Domínguez
+
+Security_code : c4469
+Send : Enviar
+
+---------------
+
+Address : 190.245.37.183
+Nombre : Agustina
+Apellido : Brizuela Alonso
+Cargo : Pasante/ administrativo RRHH
+Direccion : CABA
+Ciudad : CABA
+Telefono : 49219439
+Email : 1561064712
+MAX_FILE_SIZE : 2097152
+Mensaje : Dejo curriculum vitae para su consideracion, para los puestos referidos a RRHH, espero que lo tengan en cuenta. gracias
+Security_code : S49w7
+Send : Enviar
+
+---------------
+

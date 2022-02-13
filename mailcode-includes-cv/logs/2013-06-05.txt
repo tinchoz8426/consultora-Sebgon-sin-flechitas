@@ -1,0 +1,30 @@
+Address : 186.142.148.231
+Nombre : edgardo
+Apellido : porta
+Cargo : contador
+Direccion : rivadavia 10000
+Ciudad : villa luro
+Telefono : 3794293973
+Email : edgardo_tamr@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : necesito trabajo a fin de desarrollarme como profesional
+Security_code : b6cty
+Send : Enviar
+
+---------------
+
+Address : 148.246.97.21
+Nombre : jJorge
+Apellido : Rodrìguez
+Cargo : Instructor de Capacitaciòn 
+Direccion : Comercio #5, Colonia La Quebrada
+Ciudad : C. Izcalli,Edo.de México CP 54769
+Telefono : 01(55)64-24-18-19
+Email : jorodj58@yahoo.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Soy Insructor en cursos de Seguridad e Higiene. Certificado por OSHA EEUU,SCATS Nevada EEU y Secretaría del Trabajo en México. Doy cursos en Español e Inglés en cualquier parte del mundo. Gracias
+Security_code : whbnj
+Send : Enviar
+
+---------------
+

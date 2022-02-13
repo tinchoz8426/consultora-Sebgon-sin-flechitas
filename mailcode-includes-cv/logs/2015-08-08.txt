@@ -1,0 +1,79 @@
+Address : 188.143.232.43
+Nombre : Bradley
+Apellido : 967062
+Cargo : MOMxgddmxwXiX
+Direccion : kvnIRHVsBrbIIL
+Ciudad : NY
+Telefono : 87043961656
+Email : djbrucho3@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : 95Norg http://www.FyLitCl7Pf7kjQdDUOLQOuaxTXbj5iNG.com
+Security_code : 2oZXOl
+Send : Enviar
+
+---------------
+
+Address : 200.45.10.74
+Nombre : Diana
+Apellido : Sanchez
+Cargo : Ingeniera alimentos
+Direccion : Vuelta de obligado
+Ciudad : CABA
+Telefono : 1537625655
+Email : diamarc_oviedo@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Dejo a su consideracion mi cv como Ingeniera en alimentos.
+Security_code : w5z3p
+Send : Enviar
+
+---------------
+
+Address : 190.246.11.10
+REF : GT PL
+Nombre : Fernando Esteban
+Apellido : Leiva
+Cargo : Gerente de Planta
+Direccion : San Martin 1428
+Ciudad : Luis Guillon
+Telefono : 42960898
+Email : fleiva@escape.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Envìo por este medio una copia de mi currìculum actualizado a pesar de haberme postulado a travès de la pàgina de Computrabajo para una mejor posibilidad de conocer mi perfil.
+Atentamente.
+Security_code : phgcd
+Send : Enviar
+
+---------------
+
+Address : 190.246.11.10
+REF : JP
+Nombre : Fernando Esteban
+Apellido : Leiva
+Cargo : Jefe de Planta
+Direccion : San Martin 1428
+Ciudad : Luis Guillon
+Telefono : 42960898
+Email : fleiva@escape.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Envìo mi cv actualizado para su consideraciòn.
+Atentamente.
+Security_code : 7w6hd
+Send : Enviar
+
+---------------
+
+Address : 188.143.232.19
+Nombre : Bradley
+Apellido : 539346
+Cargo : CWJCwAsKeu
+Direccion : fmijyfvIwOzCd
+Ciudad : NY
+Telefono : 68242246513
+Email : djbrucho3@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : qef50V http://www.FyLitCl7Pf7kjQdDUOLQOuaxTXbj5iNG.com
+Security_code : zVgttc
+Send : Enviar
+
+---------------
+

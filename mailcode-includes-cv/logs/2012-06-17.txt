@@ -1,0 +1,45 @@
+Address : 186.18.253.106
+Nombre : SONIA GISELE
+Apellido : MARTINEZ
+Cargo : educación/ cajera/ administrativa
+Direccion : Arce 620 2 13
+Ciudad : Ciudad Autonoma de Buenos Aires
+Telefono : 20589467
+Email : gishe_mr@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : ENVIÓ MI CURRICULUM, PARA TENER LA POSIBILIDAD DE POSTULARME ALGUNO DE LOS PUESTOS ANTES MENCIONADOS, O ALGÚN PUESTO QUE ESTÉ ACORDE A MI PERFIL. SALUDA ATTE GISELE MARTINEZ.
+Security_code : 6X383
+Send : Enviar
+
+---------------
+
+Address : 186.57.226.240
+Nombre : fabian jorge 
+Apellido : gauna
+Cargo : operario/deposito/logistica
+Direccion : rio diamante 1324
+Ciudad : bella vista
+Telefono : 46682182
+Email : fabian26-an@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : desde ya les agradesco tengan a bien incorporar mi curriculum en su base de datos
+Security_code : t3ctr
+Send : Enviar
+
+---------------
+
+Address : 186.57.226.240
+Nombre : fabian jorge 
+Apellido : gauna
+Cargo : operario/deposito/logistica
+Direccion : rio diamante 1324
+Ciudad : bella vista
+Telefono : 46682182
+Email : fabian26-an@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : desde ya les agradesco tengan a bien incorporar mi curriculum en su base de datos para ofertas laborales presentes o futuras
+Security_code : x3jrm
+Send : Enviar
+
+---------------
+

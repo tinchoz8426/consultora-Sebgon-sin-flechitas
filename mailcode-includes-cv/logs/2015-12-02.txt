@@ -1,0 +1,148 @@
+Address : 66.102.8.148
+REF : OEL
+Nombre : Eduardo Gustavo
+Apellido : Bordon
+Cargo : Oficial Electricista
+Direccion : Remedios de escalada de san Martín 1055
+Ciudad : Claypole
+Telefono : 01142191240
+Email : edugus71@live.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Poseo los conocimientos acordes al puesto que están solicitando
+Security_code : Pcz24
+Send : Enviar
+
+---------------
+
+Address : 186.148.72.41
+Nombre : NESTOR DARIO
+Apellido : FANTIN
+Cargo : Gerente de Manufactura
+Direccion : RP6 km185
+Ciudad : Campana
+Telefono : 541164646324
+Email : nestorfantin@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : De mi mayor consideración:
+ 	Néstor Fantin, Ingeniero Industrial, con más de 8 años de experiencia gerenciando áreas de operaciones en empresas multinacionales. Actualmente me encuentro en búsqueda activa y me gustaría ser considerado dentro de sus procesos de selección.
+Me describo como un profesional con habilidades para reclutar, capacitar y motivar equipos dado por el liderazgo en dotaciones superiores a las 200 personas en áreas de planeamiento, producción, mantenimiento, calidad & desarrollo, almacenes & despacho y salud & seguridad, en industrias de procesos continuos y en locación diferentes tanto a nivel nacional como internacional logrando alcanzar altos estándares de gestión.
+	He liderado diferentes proyectos entre los más importantes se enumeran la puesta en marcha de una planta de extrusión en la Provincia de Chaco, ampliaciones de capacidad y modificaciones de lay-out, absorción de una operación de inyección de la Provincia de Córdoba en planta Bs As y selección, compra y puesta en marcha de nuevas tecnologías de producción.
+Las mejoras de productividad logradas se fundamentan en el trabajo en equipo,  definiciones específicas de los procesos operacionales, con visión integradora del negocio y foco en la satisfacción de los clientes, dentro de un marco de mejora continua. Experiencia en el desarrollo de proveedores y MP como base fundamental para el diseño de la calidad de los productos elaborados.
+Mi objetivo es procurar una posición de liderazgo y responsabilidad en áreas de operaciones, para empresas que valoren aportes proactivos, donde mi experiencia signifique sumar al logro de sus objetivos empresariales.
+Desde ya agradezco su atención. Cordialmente,
+NESTOR DARIO FANTIN
+(11 15) 6464 6324
+Security_code : 649yk
+Send : Enviar
+
+---------------
+
+Address : 190.139.23.169
+REF : OEL
+Nombre : rolando
+Apellido : melendez
+Cargo : oficialelectricista
+Direccion : mbermudez4094
+Ciudad : 3defebrero
+Telefono : 47165333
+Email : tato20292@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : postulacionlaboral
+Security_code : k2tys
+Send : Enviar
+
+---------------
+
+Address : 181.44.155.105
+Nombre : Esteban Andres
+Apellido : Abarca Parra
+Cargo : Soldador
+Direccion : Arrecifes 1233
+Ciudad : Florencio Varela
+Telefono : 42374367
+Email : abarca_esteban@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Amplio y solido conociemiento en el rubro metalurgico y obras como soldador
+Security_code : 6dvvm3
+Send : Enviar
+
+---------------
+
+Address : 181.111.255.138
+Nombre : Maria Florencia 
+Apellido : Dominguez
+Cargo : Responsable RRHH
+Direccion : Corrientes 4600
+Ciudad : Capital Federal 
+Telefono : 15 53841612
+Email : maflodo@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : De acuerdo a lo propuesto en la página, adjunto mi CV para que sea tenido en cuenta frente a cualquier eventualidad. 
+Muchas gracias. 
+Florencia Dominguez. 
+Security_code : h697b
+Send : Enviar
+
+---------------
+
+Address : 168.226.54.182
+Nombre : Julián
+Apellido : Torres
+Cargo : Administrativo
+Direccion : Soldado Toledo
+Ciudad : Moreno
+Telefono : (011) 15-6901-3541
+Email : juliantorres_pk@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Objetivo laboral: Adquirir experiencia laboral, aprender del oficio e independizarme económicamente serían mis principales objetivos.
+Security_code : 94388
+Send : Enviar
+
+---------------
+
+Address : 168.226.54.182
+Nombre : Julián
+Apellido : Torres
+Cargo : Administrativo
+Direccion : Soldado Toledo
+Ciudad : Moreno
+Telefono : (011) 15-6901-3541
+Email : juliantorres_pk@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Objetivo laboral: Adquirir experiencia laboral, aprender del oficio e independizarme económicamente serían mis principales objetivos.
+Security_code : 94388
+Send : Enviar
+
+---------------
+
+Address : 181.91.97.199
+Nombre : Luis Gustavo
+Apellido : Hoet
+Cargo : administrativo contable,contabilidad general, puestos afines a contabilidad
+Direccion : Barrio Docente casa 37
+Ciudad : Oberá
+Telefono : 03755-15411148
+Email : gustavohoet@hotmail.es
+MAX_FILE_SIZE : 2097152
+Mensaje : estudios universitarios 
+Security_code : yxv4g
+Send : Enviar
+
+---------------
+
+Address : 190.51.248.221
+REF : OEL
+Nombre : gaston
+Apellido : patiño
+Cargo : electricista
+Direccion : sargento cabral
+Ciudad : buenos aires
+Telefono : 42526827
+Email : gaston-zoe2013@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : hola soy oficial electricista cañista,cableador,tablerista,ect. full tiempo 
+Security_code : ftt9b
+Send : Enviar
+
+---------------
+

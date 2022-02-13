@@ -1,0 +1,120 @@
+Address : 186.62.73.102
+Nombre : Leonel Ezequiel
+Apellido : Asorey
+Cargo : Cajero, Atención al cliente, Recepción
+Direccion : Comandante Franco 1955
+Ciudad : Quilmes
+Telefono : 42598730
+Email : leonel.asorey@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Mi nombre es Leonel Asorey, tengo 28 años, tengo experiencia como cajero, atención a cliente, camarero. En este momento trabajo de manera independiente. A la espera de una favorabe respuesta os saudos atentamente.
+Security_code : 8dhfn
+Send : Enviar
+
+---------------
+
+Address : 181.44.5.36
+Nombre : Pablo Andrés
+Apellido : Artusso
+Cargo : Análisis económico - Inversiones
+Direccion : Av. Congreso 5156 4b
+Ciudad : Capital Federal
+Telefono : 1534231477
+Email : artusso.pablo@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimado/a,
+
+Le envío mi CV para que lo tenga en cuenta en las futuras búsquedas relacionadas a los campos de análisis económico e inversiones.
+
+Muchas gracias.
+Security_code : 4pnvb
+Send : Enviar
+
+---------------
+
+Address : 181.44.5.36
+Nombre : Pablo Andrés
+Apellido : Artusso
+Cargo : Análisis económico - Inversiones
+Direccion : Av. Congreso 5156 4b
+Ciudad : Capital Federal
+Telefono : 1534231477
+Email : artusso.pablo@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimado/a,
+
+Le envío mi CV para que lo tenga en cuenta en las futuras búsquedas relacionadas a los campos de análisis económico e inversiones.
+
+Muchas gracias.
+Security_code : 4pnvb
+Send : Enviar
+
+---------------
+
+Address : 181.44.5.36
+Nombre : Pablo Andrés
+Apellido : Artusso
+Cargo : Análisis económico - Inversiones
+Direccion : Av. Congreso 5156 4b
+Ciudad : Capital Federal
+Telefono : 1534231477
+Email : artusso.pablo@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimado/a,
+
+Le envío mi CV para que lo tenga en cuenta en las futuras búsquedas relacionadas a los campos de análisis económico e inversiones.
+
+Muchas gracias.
+Security_code : jztrg
+Send : Enviar
+
+---------------
+
+Address : 190.174.166.155
+Nombre : Jessica
+Apellido : Idiartegaray
+Cargo : Secretaria, Cadete Administrativa, Recepcionista
+Direccion : San blas 4461
+Ciudad : Buenos Aires
+Telefono : 1549144212
+Email : jessica_giovanna@hotmail.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola!
+Adjunto mi CV.
+
+Saludos.
+Security_code : h6ccf
+Send : Enviar
+
+---------------
+
+Address : 186.56.181.148
+Nombre : cecilia
+Apellido : arias
+Cargo : atencion al cliente
+Direccion : tucuman 3260
+Ciudad : caba
+Telefono : 1568171000
+Email : mca1986@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : quisiera trabajr con ustedes
+Security_code : ftnqb
+Send : Enviar
+
+---------------
+
+Address : 186.134.218.187
+Nombre : María Mercedes
+Apellido : Riquelme
+Cargo : Telemarketer
+Direccion : Corrientes 186
+Ciudad : Buenos Aires
+Telefono : 1537608200
+Email : riquelme_mariamercedes@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : *
+Security_code : 4wwm7
+Send : Enviar
+
+---------------
+

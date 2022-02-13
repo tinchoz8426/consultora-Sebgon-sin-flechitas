@@ -1,0 +1,193 @@
+Address : 186.135.52.46
+Nombre : Daiana
+Apellido : Veliz
+Cargo : Administrativo
+Direccion : Pedro Cabral 1397
+Ciudad : Pilar
+Telefono : 1156969273
+Email : daianagveliz@hotmail.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados
+Adjunto mi Curriculum. Desde ya muchas gracias. 
+Security_code : 366rb
+Send : Enviar
+
+---------------
+
+Address : 186.135.52.46
+Nombre : Daiana
+Apellido : Veliz
+Cargo : Administrativo
+Direccion : Pedro Cabral 1397
+Ciudad : Pilar
+Telefono : 1156969273
+Email : daianagveliz@hotmail.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados
+Adjunto mi Curriculum. Desde ya muchas gracias. 
+Security_code : 366rb
+Send : Enviar
+
+---------------
+
+Address : 186.135.52.46
+Nombre : Daiana
+Apellido : Veliz
+Cargo : Administrativo
+Direccion : Pedro Cabral 1397
+Ciudad : Pilar
+Telefono : 1156969273
+Email : daianagveliz@hotmail.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados
+Adjunto mi Curriculum. Desde ya muchas gracias. 
+Security_code : 366rb
+Send : Enviar
+
+---------------
+
+Address : 186.19.118.57
+Nombre : vanesa yanina
+Apellido : Diaz
+Cargo : Administrativa
+Direccion : tagle 3377
+Ciudad : lanús oeste
+Telefono : 1144448547
+Email : vanesazubillaga@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Sr. Gerente de Recursos Humanos
+
+De mi mayor consideración:
+
+Me dirijo a usted con el fin de enviarle mi curriculum vitae 
+Estimo que una entrevista será el marco adecuado para profundizar aspectos de mi perfil que puedan resultar de su interés.
+Sin otro particular, lo saludo a usted muy atentamente
+Vanesa Diaz
+Security_code : ndbry
+Send : Enviar
+
+---------------
+
+Address : 179.49.122.167
+Nombre : Maria Enelsa
+Apellido : del Rio
+Cargo : Recepcionista
+Direccion : Pte Uriburu 531 8 02
+Ciudad : capital Federal Buenos Aires
+Telefono : 0111532658639
+Email : marien77@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Envio mi cv me postulo como recep/asistente/secretaria/adm.
+Estudiante lic.gestion de medios (uade) en curso.Productora de tv (tea) finalizado.Inicio Diplomatura en Marketing 2015 ( marzo)
+Security_code : ypsky
+Send : Enviar
+
+---------------
+
+Address : 181.165.124.253
+Nombre : Corina
+Apellido : Lopez
+Cargo : Recepcionista
+Direccion : Grito de Asencio
+Ciudad : Cap Fed
+Telefono : 1534882629
+Email : corina_ayg@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : .
+Security_code : d277n
+Send : Enviar
+
+---------------
+
+Address : 190.51.80.238
+Nombre : José Luis
+Apellido : Miño
+Cargo : Joven Profesional (Seguridad e Higiene)
+Direccion : Grito de Alcorta 3371
+Ciudad : Morón
+Telefono : (011) 4697-3124 // (011) 15-6825-3354
+Email : joseluis2489@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Licenciado en Higiene, Seguridad y Control Ambiental Laboral.
+Security_code : 4h5hz
+Send : Enviar
+
+---------------
+
+Address : 190.51.80.238
+Nombre : José Luis
+Apellido : Miño
+Cargo : Joven Profesional (Seguridad e Higiene)
+Direccion : Grito de Alcorta 3371
+Ciudad : Morón
+Telefono : (011) 4697-3124 // (011) 15-6825-3354
+Email : joseluis2489@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Licenciado en Higiene, Seguridad y Control Ambiental Laboral.
+Security_code : 4h5hz
+Send : Enviar
+
+---------------
+
+Address : 190.51.80.238
+Nombre : José Luis
+Apellido : Miño
+Cargo : Joven Profesional (Seguridad e Higiene)
+Direccion : Grito de Alcorta 3371
+Ciudad : Morón
+Telefono : (011) 4697-3124 // (011) 15-6825-3354
+Email : joseluis2489@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Licenciado en Higiene, Seguridad y Control Ambiental Laboral.
+Security_code : 4h5hz
+Send : Enviar
+
+---------------
+
+Address : 190.51.80.238
+Nombre : José Luis
+Apellido : Miño
+Cargo : Joven Profesional (Seguridad e Higiene)
+Direccion : Grito de Alcorta 3371
+Ciudad : Morón
+Telefono : (011) 4697-3124 // (011) 15-6825-3354
+Email : joseluis2489@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Licenciado en Higiene, Seguridad y Control Ambiental Laboral.
+Security_code : d77bj
+Send : Enviar
+
+---------------
+
+Address : 190.172.76.132
+REF : VEN
+Nombre : noelia 
+Apellido : sanchez 
+Cargo : recepcionista, vendedora 
+Direccion : osvaldo cruz 3890
+Ciudad : buenos aires 
+Telefono : 49117660
+Email : canoo.sanchez.21032014@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : buenas noches aqui les dejo mi curriculum para  que lo analicen y vean si  tengo la posibilidad de ser parte de ustedes, 
+Security_code : mpxvx
+Send : Enviar
+
+---------------
+
+Address : 190.172.76.132
+REF : VEN
+Nombre : noelia 
+Apellido : sanchez 
+Cargo : recepcionista, vendedora 
+Direccion : osvaldo cruz 3890
+Ciudad : buenos aires 
+Telefono : 49117660
+Email : canoo.sanchez.21032014@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : buenas noches aqui les dejo mi curriculum para  que lo analicen y vean si  tengo la posibilidad de ser parte de ustedes, 
+Security_code : mpxvx
+Send : Enviar
+
+---------------
+

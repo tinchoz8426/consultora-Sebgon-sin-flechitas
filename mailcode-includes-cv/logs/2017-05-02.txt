@@ -1,0 +1,1290 @@
+Address : 181.44.76.48<br>
+ <br>REF : SP-1
+ <br>Nombre : Luis Gustavo
+ <br>Apellido : Stivanello
+ <br>Cargo : Supervisor
+ <br>Direccion : Quiroz 2285
+ <br>Ciudad : Ituzaingo
+ <br>Telefono : 1554983792/ 4661 6962 / 1549893632
+ <br>Email : luisstiv@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Responsable y dispuesto a nuevos desafíos
+ <br>Security_code : 7kf77
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.11<br>
+ <br>REF : EP-1
+ <br>Nombre : Constanza 
+ <br>Apellido : Apollaciati
+ <br>Cargo : Encargado de producción
+ <br>Direccion : Triunvirato 1162
+ <br>Ciudad : Temperley
+ <br>Telefono : 1534521610
+ <br>Email : constanza.apollaciati@hotmail.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenos días, adjunto mi currículum. Desde ya, muchas gracias por su tiempo.
+
+Constanza
+ <br>Security_code : x96qh
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.11<br>
+ <br>REF : EP-1
+ <br>Nombre : Constanza 
+ <br>Apellido : Apollaciati
+ <br>Cargo : Encargado de producción
+ <br>Direccion : Triunvirato 1162
+ <br>Ciudad : Temperley
+ <br>Telefono : 1534521610
+ <br>Email : constanza.apollaciati@hotmail.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenos días, adjunto mi currículum. Desde ya, muchas gracias por su tiempo.
+
+Constanza
+ <br>Security_code : x96qh
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.11<br>
+ <br>REF : EP-1
+ <br>Nombre : Constanza 
+ <br>Apellido : Apollaciati
+ <br>Cargo : Encargado de producción
+ <br>Direccion : Triunvirato 1162
+ <br>Ciudad : Temperley
+ <br>Telefono : 1534521610
+ <br>Email : constanza.apollaciati@hotmail.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenos días, adjunto mi currículum. Desde ya, muchas gracias por su tiempo.
+
+Constanza
+ <br>Security_code : x96qh
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.9<br>
+ <br>REF : EP-1
+ <br>Nombre : Constanza 
+ <br>Apellido : Apollaciati
+ <br>Cargo : Encargado de producción
+ <br>Direccion : Triunvirato 1162
+ <br>Ciudad : Temperley
+ <br>Telefono : 1534521610
+ <br>Email : constanza.apollaciati@hotmail.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenos días, adjunto mi currículum. Desde ya, muchas gracias por su tiempo.
+
+Constanza
+ <br>Security_code : h93qg
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.11<br>
+ <br>REF : EP-1
+ <br>Nombre : Flavia
+ <br>Apellido : Touzon
+ <br>Cargo : Encargada de produccion
+ <br>Direccion : Esmeralda 6731
+ <br>Ciudad : Jose L. Suarez - Bs. As.
+ <br>Telefono : 01153113292
+ <br>Email : flaviamtouzon@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Adjunto cv para su evaluacion y concretar una entrevista.
+ <br>Security_code : qKcpp
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.9<br>
+ <br>REF : EP-1
+ <br>Nombre : Flavia
+ <br>Apellido : Touzon
+ <br>Cargo : Encargada de produccion
+ <br>Direccion : Esmeralda 6731
+ <br>Ciudad : Jose L. Suarez - Bs. As.
+ <br>Telefono : 01153113292
+ <br>Email : flaviamtouzon@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Adjunto cv para su evaluacion y concretar una entrevista.
+ <br>Security_code : qkcpp
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.9<br>
+ <br>REF : EP-1
+ <br>Nombre : Carla Nataly
+ <br>Apellido : Zicarelli
+ <br>Cargo : Encargada de producción 
+ <br>Direccion : Larrazabal 934
+ <br>Ciudad : Capital federal
+ <br>Telefono : 1561320448
+ <br>Email : Carlazicarelli@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : .
+ <br>Security_code : Ypwd8
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.26.159.190<br>
+ <br>REF : EP-1
+ <br>Nombre : Jorge
+ <br>Apellido : Balestra
+ <br>Cargo : Encargado o maquinista o mantenimiento
+ <br>Direccion : Romero garciq 57
+ <br>Ciudad : monte grande
+ <br>Telefono : 1165343128
+ <br>Email : jorge_68_@outlook.es
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola me llamo Jorge y tengo 48 añoy ando en busca de empleo yo trabaje 15 año en la fabrica haciendo de encargado de maquinista  de mantenimiento o maquinista en producion
+ <br>Security_code : Jorge.
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.19.109.8<br>
+ <br>REF : SP-1
+ <br>Nombre : alberto 
+ <br>Apellido : lozano
+ <br>Cargo : supervisor
+ <br>Direccion : supisiche 100
+ <br>Ciudad : sarandi
+ <br>Telefono : 1552606759
+ <br>Email : unionbeto@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Referencia : SP-1 
+ <br>Security_code : xdxzr
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.104.201.66<br>
+ <br>REF : SP-1
+ <br>Nombre : LUCIANO
+ <br>Apellido : LENCINA
+ <br>Cargo : SUPERVISOR DE PRODUCCION
+ <br>Direccion : pizzurno 164
+ <br>Ciudad : EL JAGUEL
+ <br>Telefono : 1136915086
+ <br>Email : lucianogotan@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Envio Cv para postularme al puesto
+ <br>Security_code : 5g396
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.228.198.72<br>
+ <br>REF : TE-1
+ <br>Nombre : juan camilo
+ <br>Apellido : Melgarejo
+ <br>Cargo : tecnico electrico
+ <br>Direccion : av san juan 592
+ <br>Ciudad : Buenos aires
+ <br>Telefono : 1156953111
+ <br>Email : camilo.melgarejo@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buen dia
+
+Adjunto mi hoja de vida agradeceria tenerme en cuenta para el cargo en mencion
+ <br>Security_code : bb4gx
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.55.39.64<br>
+ <br>REF : EP-1
+ <br>Nombre : Gustavo Hugo
+ <br>Apellido : Ferro
+ <br>Cargo : Encargado de Produccion
+ <br>Direccion : Larrea 1694
+ <br>Ciudad : Cañuelas
+ <br>Telefono : 1128849487
+ <br>Email : ferrogustavohugo@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados,
+He visto la Oferta Laboral publicada, la misma me resultó de gran interés. Por este motivo, les hago llegar mi Currículum Vitae, a fin de ser tenido en cuenta como candidato.
+Quedo a su disposición para ampliar cualquier información necesaria.
+Cordialmente,
+Gustavo Hugo Ferro
+
+ <br>Security_code : sjvb2
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.130.52.23<br>
+ <br>REF : SP-1
+ <br>Nombre : alejandro
+ <br>Apellido : bustos
+ <br>Cargo : supervicion
+ <br>Direccion : 3 de octubre 2263
+ <br>Ciudad : ituzaingo
+ <br>Telefono : 1125300515
+ <br>Email : alejandrojosebustos@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Poseeo mas de veinte años de experiencia en manejo de grupo
+ <br>Security_code : mb4p6
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.130.52.23<br>
+ <br>Nombre : alejandro
+ <br>Apellido : bustos
+ <br>Cargo : empledo
+ <br>Direccion : 3 de octubre 2263
+ <br>Ciudad : ituzaingo
+ <br>Telefono : 1125300515
+ <br>Email : alejandrojosebustos@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Poseo veinte años de experiencia en manejo de grupos
+ <br>Security_code : 276yd
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.245.175.211<br>
+ <br>REF : EP-1
+ <br>Nombre : Pedro Pablo
+ <br>Apellido : ORBEA BRACHO
+ <br>Cargo : Encargado de Producción 
+ <br>Direccion :   Santo Tomé 6280
+ <br>Ciudad : CABA
+ <br>Telefono : 15-65775063
+ <br>Email : pabloorbea@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados
+Adjunto mi CV para postularme al puesto referido y aprovecho también para que sea considerado en cualquier otra búsqueda que se adapte a mi perfil.
+Gracias por su atención
+Ing. Pablo Orbea Bracho
+ <br>Security_code : 7t7j7
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 200.5.122.30<br>
+ <br>REF : Tectron
+ <br>Nombre : mariano
+ <br>Apellido : aguilera
+ <br>Cargo : tecnico electronico
+ <br>Direccion : genova 466
+ <br>Ciudad : merlo
+ <br>Telefono : 011-15-21702431
+ <br>Email : electroaguilera@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : envio mi cv para que me tengan en cuenta para alguna busqueda
+ <br>Security_code : sv6hm
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.19.166.216<br>
+ <br>REF : EP-1
+ <br>Nombre : Maria Soledad     
+ <br>Apellido : Delbo
+ <br>Cargo : Encargada/Administrativa/Nutricionista
+ <br>Direccion : Villafañe 152 7D
+ <br>Ciudad : C.A.B.A.
+ <br>Telefono : 01168279807
+ <br>Email : soldelbo@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Mi nombre es María Soledad Delbo, soy licenciada en nutrición (UBA), tengo 4 años de experiencia en el rubro, con orientación en todo lo que es administración de servicios y empresas gastronómicas. Actualmente me encuentro cursando la licenciatura en administración de empresas en UADE. Por tal motivo busco un nuevo empleo, que me permita seguir estudiando, ya que mi trabajo actual me demanda demasiada carga horaria (lunes a sábados promedio de 11 horas diarias)
+Les pido tengan a bien considerarme para un entrevista ante cualquier búsqueda que pueda ajustarse a mi perfil.
+Muchas gracias
+ <br>Security_code : xszpx
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.19.166.216<br>
+ <br>Nombre : Maria Soledad     
+ <br>Apellido : Delbo
+ <br>Cargo : Encargada/Administrativa/Nutricionista
+ <br>Direccion : Villafañe 152 7D
+ <br>Ciudad : C.A.B.A.
+ <br>Telefono : 01168279807
+ <br>Email : soldelbo@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Mi nombre es María Soledad Delbo, soy licenciada en nutrición (UBA), tengo 4 años de experiencia en el rubro, con orientación en todo lo que es administración de servicios y empresas gastronómicas. Actualmente me encuentro cursando la licenciatura en administración de empresas en UADE. Por tal motivo busco un nuevo empleo, que me permita seguir estudiando, ya que mi trabajo actual me demanda demasiada carga horaria (lunes a sábados promedio de 11 horas diarias)
+Les pido tengan a bien considerarme para un entrevista ante cualquier búsqueda que pueda ajustarse a mi perfil.
+Muchas gracias
+ <br>Security_code : dydg9
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 191.84.46.158<br>
+ <br>REF : EP-1
+ <br>Nombre : Mariano hernan
+ <br>Apellido : Acosta
+ <br>Cargo : Operario
+ <br>Direccion : Salvigny 6652 la ferrere (la matanza)
+ <br>Ciudad : Bs. As
+ <br>Telefono : 1562892215 
+ <br>Email : marianoacostahernan01@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Gracias por la oportunidad 
+ <br>Security_code : Sxcvc
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 191.84.46.158<br>
+ <br>REF : EP-1
+ <br>Nombre : Mariano hernan
+ <br>Apellido : Acosta
+ <br>Cargo : Operario
+ <br>Direccion : Salvigny 6652 la ferrere (la matanza)
+ <br>Ciudad : Bs. As
+ <br>Telefono : 1562892215 
+ <br>Email : marianoacostahernan01@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Gracias por la oportunidad 
+ <br>Security_code : 3bdqc
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.18.108.222<br>
+ <br>REF : SP-1
+ <br>Nombre : Gustavo 
+ <br>Apellido : Ardiles
+ <br>Cargo : Supervisor de producción
+ <br>Direccion : Bartolomé mitre, 1943
+ <br>Ciudad : Balvanera
+ <br>Telefono : 11 22880471
+ <br>Email : gustavoardilessilva@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Adjunto envío mi resumen curricular, esperando lo tomen en cuenta para la posición solicitada.
+ <br>Security_code : 73p83
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.47.177.98<br>
+ <br>REF : SP-1
+ <br>Nombre : Juan Jose 
+ <br>Apellido : Frias 
+ <br>Cargo : Supervicion de Produccion 
+ <br>Direccion : Malabia 2106 
+ <br>Ciudad : Buenos Aires 
+ <br>Telefono : 11 15 5958 8741
+ <br>Email : juanjosefrias@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Tengo el Agrado de dirigirme a Ustedes para enviar mi CV para la postulacion del puesto Supervicion de Produccion para su busquedad laborarl 
+Un coridial Saludos 
+Juan Frias 
+ <br>Security_code : 43bnb
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 200.59.158.251<br>
+ <br>REF : EP-1
+ <br>Nombre : Alejandro
+ <br>Apellido : Del Negro
+ <br>Cargo : Encargado de producción
+ <br>Direccion : Av, Rodriguez Peña 1014
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 1550940442
+ <br>Email : delnegro_ale@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenos días, soy Alejandro Del Negro, ingeniero industrial graduado en la UTN con 3 años de experiencia en planificación y control de la producción en industria textil 
+ 
+Muchas gracias!!!
+ <br>Security_code : qd648
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.190.79.7<br>
+ <br>REF : JPER-1
+ <br>Nombre : Sergio
+ <br>Apellido : Rodriguez
+ <br>Cargo : Jefe de Personal
+ <br>Direccion : Ruben Dario 4415
+ <br>Ciudad : Munro
+ <br>Telefono : 15-3450-4415
+ <br>Email : sergioniuk@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Les envío mi Cv para el puesto de referencia. Tengo muchos años de experiencia en RRHH y me resulta muy motivante la búsqueda de Uds. Quedando a disposición si así lo requirieran, los saluda atte. Sergio Rodriguez
+ <br>Security_code : jyqhd
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.11<br>
+ <br>REF : TE-1
+ <br>Nombre : Rey
+ <br>Apellido : Alejandro Andres
+ <br>Cargo : T.Electricista
+ <br>Direccion : El pampero
+ <br>Ciudad : Florencio varela
+ <br>Telefono : 1162704740
+ <br>Email : alejandro.a.rey@hotmail.Com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : e dirijo a ustedes para brindar mi mejor predisposicion laboral y experiencia desde ya muchas gracias
+ <br>Security_code : Tbw3g
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.93.138.43<br>
+ <br>REF : JPER-1
+ <br>Nombre : Diego
+ <br>Apellido : Kinsbrunner
+ <br>Cargo : Jefe de Personal
+ <br>Direccion : Moldes 3556 5 E
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 5491164652345
+ <br>Email : diego.kinsbrunner@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : A quien corresponda, muy buenas tardes.                
+
+Por la presente, me dirijo a ustedes a los efectos de hacerles llegar mi CV en respuesta al aviso de referencia para ser considerado a dicha búsqueda ya que es el tipo de posiciones que están alineadas a mi perfil y objetivos de carrera.
+
+Actualmente me encuentro en búsqueda de nuevos horizontes laborales, deseando nuevos desafíos, y para ello tengo formación generalista de RRHH tanto en temas hard como soft, contando además con experiencia en planeamiento, control de gestión y mejora de procesos. Asimismo cuento con experiencia en compañías multinacionales de diversos rubros, tanto en la Argentina como en el exterior, además de la experiencia y el conocimiento adicional del sector público.
+
+Busco continuar mi desarrollo profesional en áreas HR pudiendo tomar posiciones de liderazgo generalistas o bien tomar responsabilidades de especialista dentro del área según la posición lo requiera.
+
+Soy una persona con fuerte orientación a la gestión del negocio, capacidad analítica, iniciativa para la búsqueda de soluciones y orientado a resultados; con habilidad de adaptación a diferentes contextos y buen trato interpersonal con los otros. 
+
+Quedo a vuestra entera disposición en caso de que deseen pactar una entrevista para conocer más acerca de otros aspectos de mi perfil que pudieran ser un valor agregado para vuestra compañía.
+ 
+
+Desde ya, muchas gracias y aprovecho para saludarles muy atentamente. 
+
+
+
+
+Diego N. Kinsbrunner
+
+Cel.: +54 11 6465-2345
+Skype: diegokinsbrunner
+
+ <br>Security_code : b36w2
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.254.52.70<br>
+ <br>REF : EP-1
+ <br>Nombre : Ernesto Alejandro
+ <br>Apellido : Bettinotti
+ <br>Cargo : supervisor
+ <br>Direccion : independencia 151
+ <br>Ciudad : ciudadela
+ <br>Telefono : 15-3102-3737
+ <br>Email : ebettinotti72@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados estoy interesado en su propuesta, por favor consideren mi solicitud.
+ <br>Security_code : bhfqf
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.254.52.70<br>
+ <br>REF : Ing. quim
+ <br>Nombre : Ernesto Alejandro
+ <br>Apellido : Bettinotti
+ <br>Cargo : supervisor
+ <br>Direccion : independencia 151
+ <br>Ciudad : ciudadela
+ <br>Telefono : 15-3102-3737
+ <br>Email : ebettinotti72@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : hola
+ <br>Security_code : wvf95
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.254.52.70<br>
+ <br>REF : SP-1
+ <br>Nombre : Ernesto Alejandro
+ <br>Apellido : Bettinotti
+ <br>Cargo : supervisor
+ <br>Direccion : independencia 151
+ <br>Ciudad : ciudadela
+ <br>Telefono : 15-3102-3737
+ <br>Email : ebettinotti72@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : hola
+ <br>Security_code : md9nm
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.254.52.70<br>
+ <br>REF : EP-1
+ <br>Nombre : Ernesto Alejandro
+ <br>Apellido : Bettinotti
+ <br>Cargo : supervisor
+ <br>Direccion : independencia 151
+ <br>Ciudad : ciudadela
+ <br>Telefono : 15-3102-3737
+ <br>Email : ebettinotti72@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : hola
+ <br>Security_code : wc3ny
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.173.192.169<br>
+ <br>REF : SP-1
+ <br>Nombre : Juan Carlos
+ <br>Apellido : Gonzales Montero
+ <br>Cargo : Supervisor
+ <br>Direccion : Av. Almirante Brown 555 - La Boca
+ <br>Ciudad : La boca
+ <br>Telefono : 43073107
+ <br>Email : carlosgonzalesmontero@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : De amplia experiencia, innovador, motivado, orientado a producir resultados, dinámico, de probada experiencia, colaborador y trabajo en equipo, rápido, con habilidad para resolver problemas, muy emprendedor. Grandes deseos de superación y con proyección de trabajo en equipo, cumpliendo los objetivos asignados aun bajo presión. Considero que de acuerdo a mi experiencia laboral poseo la capacidad suficiente para realizar un complejo trabajo profesional
+ <br>Security_code : 6qpn4
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.173.192.169<br>
+ <br>REF : EP-1
+ <br>Nombre : Juan Carlos
+ <br>Apellido : Gonzales Montero
+ <br>Cargo : Supervisor
+ <br>Direccion : Av. Almirante Brown 555 - La Boca
+ <br>Ciudad : La boca
+ <br>Telefono : 43073107
+ <br>Email : carlosgonzalesmontero@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : De amplia experiencia, innovador, motivado, orientado a producir resultados, dinámico, de probada experiencia, colaborador y trabajo en equipo, rápido, con habilidad para resolver problemas, muy emprendedor. Grandes deseos de superación y con proyección de trabajo en equipo, cumpliendo los objetivos asignados aun bajo presión. Considero que de acuerdo a mi experiencia laboral poseo la capacidad suficiente para realizar un complejo trabajo profesional
+ <br>Security_code : nbwcd
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.173.192.169<br>
+ <br>REF : EP-1
+ <br>Nombre : Juan Carlos
+ <br>Apellido : Gonzales Montero
+ <br>Cargo : Supervisor
+ <br>Direccion : Av. Almirante Brown 555 - La Boca
+ <br>Ciudad : La boca
+ <br>Telefono : 43073107
+ <br>Email : carlosgonzalesmontero@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : De amplia experiencia, innovador, motivado, orientado a producir resultados, dinámico, de probada experiencia, colaborador y trabajo en equipo, rápido, con habilidad para resolver problemas, muy emprendedor. Grandes deseos de superación y con proyección de trabajo en equipo, cumpliendo los objetivos asignados aun bajo presión. Considero que de acuerdo a mi experiencia laboral poseo la capacidad suficiente para realizar un complejo trabajo profesional
+ <br>Security_code : dg2df
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.57.130.154<br>
+ <br>REF : JPER-1
+ <br>Nombre : JORGE DANIEL
+ <br>Apellido : GIMÉNEZ
+ <br>Cargo : JEFE DE PERSONAL
+ <br>Direccion : RIO DIAMANTE 1690
+ <br>Ciudad : BELLA VISTA
+ <br>Telefono : 1123012991
+ <br>Email : dgimenezar@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Adjunto envío carta de presentación y CV.-
+ <br>Security_code : drvym
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.46.28.172<br>
+ <br>REF : SP-1
+ <br>Nombre : Marcos
+ <br>Apellido : Schloymann
+ <br>Cargo : supervisor de producción
+ <br>Direccion : Av. San Juan 1490
+ <br>Ciudad : Capital Federal
+ <br>Telefono : 1169819735
+ <br>Email : marcosschloymann@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas tardes, 
+Les envío mi CV y datos personales para ser tenido en cuenta en su oferta de empleo. Soy una persona dinámica con facilidad de aprendizaje y experiencia de trabajo en grupo así como también en varias otras tareas relacionadas a mi profesión, tales como tener personal a cargo, mantenimiento, producción, calidad, proceso, entre otras tareas. Espero poder ampliar en una entrevista laboral.
+Saludos cordiales.
+
+ <br>Security_code : kdbpp
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.46.28.172<br>
+ <br>REF : EP-1
+ <br>Nombre : Marcos
+ <br>Apellido : Schloymann
+ <br>Cargo : Encargado de producción
+ <br>Direccion : Av. San Juan 1490
+ <br>Ciudad : Capital Federal
+ <br>Telefono : 01169819735
+ <br>Email : marcosschloymann@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas tardes, 
+Les envío mi CV y datos personales para ser tenido en cuenta en su oferta de empleo. Soy una persona dinámica con facilidad de aprendizaje y experiencia de trabajo en grupo así como también en varias otras tareas relacionadas a mi profesión, tales como tener personal a cargo, mantenimiento, producción, calidad, proceso, entre otras tareas. Espero poder ampliar en una entrevista laboral.
+Saludos cordiales.
+
+ <br>Security_code : qxqrm
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.9<br>
+ <br>REF : EP-1
+ <br>Nombre : Juancarlos
+ <br>Apellido : Rondón Osorio
+ <br>Cargo : Jefe de producción
+ <br>Direccion : Tucumán 331
+ <br>Ciudad : Buenos aires
+ <br>Telefono : 0112251-5503
+ <br>Email : rojuancarlos@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Mediante la presente expongo mi postulación al cargo indicado. Poseo más de 5 años de experiencia en la industria de alimentos en producción y calidad . Manejo de normas internacionales ISO, codex . Manejo de personal 
+ <br>Security_code : K7kxb
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 200.125.106.19<br>
+ <br>REF : EP-1
+ <br>Nombre : Gaston Alejandro
+ <br>Apellido : Bermudez
+ <br>Cargo : encargado
+ <br>Direccion : bautista alberdi 1125
+ <br>Ciudad : haedo
+ <br>Telefono : 1531560789
+ <br>Email : bermudezgaston@hotmail.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola, estoy interesado en el puesto
+ <br>Security_code : 2wq5d
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.130.91.1<br>
+ <br>REF : chr
+ <br>Nombre : ignacio lucas 
+ <br>Apellido : aspiro
+ <br>Cargo : chofer de reparto
+ <br>Direccion : portugal 3693
+ <br>Ciudad : ituzaingo
+ <br>Telefono : 1562762354
+ <br>Email : ilabostero7@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : buenos dias, estoy interesado en el trabajo de chofer de reparto , ya que tengo experiencia en carga y descarga de mercaderia , y con licencia de conducir al dia. desde ya muchas gracias
+ <br>Security_code : 8spdr
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 191.81.30.72<br>
+ <br>REF : EP-1
+ <br>Nombre : Constanza
+ <br>Apellido : Apollaciati
+ <br>Cargo : Encargado de producción
+ <br>Direccion : Triunvirato 1162
+ <br>Ciudad : Temperley
+ <br>Telefono : 1534521610
+ <br>Email : constanza.apollaciati@hotmail.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas tardes adjunto mi curriculum vitae.
+Desde ya muchas gracias por su tiempo.
+
+Constanza
+ <br>Security_code : rh8dj
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.26.159.190<br>
+ <br>REF : JPER-1
+ <br>Nombre : Jorge
+ <br>Apellido : Balestra
+ <br>Cargo : Encargado o maquinista o mantenimiento
+ <br>Direccion : Romero garciq 57
+ <br>Ciudad : monte grande
+ <br>Telefono : 1165343128
+ <br>Email : jorge_68_@outlook.es
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola me llamo Jorge tengo 48 año y ando en busca de empleo urgente
+ <br>Security_code : Jorge.
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.47.33.140<br>
+ <br>REF : TE-1
+ <br>Nombre : Hector Guillermo
+ <br>Apellido : Martinez
+ <br>Cargo : Tecnico electrico o electrónico
+ <br>Direccion : Fray Cayetano Rodríguez 850
+ <br>Ciudad : Capital Federal
+ <br>Telefono : 1534988379
+ <br>Email : guillermartins1@gmail.co
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Esperando que sea de su agrado les adjunto mi currículum. Los saluda arte. 
+Hector Guillermo Martínez
+ <br>Security_code : 3q75d
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.47.33.140<br>
+ <br>REF : TE-1
+ <br>Nombre : Hector Guillermo
+ <br>Apellido : Martinez
+ <br>Cargo : Tecnico electrico o electrónico
+ <br>Direccion : Fray Cayetano Rodríguez 850
+ <br>Ciudad : Capital Federal
+ <br>Telefono : 1534988379
+ <br>Email : guillermartins1@gmail.co
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Esperando que sea de su agrado les adjunto mi currículum. Los saluda arte. 
+Hector Guillermo Martínez
+ <br>Security_code : 3q75d
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.188.105.195<br>
+ <br>REF : EP-1
+ <br>Nombre : Cesar
+ <br>Apellido : Henao
+ <br>Cargo : Encargado de Producción
+ <br>Direccion : Maipu 26 Piso 7 Depto E
+ <br>Ciudad : Capital Federal
+ <br>Telefono : 1134974025
+ <br>Email : cesarh26@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Respetados Señores:
+
+
+Me dirijo a ustedes con el fin de hacerles llegar mi Curriculum Vitae, para su consideración.
+
+Como podrán  ver,  poseo una amplia experiencia en empresas productoras; con conocimientos y experiencias en Administración de compras, warehouse, bill of materials, supply chain; manejo de proveedores, facturación y supervisión entre otros. Además  manejo, mejora y control de procesos; planificación de la producción, insumos, materias primas y producto terminado. Controles de mermas, de costos y desperdicios; ajuste de formulaciones, mejoras en la productividad. Asimismo implementación, desarrollo y puesta en marcha de sistemas de calidad para la industria de los alimentos, GMP, POES, HACCP, ISO 22000.
+
+No obstante a la experiencia ya adquirida, deseo poder incorporar nuevos conocimientos; tener nuevos desafíos y responsabilidades. Adicionalmente a lo ya escrito, considero que mi pro-actividad, mis ganas de aprender y mí formación actualizada, aportarían elementos importantes a su empresa.
+
+Por ello espero que los datos que aquí encuentren sean de su interés y me de la oportunidad de conocerles en una entrevista donde ustedes podrán ampliar la información que aquí les suministro. Me pueden ubicar telefónicamente al móvil 15-34974025 o en mí correo electrónico cesarh26@hotmail.com.
+
+
+Cordialmente,
+
+
+Cesar Augusto Henao Perez
+D.N.I. 94414025
+
+ <br>Security_code : mfnd7
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.188.105.195<br>
+ <br>REF : EP-1
+ <br>Nombre : Cesar
+ <br>Apellido : Henao
+ <br>Cargo : Encargado de Producción
+ <br>Direccion : Maipu 26 Piso 7 Depto E
+ <br>Ciudad : Capital Federal
+ <br>Telefono : 1134974025
+ <br>Email : cesarh26@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Tecnología de Alimentos y Técnico en Control de Calidad de Alimentos con experiencias y destrezas adquiridas en la planificación de la producción, control y mejora de procesos; mejoras en la productividad; control de mermas, costos, desperdicios y ajuste de formulaciones. 
+Experiencia en administración de compras, warehouse, bill of materials y supply chain; compras (órdenes de compra), generación de pedidos; revisión y control de remitos, recepción de proveedores e inspección de mercaderías; abastecimiento; control de inventarios, niveles de stock y actualización en sistema; conformación y revisión de facturas; manejo de documentación y archivos.
+Manejo de equipos, materias primas, productos en proceso, subproductos y producto terminado para su manipulación, procesamiento y conservación, dentro de los parámetros de calidad y sanidad exigidos. Implementación, desarrollo y puesta en marcha de sistemas de calidad para la industria de los alimentos, GMP, POES, HACCP, ISO 22000. Además, aplicación de métodos de muestreo y técnicas para el análisis de laboratorio tanto físicos, químicos, microbiológicos y sensoriales en productos alimenticios que garantizan el proceso de gestión de la calidad. 
+
+ <br>Security_code : mfnd7
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.188.105.195<br>
+ <br>REF : EP-1
+ <br>Nombre : Cesar
+ <br>Apellido : Henao
+ <br>Cargo : Encargado de Producción
+ <br>Direccion : Maipu 26 Piso 7 Depto E
+ <br>Ciudad : Capital Federal
+ <br>Telefono : 1134974025
+ <br>Email : cesarh26@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Tecnología de Alimentos y Técnico en Control de Calidad de Alimentos con experiencias y destrezas adquiridas en la planificación de la producción, control y mejora de procesos; mejoras en la productividad; control de mermas, costos, desperdicios y ajuste de formulaciones. 
+Experiencia en administración de compras, warehouse, bill of materials y supply chain; compras (órdenes de compra), generación de pedidos; revisión y control de remitos, recepción de proveedores e inspección de mercaderías; abastecimiento; control de inventarios, niveles de stock y actualización en sistema; conformación y revisión de facturas; manejo de documentación y archivos.
+Manejo de equipos, materias primas, productos en proceso, subproductos y producto terminado para su manipulación, procesamiento y conservación, dentro de los parámetros de calidad y sanidad exigidos. Implementación, desarrollo y puesta en marcha de sistemas de calidad para la industria de los alimentos, GMP, POES, HACCP, ISO 22000. Además, aplicación de métodos de muestreo y técnicas para el análisis de laboratorio tanto físicos, químicos, microbiológicos y sensoriales en productos alimenticios que garantizan el proceso de gestión de la calidad. 
+
+ <br>Security_code : 4rbdd
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.188.105.195<br>
+ <br>REF : EP-1
+ <br>Nombre : Cesar
+ <br>Apellido : Henao
+ <br>Cargo : Encargado de Producción
+ <br>Direccion : Maipu 26 Piso 7 Depto E
+ <br>Ciudad : Capital Federal
+ <br>Telefono : 1134974025
+ <br>Email : cesarh26@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Tecnología de Alimentos y Técnico en Control de Calidad de Alimentos con experiencias y destrezas adquiridas en la planificación de la producción, control y mejora de procesos; mejoras en la productividad; control de mermas, costos, desperdicios y ajuste de formulaciones. 
+Experiencia en administración de compras, warehouse, bill of materials y supply chain; compras (órdenes de compra), generación de pedidos; revisión y control de remitos, recepción de proveedores e inspección de mercaderías; abastecimiento; control de inventarios, niveles de stock y actualización en sistema; conformación y revisión de facturas; manejo de documentación y archivos.
+Manejo de equipos, materias primas, productos en proceso, subproductos y producto terminado para su manipulación, procesamiento y conservación, dentro de los parámetros de calidad y sanidad exigidos. Implementación, desarrollo y puesta en marcha de sistemas de calidad para la industria de los alimentos, GMP, POES, HACCP, ISO 22000. Además, aplicación de métodos de muestreo y técnicas para el análisis de laboratorio tanto físicos, químicos, microbiológicos y sensoriales en productos alimenticios que garantizan el proceso de gestión de la calidad. 
+
+ <br>Security_code : 4rbdd
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.188.105.195<br>
+ <br>REF : EP-1
+ <br>Nombre : Cesar
+ <br>Apellido : Henao
+ <br>Cargo : Encargado de Producción
+ <br>Direccion : Maipu 26 Piso 7 Depto E
+ <br>Ciudad : Capital Federal
+ <br>Telefono : 1134974025
+ <br>Email : cesarh26@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Tecnología de Alimentos y Técnico en Control de Calidad de Alimentos con experiencias y destrezas adquiridas en la planificación de la producción, control y mejora de procesos; mejoras en la productividad; control de mermas, costos, desperdicios y ajuste de formulaciones. 
+Experiencia en administración de compras, warehouse, bill of materials y supply chain; compras (órdenes de compra), generación de pedidos; revisión y control de remitos, recepción de proveedores e inspección de mercaderías; abastecimiento; control de inventarios, niveles de stock y actualización en sistema; conformación y revisión de facturas; manejo de documentación y archivos.
+Manejo de equipos, materias primas, productos en proceso, subproductos y producto terminado para su manipulación, procesamiento y conservación, dentro de los parámetros de calidad y sanidad exigidos. Implementación, desarrollo y puesta en marcha de sistemas de calidad para la industria de los alimentos, GMP, POES, HACCP, ISO 22000. Además, aplicación de métodos de muestreo y técnicas para el análisis de laboratorio tanto físicos, químicos, microbiológicos y sensoriales en productos alimenticios que garantizan el proceso de gestión de la calidad. 
+
+ <br>Security_code : bgpnc
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.138.86.140<br>
+ <br>REF : SP-1
+ <br>Nombre : Fernando Daniel
+ <br>Apellido : Cicchitti
+ <br>Cargo : Supervisor
+ <br>Direccion : Arenales 578
+ <br>Ciudad : Campana
+ <br>Telefono : 0348915496887
+ <br>Email : fernando7111@hotmail.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Busqueda de Trabajo 
+Mirar CV
+ <br>Security_code : 5yxtd
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.138.86.140<br>
+ <br>Nombre : Fernando Daniel
+ <br>Apellido : Cicchitti
+ <br>Cargo : Supervisor
+ <br>Direccion : Arenales 578
+ <br>Ciudad : Campana
+ <br>Telefono : 0348915496887
+ <br>Email : fernando7111@hotmail.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Busqueda de Trabajo.
+Mirar CV
+ <br>Security_code : qkzdw
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.188.105.195<br>
+ <br>REF : EP-1
+ <br>Nombre : Cesar
+ <br>Apellido : Henao
+ <br>Cargo : Encargado Produccion
+ <br>Direccion : Maipu 26 Piso 7 Depto E
+ <br>Ciudad : Capital Federal
+ <br>Telefono : 1134974025
+ <br>Email : cesarh26@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Tecnología de Alimentos y Técnico en Control de Calidad de Alimentos con experiencias y destrezas adquiridas en la planificación de la producción, control y mejora de procesos; mejoras en la productividad; control de mermas, costos, desperdicios y ajuste de formulaciones. 
+Experiencia en administración de compras, warehouse, bill of materials y supply chain; compras (órdenes de compra), generación de pedidos; revisión y control de remitos, recepción de proveedores e inspección de mercaderías; abastecimiento; control de inventarios, niveles de stock y actualización en sistema; conformación y revisión de facturas; manejo de documentación y archivos.
+Manejo de equipos, materias primas, productos en proceso, subproductos y producto terminado para su manipulación, procesamiento y conservación, dentro de los parámetros de calidad y sanidad exigidos. Implementación, desarrollo y puesta en marcha de sistemas de calidad para la industria de los alimentos, GMP, POES, HACCP, ISO 22000. Además, aplicación de métodos de muestreo y técnicas para el análisis de laboratorio tanto físicos, químicos, microbiológicos y sensoriales en productos alimenticios que garantizan el proceso de gestión de la calidad. 
+
+ <br>Security_code : cjqsx
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.3.90.226<br>
+ <br>REF : JPER-1
+ <br>Nombre : Sebastian
+ <br>Apellido : Fernandez
+ <br>Cargo : Jefe de Personal
+ <br>Direccion : aigorria 3523
+ <br>Ciudad : CABA
+ <br>Telefono : 1140901996
+ <br>Email : sebastian.l.fernandez@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas tardes
+
+dejo mi cv para aplicar a la oferta lab de referencia
+ <br>Security_code : 4pcft
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.171.30.216<br>
+ <br>REF : SP-1
+ <br>Nombre : Pablo Gabriel
+ <br>Apellido : Montenegro
+ <br>Cargo : Supervisor de Producción
+ <br>Direccion : Mamberti 1453 Dto. A
+ <br>Ciudad : Lanus
+ <br>Telefono : 1551477170
+ <br>Email : montenegropg@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados,
+He visto la Oferta Laboral publicada y la misma me resultó de gran interés. Por este motivo, les hago llegar mi Currículum Vitae, a fin de ser tenido en cuenta como candidato.
+Quedo a su disposición para ampliar cualquier información necesaria.
+Cordialmente,
+ <br>Security_code : q6xdb
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.188.104.106<br>
+ <br>REF : ACO
+ <br>Nombre : Rita del Pilar 
+ <br>Apellido : Santamarina
+ <br>Cargo : ACO
+ <br>Direccion : Sarmiento 2338
+ <br>Ciudad : Capital Federal
+ <br>Telefono : 1161813647
+ <br>Email : rpilsantamarina@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas tardes:
+
+Me interesa la propuesta de referencia.
+
+Poseo experiencia en el sector comercial mediante la gestión telefónica del cliente y su prospección.
+
+Les adjunto mi CV. Muchas gracias,
+
+Saludos cordiales,
+
+Rita del Pilar Santamarina
+ <br>Security_code : 3x7mt
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.188.105.195<br>
+ <br>REF : SP-1
+ <br>Nombre : Cesar
+ <br>Apellido : Henao
+ <br>Cargo : SP-1
+ <br>Direccion : Maipu 26 Piso 7 Depto E
+ <br>Ciudad : Capital Federal
+ <br>Telefono : 1134974025
+ <br>Email : cesarh26@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Respetados Señores:
+
+
+Me dirijo a ustedes con el fin de hacerles llegar mi Curriculum Vitae, para su consideración.
+
+Como podrán  ver,  poseo una amplia experiencia en empresas productoras; con conocimientos y experiencias en Administración de compras, warehouse, bill of materials, supply chain; manejo de proveedores, facturación y supervisión entre otros. Además  manejo, mejora y control de procesos; planificación de la producción, insumos, materias primas y producto terminado. Controles de mermas, de costos y desperdicios; ajuste de formulaciones, mejoras en la productividad. Asimismo implementación, desarrollo y puesta en marcha de sistemas de calidad para la industria de los alimentos, GMP, POES, HACCP, ISO 22000.
+
+No obstante a la experiencia ya adquirida, deseo poder incorporar nuevos conocimientos; tener nuevos desafíos y responsabilidades. Adicionalmente a lo ya escrito, considero que mi pro-actividad, mis ganas de aprender y mí formación actualizada, aportarían elementos importantes a su empresa.
+
+Por ello espero que los datos que aquí encuentren sean de su interés y me de la oportunidad de conocerles en una entrevista donde ustedes podrán ampliar la información que aquí les suministro. Me pueden ubicar telefónicamente al móvil 15-34974025 o en mí correo electrónico cesarh26@hotmail.com.
+
+
+Cordialmente,
+
+
+Cesar Augusto Henao Perez
+D.N.I. 94414025
+
+ <br>Security_code : tvhpk
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.138.9.111<br>
+ <br>REF : SP-1
+ <br>Nombre : Nicolás
+ <br>Apellido : Cotliar
+ <br>Cargo : Supervisor de Producción
+ <br>Direccion : Larrazabal 231
+ <br>Ciudad : CABA
+ <br>Telefono : 1550283142
+ <br>Email : nicocotliar@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : stimados
+
+Mi nombre es Nicolás Cotliar, soy Licenciado en Química graduado en UBA.
+
+Cuento con una amplia experiencia en el área de Laboratorio y Producción de diversos tipos de Industrias Químicas y en estos momentos me encuentro dentro de una intensa búsqueda laboral.
+
+Es por ello que me interesaría formar parte de vuestro equipo, en el área donde pudiera abrirse una oportunidad que encaje con mi perfiL. Mis expectativas son sobretodo el constante aprendizaje de crecer profesional y personalmente, aportando mis conocimientos en pos de lograr mejoras contínuas en mis tareas
+
+En mi CV, que adjunto, encontrarán mis datos de contacto
+
+Saludos Cordiales
+ <br>Security_code : st99t
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 200.127.34.144<br>
+ <br>REF : EP-1
+ <br>Nombre : Gustavo
+ <br>Apellido : Ferreira
+ <br>Cargo : Supervisor
+ <br>Direccion : alsina 800
+ <br>Ciudad : avellaneda
+ <br>Telefono : 1537007388
+ <br>Email : gaf_800@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me postula a este empleo contando con una amplia experiencia en manejos de grupos y estandares de calidad y produccion
+ <br>Security_code : 9ss32
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.46.224.50<br>
+ <br>REF : EP-1
+ <br>Nombre : Paola
+ <br>Apellido : Molina
+ <br>Cargo : Ingenieria en Alimentos
+ <br>Direccion : Barrio La Laguna
+ <br>Ciudad : Latacunga
+ <br>Telefono : +593983901234
+ <br>Email : paomolina14_1994@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados,
+Para mi sería un honor formar parte de su equipo de trabajo, estoy dispuesta a dar lo mejor con el fin de obtener resultados positivos para la empresa. 
+ <br>Security_code : mvcxt
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.46.224.50<br>
+ <br>REF : EP-1
+ <br>Nombre : Paola
+ <br>Apellido : Molina
+ <br>Cargo : Ingenieria en Alimentos
+ <br>Direccion : Barrio La Laguna
+ <br>Ciudad : Latacunga
+ <br>Telefono : +593983901234
+ <br>Email : paomolina14_1994@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados,
+Para mi sería un honor formar parte de su equipo de trabajo, estoy dispuesta a dar lo mejor con el fin de obtener resultados positivos para la empresa. 
+ <br>Security_code : mvcxt
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.216.214.13<br>
+ <br>REF : ACO-1
+ <br>Nombre : Vanesa
+ <br>Apellido : Longarini
+ <br>Cargo : Comercio Exterior
+ <br>Direccion : Av. caseros 1429
+ <br>Ciudad : C.A.B.A.
+ <br>Telefono : 1169696588
+ <br>Email : vanesa.longarini@hotmail.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Quisiera postularme en la busqueda laboral, ya que tengo experiencia y mucho conociemiento en el rubro del comercio internacional
+ <br>Security_code : wnp4h
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.122.35.231<br>
+ <br>REF : EP-1
+ <br>Nombre : salvador
+ <br>Apellido : Oreskovic
+ <br>Cargo : encargado de producción
+ <br>Direccion : 58, 6595
+ <br>Ciudad : Berazategui
+ <br>Telefono : 42588127
+ <br>Email : soresko@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Les mando mis datos en CV pra postulerme al puesto requerido. Saludos cordiales 
+ <br>Security_code : mtqsx
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.122.35.231<br>
+ <br>REF : EP-1
+ <br>Nombre : salvador
+ <br>Apellido : Oreskovic
+ <br>Cargo : encargado de producción
+ <br>Direccion : 58, 6595
+ <br>Ciudad : Berazategui
+ <br>Telefono : 42588127
+ <br>Email : soresko@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Les mando mis datos en CV pra postulerme al puesto requerido. Saludos cordiales 
+ <br>Security_code : ynqtt
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.138.167.235<br>
+ <br>REF : EP-1
+ <br>Nombre : Jorge Joaquín
+ <br>Apellido : Alves
+ <br>Cargo : Encargado de producción 
+ <br>Direccion : Tte. Ibañez 600
+ <br>Ciudad : Concordia
+ <br>Telefono : 3454012870
+ <br>Email : joaquin.alves@outlook.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados, habiendo tomado conocimiento de esta oferta laboral, les hago llegar mi CV a fin de que sea tenido en cuenta en la misma. Me considero una persona proactiva, responsable y con muy buenas capacidades sociales. 
+Quedo a su completa disposición para una potencial entrevista personal o por skype. 
+Me despido, dejandole mis cordiales saludos. 
+ <br>Security_code : w4syf
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.212.222.212<br>
+ <br>REF : EP-1
+ <br>Nombre : Matias
+ <br>Apellido : Giannattasio
+ <br>Cargo : Control de Calidad
+ <br>Direccion : 25 de Mayo 375
+ <br>Ciudad : Junin
+ <br>Telefono : 2364413706
+ <br>Email : matig.16@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Soy Ingeniero en Alimentos, con 2 años de experiencia en Control de Calidad en una empresa avícola
+ <br>Security_code : txsmx
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.212.222.212<br>
+ <br>REF : EP-1
+ <br>Nombre : Matias
+ <br>Apellido : Giannattasio
+ <br>Cargo : Control de Calidad
+ <br>Direccion : 25 de Mayo 375
+ <br>Ciudad : Junin
+ <br>Telefono : 2364413706
+ <br>Email : matig.16@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Soy Ingeniero en Alimentos, con 2 años de experiencia en Control de Calidad en una empresa avícola
+ <br>Security_code : fm9cd
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.229.244.137<br>
+ <br>REF : EP-1
+ <br>Nombre : Mailen
+ <br>Apellido : Scatizza
+ <br>Cargo : Encargado de produccion
+ <br>Direccion : 22 Nro 1762
+ <br>Ciudad : La Plata
+ <br>Telefono : 54-2215592211
+ <br>Email : mailenscatizza@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Mi nombre es Maria Mailen Scatizza, vivo en La Plata, tengo 26 años y acabo de adquirir el titulo de Licenciatura en Ciencia y Tecnología de los Alimentos y Técnica química universitaria en  la Facultad de Cs Exactas. UNLP. 
+
+Actualmente estoy solictando empleo referido a mi profesion.En este caso:  Analista Junior de Calidad .Considero importante destacar que tengo conocimientos de Inglés tanto en el dialogo, escritura y lectura y dispongo de movilidad propia.
+
+Adjunto mi CV y estoy a entera disposición frente a cualquier consulta y solicitud de empleo.
+
+Les saluda atentamente
+ <br>Security_code : 5scst
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.229.244.137<br>
+ <br>REF : Ing. quim
+ <br>Nombre : Mailen
+ <br>Apellido : Scatizza
+ <br>Cargo : Jefa de Produccion
+ <br>Direccion : 22 Nro 1762
+ <br>Ciudad : La Plata
+ <br>Telefono : 54-2215592211
+ <br>Email : mailenscatizza@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Mi nombre es Maria Mailen Scatizza, vivo en La Plata, tengo 26 años y acabo de adquirir el titulo de Licenciatura en Ciencia y Tecnología de los Alimentos y Técnica química universitaria en  la Facultad de Cs Exactas. UNLP. 
+
+Actualmente estoy solictando empleo referido a mi profesion.En este caso:  Analista Junior de Calidad .Considero importante destacar que tengo conocimientos de Inglés tanto en el dialogo, escritura y lectura y dispongo de movilidad propia.
+
+Adjunto mi CV y estoy a entera disposición frente a cualquier consulta y solicitud de empleo.
+
+Les saluda atentamente
+ <br>Security_code : 94pzb
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.229.244.137<br>
+ <br>REF : EP-1
+ <br>Nombre : Mailen
+ <br>Apellido : Scatizza
+ <br>Cargo : EP-1
+ <br>Direccion : 22 Nro 1762
+ <br>Ciudad : La Plata
+ <br>Telefono : 54-2215592211
+ <br>Email : mailenscatizza@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Mi nombre es Maria Mailen Scatizza, vivo en La Plata, tengo 26 años y acabo de adquirir el titulo de Licenciatura en Ciencia y Tecnología de los Alimentos y Técnica química universitaria en  la Facultad de Cs Exactas. UNLP. 
+
+Actualmente estoy solictando empleo referido a mi profesion.En este caso:  Analista Junior de Calidad .Considero importante destacar que tengo conocimientos de Inglés tanto en el dialogo, escritura y lectura y dispongo de movilidad propia.
+
+Adjunto mi CV y estoy a entera disposición frente a cualquier consulta y solicitud de empleo.
+
+Les saluda atentamente
+ <br>Security_code : QDYJ4
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.9<br>
+ <br>REF : EP-1
+ <br>Nombre : Salvador Alberto
+ <br>Apellido : Carballo
+ <br>Cargo : Encargado de produccion
+ <br>Direccion : Roberto Ruiz 645 
+ <br>Ciudad : Haedo 
+ <br>Telefono : 0111564441340
+ <br>Email : salvador.carballo@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Quisiera postularme al puesto mencionado. Espero les sea de interes mi perfil. 
+ <br>Security_code : 6w65w
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.9<br>
+ <br>REF : TE-1
+ <br>Nombre : Salvador Alberto
+ <br>Apellido : Carballo
+ <br>Cargo : Técnico electrico
+ <br>Direccion : Roberto Ruiz 645 
+ <br>Ciudad : Haedo 
+ <br>Telefono : 0111564441340
+ <br>Email : salvador.carballo@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Quisiera postularme al puesto mencionado. Espero que mi perfil sea de interes. 
+ <br>Security_code : 8r85h
+ <br>Send : Enviar
+ <br>
+---------------
+

@@ -1,0 +1,15 @@
+Address : 186.56.33.130
+Nombre : lucas
+Apellido : gonzalez
+Cargo : empleado
+Direccion : esmeralda y ruta 36 entrada 10 dpto 73
+Ciudad : florencio varela
+Telefono : 42211477
+Email : lucas1995_gonzalez@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : busco trabajo,estudio terciario en turno tarde
+Security_code : b3mk2
+Send : Enviar
+
+---------------
+

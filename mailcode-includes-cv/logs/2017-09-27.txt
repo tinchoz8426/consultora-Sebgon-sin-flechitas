@@ -1,0 +1,81 @@
+Address : 190.192.26.168<br>
+ <br>REF : Ing. quim
+ <br>Nombre : Alexander
+ <br>Apellido : Didenot 
+ <br>Cargo : Jefe de produccion
+ <br>Direccion : Sarmiento 1287
+ <br>Ciudad : CAPITAL FEDERAL (CP= 1041)
+ <br>Telefono : 1537719209
+ <br>Email : adidenot@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : A su orden para cualquier consulta adicional
+ <br>Security_code : tg2gn
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.22.135.52<br>
+ <br>REF : chr
+ <br>Nombre : gabriel
+ <br>Apellido : arias
+ <br>Cargo : chofer
+ <br>Direccion : carcaraña 3165
+ <br>Ciudad : Rafael Castillo
+ <br>Telefono : 011 1526957533
+ <br>Email : gabrielomararias21@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : hola,tengo 46 años ,tengo registro categoria ayb carga hasta 3500.secundario imcompleto
+ <br>Security_code : 6ghnh
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.22.135.52<br>
+ <br>REF : chr
+ <br>Nombre : gabriel
+ <br>Apellido : arias
+ <br>Cargo : chofer
+ <br>Direccion : carcaraña 3165
+ <br>Ciudad : Rafael Castillo
+ <br>Telefono : 011 1526957533
+ <br>Email : gabrielomararias21@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : hola,tengo 46 años ,tengo registro categoria ayb carga hasta 3500.secundario imcompleto
+ <br>Security_code : 6ghnh
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.84.0.151<br>
+ <br>REF : Ing. quim
+ <br>Nombre : Manuel Antonio
+ <br>Apellido : Vera Wong
+ <br>Cargo : Jefe de Produccion
+ <br>Direccion : Ayacucho 2168, Buenos Aires. Ciudad Autónoma de Buenos Aires 1112, Argentina. 
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : + 54 9 11 2691 5807 
+ <br>Email : manuelverawong@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me gustaría participar en el proceso de selección del cargo Jefe de Producción.
+ <br>Security_code : 9b75g
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 200.115.217.155<br>
+ <br>REF : Ing. quim
+ <br>Nombre : carmen
+ <br>Apellido : otero
+ <br>Cargo : ing. qco
+ <br>Direccion : yerua 1833
+ <br>Ciudad : san justo
+ <br>Telefono : 1562484199
+ <br>Email : carmen1766@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estoy en proceso de rendir el último final, pero como verán poseo amplia experiencia, adaptabilidad a nuevos desafíos y movilidad propia.
+desde ya muy agradecida y quedo a vuestra disposición
+ <br>Security_code : mn27z
+ <br>Send : Enviar
+ <br>
+---------------
+

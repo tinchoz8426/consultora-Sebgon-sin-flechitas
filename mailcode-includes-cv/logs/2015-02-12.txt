@@ -1,0 +1,30 @@
+Address : 186.19.90.159
+Nombre : María de la Gloria
+Apellido : Destaville
+Cargo : recepcion
+Direccion : austria 2258
+Ciudad : caba
+Telefono : 63794592
+Email : mgdestaville@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : mando antecedentes laborales
+Security_code : q8qtx
+Send : Enviar
+
+---------------
+
+Address : 12.10.219.223
+Nombre : Maria alejandra
+Apellido : sleiman
+Cargo : medico
+Direccion : scalabrini ortiz 3622 3ro c
+Ciudad : capital federal
+Telefono : 153-1564400
+Email : alejas44@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : presentación a puestos relacionados con salud, y la medicina laboral.
+Security_code : f7b5y
+Send : Enviar
+
+---------------
+

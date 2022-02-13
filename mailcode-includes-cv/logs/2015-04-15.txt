@@ -1,0 +1,54 @@
+Address : 181.228.207.45
+Nombre : Nicolás 
+Apellido : Díaz
+Cargo : Empleado Administrativo
+Direccion : Gral. Urquiza 1936
+Ciudad : CABA
+Telefono : 49433614
+Email : nicolasdiaz84hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenos días, a continuación adjunto Curriculum Vitae.
+Muchas gracias.
+
+Nicolás Díaz.
+Security_code : qdgb4
+Send : Enviar
+
+---------------
+
+Address : 186.13.7.238
+Nombre : Emmanuel
+Apellido : Martinez
+Cargo : limpieza, operador, repositor, etc
+Direccion : Malaspina370
+Ciudad : Buenos Aires
+Telefono : 1131266631
+Email : emma_aguante_elbarsa@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me Encuentro en la busqueda de un proyecto de adecuado que me permita desarrolar mi creatividad
+y poner en practica todos los conocimiento y habilidades que he adquirido en distintos sectores. asi
+mismo deseo adquirir mayor experiencia y actulizar constantemente mis conocimientos para darle valor
+agregado a mi trabajo full-time.
+Security_code : HYTKJ
+Send : Enviar
+
+---------------
+
+Address : 186.13.7.238
+Nombre : Emmanuel
+Apellido : Martinez
+Cargo : limpieza, operador, repositor, etc
+Direccion : Malaspina370
+Ciudad : Buenos Aires
+Telefono : 1131266631
+Email : emma_aguante_elbarsa@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me Encuentro en la busqueda de un proyecto de adecuado que me permita desarrolar mi creatividad
+y poner en practica todos los conocimiento y habilidades que he adquirido en distintos sectores. asi
+mismo deseo adquirir mayor experiencia y actulizar constantemente mis conocimientos para darle valor
+agregado a mi trabajo full-time.
+Security_code : h3ryh
+Send : Enviar
+
+---------------
+

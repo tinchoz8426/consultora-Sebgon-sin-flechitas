@@ -1,0 +1,38 @@
+Address : 186.57.233.252
+Nombre : johanna
+Apellido : cabrera
+Cargo : telefonista-recepcionista-promotora-vendedora
+Direccion : corrientes 3094
+Ciudad : Moron
+Telefono : 46978666
+Email : johanna_caceres@hotmail.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : De mi consideración: 
+Es un gusto poder saludarle y hacer contacto con usted, el motivo es presentarme y solicitarle una oportunidad de trabajo. Por este medio le envió mi curriculum vitae para que sea tomado en cuenta en sus vacantes disponibles.
+Se que podría serle de mucha utilidad y me desempeño bien en diferentes aéreas.
+Me considero proactiva y con capacidad para formar parte de un equipo de trabajo. Soy una persona muy trabajadora, me gusta estar en constante aprendizaje, superando así mis metas y las de la entidad. 
+Quedo a su entera disposición ante una eventual entrevista personal con el objetivo de profundizar aspectos de mi perfil que resulten de su interés. 
+Sin otro particular, aprovecho esta oportunidad para saludarlo.
+Atte. Johanna Cabrera.
+
+Security_code : 738nb
+Send : Enviar
+
+---------------
+
+Address : 190.111.218.150
+REF : tecnico-quimico
+Nombre : marcela
+Apellido : rios
+Cargo : tecnico-quimico
+Direccion : ginebra
+Ciudad : lomas de zamora
+Telefono : 0299154152667
+Email : rmarcelaviviana@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Gracias
+Security_code : hymrc
+Send : Enviar
+
+---------------
+

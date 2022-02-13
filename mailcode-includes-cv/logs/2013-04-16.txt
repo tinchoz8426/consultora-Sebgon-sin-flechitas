@@ -1,0 +1,49 @@
+Address : 201.250.140.105
+REF : jefe-de-operaciones
+Nombre : WALTER MIGUEL BASUALDO
+Apellido : BASUALDO
+Cargo : REPARTO,CARGA Y DESCARGA DE MERCADERIA.REPOSITOR
+Direccion : MANTOVANI 587
+Ciudad : GRAND BOURG
+Telefono : 011-30412537
+Email : walterbasualdo.wj@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : estoy en busca de trabajo,soy una persona responsable y ordenada para trabajar.
+Security_code : zgccb
+Send : Enviar
+
+---------------
+
+Address : 186.182.114.217
+REF : tecnico-electornico
+Nombre : Hernán Nahuel
+Apellido : Schuinemann
+Cargo : Técnico Electrónico
+Direccion : Tucuman 2335
+Ciudad : Castelar
+Telefono : 1157466317
+Email : hernan.schuinemann@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estoy interesado en este puesto ya que tengo estudios realizados en este ámbito y estoy ingresando en la carrera de Ingeniero Electrónico. Con muchas ganas de aprender y trabajar.
+Security_code : fv8n8
+Send : Enviar
+
+---------------
+
+Address : 186.158.211.232
+Nombre : Elena Soledad 
+Apellido : Cervio
+Cargo : Coordinadora de Recursos Humanos SSA. (Argentina, Chile, Venezuela, Perú & Colombia)
+Direccion : Aldecoa 792
+Ciudad : Avellaneda
+Telefono : 15 68279457
+Email : cervio.es@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados
+Les envio mi CV para cuando gusten entremos en contacto. Muchas gracias. 
+Lic. Elena Soledad Cervio
+Security_code : Yz5WW
+Send : Enviar
+
+---------------
+

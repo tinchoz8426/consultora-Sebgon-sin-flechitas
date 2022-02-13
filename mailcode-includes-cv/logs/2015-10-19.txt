@@ -1,0 +1,99 @@
+Address : 190.12.99.116
+Nombre : Gustavo Daniel
+Apellido : Navarro
+Cargo : Comercial
+Direccion : La Nave 1070
+Ciudad : CABA
+Telefono : 541136887964
+Email : gnavarro1605@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto mi CV para ser considerado en la búsqueda que usted considere. Me encuentro a su disposición para una entrevista personal.
+Saludos cordiales
+Security_code : 2g5zj
+Send : Enviar
+
+---------------
+
+Address : 190.12.99.116
+Nombre : Gustavo Daniel
+Apellido : Navarro
+Cargo : Tesorero Institución educativa
+Direccion : La Nave 1070
+Ciudad : CABA
+Telefono : 541136887964
+Email : gnavarro1605@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto mi CV para ser considerado en la búsqueda de Tesorero.
+Me encuentro a su disposición para una entrevista personal.
+Saludos cordiales
+Security_code : vxmgz
+Send : Enviar
+
+---------------
+
+Address : 200.1.171.137
+REF : ENPRO
+Nombre : Rosnniee
+Apellido : Atacho
+Cargo : Encargado de produccion
+Direccion : Venezuela
+Ciudad : Falcón
+Telefono : +5804146119067
+Email : atachord@pdvsa.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenos días, estoy interesado en esta postulación!.
+Security_code : 8r9n9
+Send : Enviar
+
+---------------
+
+Address : 200.49.66.47
+Nombre : Juan David
+Apellido : Martinez
+Cargo : MANTENIMIENTO
+Direccion : Coronel De Elías  155
+Ciudad : Monte Grande
+Telefono : 42723797
+Email : martinez_juancito@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : por favor tener en cuenta mi cv.
+Security_code : kp4dg
+Send : Enviar
+
+---------------
+
+Address : 181.171.210.22
+REF : ENPRO
+Nombre : Cesar Augusto
+Apellido : Henao Perez
+Cargo : Encargado Produccion
+Direccion : Maipu 26 piso 7 depto E
+Ciudad : Capital federal
+Telefono : 5411-1534974025
+Email : cesarh26@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenos Aires, Octubre 19 de 2015
+
+
+Señores
+Sebgon Consultora
+Buenos	 Aires 
+Argentina
+
+Respetados Señores:
+Me dirijo a ustedes con el fin de hacerles llegar mi Curriculum Vitae, para su consideración en la búsqueda de Encargado producción. 	
+
+Como podrán  ver,  poseo una amplia y sólida experiencia en empresas productoras, en el manejo y mejora de procesos, entre otros. No obstante a la experiencia ya adquirida, deseo poder incorporar nuevos conocimientos, tener nuevos desafíos y responsabilidades. Adicionalmente a lo antes expuesto, considero fervientemente que mi perfil pro-activo, mis deseos de continuar aprendiendo y actualizando mi formación y mi carrera junto con mis conocimientos aportarían elementos importantes a su empresa.
+
+Por ello espero que los datos que aquí encuentre sean de su interés y me dé la oportunidad de conocerle en una entrevista donde usted amplíe la información que aquí le suministro. Me puede ubicar telefónicamente al móvil +54 9 11 1534974025 o a mi correo electrónico cesarh26@hotmail.com.
+
+Cordialmente,
+
+Cesar Augusto Henao Pérez
+D.N.I. 94414025
+
+Security_code : r8z4f
+Send : Enviar
+
+---------------
+

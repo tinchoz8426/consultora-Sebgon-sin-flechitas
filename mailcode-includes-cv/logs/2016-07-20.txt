@@ -1,0 +1,97 @@
+Address : 181.108.146.236<br>
+ <br>REF : OEL
+ <br>Nombre : Cristian Martin 
+ <br>Apellido : Reinaldi
+ <br>Cargo : Oficial electricista 
+ <br>Direccion : Rosario 56
+ <br>Ciudad : Ezeiza 
+ <br>Telefono : 1154982202
+ <br>Email : Crisma978@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Remuneración min 11.000
+Atte. Martín 
+ <br>Security_code : 7jq3b
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.29.118.226<br>
+ <br>REF : RTC
+ <br>Nombre : Andres
+ <br>Apellido : Martinez
+ <br>Cargo : Representante Técnico Comercial
+ <br>Direccion : Maipu 812
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 1532712638
+ <br>Email : martinezandrese@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Ingeniero Químico focalizado en aplicar todos los conocimientos adquiridos durante la carrera y experiencias laborales, en áreas afines con producción, investigación y comercio. Con el fin enriquecer el perfil profesional a través de la mejora continua que conlleve a su vez el desarrollo de la empresa.  
+ <br>Security_code : 6xycg
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 152.169.175.39<br>
+ <br>Nombre : Sofia
+ <br>Apellido : Canavese
+ <br>Cargo : Recepcionista
+ <br>Direccion : Italia 265 2° cuerpo 4° B
+ <br>Ciudad : Avellaneda
+ <br>Telefono : 1544975968
+ <br>Email : soficanavese@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Sr./Sra. Gerente de Recursos Humanos
+De mi consideración:
+
+Tengo el agrado de dirigirme a Ud. con el objeto de participar en búsquedas acordes a mi perfil.
+En cuanto a mi formación, soy Licenciada en nutrición graduada de la UBA. Cuento con un avanzado nivel de inglés y manejo de herramientas informáticas. Me considero trabajadora y responsable.
+Una entrevista será el marco adecuado donde pueda profundizar aspectos de mi perfil que resulten de su interés.
+Aprovecho esta oportunidad para saludarlo/a cordialmente.
+Sofía Canavese
+ <br>Security_code : k5jd6
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.28.254.93<br>
+ <br>Nombre : Abel
+ <br>Apellido : Rebaudo
+ <br>Cargo : Rebaudo
+ <br>Direccion : Parana 980 1 B
+ <br>Ciudad : Ciudad Autonoma d Buenso Aires
+ <br>Telefono : 1148131538
+ <br>Email : abel.rebaudo@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Al equipo de reclutamiento:
+        
+
+Adjunto mi CV  para ser considerado para su búsqueda laboral.   Luego de haberme desenvuelto en diferentes roles estratégicos me siento ansioso por iniciar un nuevo desafío y creo poseer las habilidades y experiencia necesaria para el puesto.  
+
+Me gustaría tener la oportunidad de compartir más información acerca de mi perfil y contarles cual es el valor agregado que puedo brindar a esta compañía. 
+
+Cordialmente,
+
+
+Abel Rebaudo 
+
+ <br>Security_code : r92jf
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.45.149.220<br>
+ <br>REF : TECME
+ <br>Nombre : jose juan sarabia
+ <br>Apellido : sarabia
+ <br>Cargo : Tecnico mecanico mantenimiento
+ <br>Direccion : TURIN4730 ISIDRO CASANOVA
+ <br>Ciudad : bs as
+ <br>Telefono : 1568309831
+ <br>Email : sarabia_meca@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : tengo experiencia y me guetaria fortmar parte de su planyel de trabajo 
+ <br>Security_code : 5xd9d
+ <br>Send : Enviar
+ <br>
+---------------
+

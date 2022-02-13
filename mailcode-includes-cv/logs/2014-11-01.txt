@@ -1,0 +1,47 @@
+Address : 181.25.229.189
+Nombre : daiana belen
+Apellido : gomez
+Cargo : recepcionista-atencion al publico
+Direccion : mendiondo 
+Ciudad : buenos aires
+Telefono : 15-6251-3320
+Email : daiana-1991@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Desempeñar mis conocimientos en el área comercial y servicio al cliente, enfocada a la visión y misión de cada compañía.
+Asi tambien lograr una posición en el área administrativa y operativa en la cual pueda transferir y poner en ejecución mi experiencia y habilidades.
+Security_code : df9d7
+Send : Enviar
+
+---------------
+
+Address : 190.138.223.225
+Nombre : Braian
+Apellido : Troitiño
+Cargo : Operario
+Direccion : F.sierra 2380
+Ciudad : Tres de febrero
+Telefono : 45061508
+Email : b_raian_1@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Disponibilidad de horario full time, debo tres materias. 
+Security_code : sjynn
+Send : Enviar
+
+---------------
+
+Address : 186.136.58.179
+Nombre : ROGER ELIEL
+Apellido : PRETER ISCOLNIC
+Cargo : seguridad
+Direccion : caseros 2643
+Ciudad : bs as 
+Telefono : 1154760966
+Email : preterroger@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : estimado/a : 
+            buenas noches , les envió mi cv , y estoy a su disposición para lo que necesiten ; atte roger
+Security_code : yh8fk
+Send : Enviar
+
+---------------
+

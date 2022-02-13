@@ -1,0 +1,57 @@
+Address : 190.179.74.55
+Nombre : ruben 
+Apellido : morales
+Cargo : administrativo
+Direccion : guillelmo 985
+Ciudad : Bariloche
+Telefono : 0249 155 514057
+Email : rub_empl@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Por la presente deseo informar que estoy interesado en colaborar con mi experiencia, habilidades, conocimientos y competencias personales en el logro de objetivos de una empresa que este en la búsqueda de personal, por lo que me gustaría ser tomado en cuenta para el puesto que está solicitando y así continuar con mi desarrollo profesional. Me presento como una persona activa, responsable, creativa, flexible, que busca constantemente el logro de resultados y  la evolución constante en las tareas asignadas. El objetivo que me he impuesto, es el de formar parte del personal de una empresa prestigiosa, confiable y con proyectos ambiciosos. También es desarrollarme profesionalmente en un puesto acorde a mis conocimientos y experiencias adquiridos hasta el momento. En relación a la remuneración pretendida, estimando las tareas encomendadas, mis pretensiones personales están a su criterio. Esperando tener una respuesta positiva de su parte, quedo a sus órdenes. 
+
+
+Atte.
+Rubén M Morales
+Security_code : sttdb
+Send : Enviar
+
+---------------
+
+Address : 186.123.135.150
+Nombre : CAROLINA NOEMI
+Apellido : placeres
+Cargo : repositora-cajera
+Direccion : EDISON 2617
+Ciudad : CORDOBA CAPITAL
+Telefono : 3513987795
+Email : carolinaplaceres25@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : me gustaria recibir alguna oferta laboral.
+Security_code : t4384
+Send : Enviar
+
+---------------
+
+Address : 186.124.45.224
+Nombre : Daniela
+Apellido : Polo
+Cargo : Licenciada en Comunicación Social
+Direccion : Sánchez de Bustamante 1159, 2A
+Ciudad : Ciudad Autónoma de Buenos Aires
+Telefono : 542616124461
+Email : danielapolomartorell@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenas tardes. Mi nombre es Daniela Polo, soy Periodista y Licenciada en Comunicación Social.
+ 
+Agradecería si tuvieran en cuenta mi Curriculum Vitae.
+ 
+Desde ya muchas gracias.
+ 
+Saludos cordiales,
+ 
+Daniela Polo
+Security_code : yjbpk
+Send : Enviar
+
+---------------
+

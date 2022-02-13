@@ -1,0 +1,15 @@
+Address : 190.104.245.227<br>
+ <br>Nombre : Karina
+ <br>Apellido : Casarini
+ <br>Cargo : Jefe
+ <br>Direccion : Atencion al Cliente
+ <br>Ciudad : CABA
+ <br>Telefono : 1566218934
+ <br>Email : karinacasarini@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Les hago llegar mi CV para futuras búsquedas que coincidan con mi perfil. Muchas Gracias
+ <br>Security_code : nkxbt
+ <br>Send : Enviar
+ <br>
+---------------
+

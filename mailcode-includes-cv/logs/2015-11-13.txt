@@ -1,0 +1,78 @@
+Address : 186.19.172.129
+Nombre : Raúl Adrián
+Apellido : Osmolski
+Cargo : Gerente de Planta
+Direccion : Tandil 2951
+Ciudad : C.A.B.A.
+Telefono : 15-6447-2903
+Email : raul.osmolski@yahoo.com
+MAX_FILE_SIZE : 2097152
+Mensaje :    Es de mi especial interés poder desarrollar la gestión del puesto de referencia, con miras al desarrollo y crecimiento personal y el de la empresa.
+   Para ello, ofrezco iniciativa y creatividad, anteponiendo capacidad de adaptación a nuevas circunstancias, dinamismo y experiencia adquirida en la gestión realizada para las empresas en las cuales he trabajado.
+   Deseo se valore el presente ofrecimiento de colaboración, dado que me considero responsable, con metas y objetivos claros, un fuerte anhelo de crecimiento y un perfil acorde.
+   Quedo a vuestra disposición a una futura entrevista que permita un mejor conocimiento personal.
+   Adjunto envío mi CV.
+   Agradeciendo por vuestra deferencia, saluda a Ud. muy atte.
+
+Raúl Adrián Osmolski
+
+Security_code : 4dkhx
+Send : Enviar
+
+---------------
+
+Address : 190.247.194.127
+REF : ASCO
+Nombre : CARLOS
+Apellido : BANCHERO ENZ
+Cargo : ASESOR COMERCIAL
+Direccion : JOSE MARMOL 781 PB 4
+Ciudad : CAPITAL FEDERAL
+Telefono : 49223310
+Email : CLAUDIOBEN1@HOTMAIL.COM
+MAX_FILE_SIZE : 2097152
+Mensaje : ADJUNTO ELEVO MI C.V. A LOS EFECTOS DE OBTENER UNA GENTIL ENTREVISTA,LOS SALUDA MUY AMABLEMENTE CARLOS BANCHERO ENZ.
+Security_code : ZG8GN
+Send : Enviar
+
+---------------
+
+Address : 181.25.175.94
+Nombre : JULIA ELENA
+Apellido : BARON
+Cargo : TECNICO
+Direccion : LEZCANO 638
+Ciudad : NEUQUEN
+Telefono : 2994181833
+Email : colokey@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Como principal objetivo busco el desarrollo profesional en un espacio laboral que me permita enfrentar nuevos desafíos que me den la posibilidad de crecer en el campo profesional de la seguridad e higiene.
+Soy una persona proactiva, interesada en formar parte de equipos interdisciplinarios de trabajo, con gran capacidad de aprendizaje y fácil adaptación a grupos de trabajo.
+
+
+Security_code : 8bjxq
+Send : Enviar
+
+---------------
+
+Address : 167.57.191.95
+Nombre : Agustín 
+Apellido : Roepke
+Cargo : Gerente de Administración y Finanzas
+Direccion : Fray Cayetano 785 C
+Ciudad : CABA
+Telefono : (00598) 95680618
+Email : agustinroepke@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : posgrado en Gestión Gerencial, con un marcado perfil de liderazgo. 
+Me destaco en liderar equipos de trabajo numerosos.
+Entre mis principales funciones me desempeñé como Gerente de Administración, Gerente de Recaudaciones, Controller Financiero, Tesorero, Jefe de Cuentas a Pagar, Responsable de Cobranzas, Gerente de Administración Inmobiliaria, Gerente de Atención a Proveedores.
+En dos ocasiones fui expatriado para estar al frente de importantes proyectos de empresa, (2005 - 2006 en San Pablo, Brasil y 2012 - 2015 en Montevideo, Uruguay), con excelentes resultados.
+Mi celular es de Uruguay ya que actualmente me estoy repatriando a la Argentina, por eso en caso de no poder contactarse a través de larga distancia les agradecería se comuniquen por whatsapp o mail y a la brevedad me estaré contactando con Uds.
+Confío en que será interesante y beneficioso para ambos mantener una entrevista personal, lo saluda cordialmente. 
+Agustín Roepke
+Security_code : 7ps7f
+Send : Enviar
+
+---------------
+

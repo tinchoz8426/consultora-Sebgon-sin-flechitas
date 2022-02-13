@@ -1,0 +1,31 @@
+Address : 190.179.159.130
+Nombre : Emiliano
+Apellido : Carrión
+Cargo : -
+Direccion : Pinzon 288
+Ciudad : Lujan de Cuyo - Mendoza
+Telefono : 02614702696
+Email : emilianocarrion@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola me llamo Emiliano Carrión. Tengo necesidad urgente de trabajar. Bueno les dejo mi CV . Este es mi correo electronico por el que les mando el mail y les dejo mi número de telefono 02614702696
+
+Security_code : 8mqt7
+Send : Enviar
+
+---------------
+
+Address : 201.253.202.184
+Nombre : Gaston
+Apellido : Alzola
+Cargo : Atencion al cliente
+Direccion : Melian
+Ciudad : Capital Federal
+Telefono : 45423922
+Email : alzola_gaston@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Adquirir Conocimiento,crecimiento laboral 
+Security_code : ytgjd
+Send : Enviar
+
+---------------
+

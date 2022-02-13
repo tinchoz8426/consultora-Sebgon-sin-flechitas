@@ -1,0 +1,61 @@
+Address : 190.194.191.39<br>
+ <br>Nombre : maria vanesa
+ <br>Apellido : penedo sampietro
+ <br>Cargo : administrativa, recepcion, atencion al cliente, telefonista
+ <br>Direccion : malvinas, 595
+ <br>Ciudad : mar del plata
+ <br>Telefono : 2234481526
+ <br>Email : dulcemelonrya@gamil.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje :  proactiva,dinámica, resolutiva, paciente, con capacidad analítica y con ganas de seguir aprendiendo. Soy organizada, metódica, detallista y con habilidades para las relaciones interpersonales y el trabajo en equipo en un ambiente de colaboración. 
+ <br>Security_code : pfvfp
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.226.238.118<br>
+ <br>Nombre : ruben alejandro
+ <br>Apellido : lobos
+ <br>Cargo : administracion
+ <br>Direccion : jorge newbery 850 - B° gorriti
+ <br>Ciudad : san salvador de jujuy
+ <br>Telefono : 388 -5873114
+ <br>Email : rubenale70@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Gracias...esperando una respusta favorable
+ <br>Security_code : 7kqnj
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.177.128.249<br>
+ <br>Nombre : Matias guillermo
+ <br>Apellido : Ñancu
+ <br>Cargo : Mecanico
+ <br>Direccion : Chaneton 985
+ <br>Ciudad : Neuquen
+ <br>Telefono : 02994104067
+ <br>Email : Mattguillermo2018@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Ñancu matias guillermo
+ <br>Security_code : Sdv4h
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.7<br>
+ <br>Nombre : Jonatan Maximiliano
+ <br>Apellido : Espinosa
+ <br>Cargo : Soldador 
+ <br>Direccion : Av pascual puente 776
+ <br>Ciudad : Senillosa Neuquén
+ <br>Telefono : 2996269040
+ <br>Email : jonatanespinosa14@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Dejo mis datos para un posible eleccion 
+
+ <br>Security_code : K9d64
+ <br>Send : Enviar
+ <br>
+---------------
+

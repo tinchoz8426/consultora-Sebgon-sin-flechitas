@@ -1,0 +1,70 @@
+Address : 181.24.33.9<br>
+ <br>Nombre : María Florencia
+ <br>Apellido : Spagnuolo
+ <br>Cargo : Arquitectura
+ <br>Direccion : Gral. Pacheco 2664
+ <br>Ciudad : Mar del Plata
+ <br>Telefono : 0223-155722265
+ <br>Email : flor.spagnuolo@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados /as Sres/as:
+
+Me pongo en contacto con ustedes con el objetivo de hacerles llegar mi curriculum vitae para su valoración.
+Mi nombre es Florencia Spagnuolo y soy arquitecta, recientemente recibida en la Universidad Nacional de Mar del Plata, facultad de arquitectura, diseño y urbanismo. Tengo experiencia previa en un estudio de arquitectura, desempeñando tareas de diseño y documentación de obra de proyectos de arquitectura.
+
+Quedo a su disposición para cualquier consulta.
+
+Muchas gracias.
+                      Arq. María Florencia Spagnuolo
+ <br>Security_code : 7q6zc
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.193.72.80<br>
+ <br>Nombre : laura Isabel
+ <br>Apellido : zimbler
+ <br>Cargo : abogada
+ <br>Direccion : Av. Rivadavia 2284 1° A
+ <br>Ciudad : Ciudad Autonoma de Buenos Aires
+ <br>Telefono : 1533505198
+ <br>Email : laura_zimbler@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Solicito Empleo.
+ <br>Security_code : 88km8
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.193.72.80<br>
+ <br>Nombre : laura Isabel
+ <br>Apellido : zimbler
+ <br>Cargo : abogada
+ <br>Direccion : Av. Rivadavia 2284 1° A
+ <br>Ciudad : Ciudad Autonoma de Buenos Aires
+ <br>Telefono : 1533505198
+ <br>Email : laura_zimbler@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Solicito Empleo.
+ <br>Security_code : 88km8
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 179.37.80.129<br>
+ <br>Nombre : Daniela Fernanda
+ <br>Apellido : Gonzalez
+ <br>Cargo : Licenciada en Psicología
+ <br>Direccion : El Vergel, 1371- Godoy Cruz
+ <br>Ciudad : Mendoza
+ <br>Telefono : 92613012216
+ <br>Email : danielagonzalez1992@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Mi principal objetivo es desarrollarme profesionalmente, a partir de mis conocimientos ya adquiridos y, además, aprender de la experiencia que la institución pueda brindarme.
+ De esta forma, sumado al trabajo interdisciplinario y a una capacitación continua, busco poder ofrecer a los pacientes un servicio de calidad que les permita desarrollar sus potencialidades y mejorar su calidad de vida y la de su familia.
+
+ <br>Security_code : p9c4n
+ <br>Send : Enviar
+ <br>
+---------------
+

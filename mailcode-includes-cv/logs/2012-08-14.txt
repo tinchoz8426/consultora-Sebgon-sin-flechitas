@@ -1,0 +1,76 @@
+Address : 190.136.182.124
+Nombre : Valentina
+Apellido : Olmedo
+Cargo : Administracion/secretaria/Legales
+Direccion : Oscariz y Beaumont 2555 Santa Clara de Asís.
+Ciudad : Cordoba
+Telefono : 0351-153009249
+Email : valentina.olmedo@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimado/a:
+
+    Buenos dias , Felicitándolos en sus labores les envio mi curriculum  con el fin de darle a saber sobre mis experiencias de acuerdo a lo solicitado les comento que me encuentro ansiosa en la búsqueda laboral tengo disponibilidad fulltime aguardo comentarios.En lo posible comunicarce despues de las 14.30hrs en adelante.Gracias
+
+
+   Saludos Cordiales .
+
+   A sus ordenes .
+                                              Olmedo Valentina 
+
+Security_code : 6CRYV
+Send : Enviar
+
+---------------
+
+Address : 201.250.152.206
+Nombre : Hernán Humberto
+Apellido : Mercado
+Cargo : comprador senior
+Direccion : Florida 1165
+Ciudad : José C. Paz
+Telefono : 011-15-5919-9671
+Email : hernan_H_mercado@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimado Sebastián :
+
+Buenas noches,en base a la busqueda laboral que están llevando a cabo para una empresa ubicada en Gral Rodriguez te envío adjunto mi CV.
+
+Saludos
+
+Hernán Mercado
+Security_code : q3nw7
+Send : Enviar
+
+---------------
+
+Address : 186.23.71.231
+Nombre : Pablo Ernesto
+Apellido : Sciarrotta
+Cargo : Agropecuario
+Direccion : liniers 22
+Ciudad : Buenos Aires
+Telefono : 1161485260
+Email : pablo_sciarrotta@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Estoy buscando empleo dentro del rubro agropecuario,con muchas ganas de trabajar.
+Tengo familia en la zona y estoy dispuesto  a trasladarme.Atte Pablo
+Security_code : jr2sh
+Send : Enviar
+
+---------------
+
+Address : 190.138.49.18
+Nombre : miriam adriana
+Apellido : daniluk
+Cargo : secretaria administrativa, administración general, recepcionista, 
+Direccion : avda. de los constituyentes No. 797
+Ciudad : gral. pacheco
+Telefono : 47406090 - 1530659386
+Email : munie2004@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Deseo ingresar en Vuestra base de datos, para puesto vacante acorde a mis conocimientos.
+Security_code : fp7b7
+Send : Enviar
+
+---------------
+

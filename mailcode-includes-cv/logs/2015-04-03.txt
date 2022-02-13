@@ -1,0 +1,30 @@
+Address : 190.138.238.181
+Nombre : Carolina
+Apellido : Fontanini
+Cargo : atencion al cliente y administracion
+Direccion : el redentor 404
+Ciudad : Villa Carlos Paz
+Telefono : 03541-15590981
+Email : carolinafontanini@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : disponibilidad horaria fulltime y con muchas ganas de trabajar
+Security_code : sksvg
+Send : Enviar
+
+---------------
+
+Address : 186.59.148.126
+Nombre : melisa
+Apellido : guaymas
+Cargo : administrativo
+Direccion : 9 504
+Ciudad : la plata
+Telefono : 2216235321
+Email : meli.guaymas@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : simpatica, responsable, con muchas ganas de progresar económicamente y social mente. Me adapto a cualquier situación de empleo.
+Security_code : xfybm
+Send : Enviar
+
+---------------
+

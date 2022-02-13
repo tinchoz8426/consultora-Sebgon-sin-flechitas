@@ -1,0 +1,79 @@
+Address : 190.55.80.145
+Nombre : cecilia
+Apellido : flecha
+Cargo : psicologa social
+Direccion : billingursth 940
+Ciudad : ciudad autonima de buenos aires
+Telefono : 20753752
+Email : ceciliapsicologasocial@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : soy psicologa social busco trabajo
+Security_code : mhwmr
+Send : Enviar
+
+---------------
+
+Address : 190.55.81.238
+Nombre : Manuel
+Apellido : Cabedo Barber
+Cargo : Gerente para empresa Constructora
+Direccion : Gorriti 6040, 6º A
+Ciudad : Capital Federal
+Telefono : 00541120752510
+Email : maccabra@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Mis objetivos son: 
+- encontrar un nuevo trabajo dentro de una empresa constructora de tamaño medio o grande, que me permita seguir creciendo como ingeniero y como directivo. Y progresar dentro de la organización de la misma empresa.
+- colaborar y coordinarme con los compañeros de la empresa para la consecución de los objetivos de buena ejecución de las obras, buen resultado económico y de fidelización de los clientes.
+- mantener mi residencia en Bs As, aunque tengo disposición a viajar eventualmente para poder seguir el desarrollo de los proyectos.
+
+Security_code : 2ppbt
+Send : Enviar
+
+---------------
+
+Address : 24.232.136.13
+Nombre : Eugenia Agustina
+Apellido : Brites
+Cargo : vendedora,recepcionista
+Direccion : Santa Rosa 3267
+Ciudad : Victoria
+Telefono : 1532758587
+Email : eugenia.brites@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estoy en busqueda de trabajo si es en Zona Norte mucho mejor, me interesaria recepcion o venta. Gracias
+Security_code : 6x9vf
+Send : Enviar
+
+---------------
+
+Address : 181.166.102.181
+Nombre : Yanina Eliana
+Apellido : La Rur
+Cargo : Asistente en selección de personal
+Direccion : De las margaritas 6219
+Ciudad : El palomar
+Telefono : 1544305380
+Email : giovanna_indum@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenos días, me gustaría que tuvieran en cuenta mi Cv para próximas búsquedas. Estoy buscando insertarme en el área de RR.HH, y agradecería que me dieran tal oportunidad. Soy consultora psicológica recién recibida, con muchas ganas de aprender y crecer en el área.
+Security_code : tn67j
+Send : Enviar
+
+---------------
+
+Address : 181.166.102.181
+Nombre : Yanina Eliana
+Apellido : La Rur
+Cargo : Asistente en RR.HH
+Direccion : De las margaritas 6219
+Ciudad : El palomar
+Telefono : 1544305380
+Email : giovanna_indum@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenos días, me gustaría que tuvieran en cuenta mi Cv para próximas búsquedas. Estoy buscando insertarme en el área de RR.HH, y agradecería que me dieran tal oportunidad. Soy consultora psicológica recién recibida, con muchas ganas de aprender y crecer en el área.
+Security_code : tn67j
+Send : Enviar
+
+---------------
+

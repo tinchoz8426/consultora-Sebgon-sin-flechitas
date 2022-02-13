@@ -1,0 +1,15 @@
+Address : 200.41.232.244
+Nombre : Maria Alejandra
+Apellido : Cordeiro
+Empresa : MTEySS
+Telefono : 4308-0838 / 0738
+Email : acordeiro@trabajo.gob.ar
+Mensaje : Buenas tardes, me desempeño como Coordinadora de la Oficina de Empleo de la C.A.B.A., dependiente del Ministerio de Trabajo, Empleo y Seguridad Social de la Nación.
+Quisiera saber si cuentan con un área de Responsabilidad Social Empresaria, para contactarme con su responsable y articular algunas cuestiones.
+Atentamente,
+
+Security_code : 456x3
+Send : Enviar
+
+---------------
+

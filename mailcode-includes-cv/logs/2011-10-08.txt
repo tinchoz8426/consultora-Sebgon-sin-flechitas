@@ -1,0 +1,47 @@
+Address : 186.124.245.120
+Nombre : Alfredo Ariel
+Apellido : Cardillo
+Cargo : Operador de plamta de biodiesel
+Direccion : Brasil 2224
+Ciudad : Rosario
+Telefono : 0341156032211
+Email : arielcardillo@arnet.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados como dato complementario les afirmo que no tengo problemas en trabajar en turnos rotativos y que la remuneración pretendida es de $4200/5200, mas la posibilidad de hacer horas extras.
+Gracias.
+Confirmar recepción
+Security_code : c4csk
+Send : Enviar
+
+---------------
+
+Address : 190.18.149.235
+Nombre : Damelys
+Apellido : Soto
+Cargo : Administrativa
+Direccion : Paraguay 4146
+Ciudad : Capital Federal
+Telefono : 48317583
+Email : damelys.soto@yahoo.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Les envío mi curriculum vitae con la aspiración de conseguir un empleo Part Time, muchas gracias por su atención.
+Security_code : gcxdq
+Send : Enviar
+
+---------------
+
+Address : 186.60.6.82
+Nombre : Cristian
+Apellido : Mancuso
+Cargo : Ingeniero Civil
+Direccion : Alvarado 1013
+Ciudad : Bahia blanca
+Telefono : 0291154716531
+Email : ing.cmancuso@hotmail.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Ante cualquier oportunidad no duden el contactar
+Security_code : qvgmr
+Send : Enviar
+
+---------------
+

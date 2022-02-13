@@ -1,0 +1,47 @@
+Address : 190.229.63.156
+REF : gerente-de-operaciones
+Nombre : Gerardo Marcelo 
+Apellido : Batrace
+Cargo : Ejecutivo de cuentas
+Direccion : Pola 690 PB 1
+Ciudad : Ciudad Autonoma de Buenos Aires
+Telefono : 15-5633-5070
+Email : g_batrace@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Señores
+RR.HH.
+Presente
+
+De mi consideración:
+
+Por este medio me dirijo a ud/s a fin de presentarme para ser tenido en cuenta en busquedas laborales que se adecuen a mi perfil.
+
+Me permito describirme como una persona activa, emprendora y eficaz con el objetivo de evolucionar personal y económicamente en un clima cordial y cooperativo.
+
+Le agradeceré tomar unos minutos para evaluar mi C.V.
+
+Saludo muy atte.
+
+
+Gerardo Marcelo Batrace
+
+Security_code : 98znw
+Send : Enviar
+
+---------------
+
+Address : 190.179.131.218
+Nombre : matias
+Apellido : villar
+Cargo : ventas
+Direccion : chiclana 2537 godoy cruz
+Ciudad : mendoza
+Telefono : 153452605- 4271271
+Email : mattias.villar@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : espero una respuesta pronto necesito trabajo muchas gracias.
+Security_code : 7jg8b
+Send : Enviar
+
+---------------
+

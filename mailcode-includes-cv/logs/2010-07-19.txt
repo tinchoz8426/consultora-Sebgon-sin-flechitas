@@ -1,0 +1,101 @@
+Address : 190.225.48.201
+Nombre : Marcelo
+Apellido : Casadey
+Cargo : GTEFIN‏
+Direccion : Diamante 229
+Ciudad : Paraná - Entre Ríos
+Telefono : 0343-154380899
+Email : marcelocasadey@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto a la presente mis antececentes y mi experiencia laboral, a los efectos de aplicar a alguna búsqueda solicitada por Uds. Muchas gracias
+Security_code : xp6cg
+Send : Enviar
+
+---------------
+
+Address : 186.56.178.219
+Nombre : Alejandro Eduardo
+Apellido : Rodriguez
+Cargo : administrativo
+Direccion : Alte. F. J. Segui 1976 6 A
+Ciudad : CABA
+Telefono : 45853854
+Email : alediog@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Señores:
+Adjunto a la presente mi curriculum vitae a fines de incorporarlo a vuestro banco de datos para ser tenido en cuenta en futura búsqueda de personal.
+En caso de ser de su interés quedo a vuestra disposición para ampliar detalles respecto a mi perfil profesional.
+A la espera de una respuesta por parte de ustedes, saluda atentamente.
+ 
+Alejandro Eduardo Rodriguez
+DNI. 25.251.559
+
+Security_code : b8htn
+Send : Enviar
+
+---------------
+
+Address : 190.226.182.184
+Nombre : angel sebastian
+Apellido : Ramirez
+Cargo : auxiliar en mueblerias
+Direccion : del kaiser
+Ciudad : bs as
+Telefono : 1551527879
+Email : seba.naty@live.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : estoy en la busqueda laboral,me gustaria trabajar en mueblerias,o fabricas como tambien en casas de pinturas
+Security_code : w9972
+Send : Enviar
+
+---------------
+
+Address : 190.172.208.203
+Nombre : Mariana
+Apellido : Martinez Ruiz
+Cargo : administrativa, recepcionista, atención al cliente
+Direccion : Gabriela Mistral 1150
+Ciudad : Ituzaingó
+Telefono : (011)5231-2127/ (011)153-757-5728
+Email : la_meija@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : A quien corresponda:
+                             Me dirijo a usted con el fin de enviarle adjunto mi currículum vitae, con la expectativa de poder cubrir las necesidades requeridas. 
+                           Espero lo tenga en cuenta.
+                           Desde ya, muchas garcias.                                                    Mariana Martinez Ruiz.
+
+Security_code : jmzyg
+Send : Enviar
+
+---------------
+
+Address : 201.252.68.72
+Nombre : Maria Bettina
+Apellido : Zubin
+Cargo : Presentacion Espontanea
+Direccion : Urquiza 1844
+Ciudad : Florida
+Telefono : 4797-4503
+Email : mbzubin@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Sres.Sebgon
+Presente
+
+Tengo el agrado de dirigirme a ustedes a los efectos de hacerles llegar mi Currículum Vitae conteniendo mis datos personales y profesionales con el objeto de participar en eventuales búsquedas laborales acordes a mi perfil.
+
+Como se desprende de la información que les adjunto, siendo Contador Publico Nacional graduada en la Universidad de Buenos Aires y MBA de UCEMA, durante mi carrera profesional me he desempeñado en el área administrativa-financiera en diversas posiciones gerenciales tanto locales como regionales; lo que me brinda una sólida experiencia en la materia.
+
+Estimo que una entrevista será el marco adecuado para profundizar aspectos de mi perfil que puedan resultar de su interés.
+
+Sin otro particular, los saludo a ustedes muy atentamente.
+
+
+Marìa Bettina Zubin
+Direcciòn: Urquiza 1844 – Florida - Vte.Lopez
+TE: 4797-4503
+TE Celular: 15-6575-9372
+Security_code : qhn58
+Send : Enviar
+
+---------------
+

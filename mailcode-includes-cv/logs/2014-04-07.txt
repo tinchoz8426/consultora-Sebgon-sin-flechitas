@@ -1,0 +1,371 @@
+Address : 181.27.168.63
+REF : GTE COM
+Nombre : Johanna
+Apellido : Facciuto
+Cargo : GTE COM
+Direccion : Revori 1018
+Ciudad : Burzaco
+Telefono : 42380511
+Email : johannafacciuto@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Les envío mi CV, espero me consideren para una entrevista personal, tengo mucha experiencia como Gerente de Negocio en una empresa multinacional, lo cual me da la seguridad que puedo ser una postulante adecuada para el pedido.
+Security_code : mnps8
+Send : Enviar
+
+---------------
+
+Address : 181.27.168.63
+REF : ADMINISTRATIVA-DE-COMPRAS
+Nombre : Johanna
+Apellido : Facciuto
+Cargo : ADMINISTRATIVA-DE-COMPRAS
+Direccion : Revori 1018
+Ciudad : Burzaco
+Telefono : 42380511-15488-88467
+Email : johannafacciuto@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Les envío mi cv, tengo experiencia en el trabajo en el sector de compras en Arcos Dorados SA.Mi remuneración pretendida es de $7.0000
+Security_code : wp3d5
+Send : Enviar
+
+---------------
+
+Address : 190.48.188.98
+REF : GTE COM
+Nombre : Agustin
+Apellido : Olavarria
+Cargo : Gerente Comercial
+Direccion : Estancias del pilar
+Ciudad : pilar
+Telefono : 66417108
+Email : aolavarria74@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Les dejo mi CV 
+
+Muchas gracias 
+Security_code : c4f5h
+Send : Enviar
+
+---------------
+
+Address : 190.16.225.212
+REF : GTE COM
+Nombre : HERNAN RODRIGO
+Apellido : ALZUETA
+Cargo : GERENTE COMERCIAL
+Direccion : ZABALA 3556 3 D
+Ciudad : CABA
+Telefono : 1544052396
+Email : hernanrodrigoalzueta@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : At, les envío mis datos a fin de ser considerado en la busqueda que emprendieron con referencia GTE.COM.
+
+Saludo atte,
+
+HERNAN ALZUETA
+Security_code : 8x589
+Send : Enviar
+
+---------------
+
+Address : 190.183.62.72
+REF : ADMINISTRATIVO-DE-LOGISTICA
+Nombre : Augusto
+Apellido : Goette
+Cargo : Administrativo de Logistica
+Direccion : Avellaneda 3282 2D1
+Ciudad : Santa Fe
+Telefono : 0342 155 502 811
+Email : augustojoma3@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : A quien corresponda,
+
+             
+
+De mi mayor consideración me dirijo a Ud./es con el fin de ofrecerles mis servicios adjuntando mi Curriculum Vitae.
+
+Me considero  una persona dinámica, proactiva, con capacidad de aprendizaje, actitud de trabajo en equipo, responsable y con capacidad de liderazgo y gestión. 
+
+Quedando a su disposición para ampliar cuanta información estimen necesaria y a la espera de sus noticias, me despido atentamente,
+
+ 
+
+ 
+
+ 
+
+Augusto J. M. Goette
+Security_code : 7gwqf
+Send : Enviar
+
+---------------
+
+Address : 190.183.62.72
+REF : ADMINISTRATIVO-DE-LOGISTICA
+Nombre : Augusto
+Apellido : Goette
+Cargo : Adm de Logistica
+Direccion : Avellaneda 3282
+Ciudad : Santa Fe
+Telefono : 0342 155 502 811
+Email : augustojoma3@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : A quien corresponda,
+
+             
+
+De mi mayor consideración me dirijo a Ud./es con el fin de ofrecerles mis servicios adjuntando mi Curriculum Vitae.
+
+Me considero  una persona dinámica, proactiva, con capacidad de aprendizaje, actitud de trabajo en equipo, responsable y con capacidad de liderazgo y gestión. 
+
+Quedando a su disposición para ampliar cuanta información estimen necesaria y a la espera de sus noticias, me despido atentamente,
+
+ 
+
+ 
+
+ 
+
+Augusto J. M. Goette
+Security_code : jt2kx
+Send : Enviar
+
+---------------
+
+Address : 190.183.62.72
+REF : ADMINISTRATIVO-DE-LOGISTICA
+Nombre : Augusto
+Apellido : Goette
+Cargo : Adm de Logistica
+Direccion : Avellaneda 3282
+Ciudad : Santa Fe
+Telefono : 0342 155 502 811
+Email : augustojoma3@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : A quien corresponda,
+
+             
+
+De mi mayor consideración me dirijo a Ud./es con el fin de ofrecerles mis servicios adjuntando mi Curriculum Vitae.
+
+Me considero  una persona dinámica, proactiva, con capacidad de aprendizaje, actitud de trabajo en equipo, responsable y con capacidad de liderazgo y gestión. 
+
+Quedando a su disposición para ampliar cuanta información estimen necesaria y a la espera de sus noticias, me despido atentamente,
+
+ 
+
+ 
+
+ 
+
+Augusto J. M. Goette
+Security_code : 2s6p2
+Send : Enviar
+
+---------------
+
+Address : 190.31.102.41
+Nombre : miguel angel
+Apellido : soria
+Cargo : ingeniero industrial
+Direccion : santa fe 2070
+Ciudad : san miguel
+Telefono : 155859020
+Email : myriamoliva_42@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : no tengo experiencia necesito trabajo
+Security_code : 2qgnx
+Send : Enviar
+
+---------------
+
+Address : 186.19.149.132
+Nombre : María Elvira 
+Apellido : Ovalle Martinez 
+Cargo : Administrativo
+Direccion : Cuba 3064
+Ciudad : Capital Federal
+Telefono : 63801264
+Email : mariae872010@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Quiero trabajar en un lugar agradable y contribuir al crecimiento con entusiasmo y dinamismo. 
+Security_code : kswjq
+Send : Enviar
+
+---------------
+
+Address : 190.178.108.220
+Nombre : Nancy 
+Apellido : León
+Cargo : Empleada profesional
+Direccion : Rawson 955 torre 2 4to. A
+Ciudad : Comodoro Rivadavia
+Telefono : 0280-154206153
+Email : nancylg7@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola les envió mi curriculum Vitae a fines de evaluarlo y dar mi perfil a las empresas que  soliciten personal en Comodoro Rivadavia
+Security_code : cm3vq
+Send : Enviar
+
+---------------
+
+Address : 190.225.40.106
+REF : GTE COM
+Nombre : Hugo Alberto
+Apellido : Ginzalez
+Cargo : REF.GTE COM
+Direccion : Musladini 1245
+Ciudad : Pilar
+Telefono : 03514768670
+Email : Hugo632000@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me postulo y envio mi c.vitae a la espera de una entrevista.
+Security_code : wxrbp
+Send : Enviar
+
+---------------
+
+Address : 190.225.40.106
+Nombre : Hugo Alberto
+Apellido : Gonzalez
+Cargo : GTE COM
+Direccion : Musladini 1245
+Ciudad : Pilar
+Telefono : 03514768670
+Email : hugo632000@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto mi CV para su análisis y a la espera de una pronta entrevista
+Security_code : cstfq
+Send : Enviar
+
+---------------
+
+Address : 190.230.82.61
+Nombre : Agustin
+Apellido : Militello
+Cargo : Vendedor - Dibujante - Administrativo - Inmobiliario
+Direccion : Av. Francia 1744
+Ciudad : Rosario
+Telefono : 341 - 155068829
+Email : agusmilitello@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola, dejo adjunto mi Cv en archivo desde ya muchas gracias.-
+Security_code : pvszg
+Send : Enviar
+
+---------------
+
+Address : 200.124.99.243
+REF : GTE COM
+Nombre : Antonio Gastón
+Apellido : Carozzo
+Cargo : Gerente Comercial
+Direccion : San Nicolás 1626
+Ciudad : Pergamino
+Telefono : 02477-15661335
+Email : carrozogaston@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados:
+Estoy interesado en la busqueda de vendedores en la ciudad de Pergamino y zona.
+Saludos Cordiales.
+Security_code : y2jgv
+Send : Enviar
+
+---------------
+
+Address : 200.124.99.243
+Nombre : Victoria Belén
+Apellido : Stamponi
+Cargo : Abogada/Administrativa
+Direccion : San Nicolás 1626
+Ciudad : Pergamino
+Telefono : 02477-15662260
+Email : vstamponi@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados:
+Estoy interesada en algún cargo de Administrativa en Empresa, o bien, como Abogada, asesora, o puestos afines.
+Desde ya muchas gracias.
+Saludos cordiales.
+Security_code : zjz53
+Send : Enviar
+
+---------------
+
+Address : 186.122.44.164
+Nombre : Alberto Alejandro
+Apellido : Alvear
+Cargo : otros
+Direccion : calle 525 num. 2827
+Ciudad : el pato (berazategui=
+Telefono : 1534266623
+Email : alvearaalejandro@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Mis expectativas es ocupar un puesto desde el cual pueda contribuir a las metas de la organizacion, ampliar mis conocimiento mediante la actualizacion y la capacitacion
+Security_code : 4pxyg
+Send : Enviar
+
+---------------
+
+Address : 190.137.101.57
+Nombre : Marcos
+Apellido : Sanchez
+Cargo : ing agronomo
+Direccion : caseros 4200
+Ciudad : cordoba
+Telefono : 0351-4846428
+Email : sanchezmarcosm@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : De mi mayo consideración envío mi cv para ser considerado en búsquedas acordes a mi perfil.
+
+saludos crdiales
+Security_code : ssrbk
+Send : Enviar
+
+---------------
+
+Address : 190.19.104.60
+Nombre : Daiana
+Apellido : Francipone
+Cargo : Auxiliar RRHH
+Direccion : Centenario 3228
+Ciudad : Garin
+Telefono : 0111568511233
+Email : daifrancisrp@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Dejo adjunto mi CV para que lo tengan en cuenta de acuerdo a mi perfil. Desde ya muchas gracias
+Security_code : cjy94
+Send : Enviar
+
+---------------
+
+Address : 190.247.145.238
+Nombre : Agustina
+Apellido : Perez
+Cargo : Administrativa de compras
+Direccion : Castelli 223
+Ciudad : Tigre
+Telefono : 47492649
+Email : agustiniz_@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Mi nombre es Agustina Perez, tengo 21 años y me encuentro en la búsqueda laboral ya que mi actual empleo ya finaliza. Desde ya, muchas gracias.
+Security_code : 3k4x9
+Send : Enviar
+
+---------------
+
+Address : 181.166.108.208
+REF : GTE COM
+Nombre : Juan Enrique
+Apellido : lacunza
+Cargo : Gerente Comercial
+Direccion : Aviador Fels 7090
+Ciudad : Ciudad Jardin El Palomar
+Telefono : 15-4147-5477
+Email : jelacunza@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto a la presente le hago llegar mi curriculum vitae, Esperando que el mismo sea de su interes
+Security_code : 5z4dy
+Send : Enviar
+
+---------------
+

@@ -1,0 +1,59 @@
+Address : 190.93.206.91
+Nombre : Ailin Elizabeth
+Apellido : Ibarra
+Cargo : Tecnica Quimica
+Direccion : Canal 5, Rafaela 84
+Ciudad : Neuquen
+Telefono : 0299-155926130
+Email : aili_05@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Desde ya muchas gracias. Estaré esperando una respuesta.
+Security_code : 39kwz
+Send : Enviar
+
+---------------
+
+Address : 190.57.227.106
+Nombre : Lucas Emanuel
+Apellido : González
+Cargo : Ingeniero Agrónomo
+Direccion : Iriondo 2944
+Ciudad : Santo Tomé
+Telefono : 03421566128013
+Email : ingagrgonzalezlucas@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenas días!!! Adjunto mi CV y mi  carta de presentación, ante cualquier duda que deseen ampliar mi CV no duden en consultármelo. Tengo posibilidades de residir en cualquier punto del país. Poseo carnet de conducir B1.
+
+Desde ya muchas gracias
+
+Saludos cordiales
+
+Ing. Agr. Lucas E. Gonzalez
+Mat. Prof. N° 82-1-1187
+Security_code : 2f5mp
+Send : Enviar
+
+---------------
+
+Address : 190.57.227.106
+Nombre : Lucas Emanuel
+Apellido : González
+Cargo : Ingeniero Agrónomo
+Direccion : Iriondo 2944
+Ciudad : Santo Tomé
+Telefono : 03421566128013
+Email : ingagrgonzalezlucas@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenas días!!! Adjunto mi CV y mi  carta de presentación, ante cualquier duda que deseen ampliar mi CV no duden en consultármelo. Tengo posibilidades de residir en cualquier punto del país. Poseo carnet de conducir B1.
+
+Desde ya muchas gracias
+
+Saludos cordiales
+
+Ing. Agr. Lucas E. Gonzalez
+Mat. Prof. N° 82-1-1187
+Security_code : 3j95w
+Send : Enviar
+
+---------------
+

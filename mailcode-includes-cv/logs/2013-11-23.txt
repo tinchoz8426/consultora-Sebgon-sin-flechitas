@@ -1,0 +1,54 @@
+Address : 
+Nombre : Ezequiel
+Apellido : Scigolini
+Cargo : Pasante
+Direccion : Isabel la católica 1080
+Ciudad : Ciudad de Buenos Aires
+Telefono : 43034289
+Email : scigolini@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : A quien corresponda,
+Me dirijo a usted con el fin de participar en búsquedas acordes a mi perfil. 
+
+En cuanto a mi formación, me encuentro cursando 3º año de la carrera de Ingeniería Química en la Universidad de Buenos Aires. Cuento con un nivel de inglés intermedio/avanzado y buen manejo de herramientas informáticas. Me considero proactivo, con capacidad de análisis, autonomía y vocación por el aprendizaje continuo, siempre abierto al trabajo en equipo.
+Cuento con disponibilidad part time por la mañana.
+
+En espera de tener la oportunidad de entrevistarme para ampliar la información, un grato saludo.
+
+Atte.
+Ezequiel Scigolini
+Security_code : mdc99
+Send : Enviar
+
+---------------
+
+Address : 
+Nombre : Pamela
+Apellido : Windauer
+Cargo : Recepcionista
+Direccion : Juan B. Justo 405
+Ciudad : Buenos Aires
+Telefono : 11 63511852
+Email : pamepamewin@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto mi curriculum vitae agradeciendo de antemano cualquier posibilidad que consideren se ajuste a mi perfil.
+Security_code : gwh8y
+Send : Enviar
+
+---------------
+
+Address : 
+Nombre : Estefania
+Apellido : Benitez
+Cargo : Atencion Cliente/ Cajera
+Direccion : Lamadrid 2497
+Ciudad : Buenos Aires
+Telefono : 1165622999
+Email : stefi.bnitez@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : .
+Security_code : kx532
+Send : Enviar
+
+---------------
+

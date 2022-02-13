@@ -1,0 +1,39 @@
+Address : 181.91.178.53<br>
+ <br>Nombre : Luciana
+ <br>Apellido : Delli Quadri
+ <br>Cargo : Comunicación, RRPP, Ventas
+ <br>Direccion : Juramento 2573
+ <br>Ciudad : Córdoba
+ <br>Telefono : (0351)153037299
+ <br>Email : ldelliquadri92@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me pongo en contacto con ustedes para hacerles llegar mi CV con el fin de que el mismo quede a su disposición para poder formar parte de algún proceso de selección laboral.
+ <br>Security_code : 9n9df
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.27<br>
+ <br>Nombre : Roberto
+ <br>Apellido : Gonzalez
+ <br>Cargo : Técnico en Seguridad e Higiene
+ <br>Direccion : Luis María Campos
+ <br>Ciudad : San Isidro
+ <br>Telefono : 1566692113
+ <br>Email : roberto-gonzalezsl@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola estimadas/os:
+
+Soy Técnico en Higiene Seguridad y Control Ambiental Industrial recibido y matriculado.
+Tengo amplia experiencia en el área de producción.
+Todavía no tengo experiencia en el área de Seguridad e Higiene, y me gustaría comenzar a tenerla. Adjunto aquí mi cv, y posteriormente dejo mi número de celular. 
+Desde ya muchas gracias.
+15662113 Roberto.
+
+Saludos cordiales
+
+ <br>Security_code : msht6
+ <br>Send : Enviar
+ <br>
+---------------
+

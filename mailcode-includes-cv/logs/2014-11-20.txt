@@ -1,0 +1,32 @@
+Address : 24.232.30.59
+Nombre : Jose Luis
+Apellido : vazquez
+Cargo : Vendedor
+Direccion : Cortina 1991
+Ciudad : Ciudad Autonoma de Buenos Aires
+Telefono : 011046419376
+Email : joseluis.vazquez53@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados. Me permito enviarles mi CV . He encontrado vuestra dirección a través de la página del Ministerio de Trabajo. Apreciaré, si lo consideran conveniente, mantenerlo en vuestros registros. Estoy a su disposición para aclarar y/o ampliar información.
+Muchas Gracias. 
+
+Security_code : z7zhg
+Send : Enviar
+
+---------------
+
+Address : 200.122.103.230
+Nombre : Carolina Elizabeth
+Apellido : Sorbo
+Cargo : Recepcion-Administracion
+Direccion : Viamonte 800
+Ciudad : Lanus Oeste
+Telefono : 42494182
+Email : caro_4249@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estoy dispuesta a capacitarme en el caso que corresponda, tengo muchas ganas de trabajar y crecer laboralmente.
+Security_code : 95q3k
+Send : Enviar
+
+---------------
+

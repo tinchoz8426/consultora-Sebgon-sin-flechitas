@@ -1,0 +1,34 @@
+Address : 107.167.107.13
+Nombre : Florencia
+Apellido : Martínez
+Cargo : Limpieza
+Direccion : Rauch 259 
+Ciudad : Mar del plata
+Telefono : 2236340045
+Email : Florfranmateciro@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Gracias por su atención!
+Security_code : Fxnmc
+Send : Enviar
+
+---------------
+
+Address : 190.17.42.176
+Nombre : Facundo
+Apellido : Collino
+Cargo : Enfermero
+Direccion : Mariano Moreno
+Ciudad : Cordoba
+Telefono : 3513864087
+Email : famaco001@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : De mi mayor consideración:
+Me dirijo a usted por medio del presente y por su digno intermedio ante quien corresponda a los efectos de ofrecer mis servicios a la entidad que corresponda.
+Adjunto está mi currículum vital; si mis conocimientos son acordes con sus requerimientos, desearía que se comunique para concertar una entrevista personal.
+Sin otro particular y agradeciendo su atención, saludo muy atentamente.
+
+Security_code : jr2x7
+Send : Enviar
+
+---------------
+

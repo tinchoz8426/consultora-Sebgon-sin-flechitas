@@ -1,0 +1,48 @@
+Address : 190.19.188.170
+REF : gerente-produccion
+Nombre : Rodrigo
+Apellido : Vargas
+Cargo : GERENTE DE PRODUCCIÓN
+Direccion : Felipe Vallese 566 
+Ciudad : CABA
+Telefono : 15 5762 4104 
+Email : rodrigogonzalo.vargas@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Les comento que soy Ing. Industrial y cuento con experiencia ocupando distintas posiciones dentro del área de Supply Chain, experiencia principalmente desarrollada en planificación de producción,  planificación logística y coordinación de proyectos integrando distintas áreas, como certificación de normas de calidad y buenas practicas de fabricación.
+
+Mi objetivo es continuar desarrollando mi carrera profesional y seguir profundizando conocimientos, principalmente en planificación y coordinación de equipos de trabajo que influyan y brinden valor agregado tanto a la empresa como al cliente.
+Security_code : p9q6n
+Send : Enviar
+
+---------------
+
+Address : 190.111.217.253
+Nombre : Ramon
+Apellido : Arguello
+Cargo : operario
+Direccion : traful 1723
+Ciudad : Merlo
+Telefono : 0220-4859647
+Email : arguello.ramon@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : desempeñarme en el puesto a desarrolar habiendo la oportunidad con total repsponsabilidad y esmero, desde ya muchas gracias
+Security_code : g2wxh
+Send : Enviar
+
+---------------
+
+Address : 190.51.88.39
+Nombre : martin maximiliano
+Apellido : juarez
+Cargo : carga y descarga,operario
+Direccion : corrientes 3531
+Ciudad : buenos aires
+Telefono : 46972630
+Email : martinjuarez12@live.com
+MAX_FILE_SIZE : 2097152
+Mensaje : desde ya mucha gracias 
+Security_code : 2d545
+Send : Enviar
+
+---------------
+

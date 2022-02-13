@@ -1,0 +1,30 @@
+Address : 186.62.73.229
+Nombre : Ayelen
+Apellido : Mallo
+Cargo : indistinto
+Direccion : calle 133 N° 2080
+Ciudad : Berazategui
+Telefono : 011 4226 0685
+Email : ayel27@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Dejo adjuntado mi Cv, para cualquier oferta de trabajo que considere apropiada a lo que estoy buscando, relacionado a taeas administrativas, callcenter o en lo posible relacionado a la carrera de Administracion Hotelera. Gracias
+Security_code : wwbyd
+Send : Enviar
+
+---------------
+
+Address : 186.18.75.7
+Nombre : Mariela
+Apellido : Carpio
+Cargo : cajera administrativa/
+Direccion : CATAMARCA 809 3 F 
+Ciudad : CABA
+Telefono : 35277570
+Email : mar_beca@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Les envio mi Cv, para ser evaluado para futuras busquedas laborales.Tengo disponbilidad horaria, mchas ganas de insertarme laboralmente, Les pido me concedan una entrevista. Quedo a vuestra disposicion
+Security_code : 5txzy
+Send : Enviar
+
+---------------
+

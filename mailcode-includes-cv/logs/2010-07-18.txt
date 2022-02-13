@@ -1,0 +1,62 @@
+Address : 190.247.77.235
+Nombre : Gabriela 
+Apellido : Zemborain
+Cargo : Recepcion/At. al cliente
+Direccion : Albarellos 953
+Ciudad : Buenos Aires
+Telefono : 47936268/1560508080
+Email : gzemborain@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Quedando a su disposicion.Saludo Atte.
+Gabriela Zemborain
+Security_code : p95zc
+Send : Enviar
+
+---------------
+
+Address : 201.250.182.196
+Nombre : lorena
+Apellido : cartell
+Cargo : operario- salud
+Direccion : diesel
+Ciudad : libertad-merlo
+Telefono : 011-1565846107
+Email : lorenacartell@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : deseo que me manden informacion de algun trabajo para postularme, de lo que sea. tengo mucho interes en empezar a progresar y adquirir experiencia. gracias
+Security_code : m73h9
+Send : Enviar
+
+---------------
+
+Address : 190.173.65.186
+Nombre : Mariano Avila
+Apellido : Avila
+Cargo : Help Desk
+Direccion : Av. Vergara 1251 ED C DPTO 21
+Ciudad : Hurlingham
+Telefono : 44599515
+Email : avila.mariano.27@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : CV
+Security_code : w63qg
+Send : Enviar
+
+---------------
+
+Address : 190.224.225.176
+Nombre : Carlos 
+Apellido : Arroyo
+Cargo : Tecnico superior en Higiene y Seguridad en el Trabajo
+Direccion : San Carlos 1879
+Ciudad : San Lorenzo
+Telefono : 03476-433490
+Email : arroyocarlosm@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Envio curriculum Vitae
+Desde ya Muchas Gracias
+Security_code : 7t6ky
+Send : Enviar
+
+---------------
+

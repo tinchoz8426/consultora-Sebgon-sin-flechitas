@@ -1,0 +1,36 @@
+Address : 190.55.80.145
+Nombre : cecilia
+Apellido : flecha
+Cargo : psicologa social
+Direccion : billingursth 940
+Ciudad : ciudad autonoma de buenos aires
+Telefono : 20753752
+Email : ceciliapsicologasocial@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola mi nombre es cecilia soy operadora en psicologia social , les adjunto mi cv para posibles puestos vacantes gracias 
+Security_code : ch9wd
+Send : Enviar
+
+---------------
+
+Address : 201.250.97.143
+Nombre : Sabrina Belen
+Apellido : Rodriguez
+Cargo : Junior o Senior
+Direccion : Castañon 3021
+Ciudad : Capita Federal
+Telefono : 1540780660
+Email : Sabrinabrodriguez@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : A quien corresponda:
+
+Me encuentro en la búsqueda de empleo y confío en las capacidades de la consultora para facilitarme opciones de acuerdo a mi potencial.-
+Soy estudiante en la carrera de Derecho de la Universidad de Buenos Aires y actualmente desempeño tareas en el área de Renovación y regularización de sitios de la empresa Telefónica Móviles de Argentina (Movistar).
+
+Un cordial saludo
+
+Security_code : s396g
+Send : Enviar
+
+---------------
+

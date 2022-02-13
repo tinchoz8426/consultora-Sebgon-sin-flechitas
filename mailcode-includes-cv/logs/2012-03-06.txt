@@ -1,0 +1,101 @@
+Address : 190.174.61.220
+Nombre : laura
+Apellido : Santillán
+Cargo : psicóloga free-lance
+Direccion : Federico García Lorca 4983
+Ciudad : Ituzaingo
+Telefono : 4621-7591
+Email : laura0466@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje :  Estimados Coordinadores de Recursos Humanos: 
+                Luego de haber leído vuestra página , les hago llegar por este medio mi curriculum con el objetivo de que me tomen en cuenta en alguna de las búsquedas que deben realizar.Puedo trabajar tanto en mi consultorio en Caballito como en Ituzaingó, zona oeste y capital. 
+Mi cel.15-6002-4335
+      Atte..Lic.Santillán. Laura.   
+     
+Security_code : mnrrz
+Send : Enviar
+
+---------------
+
+Address : 200.43.251.140
+Nombre : Alberto 
+Apellido : Acosta
+Cargo : Mantenimiento en general
+Direccion : rodrigo pereyra 3939
+Ciudad : cordoba capital
+Telefono : (0351) 152 191025
+Email : lupin_cab_lg@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : necesito trabajo urgente ago electricidad de obra pintura plomeria durlock manejo auto moto auto elevador trabajos de herreria 
+Security_code : vh56d
+Send : Enviar
+
+---------------
+
+Address : 201.212.197.180
+Nombre : MATIAS
+Apellido : AIELLO
+Cargo : 0PERARIO
+Direccion : LA PLATA 2483
+Ciudad : LUJAN
+Telefono : 2323427523
+Email : machoaiello@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : me gustaria poder crecer en una empresa
+Security_code : b6734
+Send : Enviar
+
+---------------
+
+Address : 190.174.142.222
+REF : jefe-de-operaciones
+Nombre : Nestor Damian
+Apellido : Galais
+Cargo : Tecnico quimico o supervisor
+Direccion : Rafael Castillo 197
+Ciudad : Moron
+Telefono : 1534423883
+Email : damiangalais@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Tecnico quimico
+Security_code : 4yrmp
+Send : Enviar
+
+---------------
+
+Address : 190.178.219.42
+Nombre : Maria Gimena
+Apellido : Ortiz
+Cargo : Cajera - Atencion al cliente - Administrativa
+Direccion : 59-473
+Ciudad : La Plata
+Telefono : (02262) 15574313
+Email : gime1189@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Mi experiencia hasta la fecha demuestra mi capacidad para el trabajo tanto sola como en equipo, tomar decisiones y aceptar responsabilidades. Me considero una persona proactiva, dinámica, responsable y con un gran entusiasmo para aprender, por eso es que creo que podría encajar satisfactoriamente con el equipo que dirige.
+Mi objetivo es lograr mantenerme en el mercado laboral, mejorando cada dia mas y asi obtener una independencia económica total.
+Agradeceria que considerasen la posibilidad de consertar una futura entrevista, con el fin de ampliar todos los aspectos de interés necesarios.
+
+Sin otro particular, y dando las gracias de antemano saluda
+
+Gimena Ortiz
+Security_code : msdy5
+Send : Enviar
+
+---------------
+
+Address : 186.22.187.143
+Nombre : Maria Eugenia
+Apellido : Rolon
+Cargo : Administrativo 
+Direccion : Av Rivadavia 14340
+Ciudad : Ramos Mejia
+Telefono : 35351914
+Email : meugenia.rolon@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : estoy en busqueda de empleo para administrativa,rrhh, comunicaciones
+Security_code : 354n3
+Send : Enviar
+
+---------------
+

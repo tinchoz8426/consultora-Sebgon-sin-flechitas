@@ -1,0 +1,15 @@
+Address : 190.172.145.20
+Nombre : natali
+Apellido : SERNA
+Cargo : SEGURIDAD E HIGIENE
+Direccion : MENDOZA 732
+Ciudad : CINCO SALTOS
+Telefono : 0299154068363
+Email : lesli_nat@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : dejo mi cv por cualquier postulación según mis conocimientos
+Security_code : y9bdm
+Send : Enviar
+
+---------------
+

@@ -1,0 +1,146 @@
+Address : 170.51.94.238<br>
+ <br>REF : chr
+ <br>Nombre : Sebastián 
+ <br>Apellido : Perez
+ <br>Cargo : Chófer 
+ <br>Direccion : Castro barros 820 
+ <br>Ciudad : Buenos Aires 
+ <br>Telefono : 1160263077 
+ <br>Email : Sebastianhectorperezt@outlook.es 
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Soy una persona proactiva con muchas ganas de trabajar e implementar mis conocimientos. Poseo registro municipal y cnrt cargas generales 
+ <br>Security_code : bwxnr
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.47.204.78<br>
+ <br>Nombre : Rodrigo
+ <br>Apellido : Dimeo
+ <br>Cargo : Tecnico de Higiene y Seguridad
+ <br>Direccion : Paris 1512
+ <br>Ciudad : Isidro Casanova
+ <br>Telefono : 1568540641
+ <br>Email : rodrigodimeo@hotmail.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : ...
+ <br>Security_code : kpzd4
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.18.80.136<br>
+ <br>REF : ROT-1
+ <br>Nombre : Tomas
+ <br>Apellido : Belen
+ <br>Cargo : RESPONSABLE DE OFICINA TECNICA
+ <br>Direccion : Manuel Fernandez 628
+ <br>Ciudad : Temperley
+ <br>Telefono : 1131249190
+ <br>Email : tomas27belen@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Mi nombre es Tomas Belen y envío mi CV con la intención de aplicar al puesto de Responsable de Oficina Técnica.
+Desde ya, muchas gracias.
+
+ <br>Security_code : n9gcp
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.230.241.214<br>
+ <br>Nombre : Benjamin
+ <br>Apellido : Velasquez Marin
+ <br>Cargo : Ejecutivo de Cuenta SSr
+ <br>Direccion : Marcelo t de alvear 1522,
+ <br>Ciudad : Capital Federal
+ <br>Telefono : 1164139617
+ <br>Email : benjavelasquez87@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estoy en un busqueda activa para una oportunidad de crecimiento profesional
+ <br>Security_code : 4rvm6
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.174.41.87<br>
+ <br>REF : JPER-1
+ <br>Nombre : Mario Fabian
+ <br>Apellido : Lange
+ <br>Cargo : Jefe de Personal
+ <br>Direccion : calle 28 n 967 city bell
+ <br>Ciudad : city bell
+ <br>Telefono : +54 11 66806637
+ <br>Email : mariofabianlange@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Adjunto Cv, estoy a vuetra disposicion para ser convocado a una entrevista.
+
+gracias
+Fabian Lange
+ <br>Security_code : q9zyw
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.208.2.9<br>
+ <br>REF : EP-1
+ <br>Nombre : ARTURO  RAFAEL
+ <br>Apellido : SEPULVEDA ESPINOZA
+ <br>Cargo : ENCARGADO DE PRODUCCIÓN
+ <br>Direccion : Lanus Calle Oliden 2445 
+ <br>Ciudad : BUENOS AIRES
+ <br>Telefono : 1133548550
+ <br>Email : arlene_espinoza2@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Dentro de mis objetivos personales esta,  el uso de mi experiencia en el área de producción, y a su vez ganar experiencia de trabajo en el area de producción, controlar y estudiar toda la cadena productiva, integrar un equipo de trabajo, colaborando con las funciones administrativas en áreas especificas y obtener un puesto con mayor responsabilidad, poder dirigir un equipo de trabajo, desarrollar planes estratégicos en base a estudios actualizados, modernizar y perfeccionar alguna línea de producción, formular planes para disminución de gastos en la adquisición de insumos, mis conocimientos quisiera aprovecharlos en su renombrada compañía . Tengo la certeza  que cuento con las capacidades necesarias para efectuar bien mi labor y si me dan la opción de hacerlo cubriré sus expectativas
+ <br>Security_code : 46m8c
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 170.51.32.178<br>
+ <br>REF : chr
+ <br>Nombre : Juan
+ <br>Apellido : Krieger
+ <br>Cargo : Chofer
+ <br>Direccion : Maderna 867
+ <br>Ciudad : Buenos aires
+ <br>Telefono : 1160383621
+ <br>Email : Kriegerjuan_1992@hotmail.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Disponibilidad horaria y registros al día . Buena predisposición laboral.
+ <br>Security_code : Mfm2k
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 170.51.32.178<br>
+ <br>Nombre : Juan
+ <br>Apellido : Krieger
+ <br>Cargo : Chofer
+ <br>Direccion : Maderna 867
+ <br>Ciudad : Buenos aires
+ <br>Telefono : 1160393621
+ <br>Email : Kriegerjuan_1992@hotmail.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Predisposición laboral y presencia muy buena
+ <br>Security_code : J6bxf
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 170.51.28.0<br>
+ <br>REF : chr
+ <br>Nombre : Sebastián 
+ <br>Apellido : Perez
+ <br>Cargo : Chofer
+ <br>Direccion : Castro barros 820
+ <br>Ciudad : Buenos Aires 
+ <br>Telefono : 1160263077 
+ <br>Email : Seba171836@gmail.com 
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Soy una persona proactiva con muchas ganas de trabajar y emplear mis conocimientos.poseo registro municipal y cnrt vigente 
+ <br>Security_code : tm9d7
+ <br>Send : Enviar
+ <br>
+---------------
+

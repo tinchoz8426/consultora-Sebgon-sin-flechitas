@@ -1,0 +1,152 @@
+Address : 190.55.142.24
+REF : ADM
+Nombre : Nora Mabel
+Apellido : Minuchin
+Cargo : ADMINISTRATIVA PARA TAREAS GENERALES
+Direccion : Gregorio de Laferrere 2113
+Ciudad : CABA
+Telefono : 111565650405
+Email : noreenar@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados,
+He visto la oferta laboral publicada y la misma me resultó de gran interés. Por este motivo, les hago llegar mi CV a fin de ser tenida en cuenta como candidata.
+Quedo a su disposición para ampliar cualquier información necesaria.
+Cordialmente,
+Nora Mabel Minuchin
+Security_code : 4wdhr
+Send : Enviar
+
+---------------
+
+Address : 190.188.188.99
+REF : SUPL
+Nombre : Cristian
+Apellido : Bugianesi
+Cargo : Supervisor de Logistica
+Direccion : Santiago del estero 2137
+Ciudad : Lanus Oeste
+Telefono : 15-39025936
+Email : cristianbgns@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenas tardes:
+Adjunto Cv para la búsqueda de referencia.
+
+Security_code : 3kntj
+Send : Enviar
+
+---------------
+
+Address : 201.255.158.133
+REF : SE.BIL
+Nombre : Alejandra
+Apellido : Santoro
+Cargo : Secretaria Bilingue
+Direccion : Alsina 851
+Ciudad : Avellaneda
+Telefono : 1558637710
+Email : alejandralilianasantoro@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenos Aires, 10 de Noviembre de 2015
+ 
+Estimados Sres.
+ 
+Me dirijo a Uds. en relación a la búsqueda de la referencia.
+ 
+A tales efectos adjunto mi C.V. actualizado para aplicar a dicha posición.
+ 
+Quedo a su disposición para ampliar mis datos / experiencia y poder tener una entrevista al respecto.
+ 
+Desde ya muy agradecida por la gentil atención dispensada.
+ 
+Sin otro particular, saludo a Uds. con la mayor estima.
+ 
+Alejandra Santoro.
+ 
+   
+Adj.: C.V.
+ 
+/alis
+Security_code : xnjwy
+Send : Enviar
+
+---------------
+
+Address : 201.212.28.129
+Nombre : Jose Luis 
+Apellido : Piesco
+Cargo : Tesorero
+Direccion : Fontela 210
+Ciudad : Temperley
+Telefono : 1559260880
+Email : pepe_cele@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : REf.Tesorero
+Security_code : 8nf4m
+Send : Enviar
+
+---------------
+
+Address : 190.177.204.45
+REF : SEP
+Nombre : Gabriel Omar
+Apellido : Peveri
+Cargo : Supervisor de Planta 
+Direccion : Ituzaingo 571
+Ciudad : San Martin
+Telefono : 1137779688
+Email : gabrielomar.peveri@yahoo.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto resumen CV
+Security_code : 83ybz
+Send : Enviar
+
+---------------
+
+Address : 186.1.228.86
+REF : GTEP
+Nombre : Alejandro
+Apellido : Gallardo
+Cargo : Gerente de Planta
+Direccion : A del valle 4591
+Ciudad : Benavidez
+Telefono : 1565395018
+Email : consulgallardo@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Profesional en Ingeniería Industrial. Más de 20 años de experiencia en la industria, de los cuales 13 en áreas de jefatura. Me he desempeñado en industrias Alimenticias, Plásticas, autopartistas, siderúrgicas, metalmecánica y Papelera. Generador de proyectos con alto índice de calidad. Especializado en el desarrollo durante paradas de planta programadas, adaptándome a los tiempos exigentes de las mismas. Seleccionar, entrenar y desarrollar nuevos integrantes del equipo de trabajo. 
+Liderar equipos de mejoras. Desarrollo de equipamientos a medida y proyectos innovadores. Elevado nivel técnico, en constante desarrollo y capacitación.
+
+Security_code : 2cvmg
+Send : Enviar
+
+---------------
+
+Address : 186.141.130.4
+Nombre : Evelin
+Apellido : Gonzalez
+Cargo : Limpieza .atencion al publico mucama camarera. Cert. De auxiliar de peluqueria y manicuaria
+Direccion : Castelli 5768
+Ciudad : Mardelplata
+Telefono : 156161688
+Email : Antonella5914@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola tengo 23 años y estoy en busca de trabajo desde ya muchas gracias
+Security_code : Xdh46
+Send : Enviar
+
+---------------
+
+Address : 186.141.130.4
+Nombre : Evelin
+Apellido : Gonzalez
+Cargo : Limpieza .atencion al publico mucama camarera. Cert. De auxiliar de peluqueria y manicuaria
+Direccion : Castelli 5768
+Ciudad : Mardelplata
+Telefono : 156161688
+Email : Antonella5914@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola tengo 23 años y estoy en busca de trabajo desde ya muchas gracias
+Security_code : 252ff
+Send : Enviar
+
+---------------
+

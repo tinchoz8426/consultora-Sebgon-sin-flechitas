@@ -1,0 +1,48 @@
+Address : 66.249.85.18<br>
+ <br>REF : OEL
+ <br>Nombre : Javier
+ <br>Apellido : Orellana
+ <br>Cargo : Medio oficial electricista
+ <br>Direccion : AltoLaguirre 880
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 44627314
+ <br>Email : hjorellana805@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola soi electricista ahora estoy haciendo el curso de automatización  Y PLC y bueno tengo mucha práctica y conocimiento en nirmas y me gustaría aportar mi experiencia al servicio de ustedes un abrazo .
+ <br>Security_code : Pdqzn
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.28<br>
+ <br>REF : OEL
+ <br>Nombre : Javier
+ <br>Apellido : Orellana
+ <br>Cargo : Medio oficial electricista
+ <br>Direccion : AltoLaguirre 880
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 44627314
+ <br>Email : hjorellana805@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola soi electricista ahora estoy haciendo el curso de automatización  Y PLC y bueno tengo mucha práctica y conocimiento en nirmas y me gustaría aportar mi experiencia al servicio de ustedes un abrazo .
+ <br>Security_code : 7h7pk
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.210.72.45<br>
+ <br>REF : TEQ
+ <br>Nombre : SARA MABEL
+ <br>Apellido : CERRUDO
+ <br>Cargo : TÉCNICA QUÍMICA
+ <br>Direccion : CALLE 511 Nº 3731
+ <br>Ciudad : FLORENCIO VARELA
+ <br>Telefono : 15-5690-6813
+ <br>Email : sarah-smc1@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : SOY TÉCNICA QUÍMICA Y TÉCNICA EN LABORATORIO RESPONSABLE Y DINÁMICA.
+ <br>Security_code : zj7bs
+ <br>Send : Enviar
+ <br>
+---------------
+

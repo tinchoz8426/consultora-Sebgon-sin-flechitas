@@ -1,0 +1,60 @@
+Address : 181.44.124.58<br>
+ <br>Nombre : Brian
+ <br>Apellido : Lobruno
+ <br>Cargo : ---
+ <br>Direccion : calle 896 esquina 864
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 21085055
+ <br>Email : brianlobruno@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : me gustaria poder aprender nuevos oficios y progresar dia a dia ganando conocimientos.
+ <br>Security_code : 4Xsgb
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.44.124.58<br>
+ <br>Nombre : Brian
+ <br>Apellido : Lobruno
+ <br>Cargo : ---
+ <br>Direccion : calle 896 esquina 864
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 21085055
+ <br>Email : brianlobruno@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : me gustaria poder aprender nuevos oficios y progresar dia a dia ganando conocimientos.
+ <br>Security_code : gk9rn
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.44.124.58<br>
+ <br>Nombre : Brian
+ <br>Apellido : Lobruno
+ <br>Cargo : ---
+ <br>Direccion : calle 896 esquina 864
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 21085055
+ <br>Email : brianlobruno@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : me gustaria poder aprender nuevos oficios y progresar dia a dia ganando conocimientos.
+ <br>Security_code : 3v52p
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.23.183.101<br>
+ <br>Nombre : Castor
+ <br>Apellido : Naranjo Molina
+ <br>Cargo : supervisor de inspeccion
+ <br>Direccion : AV BRASIL 2627
+ <br>Ciudad : CAPITAL FEDERAL
+ <br>Telefono : 01153267896
+ <br>Email : castor.naranjo123@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : he mirado el anununcio estoy anexando mi cv para optar a una posiscion estoy disponible 
+ <br>Security_code : wdx7t
+ <br>Send : Enviar
+ <br>
+---------------
+

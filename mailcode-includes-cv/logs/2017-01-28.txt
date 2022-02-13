@@ -1,0 +1,98 @@
+Address : 181.45.178.128<br>
+ <br>Nombre : Mónica
+ <br>Apellido : Luna
+ <br>Cargo : Administrativa
+ <br>Direccion : Camerucci 1536
+ <br>Ciudad : Ituzaingó
+ <br>Telefono : 63793607
+ <br>Email : moniluna17@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Solicito tengan a bien recepcionar el presente CV para una vacante laboral acorde a mi perfil, desde ya, muchas gracias. Disponibilidad full time. 
+ <br>Security_code : jmkf5
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 200.125.107.67<br>
+ <br>REF : EP-1
+ <br>Nombre : Eduardo
+ <br>Apellido : Garcia
+ <br>Cargo : Encargado de produccion
+ <br>Direccion : A. Alice 64
+ <br>Ciudad : Los Polvorines
+ <br>Telefono : 11 3755 2518
+ <br>Email : eg5103@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me atrevo a enviar mi CV ya que considero cumplir con los requisitos y porque me interesa la propuesta. Agradezco me tengan en cuenta. Atte Eduardo Garcia
+ <br>Security_code : 6yg7t
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.47.2.34<br>
+ <br>REF : SP-1
+ <br>Nombre : Patricia Claudia
+ <br>Apellido : Muras
+ <br>Cargo : Supervisora
+ <br>Direccion : Espinosa 1423
+ <br>Ciudad : CABA
+ <br>Telefono : 15 3071 9113
+ <br>Email : patriciamuras@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : De mi mayor consideración:
+
+                                              Por medio de la presente, tengo el agrado de dirigirme a Ud. y por su digno intermedio ante quien corresponda, con el fin de ofrecerle mi Curriculum Vitae con mis datos personales,  profesionales y otros datos de interés, para integrar el equipo  de la entidad a la que Ud. representa.
+  Me interesa trabajar en su empresa porque se trata de una organización con perspectivas de crecimiento. Mi candidatura le puede resultar de interés porque he culminado la Licenciatura de Relaciones Públicas por lo cual me considero capacitada para desempeñarme en un puesto a fin donde brindar mis conocimientos.Estoy dispuesta a seguir aprendiendo y puedo aportar nuevas ideas y frescura a la entidad.
+  Aguardo recibir pronto noticias suyas sobre las posibilidades de trabajar en la organización mediante una entrevista personal.
+  Quedo a vuestra disposición.
+
+Cordialmente
+Lic. Patricia C. Muras
+
+
+ <br>Security_code : q78h6
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.47.2.34<br>
+ <br>REF : SP-1
+ <br>Nombre : Patricia Claudia
+ <br>Apellido : Muras
+ <br>Cargo : Supervisora
+ <br>Direccion : Espinosa 1423
+ <br>Ciudad : CABA
+ <br>Telefono : 15 3071 9113
+ <br>Email : patriciamuras@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : De mi mayor consideración:
+
+                                              Por medio de la presente, tengo el agrado de dirigirme a Ud. y por su digno intermedio ante quien corresponda, con el fin de ofrecerle mi Curriculum Vitae con mis datos personales,  profesionales y otros datos de interés, para integrar el equipo  de la entidad a la que Ud. representa.
+  Me interesa trabajar en su empresa porque se trata de una organización con perspectivas de crecimiento. Mi candidatura le puede resultar de interés porque he culminado la Licenciatura de Relaciones Públicas por lo cual me considero capacitada para desempeñarme en un puesto a fin donde brindar mis conocimientos.Estoy dispuesta a seguir aprendiendo y puedo aportar nuevas ideas y frescura a la entidad.
+  Aguardo recibir pronto noticias suyas sobre las posibilidades de trabajar en la organización mediante una entrevista personal.
+  Quedo a vuestra disposición.
+
+Cordialmente
+Lic. Patricia C. Muras
+
+
+ <br>Security_code : 785cw
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.130.33.160<br>
+ <br>Nombre : DANIEL LEONARDO
+ <br>Apellido : NERI
+ <br>Cargo : tecnico electronico/electrico
+ <br>Direccion : 25 de Mayo 550
+ <br>Ciudad : Moron
+ <br>Telefono : 46273311
+ <br>Email : danyel.107023@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me postulo a la oferta de MULTINACIONAL ZONA OESTE TEC. ELECTRONICO. GRACIAS!
+ <br>Security_code : b7gfd
+ <br>Send : Enviar
+ <br>
+---------------
+

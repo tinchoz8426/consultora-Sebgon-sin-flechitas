@@ -1,0 +1,75 @@
+Address : 181.94.113.248<br>
+ <br>Nombre : Micaela Fernanda
+ <br>Apellido : Vega
+ <br>Cargo : Atención al publico y repositora
+ <br>Direccion : benitez 3453
+ <br>Ciudad : Rosario
+ <br>Telefono : 3416108926
+ <br>Email : micaelafernandavega.22@outlook.es
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenos dias aca les dejo mi curriculum soy una persona responsable, puntual y extrovertida. Necesito y tengo muchas ganas de trabajar. desde ya muchas gracias
+ <br>Security_code : 8vgmn
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.31.152.136<br>
+ <br>Nombre : Maximiliano
+ <br>Apellido : Lopez
+ <br>Cargo : Tecnico de higiene y seguridad
+ <br>Direccion : Chaco
+ <br>Ciudad : Cordoba
+ <br>Telefono : 3512697680
+ <br>Email : maxioscarlopez@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Busco trabajo de tecnico en higiene y seguridad. 
+ <br>Security_code : 3npqx
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.202.90.70<br>
+ <br>Nombre : Carlos Ali
+ <br>Apellido : Vargas Silva
+ <br>Cargo : Programador
+ <br>Direccion : : Urbanización Quendal, edificio Los Alpes II, piso 6, apartamento 6-D.  Los Teques,  Estado. Miranda. País: Venezuela
+ <br>Ciudad : Venezuela
+ <br>Telefono : +58 424 1265831
+ <br>Email : alivargass@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Sinstesis Curricular
+ <br>Security_code : cn7pt
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.124.146.84<br>
+ <br>Nombre : Marcos
+ <br>Apellido : Gonzalez
+ <br>Cargo : Administrativo u operario
+ <br>Direccion : sarmiento 2916
+ <br>Ciudad : caseros
+ <br>Telefono : 47341938
+ <br>Email : marcos_medio_ar@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Adjunto mi cv gracias!
+ <br>Security_code : d8x73
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 132.255.224.2<br>
+ <br>Nombre : celeste 
+ <br>Apellido : pereyra 
+ <br>Cargo : seguridad e higiene 
+ <br>Direccion : B| Juan Domingo Peron K 8 Maipu
+ <br>Ciudad : Mendoza
+ <br>Telefono : 2615751478
+ <br>Email : mariaceleste87pereyra@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola soy celeste dejo mi cv. saludos Gracias 
+ <br>Security_code : t9gmj
+ <br>Send : Enviar
+ <br>
+---------------
+

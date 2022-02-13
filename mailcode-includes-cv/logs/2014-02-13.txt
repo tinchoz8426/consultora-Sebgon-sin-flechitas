@@ -1,0 +1,30 @@
+Address : 186.109.9.57
+Nombre : Ignacio Valentin
+Apellido : Olmedo
+Cargo : vendedor,cajero,repositor y atencion al cliente
+Direccion : sergio camargo 7938
+Ciudad : Cordoba
+Telefono : 0351152815438
+Email : nacho_olmedo@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estoy bucando trabajo par poder independizarme, no tengo problemas de realizar cursos o capacitaciones para poder ingresar a un trabajo siempre tengo predispocicion al trabajo desde chico q lo hago para poder no depender economicamente de mi falia des de ya muchas  gracias espero cumplir con los requisitos 
+Security_code : 3bfdy
+Send : Enviar
+
+---------------
+
+Address : 190.1.16.64
+Nombre : Victoria
+Apellido : Eliseo
+Cargo : atencion al publico
+Direccion : newton 3500
+Ciudad : bahia blanca
+Telefono : 0291-4022188
+Email : victoriaeliseo@outlook.om
+MAX_FILE_SIZE : 2097152
+Mensaje : necesitaria un trabajo lo mas pronto posible. desde ya muchas gracias
+Security_code : 7gwws
+Send : Enviar
+
+---------------
+

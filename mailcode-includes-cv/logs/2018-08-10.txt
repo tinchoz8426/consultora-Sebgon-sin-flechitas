@@ -1,0 +1,33 @@
+Address : 200.5.253.2<br>
+ <br>Nombre : Celso Joel
+ <br>Apellido : Sisini
+ <br>Cargo : Conductor
+ <br>Direccion : Catamarca 4247
+ <br>Ciudad : Mar del Plata
+ <br>Telefono : 0223 156088749
+ <br>Email : elecktra19mel@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Trabajé durante muchos años en el sector de trasporte y logistica de una empresa dedicada a la venta de materiales de construcción. Como encargado de depósito controlaba el ingreso y egreso de mercaderia, control de stock, embalaje y disposición de rutas para el envio, distribución y despacho en domicilio del cliente.
+
+Soy una persona muy responable, dinamica y puntual. Puedo adaptarme a cualquier trabajo para el que me necesiten. Si hay que hacer un curso. lo hago. Mi objetivo es la constante superación en el plano personal y profesional. Quedo a su disposición, desde ya muchas gracias.
+
+ <br>Security_code : c3pz9
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.212.18.37<br>
+ <br>Nombre : FLORENCIA
+ <br>Apellido : PAIROLA
+ <br>Cargo : COMERCIO EXTERIOR
+ <br>Direccion : GUATEMALA 
+ <br>Ciudad : BUENOS AIRES
+ <br>Telefono : 1133871549
+ <br>Email : f.pairola@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estudiante finalizando la carrera de Comercio Internacional.
+ <br>Security_code : 687yc
+ <br>Send : Enviar
+ <br>
+---------------
+

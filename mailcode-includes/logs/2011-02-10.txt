@@ -1,0 +1,15 @@
+Address : 186.137.232.240
+Nombre : Ignacio
+Apellido : Butera
+Empresa : SISTEMAS GO SA
+Telefono : 011 (15) 59198679
+Email : ibutera_cif@hotmail.com
+Mensaje : Buenas tardes, estoy interesado en recibir una propuesta acerca de sus servicios de búsqueda laboral. Estamos en pleno proceso de montaje de una fábrica de colchones y sommiers y precisamos formar un equipo de trabajo.
+Quedo a su disposición.
+
+Saludos
+Security_code : ZXZCV
+Send : Enviar
+
+---------------
+

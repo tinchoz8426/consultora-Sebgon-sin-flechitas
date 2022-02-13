@@ -1,0 +1,46 @@
+Address : 181.24.81.48<br>
+ <br>Nombre : Joana Nair 
+ <br>Apellido : Rua 
+ <br>Cargo : Vendedora Categoria B
+ <br>Direccion : alvarado al 5400
+ <br>Ciudad : Mar del plata 
+ <br>Telefono : 2235197279
+ <br>Email : yoanamdq43@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Deseo aplicar mis conocimientos, de manera en la cual pueda aprovechar al máximo alguna oportunidad de empleo y al igual aprender y capacitarme en todo lo necesario en cualquiera fuese al area a desempeñar
+ <br>Security_code : fms36
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.44.66.119<br>
+ <br>Nombre : Rodrigo
+ <br>Apellido : Monzón
+ <br>Cargo : Empleado
+ <br>Direccion : Manza 1 - Edificio c6 - PB "D"
+ <br>Ciudad : Claypole - GBA
+ <br>Telefono : 01153370006
+ <br>Email : rmrodrigomonzon@icloud.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Lograr una superación personal día con día y aportar los conocimientos para un mejor desempeño laboral.
+ <br>Security_code : mbtjs
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 152.168.220.217<br>
+ <br>REF : GTEP
+ <br>Nombre : Carolina
+ <br>Apellido : Redini
+ <br>Cargo : Gerente de Planta
+ <br>Direccion : Alte Brown 395
+ <br>Ciudad : Campana
+ <br>Telefono : 011 1550374976
+ <br>Email : caroredini@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Gran experiencia como jefe de planta, trabajando bajo normas ISO9001, ISO14001, OHSAS18001 e ISO TS 16949. Experiencia en conducción de personal agremiado.
+ <br>Security_code : hy8mx
+ <br>Send : Enviar
+ <br>
+---------------
+

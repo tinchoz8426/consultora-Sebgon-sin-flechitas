@@ -1,0 +1,51 @@
+Address : 186.57.196.51
+Nombre : VIRNA VANESA
+Apellido : ZARACHO
+Cargo : ADMINISTRATIVO - CONTABLE
+Direccion : DUNANT 2355
+Ciudad : MORENO
+Telefono : 11-67004461
+Email : VIRVAN_17@YAHOO.COM.AR
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenos dias;
+
+Adjunto Curriculum Vitae para postular me en un puesto Administrativa - contable.
+Actualmente me encuentro trabajando, dispongo de horario para entrevistas a partir de las 17:30hs.
+Muchas gracias.
+Atte. 
+
+Security_code : 3smcf
+Send : Enviar
+
+---------------
+
+Address : 201.212.43.218
+Nombre : jose enrique jacinto
+Apellido : Casero 
+Cargo : ventas-att. al cliente-otros
+Direccion : villanueva 2854
+Ciudad : cordoba
+Telefono : 0351-156799836
+Email : enriquecasero@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenos dias, les envio mi CV esperando sea  de su utilidad.poseo vehiculo en buen estado.
+Security_code : wxvd8
+Send : Enviar
+
+---------------
+
+Address : 200.1.117.25
+Nombre : Luis Alberto
+Apellido : Passaro
+Cargo : proyectista civil - supervisor
+Direccion : J M Gutierrez 2786 8° "D"
+Ciudad : CABA
+Telefono : 4806-2004
+Email : lpassaro_16@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : amplia experiencia en proyectos relacionados con Minería, Gas y Petróleo.
+Security_code : xpry3
+Send : Enviar
+
+---------------
+

@@ -1,0 +1,45 @@
+Address : 190.174.138.12
+Nombre : Julián
+Apellido : Allegretti
+Cargo : Administrativo o Secretario
+Direccion : Pirineos 45
+Ciudad : Buenos Aires
+Telefono : 44507117
+Email : julian.allegretti@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Desempeñarme, ofrecer y desarrollar todas mis capacidades, para conseguir un excelente resultado en la labor y el área asignada.
+Security_code : h4jnm
+Send : Enviar
+
+---------------
+
+Address : 181.0.194.54
+Nombre : Carolina
+Apellido : Soto
+Cargo : Administrativo, auxiliar de la Justicia
+Direccion : Av. Churruarín 55
+Ciudad : Paraná
+Telefono : (0343)154528862
+Email : licsotocarolina@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Busco empleo como Criminalista, encargada, administrativa y afines.
+Security_code : f86xq
+Send : Enviar
+
+---------------
+
+Address : 190.51.39.101
+Nombre : abigail araceli
+Apellido : bustamante
+Cargo : -
+Direccion : roque saenz peña 495
+Ciudad : ezeiza
+Telefono : 1144073630
+Email : abita.b@hotmail.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : ando en busca de alguna oferta laboral para poder integrarme al mundo laboral para poder sustentar mis estudios y necesidades basicas
+Security_code : 6vxsh
+Send : Enviar
+
+---------------
+

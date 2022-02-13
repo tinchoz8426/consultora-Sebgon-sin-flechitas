@@ -1,0 +1,74 @@
+Address : 200.115.226.165
+REF : gerente-financiero
+Nombre : hector
+Apellido : Miguez
+Cargo : Gerente Administrativo Financiero
+Direccion : Caracas 4475
+Ciudad : C.A.B.A.
+Telefono : 3530'3175
+Email : hdmiguez@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto mi curriculum para la posición de referencia.
+Cordialmente,
+Security_code : 6b539
+Send : Enviar
+
+---------------
+
+Address : 186.141.1.2
+Nombre : Sabrina Mariel
+Apellido : del Campo
+Cargo : Administrativa
+Direccion : Velez Sarsfield n° 1358
+Ciudad : Comodoro Rivadavia
+Telefono : 0297 444 1019
+Email : sabrinamariel_84@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me interesa cualquier puesto administrativo ya que mi objetivo es cumplir satisfactoriamente la tarea asignada.
+Security_code : pvfqt
+Send : Enviar
+
+---------------
+
+Address : 190.174.23.31
+Nombre : Christian Enrique
+Apellido : Ceballos
+Cargo : Sistemas
+Direccion : Rio Piedra 350
+Ciudad : Moron
+Telefono : 15-6905-5356
+Email : christianceballos@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Atn. Depto. RRHH
+A quien corresponda:
+ 
+Hago envio adjunto de mi CV con el fin de ofrecer mis servicios para con vuestra empresa.
+ 
+Desde ya quedo a vuestra entera disposicion para ampliar cualquier dato que concideren pertinente ante una entrevista personal.
+ 
+Saludo cordialmente
+ 
+ 
+Christian E. Ceballos
+christianceballos@hotmail.com
+15 - 6905 - 5356
+Security_code : 4vsym
+Send : Enviar
+
+---------------
+
+Address : 186.141.42.193
+Nombre : Mirna 
+Apellido : Claverias
+Cargo : Secretaria
+Direccion : Bonpland
+Ciudad : Bs.As.
+Telefono : 1538878219
+Email : thedoors_lomas@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Necesito trabajar
+Security_code : pp6ww
+Send : Enviar
+
+---------------
+

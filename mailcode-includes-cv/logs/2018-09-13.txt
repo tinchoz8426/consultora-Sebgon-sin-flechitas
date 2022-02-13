@@ -1,0 +1,15 @@
+Address : 190.175.36.38<br>
+ <br>Nombre : Jorge guillermo
+ <br>Apellido : Acuña
+ <br>Cargo : Técnico auxiliar en gas y petroleo
+ <br>Direccion : Sargento Cabral 650
+ <br>Ciudad : Cinco saltos 
+ <br>Telefono : 2995070079
+ <br>Email : jgacuna83@Gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Gracias por recibir el currículum; desde ya muchas gracias Saludos atte...
+ <br>Security_code : 6rt58
+ <br>Send : Enviar
+ <br>
+---------------
+

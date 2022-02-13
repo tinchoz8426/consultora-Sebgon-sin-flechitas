@@ -1,0 +1,62 @@
+Address : 181.31.83.221
+Nombre : florencia 
+Apellido : cabrera
+Cargo : moza,bachera
+Direccion : juan de campillo 1001
+Ciudad : cordoba
+Telefono : 3517058908
+Email : florencia_derenacimiento@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : espero una positiva respuesta desde ya muchas gracias
+Security_code : 3dxmq
+Send : Enviar
+
+---------------
+
+Address : 190.188.37.190
+Nombre : Veronica
+Apellido : Vega
+Cargo : Costos Control de gestion
+Direccion : Miro 586
+Ciudad : Capital federal
+Telefono : 1544103744
+Email : veronicasvega@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados,
+
+El objetivo de la presente es expresarle mi interés en participar en los procesos de selección que tengan vigentes o en las futuras búsquedas que gestione vuestra Organización.
+
+Mi nombre es Verónica Vega, soy Contadora Publica, Licenciada en Administración con un Posgrado en Costos y Gestión Empresarial.
+
+He desarrollado mi experiencia profesional, de más de 15 años, principalmente en compañías industriales, tanto multinacionales como nacionales con desempeño local y regional. Principalmente en las áreas de Costos y Control de Gestión, por lo que aspiro  continuar desarrollando mis capacidades como responsable en dichas áreas.
+
+Me pongo a disposición para concertar una entrevista personal en la cual podré ampliar mis aptitudes profesionales.
+
+Muchas Gracias por su atención.
+
+Atentamente,
+
+       Vega Verónica Susana
+       Mail : veronicasvega@gmail.com
+       Tel : 15-4410-3744
+
+Security_code : 4hmr7
+Send : Enviar
+
+---------------
+
+Address : 201.234.24.4
+Nombre : Maria Eugenia
+Apellido : Maiorana
+Cargo : Junior
+Direccion : 27 de abril 980 8 D
+Ciudad : Cordoba
+Telefono : 0351156875406
+Email : eugemaiorana@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Mi nombre es Maria Eugenia Maiorana, soy tesista de la Lic. en Psicologia, U.N.C. Soy soltera, sin hijos, resido en la localidad de Cordoba y cuento con disposicion full time. Poseo mucha experiencia en actividades de voluntariado y docencia. Tengo predisposicion a trabajar tanto en equipo como de forma individual. Me gusta aprender y formarme constantemente. Me gustaria poder trabajar de manera comprometida, responsable y respetuosa.
+Security_code : 8y7y4
+Send : Enviar
+
+---------------
+

@@ -1,0 +1,220 @@
+Address : 181.165.122.188<br>
+ <br>Nombre : MARIA
+ <br>Apellido : ROBERTO
+ <br>Cargo : Jefe de Comercio Exterior
+ <br>Direccion : Bolivar 260 piso 4to. B Ramos Mejía
+ <br>Ciudad : GBA
+ <br>Telefono : 01167837448
+ <br>Email : mariahroberto@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenos día,
+
+Mi nombres María Roberto, me postulo para jefe o responsable de comercio exterior, compras o en el área comercial.
+ <br>Security_code : yxdn6
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.58.191.48<br>
+ <br>REF : SP-1
+ <br>Nombre : Irene Eleonora
+ <br>Apellido : Azcurra
+ <br>Cargo : Supervisor de producción
+ <br>Direccion : Jaime Davalos
+ <br>Ciudad : San Juan
+ <br>Telefono : 2645230848
+ <br>Email : eli_azcurra@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Experiencia en trabajo y manejo de grupos grandes de personas, capacidad y preferencia para trabajo en equipo.
+ <br>Security_code : v6cvb
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.58.191.48<br>
+ <br>REF : EP-1
+ <br>Nombre : Irene Eleonora
+ <br>Apellido : Azcurra
+ <br>Cargo : Encargado de producción
+ <br>Direccion : Jaime Davalos
+ <br>Ciudad : San Juan
+ <br>Telefono : 2645230848
+ <br>Email : eli_azcurra@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Excelente capacidad para el trabajo en equipo, responsable, analítica, proaactiva. 
+ <br>Security_code : 8km9h
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 170.51.99.41<br>
+ <br>REF : EP-1
+ <br>Nombre : Wilmer
+ <br>Apellido : Ianni
+ <br>Cargo : ENCARGADO DE PRODUCCIÃN
+ <br>Direccion : Juncal 1237 (4°, D), Lanús Éste, Buenos Aires
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : +5491126388793
+ <br>Email : wilmerianni92@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Tengo experiencia en lo que solicitan.
+ <br>Security_code : k8n6h
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.31.63.81<br>
+ <br>REF : EP-1
+ <br>Nombre : Aldana
+ <br>Apellido : Prieto
+ <br>Cargo : Encargado de produccion 
+ <br>Direccion : Av corrientes 5734
+ <br>Ciudad : CABA
+ <br>Telefono : 02914022910
+ <br>Email : aldanaa.prieto@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Soy Ingeniera en Alimentos con un interés especial en el control de procesos productivos y el mantenimiento de los estándares de calidad, por el momento desarrollandome en el área de regulación pero en búsqueda de nuevos desafíos, por ello considero que su grupo de trabajo sería un buen lugar para crecer como profesional.
+ <br>Security_code : 2wnbq
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.192.113.155<br>
+ <br>REF : JPER-1
+ <br>Nombre : Martin Alejandro
+ <br>Apellido : Dalcol
+ <br>Cargo : RRHH 
+ <br>Direccion : Dean Funes 2011
+ <br>Ciudad : Ciudad Autonoma de Bs As
+ <br>Telefono : 1169760467
+ <br>Email : martindalcol@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas tardes, adjunto mi CV teniendo disponibilidad inmediata, amplia experiencia en RRHH en empresas de grandes nomina tanto sea la actividad de la construcción, comercio exterior (portuaria) y logistica, sin inconvenientes de trasladarme al interior O Gran buenos Aires
+ <br>Security_code : q8twf
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.114.60.8<br>
+ <br>REF : SP-1
+ <br>Nombre : Cristian Fabián
+ <br>Apellido : Pogliani
+ <br>Cargo : Supervisor de Producción
+ <br>Direccion : Salta 345
+ <br>Ciudad : Ramallo
+ <br>Telefono : 0340715405864
+ <br>Email : cristianpogliani40@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados,
+He visto la Oferta Laboral publicada y la misma me resultó de gran interés. Por este motivo, les hago llegar mi Currículum Vitae, a fin de ser tenido en cuenta como candidato.
+Quedo a su disposición para ampliar cualquier información necesaria.
+Cordialmente,
+Cristian Fabián Pogliani
+
+ <br>Security_code : yggp2
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.6.247.240<br>
+ <br>Nombre : Gisella
+ <br>Apellido : Asis
+ <br>Cargo : Atención al cliente, recepción, caja
+ <br>Direccion : Santa Elena, 795
+ <br>Ciudad : Pilar
+ <br>Telefono : 1168581100
+ <br>Email : asisgisellacarolina96@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Motivado especialista en atención al cliente con experiencia en venta minorista en un entorno dinámico y basado en el equipo, que busca ampliar sus conocimientos laborales. De igual manera me siento capacitada a enfrentar nuevos desafíos para lograr objetivos que impliquen un crecimiento tanto personal como profesional.
+ <br>Security_code : p4xn6
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.182.46.112<br>
+ <br>REF : EP-1
+ <br>Nombre : Alejandro Alberto
+ <br>Apellido : Iwaszkiw
+ <br>Cargo : Encargado de producción
+ <br>Direccion : heredia 3106 Sarandi 
+ <br>Ciudad : Avellaneda
+ <br>Telefono : 011 5293 1835
+ <br>Email : aiwaszkiw66@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : me siento capacitado para tomar el cargo y sus respectivas responsabilidades
+ <br>Security_code : jkrhd
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.37.45.101<br>
+ <br>REF : TE-1
+ <br>Nombre : Jorge Luis
+ <br>Apellido : Prado Carpio
+ <br>Cargo : Tecnico Electrico
+ <br>Direccion : Puerto Ordaz
+ <br>Ciudad : Bolivar  Venezuela
+ <br>Telefono : 04148963830
+ <br>Email : jprado2169@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Tecnico superior con amplio conocimientos en mantenimiento industrial.
+ <br>Security_code : fjjdx
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.247.198.219<br>
+ <br>REF : SP-1
+ <br>Nombre : Averiz Yael
+ <br>Apellido : Salazar Velasquez 
+ <br>Cargo : Supervisor de Producción
+ <br>Direccion : Pasteur 784, Piso 8 P, CABA
+ <br>Ciudad : CABA
+ <br>Telefono : 1128958994
+ <br>Email : averiz.salazar@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Después de observar su anuncio, con los requisitos que expresa en el mismo, he valorado mis aptitudes como ingeniero de petróleo, en el cual me he desempeñado desde cargos operativos hasta cargos administrativos, de control, supervisión y gestión, durante 18 años, considero que soy la persona adecuada para este puesto. 
+A lo largo de mi carrera en operaciones de producción petrolera en instalaciones de superficie, así como su complemento con planificación y gestión de los planes de producción de la unidad de negocios para la cual labore, pude tener una visión amplia del proceso productivo de la primera empresa de Venezuela, Petróleos de Venezuela S.A, siempre apuntando al cumplimiento de los objetivos y metas de producción, calidad, seguridad, normativa, capacitación del personal, y con una mística, ética y compromiso con mis labores deseable por cualquier empleador. 
+Estoy seguro de que puedo desempeñar con éxito las f unciones en el cargo para el cual me estoy postulando y ser una pieza importante en la productividad de la empresa.
+
+ <br>Security_code : p53c3
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.183.173.165<br>
+ <br>REF : SP-1
+ <br>Nombre : Ariel
+ <br>Apellido : Bracamonte
+ <br>Cargo : Supervisor
+ <br>Direccion : San Lorenzo 1023
+ <br>Ciudad : Santa Fe
+ <br>Telefono : +5493424780527
+ <br>Email : bracamonteariel@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Soy Técnico Químico egresado de la Esc. Ind. Superior de Santa Fe. También soy Agente de propaganda médica.
+Estuve desempeñándome como Supervisor de Producción en Nestlé Purina PetCare Planta Santo Tomé hasta fines de Marzo de 2018 al frente de un equipo de 85 personas, en horarios rotativos, por más de 10 años. Ingresé en el año 1997 como operario general, me especialicé en operación de envasadoras, dando charlas de capacitación de operadores de la empresa en Brasil, México y Venezuela. Hasta el año 2006 y desde 2007 me desempeño como Supervisor de Producción.
+Creo fervientemente que con los 20 años de experiencia que poseo en el rubro voy a poder hacer aportes significativos a su empresa, para crecimiento mutuo.
+Al frente de equipos de trabajo de alto rendimiento, no le temo a los desafíos de mejora de performance y cumplimiento de objetivos.
+
+ <br>Security_code : 738ct
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.183.173.165<br>
+ <br>REF : SP-1
+ <br>Nombre : Ariel
+ <br>Apellido : Bracamonte
+ <br>Cargo : supervisor
+ <br>Direccion : San Lorenzo 1023
+ <br>Ciudad : SANTA FE (CP=3000)
+ <br>Telefono : +5493424780527
+ <br>Email : bracamonteariel@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estuve desempeñándome como Supervisor de Producción en Nestlé Purina PetCare Planta Santo Tomé hasta fines de Marzo de 2018 al frente de un equipo de 85 personas, en horarios rotativos, por más de 10 años. Ingresé en el año 1997 como operario general, me especialicé en operación de envasadoras, dando charlas de capacitación de operadores de la empresa en Brasil, México y Venezuela. Hasta el año 2006 y desde 2007 me desempeño como Supervisor de Producción.
+ <br>Security_code : td66f
+ <br>Send : Enviar
+ <br>
+---------------
+

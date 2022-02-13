@@ -1,0 +1,61 @@
+Address : 186.141.130.116
+Nombre : Maria Victoria 
+Apellido : Bustamante
+Cargo : Empleada Administrativa-Contable
+Direccion : Manuel Estevez 
+Ciudad : buenos aires
+Telefono : 1168208220
+Email : m.victoriabustamante95@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me interesaría un puesto en su empresa para trabajar con su prestigioso equipo de trabajo.
+Security_code : sq5hk
+Send : Enviar
+
+---------------
+
+Address : 186.57.195.25
+Nombre : GASTON ANTONIO
+Apellido : GUILLOT
+Cargo : OPERARIO
+Direccion : CORRIENTES 3358
+Ciudad : MORO
+Telefono : 44762178
+Email : GASTONANTONIOGUILLOT@GMAIL.COM
+MAX_FILE_SIZE : 2097152
+Mensaje : soy una persona muy capaz y responzable
+Security_code : wzbxc
+Send : Enviar
+
+---------------
+
+Address : 181.20.71.153
+REF : TELEIN
+Nombre : Lucas Matias
+Apellido : Quevedo
+Cargo : Tecnico
+Direccion : Juan Bustos 3840
+Ciudad : Gonzalez Catan
+Telefono : 1149607062
+Email : lucasmatiasquevedo@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Me postulo a dicho trabajo presentado
+Security_code : 6kyx6
+Send : Enviar
+
+---------------
+
+Address : 181.20.71.153
+Nombre : Lucas Matias
+Apellido : Quevedo
+Cargo : Seguridad e Higiene
+Direccion : Juan Bustos 3840
+Ciudad : Gonzalez Catan
+Telefono : 1149607062
+Email : lucasmatiasquevedo@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Les dejo mi CV como interes de trabajar con uds. Soy técnico electromecánico y técnico en higiene y seguridad. 
+Security_code : rdwxj
+Send : Enviar
+
+---------------
+

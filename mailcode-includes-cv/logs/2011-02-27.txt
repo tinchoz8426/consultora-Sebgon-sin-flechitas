@@ -1,0 +1,30 @@
+Address : 186.124.56.111
+Nombre : María Fernanda
+Apellido : Villalba
+Cargo : callcenter-asistente bilingue-traductora.
+Direccion : M20a C13 B°83 viviendas
+Ciudad : Hiólito Yrigoyen
+Telefono : 0387-491308/ 387-154884886
+Email : ferny_v89@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Soy una persona proactiva y responsable. Los cargos a los que me postulo pueden variar de acuerdo a la oferta.  
+Security_code : grrr9
+Send : Enviar
+
+---------------
+
+Address : 201.253.210.129
+Nombre : Martha Graciela
+Apellido : PEIRONE
+Cargo : Administracion , evaluacion de test psicotecnicos
+Direccion : 9 de julio 459
+Ciudad : Campana  BS AS
+Telefono : 03489-426913  034839-15489392
+Email : marthapeirone@hotmail.com, marthapeirone@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Envio CV a fin de pertenecer a su banco de datos asi como de recibir ofertas laborales en las que o pueda desarrollar mi experiencia profesional. Muchas gracias
+Security_code : 4f55w
+Send : Enviar
+
+---------------
+

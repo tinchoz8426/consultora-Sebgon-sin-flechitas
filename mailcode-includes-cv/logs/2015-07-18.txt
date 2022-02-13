@@ -1,0 +1,30 @@
+Address : 181.30.2.178
+Nombre : Mariano
+Apellido : Alfonso
+Cargo : Administrativo
+Direccion : cataluña 10511
+Ciudad : moreno
+Telefono : 1164607960
+Email : nano.filio@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola que tal mi nombre es mariano, dejo adjunto mi cv para futuras busquedas. gracias.
+Security_code : g22n4
+Send : Enviar
+
+---------------
+
+Address : 186.58.147.46
+Nombre : Florencia Ayelén
+Apellido : López Decoud
+Cargo : Selectora de personal
+Direccion : Zeballos 6349 1°C
+Ciudad : Wilde (Avellaneda)
+Telefono : 11-6847-7578
+Email : florenciad15@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me presento, soy Licenciada en Psicología egresada de la UBA en 2013. Mi interés profesional está orientado hacia el ámbito laboral, especificamente me interesa el área de selección y capacitación. Actualmente me encuentro realizando un posgrado en UBA de técnicas de evaluación psicológica y estudiando idioma inglés. Tengo conocimientos en procesos de selección, busquedas y preselección de cv, relevamientos de perfiles, perfiles it, administración de baterías de tests a candidatos, realización de informes y devolución. Principalmente aspiro a trabajar en el área de selección de una empresa, recursos humanos, consultoras o afines. 
+Security_code : 3nk78
+Send : Enviar
+
+---------------
+

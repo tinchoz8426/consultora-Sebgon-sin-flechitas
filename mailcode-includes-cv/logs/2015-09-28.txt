@@ -1,0 +1,34 @@
+Address : 190.48.254.68
+Nombre : Fernando Javier
+Apellido : Rossini
+Cargo : Ventas, Administrativo, Logística, Atención al público-cliente,Archivo.
+Direccion : Las Heras 1740
+Ciudad : Ituzaingó
+Telefono : 1166823777
+Email : fernando.javier.rossini@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buendía, cualquier duda o consulta sobre mi Curriculum no duden en consultar.
+Atentamente
+Rossini Fernando
+Security_code : 9h5xz
+Send : Enviar
+
+---------------
+
+Address : 181.166.8.38
+Nombre : sofia
+Apellido : saldaqui
+Cargo : Supervisor de calidad
+Direccion : Calle 3 N°1569
+Ciudad : La Plata
+Telefono : 01115-57611649
+Email : saldaqui_sofia@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : A quien corresponda:
+
+Adjunto CV para posibles búsquedas.
+Security_code : t3dcf
+Send : Enviar
+
+---------------
+

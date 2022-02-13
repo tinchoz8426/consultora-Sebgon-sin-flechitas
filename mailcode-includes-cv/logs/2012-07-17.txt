@@ -1,0 +1,64 @@
+Address : 201.253.192.228
+Nombre : Antonio
+Apellido : Garcia
+Cargo : Tecnico Electricista
+Direccion : Pja Virrey Ceballos 1440
+Ciudad : San Miguel de Tucuman
+Telefono : (0381)4349687
+Email : antoniogarcia2k6@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Poseo disposición a reubicación en caso de interés de la empresa.
+Security_code : s5v54
+Send : Enviar
+
+---------------
+
+Address : 201.234.98.88
+Nombre : Martin Miguel 
+Apellido : Ramirez
+Cargo : Supervisor de produccion
+Direccion : Alberdi 1150 Barrancas santa Fe
+Ciudad : Barrancas
+Telefono : 543466512454
+Email : mmzentenor@hotmail.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados adjunto mi CV Saludos
+Security_code : yc4qx
+Send : Enviar
+
+---------------
+
+Address : 190.113.141.156
+REF : administrativo-logistica
+Nombre : Claudio
+Apellido : Landriel
+Cargo : administrativo-logística
+Direccion : Pasaje Marti 428
+Ciudad : Godoy Cruz - Mendoza
+Telefono : 02614229232
+Email : landrielclaudio@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados:
+                 Me pongo en contacto con ustedes para ofrecerle mi curriculum, estoy a su entera disposición.
+Saludos cordiales.
+Claudio Landriel
+Security_code : bqdjf
+Send : Enviar
+
+---------------
+
+Address : 186.58.205.21
+Nombre : Maria Veronica
+Apellido : Jirgl
+Cargo : Para futuras busquedas laborales
+Direccion : Azcuenaga 3430
+Ciudad : Quilmes
+Telefono : 42780641
+Email : veronicajirgl@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Envio mi C.V. para ser tenido en cuenta para futuras busquedas laborales. Atte, Maria Veronica Jirgl.
+Security_code : b9t73
+Send : Enviar
+
+---------------
+

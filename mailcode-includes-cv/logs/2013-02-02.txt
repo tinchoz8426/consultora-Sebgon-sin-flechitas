@@ -1,0 +1,86 @@
+Address : 186.61.37.185
+Nombre : sergio
+Apellido : ibarrola
+Cargo : operario calificado
+Direccion : la vincha 1346
+Ciudad : buenos aires
+Telefono : 50830135
+Email : sergio.ibarrola@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : muchas ganas de trabajar 
+Security_code : cf83q
+Send : Enviar
+
+---------------
+
+Address : 200.3.187.157
+Nombre : Maria Candela
+Apellido : Barragat
+Cargo : seleccion de personal
+Direccion : Luis P.Y 2667. La lonja.
+Ciudad : buenos aires, pilar
+Telefono : 011 15 59648082
+Email : cande91_barragat@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me interesa el área de recursos humanos para poder desarrollar habilidades que se acerquen a mis estudios. A dos años de obtener la licenciatura en psicología, me gustaría poder desplegar mis conocimientos en un puesto acorde a los mismos.
+Security_code : 365tx
+Send : Enviar
+
+---------------
+
+Address : 190.229.36.108
+Nombre : Romina
+Apellido : Bianchini
+Cargo : -
+Direccion : Olazabal 3082
+Ciudad : Capital Federal
+Telefono : 0332915591544
+Email : romi_079@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : De mi consideración:
+
+Me dirijo hacia Ud. con el fin de hacerle llegar mi CV en caso de que mi perfil sea de su interés para alguno de los próximos procesos de selección.
+
+En este momento me encuentro cursando la carrera de Traductorado Técnico-Científico y Literario de Inglés, por lo que cuento con un nivel de inglés bilingüe. Además, cuento con conocimientos contables y con mucha facilidad para este tipo de tareas.
+
+Debido a mi experiencia laboral, tengo experiencia en atención al cliente personal y telefónica, tareas administrativas y manejo de  herramientas informáticas (Word, Excel, Lotus Notes).
+
+Agradeciendo su atención, me despido atentamente.
+
+Security_code : d5ppb
+Send : Enviar
+
+---------------
+
+Address : 190.30.217.239
+Nombre : Christian
+Apellido : Morales
+Cargo : Administrativo
+Direccion : Velez 721 Alto Alberdi
+Ciudad : Córdoba
+Telefono : 3517659854
+Email : k-k.morales@hotmail.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Me encantaría poder encontrar un trabajo referido a mi profesión.
+Desde ya muchas gracias, espero se contacten conmigo.
+Saludos.
+Security_code : g2tvz
+Send : Enviar
+
+---------------
+
+Address : 201.253.211.184
+Nombre : MARIANA GISEL
+Apellido : PREGOT
+Cargo : Indiferente
+Direccion : Francisco de alarcon N°2461
+Ciudad : Córdoba
+Telefono : 3516218600
+Email : marianapregot@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Necesito iniciar mi carrera profesional, cuento con disponibilidad horaria y    ademas ofrezco una rápida adaptación. 
+Security_code : 5dbns
+Send : Enviar
+
+---------------
+

@@ -1,0 +1,98 @@
+Address : 186.137.169.109
+Nombre : leandro
+Apellido : marcaida
+Cargo : empleado
+Direccion : av. veñez sarfield 1094
+Ciudad : buenos aires, capital federal
+Telefono : 1530430869
+Email : leandro_marcaida@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : muchas ganas y necesidad de trabajar
+Security_code : 9rbcf
+Send : Enviar
+
+---------------
+
+Address : 186.13.3.16
+Nombre : mariana 
+Apellido : moreno
+Cargo : responsable tecnico / Administrativo
+Direccion : torquinst 
+Ciudad : Buenos Aires
+Telefono : +541126636356
+Email : marianmarmoreno@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : A quien corresponda, solicito puesto de trabajo. Ya que padezco de hipoacusia bilateral y no es un impedimento poder trabajar. Adjunto cv. Y aguardo respuesta. Muchas gracias atte. Mariana moreno tel +541126636356 
+Security_code : pgt86
+Send : Enviar
+
+---------------
+
+Address : 186.13.3.16
+Nombre : mariana 
+Apellido : moreno
+Cargo : responsable tecnico / Administrativo
+Direccion : torquinst 
+Ciudad : Buenos Aires
+Telefono : +541126636356
+Email : marianmarmoreno@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : A quien corresponda, solicito puesto de trabajo. Ya que padezco de hipoacusia bilateral y no es un impedimento poder trabajar. Adjunto cv. Y aguardo respuesta. Muchas gracias atte. Mariana moreno tel +541126636356 
+Security_code : pgt86
+Send : Enviar
+
+---------------
+
+Address : 186.13.3.16
+Nombre : mariana 
+Apellido : moreno
+Cargo : responsable tecnico / Administrativo
+Direccion : torquinst 
+Ciudad : Buenos Aires
+Telefono : +541126636356
+Email : marianmarmoreno@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : A quien corresponda, solicito puesto de trabajo. Ya que padezco de hipoacusia bilateral y no es un impedimento poder trabajar. Adjunto cv. Y aguardo respuesta. Muchas gracias atte. Mariana moreno tel +541126636356 
+Security_code : x46jz
+Send : Enviar
+
+---------------
+
+Address : 190.172.109.124
+Nombre : Lorena Marlene
+Apellido : Rojas Enciso
+Cargo : Secretariado o Administrativo
+Direccion : Rincón 645 departamento 7
+Ciudad : Ciudad Autónoma de Buenos Aires
+Telefono : 43084368
+Email : io_lore_06@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Lorena Rojas.
+A quien corresponda,
+Me dirijo a usted con el fin de expresarle mi alto interés en aplicar a puestos de administración o de secretariado.
+Tal como podrá comprobar en el curriculum adjunto, confío en que mi experiencia profesional en venta directa, atención al cliente, elaboración de pedidos y administración me permita cumplir los objetivos del puesto. Mi labor en ventas me ha demostrado lo continuo y mutable de dicha disciplina, cuyo éxito radica en la capacidad de reacción y en la adaptación ante las dificultades que se presentan, en un establecimiento hábil de comunicación estratégica con clientes potenciales, dinamismo, flexibilidad y paciencia. Si bien mi experiencia como pasante de laboratorio no resulta determinante para dichos puestos, me ha servido de aprendizaje sobre el trabajo en equipo, la administración del tiempo y los materiales de trabajo, e incluso con respecto a la paciencia y la perseverancia por la espera de resultados. Del mismo modo, mi actual desempeño dentro de AIESEC como Project Manager Incoming Global Community Development Programme, donde se promueve el intercambio cultural para el desarrollo del potencial humano a través de prácticas de voluntariado que se gestionan con organizaciones locales, también han afianzado mi habilidad en ventas, comunicación, marketing y relaciones humanas.
+Asimismo, soy egresada del Colegio Nacional de Buenos Aires y actualmente estudiante de Abogacía. Además, cuento con sólidos conocimientos lingüísticos de inglés e informática que espero satisfagan las expectativas de la empresa. Disfruto aprender, adquirir nuevos conocimientos para su correcta aplicación con un total entendimiento de los que hago viviendo la diversidad y trabajando por la excelencia.
+A fin de cuentas, espero poder ser tomada en cuenta para poder incursionar en un nuevo rol y ser capaz de insertarme en un campo laboral que considero más amplio y con mayores oportunidades de crecimiento; para ganar más experiencia, afrontar y superar obstáculos de diversa índole y así alcanzar mayores y mejores expectativas para el futuro; confiando asimismo en actuar en un campo laboral cómodo y ético.
+Si lo considera oportuno, espero que tome en cuenta esta solicitud para participar en las pruebas de selección en el puesto. Para ello podrá localizarme a través del número de celular 1568386160, o bien 43084368; o en todo caso mediante correo electrónico io_lore_06@hotmail.com
+En espera de su respuesta, le saludo atentamente.
+Lorena Rojas.
+Security_code : 3cgwp
+Send : Enviar
+
+---------------
+
+Address : 190.244.166.182
+Nombre : Walter Rubén 
+Apellido : Vera 
+Cargo : Técnico en Higiene y Seguridad
+Direccion : Pedro Pitrau 10480
+Ciudad : Zárate
+Telefono : 3874069441
+Email : walterrubenvera@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estoy en la busque de un empleo o una pasantia relacionado con Higiene y Seguridad labora
+Security_code : xrmkg
+Send : Enviar
+
+---------------
+

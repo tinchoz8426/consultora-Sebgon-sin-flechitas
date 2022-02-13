@@ -1,0 +1,45 @@
+Address : 190.113.167.19
+Nombre : mariela estela
+Apellido : godoy
+Cargo : ejecutiva en ventas o telemarketing
+Direccion : bª bella vista ll
+Ciudad : san juan
+Telefono : 2646726359
+Email : mestelagodoy@yahoo.com
+MAX_FILE_SIZE : 2097152
+Mensaje : tengo muy buenas presencia, y mucha experiencia,atte.mariela
+Security_code : xr6vh
+Send : Enviar
+
+---------------
+
+Address : 190.55.174.122
+Nombre : Luz 
+Apellido : Gavilán
+Cargo : Recepcionista
+Direccion : Av Carabobo 54 1 A
+Ciudad : Buenos Aires
+Telefono : 46317126
+Email : julieta.gavilan@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenas tardes, estoy en búsqueda de un trabajo fijo, desde ya muchas gracias.
+Security_code : vm 7666
+Send : Enviar
+
+---------------
+
+Address : 181.47.88.154
+Nombre : Noelia
+Apellido : La Rocca
+Cargo : slectora
+Direccion : caracas 243 1 b
+Ciudad : caba
+Telefono : 1533475300-3529495
+Email : noeliap.larocca@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola, les envío mis datos. Soy licenciada en psicología, me interesa la selección de personal. Tengo experiencia en ello. Muchas gracias.
+Security_code : Kgcyr
+Send : Enviar
+
+---------------
+

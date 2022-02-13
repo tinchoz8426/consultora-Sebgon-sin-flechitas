@@ -1,0 +1,77 @@
+Address : 181.21.136.171
+Nombre : Marisa Alejandra
+Apellido : Russmann
+Cargo : Recursos Humanos
+Direccion : Ruiz Moreno 510
+Ciudad : San Carlos de Bariloche
+Telefono : 02964-15449753
+Email : marisa.russmann@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : quiero formar parte de su staff incorporación inmediata Río Negro
+Security_code : 9sbrx
+Send : Enviar
+
+---------------
+
+Address : 186.182.62.122
+Nombre : Cristian
+Apellido : Salva
+Cargo : Tecnico en Seguridad e Higiene
+Direccion : 144 entre 55 y 56
+Ciudad : Berazategui
+Telefono : 02229-441989
+Email : cristian.salva@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Quiero una mejor calidad de vida progresar e ir mejorando como profesional y como persona.
+Security_code : fm2jm
+Send : Enviar
+
+---------------
+
+Address : 186.182.62.122
+Nombre : Cristian
+Apellido : Salva
+Cargo : Tecnico en Seguridad e Higiene
+Direccion : 144 entre 55 y 56
+Ciudad : Berazategui
+Telefono : 02229-441989
+Email : cristian.salva@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Quiero una mejor calidad de vida progresar e ir mejorando como profesional y como persona.
+Security_code : fm2jm
+Send : Enviar
+
+---------------
+
+Address : 186.182.62.122
+Nombre : Cristian
+Apellido : Salva
+Cargo : Tecnico en Seguridad e Higiene
+Direccion : 144 entre 55 y 56
+Ciudad : Berazategui
+Telefono : 02229-441989
+Email : cristian.salva@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Quiero progresar y mejorar profesionalmente como tambien como persona.
+Security_code : n29yr
+Send : Enviar
+
+---------------
+
+Address : 200.115.236.21
+REF : VEN
+Nombre : Leonardo
+Apellido : Guaragnone
+Cargo : Vendedor
+Direccion : Amenabar 2300
+Ciudad : Cap. Fed
+Telefono : 1561232320
+Email : leoguara@hotmail.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto CV para la actual y futuras búsquedas. 
+Gracias
+Security_code : y7s28
+Send : Enviar
+
+---------------
+

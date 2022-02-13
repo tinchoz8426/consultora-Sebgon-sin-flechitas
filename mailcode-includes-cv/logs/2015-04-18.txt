@@ -1,0 +1,25 @@
+Address : 181.177.1.135
+Nombre : gabriela clara
+Apellido : sandy
+Cargo : secretaria, telefonista, cajera
+Direccion : san martin iturbe 412
+Ciudad : jujuy
+Telefono : 0388-154077884
+Email : bi_a19@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me presento ante usted con el debido respeto que usted se merece y aprovecho la oportunidad de saludarlo, apelar a su gran espíritu humanitario para solicitar a usted me apoye en la búsqueda de  una vacante en la institución donde usted labora.
+                                    Como muestra de mi experiencia y capacidad para trabajar en la institución adjunto a esta carta mi curriculum vitae.
+                                    Quedo enteramente agradecida por el tiempo que se tomo para leer esta, también agradezco su apoyo. Si me otorgan la oportunidad de una entrevista, en esta  con  mucho gusto me placera detallar las dudas sobre mi curriculum vitae y sobre el desempeño laboral.
+                                    Pongo  en su conocimiento que mis estudios se encuentran suspendidos por motivo económicos,  me es imprescindible  conseguir un empleo para terminarlos. 
+                                     Quedo en la espera de su respuesta sobre mi solicitud de empleo para poder ejercer y brindarles mis conocimientos.
+
+Atentamente.
+
+
+Gabriela clara Sandy
+
+Security_code : kds7n
+Send : Enviar
+
+---------------
+

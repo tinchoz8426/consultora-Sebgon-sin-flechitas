@@ -1,0 +1,69 @@
+Address : 190.225.85.222<br>
+ <br>Nombre : Romina
+ <br>Apellido : Correa
+ <br>Cargo : Cajera /operaria
+ <br>Direccion : 9 de julio 6031
+ <br>Ciudad : San Martín 
+ <br>Telefono : 48484512
+ <br>Email : Romy_lalinda@hotmail.es
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Cv correa romina
+ <br>Security_code : Hj74h
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.225.85.222<br>
+ <br>Nombre : Romina
+ <br>Apellido : Correa
+ <br>Cargo : Cajera /operaria
+ <br>Direccion : 9 de julio 6031
+ <br>Ciudad : San Martín 
+ <br>Telefono : 48484512
+ <br>Email : Romy_lalinda@hotmail.es
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Cv correa romina
+ <br>Security_code : 5yfk8
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.62.133.233<br>
+ <br>Nombre : NATALIA DANIELA
+ <br>Apellido : OLLOQUI
+ <br>Cargo : ADMINISTRACION
+ <br>Direccion : LEGUIZAMON 1884
+ <br>Ciudad : MAR DEL PLATA
+ <br>Telefono : 0223155069473
+ <br>Email : natalia.olloqui@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : SOY REPOSNSABLE, PROACTICA, Y CON GANAS DE TRABAJAR 
+ <br>Security_code : ympw9
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 179.40.35.129<br>
+ <br>Nombre : Andres
+ <br>Apellido : Perez
+ <br>Cargo : Tecnico
+ <br>Direccion : 83Bis761
+ <br>Ciudad : Necochea
+ <br>Telefono : 02262556918
+ <br>Email : andres2444@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimado/a
+ Sr/a responsable del departamento RRHH 
+  Tengo el agrado de dirigirme a usted, con el fin de poner a su disposición mi currículum vítale. 
+  Me he desempeñado en distintas áreas, teniendo muy buena adaptación al sector donde me han asignado. Soy Técnico Superior en Producción, me agrada realizar capacitaciones, asistiendo a jornadas y cursos de actualización. En la actualidad me encuentro realizando la carrera de Higiene y Seguridad en el trabajo desde marzo del 2015.
+  Me gustaría ser parte de un grupo de trabajo, donde pueda desempeñar mis capacidades y mejorar mi contribución productiva hacia la empresa. Considero que mis aptitudes, motivación  pueden apartar con el desarrollo del sector al cual sea asignado. 
+  Dejo a su criterio la posibilidad de mantener una entrevista para ampliar aspectos de mi perfil y evaluar mi idoneidad para un posible puesto.
+Saluda muy atentamente:
+Andrés Mario Pérez
+e-mail: andres2444@outlook.com
+Celular: (02262) 15 55 69 18
+ <br>Security_code : 6dysx
+ <br>Send : Enviar
+ <br>
+---------------
+

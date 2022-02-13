@@ -1,0 +1,23 @@
+Address : 190.50.31.116
+REF : responsable-mantenimiento
+Nombre : Luciano Agustin
+Apellido : Scognamillo
+Cargo : Administrativo
+Direccion : calle 44 n394 pb D
+Ciudad : La Plata
+Telefono : 0221155727769
+Email : luciano.scognamillo@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimado:
+Si desea ampliar la información no dude en contactarme
+
+Muchas gracias por su tiempo
+Atentamente
+
+Luciano Agustin Scognamillo
+Telefono: 221 5727769
+Security_code : q3tvg
+Send : Enviar
+
+---------------
+

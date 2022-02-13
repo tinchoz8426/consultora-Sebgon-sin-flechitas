@@ -1,0 +1,30 @@
+Address : 186.56.20.93
+Nombre : Sonia Cecilia
+Apellido : Gomez
+Cargo : Técnico en Laboratorio
+Direccion : 117 nº 105
+Ciudad : General Pico
+Telefono : 2302572502
+Email : sonia_sg@hotmail.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : mi búsqueda se orienta principalmente al área de salud humana.
+Security_code : cnrbr
+Send : Enviar
+
+---------------
+
+Address : 200.68.71.9
+Nombre : Maria Milagros
+Apellido : Galan
+Cargo : Selectora Semi Sr
+Direccion : O Higgins 2244
+Ciudad : CABA
+Telefono : 156-018-1888
+Email : miligalan@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : -
+Security_code : KBQ9Y
+Send : Enviar
+
+---------------
+

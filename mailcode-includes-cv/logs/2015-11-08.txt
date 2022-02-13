@@ -1,0 +1,118 @@
+Address : 181.108.85.228
+REF : OME
+Nombre :  Nilda Elvira
+Apellido : Sosa
+Cargo : Produccion
+Direccion : 124 N°942
+Ciudad : Berazategui
+Telefono : 15304958
+Email : nilda682008@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me gustaría pertenecer a esta de trabajo
+Atentamente.
+Nilda Sosa
+Security_code : mt2y2
+Send : Enviar
+
+---------------
+
+Address : 181.46.250.2
+Nombre : Mariana
+Apellido : Nardin
+Cargo : Tesorera - Empleada Administrativa - Empleada RRHH.
+Direccion : Frias 214, 
+Ciudad : CABA
+Telefono : 1554751965
+Email : c_once_84@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenas tardes,
+Adjunto envió mi CV.
+
+Muchas Gracias!
+Mariana C. Nardin. 
+Security_code : s69dv
+Send : Enviar
+
+---------------
+
+Address : 190.193.36.254
+REF : JPL
+Nombre : Mariano
+Apellido : Gonzalez
+Cargo : Jefe de planta
+Direccion : Pte. Roca 1521 4A
+Ciudad : Rosario
+Telefono : 3416111517
+Email : marianogonzalez1983@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados, les envio mi CV para aplicar al puesto ofrecido.
+
+A la espera de ponerme en contacto con Uds, los saludo muy atentamente.
+
+Mariano Gonzalez
+Security_code : 43j9
+Send : Enviar
+
+---------------
+
+Address : 190.193.36.254
+REF : JPL
+Nombre : Mariano
+Apellido : Gonzalez
+Cargo : Jefe de planta
+Direccion : Pte. Roca 1521 4A
+Ciudad : Rosario
+Telefono : 3416111517
+Email : marianogonzalez1983@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados, les envio mi CV para aplicar al puesto ofrecido.
+
+A la espera de ponerme en contacto con Uds, los saludo muy atentamente.
+
+Mariano Gonzalez
+Security_code : 43j9s
+Send : Enviar
+
+---------------
+
+Address : 190.193.36.254
+REF : JPL
+Nombre : Mariano
+Apellido : Gonzalez
+Cargo : Jefe de planta
+Direccion : Pte. Roca 1521 4A
+Ciudad : Rosario
+Telefono : 3416111517
+Email : marianogonzalez1983@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados, les envio mi CV para aplicar al puesto ofrecido.
+
+A la espera de ponerme en contacto con Uds, los saludo muy atentamente.
+
+Mariano Gonzalez
+Security_code : 8ctrc
+Send : Enviar
+
+---------------
+
+Address : 201.213.163.15
+REF : GTEP
+Nombre : Ricardo
+Apellido : Vicente
+Cargo : Gerente de planta
+Direccion : Yerbal 1978
+Ciudad : Villa Adelina
+Telefono : 1544714764
+Email : ricardoernestovicente@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Sr. Gerente,
+
+Por intermedio de la presente, adjunto mi CV, en virtud de vuestra búsqueda, como gerente de planta.
+Saludo a Ud. atte.
+
+Ricardo Vicengte
+Security_code : gjbkj
+Send : Enviar
+
+---------------
+

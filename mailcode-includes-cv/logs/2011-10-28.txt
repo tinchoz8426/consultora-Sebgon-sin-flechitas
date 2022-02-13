@@ -1,0 +1,30 @@
+Address : 190.18.130.188
+Nombre : Es
+Apellido : Nacht
+Cargo : Jefe
+Direccion : El Salvador 5946
+Ciudad : Capital Federal
+Telefono : 1568633416
+Email : nachegal@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Mi objetivo es trabajar en una empresa seria que brinde oportunidades de crecimiento a sus empleados y desarrollar y potenciar mis capacidades. 
+Security_code : ht843
+Send : Enviar
+
+---------------
+
+Address : 186.122.16.45
+Nombre : Natalia Aida
+Apellido : Romero
+Cargo : Empleada
+Direccion : Sol. Ex. Comb. Malvinas 1597
+Ciudad : Los Polvorines
+Telefono : 1551266596
+Email : NATA162_@HOTMAIL.COM
+MAX_FILE_SIZE : 2097152
+Mensaje : Tel 02320 429438
+Security_code : t7k9v
+Send : Enviar
+
+---------------
+

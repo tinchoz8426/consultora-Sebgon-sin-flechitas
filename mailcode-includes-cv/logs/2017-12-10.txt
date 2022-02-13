@@ -1,0 +1,17 @@
+Address : 190.178.55.176<br>
+ <br>Nombre : Vanina 
+ <br>Apellido : De Ruvo
+ <br>Cargo : LIc. en Trabajo Social
+ <br>Direccion : Cnel. Osorio 1241. PA B
+ <br>Ciudad : Lanus
+ <br>Telefono : 1167504631
+ <br>Email : vaninaderuvo@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Lic. en Trabajo Social con amplia experiencia en áreas, de Justicia, Niñez, y Discapacidad. 
+Título y matrícula habilitantes.
+Amplia experiencia en informes socioambientales.
+ <br>Security_code : qdmr7
+ <br>Send : Enviar
+ <br>
+---------------
+

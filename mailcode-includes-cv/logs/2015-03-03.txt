@@ -1,0 +1,136 @@
+Address : 201.252.102.91
+Nombre : leonardo
+Apellido : aranda
+Cargo : operario
+Direccion : jhon kennedy 1058
+Ciudad : el talar
+Telefono : 1564279878
+Email : cacrinolas@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : hola buenos dias, me llamo aranda leonardo tengo 28 años, poseo titulo de la escuela secundaria y estoy desempleado ya hace aproximadamente 6 meses, el motivo de mi mail es para postularme para operario,,,,pero dado q la demanda laboral a ido disminuyendo, quisiera postularme para "TRABAJAR" en cual area indistinta acorde a mi experiencia laboral, la cual esta detallada en mi c.v..... desde ya muchas gracias por su tiempo espero su respuesta a la brevedad.
+Security_code : 25k2p
+Send : Enviar
+
+---------------
+
+Address : 181.95.254.43
+REF : GTE VEN
+Nombre : Jorge Gustavo
+Apellido : Silva
+Cargo : Gerente de Ventas
+Direccion : Barrio Pujol Mz. 12 Casa 14
+Ciudad : Corrientes
+Telefono : 379154586110
+Email : gusilva70@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Vista la Oferta Laboral para Gerente de Ventas,  les hago llegar mis datos personales y profesionales en Currículum Vitae a fin de ser tenido en cuenta como candidato.
+
+Con la convicción de poseer el perfil requerido para un muy buen desempeño en el cargo a cubrir, quedo a entera disposición para hacerle llegar, sea en una entrevista personal o por el medio que se me indique, las ampliaciones y/o la documentación probatoria correspondiente.
+
+Esperando una respuesta positiva lo saluda atentamente,
+
+Jorge Gustavo Silva 
+
+Security_code : qbkmh
+Send : Enviar
+
+---------------
+
+Address : 181.95.254.43
+REF : GTE COM
+Nombre : Jorge Gustavo
+Apellido : Silva
+Cargo : Gerente Comercial
+Direccion : Barrio Pujol Mz. 12 Casa 14
+Ciudad : Corrientes
+Telefono : 379154586110
+Email : gusilva70@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Vista la Oferta Laboral para Gerente de Comercial,  les hago llegar mis datos personales y profesionales en Currículum Vitae a fin de ser tenido en cuenta como candidato.
+
+Con la convicción de poseer el perfil requerido para un muy buen desempeño en el cargo a cubrir, quedo a entera disposición para hacerle llegar, sea en una entrevista personal o por el medio que se me indique, las ampliaciones y/o la documentación probatoria correspondiente.
+
+Esperando una respuesta positiva lo saluda atentamente,
+
+Jorge Gustavo Silva 
+
+Security_code : y49cw
+Send : Enviar
+
+---------------
+
+Address : 181.168.9.147
+Nombre : Agustin
+Apellido : Etchepare
+Cargo : periodista
+Direccion : calle 5 1523
+Ciudad : La Plata
+Telefono : (0221) 155933433
+Email : agus_etchepare@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Currixulum
+Security_code : x92zx
+Send : Enviar
+
+---------------
+
+Address : 201.250.26.74
+Nombre : Juan Ignacio
+Apellido : Verdaguer
+Cargo : Imprenta - Producción
+Direccion : Chacabuco 1036
+Ciudad : CABA
+Telefono : 1159732242
+Email : juanignacioverdaguer@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Envío mi CV para ingresar a vuestra base de datos de búsqueda laboral.
+Security_code : f9zth
+Send : Enviar
+
+---------------
+
+Address : 201.250.26.74
+Nombre : Juan Ignacio
+Apellido : Verdaguer
+Cargo : Imprenta - Producción
+Direccion : Chacabuco 1036
+Ciudad : CABA
+Telefono : 1159732242
+Email : juanignacioverdaguer@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Envío mi CV para ingresar a vuestra base de datos de búsqueda laboral.
+Security_code : f9zth
+Send : Enviar
+
+---------------
+
+Address : 201.250.26.74
+Nombre : Juan Ignacio
+Apellido : Verdaguer
+Cargo : Imprenta - Producción
+Direccion : Chacabuco 1036
+Ciudad : CABA
+Telefono : 1159732242
+Email : juanignacioverdaguer@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Envío mi CV para ingresar a vuestra base de datos de búsqueda laboral.
+Security_code : f9zth
+Send : Enviar
+
+---------------
+
+Address : 201.250.26.74
+Nombre : Juan Ignacio
+Apellido : Verdaguer
+Cargo : Imprenta - Producción
+Direccion : Chacabuco 1036
+Ciudad : CABA
+Telefono : 1159732242
+Email : juanignacioverdaguer@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Envío mi CV para ingresar a vuestra base de datos de búsqueda laboral.
+Security_code : p7yby
+Send : Enviar
+
+---------------
+

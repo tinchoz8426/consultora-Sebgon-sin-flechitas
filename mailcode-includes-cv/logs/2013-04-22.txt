@@ -1,0 +1,45 @@
+Address : 186.59.18.27
+Nombre : MARÍA NOELIA
+Apellido : GARAY
+Cargo : ADMINISTRATIVA- SECRETARIA
+Direccion : HERNANDEZ 2670
+Ciudad : MENDOZA
+Telefono : 4633729
+Email : marynoegaga@hotmail.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : gracias por este espacio, soy responsable, dinámica,con deseos de superación y buena preparacion academica. Por mis experiencias laborales me postulo para tareas administrativas, secretaria, recepcionista o afines.
+Security_code : 54qvs
+Send : Enviar
+
+---------------
+
+Address : 186.58.151.28
+Nombre : Maria Antonella
+Apellido : Cespedes Pagliano
+Cargo : indistinto
+Direccion : calle 893 nº1250 Barrio San Juan
+Ciudad : Florencio Varela
+Telefono : 42750786
+Email : antonella._cespedes@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : hola.quisiera que me tomen en cuenta para las futuras búsquedas estaría interesada trabajar con ustedes.gracias.-
+Security_code : tw6cf
+Send : Enviar
+
+---------------
+
+Address : 190.194.114.13
+Nombre : Melisa
+Apellido : Podavini
+Cargo : Administrativo
+Direccion : Padre Cardiel 4835
+Ciudad : Mar del Plata.
+Telefono : 542234713775
+Email : melipoda@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Licenciada en Turismo y estudiante de Licenciatura en Administracion con interés en incorporarme a una empresa como administrativa.
+Security_code : 8vrk5
+Send : Enviar
+
+---------------
+

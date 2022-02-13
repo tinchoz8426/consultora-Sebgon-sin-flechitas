@@ -1,0 +1,42 @@
+.file-select {          
+  position: relative;
+  display: inline-block;
+}
+ 
+.file-select::before {
+  background-color: #ff4e00;
+  color: white;
+  display: flex;            
+  justify-content: center;
+  align-items: center;
+  border-radius: 30px;
+  content: 'Seleccionar'; /* testo por defecto */
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;  
+
+	
+    padding: 10px 35px;
+    font-size: 26px;
+    font-weight: 700;  
+  
+}
+ 
+.file-select input[type="file"] {
+  opacity: 0;
+  width: 80px;
+  height: 40px;
+  display: inline-block;  
+
+}
+ 
+#src-file1::before {
+  content: '+';
+}
+ 
+#src-file2::before {
+  content: 'Seleccionar Archivo 2';
+}
+

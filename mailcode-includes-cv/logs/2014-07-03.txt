@@ -1,0 +1,89 @@
+Address : 190.48.118.233
+Nombre : GERMAN PABLO
+Apellido : LEIVA
+Cargo : CHOFER PARA EJECUTIVO, SUPERVISOR DE SEGURIDAD, JEFE DE PERSONAL, JEFE DE TIENDA, CUSTODIO, 
+Direccion : AVANIDA BOYACA 777
+Ciudad : CAPITAL FEDERAL
+Telefono : 46323259
+Email : HUMMERARGENTINO@MSN.COM
+MAX_FILE_SIZE : 2097152
+Mensaje : AGRADECIDO POR SU ATENCION, LE HAGO LLEGAR A SU EMPRESA MI INTERES PARA PODER INTEGRARME LABORALMENTE A LAS CONVOCATORIAS QUE SE GENEREN PROXIMAMENTE, ATTE.
+Security_code : c56q2
+Send : Enviar
+
+---------------
+
+Address : 181.29.138.234
+Nombre : Juan
+Apellido : Maurette
+Cargo : Capacitador
+Direccion : Soler 3267
+Ciudad : Capital Federal
+Telefono : 1522439163
+Email : juanmoret@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto mi CV como capacitador. Atte.
+Security_code : vqgcw
+Send : Enviar
+
+---------------
+
+Address : 190.245.14.5
+REF : GTE COM
+Nombre : ADRIAN
+Apellido : TEATINI
+Cargo : GERENTE COMERCIAL
+Direccion : HORTIGUERA 486
+Ciudad : CAPITAL FEDERAL
+Telefono : 15 5042 3436
+Email : adanite70@hotmial.com
+MAX_FILE_SIZE : 2097152
+Mensaje : En esta oportunidad me pongo en contacto con Uds. para hacerle llegar mi CV a fin que puedan evaluar mis posibilidades para la búsqueda de Gerente Comercial. 
+Mi desarrollo profesional se ha centrado en al área comercial, tanto en el área de Ventas como Marketing, en compañía internacional líder en el mercado de productos de consumo masivo y medicamentos de venta libre, en donde he acumulado experiencia por más de 22 años pasando por diferentes posiciones de liderazgo.
+Durante mí recorrido profesional he tenido la satisfacción de:
+-	Liderar equipos multiculturales en los diferentes países del Cono Sur
+-	Diseñar estrategias comerciales para los diferentes canales de distribución
+-	Desarrollar el ingreso de los productos de la compañía al canal de farmacias
+-	Incrementar las ventas y la rentabilidad durante los años de mi gestión
+-	Manejar con eficacia las crisis económicas y los mercados regulados
+Respecto a mi formación académica, soy Licenciado en Comercialización, con manejo fluido del idioma Inglés.
+Quedo atento a una eventual entrevista y estoy a vuestra disposición por cualquier consulta que quieran realizarme.
+Saludos,
+
+Adrián Teatini
+
+Security_code : 969ph
+Send : Enviar
+
+---------------
+
+Address : 200.5.196.72
+Nombre : Andres
+Apellido : Schapchuk
+Cargo : Jefe
+Direccion : Vuelta de obligado
+Ciudad : CABA
+Telefono : 1530770831
+Email : s_schapchuk1@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : mi interés está puesto en la búsqueda de puestos de trabajo dentro del area de Recursos Humanos.
+Security_code : ygfpc
+Send : Enviar
+
+---------------
+
+Address : 181.167.74.217
+Nombre : Maria
+Apellido : Riccheri
+Cargo : Secretaria
+Direccion : Zavalia 2046
+Ciudad : Capital federal
+Telefono : 1563721840
+Email : Mriccher@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estoy buscando puesto de secretaria ejecutiva
+Security_code : Zfwxc
+Send : Enviar
+
+---------------
+

@@ -1,0 +1,78 @@
+Address : 201.250.30.92
+Nombre : Adriana Magdalena
+Apellido : Iglesias Silva
+Cargo : Secretaria Senior
+Direccion : Salta 960
+Ciudad : CABA
+Telefono : 11 (15) 3181 6259
+Email : nerey68@yahoo.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estoy en la búsqueda de un empleo full time.  Tengo más de 15 años de experiencia en empresas nacionales e Internacionales 
+Security_code : xrgyx
+Send : Enviar
+
+---------------
+
+Address : 24.232.241.76
+Nombre : Javier
+Apellido : de la Torre
+Cargo : Comunicacion y Periodismo
+Direccion : Entre Rios 2476 
+Ciudad : Mar del Plata
+Telefono : 0223155500956
+Email : javitodlt@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Soy periodista y Lic comunicación con buen manejo de idioma ingles y ruso
+Security_code : f5x2s
+Send : Enviar
+
+---------------
+
+Address : 190.225.175.76
+Nombre : Eduardo
+Apellido : Aiassa
+Cargo : Gerente
+Direccion : Navarro 3546
+Ciudad : Buenos Aires
+Telefono : 15-5737-8680
+Email : eduardo.aiassa@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : En búsqueda activa para posiciones gerenciales operativas.
+Security_code : mkxwz
+Send : Enviar
+
+---------------
+
+Address : 200.41.181.50
+Nombre : georgina
+Apellido : etulain
+Cargo : asistente en administración y políticas públicas
+Direccion : corrientes 4645 
+Ciudad : caba
+Telefono : 1533049160
+Email : etulain9@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Tengo 25 años, soy Licenciada en Ciencia Política de la UBA; termine de hacer la “Diplomatura  Superior de Gestión y Control de Políticas Públicas” de  la   FLACSO, trabaje en MFG consultores(consultora social y política),y desde abril de 2011 estoy  en  el CONSEJO NACIONAL DE COORDINACION DE POLÍTICAS SOCIALES – SIEMPRO .Tengo experiencia en trabajo de campo y armado de cuestionarios; edición, codificación y carga de fichas; realización de informes y monitoreo de programas sociales  .
+
+Estoy buscando un trabajo part-time para conbinar con el que tengo actualmente.
+Security_code : wpn2w
+Send : Enviar
+
+---------------
+
+Address : 190.55.4.181
+Nombre : Belen
+Apellido : Rodriguez
+Cargo : Administrativa
+Direccion : Cajaravilla 4913
+Ciudad : Bs As
+Telefono : 1533152312
+Email : amote2000@hotmail.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Administración, facturación y atención al cliente.
+
+Security_code : dg4h5
+Send : Enviar
+
+---------------
+

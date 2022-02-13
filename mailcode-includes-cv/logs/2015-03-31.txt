@@ -1,0 +1,60 @@
+Address : 186.22.2.190
+Nombre : Lucila
+Apellido : Lopardo
+Cargo : Administracion
+Direccion : Tte. Armando Bernasconi
+Ciudad : Ituzaingo
+Telefono : 46214015
+Email : lucila.lopardo@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Deseo ingresar a un trabajo que me permita abastecer mis estudios universitarios y adquirir mis primeras experiencias laborales
+Security_code : rg9d3
+Send : Enviar
+
+---------------
+
+Address : 181.110.201.211
+Nombre : Eliana Cecilia
+Apellido : Sancheá
+Cargo : Abogada
+Direccion : Blanco Enacalada 
+Ciudad : Rosario
+Telefono : 0341-4647278
+Email : 0341-156631451
+MAX_FILE_SIZE : 2097152
+Mensaje : Abogada matriculada busca empleo
+Security_code : 7g5vg
+Send : Enviar
+
+---------------
+
+Address : 190.226.117.244
+Nombre : Estefania denise
+Apellido : Posadas
+Cargo : secretaria,recepcionista,telefonista
+Direccion : cavia 1335
+Ciudad : rosario
+Telefono : 3413646800
+Email : posadasestefania0@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : necesito trabajo con urgencia
+Security_code : mcq4f
+Send : Enviar
+
+---------------
+
+Address : 186.128.89.102
+Nombre : matias
+Apellido : Morilla
+Cargo : auxiliar en tareas de informatica y administracion
+Direccion : av. cordoba 725 este - capital 
+Ciudad : san juan
+Telefono : 0264 - 154366032
+Email : matias.morilla@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : buenos dias a continuacion les adjunto mi c.vitae para alguna busqueda de trabajo acorde a mi perfil
+Security_code : XGZJ9
+Send : Enviar
+
+---------------
+

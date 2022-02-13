@@ -1,0 +1,106 @@
+Address : 200.122.74.122<br>
+ <br>REF : TECME
+ <br>Nombre : Matias
+ <br>Apellido : Nizzo
+ <br>Cargo : Operario
+ <br>Direccion : Martel de Cabrera 779
+ <br>Ciudad : Cordoba
+ <br>Telefono : 3512384232
+ <br>Email : matiasnizzo@outlook.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : a continuacion adjunto mi cv. Espero poder contar con todos los requisitos para poder ocupar dicho puesto
+ <br>Security_code : 6mh8m
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.19.243.122<br>
+ <br>Nombre : Marcelo Antonio
+ <br>Apellido : Ambrosio Gonzalez
+ <br>Cargo : Vendedor
+ <br>Direccion : juan de garay 2755 3/B
+ <br>Ciudad : Olivos
+ <br>Telefono : 1526553858
+ <br>Email : mambrosiog@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenos días,
+
+Me dirijo a Uds. para hacerles llegar mi CV y puedan evaluarlo ante la búsqueda en la que se encuentren.
+
+Me presento como una persona proactiva, responsable, creativa, flexible, orientada a resultados y a la resolución y evolución constante en las tareas asignadas.
+
+El objetivo es formar parte de una empresa reconocida, confiable y con proyectos ambiciosos.
+
+Estoy en condiciones de asumir la responsabilidad de forma inmediata, y con amplia disponibilidad de horarios.
+
+Quedo a la espera de su respuesta.
+
+Saludo cordialmente,
+Marcelo Ambrosio.
+ <br>Security_code : cyng3
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.178.57.177<br>
+ <br>REF : TECME
+ <br>Nombre : jorge daniel
+ <br>Apellido : solovjovas
+ <br>Cargo : mantenimiento
+ <br>Direccion : alfonsina estorni 2448
+ <br>Ciudad : lomas de zamora 
+ <br>Telefono : 42828679
+ <br>Email : daniel_solovjovas@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : oficial fresador conocimient
+ <br>Security_code : ztm4w
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.254.106.90<br>
+ <br>REF : SuP
+ <br>Nombre : SANTIAGO
+ <br>Apellido : CAPALBO
+ <br>Cargo : SUP
+ <br>Direccion : CALLAO 1348
+ <br>Ciudad : BUENOS AIRES
+ <br>Telefono : 1521721298
+ <br>Email : santiagocapalbo@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me interesa la oferta laboral
+ <br>Security_code : fd758
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.45.149.220<br>
+ <br>Nombre : jose juan sarabia 
+ <br>Apellido : oficial cañista 
+ <br>Cargo : turin 4730
+ <br>Direccion : isidro casanova 
+ <br>Ciudad : 1568309831
+ <br>Telefono : sarabia_meca@hotmail.com
+ <br>Email : sarabia_meca@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : señores  me dirijo a ustedes paar potularme al puento de cañista  soldador 
+ <br>Security_code : b5t9y
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.44.83.18<br>
+ <br>Nombre : Natalia
+ <br>Apellido : Debus
+ <br>Cargo : Recepcionista, secretaria, asistente.
+ <br>Direccion : Libertad 4159 - Ezpeleta
+ <br>Ciudad : Quilmes
+ <br>Telefono : 1554256537
+ <br>Email : natalia.debus@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estoy estudiando y busco trabajo para sustentar mis estudios. Estoy dispuesta a aprender lo que sea necesario. Gracias
+ <br>Security_code : txmkw
+ <br>Send : Enviar
+ <br>
+---------------
+

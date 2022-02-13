@@ -1,0 +1,49 @@
+Address : 190.190.15.61
+Nombre : hugo alfredo
+Apellido : battaglia
+Cargo : operario, repositor, atencion al publico
+Direccion : libano 1433
+Ciudad : bahia blanca
+Telefono : 011 1558443449
+Email : bathugo2002@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : soy muy trabajador, responsable, honesto y muy adaptable
+Security_code : 3jrkv
+Send : Enviar
+
+---------------
+
+Address : 186.122.45.49
+Nombre : cesar alejandro
+Apellido : perez
+Cargo : seguridad,higiene
+Direccion : rodrigo de triana 5801
+Ciudad : jose clemente paz
+Telefono : 0111538669412
+Email : perezcesaralejandro@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : de mi consideración:el que suscribe le hace llegar su cv para que sea incorporado en su base de datos.
+su buena disposición para los trabajos en equipos,su capacidad organizativa,y su inclinación hacia la prevención,configuran un perfil adecuado para desempeñarse en una empresa de rrhh.
+sin otro particular y en espera de una respuesta favorable ,aprovecha para saludarlos atentamente. 
+Security_code : vbrpy
+Send : Enviar
+
+---------------
+
+Address : 186.122.45.49
+Nombre : cesar alejandro
+Apellido : perez
+Cargo : seguridad,higiene
+Direccion : rodrigo de triana 5801
+Ciudad : jose clemente paz
+Telefono : 0111538669412
+Email : perezcesaralejandro@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : de mi consideración:el que suscribe le hace llegar su cv para que sea incorporado en su base de datos.
+su buena disposición para los trabajos en equipos,su capacidad organizativa,y su inclinación hacia la prevención,configuran un perfil adecuado para desempeñarse en una empresa de rrhh.
+sin otro particular y en espera de una respuesta favorable ,aprovecha para saludarlos atentamente. 
+Security_code : vbrpy
+Send : Enviar
+
+---------------
+

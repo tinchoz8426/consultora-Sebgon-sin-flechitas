@@ -1,0 +1,147 @@
+Address : 200.110.187.240
+Nombre : CARLOS RAUL
+Apellido : QUINTANILLA
+Cargo : gerencia planta, técnica, calidad
+Direccion : A. Storni 3360
+Ciudad : Lujan
+Telefono : 011 44084945
+Email : quintaca@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto mi CV y les agradezco la consideración de mi perfil para posiciones en plantas industriales. Estoy muy interesado en continuar con mi desarrollo de carrera en roles de gerenciamiento de procesos de producción, control de calidad o comerciales, propios de las industrias químicas, textil y afines.
+
+Soy una persona proactiva, con sólidas competencias para la resolución de problemas y el manejo de negociaciones efectivas. Cuento con experiencia consolidada en la conducción de equipos de trabajo, tanto en Argentina como en Brasil, y  también en la coordinación de procesos de relacionamiento con clientes y negociaciones con proveedores internacionales.
+Complementa mi formación técnica en química, estudios en el área de administración de empresas, y el dominio avanzado de los idiomas inglés y portugués. 
+Aguardo su contacto para concertar una entrevista personal, y tener la posibilidad de profundizar sobre mis intereses y trayectoria profesional.
+Saludos cordiales,
+Carlos Quintanilla
+
+Security_code : n2xpx
+Send : Enviar
+
+---------------
+
+Address : 190.238.213.147
+Nombre : ULIBER
+Apellido : ANDRES VERDE
+Cargo : AGENTE EN SEGURIDAD
+Direccion : CALLAO
+Ciudad : LIMA
+Telefono : 973724201
+Email : andrestapia_16_tigre@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : agente en seguridad
+Security_code : d4rz2
+Send : Enviar
+
+---------------
+
+Address : 190.105.108.41
+REF : GTEP
+Nombre : Gustavo, Andrés
+Apellido : Liporace
+Cargo : Gerente de Planta 
+Direccion : C. Puch 1000
+Ciudad : Pilar
+Telefono : 02323-15540015
+Email : galiporace@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados, agradezco me permitan postularme a la búsqueda de referencia (Gerente de Planta), como podrán ver en el cv que les adjunto me he dedicado al Gerenciamiento de Plantas de diversa índole.
+Sería para mí muy importante el tener una entrevista con uds., a fin de poder comentarles mi experiencia y conocimiento.
+Desde ya muchas gracias y muy Felices Fiestas.
+Cordialmente Ing. Liporace Gustavo Andrés
+Security_code : 5jcrv
+Send : Enviar
+
+---------------
+
+Address : 191.81.31.81
+REF : SUPL
+Nombre : Julian Pablo 
+Apellido : Falcon
+Cargo : supervisor de logistica
+Direccion : garin  859
+Ciudad : longchamps
+Telefono : 1168348330
+Email : thespecial20@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : les envio mi cv , felicidades
+Security_code : 34b5q
+Send : Enviar
+
+---------------
+
+Address : 201.252.106.207
+Nombre : Rodrigo
+Apellido : Mazzini
+Cargo : Administrativo / Atencion al cliente
+Direccion : Artigas 1765 depto 3
+Ciudad : CABA
+Telefono : 1136195472
+Email : rodrigoz_94@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Tengo el agrado de dirigirme a Ud/s con el objetivo de obtener una entrevista para el puesto en su empresa. Adjunto mi Currículum Vitae. En relación a esto, cuento con los conocimientos básicos y las ganas de aprender para desarrollar las actividades requeridas.
+Security_code : fxj5k
+Send : Enviar
+
+---------------
+
+Address : 201.252.106.207
+Nombre : Rodrigo
+Apellido : Mazzini
+Cargo : Administrativo / Atencion al cliente
+Direccion : Artigas 1765 depto 3
+Ciudad : CABA
+Telefono : 1136195472
+Email : rodrigoz_94@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Tengo el agrado de dirigirme a Ud/s con el objetivo de obtener una entrevista para el puesto en su empresa. Adjunto mi Currículum Vitae. En relación a esto, cuento con los conocimientos básicos y las ganas de aprender para desarrollar las actividades requeridas.
+Security_code : fxj5k
+Send : Enviar
+
+---------------
+
+Address : 201.252.106.207
+Nombre : Rodrigo
+Apellido : Mazzini
+Cargo : Administrativo / Atencion al cliente
+Direccion : Artigas 1765 depto 3
+Ciudad : CABA
+Telefono : 1136195472
+Email : rodrigoz_94@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Tengo el agrado de dirigirme a Ud/s con el objetivo de obtener una entrevista para el puesto en su empresa. Adjunto mi Currículum Vitae. En relación a esto, cuento con los conocimientos básicos y las ganas de aprender para desarrollar las actividades requeridas.
+Security_code : fxj5k
+Send : Enviar
+
+---------------
+
+Address : 201.252.106.207
+Nombre : Rodrigo
+Apellido : Mazzini
+Cargo : Administrativo / Atencion al cliente
+Direccion : Artigas 1765 depto 3
+Ciudad : CABA
+Telefono : 1136195472
+Email : rodrigoz_94@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Tengo el agrado de dirigirme a Ud/s con el objetivo de obtener una entrevista para el puesto en su empresa. Adjunto mi Currículum Vitae. En relación a esto, cuento con los conocimientos básicos y las ganas de aprender para desarrollar las actividades requeridas.
+Security_code : 2f77r
+Send : Enviar
+
+---------------
+
+Address : 201.252.106.207
+Nombre : Rodrigo
+Apellido : Mazzini
+Cargo : Administrativo / Atencion al cliente
+Direccion : Artigas 1765 depto 3
+Ciudad : CABA
+Telefono : 1136195472
+Email : rodrigoz_94@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Tengo el agrado de dirigirme a Ud/s con el objetivo de obtener una entrevista para el puesto en su empresa. Adjunto mi Currículum Vitae. En relación a esto, cuento con los conocimientos básicos y las ganas de aprender para desarrollar las actividades requeridas.
+Security_code : 2hj8t
+Send : Enviar
+
+---------------
+

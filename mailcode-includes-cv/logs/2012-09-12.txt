@@ -1,0 +1,46 @@
+Address : 190.55.235.200
+Nombre : Francisco
+Apellido : Espina
+Cargo : ...
+Direccion : Virrey Liniers
+Ciudad : CABA
+Telefono : 541135301286
+Email : franespina@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Envío cv para ser tenido en cuenta en futuras búsquedas.
+Security_code : tfq5p
+Send : Enviar
+
+---------------
+
+Address : 181.29.221.243
+Nombre : María Clara
+Apellido : Perkins
+Cargo : Área de Comunicación - RRII
+Direccion : Oncativo 159
+Ciudad : Ramos Mejía
+Telefono : 4658-0876
+Email : claraperkins@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Soy Licenciada en Comunicación Social y estoy buscando un nuevo desafío profesional en una empresa donde pueda plasmar todos mis conocimientos y en la cual pueda continuar adquiriendo mayor experiencia.
+Desde ya muchas gracias y espero tengan a bien considerar mi cv.
+Security_code : n6vgw
+Send : Enviar
+
+---------------
+
+Address : 186.59.10.202
+Nombre : Hugo Alberto
+Apellido : Raffaeli
+Cargo : auxiliar oficina de personal
+Direccion : Cajal 812 
+Ciudad : Godoy Cruz
+Telefono : 02614392467
+Email : raffaeliha@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Les adjunto mi Curriculum para que lo tenga en cuenta en caso de busqueda de acuerdo al cargo y/o similar
+Security_code : 2zcqn
+Send : Enviar
+
+---------------
+

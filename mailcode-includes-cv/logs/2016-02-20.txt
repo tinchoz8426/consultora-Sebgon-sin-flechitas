@@ -1,0 +1,110 @@
+Address : 186.19.61.104
+Nombre : Verónica Beatriz
+Apellido : Tapia Maidana
+Cargo : Administrativa 
+Direccion : Los patos
+Ciudad : Capital Federal
+Telefono : 1168375516
+Email : veronica-tapia-@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : -
+Security_code : chr22
+Send : Enviar
+
+---------------
+
+Address : 66.60.55.142
+REF : OEL
+Nombre : Dario
+Apellido : Schimpp
+Cargo : oficial electricista
+Direccion : jorge newbery 3640
+Ciudad : jose c. paz
+Telefono : 1122-111890
+Email : darioricardoschimpp@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : oficial electricista
+Security_code : wxxr9
+Send : Enviar
+
+---------------
+
+Address : 66.60.55.142
+REF : OEL
+Nombre : Dario
+Apellido : Schimpp
+Cargo : oficial electricista
+Direccion : jorge newbery 3640
+Ciudad : jose c. paz
+Telefono : 1122-111890
+Email : darioricardoschimpp@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : oficial electricista
+Security_code : wxxr9
+Send : Enviar
+
+---------------
+
+Address : 66.60.55.142
+REF : OEL
+Nombre : Dario
+Apellido : Schimpp
+Cargo : oficial electricista
+Direccion : jorge newbery 3640
+Ciudad : jose c. paz
+Telefono : 1122-111890
+Email : darioricardoschimpp@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : oficial electricista
+Security_code : czvfr
+Send : Enviar
+
+---------------
+
+Address : 186.134.138.241
+REF : ENPRO
+Nombre : claudio
+Apellido : capitani
+Cargo : responsable
+Direccion : magallanes3508
+Ciudad : buenos aires
+Telefono : 42765121
+Email : claudioalbertocapitani@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : estoy interesado en la propuesta
+Security_code : qy4p3
+Send : Enviar
+
+---------------
+
+Address : 186.22.74.67
+REF : OEL
+Nombre : Eduardo adrian
+Apellido : silva
+Cargo : oficial electricista
+Direccion : Jujuy 1636
+Ciudad : san justo 
+Telefono : 1562751643
+Email : eduardoadriansilva1976@yahoo..com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Quisiera postularme en oficial electricista. Gracias 
+Security_code : sqy2n
+Send : Enviar
+
+---------------
+
+Address : 24.232.109.205
+Nombre : maximiliano
+Apellido : santillan
+Cargo : soldador
+Direccion : gandolfo 
+Ciudad : san fernando
+Telefono : 1130555899
+Email : msantillan75@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : soy soldador combinado, calificado, sistemas gtaw, smaw, y mig
+Security_code : 22rmq
+Send : Enviar
+
+---------------
+

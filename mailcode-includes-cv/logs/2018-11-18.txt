@@ -1,0 +1,91 @@
+Address : 181.44.124.139<br>
+ <br>REF : JPER-1
+ <br>Nombre : Adriana
+ <br>Apellido : Morawski
+ <br>Cargo : Jefe de Personal
+ <br>Direccion : Uriburu nº 1326
+ <br>Ciudad : Quilmes
+ <br>Telefono : 1565588915
+ <br>Email : elisabetm1@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Departamento de Recursos Humanos 
+A quien corresponda
+Presente
+      En referencia a su anuncio aparecido en el portal de búsquedas laborales, adjunto mi Currículum Vitae, con la intención de ofrecerles mis servicios. 
+     Dada mi formación en las distintas áreas de Administración, así como la experiencia adquirida,  podría cubrir la vacante laboral publicada.
+ Quedo a su disposición para ampliar cuanta información estimen necesaria. 
+      A la espera de sus noticias, se despide atentamente, 
+  Adriana Morawski
+
+
+ <br>Security_code : 6df5q
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.9<br>
+ <br>REF : EP-1
+ <br>Nombre : Analia lydia
+ <br>Apellido : Alvarez
+ <br>Cargo : Encargado de produccion
+ <br>Direccion : Lugones, 4039
+ <br>Ciudad : CABA
+ <br>Telefono : 1555801409
+ <br>Email : analia.avz66@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me dirijo a ustedes por el puesto de encargado de produccion adjunto mi cv 
+ <br>Security_code : hxzrz
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 179.36.236.62<br>
+ <br>REF : TEC. EL
+ <br>Nombre : raul francisco
+ <br>Apellido : frias
+ <br>Cargo : tecnico electronico
+ <br>Direccion : labarden 5531
+ <br>Ciudad : san justo
+ <br>Telefono : 01144868349
+ <br>Email : raulfranciscofrias@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Tecnico con 30 años de experiencia.
+ <br>Security_code : hpjcf
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.11<br>
+ <br>REF : JPER-1
+ <br>Nombre : Julio Ruben Darío
+ <br>Apellido : Suviria
+ <br>Cargo : Jefe de personal
+ <br>Direccion : Lautaro 1210 Flores
+ <br>Ciudad : CABA
+ <br>Telefono : 1127885380
+ <br>Email : jrdsuviria@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me dirijo a usted para postularme al puesto requerido,a tal fin adjunto envío mí CV para su evaluación.
+Darío Suviria
+ <br>Security_code : p6rmm
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.11<br>
+ <br>REF : JPER-1
+ <br>Nombre : Julio Ruben Darío
+ <br>Apellido : Suviria
+ <br>Cargo : Jefe de personal
+ <br>Direccion : Lautaro 1210 Flores
+ <br>Ciudad : CABA
+ <br>Telefono : 1127885380
+ <br>Email : jrdsuviria@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me dirijo a usted para postularme al puesto requerido,a tal fin adjunto envío mí CV para su evaluación.
+Darío Suviria
+ <br>Security_code : 3xnwh
+ <br>Send : Enviar
+ <br>
+---------------
+

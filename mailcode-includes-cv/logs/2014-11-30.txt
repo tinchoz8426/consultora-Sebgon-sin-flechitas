@@ -1,0 +1,60 @@
+Address : 190.122.211.91
+Nombre : noelia
+Apellido : staino
+Cargo : Tecnico en Administracion
+Direccion : Hipocrates mz 13d lote 20
+Ciudad : Francisco Alvarez
+Telefono : 1130983204
+Email : noeliastaino@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Mi nombre es noelia staino y les envio mi cv, a fin me puedan ayudar a encontar mi promer empleo.Muchas gracias.
+Security_code : zfb7s
+Send : Enviar
+
+---------------
+
+Address : 190.194.73.213
+Nombre : Veronica Andrea
+Apellido : Molinari Guarella
+Cargo : Atencion al cliente
+Direccion : Heroes de Malvinas 2479
+Ciudad : Buenos Aires
+Telefono : 1144946401
+Email : guarellam@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me encuentro en la búsqueda de mi primer empleo.Me oriento a puestos que este relacionados con  atención al cliente y ventas.
+Security_code : z3fh3
+Send : Enviar
+
+---------------
+
+Address : 190.194.73.213
+Nombre : Veronica Andrea
+Apellido : Molinari Guarella
+Cargo : Atencion al cliente
+Direccion : Heroes de Malvinas 2479
+Ciudad : Buenos Aires
+Telefono : 1144946401
+Email : guarellam@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me encuentro en la búsqueda de mi primer empleo.Me oriento a puestos que este relacionados con  atención al cliente y ventas.
+Security_code : z3fh3
+Send : Enviar
+
+---------------
+
+Address : 190.194.73.213
+Nombre : Veronica Andrea
+Apellido : Molinari Guarella
+Cargo : Atencion al cliente
+Direccion : Heroes de Malvinas 2479
+Ciudad : Buenos Aires
+Telefono : 1144946401
+Email : guarellam@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me encuentro en la búsqueda de mi primer empleo.Me oriento a puestos que este relacionados con  atención al cliente y ventas.
+Security_code : z3fh3
+Send : Enviar
+
+---------------
+

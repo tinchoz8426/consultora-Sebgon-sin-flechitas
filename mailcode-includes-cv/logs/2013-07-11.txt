@@ -1,0 +1,65 @@
+Address : 190.229.170.63
+Nombre : Pablo
+Apellido : grasso
+Cargo : Ingeniero en alimentos
+Direccion : camarones 2331
+Ciudad : capital federal
+Telefono : 0111532285392
+Email : pablo_grasso13@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Mi nombre es Pablo Grasso, soy Quesero de oficio e Ingeniero en Alimentos con especialización en industrias lácteas de profesión, en dato adjunto le envío mi CV,  mis teléfonos son el 011 45852127, y el celular es 011 1532285392.
+Saludos cordiales.
+
+Security_code : v5vcd
+Send : Enviar
+
+---------------
+
+Address : 190.229.170.63
+Nombre : pablo
+Apellido : grasso
+Cargo : ingeniero en alimentos
+Direccion : camarones 2331
+Ciudad : capital federal
+Telefono : 0111532285392
+Email : pablo_grasso13@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Mi nombre es Pablo Grasso, soy Quesero de oficio e Ingeniero en Alimentos con especialización en industrias lácteas de profesión, en dato adjunto le envío mi CV,  mis teléfonos son el 011 45852127, y el celular es 011 1532285392.
+Saludos cordiales.
+
+Security_code : xswm8
+Send : Enviar
+
+---------------
+
+Address : 190.246.60.171
+Nombre : Fernando
+Apellido : Paul
+Cargo : Cajero / at. al publico
+Direccion : Fitz Roy 2479 Pb B
+Ciudad : capital federal
+Telefono : 44876304
+Email : fhernandoangelpaul@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Busco trabajo, no importa el area, necesito trabajar urgente. gracias!
+Security_code : j2spb
+Send : Enviar
+
+---------------
+
+Address : 190.247.248.69
+Nombre : Santiago
+Apellido : Birsa
+Cargo : Pasantía de RRHH
+Direccion : Maipú 419
+Ciudad : Tigre
+Telefono : 1151398243
+Email : santi_birsa@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Soy estudiante de la carrera de Psicología en la Universidad de Buenos  Aires.
+Me interesa poder plasmar mis conocimientos desempeñándome en recursos humanos. Particularmente en el área "soft" aunque estoy abierto a otras alternativas. No tengo experiencia laboral pero soy sumamente proactivo y estoy dispuesto a aprender.
+Security_code : 36xfh
+Send : Enviar
+
+---------------
+

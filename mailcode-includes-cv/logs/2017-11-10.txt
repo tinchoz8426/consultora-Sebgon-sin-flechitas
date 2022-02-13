@@ -1,0 +1,109 @@
+Address : 186.182.189.0<br>
+ <br>Nombre : jorge david 
+ <br>Apellido : SIERRA GARCIA
+ <br>Cargo : VENTAS
+ <br>Direccion : JARAMIILO 2324 
+ <br>Ciudad : CABA 
+ <br>Telefono : 1166179056
+ <br>Email : jor.sierrag@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me dedico a la venta de productos, servicios y a la atención de la postventa de los mismos y cuento con más de cinco años de experiencia en el rubro. Siempre procuro alcanzar o superar los objetivos propuestos, usando como principales herramientas la proactividad, el esfuerzo y las ganas continuas de mejorar, aprender y crecer. 
+ <br>Security_code : VMFBR
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.124.170.28<br>
+ <br>Nombre : Laura
+ <br>Apellido : Gomez
+ <br>Cargo : Camarera
+ <br>Direccion : Cabrera 3201
+ <br>Ciudad : Mar del plata
+ <br>Telefono : 223 155593542
+ <br>Email : Lau.dgmz@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me considero una persona dinámica y con gran capacidad para relacionarme con la gente. Me gusta esforzarme para crecer.
+ <br>Security_code : Bqrm7
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.124.170.28<br>
+ <br>Nombre : Laura
+ <br>Apellido : Gomez
+ <br>Cargo : Camarera
+ <br>Direccion : Cabrera 3201
+ <br>Ciudad : Mar del plata
+ <br>Telefono : 223 155593542
+ <br>Email : Lau.dgmz@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me considero una persona dinámica y con gran capacidad para relacionarme con la gente. Me gusta esforzarme para crecer.
+ <br>Security_code : xmk2w
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.18.118.105<br>
+ <br>REF : TE-1
+ <br>Nombre : Jordan 
+ <br>Apellido : Caceres 
+ <br>Cargo : TÉCNICO ELECTRICISTA 
+ <br>Direccion : Scalabrini Ortiz 242
+ <br>Ciudad : Buenos Aires 
+ <br>Telefono : 1127599072
+ <br>Email : Jordancaceres6@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Responsabilidad y dedicación al trabajo! 
+ <br>Security_code : kzpb5
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.18.118.105<br>
+ <br>REF : TE-1
+ <br>Nombre : Jordan 
+ <br>Apellido : Caceres 
+ <br>Cargo : TÉCNICO ELECTRICISTA 
+ <br>Direccion : Scalabrini Ortiz 242
+ <br>Ciudad : Buenos Aires 
+ <br>Telefono : 1127599072
+ <br>Email : Jordancaceres6@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Responsabilidad y dedicación al trabajo! 
+ <br>Security_code : kzpb5
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.18.118.105<br>
+ <br>REF : TE-1
+ <br>Nombre : Jordan 
+ <br>Apellido : Caceres 
+ <br>Cargo : TÉCNICO ELECTRICISTA 
+ <br>Direccion : Scalabrini Ortiz 242
+ <br>Ciudad : Buenos Aires 
+ <br>Telefono : 1127599072
+ <br>Email : Jordancaceres6@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Responsabilidad y dedicación al trabajo! 
+ <br>Security_code : 5qt8y
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.18.128.39<br>
+ <br>REF : ACO
+ <br>Nombre : orannellys
+ <br>Apellido : ramos
+ <br>Cargo : asistente comercial
+ <br>Direccion : migueletes 1107
+ <br>Ciudad : Palermo
+ <br>Telefono : 1162111546
+ <br>Email : orannellysramos@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Persona responsable con vocacion de servicio y ganas de aprender
+ <br>Security_code : y7b4c
+ <br>Send : Enviar
+ <br>
+---------------
+

@@ -1,0 +1,100 @@
+Address : 201.253.87.237
+Nombre : Diego
+Apellido : Igal
+Cargo : Periodismo
+Direccion : Agüero 1973
+Ciudad : Vicente López
+Telefono : 4761-2321
+Email : diegoigal@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Remito mi curriculum para ser incorporado a vuestra base de datos. Saludos
+Security_code : yvh8k
+Send : Enviar
+
+---------------
+
+Address : 186.23.249.156
+Nombre : Paula
+Apellido : mazza
+Cargo : junior
+Direccion : castelli 150
+Ciudad : buenos aires
+Telefono : 1559386152
+Email : mazzapaula@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Busqueda laboral activa
+Security_code : 5bqgr
+Send : Enviar
+
+---------------
+
+Address : 181.164.161.83
+Nombre : Ana Pia
+Apellido : Perotti
+Cargo : Recursos Humanos
+Direccion : Nicolas de Avellaneda 1479
+Ciudad : Córdoba
+Telefono : 0358154166244
+Email : apperotti_67@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : A quien corresponda:
+                                Me dirijo a usted con el fin de enviarle mi Currículo Vitae y de este modo ofertar mis servicios.
+Como puede usted comprobar en el mismo, tengo una amplia capacitación en gestión de los RRHH como así también en mediación y negociación. Considero que estas últimas son dos herramientas muy valiosas para los profesionales que nos desempeñamos en esta área ya que permite resolver o prevenir conflicto de una forma no adversarial, permitiendo ganar grandes ventajas a aquellas organizaciones que disponga de las mismas. También podrá observar mi experiencia de más de una año, y contando, en una consultora de RRHH.
+Esperando que estudie mi candidatura y en espera de prontas noticias, le saluda atentamente.
+
+Lic. Ana Pía Perotti
+
+
+Adjunto: "Curriculum Vitae"
+
+Security_code : 3rxqc
+Send : Enviar
+
+---------------
+
+Address : 201.212.133.97
+Nombre : Jimena
+Apellido : Atala
+Cargo : Seleccón de personal. 
+Direccion : 3 de Febrero 2939
+Ciudad : Rosario
+Telefono : (0341) 156298374
+Email : jimena.atala@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Soy Psicóloga egresada de la Universidad Nacional de Rosario. Me especializo en selección de personal completa. Elaboración de avisos, preselección de cvs, entrevistas, administración de test proyectivos gráficos y psicométricos, y redacción de informes. 
+Security_code : sy3mv
+Send : Enviar
+
+---------------
+
+Address : 201.212.133.97
+Nombre : Jimena
+Apellido : Atala
+Cargo : Selección de personal
+Direccion : 3 de febrero 2939
+Ciudad : Rosario
+Telefono : (0341) 156298374
+Email : jimena.atala@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Soy Psicóloga, egresada de la Universidad Nacional de Rosario, me especializo en selección de personal completa. Elaboración de avisos, preselección de cvs, entrevistas, administración de test proyectivos gráficos y psicométricos, y redacción de informes. 
+Security_code : rw569
+Send : Enviar
+
+---------------
+
+Address : 181.192.53.11
+REF : ANCON
+Nombre : Miriam
+Apellido : Myszakowski
+Cargo : Analista Contable
+Direccion : Fermín Gamboa 162
+Ciudad : Pilar
+Telefono : 0111563769858
+Email : miriammyszakowski@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Postulante para Administrativa contable
+Security_code : 42tz2
+Send : Enviar
+
+---------------
+

@@ -1,0 +1,56 @@
+Address : 190.174.9.76
+Nombre : yamila
+Apellido : alvarez
+Cargo : trabajadora social
+Direccion : darwin 2582
+Ciudad : ituzaingo
+Telefono : 1561028303
+Email : yamila_noelia_alvarez@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : cv para informes socio ambientales
+Security_code : m8nms
+Send : Enviar
+
+---------------
+
+Address : 190.43.100.178
+Nombre : sandra
+Apellido : de  la cruz anampa
+Cargo : recursos humanos
+Direccion : villa maría del triunfo
+Ciudad : lima
+Telefono : 953383054
+Email : sandra_love129@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : 
+Me considero  una joven creativa, audaz, sociable, de sólidos principios morales, dinámicos y eficientes con un alto grado de responsabilidad y principios éticos. 
+Estoy dispuesta y tengo la capacidad necesaria para trabajar en cualquier área o función que se me asigne con el interés de seguir aprendiendo y creciendo como colaboradora y como persona.
+
+Security_code : 9j92t
+Send : Enviar
+
+---------------
+
+Address : 190.38.45.137
+Nombre : Rafael
+Apellido : Betancourt
+Cargo : Consultor en Gerencia de Proyectos 
+Direccion : Edo. Aragua, Venezuela
+Ciudad : Maracay, Venezuela
+Telefono : 00584261346420
+Email : pranicos@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Sres. SEBGON
+
+Por medio del presente, tengo el agrado de enviar mi resumen curricular  a su prestigiosa empresa. Actualmente estoy residenciado en Venezuela desempeñándome como consultor en el área de Gerencia de Proyectos y Gestión Sostenible del Turismo, y estoy en proceso de emigrar al extranjero. Hablo 3 idiomas (nativo español, portugués e inglés), poseo las titulaciones universitarias de Licenciado en Ciencias Gerenciales y Administrativas con Mención en Mercadeo, Especialista en Gestión Sostenible del Turismo, y en el año 2013 finalicé mis estudios como alumno extranjero becado por el Consejo Nacional de Desarrollo Científico y Tecnológico de Brasil (CNPq) en el curso de Maestría en Economía Política Internacional de la Universidad Federal de Río de Janeiro – UFRJ. Mis objetivos profesionales están dirigidos al área de la consultoría, gerencia de proyectos y el desarrollo sostenible, motivo por el cual su organización resulta un espacio muy interesante para hacer llegar a empresas interesadas en mi perfil en dihco país; así mismo, tengo disponibilidad inmediata para residenciarme en Argentina.
+ 
+Agradeciendo su valiosa atención,  
+Cordialmente,
+ 
+Lic. Rafael Alejandro Betancourt Monserratt
+
+Security_code : 9sbb3
+Send : Enviar
+
+---------------
+

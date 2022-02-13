@@ -1,0 +1,295 @@
+Address : 190.246.47.252<br>
+ <br>Nombre : Mauro
+ <br>Apellido : Rampo
+ <br>Cargo : Ingeniero Agronomo
+ <br>Direccion : Turrado Juarez 1232
+ <br>Ciudad : Cordoba
+ <br>Telefono : 0351-15-5915278
+ <br>Email : maurorampo@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : dejo mi cv para incorporarlo a la consultora por posibles ofertas laborales
+ <br>Security_code : 76jgp
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.224.65.160<br>
+ <br>REF : OEL
+ <br>Nombre : Carlos Abel
+ <br>Apellido : Togni
+ <br>Cargo : técnico electricista  
+ <br>Direccion : Vicente López y Planes 9236
+ <br>Ciudad : Pablo Podesta 
+ <br>Telefono : 15-5991-5540
+ <br>Email : abel_togni@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : espero poder participar en su equipo de trabajo para lograr objetivos personales y laborales brindando mi capacidad y conocimiento, desde ya, muchas gracias, 
+ <br>Security_code : dkvf7
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.191.214.10<br>
+ <br>REF : GTEP
+ <br>Nombre : Omar
+ <br>Apellido : Lenarduzzi
+ <br>Cargo : Gerente de Planta
+ <br>Direccion : Martínez Mendoza 1056
+ <br>Ciudad : Villa María
+ <br>Telefono : 353 5638155
+ <br>Email : lenar68@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Atto.: Sr. Gerente de RRHH aquí le envío mi CV para ser tenido en cuenta en la selección de personal de referencia. 
+Pretenciones salariales: $80.000 + Prepaga + Vivienda.
+Sin más quedo al aguardo de vuestros atentos comentarios.
+Saludos
+Omar Lenarduzzi
+ <br>Security_code : fxns7
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.27.177.119<br>
+ <br>REF : OEL
+ <br>Nombre : Nestor fabian
+ <br>Apellido : Galeano
+ <br>Cargo : Electricista
+ <br>Direccion : Juares 3459
+ <br>Ciudad : Monte grande
+ <br>Telefono : 1538776822
+ <br>Email : nestorfabian76@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas tardes realizo trabajos de electricidad en general  desde cañerias hasta colocación de artefactos y demás desde ya muchas gracias x su tiempo
+ <br>Security_code : Sw5p7
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.27.177.119<br>
+ <br>REF : OEL
+ <br>Nombre : Nestor fabian
+ <br>Apellido : Galeano
+ <br>Cargo : Electricista
+ <br>Direccion : Juares 3459
+ <br>Ciudad : Monte grande
+ <br>Telefono : 1538776822
+ <br>Email : nestorfabian76@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas tardes realizo trabajos de electricidad en general  desde cañerias hasta colocación de artefactos y demás desde ya muchas gracias x su tiempo
+ <br>Security_code : Sw5p7
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.27.177.119<br>
+ <br>REF : OEL
+ <br>Nombre : Nestor fabian
+ <br>Apellido : Galeano
+ <br>Cargo : Electricista
+ <br>Direccion : Juares 3459
+ <br>Ciudad : Monte grande
+ <br>Telefono : 1538776822
+ <br>Email : nestorfabian76@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas tardes realizo trabajos de electricidad en general  desde cañerias hasta colocación de artefactos y demás desde ya muchas gracias x su tiempo
+ <br>Security_code : cd5j2
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.229.116.16<br>
+ <br>Nombre : CHRISTIAN
+ <br>Apellido : CASTIA
+ <br>Cargo : Administrativo
+ <br>Direccion : pola 2163
+ <br>Ciudad : capital federal
+ <br>Telefono : 1158529101
+ <br>Email : castiachristian@gmai.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola! Buenos dias.
+Estaba interesado en cambiar mi empleo no por un desgaste laboral sino en busqueda de progreso. atta christian. gracias
+ <br>Security_code : 3xyyh
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.182.187.57<br>
+ <br>REF : SE.BIL
+ <br>Nombre : ANALÍA MARICEL
+ <br>Apellido : SALARIS
+ <br>Cargo : ASISTENTE BILINGÜE
+ <br>Direccion : CHANAS 1311
+ <br>Ciudad : HAEDO, GBA OESTE
+ <br>Telefono : +54111566248658
+ <br>Email : maricelsalaris@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : ENVÍO CV SEGÚN SOLICITUD PARA ASISTENTE BILINGÜE.
+ <br>Security_code : j4wmj
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.250.172.239<br>
+ <br>Nombre : Evangelina Ruth
+ <br>Apellido : Abregú
+ <br>Cargo : Atención al cliente, recepcionista. 
+ <br>Direccion : Tomas Edison 2783
+ <br>Ciudad : Moreno, Buenos Aires
+ <br>Telefono : 1125556841
+ <br>Email : evangelina_ruth@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola buenas tardes, estoy buscando un empleo acorde a mis experiencias previas, soy una persona proactiva, dinamica y con muchas ganas de trabajar y crecer. Saludos!
+ <br>Security_code : d3m4c
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.225.230.143<br>
+ <br>Nombre : Maria Florencia
+ <br>Apellido : Baier
+ <br>Cargo : Operaria- Administracion- ventas
+ <br>Direccion : Carlos Gardel 1332 Loma Hermosa
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 1135124800
+ <br>Email : florenciabaier@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola soy M.Florencia Baier ,Estoy en Búsqueda de un trabajo donde pueda adquirir nuevos conocimientos y poder tener un buen ambiente laboral,desde ya muchas gracias .
+saludos.
+ <br>Security_code : nsx9g
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.225.230.143<br>
+ <br>Nombre : Maria Florencia
+ <br>Apellido : Baier
+ <br>Cargo : Operaria- Administracion- ventas
+ <br>Direccion : Carlos Gardel 1332 Loma Hermosa
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 1135124800
+ <br>Email : florenciabaier@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola soy M.Florencia Baier ,Estoy en Búsqueda de un trabajo donde pueda adquirir nuevos conocimientos y poder tener un buen ambiente laboral,desde ya muchas gracias .
+saludos.
+ <br>Security_code : nsx9g
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.188.222.151<br>
+ <br>Nombre : Florencia
+ <br>Apellido : Ramos
+ <br>Cargo : Arquitecta
+ <br>Direccion : Araoz 2180
+ <br>Ciudad : Capital Federal
+ <br>Telefono : 0292315512433
+ <br>Email : florenciaramost@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : 
+A quien corresponda,
+
+   Mi nombre es Florencia Ramos y acabo de recibirme de arquitecta en la U.N.L.P,
+motivo por el cual me dirijo por este medio con la intención de dejarles mi CV (adjunto), por cualquier oportunidad que pueda surgir.
+
+  Sin otro particular, me despido quedando a su disposición.
+  
+  Muchas gracias
+ <br>Security_code : w2p93
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.134.178.246<br>
+ <br>Nombre : Yanina
+ <br>Apellido : Cristaldo
+ <br>Cargo : Cadete-administrativo
+ <br>Direccion : 9 n885 y 109
+ <br>Ciudad : Berazategui
+ <br>Telefono : 1121714889
+ <br>Email : ycristaldoc@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Adjunto dejo mi CV para su evaluación
+ <br>Security_code : Ss5nx
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.18.224.25<br>
+ <br>REF : JPL
+ <br>Nombre : Raúl Adrián
+ <br>Apellido : Osmolski
+ <br>Cargo : Jefe de Planta
+ <br>Direccion : Tandil 2951
+ <br>Ciudad : C.A.B.A.
+ <br>Telefono : 15-6447-2903
+ <br>Email : raul.osmolski@yahoo.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Es de mi especial interés poder desarrollar la gestión del puesto de referencia, con miras al desarrollo y crecimiento personal y el de la empresa.
+Para ello, ofrezco iniciativa y creatividad, anteponiendo capacidad de adaptación a nuevas circunstancias, dinamismo y experiencia adquirida en la gestión realizada para las empresas en las cuales he trabajado.
+Deseo se valore el presente ofrecimiento de colaboración, dado que me considero responsable, con metas y objetivos claros, un fuerte anhelo de crecimiento y un perfil acorde.
+Quedo a vuestra disposición a una futura entrevista que permita un mejor conocimiento personal.
+Adjunto envío mi Curriculum Vitae.
+
+Agradeciendo por vuestra deferencia, saluda a Ud. muy atte.
+
+Raúl Adrián Osmolski
+
+ <br>Security_code : psfxb
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.189.124.220<br>
+ <br>Nombre : Mariano
+ <br>Apellido : Báez
+ <br>Cargo : Técnico en Higiene y Seguridad en el Trabajo
+ <br>Direccion : Mariano Acosta 2659
+ <br>Ciudad : Buenos Aires, CABA
+ <br>Telefono : 49183508
+ <br>Email : marianohigyseg@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados,  soy Mariano Báez, Técnico en Higiene y Seguridad orientado en la Industria de la Construcción, estoy interesado en formar parte de su red de profesionales, es por eso que les adjunto mi Curriculum a fines de ser tenido en cuenta en una futura búsqueda.Desde ya muchas gracias, Saludos atte Mariano Agustín Báez.
+ <br>Security_code : tvgb3
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.192.199.20<br>
+ <br>Nombre : Maria Paz
+ <br>Apellido : Acuña
+ <br>Cargo : Analista de RRHH
+ <br>Direccion : Av. Bartolmé Mitre 5137
+ <br>Ciudad : Caseros
+ <br>Telefono : 1536916454
+ <br>Email : mpa.maria.paz@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados, adjunto mi CV para futuras busquedas en el área de RRHH.
+Saludos cordiales,
+Maria Paz
+ <br>Security_code : 57887
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.51.1.144<br>
+ <br>Nombre : Ana Paula
+ <br>Apellido : Ierace
+ <br>Cargo : Arquitecta jr
+ <br>Direccion : Lavalle 2279
+ <br>Ciudad : CABA
+ <br>Telefono : 1169283974
+ <br>Email : anapaulaierace@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola, soy Arquitecta graduada recientemente de la carrera Arquitectura y Urbanismo en la UNLP (título en trámite) y me dirijo a usted con el fin de adjuntar mi CV (el cual indica mis datos personales, académicos y experiencias profesionales) para presentarme como postulante a un empleo que coincida con mi perfil.
+
+
+De requerir algún tipo de información extra (ya sea carpeta con muestrario de trabajos, otros datos, etc.) no dude en requerirlo.  
+
+A la espera de una respuesta y desde ya, gracias por su tiempo, los saluda atte.:
+
+Ierace, Ana Paula
+ <br>Security_code : pgtkq
+ <br>Send : Enviar
+ <br>
+---------------
+

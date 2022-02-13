@@ -1,0 +1,12 @@
+Address : 200.127.22.245
+Nombre : Luis Antonio
+Apellido : Gómez Quiroga
+Empresa : Fiat auto Córdoba
+Telefono : 0351/4717246
+Email : gomez.luis.antonio@hotmail.com
+Mensaje : Ya habiendo pasado los pasos requeridos para el ingreso en el puesto de personal de planta ,quisiera saber cuando podria tener noticias al respecto. desde ya muy agradecido.Luis Gómez
+Security_code : 2ds9y
+Send : Enviar
+
+---------------
+

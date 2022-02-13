@@ -1,0 +1,16 @@
+Address : 190.136.168.234
+REF : jefe-de-garantia-de-calidad
+Nombre : Claudia
+Apellido : Arenas
+Cargo : Jefe-de-garantia-de-calidad 
+Direccion : Albersi 487
+Ciudad : San martin
+Telefono : 47520346
+Email : arenascp@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Agradecería tengan en cuenta mi curriculum para este u otro cargo.Actualmente tengo un tranbajo part-time.Poseo movilidad propia y estoy inscripta como monotributista 
+Security_code : s9rtp
+Send : Enviar
+
+---------------
+

@@ -1,0 +1,15 @@
+Address : 190.48.102.170
+Nombre : Ariel Norberto
+Apellido : Sciarrillo
+Cargo : Chofer
+Direccion : Av soldado de la frontera 4931
+Ciudad : Capital Federal 
+Telefono : 46040277
+Email : yo_el23@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Soy una persona pro activa, responsable y con muchas ganas de trabajar. Desde ya, muchas gracias.
+Security_code : 4wx4j
+Send : Enviar
+
+---------------
+

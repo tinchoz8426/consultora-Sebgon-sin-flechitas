@@ -1,0 +1,127 @@
+Address : 190.204.114.107<br>
+ <br>REF : ROT-1
+ <br>Nombre : Edgar Jose
+ <br>Apellido : Otero Pericana
+ <br>Cargo : proyectista CAD
+ <br>Direccion : calle vieytes 460 dock sud
+ <br>Ciudad : buenos aires
+ <br>Telefono : 5491154591188
+ <br>Email : oteroeh@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Solicitud de empleo
+ <br>Security_code : vy3pm
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.204.114.107<br>
+ <br>REF : ROT-1
+ <br>Nombre : Edgar Jose
+ <br>Apellido : Otero Pericana
+ <br>Cargo : proyectista CAD
+ <br>Direccion : avellanada
+ <br>Ciudad : buenos aires
+ <br>Telefono : 5491154591188
+ <br>Email : oteroeh@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : solicitud de empleo
+ <br>Security_code : t8n84
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.204.114.107<br>
+ <br>REF : ROT-1
+ <br>Nombre : Edgar Jose
+ <br>Apellido : Otero Pericana
+ <br>Cargo : proyectista CAD
+ <br>Direccion : avellanada
+ <br>Ciudad : buenos aires
+ <br>Telefono : 5491154591188
+ <br>Email : oteroeh@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : solicitud de empleo
+ <br>Security_code : t8n84
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.204.114.107<br>
+ <br>REF : ROT-1
+ <br>Nombre : Edgar Jose
+ <br>Apellido : Otero Pericana
+ <br>Cargo : proyectista CAD
+ <br>Direccion : avellanada
+ <br>Ciudad : buenos aires
+ <br>Telefono : 5491154591188
+ <br>Email : oteroeh@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : solicitud de empleo
+ <br>Security_code : t8n84
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.204.114.107<br>
+ <br>REF : ROT-1
+ <br>Nombre : Edgar Jose
+ <br>Apellido : Otero Pericana
+ <br>Cargo : proyectista CAD
+ <br>Direccion : avellanada Buenos aires argentina
+ <br>Ciudad : buenos aires
+ <br>Telefono : 5491154591188
+ <br>Email : oteroeh@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : solicitud de empleo
+ <br>Security_code : t8n84
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.204.114.107<br>
+ <br>REF : ROT-1
+ <br>Nombre : Edgar Jose
+ <br>Apellido : Otero Pericana
+ <br>Cargo : proyectista CAD
+ <br>Direccion : avellanada Buenos aires provincia argentina
+ <br>Ciudad : buenos aires
+ <br>Telefono : 5491154591188
+ <br>Email : oteroeh@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : solicitud de empleo
+ <br>Security_code : rq8hn
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.204.114.107<br>
+ <br>REF : ROT-1
+ <br>Nombre : Edgar Jose
+ <br>Apellido : Otero Pericana
+ <br>Cargo : proyectista CAD
+ <br>Direccion : avellanada dock sud 
+ <br>Ciudad : buenos aires
+ <br>Telefono : 5491154591188
+ <br>Email : oteroeh@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : solicitus de empleo
+ <br>Security_code : hnsph
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.213.149.197<br>
+ <br>Nombre : MARIAALEJANDRA
+ <br>Apellido : RIAL
+ <br>Cargo : PSICOLOGA
+ <br>Direccion : GIRIBONE 3400
+ <br>Ciudad : CABA
+ <br>Telefono : 1556938206
+ <br>Email : mariale1619@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Por la presente envío mi CV para ser tenida en cuenta en búsqueda de profesionales para realizar entrevistas, socioambientales, capacitaciones, atención en consultorio y o domiciliaria, Amplia experiencia en atención a la diversidad. Programas sociales etc,
+ <br>Security_code : 782rv
+ <br>Send : Enviar
+ <br>
+---------------
+

@@ -1,0 +1,32 @@
+Address : 190.190.28.188
+Nombre : Carolina
+Apellido : Rodriguez
+Cargo : Supervisor
+Direccion : Sitio de Montevideo 1040
+Ciudad : Lanus
+Telefono : 42405177
+Email : kenyrampante@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : De acuerdo a mis conocimientos y experiencia adquirida deseo formar parte de su empresa. Queda a su entera disposicion.
+Muchas gracias.
+Carolina G. Rodriguez
+Security_code : 4pnrk
+Send : Enviar
+
+---------------
+
+Address : 190.190.28.188
+Nombre : Carolina
+Apellido : Rodriguez
+Cargo : Supervisor
+Direccion : Sitio de Montevideo 1040
+Ciudad : Lanus
+Telefono : 42405177
+Email : kenyrampante@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Deseo formar parte de su empresa, ya que poseo conocimientos y experiencia en el marco administrativo, financiero y marketing.
+Security_code : 2njd5
+Send : Enviar
+
+---------------
+

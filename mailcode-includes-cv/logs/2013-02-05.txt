@@ -1,0 +1,32 @@
+Address : 200.80.8.89
+Nombre : Mariela 
+Apellido : Alvarez Boan
+Cargo : Saleccion de personal
+Direccion : Niceto Vega 4929
+Ciudad : Capital Federal
+Telefono : 1557413741
+Email : marie088@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados, estoy interesada en formar parte de su staff. Por dicha razón, les adjunto mi curriculum vitae.
+Lic. Alvarez Boan Mariela
+
+Security_code : ztt5c
+Send : Enviar
+
+---------------
+
+Address : 186.109.202.169
+Nombre : Hugo
+Apellido : Perea
+Cargo : Tec. Sup. en Higiene y Seguridad en el trabajo
+Direccion : peatonal 403 B° Hospital S 4
+Ciudad : La Rioja
+Telefono : +54-380-4261956
+Email : hug.pere@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Cuento con disponibilidad horaria como asi es es necesario trasladarse hacia donde el trabajo lo requiera  
+Security_code : p38jt
+Send : Enviar
+
+---------------
+

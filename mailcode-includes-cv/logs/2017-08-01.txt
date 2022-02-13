@@ -1,0 +1,626 @@
+Address : 190.188.145.129<br>
+ <br>Nombre : Jonatan
+ <br>Apellido : Torres
+ <br>Cargo : Administrativo
+ <br>Direccion : Moreno 2254
+ <br>Ciudad : Mar del Plata
+ <br>Telefono : 223 156953305
+ <br>Email : jonatan_torres@hotmail.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Proactivo. Resolutivo. Eficaz. Responsable.
+
+ <br>Security_code : pnvz2
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.168.186.175<br>
+ <br>REF : JPER-1
+ <br>Nombre : Gustavo 
+ <br>Apellido : Lopez Rodríguez
+ <br>Cargo : JEFE DE PERSONAL
+ <br>Direccion : Dorrego 429
+ <br>Ciudad : Martinez
+ <br>Telefono : 011 4792 6059
+ <br>Email : lopezrgustavor@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : A quien corresponda.
+Adjunto mi CV para la posición de asunto para su evaluación.
+Saludos y gracias.
+ <br>Security_code : ckfhg
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.23.193.105<br>
+ <br>REF : ACO-1
+ <br>Nombre : Matias Ariel
+ <br>Apellido : Rodriguez
+ <br>Cargo : ANALISTA DE COMERCIO INTERNACIONAL/EXTERIOR
+ <br>Direccion : av mosconi, 1067
+ <br>Ciudad : lomas del mirador
+ <br>Telefono : 1155241991
+ <br>Email : rodriguez.matiasa91@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenos dias, adjunto mi CV para su consideracion.
+Saludos cordiales.
+ <br>Security_code : w23r2
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.23.193.105<br>
+ <br>REF : ACO-1
+ <br>Nombre : Matias Ariel
+ <br>Apellido : Rodriguez
+ <br>Cargo : ANALISTA DE COMERCIO INTERNACIONAL/EXTERIOR
+ <br>Direccion : av mosconi, 1067
+ <br>Ciudad : lomas del mirador
+ <br>Telefono : 1155241991
+ <br>Email : rodriguez.matiasa91@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenos dias, adjunto mi CV para su consideracion.
+Saludos cordiales.
+ <br>Security_code : w23r2
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.23.193.105<br>
+ <br>REF : ACO-1
+ <br>Nombre : Matias Ariel
+ <br>Apellido : Rodriguez
+ <br>Cargo : ANALISTA DE COMERCIO INTERNACIONAL/EXTERIOR
+ <br>Direccion : av mosconi, 1067
+ <br>Ciudad : lomas del mirador
+ <br>Telefono : 1155241991
+ <br>Email : rodriguez.matiasa91@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenos dias, adjunto mi CV para su consideracion.
+Saludos cordiales.
+ <br>Security_code : gkqdv
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.179.186.213<br>
+ <br>REF : Tectron
+ <br>Nombre : Francois
+ <br>Apellido : Zen
+ <br>Cargo : TÉCNICOS ELECTRÓNICOS
+ <br>Direccion : Bucarest
+ <br>Ciudad : Lomas de Zamora
+ <br>Telefono : 01125337141
+ <br>Email : zenfrancois@hotmail.fr
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados,
+
+Vista la Oferta Laboral de Técnico Electrónicos les hago llegar mis datos personales y profesionales en Currículum Vitae a fin de ser tenido en cuenta como candidato.
+
+Muy interesado de hacer parte de un equipo para poder compartir mi experiencia adquirida y también seguir aprendiendo, me considero como una persona dinámica. Con la convicción de poseer el perfil requerido para un muy buen desempeño en el cargo a cubrir, quedo a entera disposición para hacerle llegar, sea en una entrevista personal o por el medio que se me indique, las ampliaciones y/o la documentación probatoria correspondiente.
+
+Esperando una respuesta positiva lo saluda atentamente,
+
+    François Zen
+ <br>Security_code : wjq36
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.183.114.168<br>
+ <br>REF : chr
+ <br>Nombre : Hector Matias
+ <br>Apellido : Argañaras
+ <br>Cargo : Chofer
+ <br>Direccion : Estanislao del campo 6631
+ <br>Ciudad : Gregorio de Laferrere
+ <br>Telefono : 4467-7460 /15-49987462
+ <br>Email : matias_arganaras@hotmail.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : responsable del puesto k consideren  
+ <br>Security_code : tv9hg
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.190.6.146<br>
+ <br>REF : EP-1
+ <br>Nombre : Alejandro
+ <br>Apellido : Rio
+ <br>Cargo : Encargado de Producción
+ <br>Direccion : Llavallol 1048
+ <br>Ciudad : Lanús
+ <br>Telefono : 11 15 6113 5666
+ <br>Email : r.daneel.olivaw.ef@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Con relación a la oferta laboral de referencia ofrezco mis capacidades y experiencia.
+Atte.
+ <br>Security_code : 7qf37
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.178.239.137<br>
+ <br>Nombre : diego
+ <br>Apellido : mantovani
+ <br>Cargo : chofer , clarkista , operario
+ <br>Direccion : venezuela
+ <br>Ciudad : avellaneda
+ <br>Telefono : 1134244415
+ <br>Email : lele-22@live.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : les envio mi cv para una futura busqueda laboral 
+ <br>Security_code : sj9q4
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.178.239.137<br>
+ <br>Nombre : diego
+ <br>Apellido : mantovani
+ <br>Cargo : chofer , clarkista , operario
+ <br>Direccion : venezuela
+ <br>Ciudad : avellaneda
+ <br>Telefono : 1134244415
+ <br>Email : lele-22@live.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : les envio mi cv para una futura busqueda laboral 
+ <br>Security_code : 4wwm5
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.7<br>
+ <br>REF : JPER-1
+ <br>Nombre : Diego Leonardo
+ <br>Apellido : Vazquez
+ <br>Cargo : Jefe de Personal
+ <br>Direccion : Avellaneda 1139 Temperley
+ <br>Ciudad : Lomas de Zamora
+ <br>Telefono : 011 1133589078
+ <br>Email : D_vazquez84@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Mi pretensión es de $95 mil brutos + 2 bonos
+ <br>Security_code : Z76dw
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.109.138.231<br>
+ <br>REF : ACO
+ <br>Nombre : emyle
+ <br>Apellido : pinzon 
+ <br>Cargo : asistente 
+ <br>Direccion : lavalle 3916
+ <br>Ciudad : capital federal
+ <br>Telefono : 1123983460
+ <br>Email : emyle_10291@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : me sonsidero una persona responsable y cumplidora, adaptándome a el ambiente de trabajo, dando calidad en lo que hago.
+ <br>Security_code : qxnj6
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.139.26.98<br>
+ <br>REF : ACO-1
+ <br>Nombre : Daniel
+ <br>Apellido : Guastadisegno
+ <br>Cargo : Analista comercio internacional
+ <br>Direccion : Pedernera 540 1°B
+ <br>Ciudad : CABA
+ <br>Telefono : 11 44070474
+ <br>Email : guastad@yahoo.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Adjunto mi cv para que sea tomado en cuenta en su búsqueda de referencia.
+ <br>Security_code : dhq44
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.47.136.238<br>
+ <br>REF : EP-1
+ <br>Nombre : Solexy Samary
+ <br>Apellido : Quilarque Aguilera
+ <br>Cargo : ENCARGADO DE PRODUCCIÓN
+ <br>Direccion : Acevedo 125
+ <br>Ciudad : CABA
+ <br>Telefono : 1524070139
+ <br>Email : squilarque@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Saludos cordiales, soy profesional en la parte alimentaria con experiencia en manejo de control de calidad, producción y logística por mas de 8 años, desenvolviéndome ampliamente y con orientación al logro de los objetivos.
+ <br>Security_code : 3zspy
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.95.168.151<br>
+ <br>REF : JPER-1
+ <br>Nombre : Alvaro Gustavo
+ <br>Apellido : BUSTELO MENENDEZ
+ <br>Cargo : JPER-1
+ <br>Direccion : CERRITO 2944
+ <br>Ciudad : MUNRO , VTE LOPEZ
+ <br>Telefono : 1144165453
+ <br>Email : bustelo343@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados tambien cuento con carta de recomendacion de el presidente de la empresa
+ <br>Security_code : rhfvx
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.95.168.151<br>
+ <br>Nombre : ALVARO GUSTAVO
+ <br>Apellido : BUSTELO MENENDEZ
+ <br>Cargo : JPER-1 Y OPERATIVO
+ <br>Direccion : CERRITO 2944
+ <br>Ciudad : MUNRO , VTE LOPEZ
+ <br>Telefono : 1144165453
+ <br>Email : bustelo343@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : a vuestra disposicion
+ <br>Security_code : yzjys
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.92.244.198<br>
+ <br>REF : SP-1
+ <br>Nombre : Luis
+ <br>Apellido : Bizgarra
+ <br>Cargo : supervisor
+ <br>Direccion : Hudson 2120
+ <br>Ciudad : San martin
+ <br>Telefono : 1133831673
+ <br>Email : luisbizgarra@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Experiencia en producción, GMP, TPM, 5S. 
+ <br>Security_code : bhqzb
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.193.16.191<br>
+ <br>Nombre : FABIAN FEDERICO 
+ <br>Apellido : FERNANDEZ 
+ <br>Cargo : Tecnico electronico y eléctrico 
+ <br>Direccion : Suipacha 360
+ <br>Ciudad : Ramos Mejia
+ <br>Telefono : 1565280989
+ <br>Email : fefefe10@hotmail.com 
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : En busqueda de un nuevo desafio laboral 
+ <br>Security_code : mfch7
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.125.90.85<br>
+ <br>REF : JPER-1
+ <br>Nombre : Anibal
+ <br>Apellido : Aballe
+ <br>Cargo : JPER-1
+ <br>Direccion : Fitz Roy 2489
+ <br>Ciudad : Ciudad Autónoma de Buenos Aires
+ <br>Telefono : 47754877
+ <br>Email : anibalaballe@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Srs SEBGON:
+Adjunto mi CV para ser tenido en cuenta en la búsqueda de la referencia. Como observará, en mi carrera como profesional de RRHH he ejercido funciones de Jefe de área en distintas empresas regidas por el CCT de la Alimentación. De considerar que mi perfilprofesional se ajusta a los requerimientos del puesto a cubrir, me encuentro a su disposición para coordonar una entrevista personal cuando lo estime oportuno. Respecto a mis pretensiones de remuneración, se encuentran en el orden de los $40.000 brutos mensuales. 
+Atte
+Anibal Aballe
+ <br>Security_code : Kfm93
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.125.90.85<br>
+ <br>REF : JPER-1
+ <br>Nombre : Anibal
+ <br>Apellido : Aballe
+ <br>Cargo : JPER-1
+ <br>Direccion : Fitz Roy 2489
+ <br>Ciudad : Ciudad Autónoma de Buenos Aires
+ <br>Telefono : 47754877
+ <br>Email : anibalaballe@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Srs SEBGON:
+Adjunto mi CV para ser tenido en cuenta en la búsqueda de la referencia. Como observará, en mi carrera como profesional de RRHH he ejercido funciones de Jefe de área en distintas empresas regidas por el CCT de la Alimentación. De considerar que mi perfilprofesional se ajusta a los requerimientos del puesto a cubrir, me encuentro a su disposición para coordonar una entrevista personal cuando lo estime oportuno. Respecto a mis pretensiones de remuneración, se encuentran en el orden de los $40.000 brutos mensuales. 
+Atte
+Anibal Aballe
+ <br>Security_code : tj9m9
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.18.2.38<br>
+ <br>Nombre : Delfo
+ <br>Apellido : Fernandez
+ <br>Cargo : Ingeniero Mecánico 
+ <br>Direccion : Acoyte 107 pb 2, caballito, Capital Federal
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 91126600498
+ <br>Email : delfofernandez@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Ingeniero mecánico disponibilidad inmediata 
+ <br>Security_code : 48342
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.125.90.85<br>
+ <br>Nombre : Anibal
+ <br>Apellido : Aballe
+ <br>Cargo : Coordinador/Jefe de RRHH-1
+ <br>Direccion : Fitz Roy 2489
+ <br>Ciudad : Ciudad Autónoma de Buenos Aires
+ <br>Telefono : 4775-4877
+ <br>Email : anibalaballe@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados, envío mi CV para ser evaluado en la búsqueda de jefe de RRHH de industria alimenticia. Como se observa en mi CV, he desempeñado funciones de jefatura de área en empresas industriales regidas por el CCT de la Alimentación. Tal vez ello resulte de interes al momento de evaluar mis aptitudes profesionales. No tengo inconvenientes en coordinar una entrevista personal cuando lo estimen oportuno. El rango salarial se encuentra entre los $30.000/ $40.000 brutos mensuales
+ <br>Security_code : y9c3f
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.192.62.60<br>
+ <br>REF : EP-1
+ <br>Nombre : Gabriela
+ <br>Apellido : Las Heras
+ <br>Cargo : Encargado de produccion
+ <br>Direccion : Las Heras 1239
+ <br>Ciudad : Luján
+ <br>Telefono : 2323522876
+ <br>Email : gabrielalasheras@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Soy estudiante avanzada de Ing en Alimentos y me encuentro en búsqueda laboral. Me interesan las propuestas en las que pueda adquirir conocimientos y poner en práctica mis habilidades. Me considero capacitada para este puesto. 
+ <br>Security_code : wqxyy
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 200.115.205.10<br>
+ <br>Nombre : javier jose
+ <br>Apellido : cacioli
+ <br>Cargo : chofer
+ <br>Direccion : jose marti
+ <br>Ciudad : temperley
+ <br>Telefono : 42457135
+ <br>Email : javierjc69@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola , me considero responsable , puntual y educado
+ <br>Security_code : qpgf3
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 200.115.205.10<br>
+ <br>Nombre : javier jose
+ <br>Apellido : cacioli
+ <br>Cargo : chofer
+ <br>Direccion : jose marti
+ <br>Ciudad : temperley
+ <br>Telefono : 42457135
+ <br>Email : javierjc69@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola , me considero responsable , puntual y educado
+ <br>Security_code : qpgf3
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 200.115.205.10<br>
+ <br>Nombre : javier jose
+ <br>Apellido : cacioli
+ <br>Cargo : chofer
+ <br>Direccion : jose marti
+ <br>Ciudad : temperley
+ <br>Telefono : 42457135
+ <br>Email : javierjc69@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola , me considero responsable , puntual y educado
+ <br>Security_code : w6fgv
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.95.107.116<br>
+ <br>REF : JPER-1
+ <br>Nombre : Luis
+ <br>Apellido : Araujo
+ <br>Cargo : Jefe de Personal
+ <br>Direccion : Antezana 37 PB C
+ <br>Ciudad : Capital Federal
+ <br>Telefono : 1157259939
+ <br>Email : relaclabor@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas tardes.
+Habiéndome notificado la posibilidad de cubrir la vacante de referencia, cumplo en remitirles mi CV.
+Aguardo su comunicación para precisar detalles de su interés.
+
+Saludos cordiales,
+
+Lic. Luis Araujo
+ <br>Security_code : nsq4r
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 200.68.112.161<br>
+ <br>REF : ACO-1
+ <br>Nombre : Oscar 
+ <br>Apellido : Maldonado
+ <br>Cargo : Analista Comercio Internacional
+ <br>Direccion : Güemes 2261, piso 4, depto 4B
+ <br>Ciudad : San Martin, Buenos Aires
+ <br>Telefono : 1163681543
+ <br>Email : omaldonado91@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas tardes, 
+Remito el siguiente CV para su consideración. Agradecido de antemano por su atención.
+
+Oscar Maldonado
+ <br>Security_code : r27qw
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.138.34.188<br>
+ <br>REF : EP-1
+ <br>Nombre : Sebastian
+ <br>Apellido : Tokashiki
+ <br>Cargo : ENCARGADO DE PRODUCCIÓN
+ <br>Direccion : Av Ader
+ <br>Ciudad : Boulogne
+ <br>Telefono : 1538080410
+ <br>Email : sebas_toka@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas tardes. Me interesa mucho el puesto. Dejo adjuntado mi CV con una carta de presentación. Espero ser tenido en cuenta, solo quiero una posibilidad para demostrar mi capacidad. Desde ya muchas gracias por su tiempo.
+Saludos
+Sebastian
+ <br>Security_code : n8smm
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.166.151.116<br>
+ <br>Nombre : Walter Ezequiel
+ <br>Apellido : Alavila
+ <br>Cargo : Ingeniero Civil
+ <br>Direccion : Justo José de Urquiza 4750
+ <br>Ciudad : caseros
+ <br>Telefono : 0293215636117
+ <br>Email : ezequielalavila@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Ingeniero Civil
+ <br>Security_code : x3cvr
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.175.143.177<br>
+ <br>Nombre : Mayra
+ <br>Apellido : Salinas
+ <br>Cargo : Vendedora
+ <br>Direccion : Bestoso 2553
+ <br>Ciudad : Mar del Plata
+ <br>Telefono : 4813221
+ <br>Email : maii-salinas@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Búsqueda laboral
+ <br>Security_code : pykft
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.46.128.112<br>
+ <br>Nombre : Jose Antonio
+ <br>Apellido : Iacovelli
+ <br>Cargo : Vendedor
+ <br>Direccion : Zapiola
+ <br>Ciudad : La tablada
+ <br>Telefono : 44417727
+ <br>Email : jose_iacovelli@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Ganas de desarrollar y mejorar los conosimientos
+ <br>Security_code : rsc3k
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.45.160.173<br>
+ <br>REF : chr
+ <br>Nombre : fernando ariel
+ <br>Apellido : montenegro
+ <br>Cargo : chofer
+ <br>Direccion : ferraroty 437
+ <br>Ciudad : monte grande
+ <br>Telefono : 20861664
+ <br>Email : guadalupe18lu@hotmail.coml
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : cuento con total disponibilidad
+ <br>Security_code : 85s37
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.176.129.34<br>
+ <br>Nombre : Claudio Daniel
+ <br>Apellido : Lebrero
+ <br>Cargo : Tecnico electrico
+ <br>Direccion : Emilio de Alvear 4884
+ <br>Ciudad : CABA
+ <br>Telefono : 1560957164
+ <br>Email : claudiolebrero@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Ajunto mi CV desde ya muchas gracias.
+ <br>Security_code : mf2tb
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.2.5.237<br>
+ <br>REF : chr
+ <br>Nombre : Omar Angel
+ <br>Apellido : magallanes
+ <br>Cargo : chofer de reparto
+ <br>Direccion : 3 marias 56
+ <br>Ciudad : san miguel
+ <br>Telefono : 1168400793
+ <br>Email : omagallanes@hotmail.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : tengo mucha experiencia lo quiero implementar en su empresa    gracias
+ <br>Security_code : 8qjqt
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.2.5.237<br>
+ <br>REF : chr
+ <br>Nombre : Omar Angel
+ <br>Apellido : magallanes
+ <br>Cargo : chofer de reparto
+ <br>Direccion : 3 marias 56
+ <br>Ciudad : san miguel
+ <br>Telefono : 1168400793
+ <br>Email : omagallanes@hotmail.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : tengo mucha experiencia lo quiero implementar en su empresa    gracias
+ <br>Security_code : 8qjqt
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.2.5.237<br>
+ <br>REF : chr
+ <br>Nombre : Omar Angel
+ <br>Apellido : magallanes
+ <br>Cargo : chofer de reparto
+ <br>Direccion : 3 marias 56
+ <br>Ciudad : san miguel
+ <br>Telefono : 1168400793
+ <br>Email : omagallanes@hotmail.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : tengo mucha experiencia lo quiero implementar en su empresa    gracias
+ <br>Security_code : s9mhq
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.17.179.88<br>
+ <br>REF : ACO
+ <br>Nombre : LILIANA
+ <br>Apellido : GIACOBBE
+ <br>Cargo : Asistente Comercial
+ <br>Direccion : Arce 807
+ <br>Ciudad : Caba
+ <br>Telefono : 15 5044 5044
+ <br>Email : liliana.giacobbe@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Aguardo la posibilidad de que me concedan una entrevista. Muchas gracias
+ <br>Security_code : fvfmg
+ <br>Send : Enviar
+ <br>
+---------------
+

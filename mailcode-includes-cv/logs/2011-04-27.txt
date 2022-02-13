@@ -1,0 +1,50 @@
+Address : 201.235.219.70
+Nombre : Natali Yanet
+Apellido : Ferraro
+Cargo : Administracion,Atencion al cliente, Telefonista, Secretaria.
+Direccion : olvarria 3919
+Ciudad : tres de febrero
+Telefono : 15-5185-3546
+Email : yanet.ferraro1@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola estoy en busca de empleo. Soy una persona dinamica,proactiva y con ganas de trabajar. 
+Espero tener repuesta.
+Desde ya muchas gracias.
+
+Natali
+Security_code : 5ymn2
+Send : Enviar
+
+---------------
+
+Address : 201.231.88.63
+Nombre : Sofia
+Apellido : Faga
+Cargo : Psicóloga
+Direccion : Wheelwrigt 1831 piso 15
+Ciudad : Rosario (sta fe)
+Telefono : 0341-155839076
+Email : licsofiafaga@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola mi nombre es Sofia Faga, soy Psicóloga, les envio mi CV para que me tengan en cuenta para cualquier busqueda que se adecue a mi perfil. Desde ya muchas gracias. Sofia Faga
+Security_code : b3t56
+Send : Enviar
+
+---------------
+
+Address : 190.179.161.238
+REF : tecnico-de-mantenimiento
+Nombre : mario jorge
+Apellido : Estalles
+Cargo : OPERARIO DE MANTENIMIENTO
+Direccion : javier morales 2231 godoy cruz
+Ciudad : mendoza
+Telefono : 155746971
+Email : nala27@hot mail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : mi proposito es pertenecer a dicha empresa ,para cumplir con el objetibo del empleador
+Security_code : vg4z8
+Send : Enviar
+
+---------------
+

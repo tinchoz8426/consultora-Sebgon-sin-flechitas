@@ -1,0 +1,112 @@
+Address : 186.57.199.169
+REF : jefe-de-operaciones
+Nombre : Lucas Gabriel 
+Apellido : Coria 
+Cargo : Operario
+Direccion : Crovara 6000
+Ciudad : Ciudad Evita 
+Telefono : 11 22 24 81 04 
+Email : mata_matadeross@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Quiero trabajar urgente! 
+Security_code : z5dr6 
+Send : Enviar
+
+---------------
+
+Address : 186.140.72.29
+Nombre : sergio
+Apellido : Valenzuela
+Cargo : Auxiliar en seguridad e higiene
+Direccion : 4 de marzo 1047
+Ciudad : Buenos Aires
+Telefono : 1144045065
+Email : srg.valenzuela@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estoy cursando el ultimo año de seruridad e higiene, con muchas ganas dde trabajar y aprender.
+Security_code : c56m9
+Send : Enviar
+
+---------------
+
+Address : 190.172.5.97
+Nombre : Norma Elizabeth
+Apellido : Silva Duarte
+Cargo : Recepcionista
+Direccion : Rivadavia 1167 1A
+Ciudad : Caba
+Telefono : 43839876
+Email : duarteelizabethe@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenos Aires, 28 de Febrero  de 2013
+ 
+RRHH .De mi mayor consideración:
+ 
+Tengo el agrado de dirigirme a Ud. a fin de acercarle mi CV que adjunto en la presente, para eventuales búsquedas acordes a mi perfil.
+ 
+Me presento como una persona activa, responsable, con iniciativa propia, creativa, flexible, orientada al logro de resultados, capacitada para trabajo bajo presión, y a la resolución y evolución constante en las tareas asignadas. 
+ 
+La experiencia laboral me ha enseñado a priorizar las tareas en función de la urgencia o importancia que tienen, además de saber trabajar en equipo y ayudar a los demás en su trabajo.
+ 
+Durante mis estudios y experiencias laborales he aprendido a trabajar fluidamente con Windows 98 / 2000 / XP / Vista, Word, Excel (2003 y 2007), Internet, y Outlook Express.
+Asimismo tengo conocimientos en liquidación de sueldos y Cargas de planillas Horarias en sistemas particulares y conocimientos contables, administrativos y legales.
+ 
+Pongo en su conocimiento, que estoy en condiciones de asumir la responsabilidad de un empleo en forma inmediata. El objetivo que me he impuesto, es el de formar parte del personal de una empresa prestigiosa y confiable.
+ 
+Saludos cordiales 
+ 
+Norma Elizabeth Silva Duarte
+
+Security_code : nx6wy
+Send : Enviar
+
+---------------
+
+Address : 190.172.5.97
+Nombre : Norma Elizabeth
+Apellido : Silva Duarte
+Cargo : Recepcionista
+Direccion : Rivadavia 1167 1A
+Ciudad : Caba
+Telefono : 43839876
+Email : duarteelizabethe@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenos Aires,28 DE FEBRERO de 2013
+ 
+RRHH De mi mayor consideración:
+ 
+Tengo el agrado de dirigirme a Ud. a fin de acercarle mi CV que adjunto en la presente, para eventuales búsquedas acordes a mi perfil.
+ 
+Me presento como una persona activa, responsable, con iniciativa propia, creativa, flexible, orientada al logro de resultados, capacitada para trabajo bajo presión, y a la resolución y evolución constante en las tareas asignadas. 
+ 
+La experiencia laboral me ha enseñado a priorizar las tareas en función de la urgencia o importancia que tienen, además de saber trabajar en equipo y ayudar a los demás en su trabajo.
+ 
+Durante mis estudios y experiencias laborales he aprendido a trabajar fluidamente con Windows 98 / 2000 / XP / Vista, Word, Excel (2003 y 2007), Internet, y Outlook Express.
+Asimismo tengo conocimientos en liquidación de sueldos y Cargas de planillas Horarias en sistemas particulares y conocimientos contables, administrativos y legales.
+ 
+Pongo en su conocimiento, que estoy en condiciones de asumir la responsabilidad de un empleo en forma inmediata. El objetivo que me he impuesto, es el de formar parte del personal de una empresa prestigiosa y confiable.
+ 
+Saludos cordiales 
+ 
+Norma Elizabeth Silva Duarte
+
+Security_code : 62367
+Send : Enviar
+
+---------------
+
+Address : 186.130.206.157
+Nombre : noelia
+Apellido : cano
+Cargo : secretaria
+Direccion : bonifacio 1216 dto 3
+Ciudad : capital federal
+Telefono : 1549398859
+Email : noelia.a.cano@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : busco un trabajo que sea part time
+Security_code : 53tmv
+Send : Enviar
+
+---------------
+

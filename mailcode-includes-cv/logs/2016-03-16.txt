@@ -1,0 +1,160 @@
+Address : 190.2.98.192
+Nombre : Iván G
+Apellido : Gargulinski
+Cargo : Abogado
+Direccion : Catamarca 2164 PB D
+Ciudad : Rosario
+Telefono : 0341- 153807430
+Email : ivangargulinski@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : De mi mayor consideración:
+
+Tengo el agrado de dirigirme  a usted con el objeto de adjuntarle mi curriculum vitae buscando ser incluido en la base de datos de vuestra entidad por si se produjera alguna vacante acorde a mi perfil profesional.
+
+Vale destacar que poseo titulo de Abogado y que tengo conocimientos de idioma inglés y herramientas informáticas. Soy una persona proactiva y con capacidad para formar parte de un equipo de trabajo. Agradezco la gentileza de su atención y aprovecho esta oportunidad para saludarlo cordialmente
+
+Security_code : 9wvbx
+Send : Enviar
+
+---------------
+
+Address : 181.174.201.66
+Nombre : milton
+Apellido : sanchez
+Cargo : produccion /mantenimiento
+Direccion : padre luis varvello 3347
+Ciudad : moreno
+Telefono : 0237-4632256
+Email : milton_tw73@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : me interesa el puesto de tecnico mecánico en la industria tabacalera de merlo, considero que reúno el perfil buscado por la compania, soy técnico electromecánico egresado y actualmente estoy cursando la carrera de ingeniería electrónica en la universidad de moreno
+Security_code : 655fb
+Send : Enviar
+
+---------------
+
+Address : 181.174.201.66
+Nombre : milton
+Apellido : sanchez
+Cargo : produccion /mantenimiento
+Direccion : padre luis varvello 3347
+Ciudad : moreno
+Telefono : 0237-4632256
+Email : milton_tw73@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : me interesa el puesto de tecnico mecánico en la industria tabacalera de merlo, considero que reúno el perfil buscado por la compania, soy técnico electromecánico egresado y actualmente estoy cursando la carrera de ingeniería electrónica en la universidad de moreno
+Security_code : 655fb
+Send : Enviar
+
+---------------
+
+Address : 190.18.159.75
+Nombre : Belén
+Apellido : Cepeda
+Cargo : Responsable de Programador de la Producción
+Direccion : Av. Luis María Campos 250
+Ciudad : CABA
+Telefono : 1566597462
+Email : cepedabelen@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buen día, adjunto mi CV para participar de sus procesos de selección.
+Saludos y muchas gracias.
+Belén
+Security_code : 9f4wz
+Send : Enviar
+
+---------------
+
+Address : 152.168.153.62
+Nombre : Marisa
+Apellido : González
+Cargo : Licenciada en nutrición
+Direccion : Diaz Velez 897
+Ciudad : Paraná
+Telefono : 0343-154150242
+Email : maruu.agonzalez@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola, soy licenciada en nutrición recibida en la Universidad Adventista del Plata, vivo en Paraná, E.R y actualmente estoy en busca de trabajo 
+Security_code : 89ncm
+Send : Enviar
+
+---------------
+
+Address : 190.17.55.90
+REF : RTC
+Nombre : Anderson Julian
+Apellido : Martinez Remolina
+Cargo : Representante Técnico Comercial
+Direccion : Soldado de la Independencia 531
+Ciudad : Buenos Aires
+Telefono : 1164123846
+Email : martinezremolina@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buen Día
+
+Cuento con más de tres años de experiencia como representante técnico de las empresas Clariant y Nalco, prestando asesorias técnicas a los procesos, atendiendo las solicitudes de los clientes, desarrollando la cuenta en búsqueda de incrementar las ventas
+Security_code : dzwxt
+Send : Enviar
+
+---------------
+
+Address : 181.26.87.114
+Nombre : Alejandro Martin
+Apellido : Ocampo
+Cargo : Oficina tecnica
+Direccion : Gorrion 2936
+Ciudad : Rafael Calzada
+Telefono : 1536618816
+Email : martin-redondo@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Como maestro mayor de obras y estudiante avanzado de Arquitectura, cuento con experiencia en tareas de oficina técnica y de obra.
+Security_code : rct7w
+Send : Enviar
+
+---------------
+
+Address : 24.232.181.31
+Nombre : Valentina 
+Apellido : Fuenamyor Niebla
+Cargo : Marketing digital
+Direccion : Lope de Vega 2951
+Ciudad : Capital Federal
+Telefono : 1168652662
+Email : valentinafuenmayrorniebla@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Envío y mi CV.
+Security_code : djtqv
+Send : Enviar
+
+---------------
+
+Address : 181.229.87.106
+Nombre : Maria Ines 
+Apellido : De Gante Mora 
+Cargo : arquitecto 
+Direccion : Santiago del Estero 
+Ciudad : Capital Federal 
+Telefono : 43047145
+Email : mioddie_degante@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : buen dia 
+Security_code : 5nnky
+Send : Enviar
+
+---------------
+
+Address : 181.229.87.106
+Nombre : Maria Ines 
+Apellido : De Gante Mora 
+Cargo : arquitecto 
+Direccion : Santiago del Estero 
+Ciudad : Capital Federal 
+Telefono : 43047145
+Email : mioddie_degante@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : buen dia 
+Security_code : fz79g
+Send : Enviar
+
+---------------
+

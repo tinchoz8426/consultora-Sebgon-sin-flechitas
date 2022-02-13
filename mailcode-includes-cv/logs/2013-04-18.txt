@@ -1,0 +1,126 @@
+Address : 190.12.113.244
+Nombre : Ricardo
+Apellido : Sánchez Dillon
+Cargo : Gerente
+Direccion : 11 n° 2051 entre 511 y 512
+Ciudad : La Plata
+Telefono : 11-15-4194-5875
+Email : ricardo.sanchezdillon@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : OBJETIVO PROFESIONAL
+Contribuir al desarrollo y crecimiento de las organizaciones aportando mis ideas y conocimientos permanentemente, basados en la responsabilidad, honestidad y trabajo en equipo, procurando entender y atender las necesidades sociales, económicas y culturales que requieran ser satisfechas con soluciones concretas y diferentes, lo cual traerá aparejado el progreso en mi profesión.
+
+
+
+FORTALEZAS
+•	Orientación al Cliente
+•	Capacidad Organizativa
+•	Trabajo en Equipo
+•	Planificación Estratégica
+•	Gestión Administrativa
+•	Responsabilidad y Honestidad
+•	Liderazgo y Orden
+
+Security_code : qg6v2
+Send : Enviar
+
+---------------
+
+Address : 181.16.27.74
+Nombre : Camila
+Apellido : Grossi
+Cargo : Secretaria - Recepcionista - Analista en Recursos Humanos
+Direccion : Entre rios 126
+Ciudad : Bella Vista. San Miguel
+Telefono : 1534179261 / 46660352
+Email : cami.grossi@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Oriento a la búsqueda de  una organización en la cual haya buen clima laboral y posibilidades de progreso.
+Security_code : 529444
+Send : Enviar
+
+---------------
+
+Address : 181.16.27.74
+Nombre : Camila
+Apellido : Grossi
+Cargo : Secretaria - Recepcionista - Analista en Recursos Humanos
+Direccion : Entre rios 126
+Ciudad : Bella Vista. San Miguel
+Telefono : 1534179261 / 46660352
+Email : cami.grossi@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Oriento a la búsqueda de  una organización en la cual haya buen clima laboral y posibilidades de progreso.
+Security_code : 529444
+Send : Enviar
+
+---------------
+
+Address : 181.16.27.74
+Nombre : Camila
+Apellido : Grossi
+Cargo : Secretaria - Recepcionista - Analista en Recursos Humanos
+Direccion : Entre rios 126
+Ciudad : Bella Vista. San Miguel
+Telefono : 1534179261 / 46660352
+Email : cami.grossi@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Oriento a la búsqueda de  una organización en la cual haya buen clima laboral y posibilidades de progreso.
+Security_code : 52944
+Send : Enviar
+
+---------------
+
+Address : 181.16.27.74
+Nombre : Camila
+Apellido : Grossi
+Cargo : Secretaria - Recepcionista - Analista en Recursos Humanos
+Direccion : Entre rios 126
+Ciudad : Bella Vista. San Miguel
+Telefono : 1534179261 / 46660352
+Email : cami.grossi@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Oriento a la búsqueda de  una organización en la cual haya buen clima laboral y posibilidades de progreso.
+Security_code : q6ty6
+Send : Enviar
+
+---------------
+
+Address : 186.59.78.31
+Nombre : victor horacio
+Apellido : quiroga
+Cargo : administrativo
+Direccion : valenzuela varas 6105(oeste)- rivadavia
+Ciudad : san juan
+Telefono : 2646600853
+Email : soy-yo86@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : postular me a las vacantes que se presenten y desarrollarme correctamente
+Security_code : 3y6b6
+Send : Enviar
+
+---------------
+
+Address : 181.31.3.10
+Nombre : Gonzalo
+Apellido : de la Campa
+Cargo : Recursos Humanos
+Direccion : Mercedes 4737
+Ciudad : Capital Federal
+Telefono : 1158167639
+Email : gdelacampa@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenas tardes,
+
+Envío mi CV para las búsquedas laborales que se adapten a mi perfil.
+
+En este momento estoy cursando tercer año de Recursos Humanos y tengo 6 años y medio de experiencia laboral en varios puestos en MercadoLibre.com
+
+Referencias a su disposición.
+
+Saludos.
+Security_code : 3jfck
+Send : Enviar
+
+---------------
+

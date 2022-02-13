@@ -1,0 +1,15 @@
+Address : 190.176.233.71
+Nombre : Maria Laura
+Apellido : Castillo
+Cargo : atencion al publico, recepcionista ventas administracion
+Direccion : santa fe 657
+Ciudad : Trelew
+Telefono : 2804678161
+Email : marandrid@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : hola quiero postularme para trabajos en atención al publico, recepcionista, ventas y administración. Tengo muy buen trato con las personas, soy dinámica .
+Security_code : t9c3z
+Send : Enviar
+
+---------------
+

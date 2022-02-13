@@ -1,0 +1,15 @@
+Address : 190.107.114.226
+Nombre : Mario Alejandro
+Apellido : Rotella
+Cargo : Jefatura
+Direccion : Rioja 671
+Ciudad : San Luis
+Telefono : 0266154223729
+Email : alerotella@yahoo.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados, soy Ingeniero Industrial, les dejo mi CV para que me tengan en cuenta en vuestras ofertas laborales. Atte.
+Security_code : 56nsm
+Send : Enviar
+
+---------------
+

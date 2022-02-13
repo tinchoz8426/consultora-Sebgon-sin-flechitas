@@ -1,0 +1,54 @@
+Address : 186.56.229.229
+Nombre : Lapuente
+Apellido : Nadia Gisele
+Cargo : Empleada administrativa / Recepcionista
+Direccion : Paso de Los Patos 680.
+Ciudad : Merlo
+Telefono : 0220-4826017
+Email : nadialapuente@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : De mi mayor consideración:
+                                    Tengo el agrado de dirigirme a Ud. con el fin de transmitirle mi deseo en firme de incorporarme a su organización. A tal efecto adjunto, junto al presente, mi CV. Me presento como una persona activa, responsable, creativa, flexible, orientada al logro de resultados y a la resolución y evolución constante en las tareas asignadas.
+                                     Además de los datos que surgen de mi CV, quiero hacerle saber cuánto me interesaría poder expandir mi experiencia laboral. El objetivo que me impuse es el de formar parte del personal de una empresa prestigiosa, confiable y con proyectos ambiciosos y poder ir aprendiendo los aspectos que conforman cualquier trabajo que se me asigne. Asímismo pretendo una remuneración entre los $2500 a $3000.
+                                     Si fuera necesario podría acercarme personalmente para cualquier consulta adicional o entrevista personal. Solo tiene que comunicarse al teléfono: 15-55772118 o por mail: nadialapuente@hotmail.com.
+                                     Pongo, además, en su conocimiento que estoy en condiciones de asumir la responsabilidad de este empleo en forma inmediata, y con amplia disponibilidad de horarios.
+                                    Quedando a la espera de su respuesta, me despido atte.
+ 
+ 
+                                     Nadia Gisele Lapuente.
+Security_code : zmb2b
+Send : Enviar
+
+---------------
+
+Address : 190.191.246.160
+Nombre : Carolina
+Apellido : Randado
+Cargo : Relaciones Públicas
+Direccion : Tte. Gral Perón 4310 - 2ºA
+Ciudad : Ciudad Autónoma de Buenos Aires
+Telefono : +541159322387
+Email : carorandado@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje :   Quisiera me tengan en cuenta en búsquedas acordes a mi perfil.
+  Desde ya muchas gracias,
+Security_code : xyky3
+Send : Enviar
+
+---------------
+
+Address : 190.19.156.69
+Nombre : Martin Diego
+Apellido : Caretti
+Cargo : Comunicacion
+Direccion : dixon 2851
+Ciudad : Saenz Peña
+Telefono : 011 1548030297
+Email : carettimartin@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados, me gustaria ser tenido en cuenta para las postulaciones que soliciten un comunicador social y marketing para desarrollar tareas en las diferentes areas acordes a mi cv.
+Security_code : cn8xx
+Send : Enviar
+
+---------------
+

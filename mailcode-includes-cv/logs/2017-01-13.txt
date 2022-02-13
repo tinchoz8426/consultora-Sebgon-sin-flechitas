@@ -1,0 +1,196 @@
+Address : 190.172.29.120<br>
+ <br>Nombre : pamela
+ <br>Apellido : Miqueleiz
+ <br>Cargo : Pasante de Ingeniería Química
+ <br>Direccion : Bravard 805
+ <br>Ciudad : bahia blanca
+ <br>Telefono : 0291-155062755
+ <br>Email : pamelamiqueleiz@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Dado que aún soy estudiante de Ingeniería química, faltándome los últimos finales  para finalizar, mi objetivo es poder llevar a cabo la Práctica Profesional Supervisada (PPS) con el fin de poner en práctica los conocimientos adquiridos durante mis estudios universitarios y poder completar mi formación profesional.
+Cuento con la disponibilidad de vivir en otro lugar y con la predisposición para trabajar en turnos rotativos si la posición lo requiere. 
+
+ <br>Security_code : vn6gb
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.25.240.109<br>
+ <br>REF : ACO-1
+ <br>Nombre : Xavier Ignacio
+ <br>Apellido : Guerrero
+ <br>Cargo : Analista de comercio exterior
+ <br>Direccion : Chacabuco 362
+ <br>Ciudad : Monte grande
+ <br>Telefono : 1536162782
+ <br>Email : xavierignacioguerrero@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me postulo para el aviso de referencia ACO-1. Soy licenciado en comercio internacional, con un posgrado en practica profesional aduanera. 
+Poseo ingles avanzado. 
+Me gusta trabajar solo, aunque tambien me se desenvolver en trabajos de grupo. 
+Soy proactivo, y tengo muchas ganas de trabajar de mi profesion, y aprender mucho mas sobre ella.
+ <br>Security_code : 2yxr6
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.18.160.84<br>
+ <br>REF : ROT-1
+ <br>Nombre : OSWALDO
+ <br>Apellido : SALAZAR
+ <br>Cargo : Dibujante/Diseñador Autocad
+ <br>Direccion : Amenabar 922, CABA
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : +54 1170010511
+ <br>Email : oswaldosmoncricket@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Soy Dibujante y diseñador Arquitectonico, me encargué de mi propio emprendimiento en el rubro Hotelero. En  este Proyecto estuve a cargo del diseño de toda la estructura arquitectónica, interior y exterior. Hice el cronograma de la dirección y organización del área Operativa y Administrativa. Expandí el hotel Abriendo un restaurante (Tejado Jazz Restobar), donde estuve encargado de cubrir todo el servicio de alimentos y bebidas de los Huéspedes. Como se refleja en mi CV, cumplí con todos mis Objetivos y cuento con las herramientas que pueda Plantearme cualquier tipo de Empresa tanto en el Ramo Turístico Hotelero o Arquitectónico.
+ <br>Security_code : 3b9s3
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.22.2.93<br>
+ <br>REF : ROT-1
+ <br>Nombre : Luis
+ <br>Apellido : Stivanello
+ <br>Cargo : responsable de oficina tecnica
+ <br>Direccion : Quiroz 2285
+ <br>Ciudad : Ituzaingo
+ <br>Telefono : 1554982792
+ <br>Email : luisstiv@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Interes por el empleo
+ <br>Security_code : 9wjwr
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.18.145.133<br>
+ <br>Nombre : Sebastian Carlos
+ <br>Apellido : Naccas
+ <br>Cargo : Presentación Espontánea
+ <br>Direccion : Vera 781 4to A
+ <br>Ciudad : Capital Federal
+ <br>Telefono : 15 6931-4863
+ <br>Email : snaccas@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimado Departamento de RRHH:
+
+Me complace contactarle para presentarme y acercarle mis antecedentes para su consideración, y manifestarle mi interés en participar en los procesos de selección que vuestra consultora realiza.
+
+Soy ingeniero químico egresado de la Universidad de Buenos Aires y cuento con una extensa experiencia de más de 12 años en empresas multinacionales, desarrollando funciones en áreas técnicas con un fuerte enfoque en aspectos comerciales del negocio y con una gran vocación de servicio al cliente.
+
+Tengo como objetivo profesional ocupar posiciones de responsabilidad estratégica en áreas técnico-comerciales preferentemente en empresas de consumo masivo, químicas, Oil & Gas, de servicios, ingeniería e incluso de tecnología. Mi búsqueda se orienta tanto a empresas multinacionales como nacionales.
+
+Le agradezco de antemano su atención y quedo a su disposición para ampliar cuanta información estimen necesaria.
+
+ 
+Atentamente,
+
+ 
+Sebastián Naccas
+ <br>Security_code : 3g9k6
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.13.3.141<br>
+ <br>REF : ACO-1
+ <br>Nombre : Rocco 
+ <br>Apellido : Guglielmi 
+ <br>Cargo : ACO-1
+ <br>Direccion : Juncal 1971
+ <br>Ciudad : C.A.B.A
+ <br>Telefono : 0342-155239390
+ <br>Email : Roccoguglielmi@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Postulacion para analista COMEX
+ <br>Security_code : 3th62
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.175.122.26<br>
+ <br>REF : ACO-1
+ <br>Nombre : Cristian
+ <br>Apellido : Herrera
+ <br>Cargo : ANALISTA DE COMERCIO INTERNACIONAL/EXTERIOR 
+ <br>Direccion : Dr. Marcos Paz 1246
+ <br>Ciudad : Marcos Paz
+ <br>Telefono : 1544138311
+ <br>Email : cristian.1980@hotmail.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : A quien corresponda envió mi CV para el puesto de la publicación WEB
+ <br>Security_code : t8nx6
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.166.158.159<br>
+ <br>REF : ROT-1
+ <br>Nombre : JAVIER EDUARDO
+ <br>Apellido : MACHNIS
+ <br>Cargo : RESPONSABLE DE OFICINA TECNICA 
+ <br>Direccion : Leonismo Argentino 3166
+ <br>Ciudad : Caseros
+ <br>Telefono : 15-6-367-9002
+ <br>Email : jemachnis@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Conociendo la actividad a la que se dedica su empresa y viendo que responde a mis intereses profesionales, me pongo en contacto con Uds. Para hacerles llegar mi Curriculum Vitae ya que estoy buscando nuevas oportunidades profesionales.
+ <br>Security_code : wr66w
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.166.158.159<br>
+ <br>Nombre : JAVIER EDUARDO
+ <br>Apellido : MACHNIS
+ <br>Cargo : POSTULACIÓN ESPONTÁNEA
+ <br>Direccion : Leonismo Argentino 3166
+ <br>Ciudad : Caseros
+ <br>Telefono : 15-6-367-9002
+ <br>Email : jemachnis@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : .
+ <br>Security_code : 7vnzh
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.46.178.191<br>
+ <br>REF : ACO-1
+ <br>Nombre : SERGIO LUIS
+ <br>Apellido : FARIOLI
+ <br>Cargo : ANALISTA DE COMERCIO EXTERIOR
+ <br>Direccion : formosa 1834
+ <br>Ciudad : LANUS (CP=1824)
+ <br>Telefono : 0139691160
+ <br>Email : sergiofarioli@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me postulo como analista de Comercio exterior, ademas de ser Contador publico
+ <br>Security_code : zcqgt
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 200.125.105.241<br>
+ <br>Nombre : Georgea
+ <br>Apellido : Martins
+ <br>Cargo : Postulación espontánea
+ <br>Direccion : Intendente Dastugue, 2638
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 541123214702
+ <br>Email : gdasilvamartins@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados,
+Me dirijo a ustedes a fin de de hacerles conocer mi curriculum vitae.Estoy buscando un trabajo acorde a las necesidades que requiere su empresa y estoy segura de poder cumplir sus expectativas.
+Mis datos personales figuran adjuntos en el curriculum.
+Sin mas y a la espera de su favorable respuesta a fin de conocernos personalmente y obtener una entrevista para que puedan evaluar la calidad de mi labor,los saludo muy atentamente.
+
+Muchas Gracias.
+ <br>Security_code : z83mv
+ <br>Send : Enviar
+ <br>
+---------------
+

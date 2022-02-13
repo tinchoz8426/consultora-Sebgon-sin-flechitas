@@ -1,0 +1,60 @@
+Address : 190.176.169.215
+Nombre : MAURICIO NICOLAS
+Apellido : CATALDO
+Cargo : repositor
+Direccion : villanueva,guaymallen
+Ciudad : mendoza
+Telefono : 4210303
+Email : mauri_nico_23@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : hola queria decirles que estoy en la busqueda de repositor(prioridad)o cualquier otro ...muchas gracias
+Security_code : ry568
+Send : Enviar
+
+---------------
+
+Address : 190.176.169.215
+Nombre : MAURICIO NICOLAS
+Apellido : CATALDO
+Cargo : repositor
+Direccion : villanueva,guaymallen
+Ciudad : mendoza
+Telefono : 4210303
+Email : mauri_nico_23@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : hola queria decirles que estoy en la busqueda de repositor(prioridad)o cualquier otro ...muchas gracias
+Security_code : ry568
+Send : Enviar
+
+---------------
+
+Address : 190.48.145.239
+Nombre : MAURO GONZALO 
+Apellido : MARECO
+Cargo : OPERARIO
+Direccion : QUEQUEN 616
+Ciudad : MERLO
+Telefono : 1531295805
+Email : MGM_TRABAJO@LIVE.COM
+MAX_FILE_SIZE : 2097152
+Mensaje : HOLA MI NOMBRE ES MAURO.ME CONSIDERO UNA PERSONA RESPONSABLE,DONDE TRABAJE CREO DE MI PARTE Q SIEMPRE DEJE TODO DE MI.NECESITO EL EMPLEO COMO CUALQUIER CIUDADANO.MUCHAS GRACIAS SALUDOS!!
+Security_code : NJVBZ
+Send : Enviar
+
+---------------
+
+Address : 190.48.145.239
+Nombre : MAURO GONZALO 
+Apellido : MARECO
+Cargo : OPERARIO
+Direccion : QUEQUEN 616
+Ciudad : MERLO
+Telefono : 1531295805
+Email : MGM_TRABAJO@LIVE.COM
+MAX_FILE_SIZE : 2097152
+Mensaje : HOLA MI NOMBRE ES MAURO.ME CONSIDERO UNA PERSONA RESPONSABLE,DONDE TRABAJE CREO DE MI PARTE Q SIEMPRE DEJE TODO DE MI.NECESITO EL EMPLEO COMO CUALQUIER CIUDADANO.MUCHAS GRACIAS SALUDOS!!
+Security_code : NJVBZ
+Send : Enviar
+
+---------------
+

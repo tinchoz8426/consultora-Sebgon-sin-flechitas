@@ -1,0 +1,12 @@
+Address : 186.59.179.61
+Nombre : blanca beatriz 
+Apellido : pincen
+Empresa : recursos humanos
+Telefono : 02214742601
+Email : leonaplatense@hotmail.com
+Mensaje : hola me comunico con ustedes para preguntar x el puesto de trabajo de vendedores y vendedoras,xq me quiero postular y no puedo ingresar mi curriculum queria saber como puedo hacer para lleverlo personalmente muchas gracias
+Security_code : 93xr5
+Send : Enviar
+
+---------------
+

@@ -1,0 +1,60 @@
+Address : 190.55.209.5<br>
+ <br>Nombre : Juan Ignacio 
+ <br>Apellido : Urquiza
+ <br>Cargo : Programador trainee
+ <br>Direccion : Comodoro Rivadavia 3390
+ <br>Ciudad : Avellaneda
+ <br>Telefono : 1156462032
+ <br>Email : jurquiza622@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Mi nombre es Juan, tengo 28 años y estoy en búsqueda de mi primer rol oomo programador. 
+ <br>Security_code : 9dc3t
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 152.169.169.150<br>
+ <br>Nombre : Florencia Yael
+ <br>Apellido : Novelli Ortega
+ <br>Cargo : -
+ <br>Direccion : Zapiola 1530
+ <br>Ciudad : Avellaneda
+ <br>Telefono : 1127432006
+ <br>Email : novelliflorencia@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola me llamo Florencia y te dejo mi curriculum
+ <br>Security_code : y53bv
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.23.10.14<br>
+ <br>Nombre : Luis Ivan 
+ <br>Apellido : Cocabia Parra
+ <br>Cargo : Seguridad Corporativa
+ <br>Direccion : Gregorio de Laferrere 5978
+ <br>Ciudad : Ciudad Autónoma de Buenos Aires
+ <br>Telefono : 1124076812
+ <br>Email : luiscocabia@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : siempre pro activo, emprender nuevos, conocimientos, atento y responsable con las operaciones laborales
+ <br>Security_code : jnnkq
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.23.10.14<br>
+ <br>Nombre : Luis Ivan 
+ <br>Apellido : Cocabia Parra
+ <br>Cargo : Seguridad Corporativa
+ <br>Direccion : Gregorio de Laferrere 5978
+ <br>Ciudad : Ciudad Autónoma de Buenos Aires
+ <br>Telefono : 1124076812
+ <br>Email : luiscocabia@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : siempre pro activo, emprender nuevos, conocimientos, atento y responsable con las operaciones laborales
+ <br>Security_code : qk428
+ <br>Send : Enviar
+ <br>
+---------------
+

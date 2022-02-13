@@ -1,0 +1,267 @@
+Address : 66.102.8.154
+REF : TECME
+Nombre : Carlos
+Apellido : Aguirre
+Cargo : Fresador.. Tornero... Aguj de radiales
+Direccion : Los pinos 2784
+Ciudad : Longchamps
+Telefono : 1553311985
+Email : carua19ca@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados: me llamó Carlos Aguirre me encuentro desocupado... Estoy en busca de trabajo....me adapto a cualquier puesto de trabajo
+Security_code : Yrfzj
+Send : Enviar
+
+---------------
+
+Address : 66.102.8.154
+Nombre : Carlos
+Apellido : Aguirre
+Cargo : Mantenimiento... Clarkista
+Direccion : Los pinos 2784
+Ciudad : Longchamps
+Telefono : 1553311985
+Email : carua19ca@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados: nesecito trabajar ...soy el único sostén de mi familia... Gracias 
+Security_code : Hp4nh
+Send : Enviar
+
+---------------
+
+Address : 190.190.65.210
+Nombre : victor hugo 
+Apellido : gomez
+Cargo : tecnico mecanico
+Direccion : jose Hernandez 4728
+Ciudad : munro
+Telefono : 03541590116
+Email : victorio_gomez@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : adjunto cv para consideracion.
+experiencia en industria metalurgica y automotriz.
+Security_code : tbxkb
+Send : Enviar
+
+---------------
+
+Address : 186.23.57.120
+Nombre : Rodrigo
+Apellido : Elola Beitia
+Cargo : Asistente de comercio exterior
+Direccion : Calle moreno 1954
+Ciudad : CABA
+Telefono : 1157996074
+Email : elolabeitiarodrigo@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Amplia experiencia en seguimiento y asesoramiento sobre comercio exterior. Perfil comercial, me interesa la economía, análisis financieros, mercado de capitales y finanzas corporativas. Entre mis virtudes, puedo decir que soy expeditivo, y dinámico. Me adapto rápidamente a los cambios.
+Security_code : mv4zk
+Send : Enviar
+
+---------------
+
+Address : 191.83.20.212
+REF : SE.BIL
+Nombre : María Victoria
+Apellido : Blanco
+Cargo : Secretaria bilingüe
+Direccion : 41 n.º 1842
+Ciudad : La Plata
+Telefono : 0221 155473411
+Email : blancomvic@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Mi nombre es María Victoria Blanco y soy Traductora en inglés. Si bien desde hace años me dedico de manera independiente a la traducción, me encuentro en la búsqueda de un empleo estable.
+
+Soy una persona capaz, con buena presencia y predisposición para aprender y desempeñar cualquier tipo de tarea, ya sea administrativa o de atención al público. Poseo amplios conocimientos de manejo de PC, internet y demás recursos informáticos.
+
+Quedo a disposición para responder cualquier inquietud y a la espera de una respuesta favorable.
+
+Atentamente,
+M. Victoria Blanco
+Security_code : 7tmn3
+Send : Enviar
+
+---------------
+
+Address : 190.105.108.41
+REF : GTEP
+Nombre : Gustavo, Andrés
+Apellido : Liporace
+Cargo : Gerente de Planta 
+Direccion : C. Puch 1000
+Ciudad : Pilar
+Telefono : 02323-15540015
+Email : galiporace@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados, adjunto mi cv. a fin de se considerado en la búsqueda para Gerente de Planta.
+Quedo a vuestra disposición ante cualquier duda o aclaración.
+Cordialmente
+Ing. Liporace Gustavo A.
+Security_code : 3b78b
+Send : Enviar
+
+---------------
+
+Address : 190.105.108.41
+REF : GTEP
+Nombre : Gustavo, Andrés
+Apellido : Liporace
+Cargo : Gerente de Planta 
+Direccion : C. Puch 1000
+Ciudad : Pilar
+Telefono : 02323-15540015
+Email : galiporace@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados, adjunto mi cv. a fin de se considerado en la búsqueda para Gerente de Planta.
+Quedo a vuestra disposición ante cualquier duda o aclaración.
+Cordialmente
+Ing. Liporace Gustavo A.
+Security_code : 3b78b
+Send : Enviar
+
+---------------
+
+Address : 190.105.108.41
+REF : GTEP
+Nombre : Gustavo, Andrés
+Apellido : Liporace
+Cargo : Gerente de Planta 
+Direccion : C. Puch 1000
+Ciudad : Pilar
+Telefono : 02323-15540015
+Email : galiporace@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados, adjunto mi cv. a fin de se considerado en la búsqueda para Gerente de Planta.
+Quedo a vuestra disposición ante cualquier duda o aclaración.
+Cordialmente
+Ing. Liporace Gustavo A.
+Security_code : 3dttw
+Send : Enviar
+
+---------------
+
+Address : 190.122.213.180
+Nombre : Damaris Belen
+Apellido : Roldan
+Cargo : Tecnica en seguridad e higiene
+Direccion : Las Lilas 1195
+Ciudad : Merlo
+Telefono : 011-1564377198
+Email : damarisroldan0@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenas tardes
+
+Mi nombre es Damaris, soy técnica en seguridad e higiene, cuento con matricula vigente
+Adjunto mi CV por cualquier oportunidad laboral que pueda surjir.
+Saludos.
+Security_code : 2s289
+Send : Enviar
+
+---------------
+
+Address : 190.17.193.42
+REF : E.DIS
+Nombre : samanta
+Apellido : Rosemberg
+Cargo : junior
+Direccion : av. san martin 2718
+Ciudad : Capital Federal
+Telefono : 1563571005
+Email : smirosa@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me gustaría ser considerada para el puesto
+Security_code : bwmcw
+Send : Enviar
+
+---------------
+
+Address : 191.82.213.148
+Nombre : cristian
+Apellido : brito
+Cargo : oficial cableador
+Direccion : salvador maria del carril n 32 este
+Ciudad : pocito
+Telefono : 2645269322
+Email : ese.agus.tim@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Resido en san juan disponibilidad de viajar inmediata
+Security_code : b924p
+Send : Enviar
+
+---------------
+
+Address : 190.18.35.116
+Nombre : Gonzalo
+Apellido : Douglas Price
+Cargo : Ventas
+Direccion : Vedia 3564
+Ciudad : Ciudad Autónoma de Buenos Aires
+Telefono : 1564003892
+Email : gonzalodouglasprice@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Muchas gracias por recibir mi curriculum. Estoy interesado en puestos relacionados al sector de ventas y a los servicios.
+Security_code : xbgkw
+Send : Enviar
+
+---------------
+
+Address : 190.18.35.116
+Nombre : Gonzalo
+Apellido : Douglas Price
+Cargo : Ventas
+Direccion : Vedia 3564
+Ciudad : Ciudad Autónoma de Buenos Aires
+Telefono : 1564003892
+Email : gonzalodouglasprice@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Muchas gracias por recibir mi curriculum. Estoy interesado en puestos relacionados al sector de ventas y a los servicios.
+Security_code : xbgkw
+Send : Enviar
+
+---------------
+
+Address : 190.18.35.116
+Nombre : Gonzalo
+Apellido : Douglas Price
+Cargo : Ventas
+Direccion : Vedia 3564
+Ciudad : Ciudad Autónoma de Buenos Aires
+Telefono : 1564003892
+Email : gonzalodouglasprice@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Muchas gracias por recibir mi curriculum. Estoy interesado en puestos relacionados al sector de ventas y a los servicios.
+Security_code : 5qph7
+Send : Enviar
+
+---------------
+
+Address : 181.169.241.29
+Nombre : Camila
+Apellido : Campodonico
+Cargo : administrativo 
+Direccion : Carlos pellegrini 238
+Ciudad : los polvorines
+Telefono : 1561985245
+Email : camilu.campodonico@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto mi CV para el puesto de administrativa, secretaria, recepcionista y atención al cliente.
+Security_code : 4tjgg
+Send : Enviar
+
+---------------
+
+Address : 186.18.71.191
+Nombre : Pablo
+Apellido : Acosta
+Cargo : Responsable de Programacion de la Produccion
+Direccion : Villa Devoto
+Ciudad : Buenos Aires
+Telefono : 1567074019
+Email : pabloacosta9@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenas tardes tengo experiencia para desempeñar el cargo
+Security_code : ktkfk
+Send : Enviar
+
+---------------
+

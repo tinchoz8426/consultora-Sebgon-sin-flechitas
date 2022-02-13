@@ -1,0 +1,15 @@
+Address : 190.172.232.83
+Nombre : Nicolas
+Apellido : Ianniccari
+Cargo : Cadete, operario 
+Direccion : Rafael Amato 1486
+Ciudad : Palomar, Este
+Telefono : 44430340
+Email : nico_ianniccari@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Aqui les dejo mi Cv para que puedan  observar mi perfil, desde ya muchas gracias.
+Security_code : gxnk9
+Send : Enviar
+
+---------------
+

@@ -1,0 +1,65 @@
+Address : 
+Nombre : Carolina
+Apellido : Gorostiaga
+Cargo : Organizadora/asistente de eventos
+Direccion : Larrea 2310
+Ciudad : Moreno
+Telefono : 011-15-45260592
+Email : carogorostiaga@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenas tardes, mi nombre es Carolina Gorostiaga y queria dejarles mi CV para que me tuvieran en cuenta al momento de buscar personal para eventos. Estoy interesada de poder trabajar en una consultora de eventos corporativos y con muchas ganas de aprender y de crecer profesionalmente. 
+Muchas gracias
+
+ATTE.
+Carolina Gorostiaga
+Security_code : jyyqq
+Send : Enviar
+
+---------------
+
+Address : 
+REF : Gerente-de-Administracion-y-Finanzas
+Nombre : JORGE LUIS
+Apellido : FESTI
+Cargo : GERENTE
+Direccion : ALFREDO PALACIOS 2317
+Ciudad : VALENTIN ALSINA - LANUS
+Telefono : 4228-1827/1551830356
+Email : colosansrl@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : adjunto CV
+Security_code : khwrh
+Send : Enviar
+
+---------------
+
+Address : 
+Nombre : celina
+Apellido : madueño
+Cargo : recepcionista atencion al cliente
+Direccion : pedernera
+Ciudad : buenos aires
+Telefono : 1564487355
+Email : celymadu@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : recepcionista
+Security_code : c9nnq
+Send : Enviar
+
+---------------
+
+Address : 
+Nombre : Jorge Augusto
+Apellido : Soria
+Cargo : Abogado
+Direccion : Int. L. E. Ferrere 790
+Ciudad : San Vicente - Pcia. Buenos Aires
+Telefono : (02225)482065
+Email : jasoria@mail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Les envío mi CV a fin de ofrecer mis servicios.
+Security_code : hmhhg
+Send : Enviar
+
+---------------
+

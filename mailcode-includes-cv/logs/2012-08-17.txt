@@ -1,0 +1,86 @@
+Address : 190.139.110.122
+Nombre : JUAN JOSE
+Apellido : VALLES
+Cargo : JEFE DE VENTAS
+Direccion : 27 DE ABRIL 3886
+Ciudad : CORDOBA
+Telefono : 0351-156150752
+Email : vallesjj@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : en la actualidad estoy trabajando pero es de mi interes buscar otras oportunidades de trabajo que me permitan mas crecimiento
+Security_code : n2sfn
+Send : Enviar
+
+---------------
+
+Address : 190.177.209.128
+REF : jefe-de-operaciones
+Nombre : alejandra maria 
+Apellido : schwindt
+Cargo : jefe-de-operaciones
+Direccion : tomas valle 5028
+Ciudad : gonzalez catan
+Telefono : 011 15 37903117
+Email : amsfenix@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : pido se tenga en cuenta mi cv para alguna oferta laboral gracias atentamente  Schwindt
+Security_code : jphkm
+Send : Enviar
+
+---------------
+
+Address : 181.14.126.211
+Nombre : gisela
+Apellido : mastronunzio
+Cargo : psicologa
+Direccion : el payador 5573
+Ciudad : villa bosch
+Telefono : 1536434195
+Email : lic.mastronunzio@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : poseo consultorio propio en villa bosch, habilitado por el colegio de psicologos
+Security_code : ygrpm
+Send : Enviar
+
+---------------
+
+Address : 186.22.201.253
+Nombre : Claudia Gabriela
+Apellido : Codella
+Cargo : Secretaria Bilingüe
+Direccion : Olegario Andrade 362 Dpto. B /
+Ciudad : Remedios de Escalada
+Telefono : 2067 7063
+Email : claucodella@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Tengo experiencia laboral de mas de 20 años en puestos similares al buscado.
+Security_code : cckwy
+Send : Enviar
+
+---------------
+
+Address : 190.48.97.40
+Nombre : Julián
+Apellido : Di Bellonia
+Cargo : Comunicación / Periodismo
+Direccion : Lisandro de la Torre 533
+Ciudad : Ciudad Autónoma de Buenos Aires
+Telefono : 46412796
+Email : jadb@live.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados,
+
+Mi nombre es Julián Di Bellonia, tengo 21 años, y estoy cursando el último cuatrimestre de la Licenciatura en Ciencias de la Comunicación en la Universidad Argentina de la Empresa.
+
+Tengo una importante experiencia profesional en los medios de comunicación que me gustaría aportar. 
+
+Soy el conductor de Buen día, día, programa que se emite los domingos por la mañana en Radio Splendid AM 990 (archivo de entrevistas: http://www.youtube.com/buendiadia990). Además, fui conductor durante dos años del programa Punto Medio por AM 1280 (archivo de entrevistas: http://www.youtube.com/puntomedio1280) y también me desempeñé en AM 570, 670, 1540 y FM 102.7.
+
+En gráfica, trabajé en la producción digital del diario La Nación y en la página web de Pasión Paternal, medio partidario de Argentinos Juniors (archivo personal en  http://www.pasionpaternal.com.ar/author/julian-di-bellonia).
+	
+Les envío mi CV y saludo atentamente,
+Security_code : hrpqx
+Send : Enviar
+
+---------------
+

@@ -1,0 +1,30 @@
+Address : 66.249.85.28<br>
+ <br>Nombre : Laura Karina
+ <br>Apellido : Chauque
+ <br>Cargo : Administración
+ <br>Direccion : BARRIO MARTIN GUEMES MANZAna 7 CASA 57 RETIRO
+ <br>Ciudad : Capital federal- Retiro
+ <br>Telefono : 1565713562
+ <br>Email : chauque8711@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Busco un empleo donde pueda crecer profesionalmente y humanamente, donde podamos beneficiarnos mutuamente.
+ <br>Security_code : Ddqvg
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.47.139.158<br>
+ <br>Nombre : Lautaro
+ <br>Apellido : Tiveron
+ <br>Cargo : Tecnico en Seguridad e Higiene
+ <br>Direccion : Fournier, 3056
+ <br>Ciudad : G.de Laferrere
+ <br>Telefono : 1159465810
+ <br>Email : lautarotiveron15@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Persona responsable iniciandose en la mundo laboral con objetivo de alcanzar un tarea que me permita creecer en este oficio, del cual me recibi.
+ <br>Security_code : xm5nk
+ <br>Send : Enviar
+ <br>
+---------------
+

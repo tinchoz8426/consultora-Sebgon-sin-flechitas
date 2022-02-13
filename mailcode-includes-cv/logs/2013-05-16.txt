@@ -1,0 +1,16 @@
+Address : 190.51.106.224
+REF : administrativa-compras
+Nombre : Erika Lourdes
+Apellido : Becker
+Cargo : administrativa-compras
+Direccion : miro 2692 Villa Luzuriaga
+Ciudad : Buenos Aires
+Telefono : 1565701222
+Email : erlubeck@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Me postulo para el puesto requerido. Espero me tengan en cuenta para una entrevista. Muchas gracias, Erika Becker.
+Security_code : xfrw8
+Send : Enviar
+
+---------------
+

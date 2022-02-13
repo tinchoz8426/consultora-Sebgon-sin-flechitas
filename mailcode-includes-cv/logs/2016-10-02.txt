@@ -1,0 +1,30 @@
+Address : 181.23.61.135<br>
+ <br>Nombre : gabriel
+ <br>Apellido : Stescovich
+ <br>Cargo : empleado, operador, escaneador
+ <br>Direccion : sarmiento 3969
+ <br>Ciudad : capital federal
+ <br>Telefono : 48615925
+ <br>Email : gabriel.stescovich@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Poseo estudios en diseño y experiencia en armado y reparacion de pc en un microemprendimiento con otro socio
+ <br>Security_code : x78wb
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 179.39.9.220<br>
+ <br>Nombre : Carolina Florencia
+ <br>Apellido : Torrez
+ <br>Cargo : Recepcionista, Cadeta administrativa.
+ <br>Direccion : Coronel Aguilar 4036
+ <br>Ciudad : Lanús
+ <br>Telefono : 1533821186
+ <br>Email : carotorrezjobs@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola, estoy buscando empleo y me gustaría ser parte de su empresa.
+ <br>Security_code : j4c2t
+ <br>Send : Enviar
+ <br>
+---------------
+

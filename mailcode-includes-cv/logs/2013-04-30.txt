@@ -1,0 +1,32 @@
+Address : 190.229.105.116
+Nombre : Paola Cecilia
+Apellido : Difulvio
+Cargo : Administrativo
+Direccion : Bª Huaico Mza 523 C -casa6
+Ciudad : Salta
+Telefono : 387-155310649
+Email : paonby@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Envió por esta vía mis datos personales y experiencias laborales, así de esta manera poder entrar dentro de la lista de posible postulante a trabajo que Uds. requieran. Desde ya les agradezco su atención. Saludos cordiales.  
+Paola Difulvio
+
+Security_code : 7rvrb
+Send : Enviar
+
+---------------
+
+Address : 190.115.57.214
+Nombre : Leonel 
+Apellido : Carranza
+Cargo : distribuidor,mensajeria
+Direccion : barrio 4 de julio,manzana E casa 40
+Ciudad : mendoza
+Telefono : 153846343
+Email : latorda58@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Responsable y buena presencia 
+Security_code : bxfxj
+Send : Enviar
+
+---------------
+

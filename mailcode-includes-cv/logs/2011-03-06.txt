@@ -1,0 +1,15 @@
+Address : 190.137.220.215
+Nombre : Laura
+Apellido : Palavecino
+Cargo : Selector de Personal
+Direccion : Racedo 1080
+Ciudad : Salta
+Telefono : 0387-4254701
+Email : laurapalavecino@live.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto mi curriculum, aclarando que aunque no tengo aún el título universitario, he finalizado el cursado de las materias correspondientes a la Lic. en Psicología; y sería de mi agrado adquirir experiencia en el área Laboral. Solicito a Uds. tengan a bien tenerlo en cuenta. Saludos.
+Security_code : zgwmf
+Send : Enviar
+
+---------------
+

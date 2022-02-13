@@ -1,0 +1,90 @@
+Address : 190.179.179.53
+REF : adper
+Nombre : Maria Cecilia
+Apellido : Storniolo Squintone
+Cargo : Administrador de personal
+Direccion : Tucuman 1166 sur
+Ciudad : San Juan
+Telefono : 0264- 155428427
+Email : mariaceciliastorniolo@yahoo.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me pongo en contacto con ustedes para ofrecerles mi currículum con mis datos personales,  profesionales y otros datos de interés, por si necesita cubrir, ahora o en un futuro próximo, el puesto de encargado de  personal.
+
+Tengo muchos deseos de trabajar y  una gran perspectivas de crecimiento. Como pueden observar estoy especializándome.
+Estoy dispuesta a seguir aprendiendo y puedo aportar nuevas ideas y frescura a la empresa.
+
+
+Estoy a su entera disposición, esperando sus noticias.
+
+Un cordial saludo
+
+Security_code : 34stj
+Send : Enviar
+
+---------------
+
+Address : 186.58.30.66
+Nombre : santyiago david
+Apellido : serrano
+Cargo : repositor, graficas.otras
+Direccion : sta catalina 5136
+Ciudad : laferrere
+Telefono : 1569535785
+Email : santiago_david@live.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : busco trabajo acorde con mis conocimientos.
+Security_code : xdsv3
+Send : Enviar
+
+---------------
+
+Address : 190.174.0.49
+Nombre : Valeria Agustina
+Apellido : Roldán
+Cargo : Trabajadora Social
+Direccion : Pino 2173
+Ciudad : Haedo
+Telefono : 4460-1940//15-5257-5080
+Email : valeriaroldan@aol.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Por medio de la presente envío mi CV para realizar informes socioambientales. 
+Saludo atte.
+Valeria Roldán
+Security_code : h262n
+Send : Enviar
+
+---------------
+
+Address : 186.123.68.34
+Nombre : SABRINA
+Apellido : QUINTERO BLANCO
+Cargo : ASISTENTE SOCIAL
+Direccion : SAN LORENZO 1577
+Ciudad : SAN MARTIN
+Telefono : 1550043552
+Email : quinteroblancosabrina@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : MI POSTULACION ES PARA LA REALIZACION DE INFORMES SOCIOAMBIENTALES.
+Security_code : 5882d
+Send : Enviar
+
+---------------
+
+Address : 190.193.156.5
+Nombre : Daniel
+Apellido : Isola
+Cargo : Gerente Servicio al cliente, Supply Chain
+Direccion : E. Castro 5053
+Ciudad : Capital Federal
+Telefono : 4684-0440
+Email : disola07@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Les envio mi CV con el fin de ser tenido en cuenta en futuras busquedas.
+Saludos Cordiales.
+
+Daniel Isola.
+Security_code : fjrfp
+Send : Enviar
+
+---------------
+

@@ -1,0 +1,63 @@
+Address : 190.195.200.140
+Nombre : Romina
+Apellido : Arriola Sandoval
+Cargo : recepción, atención al cliente
+Direccion : Sarandí 1236
+Ciudad : Capital Federal
+Telefono : 4305-1012
+Email : ro.as1994@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buena Presencia, y  experiencia en ventas al público y atención telefónica al cliente.
+Security_code : 6hbjg
+Send : Enviar
+
+---------------
+
+Address : 190.179.89.172
+Nombre : Ezequiel Alejandro
+Apellido : Reyes
+Cargo : sin eleccion 
+Direccion : Barrio Belgrano Rio Negro 697
+Ciudad : Neuquen
+Telefono : 0299/155274853 - 4460494
+Email : reyes_eze115@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : buscando trabajo
+Security_code : wshqw
+Send : Enviar
+
+---------------
+
+Address : 181.28.235.164
+REF : administrativo-logistica
+Nombre : Hernán 
+Apellido : Vasconi
+Cargo : Administrativo de Logistica
+Direccion : Galvez 954 
+Ciudad : Lanus Este
+Telefono : 156942-7531
+Email : hernan.vasconi@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me encuentro en la busqueda de nuevas oportunidades laborales, en el area de Logistica y Distribución.
+Security_code : vthbc
+Send : Enviar
+
+---------------
+
+Address : 200.43.237.130
+Nombre : Luciana
+Apellido : Gomez
+Cargo : Agente de Propaganda Médica
+Direccion : Simbron 3212
+Ciudad : CABA
+Telefono : 154-054-2365
+Email : lulaluna83@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Mediante el presente envío mi CV para futuras búsquedas laborales. Soy visitadora Médica, poseo movilidad propia y disponibilidad para viajar.
+
+Desde ya muchas gracias.
+Security_code : b9vv7
+Send : Enviar
+
+---------------
+

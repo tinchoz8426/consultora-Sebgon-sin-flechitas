@@ -1,0 +1,344 @@
+Address : 190.194.246.232
+Nombre : Leandro
+Apellido : Trebuq
+Cargo : Administracion de Personal
+Direccion : Jeronimo Salguero  2310
+Ciudad : Capital Federal
+Telefono : 0111555713077
+Email : leandrotrebuq@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Busco trabajar en administracion de personal o trabajos administrativos.
+Security_code : qd39g
+Send : Enviar
+
+---------------
+
+Address : 190.191.81.26
+Nombre : Tatiana
+Apellido : De Tomassi
+Cargo : ayudante. asistente
+Direccion : calle 12 567
+Ciudad : la plata
+Telefono : 2213577976
+Email : tatianadetomassi@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estudiante de 4 año de humanidades, desocupada. disponibilidad horaria y de translado.
+Security_code : yfk24
+Send : Enviar
+
+---------------
+
+Address : 190.9.20.197
+Nombre : gonzalo
+Apellido : pafundi
+Cargo : principiante
+Direccion : josé ingenieros 2370
+Ciudad : mar del plata
+Telefono : 4756484
+Email : gonzalopafundi@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : debido a mi poca experiencia,me encantaria conseguir un espacio de trabajo en donde pueda aplicar mis conocimientos de manera eficaz y poder crecer en el ámbito laboral.
+Security_code : n8ch8
+Send : Enviar
+
+---------------
+
+Address : 181.30.14.122
+Nombre : juan pablo
+Apellido : Gomez
+Cargo : administrativo
+Direccion : rivadavia 3150 
+Ciudad : capital federal
+Telefono : 1568090215
+Email : pablogomez1978@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Envio mi CV para postularme para empleo
+muchas gracias
+Security_code : smg63
+Send : Enviar
+
+---------------
+
+Address : 181.44.200.39
+Nombre : Maria eugenia
+Apellido : Fariña
+Cargo : organizadora de eventos
+Direccion : constitución 2429
+Ciudad : Ramos Mejia
+Telefono : 15-59205572
+Email : maru-fari-a2010@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : hola: me gustaría trabajar con ustedes ya que yo también soy organizadora de eventos recibida en la Universidad de Moron.
+
+
+Security_code : tgwb8
+Send : Enviar
+
+---------------
+
+Address : 181.44.200.39
+Nombre : Maria eugenia
+Apellido : Fariña
+Cargo : organizadora de eventos
+Direccion : constitución 2429
+Ciudad : Ramos Mejia
+Telefono : 15-59205572
+Email : maru-fari-a2010@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : hola: me gustaría trabajar con ustedes ya que yo también soy organizadora de eventos recibida en la Universidad de Moron.
+
+
+Security_code : tgwb8
+Send : Enviar
+
+---------------
+
+Address : 181.44.200.39
+Nombre : Maria eugenia
+Apellido : Fariña
+Cargo : organizadora de eventos
+Direccion : constitución 2429
+Ciudad : Ramos Mejia
+Telefono : 15-59205572
+Email : maru-fari-a2010@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : hola: me gustaría trabajar con ustedes ya que yo también soy organizadora de eventos recibida en la Universidad de Moron.
+
+
+Security_code : b2chc
+Send : Enviar
+
+---------------
+
+Address : 181.44.200.39
+Nombre : Maria eugenia
+Apellido : Fariña
+Cargo : organizadora de eventos
+Direccion : constitución 2429
+Ciudad : Ramos Mejia
+Telefono : 15-59205572
+Email : maru-fari-a2010@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : hola: me gustaría trabajar con ustedes ya que yo también soy organizadora de eventos recibida en la Universidad de Moron.
+
+
+Security_code : b2chc
+Send : Enviar
+
+---------------
+
+Address : 179.63.201.220
+Nombre : macarena
+Apellido : mendoza
+Cargo : camarera-limpieza
+Direccion : ensenada 1040
+Ciudad : merlo
+Telefono : 1166392802
+Email : aymara_sol@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : necesito trabajar de camarera,limpieza o seguridad soy muy responsable
+Security_code : ZCK54
+Send : Enviar
+
+---------------
+
+Address : 179.63.201.220
+Nombre : macarena
+Apellido : mendoza
+Cargo : camarera-limpieza
+Direccion : ensenada 1040
+Ciudad : merlo
+Telefono : 1166392802
+Email : aymara_sol@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : busco trabajo de limpieza,camarera o de seguridad soy muy responsable
+Security_code : 45652
+Send : Enviar
+
+---------------
+
+Address : 200.63.35.25
+Nombre : Victor
+Apellido : Revol
+Cargo : PLC
+Direccion : RIOJA 1178
+Ciudad : SAN LUIS
+Telefono : 2664886828
+Email : vysautomatizacion@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : tengo mucha y muy buena experiencia
+Security_code : 9nbvr
+Send : Enviar
+
+---------------
+
+Address : 200.63.35.25
+Nombre : Victor
+Apellido : Revol
+Cargo : PLC
+Direccion : RIOJA 1178
+Ciudad : SAN LUIS
+Telefono : 2664886828
+Email : vysautomatizacion@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : tengo mucha y muy buena experiencia
+Security_code : 9nbvr
+Send : Enviar
+
+---------------
+
+Address : 200.63.35.25
+Nombre : Victor
+Apellido : Revol
+Cargo : PLC
+Direccion : RIOJA 1178
+Ciudad : SAN LUIS
+Telefono : 2664886828
+Email : vysautomatizacion@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : tengo mucha y muy buena experiencia
+Security_code : dhr8v
+Send : Enviar
+
+---------------
+
+Address : 200.63.35.25
+Nombre : Victor
+Apellido : Revol
+Cargo : PLC
+Direccion : RIOJA 1178
+Ciudad : SAN LUIS
+Telefono : 2664886828
+Email : vysautomatizacion@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : tengo mucha y muy buena experiencia
+Security_code : 9nbvr
+Send : Enviar
+
+---------------
+
+Address : 200.63.35.25
+REF : TECNICO-ELECTRONICO
+Nombre : Victor
+Apellido : Revol
+Cargo : Tecnico - Electronico
+Direccion : Rioja 1178
+Ciudad : San Luis
+Telefono : 2664886828
+Email : vysautomatizacion@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Mucha y muy buena experiencia
+Security_code : n3dtz
+Send : Enviar
+
+---------------
+
+Address : 200.63.35.25
+REF : TECNICO-ELECTRONICO
+Nombre : Victor
+Apellido : Revol
+Cargo : Tecnico - Electronico
+Direccion : Rioja 1178
+Ciudad : San Luis
+Telefono : 2664886828
+Email : vysautomatizacion@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Mucha y muy buena experiencia
+Security_code : n3dtz
+Send : Enviar
+
+---------------
+
+Address : 200.63.35.25
+REF : TECNICO-ELECTRONICO
+Nombre : Victor
+Apellido : Revol
+Cargo : Tecnico - Electronico
+Direccion : Rioja 1178
+Ciudad : San Luis
+Telefono : 2664886828
+Email : vysautomatizacion@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Mucha y muy buena experiencia
+Security_code : 4qk5n
+Send : Enviar
+
+---------------
+
+Address : 200.63.35.25
+REF : TECNICO-ELECTRONICO
+Nombre : Victor
+Apellido : Revol
+Cargo : Tecnico - Electronico
+Direccion : Rioja 1178
+Ciudad : San Luis
+Telefono : 2664886828
+Email : vysautomatizacion@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Mucha y muy buena experiencia
+Security_code : n3dtz
+Send : Enviar
+
+---------------
+
+Address : 200.63.35.25
+REF : TECNICO-ELECTRONICO
+Nombre : Victor
+Apellido : Revol
+Cargo : Tecnico - Electronico
+Direccion : Rioja 1178
+Ciudad : San Luis
+Telefono : 2664886828
+Email : vysautomatizacion@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Mucha y muy buena experiencia
+Security_code : bg2h9
+Send : Enviar
+
+---------------
+
+Address : 200.63.35.25
+Nombre : Victor
+Apellido : Revol
+Cargo : PLC
+Direccion : RIOJA 1178
+Ciudad : SAN LUIS
+Telefono : 2664886828
+Email : vysautomatizacion@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : tengo mucha y muy buena experiencia
+Security_code : y9843
+Send : Enviar
+
+---------------
+
+Address : 186.59.255.35
+Nombre : Ariel Sebastian 
+Apellido : Yurec
+Cargo : responsable en seh
+Direccion : 13 n°3740 
+Ciudad : Berisso
+Telefono : 02214614251
+Email : rusitoyurec@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : muchas gracias!!!
+Security_code : y63n5
+Send : Enviar
+
+---------------
+
+Address : 179.37.206.232
+Nombre : Maria Rosa
+Apellido : Paz
+Cargo : Atencion Al cliente
+Direccion : Misiones Nº 685
+Ciudad : Claypole
+Telefono : 42773884
+Email : mariarosapaz@live.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Busco empleo. 
+Security_code : 8rrf2
+Send : Enviar
+
+---------------
+

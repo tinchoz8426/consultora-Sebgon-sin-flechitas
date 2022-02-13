@@ -1,0 +1,39 @@
+Address : 24.232.36.237
+Nombre : Carlos Alberto
+Apellido : Belaunzaran
+Cargo : Jefe / Supervisor
+Direccion : Hipolito Yrigoyen 3450 5to. C. Torre Virrey
+Ciudad : C.A.B.A.
+Telefono : 1134893882
+Email : carlos.belaunzaran@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados 
+Buenas tardes!
+Me acerco a Uds. con el propósito que conozcan mi interés en participar de una probable inserción laboral que se halle compatible con mi perfil. 
+Adjunto encontrarán mis antecedentes personales y laborales para su amable conocimiento e información. 
+
+Espero encuentren en ellos, una oportunidad de trabajo. 
+
+Cordialmente,
+ 
+Lic. Carlos A. Belaunzarán 
+Security_code : jqwnw
+Send : Enviar
+
+---------------
+
+Address : 186.109.130.116
+Nombre : Gonzalo
+Apellido : Alvarez
+Cargo : Docente
+Direccion : 54 Nª339
+Ciudad : La Plata
+Telefono : 03446 15531076
+Email : gonzalo_alvarez_2@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenas tardes, tengo experiancia comprobable en atencion al publico y en el ambito docente
+Security_code : 2scdr
+Send : Enviar
+
+---------------
+

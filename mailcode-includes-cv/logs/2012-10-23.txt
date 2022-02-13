@@ -1,0 +1,62 @@
+Address : 200.59.236.170
+Nombre : Pablo Gustavo
+Apellido : Roldán
+Cargo : Indistinto
+Direccion : 25 de Mayo 830
+Ciudad : Cipolletti
+Telefono : 0299-155419785
+Email : pablogustavoroldan@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenos días, adjunto mi currículum vitae para que pueda ser incluído en vuestra base de datos. Desde ya muchas gracias. Un cordial saludo
+Security_code : wmpzf
+Send : Enviar
+
+---------------
+
+Address : 200.47.11.100
+Nombre : Diego
+Apellido : Allegue
+Cargo : Abogado
+Direccion : Amenabar 2500
+Ciudad : Capital Federal
+Telefono : 15 5989-9661
+Email : diego.allegue@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me es grato dirigirme a Uds. a fin de hacer una presentación espontánea de mi CV. Soy abogado corporativo, tengo sólida experiencia como abogado in-company y estoy completando mi formación con un MBA. Los datos de mi carrera profesional se encuentran en el CV adjunto. Desde ya, les agradezco por su tiempo y quedo a su entera disposición para ampliar la información contenida en el documento adjunto.
+Los saludo muy coridalmente.
+Diego Allegue
+Security_code : zcys6
+Send : Enviar
+
+---------------
+
+Address : 186.182.185.34
+Nombre : Gustavo
+Apellido : GOMEZ
+Cargo : TORNERO CNC
+Direccion : REMEDIOS DE ESCALADA 6244
+Ciudad : MARTIN CORONADO
+Telefono : 155-576-4367 O 5294-7389
+Email : g_javier-@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenas tardes ,en busqueda de trabajo les envío mi cv,quedando a disposicion para entrevista y/o prueba.Desde ya muchas gracias.
+Security_code : zx6zq
+Send : Enviar
+
+---------------
+
+Address : 190.172.240.243
+Nombre : Sabrina Antonella
+Apellido : Peluso
+Cargo : Administrativa
+Direccion : Villanueva 3317
+Ciudad : Castelar
+Telefono : 1540394111
+Email : sabrina.peluso@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Mi objetivo es crecer profesionalmente, por lo cual, me encuentro en la búsqueda laboral referida a mis estudios.
+Security_code : 4fjvp
+Send : Enviar
+
+---------------
+

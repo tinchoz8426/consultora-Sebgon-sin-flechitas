@@ -1,0 +1,30 @@
+Address : 190.176.202.66
+Nombre : andres
+Apellido : perez
+Cargo : logistica
+Direccion : piedra buena 1369
+Ciudad : bahia blanca
+Telefono : 0291 154467987
+Email : andreshperez@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : les envio mi c.con el objetivo de conseguir trabajo.
+Security_code : qhs92
+Send : Enviar
+
+---------------
+
+Address : 190.190.160.85
+Nombre : FACUNDO
+Apellido : RICCA
+Cargo : ADMINISTRATIVO
+Direccion : FRENCH 4660 
+Ciudad : SANTA FE
+Telefono : 0342-155292479
+Email : FACUS20@HOTMAIL.COM
+MAX_FILE_SIZE : 2097152
+Mensaje : A SU DISPOSICION
+Security_code : KX5WR
+Send : Enviar
+
+---------------
+

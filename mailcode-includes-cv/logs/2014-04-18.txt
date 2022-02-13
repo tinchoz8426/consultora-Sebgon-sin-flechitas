@@ -1,0 +1,60 @@
+Address : 190.227.87.140
+Nombre : Jose Daniel
+Apellido : Lopez
+Cargo : indistinto
+Direccion : Mza 49 Pc 10
+Ciudad : Resistencia- Chaco
+Telefono : 3624-447107  3624-686586
+Email : daanyel_22@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Poseo actitud y buena predisposicion,responsabilidad en el cargo que se me asigne.
+Security_code : 6hxzd
+Send : Enviar
+
+---------------
+
+Address : 190.172.132.3
+Nombre : Gabriel 
+Apellido : Munizaga
+Cargo : Cocinero
+Direccion : Bº Gregorio Alvarez Calle 7 Duplex 611
+Ciudad : Neuquen
+Telefono : 2994246541
+Email : gemunizaga@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Me dirijo a ustedes a fin de solicitarles un puesto.
+Security_code : dbrmg
+Send : Enviar
+
+---------------
+
+Address : 186.23.229.201
+Nombre : Noelia
+Apellido : Ojeda
+Cargo : secretaria
+Direccion : Av. Rivadavia 8639
+Ciudad : Buenos Aires
+Telefono : 1530049182
+Email : noelia.ojeda@outlook.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Remuneración pretendida: $4ooo
+Security_code : fmcjg
+Send : Enviar
+
+---------------
+
+Address : 186.109.247.156
+Nombre : Yael barbara
+Apellido : Tremarco
+Cargo : secretaria en área salud
+Direccion : Pje. Rossini 1935
+Ciudad : Rosario
+Telefono : 543414385843
+Email : yael.92.rc@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola me gustaría trabajar en una institución de salud no tengo experiencia pero estoy dispuesta a aprender, en estos momentos me encuentro sin trabajo, espero que me tengan en cuenta, desde ya muchas gracias, saludos
+Security_code : pxtrz
+Send : Enviar
+
+---------------
+

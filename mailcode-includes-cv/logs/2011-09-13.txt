@@ -1,0 +1,79 @@
+Address : 190.221.56.2
+Nombre : Facundo
+Apellido : Legrás
+Cargo : Supervisor zonal
+Direccion : Santa Fe 2280
+Ciudad : Moreno
+Telefono : 0111532707986
+Email : juanfalegras@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : No me postulo a ningún cargo en particular. Sólo envío mi cv para ser tenido en cuenta en futuras búsquedas.
+Muchas Gracias
+Security_code : 88wkh
+Send : Enviar
+
+---------------
+
+Address : 190.244.13.140
+REF : gerente-de-operaciones
+Nombre : Sandra Alicia
+Apellido : Torres
+Cargo : Jefa/Supervisora at. al cliente
+Direccion : O´higgins 3440 piso 1 Dto "B"
+Ciudad : CABA
+Telefono : 4519-0380
+Email : sandraaliciatorres@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Espero puedan tenerme en cuenta en sus próximas búsquedas. GRACIAS!
+Security_code : vw2py
+Send : Enviar
+
+---------------
+
+Address : 190.192.207.113
+REF : tecnico-de-mantenimiento
+Nombre : CARLOS FEDERICO
+Apellido : ANDREI
+Cargo : GERENTE DE SUCURSAL ENTIDAD FINANCIERA
+Direccion : SALVADOR M DEL CARRIL 2841 P 1 DPTO C
+Ciudad : CAPITAL FEDERAL
+Telefono : 45730707 - 1555015674
+Email : cfandrei@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : me postulo para trabajar en una entidad bancaria como gerente de sucursal
+Security_code : d4dgr
+Send : Enviar
+
+---------------
+
+Address : 186.130.180.206
+Nombre : Anahí
+Apellido : Sampaolesi
+Cargo : Ingeniera para Energias Renovables
+Direccion : Somellera 1247
+Ciudad : Adrogué
+Telefono : 011 4214 2121
+Email : anahisampaolesi@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola, Soy Ingeniera Industrial y termino un master en E. Renovables, les envio mi CV orientada a trabajar en este rubro, energias alternativas y sus derivados. Atte, 
+Anahí 
+Security_code : jqv44
+Send : Enviar
+
+---------------
+
+Address : 186.56.33.18
+Nombre : Valeria
+Apellido : Maza
+Cargo : Cajera, atención al cliente
+Direccion : 420 Nº 1226
+Ciudad : Berazategui
+Telefono : 011-1567190841
+Email : maza.valeria@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : -
+Security_code : zsxgb
+Send : Enviar
+
+---------------
+

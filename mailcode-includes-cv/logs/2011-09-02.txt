@@ -1,0 +1,15 @@
+Address : 186.19.114.244
+Nombre : Fiorella Yanina
+Apellido : Caruso 
+Cargo : Asistente de Recursos Humanos
+Direccion : Boulogne sur mer 520
+Ciudad : la matanza (GBA Oeste)
+Telefono : 1130421592
+Email : fiorecaruso@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenos dias, mi nombre es Fiorella Caruso y estoy interesada en ser parte de su equipo, les adjunto mi C.V a continuación para que tengan en cuenta para futuras búsquedas. Muchas gracias
+Security_code : cv7nc
+Send : Enviar
+
+---------------
+

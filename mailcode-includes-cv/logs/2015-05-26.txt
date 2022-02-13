@@ -1,0 +1,191 @@
+Address : 181.166.14.162
+Nombre : Rodrigo
+Apellido : Arques
+Cargo : Administrativo
+Direccion : 9 nro 1282
+Ciudad : La Plata
+Telefono : (0221) 153169347
+Email : rodrigo.arques@live.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Busco trabajo en la ciudad de La Plata 
+Security_code : 75t8q
+Send : Enviar
+
+---------------
+
+Address : 190.188.194.188
+Nombre : Enzo
+Apellido : Cerolini
+Cargo : Relacionado a rr.hh
+Direccion : Entre Ríos 2271
+Ciudad : Mar del Plata
+Telefono : 0226215580524
+Email : enzocerolini10@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto CV con el motivo de ocupar vacante en Mar del Plata. 
+Security_code : vbbkz
+Send : Enviar
+
+---------------
+
+Address : 181.22.138.147
+Nombre : Maria Solange
+Apellido : Arbizu
+Cargo : ADMINISTRATIVO
+Direccion : Brown 3381
+Ciudad : Mar del Plata
+Telefono : 223 5994759
+Email : solarbizu@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados: Envío por medio del presente mi CV y quedo a su disposición. Saludos cordiales, Ma. Solange Arbizu
+Security_code : 3pkj2
+Send : Enviar
+
+---------------
+
+Address : 190.19.78.240
+Nombre : Marcos Nicolas
+Apellido : Del Cogliano
+Cargo : Empleado Administrativo
+Direccion : Primera Junta 518
+Ciudad : Pcia de Buenos Aires
+Telefono : 1164761818
+Email : mndelcogliano@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Por medio de esta pagina les hago llegar mis datos, con el fin de que se me tenga en cuenta para las bsuquedas laborales
+Security_code : sqd8x
+Send : Enviar
+
+---------------
+
+Address : 190.19.78.240
+Nombre : Marcos Nicolas
+Apellido : Del Cogliano
+Cargo : Empleado Administrativo
+Direccion : Primera Junta 518
+Ciudad : Pcia de Buenos Aires
+Telefono : 1164761818
+Email : mndelcogliano@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Por medio de esta pagina les hago llegar mis datos, con el fin de que se me tenga en cuenta para las bsuquedas laborales
+Security_code : sqd8x
+Send : Enviar
+
+---------------
+
+Address : 190.19.78.240
+Nombre : Marcos Nicolas
+Apellido : Del Cogliano
+Cargo : Empleado Administrativo
+Direccion : Primera Junta 518
+Ciudad : Pcia de Buenos Aires
+Telefono : 1164761818
+Email : mndelcogliano@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Por medio de esta pagina les hago llegar mis datos, con el fin de que se me tenga en cuenta para las bsuquedas laborales
+Security_code : 5638g
+Send : Enviar
+
+---------------
+
+Address : 190.104.214.235
+Nombre : Maia
+Apellido : Alimenti Bel 
+Cargo : Ingeniera Junior
+Direccion : Rincón 157 5A
+Ciudad : Capital Federal
+Telefono : 0291-155030011
+Email : maia.alimenti.bel@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : De mi mayor consideración:
+
+Me dirijo a ustedes, con el objeto de hacerles llegar mi CV para que sea de su consideración a la hora de la selección de puestos de trabajos.
+
+Como podrán comprobar he concluido mis estudios de grados de Ingeniera Civil en la Universidad Nacional del Sur.
+
+Estimo que una entrevista será el marco adecuado para profundizar aspectos de mi perfil que puedan resultar de su interés. 
+
+Sin otro particular y a la espera de una respuesta.
+
+Los saluda muy atte.
+
+Ing. Maia Alimenti Bel 
+
+DNI: 34262833
+Security_code : 3vg5h
+Send : Enviar
+
+---------------
+
+Address : 190.104.214.235
+Nombre : Maia
+Apellido : Alimenti Bel 
+Cargo : Ingeniera Junior
+Direccion : Rincón 157 5A
+Ciudad : Capital Federal
+Telefono : 0291-155030011
+Email : maia.alimenti.bel@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : De mi mayor consideración:
+
+Me dirijo a ustedes, con el objeto de hacerles llegar mi CV para que sea de su consideración a la hora de la selección de puestos de trabajos.
+
+Como podrán comprobar he concluido mis estudios de grados de Ingeniera Civil en la Universidad Nacional del Sur.
+
+Estimo que una entrevista será el marco adecuado para profundizar aspectos de mi perfil que puedan resultar de su interés. 
+
+Sin otro particular y a la espera de una respuesta.
+
+Los saluda muy atte.
+
+Ing. Maia Alimenti Bel 
+
+DNI: 34262833
+Security_code : 3vg5h
+Send : Enviar
+
+---------------
+
+Address : 190.50.178.140
+Nombre : Nicolas
+Apellido : Romano
+Cargo : Cualquiera
+Direccion : Formosa 3042
+Ciudad : Buenos Aires
+Telefono : 44842509
+Email : soii.batta22@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Conseguir logros dentro de la empresa, contribuyendo con mi experiencia profesional, actitud, valores y ética, buscando siempre mejorar en todas las actividades que desarrolle, logrando con ello alcanzar posiciones de mayor responsabilidad y reto. Ofreciendo soluciones de acuerdo a las expectativas de la empresa.
+Security_code : 22g4j
+Send : Enviar
+
+---------------
+
+Address : 181.165.126.48
+Nombre : Ailín
+Apellido : Gerzovich Lis
+Cargo : RR.HH - Comunicación
+Direccion : Colombres 860
+Ciudad : Buenos Aires
+Telefono : 46591958 - 1530207745
+Email : ailin_gl@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Al equipo de Recursos Humanos:
+
+buenas noches, mi nombre es Ailín Gerzovich, tengo 23 años y estoy realizando la tesis para la Licenciatura en Comunicación Social.
+Lo que en esta ocasión me motiva a acercarme a ustedes y enviarles mi cv es mi interés en formar parte de su equipo de trabajo.
+A nivel laboral, mi objetivo actual es adquirir experiencia que me posibilite crecer humana y profesionalmente, para cada vez tener mayores herramientas que me permitan consolidarme como profesional. Hoy me propongo encontrar un espacio donde pueda aprender y al mismo tiempo poner en práctica mis conocimientos, aptitudes, y no quedarme sólo con lo que dice un pergamino... creo que un cv no es más que una carta de presentación y yo quiero  apostar a la acción, a plasmar en hechos lo que en algunas líneas puedo decir que sé.
+Soy una persona sumamente operativa y organizada, buscando siempre estar en el aquí y ahora para definir qué quiero y a dónde pretendo llegar, de modo de no derrochar el tiempo; por eso es que me siento identificada con la frase "Cualquier viento es favorable para quien no sabe a qué puerto se dirige".
+
+Me despido de ustedes entusiasmada en poder avanzar con este contacto.
+
+Desde ya muchas gracias
+
+Atte.
+
+Ailín
+Security_code : h35k7
+Send : Enviar
+
+---------------
+

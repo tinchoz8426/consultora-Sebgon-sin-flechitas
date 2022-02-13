@@ -1,0 +1,34 @@
+Address : 186.143.137.19<br>
+ <br>REF : EP-1
+ <br>Nombre : PAOLA
+ <br>Apellido : VILLAMIZAR
+ <br>Cargo : CONTROL DE CALIDAD
+ <br>Direccion : CHUBUT 1414
+ <br>Ciudad : PILAR
+ <br>Telefono : 1128278475 MOVISTAR
+ <br>Email : VILLAMIZARPAOLA19@.COM
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : En disponibilidad inmediata y deseos de avanzar en los conocimientos dia a dia.Trabajar 100%
+ <br>Security_code : d9wp7
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 179.41.130.246<br>
+ <br>REF : ROT-1
+ <br>Nombre : Marcelo Daniel
+ <br>Apellido : Reitano
+ <br>Cargo : Jefe de Oficina Técnica
+ <br>Direccion : Agrelo 1015
+ <br>Ciudad : Villa Madero
+ <br>Telefono : 1522956787
+ <br>Email : mdreitano@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me interesa la propuesto.
+Ofrezco idoneidad, honestidad y transparencia.
+Cordiales saludos
+ <br>Security_code : tnzrc
+ <br>Send : Enviar
+ <br>
+---------------
+

@@ -1,0 +1,99 @@
+Address : 201.176.4.184
+Nombre : daniel
+Apellido : caceres
+Cargo : operario
+Direccion : humaita 871
+Ciudad : moron
+Telefono : 46450339
+Email : daniel_caceres_2015@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : De mi consideración: 
+
+Es un gusto poder saludarle y hacer contacto con usted, el motivo es presentarme y solicitarle una 
+ oportunidad de trabajo. Me gustaría ser  tomado en cuenta en sus vacantes disponibles. 
+Cuento con experiencia de operario, trabaje en fabrica textil, Me considero proactivo y con capacidad para formar parte de un equipo de trabajo. Soy una persona muy trabajadora, me gusta estar en constante aprendizaje, superando así mis metas y las de la entidad. Quedo a su entera disposición ante una eventual entrevista personal con el objetivo de profundizar aspectos de mi perfil que resulten de su interés. 
+Sin otro particular, aprovecho esta oportunidad para saludarlo.
+
+Atte. Daniel Cáceres. 
+Security_code : wkxjf
+Send : Enviar
+
+---------------
+
+Address : 181.167.151.228
+Nombre : Carla Vanesa
+Apellido : Cerquetti
+Cargo : Administrativa
+Direccion : Jaramillo 2877
+Ciudad : caba
+Telefono : 4702-4804
+Email : carlacerquetti@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenos días, estoy buscando empleo en lo posible en la zona de Nuñez o aledaños.
+Atte.
+Carla Cerquetti
+Security_code : trxjc
+Send : Enviar
+
+---------------
+
+Address : 200.45.177.128
+Nombre : lorena
+Apellido : orieta
+Cargo : atención al publico
+Direccion : cullen 2260
+Ciudad : rosario
+Telefono : 4594295
+Email : lorena_arroyito@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : hola estoy en busqueda de trabajo ,les dejo mi cv .
+Security_code : zj29x
+Send : Enviar
+
+---------------
+
+Address : 181.46.109.172
+Nombre : MARIANA
+Apellido : ROSSI
+Cargo : ADMINISTRATIVO
+Direccion : DELLEPIANE 4384
+Ciudad : CaBA
+Telefono : 1531138658
+Email : marianalrossi@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : .
+Security_code : NGDN3
+Send : Enviar
+
+---------------
+
+Address : 181.25.248.245
+Nombre : juan gabriel 
+Apellido : torres
+Cargo : operario
+Direccion : ameghino 2218
+Ciudad : burzaco
+Telefono : 4238-0974
+Email : gfaith060@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola.espero respuesta.tengo muchas ganas de trabajar
+Security_code : n5p79
+Send : Enviar
+
+---------------
+
+Address : 176.10.104.227
+Nombre : sally
+Apellido : 565800
+Cargo : quEMfIAUoVVghb
+Direccion : eyudfnlothGccAk
+Ciudad : NY
+Telefono : 56725657680
+Email : zork2j3he@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : 1tICZC http://www.FyLitCl7Pf7kjQdDUOLQOuaxTXbj5iNG.com
+Security_code : OXK8UM
+Send : Enviar
+
+---------------
+

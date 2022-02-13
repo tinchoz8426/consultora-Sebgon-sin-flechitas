@@ -1,0 +1,183 @@
+Address : 200.71.226.246
+Nombre : Renata 
+Apellido : Figueroa
+Cargo : Administrativo, Eventos, Marketing
+Direccion : Oro 1274 Ramos Mejia
+Ciudad : Buenos Aires
+Telefono : 1564999355
+Email : rpfigueroa@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Les envio mi cv para que lo tengan en cuenta en caso de presentarse alguna oportunidad laboral. Quedo a disposición para una entrevista.
+Atentamente,
+
+Renata Figueroa
+Security_code : gsh5h
+Send : Enviar
+
+---------------
+
+Address : 190.174.54.186
+Nombre : nicolas
+Apellido : romero
+Cargo : varios
+Direccion : lisandro de la torre
+Ciudad : ituzaingo
+Telefono : 44817966
+Email : frydman-gisela@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : es un agrado averlos encontrado mediante una busqueda insesante de empleo .yo nicolas ofrezco demostrar todo mi potencial estando dispuesto a crecer lavoralmente junto a ustedes. brindandoles mi confianza y mi mayor respeto y sepiedad . desde ya muchas gracias
+Security_code : cqssv
+Send : Enviar
+
+---------------
+
+Address : 186.142.190.198
+Nombre : Romina 
+Apellido : Avigliano 
+Cargo : Recursos Humanos 
+Direccion : Tucuman 3775 5º A 
+Ciudad : Capital Federal 
+Telefono : 153-066-3470
+Email : romina_avigliano@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenos Aires, 18  de Agosto de 2010 
+
+ 
+
+ 
+
+Sres.
+
+Recursos Humanos:
+
+De mi mayor consideración:
+
+ 
+
+ 
+
+Me complace adjuntar para vuestro conocimiento mi experiencia y trayectoria laboral reciente. Al respecto, les agradezco poder ser considerada candidata potencial para el Departamento de Recursos Humanos. 
+
+ 
+
+Como indica mi Curriculo Vitae, adjunto al respecto. 
+
+ 
+
+Muchas Gracias. 
+
+ 
+
+Romina Avigliano 
+
+
+Security_code : kmkc2
+Send : Enviar
+
+---------------
+
+Address : 190.177.161.106
+REF : tecnico
+Nombre : Hector Gustavo
+Apellido : SOSA
+Cargo : cualquiera acorde con ganas de cambiar
+Direccion : Mitre 2113
+Ciudad : Trelew
+Telefono : 02965682873
+Email : gustavo.hs.3@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : si hay una pocivilidad tengo la pocibilidad de pedir 6 meses de licencia en la armada trabajo actual. Gracia
+Security_code : s5ctc
+Send : Enviar
+
+---------------
+
+Address : 190.193.77.203
+Nombre : MARIA EUGENIA
+Apellido : STAFFOLANI
+Cargo : ADMINISTRATIVO
+Direccion : ESPAÑA 1189 - P 6 - D "A"
+Ciudad : ROSARIO
+Telefono : 0341-155697474
+Email : maru_staf@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : De mi mayor consideración: 
+Tengo el agrado de dirigirme a Uds. con el fin de transmitirles mi deseo de incorporarme a su organización. A tal efecto adjunto, junto a la presente, mi CV y poseo carta de recomendación de mi último empleo. 
+Me presento como una persona activa, responsable, creativa, flexible, orientada al logro de resultados y a la resolución y evolución constante en las tareas asignadas. 
+El objetivo que me he impuesto, es el de formar parte del personal de una empresa prestigiosa, confiable y con proyectos ambiciosos.
+Si Uds. lo consideran necesario podría acercarme personalmente para cualquier consulta adicional o entrevista personal. 
+Pongo, además, en su conocimiento que estoy en condiciones de asumir la responsabilidad de cualquier empleo en forma inmediata, y con amplia disponibilidad de horarios. 
+Quedando a la espera de su respuesta. 
+Me despido atte. 
+ 
+María Eugenia Staffolani
+TE: 0341-155697474
+Security_code : y5jw4
+Send : Enviar
+
+---------------
+
+Address : 200.69.242.17
+Nombre : Eugenia
+Apellido : Such
+Cargo : Analista de rrhh
+Direccion : french 2261
+Ciudad : capital federal
+Telefono : 011-1564598601
+Email : mesxx94@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : cv Eugenia Such
+Security_code : bk4m4
+Send : Enviar
+
+---------------
+
+Address : 190.49.193.164
+Nombre : Hernan
+Apellido : Irastorza
+Cargo : Ejecutivo de cuentas
+Direccion : solis 994 2do C
+Ciudad : CAPITAL FEDERAL
+Telefono : 36288778
+Email : hernan.irastorza@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Muchas gracias por recibir mi curriculum. Poseo mas de 10 años en el mercado de bebidas, entre supermercados y on premise.
+Security_code : 3tckb
+Send : Enviar
+
+---------------
+
+Address : 200.126.206.7
+REF : gerente-financiero
+Nombre : Maria Emilia
+Apellido : Rizzo
+Cargo : Gerente Administrativo Financiero
+Direccion : Moreno 3007
+Ciudad : Olavarria
+Telefono : 0291154444330
+Email : emiliarizzo@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Mi nombre es María Emilia Rizzo. Me comunico con ustedes a fin de hacerles llegar mi Curriculum Vitae.
+Soy Licenciada en Administración de Empresas, radicada en la ciudad de Olavarría desde el mes pasado. Una entrevista será el marco adecuado donde pueda profundizar aspectos de mi perfil que resulten de su interés. Pongo, además, en su conocimiento que estoy en condiciones de asumir la responsabilidad de este empleo, con amplia disponibilidad de horarios.
+Security_code : vqcxd
+Send : Enviar
+
+---------------
+
+Address : 200.126.206.7
+REF : adper
+Nombre : Maria Emilia
+Apellido : Rizzo
+Cargo : Administrativo de Personal
+Direccion : Moreno 3007
+Ciudad : Olavarria
+Telefono : 0291154444330
+Email : emiliarizzo@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Mi nombre es María Emilia Rizzo. Me comunico con ustedes a fin de hacerles llegar mi Curriculum Vitae.
+Soy Licenciada en Administración de Empresas, radicada en la ciudad de Olavarría desde el mes pasado. Una entrevista será el marco adecuado donde pueda profundizar aspectos de mi perfil que resulten de su interés. Pongo, además, en su conocimiento que estoy en condiciones de asumir la responsabilidad de este empleo, con amplia disponibilidad de horarios.
+Security_code : gxdwr
+Send : Enviar
+
+---------------
+

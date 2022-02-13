@@ -1,0 +1,33 @@
+Address : 190.51.103.94
+Nombre : Karina Maria
+Apellido : Martinez 
+Cargo : Capacitación y Desarrollo
+Direccion : José María Paz 39
+Ciudad : Ituzaingó
+Telefono : 1536285459
+Email : karina_m_martinez@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Envío mi CV para que me tengan en cuenta para búsquedas relacionadas con el área de capacitación y desarrollo.
+Gracias
+Karina Martinez 
+Security_code : vtmwr
+Send : Enviar
+
+---------------
+
+Address : 190.51.90.59
+REF : gerente-de-operaciones
+Nombre : Marisol
+Apellido : Carrasco
+Cargo : asistente de RRHH Junior
+Direccion : Navarro 2614
+Ciudad : Castelar
+Telefono : 1534783484
+Email : carrasco_marisol@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Soy Licenciada en psicología de la UBA y me interesaría insertarme en el área de RRHH, por lo cual envió aquí mi CV, quedando así a su entera disposicion para cubrir puesto de trabajo que uds consideren se ajuste a mi perfil.Saludo Atte. Muchas Gracias.
+Security_code : cb9c8
+Send : Enviar
+
+---------------
+

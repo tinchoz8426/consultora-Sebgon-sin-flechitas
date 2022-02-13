@@ -1,0 +1,91 @@
+Address : 190.183.137.113
+Nombre : DANIEL
+Apellido : VARGAS
+Cargo : GERENCIA, VENTAS
+Direccion : COLOMBIA 93
+Ciudad : RESISTENCIA
+Telefono : .362 154533427
+Email : sdanielvargas@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : ESPERO QUE ESTE CLARO MI CV, CASO CONTRARIO AGRADECERIA SU COLABORACION PARA MEJORAR. GRACIAS
+Security_code : vvb85
+Send : Enviar
+
+---------------
+
+Address : 186.56.188.96
+Nombre : Gustavo 
+Apellido : Carreras
+Cargo : Pref. en Higiene y Seguridad
+Direccion : Damasco 1424
+Ciudad : F. Varela
+Telefono : 1538692546
+Email : gvcarreras@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Espero poderles ser de utilidad.
+
+Saludos cordiales 
+Security_code : j65dj
+Send : Enviar
+
+---------------
+
+Address : 186.142.124.61
+Nombre : Luis
+Apellido : Suarez
+Cargo : tecnico mantenimiento industrial
+Direccion : Av. Tte. Farias 568
+Ciudad : san salvador de jujuy, jujuy
+Telefono : 3885716335
+Email : luisr_suarez@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : De mi mayor consideración:
+
+Tengo el agrado de dirigirme a Uds. con el fin de transmitirles mi deseo firme de incorporarme a su empresa. A tal efecto adjunto, junto a la presente, mi CV. 
+Mi objetivo principal es incorporarme y desarrollarme en una empresa de calidad, prestigiosa, confiable y con proyectos ambiciosos. Donde pueda crecer en lo profesional y lo personal.
+Me presento como una persona activa, responsable, creativa, flexible, honesta, orientada al logro de resultados y a la resolución y evolución constante en las tareas asignadas.
+Si fuera necesario para cualquier consulta adicional. Solo tiene que comunicarse al teléfono: 0388 4281599 o 3885716335 o por email: luisr_suarez@hotmail.com
+ Pongo, además, en su conocimiento que estoy en condiciones de asumir la responsabilidad el empleo en forma inmediata, y con amplia disponibilidad de horarios. No tengo inconvenientes para viajar, dentro o fuera de la provincia y del país o realizar régimen especial de trabajo.
+Quedando a la espera de su respuesta.
+Me despido atte.
+SUAREZ, LUIS RICARDO
+
+Security_code : bc76b
+Send : Enviar
+
+---------------
+
+Address : 200.45.197.247
+Nombre : Silvia
+Apellido : Prieto
+Cargo : Junior
+Direccion : juncal 2600
+Ciudad : caba
+Telefono : 011 15 68896314
+Email : silprieto87@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Ante quien corresponda,
+Adjunto mi CV ya que estoy muy interesada en participar en su proceso de selección, por lo que quedo a su disposición  para concertar una entrevista y comentar en profundidad mi formación y experiencia. 
+A la espera de sus noticias, se despide atentamente, 
+Silvia Prieto.
+
+Security_code : nxkbj
+Send : Enviar
+
+---------------
+
+Address : 190.190.18.195
+Nombre : Elias
+Apellido : Poublan
+Cargo : chofer 
+Direccion : J.Lagos 1662
+Ciudad : Lanus
+Telefono : 1535424121
+Email : eliaspoublan@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Gracias por recibir mi curriculum. Estoy buscando trabajo de chofer u operario, espero q me puedan ayudar ya q necesito trabajar y tengo muy buena predisposicion ya sea con horarios como con el aprendizaje, gracias por su colaboracion nuevamente y saludos cordiales.
+Security_code : 7w7tg
+Send : Enviar
+
+---------------
+

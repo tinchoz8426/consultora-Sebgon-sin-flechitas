@@ -1,0 +1,31 @@
+Address : 190.226.129.175
+Nombre : GERARDO FABIAN
+Apellido : LARRAHONA
+Cargo : TEC HIG Y SEGURIDAD LABORAL
+Direccion : Mna B CASA 15 - Bº POLICIAL III
+Ciudad : TAFI VIEJO - TUCUMAN
+Telefono : 0381 - 154624466
+Email : g.f.larrahona@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buen día, adjunto mi CV, con datos personales y antecedentes laborales, para ser ingresados en vuestra base de datos, y me tengan en cuenta para cuando surga algúna vacante, si Ud/s consideran que  mi perfil es el adecuado para el puesto. Estoy dispuesto a Radicarme en otra ciudad, si fuera necesario.  Saludos Cordiales. 
+
+Security_code : pz986
+Send : Enviar
+
+---------------
+
+Address : 201.213.251.17
+Nombre : yamilen
+Apellido : lópez
+Cargo : administrativa,resepcionista o cajera
+Direccion : av. vives 3413
+Ciudad : Córdoba
+Telefono : 03514770562
+Email : yami-kpa7_8@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Deseo trabajar por la mañana 
+Security_code : 962zp
+Send : Enviar
+
+---------------
+

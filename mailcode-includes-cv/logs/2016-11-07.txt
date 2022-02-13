@@ -1,0 +1,143 @@
+Address : 190.193.139.74<br>
+ <br>REF : EP-1
+ <br>Nombre : Eugenia
+ <br>Apellido : Rojas
+ <br>Cargo : Supervisor de Producción
+ <br>Direccion : Chacabuco, San Telmo 679
+ <br>Ciudad : Capital Federal
+ <br>Telefono : 1127231147
+ <br>Email : eu_rojas@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenos días, adjunto curriculum para postularme a su vacante de empleo, saludos.
+ <br>Security_code : pwqhg
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.2.49.149<br>
+ <br>REF : JPER-1
+ <br>Nombre : Silvina
+ <br>Apellido : Varela
+ <br>Cargo : Jefe de Personal
+ <br>Direccion : Lope de Vega 316 Dpto B
+ <br>Ciudad : Capital Federal
+ <br>Telefono : 1560103484
+ <br>Email : silvinalauravarela@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Sres.
+Tengo un perfi practico, me gusta trabajar en forma directa con los problemas contidianos y el desarrollo de procesos para la evolucion del dpto.
+Saludos, Silvina Varela
+ <br>Security_code : pghp5
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.176.45.243<br>
+ <br>Nombre : Nicolas
+ <br>Apellido : Melgarejo
+ <br>Cargo : operario
+ <br>Direccion : 9 de julio 2390
+ <br>Ciudad : los polvorines
+ <br>Telefono : 1557974008
+ <br>Email : nicomel05@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Mi objetivo es lograr desarrollarme personal y profesionalmente en un en una empresa donde pueda crecer.
+Ser parte de un grupo con objetivos de trabajo claros y en un agradable ambiente laboral.
+
+
+ <br>Security_code : 9q4cr
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.168.187.234<br>
+ <br>Nombre : Nicolas
+ <br>Apellido : Herrero
+ <br>Cargo : Comercio Exterior
+ <br>Direccion : Migueletes 1155
+ <br>Ciudad : CABA
+ <br>Telefono : 1159326734
+ <br>Email : nicoharrods@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados
+
+Les adjunto mi CV para ser tenido en cuenta en futuras busquedas. Soy estudiante de Comercio Exterior a punto de recibirme y con experiencia profesional en el rubro farmaceutico
+
+Desde ya muchas gracias,
+
+Saludos
+ <br>Security_code : fz939
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.31.97.88<br>
+ <br>Nombre : Gustavo Daniel
+ <br>Apellido : Burgos
+ <br>Cargo : Operario Industrial.
+ <br>Direccion : Urquiza 2474 1-3
+ <br>Ciudad : Cordoba Capital.
+ <br>Telefono : 0351 153888104.
+ <br>Email : gustyburguer@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Deseo acceder a un puesto laboral dentro de su compañía, a fin de colaborar en logros significativos de vuestra empresa poniendo a su merced mis actitudes y aptitudes.
+ <br>Security_code : r6p77
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.31.97.88<br>
+ <br>Nombre : Gustavo Daniel
+ <br>Apellido : Burgos
+ <br>Cargo : Operario Industrial.
+ <br>Direccion : Urquiza 2474 1-3
+ <br>Ciudad : Cordoba Capital.
+ <br>Telefono : 0351 153888104.
+ <br>Email : gustyburguer@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Deseo acceder a un puesto laboral dentro de su compañía, a fin de colaborar en logros significativos de vuestra empresa poniendo a su merced mis actitudes y aptitudes.
+ <br>Security_code : r6p77
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.31.97.88<br>
+ <br>Nombre : Gustavo Daniel
+ <br>Apellido : Burgos
+ <br>Cargo : Operario Industrial.
+ <br>Direccion : Urquiza 2474 1-3
+ <br>Ciudad : Cordoba Capital
+ <br>Telefono : 0351 153888104
+ <br>Email : gustyburguer@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Deseo acceder a un puesto laboral dentro de su compañía, a fin de colaborar en logros significativos de vuestra empresa poniendo a su merced mis actitudes y aptitudes.
+ <br>Security_code : pbh4v
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.143.136.209<br>
+ <br>REF : SP-1
+ <br>Nombre : Italo Tancredo Victorio
+ <br>Apellido : DallO
+ <br>Cargo : Supervisor de Producción
+ <br>Direccion : Aviador Franco
+ <br>Ciudad : Palomar
+ <br>Telefono : 1149747295
+ <br>Email : italodallo@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje :                                                                    Palomar, 07 de Noviembre de 2016
+Sr. GERENTE
+
+Referencia: Supervisor de Producción
+Me dirijo a Ud. con el fin de postularme a su búsqueda de referencia.
+Soy Ingeniero Químico e Ingeniero Laboral con una experiencia de más de 15 años supervisando unidades operativas en la industria química y alimenticia. Poseo experiencia en el rubro solicitado (supervisión de unidades operativas (plásticas, químicas y alimenticias) planificación de la producción y manejo integral de planta), conocimientos de inglés intermedios, sistemas informáticos de gestión (entorno Windows), conocimientos de GMP, seguimiento de indicadores, seguimiento de no conformidades /normas ISO (9001/14000) normativa de Seguridad e higiene en el trabajo.
+Sin otro particular saludo a Ud., agradeciéndole desde ya la atención dispensada.
+
+Ing. Italo DallO
+
+ <br>Security_code : zwmbx
+ <br>Send : Enviar
+ <br>
+---------------
+

@@ -1,0 +1,80 @@
+Address : 181.165.36.11
+Nombre : NATALIA
+Apellido : BARCOS
+Cargo : ADMIISTRATIVA
+Direccion : URIARTE 789 2 2
+Ciudad : ROSARIO
+Telefono : 3415715400
+Email : natib_80@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Necesito cambiar de empleo
+Security_code : 48xrk
+Send : Enviar
+
+---------------
+
+Address : 181.165.36.11
+Nombre : sandra
+Apellido : geronimo
+Cargo : administrativa
+Direccion : uriarte 789 2 2
+Ciudad : rosario
+Telefono : 3412169668
+Email : sandra_17_ng@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : necesito trabajar urgente!!!!
+Security_code : ysdzp
+Send : Enviar
+
+---------------
+
+Address : 186.182.204.165
+Nombre : Carlos Agustín
+Apellido : Díaz Bequi
+Cargo : Administrativo
+Direccion : San Marcos
+Ciudad : Salta
+Telefono : 0387 - 155776811
+Email : adiazbequi@outlook.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados, soy Contador Publico que estoy recien recibido por lo que ando en busqueda de nuevas ofertas laborales. Desde ya muchas gracias.
+Security_code : 7sm3t
+Send : Enviar
+
+---------------
+
+Address : 190.122.201.130
+Nombre : Brenda
+Apellido : Melián
+Cargo : Recursos Humanos
+Direccion : Empedrado 625
+Ciudad : Mariano Acosta
+Telefono : 0111541964477
+Email : brenda.melian@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje :  
+Security_code : 7gc8d
+Send : Enviar
+
+---------------
+
+Address : 190.195.4.91
+Nombre : Lucas
+Apellido : Velasques
+Cargo : Cadete administrativo
+Direccion : charcas 3559
+Ciudad : Capital Federal
+Telefono : 1524595260
+Email : lucas.g.velasques@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Sr/a :
+Me encuentro muy entusiasmado con el puesto de cadete administrativo que ofrece su empresa en los avisos de empleos.
+Soy estudiante de la carrera administración de empresas, voy a comenzar en la institución ESBA en el segundo cuatrimestre.
+Mi pretencion salarial full time es de 6000, confío en que es un puesto indicado para mi para empezar, para poder perfeccionarme laboralmente  y estaría dispuesto a desempeñarlo cuando ustedes lo indiquen.
+Desde ya Muchas Gracias!
+Lucas Gabriel Velasques 
+Security_code : 8kdtq
+Send : Enviar
+
+---------------
+

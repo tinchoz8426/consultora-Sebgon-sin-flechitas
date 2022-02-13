@@ -1,0 +1,100 @@
+Address : 190.188.49.199
+Nombre : Francisco José
+Apellido : Cattoni
+Cargo : Recepcionista
+Direccion : Cacique Catriel 1244
+Ciudad : Haedo
+Telefono : 1568095621
+Email : franjc89@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Ante quien corresponda,
+
+Envío mi currículum para el empleo solicitado. Actualmente estoy cursando  el tercer año de la carrera Lic. en Comunicación Social, con 24 materias aprobadas, y poseo estudios a nivel avanzado de Inglés. Mis expectativas son encontrar un empleo en el que pueda adquirir experiencia en el ámbito laboral, que me permita incorporar conocimientos afines a mis estudios y crecer profesionalmente. 
+Agradecería tengan en cuenta mi currículum para solicitar una entrevista y evaluar mis aptitudes para el trabajo a realizar.
+
+Saludos cordiales,
+Francisco José Cattoni.
+
+Security_code : cqc74
+Send : Enviar
+
+---------------
+
+Address : 186.122.84.250
+Nombre : BRENDA
+Apellido : GARCIA GAUDIO
+Cargo : ANALISTA DE CAPACITACION
+Direccion : ESMERALDA 847
+Ciudad : CIUDAD AUTONOMA
+Telefono : 43136357 1558828210
+Email : brendagargau@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : CV para busquedas laborales relacionadas. saludos.
+Security_code : wbyk8
+Send : Enviar
+
+---------------
+
+Address : 201.250.171.200
+Nombre : ruben dario
+Apellido : pereyra
+Cargo : seguridad
+Direccion : independencia 655
+Ciudad : moreno
+Telefono : 02374621650
+Email : rubendario.69@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : De mi mayor consideración:
+
+Tengo el agrado de dirigirme a Uds. con el fin de transmitirles mi deseo en firme de incorporarme a su organización. A tal efecto adjunto, junto a la presente, mi CV. 
+
+Me presento como una persona activa, responsable, creativa, flexible, orientada al logro de resultados y a la resolución y evolución constante en las tareas asignadas.
+
+Además de los datos que surgen de mi CV, quiero hacerle saber que los conocimientos de seguridad me han servido para formarme como una persona responsable, disciplinada y organizada.
+El objetivo que me he impuesto, es el de dar tranquilidad evitando todo tipo de violencia.  
+Si fuera necesario podría acercarme personalmente para cualquier consulta adicional o entrevista personal. Solo tiene que comunicarse al teléfono: 02374621650 o 0111530373726 si quieren contactarme por mail es rubendario.69@hotmail.com
+Pongo, además, en su conocimiento que estoy en condiciones de asumir la responsabilidad de este empleo en forma inmediata, y con amplia disponibilidad de horarios.
+
+Quedando a la espera de su respuesta.
+                                                                                        
+                                                                                        Atte.   Ruben Dario Pereyra
+
+
+Security_code : yhc58
+Send : Enviar
+
+---------------
+
+Address : 190.178.140.51
+Nombre : Yamila Mariel
+Apellido : Jerger
+Cargo : Administrativo- Ventas
+Direccion : Gascon 1924
+Ciudad : Mar del Plata
+Telefono : 0223-155998116 / 0291- 154632084
+Email : yami_j_86@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Envio cv para ser tenida en cuenta para cualquier trabajo relacionado con mi área de interes.
+Security_code : 2wm2w
+Send : Enviar
+
+---------------
+
+Address : 190.173.98.15
+Nombre : Juan Manuel
+Apellido : Perez
+Cargo : Profesional en S & H en el trabajo
+Direccion : Alberti  Nº 509  Dto 2º piso 2º
+Ciudad : Tablada
+Telefono : 4454-2420
+Email : j.m.perez.64@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Por el presente tengo el agrado de  enviar mi cv. Sin mas quedando a disposicion.
+Atentamente.
+Juan Manuel Perez
+Cel 155-429-0318
+Security_code : 49czk
+Send : Enviar
+
+---------------
+

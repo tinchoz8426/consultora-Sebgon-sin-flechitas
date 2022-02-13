@@ -1,0 +1,16 @@
+Address : 201.235.1.237
+Nombre : Elizabeth
+Apellido : marquez
+Cargo : adm logistica
+Direccion : de los ceibos 6190
+Ciudad : el palomar
+Telefono : 15 55 06 99 88
+Email : elsabiosabequeignora@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buen dia, ajunto mi cv para el/los puestos q uds. consideren oportuno.
+Saluda atte.
+Security_code : 6wvqq
+Send : Enviar
+
+---------------
+

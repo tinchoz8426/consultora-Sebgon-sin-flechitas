@@ -1,0 +1,17 @@
+Address : 200.126.196.233
+Nombre : Guillermo
+Apellido : Coppo
+Cargo : Comex
+Direccion : Bahia Blanca 2795
+Ciudad : CABA
+Telefono : 1543994390
+Email : gcoppo@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Para incluir en vtra base de datos
+
+Atentos saludos
+Security_code : w26fv
+Send : Enviar
+
+---------------
+

@@ -1,0 +1,143 @@
+Address : 190.177.231.201
+Nombre : Luciano Nicolas
+Apellido : Legnani
+Cargo : cadete, atencion al publico, mantenimiento
+Direccion : martiniano chilavert 2268
+Ciudad : Moreno
+Telefono : 011-1564592467
+Email : lucianolegnani@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estoy con muchas ganas de trabajar, no busco un rubro fijo, tengo conocimientos de todo tipo y ademas tengo buena dispocision para aprender cosas nuevas
+Security_code : pmtfj
+Send : Enviar
+
+---------------
+
+Address : 190.194.27.147
+Nombre : Mariana
+Apellido : Vazquez
+Cargo : analista de clima laboral
+Direccion : becquerel 5652
+Ciudad : cordoba
+Telefono : 3513838930
+Email : marianavaz17@outlook.com
+MAX_FILE_SIZE : 2097152
+Mensaje : mi tesis se basa en un sistema de información ejecutiva y durante la práctica realicé específicamente análsis de clima laboral.
+Security_code : v6rb5
+Send : Enviar
+
+---------------
+
+Address : 186.57.14.250
+REF : Asistente-Contable
+Nombre : Maria Eugenia
+Apellido : Sironi
+Cargo : Contable
+Direccion : Independencia 3458 depto 2
+Ciudad : Lujan
+Telefono : 011 1536342531
+Email : eugeniasironi@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Busco puestos Administrativos- contables
+Security_code : r4m3t
+Send : Enviar
+
+---------------
+
+Address : 186.57.14.250
+REF : Asistente-Comercial
+Nombre : Maria Eugenia
+Apellido : Sironi
+Cargo : Asistente comercial
+Direccion : independencia 3458
+Ciudad : Lujan
+Telefono : 011 1536342531
+Email : eugeniasironi@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Busco puestos contables-administrativos
+Security_code : fktvd
+Send : Enviar
+
+---------------
+
+Address : 190.225.87.209
+Nombre : Fatima Maria Ayelén
+Apellido : Feria
+Cargo : ayudante, asistente, vendedor
+Direccion : calle 6 o 198 nº4037
+Ciudad : Buenos Aires
+Telefono : (011) 50053727
+Email : fatima.ma.feria@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me dirijo a ustedes con el fin de ser elegida en la selección de personal de algún puesto de trabajo. Desde ya muchas gracias.
+Security_code : 38NB3
+Send : Enviar
+
+---------------
+
+Address : 190.225.87.209
+Nombre : Fatima Maria Ayelén
+Apellido : Feria
+Cargo : ayudante, asistente, vendedor
+Direccion : calle 6 o 198 nº4037
+Ciudad : Buenos Aires
+Telefono : (011) 50053727
+Email : fatima.ma.feria@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me dirijo a ustedes con el fin de ser elegida en la selección de personal de algún puesto de trabajo. Desde ya muchas gracias.
+Security_code : 38nb3
+Send : Enviar
+
+---------------
+
+Address : 190.225.87.209
+Nombre : Fatima Maria Ayelén
+Apellido : Feria
+Cargo : asistente, ayudante, secretaria, vendedor
+Direccion : calle 6 o 198 nº4037
+Ciudad : Buenos Aires
+Telefono : (011) 50053727
+Email : fatima.ma.feria@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me dirijo a ustedes con el fin de ser elegida en la selección de personal de algún puesto de trabajo. Desde ya muchas gracias.
+Security_code : dhfmd
+Send : Enviar
+
+---------------
+
+Address : 181.29.83.201
+Nombre : Kimberley Yael
+Apellido : Gava
+Cargo : Administrativa
+Direccion : San Pedro 861 1º F
+Ciudad : Castelar
+Telefono : 03541-15664847
+Email : kygava@live.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados, les adjunto mi CV a fin de que me agreguen a su base de datos. Estoy buscando trabajo, tengo disponibilidad full-time y muchas ganas de aprender y progresar.
+
+Estoy disponible para cualquier contacto al e-mail kygava@live.com.ar y al teléfono celular 03541-15664847
+Security_code : hsndq
+Send : Enviar
+
+---------------
+
+Address : 181.29.83.201
+REF : Asistente-Comercial
+Nombre : Kimberley Yael
+Apellido : Gava
+Cargo : Asistente-Comercial
+Direccion : San Pedro 861 1º F
+Ciudad : Castelar
+Telefono : 03541-15664847
+Email : kygava@live.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto mi CV para postularme al cargo de Asistente-Comercial por ustedes publicado. Entiendo que mi edad es menor a la requerida, pero puedo confirmar que cuento con las herramientas y habiliadades necesarias para desempeñar correctamente las tareas que de mi dependan.
+Agradecería la oportunidad de un contacto personal o entrevista para mi postulación.
+
+Estoy disponible para su contacto al e-mail kygava@live.com.ar y al teléfono celular 03541-15664847
+Security_code : 5hxs9
+Send : Enviar
+
+---------------
+

@@ -1,0 +1,61 @@
+Address : 190.194.107.249
+REF : proyectista-electronico
+Nombre : lorena carla
+Apellido : devincenzi
+Cargo : a confirmar
+Direccion : independencia 1449
+Ciudad : mar del plata
+Telefono : 223-155388878
+Email : lcarlad@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : estoy en busca de nuevas oportudidades laborales
+Security_code : 6wmkh
+Send : Enviar
+
+---------------
+
+Address : 190.105.124.158
+Nombre : Maria Cecilia
+Apellido : Otero
+Cargo : Vendedora o Cajera
+Direccion : C. M. Joly 1580
+Ciudad : Moreno
+Telefono : 0237-4624427
+Email : chechu_22_290988@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Desde ya muchas gracias. Maria Cecilia Otero. 
+Security_code : vwb7z
+Send : Enviar
+
+---------------
+
+Address : 190.173.69.253
+Nombre : yamila
+Apellido : mercado
+Cargo : indistinto
+Direccion : callao 2701
+Ciudad : san miguel
+Telefono : 44556094
+Email : yami-0790@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : .
+Security_code : 4kxz9
+Send : Enviar
+
+---------------
+
+Address : 190.173.69.253
+Nombre : yamila
+Apellido : mercado
+Cargo : indistinto
+Direccion : callao 2701
+Ciudad : san miguel
+Telefono : 44556094
+Email : yami-0790@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : dejo mi curriculum para cualquier puesto que pueda llegar a ocupar gracias
+Security_code : mc4jk
+Send : Enviar
+
+---------------
+

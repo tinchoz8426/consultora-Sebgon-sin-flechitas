@@ -1,0 +1,45 @@
+Address : 190.0.127.32
+REF : tecnico-quimico
+Nombre : GUSTAVO ALFREDO
+Apellido : quiroga
+Cargo : TECNICO QUIMICO
+Direccion : SAN LUIS
+Ciudad : SAN LUIS
+Telefono : 2664256520
+Email : ALFGQ@YAHOO.COM
+MAX_FILE_SIZE : 2097152
+Mensaje : SIN PROBLEMA DE RADICARME EN OTRO PROVINCIA
+Security_code : VYV5H
+Send : Enviar
+
+---------------
+
+Address : 200.125.101.21
+Nombre : Mauricio Ricardo
+Apellido : Gottifredi
+Cargo : Administrativo
+Direccion : Pacheco de melo 2973, 6to depto F
+Ciudad : ciudad autónoma de buenos aires
+Telefono : 011-1535212450
+Email : gottifredimr@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : De mi mayor consideración: 
+
+                                         tengo el agrado de dirigirme a ustedes con el fin de transmitirles mi deseo en firme de incorporarme a su organización. A tal efecto adjunto, junto a la presente, mi currículum vitae. 
+
+Me presento como una persona activa, responsable, creativa, flexible, orientada al logro de resultados y a la resolución y evolución constante en las tareas asignadas. 
+
+El objetivo que me he impuesto, es el de formar parte del personal de una empresa prestigiosa, confiable y con proyectos ambiciosos. Si fuera necesario podría acercarme personalmente para cualquier consulta adicional o entrevista personal. 
+
+Pongo, además, en su conocimiento que estoy en condiciones de asumir la responsabilidad de este empleo en forma inmediata, y con amplia disponibilidad de horarios. 
+
+Quedando a la espera de su respuesta. 
+
+Me despido atte.
+                            Mauricio Ricardo Gottifredi.
+                           	
+Security_code : 469k9
+Send : Enviar
+
+---------------
+

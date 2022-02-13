@@ -1,0 +1,111 @@
+Address : 190.17.205.150
+Nombre : Federico
+Apellido : Froy
+Cargo : Tecnico de Seguridad e Higiene
+Direccion : Soldado Juan Rava 1474
+Ciudad : Madero
+Telefono : 20519289
+Email : federicofroy@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Aprovecho la oportunidad de saludarlos y de consultarlos si estan en la busqueda de un técnico para engrosar las filas de vustra empresa. Les informo que estoy cursando la Licenciatura y que adeudo 4 materias para obtener el título, calculando recibirme a mediados del corriente año. Espero con ansías su respuesta y la citación para mantener una charla personalmente.
+Sin otro particular, los saludo atentamente
+Security_code : 3v5f7
+Send : Enviar
+
+---------------
+
+Address : 201.213.229.78
+Nombre : andrea salome
+Apellido : kraus
+Cargo : administracion ventas facturacion
+Direccion : mariano acha 4518 3 c
+Ciudad : C.A.B.A.
+Telefono : 1561628973
+Email : salomekraus@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenos dias estoy orientada en la busqueda de la parte administrativa de una empresa,facturacion, administracion de ventas, el cambio es por crecimiento laboral   
+Security_code : f8wqp
+Send : Enviar
+
+---------------
+
+Address : 190.11.204.222
+Nombre : mariano
+Apellido : sansevich
+Cargo : seguridad e higiene
+Direccion : 12 octubre 585
+Ciudad : inriville
+Telefono : 543467411354
+Email : marianoinriville@live.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : mi intecion es darme a conocer y que me tengan en cuenta en futuros trabajos en mi region
+Security_code : sbcwx
+Send : Enviar
+
+---------------
+
+Address : 168.226.219.65
+Nombre : SANDRA BEATRIZ
+Apellido : FERNANDEZ
+Cargo : ASISTENTE SOCIAL
+Direccion : Bº PARQUE SUR C 5
+Ciudad : RAWSON
+Telefono : 0264-4154768640
+Email : cateringparquesur@ymail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Envio mi CV por el aviso de la Provincia de SAN JUAN
+Security_code : 6qmzh
+Send : Enviar
+
+---------------
+
+Address : 181.14.138.172
+Nombre : Carolina
+Apellido : Cermignani
+Cargo : Junior
+Direccion : Ricardo Gutiérrez 2121
+Ciudad : Vicente López
+Telefono : 1555979702
+Email : carocermignani@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenos Aires, 19 de Marzo de 2013
+
+A quien corresponda:
+Buenos días, me encuentro en búsqueda laboral. Soy Licenciada en Marketing de la Universidad de Ciencias Empresariales y Sociales. Cuento con un muy buen nivel de inglés tanto oral como escrito, así como también poseo conocimientos avanzados del paquete office.  Me considero proactiva, ordenada, perseverante y responsable.
+Cuento con disponibilidad horaria completa e inmediata.
+Quedo a su entera disposición.
+Adjunto en el presente mi cv.
+
+Saludos cordiales, 
+Carolina Cermignani
+
+Security_code : 8mbkj
+Send : Enviar
+
+---------------
+
+Address : 181.14.138.172
+Nombre : carolina
+Apellido : cermignani
+Cargo : junior
+Direccion : ricardo gutierrez 2121
+Ciudad : vicente lopez
+Telefono : 1555979702
+Email : carocermignani@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenos Aires, 19 de Marzo de 2013
+
+A quien corresponda:
+Buenos días, me encuentro en búsqueda laboral. Soy Licenciada en Marketing de la Universidad de Ciencias Empresariales y Sociales. Cuento con un muy buen nivel de inglés tanto oral como escrito, así como también poseo conocimientos avanzados del paquete office.  Me considero proactiva, ordenada, perseverante y responsable.
+Cuento con disponibilidad horaria completa e inmediata.
+Quedo a su entera disposición.
+Adjunto en el presente mi cv.
+
+Saludos cordiales, 
+Carolina Cermignani
+
+Security_code : 8mbkj
+Send : Enviar
+
+---------------
+

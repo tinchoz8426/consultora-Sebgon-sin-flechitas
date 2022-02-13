@@ -1,0 +1,18 @@
+body {  margin:0px; 	}
+.container {  height:1000px;background-color:#159CE0;font-family: "arial"; font-size: 16px; color: #333333; text-align: justify; text-decoration: none; padding:5px}
+.top { box-shadow: 2px 2px 5px #999999; color:#004D71 ; height:32px; width:100%; background-color:#06031A; margin:0px; padding-top:15px;}
+.opciones {  font-family: Arial; font-size: 16px; color:  #FFFFFF;  height: 35px; border-right: 1px #007CA6 solid; text-decoration: none; text-transform: lowercase; padding-top: 8px; padding-right: 8px; padding-bottom: 8px; padding-left: 8px; vertical-align: middle; margin-left:20px; float: none}
+a:hover {background-color:#159CE0;
+  color: #FFFFFF;
+  text-decoration: none;
+}
+.marco-formulario  { margin: 0 auto; text-align: center; width:70%;background-color:#FFFFFF;font-family: "arial"; font-size: 16px; color: #333333;  text-decoration: none; padding-top:25px}
+.derechos { margin: 0 auto; margin-top: 200px;  text-align: center; width:25%;background-color:#FFFFFF;font-family: "arial"; font-size: 16px; color: #333333;  text-decoration: none; padding:25px}
+.botones-contenido { border-radius: 15px; background-color:#404C4D; font-family: Arial; font-size: 14px; height: 35px; color:  #FFFFFF;   border: 1px #007CA6 solid; text-decoration: none;  padding: 5px; margin-left:10px; float: none }
+.lineas-contenido { background-color:#404C4D; font-family: Arial; font-size: 14px; color:  #FFFFFF;  height: 35px; border: 1px #007CA6 solid; text-decoration: none;  padding: 5px; margin-left:10px; width:50%; float: none}
+.tools {   vertical-align: middle; color:#004D71; border-bottom: 1px #007CA6 dotted; color:#004D71 ;    margin-bottom:10px; padding:7px; }
+.caja-contenido { height:100%; width:100%;  margin-top:0px; }
+
+.botones-formularios { border-radius: 3px; background-color:#404C4D; font-family: Arial; font-size: 14px; color:  #FFFFFF;   border: 0px #007CA6 solid; text-decoration: none;  padding: 5px; margin-left:-5px;  height:40px;}
+
+.caja-renglon {vertical-align: middle; height:40px; width:100%;  margin-top:0px; }

@@ -1,0 +1,83 @@
+Address : 186.18.166.149<br>
+ <br>REF : JPL
+ <br>Nombre : Alejandro
+ <br>Apellido : Roccatagliata
+ <br>Cargo : JPL
+ <br>Direccion : Homero 1017
+ <br>Ciudad : caba
+ <br>Telefono : 1568158466
+ <br>Email : rocca@telecentro.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me intersaría saber mássobe la propuesta.
+ <br>Security_code : b7953
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.18.166.149<br>
+ <br>REF : JPL
+ <br>Nombre : Alejandro
+ <br>Apellido : Roccatagliata
+ <br>Cargo : Jefe de Planta
+ <br>Direccion : Homero 1017
+ <br>Ciudad : Capital Federal
+ <br>Telefono : 15 6815 8466
+ <br>Email : rocca@telecentro.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : gracias
+ <br>Security_code : hx65d
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.135.29.249<br>
+ <br>REF : SE.BIL
+ <br>Nombre : Ana
+ <br>Apellido : ARDUINI
+ <br>Cargo : SECRETARIA
+ <br>Direccion : sanchez de bustamante 223
+ <br>Ciudad : almagro
+ <br>Telefono : 01136151647
+ <br>Email : italiaapa@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : https://ar.linkedin.com/in/ana-p-arduini-88346b24
+ <br>Security_code : tz9xj
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.137.202.46<br>
+ <br>Nombre : Gabriela 
+ <br>Apellido : Silva Abramor
+ <br>Cargo : mucama
+ <br>Direccion : tierra del fuego 37
+ <br>Ciudad : san lorenzo
+ <br>Telefono : 3413560993
+ <br>Email : gabiluchisbenicio@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Tengo experiencia en otros rubros como adjunto en mi cv.desde ya agradecida
+ <br>Security_code : zpt2w
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 179.41.215.100<br>
+ <br>REF : SEP
+ <br>Nombre : Sergio
+ <br>Apellido : Suárez
+ <br>Cargo : Segundo Encargado de planta
+ <br>Direccion : Lisboa 635
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 4485-8880 11-6209-5008
+ <br>Email : serlibrealbedrio@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Tras leer su anuncio ofertando un empleo, el presente mes, me dirijo a Ud. con el fin de enviarle mi Curriculum Vitae y de este modo aspirar al cargo.
+Como puede usted comprobar en el mismo, tengo una amplia experiencia en el manejo de herramientas eléctricas y mecánicas usadas en taller metalúrgico, Encargado supervisor mantenimiento preventivo correctivo, Método KAISEN, Método de las 5S, ya que estuve desempeñando un trabajo similar durante los últimos 16 años
+Pueden ustedes ponerse en contacto conmigo mediante mi móvil (15-6209-5008). mi tel(4485-8880) ).A partir de las 07:00h.
+Esperando que estudie mi candidatura y en espera de prontas noticias, le saluda atentamente.
+Sergio.D.Suárez
+ <br>Security_code : jxv2r
+ <br>Send : Enviar
+ <br>
+---------------
+

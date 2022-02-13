@@ -1,0 +1,95 @@
+Address : 179.63.206.190<br>
+ <br>Nombre : Andrea Natalia
+ <br>Apellido : Bogado
+ <br>Cargo : Administrativa-At al Cliente
+ <br>Direccion : Bulnes 3362
+ <br>Ciudad : Buenos Aires 
+ <br>Telefono : 1130239128
+ <br>Email : andrea_nbogado@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : De mi mayor consideración:
+
+Tengo el agrado de dirigirme a Uds con el objetivo de  participar en búsquedas acordes a mi perfil. Adjunto mi Currículum Vitae con mi formación y experiencia laboral.
+
+Cuento con gran experiencia en Tareas Administrativas de Logistica y de Depósito y un marcado perfil hacia la Atención al Cliente.
+ 
+Además, cuento con un nivel de Inglés Intermedio y manejo de herramientas informáticas varias.
+. 
+Me considero  una persona proactiva, predispuesta al aprendizaje y con capacidad para formar parte de un equipo de trabajo en el que se busquen oportunidades y desafíos constantes.
+
+Desde ya agradezco su tiempo y quedo a disposición para una eventual entrevista.
+
+
+Atte,
+
+Andrea Natalia Bogado.
+
+ <br>Security_code : crkkj
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.247.15.139<br>
+ <br>REF : SP-1
+ <br>Nombre : luis javier
+ <br>Apellido : da silva peña
+ <br>Cargo : supervisor de produccion
+ <br>Direccion : ambrosoni 2155
+ <br>Ciudad : san fernando
+ <br>Telefono : 91161295599
+ <br>Email : javi4fa@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : estoy en busca de un empleo aca en argentina soy venezolano recien graduado tsu en mecanica y produccion industrial
+ <br>Security_code : pdm9d
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.247.15.139<br>
+ <br>REF : SP-1
+ <br>Nombre : luis javier
+ <br>Apellido : da silva peña
+ <br>Cargo : supervisor de produccion
+ <br>Direccion : ambrosoni 2155
+ <br>Ciudad : san fernando
+ <br>Telefono : 91161295599
+ <br>Email : javi4fa@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : estoy en busca de un empleo aca en argentina soy venezolano recien graduado tsu en mecanica y produccion industrial
+ <br>Security_code : pdm9d
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.247.15.139<br>
+ <br>REF : SP-1
+ <br>Nombre : luis javier
+ <br>Apellido : da silva peña
+ <br>Cargo : supervisor de produccion
+ <br>Direccion : ambrosoni 2155
+ <br>Ciudad : san fernando
+ <br>Telefono : 91161295599
+ <br>Email : javi4fa@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : estoy en busca de un empleo aca en argentina soy venezolano recien graduado tsu en mecanica y produccion industrial
+ <br>Security_code : qb5g7
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.247.15.139<br>
+ <br>REF : SP-1
+ <br>Nombre : luis javier
+ <br>Apellido : da silva peña
+ <br>Cargo : supervisor de produccion
+ <br>Direccion : ambrosoni 2155
+ <br>Ciudad : san fernando
+ <br>Telefono : 91161295599
+ <br>Email : javi4fa@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : estoy en busca de un empleo aca en argentina soy venezolano recien graduado tsu en mecanica y produccion industrial
+ <br>Security_code : qb5g7
+ <br>Send : Enviar
+ <br>
+---------------
+

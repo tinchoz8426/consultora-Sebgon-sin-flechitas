@@ -1,0 +1,52 @@
+Address : 186.137.184.129
+Nombre : Flavia Andrea
+Apellido : Sanchez
+Cargo : Administrativa - Cajera - Recepcionista
+Direccion : Colon 439
+Ciudad : Ramos Mejia, Buenos Aires
+Telefono : 1568099245
+Email : flavia.sanchez@hotmail.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Atte: A quién corresponda
+De: Flavia Andrea Sanchez
+
+De mi consideración:.
+
+Tengo el agrado de dirigirme a Ud. con el fin de transmitirle mi deseo en firme de incorporarme a su organización. A tal efecto adjunto, junto a la presente, mi Curriculum Vitae.
+
+Me presento como una persona activa, responsable, creativa, flexible, orientada al logro de resultados y a la resolución y evolución constante en las tareas asignadas.
+
+El objetivo que me he impuesto, es el de formar parte del personal de una empresa prestigiosa, confiable y con proyectos ambiciosos.
+
+Si fuera necesario podría acercarme personalmente para cualquier consulta adicional o entrevista personal. Sólo tiene que comunicarse al teléfono particular (011) 20649950, o al celular (011) 1568099245 o (0261) 154683399 o por mail flavia.sanchez@hotmail.com.ar
+
+Pongo, además, en su conocimiento que estoy en condiciones de asumir la responsabilidad de este empleo en forma inmediata, y con amplia disponibilidad de horarios.
+
+Quedando a la espera de su respuesta.
+
+Me despido atte
+
+         Sanchez Flavia
+Tel: (011) 20649950
+Cel: (011) 1568099245
+Cel: (261) 154683399
+Security_code : rvd8x
+Send : Enviar
+
+---------------
+
+Address : 190.245.240.201
+Nombre : Martina Eugenia
+Apellido : Garcia
+Cargo : Educacion
+Direccion : 9 de Julio 308
+Ciudad : Quilmes
+Telefono : 1540862160
+Email : martiina.-@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Busco empleo, preferentemente en el rubro de la educación, pero también para promociones y atención al publico. Muchas gracias!
+Security_code : xt9gh
+Send : Enviar
+
+---------------
+

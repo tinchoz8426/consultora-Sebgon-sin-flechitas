@@ -1,0 +1,113 @@
+Address : 181.45.178.128<br>
+ <br>Nombre : Mónica
+ <br>Apellido : Luna
+ <br>Cargo : Administrativo
+ <br>Direccion : Camerucci 1536
+ <br>Ciudad : Ituzaingó
+ <br>Telefono : 63793607
+ <br>Email : moniluna17@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenos días, les hago llegar mi CV respondiendo al aviso publicado en Empleos Clarín de Asistente Comercial. Muchas gracias por su atención.
+ <br>Security_code : bqqk8
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.138.231.37<br>
+ <br>REF : ROT-1
+ <br>Nombre : Joaquin
+ <br>Apellido : Doyhenard
+ <br>Cargo : Responsable de oficina tecnica
+ <br>Direccion : Discepolo 930
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : +541156330660
+ <br>Email : joaquindoyhenard@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Soy una persona proactiva que siempre esta con ganas de aprender, mi perfil encajaria muy bien con el puesto de trabajo
+ <br>Security_code : pwxpx
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.229.112.110<br>
+ <br>REF : ROT-1
+ <br>Nombre : josmag 
+ <br>Apellido : rodriguez
+ <br>Cargo : RESPONSABLE DE OFICINA TECNICA
+ <br>Direccion : tacuari 478
+ <br>Ciudad : buenos aires
+ <br>Telefono : 11 6159 7874
+ <br>Email : Josmagrodriguez@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : estoy muy interesado en el puesto
+ <br>Security_code : 4xbnq
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.16.127.74<br>
+ <br>REF : ACO-1
+ <br>Nombre : Jorge Leonardo
+ <br>Apellido : Niz
+ <br>Cargo : ANALISTA DE COMERCIO INTERNACIONAL
+ <br>Direccion : Av. Córdoba 2554 P1
+ <br>Ciudad : Capital Federal
+ <br>Telefono : 3434288850
+ <br>Email : leonardoniz@live.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me comunico con usted/es para postularme al cargo de Analista de Comercio Internacional
+ <br>Security_code : jhdpp
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.60.154.229<br>
+ <br>REF : ROT-1
+ <br>Nombre : Rafael
+ <br>Apellido : Salazar
+ <br>Cargo : responsable oficina tecnica
+ <br>Direccion : Combate de los pozos 1082 CABA
+ <br>Ciudad : buenos aires
+ <br>Telefono : 1151497407
+ <br>Email : rafaelresh@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenos Dias me encuentro interesado en su puesto de Responsable de oficina tecnica actualmente resido en  CABA pero estoy dispuesto a mudarme a la zona
+ <br>Security_code : hqjmx
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.141.134.244<br>
+ <br>REF : ROT-1
+ <br>Nombre : JOAQUIN
+ <br>Apellido : SUCUNZA
+ <br>Cargo : RESPONSABLE DE OFICINA TECNICA
+ <br>Direccion : MATHEU 428 6
+ <br>Ciudad : QUILMES
+ <br>Telefono : 1539024515
+ <br>Email : j.sucunza.12@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas noches, le agradecería tenerme en cuenta para el puesto que se ofrece. Considero que mis capacidades académicas sería de interés para la empresa. Saludos cordiales.
+ <br>Security_code : 3x7cp
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.166.136.157<br>
+ <br>REF : ROT-1
+ <br>Nombre : Axel Einar
+ <br>Apellido : MAgatelli
+ <br>Cargo : RESPONSABLE DE OFICINA TECNICA
+ <br>Direccion : Cervantes 3105
+ <br>Ciudad : Capital Federal
+ <br>Telefono : 15-6961-6868
+ <br>Email : axeleinarmagatelli@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados:
+
+Me gustaría contactarnos para conocer en detalle su propuesta.
+ <br>Security_code : jdzyy
+ <br>Send : Enviar
+ <br>
+---------------
+

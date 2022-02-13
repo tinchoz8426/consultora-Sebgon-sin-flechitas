@@ -1,0 +1,142 @@
+Address : 186.177.192.205
+Nombre : maximiliano
+Apellido : veron
+Cargo : cargo cv
+Direccion : benito lynch n 1742
+Ciudad : grand bourg
+Telefono : 02320558972
+Email : maximilianoveron82@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : hola, necesito estoy buscando trabajo y me ayudar buscar un trabajo para ayudar mis familias... muchas gracias!!
+Security_code : wqntz
+Send : Enviar
+
+---------------
+
+Address : 190.225.141.187
+REF : JEOTEC
+Nombre : Guillermo
+Apellido : Sitek
+Cargo : Encargado de oficina tecnica
+Direccion : Angel Justiniano Carrranza 2385 - 2do K
+Ciudad : Capital Federal
+Telefono : (0297)154359192 - (011)20729263
+Email : guillermo_sitek@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Llevo mas de diez años en el rubro del petroleo y la construcción. Amplios conocimientos en las especialidades de piping, civil, mecanica e instrumentacion. Muy buen desempeño con herramientas de dibujo tecnico (AutoCAD, Inventor, 3D Studio Max) y apasionado por el diseño 3D. Soy estudiante de analisis de sistema y aspiro a estudiar ingenieria industrial.
+
+Remuneracion pretendida 12000 pesos mensuales
+Security_code : qxy7b
+Send : Enviar
+
+---------------
+
+Address : 181.168.49.129
+Nombre : Lautaro 
+Apellido : Gorriti
+Cargo : Administrativo
+Direccion : Ramon Falcon 1467
+Ciudad : CABA
+Telefono : 44315945
+Email : gorritilautaro@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Por la presente, adjunto mi cv con fin de satisfacer las necesidades del empleador
+Security_code : 6fjmx
+Send : Enviar
+
+---------------
+
+Address : 190.115.121.42
+Nombre : Mariela
+Apellido : Gomez
+Cargo : atención al cliente
+Direccion : Bolivar 347
+Ciudad : San Luis
+Telefono : 02664036051
+Email : mary_stmn@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenos días , soy una persona honesta ,trabajadora y responsable que busca un trabajo estable y con posibilidades de desarrollo personal como profesional , aprendo con rapidez cualquier tipo de trabajo, tengo muy buen manejo de office , Internet,  entre otros. 
+Espero tener la oportunidad de conversar con ustedes en una entrevista para personalmente exponerles mis conocimientos y mi deseo de formar parte de su grupo de trabajo. 
+ Espero recibir pronto noticias suyas sobre mi candidatura, quedo a su entera disposición para ampliar cuanta información estimen necesaria.
+
+Un cordial saludo.
+Security_code : zcpr3
+Send : Enviar
+
+---------------
+
+Address : 190.138.31.62
+Nombre : Federico
+Apellido : Negri
+Cargo : Instructor
+Direccion : Av. del Libertador 184
+Ciudad : CABA
+Telefono : 011 15 25850090
+Email : federiconegri@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenos días,
+
+me gustaría poder integrar su equipo de instructores. Soy ingeniero industrial, MBA en international management y vengo realizando capacitaciones para empresas desde hace más de 10 años. Dicto programas como Gestión por procesos, Uso de indicadores, Desarrollo de Proyectos y Toma de decisiones. También he dictado talleres de presentaciones y uso de herramientas de apoyo: Power Point y PREZI. 
+Quedo a su disposición para ampliar cualquier información. Atentamente,
+
+Federico Negri
+Security_code : shnb8
+Send : Enviar
+
+---------------
+
+Address : 181.231.89.99
+Nombre : Belén
+Apellido : Cursach
+Cargo : administrativo
+Direccion : calle 5 nro. 1380
+Ciudad : la plata
+Telefono : 2215931468
+Email : teteb1525@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : 
+Ante quien corresponda:
+En la presente les adjunto mi currículum vitae con mis datos personales, experiencia profesional y formación académica, con la finalidad que lo tengan en cuenta en el momento que se produzca alguna vacante laboral en su prestigiosa empresa. 
+Sin otro particular los saludo atentamente, quedando a entera disposición. 
+
+Belén Cursach.
+Security_code : gh69c
+Send : Enviar
+
+---------------
+
+Address : 181.231.89.99
+Nombre : Belén
+Apellido : Cursach
+Cargo : administrativo
+Direccion : calle 5 nro. 1380
+Ciudad : la plata
+Telefono : 2215931468
+Email : teteb1525@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : 
+Ante quien corresponda:
+En la presente les adjunto mi currículum vitae con mis datos personales, experiencia profesional y formación académica, con la finalidad que lo tengan en cuenta en el momento que se produzca alguna vacante laboral en su prestigiosa empresa. 
+Sin otro particular los saludo atentamente, quedando a entera disposición. 
+
+Belén Cursach.
+Security_code : v8btt
+Send : Enviar
+
+---------------
+
+Address : 181.169.34.71
+Nombre : Florencia
+Apellido : Patella
+Cargo : Licenciada en Psicologia
+Direccion : 151 a entre 21 y 22
+Ciudad : Berazategui
+Telefono : 1560596324
+Email : patellaflorencia@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola, me llamo florencia y recien termine la carrera de psicologia queria saber si podrian ayudarme a conseguir empleo. Saludos y desde ya muchas gracias.
+Security_code : 9d7vv9
+Send : Enviar
+
+---------------
+

@@ -1,0 +1,111 @@
+Address : 200.32.100.75
+REF : jefe-de-operaciones
+Nombre : Juan Diego
+Apellido : Manzi
+Cargo : Contador
+Direccion : Suipacha 890
+Ciudad : Ramos Mejia
+Telefono : 1549804360
+Email : valescuatro@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto CV
+Security_code : dyg66
+Send : Enviar
+
+---------------
+
+Address : 190.176.8.127
+Nombre : Marianela
+Apellido : ZEFERINO
+Cargo : Administrativa
+Direccion : Vendimiadores 
+Ciudad : Capital
+Telefono : 0261 - 156992249
+Email : z_marianela@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : A quien corresponda, envío mi CV. 
+
+Espero que les interese.
+
+Muchas gracias.
+Marianela
+Security_code : 4wvnr
+Send : Enviar
+
+---------------
+
+Address : 186.153.149.234
+Nombre : Jimena
+Apellido : Prim
+Cargo : Administración
+Direccion : Diego Palma 420
+Ciudad : Buenos Aites
+Telefono : 1551475875
+Email : jiprim@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Administración Independiente
+Security_code : w2vg8
+Send : Enviar
+
+---------------
+
+Address : 201.255.247.149
+Nombre : Teresa 
+Apellido : Aguirre
+Cargo : Auxiliar RRHH 
+Direccion : Solis 637 2° Z
+Ciudad : Buenos Aires 
+Telefono : 43824451
+Email : terelayn22@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : A quien corresponda: en esta oportunidad postularme a puesto que crean acorde a mi perfil, agradeceré muchísimo respuesta.
+Saludos atte.
+
+Security_code : z6n7d
+Send : Enviar
+
+---------------
+
+Address : 201.255.247.149
+Nombre : Teresa 
+Apellido : Aguirre
+Cargo : Auxiliar RRHH 
+Direccion : Solis 637 2° Z
+Ciudad : Buenos Aires 
+Telefono : 43824451
+Email : terelayn22@hotmail.com
+
+---------------
+
+Address : 201.235.211.184
+Nombre : Maximiliano
+Apellido : Volonte
+Cargo : Inspector de calidad
+Direccion : Moctezuma 1006
+Ciudad : Capital Federal
+Telefono : 11 4671 8472
+Email : maxvolonte@yahoo.com
+MAX_FILE_SIZE : 2097152
+Mensaje : hola, buenas tardes. Al momento me encuentro buscando una posicion la cual requiera alguien con mis conocimientos. Les adjunto mi CV para ser considerado en el proceso de seleccion de personal cuando dicha vacante este disponible. Saludos
+Security_code : mkm5v
+Send : Enviar
+
+---------------
+
+Address : 181.166.149.128
+Nombre : Marianela
+Apellido : Figueredo
+Cargo : administrativo
+Direccion : Lisandro Medina 1978
+Ciudad : Caseros
+Telefono : 47340731
+Email : marianela-figueredo@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Sres. RRHH
+Me dirijo a Uds. a fin de solicitar tengan en cuenta mis datos personales para futuras búsquedas de personal administrativo. 
+Sin otro particular saludo atte..
+Security_code : dxx6m
+Send : Enviar
+
+---------------
+

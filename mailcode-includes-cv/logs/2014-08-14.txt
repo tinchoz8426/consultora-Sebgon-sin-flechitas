@@ -1,0 +1,135 @@
+Address : 190.220.208.18
+Nombre : ismael
+Apellido : Torres
+Cargo : tecnico en seguridad e higiene
+Direccion : lavalle 5217
+Ciudad : villa martelli
+Telefono : 1162481518
+Email : ismaelt89@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : espero formar parte de su empresa
+Security_code : ccw7y
+Send : Enviar
+
+---------------
+
+Address : 190.220.208.18
+Nombre : ismale
+Apellido : torres
+Cargo : tecnico en seguridad e higiene
+Direccion : lavalle 5217
+Ciudad : villa martelli
+Telefono : 1162481518
+Email : ismaelt89@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : espero formar parte de su empresa
+Security_code : hrmgx
+Send : Enviar
+
+---------------
+
+Address : 190.16.199.251
+Nombre : Viviana 
+Apellido : Diez
+Cargo : Venta mayorista -supervision
+Direccion : arregui 5137
+Ciudad : bs as
+Telefono : 1131164351
+Email : vivianadiez2011@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Venta mayorista,minorista,supervision de local ,encargada de local.
+Security_code : rq7mz
+Send : Enviar
+
+---------------
+
+Address : 181.29.156.55
+Nombre : Nicolás
+Apellido : Farberoff
+Cargo : Administrativo-Comercial
+Direccion : Paysandu 
+Ciudad : Ituzaingo
+Telefono : 11-36273715
+Email : nicolas.farberoff@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Mi nombre es Nicolás, soy estudiante de administración de empresas en la universidad nacional de La Matanza y estoy en la búsqueda de empleo. Les envío mi CV y por cualquier consulta les dejo mis datos y quedo a su disposición para lo que necesiten.
+
+Muchas gracias, saludos.
+
+Security_code : xkmy9
+Send : Enviar
+
+---------------
+
+Address : 201.177.12.115
+REF : ADMINISTRATIVA-DE-COMPRAS
+Nombre : Yesica
+Apellido : Palazzo
+Cargo : Administrativa de compras
+Direccion : Aranguren 1870
+Ciudad : Capital federal
+Telefono : 155473-6067
+Email : yesicapal1912@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Remuneración $8000
+Security_code : tr5dc
+Send : Enviar
+
+---------------
+
+Address : 201.177.12.115
+Nombre : Yesica
+Apellido : Palazzo
+Cargo : Secretaria -Recepcionista - Atención al cliente - Compras - Facturacion 
+Direccion : Aranguren 1870
+Ciudad : Capital federal
+Telefono : 115473-6067
+Email : yesicapal1912@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Remuneracion $8000-$9000
+Security_code : sryw4
+Send : Enviar
+
+---------------
+
+Address : 190.226.98.180
+Nombre : María Florencia 
+Apellido : Llufriu
+Cargo : Rrhh (pasantia)
+Direccion : Del Monte S/N
+Ciudad : Mendiolaza
+Telefono : 0351-6622333
+Email : mf_llufriu@live.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola me llamo María Florencia Llufriu, tengo 22 años, y estoy cursando el segundo semestre de primer año de recursos humanos, y estoy interesada en hacer alguna pasantía de RRHH para irme interiorizando en el ambiente laboral y así ir conociendo más sobre ello. Gracias
+Security_code : 2p665
+Send : Enviar
+
+---------------
+
+Address : 190.192.133.26
+Nombre : Claudio Oscar
+Apellido : Rilo
+Cargo : Chofer / Asistente
+Direccion : Burela 1670
+Ciudad : Capital Federal
+Telefono : 011-6700-0778
+Email : claudiorilo@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimado
+
+Es de mi agrado poder escribir haciendo llegar mis antecedentes para la posición de Chofer /Asistente
+Como podrá observar en el Curriculum Vitae adjunto, tengo un muy buen nivel de inglés, experiencia en la posición en empresas de primera línea y conocimiento de diversas herramientas informáticas que incluyen Office e Internet.
+
+En cuanto a mis características personales, se destacan la flexibilidad y la buena predisposición para trabajar en equipo. Soy una persona discreta y confiable.
+
+Quedo a disposición para realizar las entrevistas que Ud. considere necesarias.
+Saludos cordiales,
+
+Claudio Rilo
+
+Security_code : 2Y4zk
+Send : Enviar
+
+---------------
+

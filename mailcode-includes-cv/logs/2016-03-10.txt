@@ -1,0 +1,127 @@
+Address : 181.29.159.125
+Nombre : Romina
+Apellido : Cingolani
+Cargo : Economista
+Direccion : Laprida 2125
+Ciudad : Ituzaingó, Buenos Aires
+Telefono : 1535892730
+Email : rominacingolani1990@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados
+Buenos días
+Me pongo en contacto con ustedes para ofrecerles mis curriculum con mis datos personales y profesionales, por si necesitan cubrir ahora o en un futuro, algún puesto que concuerde con mi perfil. Estoy interesada en crecer profesionalmente en lo que respecta a mis estudios en el área de Economía.
+Desde ya, muchas gracias por su atención.
+Saluda Atte.
+Romina Cingolani
+
+Security_code : pc7x4
+Send : Enviar
+
+---------------
+
+Address : 179.40.201.186
+Nombre : leandro isaac 
+Apellido : aragon
+Cargo : operario calificado de expedicion y deposito
+Direccion : atenas 1690
+Ciudad : isidro casanova
+Telefono : 1144665341
+Email : aragonleandroisaac@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : celular:(11)1567071607
+Security_code : tksks
+Send : Enviar
+
+---------------
+
+Address : 179.40.201.186
+Nombre : leandro isaac 
+Apellido : aragon
+Cargo : operario calificado de expedicion y deposito
+Direccion : atenas 1690
+Ciudad : isidro casanova
+Telefono : 1144665341
+Email : aragonleandroisaac@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : celular:(11)1567071607
+Security_code : txsks
+Send : Enviar
+
+---------------
+
+Address : 179.40.201.186
+Nombre : leandro isaac 
+Apellido : aragon
+Cargo : operario calificado de expedicion y deposito
+Direccion : atenas 1690
+Ciudad : isidro casanova
+Telefono : 1144665341
+Email : aragonleandroisaac@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : celular:(11)1567071607
+Security_code : txsks
+Send : Enviar
+
+---------------
+
+Address : 179.40.201.186
+Nombre : leandro isaac 
+Apellido : aragon
+Cargo : operario calificado de expedicion y deposito
+Direccion : atenas 1690
+Ciudad : isidro casanova
+Telefono : 1144665341
+Email : aragonleandroisaac@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : celular:(11)1567071607
+Security_code : ggtdn
+Send : Enviar
+
+---------------
+
+Address : 190.106.98.241
+Nombre : Carolina
+Apellido : Vargas
+Cargo : Contadora Publica
+Direccion : calle publica 4 Nº 3656 Bº Jardin Horizonte
+Ciudad : cordoba
+Telefono : 035155491661
+Email : carolinavaleriavargas@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Envio mi curriculum a fin de que lo tengan en cuenta para los puestos disponibles como contadora publica.
+Security_code : 7qzKj
+Send : Enviar
+
+---------------
+
+Address : 181.46.35.229
+REF : OEL
+Nombre : francisco javier
+Apellido : fernandez
+Cargo : oficial electricista
+Direccion : euskadi 1457
+Ciudad : banfield
+Telefono : 1135457639
+Email : francisco-fernandez1977@outlook.com
+MAX_FILE_SIZE : 2097152
+Mensaje : oficial electricista Tengo 15 años de experiencia en el rubro eléctrico, se de iluminación (6 años), mantenimiento en lugares de gran envergadura (9 años), soldadura eléctrica, manejo y puesta en marcha de grupos electrógenos, operario en producción, carnet de conducir (B1), muy atento al puesto asignado,perfil proactivo y capaz  Excelente manejo de relaciones interpersonales, disponible para viajar...
+Security_code : 8tgzg
+Send : Enviar
+
+---------------
+
+Address : 181.26.206.150
+Nombre : Maria Veronica
+Apellido : Juranovic
+Cargo : Ingeniero Agronomo
+Direccion : Pasaje Olimpia
+Ciudad : Avellaneda
+Telefono : 01142032587
+Email : verojuranovic@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola, estoy a punto de recibirme de Ingeniera Agronoma, en este momento finalizando mi tesis de grado, y quisiera encontrar un trabajo que me permita desempeñarme como tal, muchas gracias.
+Security_code : 2kv8p
+Send : Enviar
+
+---------------
+

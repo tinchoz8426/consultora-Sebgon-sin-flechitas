@@ -1,0 +1,48 @@
+Address : 190.231.157.58
+Nombre : Santiago
+Apellido : Galli
+Cargo : Mozo, atencion al cliente, seguridad
+Direccion : Almirante Brown
+Ciudad : Unquillo
+Telefono : 03543-15559344
+Email : santygalli@hotmail.es
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola quisiera encontrar un empleo de mozo, atencion al cliente en un comercio o seguridad.
+Security_code : bc6qw
+Send : Enviar
+
+---------------
+
+Address : 181.239.44.8
+Nombre : Federico Daniel
+Apellido : Segovia
+Cargo : Operario
+Direccion : Bergamini 1416
+Ciudad : Hurlingham
+Telefono : 1534523789
+Email : fede.segovia46@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Les envìo mi c.v.
+Security_code : kg55y
+Send : Enviar
+
+---------------
+
+Address : 200.81.38.194
+Nombre : Facundo Andres.
+Apellido : Luque Mantega.
+Cargo : Area de RRHH.
+Direccion : General Paz 3136.
+Ciudad : Córdoba.
+Telefono : +54351156479549
+Email : facundoandres.luque@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Objetivo Laboral:
+“Ser parte de una organización la cual me permita aplicar, aumentar y reforzar los conocimientos adquiridos en mis años de estudio.  Crecer profesionalmente dentro de una empresa solida que sepa reconocer el buen desempeño. Superarme en cada desafío que se me presente, así pudiendo adquirir una buena experiencia”. Perfil Profesional:
+Perfil profesional: Joven serio de buena presencia pro-activo, responsable, ordenado, tolerante, capaz de generar valor agregado a la organización mediante creación de ideas e iniciativas propias para la resolución de problemas, facilidad para trabajar en equipo y ser un factor motivante del mismo.
+
+Security_code : vt58b
+Send : Enviar
+
+---------------
+

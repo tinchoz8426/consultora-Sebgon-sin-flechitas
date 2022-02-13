@@ -1,0 +1,47 @@
+Address : 200.117.163.91
+Nombre : Maria Guadalupe
+Apellido : Velasco
+Cargo : ABASTECIMIENTO
+Direccion : Belgrano 1393 
+Ciudad : Banfield
+Telefono : 011 1541781338
+Email : mariagvelasco@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto mi CV para ser tenido en cuenta en futuras búsquedas, si asi lo consideran.
+Gracias.
+Atte
+Security_code : fbg9v
+Send : Enviar
+
+---------------
+
+Address : 190.191.138.146
+Nombre : Alejandra
+Apellido : Puppo
+Cargo : psicologo
+Direccion : diagonal 80
+Ciudad : La Plata
+Telefono : 2216617089
+Email : alejandrapuppo_1@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : mi busqueda apunta al área de salud o educación
+Security_code : 4v89p
+Send : Enviar
+
+---------------
+
+Address : 201.255.42.197
+Nombre : Walter Efrain
+Apellido : Silva
+Cargo : Mantenimiento- produccion
+Direccion : Laprida 1042
+Ciudad : Merlo
+Telefono : 011 6937 9788
+Email : walterefrainsilva@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola envio mi cv para ser considerado en sus busquedas laborales. Muchas gracias desde ya. 
+Security_code : h9fd6
+Send : Enviar
+
+---------------
+

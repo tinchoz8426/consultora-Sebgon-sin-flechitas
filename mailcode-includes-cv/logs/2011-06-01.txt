@@ -1,0 +1,32 @@
+Address : 190.174.117.237
+REF : gerente-de-operaciones
+Nombre : Vanina
+Apellido : Leguizamón
+Cargo : Vendedora de local
+Direccion : CNEL JOSE E. MENDEZ
+Ciudad : Avellaneda
+Telefono : 42069060
+Email : vanileg@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : CV Adjuntado
+Security_code : tzgs
+Send : Enviar
+
+---------------
+
+Address : 190.174.117.237
+REF : gerente-de-operaciones
+Nombre : Vanina
+Apellido : Leguizamón
+Cargo : Vendedora de local
+Direccion : CNEL JOSE E. MENDEZ
+Ciudad : Avellaneda
+Telefono : 42069060
+Email : vanileg@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : CV Adjuntado
+Security_code : tzgs
+Send : Enviar
+
+---------------
+

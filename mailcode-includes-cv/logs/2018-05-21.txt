@@ -1,0 +1,121 @@
+Address : 190.178.158.232<br>
+ <br>Nombre : Rocio Magali
+ <br>Apellido : Ferraro
+ <br>Cargo : Sin Especificaciones 
+ <br>Direccion : Callao 1334
+ <br>Ciudad : Villa Madero
+ <br>Telefono : 2326411052
+ <br>Email : rocioferrarom@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenos días, estoy en búsqueda laboral y me gustaría tener una oportunidad, muchas gracias
+ <br>Security_code : z3xcg
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.178.158.232<br>
+ <br>Nombre : Rocio Magali
+ <br>Apellido : Ferraro
+ <br>Cargo : Sin Especificaciones 
+ <br>Direccion : Callao 1334
+ <br>Ciudad : Villa Madero
+ <br>Telefono : 2326411052
+ <br>Email : rocioferrarom@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenos días, estoy en búsqueda laboral y me gustaría tener una oportunidad, muchas gracias
+ <br>Security_code : z3xcg
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.178.158.232<br>
+ <br>Nombre : Rocio Magali
+ <br>Apellido : Ferraro
+ <br>Cargo : Sin Especificaciones 
+ <br>Direccion : Callao 1334
+ <br>Ciudad : Villa Madero
+ <br>Telefono : 2326411052
+ <br>Email : rocioferrarom@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenos días, estoy en búsqueda laboral y me gustaría tener una oportunidad, muchas gracias
+ <br>Security_code : z3xcg
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.178.158.232<br>
+ <br>Nombre : rocio magali
+ <br>Apellido : ferraro
+ <br>Cargo : Sin Especificaciones 
+ <br>Direccion : Callao
+ <br>Ciudad : no
+ <br>Telefono : 2326411052
+ <br>Email : rocioferrarom@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : .
+ <br>Security_code : 325y2
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.171.8.224<br>
+ <br>Nombre : Andrea Mariana
+ <br>Apellido : Plügel
+ <br>Cargo : Administrativa-Administrativa Contable
+ <br>Direccion : Ramón Freire 1895 14° E
+ <br>Ciudad : CABA
+ <br>Telefono : 1567141586
+ <br>Email : marienplugel@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Les remito mi CV para ser considerado ante futuras búsquedas.Me enuentro en la búsqueda de un empleo full-time o part-time. Saludos cordiales,
+ <br>Security_code : t86vy
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.9<br>
+ <br>Nombre : Anabella
+ <br>Apellido : Barloqui
+ <br>Cargo : Cajera, administrativa
+ <br>Direccion : belgrano 2776
+ <br>Ciudad : Mar Del Plata
+ <br>Telefono : 02236963186
+ <br>Email : abarloqui@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas tardes, quisiera dejarles mi currículum, cualquier inquietud quedo a disposición.
+ <br>Security_code : fb3z2
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.111.206.122<br>
+ <br>REF : TE-1
+ <br>Nombre : luis
+ <br>Apellido : aldana
+ <br>Cargo : tecnico
+ <br>Direccion : sta maria de oro 1210
+ <br>Ciudad : moron bs as
+ <br>Telefono : 1553311137
+ <br>Email : aldanaluis11@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : hola soy luis aldana y mepostulo para el puesto de tecnico.
+ <br>Security_code : 5nKdw
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.1.46.113<br>
+ <br>Nombre : Hugo
+ <br>Apellido : LÓPEZ 
+ <br>Cargo : Operario
+ <br>Direccion : Rondeau 2649,San Martin 
+ <br>Ciudad : 1166473479
+ <br>Telefono : 47535222
+ <br>Email : lopezpilares2014@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Operario amplia experiencia
+ <br>Security_code : 2rrjy
+ <br>Send : Enviar
+ <br>
+---------------
+

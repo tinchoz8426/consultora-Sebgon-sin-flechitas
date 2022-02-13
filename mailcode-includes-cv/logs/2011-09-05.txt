@@ -1,0 +1,36 @@
+Address : 190.195.58.182
+Nombre : Catalina
+Apellido : Malizia Gatti
+Cargo : Analista Comunicacional
+Direccion : Anchorena 1169
+Ciudad : Capital Federal
+Telefono : 1567032695
+Email : catalinamalizia@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimada/o
+Mi nombre es Catalina Malizia quiero expresarle mi deseo de incorporarme a su equipo.  Actualmente me encuentro terminando la licenciatura en Comunicación Social; en cuanto a mi experiencia laboral, he tenido la oportunidad de trabajar en el área de la comunicación, realizando el seguimiento de producto, haciendo investigaciones de mercado, y desarrollando planes y estrategias de comunicación, entre otras actividades.
+Confío que tengo la experiencia y la capacitación académica para cumplir sus objetivos, y me encantaría poder desarrollarme como profesional en Sebgon.
+Dado el interés que ha despertado en mi su empresa, adjunto mi curriculum, y quedo a su entera disposición para una entrevista personal.
+Sin más me despido atte,  
+-- 
+Catalina Malizia Gatti
+Security_code : 2jxb8
+Send : Enviar
+
+---------------
+
+Address : 181.0.169.180
+Nombre : David
+Apellido : Diaz
+Cargo : indistinto
+Direccion : carolina cora 837
+Ciudad : General Rodriguez
+Telefono : 0237 480 0238
+Email : david.diaz11@live.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Necesito trabajo y no tengo problema en conseguirlo en otra ciudad 
+Security_code : rrt36
+Send : Enviar
+
+---------------
+

@@ -1,0 +1,65 @@
+Address : 181.109.213.46
+Nombre : Alcibiades de Jesús
+Apellido : soto
+Cargo : Operario soldador 
+Direccion : Jazmín
+Ciudad : Buenos aires
+Telefono : 1126319978/1151092361
+Email : ati.soto.24@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Experiencia  en soldadura con mig y eléctrica con electrodo  manejo de máquina manuales
+Security_code : 23c54
+Send : Enviar
+
+---------------
+
+Address : 181.109.213.46
+Nombre : Alcibiades de Jesús
+Apellido : soto
+Cargo : Operario soldador 
+Direccion : Jazmín
+Ciudad : Buenos aires
+Telefono : 1126319978/1151092361
+Email : ati.soto.24@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Experiencia  en soldadura con mig y eléctrica con electrodo  manejo de máquina manuales
+Security_code : 23c54
+Send : Enviar
+
+---------------
+
+Address : 200.115.201.177
+Nombre : Martin Gabriel
+Apellido : Godirio
+Cargo : Programacion
+Direccion : Manuel baliña
+Ciudad : banfield
+Telefono : 1555094809
+Email : marisasaldanio@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto mi curriculum.
+
+Desde ya muchas gracias
+Security_code : mbpb7
+Send : Enviar
+
+---------------
+
+Address : 186.134.26.148
+Nombre : Veronica
+Apellido : Lopez
+Cargo : Asistente/analista de RRHH o Atencion al cliente
+Direccion : Cobo 4309
+Ciudad : Moron
+Telefono : 15-3941-0882
+Email : zindel1982@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenas noches
+
+Adjunto cv con el objeto de postularme a diferentes busquedas laborales que puedan surgir, tanto en el sector de  RRHH como en Atencion al cliente. Saludos!
+Veronica Lopez
+Security_code : wrb3y
+Send : Enviar
+
+---------------
+

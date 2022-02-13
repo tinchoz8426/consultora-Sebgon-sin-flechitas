@@ -1,0 +1,128 @@
+Address : 200.126.214.67
+Nombre : Melina
+Apellido : Marichal
+Cargo : Administrativo/Secretariado/Recepcionista
+Direccion : Av. Pte Perón 1351
+Ciudad : San Fernando
+Telefono : 011-1559058139
+Email : melinamarichal_jac@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Esperando favorable respuesta, saluda atte: Melina Marichal
+Security_code : n4h6v
+Send : Enviar
+
+---------------
+
+Address : 190.139.1.72
+Nombre : Valentin
+Apellido : Marcial
+Cargo : Abogado, asesor legal
+Direccion : rioja 440
+Ciudad : san miguel de tucuman
+Telefono : 381-156615182
+Email : valentin_marcial@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : joven abogado, responsable, proactivo, con marcado perfil empresarial.
+Security_code : pr249
+Send : Enviar
+
+---------------
+
+Address : 190.139.1.72
+Nombre : Valentin
+Apellido : Marcial
+Cargo : Abogado, asesor legal
+Direccion : rioja 440
+Ciudad : san miguel de tucuman
+Telefono : 381-156615182
+Email : valentin_marcial@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : joven abogado, responsable, proactivo, con marcado perfil empresarial.
+Security_code : pr249
+Send : Enviar
+
+---------------
+
+Address : 186.57.152.9
+Nombre : Stefania 
+Apellido : Arnold
+Cargo : cajera 
+Direccion : Blas Parera 662
+Ciudad : Merlo
+Telefono : 1558413695
+Email : stefys_08@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Tengo el agrado de dirigirme a Uds. con el fin de transmitirles mi deseo en firme de incorporarme a su organización. A tal efecto adjunto, junto a la presente, mi CV. 
+
+Me presento como una persona activa, responsable, creativa, flexible, orientada al logro de resultados y a la resolución y evolución constante en las tareas asignadas.
+Security_code : crnwn
+Send : Enviar
+
+---------------
+
+Address : 186.57.152.9
+Nombre : Stefania
+Apellido : Arnold
+Cargo : cajera 
+Direccion : Blas Parera 662
+Ciudad : Merlo
+Telefono : 1558413695
+Email : stefys_08@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Tengo el agrado de dirigirme a Uds. con el fin de transmitirles mi deseo en firme de incorporarme a su organización. A tal efecto adjunto, junto a la presente, mi CV. 
+
+Me presento como una persona activa, responsable, creativa, flexible, orientada al logro de resultados y a la resolución y evolución constante en las tareas asignadas.
+Security_code : dnr7t
+Send : Enviar
+
+---------------
+
+Address : 186.57.152.9
+Nombre : Stefania
+Apellido : Arnold
+Cargo : cajera 
+Direccion : Blas Parera 662
+Ciudad : Merlo
+Telefono : 1558413695
+Email : stefys_08@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Tengo el agrado de dirigirme a Uds. con el fin de transmitirles mi deseo en firme de incorporarme a su organización. A tal efecto adjunto, junto a la presente, mi CV. 
+
+Me presento como una persona activa, responsable, creativa, flexible, orientada al logro de resultados y a la resolución y evolución constante en las tareas asignadas.
+Security_code : dnr7t
+Send : Enviar
+
+---------------
+
+Address : 186.57.152.9
+Nombre : Stefania
+Apellido : Arnold
+Cargo : cajera 
+Direccion : Blas Parera 662
+Ciudad : Merlo
+Telefono : 1558413695
+Email : stefys_08@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : 
+Me presento como una persona activa, responsable, creativa, flexible, orientada al logro de resultados y a la resolución y evolución constante en las tareas asignadas.
+Security_code : m3r95
+Send : Enviar
+
+---------------
+
+Address : 190.48.210.27
+Nombre : Fabian Alejandro
+Apellido : Ponce
+Cargo : operario
+Direccion : araoz 3061
+Ciudad : moron
+Telefono : 1557649477
+Email : mari_ponce07@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : NO PUCDE DESCARGAR EL CURRICULUM, SI BIEN ME POSTULE PARA EL PUESTO DE OPERARIO TENGO EXPERIENCIA EN OTROS RUBROS.. ESPERO SER LLAMADO PARA UNA ENTREVISTA. 
+Gracias
+Security_code : f8drx
+Send : Enviar
+
+---------------
+

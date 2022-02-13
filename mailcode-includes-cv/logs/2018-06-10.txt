@@ -1,0 +1,48 @@
+Address : 181.168.118.92<br>
+ <br>REF : SP-1
+ <br>Nombre : Fabian Antonio
+ <br>Apellido : Kuchta
+ <br>Cargo : Supervisor de producción
+ <br>Direccion : Gral. Roca 1330
+ <br>Ciudad : Don Bosco, ptdo Quilmes
+ <br>Telefono : 1554849138
+ <br>Email : fabiankuchta@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenos días, mis deseo es poder desempeñarme en la empresa en forma trabajando grupalmente aportando todos mis conocimientos y experiencia en post de lograr los objetivos establecidos
+ <br>Security_code : nfk48
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.194.193.43<br>
+ <br>REF : JPER-1
+ <br>Nombre : Luciano Damian
+ <br>Apellido : Gonzalez Posca
+ <br>Cargo : Jefe de Personal
+ <br>Direccion : Arenales 2832
+ <br>Ciudad : Ciudad Autonoma Buenos Aires
+ <br>Telefono : 0111558268011
+ <br>Email : lucianoposca@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje :   
+ <br>Security_code : pssgf
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.9<br>
+ <br>REF : ROT-1
+ <br>Nombre : Ignacio Nicolás
+ <br>Apellido : Banchero
+ <br>Cargo : Responsable de Oficina Técnica
+ <br>Direccion : Güemes 3036
+ <br>Ciudad : Merlo, Zona Oeste GBA
+ <br>Telefono : 11-5630-2015
+ <br>Email : ibanchero.utnfra@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Adjunto mi CV para su evaluación.
+ <br>Security_code : Vk6pf
+ <br>Send : Enviar
+ <br>
+---------------
+

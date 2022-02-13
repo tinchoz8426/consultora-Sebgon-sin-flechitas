@@ -1,0 +1,77 @@
+Address : 200.63.75.253
+Nombre : Alejandra Vanina
+Apellido : de Sala
+Cargo : comercial/administrativo
+Direccion : 5 nro.1180 e/520 y 521
+Ciudad : La Plata
+Telefono : 0221-15-497-9863
+Email : vanina_patito@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenas tardes,
+Envio en el adjunto mi cv y mi carta de presentación. muchas gracias
+Security_code : v2wdw
+Send : Enviar
+
+---------------
+
+Address : 186.59.12.250
+Nombre : Giuliana
+Apellido : Chiaramonte
+Cargo : 5500
+Direccion : Av. Colón 460
+Ciudad : Mendoza
+Telefono : 261 5582652
+Email : Colochiaramonte@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Quiero trabajar, no importa en que área.. 
+Security_code : s6wdd
+Send : Enviar
+
+---------------
+
+Address : 190.227.94.205
+Nombre : Melina
+Apellido : Ponce
+Cargo : Administrativa
+Direccion : Mitre 554
+Ciudad : Buenos Aires
+Telefono : 15-4087-5570
+Email : melinaponce67@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Envío mi Curriculum para que me tegan en cuenta en su empresa.
+
+Security_code : v5psr
+Send : Enviar
+
+---------------
+
+Address : 190.227.94.205
+Nombre : Melina
+Apellido : Ponce
+Cargo : Administrativa
+Direccion : Mitre 554
+Ciudad : Buenos Aires
+Telefono : 15-4087-5570
+Email : melinaponce67@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Envío mi Curriculum para que me tengan en cuenta en su empresa.
+Security_code : fcyw6
+Send : Enviar
+
+---------------
+
+Address : 200.68.92.181
+Nombre : Elena Carmen
+Apellido : Deluca
+Cargo : Auxiliar de Compras
+Direccion : Sta. M. de Oro 3029-1ºP. dpto. "A"
+Ciudad : Castelar
+Telefono : 15-6286-2454
+Email : elenacdeluca@yahoo.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Auxiliar de Compras, zona Hurlingham
+Security_code : k9bcs
+Send : Enviar
+
+---------------
+

@@ -1,0 +1,75 @@
+Address : 190.191.215.149
+Nombre : Ileana
+Apellido : Aiello
+Cargo : Secretaria, recepcionista,atención al cliente
+Direccion : grand bourg
+Ciudad : buenos aires
+Telefono : 1131352776 
+Email : ileanaiello@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto mi cv junto a mi carta de presentación...
+Security_code : 2bn2d
+Send : Enviar
+
+---------------
+
+Address : 190.19.152.151
+Nombre : mariana
+Apellido : bibbo
+Cargo : psicologa
+Direccion : calle 30 nro 878
+Ciudad : balcarce
+Telefono : 2266448871
+Email : marianabibbo@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Aquí les envío mi curriculum vitae para ser tenido en cuenta en busquedas de personal
+Security_code : gvwwd
+Send : Enviar
+
+---------------
+
+Address : 186.57.78.16
+Nombre : sergio Mauricio
+Apellido : Ocampo
+Cargo : Varios
+Direccion : D.F Sarmiento 419
+Ciudad : Suipacha
+Telefono : 2324686915
+Email : so281297@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : actualmente estoy desempleado.
+Security_code : trhc3
+Send : Enviar
+
+---------------
+
+Address : 186.57.78.16
+Nombre : sergio Mauricio
+Apellido : Ocampo
+Cargo : Varios
+Direccion : D.F Sarmiento 419
+Ciudad : Suipacha
+Telefono : 2324686915
+Email : so281297@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : actualmente estoy desempleado.
+Security_code : trhc3
+Send : Enviar
+
+---------------
+
+Address : 181.44.14.37
+Nombre : claudio
+Apellido : romano
+Cargo : vigilador
+Direccion : BALCARCE 2211
+Ciudad : lomas del mirador
+Telefono : 20675279
+Email : romano_990@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : hola queria saber si nesecitan vigilador estoy sin trabajar
+Security_code : pkkgy
+Send : Enviar
+
+---------------
+

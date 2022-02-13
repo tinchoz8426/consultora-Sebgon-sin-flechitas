@@ -1,0 +1,139 @@
+Address : 186.19.250.152
+Nombre : María Belén
+Apellido : Enrico
+Cargo : Administrativo Contable
+Direccion : Araoz 1113
+Ciudad : Capital Federal
+Telefono : 0342-156147166/011-47739035
+Email : belen_enrico@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : -
+Security_code : bcypj
+Send : Enviar
+
+---------------
+
+Address : 186.19.250.152
+REF : Asistente-Contable
+Nombre : María Belén
+Apellido : Enrico
+Cargo : Administrativo Contable
+Direccion : Araoz 1113
+Ciudad : Capital Federal
+Telefono : 0342-156147166/011-47739035
+Email : belen_enrico@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : -
+Security_code : p2m3d
+Send : Enviar
+
+---------------
+
+Address : 201.252.159.122
+Nombre : Johana
+Apellido : Maldonado
+Cargo : secretaria
+Direccion : Miguel Cane 158
+Ciudad : Cordoba
+Telefono : 0351-4994251
+Email : johana-facu@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : De mi mayor consideración
+Por medio de la presente me dirijo a Ud. Y por su digno intermedio ante quien corresponda, a los efectos de solicitar una entrevista personal que permita acordar mi incorporación a la firme que representa.
+Adjunto a ésta mi Curriculum Vitae detallado datos personales, antecedentes laborales.
+Si mis conocimientos son acordes  a los requerimientos solicitados por esta firma, desearía que se comunique conmigo para concretar una entrevista en la fecha y lugar que Ud. crea conveniente.
+Quedando a la espera de una pronta y favorable respuesta, me despido de Ud. Y lo saludo con el mayor respeto.
+Johana Maldonado
+
+Security_code : j24wf
+Send : Enviar
+
+---------------
+
+Address : 186.56.136.39
+Nombre : mario andres
+Apellido : martinez
+Cargo : operario metalurgico
+Direccion : Padre Moraga nº 3295
+Ciudad : Pontevedra /Merlo
+Telefono : 0220-493-4159
+Email : mario.a.martinez@live.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : estoy interesado en el puesto de operario metalurgico para zona oeste. gracias
+Security_code : xdt23
+Send : Enviar
+
+---------------
+
+Address : 190.113.140.238
+Nombre : FERNANDA
+Apellido : FERRO
+Cargo : ADMINISTRATIVO
+Direccion : MARTINEZ DE ROSAS 1526
+Ciudad : MENDOZA
+Telefono : 2612476710
+Email : ferromfernanda@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola, me gustaría poder mandar mi CV para que puedan tenerlo en cuenta en caso de alguna oferta laboral que ustedes consideren puedo serles de utilidad
+Security_code : 5YZZ7
+Send : Enviar
+
+---------------
+
+Address : 190.30.211.93
+REF : ADMINISTRATIVO-DE-LOGISTICA
+Nombre : Alberto Oscar
+Apellido : Palmieri
+Cargo : Logística
+Direccion : Calle 5 1296 
+Ciudad : Capilla del Monte
+Telefono : 3548-463832
+Email : palmieri-rx.2010@hotmail.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje :  De mi mayor consideración, me dirijo a usted con el fin de poner a disposición mi C.V con el objetivo de postularme para empleos acordes a mi perfil, poseo mas de tres años de  mas de 8 años de experiencia en diferentes industrias, conocimiento avanzado de pc, conocimientos de Normas ISO, entre otros. 
+                     Me considero una persona pro activa, responsable con muchas ganas de trabajar. 
+
+                    Sin otro particular lo saludos atte.
+
+Desde ya muchas gracias por su tiempo. 
+Security_code : 2x25s
+Send : Enviar
+
+---------------
+
+Address : 190.30.211.93
+REF : JEFE-DE-OPERACIONES
+Nombre : Alberto Oscar
+Apellido : Palmieri
+Cargo : Acordes a mi perfil
+Direccion : Calle 5 1296 
+Ciudad : Capilla del Monte
+Telefono : 3548-463832
+Email : palmieri-rx.2010@hotmail.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje :  De mi mayor consideración, me dirijo a usted con el fin de poner a disposición mi C.V con el objetivo de postularme para empleos acordes a mi perfil, poseo mas de tres años de  mas de 8 años de experiencia en diferentes industrias, conocimiento avanzado de pc, conocimientos de Normas ISO, entre otros. 
+                     Me considero una persona pro activa, responsable con muchas ganas de trabajar. 
+
+                    Sin otro particular lo saludos atte.
+
+Desde ya muchas gracias por su tiempo. 
+Security_code : f97s5
+Send : Enviar
+
+---------------
+
+Address : 201.255.20.147
+Nombre : gabriel
+Apellido : mellado
+Cargo : empleo part- time
+Direccion : juan vucetich 4537
+Ciudad : buenos aires
+Telefono : 4689527
+Email : prodigy_390_gaby@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : gracias por aceptar mi cv .Me gustaria tener empleo por zona oeste 
+Security_code : kxgxp
+Send : Enviar
+
+---------------
+

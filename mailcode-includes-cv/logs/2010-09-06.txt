@@ -1,0 +1,32 @@
+Address : 186.108.179.37
+REF : gerente-financiero
+Nombre : Maria Cristina 
+Apellido : Gutierrez
+Cargo : cualquiera 
+Direccion : Pasaje / Zorrilla N 215
+Ciudad : Salta
+Telefono : 0387-155047078
+Email : mariapurisima007@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : les agradesco de ante mano su pronta respuesta muchas gracias
+Security_code : k8rw2
+Send : Enviar
+
+---------------
+
+Address : 200.105.111.85
+Nombre : Carolina
+Apellido : Ferrante
+Cargo : administracion, publicidad, cuentas, seguros
+Direccion : Pje Cina Cinas 50
+Ciudad : Villa Gral Belgrano
+Telefono : 011 1557199468
+Email : caro_ferrante@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Los puestos a los que me postulo son varios ya que mi experiencia se formo en variados puestos, en diferentes empresas.
+Mi lugar de trabajo se extiende a todo el valle de Calamuchita.
+Security_code : zzh98
+Send : Enviar
+
+---------------
+

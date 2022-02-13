@@ -1,0 +1,53 @@
+Address : 181.92.153.158<br>
+ <br>Nombre : Leila Loreley
+ <br>Apellido : Ramseyer
+ <br>Cargo : Administrativo Contable
+ <br>Direccion : Pje. Platense N° 1575
+ <br>Ciudad : Reconquista, Santa Fe
+ <br>Telefono : (03482) 677925
+ <br>Email : leilaramseyer@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Cooperadora, proactiva, con ganas de enfrentar desafíos que brindan las nuevas experiencias
+ <br>Security_code : cskx2
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.254.71.147<br>
+ <br>Nombre : Estefania
+ <br>Apellido : Ventura 
+ <br>Cargo : Administrativa 
+ <br>Direccion : Av.Presidente Figueroa Alcorta 463
+ <br>Ciudad : Castelar 
+ <br>Telefono : 1536006981
+ <br>Email : estefania.gala@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Escribo este mensaje para el puesto de Administrativa. Tengo experiencia en manejo de archivo,agenda de citas, atención al cliente y conocimientos avanzados de Excel. Adjunto mi CV en este correo.
+
+Desde ya muchas gracias y excelente día.
+
+Estefania Gala Ventura 
+ <br>Security_code : 33jw5
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.254.71.147<br>
+ <br>Nombre : Estefania
+ <br>Apellido : Ventura 
+ <br>Cargo : Administrativa 
+ <br>Direccion : Av.Presidente Figueroa Alcorta 463
+ <br>Ciudad : Castelar 
+ <br>Telefono : 1536006981
+ <br>Email : estefania.gala@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Escribo este mensaje para el puesto de Administrativa. Tengo experiencia en manejo de archivo,agenda de citas, atención al cliente y conocimientos avanzados de Excel. Adjunto mi CV en este correo.
+
+Desde ya muchas gracias y excelente día.
+
+Estefania Gala Ventura 
+ <br>Security_code : 33jw5
+ <br>Send : Enviar
+ <br>
+---------------
+

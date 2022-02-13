@@ -1,0 +1,30 @@
+Address : 190.105.88.159
+Nombre : Gerardo José
+Apellido : Rosales
+Cargo : Ventas
+Direccion : Mazza 2498
+Ciudad : los Polvorines
+Telefono : 15-5737-0089
+Email : gerardo5h23@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenos días, agradeceré tengan en cuenta mi Cv y si es posible, me permitan ampliar la información.Gracias.
+Security_code : js2th
+Send : Enviar
+
+---------------
+
+Address : 190.226.146.111
+Nombre : Pablo Nicolas
+Apellido : Herrera
+Cargo : Vendedor
+Direccion : Juan Pablo II Nº 551 Bº Malvinas
+Ciudad : Jujuy
+Telefono : 0388-4254544
+Email : Pablo_Nicolas_Herrera@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Busco Trabajar
+Security_code : 4xwn5
+Send : Enviar
+
+---------------
+

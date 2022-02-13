@@ -1,0 +1,64 @@
+Address : 190.191.130.113
+Nombre : Fernanda
+Apellido : Chapado
+Cargo : Traductora
+Direccion : 51 n° 1018, 5G
+Ciudad : La Plata
+Telefono : 0221 154594259
+Email : fernandachapado@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : A quien corresponda,
+
+mi nombre es Fernanda Chapado. Soy traductora del inglés al español.
+
+Adjunto mi CV y quedo a su disposición para futuros contactos.
+
+Atte.,
+
+Fernanda Chapado.
+Security_code : y4qsj
+Send : Enviar
+
+---------------
+
+Address : 190.191.130.113
+Nombre : Fernanda
+Apellido : Chapado
+Cargo : Traductora
+Direccion : 51 n° 1018, 5G
+Ciudad : La Plata
+Telefono : 0221 154594259
+Email : fernandachapado@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : A quien corresponda,
+
+mi nombre es Fernanda Chapado. Soy traductora del inglés al español.
+
+Adjunto mi CV y quedo a su disposición para futuros contactos.
+
+Atte.,
+
+Fernanda Chapado.
+
+Security_code : n5ywy
+Send : Enviar
+
+---------------
+
+Address : 186.22.46.86
+Nombre : Adrián
+Apellido : Noguera
+Cargo : Cajero, administrativo, comercial, operario
+Direccion : Santamaría 1612
+Ciudad : San Justo
+Telefono : 35263322/ 1560584055
+Email : adrian_noguera_d@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola! Mi nombre es Adrián Noguera, tengo 21 años y busco un empleo en el que pueda capacitarme y aprender. Poseo disponibilidad horaria full time y experiencia en atención al cliente. Espero su respuesta.
+
+Saludos y éxitos!
+Security_code : ykc2r
+Send : Enviar
+
+---------------
+

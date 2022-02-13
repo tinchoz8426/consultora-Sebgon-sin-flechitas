@@ -1,0 +1,59 @@
+Address : 190.17.38.141
+Nombre : Sandra
+Apellido : Ruiz-Aguilar
+Cargo : Banco/Administrativo/Soporte Tecnico
+Direccion : Larrañaga 319
+Ciudad : Cordoba
+Telefono : 0351 (15) 625 9009
+Email : sandra.ruizaguilar@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenos dias, envio mi CV por si se adecuara a alguna busqueda. Muchas gracias.
+Security_code : nc56c
+Send : Enviar
+
+---------------
+
+Address : 190.245.18.21
+Nombre : Melina
+Apellido : Silvestri
+Cargo : Pasante de RRHH
+Direccion : Calasanz 435
+Ciudad : Buenos Aires
+Telefono : 1536312064
+Email : silvestrimelina@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Busco un trabajo part-time para adquirir experiencia en el área de RRHH.
+Security_code : r7qfs
+Send : Enviar
+
+---------------
+
+Address : 190.244.15.214
+Nombre : Andrés
+Apellido : Vergara
+Cargo : Comercial y/o Marketing
+Direccion : Oro 2366, Palermo
+Ciudad : Buenos Aires
+Telefono : 1541909036
+Email : andresvergara570@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimado (a),
+
+Antes que nada me permito presentarme, mi nombre es Andrés Vergara, soy venezolano y estoy viviendo en Buenos Aires desde hace 6 meses con mi esposa.
+
+El motivo de mi consulta es me gustaría recibir algún tipo de asesoría en la búsqueda laboral ya que desde hace 5 meses que busco trabajo y no he encontrada nada acorde a mi perfil. Mi experiencia es en las áreas comerciales y marketing, también poseo conocimientos financieros.
+
+Me gustaría saber si uds ofrecen tipo de asesoramiento ó consultoría para ayudarme con mi búsqueda laboral.
+
+Aguardo por tus comentarios y adjunto mi CV en caso de necesitarlo.
+
+Mil gracias, 
+
+Andrés Vergara
+15 4190 9036
+
+Security_code : 9d4ms
+Send : Enviar
+
+---------------
+

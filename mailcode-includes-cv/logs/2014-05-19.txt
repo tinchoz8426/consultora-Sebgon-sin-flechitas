@@ -1,0 +1,283 @@
+Address : 181.1.37.194
+Nombre : Andres Miguel
+Apellido : Javier
+Cargo : Tecnico Universitario en Perforaciones
+Direccion : Rivadavia 860
+Ciudad : Tartagal-Salta
+Telefono : 03873-15676689
+Email : andruj_1488@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Tecnico graduado hace poco tiempo en Perforaciones de pozos, futuro a graduarse de ingeniero. Capacitado para cualquier trabajo en el ambito petrolero, minero y perforaciones de pozos de agua. amplia dis`ponibilidad horaria 
+Security_code : v4jr3
+Send : Enviar
+
+---------------
+
+Address : 181.29.213.70
+REF : GETECOM
+Nombre : Juan Manuel 
+Apellido : Mascarell
+Cargo : Gerente de Compras
+Direccion : Dr. Caviglia 823
+Ciudad : Wilde
+Telefono : 15-5-655-1387
+Email : juanmanuel1973@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : En virtud de su busqueda  les hago llegar CV para su evaluacion. 
+Security_code : sd277
+Send : Enviar
+
+---------------
+
+Address : 200.89.143.178
+Nombre : erik
+Apellido : garcia
+Cargo : petroleo
+Direccion : rio bermejo
+Ciudad : plottier
+Telefono : 02994735794
+Email : erik_garcia2013@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : disponible en cualquier momento
+Security_code : v4jr3
+Send : Enviar
+
+---------------
+
+Address : 190.30.168.82
+Nombre : Gustavo
+Apellido : ARO
+Cargo : Encargado
+Direccion : Araoz 1764
+Ciudad : CABA
+Telefono : 48346216
+Email : gustavoaro@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimado/a:
+Tengo el agrado de dirigirme a Uds. con el fin de transmitirles mi deseo de estár en su base de datos, a efectos de conseguir un empleo. Adjunto mi Curriculum Vitae.
+Me presento como una persona activa, responsable, flexible, orientada al logro de resultados.
+Si cree necesario podría acercarme personalmente para una entrevista, mi teléfono es el 15-68978196 o por mail gustavoaro@hotmail.com
+Estoy en condiciones de asumir el empleo en forma inmediata y no poseo inconveninte con los horarios.
+Quedo a la espera de su respuesta. 
+Atentamente.
+ARO, Gustavo Raúl 
+Security_code : 38dyq
+Send : Enviar
+
+---------------
+
+Address : 190.0.183.230
+Nombre : María de los Ángeles 
+Apellido : Martinez
+Cargo : Vendedora/Atención al cliente
+Direccion : Pueyrredon 1111
+Ciudad : San Antonio de Padua
+Telefono : (011) 15-3466-0032 
+Email : liberty_copy@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Buen día, me dirijo a ustedes con el fin de dar a conocer mi Curriculum Vitae, ante posibles futuras búsquedas que se adapten a mi perfil comercial. Desde ya gracias por su atención saluda atentamente.MAM
+Security_code : 5vd3h
+Send : Enviar
+
+---------------
+
+Address : 186.128.160.175
+REF : GETECOM
+Nombre : Luis Cesar
+Apellido : Mercado
+Cargo : GETECOM
+Direccion : Perito Moreno 321-6°A
+Ciudad : NEUQUEN
+Telefono : 0299-6219000
+Email : luismercado2@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Sres: He gestionado el sector Compras en varios de mis trabajos: Gerente-Administrador de Contratos en ORICA, Jefe de Calidad Tunel Pascua-Lama para Cartellone-Redpathmining
+Security_code : 46rtb
+Send : Enviar
+
+---------------
+
+Address : 190.136.204.131
+REF : GETECOM
+Nombre : valeria
+Apellido : Mallarino
+Cargo : gerente de compras
+Direccion : Donado 592
+Ciudad : Rosario
+Telefono : 0341- 4568267
+Email : valeriamallarino@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Sres buenos días, soy d ela ciudad de Rosario, pero estoy dispuesta a radicarme en otra ciudad, la razón: por temas de inseguridad en Rosario, intento tener una mejor calidad de vida
+Security_code : px3d5
+Send : Enviar
+
+---------------
+
+Address : 190.136.204.131
+REF : GETECOM
+Nombre : valeria
+Apellido : Mallarino
+Cargo : gerente de compras
+Direccion : Donado 592
+Ciudad : Rosario
+Telefono : 0341 4568267
+Email : valeriamallarino@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : sres buenos días: soy de la ciudad de Rosario, peor estoy dispuesta a radicarme en otra ciudad . muchas gracias. saludos cordiales
+Security_code : 2b6tk
+Send : Enviar
+
+---------------
+
+Address : 190.50.159.62
+Nombre : Aldana Cecilia
+Apellido : Shearer
+Cargo : Selectora de Personal
+Direccion : Martin Castro 2338
+Ciudad : Ituzaingó
+Telefono : 153035-5091
+Email : aldana_shearer@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : De mi mayor consideración,
+
+                            Me dirijo con el fin de hacerle llegar mi Curriculum Vitae, conteniendo mis datos personales, así como también mi experiencia laboral.
+ 
+Soy Licenciada en Recursos Humanos con perfil generalista, y mi objetivo es integrarme a un equipo de trabajo, donde pueda desempeñarme de manera responsable, con actitud proactiva y pueda aportar mis conocimientos y experiencia a lo largo de mi carrera profesional contribuyendo al logro y cumplimiento de los objetivos establecidos por la organización.
+ 
+Adjunto mi Curriculum Vitae, a fin de que pueda ser tenido en cuenta para su actual o futuras búsquedas, quedando a la espera de una entrevista personal para profundizar aspectos de mi perfil que resulten de su interés.
+ 
+Sin otro particular,
+Saludo cordialmente,
+ 
+Aldana Shearer
+Security_code : 895fy
+Send : Enviar
+
+---------------
+
+Address : 190.105.31.153
+Nombre : MARIA SILVIA 
+Apellido : ROLDAN
+Cargo : ÑIC TRABAJO SOCIAL
+Direccion : LAS CATALPAS 1040
+Ciudad : lujan
+Telefono : 0232315633391   
+Email : mariasilviaroldan@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : envio mi cv para su evaluacion. 
+saludos
+Security_code : bjz5q
+Send : Enviar
+
+---------------
+
+Address : 181.110.96.202
+Nombre : Cecilia
+Apellido : villaverde
+Cargo : no tengo preferencia especificas
+Direccion : poeta lugondes 208 3b
+Ciudad : cordoba
+Telefono : 0352157632798
+Email : ceci_7_14@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : le agradezco desde ya que me tengan en cuenta!
+Security_code : fjwnr
+Send : Enviar
+
+---------------
+
+Address : 201.231.31.212
+Nombre : Martin
+Apellido : Consiglio
+Cargo : Gerente de Compras
+Direccion : 9 de Julio 3151 PB1
+Ciudad : Rosario
+Telefono : 543413109151
+Email : martinconsiglio@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Andrea Tambascio:
+Le envío mi CV en formato jpg y también en el siguiente enlace on-line: http://martinconsiglio.wix.com/curriculumvitae
+Espero estar a la altura de su búsqueda, aunque no estoy dentro del rango de sus requisitos, se que puedo satisfacerlos, ya que tengo capacidad de aprendizaje, por los distintos rubros laborales en los cuales me he desempeñado.
+
+Mi rem. Pret., teniendo en cuenta que ofrecen una vivienda es de $10.000.
+Muchas gracias.
+Security_code : 57m5t
+Send : Enviar
+
+---------------
+
+Address : 190.244.224.203
+Nombre : Claudia
+Apellido : Peruzzo
+Cargo : personal de limpieza
+Direccion : Machain 1353
+Ciudad : Rosario
+Telefono : 543414866729
+Email : claudiaperuzzo72@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Personales:
+Nombre y Apellido: Claudia Curriculum Vitae
+Datos Peruzzo
+Edad: 42 años
+D.N.I: 22387783
+Cuil: 20-22387783-4
+Domicilio: Machain 1353 (zona norte)
+Nacionalidad: Argentina
+Ciudad: Rosario
+Cogido Postal: 2000
+Estado civil: Casada
+Hijos: 2 (de 19 años y 21 años)
+Tel: 4866729
+Celular: (0341) 155692504
+
+Estudios cursados:
+Primaria: completa, Colegio San Carlos ,San Lorenzo
+Secundaria: completa; Escuela de Enseñanza Media N ° 325, Capitán Bermúdez.
+Internet: básico
+Inglés: básico
+
+Experiencia laboral:
+1988-1990: Empleada, limpieza, ayudante de cocina y atención al público, Panadería y confitería "La Llave”, San Martin 1720, San Lorenzo.
+1998-2000 Empleada, limpieza y atención al público, Bazar Erquicia, Urquiza 3446, Rosario.
+2000-2009: Empleada doméstica en diferentes casas de familias.
+2009-2011: Empleada como mucama en Hotel Rosario y ayudante de cocina, Cortada Ricardone 1365, allí me desempeñe como mucama cubriendo reemplazos y cubriendo vacaciones de mucamas y también trabajaba en casas de familias durante esta misma fecha.
+2011-2014: Empleada de limpieza en distintos comercios, domicilios particulares, talleres de costuras, por referencias Señor Ricardo tel: 4247321
+
+Security_code : s2wm7
+Send : Enviar
+
+---------------
+
+Address : 181.28.190.219
+REF : GTE COM.EXT
+Nombre : Martin John
+Apellido : van der Meijden
+Cargo : gte com.etx
+Direccion : Charcas 1652
+Ciudad : Beccar, San Isidro
+Telefono : 155 829 8468
+Email : marvdm@yahoo.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Ante cualquier inquietud, estoy a su dispocision.
+Atte,
+Lic. Martin J. van der Meijden.
+Security_code : s2wm7
+Send : Enviar
+
+---------------
+
+Address : 181.20.81.233
+Nombre : laura andrea
+Apellido : ramirez
+Cargo : atencion al cliente
+Direccion : cervantes 1582
+Ciudad : Moreno
+Telefono : 011-59125190
+Email : lauandrearamirez@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Gracais por aceptar mi cv y ser parte de su base de datos.
+Security_code : gxr63
+Send : Enviar
+
+---------------
+

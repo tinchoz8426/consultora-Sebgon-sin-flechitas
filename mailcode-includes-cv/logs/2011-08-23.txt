@@ -1,0 +1,45 @@
+Address : 190.188.60.31
+Nombre : Ricardo Alberto
+Apellido : Robledo
+Cargo : Técnico Electrónico
+Direccion : Gobernador Irigoyen 155-7º A
+Ciudad : Lanus 
+Telefono : 1551256621
+Email : ricardo1robledo@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Agradezco por las posibilidades futuras 
+Security_code : 9c9tK
+Send : Enviar
+
+---------------
+
+Address : 186.111.163.45
+Nombre : mario andres
+Apellido : ruiz diaz
+Cargo : vigilador
+Direccion : castro barros 4230
+Ciudad : jose c. paz
+Telefono : 1168082367
+Email : mario_andres_ruizdiaz@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : busco empleo como vigilador
+Security_code : 63b5p
+Send : Enviar
+
+---------------
+
+Address : 186.18.102.94
+Nombre : Jorge
+Apellido : Espinolas
+Cargo : Mantenimiento edilicio
+Direccion : Sto Tome 5495
+Ciudad : CABA
+Telefono : 1555913299
+Email : jees_bsasyahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : q
+Security_code : 4f3r8
+Send : Enviar
+
+---------------
+

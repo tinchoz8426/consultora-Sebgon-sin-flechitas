@@ -1,0 +1,257 @@
+Address : 181.29.250.103
+Nombre : Maria Florencia
+Apellido : Pontoni
+Cargo : Administrativo
+Direccion : Urquiza  1841 P. 8 Dpto. D
+Ciudad : Santa Fe
+Telefono : 0342 154296988
+Email : florencia_pontoni_1979@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Poseo titulo de Abogada.-
+Security_code : m2qpf
+Send : Enviar
+
+---------------
+
+Address : 181.29.250.103
+Nombre : Maria Florencia
+Apellido : Pontoni
+Cargo : Administrativo
+Direccion : Urquiza  1841 P. 8 Dpto. D
+Ciudad : Santa Fe
+Telefono : 0342 154296988
+Email : florencia_pontoni_1979@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : xxxx
+Security_code : mxkn7
+Send : Enviar
+
+---------------
+
+Address : 181.29.250.103
+Nombre : Maria Florencia
+Apellido : Pontoni
+Cargo : Administrativo
+Direccion : Urquiza  1841 P. 8 Dpto. D
+Ciudad : Santa Fe
+Telefono : 0342 154296988
+Email : florencia_pontoni_1979@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : xxxxx
+Security_code : 37tcq
+Send : Enviar
+
+---------------
+
+Address : 186.135.47.3
+Nombre : Amelia Mercedes
+Apellido : Suarez
+Cargo : encuestadora socio- ambiental
+Direccion : BARRIENTOS 4931 ENTRE FARDMAN Y FOURNIER
+Ciudad : GONZALEZ CATAN
+Telefono : 1150355648
+Email : ame_080285@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me presento como una persona proactiva, capaz de trabajar en equipo, asesorar a quienes correspondan y facilidad comunicativa. Con mucha voluntad de trabajar, aprender  y aplicar mis conocimientos adquiridos.
+
+			
+                     Me agradaría poder ampliar la información que precise en una entrevista personal, para lo que quedo a su disposición.
+
+Security_code : st5tm
+Send : Enviar
+
+---------------
+
+Address : 186.135.47.3
+Nombre : Amelia Mercedes
+Apellido : Suarez
+Cargo : encuestadora socio- ambiental
+Direccion : BARRIENTOS 4931 ENTRE FARDMAN Y FOURNIER
+Ciudad : GONZALEZ CATAN
+Telefono : 1150355648
+Email : ame_080285@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me presento como una persona proactiva, capaz de trabajar en equipo, asesorar a quienes correspondan y facilidad comunicativa. Con mucha voluntad de trabajar, aprender  y aplicar mis conocimientos adquiridos.
+
+			
+                     Me agradaría poder ampliar la información que precise en una entrevista personal, para lo que quedo a su disposición.
+
+Security_code : st5tm
+Send : Enviar
+
+---------------
+
+Address : 190.1.62.59
+Nombre : Melisa Cristina
+Apellido : Cuzcueta
+Cargo : Administrativa. Recepcionista
+Direccion : Tehuelches 607
+Ciudad : Bahia Blanca
+Telefono : 0291-154120402
+Email : meli.cuzcueta@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : En busca de un trabajo que me permita progresar.
+Security_code : rgr5s
+Send : Enviar
+
+---------------
+
+Address : 190.48.109.73
+Nombre : mariel agostina
+Apellido : insaurralde culzoni
+Cargo : analista de recursos humanos
+Direccion : matheu 727 4 g
+Ciudad : capital federal
+Telefono : 1565689494
+Email : marieculzoni@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Soy licenciada en Relaciones del trabajo me encuentro en la busqueda de empleo para area de rrhh y atencion al cte al cual tengo experiencia. mi objetivo es desarrollar mi responsabilidad, profesionalismo y creatividad dentro de una empresa solida. Mediante los conocimientos que he obtenido dentro y fuera de mi carrera; además de aplicar las nuevas habilidades y experiencia que valla adquiriendo. Tener siempre presentes la eficiencia, eficacia y dar un valor agregado a mi trabajo por medio de ideas innovadoras y útiles.
+Security_code : pphdw
+Send : Enviar
+
+---------------
+
+Address : 190.3.105.123
+Nombre : damian
+Apellido : matheu
+Cargo : tecnico
+Direccion : laprida s/n 
+Ciudad : san gregorio (santa fe) 
+Telefono : 3382-454117
+Email : damian.matheu@outlook.com
+MAX_FILE_SIZE : 2097152
+Mensaje : hola, aqui les dejo mi cv. necesito un trabajo y se que ustdes pueden ayudarme. gracias. saludos atte.
+Security_code : zc497
+Send : Enviar
+
+---------------
+
+Address : 201.213.130.226
+Nombre : Diego Maximiliano
+Apellido : Zaldua
+Cargo : Quimico
+Direccion : rocha 433
+Ciudad : Tres arroyos
+Telefono : 0298315547857
+Email : diegozaldua@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Soy una persona muy activa, con gran capacidad de adaptación que le gusta trabajar en equipo. Con interés de mudarme al lugar que sea necesario.
+Security_code : pbsnc
+Send : Enviar
+
+---------------
+
+Address : 190.175.37.242
+Nombre : Lucas
+Apellido : Reyes
+Cargo : Operario
+Direccion : plumerillo 3670
+Ciudad : Buenos Aires
+Telefono : 49194840
+Email : lucas.reyes95@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : cuento con amplia disponibilidad horaria, y tengo muchas ganas de un progreso favorable.
+Desde ya muchas gracias
+Security_code : dtrzw
+Send : Enviar
+
+---------------
+
+Address : 190.175.37.242
+Nombre : Lucas
+Apellido : Reyes
+Cargo : Operario
+Direccion : plumerillo 3670
+Ciudad : Buenos Aires
+Telefono : 49194840
+Email : lucas.reyes95@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : cuento con amplia disponibilidad horaria, y tengo muchas ganas de un progreso favorable.
+Desde ya muchas gracias
+Security_code : rz3h4
+Send : Enviar
+
+---------------
+
+Address : 190.18.143.41
+Nombre : alejandro ezequiel
+Apellido : ludueña
+Cargo : carga y descaga, e logistica
+Direccion : pedro zanni 1124
+Ciudad : cordoba
+Telefono : 3515917724
+Email : ale_matador_80@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : desenpeño laboral exelente
+Security_code : 578x2
+Send : Enviar
+
+---------------
+
+Address : 181.16.72.227
+Nombre : Daniela
+Apellido : Villamil
+Cargo : Analista en Aseguramiento de la Calidad - Directora Técnica para Laboratorio
+Direccion : Atahulapa 1 (B° Haras María Elena)
+Ciudad : La Reja
+Telefono : 15 64535099
+Email : dvillamil2002@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Objetivo Profesional:
+
+Obtener un puesto relacionado al área de Aseguramiento de Calidad, donde pueda desarrollar mi capacidad y experiencia, desempeñando labores propias de mi formación
+
+Security_code : dj7qs
+Send : Enviar
+
+---------------
+
+Address : 181.16.72.227
+REF : JEFE-DE-GARANTIA-DE-CALIDAD
+Nombre : Daniela
+Apellido : Villamil
+Cargo : Analista en Aseguramiento de la Calidad - Directora Técnica para Laboratorio
+Direccion : Atahulapa 1 (B° Haras María Elena)
+Ciudad : La Reja
+Telefono : 15 64535099
+Email : dvillamil2002@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Objetivo Profesional:
+
+Obtener un puesto relacionado al área de Aseguramiento de Calidad, donde pueda desarrollar mi capacidad y experiencia, desempeñando labores propias de mi formación
+
+Security_code : q6yt5
+Send : Enviar
+
+---------------
+
+Address : 190.177.229.59
+Nombre : Lucas
+Apellido : Niz
+Cargo : Operario/mantenimiento
+Direccion : San juan 1945
+Ciudad : Merlo
+Telefono : 011-1565381964
+Email : lucasniz2008@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estoy buscando trabajo me gusta la electronica tambien la mecanica.
+Security_code : j92br
+Send : Enviar
+
+---------------
+
+Address : 190.177.229.59
+Nombre : Lucas
+Apellido : Niz
+Cargo : Operario/mantenimiento
+Direccion : San juan 1945
+Ciudad : Merlo
+Telefono : 011-1565381964
+Email : lucasniz2008@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estoy buscando trabajo me gusta la electronica tambien la mecanica.
+Security_code : j92br
+Send : Enviar
+
+---------------
+

@@ -1,0 +1,91 @@
+Address : 190.228.71.116<br>
+ <br>Nombre : Noga
+ <br>Apellido : Sejzer
+ <br>Cargo : Ing Textil
+ <br>Direccion : Tebicuary 1816
+ <br>Ciudad : Castelar
+ <br>Telefono : 1141633409
+ <br>Email : noga_sejzer@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : De mi consideración:
+                                 Tengo el agrado de dirigirme a Ud. con el objeto de participar en búsquedas acordes a mi perfil en su empresa. Adjunto le remito mi Currículum Vitae para que me incluyeran en su base de datos. 
+Un cordial saludo,
+Noga Sejzer
+
+ <br>Security_code : yxyxx
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.228.71.116<br>
+ <br>Nombre : Noga
+ <br>Apellido : Sejzer
+ <br>Cargo : Ing Textil
+ <br>Direccion : Tebicuary 1816
+ <br>Ciudad : Castelar
+ <br>Telefono : 1141633409
+ <br>Email : noga_sejzer@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : De mi consideración:
+                                 Tengo el agrado de dirigirme a Ud. con el objeto de participar en búsquedas acordes a mi perfil en su empresa. Adjunto le remito mi Currículum Vitae para que me incluyeran en su base de datos. 
+Un cordial saludo,
+Noga Sejzer
+
+ <br>Security_code : yxyxx
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.18.80.120<br>
+ <br>Nombre : Lilian
+ <br>Apellido : Squillace
+ <br>Cargo : Administrativa
+ <br>Direccion : Mentruyt 1227
+ <br>Ciudad : Banfield
+ <br>Telefono : 01164992320
+ <br>Email : liliansquillace@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me gustaría poder tener una entrevista personal, para ampliar aspectos de mi curriculum
+ <br>Security_code : b2rmv
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.136.139.57<br>
+ <br>REF : JPER-1
+ <br>Nombre : Andres
+ <br>Apellido : Notaristefano
+ <br>Cargo : Jefe de Personal
+ <br>Direccion : Vidal 1500
+ <br>Ciudad : CABA
+ <br>Telefono : 40734333
+ <br>Email : nota_speed@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas tardes, me encuentro en la búsqueda laboral, para la búsqueda postulada o bien que se adecue a mi perfil. Muchas Gracias. Saludos
+ <br>Security_code : wfdyw
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 24.232.242.139<br>
+ <br>Nombre : Rodrigo Alejandro
+ <br>Apellido : Nardini Perez
+ <br>Cargo : Atención al publico, Repositor.
+ <br>Direccion : Moreno 2328
+ <br>Ciudad : Mar del Plata
+ <br>Telefono : 03544413018
+ <br>Email : rodrinardiniperez@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimado/a Sr/a: 
+Me pongo en contacto con usted para hacerle llegar mi currículum vitae por si necesita cubrir, ahora o en el futuro, un puesto de trabajo.
+Estoy muy interesado en trabajar en el área de atención al público, ya que poseo tanto experiencia laboral como buena comunicacion y empatia con el cliente.
+Confío en reunir los requisitos específicos para el desempeño de una función en el mismo.
+Asimismo la motivacion,  flexibilidad y adaptabilidad a cualquier otro puesto de trabajo.
+Por todo ello, me agradaría mantener una entrevista con usted a su mejor conveniencia y poderle ampliar personalmente la información que le remito. Para ello podrá localizarme en el número de teléfono 03544 413018  o por correo electrónico rodrigonardiniperez@gmail.com
+En espera de su respuesta, le saludo atentamente.
+                                           Rodrigo Alejandro Nardini Perez
+ <br>Security_code : sgbv9
+ <br>Send : Enviar
+ <br>
+---------------
+

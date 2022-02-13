@@ -1,0 +1,373 @@
+Address : 190.104.208.226<br>
+ <br>REF : ROT-1
+ <br>Nombre : leandro
+ <br>Apellido : de rovere
+ <br>Cargo : jefe oficina tecnica
+ <br>Direccion : congreso 4965 2B
+ <br>Ciudad : buenos aires
+ <br>Telefono : 1565717218
+ <br>Email : leandro.derovere@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : adjuto mi cv
+ <br>Security_code : y4494
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.13.2.121<br>
+ <br>Nombre : Gabriela
+ <br>Apellido : Fiumara
+ <br>Cargo : recepcion, adm., atencion tel.
+ <br>Direccion : Maza 1815
+ <br>Ciudad : Moron
+ <br>Telefono : 46964903
+ <br>Email : gabrielafiumara@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buen dia. Envio mis datos para recepcion, adm., carga de datos, atencion tel. Gabriela de Moron.
+ <br>Security_code : gnr9b
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.13.2.121<br>
+ <br>Nombre : Gabriela
+ <br>Apellido : Fiumara
+ <br>Cargo : recepcion, adm., atencion tel.
+ <br>Direccion : Maza 1815
+ <br>Ciudad : Moron
+ <br>Telefono : 46964903
+ <br>Email : gabrielafiumara@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buen dia. Envio mis datos para recepcion, adm., carga de datos, atencion tel. Gabriela de Moron.
+ <br>Security_code : gnr9b
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.13.2.121<br>
+ <br>Nombre : Gabriela
+ <br>Apellido : Fiumara
+ <br>Cargo : recepcion, adm., atencion tel.
+ <br>Direccion : Maza 1815
+ <br>Ciudad : Moron
+ <br>Telefono : 46964903
+ <br>Email : gabrielafiumara@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buen dia. Envio mis datos para recepcion, adm., carga de datos, atencion tel. Gabriela de Moron.
+ <br>Security_code : 7ks3s
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 191.80.224.65<br>
+ <br>REF : chr
+ <br>Nombre : Gaston Adrain
+ <br>Apellido : Fredes
+ <br>Cargo : Chofer
+ <br>Direccion : BARRIO DEMOCRACIA - CASA 79
+ <br>Ciudad : Ciudad Evita
+ <br>Telefono : 4487-7905
+ <br>Email : auxiliosgf@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenos dias . 
+
+Tengo 43 años recien cumplidos y creo tener las características que ustedes necesitan para cubrir su puesto.
+Quedo a su disposición  Muchas Gracias por sutiempo
+ <br>Security_code : 653w4
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.246.178.3<br>
+ <br>REF : ACO-1
+ <br>Nombre : Lucas
+ <br>Apellido : Valencia Figueroa
+ <br>Cargo : Analista De Comercio Exterior
+ <br>Direccion : Armenia 1961
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 1138125881
+ <br>Email : lucas.valenciafigueroa@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Desearía formar parte de su empresa. Mi aspiración es desarrollarme tanto profesional, personal en las tareas asignadas. Soy muy emprendedor y me gusta perfeccionarme cada vez. Soy una persona seria, responsable, con alto sentido de la puntualidad, colaboración y trabajo en grupo. Además, tengo gran poder de análisis, resolución de problemas y de fácil aprendizaje. Busco una empresa que me permita desarrollar todas esta habilidades y con oportunidades de crecimiento dentro de la misma.
+ <br>Security_code : sf8yj
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.130.8.201<br>
+ <br>REF : ROT-1
+ <br>Nombre : DIEGO
+ <br>Apellido : LOMBARDIA
+ <br>Cargo : RESPONSABLE DE OFICINA TECNICA 
+ <br>Direccion : ARENALES 1745
+ <br>Ciudad : MORON
+ <br>Telefono : 1565990199
+ <br>Email : dalombardia@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : RESPONSABLE DE OFICINA TECNICA 
+ <br>Security_code : ZX5TW
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.130.8.201<br>
+ <br>REF : ROT-1
+ <br>Nombre : DIEGO
+ <br>Apellido : LOMBARDIA
+ <br>Cargo : RESPONSABLE DE OFICINA TECNICA 
+ <br>Direccion : ARENALES 1745
+ <br>Ciudad : MORON
+ <br>Telefono : 1565990199
+ <br>Email : dalombardia@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : RESPONSABLE DE OFICINA TECNICA 
+ <br>Security_code : zx5tw
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.130.8.201<br>
+ <br>REF : ROT-1
+ <br>Nombre : DIEGO
+ <br>Apellido : LOMBARDIA
+ <br>Cargo : RESPONSABLE DE OFICINA TECNICA 
+ <br>Direccion : ARENALES 1745
+ <br>Ciudad : MORON
+ <br>Telefono : 1565990199
+ <br>Email : dalombardia@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : RESPONSABLE DE OFICINA TECNICA 
+ <br>Security_code : q9j3q
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.137.252.147<br>
+ <br>Nombre : veronica
+ <br>Apellido : loguercio
+ <br>Cargo : asesora medio tiempo
+ <br>Direccion : amenedo 1078
+ <br>Ciudad : adrogue
+ <br>Telefono : 1525866571
+ <br>Email : veronca_loguercio@yahoo,com,ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : me  postulo asesora comercial medio tiempo
+ <br>Security_code : hxp8n
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.128.2.177<br>
+ <br>REF : ROT-1
+ <br>Nombre : Mauro Santiago
+ <br>Apellido : Coita Civit
+ <br>Cargo : Diseñador Industrial
+ <br>Direccion : Beltran 1343, PB 3
+ <br>Ciudad : Godoy Cruz
+ <br>Telefono : 0261155918738
+ <br>Email : maurocoitacivit@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenos días, a continuacion adjunto mi C.V en relacion al aviso "RESPONSABLE DE OFICINA TECNICA". Soy de Mendoza pero estoy a punto de irme a vivir a Bs As. Muchas gracias, saludos.
+ <br>Security_code : gpxpt
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.178.124.156<br>
+ <br>REF : chr
+ <br>Nombre : Luis Alejandro
+ <br>Apellido : Promenzio
+ <br>Cargo : DEPOSITO ALMACEN CHOFER
+ <br>Direccion : juncal 1440
+ <br>Ciudad : lanus
+ <br>Telefono : 42254857
+ <br>Email : luis_promenzio@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados: 
+Ante todo, les agradezco por atender mi solicitud y brindarme la posibilidad de contactarlos. Actualmente desarrollo tareas fuera de mi profesión y estoy en la búsqueda de un puesto que me permita colaborar en necesidades afines a mis capacidades.
+
+Senior en funciones de Administración Gerencial y Servicios de Ventas, Almacenes, Inventarios (manejo de Clark + Camionetas), conocimiento y comprensión de documentación legal societaria y con más de 20 años de experiencia en empresas de 1º Línea. Orientación hacia el cliente interno y externo.
+ 
+De personalidad pro-activa, organizado, analítico y expeditivo. Me identifico con la prestación de servicios de calidad. Hábil en la comprensión de los negocios y para liderar multi-tareas u operar en un entorno dinámico. De buen manejo en las relaciones interpersonales y posible facilitador de lazos intersectoriales. En armonía con el alcance de objetivos, la obtención de resultados, el trabajo en equipo y la responsabilidad empresarial.
+
+Quedo a vuestra disposición para aclararles cualquier duda o inquietud.
+Cordialmente,
+
+Luis Alejandro Promenzio.
+T.Cel.:15 3931 0461
+
+ <br>Security_code : t49fh
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.157.209.35<br>
+ <br>Nombre : Sandra Emilia
+ <br>Apellido : Allegri
+ <br>Cargo : Administrativa Generalista Contable
+ <br>Direccion : Espinosa 1532
+ <br>Ciudad : CABA
+ <br>Telefono : 1537922937
+ <br>Email : sandraemiliaallegri@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : .
+ <br>Security_code : m4b3p
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 191.84.216.142<br>
+ <br>Nombre : Miryam Ayelen
+ <br>Apellido : Ledesma
+ <br>Cargo : Vendedora/Cajera
+ <br>Direccion : Angel Cabrera 918
+ <br>Ciudad : Fcio. Varela
+ <br>Telefono : 01126677296
+ <br>Email : miryam_ledesma@yahoo.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola buenas tardes, me postulo para cubrir un puesto en su empresa. Tengo experiencia, disponibilidad horaria y lo principal entusiasmo y ganas de trabajar efectivamente. Espero ser tenida en cuenta. Muchas gracias
+ <br>Security_code : j9mpw
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 200.125.106.224<br>
+ <br>Nombre : Walter Mariano Emanuel 
+ <br>Apellido : Guaymas
+ <br>Cargo : Asistente Comercial - Distribuidora de Lubricantes
+ <br>Direccion : Av. Triunvirato ౩421
+ <br>Ciudad : V. Urquiza ( CABA )
+ <br>Telefono : 15 6644 7430
+ <br>Email : marianoehc@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas tardes , adjunto  mi CV para el área de Ventas , gracias .
+ <br>Security_code : Wxxmn
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.91.163.104<br>
+ <br>REF : ACO-1
+ <br>Nombre : Nicolas
+ <br>Apellido : Herrero
+ <br>Cargo : ACO-1
+ <br>Direccion : Migueletes 1155
+ <br>Ciudad : CABA
+ <br>Telefono : 1159326734
+ <br>Email : nico.herrero.10@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados 
+
+El pasado año finalicé mis estudios en la Licenciatura en Comercio Exterior en la Universidad de Belgrano. 
+Desde hace dos años y medio vengo desarrollando labores de Comercio Exterior en Carpe Scheider & Cia. S.A, en la cual he adquirido un amplio conocimiento e interés por el rubro farmacéutico.
+
+Dada la profesionalidad de LDA, cuyo perfil me resulta muy interesante, les ruego consideren, a la vista del Currículum Vitae que les adjunto, la posibilidad de una colaboración profesional.
+
+Espero tener la oportunidad de conversar con ustedes en una futura entrevista, para personalmente exponerles mis conocimientos y mi deseo de formar parte de su equipo de trabajo.
+
+Reciban un cordial saludo,
+
+ 
+
+Nicolás Herrero
+ <br>Security_code : 9qy97
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.91.163.104<br>
+ <br>REF : ACO-1
+ <br>Nombre : Nicolas
+ <br>Apellido : Herrero
+ <br>Cargo : ACO-1
+ <br>Direccion : Migueletes 1155
+ <br>Ciudad : CABA
+ <br>Telefono : 1159326734
+ <br>Email : nico.herrero.10@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados 
+
+El pasado año finalicé mis estudios en la Licenciatura en Comercio Exterior en la Universidad de Belgrano. 
+Desde hace dos años y medio vengo desarrollando labores de Comercio Exterior en Carpe Scheider & Cia. S.A, en la cual he adquirido un amplio conocimiento e interés por el rubro farmacéutico.
+
+Dada la profesionalidad de LDA, cuyo perfil me resulta muy interesante, les ruego consideren, a la vista del Currículum Vitae que les adjunto, la posibilidad de una colaboración profesional.
+
+Espero tener la oportunidad de conversar con ustedes en una futura entrevista, para personalmente exponerles mis conocimientos y mi deseo de formar parte de su equipo de trabajo.
+
+Reciban un cordial saludo,
+
+ 
+
+Nicolás Herrero
+ <br>Security_code : 9qy97
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.13.6.54<br>
+ <br>Nombre : Franco Leonardo
+ <br>Apellido : Camera
+ <br>Cargo : Operario
+ <br>Direccion : A. Lubo 252
+ <br>Ciudad : Pilar
+ <br>Telefono : 1126510402
+ <br>Email : francocamera74@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Espero mi experiencia sirva en algún puesto
+ <br>Security_code : KKK65
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.13.6.54<br>
+ <br>Nombre : Franco Leonardo
+ <br>Apellido : Camera
+ <br>Cargo : Operario
+ <br>Direccion : A. Lubo 252
+ <br>Ciudad : Pilar
+ <br>Telefono : 1126510402
+ <br>Email : francocamera74@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Espero mi experiencia sirva en algún puesto
+ <br>Security_code : KKK65
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.220.163.192<br>
+ <br>REF : ROT-1
+ <br>Nombre : Samanta
+ <br>Apellido : Volgin Samanta soledad
+ <br>Cargo : Responsable de oficina Tecnica
+ <br>Direccion : arredondo 3565
+ <br>Ciudad : castelar
+ <br>Telefono : 1567605890
+ <br>Email : saaam_21@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados, he visto su oferta laboral publicada en internet y la misma me resultó de gran interés. Por este motivo, les hago llegar mi Currículum Vitae, a fin de ser tenido en cuenta.
+Soy estudiante de arquitectura, adeudando la materia Proyecto Final Integrador (tesis). Estoy en busca de un nuevo empleo. Tengo experiencia con planos de instalaciones eléctricas; cómputo y presupuesto; confección, revisión y arreglo de planos de aire acondicionado y planos electromecánicos; medios de escape; revelamientos en obra y ventas inmobiliarias. Tengo disponibilidad horaria y muchas ganas de aprender cosas nuevas.
+Agradeceré que me permitan tener una entrevista laboral.
+Desde ya muchas gracias.
+
+Tel:1567605890
+ <br>Security_code : gnkw8
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.194.231.173<br>
+ <br>REF : ROT-1
+ <br>Nombre : gabriel
+ <br>Apellido : gagetti
+ <br>Cargo : disenador industrial
+ <br>Direccion : marcelo t de alvear 1963
+ <br>Ciudad : capital federal
+ <br>Telefono : 0249152608382
+ <br>Email : gabrielgagetti@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Adjunto CV
+ <br>Security_code : 7yjcw
+ <br>Send : Enviar
+ <br>
+---------------
+

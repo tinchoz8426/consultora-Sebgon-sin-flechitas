@@ -1,0 +1,31 @@
+Address : 190.174.48.137
+Nombre : Carlos Andres
+Apellido : Quesqui
+Cargo : Indiferente
+Direccion : Patagones 1605
+Ciudad : Moron
+Telefono : 011-4697-3846
+Email : andresquesqui@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : TENGO CONOCIMIENTOS EN EL AREA DE COMPUTACION Y SECUNDARIO COMPLETO.
+Security_code : 3y5vn
+Send : Enviar
+
+---------------
+
+Address : 190.48.121.43
+Nombre : Laura 
+Apellido : Crespillo
+Cargo : Empleada administrativa
+Direccion : Neuquen 1754 2 A
+Ciudad : CABA
+Telefono : 15-6457-2083
+Email : lau_buchi@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Quisiera que por favor se tenga en cuenta mi CV para algun puesto administrativo. Muchas Gracias
+Laura Crespillo
+Security_code : n4njf
+Send : Enviar
+
+---------------
+

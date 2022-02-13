@@ -1,0 +1,36 @@
+Address : 190.51.206.124
+Nombre : María Fernanda
+Apellido : Martínez
+Cargo : capacitador
+Direccion : San martin 77 4to B
+Ciudad : Lomas de Zamora
+Telefono : 1563040714
+Email : mfmar35@yahoo.com
+MAX_FILE_SIZE : 2097152
+Mensaje : At. Depto de Capacitación
+Consultora Sebgon
+Soy capacitadora y consultora. He dictado cursos de capacitación en empresas de primera línea, sindicatos e instituciones educativas. Las temáticas trabajadas en los mismos  han sido principalmente: comunicación efectiva, liderazgo, negociación, conducción de equipos de trabajo,  presentaciones orales de impacto positivo y cierre de ventas y atención al cliente, comunicación y vínculos.
+Es mi interés formar parte de un proyecto de capacitación como el que ustedes proponen y agradeceré me den la posibilidad de tener una entrevista personal para ampliar la información  de mi curriculum vitae.
+Saludos cordiales.
+María Fernanda Martínez
+
+Security_code : bn9np
+Send : Enviar
+
+---------------
+
+Address : 190.139.2.51
+Nombre : Gustavo Ernesto
+Apellido : Arias
+Cargo : Capacitador en Higiene y Seguridad Laboral
+Direccion : Manz "F" Blok "K" Bº Roca
+Ciudad : Aguilares - Tucumán
+Telefono : 03865-482297
+Email : gustavoearias@live.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Soy técnico Licenciado graduado en Higiene y Seguridad Laboral. Tengo experiencia como capacitador. Deseo postularme para el empleo. 
+Security_code : s3j4g
+Send : Enviar
+
+---------------
+

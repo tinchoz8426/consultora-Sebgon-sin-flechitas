@@ -1,0 +1,64 @@
+Address : 190.195.243.77<br>
+ <br>Nombre : Mario Ezequiel
+ <br>Apellido : Pedraza
+ <br>Cargo : Representante de atención al cliente.
+ <br>Direccion : LA FONTAINE 1947
+ <br>Ciudad : Lomas De Zamora
+ <br>Telefono : 1124505399
+ <br>Email : ezequielpedraza18@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Soy una persona con todas las capacidades de poder aprender rápidamente, aplicar los conocimientos adquiridos y facilidad de adaptación a los diferentes cambios.
+ <br>Security_code : p724z
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.195.243.77<br>
+ <br>Nombre : Mario Ezequiel
+ <br>Apellido : Pedraza
+ <br>Cargo : Representante de atención al cliente.
+ <br>Direccion : LA FONTAINE 1947
+ <br>Ciudad : Lomas De Zamora
+ <br>Telefono : 1124505399
+ <br>Email : ezequielpedraza18@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Soy una persona con todas las capacidades de poder aprender rápidamente, aplicar los conocimientos adquiridos y facilidad de adaptación a los diferentes cambios.
+ <br>Security_code : 5z5m5
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 200.127.246.149<br>
+ <br>REF : GTEP
+ <br>Nombre : ADRIAN 
+ <br>Apellido : BELZUZ
+ <br>Cargo : Gerente de planta
+ <br>Direccion : Parana 2570
+ <br>Ciudad : Villa Ballester
+ <br>Telefono : 1525401809
+ <br>Email : abelzuz@ciudad.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados : adjunto mi CV conforme al puesto solicitado.
+Saludos.
+Ing. Adrian Belzuz 
+
+ <br>Security_code : rnx2w
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 191.82.114.213<br>
+ <br>Nombre : daniel alejandro
+ <br>Apellido : flores
+ <br>Cargo : operario
+ <br>Direccion : urquiza 4197
+ <br>Ciudad : jose c.paz
+ <br>Telefono : 02320436568
+ <br>Email : kenny_elmexicano@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : busco trabajo urgente, gracias
+ <br>Security_code : d369b
+ <br>Send : Enviar
+ <br>
+---------------
+

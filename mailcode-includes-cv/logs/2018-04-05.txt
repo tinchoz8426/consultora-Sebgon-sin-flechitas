@@ -1,0 +1,60 @@
+Address : 168.196.246.77<br>
+ <br>Nombre : lucas andres 
+ <br>Apellido : arce
+ <br>Cargo : operario
+ <br>Direccion : PIO XII 2424
+ <br>Ciudad : paso del rey
+ <br>Telefono : 0111536648998
+ <br>Email : arcemaca1@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : les envío mi cv a raíz de que estoy sin trabajar,desde ya,muchas gracias por el espacio.
+ <br>Security_code : ggc9y
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 168.196.246.77<br>
+ <br>Nombre : lucas andres 
+ <br>Apellido : arce
+ <br>Cargo : operario
+ <br>Direccion : PIO XII 2424
+ <br>Ciudad : paso del rey
+ <br>Telefono : 0111536648998
+ <br>Email : arcemaca1@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : les envío mi cv a raíz de que estoy sin trabajo,desde ya,muchas gracias.
+ <br>Security_code : 6ybdd
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.189.130.60<br>
+ <br>Nombre : Aldo Miguel 
+ <br>Apellido : Marelli
+ <br>Cargo : TE-1
+ <br>Direccion : General paz 347
+ <br>Ciudad : bahia blanca
+ <br>Telefono : 2984334843
+ <br>Email : miguemarelli@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola, como están? vi la publicación de una oferta laboral, aunque se que esta en otra ciudad de donde me encuentro no tendría problema en trasladarme, estoy interesado en realizar el cambio, ademas que doy con muchos puntos de los requisitos, tengo mucho potencial y deseo expandirlo. Envió una forma de cv extracto de adecco, resumí y concentre gran parte de mi experiencia y conocimiento. Un saludo cordial. Aldo Miguel Marelli.
+ <br>Security_code : tzzjc
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.27<br>
+ <br>Nombre : Jorge luis
+ <br>Apellido : Correa
+ <br>Cargo : Empleado
+ <br>Direccion : Pasaje fonti 1787
+ <br>Ciudad : Arroyito
+ <br>Telefono : 3516856133
+ <br>Email : Jorge_elcheto_cba@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Ando en búsqueda d trabajo d cualquier tipo disponibilidad horaria full time y dispongo d movilidad propia
+ <br>Security_code : n9y7n
+ <br>Send : Enviar
+ <br>
+---------------
+

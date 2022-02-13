@@ -1,0 +1,15 @@
+Address : 186.23.248.222
+Nombre : Angeles 
+Apellido : Sorano
+Cargo : Sistemas/Administrativo
+Direccion : Esquiu 1721
+Ciudad : Ramos Mejia
+Telefono : 20600344
+Email : angeles_sorano@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto CV
+Security_code : cvbbb
+Send : Enviar
+
+---------------
+

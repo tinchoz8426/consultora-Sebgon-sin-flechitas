@@ -1,0 +1,48 @@
+Address : 186.18.153.19
+Nombre : Gustavo Javier
+Apellido : Martinez Acosta
+Cargo : Gerente Marketing
+Direccion : Vucetich 2298
+Ciudad : Castelar, Buenos Aires
+Telefono : 4483 3878
+Email : gmartinezacosta@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados, tengo el agrado de acercarles mi CV, para poder ser tenido en cuenta en futuras búsquedas
+Desde ya muchas gracias,
+Saludos cordiales
+Lic. Gustavo J. Martínez Acosta
+Security_code : 2p7w8
+Send : Enviar
+
+---------------
+
+Address : 190.139.26.5
+Nombre : Diego
+Apellido : Amiano
+Cargo : empleado
+Direccion : Alem 2262
+Ciudad : Buenos Aires
+Telefono : 1562677632
+Email : dieguit082@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Todo trabajo nuevo para mí es un gran desafió, llevo en mi todas las ganas de aprender cosas nuevas y la experiencia de objetivos cumplidos tanto grupales como individuales.
+Security_code : mr76b
+Send : Enviar
+
+---------------
+
+Address : 190.139.26.5
+Nombre : diego
+Apellido : amiano
+Cargo : empleado
+Direccion : alem 2262
+Ciudad : buenos aires
+Telefono : 1562677632
+Email : dieguit082@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Todo trabajo nuevo para mí es un gran desafió, llevo en mi todas las ganas de aprender cosas nuevas y la experiencia de objetivos cumplidos tanto grupales como individuales.
+Security_code : mr76b
+Send : Enviar
+
+---------------
+

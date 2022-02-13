@@ -1,0 +1,47 @@
+Address : 181.22.26.246
+REF : RTC
+Nombre : SERGIO AMILCAR
+Apellido : LEDESMA
+Cargo : Representante TÃ©cnico Comercial
+Direccion : 69 N°2389
+Ciudad : LA PLATA
+Telefono : 0221 15 5867992
+Email : ledesma1968@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : ESTE EMPLEO ES LO QUE NESECITO PARA UNA SUPERACION  
+Security_code : dn7pk
+Send : Enviar
+
+---------------
+
+Address : 186.135.29.37
+Nombre : miguel
+Apellido : constenla
+Cargo : tecnico electricista
+Direccion : sanches de bustamantes 2314
+Ciudad : moreno
+Telefono : 02374876222
+Email : miguel110474@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : soy tecnico montador y tecnico electricista,en este momento no poseo el titulo pero cuento con la constancia del titulo en tramite,media y baja tension.
+Security_code : hfc4z
+Send : Enviar
+
+---------------
+
+Address : 201.216.253.250
+REF : OEL
+Nombre : ezequiel
+Apellido : caballero
+Cargo : electricista
+Direccion : Punta Alta 570
+Ciudad : Lomas de Zamora
+Telefono : 1141611803
+Email : ezequielcballero701@yahoo.com
+MAX_FILE_SIZE : 2097152
+Mensaje : leo planos, cableo, armo tableros
+Security_code : tyy3d
+Send : Enviar
+
+---------------
+

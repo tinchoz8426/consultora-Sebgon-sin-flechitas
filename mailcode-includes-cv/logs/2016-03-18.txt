@@ -1,0 +1,79 @@
+Address : 181.31.3.90
+Nombre : Karina
+Apellido : Mauricio
+Cargo : Legales
+Direccion : Sanabria 4750 8ªA
+Ciudad : CABA
+Telefono : 1539307897
+Email : karinamauricio@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje :                                                                                         Buenos Aires, marzo de 2016.
+De mi mayor consideración:
+                                             Me dirijo a Uds. a los efectos de hacerles llegar mi Curriculum para que el mismo pueda ser considerado en futuras búsquedas de personal que realice su organización/Empresa/Consultora.
+                                            Como se desprende de mi CV soy Abogada, recibida en la UBA. en mi último empleo he llevado adelante el ejercicio de la profesión, en diferentes áreas. Tengo experiencia en asesoramiento legal de empresas como así también de particulares, como así también el armado de grupos de trabajo. Poseo manejo de herramientas informáticas.
+                                            En referencia a la remuneración pretendida, la misma es del orden de los $000/$000, a convenir, según las características de la contratación.
+                                            Esperando una respuesta favorable para poder concertar una entrevista y ampliar los datos incluidos en mi Curriculum, lo saludo cordialmente.
+                                                                                               
+
+                                                                                             Karina N. Mauricio
+                                                                                         karinamauricio@hotmail.com
+
+Security_code : kwyfy
+Send : Enviar
+
+---------------
+
+Address : 186.157.66.19
+Nombre : Immanuel 
+Apellido : Schinder
+Cargo : Licenciado en Seguridad e Higiene
+Direccion : bolivar 2630 
+Ciudad : mar del plata
+Telefono : 0223-155-910120
+Email : schinderimmanuel@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : para el puesto de licenciado en seguridad e higiene 
+Security_code : m8szg
+Send : Enviar
+
+---------------
+
+Address : 199.168.151.175
+REF : RTC
+Nombre : Analía
+Apellido : Galeano
+Cargo : Representante Técnico Comercial
+Direccion : Bogotá 2567
+Ciudad : C.A.B.A.
+Telefono : 1557533327
+Email : anigaleano@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados, muy buenos días.
+
+Me encuentro muy interesada en el puesto de Representante Técnico Comercial para Empresa Química, por lo que, a continuación les envío adjunto CV.
+
+En el caso de que les interese mi perfil, por favor no duden en contactarme.
+
+Saluda cordialmente,
+
+Analía Galeano
+Security_code : wt4jj
+Send : Enviar
+
+---------------
+
+Address : 186.135.64.84
+Nombre : german
+Apellido : herrera
+Cargo : Atencion al publico
+Direccion : potosi
+Ciudad : ALMAGRO
+Telefono : 01115-3121-8385
+Email : herrerageman@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : .
+Security_code : 7rw3c
+Send : Enviar
+
+---------------
+

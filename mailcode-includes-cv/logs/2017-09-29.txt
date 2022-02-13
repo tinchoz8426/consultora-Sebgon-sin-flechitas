@@ -1,0 +1,81 @@
+Address : 190.30.130.204<br>
+ <br>REF : JPER-1
+ <br>Nombre : Anibal
+ <br>Apellido : Aballe
+ <br>Cargo : Jefe de Personal JPER-1
+ <br>Direccion : Fitz Roy 2489
+ <br>Ciudad : Cap Fed
+ <br>Telefono : 1136107875
+ <br>Email : anibalaballe@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : De mi consideración:
+
+Adjunto CV para sertenido en cuenta en la búsqueda de la referencia. De considerar que mi experiencia profesional se adecua a la mencionada búsquea, me encuentro a su disposición para coordinar una entrevista de trabajo para ampliar sobre la información que acompaño.
+ <br>Security_code : r7KK4
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.47.211.194<br>
+ <br>REF : JPER-1
+ <br>Nombre : Ricardo Fabián
+ <br>Apellido : Chaparro
+ <br>Cargo : Jefe de Personal
+ <br>Direccion : Irigoyen 1810
+ <br>Ciudad : Caba- Versalles
+ <br>Telefono : 1540273420
+ <br>Email : ricardo_chaparro2002@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Soy Licenciado en Administración de Personal (USAL), con más de 20 años de desempeño  en el área de RR.HH. en empresas nacionales, multinacionales de gran dotación de personal y PYMES Familiares, en las que adquirí una gran experiencia Generalista, en liderazgo de Equipos de Trabajo y en Negociación con Sindicatos (Camioneros-UTA-Comercio-Sanidad-APM-UPSRA-SUBICO-Petroleros). 
+ <br>Security_code : hbd5w
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.19.65.158<br>
+ <br>REF : JPER-1
+ <br>Nombre : ERNESTO ANGEL
+ <br>Apellido : LANTIERI
+ <br>Cargo : RECURSOS HUMANOS
+ <br>Direccion : GUIDO SPANO 1350 
+ <br>Ciudad : VILLA BOSCH - BUENOS AIRES
+ <br>Telefono : 1567236553
+ <br>Email : erlanti@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : ENVIO DE CURRICULUM VITAE
+ <br>Security_code : 78xbp
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.19.65.158<br>
+ <br>Nombre : ERNESTO ANGEL
+ <br>Apellido : LANTIERI
+ <br>Cargo : RECURSOS HUMANOS - EDUCACION  
+ <br>Direccion : GUIDO SPANO 1350
+ <br>Ciudad : VILLA BOSCH - BUENOS AIRES
+ <br>Telefono : 1567236553
+ <br>Email : erlanti@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : BUENAS TARDES ESTOY INTERESADO EN IRME A VIVIR AL INTERIOR DEL PAIS O DE LA PROVINCIA DE BUENAS, LES AGRADECERA SE ME TENGA EN CUENTA PARA ALGUN TRABAJO EN DICHAS CIRCUNSTANCIAS YA QUE NO TENGO INCONVENIENTE EN TRASLADARME Y RADICARME EN OTRA CIUDAD DESDE YA MUCHAS GRACIAS
+ <br>Security_code : s5bjs
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.7<br>
+ <br>REF : chr
+ <br>Nombre : Jose maria
+ <br>Apellido : Ledesma
+ <br>Cargo : Chofer
+ <br>Direccion : Eva peron 941
+ <br>Ciudad : Los polvorines
+ <br>Telefono : 1544002684
+ <br>Email : Joshem_01@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me interesa 
+ <br>Security_code : Nkwbf
+ <br>Send : Enviar
+ <br>
+---------------
+

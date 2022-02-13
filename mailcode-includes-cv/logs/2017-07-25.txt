@@ -1,0 +1,95 @@
+Address : 181.171.250.123<br>
+ <br>REF : Tectron
+ <br>Nombre : Iara
+ <br>Apellido : Giniger
+ <br>Cargo : estudiante de ingenieria
+ <br>Direccion : ibera
+ <br>Ciudad :  buenos aires
+ <br>Telefono : 11141804284
+ <br>Email : iaraginiger@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Con deseo de crecer en el campo laboral y continuar ganando experiencia. Excelente predisposición y desempeño, sin ningun tipo de inconveniente a la hora de trabajar en equipo.
+ <br>Security_code : v26jq
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.129.254.52<br>
+ <br>REF : chr
+ <br>Nombre : oscar
+ <br>Apellido : acosta
+ <br>Cargo : camionero
+ <br>Direccion : deceado 5103
+ <br>Ciudad : casanova
+ <br>Telefono : 44664681
+ <br>Email : pujol_mariana@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : quiero postumarme
+ <br>Security_code : 7KKng
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.129.254.52<br>
+ <br>REF : chr
+ <br>Nombre : oscar
+ <br>Apellido : acosta
+ <br>Cargo : camionero
+ <br>Direccion : deceado 5103
+ <br>Ciudad : casanova
+ <br>Telefono : 44664681
+ <br>Email : pujol_mariana@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : quiero postumarme
+ <br>Security_code : 7KKng
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.7<br>
+ <br>REF : chr
+ <br>Nombre : Roberto carlos
+ <br>Apellido : Lopez
+ <br>Cargo : Chofer
+ <br>Direccion : California 6469
+ <br>Ciudad : Buenos aires
+ <br>Telefono : 1124140151
+ <br>Email : Lopezrobertocarlos435@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Cumplir con el puesto 
+ <br>Security_code : Z56pc
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.55.231.180<br>
+ <br>REF : chr
+ <br>Nombre : Julio Rafael 
+ <br>Apellido : Gonzalez
+ <br>Cargo : Operario de carga y descarga
+ <br>Direccion : Córdoba 1187
+ <br>Ciudad : Burzaco
+ <br>Telefono : 11-42388776
+ <br>Email : Julio270384@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola me llamo Julio presiso trabajar 
+ <br>Security_code : r88rq
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.62.146.227<br>
+ <br>Nombre : andrea cristina
+ <br>Apellido : leiva
+ <br>Cargo : cualquiera
+ <br>Direccion : Antonio Martinez 3347
+ <br>Ciudad : Mar del Plata
+ <br>Telefono : 2235129736
+ <br>Email : andy.leiva89@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Tengo ganas y necesito trabajar! Puedo aprender diferentes tareas
+ <br>Security_code : bf8mn
+ <br>Send : Enviar
+ <br>
+---------------
+

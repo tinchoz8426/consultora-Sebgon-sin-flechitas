@@ -1,0 +1,45 @@
+Address : 190.110.186.198
+Nombre : Mailen
+Apellido : Campanari
+Cargo : Cajera, Atención al publico, Secretaria.
+Direccion : Fotheringham 459 11G
+Ciudad : Rio Cuarto
+Telefono : 0358 154193881
+Email : gringa_231989@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola, necesito trabajar y estoy buscando trabajo, ya sea en un supermercado, atención al cliente, secretaria, desde ya muchas gracias 
+Security_code : h3q9k
+Send : Enviar
+
+---------------
+
+Address : 190.176.9.163
+Nombre : marcela adriana
+Apellido : morales
+Cargo : secretaria administrativa
+Direccion : barrio cano monoblok D entrada 3 depto 6
+Ciudad : mendoza
+Telefono : 02614201781
+Email : marcelaflavio31@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : necesito trabajo urgente disponibilidad horaria de lunes a viernes mi  numero de celular es 156941620 agradecere  avisarme en cuanto salga algo gracias 
+Security_code : fhtc6
+Send : Enviar
+
+---------------
+
+Address : 190.122.32.65
+Nombre : noelia
+Apellido : correa
+Cargo : administrativo
+Direccion : cantuta 1064
+Ciudad : rio tercero
+Telefono : 03571-15601694
+Email : ncorrea77@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : mi busqueda esta orientada al area administrativa,manejo de caja y atencion alpublico.
+Security_code : fbdpx
+Send : Enviar
+
+---------------
+

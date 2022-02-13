@@ -1,0 +1,15 @@
+Address : 190.48.201.152
+Nombre : jorge enrique
+Apellido : blasis
+Cargo : analista derecursos humanos
+Direccion : Perdomo 2340
+Ciudad : Ituzaingo
+Telefono : 46215326
+Email : blasisjenrique@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : hola buenas noches envio y adjunto mi curriculum vitae para ver si puedo obtener alguna posibilidad de poner en practica mis conocimientos adquiridos.Desde ya selo Agradezco mucho
+Security_code : f78hy
+Send : Enviar
+
+---------------
+

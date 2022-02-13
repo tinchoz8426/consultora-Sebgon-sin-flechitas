@@ -1,0 +1,55 @@
+Address : 190.229.238.107
+Nombre : vanesa 
+Apellido : ledesma
+Cargo : tecnico en higiene y seguridad
+Direccion : yerbal 468
+Ciudad : capital federal
+Telefono : 0381-156403941
+Email : vanesa_ldsma@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : estimados: envio mi cv en forma adjunta para evaluar una probable entrevista en vuestra empresa
+desde ya muchas gracias
+
+vanesa ledesma
+
+Security_code : pxxss
+Send : Enviar
+
+---------------
+
+Address : 190.17.146.59
+REF : gerente-de-operaciones
+Nombre : Javier Osvaldo
+Apellido : Franzoni
+Cargo : Administrativo
+Direccion : Caseros 242
+Ciudad : Ramos Mejía
+Telefono : 11-3327-3867
+Email : javierfranzoni@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Javier Osvaldo Franzoni
+Caseros 242
+Ramos Mejía, Buenos Aires, Argentina
+TEL 4658-3912
+
+
+Ramos Mejía, 6 de junio de 2011
+
+Dirección Adjunta de Recursos Humanos
+-----------------------S/D---------------------------
+
+Por este medio deseo responder a la oferta de trabajo. Por favor acepte esta carta y el currículum vitae adjunto como evidencia de mi interés en solicitar el puesto de administrativo.
+
+Soy estudiante en la carrera de Contador Público y tengo el título de Técnico Electrónico, por ello estimo que mi colaboración podría serles útil a la hora de planificar trabajos y contar con mano de obra calificada.
+
+Me gustaría tener la oportunidad de conversar con ustedes en una entrevista para comentarles mis conocimientos y experiencia.
+
+En espera de sus noticias, saludo atentamente.
+
+Javier Osvaldo Franzoni
+
+Security_code : q8sqy
+Send : Enviar
+
+---------------
+

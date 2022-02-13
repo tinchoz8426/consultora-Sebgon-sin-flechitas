@@ -1,0 +1,45 @@
+Address : 190.179.183.181
+Nombre : Mauricio Martín
+Apellido : Salcedo
+Cargo : Indefinido
+Direccion : Barrio: SMATA Manzana: "B" Casa: "22"
+Ciudad : Las Heras
+Telefono : 0261-4441676
+Email : mauri.salcedo@hotmail.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : En caso de ser necesario, podría abandonar los estudios.
+Security_code : 8dq54
+Send : Enviar
+
+---------------
+
+Address : 190.179.183.181
+Nombre : Mauricio Martín
+Apellido : Salcedo
+Cargo : Indefinido
+Direccion : Barrio: SMATA Manzana: "B" Casa: "22"
+Ciudad : Las Heras
+Telefono : 0261-4441676
+Email : mauri.salcedo@hotmail.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : En caso de ser necesario, podría abandonar los estudios.
+Security_code : 8qd54
+Send : Enviar
+
+---------------
+
+Address : 190.12.99.166
+Nombre : DANIELA JIMENA
+Apellido : FRANCO
+Cargo : ventas, recepción
+Direccion : COMODORO RAMIREZ 5624 4 "D"
+Ciudad : VILLA LUGANO, CABA
+Telefono : 1160114090
+Email : dp_franco@live.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Estoy en la búsqueda laboral, y me gustaría recibir nuevos avisos.
+Security_code : gwwwr
+Send : Enviar
+
+---------------
+

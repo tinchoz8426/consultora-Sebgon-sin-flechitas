@@ -1,0 +1,88 @@
+Address : 181.109.85.122
+Nombre : Victoria Stephanie
+Apellido : Campo
+Cargo : limpieza
+Direccion : La Tranquera 1170 E/ La Cautiva y Cacique
+Ciudad : Argentina
+Telefono : 4213-5246 cel: 1166159672
+Email : vicky_dv@live.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Campo Victoria Stephanie
+Información personal
+*Nacionalidad: Argentina
+*Fecha de nacimiento: 20/8/1993
+*Edad:21 años
+*DNI:37676412
+*Cuil:27-37676412-0
+*Estado civil: soltera
+*dirección: La Tranquera 1170 E/La Cautiva y Cacique
+*Barrio:Don José
+*Localidad: Florencio Varela
+*Provincia: Buenos Aires
+*C.P:1888
+*Tel:4213-5246
+*Celular:1166159672
+Educación
+*Primario: Completo
+*Secundario:Incompleto
+*Escuela: Polimodal N°11 -Florencio Varela
+Características Personal
+*Buena presencia
+*Buena predisposicion al aprendizaje
+*hábil
+*Puntual 
+
+Experiencia laboral
+*Centro de Diálisis CEREHA 
+*Dirección: Avellaneda
+*Tarea desempeñada:Limpieza
+ *Centro de Diálisis SOLANEF
+*Dirección: San Francisco solano
+*Tarea desempeñada: Limpieza
+
+Disponibilidad Horarios
+* FULL TIME
+
+Security_code : gss9d
+Send : Enviar
+
+---------------
+
+Address : 190.51.112.220
+Nombre : WALTER SERGIO
+Apellido : CHIODINI
+Cargo : Proyectista y director de obra
+Direccion : segurola 2187
+Ciudad : bs as capital federal
+Telefono : 4621-0422 / 1558235890
+Email : arqchiodini@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Busco  trabajo. Mi nombre
+es Walter Sergio Chiodini, soy Arquitecto trabaje con ustedes como asesor externo.
+Especialista en Sistemas de Seguridad contra Incendio,CON CONOCIMIENTOS EL EL CODIGO DE EDIFICACION DE LA CIUDAD DE BUENOS AIRES, CODIGO DE HABILITACION, LEY NACIONAL DE SEGURIDAD E HIGIENE EN EL TRABAJO 19587 DECRETO 351,NORMAS NFPA 13, 14, 20 ,ley 2231 DISPOSICION NUMERO 415 DGDYPC,MEDIOS DE SALIDA,SECTORIZACION, CAJAS DE ESCALERAS " PRESURIZACION DE CAJAS" Y TRABAJE EN LA EX MCBA POR MAS DE 25 AÑOS COMO JEFE DEP. DEL SECTOR DE INCENDIO Y COMO ASESOR EN EMPRESAS PRIVADAS y en estudios de arquitectura.  
+Les envio mi curriculum.
+
+muchas
+gracias.-    
+   
+
+Security_code : 2cyx3
+Send : Enviar
+
+---------------
+
+Address : 181.46.177.205
+Nombre : Priscila
+Apellido : Dovitto
+Cargo : Administrativo
+Direccion : Guido 1132
+Ciudad : Buenos Aires
+Telefono : 1569720037
+Email : prisciladovitto@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Tengo buena disposición para realizar tareas. soy una persona proactiva y me gustaría poder realizar un trabajo administrativo para orientarme mas en mi futura carrera que es Contador Público.
+Security_code : xydgn
+Send : Enviar
+
+---------------
+

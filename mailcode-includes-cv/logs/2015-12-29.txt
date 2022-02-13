@@ -1,0 +1,65 @@
+Address : 201.213.22.5
+REF : RTC
+Nombre : Oscar Francisco
+Apellido : Vilagut
+Cargo : Representante Comercial  ( RTC)
+Direccion : Santa Fe 1669 Pb 
+Ciudad : Avellaneda. Buenos Aires
+Telefono : 011-4228-4017 / 15-6495-8873
+Email : ofv51@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Poseo experiencia en ventas técnicas consultivas,organización de equipos de trabajo.Agradecería la consideración para  la posición ofrecida. Atte.
+Oscar F. Vilagut
+Security_code : zb8cm
+Send : Enviar
+
+---------------
+
+Address : 181.15.154.2
+Nombre : Aldana
+Apellido : DÁMELIO
+Cargo : Medio Ambiente
+Direccion : San Martin 235
+Ciudad : Oliveros
+Telefono : 0347615563477
+Email : aldanadamelio@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto CV
+Security_code : H77K8
+Send : Enviar
+
+---------------
+
+Address : 190.210.15.124
+REF : GTEP
+Nombre : ROBERTO
+Apellido : PESARINI
+Cargo : Gerente de Planta
+Direccion : SILVANO MANINI 56 - SALDAN - CORDOBA
+Ciudad : Córdoba
+Telefono : 03543-494139 - cel: 351-2348896
+Email : robpesarini@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Mis Pretensiones remunerativas están abiertas a conversación
+estimativ.$50.000
+Security_code : t6jr7
+Send : Enviar
+
+---------------
+
+Address : 179.36.142.172
+Nombre : sofia
+Apellido : Alegre 
+Cargo : Maestro Mayor de Obras/ Dibujante Autocad 
+Direccion : Av 80 
+Ciudad : La Plata 
+Telefono : 37648387
+Email : Sofiaalegre@outlook.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Busco empleo en la zona de la plata espero su respuesta saludos 
+ 
+Security_code : n83pt
+Send : Enviar
+
+---------------
+

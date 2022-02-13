@@ -1,0 +1,30 @@
+Address : 186.56.183.232
+Nombre : Eliana 
+Apellido : Del Valle
+Cargo : Cajera
+Direccion : Echeverria 5568
+Ciudad : Moreno
+Telefono : 1166965675
+Email : lautiti7@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Necesito satisfacer mis necesidades económicas y desarrollarme laboralmente.
+Security_code : tq253
+Send : Enviar
+
+---------------
+
+Address : 186.123.135.4
+Nombre : Mara
+Apellido : Spasaro
+Cargo : Psicologo
+Direccion : Reconquista 1281
+Ciudad : Buenos Aires
+Telefono : 1561284718
+Email : maraalejandraspasaro@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola: me dirijo a ustedes con el objetivo de obtener un trabajo que me permita crecer a nivel profesional.Saluda atentamente.MARA
+Security_code : b3vdq
+Send : Enviar
+
+---------------
+

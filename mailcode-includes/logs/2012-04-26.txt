@@ -1,0 +1,12 @@
+Address : 190.50.178.194
+Nombre : hernan
+Apellido : paras
+Empresa : regercol
+Telefono : 45236789
+Email : hernan267@yahoo.com.ar
+Mensaje : controlen los avisos de los buscadores de empleo.por que los repiten constantemente y no existen.
+Security_code : 4n57t
+Send : Enviar
+
+---------------
+

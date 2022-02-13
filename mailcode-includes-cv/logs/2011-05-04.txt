@@ -1,0 +1,34 @@
+Address : 190.229.197.22
+Nombre : NICOLÁS
+Apellido : VISUARA
+Cargo : INGENIERO DE PLANTA
+Direccion : JUAN BAUTISTA ALBERDI 3845
+Ciudad : SANTA FE
+Telefono : 0342 - 154239156
+Email : nicolasvisuara@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Les adjunto mi cv para ser tenido en cuenta.
+
+Muchas Gracias,
+
+Nicolás Visuara
+Security_code : 8mfhr
+Send : Enviar
+
+---------------
+
+Address : 200.127.122.132
+Nombre : Gisela
+Apellido : Boillat
+Cargo : Administrativa
+Direccion : Guemes 3468
+Ciudad : Buenos Aires
+Telefono : 1531423640
+Email : giiselaa_@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me interesa encontrar un puesto de administrativa/ recepcionista. 
+Security_code : 8dr6n
+Send : Enviar
+
+---------------
+

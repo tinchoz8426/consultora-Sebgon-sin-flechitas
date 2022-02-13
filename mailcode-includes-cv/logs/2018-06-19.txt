@@ -1,0 +1,95 @@
+Address : 66.249.85.7<br>
+ <br>Nombre : Yuri Elizabeth 
+ <br>Apellido : Sato 
+ <br>Cargo : Abogada 
+ <br>Direccion : 49 nro 388 entre 2 y 3
+ <br>Ciudad : La Plata 
+ <br>Telefono : 1121696143
+ <br>Email : yurielizabeth03@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas tarde, me recibí en diciembre 2017. Estoy buscando trabajo para el area de legales. 
+ <br>Security_code : fwwvd
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.254.187.20<br>
+ <br>Nombre : Elvio
+ <br>Apellido : Pereyra
+ <br>Cargo : Tec elec
+ <br>Direccion : Medrano 743
+ <br>Ciudad : Merlo
+ <br>Telefono : 1551060716
+ <br>Email : elviopereyra72@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : A quien corresponda envío mi CV, Gracias
+Elvio Pereyra
+ <br>Security_code : 8b9fz
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 170.51.35.94<br>
+ <br>Nombre : Lucila 
+ <br>Apellido : Lentino
+ <br>Cargo : (GFM.997) - (CRZ-674) | Trabajador social para entrevista domiciliaria en Partido de San Isidro en Partido de San Isidro
+ <br>Direccion : Álvarez jonte 2955
+ <br>Ciudad : Buenos aires 
+ <br>Telefono : 1162295039
+ <br>Email : lulilen1505@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas tardes soy psicóloga social y estoy interezada anuncio, me postulo para el puesto para realizar entrevistas domiciliarias.
+Muchas gracias espero respuesta.
+Saludos 
+ <br>Security_code : Ppw8f
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 200.126.149.37<br>
+ <br>REF : ROT-1
+ <br>Nombre : Jorge Gonzalo
+ <br>Apellido : Quintana Sánchez
+ <br>Cargo : Responsable de Oficina Técnica
+ <br>Direccion : Olazábal 5124, piso 2 dpto 13, CABA
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 1156418731
+ <br>Email : jorgequintana20@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas tardes, un cordial saludo
+
+Mi nombre es Jorge Quintana, soy Venezolano, Ing. Mecánico de profesión. Tengo el agrado de dirigirme a ustedes con el objetivo de participar mi interés para postularme como candidato a la vacante de Responsable de Oficina Técnica que está publicada en Internet. Tengo 2 años de experiencia como Ingeniero de Diseño en una empresa metalmecánica, por lo cual cuento con la experiencia y los conocimientos técnicos necesarios para desarrollar todas las actividades de este cargo. Adicionalmente, tengo un nivel de inglés avanzado y manejo varias herramientas informáticas y software CAD, entre estos Autodesk Inventor y AutoCAD . Adjunto envío mi CV. 
+
+Tengo Certificado de Residencia Precaria, lo cual me habilita para trabajar legalmente.
+
+Muchas gracias por su atención, quedo a la espera de sus comentarios.
+
+Saludos
+Jorge Quintana
+
+
+ <br>Security_code : zmq65
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.247.1.17<br>
+ <br>REF : ROT-1
+ <br>Nombre : Ramiro
+ <br>Apellido : Martinez
+ <br>Cargo : Responsable de oficina tecnica
+ <br>Direccion : General Lavalle 169
+ <br>Ciudad : San Fernando
+ <br>Telefono : 01122780234
+ <br>Email : martinezramiro10@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Cuento con experiencia en diseño de mobiliario para locales comerciales. Me especializo en el liderar proyectos desde su concepción hasta su instalación en obra.. 
+
+
+www.behance.net/martinezramiro
+
+ <br>Security_code : dhnjb
+ <br>Send : Enviar
+ <br>
+---------------
+

@@ -1,0 +1,19 @@
+Address : 190.17.164.8
+Nombre : Cristian
+Apellido : Rinaldi
+Cargo : crinaldi81@hotmail.com
+Direccion : Larumbre 2447
+Ciudad : San isidro
+Telefono : 1569457640
+Email : crinaldi81@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buen día les adjunto el CV personal con carta de presentación descripta.
+
+Atte
+
+Cristian Rinaldi
+Security_code : 9b2vv
+Send : Enviar
+
+---------------
+

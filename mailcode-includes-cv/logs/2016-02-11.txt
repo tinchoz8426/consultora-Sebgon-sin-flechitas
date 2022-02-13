@@ -1,0 +1,220 @@
+Address : 188.143.232.37
+REF : JPL
+Nombre : Mark
+Apellido : 14929
+Cargo : CiqgZtng
+Direccion : neXyyyqEV
+Ciudad : NY
+Telefono : 51847885537
+Email : mark357177@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : QTj2lE http://www.FyLitCl7Pf7kjQdDUOLQOuaxTXbj5iNG.com
+Security_code : m0qtL
+Send : Enviar
+
+---------------
+
+Address : 190.211.87.85
+REF : GTEP
+Nombre : Marcelo Trilla
+Apellido : Trilla
+Cargo : Gerente de Planta
+Direccion : Ruta 50, km 1028, Ing. Giagnoni
+Ciudad : san Martin
+Telefono : 261 3466185
+Email : matrilla2002@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto CV por puesto de Gerente de Planta
+Security_code : hqxf5
+Send : Enviar
+
+---------------
+
+Address : 179.60.253.42
+REF : OEL
+Nombre : Vicente  Ezequiel 
+Apellido : Caballero 
+Cargo : Electricista 
+Direccion : Punta alta 570
+Ciudad : Lomas de Zamora 
+Telefono : 1141611803-42850580
+Email : ezequiel.caballero701@yahoo.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Espero cumplir con sus requisitos 
+Security_code : 2b62w
+Send : Enviar
+
+---------------
+
+Address : 181.165.129.219
+Nombre : Valeria Soledad
+Apellido : Vega
+Cargo : Administrativa
+Direccion : Arana 1159
+Ciudad : Tandil
+Telefono : 154695624
+Email : valeriav87@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Busco trabajo
+Security_code : mx728
+Send : Enviar
+
+---------------
+
+Address : 186.59.4.88
+Nombre : Martin
+Apellido : Castellanos Gimenez
+Cargo : Administrativo - Comercio Exterior y Aduanas
+Direccion : B° de los Andes - Gllen 
+Ciudad : Mendoza
+Telefono : 0261 - 154607855
+Email : martin.castellanosgimenez@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola Buenos días!! Mi nombre es Martín Castellanos soy Técnico en Comercio Exterior y Aduanas y quería enviarles mi curriculum vitae en caso de solicitar una persona con mi formación y habilidades.
+
+Muchas Gracias por su tiempo!!
+
+Slda atte
+Security_code : 8r4q6
+Send : Enviar
+
+---------------
+
+Address : 179.36.148.38
+Nombre : Micaela
+Apellido : Botti
+Cargo : Oficial de Negocios / cuentas - Administrativa
+Direccion : Medrano 1037, 6to 20
+Ciudad : CABA
+Telefono : +5491167115377
+Email : micaelabotti@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estoy en plena busqueda laboral. Espero estar en contacto!
+Security_code : bwxvz
+Send : Enviar
+
+---------------
+
+Address : 181.28.70.107
+Nombre : Luciana
+Apellido : Floriani
+Cargo : Administrativo/diseñador gráfico
+Direccion : Colpayo 760
+Ciudad : CABA
+Telefono : 1555063204
+Email : luciana_f88@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Excelente presencia y predisposición laboral. Capacidad para dirigir, trabajar en equipo y
+lograr el cumplimiento de objetivos.
+Tengo intención de progresar profesionalmente en una compañía que me de la posibilidad
+de desarrollarme y crecer.
+Soy una persona con iniciativa para proponer ideas, receptiva para acatar tareas,
+proactiva y creativa.
+Security_code : 5x3dq
+Send : Enviar
+
+---------------
+
+Address : 201.216.209.185
+REF : ANFAC
+Nombre : Pablo Esteban
+Apellido : Rossi
+Cargo : Analista de Facturacion
+Direccion : Av. Eva Peron 1383
+Ciudad : CABA
+Telefono : 1161482835
+Email : paitorossi@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Formar parte de un equipo de trabajo en el cual pueda desarrollar los conocimientos adquiridos en mi formación, comprometiéndome con los objetivos de la Organización y con un buen  manejo de las relaciones interpersonales.
+Security_code : k52yh
+Send : Enviar
+
+---------------
+
+Address : 190.244.191.120
+Nombre : Facundo
+Apellido : Lamas
+Cargo : administrativo
+Direccion : Av. San Juan 3214
+Ciudad : CABA
+Telefono : 01155819836
+Email : facuulamasrf1397@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estoy muy interesado en encontrar un trabajo que me permita tambien empezar mis estudios de Despachante de aduana.
+Aguardo su respuesta
+gracias
+
+Security_code : scr73
+Send : Enviar
+
+---------------
+
+Address : 190.244.191.120
+Nombre : Facundo
+Apellido : Lamas
+Cargo : administrativo
+Direccion : Av. San Juan 3214
+Ciudad : CABA
+Telefono : 01155819836
+Email : facuulamasrf1397@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estoy muy interesado en encontrar un trabajo que me permita tambien empezar mis estudios de Despachante de aduana.
+Aguardo su respuesta
+gracias
+
+Security_code : scr73
+Send : Enviar
+
+---------------
+
+Address : 190.244.191.120
+Nombre : Facundo
+Apellido : Lamas
+Cargo : administrativo
+Direccion : Av. San Juan 3214
+Ciudad : CABA
+Telefono : 01155819836
+Email : facuulamasrf1397@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estoy muy interesado en encontrar un trabajo que me permita tambien empezar mis estudios de Despachante de aduana.
+Aguardo su respuesta
+gracias
+
+Security_code : scr73
+Send : Enviar
+
+---------------
+
+Address : 190.244.191.120
+Nombre : Facundo
+Apellido : Lamas
+Cargo : administrativo
+Direccion : Av. San Juan 3214
+Ciudad : CABA
+Telefono : 01155819836
+Email : facuulamasrf1397@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estoy muy interesado en encontrar un trabajo que me permita tambien empezar mis estudios de Despachante de aduana.
+Aguardo su respuesta
+gracias
+
+Security_code : jdjbb
+Send : Enviar
+
+---------------
+
+Address : 186.129.17.25
+Nombre : Maria Florencia
+Apellido : Bertrand
+Cargo : Recepcionista
+Direccion : Tinogasta 3168
+Ciudad : Capital Federal
+Telefono : 1157435113
+Email : flor_arg22@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Busco empleo urgente.
+Security_code : 3s65x
+Send : Enviar
+
+---------------
+

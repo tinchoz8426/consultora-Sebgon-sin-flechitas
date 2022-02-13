@@ -1,0 +1,279 @@
+Address : 181.103.191.227
+REF : OEL
+Nombre : Ramon
+Apellido : Reviglio
+Cargo : Oficial electricista
+Direccion : Cnel winter 4480
+Ciudad :  Buenos aires
+Telefono : 1135106868
+Email : Mmonterojarpa_24_89@Hotmail. Com
+MAX_FILE_SIZE : 2097152
+Mensaje : Con experiencia. 
+Security_code : Wf3ng
+Send : Enviar
+
+---------------
+
+Address : 181.104.17.155
+REF : OEL
+Nombre : Ramón Antonio 
+Apellido : Reviglio 
+Cargo : Electricista 
+Direccion : Muguiondo 1557
+Ciudad : Buenos aires
+Telefono : 1135106868
+Email : monterojarpa_24_89@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Espero su llamado gracias 
+Security_code : Ykvdk
+Send : Enviar
+
+---------------
+
+Address : 190.188.6.52
+REF : TECME
+Nombre : daniel
+Apellido : stoll
+Cargo : tecnico mecanico
+Direccion : R. wernicke 1008 villa adelina 
+Ciudad : san isidro
+Telefono : 1557146604
+Email : taller-dany@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : para mantenimiento mecanico de linea
+Security_code : cmy2g
+Send : Enviar
+
+---------------
+
+Address : 181.28.239.11
+REF : ASCO
+Nombre : Ricardo Nicolás 
+Apellido : Dold 
+Cargo : Asesor Comercial
+Direccion : Florencio Varela 133
+Ciudad : Beccar
+Telefono : 3534827085
+Email : mrdoldsierra@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Sería de mi agrado formar parte de su empresa. Pese a mi juventud, poseo un gran potencial profesional dada mi proactividad, apego por el trabajo en equipo y capacidad de desempeño interdisciplinario. Debido a mi formación poseo herramientas de trabajo aptas para las circunstancias globales que nos aquejan.
+Security_code : 7brff
+Send : Enviar
+
+---------------
+
+Address : 200.16.144.193
+Nombre : aldana esther
+Apellido : panza
+Cargo : licenciado en higiene y seguridad
+Direccion : moldes 113
+Ciudad : mendoza
+Telefono : 2613829523
+Email : aldana_aep89@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me dirijo a ustedes para postularme al cargo de Lic. en Higiene y Seguridad en el Trabajo, siendo Junior con título Universitario egresada de la Universidad Tecnológica Nacional FRM. En el CV que adjunto detallo mis estudios, cursos y seminarios asistidos.
+
+
+Realicé cursos orientados a perfeccionar mis conocimientos en materia de gestión en Normas ISO (9001 Calidad -14001 Medio Ambiente) y OHSAS (18001 Salud y Seguridad Ocupacional), Buenas Prácticas en Manofactura Alimenticia, entre otros, importantes para certificar en el mercado actual. Tengo conocimientos de inglés y me encuentro capacitándome en Calidad.
+
+
+Me gustaría ser parte de su empresa. Considero que mis aptitudes, motivación y responsabilidad pueden contribuir al crecimiento del sector donde me encuentre. Dejo a su criterio la posibilidad de mantener una entrevista para ampliar aspectos de mi perfil.
+
+Remuneración pretendida $........ a convenir  (según costo de vida básico en la provincia a residir).
+
+
+
+Saludo muy atentamente.
+
+	Aldana E. Panza
+
+
+
+
+Celular: 0261-153829523
+E-mail: aldana_aep89@hotmail.com
+
+
+
+
+
+Security_code : cswxz
+Send : Enviar
+
+---------------
+
+Address : 200.16.144.193
+Nombre : aldana esther
+Apellido : panza
+Cargo : licenciado en higiene y seguridad
+Direccion : moldes 113
+Ciudad : mendoza
+Telefono : 2613829523
+Email : aldana_aep89@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me dirijo a ustedes para postularme al cargo de Lic. en Higiene y Seguridad en el Trabajo, siendo Junior con título Universitario egresada de la Universidad Tecnológica Nacional FRM. En el CV que adjunto detallo mis estudios, cursos y seminarios asistidos.
+
+
+Realicé cursos orientados a perfeccionar mis conocimientos en materia de gestión en Normas ISO (9001 Calidad -14001 Medio Ambiente) y OHSAS (18001 Salud y Seguridad Ocupacional), Buenas Prácticas en Manofactura Alimenticia, entre otros, importantes para certificar en el mercado actual. Tengo conocimientos de inglés y me encuentro capacitándome en Calidad.
+
+
+Me gustaría ser parte de su empresa. Considero que mis aptitudes, motivación y responsabilidad pueden contribuir al crecimiento del sector donde me encuentre. Dejo a su criterio la posibilidad de mantener una entrevista para ampliar aspectos de mi perfil.
+
+Remuneración pretendida $........ a convenir  (según costo de vida básico en la provincia a residir).
+
+
+
+Saludo muy atentamente.
+
+	Aldana E. Panza
+
+
+
+
+Celular: 0261-153829523
+E-mail: aldana_aep89@hotmail.com
+
+
+
+
+
+Security_code : cswxz
+Send : Enviar
+
+---------------
+
+Address : 200.16.144.193
+Nombre : aldana esther
+Apellido : panza
+Cargo : licenciado en higiene y seguridad
+Direccion : moldes 113
+Ciudad : mendoza
+Telefono : 2613829523
+Email : aldana_aep89@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me dirijo a ustedes para postularme al cargo de Lic. en Higiene y Seguridad en el Trabajo, siendo Junior con título Universitario egresada de la Universidad Tecnológica Nacional FRM. En el CV que adjunto detallo mis estudios, cursos y seminarios asistidos.
+
+
+Realicé cursos orientados a perfeccionar mis conocimientos en materia de gestión en Normas ISO (9001 Calidad -14001 Medio Ambiente) y OHSAS (18001 Salud y Seguridad Ocupacional), Buenas Prácticas en Manofactura Alimenticia, entre otros, importantes para certificar en el mercado actual. Tengo conocimientos de inglés y me encuentro capacitándome en Calidad.
+
+
+Me gustaría ser parte de su empresa. Considero que mis aptitudes, motivación y responsabilidad pueden contribuir al crecimiento del sector donde me encuentre. Dejo a su criterio la posibilidad de mantener una entrevista para ampliar aspectos de mi perfil.
+
+Remuneración pretendida $........ a convenir  (según costo de vida básico en la provincia a residir).
+
+
+
+Saludo muy atentamente.
+
+	Aldana E. Panza
+
+
+
+
+Celular: 0261-153829523
+E-mail: aldana_aep89@hotmail.com
+
+
+
+
+
+Security_code : 3d58x
+Send : Enviar
+
+---------------
+
+Address : 200.16.144.193
+Nombre : aldana esther
+Apellido : panza
+Cargo : licenciado en higiene y seguridad
+Direccion : moldes 113
+Ciudad : mendoza
+Telefono : 2613829523
+Email : aldana_aep89@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me dirijo a ustedes para postularme al cargo de Lic. en Higiene y Seguridad en el Trabajo, siendo Junior con título Universitario egresada de la Universidad Tecnológica Nacional FRM. En el CV que adjunto detallo mis estudios, cursos y seminarios asistidos.
+
+
+Realicé cursos orientados a perfeccionar mis conocimientos en materia de gestión en Normas ISO (9001 Calidad -14001 Medio Ambiente) y OHSAS (18001 Salud y Seguridad Ocupacional), Buenas Prácticas en Manofactura Alimenticia, entre otros, importantes para certificar en el mercado actual. Tengo conocimientos de inglés y me encuentro capacitándome en Calidad.
+
+
+Me gustaría ser parte de su empresa. Considero que mis aptitudes, motivación y responsabilidad pueden contribuir al crecimiento del sector donde me encuentre. Dejo a su criterio la posibilidad de mantener una entrevista para ampliar aspectos de mi perfil.
+
+Remuneración pretendida $........ a convenir  (según costo de vida básico en la provincia a residir).
+
+
+
+Saludo muy atentamente.
+
+	Aldana E. Panza
+
+
+
+
+Celular: 0261-153829523
+E-mail: aldana_aep89@hotmail.com
+
+
+
+
+
+Security_code : 3d58x
+Send : Enviar
+
+---------------
+
+Address : 200.16.144.193
+Nombre : aldana esther
+Apellido : panza
+Cargo : licenciado en higiene y seguridad
+Direccion : moldes 113
+Ciudad : mendoza
+Telefono : 2613829523
+Email : aldana_aep89@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me dirijo a ustedes para postularme al cargo de Lic. en Higiene y Seguridad en el Trabajo, siendo Junior con título Universitario egresada de la Universidad Tecnológica Nacional FRM. En el CV que adjunto detallo mis estudios, cursos y seminarios asistidos.
+
+
+Realicé cursos orientados a perfeccionar mis conocimientos en materia de gestión en Normas ISO (9001 Calidad -14001 Medio Ambiente) y OHSAS (18001 Salud y Seguridad Ocupacional), Buenas Prácticas en Manofactura Alimenticia, entre otros, importantes para certificar en el mercado actual. Tengo conocimientos de inglés y me encuentro capacitándome en Calidad.
+
+
+Me gustaría ser parte de su empresa. Considero que mis aptitudes, motivación y responsabilidad pueden contribuir al crecimiento del sector donde me encuentre. Dejo a su criterio la posibilidad de mantener una entrevista para ampliar aspectos de mi perfil.
+
+Remuneración pretendida $........ a convenir  (según costo de vida básico en la provincia a residir).
+
+
+
+Saludo muy atentamente.
+
+	Aldana E. Panza
+
+
+
+
+Celular: 0261-153829523
+E-mail: aldana_aep89@hotmail.com
+
+
+
+
+
+Security_code : c56dd
+Send : Enviar
+
+---------------
+
+Address : 181.46.242.224
+Nombre : gustavo
+Apellido : lesa
+Cargo : vendedor
+Direccion : hidalgo 561
+Ciudad : caba
+Telefono : 1133924811
+Email : gustavolesa@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : gracias por recibir mi curiculum
+Security_code : ks2zb
+Send : Enviar
+
+---------------
+

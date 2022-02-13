@@ -1,0 +1,189 @@
+Address : 190.105.3.153<br>
+ <br>REF : chr
+ <br>Nombre : Joaquin 
+ <br>Apellido : Carballal
+ <br>Cargo : Chofer
+ <br>Direccion : Moreno 670
+ <br>Ciudad : Gral.Rodriguez
+ <br>Telefono : 11-5924-2456
+ <br>Email : joaquin-carballal@outlook.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas aquí les envió mi CV y me encuentro a disposición, desde ya muchas gracias.
+ <br>Security_code : rpqk2
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.48.128.78<br>
+ <br>REF : TM-2
+ <br>Nombre : esteban
+ <br>Apellido : villagra
+ <br>Cargo : mantenimiento
+ <br>Direccion : piedra buena 53
+ <br>Ciudad : buenos aires
+ <br>Telefono : 1150529002
+ <br>Email : stebancjs90@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : espero cumplir con todas sus espectativas,gracias por recibir mi cv
+ <br>Security_code : d6t4y
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.194.74.17<br>
+ <br>REF : ROT-1
+ <br>Nombre : Walter Daniel
+ <br>Apellido : Graña
+ <br>Cargo : ROT-1
+ <br>Direccion : Oncativo 1679
+ <br>Ciudad : Lanus
+ <br>Telefono : 1557560154
+ <br>Email : wgrana@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Creo poseer los conocimientos solicitados para cubrir la vacante para oficina técnica.-
+
+Sin mas saluda atte.
+
+Walter Graña
+ <br>Security_code : rbcyz
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.55.68.130<br>
+ <br>REF : ACO-1
+ <br>Nombre : Nicolas 
+ <br>Apellido : Guevara
+ <br>Cargo : ANALISTA DE COMERCIO INTERNACIONAL/EXTERIOR 
+ <br>Direccion : Plaza Brown 135
+ <br>Ciudad : Adrogue
+ <br>Telefono : 1541594303
+ <br>Email : guevaranicolas89@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me interesa cualquier propuesta de comercio exterior o logistica
+ <br>Security_code : qkf9n
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.44.76.48<br>
+ <br>REF : ROT-1
+ <br>Nombre : Luis
+ <br>Apellido : Stivanello
+ <br>Cargo : Dibujante proyectista
+ <br>Direccion : Quiroz 2285
+ <br>Ciudad : Ituzaingo
+ <br>Telefono : 1554982792
+ <br>Email : luisstiv@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Responsable y dispuesto a nuevos desfios
+ <br>Security_code : xxzmw
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.44.76.48<br>
+ <br>REF : ROT-1
+ <br>Nombre : Luis
+ <br>Apellido : Stivanello
+ <br>Cargo : responsable de oficina tecnica
+ <br>Direccion : Quiroz 2285
+ <br>Ciudad : Ituzaingo
+ <br>Telefono : 1554982792
+ <br>Email : luisstiv@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Responsable y dispuesto a nuevos desafios
+ <br>Security_code : 2c7p6
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.44.76.48<br>
+ <br>REF : ROT-1
+ <br>Nombre : Luis
+ <br>Apellido : Stivanello
+ <br>Cargo : responsable de oficina tecnica
+ <br>Direccion : Quiroz 2285
+ <br>Ciudad : Ituzaingo
+ <br>Telefono : 1554982792
+ <br>Email : luisstiv@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Responsable y dispuesto a nuevos desafios
+ <br>Security_code : nbyvs
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.7<br>
+ <br>REF : ROT-1
+ <br>Nombre : Sebastian
+ <br>Apellido : Fragati
+ <br>Cargo : 6700
+ <br>Direccion : La plata 2332
+ <br>Ciudad : Lujan
+ <br>Telefono : 2323579031
+ <br>Email : fragatisebastian@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados, 
+Adjunto mi cv
+ <br>Security_code : npjp3
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.251.134.214<br>
+ <br>REF : ROT-1
+ <br>Nombre : Norberto
+ <br>Apellido : Perez
+ <br>Cargo : Ingeniero
+ <br>Direccion : Mitre 1499
+ <br>Ciudad : Bariloche
+ <br>Telefono : 0294 154539346
+ <br>Email : norbertoperez.ar@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estoy muy entusiasmado de trabajar con ustedes brindándoles mis servicios!
+ 
+Sres. SEBGON CONSULTORA
+
+Atte. Sr. Gerente RR.HH.
+
+Siendo Ingeniero Mecánico, quiero participar en vuestros desafíos como Ingeniero de Obras y Proyectos, 
+para lo cual le envío mis antecedentes profesionales y le ofrezco toda mi capacidad, pro-actividad y liderazgo.
+
+Poseo amplia experiencia en el diseño de Piping y Stress Analysis en Instalaciones de Superficie sector Oil & Gas, 
+Plantas Químicas, Petroquímicas y Nucleares.
+Últimamente estuve trabajando en varios  proyectos para YPF en la zona de las Heras, Santa Cruz.
+También poseo amplia experiencia en diseño de recipientes sometidos a presión de acuerdo a ASME VIII.
+
+Poseo capacidad para re-localizarme y estoy listo para trabajar con ustedes!
+
+Sin otro particular y descontando serles de utilidad, le solicito una entrevista donde poder ampliar mi experiencia.
+Saludo a usted muy atentamente,
+ 
+Ing. Norberto Omar Perez
+✆: 0294 154 539346
+ 
+P.D. Gracias desde ya por su consideración en lo que tengo para ofrecerles. 
+Pueden contactarme en cualquier momento en mi celular 0294 154 539346 ó a este e-mail, para colaborar con ustedes!
+
+ <br>Security_code : 2gy8q
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.10.54.234<br>
+ <br>REF : chr
+ <br>Nombre : jorge luis
+ <br>Apellido : vazquez
+ <br>Cargo : conductor
+ <br>Direccion : guatemala 9204
+ <br>Ciudad : loma hermosa
+ <br>Telefono : 1533536988
+ <br>Email : jorfacu@hotmail.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : conocimientos de reparto,carga y descrga de mercaderias. registros al dia y cnrt carga generales.conocimientos de transportes para la entrega de mercaderias.
+ <br>Security_code : qbny6
+ <br>Send : Enviar
+ <br>
+---------------
+

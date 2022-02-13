@@ -1,0 +1,48 @@
+Address : 190.111.251.134
+REF : jefe-de-operaciones
+Nombre : Alvaro
+Apellido : Coraza
+Cargo : Seguridad privada
+Direccion : a convenir
+Ciudad : Cordoba
+Telefono : 0294515697780
+Email : deadmanthrones@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Busco trabajo en Cordoba capital para poder seguir mis estudios, desde ya muchas gracias. 
+Security_code : g2h28
+Send : Enviar
+
+---------------
+
+Address : 190.173.87.159
+REF : administrativo-logistica
+Nombre : Marcos
+Apellido : Ruiz Diaz
+Cargo : logistica
+Direccion : Diesel 25
+Ciudad : Merlo
+Telefono : 1567963203
+Email : marcos_ruiz_diaz@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me considero una persona responsable, ordenada y pro activa. Cuento con dinamismo, prolijidad y practicidad gran capacidad para trabajo en equipo. Considero que mi gestion sera productiva
+Security_code : 93hn7
+Send : Enviar
+
+---------------
+
+Address : 190.173.87.159
+REF : administrativo-logistica
+Nombre : Marcos
+Apellido : Ruiz Diaz
+Cargo : logistica
+Direccion : Diesel 25
+Ciudad : Merlo
+Telefono : 1567963203
+Email : marcos_ruiz_diaz@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me considero una persona responsable, ordenada y pro activa. Cuento con dinamismo, prolijidad y practicidad gran capacidad para trabajo en equipo. Considero que mi gestion sera productiva
+Security_code : 93hn7
+Send : Enviar
+
+---------------
+

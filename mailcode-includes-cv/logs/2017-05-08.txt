@@ -1,0 +1,291 @@
+Address : 181.167.40.35<br>
+ <br>Nombre : Florencia 
+ <br>Apellido : Augugliaro
+ <br>Cargo : Seleccion de Personal
+ <br>Direccion : La Pampa 1424
+ <br>Ciudad : CABA
+ <br>Telefono : 47851942
+ <br>Email : flor.a_93@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Pongo a disposicion mi CV por alguna oportunidad laboral en el ambito de la psicologia laboral / seleccion de personal
+ <br>Security_code : qwjms
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.194.0.81<br>
+ <br>REF : ROT-1
+ <br>Nombre : Paula Andrea
+ <br>Apellido : Jiménez
+ <br>Cargo : RESPONSABLE DE OFICINA TÉCNICA
+ <br>Direccion : México
+ <br>Ciudad : 1/7
+ <br>Telefono : 1158708034
+ <br>Email : paulagj2000@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buen día,
+
+Adjunto mi cv para la vacante.
+Quedo atenta,
+Cordialmente
+Paula Giraldo
+ <br>Security_code : h9k5s
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.194.0.81<br>
+ <br>REF : ACO
+ <br>Nombre : Paula Andrea
+ <br>Apellido : Jiménez
+ <br>Cargo : ASISTENTE COMERCIAL
+ <br>Direccion : México
+ <br>Ciudad : 1/7
+ <br>Telefono : 1158708034
+ <br>Email : paulagj2000@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buen Día,
+
+Adjunto mi cv
+Cordialmente,
+Paula Giraldo
+ <br>Security_code : mxmk7
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.194.0.81<br>
+ <br>REF : EP-1
+ <br>Nombre : Paula Andrea
+ <br>Apellido : Jiménez
+ <br>Cargo : ENCARGADO DE PRODUCCIÓN
+ <br>Direccion : México
+ <br>Ciudad : 1/7
+ <br>Telefono : 1158708034
+ <br>Email : paulagj2000@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buen día,
+
+Adjunto mi cv
+Cordialmentte,
+Paula Giraldo
+ <br>Security_code : fk8n9
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.143.200.185<br>
+ <br>REF : chr
+ <br>Nombre : Lucas ramon 
+ <br>Apellido : Lopez
+ <br>Cargo : Chofer
+ <br>Direccion : 832 barrio infico
+ <br>Ciudad : Florencio varela
+ <br>Telefono : 1161587499
+ <br>Email : Lucasramonlopez1980@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Busco trabajo de chofer tengo todo los registro y tengo esperiencia de chefer de comiones y con muchas gana de trabajar
+ <br>Security_code : Rywxd
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.48.223.52<br>
+ <br>Nombre : Evelyn
+ <br>Apellido : Becaaz
+ <br>Cargo : Administrativo
+ <br>Direccion : Roque Saenz Peña 480, San Antonio de Padua, Merlo
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : (0220) 485 5502 // 1164529725
+ <br>Email : eve.becaaz@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buen día. Estoy en búsqueda laboral, quería saber si cuentan con algún empleo disponible en Zona Oeste (Zona de Ramos Mejía, Haedo, Morón, Castelar, Ituzaingo, San Antonio de Padua o Merlo). Espero su pronta respuesta.
+
+Muchas gracias.
+Evelyn Ileana Becaaz.
+ <br>Security_code : 6q365
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.48.223.52<br>
+ <br>Nombre : Evelyn
+ <br>Apellido : Becaaz
+ <br>Cargo : Administrativo
+ <br>Direccion : Roque Saenz Peña 480, San Antonio de Padua, Merlo
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : (0220) 485 5502 // 1164529725
+ <br>Email : eve.becaaz@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buen día. Estoy en búsqueda laboral, quería saber si cuentan con algún empleo disponible en Zona Oeste (Zona de Ramos Mejía, Haedo, Morón, Castelar, Ituzaingo, San Antonio de Padua o Merlo). Espero su pronta respuesta.
+
+Muchas gracias.
+Evelyn Ileana Becaaz.
+ <br>Security_code : 6q365
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.48.223.52<br>
+ <br>Nombre : Evelyn
+ <br>Apellido : Becaaz
+ <br>Cargo : Administrativo
+ <br>Direccion : Roque Saenz Peña 480, San Antonio de Padua, Merlo
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : (0220) 485 5502 // 1164529725
+ <br>Email : eve.becaaz@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buen día. Estoy en búsqueda laboral, quería saber si cuentan con algún empleo disponible en Zona Oeste (Zona de Ramos Mejía, Haedo, Morón, Castelar, Ituzaingo, San Antonio de Padua o Merlo). Espero su pronta respuesta.
+
+Muchas gracias.
+Evelyn Ileana Becaaz.
+ <br>Security_code : 6q365
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.48.223.52<br>
+ <br>Nombre : Evelyn
+ <br>Apellido : Becaaz
+ <br>Cargo : Administrativo
+ <br>Direccion : Roque Saenz Peña 480, San Antonio de Padua, Merlo
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : (0220) 485 5502 // 1164529725
+ <br>Email : eve.becaaz@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buen día. Estoy en búsqueda laboral, quería saber si cuentan con algún empleo disponible en Zona Oeste (Zona de Ramos Mejía, Haedo, Morón, Castelar, Ituzaingo, San Antonio de Padua o Merlo). Espero su pronta respuesta.
+
+Muchas gracias.
+Evelyn Ileana Becaaz.
+ <br>Security_code : 4sf7n
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.136.67.39<br>
+ <br>REF : ACO-1
+ <br>Nombre : Santiago 
+ <br>Apellido : Matute Fellheimer
+ <br>Cargo : Analista de comercio internacional/exterior
+ <br>Direccion : Edison 337 Martinez
+ <br>Ciudad : san isidro
+ <br>Telefono : 11 5606 5792
+ <br>Email : santi_matfell@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Soy Licenciado en Relaciones Internacionales, con un muy buen conocimiento y entendimiento en comercio exterior. Cuento con un nivel avanzado de inglés y soy bilingüe en francés.
+ <br>Security_code : Kqv73
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.136.67.39<br>
+ <br>REF : ACO-1
+ <br>Nombre : Santiago 
+ <br>Apellido : Matute Fellheimer
+ <br>Cargo : Analista de comercio internacional/exterior
+ <br>Direccion : Edison 337 Martinez
+ <br>Ciudad : san isidro
+ <br>Telefono : 11 5606 5792
+ <br>Email : santi_matfell@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Soy Licenciado en Relaciones Internacionales, con un muy buen conocimiento y entendimiento en comercio exterior. Cuento con un nivel avanzado de inglés y soy bilingüe en francés.
+ <br>Security_code : hs8h4
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.136.67.39<br>
+ <br>REF : ACO-1
+ <br>Nombre : Santiago 
+ <br>Apellido : Matute Fellheimer
+ <br>Cargo : Analista de comercio internacional/exterior
+ <br>Direccion : Edison 337 Martinez
+ <br>Ciudad : san isidro
+ <br>Telefono : 11 5606 5792
+ <br>Email : santi_matfell@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Soy Licenciado en Relaciones Internacionales, con un muy buen conocimiento y entendimiento en comercio exterior. Cuento con un nivel avanzado de inglés y soy bilingüe en francés.
+ <br>Security_code : hs8h4
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.136.67.39<br>
+ <br>REF : ACO-1
+ <br>Nombre : Santiago 
+ <br>Apellido : Matute Fellheimer
+ <br>Cargo : Analista de comercio internacional/exterior
+ <br>Direccion : Edison 337 Martinez
+ <br>Ciudad : san isidro
+ <br>Telefono : 11 5606 5792
+ <br>Email : santi_matfell@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Soy Licenciado en Relaciones Internacionales, con un muy buen conocimiento y entendimiento en comercio exterior. Cuento con un nivel avanzado de inglés y soy bilingüe en francés.
+ <br>Security_code : hs8h4
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.136.67.39<br>
+ <br>REF : ACO-1
+ <br>Nombre : Santiago 
+ <br>Apellido : Matute Fellheimer
+ <br>Cargo : Analista de comercio internacional/exterior
+ <br>Direccion : Edison 337 Martinez
+ <br>Ciudad : san isidro
+ <br>Telefono : 11 5606 5792
+ <br>Email : santi_matfell@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Soy Licenciado en Relaciones Internacionales, con un muy buen conocimiento y entendimiento en comercio exterior. Cuento con un nivel avanzado de inglés y soy bilingüe en francés.
+ <br>Security_code : gzm86
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.136.67.39<br>
+ <br>REF : ACO-1
+ <br>Nombre : Santiago 
+ <br>Apellido : Matute Fellheimer
+ <br>Cargo : Analista de comercio internacional/exterior
+ <br>Direccion : Edison 337 Martinez
+ <br>Ciudad : san isidro
+ <br>Telefono : 11 5606 5792
+ <br>Email : santi_matfell@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Soy Licenciado en Relaciones Internacionales, con un muy buen conocimiento y entendimiento en comercio exterior. Cuento con un nivel avanzado de inglés y soy bilingüe en francés.
+ <br>Security_code : tvdt6
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 200.125.105.116<br>
+ <br>Nombre : mariano
+ <br>Apellido : diaz
+ <br>Cargo : camionero cargas generales y peligrosas
+ <br>Direccion : belen 2833
+ <br>Ciudad : bs.as
+ <br>Telefono : 0111569139983
+ <br>Email : vivianaian25@gmai.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Busco trabajo de camionero o acompañante tengo reguistros profesionales al dia cargas generales y peligrosas me gusta superarme y aprender distintas cosas soy una persona responsable y capas tengo una familia asi que necesito un trabajo en blanco espero con ansias su llamado
+ <br>Security_code : kfwnv
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.44.76.48<br>
+ <br>REF : ROT-1
+ <br>Nombre : Luis Gustavo
+ <br>Apellido : Stivanello
+ <br>Cargo : responsable de oficina tecnica
+ <br>Direccion : Quiroz 2285
+ <br>Ciudad : Ituzaingo
+ <br>Telefono : 1554982792 / 1549893632 /46616962
+ <br>Email : luisstiv@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Responsable y dispuesto a nuevos desafios
+ <br>Security_code : 56pq8
+ <br>Send : Enviar
+ <br>
+---------------
+

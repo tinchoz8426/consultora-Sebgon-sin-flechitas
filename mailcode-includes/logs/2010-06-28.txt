@@ -1,0 +1,24 @@
+Address : 190.226.118.53
+Nombre : lgayozo@hotmail.com
+Apellido : laura gayozo 
+Empresa : luis gayozo
+Telefono : 03717428407
+Email : lgayozo@hotmail.com
+Mensaje : capacitacion 
+Security_code : nwt2g
+Send : Enviar
+
+---------------
+
+Address : 12.42.131.10
+Nombre : Rosana
+Apellido : Moras
+Empresa : Interval International Argentina S.A.
+Telefono : 4819-4400 int. 300
+Email : rosana.moras@intervalintl.com
+Mensaje : Buenas tardes. Nuestra empresa está ubicada en microcentro. Necesitamos saber si hacen estudios de carga de fuego. Espero su llamado. Muchas gracias.
+Security_code : h5zg9
+Send : Enviar
+
+---------------
+

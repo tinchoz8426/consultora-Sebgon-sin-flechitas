@@ -1,0 +1,171 @@
+Address : 201.253.51.19
+REF : ACO
+Nombre : Ignacio Jose
+Apellido : Lutfi
+Cargo : administrativo contable 
+Direccion : Pasco Nº 239
+Ciudad : Santiago del Estero
+Telefono : 385155049742
+Email : ignalutfi@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me gustaría trabajar en alguna empresa privada de horario corrido o en entidades financieras. 
+Security_code : xsw68
+Send : Enviar
+
+---------------
+
+Address : 186.109.7.160
+Nombre : maria laura
+Apellido : Carena
+Cargo : salud y belleza
+Direccion : escalante 143 barrio artigas
+Ciudad : cordoba
+Telefono : 03514612127
+Email : lauracarena1@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : aqui les adjunto mi cv para que lo tengan en cuenta desde ya muchas gracias
+Security_code : 8bjcp
+Send : Enviar
+
+---------------
+
+Address : 190.49.46.179
+Nombre : Marina Valeria
+Apellido : Retamal
+Cargo : Cajera repositora
+Direccion : Neuquen
+Ciudad : Neuquen Capital
+Telefono : 4468286 - 156378930
+Email : maruvr.tatudm@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : DISPONGO DE HORARIO FULL TIME.FUI CAJERA REPOSITORA Y AUX EN LOS SECTORES DE VERDULERIA, FIAMBRERIA Y PANADERIA.
+Security_code : 7dshb
+Send : Enviar
+
+---------------
+
+Address : 181.44.53.225
+Nombre : ivan
+Apellido : fernandez
+Cargo : operario
+Direccion : maure 5234
+Ciudad : Buenos aires
+Telefono : 1166337240
+Email : ivanuni2@live.com
+MAX_FILE_SIZE : 2097152
+Mensaje : quiero cumplir los objetivos de la empresa y obtener experiencia laboral
+Security_code : 6rcp2
+Send : Enviar
+
+---------------
+
+Address : 181.44.53.225
+Nombre : ivan
+Apellido : fernandez
+Cargo : operario
+Direccion : maure 5234
+Ciudad : Buenos aires
+Telefono : 1166337240
+Email : ivanuni2@live.com
+MAX_FILE_SIZE : 2097152
+Mensaje : quiero cumplir los objetivos de la empresa y obtener experiencia laboral
+Security_code : 6rcp2
+Send : Enviar
+
+---------------
+
+Address : 181.44.53.225
+Nombre : ivan
+Apellido : fernandez
+Cargo : operario
+Direccion : maure 5234
+Ciudad : Buenos aires
+Telefono : 1166337240
+Email : ivanuni2@live.com
+MAX_FILE_SIZE : 2097152
+Mensaje : quiero cumplir los objetivos de la empresa y obtener experiencia laboral
+Security_code : g7h3m
+Send : Enviar
+
+---------------
+
+Address : 181.44.53.225
+Nombre : ivan
+Apellido : fernandez
+Cargo : operario
+Direccion : maure 5234
+Ciudad : Buenos aires
+Telefono : 1166337240
+Email : ivanuni2@live.com
+MAX_FILE_SIZE : 2097152
+Mensaje : quiero cumplir los objetivos de la empresa y obtener experiencia laboral
+Security_code : 6rcp2
+Send : Enviar
+
+---------------
+
+Address : 190.105.12.80
+Nombre : Iziar
+Apellido : Sigismondi
+Cargo : Asesor-Representante Medio Ambiente
+Direccion : Lujan
+Ciudad : Lujan
+Telefono : 0232315368367
+Email : izisigismondi@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados.
+Les adjunto mi CV.
+Soy Tecnica en informacion ambiental, con experiencia en el ambito publico.
+Mi voluntad es incorporarme en el ambito privado.
+Saludo muy atte.
+Iziar Sigismondi.
+Security_code : hj72v
+Send : Enviar
+
+---------------
+
+Address : 181.117.0.214
+Nombre : Sebastian
+Apellido : Rodriguez
+Cargo : carga y descarga/operario
+Direccion : Islas Orcadas del Sur
+Ciudad : Buenos AIRES
+Telefono : 1541750918/1139073644
+Email : sebarodriguez32@yahoo.es
+MAX_FILE_SIZE : 2097152
+Mensaje : Ingresar de inmediato con el objetivo de insertarme laboralmente y así mismo desempeñarme eficazmente en las tareas asignadas.
+Security_code : 79tnf
+Send : Enviar
+
+---------------
+
+Address : 181.117.0.214
+Nombre : Sebastian
+Apellido : Rodriguez
+Cargo : carga y descarga/operario
+Direccion : Islas Orcadas del Sur
+Ciudad : Buenos AIRES
+Telefono : 1541750918/1139073644
+Email : sebarodriguez32@yahoo.es
+MAX_FILE_SIZE : 2097152
+Mensaje : Ingresar de inmediato con el objetivo de insertarme laboralmente y así mismo desempeñarme eficazmente en las tareas asignadas.
+Security_code : 79tnf
+Send : Enviar
+
+---------------
+
+Address : 181.117.0.214
+Nombre : sebastian
+Apellido : rodriguez
+Cargo : carga y descarga/operario
+Direccion : islas orcadas del sur
+Ciudad : buenos aires
+Telefono : 1541750918/1139073644
+Email : sebarodriguez32@yahoo.es
+MAX_FILE_SIZE : 2097152
+Mensaje : Ingresar de inmediato con el objetivo de insertarme laboralmente y así mismo desempeñarme eficazmente en las tareas asignadas.
+Security_code : zw6nc
+Send : Enviar
+
+---------------
+

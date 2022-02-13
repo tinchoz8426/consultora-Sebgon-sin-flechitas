@@ -1,0 +1,30 @@
+Address : 196.32.80.196
+Nombre : Maria Ximena
+Apellido : Techera de Melo
+Cargo : Administrativa
+Direccion : Buchardo 3951
+Ciudad : San Justo
+Telefono : 44868093
+Email : mariaximena2003@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Les envio mi cv para un eventual puesto laboral. Muchas gracias.-
+Security_code : 6jjnt
+Send : Enviar
+
+---------------
+
+Address : 186.22.126.127
+Nombre : Carla
+Apellido : Rodriguez
+Cargo : Recursos Humanos
+Direccion : Av independencia 2782 7c
+Ciudad : buenos aires
+Telefono : 1534144407
+Email : carlarodriguez07@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados, estoy en la busqueda de un puesto acorde a mi perfil, tengo absoluta predisposicion para trasladame a otra ciudad, espero su contacto.
+Security_code : pzckr
+Send : Enviar
+
+---------------
+

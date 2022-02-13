@@ -1,0 +1,35 @@
+Address : 190.18.131.194
+Nombre : Angel 
+Apellido : Diaz
+Cargo : Ventas
+Direccion : Virrey Olguer y Feliu 2674
+Ciudad : Capital Federal
+Telefono : 1524927624
+Email : diazsaa@yahoo.es
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenos Días,
+ 
+A través de la presente le envió mis saludos y me presento como postulante. Me llamo Ángel Díaz y soy Contador Público con amplia experiencia en Ventas, tengo 42 años de edad y 7 años de experiencia como Ejecutivo de Ventas los cuales me han capacitado para asumir el control y manejo de Clientes.
+ 
+Adjunto mi currículo para poder ser tenido en cuenta en el proceso de selección para cargos de Ventas. Agradezco mucho su atención.
+Security_code : nzpkv
+Send : Enviar
+
+---------------
+
+Address : 186.167.242.101
+REF : JPL
+Nombre : Henry
+Apellido : Márquez
+Cargo : Jefe de Planta
+Direccion : Distrito Capital
+Ciudad : Caracas
+Telefono : 584241028855
+Email : cotoplo73@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Ingeniero Industrial Venezolano, graduado en la Universidad Católica Andrés Bello UCAB, con 18 años de experiencia en el área de Producción, Operaciones y Mantenimiento en el Sector de Industrias de Alimentos y Maquinaria Pesada, con Estudios de Postgrados Técnicos y Gerenciales. He ocupado diversas posiciones en mi carrera profesional, Jefaturas y Coordinación de Planta de Producción: Elaboración y Envasado, Coordinador de Área Mecánica y Mantenimiento de Planta y Talleres: Preventivo, Predictivo, Correctivo y Renovación General de Equipos y Líneas de Producción, Pruebas Puesta a Punto y Servicio Postventa de Sistemas. Conducción Efectiva de Recursos Humanos y Equipos Multidisciplinarios con visión estratégica, con la filosofía de liderazgo por influencia, manejo de conflictos y negociación. Planificación y Programación dirigida a la consecución de resultados y objetivos en términos de tiempo, costos operativos y eficiencia. Sólidos conocimientos en Sistemas y Controles de Calidad, Nomas ISO y Metodología de Análisis de Peligros y Puntos Críticos de Control (HACCP) Procesos de Producción, Ingeniería de Mantenimiento y Confiabilidad de Equipos, Metodología de Análisis de Problemas, Control Estadístico de Procesos, Filosofía Kaizen, 5S, TPM, SMED. Control de Mermas y Desperdicios, Manejos de Indicadores de Gestión. 
+Security_code : 9sqv4
+Send : Enviar
+
+---------------
+

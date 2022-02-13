@@ -1,0 +1,35 @@
+Address : 190.190.183.6
+Nombre : Lorena Carla
+Apellido : Parussini
+Cargo : Administrativa
+Direccion : Av. Independencia 1835
+Ciudad : Ciudad Autónoma de Buenos Aires
+Telefono : 15-56071578
+Email : lorenaparussini33@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Sres.
+Consultora Sebgon
+
+Me interesaría trabajar en Recursos Humanos, en Recepción o Secretariado que son puestos en los que tengo mayor experiencia.
+Es importante comentarles que mi disponibilidad laboral es de Lunes a Viernes hasta las 18hs. dado que me encuentro estudiando Consultoría Psicológica (Counseling).
+Les agradezco y dejo mis saludos.
+Security_code : 853jk
+Send : Enviar
+
+---------------
+
+Address : 190.174.11.124
+Nombre : Melisa Solange
+Apellido : Scala
+Cargo : recepcionista,atencion al cliente,vendedora,azafata,modelo,secretaria
+Direccion : Lanin
+Ciudad : Rafael Castillo
+Telefono : 1562178781
+Email : melisascala@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : -
+Security_code : 7afgh
+Send : Enviar
+
+---------------
+

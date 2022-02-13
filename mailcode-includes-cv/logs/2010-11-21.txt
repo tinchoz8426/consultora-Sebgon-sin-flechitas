@@ -1,0 +1,15 @@
+Address : 80.174.145.197
+Nombre : Celia 
+Apellido : Sellens Diaz
+Cargo : Dependienta de perfumeria
+Direccion : calle carme 209 bajos primera
+Ciudad : Girona
+Telefono : 616598859
+Email : jesulecelia@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Les envio mi curriculum, por si hay alguna oferta de trabajo.
+Security_code : rk976
+Send : Enviar
+
+---------------
+

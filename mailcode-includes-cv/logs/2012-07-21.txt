@@ -1,0 +1,48 @@
+Address : 186.134.33.183
+Nombre : Jorga Agustín
+Apellido : Cacho
+Cargo : Servicios
+Direccion : Ana Lena de Guerrieri 1479
+Ciudad : Haedo Norte
+Telefono : 15-5498-5084
+Email : agustincr@speedy.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Les envio mi CV para ser evaluado en futuras búsquedas.
+Security_code : yq33d
+Send : Enviar
+
+---------------
+
+Address : 190.174.243.149
+REF : jefe-de-operaciones
+Nombre : Cristian 
+Apellido : Nieva
+Cargo : Jefe de operaciones
+Direccion : San luis 797
+Ciudad : Banfield
+Telefono : 01150064210
+Email : terradomus@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : BUENAS TARDES ESTE ES MI CV. Y ESPERO LES SEA UTIL PARA EL PUESTO LABORAL,DESDE YA MUCHAS GRACIAS.
+Security_code : YKX2G
+Send : Enviar
+
+---------------
+
+Address : 190.176.19.138
+Nombre : Oscar Alfredo
+Apellido : Rojas
+Cargo : Postulación espontánea - Ing. Industrial
+Direccion : Los Olmos 1229
+Ciudad : Godoy Cruz - Mendoza
+Telefono : 0261 - 155028685
+Email : oscar_rojas84@hotmail.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto mi CV para formar parte de su base de datos.
+
+De antemano, muchas gracias.
+Security_code : fs567
+Send : Enviar
+
+---------------
+

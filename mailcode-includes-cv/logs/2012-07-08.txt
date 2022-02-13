@@ -1,0 +1,33 @@
+Address : 186.19.173.180
+Nombre : GUILLERMO RAUL
+Apellido : CABANA
+Cargo : JEFE O SUPERVISOR DE IMPUESTOS
+Direccion : JOSE I. RUCCI 4524
+Ciudad : CAPITAL FEDERAL
+Telefono : 15-6738-7586
+Email : guille.cabana@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenas Tardes
+Adjunto mi CV para que pueda ser tenido en cuenta de futuras busquedas acordes a mi perfil
+
+Muchas Gracias
+Security_code : x3hsh
+Send : Enviar
+
+---------------
+
+Address : 201.230.60.14
+Nombre : julio nestor
+Apellido : sanchez chuquizuta
+Cargo : despachador de almacen
+Direccion : A.H. 7 de Junio Mz G Lt 10 Pueblo Libre
+Ciudad : lima
+Telefono : 4616740
+Email : c_sch1@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : soy proactivo y disciplinado con capacidad de trabajar en equipo
+Security_code : nwq4t
+Send : Enviar
+
+---------------
+

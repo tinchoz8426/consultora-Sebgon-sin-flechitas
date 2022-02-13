@@ -1,0 +1,78 @@
+Address : 181.29.151.87
+Nombre : Jesica
+Apellido : Ponce
+Cargo : Administrativo
+Direccion : Terrero 481
+Ciudad : Isidro Casanova
+Telefono : 1169648549
+Email : poncejesicasol@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Objetivos:Crecer profesionalmente mientras adquiero experiencia laboral y aprender a manejar nuevas herramientas en un nuevo ámbito laboral.
+Security_code : dkjht
+Send : Enviar
+
+---------------
+
+Address : 201.250.85.192
+Nombre : Fiorella Irma
+Apellido : Gonzalez
+Cargo : Secretaria - Recepcionista - Atención al cliente
+Direccion : Corvalan
+Ciudad : Buenos Aires
+Telefono : 1530087910
+Email : fiorellagonzalez@hotmail.es
+MAX_FILE_SIZE : 2097152
+Mensaje : -
+Security_code : 7xmgb
+Send : Enviar
+
+---------------
+
+Address : 181.28.225.75
+Nombre : Maria Agostina
+Apellido : Passadore
+Cargo : RRHH
+Direccion : Cordoba 1247
+Ciudad : CABA
+Telefono : 1540232947
+Email : agospass@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenas tardes,soy psicóloga egresada de la UBA. Me gustaría formar parte de su equipo de selectores de personal. Envío mi CV adjunto.
+Muchas gracias,
+Saludos
+Passadore, Maria Agostina
+Security_code : ydwyr
+Send : Enviar
+
+---------------
+
+Address : 190.173.42.164
+Nombre : Aldana Julieta
+Apellido : Slopi
+Cargo : telemarketer
+Direccion : aconcagua 1360
+Ciudad : florencio varela
+Telefono : 43554936
+Email : aldana.slopi@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Seria un honor ser parte de ustedes
+Security_code : xctdp
+Send : Enviar
+
+---------------
+
+Address : 190.173.14.186
+Nombre : nadia solange
+Apellido : paes fernandez
+Cargo : ventas, atencion al cliente
+Direccion : san carlos 1900
+Ciudad :  Buenos aires
+Telefono : 1538855230
+Email : naaah__31@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Busco empleo para poder pagar mis propios estudios
+Security_code : 3nqqt
+Send : Enviar
+
+---------------
+

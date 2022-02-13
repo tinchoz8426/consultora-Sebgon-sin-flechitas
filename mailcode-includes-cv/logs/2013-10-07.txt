@@ -1,0 +1,64 @@
+Address : 201.252.42.177
+Nombre : Mauro
+Apellido : Nölter
+Cargo : Analista administrativo-contable
+Direccion : San Lorenzo 1073
+Ciudad : Tandil
+Telefono : (0249) 154008430
+Email : filmdvdclub@arnet.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Por medio del presente me dirijo a Uds. a los efectos de hacerles llegar mi curriculum vitae, para que el mismo sea tomado en consideración al momento de seleccionar personal.
+Sin otro particular, y agradeciendo vuestra atención, los saluda atte.
+
+Mauro Nôlter
+
+Security_code : qvz77
+Send : Enviar
+
+---------------
+
+Address : 186.61.15.148
+Nombre : Claudio Ariel
+Apellido : Orellana
+Cargo : clarkista, operario en produccion, tareas varias
+Direccion : gral paz 2141
+Ciudad : monte grande
+Telefono : 011-62868977
+Email : cao_8boro@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : ofrezco mis servicios y mi experiencia de forma responsable 
+Security_code : 89rr5
+Send : Enviar
+
+---------------
+
+Address : 186.61.15.148
+Nombre : Claudio Ariel
+Apellido : Orellana
+Cargo : clarkista, operario en produccion, tareas varias
+Direccion : gral paz 2141
+Ciudad : monte grande
+Telefono : 011-62868977
+Email : cao_8boro@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : ofrezco mi experiencia y mis servicios de forma responsable 
+Security_code : smnkm
+Send : Enviar
+
+---------------
+
+Address : 190.231.146.181
+Nombre : Fernando Mariano
+Apellido : Nevi Videla
+Cargo : Vendedor diseñador 
+Direccion : Gral San Martin 1566
+Ciudad : Bs As
+Telefono : 1563036279
+Email : fernvidela@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Busco trabajo de vendedor y diseñador de muebles
+Security_code : dfnn2
+Send : Enviar
+
+---------------
+

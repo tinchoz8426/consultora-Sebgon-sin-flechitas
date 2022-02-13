@@ -1,0 +1,63 @@
+Address : 186.59.45.23
+REF : supervisor-seguridad
+Nombre : Marcelo Javier
+Apellido : Gelardi
+Cargo : Supervisor de Seguridad
+Direccion : Paso de Los Andes 1761
+Ciudad : Godoy Cruz
+Telefono : 2615163343 - 261-4284582
+Email : marcelogelardi@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenos días, adjunto CV personal para el puesto que se ofrece. Me interesa tener la oportunidad de una entrevista personal: desde ya muy agradecidos.
+Security_code : FT47T
+Send : Enviar
+
+---------------
+
+Address : 186.59.45.23
+REF : jefe-de-operaciones
+Nombre : Marcelo Javier
+Apellido : Gelardi
+Cargo : Jefe de Operaciones
+Direccion : Paso de Los Andes 1761
+Ciudad : Godoy Cruz
+Telefono : 2615163343 - 261-4284582
+Email : marcelogelardi@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenos días, adjunto CV personal para el puesto que arriba se detalla. Me interesa, me gusta y cuento con experiencia para tal postulación. Aguardo favorable rta y posibilidad de una entrevista personal. Muy agradecido.
+Security_code : ddcx9
+Send : Enviar
+
+---------------
+
+Address : 201.254.56.56
+Nombre : Teresa
+Apellido : Garzia
+Cargo : JEFE CONTABLE/CONTADOR / RESPONSABLE DE ADMINISTRACIÓN
+Direccion : CASEROS 432
+Ciudad : RAMOS MEJÍA
+Telefono : 1540930002
+Email : tegarzia@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : ACTUALMENTE ESTOY TRABAJANDO EN UNA AUTOPARTISTA DE MEDIANA EMBERGADURA, QUIERO CAMBIAR DE TRABAJO, Y DE SER POSIBLE EN LA ZONA. GRACIAS.
+Security_code : 65kts
+Send : Enviar
+
+---------------
+
+Address : 190.245.91.229
+Nombre : Rocio
+Apellido : Covi
+Cargo : Secretaria - Telefonista - Recepcionista - At. Cliente
+Direccion : Valle Grande 1822
+Ciudad : Buenos Aires
+Telefono : 1538048346
+Email : rocio.covi@hotmail.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto CV.
+Gracias
+Security_code : vhrd6
+Send : Enviar
+
+---------------
+

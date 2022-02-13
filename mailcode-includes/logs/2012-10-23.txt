@@ -1,0 +1,12 @@
+Address : 200.87.43.170
+Nombre : Luis Alberto
+Apellido : Claure Pantoja
+Empresa : BG Bolivia
+Telefono : 74525470
+Email : luis.claure@bg-group.com
+Mensaje : Sres, me gustaria saber si por favor me pasan si tienen capacitaciones en seguridad industrial.
+Security_code : qhm6t
+Send : Enviar
+
+---------------
+

@@ -1,0 +1,60 @@
+Address : 190.55.79.216
+Nombre : Yael
+Apellido : Einhorn
+Cargo : Recepcionista, tareas variadas
+Direccion : Pasaje Las Provincias 3157
+Ciudad : capital federal
+Telefono : 1150550372
+Email : yachi.einhorn@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Deseo un puesto laboral
+Security_code : 945bg
+Send : Enviar
+
+---------------
+
+Address : 190.51.173.203
+Nombre : Norberto 
+Apellido : Duarte
+Cargo : Analista Programador
+Direccion : El Litoral 150 
+Ciudad : Temperley
+Telefono : 1556101721
+Email : nduarte2012@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Buesqueda Laboral.
+Security_code : ty4p8
+Send : Enviar
+
+---------------
+
+Address : 186.135.98.85
+Nombre : Anabela Solange
+Apellido : Benitez
+Cargo : administrativa
+Direccion : Juan Pio gana 4781 Gonzalez Catan
+Ciudad : La matanza Buenos Aires
+Telefono : 01131255715
+Email : anabellasbenitez@outlook.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Les remito mi cv para el puesto requerido
+Security_code : kbrcf
+Send : Enviar
+
+---------------
+
+Address : 190.175.20.172
+Nombre : franco emanuel
+Apellido : montiel
+Cargo : operario
+Direccion : pergamino 3394
+Ciudad : capital federal
+Telefono : 1540570539
+Email : franqo_montiel@outlook.es
+MAX_FILE_SIZE : 2097152
+Mensaje : quiero trabajar necesito para ayudar a mi familia
+Security_code : jzkdc
+Send : Enviar
+
+---------------
+

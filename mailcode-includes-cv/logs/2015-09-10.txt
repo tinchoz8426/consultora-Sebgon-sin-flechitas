@@ -1,0 +1,119 @@
+Address : 181.26.76.170
+Nombre : Gonzalo
+Apellido : Damario
+Cargo : Optico tecnico contactologo
+Direccion : General lopez 1374
+Ciudad : Villa Bosch
+Telefono : 1557560964
+Email : Gonzalo.damario@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Mi nombre es Gonzalo damario, tengo 22 años, soy recientemente graduado de la carrera de opticos tecnicos de la universidad de buenos aires y busco adquirir exp en el rubro de la optica y la contactologia.
+Security_code : Nrrt8
+Send : Enviar
+
+---------------
+
+Address : 181.26.76.170
+Nombre : Gonzalo
+Apellido : Damario
+Cargo : Optico tecnico contactologo
+Direccion : General lopez 1374
+Ciudad : Villa Bosch
+Telefono : 1557560964
+Email : Gonzalo.damario@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Mi nombre es Gonzalo damario, tengo 22 años, soy recientemente graduado de la carrera de opticos tecnicos de la universidad de buenos aires y busco adquirir exp en el rubro de la optica y la contactologia.
+Security_code : nrrt8
+Send : Enviar
+
+---------------
+
+Address : 181.26.76.170
+Nombre : Gonzalo
+Apellido : Damario
+Cargo : Optico tecnico contactologo
+Direccion : General lopez 1374
+Ciudad : Villa Bosch
+Telefono : 1557560964
+Email : Gonzalo.damario@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Mi nombre es Gonzalo damario, tengo 22 años, soy recientemente graduado de la carrera de opticos tecnicos de la universidad de buenos aires y busco adquirir exp en el rubro de la optica y la contactologia.
+Security_code : vknq6
+Send : Enviar
+
+---------------
+
+Address : 200.117.53.123
+Nombre : maria antonia
+Apellido : Frias
+Cargo : atencion al cliente
+Direccion : manuel estrada 3303 
+Ciudad : tucuman
+Telefono : 03815687900
+Email : mariaantoniafras@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : hola envio mi curriculum con todos mis datos muchos gracias
+Security_code : m52jg
+Send : Enviar
+
+---------------
+
+Address : 190.172.230.192
+REF : ACO
+Nombre : Walter Hernán
+Apellido : Almirón
+Cargo : Asesores Comerciales
+Direccion : Corro 3085
+Ciudad : Ituzaingo
+Telefono : 1556186595
+Email : whernanalmiron@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimado Sr/a:
+Tengo el agrado de dirigirme a ustéd con el fin de trasmitirle mis deseos de formar parte del puesto de Asesor Comercial.
+Me presento como una persona responsable , pro activa, con muchas capacidades para formar equipos de trabajo.Me interesa trabajar en su empresa porqué tengo experiencia vendiendo productos a clientes  y se que que puedo desenvolverme bien en ese tipo de situaciones ,y tengo la actitud y las ganas de trabajar y yo soy la persona ideal para el puesto; por lo tanto le adjunto mi Curriculum Vitae para ver más detalles de mis experiencias laborales.
+Cualquier duda o consulta puede comunicarse a mi telefono celular (15 5618 6595) y se lo aclarare mediante una entrevista personal,si ustéd lo desea. Le envío un saludo cordial.
+
+Almirón Hernán
+Security_code : p7wvm
+Send : Enviar
+
+---------------
+
+Address : 186.62.15.63
+REF : ACO
+Nombre : Mauricio dario
+Apellido : Peci
+Cargo : Asesores comerciales
+Direccion : 363 y 316
+Ciudad : Berazategui
+Telefono : 1164536906
+Email : Pecimauricio@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola queria hacerle llegar mi curriculum viate. Muchas gracias
+Security_code : J8brj
+Send : Enviar
+
+---------------
+
+Address : 173.230.225.59
+Nombre : Juan ignacio
+Apellido : Montero
+Cargo : Administrativo
+Direccion : Benjamin Matienzo 2479
+Ciudad : Belgrano
+Telefono : (011)1530581986
+Email : juan_montero1960@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenas Tardes...
+
+Adjunto encontrarán mi Curriculum Vitae. 
+Espero tener la oportunidad de ser tenido en cuenta, para personalmente exponerle mis conocimientos y mi deseo de formar parte de su equipo de trabajo. 
+Saludos.
+
+Montero Juan
+
+Security_code : 69svk
+Send : Enviar
+
+---------------
+

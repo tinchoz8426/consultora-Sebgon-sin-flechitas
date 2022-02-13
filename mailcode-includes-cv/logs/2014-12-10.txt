@@ -1,0 +1,60 @@
+Address : 190.179.2.38
+Nombre : Nadia Agustina
+Apellido : Gonzalez
+Cargo : Recepcionista/Administrativa
+Direccion : Calle 333bis N°1377
+Ciudad : Quilmes Oeste
+Telefono : 1130660671
+Email : nanuagustina@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Deseo obtener un puesto estable y a largo plazo, donde pueda desarrollarme y elaborar tareas propias de mi formación.
+Security_code : jnfhx
+Send : Enviar
+
+---------------
+
+Address : 186.22.189.217
+Nombre : ignacio
+Apellido : Ortiz
+Cargo : cadete, atencion al cliente
+Direccion : ECHEANDIA 5078
+Ciudad : Buenos aires
+Telefono : 1533058118
+Email : nacho0_19@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : estoy en busca de mi primer trabajo y agradeceria la oportunidad de demostrar mis ganas de trabajar. gracias
+Security_code : hy54j
+Send : Enviar
+
+---------------
+
+Address : 186.22.189.217
+Nombre : ignacio
+Apellido : Ortiz
+Cargo : cadete, atencion al cliente
+Direccion : ECHEANDIA 5078
+Ciudad : Buenos aires
+Telefono : 1533058118
+Email : nacho0_19@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : estoy en busca de mi primer trabajo y agradeceria la oportunidad de demostrar mis ganas de trabajar. gracias
+Security_code : hy54j
+Send : Enviar
+
+---------------
+
+Address : 37.228.106.129
+Nombre : Emiliano
+Apellido : Galarza
+Cargo : operario
+Direccion : castelar 1340 Merlo
+Ciudad : Buenos Aires
+Telefono : 0111533905212
+Email : emiliano.galarza1991@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : necesito trabajo fijo urgente por favor. gracias
+Security_code : jn23w
+Send : Enviar
+
+---------------
+

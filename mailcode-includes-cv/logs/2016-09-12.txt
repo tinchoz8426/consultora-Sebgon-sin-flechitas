@@ -1,0 +1,125 @@
+Address : 181.21.11.71<br>
+ <br>Nombre : Braian
+ <br>Apellido : Navarrete
+ <br>Cargo : -
+ <br>Direccion : jorge filippo 108
+ <br>Ciudad : Rio Gallegos
+ <br>Telefono : 2966500157
+ <br>Email : braiangerman@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola , me llamo Braian Navarrete y estoy en búsqueda de empleo.
+Tengo 19 años ( 13-08-1997) tengo muchas ganas de trabajar , facilidad para aprender y desarrollarlo , soy una persona seria , responsable , dinámica , capaz , puntual , cuento con buen léxico ya sea verbal o escrito . Tengo movilidad propia y carnet de conducir . Espero me tenga en cuenta como candidato.
+Le saluda atentamente Braian Navarrete.
+ <br>Security_code : np43y
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.253.244.206<br>
+ <br>Nombre : natalia soledad
+ <br>Apellido : sosa
+ <br>Cargo : cajera-limpieza
+ <br>Direccion : HUGO DEL CARRIL 9906
+ <br>Ciudad : buenos aires
+ <br>Telefono : 4506-1265---1525048113
+ <br>Email : flopydiaz521@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : necesito trabajar
+ <br>Security_code : b269v
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.136.123.71<br>
+ <br>Nombre : antonella soledad
+ <br>Apellido : sargiotti
+ <br>Cargo : ayudante de cocina , limpieza
+ <br>Direccion : billinghurst 1653
+ <br>Ciudad : palermo
+ <br>Telefono : 0111563564007
+ <br>Email : anto_sargiotti@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Mi objetivo primordial es formar parte de un grupo de trabajo líder y exitoso donde pueda seguir formando mis actitudes. Del mismo modo desempeñarme en el cargo que me asignen de forma satisfactoria, demostrando mis conocimientos, talento acumulado hasta el momento
+ <br>Security_code : ngz97
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.136.123.71<br>
+ <br>Nombre : antonella soledad
+ <br>Apellido : sargiotti
+ <br>Cargo : ayudante de cocina , limpieza
+ <br>Direccion : billinghurst 1653
+ <br>Ciudad : palermo
+ <br>Telefono : 0111563564007
+ <br>Email : anto_sargiotti@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Mi objetivo primordial es formar parte de un grupo de trabajo líder y exitoso donde pueda seguir formando mis actitudes. Del mismo modo desempeñarme en el cargo que me asignen de forma satisfactoria, demostrando mis conocimientos, talento acumulado hasta el momento
+ <br>Security_code : ngz97
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.136.123.71<br>
+ <br>Nombre : antonella soledad
+ <br>Apellido : sargiotti
+ <br>Cargo : ayudante de cocina , limpieza
+ <br>Direccion : billinghurst 1653
+ <br>Ciudad : palermo
+ <br>Telefono : 0111563564007
+ <br>Email : anto_sargiotti@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Mi objetivo primordial es formar parte de un grupo de trabajo líder y exitoso donde pueda seguir formando mis actitudes. Del mismo modo desempeñarme en el cargo que me asignen de forma satisfactoria, demostrando mis conocimientos, talento acumulado hasta el momento
+ <br>Security_code : ngz97
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.136.123.71<br>
+ <br>Nombre : antonella soledad
+ <br>Apellido : sargiotti
+ <br>Cargo : ayudante de cocina  limpieza
+ <br>Direccion : billinghurst 1653
+ <br>Ciudad : palermo
+ <br>Telefono : 0111563564007
+ <br>Email : anto_sargiotti@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Mi objetivo primordial es formar parte de un grupo de trabajo líder y exitoso donde pueda seguir formando mis actitudes. Del mismo modo desempeñarme en el cargo que me asignen de forma satisfactoria, demostrando mis conocimientos, talento acumulado hasta el momento
+ <br>Security_code : ngz97
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.136.123.71<br>
+ <br>Nombre : antonella
+ <br>Apellido : sargiotti
+ <br>Cargo : limpieza , cocina ayudante
+ <br>Direccion : billinghurst 1653
+ <br>Ciudad : palermo
+ <br>Telefono : 0111563564007
+ <br>Email : anto_sargiotti@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Mi objetivo primordial es formar parte de un grupo de trabajo líder y exitoso donde pueda seguir formando mis actitudes. Del mismo modo desempeñarme en el cargo que me asignen de forma satisfactoria, demostrando mis conocimientos, talento acumulado hasta el momento
+ <br>Security_code : 5bxg4
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 191.81.178.62<br>
+ <br>Nombre : Melisa
+ <br>Apellido : Laitán
+ <br>Cargo : -
+ <br>Direccion : Rivadavia 3470
+ <br>Ciudad : Mar del Plata
+ <br>Telefono : 02983-15500263
+ <br>Email : mlaitan@hotmail.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola. Si bien actualmente me encuentro trabajando, estoy en la búsqueda de un empleo mejor. 
+Desde ya, les agradezco la posibilidad.
+Atentamente, 
+Melisa Laitán
+ <br>Security_code : wkc9t
+ <br>Send : Enviar
+ <br>
+---------------
+

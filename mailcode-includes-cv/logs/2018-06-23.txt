@@ -1,0 +1,61 @@
+Address : 131.100.90.33<br>
+ <br>REF : ROT-1
+ <br>Nombre : NORBERTO
+ <br>Apellido : PEREZ
+ <br>Cargo : ENCARGADO OFICINA TECNICA
+ <br>Direccion : Pastorino 2061
+ <br>Ciudad : El Bolson
+ <br>Telefono : 0294154539346
+ <br>Email : norbertoperez.ar@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : ¡Estoy muy entusiasmado de trabajar con ustedes brindándoles mis servicios!
+ 
+Sres. SEBGON CONSULTORA
+
+Atte. Sr. Gerente RR.HH.
+
+Siendo Ingeniero Mecánico, quiero participar en vuestros desafíos como Ingeniero de Obras y Proyectos, para lo cual le envío mis antecedentes profesionales y le ofrezco toda mi capacidad, pro-actividad y liderazgo.
+
+Poseo amplia experiencia en el diseño de Piping y Stress Analysis en Instalaciones de Superficie sector Oil & Gas, 
+Plantas Químicas, Petroquímicas y Nucleares.
+
+Actualmente estoy trabajando en varios proyectos sector Oil & Gas en la zona de Santa Cruz.
+También poseo amplia experiencia en diseño de recipientes sometidos a presión de acuerdo a ASME VIII.
+
+Poseo capacidad para re-localizarme y estoy listo para trabajar con ustedes!
+Sin otro particular y descontando serles de utilidad, le solicito una entrevista donde poder ampliar mi experiencia.
+Saludo a usted muy atentamente,
+ 
+Ing. Norberto Omar Perez
+Cel: 0294 154 539346
+ 
+P.D. Gracias desde ya por su consideración en lo que tengo para ofrecerles. 
+Pueden contactarme en cualquier momento en mi celular 0294 154 539346 ó a este e-mail, para colaborar con ustedes!
+
+ <br>Security_code : nssxc
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.124.14.73<br>
+ <br>REF : EP-1
+ <br>Nombre : Galbarino Gastón
+ <br>Apellido : Amigo Riveros
+ <br>Cargo : ENCARGADO DE PRODUCCION
+ <br>Direccion : Bolivia 227
+ <br>Ciudad : Escobar
+ <br>Telefono : +543484433342
+ <br>Email : amigogaston@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me pongo en contacto con ustedes en referencia  en el que su empresa requiere de un encargado de producción, quiero hacerle llegar mi currículum vitae para su valoración y poder formar parte de su equipo.
+Mi nombre es Galvarino Gastón Amigo Riveros y soy Técnico Mecánico con un año cursado en la carrera de Ingeniería. He trabajado en varias empresas en el área de manufactura y procesos continuos de producción.
+Será un placer para mi ampliar la información sobre mi formación profesional y mis competencias tal como se recogen en el curriculum a través de una entrevista personal. Para ello, no dude en contactarse conmigo.
+Saludos atentamente 
+Gastón Amigo
+
+
+ <br>Security_code : Kvx4m
+ <br>Send : Enviar
+ <br>
+---------------
+

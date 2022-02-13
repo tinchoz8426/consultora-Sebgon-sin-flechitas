@@ -1,0 +1,162 @@
+Address : 190.224.214.59
+Nombre : Franco
+Apellido : Lopez
+Cargo : administrativo y atención al publico
+Direccion : pasaje arenales 1950
+Ciudad : San Miguel de Tucuman
+Telefono : 0381155170574
+Email : fml_1988@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenos Días:
+
+            Cuento con certificado de discapacidad.
+Mi discapacidad no afecta en ningún desempeño laboral. 
+Security_code : f82g9
+Send : Enviar
+
+---------------
+
+Address : 200.115.244.178
+Nombre : estefania
+Apellido : gallardo
+Cargo : atencion al cliente,cajera
+Direccion : guido spano 3890
+Ciudad : villa luzuriaga
+Telefono : 1535130447
+Email : estefaniagallardo52@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : A quien corresponda,
+  hago llegar mi Currículum Vitae, a fin de ser tenida en cuenta en una posible vacante.
+Quedo a su disposición para ampliar cualquier información necesaria.
+Cordiales saludos.
+Estefania  Gallardo
+Security_code : wnq5z
+Send : Enviar
+
+---------------
+
+Address : 179.0.4.128
+Nombre : Lilis Patricia
+Apellido : Sanmartin Saldarriaga
+Cargo : Enfermera
+Direccion : Juan Agustin Garcia 3934
+Ciudad : CABA
+Telefono : 35298585
+Email : patriciasan82@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados,
+Les hago llegar mi currículo, a fin de ser tenido en cuenta acorde a mi perfil a un futuro trabajo como cuidadora de pacientes o auxiliar de enfermería, aunque no cuento con el titulo convalidado (Titulo Auxiliar de Enfermería, expedido en Colombia), pero tengo una amplia experiencia de 10 años como enfermera profesional.
+Actualmente, soy estudiante intensivo en Enfermería Profesional, en la Universidad Maimonides. 
+Quedo a su disposición para ampliar cualquier información necesaria.
+Cordialmente,
+Lilis Patricia Sanmartin Saldarriaga
+Security_code : zdqhw
+Send : Enviar
+
+---------------
+
+Address : 181.91.89.39
+Nombre : Jose Luis
+Apellido : Kuz
+Cargo : Abogado
+Direccion : Berutti 555
+Ciudad : Oberá, Misiones
+Telefono : 03755646111
+Email : kuzjoseluis@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me gustaría que me tengan en cuenta.
+Security_code : z23yj
+Send : Enviar
+
+---------------
+
+Address : 179.39.133.33
+Nombre : octavio
+Apellido : grisales
+Cargo : electricista
+Direccion : calderon de la barca  1795
+Ciudad : buenos aires
+Telefono : 1150170842  y 1167677423
+Email : ogrisales2015@outlook.es
+MAX_FILE_SIZE : 2097152
+Mensaje : soy colombiano  y tengo dni de argentina 
+Security_code : wp794
+Send : Enviar
+
+---------------
+
+Address : 181.26.175.98
+Nombre : Nicolás
+Apellido : Sosa
+Cargo : Administración y ventas
+Direccion : Jorge obon 
+Ciudad : Lanús
+Telefono : 1164738920
+Email : nicososa62@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me considero una persona muy ordenada y prolija en el área laboral, compañero y leal a los pares, responsable y organizado, con mucha empatía para trabajar en equipo. Tengo capacidad de liderazgo e iniciativas propias, soy una persona pensante, con criterio y motivación propia, con muy buena relación interpersonal, dicción y ganas de crecimiento para poder aprender y mejorar día a día, pero por sobre todo muchas ganas de trabajar.
+Security_code : zt9zb
+Send : Enviar
+
+---------------
+
+Address : 201.177.22.120
+Nombre : MARINA SOLEDAD
+Apellido : MARIN
+Cargo : estudiante de sistemas
+Direccion : calle 105
+Ciudad : Guernica
+Telefono : 1168486038
+Email : m.a.r.i.n.a_s.m@live.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Busco empleo, dispuesta a capacitarme a diversas areas.
+Security_code : zjwkx
+Send : Enviar
+
+---------------
+
+Address : 181.26.212.186
+Nombre : Maria Belen
+Apellido : Lopez
+Cargo : operaria, camarera
+Direccion : ceballos 1657 dto 4
+Ciudad : avellaneda
+Telefono : 1136393778
+Email : martina_teamoo@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Cuento con disponibilidad horaria full time y incorporación inmediata.
+Security_code : t6ybg
+Send : Enviar
+
+---------------
+
+Address : 181.26.212.186
+Nombre : Maria Belen
+Apellido : Lopez
+Cargo : operaria, camarera
+Direccion : ceballos 1657 dto 4
+Ciudad : avellaneda
+Telefono : 1136393778
+Email : martina_teamoo@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Cuento con disponibilidad horaria full time y incorporación inmediata.
+Security_code : t6ybg
+Send : Enviar
+
+---------------
+
+Address : 181.26.212.186
+Nombre : Maria Belen
+Apellido : Lopez
+Cargo : operaria, camarera
+Direccion : ceballos 1657 dto 4
+Ciudad : avellaneda
+Telefono : 1136393778
+Email : martina_teamoo@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Cuento con disponibilidad horaria full time y incorporación inmediata.
+Security_code : 5h8ty
+Send : Enviar
+
+---------------
+

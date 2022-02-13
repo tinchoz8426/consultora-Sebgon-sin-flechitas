@@ -1,0 +1,46 @@
+Address : 181.231.246.229<br>
+ <br>Nombre : Maximiliano Dario
+ <br>Apellido : Marcianesi
+ <br>Cargo : visitador medico
+ <br>Direccion : 78 n°1930
+ <br>Ciudad : la plata
+ <br>Telefono : 221-4349717
+ <br>Email : maximilianomarcianesi@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Busqueda de trabajo
+ <br>Security_code : 8qtsv
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.125.129.117<br>
+ <br>REF : TEC. EL
+ <br>Nombre : VALERIO
+ <br>Apellido : KOCHELEV
+ <br>Cargo : ELECTRICO ELECTRONICO
+ <br>Direccion : COCHABAMBA  2384
+ <br>Ciudad : SAN MARTIN
+ <br>Telefono : 1153167131
+ <br>Email : dronnot@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : https://www.linkedin.com/in/valeriy-kochelev-526627a6/
+ <br>Security_code : 78yt2
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.11<br>
+ <br>Nombre : Carola Marisa 
+ <br>Apellido : Gómez 
+ <br>Cargo : Cajera 
+ <br>Direccion : Medrano 2230
+ <br>Ciudad : Corrientes 
+ <br>Telefono : 3794563700
+ <br>Email : Pinictes@gmail.com 
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Necesitó trabajar 
+ <br>Security_code : Sb9yf
+ <br>Send : Enviar
+ <br>
+---------------
+

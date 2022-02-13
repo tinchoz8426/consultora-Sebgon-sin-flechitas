@@ -1,0 +1,30 @@
+Address : 190.173.88.6
+Nombre : luciana 
+Apellido : becquet
+Cargo : resepcionista
+Direccion : alfredo palacios 65
+Ciudad : ciudadela
+Telefono : 46537581
+Email : luciana_becquet@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : tengo disponibilidad full-time , muy buen manejo de pc y de ingles. soy activa , ordenada y muy responsable
+Security_code : tvd45
+Send : Enviar
+
+---------------
+
+Address : 186.124.157.148
+Nombre : ANDREA  ALEJANDRA
+Apellido : SUAREZ
+Cargo : OPERARIA DE LIMPIEZA
+Direccion : JULIO MORENO 8302 CASA N°6
+Ciudad : LOMA HERMOSA
+Telefono : 011  4739-9622
+Email : ANDREASUAREZ_82@HOTMAIL.COM.AR
+MAX_FILE_SIZE : 2097152
+Mensaje : BUSCO TRABAJO DE OPERARIA DE LIMPIEZA
+Security_code : C8388
+Send : Enviar
+
+---------------
+

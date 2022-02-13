@@ -1,0 +1,60 @@
+Address : 190.190.96.166
+Nombre : Gabriela Mariana
+Apellido : Campos
+Cargo : Area de Recursos Humanos
+Direccion : Roberto Ruiz 645
+Ciudad : Haedo
+Telefono : 1562922098
+Email : gabrielamarianacampos@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Les hago llegar mi CV para posibles busquedas del area de Recursos Humanos. Desde ya muchas gracias.
+Security_code : q78m4
+Send : Enviar
+
+---------------
+
+Address : 190.193.26.223
+Nombre : Silvina
+Apellido : Barela
+Cargo : Seleccion de personal
+Direccion : 60 Nº 562
+Ciudad : La plata
+Telefono : 0221154940490
+Email : barelasilvina@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Mi disponibilidad horaria es de lunes a sabados de 07 a 15 hs
+Security_code : fgr6b
+Send : Enviar
+
+---------------
+
+Address : 186.123.1.40
+Nombre : Juan Anibal
+Apellido : Sandoval
+Cargo : operario
+Direccion : madam curie 3816
+Ciudad : Pablo Nogues
+Telefono : 156209-4023
+Email : jspasionaxe@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : departamento de rrhh,al dia 17/8 me acerque a la planta de pacheco (LEAR) dejando en la misma mi cv agradeceria me tengan en cuenta para el puesto de operario,dado que estoy muy entusiasmado con la idea de formar parte de su equipo.ATTE JUAN SANDOVAL
+Security_code : ZRZKG
+Send : Enviar
+
+---------------
+
+Address : 190.190.100.95
+Nombre : mayra soledad
+Apellido : benito
+Cargo : cajera/administrativa
+Direccion : carlos calvo 1558 moron
+Ciudad : bs as
+Telefono : 1564744258
+Email : maysol1986@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : satisfacer las necesidades de la empresa
+Security_code : 9yw84
+Send : Enviar
+
+---------------
+

@@ -1,0 +1,79 @@
+Address : 186.177.212.101<br>
+ <br>Nombre : Carla cecilia
+ <br>Apellido : Perez
+ <br>Cargo : tecnico seguridad e higiene 
+ <br>Direccion : Piedra Buena
+ <br>Ciudad : Grand Bourg
+ <br>Telefono : 1170085099
+ <br>Email : mary-cecy111@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : proactiva, me gusta capacitarme cada dia mas para poder ser mejor. 
+ <br>Security_code : d68zc
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 24.232.30.189<br>
+ <br>REF : chr
+ <br>Nombre : jorge orlando
+ <br>Apellido : ali
+ <br>Cargo : chofer de reparto
+ <br>Direccion : sarachaga 5406  villa luro
+ <br>Ciudad : capital federal
+ <br>Telefono : 1168254663
+ <br>Email : jorgeali1108@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : no tengo ningun problemas de horarios , trabaje de repartidor ,muchos años tengo referencias comprovables
+ <br>Security_code : skmfs
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.231.81.200<br>
+ <br>REF : ACO-1
+ <br>Nombre : Matias
+ <br>Apellido : Bernardo
+ <br>Cargo : Analista de comercio Exterior
+ <br>Direccion : Miguel Cane 1563
+ <br>Ciudad : San Isidro
+ <br>Telefono : 1132549195
+ <br>Email : matias.bernardo@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Adjunto CV actualizado.
+ <br>Security_code : 7bqjg
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.130.66.162<br>
+ <br>Nombre : Maria Florencia
+ <br>Apellido : Baldevenitez
+ <br>Cargo : Vendedora
+ <br>Direccion : Sarratea 220
+ <br>Ciudad : Moron
+ <br>Telefono : 1138993842
+ <br>Email : Mariaflorenciaa@live.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : A quien corresponda: Me dirijo a Ud a fin de llevar a su conocimiento mi Curriculum Vitae, con el objeto de participar en búsquedas laborales acordes a mi perfil.
+ <br>Security_code : 735pf
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.130.66.162<br>
+ <br>Nombre : Maria Florencia
+ <br>Apellido : Baldevenitez
+ <br>Cargo : Vendedora
+ <br>Direccion : Sarratea 220
+ <br>Ciudad : Moron
+ <br>Telefono : 1135993842
+ <br>Email : Mariaflorenciaa@live.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : A quien corresponda: Me dirijo a Ud a fin de llevar a su conocimiento mi Curriculum Vitae, con el objeto de participar en búsquedas laborales acordes a mi perfil.
+Desde ya, muchas gracias.
+Saluda atte: Maria Florencia Baldevenitez
+ <br>Security_code : s9vnp
+ <br>Send : Enviar
+ <br>
+---------------
+

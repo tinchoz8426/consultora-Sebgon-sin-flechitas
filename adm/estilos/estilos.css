@@ -1,0 +1,5 @@
+body {  margin:0px	}
+.container {  height:1000px;background-color:#159CE0;font-family: "arial"; font-size: 16px; color: #333333; text-align: justify; text-decoration: none; padding:5px}
+.top {  color:#004D71 ; height:32px; width:100%; background-color:#06031A; margin:0px; padding-top:10px;}
+.opciones {  font-family: Arial; font-size: 16px; color:  #FFFFFF;  height: 0px; border: 0px #007CA6 solid; text-decoration: none; text-transform: lowercase; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; vertical-align: middle; margin-left:20px; float: none}
+.marco-formulario  { margin: 0 auto; text-align: center; width:70%;background-color:#FFFFFF;font-family: "arial"; font-size: 16px; color: #333333;  text-decoration: none; padding-top:25px}

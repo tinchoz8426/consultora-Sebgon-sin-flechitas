@@ -1,0 +1,126 @@
+Address : 190.220.163.125
+Nombre : thrhtrdh
+Apellido : thetahah
+Cargo : ghfgh
+Direccion : fghfghsh
+Ciudad : hdfs
+Telefono : 65465465
+Email : hsdgd@dsfasdf.com
+MAX_FILE_SIZE : 2097152
+Mensaje : gjnfgnf
+Security_code : pp33n
+Send : Enviar
+
+---------------
+
+Address : 190.174.32.140
+Nombre : Analia
+Apellido : Leunis
+Cargo : Recepción / Administración
+Direccion : Luis Maria Drago 3197 
+Ciudad : Castelar
+Telefono : 1531923399
+Email : analialeunis@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Quisiera postularme para alguna futura busqueda en la parte administrativa en general. Muchas gracias!
+Analia
+Security_code : vv2k4
+Send : Enviar
+
+---------------
+
+Address : 190.51.67.47
+REF : contador
+Nombre : IVAN ARIEL
+Apellido : FILIPPINI
+Cargo : CONTADOR
+Direccion : 25 DE MAYO 933
+Ciudad : MORON
+Telefono : 4483-2087
+Email : filipo.76@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Desde ya les agradezco tengan en cuenta mi CV, tanto para la búsqueda referenciada, así como para futuras.
+Security_code : jgkxm
+Send : Enviar
+
+---------------
+
+Address : 186.110.47.51
+Nombre : Mariela Silvana
+Apellido : Elizari
+Cargo : Lic. en Trabajo Social
+Direccion : Av. Montes de Oca 1680
+Ciudad : CABA
+Telefono : 1530176920
+Email : marielaelizari@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me interesa poder desempeñarme realizando tareas acordes a mi profesion
+Security_code : v424m
+Send : Enviar
+
+---------------
+
+Address : 190.173.107.8
+Nombre : Romina Veronica
+Apellido : Sobrado
+Cargo : administrativa/ recepcion
+Direccion : Roentgen 520
+Ciudad : Hurlingham 
+Telefono : 4450-8766
+Email : romi15rvs@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : buenas tardes. aca dejo mi cv, para cualquier postulacion referido a administracion, secretaria o recepcion.
+desde ya muchas gracias
+Security_code : dxk75
+Send : Enviar
+
+---------------
+
+Address : 190.173.107.8
+Nombre : Romina Veronica
+Apellido : Sobrado
+Cargo : administrativa/ recepcion
+Direccion : Roentgen 520
+Ciudad : Hurlingham 
+Telefono : 4450-8766
+Email : romi15rvs@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : buenas tardes. aca dejo mi cv, para cualquier postulacion referido a administracion, secretaria o recepcion.
+desde ya muchas gracias
+Security_code : dxk75
+Send : Enviar
+
+---------------
+
+Address : 186.57.155.183
+Nombre : hgdb
+Apellido : bb
+Cargo : bcb
+Direccion : vb cvb 
+Ciudad : cvb vcb
+Telefono : 165165156
+Email : bdbd@dfgfd.com
+MAX_FILE_SIZE : 2097152
+Mensaje : fgvfd
+Security_code : jw5tb
+Send : Enviar
+
+---------------
+
+Address : 190.179.234.65
+Nombre : Carla Nadya
+Apellido : Reinoso
+Cargo : Trabajo Social
+Direccion : Javier Morales 2132
+Ciudad : Godoy Cruz, Mendoza
+Telefono : 0261- 4391388 / 2616669973
+Email : carlina10@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola! Me tomo el atrevimiento de enviarles mi CV debido a que he visto en las bolsas de trabajo pedidos de Trabajores Sociales para diversas provincias. Tal vez en algún momento requieran para Mendoza, y si así sucede, espero que mi CV sea tenido en cuenta.
+Desde ya, muchas gracias.
+Saludo atte. 
+Security_code : c8h74
+Send : Enviar
+
+---------------
+

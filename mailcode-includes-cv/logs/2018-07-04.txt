@@ -1,0 +1,93 @@
+Address : 186.182.106.197<br>
+ <br>REF : TEC. EL
+ <br>Nombre : Matías
+ <br>Apellido : Ruggeri
+ <br>Cargo : técnico electrónico
+ <br>Direccion : Carlos Casares 2240
+ <br>Ciudad : Castelar
+ <br>Telefono : 1162898672
+ <br>Email : mdruggeri@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenos días, adjunto cv para el puesto de técnico electrónico especializado. Gracias!
+ <br>Security_code : gvhj8
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.254.187.93<br>
+ <br>Nombre : Sofía Belén
+ <br>Apellido : Navarro
+ <br>Cargo : Analista de laboratorio
+ <br>Direccion : Tala 846
+ <br>Ciudad : Merlo
+ <br>Telefono : 1124510537
+ <br>Email : sofiabelen773@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Busco empleo.
+ <br>Security_code : 2jkdg
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.254.187.93<br>
+ <br>Nombre : Sofía Belén
+ <br>Apellido : Navarro
+ <br>Cargo : Analista de laboratorio
+ <br>Direccion : Tala 846
+ <br>Ciudad : Merlo
+ <br>Telefono : 1124510537
+ <br>Email : sofiabelen773@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Busco empleo.
+ <br>Security_code : 2jkdg
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.254.187.93<br>
+ <br>Nombre : Sofía Belén
+ <br>Apellido : Navarro
+ <br>Cargo : Analista de laboratorio
+ <br>Direccion : Tala 846
+ <br>Ciudad : Merlo
+ <br>Telefono : 1124510537
+ <br>Email : sofiabelen773@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Busco empleo.
+ <br>Security_code : 2jkdg
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.254.187.93<br>
+ <br>Nombre : Sofía Belén
+ <br>Apellido : Navarro
+ <br>Cargo : Analista de laboratorio
+ <br>Direccion : Tala 846
+ <br>Ciudad : Merlo
+ <br>Telefono : 1124510537
+ <br>Email : sofiabelen773@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Busco empleo.
+ <br>Security_code : tqz48
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.136.97.187<br>
+ <br>Nombre : Walter Ariel
+ <br>Apellido : Guimar
+ <br>Cargo : Proyectista eléctrico - Supervisor/Conductor de obra eléctrica
+ <br>Direccion : Manz 18 Viv 29  - B° El pozo
+ <br>Ciudad : Santa Fe
+ <br>Telefono : 3425021978
+ <br>Email : walterguimar@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimado Sr de recursos humanos:
+Le envío por el presente mi hoja de antecedentes laborales,a fin, sea material de su evalución en próximas selecciones de personal.Agradecería,desde ya,una entrevista personal en caso mi cv aplique a las necesidades.
+Saludos.
+ <br>Security_code : 299xz
+ <br>Send : Enviar
+ <br>
+---------------
+

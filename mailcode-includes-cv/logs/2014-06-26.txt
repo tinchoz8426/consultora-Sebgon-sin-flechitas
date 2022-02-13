@@ -1,0 +1,273 @@
+Address : 186.62.50.26
+Nombre : Neri Ezequiel
+Apellido : Costilla
+Cargo : indiferente
+Direccion : 30 N°3062
+Ciudad : Berazategui
+Telefono : 42580432
+Email : neri.ezekiel@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Desde ya, muchas gracias.
+Security_code : m5jgc
+Send : Enviar
+
+---------------
+
+Address : 186.13.5.236
+Nombre : Jesica
+Apellido : Sosa
+Cargo : Administrativo - recepcionista
+Direccion : Kennedy
+Ciudad : Buenos Aires
+Telefono : 47455200
+Email : yesicasosa_09@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me postulo para tareas administrativas, recepcionista y operador telefónico.
+Security_code : d6yc8
+Send : Enviar
+
+---------------
+
+Address : 186.13.5.236
+Nombre : Jesica
+Apellido : Sosa
+Cargo : Administrativo - recepcionista
+Direccion : Kennedy
+Ciudad : Buenos Aires
+Telefono : 47455200
+Email : yesicasosa_09@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me postulo para tareas administrativas, recepcionista y operador telefónico.
+Security_code : d6yc8
+Send : Enviar
+
+---------------
+
+Address : 186.13.5.236
+Nombre : Jesica
+Apellido : Sosa
+Cargo : Administrativo - recepcionista
+Direccion : Kennedy
+Ciudad : Buenos Aires
+Telefono : 47455200
+Email : yesicasosa_09@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me postulo para tareas administrativas, recepcionista y operador telefónico.
+Security_code : s4gky
+Send : Enviar
+
+---------------
+
+Address : 186.13.5.236
+Nombre : Jesica
+Apellido : Sosa
+Cargo : Administrativo - recepcionista
+Direccion : Kennedy
+Ciudad : Buenos Aires
+Telefono : 47455200
+Email : yesicasosa_09@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Datos Personales
+Apellido y Nombres: Sosa, Jesica Verónica                          Edad: 31
+DNI: 30.136.362                                                                           Cuil: 27-30136362-7
+Fec. Nac: 09 Febrero 1983                                                        Nacionalidad: Argentina
+Domicilio: Kennedy 1948 – Victoria                                      C.P: 1644              
+Teléfono: 4745-5200                                                                 Celular: 15-5732-6693
+Estudios
+
+Secundario: Completo
+Establecimiento: Escuela de Educación Media N° 13, Dr. Manuel Obarrio, Comercial San Isidro.
+                                  Titulo Perito Mercantil.  (También cursos de dactilografía y taquigrafía)
+
+Cursos: Auxiliar Contable. Facultad de Ciencias Económicas de la Universidad de Buenos Aires.
+Conocimientos Liquidación de Sueldos y Cargas Sociales. Impuestos (IVA/IIBB/Ganancias y bs. pers.). Libro diario, balance, mayor. Etc.
+Idioma
+
+Inglés: Básico
+Portugués: Básico
+Antecedentes Laborales
+Nerova S.A
+Desde: 05/2001   Hasta: 08/2001
+Dirección: Centro Industrial Garín
+Teléfono: 03327-417300
+Puesto Operaria
+
+Customer Experience
+Desde: 07/2006   Hasta: 07/2007
+Dirección: Maipu al 900, CABA
+Puesto: Operador telefónico (Call Center)
+
+
+Molinos Rio de la Plata S.A.
+
+Desde: 08/2007   Hasta: 04/2014
+Dirección: Uruguay 4075, Victoria
+Teléfono: 4340-1100
+Puestos: Operador telefónico (Centro de Atención al Consumidor: llamada entrantes y salientes con respuestas)
+Administrativo (varios: Seguimientos de llamados salientes, Armados y cargas de remitos, armados circuitos logísticos entre otras tareas, control de remitos tanto manual como en sistema. Seguimientos de mail y documentación)
+Community Manager // Redes Sociales // Social Media
+Manejo de sistema SAP.
+Conocimiento de Microsoft Oficce
+
+Ofrezco
+Buena Presencia, Actitud Positiva, Buena Predisposición, Compromiso y muchas ganas de trabajar.
+Security_code : vpw48
+Send : Enviar
+
+---------------
+
+Address : 200.41.127.18
+Nombre : Romina Belen
+Apellido : Piriz
+Cargo : atencion al cliente, recepcionista
+Direccion : Rosario 1567
+Ciudad : Boulogne
+Telefono : 4737-7091
+Email : pirizbelenro@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : POr medio de la presente, adjunto mi CV para que me tengan en cuenta para futuros procesos de selección en su empresa.
+Security_code : 8y8f6
+Send : Enviar
+
+---------------
+
+Address : 196.32.84.106
+Nombre : Sabrina Sofía
+Apellido : Aguirre
+Cargo : Arquitectura
+Direccion : Pedro Viera 176
+Ciudad : Adrogue
+Telefono : 1531685253
+Email : sabrina_s.aguirre@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Busco empleo en el campo de arquitectura ya que soy arquitecta recibida pero con título en trámite.
+Security_code : dr37f
+Send : Enviar
+
+---------------
+
+Address : 196.32.84.106
+Nombre : Sabrina Sofía
+Apellido : Aguirre
+Cargo : Arquitectura
+Direccion : Pedro Viera 176
+Ciudad : Adrogue
+Telefono : 1531685253
+Email : sabrina_s.aguirre@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Busco empleo en el campo de arquitectura ya que soy arquitecta recibida con título en trámite.
+Security_code : rz7zk
+Send : Enviar
+
+---------------
+
+Address : 196.32.84.106
+Nombre : Sabrina Sofía
+Apellido : Aguirre
+Cargo : Arquitectura
+Direccion : Pedro Viera 176
+Ciudad : Adrogue
+Telefono : 1531685253
+Email : sabrina_s.aguirre@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Busco trabajo en el campo de arquitectura ya que soy arquitecta recibida con título en trámite
+Security_code : 2ycjs
+Send : Enviar
+
+---------------
+
+Address : 188.143.232.111
+Nombre : Kayla
+Apellido : 19663
+Cargo : hFcVMsQjJ
+Direccion : mPyCvSraVDkyPCZm
+Ciudad : NY
+Telefono : 52379573770
+Email : kidrock@msn.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Would you like to leave a message? <a href=" http://www.methodist-nd.org.uk/resources ">estrace 2 mg</a>  and D), Medicaid (traditional and HMO) and private sector health insurance.
+ <a href=" http://bambergfineart.com/contact/ ">buy conjugated estrogens online</a>  This column lists either the amount the provider charged for the claim or the Medicare
+ <a href=" http://www.greymountain.com/overview ">cheap fluconazole</a>  Posi / Nega Conversion
+ <a href=" http://www.webdirectorylist.co.uk/about-web-directory-list/ ">purchase domperidone</a>  Oral vitamins, minerals, dietary supplements, infant formulas, or injectable total parenteral nutrition (TPN) solutions, whether or
+ 
+Security_code : lr45ai
+Send : Enviar
+
+---------------
+
+Address : 188.143.232.111
+Nombre : Diego
+Apellido : 2518
+Cargo : hFcVMsQjJ
+Direccion : mPyCvSraVDkyPCZm
+Ciudad : NY
+Telefono : 97996166092
+Email : lightsoul@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : I'd like to send this parcel to  <a href=" http://www.methodist-nd.org.uk/resources ">purchase estradiol</a>  Explain the process for handling an adverse event. Meets Does
+ <a href=" http://mesaplexx.com/xcube/filters-101/ ">cost of wellbutrin sr without insurance</a>  obsolete drug. plan Help Desk at 800-578-0898 for assistance.
+ <a href=" http://www.greymountain.com/overview ">where to buy diflucan in canada</a>  Charlotte AHEC Department of Pharmacy Education is located at Carolinas Medical Center (CMC)
+ <a href=" http://www.webdirectorylist.co.uk/about-web-directory-list/ ">motilium generic</a>  1.9.4 Demonstrate an ongoing commitment to life-long learning by identifying and
+ 
+Security_code : 6lHWSo
+Send : Enviar
+
+---------------
+
+Address : 188.143.232.111
+Nombre : Lucas
+Apellido : 668471
+Cargo : hFcVMsQjJ
+Direccion : mPyCvSraVDkyPCZm
+Ciudad : NY
+Telefono : 11468957018
+Email : heyjew@msn.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Thanks funny site <a href=" http://www.licweb.com/artomat/ ">purchase aldactone</a>  the Medicare coinsurance/deductible if Medicare Part B
+ <a href=" http://www.methodist-nd.org.uk/resources ">purchase estradiol</a>  710 Maximum Quantity Exceeded 76 Plan Limitations Exceeded
+ <a href=" http://bambergfineart.com/contact/ ">premarin online</a>  the discretion of the AHEC course coordinator. See attachments for individual AHEC seminar course schedules.
+ <a href=" http://www.webdirectorylist.co.uk/about-web-directory-list/ ">motilium buy</a>  Monitoring forms are organized, complete,
+ 
+Security_code : 2bOL2T
+Send : Enviar
+
+---------------
+
+Address : 188.143.232.111
+Nombre : Amelia
+Apellido : 3824
+Cargo : hFcVMsQjJ
+Direccion : mPyCvSraVDkyPCZm
+Ciudad : NY
+Telefono : 42174323565
+Email : lifestile@msn.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Do you have any exams coming up? <a href=" http://www.licweb.com/artomat/ ">aldactone price</a>  4.2 Eligibility Verification Accepted Response Format (Rev. 06/08)
+ <a href=" http://thecreativescientist.com/agenda/ ">buy cheap lexapro</a>  be available for employees to print from a secure website.
+ <a href=" http://www.foolsfestival.com/2013/ ">paxil film tablet 20 mg 28 tb</a>  Drug Z is compatible with normal saline and dextrose 5% in water.
+ <a href=" http://www.greymountain.com/overview ">buy discount diflucan</a>  specimens, more than twenty (20) milliliters of blood products (includes blood, serum, plasma,
+ 
+Security_code : sk1D5u
+Send : Enviar
+
+---------------
+
+Address : 188.143.232.111
+Nombre : Brayden
+Apellido : 25002
+Cargo : hFcVMsQjJ
+Direccion : mPyCvSraVDkyPCZm
+Ciudad : NY
+Telefono : 99155746343
+Email : deadman@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : How many weeks' holiday a year are there? <a href=" http://thecreativescientist.com/agenda/ ">lexapro tramadol</a>  FS FT 3 variable O x'1C' FT
+ <a href=" http://www.methodist-nd.org.uk/resources ">estrace creme</a>  Update of School Activities
+ <a href=" http://www.foolsfestival.com/2013/ ">paxil weight gain omega 3</a>  112-AN) and spaces will be returned in (field
+ <a href=" http://bambergfineart.com/contact/ ">purchase premarin</a>  What pieces of technology are used specifically for prevention of
+ 
+Security_code : DEDSa
+Send : Enviar
+
+---------------
+

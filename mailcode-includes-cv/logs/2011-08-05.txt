@@ -1,0 +1,15 @@
+Address : 190.105.82.232
+Nombre : vanina
+Apellido : peña
+Cargo : recepcionista / at.al cliente / adm.
+Direccion : fleming
+Ciudad : buenos aires
+Telefono : 1560021480
+Email : vanilasky76@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : hola quisiera poder ingresar mi cv a su base de datos para propuestas vigentes o busquedas futuras 
+Security_code : wh6r6
+Send : Enviar
+
+---------------
+

@@ -1,0 +1,32 @@
+Address : 186.23.242.32
+REF : administrativo-logistica
+Nombre : Rene Alejandro
+Apellido : Lagos
+Cargo : administrativo-logistica
+Direccion : Rucci 764 
+Ciudad : Ciudadela
+Telefono : 1565046424
+Email : lagos1982@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimada, espero poder tener un nueva oportunidad de seleccion para este puesto a cubrir, actualmente me encuentro aun desempeñandome en Whirlpool Argentina. Quedo a la espera de alguna oportunidad de postulacion.
+Slds Cordiales.
+Security_code : 73kcb
+Send : Enviar
+
+---------------
+
+Address : 190.176.23.44
+Nombre : Silvia
+Apellido : Styl
+Cargo : cajera en hipermercado
+Direccion : Bº ladrillero m1-c14
+Ciudad : Las Heras.Mza.
+Telefono : 4487195
+Email : rubiastyl@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola, mi nombre es Silvia y estoy buscando trabajo preferentemente en hipermercado, por los horarios, me siento capacitada igualmente para cualquier puesto ya que poseo las herramientas para realizar un trabajo con eficiencia. A la espera de una respuesta los saludo atentamente.
+Security_code : k4fhv
+Send : Enviar
+
+---------------
+

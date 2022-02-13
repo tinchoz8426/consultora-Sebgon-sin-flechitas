@@ -1,0 +1,35 @@
+Address : 190.16.223.23
+Nombre : Beatriz 
+Apellido : Pirlo
+Cargo : Psicologa - seleccion de personal
+Direccion : Gurruchaga 274 Piso 14 Depto 4
+Ciudad : Capital Federal 
+Telefono : 48571752
+Email : beatrizpirlo@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : A quien corresponda:
+A partir de la trayectoria de dicha consultora  envío CV. Actualmente me encuentro desempeñando laboralmente en el area de Auditoria de importante Obra social,  así como en el mes de agosto del corriente año finalicé en la Asociación Argentina de Rorschah el seminario " Test de Zulliger" ; encontrándome inscripta en la mencionada Asociación para el año 2012 en la Especializacion de Test de Rorschach y demás detalles laborales y /o academicos que se detallan en el mismo CV.
+Esperando una respuesta favorable y encontrándome a disposición. Saluda atte.
+Security_code : 46gcc
+Send : Enviar
+
+---------------
+
+Address : 201.255.27.140
+REF : supervisor-de-elaboracion
+Nombre : Elio
+Apellido : Vélez
+Cargo : Administrativo de acuerdo a las necesidades
+Direccion : Cattanoe 6829
+Ciudad : Gonzalez Catan
+Telefono : 02202-452769
+Email : elio_velez@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Espero su respuesta a a y espero poder ajustarme a las necesidades de alguna organizacion.
+Muchas graciaslos sdo atte
+Lic.Elio Vélez.
+Security_code : tr8vh
+Send : Enviar
+
+---------------
+

@@ -1,0 +1,68 @@
+Address : 190.105.92.202
+Nombre : Alan
+Apellido : Burton Viviani Ross
+Cargo : Evaluacion de Planes de Seguridad
+Direccion : Muñoz 2055 Dep 24
+Ciudad : San Miguel
+Telefono : 1569019722
+Email : alanburtonjr@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : me gustaria poder formar parte del staff.
+Me preparo dia a dia para ser un buen profesional, pero necesito demostrarlo. Atte
+Security_code : s7gK5
+Send : Enviar
+
+---------------
+
+Address : 190.105.92.202
+Nombre : Alan
+Apellido : Burton Viviani Rossi
+Cargo : Evaluacionn de planes de seguridad
+Direccion : Muñoz 2055 Dep 24
+Ciudad : San Miguel
+Telefono : 1569019722
+Email : alanburtonjr@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : espero poder peretenecer a su staff
+Security_code : wzdj6
+Send : Enviar
+
+---------------
+
+Address : 190.105.92.202
+Nombre : Alan
+Apellido : Burton Viviani Ross
+Cargo : Evaluacion de Planes de Seguridad
+Direccion : Muñoz 2055 Dep 24
+Ciudad : San Miguel
+Telefono : 1569019722
+Email : alanburtonjr@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : a sus ordenes. Ante cualquier consulta, haganmelo saber. 
+Atte
+Security_code : crz2q
+Send : Enviar
+
+---------------
+
+Address : 190.48.202.154
+Nombre : Magdalena
+Apellido : Berta
+Cargo : Área de comunicaciones
+Direccion : Lucero 469
+Ciudad : Ituzaingó
+Telefono : 01146231617
+Email : magdalenaa.19@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados:
+
+Envío adjunto C.V. , esperando que el mismo se ajuste a sus futuros requerimientos de personal, en el caso de que su empresa demande nuevos puestos de trabajo.
+
+Sin otro particular, saludo cordialmente.
+
+Magdalena Berta.
+Security_code : r4yhc
+Send : Enviar
+
+---------------
+

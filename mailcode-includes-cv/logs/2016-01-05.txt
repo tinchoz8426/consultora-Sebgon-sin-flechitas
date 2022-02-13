@@ -1,0 +1,116 @@
+Address : 190.176.134.199
+Nombre : Marcos Nicolás
+Apellido : Ferrara
+Cargo : Administrativo
+Direccion : 3 de febrero 1368
+Ciudad : Guaymallén, Mendoza.
+Telefono : 0261-4458910
+Email : marcosferrara@hotmail.it
+MAX_FILE_SIZE : 2097152
+Mensaje : Disponibilidad para trasladarme de ciudad.
+Security_code : 49mhv
+Send : Enviar
+
+---------------
+
+Address : 186.135.20.61
+REF : OEL
+Nombre : jose
+Apellido : ruiz
+Cargo : oficial electricista
+Direccion : vidal 5806
+Ciudad : gregorio de laferrere
+Telefono : +542202429569
+Email : iosef_t1@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : oficial electricista
+Security_code : 4fj5b
+Send : Enviar
+
+---------------
+
+Address : 186.135.20.61
+REF : OEL
+Nombre : jose
+Apellido : ruiz
+Cargo : oficial electricista
+Direccion : vidal 5806
+Ciudad : gregorio de laferrere
+Telefono : +542202429569
+Email : iosef_t1@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : oficial electricista
+Security_code : 4fj5b
+Send : Enviar
+
+---------------
+
+Address : 186.135.20.61
+REF : OEL
+Nombre : jose
+Apellido : ruiz
+Cargo : oficial electricista
+Direccion : vidal 5806
+Ciudad : gregorio de laferrere
+Telefono : +542202429569
+Email : iosef_t1@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : oficial electricista
+Security_code : t856g
+Send : Enviar
+
+---------------
+
+Address : 186.124.221.90
+REF : GTEP
+Nombre : Ricardo Ernesto
+Apellido : Vicente
+Cargo : Gerente de Planta
+Direccion : Yerbal 1978
+Ciudad : Villa Adelina
+Telefono : 01147008068
+Email : ricardoernestovicente@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Sr. Director,
+Adjunto mi CV, en virtud de vuestra búsqueda de Gerente de Planta (GTEP).
+Atte.
+Ricardo Vicente
+Security_code : 8c35d
+Send : Enviar
+
+---------------
+
+Address : 186.124.221.90
+REF : GTEP
+Nombre : Ricardo Ernesto
+Apellido : Vicente
+Cargo : Gerente de Planta
+Direccion : Yerbal 1978
+Ciudad : Villa Adelina
+Telefono : 01147008068
+Email : ricardoernestovicente@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Sr. Director,
+Adjunto mi CV, en virtud de vuestra búsqueda de Gerente de Planta (GTEP).
+Atte.
+Ricardo Vicente
+Security_code : 8c35d
+Send : Enviar
+
+---------------
+
+Address : 201.217.231.208
+Nombre : marcos
+Apellido : gimenez
+Cargo : repositor,cajero,cadete,vendedor
+Direccion : gral geronimo espejo 376
+Ciudad : concordia
+Telefono : 3455227811
+Email : marcosrock26@outlook.com
+MAX_FILE_SIZE : 2097152
+Mensaje : estoy abierto a diferentes posibilidades laborales
+Security_code : s9f5f
+Send : Enviar
+
+---------------
+

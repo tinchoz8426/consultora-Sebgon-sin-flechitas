@@ -1,0 +1,86 @@
+Address : 190.49.196.63
+Nombre : Sebastian
+Apellido : Promet
+Cargo : Seguridad e Higiene
+Direccion : campos 941
+Ciudad : Banfield
+Telefono : 1566406069
+Email : sebapromet@speedy.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Envio mi cv
+Security_code : tzqdc
+Send : Enviar
+
+---------------
+
+Address : 190.174.174.91
+Nombre : Paula Gabriela
+Apellido : Peralta
+Cargo : Administración
+Direccion : Rio colorado 2468
+Ciudad : Hurlingham
+Telefono : 4452-0317
+Email : paula84_@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : A quien corresponda: Mi postulación puede ser para administración , rr.hh Y/o recepción. 
+Cuento con disponibilidad full time e inmediata. 
+Muchas gracias. 
+Security_code : cg7cp
+Send : Enviar
+
+---------------
+
+Address : 190.230.180.57
+REF : electromecanico
+Nombre : Eliana 
+Apellido : Barr
+Cargo : Recepcionista/ Secretaria/ At. Cliente
+Direccion : Aviador Sanchez 6270 
+Ciudad : Palomar - Ciudad Jardin - 
+Telefono : 4751-6798/ 15-3301-1820
+Email : elianabarr@live.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Mi nombre es Eliana, tengo 31 años, resido en la zona de Ciudad Jardin, Palomar, Prov. de Bs. As. 
+Me considero una persona con muy buena presencia,  responsable, eficaz, confiable, afable, amable, puntual, muy organizada, dinamica y proactiva, con muy buena diccion, redaccion propia, muy buen  manejo de agenda, organizacion de reuniones y/o viajes, muy buen trato con el cliente, excelente nivel de comunicacion profesional, muy buen nivel de relaciones interpersonales, de muy buenas capacidades y habilidades laborales y profesionales.
+Con conocimientos de PC e idioma Ingles.
+Con marcado perfil para el servicio al cliente y la asistencia, tanto individual como grupal.
+Cuento con experiencia laboral de 11 años, en trato con el publico, clientes y proveedores.
+Asi mismo tengo experiencia en el area de atencion al cliente, telefonista, recepcion, secretariado y asistencia administrativa y a directivos.
+Con deseos de incorporacion y progreso laboral. 
+Solo cuento con disponibilidad part-time.
+Security_code : 48ryd
+Send : Enviar
+
+---------------
+
+Address : 190.49.2.87
+Nombre : belen
+Apellido : figueroa
+Cargo : recepcionista o admonistrativa
+Direccion : inte. mango 1.524
+Ciudad : neuquen
+Telefono : 155744283
+Email : beluml_monumental@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : me gustaria trabajar realmente en esos puestos
+Security_code : 9trgq
+Send : Enviar
+
+---------------
+
+Address : 190.13.241.156
+Nombre : Ivana Eugenia
+Apellido : Rojas
+Cargo : empleada
+Direccion : Santa Marta 1136
+Ciudad : Jose C Paz
+Telefono : 02320648153
+Email : ierojas10@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Aqui les envio mi curriculum. Desde ya muchas gracias 
+Atte
+Security_code : 4ztd3
+Send : Enviar
+
+---------------
+

@@ -1,0 +1,69 @@
+Address : 190.55.10.117<br>
+ <br>REF : TE-1
+ <br>Nombre : Adrian Lucas
+ <br>Apellido : Mamani Mamani 
+ <br>Cargo : Técnico enelectronica
+ <br>Direccion : Av.Eva Peron 6500 Mataderos
+ <br>Ciudad : C.A.B.A.
+ <br>Telefono : 1127369389
+ <br>Email : donplucas@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola que tal. soy un técnico resien egresado. con muchas ganas de explorar el mundo laboral.
+Saludos.
+ <br>Security_code : fs87s
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.55.10.117<br>
+ <br>REF : TE-1
+ <br>Nombre : Adrian Lucas
+ <br>Apellido : Mamani Mamani 
+ <br>Cargo : Técnico enelectronica
+ <br>Direccion : Av.Eva Peron 6500 Mataderos
+ <br>Ciudad : C.A.B.A.
+ <br>Telefono : 1127369389
+ <br>Email : donplucas@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola que tal. soy un técnico resien egresado. con muchas ganas de explorar el mundo laboral.
+Saludos.
+ <br>Security_code : fs87s
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.124.28.8<br>
+ <br>REF : EP-1
+ <br>Nombre : marcelo
+ <br>Apellido : ochoa
+ <br>Cargo : encargado/jefe/supervisor
+ <br>Direccion : cerrito 1447
+ <br>Ciudad : boulogne
+ <br>Telefono : 1140813034
+ <br>Email : louerdescoffiure1973@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : me desempeñe como coordinador y jefe en el sector de carnicería de todas las sucursales de jumbo... Manejo de personal inventarios manejo de sistema sap  comunicación directa con proveedores compra traspaso de mercadería a otras sucursales.....  
+ <br>Security_code : 8tvqd
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.134.11.14<br>
+ <br>REF : ROT-1
+ <br>Nombre : Gustavo Lino
+ <br>Apellido : Abal
+ <br>Cargo : Responsable Oficina Técnica
+ <br>Direccion : Monteverde 1064
+ <br>Ciudad : Castelar
+ <br>Telefono : 1162310477
+ <br>Email : gustavo_abal11@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados: Envio mis datos y CV para su evaluación.Estoy en búsqueda de un cambio. 
+Saludos Cordiales
+Gustavo L Abal
+
+ <br>Security_code : j7jvm
+ <br>Send : Enviar
+ <br>
+---------------
+

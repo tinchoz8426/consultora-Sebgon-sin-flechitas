@@ -1,0 +1,16 @@
+Address : 200.63.167.228
+REF : supervisor-de-elaboracion
+Nombre : MARTIN
+Apellido : GOÑI
+Cargo : CONTADOR
+Direccion : JURAMENTO 1875 7MO A
+Ciudad : CAPITAL
+Telefono : 1559420169
+Email : gonimartin@yahoo.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buen dia estoy interesado en outplacement
+Security_code : 9srrx
+Send : Enviar
+
+---------------
+

@@ -1,0 +1,317 @@
+Address : 190.244.110.123<br>
+ <br>Nombre : María Soledad
+ <br>Apellido : Teata Toranzo
+ <br>Cargo : RR.HH
+ <br>Direccion : Udaondo 4171
+ <br>Ciudad : Ituzaingo
+ <br>Telefono : 1561534221
+ <br>Email : testasol22@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Envío mí CV para ser evaluado ante búsquedas laborales refrentes a RR.HH poseo experiencia en Asesoramiento del Área. Muchas gracias. Saludos.
+ <br>Security_code : ycnbw
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.244.110.123<br>
+ <br>Nombre : María Soledad
+ <br>Apellido : Teata Toranzo
+ <br>Cargo : RR.HH
+ <br>Direccion : Udaondo 4171
+ <br>Ciudad : Ituzaingo
+ <br>Telefono : 1561534221
+ <br>Email : testasol22@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Envío mí CV para ser evaluado ante búsquedas laborales refrentes a RR.HH poseo experiencia en Asesoramiento del Área. Muchas gracias. Saludos.
+ <br>Security_code : kxcmw
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.44.124.178<br>
+ <br>REF : EP-1
+ <br>Nombre : Moisés José 
+ <br>Apellido : Jiménez Guapez 
+ <br>Cargo : Encargado de Producción EP-1
+ <br>Direccion : Soler 5700 Palermo Hollywood CABA 
+ <br>Ciudad : CAPITAL FEDERAL (CP=)
+ <br>Telefono : 01153350455
+ <br>Email : moijim15@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Con amplios conocimientos en el manejo de Gestión de Producción con metodologías como Norma ISO, Mejora Continua Kaizen, las 5S, TPM, SMED. 
+ <br>Security_code : zfx24
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.44.124.178<br>
+ <br>REF : EP-1
+ <br>Nombre : Moisés José 
+ <br>Apellido : Jiménez Guapez 
+ <br>Cargo : Encargado de Producción EP-1
+ <br>Direccion : Soler 5700 Palermo Hollywood CABA 
+ <br>Ciudad : CAPITAL FEDERAL (CP=)
+ <br>Telefono : 01153350455
+ <br>Email : moijim15@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Con amplios conocimientos en el manejo de Gestión de Producción con metodologías como Norma ISO, Mejora Continua Kaizen, las 5S, TPM, SMED. 
+ <br>Security_code : v9xrr
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.2.103.81<br>
+ <br>Nombre : Franco 
+ <br>Apellido : Franzutti
+ <br>Cargo : Todos
+ <br>Direccion : Pasaje El Zonda 1641
+ <br>Ciudad : Pérez
+ <br>Telefono : 4953595
+ <br>Email : franco-franzutti@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas tardes estimado/a
+Adjunto curriculum Vitae ya que me encuentro en búsqueda de empleo.
+
+Cuento con Movilidad Propia, Disponibilidad Horaria y muchas ganas de aprender
+
+Me encuentro a su entera disposición.
+
+Saludos Atte.
+Frazutti Franco.
+
+ <br>Security_code : drc23
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.46.36.136<br>
+ <br>Nombre : DAILENA
+ <br>Apellido : MENDOZA
+ <br>Cargo : administracion de recursos humanos
+ <br>Direccion : saavedra 4071, ciudadela
+ <br>Ciudad : buenos aires
+ <br>Telefono : 1138982002
+ <br>Email : dailenamendoza@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Apasionada por mi carrera
+ <br>Security_code : zb5fd
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.182.106.197<br>
+ <br>REF : TEC. EL
+ <br>Nombre : Matías
+ <br>Apellido : Ruggeri
+ <br>Cargo : Técnico electrónico especializado
+ <br>Direccion : Carlos Casares 2240
+ <br>Ciudad : Morón
+ <br>Telefono : 62898672
+ <br>Email : mdruggeri@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenos días, adjunto CV para ser tenido en cuenta para el empleo de técnico electrónico especializado.
+ <br>Security_code : f2n5x
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.212.141.63<br>
+ <br>REF : EP-1
+ <br>Nombre : Luis
+ <br>Apellido : Rojo
+ <br>Cargo : SUPERVISOR
+ <br>Direccion : 1136 a N 2406
+ <br>Ciudad : Florencio Varela
+ <br>Telefono : 1554897774
+ <br>Email : luisrojo45@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Atento a aviso publicado, considerandome Idoneo para el puesto tengo el agrado de acercarles mi CV,Quedando a la espera para ampliarlos si asi lo requirieran
+ <br>Security_code : s54rj
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.7<br>
+ <br>REF : JPER-1
+ <br>Nombre : Alejandra
+ <br>Apellido : Espinosa
+ <br>Cargo : JPER-1
+ <br>Direccion : 18, 2750
+ <br>Ciudad : Berazategui
+ <br>Telefono : 1150215257
+ <br>Email : alejandraespinosa30@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Disponibilidad full time. Para viajar movilidad propia 
+ <br>Security_code : 9rh37
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.59.188.31<br>
+ <br>REF : JPER-1
+ <br>Nombre : Roxana Andrea
+ <br>Apellido : Bogado
+ <br>Cargo : Jefe de Personal
+ <br>Direccion : Colombia, 1765
+ <br>Ciudad : LANUS (CP=1824)
+ <br>Telefono : 22046435
+ <br>Email : roxibogado@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Remuneración pretendida $42.000 brutos
+ <br>Security_code : hqrbq
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.182.225.21<br>
+ <br>Nombre : MELINA
+ <br>Apellido : BARBOSA
+ <br>Cargo : Empleada Administrativa 
+ <br>Direccion : parodi 4654
+ <br>Ciudad : buenos aires
+ <br>Telefono : 1531578994
+ <br>Email : melinabar89@homail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Formar parte de una empresa en la que pueda poner en práctica todos mis conocimientos, que me brinde la oportunidad de alcanzar todas mis metas trazadas, y que me ofrezca la oportunidad de crecer en el área laboral, personal e intelectual
+ <br>Security_code : 784d8
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.182.225.21<br>
+ <br>Nombre : MELINA
+ <br>Apellido : BARBOSA
+ <br>Cargo : Empleada Administrativa 
+ <br>Direccion : parodi 4654
+ <br>Ciudad : buenos aires
+ <br>Telefono : 1531578994
+ <br>Email : melinabar89@homail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Formar parte de una empresa en la que pueda poner en práctica todos mis conocimientos, que me brinde la oportunidad de alcanzar todas mis metas trazadas, y que me ofrezca la oportunidad de crecer en el área laboral, personal e intelectual
+ <br>Security_code : z5268
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.182.225.21<br>
+ <br>Nombre : MELINA
+ <br>Apellido : BARBOSA
+ <br>Cargo : Empleada Administrativa 
+ <br>Direccion : parodi 4654
+ <br>Ciudad : buenos aires
+ <br>Telefono : 1531578994
+ <br>Email : melinabar89@homail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Formar parte de una empresa en la que pueda poner en práctica todos mis conocimientos, que me brinde la oportunidad de alcanzar todas mis metas trazadas, y que me ofrezca la oportunidad de crecer en el área laboral, personal e intelectual
+ <br>Security_code : 9mynx
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.197.212.69<br>
+ <br>Nombre : yesica anahi
+ <br>Apellido : samuel
+ <br>Cargo : armado de bolsas de papel
+ <br>Direccion : av.la plata 2148
+ <br>Ciudad : Bahia blanca
+ <br>Telefono : 2914656443
+ <br>Email : yesiii201@outlook.es
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : hola vi un anuncio que estan necesitando gente en armado de bolsas de papel. tengo experiencia. agradeceria su pronta respuesta. muchas gracias. 
+ <br>Security_code : hyjpy
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.197.212.69<br>
+ <br>Nombre : yesica anahi
+ <br>Apellido : samuel
+ <br>Cargo : armado de bolsas de papel
+ <br>Direccion : av.la plata 2148
+ <br>Ciudad : Bahia blanca
+ <br>Telefono : 2914656443
+ <br>Email : yesiii201@outlook.es
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : hola vi un anuncio que estan necesitando gente en armado de bolsas de papel. tengo experiencia. agradeceria su pronta respuesta. muchas gracias. 
+ <br>Security_code : yp685
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.197.212.69<br>
+ <br>Nombre : yesica anahi
+ <br>Apellido : samuel
+ <br>Cargo : armado de bolsas de papel
+ <br>Direccion : av.la plata 2148
+ <br>Ciudad : Bahia blanca
+ <br>Telefono : 2914656443
+ <br>Email : yesiii201@outlook.es
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : hola vi un anuncio que estan necesitando gente en armado de bolsas de papel. tengo experiencia. agradeceria su pronta respuesta. muchas gracias. 
+ <br>Security_code : yp685
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.197.212.69<br>
+ <br>Nombre : yesica anahi
+ <br>Apellido : samuel
+ <br>Cargo : armado de bolsas de papel
+ <br>Direccion : av.la plata 2148
+ <br>Ciudad : Bahia blanca
+ <br>Telefono : 2914656443
+ <br>Email : yesiii201@outlook.es
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : hola vi un anuncio que estan necesitando gente en armado de bolsas de papel. tengo experiencia. agradeceria su pronta respuesta. muchas gracias. 
+ <br>Security_code : yp685
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.197.212.69<br>
+ <br>Nombre : yesica anahi
+ <br>Apellido : samuel
+ <br>Cargo : armado de bolsas de papel
+ <br>Direccion : av.la plata 2148
+ <br>Ciudad : Bahia blanca
+ <br>Telefono : 2914656443
+ <br>Email : yesiii201@outlook.es
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : hola vi un anuncio que estan necesitando gente en armado de bolsas de papel. tengo experiencia. agradeceria su pronta respuesta. muchas gracias. 
+ <br>Security_code : yp685
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.185.136.217<br>
+ <br>REF : EP-1
+ <br>Nombre : Rafael
+ <br>Apellido : Carrillo
+ <br>Cargo : Encargado de producción
+ <br>Direccion : Mattaldi. Bs As
+ <br>Ciudad : Buenos aires
+ <br>Telefono : +54 91135197191
+ <br>Email : rafaelcarrillo@hotmail.es
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas noches, anexo CV para su evaluación.
+ <br>Security_code : 4g3z8
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.185.136.217<br>
+ <br>REF : EP-1
+ <br>Nombre : Rafael
+ <br>Apellido : Carrillo
+ <br>Cargo : Encargado de producción
+ <br>Direccion : Mattaldi. Bs As
+ <br>Ciudad : Buenos aires
+ <br>Telefono : +54 91135197191
+ <br>Email : rafaelcarrillo@hotmail.es
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas noches, anexo CV para su evaluación.
+ <br>Security_code : 4g3z8
+ <br>Send : Enviar
+ <br>
+---------------
+

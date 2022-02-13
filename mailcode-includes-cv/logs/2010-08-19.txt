@@ -1,0 +1,77 @@
+Address : 186.18.58.241
+Nombre : Romina
+Apellido : Mezzabolta
+Cargo : Selectora de personal
+Direccion : Bulnes 1604 3A 
+Ciudad : Cap.Fed.
+Telefono : 4826-3447
+Email : romina.mezzabolta@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Les envío mi CV para incorporarme al equipo de trabajo de RRHH o bien para realizar búsquedas específicas y aisladas, según sean las nececidades de la consultora.
+Desde ya, muchas gracias.
+Security_code : yq9tm
+Send : Enviar
+
+---------------
+
+Address : 201.250.124.10
+Nombre : Dario
+Apellido : Falco
+Cargo : Cadete
+Direccion : Av. La plata 2221 PB B
+Ciudad : Cap. Fed
+Telefono : 1530471356
+Email : falcodg@hotmail.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Aqui les envio mi cv, a su disposicion.
+Security_code : 84gb9
+Send : Enviar
+
+---------------
+
+Address : 200.117.107.86
+Nombre : Martina
+Apellido : Guzzetta
+Cargo : Administrativo
+Direccion : Prilidiano Peyrredon 261
+Ciudad : Martinez
+Telefono : 1568360696
+Email : guzzettamartina@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estoy interesada en la busqueda laboral de puestos que se encuentren dentro de la actividad Turistica, ya sean Agencias de Viajes, Hoteleria, etc. Desde ya muchas gracias
+Security_code : vwp3m
+Send : Enviar
+
+---------------
+
+Address : 186.59.32.24
+Nombre : Juan Carlos
+Apellido : Trejo Palacio
+Cargo : A considerar
+Direccion : BºSan Mateo M-B  C-29
+Ciudad : LAS HERAS - MENDOZA
+Telefono : 0261-155714823
+Email : trejo1966@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Busco actividad para mejorar mis ingresos.
+Tengo trabajo estable, propiedades y automóvil para desplazarme, por lo que debe ser algo tentador.
+Security_code : 3j45t
+Send : Enviar
+
+---------------
+
+Address : 24.232.171.159
+Nombre : Virginia
+Apellido : Brandi
+Cargo : admisnitrativa,recepcion,
+Direccion : tucuman 1639
+Ciudad : capital
+Telefono : 1566478732
+Email : vickybrandi_1@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : soy activa,lo que no se parendo y con experiencia
+Security_code : hfd5x
+Send : Enviar
+
+---------------
+

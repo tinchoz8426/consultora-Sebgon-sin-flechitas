@@ -1,0 +1,36 @@
+Address : 190.30.50.239
+Nombre : Gastón
+Apellido : Oviedo
+Cargo : Arquitecto
+Direccion : Lavalle 692
+Ciudad : San Nicolás
+Telefono : 0336-154631701
+Email : gastonoviedo@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto mi CV para que me tengan en cuenta para alguna oportunidad laboral.
+Security_code : d2jjr
+Send : Enviar
+
+---------------
+
+Address : 190.190.125.9
+Nombre : Dario
+Apellido : Veltri
+Cargo : CComercial-Ventas
+Direccion : Centenario Uruguayo 130 d7
+Ciudad : Villa Domínico
+Telefono : 1132549867
+Email : dariomveltri@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Incorporarme a una empresa  para contribuir con mis conocimientos y experiencia en el área comercial, de supervisión, administración  y ventas. Adherirme a un proyecto laboral que me permita desarrollar profesionalmente.
+Fortalezas a destacar:
+	Responsable, me comprometo con las tareas.
+	Perseverante, de accionar persistente hasta lograr  los objetivos propuestos.
+	Hábil comunicador.
+
+
+Security_code : 8hrh8
+Send : Enviar
+
+---------------
+

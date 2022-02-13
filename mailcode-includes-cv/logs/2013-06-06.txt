@@ -1,0 +1,126 @@
+Address : 190.193.167.125
+Nombre : Erick Gonzales 
+Apellido : gonzales 
+Cargo : RRHH jr. 
+Direccion : Baldomero Fernandez Moreno 3327
+Ciudad : CABA
+Telefono : 4612-6191
+Email : egonzalezboc@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Por medio de este medio Adjunto mi CV para que lo evalúen con la  esperanza de cubrir sus expectativas y a la espera de poder  concretar una entrevista para mayor información. Desde ya agradezco la atencion. 
+Saludos! Gonzales Erick 
+
+Security_code : bnpd5
+Send : Enviar
+
+---------------
+
+Address : 190.48.149.77
+Nombre : NATALI GEORGINA
+Apellido : NAVARRO
+Cargo : ADMINISTRATIVA
+Direccion : CAFAYATE 5149
+Ciudad : Ciudad Autónoma de Buenos Aires
+Telefono : 1541951391
+Email : natali_navarro1989@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimado le dejo a su disposición mi curriculum espero que sea acorde a algun perfil buscado. Gracias.
+Security_code : w2gk2
+Send : Enviar
+
+---------------
+
+Address : 190.231.151.84
+Nombre : maria paula
+Apellido : Quinteros
+Cargo : sn especificar
+Direccion : bv roca 3857
+Ciudad : San Francisco
+Telefono : 03564-443069
+Email : mpaula@outlook.es
+MAX_FILE_SIZE : 2097152
+Mensaje : ----
+Security_code : fjiq9c
+Send : Enviar
+
+---------------
+
+Address : 186.56.197.56
+Nombre : Gisela
+Apellido : Medve Copertari
+Cargo : Profesional de Seguridad e Higiene
+Direccion : Rodes 2826
+Ciudad : Moreno
+Telefono : 0111531018004
+Email : gisela.karina@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Envío adjunto mi CV. para el puesto de profesional de seguridad e higiene. Espero cumplir con los requisitos solicitados y quedo a su disposición para cualquier información que deseen ampliar. Desde ya Muchas gracias.
+Security_code : cckbc
+Send : Enviar
+
+---------------
+
+Address : 186.56.197.56
+Nombre : Gisela
+Apellido : Medve
+Cargo : Profesional de Seguridad e Higiene
+Direccion : Rodes 2826
+Ciudad : Moreno
+Telefono : 0111540378004
+Email : gisela.karina@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Envío Cv para el puesto de profesional de seguridad e higiene publicado en Internet. Espero cumplir con las requisitos para ocupar el puesto. Quedo a su disposición para cualquier información que deseen ampliar. Desde ya muchas gracias.
+Security_code : ww2vs
+Send : Enviar
+
+---------------
+
+Address : 201.216.242.205
+Nombre : david
+Apellido : feliu
+Cargo : Ingeniero en ALimentos
+Direccion : juncal 2865
+Ciudad : CABA
+Telefono : 1565648287
+Email : dfeliu@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : les envio mi cv para que el mismo sea tenido en cuenta en la busqueda de un ingeniero para el area comercial 
+Security_code : xkq6j
+Send : Enviar
+
+---------------
+
+Address : 190.122.207.1
+Nombre : Yésica 
+Apellido : Melian
+Cargo : -
+Direccion : Empedrado 625
+Ciudad : Merlo
+Telefono : 01133902633
+Email : yeyi-melian@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Envio mi curriculum para que puedan tenerme en cuenta en cualquier búsqueda laboral a fin a relaciones publicas y comunicación.
+
+Muchas Gracias
+Security_code : yj5cd
+Send : Enviar
+
+---------------
+
+Address : 190.122.207.1
+Nombre : Yésica 
+Apellido : Melian
+Cargo : Pasantía/Puesto efectivo en área de comunicación
+Direccion : Empedrado 625
+Ciudad : Merlo
+Telefono : 01133902633
+Email : yeyi-melian@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Envio mi curriculum para que puedan tenerme en cuenta en cualquier búsqueda laboral a fin a relaciones publicas y comunicación.
+
+Muchas Gracias
+Security_code : yj5cd
+Send : Enviar
+
+---------------
+

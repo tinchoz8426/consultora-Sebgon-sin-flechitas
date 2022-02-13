@@ -1,0 +1,25 @@
+Address : 190.193.217.13
+Nombre : Edit
+Apellido : Samalloa
+Cargo : Asistente Social
+Direccion : Pedro Ferré 3277
+Ciudad : Santa Fe
+Telefono : 0342 - 156144861
+Email : edit.samalloa@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Director Área Seguridad Corporativa
+Lic. Flavio Bullían:
+
+    Me dirijo a Ud. con motivo de una solicitud que se difundió en el boletín de Asistentes Sociales de la 1ra Circunscripción, de la ciudad de Santa Fe, en la cual pedían asistentes sociales para la realización de Informes socioambientales.
+
+    Por tal motivo le adjunto mi Curriculum Vitae en el cual podrá evaluar mi amplia experiencia en la realización de dichos estudios. Aclaro que estoy matriculada y soy monotributista.
+    Esperando contar con una pronta entrevista lo saludo a Ud. atentamente.
+    Edit Samalloa
+    Asistente Social
+    Mat: 0604
+
+Security_code : g2cg2
+Send : Enviar
+
+---------------
+

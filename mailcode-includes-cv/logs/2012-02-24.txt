@@ -1,0 +1,15 @@
+Address : 200.55.7.10
+Nombre : Jorge Miguel
+Apellido : Vivar
+Cargo : viajante - vendedor
+Direccion : Gabriela Mistral 988
+Ciudad : Neuquén
+Telefono : 0299 - 15 4138691
+Email : j_m_vivar@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : actualmente soy viajante de la empresa Patricio Palmero SAICyA, cubro la zona de Rio Negro, Neuquén y Chubut
+Security_code : ph49g
+Send : Enviar
+
+---------------
+

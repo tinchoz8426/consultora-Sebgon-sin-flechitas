@@ -1,0 +1,45 @@
+Address : 190.189.95.222
+Nombre : Verónica
+Apellido : Lombardi
+Cargo : Recepcionista
+Direccion : Pizarro 6802
+Ciudad : Capital Federal
+Telefono : 15-3597-5697
+Email : ronilombardi@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : De mi mayor consideración: Adjunto CV en conformidad con lo requerido y quedo a vuestra entera disposición para concertar entrevista
+
+
+Los saluda atte.
+Lombardi, Verónica
+Security_code : n9mgt
+Send : Enviar
+
+---------------
+
+Address : 201.252.135.164
+Nombre : Noelia Soedad
+Apellido : Lescano Rouco
+Cargo : Empleada
+Direccion : Maciel 
+Ciudad : Cordoba
+Telefono : (351) 153986924
+Email : noerock28@hotmail.com
+
+---------------
+
+Address : 201.252.135.164
+Nombre : Noelia Soedad
+Apellido : Lescano Rouco
+Cargo : Empleada
+Direccion : Maciel 
+Ciudad : Cordoba
+Telefono : (351) 153986924
+Email : noerock28@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Es muy importante para mi poder tener una oportunidad laboral ya que tengo muchas ganas de trabajar.
+Security_code : dm4r5
+Send : Enviar
+
+---------------
+

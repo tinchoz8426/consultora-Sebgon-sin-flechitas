@@ -1,0 +1,144 @@
+Address : 201.255.119.58<br>
+ <br>Nombre : Maria Florencia
+ <br>Apellido : Galván
+ <br>Cargo : Licenciado en Nutrición
+ <br>Direccion : 1 NUM 1526
+ <br>Ciudad : La Plata
+ <br>Telefono : 2214188224
+ <br>Email : florencia_galvan@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me interesaria algun puesto donde pueda desarrollarme y crecer como profesional.
+ <br>Security_code : b2xrk
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 179.38.227.131<br>
+ <br>REF : ENPRO
+ <br>Nombre : Ariel
+ <br>Apellido : Rodriguez
+ <br>Cargo : Encargado/jefe de producción 
+ <br>Direccion : Calle 307 N°595
+ <br>Ciudad : Berazategui (Ranelagh)
+ <br>Telefono : 1122465090
+ <br>Email : ariel.rodriguez.27@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje :  Habilidades de liderazgo, proactivo, comprometido y excelente relación interpersonal. Buen manejo del recurso y amplia capacidad de resolución. Disminución de costos, fuerte conocimiento en mejora continua de procesos , plantas , áreas , maquinarias mecánicas y de alta tecnología. Conocimiento en metodología TPM. Implementaciones.
+ <br>Security_code : 469x7
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.165.251.141<br>
+ <br>REF : TECME
+ <br>Nombre : Gustavo Alejandro
+ <br>Apellido : Terranova
+ <br>Cargo : Tecnico Mecánico
+ <br>Direccion : Boyaca 392 
+ <br>Ciudad : Ciudad Autónoma Buenos Aires
+ <br>Telefono : 1556372027
+ <br>Email : guterra17@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Envío CV para que me tengan en cuenta para busquedas actuales o futuras. Gracias.
+ <br>Security_code : 7bhvc
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.167.122.250<br>
+ <br>REF : RTC
+ <br>Nombre : Laura
+ <br>Apellido : Salazar
+ <br>Cargo : REPRESENTANTE TECNICO COMERCIAL
+ <br>Direccion : CABA - Belgrano
+ <br>Ciudad : Buenos aires
+ <br>Telefono : 1162205063
+ <br>Email : jhos77@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimado Srs. Esperando se encuentre bien permítame agradecerle de antemano el tiempo que me está brindando al considerar mi información curricular, esperando que se me considere en alguna de las ofertas de trabajo que tenga vacantes. De acuerdo a mi profesión, experiencia profesional de diez años en el campo de la agronomia, ventas y agronegocios, como podrá comprobar en el curriculum que le adjunto, me considero capacitada para  calificar en su empresa. Soy una persona muy emprendedora con ideas innovadoras y dinámicas, donde el diálogo,  el trabajo en equipo y el manejo de personal a cargo, son las herramientas necesarias para el éxito de cualquier area de trabajo.
+Quedo a su entera disposición. Por todo ello, desearía participar en el proceso de selección convocado. Esperando recibir noticias en breve plazo, lo saludo atentamente.>> 
+Un cordial saludo .>
+ <br>Security_code : pjtmz
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.190.202.96<br>
+ <br>Nombre : Lucas
+ <br>Apellido : Mongiardino 
+ <br>Cargo : vendedor
+ <br>Direccion : chacabuco 3155
+ <br>Ciudad : Mar del Plata
+ <br>Telefono : (2262) 15- 362359
+ <br>Email : mlucasnr@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola mi nombre el Lucas, tengo mucha experiencia en lo que a vender se trata, espero su respuesta, muchas gracias!  
+ <br>Security_code : 6kqzq
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.104.237.16<br>
+ <br>REF : OEL
+ <br>Nombre : Agustín Anibal 
+ <br>Apellido : Escobar
+ <br>Cargo : oficial electricista 
+ <br>Direccion : santa cruz 1661
+ <br>Ciudad : adrogue
+ <br>Telefono : 42111202
+ <br>Email : agustinanibalescobar@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : los teléfono 1154081440 
+ <br>Security_code : pfs9c
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.104.237.16<br>
+ <br>REF : OEL
+ <br>Nombre : Agustín Anibal 
+ <br>Apellido : Escobar
+ <br>Cargo : oficial electricista 
+ <br>Direccion : santa cruz 1661
+ <br>Ciudad : adrogue
+ <br>Telefono : 42111202
+ <br>Email : agustinanibalescobar@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : mi celu 1154081440
+ <br>Security_code : sqmvq
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.192.202.15<br>
+ <br>REF : TLP
+ <br>Nombre : Nicolas
+ <br>Apellido : Protti
+ <br>Cargo : Técnico para laboratorio de electrónica y sistemas de planta
+ <br>Direccion : Juan B. Justo 3848
+ <br>Ciudad : Ciudadela
+ <br>Telefono : 1568333924
+ <br>Email : nicolas.protti@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me interesa la oportunidad laboral
+ <br>Security_code : 5gw82
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.192.202.15<br>
+ <br>REF : T.ELE
+ <br>Nombre : Nicolas
+ <br>Apellido : Protti
+ <br>Cargo : Electrónicos para dpto de Producción y Desarrollo 
+ <br>Direccion : Juan B. Justo 3848
+ <br>Ciudad : Ciudadela
+ <br>Telefono : 1568333924
+ <br>Email : nicolas.protti@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me interesa la oportunidad laboral
+ <br>Security_code : 2tbfh
+ <br>Send : Enviar
+ <br>
+---------------
+

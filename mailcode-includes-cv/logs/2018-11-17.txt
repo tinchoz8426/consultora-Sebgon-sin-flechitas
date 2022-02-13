@@ -1,0 +1,30 @@
+Address : 181.1.59.159<br>
+ <br>Nombre : Jorge Eduardo
+ <br>Apellido : Rodríguez
+ <br>Cargo : Mantenimiento o vendedor repositor
+ <br>Direccion : Calle granaderos San Martín 1839
+ <br>Ciudad : Sam Miguel de Tucumán
+ <br>Telefono : 038156888874
+ <br>Email : rodriguezjorge3426@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Nrq4m
+ <br>Security_code : Nrq4m
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 179.62.82.222<br>
+ <br>Nombre : Germán Fernando 
+ <br>Apellido : Catania 
+ <br>Cargo : Operador de maquinaria 
+ <br>Direccion : Río fueguino 90
+ <br>Ciudad : Río Grande 
+ <br>Telefono : 2964531029
+ <br>Email : gercatan@hotmail.com 
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Fui operador calificado y luego supervisor de planta también me desempeñe como operario de depósito 
+ <br>Security_code : 3K2nj
+ <br>Send : Enviar
+ <br>
+---------------
+

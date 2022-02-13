@@ -1,0 +1,51 @@
+Address : 216.88.246.140
+Nombre : cynthia 
+Apellido : Lorenzo
+Empresa : Ceva Logistics 
+Telefono : 5411-4307-2002
+Email : cynthia.lorenzo@cevalogistics.com
+Mensaje : buenas tardes, 
+estoy interesada en recibir un presupuesto para capacitacion en atencion al cliente para un grupo de 10 personas aprox. tambien necesitaria saber disponibilidad de fechas y horarios de las clases.
+
+gracias 
+Security_code : xdpry
+Send : Enviar
+
+---------------
+
+Address : 186.57.148.185
+Nombre : b
+Apellido : b
+Empresa : b
+Telefono : 005411-4139-1629
+Email : bb@nnkmj
+Mensaje : ncvbn
+Security_code : s5thc
+Send : Enviar
+
+---------------
+
+Address : 186.57.148.185
+Nombre : vf
+Apellido : v
+Empresa : v
+Telefono : v
+Email : v2d
+Mensaje : dd
+Security_code : 64qvz
+Send : Enviar
+
+---------------
+
+Address : 186.57.148.185
+Nombre : wwsdcw
+Apellido : wccc
+Empresa : wcwcwc
+Telefono : wcwcwc
+Email : wcwcc
+Mensaje : ccwc
+Security_code : h8rrj
+Send : Enviar
+
+---------------
+

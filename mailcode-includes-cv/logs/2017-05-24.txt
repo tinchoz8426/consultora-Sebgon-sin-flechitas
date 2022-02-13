@@ -1,0 +1,52 @@
+Address : 186.141.197.136<br>
+ <br>Nombre : Keila
+ <br>Apellido : Muñiz
+ <br>Cargo : Atención al cliente
+ <br>Direccion : Larralde 1060
+ <br>Ciudad : Moron
+ <br>Telefono : 1146739207
+ <br>Email : keilamurielmuniz@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : CV, Muñiz Keila Muriel
+ <br>Security_code : brf99
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.10.73.229<br>
+ <br>REF : EP-1
+ <br>Nombre : Dario Gustavo
+ <br>Apellido : Molina
+ <br>Cargo : Encargado de produccion
+ <br>Direccion : Franklin 950. 6ºB. 
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 011-1524631436
+ <br>Email : dachi_004@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : De mi mayor consideración:
+Por la presente, tengo el agrado de dirigirme a Uds. con el fin de postularme formalmente al puesto de referencia. 
+Con tal motivo, pongo a vuestra disposición mis antecedentes personales, académicos y laborales.
+Con la seguridad de encontrarme absolutamente calificado, para satisfacer la presente   necesidad, y a la espera de un próximo contacto, los saludo muy atentamente.
+
+Lic. Darío Molina
+
+ <br>Security_code : t7fnd
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.29.80.13<br>
+ <br>Nombre : Esteban
+ <br>Apellido : Marino
+ <br>Cargo : Cadete
+ <br>Direccion : Roberto Payro 3093
+ <br>Ciudad : Castelar, Buenos Aires
+ <br>Telefono : 1167386972
+ <br>Email : estebanmarinocabrera@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola, mi nombre es Esteban y tengo 21 años. Soy una persona trabajadora, responsable y servicial. Ansío pertenecer a un grupo de trabajo líder en su rubro, y aportar todo de mi.
+ <br>Security_code : dcqvn
+ <br>Send : Enviar
+ <br>
+---------------
+

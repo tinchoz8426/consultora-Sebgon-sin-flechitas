@@ -1,0 +1,179 @@
+Address : 190.19.120.180
+Nombre : Jacqueline Romina
+Apellido : Tolosa
+Cargo : secretaria
+Direccion : yerbal 1577
+Ciudad : capital federal 
+Telefono : 1521932378
+Email : jacquelinertolosa.jt@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : 
+De mi mayor consideracion: 
+
+Me dirijo a quien corresponda con el objeto de manifestarle  mi interés en aplicar en la empresa para cubrir la vacante laboral que considero cubrir con mis habilidades y responsabilidad.  Espero tener la oportunidad de personalmente exponerle mis conocimientos, experiencia y mi gran deseo de formar parte de su equipo de trabajo. Adjunto mi Curriculum Vitae. 
+
+Mis saludos respetuosos.  
+Security_code : 8khbj
+Send : Enviar
+
+---------------
+
+Address : 190.107.96.4
+REF : GTEP
+Nombre : Juan Alberto
+Apellido : Muñoz
+Cargo : Gerente de Planta
+Direccion : 9 de Julio 1440
+Ciudad : San Luis
+Telefono : 02664865133
+Email : munozjuan_personal@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buen día.
+
+me dirijo a ud. con la finalidad de postularme para el puesto de referencia. Adjunto mi CV. Cuento con una amplia experiencia en el rubro alimenticio habiendo ocupado posiciones similares.
+Sin otro particular quedo dispuesto a ampliar detalles en lo que pudieren necesitar.
+
+saludos cordiales
+Juan Muñoz
+Security_code : cxnc3
+Send : Enviar
+
+---------------
+
+Address : 190.192.251.96
+Nombre : Paula 
+Apellido : Bonfante
+Cargo : Recepcionista
+Direccion : Rafaela 5285
+Ciudad : buenos aires
+Telefono : 01169532005
+Email : paubonfante@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Actualmente estoy en busqueda laboral para puesto administrativo o recepción, con disponibilidad horaria y para ser contratada inmediatamente. Desde ya muchas gracias!!
+Security_code : vp7h6
+Send : Enviar
+
+---------------
+
+Address : 181.28.226.113
+REF : RTC
+Nombre : Carlos 
+Apellido : Figueroa
+Cargo : Arquitecto comercial
+Direccion : ravignani 2292
+Ciudad : CABA
+Telefono : 156 441-8803
+Email : figuecar@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Los saludo y pongo a disposición mi curriculum vitae para la búsqueda de arquitecto con perfil comercial
+Security_code : 792f7
+Send : Enviar
+
+---------------
+
+Address : 186.143.198.220
+Nombre : Emilce Solange
+Apellido : Contreras
+Cargo : enfermera 
+Direccion : humberto primo 3973
+Ciudad : rafael calzada
+Telefono : 1140381475
+Email : emysolange@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : enfermera universitaria con matriculas nacional y provincia
+Security_code : mpjym
+Send : Enviar
+
+---------------
+
+Address : 186.143.198.220
+Nombre : Emilce Solange
+Apellido : Contreras
+Cargo : enfermera 
+Direccion : humberto primo 3973
+Ciudad : rafael calzada
+Telefono : 1140381475
+Email : emysolange@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : enfermera universitaria con matriculas nacional y provincia
+Security_code : mpjym
+Send : Enviar
+
+---------------
+
+Address : 186.143.198.220
+Nombre : Emilce Solange
+Apellido : Contreras
+Cargo : enfermera 
+Direccion : humberto primo 3973
+Ciudad : rafael calzada
+Telefono : 1140381475
+Email : emysolange@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : enfermera universitaria con matriculas nacional y provincia
+Security_code : mpjym
+Send : Enviar
+
+---------------
+
+Address : 186.143.198.220
+Nombre : Emilce Solange
+Apellido : Contreras
+Cargo : enfermera 
+Direccion : humberto primo 3973
+Ciudad : rafael calzada
+Telefono : 1140381475
+Email : emysolange@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : enfermera universitaria con matriculas nacional y provincia
+Security_code : ztrnd
+Send : Enviar
+
+---------------
+
+Address : 190.16.234.155
+Nombre : Ana Valeria
+Apellido : Giana
+Cargo : Administración de Personal
+Direccion : Gervasio Artigas 2658
+Ciudad : CABA
+Telefono : 1169359278
+Email : v.giana@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto mi CV para futuras búsquedas de Supervisora/Jefe de Administración de Personal.
+Security_code : cjm83
+Send : Enviar
+
+---------------
+
+Address : 190.220.188.141
+Nombre : Nicolas
+Apellido : Di luca
+Cargo : Logística 
+Direccion : 55 4817
+Ciudad : Buenos Aires-Zona sur
+Telefono : 1134466988
+Email : nico_dl@Outlook.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Resido en Zona sur, berazategui
+Soy estudiante de Lic. En logística y transportes en Universidad de la Marina Mercante
+Security_code : s6rg4
+Send : Enviar
+
+---------------
+
+Address : 191.82.205.228
+Nombre : Alfredo Maicol
+Apellido : Piñeiro Castro
+Cargo : otros
+Direccion : cayetano silva 1448
+Ciudad : mendoza
+Telefono : 2615519184
+Email : maicool_mza@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : estoy dispuesto a trabajar en cualquier area de trabajo.!
+Security_code : 5v7kk
+Send : Enviar
+
+---------------
+

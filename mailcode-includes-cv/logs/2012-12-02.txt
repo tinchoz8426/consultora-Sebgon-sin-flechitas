@@ -1,0 +1,60 @@
+Address : 186.18.52.204
+Nombre : Leandro Nicolas
+Apellido : Calvano
+Cargo : Tecnico Senior
+Direccion : Cuenca 2040 12 C
+Ciudad : Capital Federal
+Telefono : 1558237389
+Email : calvanoleandro@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : tecnico en computacion muy capacitado. Varios titulos internacionales como Apple certificate
+Security_code : hjnqt
+Send : Enviar
+
+---------------
+
+Address : 190.31.26.182
+Nombre : Nicolas
+Apellido : Lopez
+Cargo : operador de pc
+Direccion : Juan Jose Paso 2072
+Ciudad : Santo Tomé - Santa Fe
+Telefono : 4750887
+Email : nikolas_la12@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Actualmente trabajando en Supermercados Petrelli - Santo Tome - Santa Fe.
+Security_code : zm8kw
+Send : Enviar
+
+---------------
+
+Address : 190.177.229.213
+REF : administrativo-logistica
+Nombre : victor
+Apellido : vaneki
+Cargo : operario/ ventas
+Direccion : alem 3620
+Ciudad : merlo
+Telefono : 15-68332129
+Email : victor_vaneki@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje :       De mi mayor consideracion me dirijo a ustedes
+y me complace adjuntar para su conocimiento mis antecedentes
+y mi trayectoria profesional reciente.
+
+Al respecto, les agradesco que ustedes incorporen tales antecedentes
+en su base de datos, de tal forma de ser considerado candidato potencial
+en aquellas busquedas que se adecuen al perfil descripto.
+
+Como indica mi curriculum vitae, adjunto al presente, soy vendedor de
+salon de electrodomesticos y de garantias extendidas que es la experiencia que les puede interesar, con una trayectoria de 7 años.
+
+Se completa mi perfil, con una fuerte accion y dedicacion a la 
+determinacion de objetivos y estrategia de ventas, siempre considerando 
+la satisfaccion del cliente.
+
+Security_code : 4335t
+Send : Enviar
+
+---------------
+

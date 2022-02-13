@@ -1,0 +1,14 @@
+Address : 201.147.15.94
+Nombre : Fanny
+Apellido : Martinez
+Empresa : AuRicogold
+Telefono : 6255902700
+Email : fmartinez@auricogold.com
+Mensaje : Nos interesa saber mas sobre los cursos de liderazgo.
+
+Gracias
+Security_code : x8w83
+Send : Enviar
+
+---------------
+

@@ -1,0 +1,76 @@
+Address : 190.55.217.32
+REF : gerente-financiero
+Nombre : Romina Soledad 
+Apellido : Santos
+Cargo : Asistente de Seleccion de Personal
+Direccion : Correa 1970
+Ciudad : Buenos Aires- Capital Federal
+Telefono : 15-5-601-8617
+Email : santosromina.s@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Por medio de la presente, les envio mi curriculum a fin fe tenerlo presente en sus proximas busquedas.
+Muchas Gracias,
+
+saludos cordiales
+
+Santos Romina
+Security_code : hghbp
+Send : Enviar
+
+---------------
+
+Address : 190.173.203.96
+Nombre : Omar Ruben 
+Apellido : González
+Cargo : Administrador de Sistemas
+Direccion : Carlos Tejedor 832-6
+Ciudad : Lanús Bs.As.
+Telefono : 1550974553
+Email : omarrubengonzalez@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Omar Ruben Gonzalez
+De mi consideración.
+
+En este primer contacto con ustedes, me complace adjuntar para su
+conocimiento mis antecedentes y mi trayectoria profesional reciente.
+
+Al respecto, les agradezco que ustedes incorporen mis antecedentes en su
+base de datos, de tal forma de ser considerado como candidato en
+aquellas búsquedas que se adecuen a mi perfil.
+
+Como indica mi currículum vitae, adjunto al presente, soy Análisis de Sistemas desarrollándome en las áreas de soporte y administración de sistemas / redes.
+Como así también como responsable de compras.
+
+
+Se completa mi perfil con una fuerte vocación al usuario adaptándome con facilidad a las necesidades y cambios generados en el área de IT. Creación y manejo de equipos de trabajo.
+
+Desde ya, gracias por considerarme para  mantener con ustedes las entrevistas que consideren
+necesarias.
+
+A la espera de sus novedades, lo saludo atentamente.
+
+Security_code : rpfng
+Send : Enviar
+
+---------------
+
+Address : 190.51.114.6
+Nombre : Juan José
+Apellido : Carnelli
+Cargo : Analista en RRHH
+Direccion : Laprida 238 PA  Ramos mejia
+Ciudad : Ramos Mejia
+Telefono : 1556992920
+Email : j_carnelli@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenas tardes, adjunto mi Currículo Vital con el fin que sea tenido en cuenta para  alguna búsqueda laboral que se ajuste al perfil que usted considere necesario teniendo en cuenta el archivo adjunto.
+
+Desde ya muchas gracias.
+Saludos cordiales.
+Juan José Carnelli.
+
+Security_code : t68yq
+Send : Enviar
+
+---------------
+

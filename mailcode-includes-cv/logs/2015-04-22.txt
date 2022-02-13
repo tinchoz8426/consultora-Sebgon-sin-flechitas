@@ -1,0 +1,146 @@
+Address : 190.175.47.47
+Nombre : Javier
+Apellido : Maques
+Cargo : Empleado Jurídico y/o Abogado Juniors 
+Direccion : Labardén 152
+Ciudad : Ciudad Autónoma de Buenos Aires
+Telefono : 4942-4369
+Email : javiersergiomaques@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados:
+Me dirijo a ustedes a fin de adjuntarles mi c.v. para cubrir el puesto de empleado jurídico y/o abogado juniors
+Security_code : wqc84
+Send : Enviar
+
+---------------
+
+Address : 186.62.29.54
+Nombre : RODRIGO EMANUEL
+Apellido : SEBALLOS
+Cargo : SEGURIDAD
+Direccion : SOBRAL 341
+Ciudad : QUILMES
+Telefono : 1140951742
+Email : rescai@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : HOLA BUENAS TARDES
+Security_code : T343D
+Send : Enviar
+
+---------------
+
+Address : 186.62.29.54
+Nombre : RODRIGO EMANUEL
+Apellido : SEBALLOS
+Cargo : SEGURIDAD
+Direccion : SOBRAL 341
+Ciudad : QUILMES
+Telefono : 1140951742
+Email : rescai@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : hola buenas tardes
+Security_code : h9Wzc
+Send : Enviar
+
+---------------
+
+Address : 190.245.161.232
+Nombre : Ricardo
+Apellido : Formaro
+Cargo : Postulación espontánea
+Direccion : Madrid 6991
+Ciudad : CABA
+Telefono : 011 4642 1433
+Email : ricardos1@fibertel.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimado Titular de la Consultora,
+
+
+El objetivo de la presente es expresarle mi interés en participar en los procesos de selección que tengan vigentes o en las futuras búsquedas que gestione vuestra Organización.
+ 
+Mi nombre es Ricardo Salvador Formaro, soy Farmacéutico (UBA), tengo un  Posgrado en Logística para la Industria Farmacéutica (Universidad Belgrano) y pronto comenzaré un Posgrado en Asuntos Regulatorios (en la misma  institución).
+
+He desarrollado mi experiencia profesional, de más de 20 años, en la  industria farmacéutica (Janssen Cilag, Biogen Idec, AstraZeneca), principalmente en áreas de Calidad, Regulatoria y de Abastecimiento. En virtud a lo cual mi Objetivo es continuar mi carrera profesional en una Organización de tamaño grande o mediana, tanto de capitales nacionales como multinacionales. A su vez  aspiro a continuar desarrollando mis capacidades como Líder de equipos de trabajo y gerenciador y planificador de proyectos con el claro objetivo de brindar calidad a los productos y servicios que preste la organización.
+
+En el mismo sentido, puedo destacar, que lideré equipos de trabajo  multidisciplinarios en sectores como: Calidad, Asuntos Regulatorios,  Abastecimiento, Start ups y Transferencia de Tecnología, entre otros, tanto a nivel nacional como internacional. 
+ 
+En cuanto a mis competencias me destaco por practicar y transmitir una actitud proactiva, tener visión global y estratégica, liderazgo para la conducción de equipos locales e internacionales, capacidad de negociación y trabajo orientado a resultados. 
+
+Me pongo a disposición para concertar una entrevista personal en la cual podré ampliar mis fortalezas y aptitudes profesionales.
+
+Muchas Gracias por su atención.
+
+Atentamente,
+
+							Ricardo Formaro 
+							ricardos1@fibertel.com.ar
+							cel: 15 6 812 4426
+
+Security_code : mv2f5
+Send : Enviar
+
+---------------
+
+Address : 186.153.32.2
+Nombre : Lilia 
+Apellido : Giraudo
+Cargo : Traductora de Inglés - Secretaria Bilingúe
+Direccion : Marengo 3471
+Ciudad : San Andres
+Telefono : 1131674305
+Email : liliagiraudo@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estoy buscando trabajo como Traductora de Inglés o Secretaria Bilingúe
+Security_code : 6c8n4
+Send : Enviar
+
+---------------
+
+Address : 190.230.16.63
+Nombre : Daniel
+Apellido : Barrionuevo
+Cargo : Operario/Administrativo
+Direccion : Padre grote 746
+Ciudad : Córdoba
+Telefono : 4721655
+Email : dani.barrionuevo@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me adapto a los cambios, me gusta trabajar en equipo, ayudo, colaboro, me preocupo por el otro.
+Security_code : t2mht
+Send : Enviar
+
+---------------
+
+Address : 190.230.16.63
+REF : TECNICO-ELECTRONICO
+Nombre : Daniel
+Apellido : Barrionuevo
+Cargo : Operario/Técnico
+Direccion : Padre grote 746
+Ciudad : Córdoba
+Telefono : 4721655
+Email : dani.barrionuevo@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Tengo conocimientos de PLC, programación en varios lenguajes.
+Security_code : dgz9g
+Send : Enviar
+
+---------------
+
+Address : 181.29.139.194
+Nombre : Silvana
+Apellido : Benitez Gaona
+Cargo : Recepcionista/administrativa
+Direccion : Viamonte 682
+Ciudad : Buenos Aires
+Telefono : 1562429023
+Email : sbenitezgaona@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Haz clic para editar el extractoSoy una joven estudiante de la carrera de Abogacía en la Universidad de Buenos Aires. Que busca crecer tanto de modo profesional como personal, adquiriendo nuevos conocimientos y utilizando los ya aprendidos con dedicación, constancia y responsabilidad.
+Me considero una persona capacitada para enfrentar distintas tareas ya sea trabajando de manera individual o en equipo.
+Por eso, me interesaria formar parte de SEBGON.
+Security_code : whm38
+Send : Enviar
+
+---------------
+

@@ -1,0 +1,99 @@
+Address : 66.249.85.11<br>
+ <br>Nombre : Andrea
+ <br>Apellido : Medina
+ <br>Cargo : Jefe de Recursos Humanos
+ <br>Direccion : Esmeralda
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 1126867466
+ <br>Email : aomc81@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenos Días,
+Adjunto mi CV para su consideración.
+Andrea Medina
+ <br>Security_code : 5nq5x
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.17.31.218<br>
+ <br>REF : JPER-1
+ <br>Nombre : Germán
+ <br>Apellido : Aponte
+ <br>Cargo : Jefe de Personal
+ <br>Direccion : Yapeyú 850
+ <br>Ciudad : C.A.B.A
+ <br>Telefono : 011 15-5474-7965
+ <br>Email : germangerman254@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Envío. Mis datos para la presente búsqueda o
+Para la que considere que aplique mi perfil.
+Muchas gracias.
+
+
+ <br>Security_code : gcfdx
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.13.36.239<br>
+ <br>REF : TEC. EL
+ <br>Nombre : florencia
+ <br>Apellido : maidna
+ <br>Cargo : operaria de maquina
+ <br>Direccion : 125 /55y57
+ <br>Ciudad : berazategui
+ <br>Telefono : 1153493510
+ <br>Email : flor_dmaritimo@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola buena Tardes aca les dejo mi curriculum espero su respuesta. Gracias por su tiempo
+ <br>Security_code : 7d326
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.30.10.138<br>
+ <br>REF : EM
+ <br>Nombre : Jorge
+ <br>Apellido : Olivera
+ <br>Cargo : Electromecanico
+ <br>Direccion : Ruca cuyan 136
+ <br>Ciudad : Rincon de los sauces 
+ <br>Telefono : 2996296663
+ <br>Email : jorgeolivera9814@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola buenas tardes ,les invio mi cv juto a mi informacion para poder tenes ofertas de empleo segun mi desempeño 
+ <br>Security_code : p4dhr
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.55.212.254<br>
+ <br>Nombre : Marisa Rocío 
+ <br>Apellido : Pérez 
+ <br>Cargo : Cajera 
+ <br>Direccion : Origine 52
+ <br>Ciudad : Buenos Aires 
+ <br>Telefono : 1156032210
+ <br>Email : Marisaperez1507@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me gustaría ser parte de  su empresa  para poder desarrollar tidos mis conocimientos en atención al cliente, y ser parte de un buen ambito laboral.
+ <br>Security_code : Pthx5
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 200.110.184.2<br>
+ <br>Nombre : Matias Emanuel
+ <br>Apellido : Gonzalez
+ <br>Cargo : encargado / control de calidad
+ <br>Direccion : José Ingenieros 2263
+ <br>Ciudad : Luján, B
+ <br>Telefono : 02323603740
+ <br>Email : gonzalezmatias755@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Actualmente trabajando. Pero con ganas de crecer y abierto a nuevas oportunidades.
+ <br>Security_code : vngjk
+ <br>Send : Enviar
+ <br>
+---------------
+

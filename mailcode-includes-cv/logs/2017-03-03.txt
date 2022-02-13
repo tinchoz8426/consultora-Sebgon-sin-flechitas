@@ -1,0 +1,91 @@
+Address : 190.189.237.115<br>
+ <br>REF : ROT-1
+ <br>Nombre : marcos
+ <br>Apellido : reyes
+ <br>Cargo : proyectista
+ <br>Direccion : pasaje bateman 2800
+ <br>Ciudad : caba
+ <br>Telefono : 1124727222
+ <br>Email : marcosr.11@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados, les envio mi c.v. para que puedan tenerlo en cuenta en su 
+
+busqueda. Personalmente solo me queda decir que soy una persona que esta 
+
+buscando seguir creciendo y poder llevar adelante una carrera como ingeniero 
+
+mecánico, encarar nuevos proyectos y desafios que obtengan como resultado 
+
+brindar soluciones. Muchas gracias.
+ <br>Security_code : jxs4f
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.28.64.240<br>
+ <br>Nombre : Ernesto
+ <br>Apellido : Acosta
+ <br>Cargo : Atención al cliente
+ <br>Direccion : Avenida del Libertador 774 
+ <br>Ciudad : Ciudad Autónoma de Buenos Aires
+ <br>Telefono : 1136188878
+ <br>Email : ernesto.acosta09@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Adjunto mi CV para que sea ingresado a su base de datos.
+
+Gracias 
+ <br>Security_code : y5fk2
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.26.66.49<br>
+ <br>Nombre : Eliana Gisella
+ <br>Apellido : Ilardo
+ <br>Cargo : Tecnico en seguridad e higiene
+ <br>Direccion : Leandro N. ALem
+ <br>Ciudad : Dock Sud, Avellaneda
+ <br>Telefono : 1158900806
+ <br>Email : eliana.ilardo@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenos noches, hago envió de mi CV ! No adquiero experiencia laboral en el área de la carrera que me recibí, pero mi principal objetivo es el de adquirir experiencia, seguir aprendiendo y progresar. Tengo muchas ganas de trabajar y aprender. Quiero poder desarrollarme en el área de la carrera que decidí estudiar, porque me gusta y me interesa muchísimo.
+ 
+Muchas gracias!
+ <br>Security_code : v6vtv
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.26.66.49<br>
+ <br>Nombre : Eliana Gisella
+ <br>Apellido : Ilardo
+ <br>Cargo : Tecnico en seguridad e higiene
+ <br>Direccion : Leandro N. ALem
+ <br>Ciudad : Dock Sud, Avellaneda
+ <br>Telefono : 1158900806
+ <br>Email : eliana.ilardo@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenos noches, hago envió de mi CV ! No adquiero experiencia laboral en el área de la carrera que me recibí, pero mi principal objetivo es el de adquirir experiencia, seguir aprendiendo y progresar. Tengo muchas ganas de trabajar y aprender. Quiero poder desarrollarme en el área de la carrera que decidí estudiar, porque me gusta y me interesa muchísimo.
+ 
+Muchas gracias!
+ <br>Security_code : v6vtv
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.188.115.180<br>
+ <br>Nombre : Nadia
+ <br>Apellido : Weinstein
+ <br>Cargo : Nutricionista
+ <br>Direccion : Serrano 565
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 3416054142
+ <br>Email : weinstein_nadia@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Soy una persona flexible, analítica, capaz de trabajar en equipo, emprendedora, con inquietudes que van más allá de lo estrictamente laboral.  Estoy convencida de poder aportar mi empuje y experiencia.
+Cuento con disponibilidad horaria
+ <br>Security_code : dywz2
+ <br>Send : Enviar
+ <br>
+---------------
+

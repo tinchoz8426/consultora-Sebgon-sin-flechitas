@@ -1,0 +1,49 @@
+Address : 152.135.176.126
+Nombre : Javier Alejandro
+Apellido : Marcantetti
+Cargo : Supervisor/responsable tècnico
+Direccion : Lobos 2052
+Ciudad : Moreno
+Telefono : +54 0237 4680992
+Email : jamark70@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Agradezco su tiempo dedicado a leer mi CV.
+
+Javier A. Marcantetti
+Security_code : 3x7kf
+Send : Enviar
+
+---------------
+
+Address : 186.108.86.239
+Nombre : NATALIA
+Apellido : BELLATI
+Cargo : tecnico quimico
+Direccion : tres de febrero 3411
+Ciudad : caseros
+Telefono : 1565322612
+Email : natybellati05@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : tenerme en cuenta para una nueva busqueda laboral.
+gracias
+Security_code : 2Y4qc
+Send : Enviar
+
+---------------
+
+Address : 108.166.124.39
+REF : jefe-de-garantia-de-calidad
+Nombre : vZvytDHwUGACtsSDov
+Apellido : IyQYhNJcfP
+Cargo : SVWaCQvjNtndq
+Direccion : uWIQkgAGoniGt
+Ciudad : jnFqkojYCCADFxtYt
+Telefono : UnnvmADRCYmmNDfi
+Email : brad@physics.ubc.ca
+MAX_FILE_SIZE : 2097152
+Mensaje : En mi opinif3n, Acciona debereda aplicar esos bneuos procesos de formacif3n tambie9n de forma externa. Utilizando la plataforma ya existente del campus virtual. Para formar de antemano a personas interesadas en formar parte de Acciona.No en vano es la empresa me1s deseada para los te9cnicos de hoy (y de maf1ana).bfY si pudie9ramos hacer que ya estuvieran formados a priori, segfan las necesidades previstas?bfCue1nto tiempo y productividad se ganareda acelerando ased la curva de aprendizaje y el potencial?bfY si sus resultados (calificaciones, etc.) en ese proceso de formacif3n multicompetencial fueran un me9todo de seleccif3n?Quize1s no se pueda hacer abierto a todo el mundo, pero sed quize1s en conjuncif3n con una escuela de negocios, por ejemplo la EOI (que sereda la me1s afedn), de forma que las herramientas y procesos de seleccif3n se autofinancien.
+Security_code : 5zg9f
+Send : Enviar
+
+---------------
+

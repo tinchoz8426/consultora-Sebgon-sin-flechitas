@@ -1,0 +1,95 @@
+Address : 190.51.191.63
+Nombre : Eugenia Judit
+Apellido : Sayago
+Cargo : Recepcionista,secretaria,asistente
+Direccion : Camino Gral Belgrano 3015
+Ciudad : Bs.As ( Lanús)
+Telefono : 4289-1162
+Email : eugeniasayago@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estoy en busqueda de un trabajo,ya sea recepción,o ventas tambien..Lo cual me siento capacitada y con voluntad de aprender y cumplir con responsabilidad,las tareas que se me asignen!
+Security_code : h3gvs
+Send : Enviar
+
+---------------
+
+Address : 190.179.194.216
+REF : gerente-produccion
+Nombre : matias
+Apellido : olguin
+Cargo : cualquiera
+Direccion : las orquideas 1007
+Ciudad : mendoza
+Telefono : 4526721
+Email : matiolguin15@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : trabajar de lo que sea horario full time sin movilidad
+Security_code : 9tc69
+Send : Enviar
+
+---------------
+
+Address : 190.179.194.216
+REF : gerente-produccion
+Nombre : matias
+Apellido : olguin
+Cargo : cualquiera
+Direccion : las orquideas 1007
+Ciudad : mendoza
+Telefono : 4526721
+Email : matiolguin15@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : trabajar de lo que sea horario full time sin movilidad
+Security_code : 9tc69
+Send : Enviar
+
+---------------
+
+Address : 190.179.194.216
+REF : tecnico-quimico
+Nombre : matias
+Apellido : olguin
+Cargo : cualquiera
+Direccion : las orquideas 1007
+Ciudad : mendoza
+Telefono : 4526721
+Email : matiolguin15@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : cualquier tipo de trabajo horario full time sin movilidad
+Security_code : 2s2v9
+Send : Enviar
+
+---------------
+
+Address : 190.247.170.169
+Nombre : Estevez Paggi
+Apellido : Vanesa Claudia
+Cargo : trabajadora social 
+Direccion : gualeguaychu 392
+Ciudad : caba
+Telefono : 1541753696
+Email : v_e_p84@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados,
+Soy recibida de la carrera de trabajo social de la UBA. Les acerco mi cv para ser tenida en cuenta en futuras busquedas laborales.
+gracias atentamente
+Security_code : rwkxq
+Send : Enviar
+
+---------------
+
+Address : 190.244.119.54
+Nombre : KARINA
+Apellido : NICOLUSSI
+Cargo : CONSULTORA FREE LANCE
+Direccion : CIUDAD DE LA PAZ 3252
+Ciudad : CABA
+Telefono : 15 44 37 56 28
+Email : knicolussi@thfgroup.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Deseo desempeñarme como consultora o instructora en temas de management en una consultora en forma free- lance. Me interesa la modalidad de trabajo por proyecto. Gracias
+Security_code : 6b9cw
+Send : Enviar
+
+---------------
+

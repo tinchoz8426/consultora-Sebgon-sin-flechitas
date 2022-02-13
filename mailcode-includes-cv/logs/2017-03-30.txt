@@ -1,0 +1,216 @@
+Address : 200.114.153.157<br>
+ <br>REF : chr
+ <br>Nombre : jorge miguel 
+ <br>Apellido : calas
+ <br>Cargo : Chofer 
+ <br>Direccion : beron de astrada 6047 c.a.b.a
+ <br>Ciudad : CAPITAL FEDERAL (CP=)
+ <br>Telefono : 1149173875
+ <br>Email : calasjorge@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Soy chofer con carnet al dia y conocimientos en cargas y equipos...
+ <br>Security_code : kbvxy
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.141.199.143<br>
+ <br>REF : chr
+ <br>Nombre : Gonzalo
+ <br>Apellido : Siri
+ <br>Cargo : Chofer
+ <br>Direccion : Ramon lista, 60
+ <br>Ciudad : Rafael castillo
+ <br>Telefono : 1152604785
+ <br>Email : gonzalo_siri@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola tengo todos los registros al dia.
+ <br>Security_code : Hqjms
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.225.152.105<br>
+ <br>Nombre : Fernando Gabriel
+ <br>Apellido : Rado
+ <br>Cargo : Jefe Recursos Humanos
+ <br>Direccion : Bolivar 6712 1° piso
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 1536309405
+ <br>Email : radofernandog@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados:
+Muy buenos días, adjunto mi CV para poder formar parte de su base de datos y ser tenido en cuenta en búsquedas que puedan tener. Muchas gracias.
+ <br>Security_code : wr94s
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.179.193.117<br>
+ <br>REF : chr
+ <br>Nombre : Angel 
+ <br>Apellido : Casas
+ <br>Cargo : Chofer
+ <br>Direccion : Tabare 2358 
+ <br>Ciudad : Villa soldati. CABA
+ <br>Telefono : 1551111108
+ <br>Email : angelcasas73@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenos dias con el debido respeto me gustaria formar parte de su equipo de trabajo  y tambien porq necesito laburar. Desde ya muchas gracias
+ <br>Security_code : mxcxr
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.29.116.68<br>
+ <br>REF : Ing. quim
+ <br>Nombre : Pamela 
+ <br>Apellido : Mejias
+ <br>Cargo : Jefa de producción/ Ingeniera Química
+ <br>Direccion : Suipacha 967, Apto 7A
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 543487326799
+ <br>Email : pamelamejias12@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados,
+He visto la Oferta Laboral publicada, la misma me resultó de gran interés. Por este motivo, les hago llegar mi Currículum Vitae, a fin de ser tenido en cuenta como candidato.
+
+Tengo todos los ánimos y buena actitud de aprender y desarrollarme personal y profesionalmente, y a la vez contribuir con el bienestar de la empresa.
+
+Soy Ingeniero Químico. Magister en Ingeniería Ambiental. Con 6 años de experiencia laboral, 4 años como Ingeniero Ambiental en el Centro de Investigación del Agua de la Universidad del Zulia y 2 años como Investigadora y Docente del Departamento de Química de la Facultad de Ingeniería de la Universidad del Zulia. 
+Quedo a su disposición para ampliar cualquier información necesaria.
+
+Remuneración pretendida: 30000 pesos en bruto.
+
+Atentamente,
+
+Ing. Pamela Mejias
+Telf: +543487326799
+
+ <br>Security_code : 2c4qf
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.62.18.253<br>
+ <br>Nombre : nicolas
+ <br>Apellido : engelman
+ <br>Cargo : operario
+ <br>Direccion : av mozart 1150
+ <br>Ciudad : quilmes
+ <br>Telefono : 1122933635
+ <br>Email : engelmannicolasr@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : curriculum vitae
+
+ <br>Security_code : 6vyrf
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.62.18.253<br>
+ <br>Nombre : nicolas
+ <br>Apellido : engelman
+ <br>Cargo : operario
+ <br>Direccion : av mozart 1150
+ <br>Ciudad : quilmes
+ <br>Telefono : 1122933635
+ <br>Email : engelmannicolasr@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : envie como archivo mi curriculum
+ <br>Security_code : xgcnv
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.176.5.253<br>
+ <br>REF : ACO-1
+ <br>Nombre : Camila Luciana
+ <br>Apellido : Suarez
+ <br>Cargo : Analista de Comercio Internacional
+ <br>Direccion : Viena 3615
+ <br>Ciudad : Isidro Casanova
+ <br>Telefono : 1531956046
+ <br>Email : camila_suarez_12@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Mi nombre es Camila Suárez, 24 años, recientemente recibida de Licenciada en Comercio Internacional. Me encuentro en la búsqueda de una oportunidad laboral.
+Adjunto mi CV.
+Desde ya, muchas gracias.
+ <br>Security_code : Wrdqz
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.176.5.253<br>
+ <br>REF : ACO-1
+ <br>Nombre : Camila Luciana
+ <br>Apellido : Suarez
+ <br>Cargo : Analista de Comercio Internacional
+ <br>Direccion : Viena 3615
+ <br>Ciudad : Isidro Casanova
+ <br>Telefono : 1531956046
+ <br>Email : camila_suarez_12@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Mi nombre es Camila Suárez, 24 años, recientemente recibida de Licenciada en Comercio Internacional. Me encuentro en la búsqueda de una oportunidad laboral.
+Adjunto mi CV.
+Desde ya, muchas gracias.
+ <br>Security_code : wrdqz
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.176.5.253<br>
+ <br>REF : ACO-1
+ <br>Nombre : Camila Luciana
+ <br>Apellido : Suarez
+ <br>Cargo : Analista de Comercio Internacional
+ <br>Direccion : Viena 3615
+ <br>Ciudad : Isidro Casanova
+ <br>Telefono : 1531956046
+ <br>Email : camila_suarez_12@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Mi nombre es Camila Duárez, 24 años, licenciada en Comercio Internacional. Me encuentro en la búsqueda de una oportunidad laboral.
+Desde ya, muchas gracias.
+ <br>Security_code : f9jx7
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.168.189.3<br>
+ <br>Nombre : FEDERICO DAMIAN
+ <br>Apellido : CABELLO
+ <br>Cargo : chofer
+ <br>Direccion : Deheza 2810
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 1154928013
+ <br>Email : federicocabello20@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas tardes,
+
+Mi nombre es Federico Damian Cabello y estoy en la búsqueda de un empleo.
+Tengo 15 años de experiencia en logística y distribución zonas CABA y GBA.
+
+Quedo a disposición,
+
+Saludos cordiales
+ <br>Security_code : 34bvf
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.44.29.235<br>
+ <br>REF : chr
+ <br>Nombre : lucas rafael
+ <br>Apellido : hoyos
+ <br>Cargo : chofer
+ <br>Direccion : ssan nicolas
+ <br>Ciudad : florencio varela
+ <br>Telefono : 01169277502
+ <br>Email : trenloco.nemesislucas@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : quiero trabajar tengo experiencia en manejo
+ <br>Security_code : 3kjch
+ <br>Send : Enviar
+ <br>
+---------------
+

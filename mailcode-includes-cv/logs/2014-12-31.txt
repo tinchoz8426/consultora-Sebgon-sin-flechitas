@@ -1,0 +1,60 @@
+Address : 186.153.197.23
+Nombre : Facundo Nahuel
+Apellido : Monfrini
+Cargo : Tecnico de mantenimiento
+Direccion : Tarragona bis 1305
+Ciudad : Rosario
+Telefono : 341-155719027 / 341-4519177
+Email : nahuelmonfrini@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenas noches,estoy buscando empleo. Soy de Rosario, técnico superior en electrónica con orientación en control, recién recibido. Tengo conocimientos en programación de plc, micro-controladores, instrumentos de medición, ingles técnico, hidráulica y neumática. Gracias, Saludos
+Security_code : jtchp
+Send : Enviar
+
+---------------
+
+Address : 186.153.197.23
+Nombre : Facundo Nahuel
+Apellido : Monfrini
+Cargo : Tecnico de mantenimiento
+Direccion : Tarragona bis 1305
+Ciudad : Rosario
+Telefono : 341-155719027 / 341-4519177
+Email : nahuelmonfrini@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenas noches,estoy buscando empleo. Soy de Rosario, técnico superior en electrónica con orientación en control, recién recibido. Tengo conocimientos en programación de plc, micro-controladores, instrumentos de medición, ingles técnico, hidráulica y neumática. Gracias, Saludos
+Security_code : jtchp
+Send : Enviar
+
+---------------
+
+Address : 186.153.197.23
+Nombre : Facundo Nahuel
+Apellido : Monfrini
+Cargo : Tecnico de mantenimiento
+Direccion : Tarragona bis 1305
+Ciudad : Rosario
+Telefono : 341-155719027 / 341-4519177
+Email : nahuelmonfrini@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenas noches,estoy buscando empleo. Soy de Rosario, técnico superior en electrónica con orientación en control, recién recibido. Tengo conocimientos en programación de plc, micro-controladores, instrumentos de medición, ingles técnico, hidráulica y neumática. Gracias, Saludos
+Security_code : p5v5s
+Send : Enviar
+
+---------------
+
+Address : 186.153.197.23
+Nombre : Facundo Nahuel
+Apellido : Monfrini
+Cargo : Tecnico de mantenimiento
+Direccion : Tarragona bis 1305
+Ciudad : Rosario
+Telefono : 341-155719027 / 341-4519177
+Email : nahuelmonfrini@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenas noches,estoy buscando empleo. Soy de Rosario, técnico superior en electrónica con orientación en control, recién recibido. Tengo conocimientos en programación de plc, micro-controladores, instrumentos de medición, ingles técnico, hidráulica y neumática. Gracias, Saludos
+Security_code : fkccz
+Send : Enviar
+
+---------------
+

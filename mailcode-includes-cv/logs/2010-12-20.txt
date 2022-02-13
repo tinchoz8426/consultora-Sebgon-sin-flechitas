@@ -1,0 +1,51 @@
+Address : 190.19.148.163
+Nombre : Jennifer
+Apellido : Uijt den Bogaard
+Cargo : Futuras busquedas
+Direccion : Mario Bravo 67
+Ciudad : caba
+Telefono : 1553489443
+Email : jenniferudb@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenos días, 
+Mi nombre es Jennifer Uijt den Bogaard, soy licenciada en tecnología industrial de los alimentos. 
+Envío mi CV para que lo tengan en cuenta para futuras búsquedas. 
+Muchas gracias, 
+Jennifer
+Security_code : gjskv
+Send : Enviar
+
+---------------
+
+Address : 186.124.178.61
+Nombre : Federico Lucas
+Apellido : Marquez
+Cargo : Tecnico Superior en Higiene y Seguridad Industrial y Control Ambiental
+Direccion : Zarate 1919
+Ciudad : Cordoba
+Telefono : 3512076729
+Email : felmarqz@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto Curriculum
+
+Saludos Cordiales
+Security_code : fs4gm
+Send : Enviar
+
+---------------
+
+Address : 190.175.107.176
+Nombre : victoria
+Apellido : aimery
+Cargo : administrativa
+Direccion : bacacay 435
+Ciudad : ituzaingò
+Telefono : 1136610823
+Email : vaimery@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Es mi interés desarrollarme profesionalmente en una empresa de prestigio, en el cual pueda aportar mis conocimientos y habilidades obtenidas hasta el presente. Para desarrollarme en el puesto de trabajo estoy dispuesto a aportar mi profesionalismo, ética, transparencia, responsabilidad, dialogo y una actitud de apertura que permita un eficiente trabajo en equipo, flexibilidad para adaptarme a los cambios e iniciativa para el logro de resultados, contando para ello con confianza en mis aptitudes profesionales. 
+Security_code : cm3t5
+Send : Enviar
+
+---------------
+

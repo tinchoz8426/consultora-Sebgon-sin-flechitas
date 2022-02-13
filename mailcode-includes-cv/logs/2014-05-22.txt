@@ -1,0 +1,127 @@
+Address : 190.97.56.99
+Nombre : Yesica
+Apellido : Dalecio
+Cargo : Secretaria
+Direccion : San Mateo 3774
+Ciudad : buenos aires
+Telefono : 0291-156482806
+Email : yesicabdalecio@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me interesa trabajar como secretaria dado que acabo de recibirme pero mi objetivo mayor es poder ser parte del área de Recursos Humanos dentro de una empresa.
+Security_code : pc6xs
+Send : Enviar
+
+---------------
+
+Address : 190.172.153.132
+Nombre : sebastian
+Apellido : vogel
+Cargo : indefinido
+Direccion : Ecuador 946
+Ciudad : cipolletti
+Telefono : 4785083
+Email : savogel@live.com
+MAX_FILE_SIZE : 2097152
+Mensaje : a la espera 
+Security_code : hhx64
+Send : Enviar
+
+---------------
+
+Address : 190.172.153.132
+Nombre : sebastian
+Apellido : vogel
+Cargo : indefinido
+Direccion : Ecuador 946
+Ciudad : cipolletti
+Telefono : 4785083
+Email : savogel@live.com
+MAX_FILE_SIZE : 2097152
+Mensaje : a la espera 
+Security_code : hhx64
+Send : Enviar
+
+---------------
+
+Address : 190.2.96.178
+Nombre : Mauro
+Apellido : Aguirre
+Cargo : Encargado de deposito
+Direccion : Suipacha 571
+Ciudad : Rosario
+Telefono : (0341) 153255695
+Email : mauroaguirre05@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Disponibilidad full-time.
+Contratación inmediata
+Security_code : ccsrr
+Send : Enviar
+
+---------------
+
+Address : 186.58.3.158
+Nombre : Melany
+Apellido : Gubellini
+Cargo : Recepcion
+Direccion : Bermejo 4172
+Ciudad : San Justo
+Telefono : 1561370047
+Email : melany.gube@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto mi Currículum Vítae, quedando a su disposición para cualquier consulta.
+                                                                                                                     Saludos cordiales.
+                                                                                                                      Melany Gubellini.
+Security_code : 4jg99
+Send : Enviar
+
+---------------
+
+Address : 186.58.3.158
+Nombre : Melany
+Apellido : Gubellini
+Cargo : Recepcion
+Direccion : Bermejo 4172
+Ciudad : San Justo
+Telefono : 1561370047
+Email : melany.gube@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto mi Currículum Vítae, quedando a su disposición para cualquier consulta.
+                                                                                                                     Saludos cordiales.
+                                                                                                                      Melany Gubellini.
+Security_code : 4jg99
+Send : Enviar
+
+---------------
+
+Address : 186.58.3.158
+Nombre : Melany
+Apellido : Gubellini
+Cargo : Recepcion
+Direccion : Bermejo 4172
+Ciudad : San Justo
+Telefono : 1561370047
+Email : melany.gube@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto mi Currículum Vítae, quedando a su disposición para cualquier consulta.
+                                                                                                                     Saludos cordiales.
+                                                                                                                      Melany Gubellini.
+Security_code : kxpjm
+Send : Enviar
+
+---------------
+
+Address : 181.26.146.250
+Nombre : jesica
+Apellido : penedo
+Cargo : vendedor/limpieza
+Direccion : jesica_peres@hotmail.com
+Ciudad : ezeiza
+Telefono : 43864768
+Email : jesica_peres@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : estoy en busqueda de trabajo ya sea para limpieza o comerciante en un negocio.
+Security_code : pyjtd
+Send : Enviar
+
+---------------
+

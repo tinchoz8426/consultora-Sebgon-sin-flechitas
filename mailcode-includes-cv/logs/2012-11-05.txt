@@ -1,0 +1,30 @@
+Address : 190.123.113.65
+Nombre : Matias Leonel
+Apellido : Silvetti
+Cargo : quimico u operador
+Direccion : Gaboto 236
+Ciudad : Capitan Bermudez
+Telefono : 4761478
+Email : mati_mls_14@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Dejo en sus manos mi cv ofrendiendoles mi capacitacion y mis ganas de trabajar y seguir aprendiendo. saludo atte.
+Security_code : nnmvf
+Send : Enviar
+
+---------------
+
+Address : 186.126.31.24
+Nombre : Romina Vanesa
+Apellido : Balmaceda Boracchia
+Cargo : Cajera
+Direccion : La Rioja 502
+Ciudad : Moreno
+Telefono : 0111562807483
+Email : rooomii89@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Deseo conseguir empleo.
+Security_code : 3h8fs
+Send : Enviar
+
+---------------
+

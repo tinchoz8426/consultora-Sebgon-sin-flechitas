@@ -1,0 +1,239 @@
+Address : 190.138.77.154
+Nombre : Micaela
+Apellido : Barbalarga
+Cargo : Administración
+Direccion : Bonifacini
+Ciudad : Caseros
+Telefono : 1131313397
+Email : mica.barbalarga@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados:
+
+                Me dirijo a ustedes con el fin de hacerles llegar mi Curriculum Vitae, el cual se encuentra en archivo adjunto, por cualquier vacante que se  presente en su empresa.
+
+                 Espero poder concretar una entrevista para que me puedan conocer aún más.
+
+                 Me encantaría formar parte de su empresa, y contribuir a su crecimiento de maneja conjunta, considerando a la mejora continua y al trabajo en equipo como aspectos fundamentales para el éxito. 
+
+                 Actualmente trabajo en el área Contable de un Hospital público, sin embargo deseo obtener un trabajo que me motive aún más y en donde 
+pueda desarrollar mis conocimientos recibidos en mi carrera de Licenciada en Administración de empresas y mejores condiciones laborales.
+
+
+                                                          Desde ya, muchas gracias por su atención.
+
+ Saludos Cordiales.
+
+G. Micaela Barbalarga
+
+Security_code : 22kbq
+Send : Enviar
+
+---------------
+
+Address : 190.112.26.248
+REF : TECME
+Nombre : jose juan
+Apellido : satabia
+Cargo : tecnico para mantenimiento
+Direccion : turin 4730
+Ciudad : isidro casanova
+Telefono : 15 68309831
+Email : sarabia_meca@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : me interesa el puesto puedo rendir pruebas nasesarias
+Security_code : fnrbk
+Send : Enviar
+
+---------------
+
+Address : 190.55.162.61
+Nombre : Claudia Lucrecia
+Apellido : Chavez Medina
+Cargo : atencion al cliente
+Direccion : cerviño 3655
+Ciudad : san justo
+Telefono : 01163799871
+Email : chavezmedinac@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : me interesaria el puesto de atencion al cliente pero no tengo problemas de postularme a cualquier otro puesto
+Security_code : tkp8p
+Send : Enviar
+
+---------------
+
+Address : 181.46.7.121
+Nombre : Magalí 
+Apellido : Fontanet
+Cargo : Dibujante proyectista
+Direccion : gral pintos 939
+Ciudad : Ciudad Madero
+Telefono : 46554161
+Email : maguifontanet@live.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola soy estudiante de ultimo año en la carrera de arquitectura en fadu-uba
+Mi principal objetivo es podes ampliar mis fronteras laborales y obtener una nueva visión del campo de mi profesión.
+Espero me tengan en cuenta para una entrevista.
+Muchas gracias
+
+Security_code : 9qv2n
+Send : Enviar
+
+---------------
+
+Address : 181.114.42.226
+Nombre : Nadia Soledad
+Apellido : GARCIA
+Cargo : administrativo
+Direccion : PIO Xll 637
+Ciudad : SANTA ROSA
+Telefono : 2954558696
+Email : nadia25_86@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me encantaría poder llegar a formar parte de una prestigiosa entidad, lograr capacitarme y aprender constantemente.
+En primer lugar tengo la necesidad de trabajar, ademas poseo muchas ganas de superar desafios; me encanta viajar y las relaciones interpersonales, y me destaco en la honestidad y responsabilidad. Es por esto que le adjunto, sin compromiso alguno, mi curriculum vitae.
+
+                      Desde ya muchas gracias por su tiempo. Sin otro en particular y a la espera de una rta, saluda atte.
+Nadia.-
+Security_code : np49k
+Send : Enviar
+
+---------------
+
+Address : 181.91.129.226
+Nombre : Jorge Oscar
+Apellido : Olmos
+Cargo : Supervisor
+Direccion : Maipu 3477 v. Ballester
+Ciudad : San Martin
+Telefono : 15 40291193  / 48490108
+Email : 1956olmos@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenas tardes el CV solo da una breve muestra de mis conocimientos. los cuales son muy amplios en varios rubros, quedo a vuestra disposición para ser ampliados de ser necesario.
+Saludos 
+Security_code : 432rg
+Send : Enviar
+
+---------------
+
+Address : 181.91.129.226
+REF : SuP
+Nombre : Jorge Oscar
+Apellido : Olmos
+Cargo : supervisor de producción
+Direccion : Maipu 3477 v. Ballester
+Ciudad : San Martin
+Telefono : 15 40291193  / 48490108
+Email : 1956olmos@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : buenas tardes la remuneración seria de $20000 netos.
+Security_code : xwfsg
+Send : Enviar
+
+---------------
+
+Address : 186.182.105.71
+Nombre : antonella
+Apellido : gonzalez
+Cargo : atencion al cliente/ camarera
+Direccion : alcalde rivas 
+Ciudad : buenos aires 
+Telefono : 01151189614
+Email : sooilacocaa@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje :  hola , dejo mi cv a su disposicion , desde ya muchas gracias ! saludos 
+Security_code : 2b2jd
+Send : Enviar
+
+---------------
+
+Address : 186.182.105.71
+Nombre : antonella
+Apellido : gonzalez
+Cargo : atencion al cliente/ camarera
+Direccion : alcalde rivas
+Ciudad : buenos aires
+Telefono : 01151189614
+Email : sooilacocaa@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje :           curriculum vitae
+datos personales:
+nombre: antonella
+apellido: gonzalez
+fecha de nacimiento: 01/02/1993
+lugar de nacimiento: moron
+domicilio: alcalde rivas 351
+telefono: 011511896144/54354156
+estado civil: soltera
+cuil: 27/37233304/4
+estudios:
+primario: completo
+secundario: completo 
+experiencia laboral:
+empresa: hollywood eventos castelar 
+puesto: empleada
+actividad: camarera de salon/ayudante cocina
+empresa: margareta pizza libre
+puesto: empleada
+actividad: camarera
+empresa: cotymas
+puesto: empleada
+actividad: atencion de mostrador/repositora
+
+referencias:
+nombre: vanina
+telefono:011685442760
+nombre:diego rodriguez
+telefono:11440585352
+nombre: gabriela nuñez
+telefono: 1130965705
+
+Security_code : 2g6d5
+Send : Enviar
+
+---------------
+
+Address : 181.165.11.207
+Nombre : Maximiliano Alejandro
+Apellido : Pumar
+Cargo : vigilador,atencion al cliente,tecnico informatico,repositor,manejo de caja,sereno,cadete y operario.
+Direccion : uriburu1624
+Ciudad : quilmes
+Telefono : 42546076
+Email : maxi_quilmes_1990@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola nesesito trabajar urgente ya que mi papa sufrio un  acv y en consecuencia tiene medio cuerpo paralizado,el trabajaba para el same emergencias en capital y lo quieren jubilar por invalides,eh trabajado en varios puestos diferentes lo que no se hacer lo aprendo desde ya gracias.
+Security_code : sssyw
+Send : Enviar
+
+---------------
+
+Address : 181.165.11.207
+Nombre : Maximiliano Alejandro
+Apellido : Pumar
+Cargo : vigilador,atencion al cliente,tecnico informatico,repositor,manejo de caja,sereno,cadete y operario.
+Direccion : uriburu1624
+Ciudad : quilmes
+Telefono : 42546076
+Email : maxi_quilmes_1990@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola nesesito trabajar urgente ya que mi papa sufrio un  acv y en consecuencia tiene medio cuerpo paralizado,el trabajaba para el same emergencias en capital y lo quieren jubilar por invalides,eh trabajado en varios puestos diferentes lo que no se hacer lo aprendo desde ya gracias.
+Security_code : jpdf6
+Send : Enviar
+
+---------------
+
+Address : 181.165.11.207
+Nombre : Maximiliano Alejandro
+Apellido : Pumar
+Cargo : vigilador,atencion al cliente,tecnico informatico,repositor,manejo de caja,sereno,cadete y operario.
+Direccion : uriburu1624
+Ciudad : quilmes
+Telefono : 42546076
+Email : maxi_quilmes_1990@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola nesesito trabajar urgente ya que mi papa sufrio un  acv y en consecuencia tiene medio cuerpo paralizado,el trabajaba para el same emergencias en capital y lo quieren jubilar por invalides,eh trabajado en varios puestos diferentes lo que no se hacer lo aprendo desde ya gracias.
+Security_code : kxmhk
+Send : Enviar
+
+---------------
+

@@ -1,0 +1,68 @@
+Address : 181.44.31.44
+Nombre : juan manuel 
+Apellido : Gomez
+Cargo : cañista solsador matriculado 6g eletrodo
+Direccion : Ricardo Rojas 4442
+Ciudad : quilmes
+Telefono : 1167890127
+Email : juan.m.gomez5768@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : gracias por recibir mi cv me gustaria ganar bien 
+Security_code : 35k54
+Send : Enviar
+
+---------------
+
+Address : 201.250.101.225
+Nombre : martin roberto
+Apellido : sasso
+Cargo : TRABAJADOR SOCIAL
+Direccion : AVDA DIRECTORIO 2334
+Ciudad : CABA
+Telefono : 46342556
+Email : martin-sasso@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : BUENOS DIAS, POR MEDIO DE ESTE MENSAJE, HAGO ENVIO DE MI CURRICULUM VITAE PARA SER TENIDO EN CUENTA ANTE UNA EVENTUAL BUSQUEDA LABORAL. DESDE YA AGRADEZCO SU DEFERENCIA, PONIENDOME A SU DISPOSICION CUANDO LO CONSIDERE OPORTUNO. ATTE, LIC. MARTIN SASSO
+Security_code : 78b82
+Send : Enviar
+
+---------------
+
+Address : 190.175.11.231
+REF : TECME
+Nombre : nicasio florencio
+Apellido : burgos
+Cargo : tecnico  mecanico  mantenimiento
+Direccion : laguna 2951
+Ciudad : capital federal
+Telefono : 11-53162549-11-55086300
+Email : flornicburg4910@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados,
+He visto la Oferta Laboral publicada la misma me resultó de gran interés. Por este motivo, les hago llegar mi Currículum Vitae, a fin de ser tenido en cuenta como candidato.
+Quedo a su disposición para ampliar cualquier información necesaria.
+Cordialmente,
+Nicasio  Florencio Burgos
+Security_code : n3y96
+Send : Enviar
+
+---------------
+
+Address : 186.125.35.242
+REF : TLP
+Nombre : Antonio Diego
+Apellido : Sessa
+Cargo : Tecnico electronico y sistemas de planta
+Direccion : Roberto Wernicke 1723
+Ciudad : villa adelina
+Telefono : 0111554141550
+Email : adsessa@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola, quisiera participar de este emprendimiento.
+mi experiencia es coincidente con su búsqueda.
+saludos, Antonio.
+Security_code : x6tnf
+Send : Enviar
+
+---------------
+

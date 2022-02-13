@@ -1,0 +1,80 @@
+Address : 24.232.139.113
+Nombre : Lucila
+Apellido : Mandelli
+Cargo : Lic en Nutrición
+Direccion : Cordoba 876
+Ciudad : Martinez
+Telefono : 47922789
+Email : lucilamandelli@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Les adjunto mi CV. Estoy a su disposición ante cualquier oferta laboral relacionada a la búsqueda de Licenciados en Nutrición. Desde ya muchas gracias. Atte, Lucila Mandelli
+Security_code : 5gtsg
+Send : Enviar
+
+---------------
+
+Address : 186.182.17.238
+Nombre : Magalí
+Apellido : Burgos
+Cargo : Técnico
+Direccion : Chuquisaca 2127
+Ciudad : Avellaneda
+Telefono : 543011737
+Email : magy_burgos@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados Sres de SEBGON, les acerco mi CV con el fin de que tengan a bien considerarme en futuras búsquedas laborales, debido a que anhelo formar parte de su compañía.
+Saludos cordiales, Magalí Burgos.
+Security_code : q3wbr
+Send : Enviar
+
+---------------
+
+Address : 186.57.37.60
+REF : administrativa-compras
+Nombre : Natalia
+Apellido : barruecos
+Cargo : administrativa de compras
+Direccion : bouchard 2130
+Ciudad : vte lopez
+Telefono : 02954 15543888
+Email : nataliabarruecos@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : A quien corresponda:
+
+      Adjunto envió mi cv, sin otro motivo, quedando a la espera de una futura comunicación me despido de ud muy atte.
+Security_code : vfht7
+Send : Enviar
+
+---------------
+
+Address : 190.172.231.131
+REF : jefe-de-operaciones
+Nombre : DAMIAN DARIO
+Apellido : DEFELIPPE
+Cargo : Gerencia
+Direccion : Rosetti 949
+Ciudad : SAN MIGUEL
+Telefono : 011-46670915
+Email : damdefe@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Total predisposicion
+Security_code : fb94d
+Send : Enviar
+
+---------------
+
+Address : 190.228.238.194
+Nombre : jimena
+Apellido : oliva
+Cargo : administracion, venta, recepcion, secretariado.
+Direccion : olegario correa 2226 mariano balcarce
+Ciudad : cordoba
+Telefono : 3517585599
+Email : jimeoliva08@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto curriculum para posibles cargos laborales de administracion, ventas, recepcion, e.tc.
+Security_code : qpgqn
+Send : Enviar
+
+---------------
+

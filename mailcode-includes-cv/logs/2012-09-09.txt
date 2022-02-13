@@ -1,0 +1,15 @@
+Address : 200.45.116.141
+Nombre : Marcelo fabian
+Apellido : Iparraguirre
+Cargo : Tecnico productivo o Mantenimiento
+Direccion : Juan bautista justo 1090
+Ciudad : Zarate
+Telefono : 03487440484
+Email : IPA_MARCELO@YAHOO.COM.AR
+MAX_FILE_SIZE : 2097152
+Mensaje : gracaias por cualquier dato que me puedan hacercar respecto a postulaciones.
+Security_code : p4jgt
+Send : Enviar
+
+---------------
+

@@ -1,0 +1,79 @@
+Address : 190.193.237.126
+REF : adper
+Nombre : Maria Eugenia
+Apellido :  Vallejos
+Cargo : Administracion de personal
+Direccion : Santa Fe 1463 Dpto 43
+Ciudad : Posadas
+Telefono : 03752-427250 - 03752-15671815
+Email : mariaeugeniavallejos@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto CV
+Security_code : wzrym
+Send : Enviar
+
+---------------
+
+Address : 190.245.16.210
+Nombre : Julieta Andrea
+Apellido : Cóppola
+Cargo : Asistente
+Direccion : Rosario 541
+Ciudad : Capital Federal
+Telefono : 1561554410
+Email : julieta.coppola@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje :  
+Security_code : m37nz
+Send : Enviar
+
+---------------
+
+Address : 190.245.16.210
+Nombre : Julieta Andrea
+Apellido : Cóppola
+Cargo : Asistente
+Direccion : Rosario 541
+Ciudad : Capital Federal
+Telefono : 1561554410
+Email : julieta.coppola@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : .
+Security_code : w9h5p
+Send : Enviar
+
+---------------
+
+Address : 190.220.86.73
+Nombre : Ana Maria 
+Apellido : Carrizo
+Cargo : Administracion
+Direccion : Paris 2284
+Ciudad : Buenos aires
+Telefono : 5290-3619
+Email : carrizoanna@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto CV para que puedan tenerlo en cuanta en próximas búsquedas acorde a mi perfil.
+muchas gracias.
+saludos cordiales,
+Ana Carrizo
+Security_code : pb6sz
+Send : Enviar
+
+---------------
+
+Address : 190.18.89.79
+Nombre : Emanuel
+Apellido : Tejero
+Cargo : Atencion al cliente
+Direccion : Jose Ingenieros 1364
+Ciudad : Rosario
+Telefono : 0341 - 153562310
+Email : emanueltejero@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Disponibilidad full time
+Security_code : tks4g
+Send : Enviar
+
+---------------
+

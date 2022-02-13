@@ -1,0 +1,175 @@
+Address : 190.19.50.124<br>
+ <br>Nombre : JOSE MARÍA
+ <br>Apellido : BUGALLO
+ <br>Cargo : CHOFER
+ <br>Direccion : GUARDIA VIEJA 4360 DTO. 1
+ <br>Ciudad : CABA
+ <br>Telefono : 15.56602151/ 4863.6696
+ <br>Email : josebugallo17@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : chofer. busco empleo
+
+ <br>Security_code : r46gs
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.93.32.102<br>
+ <br>REF : chr
+ <br>Nombre : Martin Gabriel 
+ <br>Apellido : Miño
+ <br>Cargo : Chofer
+ <br>Direccion : Piedrabuena 610
+ <br>Ciudad : Boulogne San Isidro
+ <br>Telefono : 4735-1965
+ <br>Email : Martingabriel-81@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Busco empleo de chofer. Disponibilidad horarias . Muchas gracias
+ <br>Security_code : Vh3yg
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 200.125.106.131<br>
+ <br>REF : chr
+ <br>Nombre : cristian antonio 
+ <br>Apellido : garcia
+ <br>Cargo : chofer
+ <br>Direccion : dr equiza 3540
+ <br>Ciudad : gonzales catan 
+ <br>Telefono : 1164423254
+ <br>Email : crisygaby917@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : hola soy chofer de camiones tengo registros al dia para camiones y tembien crnt al dia
+ <br>Security_code : bxbnv
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.7<br>
+ <br>REF : chr
+ <br>Nombre : Paulo
+ <br>Apellido : Sobrecasas
+ <br>Cargo : Chofer
+ <br>Direccion : Salta 1972
+ <br>Ciudad : San justo
+ <br>Telefono : 1560135890
+ <br>Email : spmc1972@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Sólo tengo registro hasta 3500kg pero puedo  tramitar el que necesiten si tienen interés en mi.
+ <br>Security_code : Cxyqz
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.11<br>
+ <br>REF : chr
+ <br>Nombre : Paulo
+ <br>Apellido : Sobrecasas
+ <br>Cargo : Chofer
+ <br>Direccion : Salta 1972
+ <br>Ciudad : San justo
+ <br>Telefono : 1560135890
+ <br>Email : spmc1972@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Sólo tengo registro hasta 3500kg pero puedo  tramitar el que necesiten si tienen interés en mi.
+ <br>Security_code : cxyqz
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.11<br>
+ <br>REF : chr
+ <br>Nombre : Paulo
+ <br>Apellido : SOBRECASAS
+ <br>Cargo : Chofer
+ <br>Direccion : Salta 1972
+ <br>Ciudad : SAN JUSTO PARTE LA MATANZA
+ <br>Telefono : 1560135890
+ <br>Email : spmc1972@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Sólo tengo registro par a 3500kg pero puedo gestionar el que se necesite de ser necesario. Tengo experiencia de varios años y en manejo de Clark.
+ <br>Security_code : 4j9c8
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.11<br>
+ <br>Nombre : MARTIN
+ <br>Apellido : SOBRECASAS
+ <br>Cargo : Chofer preferentemente. 
+ <br>Direccion : SALTA 1972
+ <br>Ciudad : SAN JUSTO PARTE LA MATANZA
+ <br>Telefono : 1560135890
+ <br>Email : spmc1972@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Envío mi currículum para que se me tenga en cuenta en las postulaciones según experiencia en el mismo.
+ <br>Security_code : 5m3yy
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.7<br>
+ <br>REF : ROT-1
+ <br>Nombre : Ignacio
+ <br>Apellido : Lobos
+ <br>Cargo : ROT-1
+ <br>Direccion : Cisneros 5869
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 2088-0758
+ <br>Email : rodrigo_1641@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados, espero poder concretar una cita para que me conozcan personalmentey juzguen mi capacidad. Gracias
+ <br>Security_code : cs9YV
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.9<br>
+ <br>REF : ROT-1
+ <br>Nombre : Ignacio
+ <br>Apellido : Lobos
+ <br>Cargo : ROT-1
+ <br>Direccion : Cisneros 5869
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 2088-0758
+ <br>Email : rodrigo_1641@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados, espero poder concretar una cita para que me conozcan personalmentey juzguen mi capacidad. Gracias
+ <br>Security_code : rrtz5
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.11<br>
+ <br>REF : ROT-1
+ <br>Nombre : Ignacio
+ <br>Apellido : Lobos
+ <br>Cargo : ROT-1
+ <br>Direccion : Cisneros 5869
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 2088-0758
+ <br>Email : rodrigo_1641@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados, espero poder concretar una cita para que me conozcan personalmentey juzguen mi capacidad. Gracias
+ <br>Security_code : 22ttm
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.9<br>
+ <br>REF : ROT-1
+ <br>Nombre : Ignacio
+ <br>Apellido : Lobos
+ <br>Cargo : ROT-1
+ <br>Direccion : Cisneros 5869
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 2088-0758
+ <br>Email : rodrigo_1641@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Espero poder concretar una cita para que me conozcan personalmente y juzguen mis capacidades. Muchas gracias por su valioso tiempo.
+ <br>Security_code : grzhr
+ <br>Send : Enviar
+ <br>
+---------------
+

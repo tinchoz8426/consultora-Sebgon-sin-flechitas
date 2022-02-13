@@ -1,0 +1,215 @@
+Address : 181.91.156.218<br>
+ <br>REF : JPER-1
+ <br>Nombre : Jorge
+ <br>Apellido : Zanetti
+ <br>Cargo : Jefe de Personal 
+ <br>Direccion : Carlos Gardel, 830
+ <br>Ciudad : Loma Hermosa
+ <br>Telefono : 1559367226
+ <br>Email : jzanetti@arnet.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados adjunto CV para la posición de referencia .
+Saludos¡
+ <br>Security_code : k4hnz
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.166.131.206<br>
+ <br>REF : chr
+ <br>Nombre : PABLO GABRIEL
+ <br>Apellido : CARDOZO
+ <br>Cargo : CHOFER DE LOGISTICA
+ <br>Direccion : SAN BLAS 4884
+ <br>Ciudad : CABA 
+ <br>Telefono : 11.5953.1070
+ <br>Email : cardozo.gabrielp@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Especialización en:
+-Trámites bancarios, portuarios, marítimos y aduaneros.
+-Pagos y cobranzas.
+-Entregas y retiros de encomiendas.
+
+Registro de Conducir  E1- B y C- A22 - 
+
+ <br>Security_code : QXHSY
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.124.172.72<br>
+ <br>Nombre : Alejandro
+ <br>Apellido : Diaz
+ <br>Cargo : ayudante de cocina
+ <br>Direccion : Los Angeles 840
+ <br>Ciudad : Santa Clara del Mar
+ <br>Telefono : 0223156104715
+ <br>Email : aleyagos@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buena predisposicion laboral
+ <br>Security_code : hptvm
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.48.222.231<br>
+ <br>Nombre : Santiago
+ <br>Apellido : Ferri
+ <br>Cargo : Operario
+ <br>Direccion : Althabe 250 
+ <br>Ciudad : San Antonio de Padua
+ <br>Telefono : 0220 4830788
+ <br>Email : santii.ferri@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola buenas tardes, les dejo mi currilum desde ya muchas gracias. me postule como operario pero pueder empleado vendedor.
+ <br>Security_code : qxxc3
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.48.222.231<br>
+ <br>Nombre : Santiago
+ <br>Apellido : Ferri
+ <br>Cargo : Operario
+ <br>Direccion : Althabe 250 
+ <br>Ciudad : San Antonio de Padua
+ <br>Telefono : 0220 4830788
+ <br>Email : santii.ferri@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola buenas tardes, les dejo mi currilum desde ya muchas gracias. me postule como operario pero pueder empleado vendedor.
+ <br>Security_code : qzzc3
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.48.222.231<br>
+ <br>Nombre : Santiago
+ <br>Apellido : Ferri
+ <br>Cargo : Operario
+ <br>Direccion : Althabe 250 
+ <br>Ciudad : San Antonio de Padua
+ <br>Telefono : 0220 4830788
+ <br>Email : santii.ferri@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Les dejo mi Curriculum desde ya muchas gracias!
+ <br>Security_code : hb4dy
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 200.125.75.80<br>
+ <br>REF : chr
+ <br>Nombre : Matias David
+ <br>Apellido : Zeballos
+ <br>Cargo : Chofer
+ <br>Direccion : Riobamba 2507
+ <br>Ciudad : Gral San Martin
+ <br>Telefono : 1540701783
+ <br>Email : matizeba@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : A quien corresponda.
+De mi mayor consideración, me dirijo a usted, a los efectos de solicitarle se me tenga en cuenta para una vacante laboral. Soy conductor, con 17 años de experiencia en transporte de pasajeros, vehículos de cargas generales y auto-elevadores( licencia habilitante ambas categorías ). Dinámico, proactivo, dispuesto a desempeñarme en otros rubros y ámbitos laborales. Con voluntad e interés de ser capacitado constantemente.
+Sin otro particular y a la espera de una respuesta, lo saluda atte.
+
+
+Matias David Zeballos.
+ <br>Security_code : nqyqy
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.45.159.188<br>
+ <br>REF : Ing. quim
+ <br>Nombre : Maria Laura 
+ <br>Apellido : Iturralde
+ <br>Cargo : j
+ <br>Direccion : 25 de mayo 422
+ <br>Ciudad : quilmes
+ <br>Telefono : 011 40885457
+ <br>Email : mliturralde@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : ,
+ <br>Security_code : ryf4j
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.141.202.163<br>
+ <br>REF : JPER-1
+ <br>Nombre : Irene
+ <br>Apellido : Sztajnchamer
+ <br>Cargo : Jefe RRHH
+ <br>Direccion : Arce 243 14  F
+ <br>Ciudad : Caba
+ <br>Telefono : 1548893936
+ <br>Email : Irenesteinhamer@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Envio C. V
+ <br>Security_code : 939vvh
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 168.90.86.72<br>
+ <br>REF : chr
+ <br>Nombre : Gonzalo
+ <br>Apellido : Lazarte
+ <br>Cargo : Chofer
+ <br>Direccion : Santos vega 88
+ <br>Ciudad : Grand bourg
+ <br>Telefono : 1522584714
+ <br>Email : Gonsantinomateo06@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Cv me postulo para ser parte de su empresa
+ <br>Security_code : 6yy4d
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 168.90.86.72<br>
+ <br>REF : chr
+ <br>Nombre : Gonzalo
+ <br>Apellido : Lazarte
+ <br>Cargo : Chofer
+ <br>Direccion : Santos vega 88
+ <br>Ciudad : Grand bourg
+ <br>Telefono : 1522584714
+ <br>Email : Gonsantinomateo06@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Cv me postulo para ser parte de su empresa
+ <br>Security_code : Htqxq
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 168.90.86.72<br>
+ <br>REF : chr
+ <br>Nombre : Gonzalo
+ <br>Apellido : Lazarte
+ <br>Cargo : Chofer
+ <br>Direccion : Santos vega 88
+ <br>Ciudad : Grand bourg bs.as
+ <br>Telefono : 1522584714
+ <br>Email : gonsantinomateo06@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Cv adjunto
+ <br>Security_code : D4b66
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 168.90.86.72<br>
+ <br>Nombre : Gonzalo
+ <br>Apellido : Lazarte
+ <br>Cargo : Chofer
+ <br>Direccion : Santos vega 88
+ <br>Ciudad : Grand bourg bs.as
+ <br>Telefono : 1522584714
+ <br>Email : gonsantinomateo06@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Cv adjuntow
+ <br>Security_code : W4jvd
+ <br>Send : Enviar
+ <br>
+---------------
+

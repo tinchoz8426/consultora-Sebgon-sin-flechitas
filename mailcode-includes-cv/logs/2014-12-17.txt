@@ -1,0 +1,106 @@
+Address : 186.23.51.106
+Nombre : Jonathan
+Apellido : Herrera
+Cargo : Cadete
+Direccion : Quintana 3794
+Ciudad : Buenos Aires
+Telefono : 1561946009
+Email : yoni.-cs@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : 
+Currículum Vitae
+
+
+
+Datos personales:
+
+	Nombres: Jonathan
+	Apellidos: Herrera
+	DNI: 38.458.643
+	CUIT: 20-38458643-1
+	Fecha de nacimiento: 30/11/1994
+	Nacionalidad: Argentina
+	Estado Civil:Soltero
+	Hijos: No
+	Domicilio: Quintana 3794
+	Localidad: Lomas Del Mirador                                         CP:1752
+	Partido: La Matanza
+	Tél.: 3535-6532
+	Cel.: 15-6194-6009
+	Otros:
+
+
+Datos Académicos:
+
+	Primario: Completo
+	Lugar: Instituto Divino Maestro
+	Año de egreso: 2006
+
+	Secundario: Completo
+	Año de egreso: 2014
+	Título: Bachiller en Economía y Administración
+	Lugar: Instituto Divino Maestro
+
+
+Idiomas:
+
+	Inglés: Lectura: Básica
+            Escritura: Básica
+            Habla: Básica
+	Otros:
+
+
+
+Conocimientos Informáticos
+
+	Sistema Operativo Windows: (98, 2000, NT, XP)
+	Paquete Office: Word, Excel. Power Point.
+
+
+Experiencia Laboral: 
+
+	Año de Ingreso: 2011
+	Empresa: Expreso La Maravilla
+	Pág. Web: 
+	Rubro: Transporte-Logística
+	Domicilio: Eduardo Costa 337
+	Tel.: 4657-5515
+	Puesto ocupado: Cadete
+	Egreso: 15/09/2014
+
+
+
+Otros conocimientos: 
+
+	Disponibilidad de incorporación inmediata.
+	Carnet de conducir: A.2.1.2.-B.1.
+	Técnico de Armado y Reparación de PC. 
+
+
+Objetivos personales: 
+
+	Desarrollarme en un ambiente de trabajo que me lleve a nuevas fronteras de conocimiento y aprendizaje para un mejor desarrollo en mi vida laboral.
+
+
+
+
+Security_code : j7wbx
+Send : Enviar
+
+---------------
+
+Address : 190.49.219.179
+Nombre : Fabiana
+Apellido : Samudio
+Cargo : Técnica Química
+Direccion : calle 315 N° 2037
+Ciudad : Berazategui
+Telefono : 1566958428
+Email : fabianasamudio94@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Busco empleo en el área de laboratorio.
+Security_code : 95r52
+Send : Enviar
+
+---------------
+

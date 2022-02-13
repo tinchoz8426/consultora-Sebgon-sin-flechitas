@@ -1,0 +1,61 @@
+Address : 201.252.211.23
+Nombre : Mauro Gabriel
+Apellido : Rojas
+Cargo : Téc. En Higiene y Seguridad En El Trabajo
+Direccion : 24 de Septiembre Nº39 Bº Colón
+Ciudad : Aguilares - Tucumán
+Telefono : 03756-15-508008
+Email : rojasmaurog@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Consultora Sedgon:
+ 
+Estoy interesado en postularme para el aviso de Empleo de fecha 09/08/10 donde mencionan la búsqueda de "Téc. en Higiene y Seguridad En El Trabajo" para la asesoramiento externo en la Provincia de Tucumán.
+ 
+Si bien actualmente me encuentro trabando y viviendo en Corrientes, para la Empresa Establecimiento Las Marías, estoy en la búsqueda de nuevos desafíos laborales y emprendiendo el retorno a mi ciudad natal (Aguilares – Tuc.).
+
+Quedo a vuestra disposición por cualquier consulta o ampliación.
+ 
+Saludos, cordiales.
+ 
+Mauro Rojas
+Security_code : 5yk39
+Send : Enviar
+
+---------------
+
+Address : 186.109.31.41
+Nombre : AMANDA ADRIANA
+Apellido : PELOSO
+Cargo : OPERARIA
+Direccion : 9 DE JULIO
+Ciudad : DON TORCUATO
+Telefono : 4727-4728
+Email : pelu-86@live.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : ESTOY MUY INTERESADA EN PODER SER PARTE DE UNA EMPRESA TAN IMPORTANTE,SOY MUY EFISCIENTE Y TENGO MUCHAS GANAS DE TRABAJAR.
+Security_code : 84Wqp
+Send : Enviar
+
+---------------
+
+Address : 190.244.50.80
+REF : adper
+Nombre : Maria Carolija
+Apellido : Reino Messina
+Cargo : Administrativo de Personal
+Direccion : Avda. R. Balbín 2419 depto 2do B
+Ciudad : Buenos Aires (C. F.)
+Telefono : 4544-0987
+Email : caroreino@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : De su consideración:
+
+Con motivo de postularme al puesto de administrativo de personal, adjunto mi CV.
+Quedo desde ya a su disposición
+Atentamente
+M.Carolina Reino M.
+Security_code : tp4cm
+Send : Enviar
+
+---------------
+

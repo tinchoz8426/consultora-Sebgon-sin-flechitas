@@ -1,0 +1,147 @@
+Address : 181.29.22.113<br>
+ <br>REF : ACO-1
+ <br>Nombre : Agustin Eduardo
+ <br>Apellido : Coll Benegas
+ <br>Cargo : Analista de Comercio Internacional/Exterior
+ <br>Direccion : Ayaucho 1822 8 piso
+ <br>Ciudad : Capital Federal
+ <br>Telefono : 15-552929-51
+ <br>Email : acollbenegas@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : En búsqueda activa de trabajo.
+ <br>Security_code : 6skp9
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.29<br>
+ <br>Nombre : Cecilia guadalupe montenegro
+ <br>Apellido : Montenegro
+ <br>Cargo : Empleada. Domestica , limpieza oficinas , vidrios ect y niñera 
+ <br>Direccion : Azcuenaga 4868
+ <br>Ciudad : Santa fe
+ <br>Telefono : 3425999561
+ <br>Email : gus_sabalero@hotmail.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me interesa trabajar 
+ <br>Security_code : Y5n6m
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 168.90.86.180<br>
+ <br>REF : ACO-1
+ <br>Nombre : fabricio
+ <br>Apellido : grisolia
+ <br>Cargo : analista de comercio exterior
+ <br>Direccion : pablo coster 1178
+ <br>Ciudad : bella vista, buenos aires
+ <br>Telefono : 1535078666
+ <br>Email : fabri.grisolia@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estudiante de 4°año
+ <br>Security_code : z2nbx
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.136.142.154<br>
+ <br>REF : ROT-1
+ <br>Nombre : Luis
+ <br>Apellido : Peña
+ <br>Cargo : Responsable de Oficina Técnica
+ <br>Direccion : CHARCAS 5265
+ <br>Ciudad : Ciudad Autónoma de Buenos Aires
+ <br>Telefono : 1157610092
+ <br>Email : luispbatista33@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Soy ideal para el cargo a realizar ya que poseo todas las habilidades requeridas.
+ <br>Security_code : 5gn39
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.136.142.154<br>
+ <br>REF : ROT-1
+ <br>Nombre : Luis
+ <br>Apellido : Peña
+ <br>Cargo : Responsable de Oficina Técnica
+ <br>Direccion : CHARCAS 5265
+ <br>Ciudad : Ciudad Autónoma de Buenos Aires
+ <br>Telefono : 1157610092
+ <br>Email : luispbatista33@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Soy ideal para el cargo a realizar ya que poseo todas las habilidades requeridas.
+ <br>Security_code : 5gn39
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.136.142.154<br>
+ <br>REF : SP-1
+ <br>Nombre : Luis
+ <br>Apellido : Peña
+ <br>Cargo : Ingeniero Mecánico
+ <br>Direccion : CHARCAS 5265
+ <br>Ciudad : Ciudad Autónoma de Buenos Aires
+ <br>Telefono : 1157610092
+ <br>Email : luispbatista33@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Ingeniero Mecánico
+ <br>Security_code : 45bk8
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.92.149.15<br>
+ <br>Nombre : Laura
+ <br>Apellido : Galli
+ <br>Cargo : Recursos Humanos- Capacitadora
+ <br>Direccion : San Isidro Labrador 6, 2 A
+ <br>Ciudad : Martinez
+ <br>Telefono : 47334449
+ <br>Email : laugalli24@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados: 
+                    Me pongo en contacto con ustedes por búsquedas laborales tanto actuales como futuras que se realicen en la institución. 
+Soy una persona que se destaca por mi dedicación al trabajo, por mis ganas de crecimiento, por mi adaptabilidad a los cambios y por mis capacidades adquiridas tanto en el ámbito laboral como académico 
+Para que puedan conocerme mejor, les adjunto mi carta de presentación y mi Currículum Vitae. 
+
+ <br>Security_code : 6g964
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.130.46.22<br>
+ <br>REF : chr
+ <br>Nombre : pablo edgardo 
+ <br>Apellido : polito
+ <br>Cargo : chofer
+ <br>Direccion : 20 de junio 1374
+ <br>Ciudad : bella vista
+ <br>Telefono : 4666-5860
+ <br>Email : pabloedgardopolito@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : muchas gracias por recibir mi cv.
+ <br>Security_code : t3t25
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.25<br>
+ <br>Nombre : Miguel Angel
+ <br>Apellido : Martinez 
+ <br>Cargo : Supervicion
+ <br>Direccion : Mansilla 867
+ <br>Ciudad : Lomas del Mirador
+ <br>Telefono : 1160496163
+ <br>Email : migue7766@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Mi nombre es Miguel Angel Martinez y soy Ingeniero Industrial.
+En este momento me encuentro en la busqueda de nuevos desafios que ponga en movimiento mi creatividad y ganas de innovar.
+A la espera de una respuesta positiva, me despido de usted, atentamente.
+ <br>Security_code : nhvqh
+ <br>Send : Enviar
+ <br>
+---------------
+

@@ -1,0 +1,122 @@
+Address : 181.45.90.72<br>
+ <br>REF : EP-1
+ <br>Nombre : Eduardo Alberto
+ <br>Apellido : Luna
+ <br>Cargo : Encargado de producción
+ <br>Direccion : Mburucuyá 1774
+ <br>Ciudad : Morón
+ <br>Telefono : 15-6856-4331
+ <br>Email : eduardoalbertoluna71@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados Sres. de la Empresa:
+      Me postulo a dicho puesto porque me siento capacitado,para ocuparlo.
+
+Sin otro particular lo saluda atte.Eduardo. Gracias. 
+ <br>Security_code : qfwr2
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.45.90.72<br>
+ <br>Nombre : Eduardo Alberto
+ <br>Apellido : Luna
+ <br>Cargo : Encargado de producción
+ <br>Direccion : Mburucuyá 1774
+ <br>Ciudad : Morón
+ <br>Telefono : 15-6856-4331
+ <br>Email : eduardoalbertoluna71@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados Sres. de la Empresa:
+Me postulo a este puesto de trabajo,porque me siento seguro de ocuparlo.
+ Sin otro particular lo saluda atte. Eduardo
+ <br>Security_code : ndrhr
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.139.152.22<br>
+ <br>Nombre : Alejandra Sofia
+ <br>Apellido : D'Arielli
+ <br>Cargo : -
+ <br>Direccion : Bv. Eva Peron 395
+ <br>Ciudad : Victoria
+ <br>Telefono : 91132918141
+ <br>Email : alejandra.darielli@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados:
+
+Adjunto mi cv para poder ser tenida en cuenta en las busquedas laborales que crean acordes a mi perfil.
+Atte.
+ <br>Security_code : 27djc
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.139.152.22<br>
+ <br>Nombre : Alejandra Sofia
+ <br>Apellido : D'Arielli
+ <br>Cargo : -
+ <br>Direccion : Unanue, 580
+ <br>Ciudad : Villa Madero
+ <br>Telefono : 91132918141
+ <br>Email : alejandra.darielli@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados:
+
+Adjunto mi cv para poder ser tenida en cuenta en las busquedas laborales que crean acordes a mi perfil.
+Atte.
+ <br>Security_code : 27djc
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.139.152.22<br>
+ <br>Nombre : Alejandra Sofia
+ <br>Apellido : D'Arielli
+ <br>Cargo : -
+ <br>Direccion : Unanue, 580
+ <br>Ciudad : Villa Madero
+ <br>Telefono : 91132918141
+ <br>Email : alejandra.darielli@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados:
+
+Adjunto mi cv para poder ser tenida en cuenta en las busquedas laborales que crean acordes a mi perfil.
+Atte.
+ <br>Security_code : v5rdq
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.50.71.247<br>
+ <br>REF : chr
+ <br>Nombre : Javier Horacio
+ <br>Apellido : Pierandrey
+ <br>Cargo : Chofer
+ <br>Direccion : Rene Favaloro 703, Belgrano y Moreno
+ <br>Ciudad : Luis Guillon
+ <br>Telefono : 1164065401
+ <br>Email : javier.pierandrey@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estoy capacitado para ocupar el poesto de trabajo que ofrecen.
+ <br>Security_code : jvfbv
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.167.130.215<br>
+ <br>REF : JPER-1
+ <br>Nombre : Enzo Maximo Virgilio
+ <br>Apellido : Garavaglia
+ <br>Cargo : Jefe de Personal
+ <br>Direccion : Arcos 1951
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 4786-5657
+ <br>Email : italian1968@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : A disposición
+ <br>Security_code : 4cgcx
+ <br>Send : Enviar
+ <br>
+---------------
+

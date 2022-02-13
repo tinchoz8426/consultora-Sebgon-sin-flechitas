@@ -1,0 +1,60 @@
+Address : 191.82.245.77<br>
+ <br>Nombre : Ana 
+ <br>Apellido : Robledo
+ <br>Cargo : Ingenieria
+ <br>Direccion : Balaguer 460 sur
+ <br>Ciudad : San Juan
+ <br>Telefono : 154361936
+ <br>Email : anarobgui@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me encuentro en la búsqueda de una empresa donde realizar las prácticas profesionales correspondientes a la carrera de Ing. Ind. 
+ <br>Security_code : dnhcg
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.171.182.78<br>
+ <br>Nombre : oswaldo
+ <br>Apellido : maya
+ <br>Cargo : GERENTE
+ <br>Direccion : LAFINUR 3269
+ <br>Ciudad : C.A.B.A.
+ <br>Telefono : 1144758964
+ <br>Email : oswmay@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : DISPONIBLE
+ <br>Security_code : mtgsk
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.230.32.27<br>
+ <br>Nombre : NESTOR RENE
+ <br>Apellido : CHOROLQUE
+ <br>Cargo : JEFE DE SECTOR O GERENTE ADMINISTRATIVO
+ <br>Direccion : RICARDO BALBIN N° 799
+ <br>Ciudad : S.S.DE JUJUY
+ <br>Telefono : 3884960217
+ <br>Email : cpn_nestorchorolque@hotmail.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Muchas gracias por vuestra atencion. Mi interes en la postulacion es para empresas radicadas en Jujuy
+ <br>Security_code : q6b99
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.28<br>
+ <br>Nombre : Emilia 
+ <br>Apellido : Cedro Martínez 
+ <br>Cargo : Técnico Químico 
+ <br>Direccion : Luján 3623
+ <br>Ciudad : Capital Federal
+ <br>Telefono : 1564158681
+ <br>Email : emiliacedromartinez@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me encuentro en la búsqueda activa de trabajo. 
+ <br>Security_code : 8x8dk
+ <br>Send : Enviar
+ <br>
+---------------
+

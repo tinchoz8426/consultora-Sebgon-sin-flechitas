@@ -1,0 +1,57 @@
+Address : 201.250.125.12
+Nombre : Nicolás
+Apellido : Lapido
+Cargo : Administrativo, Ciencias Sociales
+Direccion : Basualdo 1315
+Ciudad : C.A.B.A.
+Telefono : 1555245932
+Email : nicolas_lapido@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto envío CV para que lo tengan en consideración
+
+Gracias
+Security_code : hdqvq
+Send : Enviar
+
+---------------
+
+Address : 186.152.57.32
+Nombre : Emanuel
+Apellido : Martinez Debesa
+Cargo : Gerente - Administrador - 
+Direccion : Sorpresa 573
+Ciudad : Tilcara
+Telefono : 0226215578579
+Email : emargentino@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimado,
+
+Envío mi C.V y P.C.A para búsquedas actuales y futuras en Turismo y Hoteleria.
+
+Muchas gracias.
+
+Saludos Cordiales,
+
+Emanuel Martinez Debesa
+
+Security_code : x4qcs
+Send : Enviar
+
+---------------
+
+Address : 201.235.237.197
+REF : gerente-de-operaciones
+Nombre : Gisela
+Apellido : Schirripa
+Cargo : Asistente de Recursos Humanos
+Direccion : Helguera 4460
+Ciudad : Capital Federal
+Telefono : 155952-3415
+Email : paragi@live.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Mi objetivo es poder desarrollarme profesionalmente en mi area de mayor interes, y para la cual me he formado academicamente.
+Security_code : xfcrr
+Send : Enviar
+
+---------------
+

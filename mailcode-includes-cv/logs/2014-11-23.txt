@@ -1,0 +1,47 @@
+Address : 201.213.14.228
+Nombre : Gabriel
+Apellido : Manganiello
+Cargo : Diseñador Gráfico
+Direccion : Alsina 544
+Ciudad : Buenos Aires
+Telefono : 1169774483
+Email : gabimanganiello@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimado /a señor/a:
+
+Mi nombre es Gabriel Manganiello y soy diseñador gráfico, el 31 de Octubre tomé la decisión de desvincularme a la empresa a la cuál pertenecia. En esté momento estoy buscando la oportunidad de trabajar y crecer en un buen clima laboral, tengo 15 años de experiencia como diseñador gráfico,  trabajé en empresas como:
+(Grupo CCR 10 años, Consultora W 5 años y en forma freelance para empresas como Kantar Worldpanel, Sancor Seguros, Susana Marquis, Loop 360, Almatrends, IN Research y Mood entre otras)
+
+Actualmente estoy trabajando de forma freelance en dónde desarrollé el diseño de lay out y piezas de comunicación del evento realizado en La Rural Palermo (Expo Empleo Joven 2014)
+WWW.BUENOSAIRES.GOB.AR/NOTICIAS/EXPO-EMPLEO-JOVEN-2014
+http://mood-producciones.com/expoempleojoven/#1
+
+Mi búsqueda no solo está orientada a un puesto de Diseñador Gráfico, sino también a otros rubros que me sirvan para seguir desarrollandome.
+
+A continuación adjunto mi CV con detalles de mis estudios, trabajos y contactos.
+
+Gracias por su tiempo!
+Saludos,
+
+​Gabriel Manganiello
+Diseñador Gráfico
+Security_code : zp275
+Send : Enviar
+
+---------------
+
+Address : 186.158.228.119
+Nombre : Debora Gabriela
+Apellido : Perez
+Cargo : Jefe de RRHH
+Direccion : Delicias de Mopardo 1987 Castelar
+Ciudad : Morón
+Telefono : 1568870223
+Email : debyroy@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto CV a fin de ser considerada ante búsquedas acordes a mi perfil. Saludos
+Security_code : pybmq
+Send : Enviar
+
+---------------
+

@@ -1,0 +1,17 @@
+Address : 190.151.167.133<br>
+ <br>Nombre : Franco 
+ <br>Apellido : Neirotti
+ <br>Cargo : Tecnico 
+ <br>Direccion : jose c paz 2550
+ <br>Ciudad : rosario
+ <br>Telefono : 0341 152 160850
+ <br>Email : franconeirotti@icloud.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimado:
+Les adjunto mi CV para ser considerado en vuestra organización.
+Desde ya gracias por su gestión.
+ <br>Security_code : 4mfyt
+ <br>Send : Enviar
+ <br>
+---------------
+

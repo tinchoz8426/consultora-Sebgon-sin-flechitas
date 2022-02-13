@@ -1,0 +1,515 @@
+Address : 190.17.81.155<br>
+ <br>Nombre : Diego
+ <br>Apellido : Acevedo
+ <br>Cargo : ENCARGADO DE PRODUCCIÓN
+ <br>Direccion : virrey Cevallos 664, Monserrat
+ <br>Ciudad : C.A.B.A.
+ <br>Telefono : 1127618862
+ <br>Email : diego.acevedo.1988@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Quedó atento...
+ <br>Security_code : d7zq6
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.168.197.65<br>
+ <br>Nombre : Gerardo
+ <br>Apellido : Herrera
+ <br>Cargo : Encargado de producción
+ <br>Direccion : Ucrania 1570
+ <br>Ciudad : Villa Adelina
+ <br>Telefono : 1532551759
+ <br>Email : gerardosherrera@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Cuento con amplia experiencia en la industria alimenticia. 
+ <br>Security_code : Jp349
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.133.253.14<br>
+ <br>REF : EP-1
+ <br>Nombre : José
+ <br>Apellido : Olguín
+ <br>Cargo : Encargado de Producción
+ <br>Direccion : Francisco Alvarez 1071
+ <br>Ciudad : Mendoza
+ <br>Telefono : 2616464355
+ <br>Email : ima.olguin@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Poseo amplias posibilidades de radicarme en Buenos Aires
+ <br>Security_code : m2vg2
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.39.36.193<br>
+ <br>REF : EP-1
+ <br>Nombre : joana, vanesa
+ <br>Apellido : gaona
+ <br>Cargo : encargada
+ <br>Direccion : nemesio litardo y pedro leguizamon 
+ <br>Ciudad : lujan
+ <br>Telefono : 01165972639
+ <br>Email : yohanagaona@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : me parece un trabajo oportuno, ya que me ha tocado trabajar un ámbito similar en estos últimos años. me considero hiper activa y estratégica a la hora de alcanzar el objetivo. me gustaria tener respuestas. gracias.
+ <br>Security_code : 9r6j
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.39.10.124<br>
+ <br>REF : EP-1
+ <br>Nombre : joana, vanesa
+ <br>Apellido : gaona
+ <br>Cargo : encargada
+ <br>Direccion : nemesio litardo y pedro leguizamon 
+ <br>Ciudad : lujan
+ <br>Telefono : 01165972639
+ <br>Email : yohanagaona@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : me parece un trabajo oportuno, ya que me ha tocado trabajar un ámbito similar en estos últimos años. me considero hiper activa y estratégica a la hora de alcanzar el objetivo. me gustaria tener respuestas. gracias.
+ <br>Security_code : 9r6cj
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.18.169.90<br>
+ <br>REF : chr
+ <br>Nombre : Quimey
+ <br>Apellido : Muollo
+ <br>Cargo : Chofer
+ <br>Direccion : campana 3486
+ <br>Ciudad : Capital Federal
+ <br>Telefono : 1564115716
+ <br>Email : quimeymuollo90@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Deseo desarrollarme y  crecer dentro de la institución ,aportando mi experiencia y todas mis competencias 
+ <br>Security_code : 58c4q
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.46.146.100<br>
+ <br>REF : SP-1
+ <br>Nombre : NORBERTO ADRIAN
+ <br>Apellido : ESPOSITO
+ <br>Cargo : SUPERVISION DE PRODUCCION
+ <br>Direccion : CNEL BOGADO 3291
+ <br>Ciudad : CASTELAR
+ <br>Telefono : 1557001301
+ <br>Email : naeesposito@gamil.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me presento, mi nombre es Norberto Adrián Espósito; soy Ingeniero Mecánico recibido en la 
+Universidad Tecnológica Nacional Regional Haedo, en la actualidad me desarrollo como Jefe de 
+Planta en la empresa Four Matic S.A.
+ El motivo de esta carta de presentación es enviarle mi Currículum Vitae para que sea tenido en 
+cuenta por la empresa en la búsqueda de referencia. Me considero que poseo mucha
+ experiencia en las áreas de Ingeniería, Mantenimiento y Jefatura de Planta, por tal motivo 
+agradecería poder tener la oportunidad de formar parte de la empresa.
+Considero que soy una persona proactiva; acostumbrada a trabajar en equipo y a nuevos 
+desafíos; dando siempre lo mejor de mi.
+Sin otro particular, saludo a usted muy atentamente.
+
+ <br>Security_code : k2w34
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 168.194.216.196<br>
+ <br>REF : ACO-1
+ <br>Nombre : Dana
+ <br>Apellido : Toledo
+ <br>Cargo : ACO-1
+ <br>Direccion : Tres de Febrero
+ <br>Ciudad : Pablo Podesta
+ <br>Telefono : 1561517344
+ <br>Email : dana_toledo@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Postulacion ACO-1
+ <br>Security_code : Wskgt
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 168.194.216.196<br>
+ <br>REF : ACO-1
+ <br>Nombre : Dana
+ <br>Apellido : Toledo
+ <br>Cargo : ACO-1
+ <br>Direccion : Tres de Febrero
+ <br>Ciudad : Pablo Podesta
+ <br>Telefono : 1561517344
+ <br>Email : dana_toledo@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Postulacion ACO-1
+ <br>Security_code : wskgt
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 168.194.216.196<br>
+ <br>REF : ACO-1
+ <br>Nombre : Dana
+ <br>Apellido : Toledo
+ <br>Cargo : ACO-1
+ <br>Direccion : Tres de Febrero
+ <br>Ciudad : Pablo Podesta
+ <br>Telefono : 1561517344
+ <br>Email : dana_toledo@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Postulacion ACO-1
+ <br>Security_code : h6wcw
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 168.194.216.196<br>
+ <br>Nombre : Dana
+ <br>Apellido : Toledo
+ <br>Cargo : Admin
+ <br>Direccion : Tres de Febrero
+ <br>Ciudad : Pablo Podesta
+ <br>Telefono : 1561517344
+ <br>Email : dana_toledo@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Postulaciones
+ <br>Security_code : ddxyr
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.141.136.11<br>
+ <br>REF : EP-1
+ <br>Nombre : Eugenio Damian
+ <br>Apellido : Inchausti
+ <br>Cargo : Encargado 
+ <br>Direccion : Martín coronado 4484
+ <br>Ciudad : Jose c paz
+ <br>Telefono : 1161405570
+ <br>Email : Damian.inchausti2202@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Cuento con la experiencia para el puesto requerido ..Gracias 
+ <br>Security_code : nwt6g
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.141.136.11<br>
+ <br>REF : EP-1
+ <br>Nombre : Eugenio Damian
+ <br>Apellido : Inchausti
+ <br>Cargo : Encargado 
+ <br>Direccion : Martín coronado 4484
+ <br>Ciudad : Jose c paz
+ <br>Telefono : 1161405570
+ <br>Email : Damian.inchausti2202@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Cuento con la experiencia para el puesto requerido ..Gracias 
+ <br>Security_code : nwt6g
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.141.136.11<br>
+ <br>REF : EP-1
+ <br>Nombre : Eugenio Damian
+ <br>Apellido : Inchausti
+ <br>Cargo : Encargado 
+ <br>Direccion : Martín coronado 4484
+ <br>Ciudad : Jose c paz
+ <br>Telefono : 1161405570
+ <br>Email : Damian.inchausti2202@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Cuento con la experiencia para el puesto requerido ..Gracias 
+ <br>Security_code : 5t5zq
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.141.136.11<br>
+ <br>REF : EP-1
+ <br>Nombre : Eugenio Damian
+ <br>Apellido : Inchausti
+ <br>Cargo : Encargado 
+ <br>Direccion : Martín coronado 4484
+ <br>Ciudad : Jose c paz
+ <br>Telefono : 1161405570
+ <br>Email : Damian.inchausti2202@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Cuento con la experiencia para el puesto requerido ..Gracias 
+ <br>Security_code : 5t5zq
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.141.136.11<br>
+ <br>REF : EP-1
+ <br>Nombre : Eugenio Damian
+ <br>Apellido : Inchausti
+ <br>Cargo : Encargado 
+ <br>Direccion : Martín coronado 4484
+ <br>Ciudad : Jose c paz
+ <br>Telefono : 1161405570
+ <br>Email : Damian.inchausti2202@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Cuento con la experiencia para el puesto requerido ..Gracias 
+ <br>Security_code : 6523b
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.11<br>
+ <br>REF : chr
+ <br>Nombre : Alejandro
+ <br>Apellido : MATO
+ <br>Cargo : Chr
+ <br>Direccion : Bolivar 1568
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 4654-6605
+ <br>Email : Javismt.jm@gmail
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Persona responsable y comprometida con el trabajo
+ <br>Security_code : Yhb8v
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.193.16.191<br>
+ <br>Nombre : FABIAN FEDERICO 
+ <br>Apellido : FERNANDEZ 
+ <br>Cargo : Tecnico electronico y eléctrico 
+ <br>Direccion : Suipacha 360
+ <br>Ciudad : Ramos Mejia
+ <br>Telefono : 1565280989
+ <br>Email : fefefe10@hotmail.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Busqueda de una nueva carrera y desafio laboral
+ <br>Security_code : 39zry
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.193.16.191<br>
+ <br>REF : Tectron
+ <br>Nombre : FABIAN FEDERICO 
+ <br>Apellido : FERNANDEZ 
+ <br>Cargo : Tecnico electronico y eléctrico 
+ <br>Direccion : Suipacha 360
+ <br>Ciudad : Ramos Mejia
+ <br>Telefono : 1565280989
+ <br>Email : fefefe10@hotmail.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Busco nuevo dasafio
+ <br>Security_code : Vxy43
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.193.16.191<br>
+ <br>REF : Tectron
+ <br>Nombre : FABIAN FEDERICO 
+ <br>Apellido : FERNANDEZ 
+ <br>Cargo : Tecnico electronico y eléctrico 
+ <br>Direccion : Suipacha 360
+ <br>Ciudad : Ramos Mejia
+ <br>Telefono : 1565280989
+ <br>Email : fefefe10@hotmail.com 
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Busco un nuevo dasafio laboral 
+ <br>Security_code : c8t5s
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.193.16.191<br>
+ <br>REF : Tectron
+ <br>Nombre : FABIAN FEDERICO 
+ <br>Apellido : FERNANDEZ 
+ <br>Cargo : Tecnico electronico y eléctrico 
+ <br>Direccion : Suipacha 360
+ <br>Ciudad : Ramos Mejia
+ <br>Telefono : 1565280989
+ <br>Email : fefefe10@hotmail.com 
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Busco un nuevo dasafio laboral 
+ <br>Security_code : c8t5s
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.193.16.191<br>
+ <br>REF : Tectron
+ <br>Nombre : FABIAN FEDERICO 
+ <br>Apellido : FERNANDEZ 
+ <br>Cargo : Tecnico electronico y eléctrico 
+ <br>Direccion : Suipacha 360
+ <br>Ciudad : Ramos Mejia
+ <br>Telefono : 1565280989
+ <br>Email : fefefe10@hotmail.com 
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Busco un nuevo dasafio laboral 
+ <br>Security_code : c8t5s
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.193.16.191<br>
+ <br>Nombre : FABIAN FEDERICO 
+ <br>Apellido : FERNANDEZ 
+ <br>Cargo : Tecnico electronico y eléctrico 
+ <br>Direccion : Suipacha 360
+ <br>Ciudad : Ramos Mejia
+ <br>Telefono : 1565280989
+ <br>Email : fefefe10@hotmail.com 
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Busco un nuevo dasafio laboral 
+ <br>Security_code : 6skfd
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.191.216.51<br>
+ <br>REF : EP-1
+ <br>Nombre : KARELYS
+ <br>Apellido : HENNIG
+ <br>Cargo : ENCARGADO DE PRODUCCION
+ <br>Direccion : SALTA 242
+ <br>Ciudad : Monserrat
+ <br>Telefono : 1169010837
+ <br>Email : karelys_he@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Saludos Cordiales.
+
+La finalidad del correo, es con el objetivo de hacerles llegar mi resumen curricular,  por lo cual recurro a Uds. respetuosamente para que estudien y evalúen mi perfil, agradeciéndoles de antemano me concedieran la oportunidad de concretar una entrevista cuando lo dispongan, con el fin de poder establecer mis calificaciones para las posibles vacantes que surjan relacionadas con áreas del rubro ALIMENTOS y al proceso de fabricación (Producción, Control de Calidad, Investigación y Desarrollo)
+
+Soy Venezolana, Poseo CUIL, Precaria  (en espera del DNI).
+Cuento con disponibilidad Inmediata y disposición para residenciarme en cualquier región del país.
+
+Sin otro particular, aprovecho la oportunidad para saludarles cordialmente, quedando a la espera de una respuesta favorable, me despido.
+
+Atentamente;
+
+Ing. Karelys Hennig
+Tlf: (11) 6901-0837
+
+ <br>Security_code : sd8k6
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.164.45.183<br>
+ <br>Nombre : Eduardo
+ <br>Apellido : Iruarrizaga
+ <br>Cargo : Operaciones Logistica Distribucion 
+ <br>Direccion : Cordoba, 1526
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 1151138027   42407672
+ <br>Email : eduiru17@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me encuentro en búsqueda laboral 
+Amplia experiencia en Logística y Distribución.
+ <br>Security_code : 9g3cb
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.47.138.83<br>
+ <br>REF : EP-1
+ <br>Nombre : Maria Angeles
+ <br>Apellido : Roberto
+ <br>Cargo : Código de Referencia: EP-1
+ <br>Direccion : Av Balbin 2564
+ <br>Ciudad : Capital Federal
+ <br>Telefono : 011-1541616526
+ <br>Email : m.angelesrb@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Adjunto CV para la busqueda laboral
+ <br>Security_code : wdtk9
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.2.5.237<br>
+ <br>REF : chr
+ <br>Nombre : Omar Angel
+ <br>Apellido : magallanes
+ <br>Cargo : chofer de reparto
+ <br>Direccion : 3 marias 56
+ <br>Ciudad : san miguel
+ <br>Telefono : 1168400793
+ <br>Email : omagallanes@hotmail.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : tengo mucha experiencia la cual quiero implementarla en su empresa   gracias
+ <br>Security_code : txftc
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.16.87.157<br>
+ <br>Nombre : Claudio Javier 
+ <br>Apellido : Fernandez
+ <br>Cargo : atencion al publico
+ <br>Direccion : guardia vieja 4097
+ <br>Ciudad : almagro
+ <br>Telefono : 1153741135
+ <br>Email : cjfjavierfernandez@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buen dia:
+Conociendo la actividad a la que se dedica su empresa y viendo que responde a mis intereses,me pongo en contacto con usted para hacerle llegar mi currículum vitae ya que estoy buscando nuevas oportunidades laborales. 
+muchas gracias
+
+
+ <br>Security_code : bwyt2
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.9<br>
+ <br>REF : EP-1
+ <br>Nombre : Walter
+ <br>Apellido : Martinez
+ <br>Cargo : Deposito
+ <br>Direccion : Italia 224 
+ <br>Ciudad : Burzaco 
+ <br>Telefono : 1557096272
+ <br>Email : walter_m75@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados quedo a su disposición para trabajar
+ <br>Security_code : 6z985
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.7<br>
+ <br>Nombre : Walter
+ <br>Apellido : Martinez
+ <br>Cargo : Deposito
+ <br>Direccion : Italia
+ <br>Ciudad : ALMIRANTE BROWN (CP=1846)
+ <br>Telefono : 1557096272
+ <br>Email : walter_m75@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados estoy en la busqueda laboral mi numero es 1557096272
+ <br>Security_code : 653mj
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.190.104.8<br>
+ <br>Nombre : Deborah
+ <br>Apellido : Marolo
+ <br>Cargo : Responsable de Administración y Finanzas
+ <br>Direccion : Gelly y Obes 846
+ <br>Ciudad : Haedo
+ <br>Telefono : 1532789917
+ <br>Email : deborah.marolo@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : ,
+ <br>Security_code : hmm3g
+ <br>Send : Enviar
+ <br>
+---------------
+

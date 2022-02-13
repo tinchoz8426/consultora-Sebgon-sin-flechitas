@@ -1,0 +1,16 @@
+Address : 190.179.125.224
+Nombre : Rodrigo 
+Apellido : Pintos 
+Cargo : Tecnico en seguridad e higiene laboral 
+Direccion : trelew 544 depto 2
+Ciudad : Bhia Blanca 
+Telefono : 0298-154734521
+Email : pintos.rodrigo@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenos días. Le adjunto mi curriculum vitae, soy técnico en seguridad e higiene industrial. Le agradecería que me tengan en cuenta ante cualquier oportunidad de trabajo ya sea en mi rubro, como también en puestos a los que pudiera adaptarme. Desde ya muchísimas gracias , Pintos Rodrigo 
+
+Security_code : wjdv8
+Send : Enviar
+
+---------------
+

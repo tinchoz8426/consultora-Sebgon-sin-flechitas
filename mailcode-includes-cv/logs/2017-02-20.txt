@@ -1,0 +1,150 @@
+Address : 200.125.105.115<br>
+ <br>Nombre : Daniela Florencia
+ <br>Apellido : Cordoba
+ <br>Cargo : Recepcion 
+ <br>Direccion : marques 4655
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 1162902274
+ <br>Email : cordobadanielaflorencia@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Horarios disponibles y ganas de trabajar! 
+ <br>Security_code : ntzc4
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.216.237.212<br>
+ <br>Nombre : Maria Veronica
+ <br>Apellido : Corvalan
+ <br>Cargo : Auditoria / Fideicomisos / Lavado de Dinero
+ <br>Direccion : Ramon Falcon 4044 2 A
+ <br>Ciudad : CABA
+ <br>Telefono : 46361705
+ <br>Email : vero_1971@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Les envio mi CV a fin que sea tenido en cuenta en búsquedas que se adecuen a mi perfil.
+ <br>Security_code : xfc5n
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.108.240.44<br>
+ <br>Nombre : Mauricio
+ <br>Apellido : Lara
+ <br>Cargo : Tec/Supervisor Medio Ambiente
+ <br>Direccion : Honduras 781
+ <br>Ciudad : Centenario
+ <br>Telefono : 0299-154598772
+ <br>Email : mauriciolnqn@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Adjunto mi CV para que sea tenido en cuenta en sus búsquedas laborales. Quedo a disposición. Saludos.
+ <br>Security_code : 7fvch
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.27.138.104<br>
+ <br>Nombre : Roberto Oscar
+ <br>Apellido : Sánchez Berazategui
+ <br>Cargo : Gerente RR.HH
+ <br>Direccion : Sargento Cabral 427
+ <br>Ciudad : Ramos Mejia
+ <br>Telefono : 1540811798
+ <br>Email : rsberazategui@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : 
+Sres. Consultores
+Tengo el agrado de dirigirme a Uds con el interés de poder participar en futuras búsquedas acordes a mi perfil profesional.
+Quedo a su disposición para una eventual entrevista personal con el objeto de profundizar aspectos de mi perfil que puedan resultar de su interés.
+Saluda cordialmente
+
+Roberto Sánchez Berazategui
+ <br>Security_code : hvthy
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.229.126.168<br>
+ <br>Nombre : Matías
+ <br>Apellido : Díaz
+ <br>Cargo : Seguridad e Higiene
+ <br>Direccion : Remedios 5034
+ <br>Ciudad : caba
+ <br>Telefono : 46350377
+ <br>Email : mfdiaz1984@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Por intermedio de la presente me dirijo a Uds. a los efectos de postularme espontáneamente, motivo por el cual acompaño adjunto mi Currículum Vitae.
+
+Como se desprende de los antecedentes que remito, soy Técnico en Higiene y Seguridad en el Instituto Uocra. Poseo experiencia en áreas tales como: Administración, Compras, Ventas, Atención al Publico, Capacitación al personal, Atención al público, etc. Mis habilidades abarcan un excelente manejo de PC, (paquete office completo) asimismo dominio del idioma inglés y un gran sentido de responsabilidad y compromiso, así como una óptima predisposición para las relaciones interpersonales.
+
+ Soy una persona pro-activa y deseosa de afianzarme en una empresa donde pueda progresar profesional y humanamente y donde se valore la organización, la iniciativa y el trabajo en equipo, características preponderantes de mi desempeño.
+
+Un saludo cordial
+
+Matías Francisco Díaz
+ <br>Security_code : ztzc8
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.47.200.58<br>
+ <br>REF : SP-1
+ <br>Nombre : jonatan
+ <br>Apellido : meilan
+ <br>Cargo : supervision
+ <br>Direccion : MELO, 375
+ <br>Ciudad : lomas del mirador
+ <br>Telefono : 1561021409
+ <br>Email : jonatanmeilan@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : estoy en busca de un trabajo para poder desarrollar mis conocimientos y expandir nuevas experiencias y aprendizajes. soy muy dinámico y con una gran capacidad de aprendizaje.
+ <br>Security_code : 5s8zg
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.236.198.118<br>
+ <br>Nombre : Luisa Yessenia
+ <br>Apellido : Pelaez Canales
+ <br>Cargo : Atencion al cliente
+ <br>Direccion : Asoc. Viv. CASA BLANCA Mz O3 Lt 12
+ <br>Ciudad : Lima
+ <br>Telefono : 958281780
+ <br>Email : Pelaezcly@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Agradeceria su respuesta.
+ <br>Security_code : Cgqkc
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.236.198.118<br>
+ <br>Nombre : Luisa Yessenia
+ <br>Apellido : Pelaez Canales
+ <br>Cargo : Atencion al cliente
+ <br>Direccion : Asoc. Viv. CASA BLANCA Mz O3 Lt 12
+ <br>Ciudad : Lima
+ <br>Telefono : 958281780
+ <br>Email : Pelaezcly@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Agradeceria su respuesta.
+ <br>Security_code : cgqkc
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.236.198.118<br>
+ <br>Nombre : Luisa Yessenia
+ <br>Apellido : Pelaez Canales
+ <br>Cargo : Atencion al cliente
+ <br>Direccion : Asoc. Viv. CASA BLANCA Mz O3 Lt 12
+ <br>Ciudad : Lima
+ <br>Telefono : 958281780
+ <br>Email : Pelaezcly@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Agradeceria su respuesta.
+ <br>Security_code : 5jzjw
+ <br>Send : Enviar
+ <br>
+---------------
+

@@ -1,0 +1,738 @@
+Address : 181.117.228.204<br>
+ <br>REF : ROT-1
+ <br>Nombre : Martin 
+ <br>Apellido : Almiron
+ <br>Cargo : Jefe de servicio tecnico
+ <br>Direccion : De la peña 147 
+ <br>Ciudad : Wilde
+ <br>Telefono : 1523491100
+ <br>Email : martinalmironsae@hotmail.com 
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenos días, adjunto cv para postularse al puesto de responsable de servio técnico post venta, cuento con más de 6 años en ese puesto. Saludos cordiales.
+ <br>Security_code : 2rjjj
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.38.16.98<br>
+ <br>REF : Ing. quim
+ <br>Nombre : Edrey
+ <br>Apellido : Marcano Navarro
+ <br>Cargo : Jefe de procesos Industriales
+ <br>Direccion : Alberdi 1041
+ <br>Ciudad : Olavarria
+ <br>Telefono : 02284 511460
+ <br>Email : edreymarcano@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me estoy postulando al puesto de jefe de producción, pero adicionalmente quiero formar parte de su base de datos para futuras vacantes.
+ <br>Security_code : rjxdt
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.38.16.98<br>
+ <br>Nombre : Edrey
+ <br>Apellido : Marcano Navarro
+ <br>Cargo : Vacantes
+ <br>Direccion : Alberdi 1041
+ <br>Ciudad : Olavarria
+ <br>Telefono : 02284 511460
+ <br>Email : edreymarcano@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenos días,
+
+Mi nombre es Edrey Marcano, soy Ingeniero Químico (Cum Laude) con más de 7 años de experiencia en la industria del petróleo y gas. Trabajé como ingeniero de procesos en un mejorador de crudo (PDVSA-Chevron), específicamente en las plantas de hidroprocesos, producción de hidrógeno, sistema de generación de vapor, agua de enfriamiento, tratamiento de aguas residuales y ósmosis inversa. Aplicando conocimientos relacionados con ingeniería química y destacando habilidades tales como: monitoreo de las variables de proceso, análisis de resultados de laboratorio, control de parámetros de calidad, propuestas de mejoras al proceso, visualización de proyectos, elaboración de ingeniería básica, estimación de ciclo de vida y cambio de catalizadores, determinación de eficiencias de intercambiadores de calor, simulaciones de procesos, inspección interna de equipos y análisis estadísticos; con la finalidad de mantener un óptimo funcionamiento del sistema. Profesional organizado, orientado al trabajo en equipo y enfocado en soluciones de problemas, dispuesto a radicarme en cualquier área del país y desarrollarme en nuevas áreas de ingeniería.
+
+ <br>Security_code : 36qjz
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.246.243.201<br>
+ <br>REF : EP-1
+ <br>Nombre : Milena
+ <br>Apellido : Portal
+ <br>Cargo : Ingenieria industrial
+ <br>Direccion : Sarmiento 183
+ <br>Ciudad : San Nicolas
+ <br>Telefono : 3364670508
+ <br>Email : milenaportal@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : soy de San Nicolas, pero busco trabajo en Buenos Aires. 
+ <br>Security_code : 6msjw
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.255.214.113<br>
+ <br>REF : EP-1
+ <br>Nombre : luis alberto 
+ <br>Apellido : gonzalez
+ <br>Cargo : encargado
+ <br>Direccion : 262 a esq. 207
+ <br>Ciudad : berazategui
+ <br>Telefono : 1523326503
+ <br>Email : lag280659@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : buen dia me postulo para la tarea
+ <br>Security_code : bmshf
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 200.5.122.30<br>
+ <br>REF : ACO-1
+ <br>Nombre : Santiago
+ <br>Apellido : Izzo
+ <br>Cargo : ANALISTA DE COMERCIO INTERNACIONAL/EXTERIOR
+ <br>Direccion : Av. Chorroarin 1000
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 1559209536
+ <br>Email : izzo.santiago@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimado,
+estoy interesado en la busqueda laboral.
+
+Saludos.
+ <br>Security_code : 5fsyg
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.228.83.171<br>
+ <br>REF : EP-1
+ <br>Nombre : Oreste
+ <br>Apellido : Pereyra
+ <br>Cargo : Encargado de Producción
+ <br>Direccion : Av. Perón 3072 ° A Bloque 2
+ <br>Ciudad : Victoria
+ <br>Telefono : 1164596073
+ <br>Email : pereyra.oreste@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados adjunto mi cv para la posición de Encargado de Producción.
+
+ <br>Security_code : xq2jb
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.105.70.169<br>
+ <br>REF : JPER-1
+ <br>Nombre : Julio Cesar
+ <br>Apellido : Reyes
+ <br>Cargo : Jefe de Personal
+ <br>Direccion : Marmol 258 Bella Vista
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 1134549963
+ <br>Email : juliocesarreyes@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Envio mis datos personales como experiencia laboral como academica con el fin de ser tenido en cuenta en la busqueda laboral.
+Saludos Julio Cesar Reyes
+ <br>Security_code : mt54y
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.165.122.188<br>
+ <br>Nombre : MARIA
+ <br>Apellido : ROBERTO
+ <br>Cargo : Jefe de Comercio Exterior
+ <br>Direccion : Bolivar 260 piso 4to. B Ramos Mejía
+ <br>Ciudad : GBA
+ <br>Telefono : 01167837448
+ <br>Email : mariahroberto@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenos días,
+
+Me postulo como jefe o responsable de Comercio Exterior.
+
+Saludos,
+
+María Roberto
+ <br>Security_code : yf8m7
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.9<br>
+ <br>REF : TM-2
+ <br>Nombre : Jesús Enrique
+ <br>Apellido : Quintero Ruiz
+ <br>Cargo : Técnico Mecánico 
+ <br>Direccion : Culpina
+ <br>Ciudad : Capital Federal
+ <br>Telefono : 1132953185
+ <br>Email : jesuseqr@yahoo.es
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Un gusto en escribirles. Considero que mi perfil coincide mucho con la vacante, espero recibir comunicación de su parte. Saludos cordiales.
+ <br>Security_code : khkg8
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.246.243.201<br>
+ <br>REF : EP-1
+ <br>Nombre : Milena
+ <br>Apellido : Portal
+ <br>Cargo : Ingenieria industrial
+ <br>Direccion : Sarmiento 183
+ <br>Ciudad : San Nicolas
+ <br>Telefono : 3364670508
+ <br>Email : milenaportal@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola! Busco empleo
+ <br>Security_code : zzrwg
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.246.243.201<br>
+ <br>REF : EP-1
+ <br>Nombre : Milena
+ <br>Apellido : Portal
+ <br>Cargo : Ingenieria industrial
+ <br>Direccion : Sarmiento 183
+ <br>Ciudad : San Nicolas
+ <br>Telefono : 3364670508
+ <br>Email : milenaportal@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola! Busco empleo
+ <br>Security_code : zzrwg
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.90.66.195<br>
+ <br>REF : Ing. quim
+ <br>Nombre : Jesica
+ <br>Apellido : Dall´Agnola
+ <br>Cargo : Jefa de procesos Industriales
+ <br>Direccion : Mateo Booz
+ <br>Ciudad : Recreo
+ <br>Telefono : 3424466225
+ <br>Email : jesicadallagnola@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas tardes,
+
+Soy ingeniera química de la facultad de Ingeniería Química, UNL, mi nombre es Jesica Dall´Agnola.  Estoy buscando trabajo,soy una persona de carácter metódico, analítico, dinámico,que demuestra iniciativa, buen manejo de relaciones interpersonales y trabajo en equipo. Soy trabajadora, responsable y honesta. 
+Tengo disponibilidad para radicarme en Buenos Aires, y realizar horarios rotativos . 
+
+Le envío mi CV adjunto para que lo tenga en consideración , de ser necesario están a su disposición todos los certificados que respaldan mi CV .
+
+Cualquier consulta estoy a su disposición.
+
+Desde ya muchas gracias. 
+
+Ing. Jesica Dall'Agnola.-
+342-154466225
+ <br>Security_code : rfrjq
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.14.185.135<br>
+ <br>Nombre : Norberto
+ <br>Apellido : Geiler
+ <br>Cargo : Sistemas
+ <br>Direccion : Colpayo 760 piso 32 depto 1
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : +5491140534123
+ <br>Email : norberto@geiler.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Postulación espontánea
+ <br>Security_code : fqg8p
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.50.198.253<br>
+ <br>REF : JPER-1
+ <br>Nombre : Roberto Alejandro
+ <br>Apellido : Sosa
+ <br>Cargo : Jefe de Personal
+ <br>Direccion : alte. brown 109
+ <br>Ciudad : quilmes
+ <br>Telefono : 42579166
+ <br>Email : robertoasosa@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : La distancia no  es inconveniente ya que poseo movilidad propia
+ <br>Security_code : zk5v7
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.50.198.253<br>
+ <br>REF : JPER-1
+ <br>Nombre : Roberto Alejandro
+ <br>Apellido : Sosa
+ <br>Cargo : Jefe de Personal
+ <br>Direccion : alte. brown 109
+ <br>Ciudad : quilmes
+ <br>Telefono : 42579166
+ <br>Email : robertoasosa@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : La distancia no  es inconveniente ya que poseo movilidad propia
+ <br>Security_code : zk5v7
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.50.198.253<br>
+ <br>REF : JPER-1
+ <br>Nombre : Roberto Alejandro
+ <br>Apellido : Sosa
+ <br>Cargo : Jefe de Personal
+ <br>Direccion : alte. brown 109
+ <br>Ciudad : quilmes
+ <br>Telefono : 42579166
+ <br>Email : robertoasosa@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : La distancia no  es inconveniente ya que poseo movilidad propia
+ <br>Security_code : fgy8h
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.246.243.201<br>
+ <br>REF : EP-1
+ <br>Nombre : Milena
+ <br>Apellido : Portal
+ <br>Cargo : Ingenieria industrial
+ <br>Direccion : Sarmiento 183
+ <br>Ciudad : San Nicolas
+ <br>Telefono : 3364670508
+ <br>Email : milenaportal@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola. me interesa dicho empleo. Me caracterizo por ser muy responsable,me gusta el trabajo en equipo, los desafios.  constantes. 
+ <br>Security_code : grfh3
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.246.243.201<br>
+ <br>REF : EP-1
+ <br>Nombre : Milena
+ <br>Apellido : Portal
+ <br>Cargo : Ingenieria industrial
+ <br>Direccion : Sarmiento 183
+ <br>Ciudad : San Nicolas
+ <br>Telefono : 3364670508
+ <br>Email : milenaportal@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola. me interesa dicho empleo. Me caracterizo por ser muy responsable,me gusta el trabajo en equipo, los desafios.  constantes. 
+ <br>Security_code : grfh3
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.50.198.253<br>
+ <br>Nombre : Roberto Alejandro
+ <br>Apellido : Sosa
+ <br>Cargo : Jefe de Personal
+ <br>Direccion : alte. brown 109
+ <br>Ciudad : quilmes
+ <br>Telefono : 1562096700
+ <br>Email : robertoasosa@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : La distancia no es inconveniente ya que poseo movilidad propia
+ <br>Security_code : c7v57
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.138.181.120<br>
+ <br>Nombre : María Florencia
+ <br>Apellido : Romerio
+ <br>Cargo : Administración, Secretaria, Recepción Hotelera
+ <br>Direccion : Casacuberta 1039
+ <br>Ciudad : Castear
+ <br>Telefono : 1168239947
+ <br>Email : flor.romerio@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : adjunto mi cv, quedo a su disposición.
+ <br>Security_code : j6zfp
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.22.64.120<br>
+ <br>REF : ROT-1
+ <br>Nombre : Martin
+ <br>Apellido : Almiron
+ <br>Cargo : Responsable de oficina técnica 
+ <br>Direccion : De la peña 147 
+ <br>Ciudad : Avellaneda 
+ <br>Telefono : 1123491100
+ <br>Email : martinalmironsae@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Adjunto Cv para puesto de responsable de oficina técnica 
+ <br>Security_code : P42tq
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.9<br>
+ <br>REF : EP-1
+ <br>Nombre : Javier David
+ <br>Apellido : Barrientos
+ <br>Cargo : Encargado de producción
+ <br>Direccion : Luján 1685
+ <br>Ciudad : Loma Hermosa . Tres de febrero . Bs As
+ <br>Telefono : 1559650938
+ <br>Email : barrientosjd78@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola ! Soy una persona muy responsable con mucha iniciativa . Capas de liderar grupos de trabajo para cumplir los objetivos de la empresa.
+ <br>Security_code : mdnd5
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 200.82.216.144<br>
+ <br>REF : Ing. quim
+ <br>Nombre : Lorena Thais
+ <br>Apellido : Ceballos Carrero
+ <br>Cargo : Procesos Industriales
+ <br>Direccion : Venezuela 1478 Microcentro 
+ <br>Ciudad : Buenoa Aires
+ <br>Telefono : +584247024053
+ <br>Email : lorenaceballos9@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas Tardes.
+Por medio del presente correo, deseo hacer de su conocimiento mi profundo interés por la vacante disponible de Ingeniero Químico en esta importante y reconocida Empresa, laborar en esta empresa sería un gran honor para mí dado a que dicha Organización es una de las mas   importantes de Argentina y de América Latina.
+
+ 
+
+Como verá en el mi resumen curricular, el cual adjunto, cuento con una sólida preparación educativa y profesional. Asimismo, he obtenido experiencias a lo largo de mi vida profesional. Considero también que las perspectivas y los intereses de la empresa compaginan perfectamente con mis intereses y aptitudes, por lo que me parece una opción perfecta para mí.
+
+ 
+
+Actualmente no estoy residenciada en Argentina pero mi viaje esta panificado para el 15 de julio y la fecha para la cita del DNI es para la  ultima semana de julio, pero tengo todo lo necesario para llegar  a trabajar de inmediato.
+
+ 
+
+Sin más por el momento, le reitero mi profundo interés y compromiso para laborar en esta empresa, poniendo a continuación n mis datos:
+
+ 
+
+Ing.  Químico
+
+ 
+
+Lorena Thais Ceballos Carrero
+
+ 
+
+Ci: 17.770.844
+ <br>Security_code : qbbfc
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.134.28.31<br>
+ <br>Nombre : angela
+ <br>Apellido : labastidas
+ <br>Cargo : ventas, compras, analista, ingeniero de procesos
+ <br>Direccion : ramon falcon 3698 ciudadela
+ <br>Ciudad : buenos aires
+ <br>Telefono : 1124728824
+ <br>Email : angelac.labastidast@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas Tardes
+
+Mi nombre es Angela Labastidas tengo 28 anos soy ingeniero petroquímica con especialización en automatización industrial. Estudie Ingles Avanzado Británico en EF (International Language Centres) y EFCELT CAMBRDGE.  Tengo nivel intermedio. 
+
+Desarrolle mi carrera desde analista químico hasta alcanzar un nivel de asesoramiento en el área de saneamiento químico y Procesos con equipos de mejora continua en ahorro energético mediante la producción limpia de vapor, por medio de auditorias y apoyo en posicionamiento y compra de valvuleria, trampas de vapor, visores de nivel. entre otros accesorios. 
+
+Asesoramiento a todo el complejo industrial petrolero de Venezuela (metor, pdvsa, fertinitro,supermetanol y superoctano), así mismo estuve en plataformas petroleras de venezuela.
+Soy una persona responsable, comprometida, con muchas ganas de trabajar y siempre positiva a nuevas oportunidades y conocimiento, no le tengo miedo a aprender.
+
+Tengo posibilidad de movilizarme o de mudarme a cualquier parte del país de ser necesario.
+
+A esperas de sus grandes oportunidades.
+
+Saludos 
+
+ <br>Security_code : y7g9x
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.251.134.97<br>
+ <br>REF : ROT-1
+ <br>Nombre : Norberto
+ <br>Apellido : Perez
+ <br>Cargo : ENCARGADO OFICINA TECNICA
+ <br>Direccion : Pastorino 2061, 0
+ <br>Ciudad : El Bolson
+ <br>Telefono : 0294154539346
+ <br>Email : NORBERTOPEREZ.AR@GMAIL.COM
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : ¡Estoy muy entusiasmado de trabajar con ustedes brindándoles mis servicios!
+ 
+Sres. SEBGON CONSULTORA
+
+Atte. Sr. Gerente RR.HH.
+
+Siendo Ingeniero Mecánico, quiero participar en vuestros desafíos como Ingeniero de Obras y Proyectos, para lo cual le envío mis antecedentes profesionales y le ofrezco toda mi capacidad, pro-actividad y liderazgo.
+
+Poseo amplia experiencia en el diseño de Piping y Stress Analysis en Instalaciones de Superficie sector Oil & Gas, 
+Plantas Químicas, Petroquímicas y Nucleares.
+
+Actualmente estoy trabajando en varios proyectos sector Oil & Gas en la zona de Santa Cruz.
+También poseo amplia experiencia en diseño de recipientes sometidos a presión de acuerdo a ASME VIII.
+
+Poseo capacidad para re-localizarme y estoy listo para trabajar con ustedes!
+Sin otro particular y descontando serles de utilidad, le solicito una entrevista donde poder ampliar mi experiencia.
+Saludo a usted muy atentamente,
+ 
+Ing. Norberto Omar Perez
+Cel: 0294 154 539346
+ 
+P.D. Gracias desde ya por su consideración en lo que tengo para ofrecerles. 
+Pueden contactarme en cualquier momento en mi celular 0294 154 539346 ó a este e-mail, para colaborar con ustedes!
+
+ <br>Security_code : 96n88
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.178.29.48<br>
+ <br>REF : SP-1
+ <br>Nombre : carlos alberto
+ <br>Apellido : olmedo
+ <br>Cargo : supervisor de producción
+ <br>Direccion : Santa ana n° 3572
+ <br>Ciudad : claypole
+ <br>Telefono : 42771263
+ <br>Email : carlos_olmedo1972@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Vista la Oferta Laboral,les hago llegar mis datos personales y profesionales en Currículum Vitae a fin de ser tenido en cuenta como candidato.
+
+Con la convicción de poseer el perfil requerido para un muy buen desempeño en el cargo a cubrir, quedo a entera disposición para hacerle llegar, sea en una entrevista personal o por el medio que se me indique, las ampliaciones y/o la documentación probatoria correspondiente.
+
+Esperando una respuesta positiva lo saluda atentamente.
+
+ATTE.
+
+OLMEDO CARLOS ALBERTO.
+
+ <br>Security_code : jcnvp
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.178.29.48<br>
+ <br>Nombre : carlos alberto
+ <br>Apellido : olmedo
+ <br>Cargo : seguridad e higiene
+ <br>Direccion : Santa ana n° 3572
+ <br>Ciudad : claypole
+ <br>Telefono : 42771263
+ <br>Email : carlos_olmedo1972@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Vista la Oferta Laboral les hago llegar mis datos personales y profesionales en Currículum Vitae a fin de ser tenido en cuenta como candidato.
+
+Con la convicción de poseer el perfil requerido para un muy buen desempeño en el cargo a cubrir, quedo a entera disposición para hacerle llegar, sea en una entrevista personal o por el medio que se me indique, las ampliaciones y/o la documentación probatoria correspondiente.
+
+Esperando una respuesta positiva lo saluda atentamente.
+
+ATTE.
+
+OLMEDO CARLOS ALBERTO.
+
+ <br>Security_code : nk7c2
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.137.54.81<br>
+ <br>Nombre : Dante
+ <br>Apellido : Quiñones 
+ <br>Cargo : Analista de siniestro 
+ <br>Direccion : Bonpland 1956 
+ <br>Ciudad : Capital 
+ <br>Telefono : 1136801942
+ <br>Email : Dantequinones360@gmail.com 
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : .
+ <br>Security_code : Sh8n6
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.17.255.120<br>
+ <br>REF : SP-1
+ <br>Nombre : Jose Euribiades
+ <br>Apellido : Lopez Morales
+ <br>Cargo : Supervisor de produccion
+ <br>Direccion : Av. Rivadavia 1181
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 3757552042
+ <br>Email : cheoury10@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas Tardes soy un profesional calificado técnicamente y metódicamente para afrontar nuevos retos tengo ,muchas ganas de trabajar y salir adelante; solo necesito una oportunidad para demostrar mis habilidades y destrezas con las que me puedo desempeñar eficientemente en el entorno laborar en cuestión, de antemano muchas gracias.
+ <br>Security_code : rrzpz
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.17.255.120<br>
+ <br>REF : SP-1
+ <br>Nombre : Jose Euribiades
+ <br>Apellido : Lopez Morales
+ <br>Cargo : Supervisor de produccion
+ <br>Direccion : Av. Rivadavia 1181
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 3757552042
+ <br>Email : cheoury10@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas Tardes soy un profesional calificado técnicamente y metódicamente para afrontar nuevos retos tengo ,muchas ganas de trabajar y salir adelante; solo necesito una oportunidad para demostrar mis habilidades y destrezas con las que me puedo desempeñar eficientemente en el entorno laborar en cuestión, de antemano muchas gracias.
+ <br>Security_code : rrzpz
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.17.255.120<br>
+ <br>REF : SP-1
+ <br>Nombre : Jose Euribiades
+ <br>Apellido : Lopez Morales
+ <br>Cargo : Supervisor de produccion
+ <br>Direccion : Av. Rivadavia 1181
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 3757552042
+ <br>Email : cheoury10@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas Tardes soy un profesional calificado técnicamente y metódicamente para afrontar nuevos retos tengo ,muchas ganas de trabajar y salir adelante; solo necesito una oportunidad para demostrar mis habilidades y destrezas con las que me puedo desempeñar eficientemente en el entorno laborar en cuestión, de antemano muchas gracias.
+ <br>Security_code : rrzpz
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.17.255.120<br>
+ <br>REF : SP-1
+ <br>Nombre : Jose Euribiades
+ <br>Apellido : Lopez Morales
+ <br>Cargo : Supervisor de produccion
+ <br>Direccion : Av. Rivadavia 1181
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 3757552042
+ <br>Email : cheoury10@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas Tardes soy un profesional calificado técnicamente y metódicamente para afrontar nuevos retos tengo ,muchas ganas de trabajar y salir adelante; solo necesito una oportunidad para demostrar mis habilidades y destrezas con las que me puedo desempeñar eficientemente en el entorno laborar en cuestión, de antemano muchas gracias.
+ <br>Security_code : 6spzn
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.17.255.120<br>
+ <br>REF : SP-1
+ <br>Nombre : Jose Euribiades
+ <br>Apellido : Lopez Morales
+ <br>Cargo : Supervisor de produccion
+ <br>Direccion : Av. Rivadavia 1181
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 3757552042
+ <br>Email : cheoury10@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas Tardes soy un profesional calificado técnicamente y metódicamente para afrontar nuevos retos tengo ,muchas ganas de trabajar y salir adelante; solo necesito una oportunidad para demostrar mis habilidades y destrezas con las que me puedo desempeñar eficientemente en el entorno laborar en cuestión, de antemano muchas gracias.
+ <br>Security_code : 6spzn
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.17.255.120<br>
+ <br>REF : SP-1
+ <br>Nombre : Jose Euribiades
+ <br>Apellido : Lopez Morales
+ <br>Cargo : Supervisor de produccion
+ <br>Direccion : Av. Rivadavia 1181
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 3757552042
+ <br>Email : cheoury10@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas Tardes soy un profesional calificado técnicamente y metódicamente para afrontar nuevos retos tengo ,muchas ganas de trabajar y salir adelante; solo necesito una oportunidad para demostrar mis habilidades y destrezas con las que me puedo desempeñar eficientemente en el entorno laborar en cuestión, de antemano muchas gracias.
+ <br>Security_code : 6 spzn
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.17.255.120<br>
+ <br>REF : SP-1
+ <br>Nombre : Jose Euribiades
+ <br>Apellido : Lopez Morales
+ <br>Cargo : Supervisor de produccion
+ <br>Direccion : Av. Rivadavia 1181
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 3757552042
+ <br>Email : cheoury10@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas Tardes soy un profesional calificado técnicamente y metódicamente para afrontar nuevos retos tengo ,muchas ganas de trabajar y salir adelante; solo necesito una oportunidad para demostrar mis habilidades y destrezas con las que me puedo desempeñar eficientemente en el entorno laborar en cuestión, de antemano muchas gracias.
+ <br>Security_code : 6spzn
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.17.255.120<br>
+ <br>REF : SP-1
+ <br>Nombre : Jose Euribiades
+ <br>Apellido : Lopez Morales
+ <br>Cargo : Supervisor de produccion
+ <br>Direccion : Av. Rivadavia 1181
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 3757552042
+ <br>Email : cheoury10@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas Tardes soy un profesional calificado técnicamente y metódicamente para afrontar nuevos retos tengo ,muchas ganas de trabajar y salir adelante; solo necesito una oportunidad para demostrar mis habilidades y destrezas con las que me puedo desempeñar eficientemente en el entorno laborar en cuestión, de antemano muchas gracias.
+ <br>Security_code : 6spzn
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.17.255.120<br>
+ <br>REF : SP-1
+ <br>Nombre : Jose Euribiades
+ <br>Apellido : Lopez Morales
+ <br>Cargo : Supervisor de produccion
+ <br>Direccion : Av. Rivadavia 1181
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 3757552042
+ <br>Email : cheoury10@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas tardes soy profesional y quiero demostrar mi habilidades y destrezas,soy de rapido aprendizaje y con muchas ganas de trabajar, solo les pido una oportunidad para desempeñarme de la mejor manera profesional.
+ <br>Security_code : zqhdd
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.17.255.120<br>
+ <br>REF : SP-1
+ <br>Nombre : Jose Euribiades
+ <br>Apellido : Lopez Morales
+ <br>Cargo : Supervisor de produccion
+ <br>Direccion : Av. Rivadavia 1181
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 3757552042
+ <br>Email : cheoury10@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas tardes soy profesional y quiero demostrar mi habilidades y destrezas,soy de rapido aprendizaje y con muchas ganas de trabajar, solo les pido una oportunidad para desempeñarme de la mejor manera profesional.
+ <br>Security_code : zqhdd
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.17.255.120<br>
+ <br>REF : SP-1
+ <br>Nombre : Jose Euribiades
+ <br>Apellido : Lopez Morales
+ <br>Cargo : Supervisor de produccion
+ <br>Direccion : Av. Rivadavia 1181
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 3757552042
+ <br>Email : cheoury10@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas tardes soy profesional y quiero demostrar mi habilidades y destrezas,soy de rapido aprendizaje y con muchas ganas de trabajar, solo les pido una oportunidad para desempeñarme de la mejor manera profesional.
+ <br>Security_code : zqhdd
+ <br>Send : Enviar
+ <br>
+---------------
+

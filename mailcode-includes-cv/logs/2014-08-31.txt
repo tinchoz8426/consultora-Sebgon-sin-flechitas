@@ -1,0 +1,110 @@
+Address : 190.206.22.123
+Nombre : Manuel 
+Apellido : Garcia
+Cargo : Ventas, administrativo  de Ventas
+Direccion : Valencia
+Ciudad : Valencia
+Telefono : 584244427447
+Email : manuelgarcia148@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Por medio de la presente me dirijo a usted para remitirles mi Curriculum Vitae; en la actualidad vivo y trabajo en Venezuela, pero realizando los trámites necesarios para emigrar a la Argentina. 
+Durante todos los años que llevo de experiencia laboral, he logrado aumentar la productividad de las empresas donde he laborado, teniendo un amplio conocimiento dentro de muchas áreas, tales como  administrativas, de venta, logística y manejo de  personal, los cuales podrá apreciar ampliamente dentro de la hoja de vida anexa.  
+Me encantaría que pudiera considerar la posibilidad de poder participar dentro de alguna vacante que pudiera presentarse y que de acuerdo a mi experiencia pueda calificar.
+Agradeciendo de antemano su atención y atento a sus requerimientos me despido
+atentamente,
+
+Security_code : z4vgt
+Send : Enviar
+
+---------------
+
+Address : 190.183.100.6
+Nombre : Ana Belèn
+Apellido : Payes
+Cargo : relaciones humanas y publicas
+Direccion : pasaje romero 2029
+Ciudad : Corrienets capital
+Telefono : 3794734152
+Email : anitapayes22@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : fortalezas: aprendo rapido y de facil adaptacion, compañerismo 
+Security_code : 8c8mf
+Send : Enviar
+
+---------------
+
+Address : 186.137.173.199
+Nombre : Anahi
+Apellido : iriarte
+Cargo : cajera. vendedora. administrativa
+Direccion : pepiri 570
+Ciudad : Buenos Aires
+Telefono : 5491130040133
+Email : iriarte_anahi89@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Tengo 25 años y necesito trabajo.
+Security_code : c8fj2
+Send : Enviar
+
+---------------
+
+Address : 186.137.173.199
+Nombre : Anahi
+Apellido : iriarte
+Cargo : cajera. vendedora. administrativa
+Direccion : pepiri 570
+Ciudad : Buenos Aires
+Telefono : 5491130040133
+Email : iriarte_anahi89@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Tengo 25 años y necesito trabajo.
+Security_code : c8fj2
+Send : Enviar
+
+---------------
+
+Address : 186.137.173.199
+Nombre : Anahi
+Apellido : iriarte
+Cargo : cajera. vendedora. administrativa
+Direccion : pepiri 570
+Ciudad : Buenos Aires
+Telefono : 5491130040133
+Email : iriarte_anahi89@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Tengo 25 años y necesito trabajo.
+Security_code : bf7dx
+Send : Enviar
+
+---------------
+
+Address : 186.109.200.19
+Nombre : RICARDO DANIEL
+Apellido : CABALLERO
+Cargo : OPERARIO
+Direccion : PJ VILLAR 281
+Ciudad : ROSARIO
+Telefono : 4621755
+Email : losredondos24@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : solicitar trabajo  en Rosario. Santa.Fe,y alrededores
+Security_code : PPFSQ
+Send : Enviar
+
+---------------
+
+Address : 190.191.130.6
+Nombre : ruddy fernando
+Apellido : salvarredy
+Cargo : operario gral deposito y chofer pro
+Direccion : 35 n°1849 esq.132
+Ciudad : la plata
+Telefono : 221154388188
+Email : escorpio_lp@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : hola les envió mis datos con propósito de trabajar cerca de EL BOLSON. soy empleado activo de wal mart argentina, mi familia fue victima de la inseguridad de bs as y vive en el bolson desde abril, no he podido acomodarme todavia en la zona y sigo en wal mart la plata, actualmente me capacito en manejo de cajas y sistemas de cobros a fin de cerrar experiencia en todos los sectores de la compañia, y adquiri por voto propio la CNRT para manejo de camiones y combustibles tambien. desde ya gracias x todo puedan darme.
+Security_code : 6by2q
+Send : Enviar
+
+---------------
+

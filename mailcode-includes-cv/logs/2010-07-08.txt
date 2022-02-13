@@ -1,0 +1,80 @@
+Address : 200.115.253.117
+Nombre : Stephanie
+Apellido : Daniele
+Cargo : secretaria
+Direccion : sanabria 1551
+Ciudad : capital federal
+Telefono : 1556465702
+Email : sdaniele@live.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Estoy muy interesada en ampliar mis conocimientos laborales 
+Security_code : fjqhg
+Send : Enviar
+
+---------------
+
+Address : 201.250.113.154
+Nombre : Leonardo Juan
+Apellido : Bergamini
+Cargo : .
+Direccion : Av san juan 3623 
+Ciudad : Capital Federal
+Telefono : 1562509662
+Email : bergaminileonardo@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Mediante el siguiente presento mi cv para formar parte de su base de datos.
+Gracias
+
+Security_code : cd5sx
+Send : Enviar
+
+---------------
+
+Address : 190.173.72.241
+Nombre : Pablo
+Apellido : Garofalo
+Cargo : Trabajador Social
+Direccion : Arenales 470
+Ciudad : Morón
+Telefono : 15 5387 5194
+Email : pablodg19@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto mi Cv para postularme a la busqueda de Trabajador Social que se encuentran realizando.
+Atte.
+Security_code : 6j4ms
+Send : Enviar
+
+---------------
+
+Address : 201.253.210.4
+Nombre : Marcela 
+Apellido : Villoldo
+Cargo : Semi Senior
+Direccion : Laprida 66
+Ciudad : Campana
+Telefono : 03489449853
+Email : mav_26@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenos Dias:
+Envio mi CV para que pueda ser incorporado a su Base de Datos ante la posibidad de que se presente una Oferta laboral de acuerdo a mi perfil.
+
+Security_code : 7f3jm
+Send : Enviar
+
+---------------
+
+Address : 201.235.25.239
+Nombre : Julieta Ines
+Apellido : Farabela
+Cargo : administrativo
+Direccion : jose ingenieros 2618
+Ciudad : CABA
+Telefono : 45847554
+Email : jfarabela@sensation.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Como objetivo busco el desarrollo profesional en un puesto acorde a los conocimientos adquiridos en el área de administración. 
+Security_code : x93hp
+Send : Enviar
+
+---------------
+

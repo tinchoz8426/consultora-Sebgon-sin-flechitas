@@ -1,0 +1,16 @@
+Address : 190.220.49.58
+Nombre : Raquel Alejandra
+Apellido : Merin
+Cargo : Analista de Comunicaciones - Prensa
+Direccion : B° Los Olivos Mzna O Casa 4 Carrodill Luján de Cuyo
+Ciudad : Mendoza
+Telefono : 0261 154859656
+Email : merinalejandra@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados: Adjunto mi CV para futuras búsquedas según mi perfil. 
+Atte. Alejandra Merín
+Security_code : gsr3d
+Send : Enviar
+
+---------------
+

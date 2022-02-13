@@ -1,0 +1,223 @@
+Address : 186.158.142.24
+Nombre : Gonzalo Ezequiel
+Apellido : Ramos
+Cargo : Administrativo/Atención al Cliente
+Direccion : Avenida Congreso 642
+Ciudad : Simoca
+Telefono : 03863402878
+Email : gonzaramos20@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola alli mando mis datos y espero les sean util. Desde ya muchas gracias
+Security_code : n8727
+Send : Enviar
+
+---------------
+
+Address : 179.41.229.167
+REF : PLG
+Nombre : Brian
+Apellido : Rubinich
+Cargo : Operario
+Direccion : Victor Martinez 5288
+Ciudad : Gregorio de Laferrere
+Telefono : 44577795
+Email : braian-rubinich.2@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola, estoy buscando trabajo, le envio mi curriculum por si le interesa, desde ya muchas gracias.
+Security_code : g82j8
+Send : Enviar
+
+---------------
+
+Address : 181.28.81.64
+REF : SEP
+Nombre : Omar
+Apellido : Osilia
+Cargo : Supervisor de Producción
+Direccion : Fray justo santa maria de oro
+Ciudad : Capital Federal
+Telefono : +5491123533189
+Email : o.osilia@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Ingeniero Químico con estudios de post-grado en el área de Manufactura y Finanzas aplicado a empresas de producción masiva. He desempeñado cargos en diferentes empresas del rubro manufacturero por más de 8 años participando en la gestión, planificación y ejecución de planes de producción con enfoque en maximización de ganancias.
+Security_code : nwsyg
+Send : Enviar
+
+---------------
+
+Address : 181.28.81.64
+REF : ENPRO
+Nombre : Omar
+Apellido : Osilia
+Cargo : Supervisor de Producción
+Direccion : Fray justo santa maria de oro
+Ciudad : Palermo
+Telefono : +5491123533189
+Email : o.osilia@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Ingeniero Químico con estudios de post-grado en el área de Manufactura y Finanzas aplicado a empresas de producción masiva. He desempeñado cargos en diferentes empresas del rubro manufacturero por más de 8 años participando en la gestión, planificación y ejecución de planes de producción con enfoque en maximización de ganancias.
+Security_code : qy9th
+Send : Enviar
+
+---------------
+
+Address : 181.28.81.64
+REF : JPL
+Nombre : Omar
+Apellido : Osilia
+Cargo : Jefe de Turno
+Direccion : Fray justo Santa maria de oro
+Ciudad : Capital Federal
+Telefono : +5491123533189
+Email : o.osilia@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Ingeniero Químico con estudios de post-grado en el área de Manufactura y Finanzas aplicado a empresas de producción masiva. He desempeñado cargos en diferentes empresas del rubro manufacturero por más de 8 años participando en la gestión, planificación y ejecución de planes de producción con enfoque en maximización de ganancias.
+Security_code : 9s3gc
+Send : Enviar
+
+---------------
+
+Address : 179.40.200.24
+Nombre : LORENA 
+Apellido : CZEREVIN
+Cargo : RECEPCIONISTA,CAJERA
+Direccion : SANTA MARIA DE ORO 3137
+Ciudad : CASTELAR
+Telefono : 44583512
+Email : czerevinlorena@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : SOY RESPONSABLE ,CON BASTA EXPERIENCIA EN MUCHAS AREAS,NECESITO INDEPENDENCIA ECONOMICA ,GANAS DE PROGRESAR.
+Security_code : DCJKJ
+Send : Enviar
+
+---------------
+
+Address : 179.40.200.24
+Nombre : LORENA 
+Apellido : CZEREVIN
+Cargo : RECEPCIONISTA,CAJERA
+Direccion : SANTA MARIA DE ORO 3137
+Ciudad : CASTELAR
+Telefono : 44583512
+Email : czerevinlorena@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : SOY RESPONSABLE ,CON BASTA EXPERIENCIA EN MUCHAS AREAS,NECESITO INDEPENDENCIA ECONOMICA ,GANAS DE PROGRESAR.
+Security_code : dcjkj
+Send : Enviar
+
+---------------
+
+Address : 179.40.200.24
+Nombre : LORENA 
+Apellido : CZEREVIN
+Cargo : RECEPCIONISTA,CAJERA
+Direccion : SANTA MARIA DE ORO 3137
+Ciudad : CASTELAR
+Telefono : 44583512
+Email : czerevinlorena@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : SOY RESPONSABLE ,CON BASTA EXPERIENCIA EN MUCHAS AREAS,NECESITO INDEPENDENCIA ECONOMICA ,GANAS DE PROGRESAR.
+Security_code : m22g5
+Send : Enviar
+
+---------------
+
+Address : 181.171.18.161
+REF : JPL
+Nombre : Diego 
+Apellido : Marcellini
+Cargo : Jefe de Planta
+Direccion : Diaz Velez 5541 4to A
+Ciudad : CABA
+Telefono : 1131641168
+Email : diegomarcellini1@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados, 
+
+Les envío mi CV para postularme a la búsqueda de un Jefe de Planta.
+
+Saludos,
+
+Diego M. Marcellini
+Security_code : nmvbj
+Send : Enviar
+
+---------------
+
+Address : 190.55.220.243
+REF : SUPL
+Nombre : Daniel Luis
+Apellido : Riera
+Cargo : Supervisor de Logistica 
+Direccion : Juncal 833
+Ciudad : Aldo Bonzi
+Telefono : 44422134
+Email : danielluisriera@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados, buenas tardes
+Les adjunto mi C.V. para su evaluacion y quedo a su disposición para cualquier consulta o posible entrevista 
+Con respecto a la remuneración por mi pretendida considero que la misma deberia oscilar por encima de un minimo de 18000 pesos netos 
+Saludos Cordiales 
+Daniel Luis Riera 
+
+Security_code : n27vv
+Send : Enviar
+
+---------------
+
+Address : 190.55.220.243
+REF : SUPL
+Nombre : Daniel Luis
+Apellido : Riera
+Cargo : Supervisor de Logistica 
+Direccion : Juncal 833
+Ciudad : Aldo Bonzi
+Telefono : 44422134
+Email : danielluisriera@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados, buenas tardes
+Les adjunto mi C.V. para su evaluacion y quedo a su disposición para cualquier consulta o posible entrevista 
+Con respecto a la remuneración por mi pretendida considero que la misma deberia oscilar por encima de un minimo de 18000 pesos netos 
+Saludos Cordiales 
+Daniel Luis Riera 
+
+Security_code : n27vv
+Send : Enviar
+
+---------------
+
+Address : 190.188.120.249
+REF : SUPL
+Nombre : German
+Apellido : Guillen
+Cargo : Supervisor de Logística
+Direccion : calle 15 nº 4423
+Ciudad : Berisso
+Telefono : 2215044788
+Email : germansantiagoguillen@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados, 
+Adjunto envío mi CV actualizado para suplir la vacante en cuestión. 
+
+saludos y gracias
+Germán Guillen
+Security_code : 3tmmf
+Send : Enviar
+
+---------------
+
+Address : 181.167.233.147
+Nombre : Gimena
+Apellido : Gopar
+Cargo : PROMOTORA
+Direccion : benito juarez 2357
+Ciudad : Mar del plata
+Telefono : 223156205787
+Email : gime95_al@live.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola, les dejo mi curriculum, estoy buscando trabajo como promotora..gracias!
+Security_code : xvfc3
+Send : Enviar
+
+---------------
+

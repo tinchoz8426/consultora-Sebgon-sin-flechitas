@@ -1,0 +1,22 @@
+Address : 186.58.165.13
+Nombre : mariana
+Apellido : cañete
+Cargo : seguridad e higiene
+Direccion : ruta 205 km 36
+Ciudad : ezeiza
+Telefono : 42329172
+Email : marianaac89@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buen Día,
+
+Me dirijo a usted para manifestarle mi interés por formar parte del equipo de su empresa.
+Le adjunto mi CV y agradeciéndole de antemano su atención, quedo a su disposición en los teléfonos o e-mail indicado en mi CV.
+
+Un cordial saludo
+
+Mariana Alejandra Cañete
+Security_code : qdftg
+Send : Enviar
+
+---------------
+

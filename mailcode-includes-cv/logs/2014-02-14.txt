@@ -1,0 +1,113 @@
+Address : 181.23.177.17
+REF : Asistente-Comercial
+Nombre : Marisol
+Apellido : Ladino
+Cargo : ASISTENTE COMERCIAL
+Direccion : 9 de Julio 1050. 1er piso. Dpto 15
+Ciudad : MENDOZA
+Telefono : 0261156861734
+Email : sol_ladino@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : 
+A quien corresponda:
+                                      Mi nombre es Marisol Ladino y tengo 25 años. Me dirijo a ud. a fin de hacerle llegar mi Curriculum Vitae para que lo tenga en consideración en caso de futuras vacantes dentro de su empresa.
+Si bien poseo un marcado perfil comercial, ya que desde chica me he dedicado a la Atención al Público y Ventas, busco siempre aprender nuevas habilidades que me permitan desarrollar mi perfil profesional. 
+Espero puedan considerarme en el futuro para brindarme una entrevista. 
+Sin más,lo saluda Atte. 
+
+                                                                       Marisol Ladino.
+Security_code : dckvb
+Send : Enviar
+
+---------------
+
+Address : 190.99.114.1
+Nombre : Bernardo Ariel
+Apellido : Barzola
+Cargo : empleado administrativo
+Direccion : Balbastro 2827
+Ciudad : Merlo
+Telefono : 02204931032
+Email : arielbarzola05@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : hola,necesito trabajar,ojala puedan ayudarme,gracias!
+Security_code : v8ksm
+Send : Enviar
+
+---------------
+
+Address : 190.99.114.1
+Nombre : Bernardo Ariel
+Apellido : Barzola
+Cargo : empleado administrativo
+Direccion : Balbastro 2827
+Ciudad : Merlo
+Telefono : 02204931032
+Email : arielbarzola05@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : hola,necesito trabajar,ojala puedan ayudarme,gracias!
+Security_code : v8ksm
+Send : Enviar
+
+---------------
+
+Address : 190.17.124.17
+Nombre : florencia
+Apellido : brignole
+Cargo : atencion al cliente,ventas
+Direccion : 27 de abril 900
+Ciudad : cordoba
+Telefono : 0370154721763
+Email : florenciabrignole_fsa@live.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Experiencia en atencion al cliente, secretariado y tareas administrativas. Muy buena presencia,simpatia,honestidad y predisposicion a aprender y aportar a la empresa
+Security_code : pbr2p
+Send : Enviar
+
+---------------
+
+Address : 186.56.144.159
+Nombre : soledad
+Apellido : valencia
+Cargo : licenciada en psicologia
+Direccion : riobamba 964
+Ciudad : bs as
+Telefono : 11 5660-7318
+Email : msoledadvalencia@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : hola busco iniciarme laboralmente en clinica de adultos y niños o en el sector de recursos humanos, seleccion de personal
+Security_code : xytzq
+Send : Enviar
+
+---------------
+
+Address : 181.110.64.36
+Nombre : Guerrero
+Apellido : Blanca
+Cargo : Cajera-atencion al publico-administrativo
+Direccion : ARISTOBULO DEL VALLE 3863
+Ciudad : RESISTENCIA-CHACO
+Telefono : 0362154243155
+Email : blae08g@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : ojala me puedan dar una entrevista pronto ya que me quede sin trabajo soy una persona muy capaz y sobre todo una persona de confianza
+Security_code : 3zv82
+Send : Enviar
+
+---------------
+
+Address : 190.137.218.127
+Nombre : Claudia 
+Apellido : Olás
+Cargo : Jefe/Responsable/Gerente
+Direccion : Balcarce 373
+Ciudad : San Miguel de Tucuman 
+Telefono : 0381156987992
+Email : claudiaolas04@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Envio curriculum para su consideracion. Soy proactiva, me adapto al cambio, lider y no tengo problemas para radicarme en otra provincia/pais. 
+Security_code : hbp5d
+Send : Enviar
+
+---------------
+

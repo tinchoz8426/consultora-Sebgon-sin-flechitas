@@ -1,0 +1,16 @@
+Address : 186.39.168.149
+Nombre : FRANCO
+Apellido : Yanardi
+Cargo : Atención al publico 
+Direccion : Italia 4001 Villa Nueva
+Ciudad : Mendoza
+Telefono : 2613160523 - 4263310
+Email : franco_yanardi@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Mi solicitud va dirigida a cualquier puesto que sea referido a atención al publico, venta, tramites, etc., ya que poseo un carácter adecuado a estos desempeños. 
+Tengo necesidad de trabajar, no discrimino labores ni horarios.
+Security_code : c4hqc
+Send : Enviar
+
+---------------
+

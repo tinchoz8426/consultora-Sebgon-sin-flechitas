@@ -1,0 +1,227 @@
+Address : 190.19.75.141
+Nombre : Juan Miguel
+Apellido : Crespo
+Cargo : Administrativo en el area de salud
+Direccion : Senillosa 468 3 "b"
+Ciudad : Capital Federal
+Telefono : 1544356394
+Email : crespojuanm@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Envio Curriculum ya que me encuentro buscando trabajo
+Security_code : gxdrh
+Send : Enviar
+
+---------------
+
+Address : 190.19.75.141
+Nombre : Juan Miguel
+Apellido : Crespo
+Cargo : Administrativo en el area de salud
+Direccion : Senillosa 468 3 "b"
+Ciudad : Capital Federal
+Telefono : 1544356394
+Email : crespojuanm@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Envio Curriculum ya que me encuentro buscando trabajo
+Security_code : gxdrh
+Send : Enviar
+
+---------------
+
+Address : 190.19.75.141
+Nombre : Juan Miguel
+Apellido : Crespo
+Cargo : Administrativo en el area de salud
+Direccion : Senillosa 468 3 "b"
+Ciudad : Capital Federal
+Telefono : 1544356394
+Email : crespojuanm@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Envío curriculum ya que me encuentro buscando trabajo
+Security_code : 52xd8
+Send : Enviar
+
+---------------
+
+Address : 200.117.101.217
+Nombre : Gino Luciano 
+Apellido : Signorelli Giacomelli
+Cargo : Operario
+Direccion : Pasaje Bella Vista 4075 Barrio Altamira
+Ciudad : Cordoba
+Telefono : 156700894
+Email : gls03_6985@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto Curriculum Vitae, para entrar en la seleccion de personal para industria metal-mecanica con conocimientos de matriceria , manejo de autoelevadores y puente gruas.
+Security_code : ptx5x
+Send : Enviar
+
+---------------
+
+Address : 190.231.85.216
+Nombre : Jose Damian
+Apellido : Luna
+Cargo : el que me corresponda
+Direccion : R de E de San martin 2964 "3"
+Ciudad : Capital federal
+Telefono : 45862964
+Email : damianluna1979@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : necesito trabajar
+Security_code : xp7wn
+Send : Enviar
+
+---------------
+
+Address : 190.18.47.41
+Nombre : Santiago
+Apellido : Perinelli
+Cargo : Cadete administrativo/contable
+Direccion : Avenida del Libertador 1638
+Ciudad : Vicente Lopez
+Telefono : 011 1531141410
+Email : san94_perinelli@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me siento con muchas ganas y energías para arrancar a trabajar en el lugar que usted desee, con el motivo de aprender y progresar.
+Security_code : 2qr27
+Send : Enviar
+
+---------------
+
+Address : 196.32.77.130
+Nombre : Cecilia Adriana
+Apellido : Lezcano
+Cargo : Asistente de selección 
+Direccion : Las Rosas 996
+Ciudad : Gonzalez Catan
+Telefono : 1155818706
+Email : cecilia.lezcano@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados, estoy recientemente recibida de Lic. en Relaciones Laborales y me interesaría poder adquirir experiencia en el área de consultoria ya que me especializo en Selección. Agradecería tuvieran en cuenta mi c.v. Saluda atte. Cecilia Lezcano.
+Security_code : dgmck
+Send : Enviar
+
+---------------
+
+Address : 190.55.128.144
+Nombre : Paula
+Apellido : Bombarolo
+Cargo : Administrativa/Secretaria/Recepcionista/Telefonista/Atención al cliente
+Direccion : Argerich 2565
+Ciudad : CABA
+Telefono : 011 1568014280
+Email : paubombarolo@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Espero que puedan tener en cuenta mi CV para los cargos mencionados en un futuro próximo. Desde ya, muchas gracias.
+Security_code : pjyq2
+Send : Enviar
+
+---------------
+
+Address : 186.57.194.111
+Nombre : Paulina
+Apellido : Cuenca
+Cargo : Vendedora
+Direccion : los matreros 3445
+Ciudad : ituzaingo
+Telefono : 44819731
+Email : estrellapaulina@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola que tal,buenas tardes,aquí les dejo mi cv.soy de zona oeste,Ituzaingó.Me gustan las ventas,además tengo experiencia como cajera,saludos.
+Atte
+Paulina Cuenca
+Security_code : 2xx73
+Send : Enviar
+
+---------------
+
+Address : 190.230.42.133
+Nombre : damian
+Apellido : dominguez
+Cargo : MULTITAREAS
+Direccion : ITALIA 2148
+Ciudad : rosario
+Telefono : 0341155937810
+Email : ddelectronica@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : ME POSTULO PARA LAS TAREAS QUE ME CAPACITE MI CV SIN EXEPCIONES...MUCHAS GRACIAS
+Security_code : N9QFY
+Send : Enviar
+
+---------------
+
+Address : 190.231.233.85
+Nombre : ROBERTO
+Apellido : REYNA
+Cargo : repositor- seguridad- carnicero
+Direccion : av. Arica 256 Bº Sta Rosa
+Ciudad : cordoba
+Telefono : 3513066760
+Email : robertoreyna22@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : hola me postulo para empleos como repositor , seguridad o carnicería todos con experiencias comprobables , gracias.
+Security_code : vkkry
+Send : Enviar
+
+---------------
+
+Address : 190.227.33.70
+Nombre : ELIZABETH RAQUEL
+Apellido : OVIEDO
+Cargo : ADMINISTRATIVO CONTABLE
+Direccion : independencia 1067 nva cba
+Ciudad : cordoba capital
+Telefono : 0351-152373940
+Email : elirovied@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : DISPONIBILIDAD PARA RADICACION EN OTRA LOCALIDAD  PROVINCIA 
+Security_code : X3D5S
+Send : Enviar
+
+---------------
+
+Address : 190.227.33.70
+Nombre : ELIZABETH RAQUEL
+Apellido : OVIEDO
+Cargo : ADMINISTRATIVO CONTABLE
+Direccion : independencia 1067 nva cba
+Ciudad : cordoba capital
+Telefono : 0351-152373940
+Email : elirovied@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : DISPONIBILIDAD PARA RADICACION EN OTRA LOCALIDAD  PROVINCIA 
+Security_code : X3D5S
+Send : Enviar
+
+---------------
+
+Address : 186.122.46.148
+Nombre : Ernesto Emilio 
+Apellido : Allende Brizuela
+Cargo : repositor .operario.atencion al publico
+Direccion : mazana f casa 1 Barrio reone fabaloro
+Ciudad : San juan
+Telefono : 0264154992112
+Email : necesito un trabajo urgente
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola quisiera poder encotrar trabajo.tengo 2 hijos y muchas deudas .estoy en muy mala situacion 
+Security_code : 342605
+Send : Enviar
+
+---------------
+
+Address : 190.245.42.31
+Nombre : Lorena 
+Apellido : D'Angelo
+Cargo : secretaria/ recepcionista 
+Direccion : Ramon Falcon 1445 3A
+Ciudad : caba
+Telefono : 1530844221/ 4432 3077
+Email : lorenadangelo@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Les pido por favor tengan en cuenta mi cv para nuevas búsquedas. muchas gracias
+Security_code : r58pm
+Send : Enviar
+
+---------------
+

@@ -1,0 +1,15 @@
+Address : 190.18.71.6
+Nombre : Maria Soledad
+Apellido : Romero
+Cargo : Adminsitrativo
+Direccion : bernardo de Irigoyen 1306
+Ciudad : San Telmo
+Telefono : 01143003533
+Email : soledadsgangahvs@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto mi CV para una eventual propuesta laboral.
+Security_code : ppzpb
+Send : Enviar
+
+---------------
+

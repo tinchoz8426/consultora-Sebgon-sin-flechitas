@@ -1,0 +1,123 @@
+Address : 186.13.5.18
+Nombre : ludmila
+Apellido : salotrt
+Cargo : administrativo
+Direccion : 9 de julio 250
+Ciudad : jesus maria
+Telefono : 0352515458136
+Email : lulitheaux@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : joven y con ganas de trabajar
+Security_code : twkvn
+Send : Enviar
+
+---------------
+
+Address : 191.84.12.68
+Nombre : Sabrina 
+Apellido : Romay
+Cargo : atención al público 
+Direccion : Santa Rosa 5743 
+Ciudad : Laferrere
+Telefono : 1137960984
+Email : larasabrinaromay@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : estoy buscando algún empleo, en donde pueda desarrollar al máximo mis capacidades siendo responsable y poder aprender. 
+Security_code : x4m2d
+Send : Enviar
+
+---------------
+
+Address : 191.84.12.68
+Nombre : Sabrina 
+Apellido : Romay
+Cargo : atención al público 
+Direccion : Santa Rosa 5743 
+Ciudad : Laferrere
+Telefono : 1137960984
+Email : larasabrinaromay@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : estoy buscando algún empleo, en donde pueda desarrollar al máximo mis capacidades siendo responsable y poder aprender. 
+Security_code : x4m2d
+Send : Enviar
+
+---------------
+
+Address : 191.84.12.68
+Nombre : Sabrina 
+Apellido : Romay
+Cargo : atención al público 
+Direccion : Santa Rosa 5743 
+Ciudad : Laferrere
+Telefono : 1137960984
+Email : larasabrinaromay@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : estoy buscando algún empleo, en donde pueda desarrollar al máximo mis capacidades siendo responsable y poder aprender. 
+Security_code : x4m2d
+Send : Enviar
+
+---------------
+
+Address : 190.18.150.207
+Nombre : Bruno
+Apellido : Domizi
+Cargo : Recursos humanos/ Seleccion
+Direccion : cespedes 2971 piso 5 dto A
+Ciudad : Capital Federal
+Telefono : 45534033
+Email : bruno.do@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : envío CV
+Security_code : 39c9p
+Send : Enviar
+
+---------------
+
+Address : 190.183.44.201
+Nombre : Maria Victoria
+Apellido : Arzamendia
+Cargo : Administrativo
+Direccion : SANTA FE 475
+Ciudad : CORRIENTES
+Telefono : 0362154117529
+Email : ma.victoria.arzamendia@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Soy una persona proactiva, responsable y eficiente en cuanto a calidad empresarial me capacito constantemente.
+Security_code : sny6x
+Send : Enviar
+
+---------------
+
+Address : 181.117.4.153
+REF : OEL
+Nombre : matias joel 
+Apellido : Miño 
+Cargo : electricista 
+Direccion : Velasco 7031
+Ciudad : gonzález catan 
+Telefono : 1121577445 
+Email : matias-joel@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Solicitaría una entrevista de trabajo 
+
+Security_code : 2k276
+Send : Enviar
+
+---------------
+
+Address : 181.117.4.153
+Nombre : matias joel 
+Apellido : Miño 
+Cargo : cableador 
+Direccion : Velasco 7031
+Ciudad : gonzález catan 
+Telefono : 1121577445 
+Email : matias-joel@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Dejo mis datos y cv para solicitar una entrevista 
+Muchas gracias 
+Security_code : vw8hg
+Send : Enviar
+
+---------------
+

@@ -1,0 +1,33 @@
+Address : 200.24.255.176
+REF : Asistente-Comercial
+Nombre : MARCOS
+Apellido : MONZON
+Cargo : Asistente Comercial
+Direccion : LUIS SAENZ PEÑA
+Ciudad : COMODORO RIVADAVIA
+Telefono : 0297-4578434
+Email : monzonmarcos2008@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : hola buen dia le comento que si bien estoy en otra ciudad estoy buscando poder irme a vivir a mendoza que es la ciudad que gusta y quiero para finalizar mis estudios y establecerme. muchas gracias...
+Security_code : sgx48
+Send : Enviar
+
+---------------
+
+Address : 186.56.159.3
+Nombre : natalia yamila
+Apellido : hubeli
+Cargo : indiferente
+Direccion : senillosa 450
+Ciudad : merlo
+Telefono : (0220) 493 1841
+Email : nataliahubeli@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : hola me llamo natalia, tengo 19 años y estoy en busca de un empleo... 
+me desempeño y adapto muy facilmente...
+desde ya, muchas gracias!
+Security_code : ghh7r
+Send : Enviar
+
+---------------
+

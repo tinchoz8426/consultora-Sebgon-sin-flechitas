@@ -1,0 +1,27 @@
+Address : 190.182.134.14
+Nombre : Juan Alberto
+Apellido : Quintans
+Cargo : Encargado/ Líder de Proyecto
+Direccion : Hipolito Irigoyen 361
+Ciudad : Catrilo, La Pampa
+Telefono : (02954) 57.86.63
+Email : juanny2002@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimado.
+
+De mi consideración: 
+
+Tengo el agrado de dirigirme a Ud. con el objeto de participar en búsquedas acordes a mi perfil. Adjunto  remito mi Curriculum Vitae.
+Cuento con experiencia en el ámbito de los servicios, la supervisión de personal a cargo y la atención al cliente. Me considero proactivo, ordenado, perseverante, responsable y con capacidad de liderazgo.
+Actualmente cuento con disponibilidad completa e inmediata.
+Quedo a su entera disposición ante una eventual entrevista personal con el objetivo de profundizar aspectos de mi perfil que resulten de su interés. 
+Sin otro particular,
+Un cordial saludo
+
+Juan Quintans
+
+Security_code : cys5v
+Send : Enviar
+
+---------------
+

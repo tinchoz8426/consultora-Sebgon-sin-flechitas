@@ -1,0 +1,34 @@
+Address : 181.44.21.119<br>
+ <br>Nombre : martin horacio de dios
+ <br>Apellido : riquelme
+ <br>Cargo : responsable de oficina tecnica. puestos acordes a mi C.V
+ <br>Direccion : calle 141 2213
+ <br>Ciudad : berazategui
+ <br>Telefono : 1536685459
+ <br>Email : mhr2212@live.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : me postulo al puesto de responsable de oficina tecnica, y puestos acordes a mi curriculum. desde ya muchas gracias.
+ <br>Security_code : bmj7z
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.138.35.131<br>
+ <br>Nombre : Analia Veronica
+ <br>Apellido : Ciccioli
+ <br>Cargo : 1714
+ <br>Direccion : Muñiz 407
+ <br>Ciudad : Ituzaingó
+ <br>Telefono : 1553392796
+ <br>Email : analia653@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola, 
+
+Les envío adjunto mi CV solicitándoles puedan incluirlo en su base de datos.
+
+Muchas Gracias
+ <br>Security_code : w4w4h
+ <br>Send : Enviar
+ <br>
+---------------
+

@@ -1,0 +1,339 @@
+Address : 190.51.146.232
+Nombre : oscar
+Apellido : Vila
+Cargo : cualquier trabajo
+Direccion : Fleming 448
+Ciudad : Florencio Varela
+Telefono : 1526593800
+Email : elchino_vivoenmiilusion@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : soy responsable y de rapido aprendisaje.necesito tabajar para alimentar y poder darle un hogar a mi familia.desde ya muchas gracias
+Security_code : jkjdd
+Send : Enviar
+
+---------------
+
+Address : 181.167.99.120
+Nombre : MARIELA HAYDEE
+Apellido : MARRON
+Cargo : ADMIN.-RECEPC-AT. CLIENTE
+Direccion : AV. CABILDO 4160 - 7 D
+Ciudad : BUENOS AIRES
+Telefono : 47014346
+Email : marielamarron@hotmail.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : BUSQUEDA PART TIME
+Security_code : h58r5
+Send : Enviar
+
+---------------
+
+Address : 190.14.174.122
+REF : GETECOM
+Nombre : marcso 
+Apellido : munguia
+Cargo : gerente de compras
+Direccion : naciones unidas 2234
+Ciudad : cipolletti
+Telefono : 0299 156283272
+Email : munguiamarcos@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : esperando una respuesta 
+Security_code : xk8vv
+Send : Enviar
+
+---------------
+
+Address : 190.14.174.122
+REF : GETECOM
+Nombre : marcos daniel 
+Apellido : munguia
+Cargo : gerente de compras
+Direccion : naciones unidas 2234
+Ciudad : cipolletti
+Telefono : 0299 156283273
+Email : munguiamarcos@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : buenos dias me postulo al cargo de gerente de compras, me he desempeñado como vendedor de grandes empresas.
+Security_code : zkbfr
+Send : Enviar
+
+---------------
+
+Address : 186.22.1.53
+Nombre : Vanesa Alejandra
+Apellido : Moreno
+Cargo : Asistente, Auxiliar en Recursos Humanos
+Direccion : 24 de Octubre 1964
+Ciudad : Ituzaingó
+Telefono : 15-34324404
+Email : vane.a.moreno@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me postulo para búsquedas dentro del área de RRHH, quedo a disposición para una entrevista para ampliar mi perfil laboral. Saludos.
+Security_code : gygzr
+Send : Enviar
+
+---------------
+
+Address : 190.16.2.70
+REF : GERENTE-DE-PRODUCCION
+Nombre : Alejandro
+Apellido : Kessler
+Cargo : Gerente de Producción
+Direccion : Sargento Cabral 3920
+Ciudad : Olavarría
+Telefono : 5492284664561
+Email : alejandrokessler@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : De mi mayor consideración:
+
+Les envío en archivo adjunto mi CV por la búsqueda de Gerente de Producción.
+Respecto a la remuneración pretendida es de 34000$ bruto mensuales.
+
+Saludos cordiales,
+Alejandro Kessler
+Security_code : jkjdd
+Send : Enviar
+
+---------------
+
+Address : 190.113.172.151
+Nombre : Katherina Tamara
+Apellido : Lucero
+Cargo : administrativa
+Direccion : paso hondo
+Ciudad : mendoza
+Telefono : 2616750390
+Email : katthy_1122@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : hola buenas tardes les dejo mi cv para postularme y conseguir un buen puesto laboral. gracias
+Security_code : 774ks
+Send : Enviar
+
+---------------
+
+Address : 186.56.33.10
+Nombre : NAHUEL ANDRES
+Apellido : TAGLIABE
+Cargo : ADMINISTRACION/DEPOSITO
+Direccion : SMITH 765
+Ciudad : QUILMES
+Telefono : 42781853
+Email : nahuelandrestagliabue@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados estoy en la búsqueda urgente de un puesto laboral.
+Muchísimas gracias x su atención
+Saluda atte
+Security_code : 774Ks
+Send : Enviar
+
+---------------
+
+Address : 190.6.250.164
+Nombre : CRISTIAN ALEJANDRO
+Apellido : GUTIERREZ
+Cargo : Op. Produccion, Elaborador, Control Calidad
+Direccion : 18 de Julio 1811
+Ciudad : GARIN
+Telefono : (011) 15-5566-7792
+Email : aley_983@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Op. Produccion, Elaborador, Control Calidad
+Security_code : fjwnr
+Send : Enviar
+
+---------------
+
+Address : 186.60.174.230
+Nombre : MARCELO
+Apellido : ZAHORECZ
+Cargo : empleado 
+Direccion : AGUSTIN MAGALDI 1699.
+Ciudad : BUENOS AIRES
+Telefono : 1168910557
+Email : Marce_zahorecz@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : hola. quisiera formar parte de la empresa
+Security_code : md96k
+Send : Enviar
+
+---------------
+
+Address : 186.59.91.30
+Nombre : Maria Rosa 
+Apellido : Gamarra
+Cargo : auxiliar de farmacia, operaria de fabrica
+Direccion : Europa
+Ciudad : San Luis
+Telefono : 0266-154841005
+Email : mariarosa_gamarra@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : hola bueno me gustaria formar parte de su elit de trabajo para aportar mis conocimiento estudiados, y para aportar y poder crecer juntos con mis conocimientos y las enseñansas q pueda aprender.
+Security_code : ncgnn
+Send : Enviar
+
+---------------
+
+Address : 201.250.161.223
+Nombre : Maite
+Apellido : Torreiro
+Cargo : Administrativa Jr.
+Direccion : Gral. Napoleón Uriburu 5755
+Ciudad : capital federal
+Telefono : 46051151
+Email : maite.torreiro@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Busco trabajo no solo como administrativa sino tambien en el área de Diseño Grafico, publicidad, atencion al cliente, call center y promotora
+Security_code : 774ks
+Send : Enviar
+
+---------------
+
+Address : 190.171.239.8
+Nombre : Olivia
+Apellido : Rocabado Abasto
+Cargo : Supervisor de SMS
+Direccion : Av. Pirai C/San diego
+Ciudad : Santa Cruz
+Telefono : 73695101
+Email : olivia_rocabado@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Soy Ing.Control de procesos del pais de Bolivia. Busco trabajo en el área de Seguridad y Medio Ambiente
+Security_code : q69w8
+Send : Enviar
+
+---------------
+
+Address : 186.18.144.22
+Nombre : Antonella
+Apellido : angelini
+Cargo : Telemarketer
+Direccion : Lugones 307
+Ciudad : Remedios de Escalada, Buenos Aires
+Telefono : 1521618690
+Email : Antonellaangelini94@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me comunico con el fin de ser tomada en cuenta para la propuesta laboral. Tengo una excelente presencia,buena dicción ,manejo de herramientas de informática ,soy dinámica y organizada.
+Desde ya espero su respuesta para ampliar cualquier tipo de información necesaria.
+
+Saludos Cordiales
+Antonella.
+Security_code : xfcst
+Send : Enviar
+
+---------------
+
+Address : 186.18.144.22
+Nombre : Antonella
+Apellido : angelini
+Cargo : Telemarketer
+Direccion : Lugones 307
+Ciudad : Remedios de Escalada, Buenos Aires
+Telefono : 1521618690
+Email : Antonellaangelini94@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me comunico con el fin de ser tomada en cuenta para la propuesta laboral. Tengo una excelente presencia,buena dicción ,manejo de herramientas de informática ,soy dinámica y organizada.
+Desde ya espero su respuesta para ampliar cualquier tipo de información necesaria.
+
+Saludos Cordiales
+Antonella.
+Security_code : xfcst
+Send : Enviar
+
+---------------
+
+Address : 186.18.144.22
+Nombre : Antonella
+Apellido : angelini
+Cargo : Telemarketer
+Direccion : Lugones 307
+Ciudad : Remedios de Escalada, Buenos Aires
+Telefono : 1521618690
+Email : Antonellaangelini94@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me comunico con el fin de ser tomada en cuenta para la propuesta laboral. Tengo una excelente presencia,buena dicción ,manejo de herramientas de informática ,soy dinámica y organizada.
+Desde ya espero su respuesta para ampliar cualquier tipo de información necesaria.
+
+Saludos Cordiales
+Antonella.
+Security_code : xfcst
+Send : Enviar
+
+---------------
+
+Address : 186.18.144.22
+Nombre : Antonella
+Apellido : angelini
+Cargo : Telemarketer
+Direccion : Lugones 307
+Ciudad : Remedios de Escalada, Buenos Aires
+Telefono : 1521618690
+Email : Antonellaangelini94@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me comunico con el fin de ser tomada en cuenta para la propuesta laboral. Tengo una excelente presencia,buena dicción ,manejo de herramientas de informática ,soy dinámica y organizada.
+Desde ya espero su respuesta para ampliar cualquier tipo de información necesaria.
+
+Saludos Cordiales
+Antonella.
+Security_code : jzrxq
+Send : Enviar
+
+---------------
+
+Address : 186.18.144.22
+Nombre : Antonella
+Apellido : angelini
+Cargo : Telemarketer
+Direccion : Lugones 307
+Ciudad : Remedios de Escalada, Buenos Aires
+Telefono : 1521618690
+Email : Antonellaangelini94@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me comunico con el fin de ser tomada en cuenta para la propuesta laboral. Tengo una excelente presencia,buena dicción ,manejo de herramientas de informática ,soy dinámica y organizada.
+Desde ya espero su respuesta para ampliar cualquier tipo de información necesaria.
+
+Saludos Cordiales
+Antonella.
+Security_code : jzrxq
+Send : Enviar
+
+---------------
+
+Address : 186.18.144.22
+Nombre : Antonella
+Apellido : angelini
+Cargo : Telemarketer
+Direccion : Lugones 307
+Ciudad : Remedios de Escalada, Buenos Aires
+Telefono : 1521618690
+Email : Antonellaangelini94@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me comunico con el fin de ser tomada en cuenta para la propuesta laboral. Tengo una excelente presencia,buena dicción ,manejo de herramientas de informática ,soy dinámica y organizada.
+Desde ya espero su respuesta para ampliar cualquier tipo de información necesaria.
+
+Saludos Cordiales
+Antonella.
+Security_code : gcftg
+Send : Enviar
+
+---------------
+
+Address : 186.18.144.22
+Nombre : Antonella
+Apellido : Angelini
+Cargo : Telemarketer
+Direccion : Lugones 307
+Ciudad : Remedios de Escalada, Buenos Aires
+Telefono : 1521618690
+Email : Antonellaangelini94@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me comunico con el fin de ser tomada en cuenta para la propuesta laboral. Tengo una excelente presencia,buena dicción ,manejo de herramientas de informática ,soy dinámica y organizada.
+Desde ya espero su respuesta para ampliar cualquier tipo de información necesaria.
+
+Saludos Cordiales
+Antonella.
+Security_code : 9vw8d
+Send : Enviar
+
+---------------
+

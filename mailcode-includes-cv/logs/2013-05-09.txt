@@ -1,0 +1,66 @@
+Address : 186.137.15.163
+Nombre : Virginia 
+Apellido : Carricaburu
+Cargo : Analista de RRHH o a fines
+Direccion : Mar Báltico 513
+Ciudad : Neuquen
+Telefono : 299154094736
+Email : vircburu@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto mi CV, espero que les sea de interés para futuras búsquedas, desde el mes de noviembre pasado estoy radicada en la ciudad de Neuquén.
+Security_code : n7qwv
+Send : Enviar
+
+---------------
+
+Address : 186.137.15.163
+Nombre : Virginia 
+Apellido : Carricaburu
+Cargo : Analista de RRHH o a fines
+Direccion : Mar Báltico 513
+Ciudad : Neuquen
+Telefono : 299154094736
+Email : vircburu@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto mi CV, espero que les sea de interés para futuras búsquedas, desde el mes de noviembre pasado estoy radicada en la ciudad de Neuquén.
+Security_code : phjk9
+Send : Enviar
+
+---------------
+
+Address : 190.224.126.50
+Nombre : Sergio Sebastián
+Apellido : Amarillo
+Cargo : Seguridad General
+Direccion : Aristóbulo del Valle 957
+Ciudad : Concordia
+Telefono : 03454218791
+Email : sebas_020@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Facilito mis datos con el fin de encontrar empleo. Me hablaron muy bien de sus servicios.
+Security_code : 3kh33
+Send : Enviar
+
+---------------
+
+Address : 186.18.112.18
+Nombre : Diana 
+Apellido : Arias Abad
+Cargo : Arquitecta
+Direccion : Beruti 2926 4A
+Ciudad : Capital Federal
+Telefono : 20731941
+Email : dariasabad@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : De mi consideración:
+ 
+Tengo el agrado de Dirigirme a Ud., con el objeto de participar en búsquedas acordes a mi perfil en su empresa. Adjunto le remito mi CV
+De antemano le agradezco.
+Saludos Cordiales 
+
+Diana 
+Security_code : my9f8
+Send : Enviar
+
+---------------
+

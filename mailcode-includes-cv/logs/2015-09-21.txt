@@ -1,0 +1,180 @@
+Address : 186.138.36.144
+Nombre : Irina Cecilia
+Apellido : Blas Pisco
+Cargo : Empleada administrativa
+Direccion : Diego de Aráoz 3334
+Ciudad : castelar
+Telefono : 1540745174
+Email : irina.blas.ib@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados,
+Les hago llegar mi Currículum Vitae, a fin de ser tenida en cuenta como candidata.
+Quedo a su disposición para ampliar cualquier información necesaria.
+Cordialmente,
+Irina Blas
+Security_code : zgyfg
+Send : Enviar
+
+---------------
+
+Address : 200.126.163.26
+Nombre : ALEJANDRO
+Apellido : QUEVEDO
+Cargo : INGENIERO
+Direccion : JUNCAL 4502 6 A
+Ciudad : CAPITAL FEDERAL
+Telefono : 1533614561
+Email : ALEJANDROJQUEVEDO@GMAIL.COM
+MAX_FILE_SIZE : 2097152
+Mensaje : Buen día, adjunto encontrará mi Cv para que me tengan en cuenta en búsquedas con mi perfil profesional.
+
+
+Security_code : zshdx
+Send : Enviar
+
+---------------
+
+Address : 200.126.163.26
+Nombre : María Fernanda
+Apellido : Chourio Guanchez
+Cargo : Ingeniera química, gestión y control de calidad
+Direccion : Juncal 4502, 6A
+Ciudad : Capital Federal
+Telefono : 11-33614432
+Email : mfer.chourio@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estoy en búsqueda, tengo disponibilidad inmediata.
+Espero su consideración.
+Saludos cordiales.
+Security_code : xr83f
+Send : Enviar
+
+---------------
+
+Address : 186.39.213.104
+Nombre : Edgardo
+Apellido : Peralta
+Cargo : operario
+Direccion : DR. Moreno
+Ciudad : Las Heras
+Telefono : 0261-3865450
+Email : peralta.edgardo.16.cabj@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimada Empresa: Me dirijo a ustedes con el motivo del envió adjunto de mi curriculum vitae. Tengo ganas y deseos de trabajar, soy dinámico, ordenado, agíl, pro activo, trabajo en equipo, poseo facilidad para el aprendizaje de nuevos conocimientos, tengo disponibilidad horaria y me puedo adaptar a los objetivos de la empresa. Valoraría mucho una oportunidad. Desde ya muchas gracias
+Security_code : qdxm3
+Send : Enviar
+
+---------------
+
+Address : 186.124.23.247
+Nombre : daniela
+Apellido : zappalá cailotto
+Cargo : diseñadorea/recepcionista/asistente/atencio al cliente
+Direccion : jorge newbery 
+Ciudad : buenos aires
+Telefono : 1531535086
+Email : dani_mzc@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : hola buenos dias estoy en busqueda laboral
+les adjunto mi cv
+espero su respuesta desde ya muchas gracias
+Security_code : rcrhp
+Send : Enviar
+
+---------------
+
+Address : 24.232.144.78
+Nombre : yanina andrea
+Apellido : morales
+Cargo : enpleada y/o cajera
+Direccion : falucho 2394 
+Ciudad : mar del plata
+Telefono : +5492236223908
+Email : yani_andre_mdq@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenos días adjunto mi Curriculum vitae para poder estar a la altura de las próxima selecciones en empleos a cubrir. Muchas 
+Security_code : 2zjrm
+Send : Enviar
+
+---------------
+
+Address : 190.139.139.212
+Nombre : Cristian Gabbriel
+Apellido : Cañete
+Cargo : Operario de producción
+Direccion : 17 de agosto 2228
+Ciudad : Escobar
+Telefono : 0348-15-4347778
+Email : cristiangc24@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola buen día. Les envio mi CV para las búsquedas que ustedes vean acordes a mi perfil. Muchas gracias por su ayuda y por recibirlo
+Security_code : 7crd5
+Send : Enviar
+
+---------------
+
+Address : 200.0.228.162
+Nombre : Bárbara Mabel
+Apellido : Macchiavello
+Cargo : Administrativo
+Direccion : Nazar 1830
+Ciudad : Avellaneda -  Bs. As.
+Telefono : 4265 0219
+Email : barbaramacchia@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me postulo a cualquier vacante en la cual pueda responder a sus pretensiones.  
+Security_code : fczr9
+Send : Enviar
+
+---------------
+
+Address : 201.255.241.38
+Nombre : soledad
+Apellido : Ferreyra
+Cargo : recursos humanos
+Direccion : bartolome mitre 1728
+Ciudad : buenos aires - capital federal 
+Telefono : 1534678020
+Email : feerreyra@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenas tarde, me postulo para el sector de recursos humanos, soy grafologo oficial especializado en selección de personal, mi objetivo es adquirir conocimientos, en una empresa, ya sea en este sector o en otro
+Security_code : tk7hs
+Send : Enviar
+
+---------------
+
+Address : 189.181.165.73
+Nombre : AINA NENETSY
+Apellido : ORTEGA AGUILAR
+Cargo : INSTRUCTOR
+Direccion : NICOLAS SAN JUAN
+Ciudad : DF
+Telefono : 5533470085
+Email : workain@outlook.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Tengo el agrado de dirigirme a usted, con el fin de remitirle mi C.V para ser considerada en su equipo e instructores. Cuento con experiencia en diseño, desarrollo e impartición de cursos y programas de
+capacitación. Por lo cual,  considero reunir los requisitos específicos para el desempeño de este trabajo. 
+
+ Soy una persona proactiva, con orientación a resultados y alta capacidad de análisis, capaz de cumplir retos profesionales y desarrollar habilidades gerenciales. 
+
+Me apasiona crear, mantener y desarrollar condiciones organizacionales que estimulen la eficiencia y
+eficacia administrativa y contribuyan al logro de objetivos institucionales a través de un proceso de mejora continua y una calidad de vida laboral. 
+
+Estoy en absoluta disposición para cambiar de residencia y empezar a laborar inmediatamente. 
+
+Sin otro particular, quedo a su entera disposición ante una eventual entrevista con el objeto de profundizar aspectos de mi perfil que resulten de su interés. 
+  
+
+Lic. Aina Nenetsy Ortega Aguilar
+Consultoría y Capacitación
+Cel. 04555 3347.0085
+Aina Ortega    Datos adjuntos  05:35 p.m.  Documentos
+Tengo el agrado de dirigirme a usted, con el fin de remitirle mi C.V para ser considerada en su equipo e instructores. Cuento con experiencia en diseño, desarrollo e impartición de cursos y programas
+Aina Ortega    Datos adjuntos  05:33 p.m.  Documentos
+Tengo el agrado de dirigirme a usted, con el fin de remitirle mi C.V para ser considerada en su equipo e instructores. Cuento con experiencia en diseño, desarrollo e impartición de cursos y programas de capacitación.
+
+Security_code : prjk4
+Send : Enviar
+
+---------------
+

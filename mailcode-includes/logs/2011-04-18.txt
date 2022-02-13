@@ -1,0 +1,12 @@
+Address : 190.139.14.18
+Nombre : Victor 
+Apellido : Flores
+Empresa : Abogado
+Telefono : xxxxxxx
+Email : victorpadel@hotmail.com
+Mensaje : Soy abogado en Tucumán me gustaria para su empresa capacitando gente o en el trabajo que lo requieran tengo 44 años. Muchas gracias
+Security_code : r4967
+Send : Enviar
+
+---------------
+

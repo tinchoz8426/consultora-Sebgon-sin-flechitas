@@ -1,0 +1,79 @@
+Address : 190.104.208.226<br>
+ <br>REF : ROT-1
+ <br>Nombre : leandro
+ <br>Apellido : de rovere
+ <br>Cargo : jefe oficina tecnica
+ <br>Direccion : congreso 4965 2B
+ <br>Ciudad : buenos aires
+ <br>Telefono : 1565717218
+ <br>Email : leandro.derovere@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : adjunto mi cv
+ <br>Security_code : 7f7rw
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.134.8.5<br>
+ <br>REF : ROT-1
+ <br>Nombre : Alejandro Damian
+ <br>Apellido : Ahcin
+ <br>Cargo : Responsable de oficina tecnica
+ <br>Direccion : Zabala 2443
+ <br>Ciudad : Castelar
+ <br>Telefono : 4627-1521
+ <br>Email : ale_a4ar@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola estoy interesado en la oferta de responsabilidad tecnica, ya que estoy en la busqueda de primer empleo formal. Saludos
+ <br>Security_code : MJX2N
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.134.8.5<br>
+ <br>REF : ROT-1
+ <br>Nombre : Alejandro Damian
+ <br>Apellido : Ahcin
+ <br>Cargo : Responsable de oficina tecnica
+ <br>Direccion : Zabala 2443
+ <br>Ciudad : Castelar
+ <br>Telefono : 4627-1521
+ <br>Email : ale_a4ar@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola estoy interesado en la oferta de responsabilidad tecnica, ya que estoy en la busqueda de primer empleo formal. Saludos
+ <br>Security_code : MJX2N
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.210.152.195<br>
+ <br>Nombre : karen
+ <br>Apellido : zorn
+ <br>Cargo : Jefe de RR.HH.
+ <br>Direccion : Cesar Diza 5030
+ <br>Ciudad : CABA
+ <br>Telefono : 1159770508
+ <br>Email : karenzorn@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Presentación Espontanea
+ <br>Security_code : zjp8jh
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 76.97.107.10<br>
+ <br>REF : TE-1
+ <br>Nombre : Hector
+ <br>Apellido : Centeno
+ <br>Cargo : Electrico
+ <br>Direccion : Penny Lane 
+ <br>Ciudad : Marietta
+ <br>Telefono : 001 470 3631428
+ <br>Email : hector_josec@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Ing. Electronico, con experiencia 
+ <br>Security_code : ry5m8
+ <br>Send : Enviar
+ <br>
+---------------
+

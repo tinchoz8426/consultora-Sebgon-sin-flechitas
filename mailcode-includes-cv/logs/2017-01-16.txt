@@ -1,0 +1,362 @@
+Address : 190.224.151.115<br>
+ <br>REF : TM-2
+ <br>Nombre : Héctor Daniel
+ <br>Apellido : Labasse
+ <br>Cargo : Técnico mecánico
+ <br>Direccion : Santa rosalía 1488
+ <br>Ciudad : San Andrés
+ <br>Telefono : 1557710522
+ <br>Email : daniel_labasse@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : TÉCNICO DE MANTENIMIENTO CON PROBADA EXPERIENCIA
+ <br>Security_code : 52tj9
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.164.37.118<br>
+ <br>Nombre : Daiana
+ <br>Apellido : Iriarte
+ <br>Cargo : Secretaria, Recepcionista, Administrativa, Azafata bancaria.
+ <br>Direccion : Leandro N Alem 1057
+ <br>Ciudad : Morón
+ <br>Telefono : 1539254199
+ <br>Email : daiana_iriarte@live.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados,
+Envió adjunto mi  Currículum Vitae,a fin de ser tenida en cuenta como candidato en sus búsquedas.
+Quedo a su disposición para ampliar cualquier información necesaria.
+Cordialmente,
+Daiana  Iriarte.
+ <br>Security_code : 9nwby
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 200.80.219.90<br>
+ <br>REF : ROT-1
+ <br>Nombre : Damian Andres
+ <br>Apellido : Castell
+ <br>Cargo : responsable oficina técnica
+ <br>Direccion : Casacuberta 735
+ <br>Ciudad : Burzaco
+ <br>Telefono : 1556254424
+ <br>Email : demianarius22@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estoy en busqueda de un nuevo trabajo,necesito progresar economicamente, en el curriculum adjunto estan mis experiencias laborales, las cuales abalan mi tiempo y empeño en el rubro, y  experiencia suficiente para cubrir el puesto solicitado.
+ <br>Security_code : n8x5r
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.12.108.60<br>
+ <br>REF : ACO-1
+ <br>Nombre : Cecilia
+ <br>Apellido : Saffigna
+ <br>Cargo : Estudiantes de RRII y Comex con Inglés y Portugués Avanzado
+ <br>Direccion : Concordia 2546
+ <br>Ciudad : Ciudad de Buenos Aires
+ <br>Telefono : 1567879382
+ <br>Email : ceci_saff@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Licenciada en Comercio Internacional (Graduada)
+ <br>Security_code : y34xn
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 152.169.181.141<br>
+ <br>REF : ROT-1
+ <br>Nombre : Rodrigo José
+ <br>Apellido : Elaskar
+ <br>Cargo : Responsable de oficina técnica (ROT-1)
+ <br>Direccion : Bernardo de Irigoyen 330 Piso 4to Of. 95
+ <br>Ciudad : Ciudad autónoma de Buenos Aires
+ <br>Telefono : 011-15-6459-6523
+ <br>Email : rodrigoelaskar@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados, adjunto mi CV para la selección que están realizando.
+
+atte.
+
+Rodrigo
+ <br>Security_code : y5gk6
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.171.18.124<br>
+ <br>REF : ACO-1
+ <br>Nombre : Federico
+ <br>Apellido : Ojeda
+ <br>Cargo : Analista de Comercio Internacional/Exterior
+ <br>Direccion : Tte. Gral. J.D. Peron 3393, 5A
+ <br>Ciudad : CABA
+ <br>Telefono : 1523153110
+ <br>Email : dfede182@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Código de Referencia: ACO-1
+ <br>Security_code : pnkdn
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 200.127.9.199<br>
+ <br>REF : ACO-1
+ <br>Nombre : Dante Marcos
+ <br>Apellido : Berri
+ <br>Cargo : ANALISTA DE COMERCIO INTERNACIONAL/EXTERIOR
+ <br>Direccion : 14 de julio 463
+ <br>Ciudad : Boulogne
+ <br>Telefono : 1524543098
+ <br>Email : danteberri@outlook.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados señores:
+
+Me dirijo a ustedes con el fin de remitirles mi Curriculum Vitae para ser considerado ante posibles futuros procesos de selección que puedan ajustarse a mi perfil. 
+
+Como podrán observar en el CV adjunto, soy estudiante de Comercio Exterior y Agente de Transporte Aduanero recibido, además tengo un buen expediente académico, alto nivel de inglés.
+Espero tener la oportunidad de conversar con ustedes en una entrevista, para personalmente exponerle mis conocimientos y mi deseo de formar parte de su grupo de trabajo. 
+Quedo a la espera de sus noticias.
+Reciban un cordial saludo,
+                                     Dante Berri
+ <br>Security_code : 85kqn
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 138.186.219.102<br>
+ <br>REF : ROT-1
+ <br>Nombre : cristian
+ <br>Apellido : martinerz
+ <br>Cargo : Dibujante proyectista
+ <br>Direccion : alcorta 1616 esquina terrero
+ <br>Ciudad : Burzaco
+ <br>Telefono : 01138197574
+ <br>Email : caxco.d@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimado
+Mi nombre es cristian martinez y adjunto mi cv con la intencion de cubrir el puesto solicitado
+
+Saludos Cordiales
+Cristian
+ <br>Security_code : qvK2j
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 138.186.219.102<br>
+ <br>REF : ROT-1
+ <br>Nombre : cristian
+ <br>Apellido : martinerz
+ <br>Cargo : Dibujante proyectista
+ <br>Direccion : alcorta 1616 esquina terrero
+ <br>Ciudad : Burzaco
+ <br>Telefono : 01138197574
+ <br>Email : caxco.d@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimado
+Mi nombre es cristian martinez y adjunto mi cv con la intencion de cubrir el puesto solicitado
+
+Saludos Cordiales
+Cristian
+ <br>Security_code : qvk2j
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.24.43.50<br>
+ <br>Nombre : Juan 
+ <br>Apellido : Vielma
+ <br>Cargo : Jefe de producción 
+ <br>Direccion : Ciudad Bolivar
+ <br>Ciudad : Venezuela
+ <br>Telefono : 00584249729717
+ <br>Email : juanvielma23@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados, 
+
+Adjunto mi CV, soy ingeniero químico, especialista en petroleo, polimeros, procesos de producción y medio ambiente, actualmente trabajo en una empresa llamada Masisa, me desempeño como jefe de linea MDP ( producción de tableros de partículas aglomeradas), tengo amplios conocimientos en las normas ISO 9001, 14001, FSC y Ohsas 18000.
+
+Estoy a su plena disposición para aclarar cualquier duda o inquietud sobre mi resumen CV, tengo plena disponibilidad de viajar .
+
+Saludos 
+Ing. Juan Vielma
+ <br>Security_code : 58qqs
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.235.101.94<br>
+ <br>REF : ACO-1
+ <br>Nombre : Brenda
+ <br>Apellido : Frontera
+ <br>Cargo : Analista de Comercio Internacional/Exterior
+ <br>Direccion : Alejandro Margariños Cervantes
+ <br>Ciudad : CAPITAL FEDERAL (CP=)
+ <br>Telefono : 11 3137 1517
+ <br>Email : brendafrontera@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimad@; 
+Me postulo a la búsqueda del asunto.
+Quedo a disposición para coordinar entrevista en día y horario que usted me indique.
+Muchas gracias.
+Cordiales saludos.
+Brenda Frontera
+ <br>Security_code : dddr7
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 216.40.86.192<br>
+ <br>REF : ACO-1
+ <br>Nombre : JOSE
+ <br>Apellido : VARGAS
+ <br>Cargo : ANALISTA DE COMERCIO INTERNACIONAL/EXTRIOR
+ <br>Direccion : 19175 KEPHARTS MILL
+ <br>Ciudad : LANSDOWNE
+ <br>Telefono : 5712749577
+ <br>Email : JSVU58@GMAIL.COM
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Profesional con experiencia Internacional,con conocimiento del Area requerido, desde mi carrera como financiera aca en USA, espero poder servir a Argentina,y aprender de Uds .
+ <br>Security_code : yts95
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 216.40.86.192<br>
+ <br>Nombre : JOSE
+ <br>Apellido : VARGAS
+ <br>Cargo : ANALISTA DE COMERCIO INTERNACIONAL/EXTERIOR 
+ <br>Direccion : 19175 KEPHARTS MILL
+ <br>Ciudad : LANSDOWNE
+ <br>Telefono : 5712749577
+ <br>Email : JSVU58@GMAIL.COM
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Aca , mi CV, en Ingles,para su consideracion. Gracias.
+Skype:vargas1958
+ <br>Security_code : cjfpr
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.231.11.44<br>
+ <br>REF : ACO-1
+ <br>Nombre : Nicolas
+ <br>Apellido : Herrero
+ <br>Cargo : ACO-1 - Analista de Comercio Exterior
+ <br>Direccion : Migueletes 1155
+ <br>Ciudad : CABA
+ <br>Telefono : 1159326734
+ <br>Email : nicoharrods@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados
+
+Les escribo con la intención de ser tenido en consideración para la búsqueda activa de Analista de Comercio Exterior.
+
+El pasado año finalicé mis estudios en la Licenciatura en Comercio Exterior en la Universidad de Belgrano. Actualmente me resta defender el Trabajo Final de Carrera, el cual ya fue presentado, para contar con el título en mano
+
+Desde hace dos años y medio vengo desarrollando labores de Comercio Exterior en Carpe Scheider & Cia. S.A, empresa importadora representante de laboratorios nacionales.
+
+Espero tener la oportunidad de conversar con ustedes en una futura entrevista. Adjunto mi CV.
+
+Reciban un cordial saludo,
+
+ 
+
+Nicolás Herrero
+ <br>Security_code : jknys
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.231.11.44<br>
+ <br>REF : ACO-1
+ <br>Nombre : Nicolas
+ <br>Apellido : Herrero
+ <br>Cargo : ACO-1 - Analista de Comercio Exterior
+ <br>Direccion : Migueletes 1155
+ <br>Ciudad : CABA
+ <br>Telefono : 1159326734
+ <br>Email : nicoharrods@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados
+
+Les escribo con la intención de ser tenido en consideración para la búsqueda activa de Analista de Comercio Exterior.
+
+El pasado año finalicé mis estudios en la Licenciatura en Comercio Exterior en la Universidad de Belgrano. Actualmente me resta defender el Trabajo Final de Carrera, el cual ya fue presentado, para contar con el título en mano
+
+Desde hace dos años y medio vengo desarrollando labores de Comercio Exterior en Carpe Scheider & Cia. S.A, empresa importadora representante de laboratorios nacionales.
+
+Espero tener la oportunidad de conversar con ustedes en una futura entrevista. Adjunto mi CV.
+
+Reciban un cordial saludo,
+
+ 
+
+Nicolás Herrero
+ <br>Security_code : d6vpp
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.95.187.178<br>
+ <br>REF : ACO-1
+ <br>Nombre : Gastón
+ <br>Apellido : Esponda
+ <br>Cargo : Analista ce Comercio Internacional
+ <br>Direccion : José M Estrada 360
+ <br>Ciudad : Campana
+ <br>Telefono : 0111549949022
+ <br>Email : mgesponda@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados,
+
+Adjunto envío mi CV para la búsqueda laboral de referencia.
+ 
+Soy Licenciado en Comercio Exterior y cuento con amplia experiencia en importaciones, exportaciones, logística nacional e internacional, programación y control de producción, etc.
+
+También cuento con amplio dominio de idioma inglés y conocimientos de computación.
+
+Actualmente estoy trabajando por mi cuenta pero estoy muy interesado en volver a trabajar en relación de dependencia.
+
+Sin otro particular y a la espera de poder ampliar esta información en una entrevista personal los saludo atentamente.
+
+Gastón Esponda 
+011 15 4 994-9022
+
+ <br>Security_code : zggcj
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.117.0.48<br>
+ <br>Nombre : Diego Martin
+ <br>Apellido : Rojas
+ <br>Cargo : seguridad e higiene
+ <br>Direccion : Misiones 1502
+ <br>Ciudad : merlo
+ <br>Telefono : 1127204590
+ <br>Email : diego.rojas7721@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : LES COMENTO QUE ESTOY CURSANDO EL 3ºAÑO DE LA CARRERA DE TÉCNICO EN SEGURIDAD E HIGIENE Y ME GUSTARIA FORMAR PARTE DE SU EQUIPO DE TRABAJO PARA TOMAR EXPERIENCIA .DESDE YA QUEDO A SU DISPOCISION PARA CUALQUIER CONSULTA
+ <br>Security_code : SZ2K4
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.117.0.48<br>
+ <br>Nombre : Diego Martin
+ <br>Apellido : Rojas
+ <br>Cargo : seguridad e higiene
+ <br>Direccion : Misiones 1502
+ <br>Ciudad : merlo
+ <br>Telefono : 1127204590
+ <br>Email : diego.rojas7721@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : LES COMENTO QUE ESTOY CURSANDO EL 3ºAÑO DE LA CARRERA DE TÉCNICO EN SEGURIDAD E HIGIENE Y ME GUSTARIA FORMAR PARTE DE SU EQUIPO DE TRABAJO PARA TOMAR EXPERIENCIA .DESDE YA QUEDO A SU DISPOCISION PARA CUALQUIER CONSULTA
+ <br>Security_code : SZ2K4
+ <br>Send : Enviar
+ <br>
+---------------
+

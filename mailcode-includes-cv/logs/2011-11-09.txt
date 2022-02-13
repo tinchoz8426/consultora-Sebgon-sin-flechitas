@@ -1,0 +1,15 @@
+Address : 201.252.107.13
+Nombre : Cristina
+Apellido : Yapura
+Cargo : administrativo
+Direccion : kenedy 5216
+Ciudad : caseros
+Telefono : 47348505
+Email : cristynacdm@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto mi cv para busquedas laborales acordes a mi perfil.
+Security_code : vzshx
+Send : Enviar
+
+---------------
+

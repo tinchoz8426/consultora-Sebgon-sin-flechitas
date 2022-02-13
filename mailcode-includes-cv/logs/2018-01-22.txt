@@ -1,0 +1,30 @@
+Address : 190.244.163.73<br>
+ <br>Nombre : JORGE
+ <br>Apellido : FUENTES
+ <br>Cargo : OPERARIO
+ <br>Direccion : SAVEDRA 1031
+ <br>Ciudad : ZARATE
+ <br>Telefono : 1126990456
+ <br>Email : jorgeasuntoslaboraales@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : ETC.
+ <br>Security_code : mmcxj
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.247.117.119<br>
+ <br>Nombre : sebastian eduardo
+ <br>Apellido : passaniti
+ <br>Cargo : limpieza/mantenimiento/operario
+ <br>Direccion : Dr Amadeo Sabattini 5275
+ <br>Ciudad : Caseros
+ <br>Telefono : 1162963457
+ <br>Email : sebastianpassaniti@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : DESEO CONSEGUIR EMPLEO, YA SE DE LIMPIEZA/MANTENIMIENTO U OPERARIO QUE ES DE LO QUE TENGO EXPERIENCIA O ASI MISMO CUALQUIER OTRO EMPLEO,SE DESEMPEÑARME BIEN Y RAPIDO
+ <br>Security_code : q585K
+ <br>Send : Enviar
+ <br>
+---------------
+

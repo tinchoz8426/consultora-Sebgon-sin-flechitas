@@ -1,0 +1,213 @@
+Address : 186.23.21.12<br>
+ <br>REF : ROT-1
+ <br>Nombre : Maximiliano
+ <br>Apellido : Carrizo
+ <br>Cargo : Responsable de oficina tècnica
+ <br>Direccion : Bogota 1675
+ <br>Ciudad : CABA
+ <br>Telefono : 1566280074
+ <br>Email : maximilianorcarrizo@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenos días. Adjunto mi CV para la oferta de REsponsable de oficina técnica así como para también ser tenido en cuenta en futuras busquedas que apliquen a mi perfil. Gracias
+ <br>Security_code : nzn44
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.106.47.14<br>
+ <br>Nombre : Estrella de Jesus
+ <br>Apellido : Perez Diaz
+ <br>Cargo : seguridad e higiene
+ <br>Direccion : 8 n.140
+ <br>Ciudad : Berisso
+ <br>Telefono : 2215470163
+ <br>Email : estrella_perez_88@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Actualmente estoy cursando todas las materias de 3 año desde ya muchas gracias por su atencion. PEREZ ESTRELLA.
+ <br>Security_code : dsczg
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.106.47.14<br>
+ <br>Nombre : Estrella de Jesus
+ <br>Apellido : Perez Diaz
+ <br>Cargo : seguridad e higiene
+ <br>Direccion : 8 n.140
+ <br>Ciudad : Berisso
+ <br>Telefono : 2215470163
+ <br>Email : estrella_perez_88@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Actualmente estoy cursando todas las materias de 3 año desde ya muchas gracias por su atencion. PEREZ ESTRELLA.
+ <br>Security_code : dsczg
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.166.198.174<br>
+ <br>REF : ROT-1
+ <br>Nombre : Francisco A.
+ <br>Apellido : Fazio
+ <br>Cargo : RESPONSABLE DE OFICINA TECNICA 
+ <br>Direccion : Boedo 510
+ <br>Ciudad : Lomas de Zamora
+ <br>Telefono : 1154588137
+ <br>Email : paco_sub@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Diseñador Industrial (uba) con experiencia y orientado a desarrollo d producto e ingeniería inversa.
+Lógico, pragmático, capacidad de trabajar en forma interdisciplinaria.
+Actualmente cursando una Especialización en Plásticos (INTI) e incursionando en Catia y Abaqus.
+Cuento con experiencia en solidworks y programas de diseño, realización d planos y gestión d prototipos, por lo q puedo resultar una opción interesante para ustedes.
+Ganas d seguir aprendiendo, capacitando y superandome.
+
+Atte Francisco
+
+Pd_ Enviaré porfolio con trabajos al mail q indiquen
+ <br>Security_code : s2prx
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.57.153.162<br>
+ <br>REF : chr
+ <br>Nombre : Pablo David
+ <br>Apellido : Juarez Lazarte 
+ <br>Cargo : Chofer
+ <br>Direccion : Tres Cruces 1086
+ <br>Ciudad : Rafael castillo
+ <br>Telefono : 1523293271
+ <br>Email : pablodylandemian@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Soy una persona responsable y de facil adaptacion en grupos de trabajos..estoy capacitado para enfrentar nuevos desafíos para lograr objetivos que impliquen  un crecimiento tanto personal como profesional.  
+ <br>Security_code : mjjy9
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 170.51.95.199<br>
+ <br>REF : chr
+ <br>Nombre : Gustavo Javier
+ <br>Apellido : Delgado Ayala
+ <br>Cargo : Chofer de reparto, con experiencia en manejo de clark
+ <br>Direccion : Coronel González 85
+ <br>Ciudad : San Miguel del monte
+ <br>Telefono : 01162488208
+ <br>Email : Gustayala38@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Tengo movilidad para acercarme hasta el trabajo.
+ <br>Security_code : G72bz
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.46.102.196<br>
+ <br>REF : chr
+ <br>Nombre : Richard Josue 
+ <br>Apellido : Alvarado Nunez 
+ <br>Cargo : Chofer de Reparto
+ <br>Direccion : Recoleta Uriburu 1033
+ <br>Ciudad : Buenos Aires 
+ <br>Telefono : 1127675891
+ <br>Email : richard_1892@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola Adjunto encontraras mi CV, Esperando una buena respuesta de su parte  
+ <br>Security_code : msy2b
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.90.111.184<br>
+ <br>REF : chr
+ <br>Nombre : Fernando Nicolas
+ <br>Apellido : Aguilar
+ <br>Cargo : Chofer 
+ <br>Direccion : sebastian elcano 1056
+ <br>Ciudad : acassuso
+ <br>Telefono : 47931988
+ <br>Email : fernando_n_aguilar@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me interesa la propuesta
+ <br>Security_code : 265hk
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.90.111.184<br>
+ <br>REF : chr
+ <br>Nombre : Fernando Nicolas
+ <br>Apellido : Aguilar
+ <br>Cargo : Chofer 
+ <br>Direccion : sebastian elcano 1056
+ <br>Ciudad : acassuso
+ <br>Telefono : 47931988
+ <br>Email : fernando_n_aguilar@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me interesa la propuesta
+ <br>Security_code : 265hk
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.2.49.149<br>
+ <br>REF : JPER-1
+ <br>Nombre : Silvina
+ <br>Apellido : Varela
+ <br>Cargo : Jefe de Personal 
+ <br>Direccion : Lope de Vega 316 Dpto B
+ <br>Ciudad : CABA
+ <br>Telefono : 1560103484
+ <br>Email : silvinalauravarela@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Sres, adjunto mi CV para la busqueda Jefe de Personal para desempeñarse en Importante Empresa Alimenticia Líder en su rubro. No esta demasiado claro el lugar donde se prestaria servicio, por lo que dejo mi CV condicionalmente. Gracias. Silvina Varela 
+ <br>Security_code : fq6nr
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.129.180.149<br>
+ <br>Nombre : Macarena
+ <br>Apellido : Hornos
+ <br>Cargo : Cualquiera
+ <br>Direccion : falucho 2389 3 J
+ <br>Ciudad : Mar del Plata
+ <br>Telefono : 3329-580784
+ <br>Email : maqe_17@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola, mi nombre es Hornos Macarena y estoy en busca de trabajo. Me adapto rapido a cualquier tipo de trabajo. Gracias por recibir mi cv. Saludos, Macarena
+ <br>Security_code : wmrgh
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.9<br>
+ <br>REF : chr
+ <br>Nombre : Alfredo Ezequiel 
+ <br>Apellido : Cancela 
+ <br>Cargo : Ayudante
+ <br>Direccion : Albariño 2832
+ <br>Ciudad : Lugano 
+ <br>Telefono : 1121676716
+ <br>Email : Santymoreluz@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola estoy en búsqueda de cualquier tipo de trabajo para ayudante . Estuve 14 años trabajando en la serenisima en el sector de distribución de mercadería 
+ <br>Security_code : N83yv
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.9<br>
+ <br>REF : chr
+ <br>Nombre : Alfredo Ezequiel 
+ <br>Apellido : Cancela 
+ <br>Cargo : Ayudante
+ <br>Direccion : Albariño 2832
+ <br>Ciudad : Lugano 
+ <br>Telefono : 1121676716
+ <br>Email : Santymoreluz@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola estoy en búsqueda de cualquier tipo de trabajo para ayudante . Estuve 14 años trabajando en la serenisima en el sector de distribución de mercadería 
+ <br>Security_code : N83yv
+ <br>Send : Enviar
+ <br>
+---------------
+

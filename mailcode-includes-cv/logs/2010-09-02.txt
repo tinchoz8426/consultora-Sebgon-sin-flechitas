@@ -1,0 +1,63 @@
+Address : 190.51.148.19
+Nombre : HECTOR
+Apellido : Safa 
+Cargo : OPERARIO  de produccion
+Direccion : FERRE 964
+Ciudad : JOSE MARMOL  (ZONA SUR )
+Telefono : 42996831-  42945559
+Email : h.safad@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : operario de produccion pirelli
+Security_code : jb45p
+Send : Enviar
+
+---------------
+
+Address : 186.136.100.196
+Nombre : Javier
+Apellido : Fernandez Da silva
+Cargo : Gerente
+Direccion : Brio. Privado Galapagos
+Ciudad : Pilar
+Telefono : 03488639091
+Email : jfdasilva@fibertel.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje :  Sres.
+ 
+Tengo el agrado de dirigirme a Uds. a efectos de hacerles llegar mis referencias personales, solicitando se me considere frente a un eventual requerimiento, acorde con mi perfil.
+            
+Poseo una sólida trayectoria en la gestión administrativa y financiera, dado que en la misma e incursionado en todos los segmentos del área, desempeñándome durante los últimos años en el nivel de máxima responsabilidad.
+            
+Dado que trabaje en el área de Latinoamérica, he incorporado gran conocimiento en el desarrollo de negocios en la región.
+ 
+En cuanto a mi estilo de gestión, otra de las competencias desarrolladas es la resolución de situaciones económicas - financieras y presupuestarias. Todo ello puede ser expuesto a nivel del detalle deseado.
+ 
+            Solicito quiera tener a bien brindarme una entrevista personal para ampliar todo detalle que se considere de interés y poder explicarme sobre mis logros personales.
+
+Security_code : nwspc
+Send : Enviar
+
+---------------
+
+Address : 190.173.12.202
+Nombre : Matías Nicolás
+Apellido : Di Lisi
+Cargo : Administrativo
+Direccion : Acevedo 3555
+Ciudad : Lanús Este
+Telefono : 4248-1305
+Email : matynico2004@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : 
+Soy una persona que concentra toda su energia para el logro de los resultados fijados, actúo con prudencia, suelo adaptarme rápido a cambios y realizo las cosas con bastante rapidez.
+Me considero muy detallista, me atengo a las normas, presto atención detenidamente, suelo crear un clima cálido para generar buenas relaciones en el grupo laboral.
+Suelo prestar atención a la necesidad de mis colegas, en ese aspecto, no soy competitivo, trato de ser lo más generoso posible.
+Soy persuasivo y simpático; poseo razonamientos precisos y suelo demostrarlo en la práctica. Soy una persona muy perseverante, trato de superar las dificultades que surjan. Como he mencionado anteriormente, soy solidario con mis compañeros, me adapto fácilmente a un equipo de trabajo y movilizo a los demás a realizar proyectos (sin ser autoritario).
+Me acomodo fácilmente a tareas asignadas, me dedico plenamente a ellas con cuidado y trato se ser lo más minucioso posible.
+Ante la solicitud de tareas, las preparo minuciosamente para que el material realizado, quede hecho sin imperfecciones.
+
+Security_code : 7w3t6
+Send : Enviar
+
+---------------
+

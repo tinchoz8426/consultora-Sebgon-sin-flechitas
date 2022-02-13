@@ -1,0 +1,16 @@
+Address : 190.246.68.58<br>
+ <br>REF : EP-1
+ <br>Nombre : Ignacio
+ <br>Apellido : Vasapollo
+ <br>Cargo : Encargado de produccion
+ <br>Direccion : Homero 2065
+ <br>Ciudad : CABA
+ <br>Telefono : 1562024059
+ <br>Email : vasapolloignacio@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados estoy interesado en el puesto. Agradezco contacto por correo electrónico por viaje al exterior durante Diciembre hasta 17 de enero
+ <br>Security_code : mmw84
+ <br>Send : Enviar
+ <br>
+---------------
+

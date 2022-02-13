@@ -1,0 +1,15 @@
+Address : 190.193.9.135
+Nombre : Rosana
+Apellido : Pare
+Cargo : Analista de Recursos Humanos / Analista de Reclutamiento y Seleción
+Direccion : 15 n° 1294
+Ciudad : La Plata
+Telefono : 0221-155660458
+Email : rosanavpare@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto cv para las futuras búsuqedas que se generen en su consultora o para los procesos de búsqueda de sus clientes.
+Security_code : 7xvvm
+Send : Enviar
+
+---------------
+

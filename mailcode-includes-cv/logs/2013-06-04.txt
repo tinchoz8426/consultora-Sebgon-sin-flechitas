@@ -1,0 +1,108 @@
+Address : 177.84.160.215
+Nombre : Diego
+Apellido : Romulo
+Cargo : RESPONSABLE DE VENTAS
+Direccion : Cap. Bermudez 3206
+Ciudad : Olivos - Buenos Aires
+Telefono : 011 15 4038-5151
+Email : diegoromulo@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Envio mi CV para su consideracion, me motiva conocer mas sobre esta posicion, la industria de Pet Food resulta muy interesante para mi desarrollo por su crecimiento y futuro en Argentina. Muchas Gracias por contactarme para conocer mas sobre ambos y descubrir si podemos potenciarnos mutuamente.
+Saludos cordiales
+Security_code : 7mxdh
+Send : Enviar
+
+---------------
+
+Address : 181.164.100.139
+Nombre : Oscar
+Apellido : Alao
+Cargo : Arquitectura
+Direccion : Ciudad de la paz 850 (colegiales)
+Ciudad : buenos aires
+Telefono : 1557452185
+Email : oscaralao@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estudiante de arquitectura avanzado de la facultad de buenos aires 
+Security_code : qpqx5
+Send : Enviar
+
+---------------
+
+Address : 186.56.189.49
+Nombre : Rosario belén 
+Apellido : aredes
+Cargo : ventas
+Direccion : cañonera 1332 barrio v. verde
+Ciudad : pilar
+Telefono : 02304433771
+Email : rohharedes@yahoo.com
+MAX_FILE_SIZE : 2097152
+Mensaje : envio curriculum
+Security_code : bbw39
+Send : Enviar
+
+---------------
+
+Address : 190.174.25.32
+Nombre : Claudio Alejandro
+Apellido : Muto Rey
+Cargo : Operario
+Direccion : Mazza 3162
+Ciudad : Moron
+Telefono : 46970470
+Email : claudio_mr_1991@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estoy disponible apenas surja alguna propuesta
+Security_code : bxx4d
+Send : Enviar
+
+---------------
+
+Address : 200.82.62.220
+Nombre : esteban
+Apellido : llancafil
+Cargo : seguridad o repositor.
+Direccion : roullion 3618
+Ciudad : rosario
+Telefono : 03414325389
+Email : estebanllancafil@hotmail.es
+MAX_FILE_SIZE : 2097152
+Mensaje : necesito tarabajar,me interesa esos puestos disponibilidad horaria..
+Security_code : qbjtz
+Send : Enviar
+
+---------------
+
+Address : 186.18.152.129
+Nombre : Alejandro
+Apellido : Chichoni
+Cargo : Jefatura
+Direccion : Leguizamon 88
+Ciudad : CABA
+Telefono : 011 20543399
+Email : fliachichoni@infovia.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Envio de CV
+Ing. en Alimentos
+Security_code : qhpzs
+Send : Enviar
+
+---------------
+
+Address : 190.245.93.23
+Nombre : Diego
+Apellido : Romulo
+Cargo : Comercial Pet Food
+Direccion : Bermudez 3206
+Ciudad : Olivos Buenos Aires
+Telefono : 011 15 4 038 5151
+Email : diegoromulo@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto mi CV para su consideracion. Me interesa desarrollar mi carrera comercial en la industria de Pet Food encuentro mucho putencial a futuro y me gustaria conocer mas detalles de la posicion para evaluar si una relacion puede agregar valor a ambos.
+desde ya muchas Gracias
+Security_code : qkqtn
+Send : Enviar
+
+---------------
+

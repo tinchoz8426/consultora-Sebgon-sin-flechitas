@@ -1,0 +1,15 @@
+Address : 190.221.85.62
+Nombre : Vanessa Paola
+Apellido : Depatta
+Cargo : Secretaria - Asistente Administrativa
+Direccion : Lobos 1747, depto. 8
+Ciudad : Castelar - Buenos Aires
+Telefono : 5292-6637 / 15-4991-3247
+Email : vanedepatta@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Envío adjunto mi Currículum Vitae para considerar y ha tener en cuenta en futuras búsquedas laborales, ampliaré el mismo con mucho gusto en una entrevista personal. Muchas gracias, atte. y a la espera de una pronta respuesta.
+Security_code : j7pyf
+Send : Enviar
+
+---------------
+

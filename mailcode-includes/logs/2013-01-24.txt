@@ -1,0 +1,13 @@
+Address : 200.125.113.86
+Nombre : JORGE
+Apellido : ABAN
+Empresa : PARTICULAR
+Telefono : 011 1531198708
+Email : jorgeaban@gmail.com
+Mensaje : Estimados:
+Quiero consultarles como puedo conocer las ofertas laborales para postularme. Saludos.
+Security_code : 82n94
+Send : Enviar
+
+---------------
+

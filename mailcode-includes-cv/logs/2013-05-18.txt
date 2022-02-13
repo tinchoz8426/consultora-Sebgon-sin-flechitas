@@ -1,0 +1,41 @@
+Address : 190.16.221.165
+Nombre : Dana
+Apellido : Garfunkel
+Cargo : recepcionista
+Direccion : Acvedo 69
+Ciudad : caba
+Telefono : 1564756917
+Email : garfunkel.dana@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : A quien corresponda,
+
+En este momento estoy desempleada y lo ideal seria encontrar algo como recpcionista, pero estoy abierta a otras propuestas.
+
+Muchas gracias!
+
+Dana
+Security_code : jhtg5
+Send : Enviar
+
+---------------
+
+Address : 190.19.121.130
+Nombre : Patricio
+Apellido : Garabello
+Cargo : Comercio Exterior (Jr)
+Direccion : Av. Pedro Goyena 550
+Ciudad : Caballito, CABA
+Telefono : 1533606544
+Email : patriciogarabello@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : A quien correspoda,
+Por el presente, adjunto mi CV, para que conozcan mi perfil a través del mismo, y mi interés profesional, ya que estoy acercándome al final de mi Carrera en Comercio Internacional. Asimismo me gustaría que me tengan presente para alguna posición acorde a mi experiencia.
+Mi experiencia laboral hasta la fecha, demuestra mi gran capacidad para trabajar en equipo, y aceptar tareas y responsabilidades, en forma creciente.  Me considero una persona responsable, organizada, trabajadora, creativa, dinámica,  y con gran voluntad de aprender en forma continua, características que creo pueden sumar valor agregado a una organización.
+Desde ya muchas gracias por darme la oportunidad de ingresar mis datos laborales por este medio.
+Saludo Atte,
+Patricio Garabello.
+Security_code : gkrt4
+Send : Enviar
+
+---------------
+

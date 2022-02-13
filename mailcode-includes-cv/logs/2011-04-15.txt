@@ -1,0 +1,30 @@
+Address : 186.124.0.238
+Nombre : Javier Aníbal
+Apellido : Viñabal
+Cargo : Capacitador Externo
+Direccion : Los Mistoles N° 182
+Ciudad : Salta
+Telefono : 0387154478740
+Email : javier.rrhh@live.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Para la postulación al puesto Capacitador Externo para la ciudad de Salta.-
+Security_code : h9ppn 
+Send : Enviar
+
+---------------
+
+Address : 186.124.0.238
+Nombre : Javier Aníbal
+Apellido : Viñabal
+Cargo : Capacitador Externo Salta
+Direccion : Los Mistoles N°182
+Ciudad : Salta
+Telefono : 0387154478740
+Email : javier.rrhh@live.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Para la postulación al puesto de Capacitador Externo para la provincia de Salta
+Security_code : qd3t6
+Send : Enviar
+
+---------------
+

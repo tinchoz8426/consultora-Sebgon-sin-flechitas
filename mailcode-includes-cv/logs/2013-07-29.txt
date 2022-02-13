@@ -1,0 +1,15 @@
+Address : 200.114.205.43
+Nombre : Iribarne Wynne
+Apellido : Maria Agustina
+Cargo : Atencion al cliente
+Direccion : Chacabuco 52
+Ciudad : Cordoba
+Telefono : 03525-14641167
+Email : aguiribarne@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Para proximas vacantes laborales, adjunto mi curriulum. Muchisimas gracias!
+Security_code : 5fhs8
+Send : Enviar
+
+---------------
+

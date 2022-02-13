@@ -1,0 +1,52 @@
+Address : 190.48.252.30
+REF : jefe-de-operaciones
+Nombre : carlos sebastian
+Apellido : carrizo
+Cargo : seguridad
+Direccion : olivieri 5154
+Ciudad : laferrere
+Telefono : 46982630
+Email : master2683@hotmail.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : quisiera formar parte de la empresa
+Security_code : n63nd
+Send : Enviar
+
+---------------
+
+Address : 200.110.181.218
+Nombre : Edgardo Maria
+Apellido : Alegre
+Cargo : Jefe de Operaciones
+Direccion : Bolivar Sud 331
+Ciudad : Alberti
+Telefono : 02346-15511940
+Email : correo_seguro_sss@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Sta. Andrea Tabascio
+S......./........D.-
+
+                   Buenas tardes, en caso de no poder abrir el archivo que le envio en el campo correspondiente, le ruego me agrege a mi correo personal, me despido de usted a la espera de una respuesta satisfactoria, desde ya muchas gracias.-
+Security_code : 4dc6h
+Send : Enviar
+
+---------------
+
+Address : 200.110.181.218
+Nombre : Edgardo Maria
+Apellido : Alegre
+Cargo : Jefe de Operaciones
+Direccion : Bolivar Sud 331
+Ciudad : Alberti
+Telefono : 02346-15511940
+Email : correo_seguro_sss@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Sta. Andrea Tabascio
+S......./.......D.-
+
+Buenas tardes, me es imposible enviarle mi C.V., por este medio. Lepido por favor que me agrege en su correo de HOTMAIL,(CORREO_SEGURO_SSS@HOTMAIL.COM), a los efectos de enviarle mi C.V., completo. Desde ya muchas gracias, me despido de usted, a la espera de una respuesta satisfactoria.-  
+Security_code : dqhq8
+Send : Enviar
+
+---------------
+

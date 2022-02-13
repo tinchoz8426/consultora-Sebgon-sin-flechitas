@@ -1,0 +1,14 @@
+Address : 190.173.83.20
+Nombre : Fernando
+Apellido : Dezotti
+Empresa : Elacin
+Telefono : 44887000
+Email : fernando.elacin@gmail.com
+Mensaje : Estaba interesado por los informes laborales, juicios laborales, acuerdos en seclo, etc quisiera saber costos y plazos de entrega.
+muchas gracias.
+atte. Fernando Dezotti
+Security_code : 63pyd
+Send : Enviar
+
+---------------
+

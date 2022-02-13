@@ -1,0 +1,45 @@
+Address : 181.80.201.82
+Nombre : pablo jose 
+Apellido : amarilla
+Cargo : operario
+Direccion : san vicente 276
+Ciudad : escobar
+Telefono : 011-1530927353
+Email : pablo_25rockandroll@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : operario 2 meses en la empresa procter .
+Security_code : jynfb
+Send : Enviar
+
+---------------
+
+Address : 181.80.201.82
+Nombre : pablo jose 
+Apellido : amarilla
+Cargo : operario
+Direccion : san vicente
+Ciudad : escobar
+Telefono : 011-1530927353
+Email : pablo_25rockandroll@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : operario 2 meses en la empresa procter .
+Security_code : jynfb
+Send : Enviar
+
+---------------
+
+Address : 190.172.6.179
+Nombre : María José
+Apellido : Paulo
+Cargo : Recepcionista
+Direccion : san jose 293
+Ciudad : Capital Federal
+Telefono : 1156053229
+Email : majo.paulo@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estoy interesada en formar parte de su empresa, con la espera de una positiva respuesta
+Security_code : sq3f4
+Send : Enviar
+
+---------------
+

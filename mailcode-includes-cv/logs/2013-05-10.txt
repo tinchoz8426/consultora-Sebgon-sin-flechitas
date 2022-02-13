@@ -1,0 +1,158 @@
+Address : 190.104.197.18
+Nombre : Francisco
+Apellido : Loiacono
+Cargo : Supervisor de deposito
+Direccion : Gonzalez Castillo 66 Depto 5
+Ciudad : Ramos Mejia
+Telefono : 4464-0575
+Email : franciscoloiacono@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : De mi mayor consideracion, me dirijo a uds. con el fin de hacerles llegar mi curriculum vitae para que conste en su base de datos para futuras busquedas
+Me considero una persona capaz, organizada y que sabe trabajar en equipo, siempre en busca del cumplimiento de los objetivos.
+Espero tener la posibilidad de una pronta entrevista con uds.
+Saluda atte.
+Francisco Loiacono
+Security_code : qbnj8
+Send : Enviar
+
+---------------
+
+Address : 190.179.183.222
+Nombre : Johana Rosa
+Apellido : Anglada
+Cargo : Varios
+Direccion : Barrio Jardín Aeroparque M10 C27
+Ciudad : Mendoza
+Telefono : 0261-156821575
+Email : johaanglada@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Disponibilidad Full Time y abierta a propuestas laborales variadas.
+Security_code : 9p97w
+Send : Enviar
+
+---------------
+
+Address : 186.130.68.121
+Nombre : Ariel
+Apellido : D'Estéfano
+Cargo : Repositor
+Direccion : Las Heras 4590 1a
+Ciudad : Mar del Plata
+Telefono : 02235063044
+Email : arieldestef@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola. Les envío mi CV, ya que actualmente estoy sin trabajo. tengo 13 años de experiencia como REPOSITOR en supermercados, en MAR DEL PLATA. Agradezco que me tengan en cuenta. Atte.
+Security_code : n792y
+Send : Enviar
+
+---------------
+
+Address : 186.130.68.121
+Nombre : Ariel
+Apellido : D'Estéfano
+Cargo : Repositor
+Direccion : Las Heras 4590 1a
+Ciudad : Mar del Plata
+Telefono : 02235063044
+Email : arieldestef@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Les envío mi CV. Tengo 13 años de exp. como REPOSITOR en supermercados, en MAR DEL PLATA. Atte.
+Security_code : vmm3r
+Send : Enviar
+
+---------------
+
+Address : 190.211.80.111
+Nombre : Gaston Eduardo
+Apellido : Rodriguez Larraburú
+Cargo : SEGURIDAD E HIGIENE
+Direccion : 2 DE ABRIL 448
+Ciudad : RIVADAVIA
+Telefono : 0263154510091
+Email : gaston_rvia@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenos Días:
+
+Mi nombre es Gastón Rodriguez Larraburú, Licenciado en calidad, medio ambiente, seguridad e higiene laboral.
+
+El motivo de este mail es ofrecer servicios como profesional:
+
+Rubrica de libro de Seguridad e Higiene
+Habilitaciones
+Respuesta ante inspección de Subsecretaria de Trabajo y Seguridad Social
+Sistema contra incendio
+Capacitaciones
+Venta de Elementos de Protección Personal
+Venta de Matafuegos
+Revelamiento y asesoría legal en materia de Seguridad e Higiene
+Aviso de Obra
+Programas de Seguridad
+Aviso de Proyecto
+Elaboración de planes de contingencia
+Medio Ambiente
+Calidad de Procesos
+Investigación de incidentes
+Determinación de medidas de control y evaluación de su eficiencia
+Evaluación de riesgo en terreno
+
+Características Personales:
+
+Dinamismo
+Liderazgo
+Responsabilidad
+Compromiso
+Buen desarrollo de Habilidades interpersonales y comunicacionales
+
+Disponibilidad: full time - part time - freelance
+Ante cualquier consulta, comunicarse al:
+
+Cel: 0263154510091
+nextel: 162*2529
+mail: gaston_rvia@hotmail.com
+
+Nota: Se adjunta curriculum para mas información
+
+Saludos cordiales.
+Security_code : p8trp
+Send : Enviar
+
+---------------
+
+Address : 186.135.76.152
+Nombre : tamara yanet
+Apellido : skubin
+Cargo : recepción, asistente, administración, secretaria, atención al cliente.
+Direccion : 25 de mayo 3664
+Ciudad : merlo
+Telefono : 0111531904077
+Email : tamaraskubin@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : me encuentro en la búsqueda de un trabajo en el cual pueda desarrollar todas mi capacidades.
+Security_code : mrq8g
+Send : Enviar
+
+---------------
+
+Address : 186.23.169.39
+Nombre : Jesica Soledad
+Apellido : Palamidessi
+Cargo : Administracion
+Direccion : Martinez Castro 1357
+Ciudad : CABA
+Telefono : 20507568
+Email : jpalamidessi@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimado Personal de RRHH:
+Me dirijo a ustedes para remitirles mi curriculum vitae, a fin de  optar por las ofertas laborales de su empresa.
+He finalizado mis estudios de despachante de aduana, también he realizado, entre otros, cursos introductorios en contabilidad, Fotografía Profesional e Inglés.
+Cuento con conocimientos en el área de ventas en productos intangibles, como así también en la industria textil.
+Estaría interesada en concertar una entrevista personal con Uds., a fin de informar en mayor profundidad sobre mis conocimientos y poder  incorporarme a su empresa.
+Sin otro particular y a espera de sus noticias, agradezco y saludo atentamente
+
+Jesica Palamidessi
+
+Security_code : yyfxv
+Send : Enviar
+
+---------------
+

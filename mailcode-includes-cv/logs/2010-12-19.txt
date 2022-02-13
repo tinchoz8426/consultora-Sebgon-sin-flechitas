@@ -1,0 +1,15 @@
+Address : 186.57.150.111
+Nombre : Carlos
+Apellido : Villamea
+Cargo : Tecnologia
+Direccion : Benito Villanueva 3277
+Ciudad : Castelar
+Telefono : 011 4455575
+Email : c_villamea@yahoo.com
+MAX_FILE_SIZE : 2097152
+Mensaje : No tengo problemas para ocupar un puesto de Administración.Tengo conocimientos Globalizados en Administración y Sistemas de Gestiones o administración..etc.
+Security_code : z4sn8
+Send : Enviar
+
+---------------
+

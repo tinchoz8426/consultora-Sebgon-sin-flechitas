@@ -1,0 +1,377 @@
+Address : 190.31.251.245
+Nombre : Joel David
+Apellido : Spinelli
+Cargo : Seguridad
+Direccion : De la salle 5701
+Ciudad : Rosario
+Telefono : 153667836
+Email : joel_spinelli_22@live.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Espero una pronta respuesta, desde ya muchas gracias
+Security_code : 4x634
+Send : Enviar
+
+---------------
+
+Address : 201.216.242.17
+Nombre : Natalia Jimena
+Apellido : Pistone
+Cargo : administrativa
+Direccion : Suarez 1460
+Ciudad : Barracas
+Telefono : 1555964488
+Email : nataliapistone04@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenos días, adjunto les remito mi cv a fines de postularme para obtener una propuesta laboral que me permita crecer. Atte. Natalia Pistone
+Security_code : jm8n5
+Send : Enviar
+
+---------------
+
+Address : 190.188.73.219
+Nombre : Evangelina Mercedes
+Apellido : Simiele
+Cargo : Encargada en RSE
+Direccion : 35 n° 1530 piso 9 dpto B
+Ciudad : La Plata
+Telefono : 0054-221-155417996
+Email : eve_01_2003@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenos días!
+Adjunto mi CV para próxima vacante. 
+Tengo disponibilidad inmediata y con posibilidades de traslado o viaje si el puesto lo requiere.
+Un cordial saludo,
+Evangelina Simiele
+Security_code : pb2v5
+Send : Enviar
+
+---------------
+
+Address : 190.30.226.187
+Nombre : Miguel Angel
+Apellido : Rivas
+Cargo : Trabajador Social- informes socioambientales
+Direccion : José Bonifacio 2802, piso 3ro., Depto. 16
+Ciudad : CABA
+Telefono : 154-076-3780
+Email : miguelangelr2001@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenos Aires 1 de septiembre de 2014
+Sres. Consultora Segbon
+At. Responsable de Recursos Humanos	
+
+
+
+
+Tengo el agrado de dirigirme a ud. con el objetivo de acercar mi propuesta.
+Soy trabajador social y he adquirido experiencia en la tarea  por medio de la práctica profesional. Puedo ofrecer disponibilidad de jornada laboral de medio tiempo.
+Envío en archivo adjunto mi c.v. para que sea evaluado por ud. a la espera de una entrevista en la que podré ampliar todos los datos que requieran.
+Sin otro particular, le saludo atte.
+
+
+Miguel Angel Rivas
+Lic. en Trabajo Social
+Mat. 5164 Tomo 2 Folio 22
+
+Security_code : 89qmy
+Send : Enviar
+
+---------------
+
+Address : 190.193.215.193
+Nombre : Astrid
+Apellido : Birck
+Cargo : secretaria administrativa
+Direccion : Av Arturo Jauretche 2673
+Ciudad : Posadas
+Telefono : 3764-15662285
+Email : astridbirck@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : busco trabajo como secretaria, o bien podría desenvolverme en las áreas de atención al público. Hace 5 meses termine una Tecnicatura en RRPP e Imagen Institucional, gran manejo de PC, Inglés-intermedio Portugués- Intermedio
+Security_code : 472 wb
+Send : Enviar
+
+---------------
+
+Address : 200.127.88.144
+Nombre : luis mariano
+Apellido : gargiulo
+Cargo : tecnico en seguridad e higiene industrial
+Direccion : brandsen 830 temperley
+Ciudad : temperley
+Telefono : 2284499541
+Email : gargiulotecnico@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : soy tecnico superior en seguridad e higiene , matriculado en busca de trabajo
+Security_code : hc283
+Send : Enviar
+
+---------------
+
+Address : 200.114.215.253
+Nombre : judith
+Apellido : centurion
+Cargo : cajera,atencion al cliente
+Direccion : loyola 1602
+Ciudad : capital federal
+Telefono : 48566341
+Email : judy_mcs@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : estoy en busca de un trabajo que me bride una mayor capacitacion,tengo horario disponible y estoy dispuesta a nuevos desafios..gracias
+Security_code : yskpy
+Send : Enviar
+
+---------------
+
+Address : 190.16.108.230
+Nombre : maria
+Apellido : pereyra
+Cargo : SECRETARIA
+Direccion : Cabrera 1584
+Ciudad : rio cuarto
+Telefono : 3586011640
+Email : lorna_pereyra@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Cumplir con las tareas asignadas de manera eficaz
+Security_code : v49jh
+Send : Enviar
+
+---------------
+
+Address : 190.179.195.64
+Nombre : Javier Omar
+Apellido : Romero
+Cargo : Compras
+Direccion : Juan W. Gez 465
+Ciudad : Villa Mercedes
+Telefono : 0265715337149
+Email : javier.metar@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados observe que realizan busquedas laborales para la zona sur del pais. Estoy interesado en radicarme en esta zona del pais. Les envio mi  CV por alli mi perfil es adecuado para alguna de sus busquedas. Saludos.
+Security_code : 9xdjv
+Send : Enviar
+
+---------------
+
+Address : 181.22.10.56
+Nombre : Julieta
+Apellido : Solari
+Cargo : Atención al cliente/ Recepcionista/ Limpieza
+Direccion : 611 y 4 nro3810
+Ciudad : La Plata
+Telefono : 0221 15 4360795
+Email : solari.julieta@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : busco trabajo desde noviembre del 2013, ya nose a donde ir. Pido una oportunidad, de hecho me ofrezco a trabajar gratis 1 o 2 semanas a modo de prueba y por la experiencia.
+Security_code : wzthv
+Send : Enviar
+
+---------------
+
+Address : 181.22.10.56
+Nombre : Julieta
+Apellido : Solari
+Cargo : Atención al cliente/ Recepcionista/ Limpieza
+Direccion : 611 y 4 nro3810
+Ciudad : La Plata
+Telefono : 0221 15 4360795
+Email : solari.julieta@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : busco trabajo desde noviembre del 2013, ya nose a donde ir. Pido una oportunidad, de hecho me ofrezco a trabajar gratis 1 o 2 semanas a modo de prueba y por la experiencia.
+Security_code : wzthv
+Send : Enviar
+
+---------------
+
+Address : 200.3.221.159
+Nombre : Adrián
+Apellido : Arfeliz
+Cargo : Administrativo
+Direccion : Mendoza 1492
+Ciudad : Rosario
+Telefono : 3415426977
+Email : salasasala.arfeliz@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Soy una persona proactiva, con una gran capacidad de aprendizaje y adaptación. Tengo un amplio sentido de la responsabilidad, compromiso y compañerismo.
+Security_code : v34v7
+Send : Enviar
+
+---------------
+
+Address : 186.136.184.254
+Nombre : Fernando
+Apellido : Raffaelli
+Cargo : Analista
+Direccion : Santo Tome 2936
+Ciudad : CABA
+Telefono : 54 9 1131654642
+Email : raffaellifernando@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Agradeceria me tuvieran en cuenta para futuras busquedas.
+
+Muchas gracias
+Security_code : zywg2
+Send : Enviar
+
+---------------
+
+Address : 186.137.133.79
+Nombre : rebeca
+Apellido : sarmiento
+Cargo : junior
+Direccion : azcuenaga 3228
+Ciudad : quilmes
+Telefono : 1121857710
+Email : rebecasarmiento97@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : busco un trabajo donde pueda progresar en el futuro, aportar ingresos a mi familia, adquirir nuevos conocimientos.Saludos atentamente Rebeca Sarmiento 
+Security_code : 774qw
+Send : Enviar
+
+---------------
+
+Address : 201.252.28.175
+Nombre : Adriana
+Apellido : Caniggia
+Cargo : Agente de propaganda medica
+Direccion : Jorge Newbery 2410 12B
+Ciudad : Capital Federal
+Telefono : 47737010
+Email : adri-cani-08@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Por favor si me pueden tener en cuenta para una futura busqueda.Gracias.
+Security_code : 24t37
+Send : Enviar
+
+---------------
+
+Address : 201.252.28.175
+Nombre : Adriana
+Apellido : Caniggia
+Cargo : Agente de propaganda medica
+Direccion : Jorge Newbery 2410 12B
+Ciudad : Capital Federal
+Telefono : 47737010
+Email : adri-cani-08@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Por favor si me pueden tener en cuenta para una futura busqueda.Gracias.
+Security_code : 24t37
+Send : Enviar
+
+---------------
+
+Address : 188.143.232.111
+Nombre : Genesis
+Apellido : 43294
+Cargo : OTmhPtQbAKY
+Direccion : GOSktjpXqiI
+Ciudad : NY
+Telefono : 49104276446
+Email : razer22@yahoo.com
+MAX_FILE_SIZE : 2097152
+Mensaje : US dollars <a href=" http://www.butterflyadvertising.ie/index.php/testimonials/ ">ordering indomethacin online</a>  While any backlash may jeopardise Rajoy's bid forre-election in 2015, the socialist opposition still has tocapitalise on the PP's falling popularity as it is stillperceived as mainly responsible for Spain's slump.
+ <a href=" http://flowstockholm.com/mohippa/ ">1.indocin  indocin (indomethacin)</a>  The struggling Asian economy - the world's fourth-largestuser of energy - is battling a weak rupee that has increased theprice of oil products as economic growth has halved to 4.4percent from the 8-9 percent seen in the boom years.
+ 
+Security_code : Z5Tr6
+Send : Enviar
+
+---------------
+
+Address : 188.143.232.111
+Nombre : Danielle
+Apellido : 4342
+Cargo : OTmhPtQbAKY
+Direccion : GOSktjpXqiI
+Ciudad : NY
+Telefono : 75702588940
+Email : quaker@yahoo.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Very Good Site <a href=" http://www.cipmausa.org/index.php/syllabus ">imitrex df 50 mg</a>  "We see our involvement in Airport City as an extension of the memorandum of understanding between China and the UK, where we have been looking to further explore joint infrastructure opportunities for some time."
+ <a href=" http://www.butterflyadvertising.ie/index.php/testimonials/ ">indomethacin costochondritis</a>  The operator had originally charged prepay calls by the second, but from 1 August it will charge by the minute and round up, meaning that users who talk for 61 seconds will pay 50p rather than 26p they paid originally &ndash; a 92% increase.
+ 
+Security_code : kiRpGc
+Send : Enviar
+
+---------------
+
+Address : 188.143.232.111
+Nombre : Taylor
+Apellido : 75171
+Cargo : OTmhPtQbAKY
+Direccion : GOSktjpXqiI
+Ciudad : NY
+Telefono : 20211175421
+Email : greenwood@webtown.com
+MAX_FILE_SIZE : 2097152
+Mensaje : I'd like to pay this cheque in, please <a href=" http://www.ipma.org.ng/index.php/membership ">purchase sumatriptan injection</a>  Authorities said the boy was taken by ambulance to a hospital in Baker City, then flown to St. Alphonsus Hospital in Boise, Idaho. Linda Payne Smith, vice president of marketing and communications at the hospital, said Thursday evening she could not comment on whether the boy was still at the hospital, or what his condition was.
+ <a href=" http://flowstockholm.com/mohippa/ ">indocin tablets</a>  The Dow Jones industrial average rose 34.95 points or0.23 percent, to 15,529.73, the S&P 500 gained 7.16points or 0.42 percent, to 1,704.76 and the Nasdaq Composite added 27.853 points or 0.75 percent, to 3,745.699.
+ 
+Security_code : JWtvG
+Send : Enviar
+
+---------------
+
+Address : 188.143.232.111
+Nombre : Zachary
+Apellido : 29709
+Cargo : OTmhPtQbAKY
+Direccion : GOSktjpXqiI
+Ciudad : NY
+Telefono : 24161230877
+Email : gobiz@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : How much notice do you have to give? <a href=" http://www.comedyminusone.com/blog/ ">how often can you take imitrex 100mg</a>  The volume of orders was "up significantly" versus 19.2million dwt in full year 2012, said Stephen Gordon, managingdirector of Clarkson Research Services, a British shipbrokingand shipping services company.
+ <a href=" http://flowstockholm.com/mohippa/ ">generic indocin</a>  Federal payments to subsidize insurance for eligible buyers - those with incomes less than four times the federal poverty level, or $62,040 for a couple - would not be in jeopardy because they are due just before coverage begins, not when someone enrolls. Anyone buying health insurance by December 15, 2013, is covered as of January 1, 2014.
+ 
+Security_code : dBNj0L
+Send : Enviar
+
+---------------
+
+Address : 188.143.232.111
+Nombre : Tilburg
+Apellido : 134077
+Cargo : OTmhPtQbAKY
+Direccion : GOSktjpXqiI
+Ciudad : NY
+Telefono : 65726325167
+Email : razer22@yahoo.com
+MAX_FILE_SIZE : 2097152
+Mensaje : I'm doing an internship <a href=" http://www.altenergetika.com/gde-kupiti ">what is indocin 25mg used for</a>  Recovering from a running injury often takes as much mental stamina as it does physical strength. The idea of not being able to lace up your shoes and go for a run can feel like a death sentence to a hardcore runner, but the reality is that for some injuries, stopping running altogether is the first step in the recovery process.
+ <a href=" http://www.ipma.org.ng/index.php/membership ">buy sumatriptan nasal spray online</a>  There are many public employees out there doing good for society, but does that compare to the societal value of a Henry Ford or a Bill Gates? Private sector employees and the firms they work for have given us much more than weâve given them.
+ 
+Security_code : ofdvK
+Send : Enviar
+
+---------------
+
+Address : 201.252.28.175
+Nombre : Adriana
+Apellido : Caniggia
+Cargo : Agente de propaganda medica
+Direccion : Jorge Newbery 2410 12B
+Ciudad : Capital Federal
+Telefono : 47737010
+Email : adri-cani-08@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Por favor si me pueden tener en cuenta para una futura busqueda.Gracias.
+Security_code : 4432s
+Send : Enviar
+
+---------------
+
+Address : 201.252.28.175
+Nombre : Adriana
+Apellido : Caniggia
+Cargo : Agente de propaganda medica
+Direccion : Jorge Newbery 2410 12B
+Ciudad : Capital Federal
+Telefono : 47737010
+Email : adri-cani-08@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Por favor si me pueden tener en cuenta para una futura busqueda.Gracias.
+Security_code : cxmdf
+Send : Enviar
+
+---------------
+

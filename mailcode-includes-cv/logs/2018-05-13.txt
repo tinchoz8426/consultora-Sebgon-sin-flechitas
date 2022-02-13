@@ -1,0 +1,32 @@
+Address : 190.192.113.155<br>
+ <br>REF : JPER-1
+ <br>Nombre : Martin Alejandro
+ <br>Apellido : Dalcol
+ <br>Cargo : Jefe de RRHH
+ <br>Direccion : Dean Funes 2011
+ <br>Ciudad : Ciudad Autonoma de Buenos Aires
+ <br>Telefono : 541169760467
+ <br>Email : martindalcol@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Quedando a disposición.
+ <br>Security_code : 8h9r5
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.18.231.146<br>
+ <br>REF : EP-1
+ <br>Nombre : Lourdes Nahir
+ <br>Apellido : Landoni
+ <br>Cargo : Encargado de Producción
+ <br>Direccion : Pueyrredón 1558
+ <br>Ciudad : Ramos Mejía
+ <br>Telefono : 1158098325
+ <br>Email : lourdeslandoni@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados: soy Lourdes Landoni, Licenciada en Ciencia y Tecnología de los Alimentos recibida en la UBA. Actualmente me encuentro trabajando como becaria en el grupo de I+D en INTI Agroalimentos, pero estoy a la búsqueda de nuevos desafíos dentro de la industria alimentaria. Pose experiencia en la realización de análisis fisicoquímicos de rutina, higiene y seguridad en laboratorios y estudios de vida útil
+ <br>Security_code : 45fyx
+ <br>Send : Enviar
+ <br>
+---------------
+

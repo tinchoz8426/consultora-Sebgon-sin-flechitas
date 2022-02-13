@@ -1,0 +1,565 @@
+Address : 200.5.80.46<br>
+ <br>REF : TE-1
+ <br>Nombre : Gustavo Fabian
+ <br>Apellido : Lopez
+ <br>Cargo : Mantenimiento
+ <br>Direccion : Arcos 4602 Nuñez
+ <br>Ciudad : Caba
+ <br>Telefono : 1565748010
+ <br>Email : bafust@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Deseo integrarme en una organización con posibilidades de crecimiento personal y profesional que me permita desarrollar nuevas competencias y contribuir con mi aporte al logro de los objetivos organizacionales deseados.
+ <br>Security_code : 843tx
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.29.140.84<br>
+ <br>Nombre : Patricia del valle
+ <br>Apellido : Frias
+ <br>Cargo : Lic. en Trabajo Social 
+ <br>Direccion : Alfredo Palacios 1290
+ <br>Ciudad : Ciudad autónoma de Buenos Aires
+ <br>Telefono : 1565129717
+ <br>Email : delvallefrias@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenos días,adjunto C.V. abreviado por la búsqueda de trabajadoras sociales para entrevistas domiciliarias. Acepto entrevista para aclarar experiencia laboral.  
+ <br>Security_code : g9xqb
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.119.76.75<br>
+ <br>Nombre : Natalia
+ <br>Apellido : Lobrutto
+ <br>Cargo : cajera limpieza
+ <br>Direccion : monoblok27 dto23 piso2 ciudad evita
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 4695-2586 /1162-111444
+ <br>Email : oriananic@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : espero me den la oportunidad desde ya muchas gracias
+ <br>Security_code : mvyq8
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.119.76.75<br>
+ <br>Nombre : Natalia
+ <br>Apellido : Lobrutto
+ <br>Cargo : cajera limpieza
+ <br>Direccion : monoblok27 dto23 piso2 ciudad evita
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 4695-2586 /1162-111444
+ <br>Email : oriananic@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : espero me den la oportunidad desde ya muchas gracias
+ <br>Security_code : 3f5jc
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.59.85.42<br>
+ <br>Nombre : pablo
+ <br>Apellido : circosta
+ <br>Cargo : chofer ambulqncia
+ <br>Direccion : allende 4159
+ <br>Ciudad : lanus
+ <br>Telefono : 1138778780
+ <br>Email : pablolucamessi10@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : soy chofer desde hace mas de 20 aos
+ <br>Security_code : z63nv
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.143.199.114<br>
+ <br>Nombre : Karim
+ <br>Apellido : Sanchez
+ <br>Cargo : Repartiría alimentos 
+ <br>Direccion : Plumerillo 3160
+ <br>Ciudad : Buenos Aires 
+ <br>Telefono : 1161710543
+ <br>Email : Karimsanchez60@hotmail.com 
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buen día alli envío mi cv para trabajos.  Gracias 
+ <br>Security_code : 9gypx
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 170.51.97.18<br>
+ <br>Nombre : Paola Andrea
+ <br>Apellido : Zuniga
+ <br>Cargo : administrativa con manejo tango gestion
+ <br>Direccion : Base alte Brown 750 casa 106 barrio km8 chubut
+ <br>Ciudad : comodoro rivadavia
+ <br>Telefono : 0297 154744830
+ <br>Email : polandrea2003@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : hola
+ <br>Security_code : c8ykn
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.117.224.25<br>
+ <br>Nombre : Daniel martin
+ <br>Apellido : Santander
+ <br>Cargo : Carga y descarga
+ <br>Direccion : San Martin 432
+ <br>Ciudad : San vicente
+ <br>Telefono : 1138338313
+ <br>Email : Dsantander937@Gmail. Com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Daniel
+ <br>Security_code : Zfc87
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.117.224.25<br>
+ <br>Nombre : Daniel martin
+ <br>Apellido : Santander
+ <br>Cargo : Carga y descarga
+ <br>Direccion : San Martin 432
+ <br>Ciudad : San vicente
+ <br>Telefono : 1138338313
+ <br>Email : Dsantander937@Gmail. Com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Daniel
+ <br>Security_code : Zfc87
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.117.224.25<br>
+ <br>Nombre : Daniel martin
+ <br>Apellido : Santander
+ <br>Cargo : Carga y descarga
+ <br>Direccion : San Martin 432
+ <br>Ciudad : San vicente
+ <br>Telefono : 1138338313
+ <br>Email : Dsantander937@Gmail. Com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Daniel
+ <br>Security_code : Zfc87
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.117.224.25<br>
+ <br>Nombre : Daniel martin
+ <br>Apellido : Santander
+ <br>Cargo : Carga y descarga
+ <br>Direccion : San Martin 432
+ <br>Ciudad : San vicente
+ <br>Telefono : 1138338313
+ <br>Email : Dsantander937@Gmail. Com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Daniel
+ <br>Security_code : Kk4jt
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 35.233.145.63<br>
+ <br>REF : TE-1
+ <br>Nombre : Victor
+ <br>Apellido : Vasquez
+ <br>Cargo : Te-1
+ <br>Direccion : Avenida eva peron1155
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 1159768787
+ <br>Email : vasquezv274@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Tengo muchas ganas de trabajar y aportar el 100% a la empresa 
+ <br>Security_code : Ry8c3
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 35.233.145.63<br>
+ <br>REF : TE-1
+ <br>Nombre : Victor
+ <br>Apellido : Vasquez
+ <br>Cargo : Te-1
+ <br>Direccion : Avenida eva peron1155
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 1159768787
+ <br>Email : vasquezv274@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Tengo muchas ganas de trabajar y aportar el 100% a la empresa 
+ <br>Security_code : Ry8c3
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.138.123.235<br>
+ <br>Nombre : jorge
+ <br>Apellido : gonzalez
+ <br>Cargo : empaquetador de queso desde casa
+ <br>Direccion : mza 10 casa 16
+ <br>Ciudad : capital federal
+ <br>Telefono : 1126923375
+ <br>Email : jorgegonzales83@live.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buen dia estoy buscando trabajo tengo familia y nesecito trabajar urgente soy muy responsable.
+ <br>Security_code : 3Y84f
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.221.46.53<br>
+ <br>Nombre : EMILIANO RUBEN
+ <br>Apellido : ESPEJO MEZZABOTTA
+ <br>Cargo : Administrativo o Mantenimiento
+ <br>Direccion : B° Soberanía Nacional – Calle Cuyo M Q C 
+ <br>Ciudad : Mendoza
+ <br>Telefono : 2612505221
+ <br>Email : emiespmeza@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenos días! espero alcanzar las expectativas para trabajar como Administrativo o en mantenimiento, ya que mi mayor desempeños en los últimos años han sido en esas áreas. 
+Asimismo, espero conseguir mayor capacitación en un futuro.
+ <br>Security_code : y9y3t
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.210.251.55<br>
+ <br>REF : JPER-1
+ <br>Nombre : LUIS
+ <br>Apellido : CARDUCCI
+ <br>Cargo : Jefe de Personal
+ <br>Direccion : velazquez 2343 - Los Polvorines
+ <br>Ciudad : LOS POLVORINES
+ <br>Telefono : 01141842847
+ <br>Email : carducciluis@speedy.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Adjunto mi CV a fin de postularme a la vacante de Jefe de Personal
+ <br>Security_code : 7v5f5
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.239.45.128<br>
+ <br>REF : EP-1
+ <br>Nombre : Marcos Alberto
+ <br>Apellido : Zurita
+ <br>Cargo : Supervisor / Jefe de Mantenimiento de planta
+ <br>Direccion : Mascagni 2270
+ <br>Ciudad : Hurlingham
+ <br>Telefono : 1559708395
+ <br>Email : marcosalbertozurita@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados Sres.
+Envío mi CV para su consideración, poseo experiencia, idiomas y disponibilidad tanto horaria como de viajes. Muchas gracias por su atención. 
+ <br>Security_code : 2g9s9
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.195.127.122<br>
+ <br>REF : TE-1
+ <br>Nombre : Pedro
+ <br>Apellido : Paz
+ <br>Cargo : Electromecanico
+ <br>Direccion : Villa Urquiza Nuñez 4720
+ <br>Ciudad : Caba
+ <br>Telefono : 1168526758
+ <br>Email : pedropaz2043@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : saludos estoy interesado en trabajar como electromecanico tengo en experiencia en reparacion y mantenimiento de equipos motores, compresores,
+ <br>Security_code : jvsnf
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.13.74.167<br>
+ <br>Nombre : Valeria Isabel 
+ <br>Apellido : Rodríguez 
+ <br>Cargo : Encargado de produccion  alimentos 
+ <br>Direccion : Pedro poli 557 
+ <br>Ciudad : Hurlingham 
+ <br>Telefono : 0111558424786
+ <br>Email : valeriaisabelrodriguez@hotmail.com 
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Adjunto mi cv para ser considerado en la oferta de referencia.  
+Cordial saludo 
+Ing. Valeria Rodriguez 
+ <br>Security_code : b6942
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.13.74.167<br>
+ <br>Nombre : Valeria Isabel 
+ <br>Apellido : Rodríguez 
+ <br>Cargo : Encargado de produccion  alimentos 
+ <br>Direccion : Pedro poli 557 
+ <br>Ciudad : Hurlingham 
+ <br>Telefono : 0111558424786
+ <br>Email : valeriaisabelrodriguez@hotmail.com 
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Adjunto mi cv para ser considerado en la oferta de referencia.  
+Cordial saludo 
+Ing. Valeria Rodriguez 
+ <br>Security_code : b6942
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.13.74.167<br>
+ <br>Nombre : Valeria Isabel 
+ <br>Apellido : Rodríguez 
+ <br>Cargo : Encargado de produccion  alimentos 
+ <br>Direccion : Pedro poli 557 
+ <br>Ciudad : Hurlingham 
+ <br>Telefono : 0111558424786
+ <br>Email : valeriaisabelrodriguez@hotmail.com 
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Adjunto mi cv para ser considerado en la oferta de referencia.  
+Cordial saludo 
+Ing. Valeria Rodriguez 
+ <br>Security_code : cnwk3
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.12.108.60<br>
+ <br>REF : ACO-1
+ <br>Nombre : Cecilia
+ <br>Apellido : Saffigna
+ <br>Cargo : ANALISTA DE COMERCIO INTERNACIONAL/EXTERIOR
+ <br>Direccion : Concordia 2500
+ <br>Ciudad : CABA
+ <br>Telefono : 1567879382
+ <br>Email : cecisaf@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buen día,
+Envío mi CV para ser considerado en la búsqueda de referencia.
+Gracias
+Saludos
+ <br>Security_code : 3bxth
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.182.198.219<br>
+ <br>Nombre : Analia
+ <br>Apellido : Villagra Lopez
+ <br>Cargo : Atención al cliente
+ <br>Direccion : Marinos de Fournier 1375
+ <br>Ciudad : Haedo
+ <br>Telefono : 01140709854
+ <br>Email : villagralopezanalia20@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estoy en busca de una empresa seria y con contratos en lo posible fijos, vengo con mas de 10 años de experiencia en atención al publico, quisiera seguir por esa rama y cuento con disponibilidad horaria. Saludos
+ <br>Security_code : x97mq
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.182.198.219<br>
+ <br>Nombre : Analia
+ <br>Apellido : Villagra Lopez
+ <br>Cargo : Atención al cliente
+ <br>Direccion : Marinos de Fournier 1375
+ <br>Ciudad : Haedo
+ <br>Telefono : 01140709854
+ <br>Email : villagralopezanalia20@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estoy en busca de una empresa seria y con contratos en lo posible fijos, vengo con mas de 10 años de experiencia en atención al publico, quisiera seguir por esa rama y cuento con disponibilidad horaria. Saludos
+ <br>Security_code : x97mq
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.182.198.219<br>
+ <br>Nombre : Analia
+ <br>Apellido : Villagra Lopez
+ <br>Cargo : Atención al cliente
+ <br>Direccion : Marinos de Fournier 1375
+ <br>Ciudad : Haedo
+ <br>Telefono : 01140709854
+ <br>Email : villagralopezanalia20@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estoy en busca de una empresa seria y con contratos en lo posible fijos, vengo con mas de 10 años de experiencia en atención al publico, quisiera seguir por esa rama y cuento con disponibilidad horaria. Saludos
+ <br>Security_code : 89by3
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.182.198.219<br>
+ <br>Nombre : Analia
+ <br>Apellido : Villagra Lopez
+ <br>Cargo : Atención al cliente
+ <br>Direccion : Marinos de Fournier 1375
+ <br>Ciudad : Haedo
+ <br>Telefono : 01140709854
+ <br>Email : villagralopezanalia20@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estoy en busca de una empresa seria y con contratos en lo posible fijos, vengo con mas de 10 años de experiencia en atención al publico, quisiera seguir por esa rama y cuento con disponibilidad horaria. Saludos
+ <br>Security_code : jj2vx
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.227.11.213<br>
+ <br>REF : TEC. EL
+ <br>Nombre : Fabián Darío
+ <br>Apellido : Larrinzar
+ <br>Cargo : Técnico electrónico
+ <br>Direccion : Guanella 472
+ <br>Ciudad : Santa Lucia Partido de San Pedro
+ <br>Telefono : 1126785720
+ <br>Email : bujobujonet@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados RRHH
+
+Como podrán apreciar en mi CV, comencé a trabajar desde muy joven, tengo la cultura del trabajo arraigada en mí, razón por la cual estoy buscando empleo ya que necesito estar laboralmente activo para seguir desarrollándome y aportar mi experiencia en pos de proyectos y metas de la empresa que me contrate, teniendo en cuenta que la única forma de tener éxito en los objetivos es el trabajo en equipo.
+
+Notas:
+Posibilidad de alquilar alojamiento en zona laboral.
+Disponibilidad inmediata de ingreso.
+Movilidad propia.
+
+Saludos cordiales
+Fabián D. Larrinzar
+
+ <br>Security_code : s7jcg
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.227.11.213<br>
+ <br>REF : TEC. EL
+ <br>Nombre : Fabián Darío
+ <br>Apellido : Larrinzar
+ <br>Cargo : Técnico electrónico
+ <br>Direccion : Guanella 472
+ <br>Ciudad : Santa Lucia Partido de San Pedro
+ <br>Telefono : 1126785720
+ <br>Email : bujobujonet@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados RRHH
+
+Como podrán apreciar en mi CV, comencé a trabajar desde muy joven, tengo la cultura del trabajo arraigada en mí, razón por la cual estoy buscando empleo ya que necesito estar laboralmente activo para seguir desarrollándome y aportar mi experiencia en pos de proyectos y metas de la empresa que me contrate, teniendo en cuenta que la única forma de tener éxito en los objetivos es el trabajo en equipo.
+
+Notas:
+Posibilidad de alquilar alojamiento en zona laboral.
+Disponibilidad inmediata de ingreso.
+Movilidad propia.
+
+Saludos cordiales
+Fabián D. Larrinzar
+
+ <br>Security_code : s7jcg
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.227.11.213<br>
+ <br>REF : TEC. EL
+ <br>Nombre : Fabián Darío
+ <br>Apellido : Larrinzar
+ <br>Cargo : Técnico electrónico
+ <br>Direccion : Guanella 472
+ <br>Ciudad : Santa Lucia Partido de San Pedro
+ <br>Telefono : 1126785720
+ <br>Email : bujobujonet@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados RRHH
+
+Como podrán apreciar en mi CV, comencé a trabajar desde muy joven, tengo la cultura del trabajo arraigada en mí, razón por la cual estoy buscando empleo ya que necesito estar laboralmente activo para seguir desarrollándome y aportar mi experiencia en pos de proyectos y metas de la empresa que me contrate, teniendo en cuenta que la única forma de tener éxito en los objetivos es el trabajo en equipo.
+
+Notas:
+Posibilidad de alquilar alojamiento en zona laboral.
+Disponibilidad inmediata de ingreso.
+Movilidad propia.
+
+Saludos cordiales
+Fabián D. Larrinzar
+
+ <br>Security_code : 8cbqt
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.227.11.213<br>
+ <br>REF : TEC. EL
+ <br>Nombre : Fabián Darío
+ <br>Apellido : Larrinzar
+ <br>Cargo : Técnico electrónico
+ <br>Direccion : Guanella 472
+ <br>Ciudad : Santa Lucia Partido de San Pedro
+ <br>Telefono : 1126785720
+ <br>Email : bujobujonet@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados RRHH
+
+Como podrán apreciar en mi CV, comencé a trabajar desde muy joven, tengo la cultura del trabajo arraigada en mí, razón por la cual estoy buscando empleo ya que necesito estar laboralmente activo para seguir desarrollándome y aportar mi experiencia en pos de proyectos y metas de la empresa que me contrate, teniendo en cuenta que la única forma de tener éxito en los objetivos es el trabajo en equipo.
+
+Notas:
+Posibilidad de alquilar alojamiento en zona laboral.
+Disponibilidad inmediata de ingreso.
+Movilidad propia.
+
+Saludos cordiales
+Fabián D. Larrinzar
+
+ <br>Security_code : vnxzb
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.195.18.197<br>
+ <br>REF : JPER-1
+ <br>Nombre : Mariano
+ <br>Apellido : Renovales
+ <br>Cargo : Jefe Personal
+ <br>Direccion : austria 2163 3 d
+ <br>Ciudad : buenos aires
+ <br>Telefono : 1560465586
+ <br>Email : mo_renovales@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados:
+adjunto mi cv a fin de ser tenido en cuenta para la búsqueda de referencia.
+Saludos y gracias desde ya.
+
+Mariano Renovales
+ <br>Security_code : y4wyc
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.228.154.131<br>
+ <br>REF : ROT-1
+ <br>Nombre : Alejandro
+ <br>Apellido : Hernandez Penna
+ <br>Cargo : RESPONSABLE DE OFICINA TECNICA
+ <br>Direccion : Cazon 1263
+ <br>Ciudad : Tigre
+ <br>Telefono : 01134005228
+ <br>Email : ahernandezpenna@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimado/a:
+ 
+Buen día, en respuesta a su anuncio publicado, me dirijo a ustedes con el fin de remitirles mi CV para aspirar al puesto de referencia. 
+ 
+Puedo agregar que no sólo cumplo con los requisitos solicitados, ya que tengo un grado de ingeniería, un post-grado y un MBA, y six sigma black belt certificado en procesos y proyectos. Especialista en confiabilidad (Reliability).
+
+A vuestra disposición.
+ 
+Saludos Cordiales.
+ 
+Alejandro
+15-3400-5228
+ 
+
+ <br>Security_code : hmnjs
+ <br>Send : Enviar
+ <br>
+---------------
+

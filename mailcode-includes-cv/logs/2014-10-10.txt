@@ -1,0 +1,127 @@
+Address : 190.137.251.122
+Nombre : Germán Angel
+Apellido : Manno
+Cargo : Perito Clasificador de Cereales/Técnico Analista Programador/Reparador de PC
+Direccion : Gálvez 473
+Ciudad : Arroyo Seco
+Telefono : 03402-421489
+Email : germanmanno@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Busco empleo
+Security_code : 9brkb
+Send : Enviar
+
+---------------
+
+Address : 190.179.239.55
+Nombre : Daniel Mauricio
+Apellido : Demonte
+Cargo : Abogado
+Direccion : Gutemberg 198 Piso: 1 Dpto: 4
+Ciudad : Mendoza
+Telefono : 0261156147894 02614372043
+Email : mauriciodemonte@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Busco Trabajo como Abogado en la Provincia de Mendoza
+Security_code : c5qsg
+Send : Enviar
+
+---------------
+
+Address : 181.95.101.105
+Nombre : sergio
+Apellido : luvaglio
+Cargo : operario de deposito y o produccion
+Direccion : matheu 1430
+Ciudad : san fernando
+Telefono : 1534450856
+Email : sluvaglio@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Soy padre de familia busco trabajo urgente 
+experiencia y responsable
+Security_code : yq8y8
+Send : Enviar
+
+---------------
+
+Address : 181.46.195.228
+Nombre : ernesto
+Apellido : dobrzynski
+Cargo : seguros (encargado de siniestros (patrimoniales y autos) y/o suscriptor de cuentas mismos ramos
+Direccion : valle 70 (3º 13)
+Ciudad : capital federal
+Telefono : 15-6352-2868
+Email : edobrzynski2001@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : estoy desempleado desde el 24-09-2014
+Security_code : 5z3qf
+Send : Enviar
+
+---------------
+
+Address : 181.46.195.228
+Nombre : ernesto
+Apellido : dobrzynski
+Cargo : seguros (encargado de siniestros (patrimoniales y autos) y/o suscriptor de cuentas mismos ramos
+Direccion : valle 70 (3º 13)
+Ciudad : capital federal
+Telefono : 15-6352-2868
+Email : edobrzynski2001@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : estoy desempleado desde el 24-09-2014
+Security_code : kkvqf
+Send : Enviar
+
+---------------
+
+Address : 186.130.85.239
+Nombre : Elias Gabriel
+Apellido : Champone
+Cargo : Operario
+Direccion : Estocolmo 1187
+Ciudad : Buenos Aires
+Telefono : 1550502105
+Email : elias_ch@hotmail.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Soy una persona pro activa con muchas ganas de trabajar y responsable. 
+Security_code : Krs6c
+Send : Enviar
+
+---------------
+
+Address : 186.130.85.239
+Nombre : Elias Gabriel
+Apellido : Champone
+Cargo : Operario
+Direccion : Estocolmo 1187
+Ciudad : Buenos Aires
+Telefono : 1550502105
+Email : elias_ch@hotmail.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Soy una persona pro activa con muchas ganas de trabajar y responsable. 
+Security_code : zfqhf
+Send : Enviar
+
+---------------
+
+Address : 181.165.177.196
+Nombre : Diego
+Apellido : Maldonado
+Cargo : Diseñador Gráfico
+Direccion : Barrio José Ignacio Díaz, segunda sección
+Ciudad : Córdoba
+Telefono : 4584543
+Email : limonypomelo@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me dirijo a Uds. con el fin de remitirles mi Currículum Vitae y poder aspirar a ser tenido en cuenta para el puesto de Diseñador Gráfico. 
+
+Esperando estudien mi solicitud y en espera de sus noticias, les saluda atentamente.
+
+Diego Maldonado
+
+Adjunto: “Curriculum Vitae” con Portfolio incluido.
+Security_code : mqdc9
+Send : Enviar
+
+---------------
+

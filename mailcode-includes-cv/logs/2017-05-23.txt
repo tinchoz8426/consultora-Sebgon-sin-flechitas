@@ -1,0 +1,81 @@
+Address : 181.15.124.18<br>
+ <br>REF : EP-1
+ <br>Nombre : juan carlos
+ <br>Apellido : Rodriguez
+ <br>Cargo : supervisor de produccion
+ <br>Direccion : Marie curie 1265
+ <br>Ciudad : Pilar
+ <br>Telefono : 0230154557531
+ <br>Email : chiquirodri@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Disponibilidad horaria
+ <br>Security_code : vgrkx
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.15.124.18<br>
+ <br>REF : EP-1
+ <br>Nombre : juan carlos
+ <br>Apellido : Rodriguez
+ <br>Cargo : supervisor de produccion
+ <br>Direccion : Marie curie 1265
+ <br>Ciudad : Pilar
+ <br>Telefono : 0230154557531
+ <br>Email : chiquirodri@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Disponibilidad horaria
+ <br>Security_code : vgrkx
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.143.138.138<br>
+ <br>Nombre : beatriz
+ <br>Apellido : centeno
+ <br>Cargo : entrevistador
+ <br>Direccion : padre ustarroz 3345
+ <br>Ciudad : san miguel
+ <br>Telefono : 1169367148
+ <br>Email : centenobea@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me gustaria ser tenido en cuenta.
+ <br>Security_code : h33pt
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.139.212.172<br>
+ <br>Nombre : Cecilia
+ <br>Apellido : Hedemann
+ <br>Cargo : Gerencial
+ <br>Direccion : Ferrari 384
+ <br>Ciudad : Adrogué
+ <br>Telefono : 1162117078
+ <br>Email : cecilia@hedemann.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : le adjunto mi CV para que puedan evaluar mi perfil y tenerme en cuenta para una búsqueda.
+Soy Licenciada en Informática y desarrollé la mayor parte de mi carrera laboral como gerente de sucursal de bancos de primera línea.
+En este momento estoy colaborando con la ONG Voces Vitales como Free Lance pero tengo disponibilidad inmediata para incorporarme así como para viajar de ser necesario.
+Saludos.
+ <br>Security_code : p6935
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.112.37.229<br>
+ <br>REF : JPER-1
+ <br>Nombre : Andrea
+ <br>Apellido : Lema
+ <br>Cargo : Jefe de Personal JPER-1
+ <br>Direccion : Juan Ambrosetti 239
+ <br>Ciudad : Capital Federal
+ <br>Telefono : 0292615496622
+ <br>Email : lema.andrea@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Interesada en incorporarme a una organización para desarrollar mis talentos
+ <br>Security_code : rgfgz
+ <br>Send : Enviar
+ <br>
+---------------
+

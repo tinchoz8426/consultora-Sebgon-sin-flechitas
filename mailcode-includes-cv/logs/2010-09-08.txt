@@ -1,0 +1,64 @@
+Address : 186.19.133.33
+REF : tecnico
+Nombre : blas daniel
+Apellido : iuorio
+Cargo : mantenimiento
+Direccion : don orione 1998
+Ciudad : lanus
+Telefono : 352998671
+Email : yolomas_12@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : bueno ante todo saludos.yo ando interesado en la busqueda laboral sin importar remuneracion ni horas a trabajar es empezar para sumar experiencia en el area de mantenimiento u en su defecto otra cosa orientada a lo tecnico muchisimas gracias
+Security_code : n7nhn
+Send : Enviar
+
+---------------
+
+Address : 190.14.175.129
+Nombre : Hector David
+Apellido : Rascovich
+Cargo : Operador
+Direccion : B° Santa Angela 1 - Nehuen 3991 - Departamento n°3
+Ciudad : Plottier
+Telefono : 0299155746301
+Email : ingenieritohector@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : ADJUNTO MI CV
+Security_code : 7S37F
+Send : Enviar
+
+---------------
+
+Address : 190.225.108.148
+Nombre : Nancy 
+Apellido : Hontibero
+Cargo : Area social
+Direccion : Esquiu 447 PB "B"
+Ciudad : San Fernando del Valle de Catamarca
+Telefono : 03833-15316182
+Email : nhontibero@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Sres de onsultora Sebgon les reenvio mi curriculum porque ya se los mande al correo Info@consultorasebgon pero como no obtuve respuesta les envio a este otro correo. Soy Lic. en Trabajo Social y mi curriculum le envio  para trabajo por un mail que recibi para trabajar aqui en zona de Catamarca, Tucuman. Grcaias. Espero tener novedades pronto. LIc. Nancy Hontibero
+Security_code : ngd3b
+Send : Enviar
+
+---------------
+
+Address : 190.30.110.18
+Nombre : MARCELA
+Apellido : GOLUB
+Cargo : SEGURIDAD Y SALUD OCUPACIONAL
+Direccion : FELICIANO
+Ciudad : PARANA
+Telefono : 0343155431733
+Email : marcela.golub@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Por este medio me dirijo  a Ud. a fines de acercarle un cv. personal, a los fines de ser tenido en cuenta en caso de surgir una vacante en la región del litoral, estoy radicada en la ciudad de Paraná, poseo medio de movilidad propio, me he desarrollado en varios aspectos de la seguridad y salud ocupacional, en particular construcción y transporte desde la capacitación como así también en la gestión, desde ya agradezco su deferencia por la recepción el mismo. 
+
+Cordialmente
+
+Security_code : ckk3m
+Send : Enviar
+
+---------------
+

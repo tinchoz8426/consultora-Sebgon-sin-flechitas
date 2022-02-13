@@ -1,0 +1,30 @@
+Address : 206.132.109.86
+Nombre : Alicia
+Apellido : Villar
+Cargo : todos
+Direccion : Juan w. Gez 169
+Ciudad : Villa Mercedes
+Telefono : 02657-437731
+Email : aliciavillar@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Espero mi experiencia sirva para algun trabajo.
+Security_code : bkhsy
+Send : Enviar
+
+---------------
+
+Address : 186.130.18.250
+Nombre : dario
+Apellido : romano
+Cargo : relacion a enologia u optica
+Direccion : sarmiento 1338 
+Ciudad : las heras mendoza
+Telefono : 261155760705
+Email : darioboca_86@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : hola que tal adjunto el cv para cualquier tipo de tarea
+Security_code : bqtdr
+Send : Enviar
+
+---------------
+

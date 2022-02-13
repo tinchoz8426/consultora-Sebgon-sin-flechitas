@@ -1,0 +1,111 @@
+Address : 190.247.195.158<br>
+ <br>REF : ACO-1
+ <br>Nombre : Nicolas
+ <br>Apellido : Proserpio
+ <br>Cargo : ANALISTA DE COMERCIO INTERNACIONAL/EXTERIOR 
+ <br>Direccion : Anchorena 388 piso 3
+ <br>Ciudad : caba
+ <br>Telefono : 1555675678
+ <br>Email : nikanakin@yahoo.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Atentamente, les remito mi Curriculum Vitae
+
+ <br>Security_code : gxtts
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.7<br>
+ <br>REF : chr
+ <br>Nombre : Gastón
+ <br>Apellido : Antonozzi
+ <br>Cargo : Chofer
+ <br>Direccion : Viamonte 382
+ <br>Ciudad : Merlo
+ <br>Telefono : 1163068760
+ <br>Email : gicuello63@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Espero cumplir con lo requerido ya que estoy desocupado M GRACIAS
+ <br>Security_code : Yzv6k
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.11<br>
+ <br>REF : chr
+ <br>Nombre : Gastón
+ <br>Apellido : Antonozzi
+ <br>Cargo : Chofer
+ <br>Direccion : Viamonte 382
+ <br>Ciudad : Merlo
+ <br>Telefono : 1163068760
+ <br>Email : gicuello63@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Espero cumplir con lo requerido ya que estoy desocupado M GRACIAS
+ <br>Security_code : Hnk5k
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.11<br>
+ <br>REF : chr
+ <br>Nombre : Gastón
+ <br>Apellido : Antonozzi
+ <br>Cargo : Chofer
+ <br>Direccion : Viamonte 382
+ <br>Ciudad : Merlo
+ <br>Telefono : 1163068760
+ <br>Email : gicuello63@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Espero cumplir con lo requerido ya que estoy desocupado M GRACIAS
+ <br>Security_code : tg3vk
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.168.214.68<br>
+ <br>Nombre : Gonzalo
+ <br>Apellido : Ledesma
+ <br>Cargo : Venddor
+ <br>Direccion : La rioja 1992
+ <br>Ciudad : Mar del Plata
+ <br>Telefono : 02234388181
+ <br>Email : gonzaloledesma24@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas tardes, estoy en la busqueda de un empleo.. ya sea fijo o por un tiempo determinado. Gracias
+ <br>Security_code : 7pmsf
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.61.141.139<br>
+ <br>Nombre : andres hector
+ <br>Apellido : garcia
+ <br>Cargo : chofer
+ <br>Direccion : suipacha 1021
+ <br>Ciudad : ramos mejia
+ <br>Telefono : 155 651 9190
+ <br>Email : chirosman@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Gracias por considerarme mi CV
+ <br>Security_code : wgfsq
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 152.170.35.156<br>
+ <br>REF : Ing. quim
+ <br>Nombre : Gabriel
+ <br>Apellido : Román
+ <br>Cargo : Jefa de producción/ Ingeniera Qui­mica 
+ <br>Direccion : Constitución 787 dto 7
+ <br>Ciudad : Tandil
+ <br>Telefono : 0291154633428
+ <br>Email : gabriel_edroman@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Ingeniero Químico con experiencia y responsabilidad en el trabajo
+ <br>Security_code : pch67
+ <br>Send : Enviar
+ <br>
+---------------
+

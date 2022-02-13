@@ -1,0 +1,106 @@
+Address : 190.193.44.13
+Nombre : celeste
+Apellido : cianchetta
+Cargo : atencion al publico
+Direccion : paraguay 1811
+Ciudad : rosario
+Telefono : 3413667328
+Email : chelecianchetta@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : quisiera consguir un trabajo..y que me ayuden con mi busqueda.gracias
+Security_code : y4779
+Send : Enviar
+
+---------------
+
+Address : 201.253.68.117
+Nombre : Eugenia
+Apellido : Goñi
+Cargo : Admoinistracion / Atencion a Clientes / cuentas
+Direccion : Marengo 3471 6to c 
+Ciudad : San Andres
+Telefono : 11-2645-4709
+Email : mismensajes@live.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenas tardes, busco trabajo efectivo y donde pueda tener la posibilidad de no solo aprender sino tambier crecer conjuntamente con la empresa.
+Security_code : 8xtxb
+Send : Enviar
+
+---------------
+
+Address : 186.13.1.249
+Nombre : Florencia Mariana
+Apellido : Monzón
+Cargo : administrativo
+Direccion : terrero 2099
+Ciudad : Rafael Castillo
+Telefono : 1133529092
+Email : florenciaa_monzon@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Espero con muchas ansias alguna propuesta laboral, desde ya muchas gracias
+Security_code : nnwzf
+Send : Enviar
+
+---------------
+
+Address : 186.13.1.249
+Nombre : Florencia Mariana
+Apellido : Monzón
+Cargo : administrativo
+Direccion : terrero 2099
+Ciudad : Rafael Castillo
+Telefono : 1133529092
+Email : florenciaa_monzon@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Espero con muchas ansias alguna propuesta laboral, desde ya muchas gracias
+Security_code : nnwzf
+Send : Enviar
+
+---------------
+
+Address : 186.13.1.249
+Nombre : Florencia Mariana
+Apellido : Monzón
+Cargo : administrativo
+Direccion : terrero 2099
+Ciudad : Rafael Castillo
+Telefono : 1133529092
+Email : florenciaa_monzon@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Espero con muchas ansias alguna propuesta laboral, desde ya muchas gracias
+Security_code : fnz32
+Send : Enviar
+
+---------------
+
+Address : 186.153.221.224
+Nombre : Sofia Constanza
+Apellido : Alvarez
+Cargo : Administración. Atención al público. Educación.
+Direccion : Av. Colon 44
+Ciudad : Cordoba
+Telefono : 0351 155467085
+Email : sofiaalvarez52@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto mi CV. Busco posibilidad de insertarme en diferentes trabajo de forma urgente, areas en las que me puedo desempeñar: administracion, educación, call center, atencion al publico, ventas, trabajos en equipo. Facil adaptabilidad a nuevos entornos de trabajo. 
+Security_code : t7m35
+Send : Enviar
+
+---------------
+
+Address : 186.23.163.11
+Nombre : melanie
+Apellido : citara
+Cargo : Recepcionista
+Direccion : carlos calvo 1663
+Ciudad : ciudad Autonoma de Buenos Aires
+Telefono : 1534841788
+Email : melaniecitara@hotmil.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola buen dia, buenas tarde, buenas noches, me gustaría formar parte de su quipo. Les dejo mi C.V para q me tengan en cuenta, saludos.
+ Atte, Melanie Citara.
+Security_code : tv8pv
+Send : Enviar
+
+---------------
+

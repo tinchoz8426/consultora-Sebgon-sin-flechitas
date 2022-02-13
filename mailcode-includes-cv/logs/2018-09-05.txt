@@ -1,0 +1,173 @@
+Address : 181.117.228.97<br>
+ <br>Nombre : rufina beatriz 
+ <br>Apellido : urra 
+ <br>Cargo : secretaria
+ <br>Direccion : itaipu 29
+ <br>Ciudad : contralmirante cordero
+ <br>Telefono : 299154111541
+ <br>Email : rufinaurra396@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : solicito trabajo en lo q sea 
+ <br>Security_code : vf2jp
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.170.222.180<br>
+ <br>REF : JPER-1
+ <br>Nombre : Natalia 
+ <br>Apellido : Zabala
+ <br>Cargo : Jefe de Personal
+ <br>Direccion : Ortega y Gasset 1635 
+ <br>Ciudad : CABA
+ <br>Telefono : 1151478322
+ <br>Email : nszabala@hotmai.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenos días!Estaría encantada de que tengan en cuenta mi perfil para cubrir esta búsqueda.
+Linda semana!
+ <br>Security_code : vrjd3
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.11<br>
+ <br>Nombre : Mirian
+ <br>Apellido : Lopez
+ <br>Cargo : Limpieza
+ <br>Direccion : Amado nervo 2354
+ <br>Ciudad : Provincia de bs as 
+ <br>Telefono : 1557566518
+ <br>Email : Lopezmirian854@gmail.com 
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estoy buscando trabajo gracias
+ <br>Security_code : Ypfqj
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.176.187.239<br>
+ <br>Nombre : Nihan 
+ <br>Apellido : Rivero
+ <br>Cargo : Recepcionista o Mozo 
+ <br>Direccion : Av Rivadavia 2151
+ <br>Ciudad : CABA
+ <br>Telefono : 1122524469
+ <br>Email : niyanrm@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : hola buen dia envio mi Cv adjunto para cualquier empleo disponible en el rubro de hoteleria y gastronomia, tengo amplios conocimientos en atencion al publico directa e indirectamente de ante mano agradezco cualquier oportunidad de empleo que me puedan brindar. 
+ <br>Security_code : pkk23
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 170.51.93.238<br>
+ <br>Nombre : María Laura 
+ <br>Apellido : Castillo
+ <br>Cargo : Atención al cliente u otro
+ <br>Direccion : La prida 2650
+ <br>Ciudad : José c paz
+ <br>Telefono : 1551577221
+ <br>Email : castillo-marialaura@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me objetivo es ser eficiente en el puesto y crecer socialmente,económicamente y laboralmente 
+ <br>Security_code : Z9k7t
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 170.51.93.238<br>
+ <br>Nombre : María Laura 
+ <br>Apellido : Castillo
+ <br>Cargo : Atención al cliente u otro
+ <br>Direccion : La prida 2650
+ <br>Ciudad : José c paz
+ <br>Telefono : 1551577221
+ <br>Email : castillo-marialaura@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Mi objetivo es ser eficiente en el puesto y crecer laboralmente como socialmente y económicamente 
+ <br>Security_code : Z9k7t
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 200.80.226.85<br>
+ <br>Nombre : daniela yanina
+ <br>Apellido : vaz
+ <br>Cargo : cualquiera
+ <br>Direccion : jose ingenieros 1375
+ <br>Ciudad : fcio varela
+ <br>Telefono : 1122874489
+ <br>Email : danyanina_1986@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : me postulo a cualquier trabajo por que necesito trabajar
+ <br>Security_code : 4tmgg
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 170.51.108.226<br>
+ <br>Nombre : Emmanuel donato
+ <br>Apellido : Salas
+ <br>Cargo : Mantenimiento y seguridad 
+ <br>Direccion : Calle maria moncho 510 
+ <br>Ciudad : Salta
+ <br>Telefono : 3874639607
+ <br>Email : Manu07421@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : /storage/emulated/0/Download/CURRICULUM MANUEL-1.docx
+ <br>Security_code : 5g63n
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.18.227.220<br>
+ <br>Nombre : cecilia
+ <br>Apellido : Rodriguez
+ <br>Cargo : hotel
+ <br>Direccion : alfonsina storni 
+ <br>Ciudad : Córdoba 
+ <br>Telefono : 3515922271
+ <br>Email : cecilia_jemina@hotmail.com.ar 
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : .
+ <br>Security_code : yz7gh
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.171.249.100<br>
+ <br>Nombre : YUSSELFY 
+ <br>Apellido : MOYA
+ <br>Cargo : ADMINISTRATIVO
+ <br>Direccion : IBERA 1544
+ <br>Ciudad : CAPITAL FEDERAL
+ <br>Telefono : 1127546092
+ <br>Email : YUSSEL.M@GMAIL.COM
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Tengo el gusto de dirigirme a Usted. con el fin de enviarle mi currículum vitae, para poder participar en búsquedas laborales en su empresa. Saludos!
+ <br>Security_code : 88FS6
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.171.249.100<br>
+ <br>Nombre : CARLOS
+ <br>Apellido : HERRERA
+ <br>Cargo : LOGISTICA, ALMACEN, TRANSPORTE
+ <br>Direccion : IBERA 1544
+ <br>Ciudad : CAPITAL FEDERAL
+ <br>Telefono : 1126458233
+ <br>Email : 24.CHERRERA@GMAIL.COM
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me pongo en contacto con usted, para hacerle llegar mi  Currículum Vitae , 
+
+para su valoración y poder formar parte del proceso de  selección.
+
+Quedo a sus gratas órdenes.
+
+Saludos cordiales.
+ <br>Security_code : xc2qq
+ <br>Send : Enviar
+ <br>
+---------------
+

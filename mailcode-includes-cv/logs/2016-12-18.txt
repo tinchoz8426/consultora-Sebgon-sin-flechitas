@@ -1,0 +1,18 @@
+Address : 191.84.201.122<br>
+ <br>REF : EP-1
+ <br>Nombre : maximiliano
+ <br>Apellido : grosso
+ <br>Cargo : Encargado de Producción
+ <br>Direccion : Burelas 4815
+ <br>Ciudad : Lanus
+ <br>Telefono : 1141727747
+ <br>Email : me_grosso@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados, He visto la oferta laboral publicada y la misma me resultó de gran interés. Por este motivo, les hago llegar mi Currículum Vitae, a fin de ser tenido en cuenta como candidato. Quedo a su disposición para ampliar cualquier información necesaria.
+Cordialmente,
+Maximiliano Grosso
+ <br>Security_code : fkt2q
+ <br>Send : Enviar
+ <br>
+---------------
+

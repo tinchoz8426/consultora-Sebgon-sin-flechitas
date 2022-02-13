@@ -1,0 +1,188 @@
+Address : 201.213.241.246<br>
+ <br>REF : chr
+ <br>Nombre : Jorge Luis
+ <br>Apellido : Serna
+ <br>Cargo : Chofer
+ <br>Direccion : Chacabuco 3479
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 1533992609
+ <br>Email : jorgelserna@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estoy en búsqueda de empleo como chofer. Poseo registro nacional habilitante y CNRT con cursos al dia.
+ <br>Security_code : kt465
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.94.8.65<br>
+ <br>REF : ACO-1
+ <br>Nombre : Matías
+ <br>Apellido : Berberian
+ <br>Cargo : Analista de Comercio exterior
+ <br>Direccion : olleros 2463, 2D
+ <br>Ciudad : Capital federal
+ <br>Telefono : 1121707251
+ <br>Email : matias.berberian@yahoo.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola, me llamo Matías Berberian y estoy muy interesado en el puesto de analista de comercio exterior, principalmente para poder adquirir experiencia laboral en el área en la cual estudio.
+Gracias por su atencion, saludos.
+ <br>Security_code : mb3yq
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 179.39.9.116<br>
+ <br>Nombre : Giuliana 
+ <br>Apellido : Santoro
+ <br>Cargo : Recepcionista - Administrativo
+ <br>Direccion : Clorinda 1736
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 42370884
+ <br>Email : Giuliana.santoro94@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenos dias, soy estudiante avanzado de la carrera de ciencia politica y relaciones internacionales y me postulo para empleos de recepcionista/administrativos generales, tanto  en ámbito público como privado. Gracias
+ <br>Security_code : 9jxng
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.229.244.137<br>
+ <br>REF : EP-1
+ <br>Nombre : Mailen
+ <br>Apellido : Scatizza
+ <br>Cargo : EP-1
+ <br>Direccion : 22 Nro 1762
+ <br>Ciudad : La Plata
+ <br>Telefono : 54-2215592211
+ <br>Email : mailenscatizza@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas Tardes:
+
+
+Mi nombre es Maria Mailen Scatizza, vivo en La Plata, tengo 26 años soy  Lic. en Ciencia y Tecnología de los Alimentos y Técnica química universitaria en  la Facultad de Cs Exactas. UNLP. 
+
+
+Actualmente estoy solicitando empleo referido a mi profesión. Hace unos meses atraz me comunique con ustedes para remitirles mi CV y quisiera enviarselos nuevamente en caso que dipongan de alguna solicitud de empleo relacionada con mi profesion.
+
+
+Estoy a entera disposición frente a cualquier consulta
+
+
+
+ <br>Security_code : RRVK8
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.23.65.234<br>
+ <br>REF : chr
+ <br>Nombre : Julio Rafael 
+ <br>Apellido : Gonzalez
+ <br>Cargo : Chófer de reparto o ayudante de carga y descarga
+ <br>Direccion : Córdoba 1187
+ <br>Ciudad : Burzaco
+ <br>Telefono : 42388776
+ <br>Email : Julio270384@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola quería postularme al empleo 
+ <br>Security_code : D96k9
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.18.148.230<br>
+ <br>REF : ACO-1
+ <br>Nombre : Juan Fernando
+ <br>Apellido : Parrotta
+ <br>Cargo : ANALISTA DE COMERCIO INTERNACIONAL/EXTERIOR 
+ <br>Direccion : Loyola 1073
+ <br>Ciudad : CABA
+ <br>Telefono : (15)32879565
+ <br>Email : juanparrotta@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Remuneración Bruta Pretendida: $25.000
+ <br>Security_code : 9f3ns
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.23.6.33<br>
+ <br>Nombre : leandro
+ <br>Apellido : silvera
+ <br>Cargo : tecnico electromecanico
+ <br>Direccion : dardo rocha 2555
+ <br>Ciudad : moreno
+ <br>Telefono : 1130061268
+ <br>Email : leandrosilvera2@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : buenos dias me quiero postular para proximas oportunidades laborales
+ <br>Security_code : 7hhht
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.44.76.48<br>
+ <br>REF : ROT-1
+ <br>Nombre : Luis Gustavo
+ <br>Apellido : Stivanello
+ <br>Cargo : responsable de oficina tecnica
+ <br>Direccion : Quiroz 2285
+ <br>Ciudad : Ituzaingo
+ <br>Telefono : 1554982792
+ <br>Email : luisstiv@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Responsable y dispuesto a nuevos desafios
+ <br>Security_code : vsz7n
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.13.6.4<br>
+ <br>REF : chr
+ <br>Nombre : silvio martin
+ <br>Apellido : bonavita
+ <br>Cargo : chofer y clarkista
+ <br>Direccion : zepita 5545
+ <br>Ciudad : buenos aires la matanza
+ <br>Telefono : 1130842809
+ <br>Email : smartinbonavita@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Soy muy remponsable
+ <br>Security_code : 9p63v
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.23.6.33<br>
+ <br>Nombre : Leandro
+ <br>Apellido : Silvera
+ <br>Cargo : Técnico electromecánico
+ <br>Direccion : Dardo Rocha 
+ <br>Ciudad : Moreno
+ <br>Telefono : 1130061268
+ <br>Email : Leandrosilvera2@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimado.
+        Buenas tardes estoy dejando mi cv actualizado para futuras oportunidades laborales. 
+ Saludos 
+ <br>Security_code : 2m954
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.44.8.54<br>
+ <br>Nombre : Veronica Agustina
+ <br>Apellido : Oliva
+ <br>Cargo : Atención al cliente/cajera
+ <br>Direccion : Martin Rodriguez 3606
+ <br>Ciudad : Ituzaingo
+ <br>Telefono : 1558562670
+ <br>Email : veronicagustina@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados: les hago llegar mi CV a fin de ser tenida en cuenta en las próximas búsquedas laborales.
+Quedo a su disposición para ampliar cualquier información necesaria.
+ <br>Security_code : rhjtn
+ <br>Send : Enviar
+ <br>
+---------------
+

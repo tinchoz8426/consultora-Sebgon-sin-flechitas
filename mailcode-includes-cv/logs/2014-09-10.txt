@@ -1,0 +1,85 @@
+Address : 186.59.174.232
+Nombre : Juan Manuel
+Apellido : Leunda
+Cargo : Todos
+Direccion : 15 nro 1623
+Ciudad : la plata
+Telefono : 0249 154-357661
+Email : juanleunda@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto mi CV, disponibilidad horaria full-time. Aguardo respuesta. 
+Desde ya muchas gracias, saludos cordiales
+Security_code : qK6gg
+Send : Enviar
+
+---------------
+
+Address : 186.59.174.232
+Nombre : Juan Manuel
+Apellido : Leunda
+Cargo : Todos
+Direccion : 15 N° 1623
+Ciudad : La Plata
+Telefono : 0249 154357661
+Email : juanleunda@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto mi Cv, disponibilidad horaria ful-time. Aguardo respuesta. 
+Desde ya muchas gracias
+Security_code : 3qnyk
+Send : Enviar
+
+---------------
+
+Address : 190.221.143.3
+Nombre : Guillermina Elizabet
+Apellido : Somovilla
+Cargo : Administrativo
+Direccion : Soldado desconocido N°639
+Ciudad : PUERTO MADRYN
+Telefono : 280-4539292
+Email : guillesomo@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : busco trabajo en relación de dependencia
+Security_code : zhxzh
+Send : Enviar
+
+---------------
+
+Address : 186.138.207.41
+Nombre : Gisela Claudia
+Apellido : Gisela
+Cargo : Recepcionista/Administrativa
+Direccion : Carabobo 3261 Dpto 10
+Ciudad : San justo. Buenos Aires
+Telefono : 1540296777
+Email : gcbelforte@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estoy dispuesta a desarrollar actividades como recepcionista, telefonista o administrativa.
+Security_code : m3y7w
+Send : Enviar
+
+---------------
+
+Address : 181.47.151.44
+Nombre : Marisol 
+Apellido : Diaz Lopez
+Cargo : atencion al cliente
+Direccion : godoy cruz 3954
+Ciudad : capital federal
+Telefono : 1549744744
+Email : ameysol_@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados Sres:
+
+     Me pongo en contacto con ustedes para hacerle llegar mi currículo con mis datos personales, experiencia profesional y otros datos útiles, por si necesita cubrir, ahora o en el futuro, un puesto en alguno de los espacios que poseen.
+     Me caracterizo por ser una persona de muy buen trato con los clientes y con capacidad para trabajar en equipo y considero que puedo aportar mucho en su empresa. 
+
+ Quedo a su disposición para concretar una reunión, si lo creen conveniente, a fin de conocernos personalmente y ampliar cualquier detalle de mi currículum que consideren pertinente. 
+
+atte. 
+            Marisol Diaz Lopez 
+Security_code : z48pt
+Send : Enviar
+
+---------------
+

@@ -1,0 +1,209 @@
+Address : 181.25.200.233<br>
+ <br>REF : chr
+ <br>Nombre : Javier Horacio
+ <br>Apellido : Pierandrey
+ <br>Cargo : Chofer
+ <br>Direccion : Rene Favaloro 703
+ <br>Ciudad : Luis Guillon
+ <br>Telefono : 1164065401
+ <br>Email : javier.pierandrey@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me siento capacitado para ocupar el puesto de trabajo que esta solicitando.
+Saludos
+ <br>Security_code : 562bw
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.88.38<br>
+ <br>REF : chr
+ <br>Nombre : Hugo 
+ <br>Apellido : Luna
+ <br>Cargo : Chofer
+ <br>Direccion : Tarija 2673
+ <br>Ciudad : Temperley
+ <br>Telefono : 42642321
+ <br>Email : sanyfran2015@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me interesa el puesto trabajé 14 en policía de la provincia de buenos aires por razones personales solicite la baja.poseo registro movilidad propia
+ <br>Security_code : Pfnhp
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.88.38<br>
+ <br>REF : chr
+ <br>Nombre : Hugo 
+ <br>Apellido : Luna
+ <br>Cargo : Chofer
+ <br>Direccion : Tarija 2673
+ <br>Ciudad : Temperley
+ <br>Telefono : 42642321
+ <br>Email : sanyfran2015@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me interesa el puesto trabajé 14 en policía de la provincia de buenos aires por razones personales solicite la baja.poseo registro movilidad propia
+ <br>Security_code : Pfnhp
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.88.58<br>
+ <br>REF : chr
+ <br>Nombre : Hugo 
+ <br>Apellido : Luna
+ <br>Cargo : Chofer
+ <br>Direccion : Tarija 2673
+ <br>Ciudad : Temperley
+ <br>Telefono : 42642321
+ <br>Email : sanyfran2015@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me interesa el puesto trabajé 14 en policía de la provincia de buenos aires por razones personales solicite la baja.poseo registro movilidad propia
+ <br>Security_code : Pfnhp
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.48.28.130<br>
+ <br>REF : chr
+ <br>Nombre : diego
+ <br>Apellido : mantovani
+ <br>Cargo : chofer
+ <br>Direccion : venezuela
+ <br>Ciudad : avellaneda
+ <br>Telefono : 1534244415
+ <br>Email : lele-22@live.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : les envio mi cv
+ <br>Security_code : 3htn8
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.235.201.96<br>
+ <br>Nombre : ALBERTO MAURICIO
+ <br>Apellido : MIÑO
+ <br>Cargo : chofer de reparto
+ <br>Direccion : gandolfo 3010
+ <br>Ciudad : San Fernando
+ <br>Telefono : 1568443917
+ <br>Email : martujessi95@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : me interesaria formar parte de su empresa
+ <br>Security_code : gv84f
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.235.201.96<br>
+ <br>Nombre : ALBERTO MAURICIO
+ <br>Apellido : MIÑO
+ <br>Cargo : chofer de reparto
+ <br>Direccion : gandolfo 3010
+ <br>Ciudad : San Fernando
+ <br>Telefono : 1568443917
+ <br>Email : martujessi95@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : me interesaria formar parte de su empresa
+ <br>Security_code : gv84f
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.235.201.96<br>
+ <br>Nombre : ALBERTO MAURICIO
+ <br>Apellido : MIÑO
+ <br>Cargo : chofer de reparto
+ <br>Direccion : gandolfo 3010
+ <br>Ciudad : San Fernando
+ <br>Telefono : 1568443917
+ <br>Email : martujessi95@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : me interesaria formar parte de su empresa
+ <br>Security_code : gv84f
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.235.201.96<br>
+ <br>Nombre : ALBERTO MAURICIO
+ <br>Apellido : MIÑO
+ <br>Cargo : chofer de reparto
+ <br>Direccion : gandolfo 3010
+ <br>Ciudad : San Fernando
+ <br>Telefono : 1568443917
+ <br>Email : martujessi95@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : me interesaria formar parte de su empresa
+ <br>Security_code : 7qpfz
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.235.201.96<br>
+ <br>Nombre : Mauricio
+ <br>Apellido : Miño
+ <br>Cargo : Chofer
+ <br>Direccion : Gandolfo 3010
+ <br>Ciudad : San Fernando
+ <br>Telefono : 1568443917
+ <br>Email : mclb_cqc@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me gustaría ser parte de su empresa.
+ <br>Security_code : 349mt
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.7<br>
+ <br>REF : chr
+ <br>Nombre : Maximiliano Ezequiel
+ <br>Apellido : Galli
+ <br>Cargo : Chofer
+ <br>Direccion : Potosi 2055
+ <br>Ciudad : Caseros
+ <br>Telefono : 1126346635
+ <br>Email : gallimaximilianoezequiel@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Experiencia en el rubro predisposicion y disponibilidad horaria
+ <br>Security_code : Fe92s
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.47.233.224<br>
+ <br>REF : ACO-1
+ <br>Nombre : SERGIO LUIS
+ <br>Apellido : FARIOLI
+ <br>Cargo : ANALISTA DE COMERCIO EXTERIOR
+ <br>Direccion : formosa 1834
+ <br>Ciudad : LANUS (CP=1824)
+ <br>Telefono : 39691160
+ <br>Email : sergiofarioli@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Amplia experiencia en Comercio Exterior
+Disp. inmediata
+titulo de Contador
+ <br>Security_code : ypy4m
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.139.229.65<br>
+ <br>Nombre : Emiliano
+ <br>Apellido : Barcón
+ <br>Cargo : Periodismo deportivo, redes sociales, operario, administración.
+ <br>Direccion : Valderrama 4109
+ <br>Ciudad : Capital Federal
+ <br>Telefono : 15-6103-9865
+ <br>Email : emiliano_barcon@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola, buenas tardes:
+
+Adjunto mi CV, ante cualquier posibilidad que se presente.
+
+Muchas gracias.
+ <br>Security_code : qfpc6
+ <br>Send : Enviar
+ <br>
+---------------
+

@@ -1,0 +1,103 @@
+Address : 186.60.178.221
+Nombre : alejandro jose
+Apellido : quiroga
+Cargo : oficial electricista
+Direccion : weiss de rossi 3482
+Ciudad : glew
+Telefono : 1136842239
+Email : luliale20@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : hola, soy alejandro quiroga.me encantaria formar parte de su plantel laboral,ojala tenga esa oportunidad, desde ya mil gracias.
+Security_code : cv4g9
+Send : Enviar
+
+---------------
+
+Address : 181.46.227.232
+Nombre : María Sol
+Apellido : Guerrieri
+Cargo : Secretaria/ Recepcionista/ Administrativa
+Direccion : Naon 2721
+Ciudad : CABA
+Telefono : 011 1540992032
+Email : msolguerrieri@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenas tardes, mi nombre es María Sol Guerrieri.
+Escribo este mensaje en calidad de tenedme en cuenta ante alguna oferta laboral dentro del área de atención al publico.
+
+Tengo experiencia en manejo de archivo, control de gastos, agenda de citas, atención al cliente y conocimientos avanzados de Excel y Word.
+
+De antemano gracias y excelente día.
+
+María Sol Guerrieri
+Security_code : 5dbt4
+Send : Enviar
+
+---------------
+
+Address : 186.56.168.96
+REF : tecm
+Nombre : Pablo Francisco
+Apellido : Poggi
+Cargo : Técnicos Mecánicos para Mantenimiento 
+Direccion : Los Olmos 186
+Ciudad : Francisco Álvarez, Moreno
+Telefono : 01159335550
+Email : pablofpoggi@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Soy Pablo F. Poggi:
+Trabajo en mantenimiento en diferentes empresas desde hace mas de 10 años, con multiplicidad de cargos, ayudante, técnico, técnico y encargado de turno, encargado de taller de mantenimiento y construcción de maquinaria, encargado de turno de mantenimiento y control de calidad y finalmente técnico de mantenimiento y montaje, trabajando como líder en varios proyectos. Disfruto mucho trabajar en equipo, resolver problemas, logrando un crecimiento personal y grupal sostenido, logrando un ambiente de trabajo ameno, para que ningún desafío sea infranqueable, sabiendo que todos los problemas se pueden resolver trabajando juntos.
+Referencias: 
+Hernán Briano, Gerente de Producción y EHSS de Sabic Innovative Plastics Argentina S.R.L. Tortuguitas site, e-mail hernan.briano@sabic.com tel: 0111557552866
+Guido Medina, Presidente de Atyr Argentina, e-mail guido.medina@atyr.com.ar                       tel: 0111537288846
+Hugo Quevedo, jefe de mantenimiento Polymont Argentina S.A., e-mail hquevedo@polymont.com.ar tel: 0111554775438.
+
+Security_code : hbwfv
+Send : Enviar
+
+---------------
+
+Address : 186.56.168.96
+REF : tecm
+Nombre : Pablo Francisco
+Apellido : Poggi
+Cargo : Técnicos Mecánicos para Mantenimiento 
+Direccion : Los Olmos 186
+Ciudad : Francisco Álvarez, Moreno
+Telefono : 01159335550
+Email : pablofpoggi@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Soy Pablo F. Poggi:
+Trabajo en mantenimiento en diferentes empresas desde hace mas de 10 años, con multiplicidad de cargos, ayudante, técnico, técnico y encargado de turno, encargado de taller de mantenimiento y construcción de maquinaria, encargado de turno de mantenimiento y control de calidad y finalmente técnico de mantenimiento y montaje, trabajando como líder en varios proyectos. Disfruto mucho trabajar en equipo, resolver problemas, logrando un crecimiento personal y grupal sostenido, logrando un ambiente de trabajo ameno, para que ningún desafío sea infranqueable, sabiendo que todos los problemas se pueden resolver trabajando juntos.
+Referencias: 
+Hernán Briano, Gerente de Producción y EHSS de Sabic Innovative Plastics Argentina S.R.L. Tortuguitas site, e-mail hernan.briano@sabic.com tel: 0111557552866
+Guido Medina, Presidente de Atyr Argentina, e-mail guido.medina@atyr.com.ar                       tel: 0111537288846
+Hugo Quevedo, jefe de mantenimiento Polymont Argentina S.A., e-mail hquevedo@polymont.com.ar tel: 0111554775438.
+
+Security_code : ydrsx
+Send : Enviar
+
+---------------
+
+Address : 186.56.168.96
+REF : TECME
+Nombre : Pablo Francisco
+Apellido : Poggi
+Cargo : Técnico mecánico para mantenimiento 
+Direccion : Los Olmos 186
+Ciudad : Francisco Álvarez, Moreno
+Telefono : 01159335550
+Email : pablofpoggi@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Soy Pablo F. Poggi:
+Trabajo en mantenimiento en diferentes empresas desde hace mas de 10 años, con multiplicidad de cargos, ayudante, técnico, técnico y encargado de turno, encargado de taller de mantenimiento y construcción de maquinaria, encargado de turno de mantenimiento y control de calidad y finalmente técnico de mantenimiento y montaje, trabajando como líder en varios proyectos. Disfruto mucho trabajar en equipo, resolver problemas, logrando un crecimiento personal y grupal sostenido, logrando un ambiente de trabajo ameno, para que ningún desafío sea infranqueable, sabiendo que todos los problemas se pueden resolver trabajando juntos.
+Referencias: 
+Hernán Briano, Gerente de Producción y EHSS de Sabic Innovative Plastics Argentina S.R.L. Tortuguitas site, e-mail hernan.briano@sabic.com tel: 0111557552866
+Guido Medina, Presidente de Atyr Argentina, e-mail guido.medina@atyr.com.ar                       tel: 0111537288846
+Hugo Quevedo, jefe de mantenimiento Polymont Argentina S.A., e-mail hquevedo@polymont.com.ar tel: 0111554775438.
+
+Security_code : 3px2x
+Send : Enviar
+
+---------------
+

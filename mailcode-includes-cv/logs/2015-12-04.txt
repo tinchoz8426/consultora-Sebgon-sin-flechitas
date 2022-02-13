@@ -1,0 +1,77 @@
+Address : 181.169.31.199
+Nombre : Martin javier
+Apellido : Pardo
+Cargo : Oficial electricista
+Direccion : Feval 590
+Ciudad : Merlo
+Telefono : 1162255760
+Email : pardomartinjavier@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : A quien corresponda deseo postularme al puesto de oficial electricista en la ciudad de Merlo
+Security_code : y6y56
+Send : Enviar
+
+---------------
+
+Address : 181.169.31.199
+REF : OEL
+Nombre : Martin
+Apellido : Pardo
+Cargo : Oficial electricista
+Direccion : Feval 590
+Ciudad : Merlo
+Telefono : 1162255760
+Email : pardomartinjavier@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : A quien corresponda envio atte. mi CV
+Security_code : y4f58
+Send : Enviar
+
+---------------
+
+Address : 181.169.31.199
+Nombre : Martin
+Apellido : Pardo
+Cargo : Oficial cableador
+Direccion : Feval 590
+Ciudad : Merlo
+Telefono : 1162255760
+Email : pardomartinjavier@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : A quien corresponda envio atte. mi CV
+Security_code : mm7gm
+Send : Enviar
+
+---------------
+
+Address : 181.169.31.199
+Nombre : Martin
+Apellido : Pardo
+Cargo : Oficial cableador
+Direccion : Feval 590
+Ciudad : Merlo
+Telefono : 1162255760
+Email : pardomartinjavier@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : A quien corresponda envio atte. mi CV
+Security_code : mm7gm
+Send : Enviar
+
+---------------
+
+Address : 181.169.82.153
+Nombre : Martín 
+Apellido : Buccieri
+Cargo : Economista
+Direccion : Av. del libertador 2337, piso 8 , depto. 1.
+Ciudad : Olivos
+Telefono : 1550382878
+Email : martinbuccieri@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Busco desarrollarme profesionalmente en un ambiente laboral estimulante y con posibilidades de superación, adquiriendo experiencia mediante la aplicación de las habilidades y los conocimientos adquiridos a través de mis estudios, para lograr un desempeño satisfactorio y eficaz que permita tanto el crecimiento de la empresa como el mío personal.
+
+Security_code : fykzw
+Send : Enviar
+
+---------------
+

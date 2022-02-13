@@ -1,0 +1,94 @@
+Address : 109.163.234.9
+Nombre : Daniel Marcelo
+Apellido : Gomez
+Cargo : Vendedor / Ejecutivo de Cuentas
+Direccion : belgrano 328
+Ciudad : Bernal (QUILMES)
+Telefono : 1551260619
+Email : mensajeadaniel@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : 
+Agradezco la oportunidad  aportar mi dedicación,  habilidades y experiencia obtenida durante mas de 25 años, para alcanzar los objetivos prefijados. Deseo formar parte de un exitoso equipo de ventas impulsando el desarrollo de la empresa 
+Quedo a su disposición 
+Daniel M. Gómez
+
+Security_code : rpwf8
+Send : Enviar
+
+---------------
+
+Address : 190.174.63.65
+Nombre : Yesica
+Apellido : Giordano
+Cargo : Vendedora
+Direccion : Paso de los Libres 221
+Ciudad : Buenos Aires
+Telefono : 44582901
+Email : yesigiordano@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola,le adjunto mi CV para que pueda conocer mis datos y experiencia laboral.
+Me considero una persona disciplinada, con buena presencia y simpatía
+por todo ello espero que sea tomada en cuenta esta solicitud, ahora ò en un futuro y tener la oportunidad de conocernos personalmente en una entrevista laboral.
+Desde ya muchas Gracias.
+
+Security_code : 84v4t
+Send : Enviar
+
+---------------
+
+Address : 190.174.63.65
+Nombre : Yesica
+Apellido : Giordano
+Cargo : Vendedora
+Direccion : Paso de los Libres 221
+Ciudad : Buenos Aires
+Telefono : 44582901
+Email : yesigiordano@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola,le adjunto mi CV para que pueda conocer mis datos y experiencia laboral.
+Me considero una persona disciplinada, con buena presencia y simpatía
+por todo ello espero que sea tomada en cuenta esta solicitud, ahora ò en un futuro y tener la oportunidad de conocernos personalmente en una entrevista laboral.
+Desde ya muchas Gracias.
+
+Security_code : 84v4t
+Send : Enviar
+
+---------------
+
+Address : 190.174.63.65
+Nombre : Yesica
+Apellido : Giordano
+Cargo : Vendedora
+Direccion : Paso de los Libres 221
+Ciudad : Buenos Aires
+Telefono : 44582901
+Email : yesigiordano@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola,le adjunto mi CV para que pueda conocer mis datos y experiencia laboral.
+Me considero una persona disciplinada, con buena presencia y simpatía
+por todo ello espero que sea tomada en cuenta esta solicitud, ahora ò en un futuro y tener la oportunidad de conocernos personalmente en una entrevista laboral.
+Desde ya muchas Gracias.
+
+Security_code : 84v4t
+Send : Enviar
+
+---------------
+
+Address : 190.174.63.65
+Nombre : Yesica
+Apellido : Giordano
+Cargo : Vendedora
+Direccion : Paso de los Libres 221
+Ciudad : Buenos Aires
+Telefono : 44582901
+Email : yesigiordano@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola,le adjunto mi CV para que pueda conocer mis datos y experiencia laboral.
+Me considero una persona disciplinada, con buena presencia y simpatía
+por todo ello espero que sea tomada en cuenta esta solicitud, ahora ò en un futuro y tener la oportunidad de conocernos personalmente en una entrevista laboral.Desde ya muchas Gracias.
+
+Security_code : cvcdj
+Send : Enviar
+
+---------------
+

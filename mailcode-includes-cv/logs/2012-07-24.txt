@@ -1,0 +1,46 @@
+Address : 200.41.47.210
+Nombre : Tamara
+Apellido : Dreher
+Cargo : Administracion
+Direccion : Yapeyú 710
+Ciudad : Romang Santa Fe
+Telefono : 03482-15629914
+Email : tamara_dreher@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Solicitud de empleo.
+Security_code : t7zbk
+Send : Enviar
+
+---------------
+
+Address : 190.224.78.172
+REF : administrativa-compras
+Nombre : lujan
+Apellido : faleiro
+Cargo : administrativa de compras
+Direccion : mitre
+Ciudad : 1229
+Telefono : 0336-154318993
+Email : lujanfale@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : adjunto cv
+Security_code : 6bbhr
+Send : Enviar
+
+---------------
+
+Address : 190.11.186.109
+Nombre : Matias
+Apellido : Pignatta
+Cargo : soporte tecnico
+Direccion : 9 de julio 312
+Ciudad : villa ascasubi,cordoba, argentina
+Telefono : (03571)15619605
+Email : matiaspignatta9@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : interesado en teletrabajo relacionado con el soporte inicial de redes
+Security_code : zp7z7
+Send : Enviar
+
+---------------
+

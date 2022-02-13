@@ -1,0 +1,28 @@
+Address : 190.16.53.4
+Nombre : Laura Cecilia
+Apellido : Esplugas
+Cargo : Recepcionista, atención al cliente, administrativa
+Direccion : Medrano 274 piso 4 dpto E
+Ciudad : CABA
+Telefono : 4958-5608 /15-6173-6614
+Email : lauraesplugas@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : 
+
+De mi mayor consideración:
+
+Tengo el agrado de dirigirme a Usted porque estoy buscando empleo.
+
+Adjunto a la presente mi Curriculum Vitae para que Usted pueda realizar una mejor evaluación de mi perfil y quedo a su total disposición para realizar una entrevista y así ampliar detalles del mismo.
+
+Quedando a la espera de una pronta y favorable respuesta, saludo a Ud. muy atentamente.
+
+
+
+Laura Cecilia Esplugas
+
+Security_code : cpdnh
+Send : Enviar
+
+---------------
+

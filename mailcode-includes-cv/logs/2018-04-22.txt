@@ -1,0 +1,52 @@
+Address : 181.14.148.97<br>
+ <br>Nombre : Cesar Dario
+ <br>Apellido : Leguizamon Rodriguez
+ <br>Cargo : Empleado
+ <br>Direccion : Calixto Gauna 987
+ <br>Ciudad : Cordoba Capital
+ <br>Telefono : 3512087349
+ <br>Email : cesar.leguizamon.teo@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : aqui dejo mi curriculum por cualquier puesto de trabajo que este dispuesto, soy de facil aprendizaje, me adapto a cualquier grupo de trabajo ya formado, tengo movilidad propia y me defino como una persona atenta y responsable
+ <br>Security_code : nf7x8
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.111.231.50<br>
+ <br>REF : ACO-1
+ <br>Nombre : Anders Vincent
+ <br>Apellido : Kennedy Orstadius
+ <br>Cargo : Analista de comercio internacional
+ <br>Direccion : BRASIL N 41, 8° A
+ <br>Ciudad : C.A.B.A.
+ <br>Telefono : 1162097402
+ <br>Email : kennedyorstadius@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buen tardes, me pongo en contacto con el fin de postularme a puesto de "ADMINISTRATIVO JR."
+Actualmente me encuentro estudiando la carrera de comercio internacional, y estoy deseoso de poder desarrollarme laboralmente en dicho ámbito.
+Adjunto mi currículum vitae, donde estará reflejada toda mi información.
+Quedó a su disposición, y a la espera de una grata respuesta.
+Muchas gracias.
+Atte.
+ <br>Security_code : yp47s
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.47.138.19<br>
+ <br>REF : JPER-1
+ <br>Nombre : RICARDO HORACIO
+ <br>Apellido : LUACES
+ <br>Cargo : JEFE DE PERSONAL
+ <br>Direccion : Alcorta, 661
+ <br>Ciudad : Troncos del Talar
+ <br>Telefono : 1531023051
+ <br>Email : rrll1967@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados: Adjunto mi cv, a los fines de postularme al puesto de referencia. Atte: Ricardo Luaces
+ <br>Security_code : ypgvv
+ <br>Send : Enviar
+ <br>
+---------------
+

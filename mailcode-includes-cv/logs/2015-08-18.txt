@@ -1,0 +1,128 @@
+Address : 186.138.230.135
+Nombre : Fdvdf
+Apellido : Fvf
+Cargo : fvdf
+Direccion : fvdv
+Ciudad : fvfv
+Telefono : w44242424
+Email : fvd@fdvfv
+MAX_FILE_SIZE : 2097152
+Mensaje : wfdvcfd
+Security_code : rs6zg
+Send : Enviar
+
+---------------
+
+Address : 186.109.235.60
+Nombre : Camila
+Apellido : Larrosa
+Cargo : Atención al cliente. 
+Direccion : Jose Cabrera 5236
+Ciudad : Capital Federal
+Telefono : 1550521331
+Email : camilalarrosa1987@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados: Por la presente envió mi Curriculum Vitae. 
+
+Gracias. 
+Security_code : jwxn8
+Send : Enviar
+
+---------------
+
+Address : 200.126.170.59
+Nombre : Santiago
+Apellido : Frers
+Cargo : -
+Direccion : Av Alvear 1555
+Ciudad : C.A.B.A.
+Telefono : 1568005961
+Email : frers.santiago@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados, buenos días,
+
+Mi nombre es Santiago Frers y me dirijo a ustedes con el fin de acercarles mi curriculum.
+
+Como podrán comprobar en el mismo, cuento con gran experiencia en empresas de servicios. Confío en mis capacidades de liderazgo, análisis, orientación a resultados y superación; las cuales creo fundamentales para aportar beneficios a su empresa.
+
+Por las razones mencionadas desearía que tomaran en cuenta mi solicitud y les agradecería la oportunidad de participar en las pruebas de selección que crean correspondientes.
+
+En espera de sus noticias, les saluda atentamente
+
+
+Santiago Frers
+Security_code : ftc55
+Send : Enviar
+
+---------------
+
+Address : 186.60.222.238
+Nombre : Beatriz Emilia
+Apellido : Lanatti
+Cargo : Administrativa Asistente Secretaria
+Direccion : Av. Reg. Patricios 1686 3 B
+Ciudad : Capital Federal
+Telefono : 1556926144
+Email : behec01@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Tengo el agrado de dirigirme a Uds., a efectos de adjuntar mi Curriculum Vitae
+
+en virtud de su consideración para una oferta laboral acorde a mi perfil.
+
+Desde ya muchas gracias.
+
+cordiales saludos
+
+Beatriz Lanatti
+
+
+Security_code : qxwjx
+Send : Enviar
+
+---------------
+
+Address : 190.191.214.254
+Nombre : Maria Gabriela Kamienski
+Apellido : Kamienski
+Cargo : Atencion al cliente, recepcion, Adm.
+Direccion : Mariano Moreno 332
+Ciudad : Villa Maria
+Telefono : 353154198543
+Email : gabyk71@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Por razones personales necesito radicarme en Cordoba capital o v.carlos paz.
+Security_code : mcjwc
+Send : Enviar
+
+---------------
+
+Address : 190.191.214.254
+Nombre : Maria Gabriela Kamienski
+Apellido : Kamienski
+Cargo : Atencion al cliente, recepcion, Adm.
+Direccion : Mariano Moreno 332
+Ciudad : Villa Maria
+Telefono : 353154198543
+Email : gabyk71@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Por razones personales necesito radicarme en Cordoba capital o v.carlos paz.
+Security_code : mjcwc
+Send : Enviar
+
+---------------
+
+Address : 190.191.214.254
+Nombre : Maria Gabriela Kamienski
+Apellido : Kamienski
+Cargo : Atencion al cliente, recepcion, Adm.
+Direccion : Mariano Moreno 332
+Ciudad : Villa Maria
+Telefono : 353154198543
+Email : gabyk71@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Por razones personales necesito radicarme en Cordoba capital o v.carlos paz.
+Security_code : m49by
+Send : Enviar
+
+---------------
+

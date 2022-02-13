@@ -1,0 +1,123 @@
+Address : 181.29.29.46<br>
+ <br>Nombre : Ana Maria
+ <br>Apellido : Aubert
+ <br>Cargo : jefe / analista de RRHH
+ <br>Direccion : Esmeralda, 847
+ <br>Ciudad : Capital Federal
+ <br>Telefono : 34136217
+ <br>Email : anaaub1987@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me pongo en contacto con uds. por este medio para acercarles mis cv, manifestando mi interés en participar de su proceso de selección.
+
+Cuento con 4 años de experiencia en el área de Recursos Humanos, pero también me desarrolle en el área contable. Con lo cual, mi interés radica en esas áreas.
+
+Me considero una persona proactiva, responsable y con mucha capacidad de aprendizaje.
+
+Quedo a la espera de una pronta respuesta.
+
+Agradezco su atención.
+
+Saludos,
+Ana Aubert.
+ <br>Security_code : PY7NH
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 191.102.19.202<br>
+ <br>Nombre : Karen Estefania
+ <br>Apellido : Aponte Kornchú
+ <br>Cargo : Atención al Cliente
+ <br>Direccion : San José 1560
+ <br>Ciudad : Moreno
+ <br>Telefono : 1162004625
+ <br>Email : aponte1995_k@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Mi nombre es Karen Aponte y estoy en busca de trabajo. tuve muy pocas experiencias de trabajo y por la falta de esta tengo dificultades para que me contraten. Necesito su ayuda. desde ya, muchas gracias.
+ <br>Security_code : 766s9
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 191.102.19.202<br>
+ <br>Nombre : Karen Estefania
+ <br>Apellido : Aponte Kornchú
+ <br>Cargo : Atención al Cliente
+ <br>Direccion : San José 1560
+ <br>Ciudad : Moreno
+ <br>Telefono : 1162004625
+ <br>Email : aponte1995_k@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Mi nombre es Karen Aponte y estoy en busca de trabajo. tuve muy pocas experiencias de trabajo y por la falta de esta tengo dificultades para que me contraten. Necesito su ayuda. desde ya, muchas gracias.
+ <br>Security_code : 766s9
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.129.9.183<br>
+ <br>Nombre : Yesica Nahir
+ <br>Apellido : Premiani
+ <br>Cargo : Analista jr Recursos Humanos
+ <br>Direccion : Los Toldos 166
+ <br>Ciudad : Hurlingham
+ <br>Telefono : 1130542333
+ <br>Email : yesicapremiani@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me gustaría formar parte de una compañía para poder desarrollarme como profesional, adquirir experiencia, aprender y poner en práctica todos mis conocimientos universitarios y de vida.
+Me comprometo a colaborar con el objetivo final, siendo proactiva, de manera organizada y con responsabilidad.
+
+ <br>Security_code : kx225
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.171.138.61<br>
+ <br>REF : EP-1
+ <br>Nombre : Carolina Alejandra
+ <br>Apellido : Braga
+ <br>Cargo : Encargado de Produccion
+ <br>Direccion : Tte Ibañez 942
+ <br>Ciudad : Cipolletti
+ <br>Telefono : 0260154201258
+ <br>Email : carix_@hotmail.es
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Tengo posibilidades de Radicarme en Capital Federal
+ <br>Security_code : ngvyy
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.26.179.66<br>
+ <br>REF : Ing. quim
+ <br>Nombre : Antonieta
+ <br>Apellido : Bianchi
+ <br>Cargo : Jefa de Producción
+ <br>Direccion : Belgrano 448
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 01143923691
+ <br>Email : antubianchi@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : 
+  Mi nombre es Antonieta Bianchi, tengo 23 años y estoy próxima a recibirme de Ingeniera Química en la Universidad Tecnológica Nacional (graduación estimada:febrero 2017). Estoy buscando un trabajo que me permita desarrollarme profesionalmente y realmente estoy interesada en ser tenida en cuenta por su compañía en esta búsqueda laboral.
+
+  En cuanto a mi experiencia, mis últimos trabajos fueron en Danone Argentina S.A. en el área de Asuntos Regulatorios y en Vidriería Argentina S.A. en el área de Producción. Mis expectativas laborales son poder aprender a desenvolverme en el área de Ingeniería y todo lo relacionado a ello. Les dejo mi CV por si me quieren conocer un poco más, yo estoy realmente muy interesada en su empresa.
+ <br>Security_code : s8qk5
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.230.2.166<br>
+ <br>Nombre : Arantza
+ <br>Apellido : Olaguer Feliu
+ <br>Cargo : RRHH
+ <br>Direccion : Leiva 4265 piso 2 depto 50
+ <br>Ciudad : capital federal
+ <br>Telefono : 1550125818
+ <br>Email : arantzaolaguer@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Envío mi CV para búsquedas en el área de Recursos Humanos. Gracias
+ <br>Security_code : nsxmf
+ <br>Send : Enviar
+ <br>
+---------------
+

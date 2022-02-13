@@ -1,0 +1,122 @@
+Address : 181.20.59.204
+Nombre : Fernanda Paula
+Apellido : Ferrari
+Cargo : Trabajadora Social
+Direccion : Juan b. Justo 3620
+Ciudad : Ciudadela
+Telefono : 1534071767
+Email : ferrari_fer@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenos Dias, adjunto mi curriculum vitae para su evaluación.  Muchas Gracias.
+Security_code : fzfrd
+Send : Enviar
+
+---------------
+
+Address : 66.60.48.252
+Nombre : Daniela 
+Apellido : Santangelo 
+Cargo : administracion
+Direccion : av. san martin 2492
+Ciudad : buenos aires
+Telefono : 1550564926
+Email : DanySantan@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : espero su llamado
+Security_code : hsd47
+Send : Enviar
+
+---------------
+
+Address : 66.60.48.252
+Nombre : Daniela 
+Apellido : Santangelo 
+Cargo : analista
+Direccion : av. san martin 2492
+Ciudad : buenos aires
+Telefono : 1550564926
+Email : DanySantan@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : espero con ansias su llamado para integrarme en su grupo
+Security_code : jhnyv
+Send : Enviar
+
+---------------
+
+Address : 201.212.152.96
+Nombre : Fabian
+Apellido : Picasso
+Cargo : Gerente / Jefe / Supervisor / Responsable
+Direccion : 76 Nª116
+Ciudad : chivilcoy / Mercedes
+Telefono : 02346 15481396
+Email : fapy40@live.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : + de 20 años trabajando en industrias multinacionales
+Security_code : gjgfz
+Send : Enviar
+
+---------------
+
+Address : 201.212.152.96
+REF : GERENTE-DE-PRODUCCION
+Nombre : Fabian
+Apellido : Picasso
+Cargo : Gerente/Jefe/Responsable/Supervisor
+Direccion : 76 Nª116
+Ciudad : Chivilcoy-Mercedes
+Telefono : 02346 15481396
+Email : fapy40@live.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : + de 20 años en industrias multinacionales
+Security_code : 6f5sc
+Send : Enviar
+
+---------------
+
+Address : 201.212.152.96
+REF : GERENTE-DE-PRODUCCION
+Nombre : Fabian
+Apellido : Picasso
+Cargo : Gerente/Jefe/Responsable/Supervisor
+Direccion : 76 Nª116
+Ciudad : Chivilcoy-Mercedes
+Telefono : 0234615481396
+Email : fapy40@live.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : + de 20 años en industrias multinacionales de primer nivel
+Security_code : sr3dt
+Send : Enviar
+
+---------------
+
+Address : 190.221.84.18
+Nombre : sebastian
+Apellido : bustos
+Cargo : cualquiera
+Direccion : Estrada 822
+Ciudad : Rafael Castillo
+Telefono : 1153194972
+Email : asbf_75@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : solo estoy en busca de trabajo, tengo buena predisposicion, tiempo y aprendo rapido.
+Security_code : x7d6d
+Send : Enviar
+
+---------------
+
+Address : 186.56.32.154
+Nombre : Orlando David
+Apellido : Alvarez
+Cargo : Personal/Tecnico
+Direccion : Calle 1136 Nº2121
+Ciudad : Fcio. Varela
+Telefono : 11-61050762
+Email : oalvarez0406@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Aquí les envio mi C.V. Espero poder concretar algunas entrevista laboral. Muchas gracias.
+Security_code : 6m83q
+Send : Enviar
+
+---------------
+

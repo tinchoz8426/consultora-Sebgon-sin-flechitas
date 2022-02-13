@@ -1,0 +1,33 @@
+Address : 190.231.14.103
+REF : supervisor-seguridad
+Nombre : Inés Amalia
+Apellido : Folador
+Cargo : Visitadora Social -
+Direccion : Ortega y Gasset 1616
+Ciudad : Capital Federal
+Telefono : 4773 - 9883
+Email : senisanmiguel@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto C.V. para toda oferta laboral que estimen conveniente
+Security_code : wg77j
+Send : Enviar
+
+---------------
+
+Address : 186.19.243.32
+Nombre : Carlos Javier
+Apellido : Sartori
+Cargo : Seguridad e Higiene
+Direccion : Otamendi 5175
+Ciudad : Tablada
+Telefono : 15-35635302
+Email : cj_sartori@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Les comento que adeudo una sola Materia a recursar en Agosto de este año de la carrera de Higiene y Seguridad Industrial y cuento con experiencia en Planta y en trabajos administrativos.
+
+Muy agradecido, en espera de una pronta respuesta.
+Security_code : rfgqj
+Send : Enviar
+
+---------------
+

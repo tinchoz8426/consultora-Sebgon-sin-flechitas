@@ -1,0 +1,15 @@
+Address : 201.253.38.101
+Nombre : leandro daniel
+Apellido : arias ronchi
+Cargo : empleado
+Direccion : clucellas 1247
+Ciudad : santa fe
+Telefono : 0342 4960478 / 0342 155281917
+Email : arias577@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : quiero conseguir trabajo
+Security_code : sx486
+Send : Enviar
+
+---------------
+

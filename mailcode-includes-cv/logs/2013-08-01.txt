@@ -1,0 +1,61 @@
+Address : 190.17.157.75
+Nombre : Dario
+Apellido : Ferreiro
+Cargo : Comercial / Ventas
+Direccion : Raspanti 768
+Ciudad : Haedo - Bs As
+Telefono : 011-4650-4414
+Email : darioferreiro@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Envio Curriculum Vitae.
+Security_code : ykbgq
+Send : Enviar
+
+---------------
+
+Address : 190.17.157.75
+Nombre : dario
+Apellido : ferreiro
+Cargo : comercial ventas
+Direccion : raspanti 768
+Ciudad : haedo bs as
+Telefono : 011 4650 4414
+Email : darioferreiro@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : envio curriculum vitae
+Security_code : bdg6w
+Send : Enviar
+
+---------------
+
+Address : 181.164.148.93
+REF : jefe-de-operaciones
+Nombre : Franco Alexis
+Apellido : Allende
+Cargo : Asesoria
+Direccion : Argandoña 5485
+Ciudad : Córdoba Capital
+Telefono : 351-3739338
+Email : ratamtl_13@hotmail.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : en su empresa podre desempeñarme eficazmente para lograr juntos objetivos en comnú. 
+Security_code : sqfyv
+Send : Enviar
+
+---------------
+
+Address : 181.46.32.166
+Nombre : matias
+Apellido : lopez navarrete
+Cargo : Auxiliar Administrativo Oficina
+Direccion : francisco narziso laprida 1435 dpto 5
+Ciudad : Lomas de Zamora
+Telefono : 5491159035680
+Email : matiaslopeznavarrete@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me interesa conseguir un trabajo con urgencia ya que tengo un hijo.-
+Security_code : 8c6y9
+Send : Enviar
+
+---------------
+

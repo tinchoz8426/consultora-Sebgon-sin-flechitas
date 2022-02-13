@@ -1,0 +1,86 @@
+Address : 181.30.54.213<br>
+ <br>Nombre : Ramiro 
+ <br>Apellido : Garcia Sarmiento
+ <br>Cargo : Chofer Profesional de cargas
+ <br>Direccion : La Plata 1235
+ <br>Ciudad : El Palomar
+ <br>Telefono : 1553777799
+ <br>Email : ramirogsarmiento@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Pongo a vuestra disposicion mi C.V.Vitae para participar de posibles busquedas de empleo acorde al mismo. Muchas Gracias
+ <br>Security_code : xcwtx
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.137.149.106<br>
+ <br>Nombre : Carlos Fabián
+ <br>Apellido : Visintainer
+ <br>Cargo : Técnico TE-1
+ <br>Direccion : Cochabamba 1840 2 D
+ <br>Ciudad : CABA
+ <br>Telefono : 15 3691 1942
+ <br>Email : fabian.visintainer1@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me postulo para el cargo de técnico o supervisor técnico. Rama Eléctrónica/Eléctrica industrial; automatización y maniobras de media tensión. Cordiales saludos, 
+
+Carlos Fabián Visintainer
+ <br>Security_code : w4vmf
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.139.88.61<br>
+ <br>REF : JPER-1
+ <br>Nombre : Analia
+ <br>Apellido : Figueroa
+ <br>Cargo : Jefa RRHh
+ <br>Direccion : Nazarre 1279 
+ <br>Ciudad : Pilar
+ <br>Telefono : 1161958592
+ <br>Email : anifigueroa72@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados
+
+Envío mis datos para ser tenida en cuenta para el área de RRHH.
+Estoy disponible de tener una entrevista cuando dispongan.
+
+Saludos Cordiales
+Analia Figueroa
+ <br>Security_code : dkk3h
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.18.20.47<br>
+ <br>REF : Ing. quim
+ <br>Nombre : Marcos
+ <br>Apellido : Schloymann
+ <br>Cargo : Jefe de Producción
+ <br>Direccion : Av. San Juan 1490
+ <br>Ciudad : Capital Federal
+ <br>Telefono : 11-6981-9735
+ <br>Email : marcosschloymann@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Soy una persona dinámica con mucha facilidad de aprendizaje y trabajo en grupo.
+ <br>Security_code : cm9f2
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.190.187.190<br>
+ <br>Nombre : Noelia
+ <br>Apellido : Torices
+ <br>Cargo : TECNICO SEGURIDAD E HIGIENE, TECNICO SUPERIOR MEDIOAMBIENTE
+ <br>Direccion : dorrego
+ <br>Ciudad : punta alta
+ <br>Telefono : 2932432037
+ <br>Email : paranoe@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me dirijo a Uds. para ser tenida en cuenta en caso de presentarse una posibilidad laboral. Adjuntado se encuentra mi C.V
+Atte.Noelia Torices
+ <br>Security_code : c8gnh
+ <br>Send : Enviar
+ <br>
+---------------
+

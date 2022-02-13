@@ -1,0 +1,157 @@
+Address : 201.180.117.212
+REF : TECME
+Nombre : Claudio David
+Apellido : Machado Ledesma
+Cargo : TECME
+Direccion : Bettinoti 1241
+Ciudad : Merlo
+Telefono : 1141428943
+Email : claudio_machado4@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Dejo mi cv para esta oportunidad laboral. Soy técnico mecánico con amplia experiencia en plantas industriales. Sería de
+mi agrado poder concretar una entrevista. Desde ya muchas gracias.
+Security_code : 93dz9
+Send : Enviar
+
+---------------
+
+Address : 201.180.117.212
+REF : TECME
+Nombre : Claudio David
+Apellido : Machado Ledesma
+Cargo : TECME
+Direccion : Bettinoti 1241
+Ciudad : Merlo
+Telefono : 1141428943
+Email : claudio_machado4@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Dejo mi cv para esta oportunidad laboral. Soy técnico mecánico con amplia experiencia en plantas industriales. Sería de
+mi agrado poder concretar una entrevista. Desde ya muchas gracias.
+Security_code : 93dz9
+Send : Enviar
+
+---------------
+
+Address : 201.180.117.212
+REF : TECME
+Nombre : Claudio David
+Apellido : Machado Ledesma
+Cargo : TECME
+Direccion : Bettinoti 1241
+Ciudad : Merlo
+Telefono : 1141428943
+Email : claudio_machado4@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Dejo mi cv para esta oportunidad laboral. Soy técnico mecánico con amplia experiencia en plantas industriales. Sería de
+mi agrado poder concretar una entrevista. Desde ya muchas gracias.
+Security_code : 489js
+Send : Enviar
+
+---------------
+
+Address : 201.180.117.212
+Nombre : Claudio David
+Apellido : Machado Ledesma
+Cargo : TECME
+Direccion : Bettinoti 1241
+Ciudad : Merlo
+Telefono : 1141428943
+Email : claudio_machado4@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Envío mi cv para esta oportunidad laboral.  ya muchas gracias
+Security_code : f3vqy
+Send : Enviar
+
+---------------
+
+Address : 201.180.117.212
+Nombre : Claudio David
+Apellido : Machado Ledesma
+Cargo : TECME
+Direccion : Bettinoti 1241
+Ciudad : Merlo
+Telefono : 1141428943
+Email : claudio_machado4@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Envío mi cv para esta oportunidad laboral. Desde ya muchas gracias
+Security_code : 237f8
+Send : Enviar
+
+---------------
+
+Address : 201.180.117.212
+REF : TECME
+Nombre : Claudio David
+Apellido : Machado Ledesma
+Cargo : TECME
+Direccion : Bettinoti 1241
+Ciudad : Merlo
+Telefono : 1141428943
+Email : claudio_machado4@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Envío mi cv para esta oportunidad laboral. Soy técnico mecánico con amplia experiencia en plantas industriales. Sería de mi agrado poder concretar una entrevista. Desde ya muchas gracias.
+Security_code : 65xky
+Send : Enviar
+
+---------------
+
+Address : 186.22.69.115
+Nombre : Cristian Andrés 
+Apellido : Salva
+Cargo : operario
+Direccion : Boedo 815
+Ciudad : Longchamps
+Telefono : 1137991271
+Email : cristian.salva@outlook.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Busco ofertas laborales para desempeñarme con excelencia en el puesto de trabajo.
+Security_code : gsrfj
+Send : Enviar
+
+---------------
+
+Address : 181.27.171.171
+Nombre : Valeria
+Apellido : Saavedra
+Cargo : Operaria o maestranza
+Direccion : Santa Angela 795
+Ciudad : Ezeiza
+Telefono : 43980943
+Email : vale_saavedra_94@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Les dejo mi cv por si surgen ofertas laborales. Desde ya muchas gracias.
+Security_code : np9wn
+Send : Enviar
+
+---------------
+
+Address : 186.135.33.35
+Nombre : hector
+Apellido : chavez
+Cargo : cableador
+Direccion : zelada 5788
+Ciudad : gonzalez catan
+Telefono : 1168485027
+Email : chavezh70@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : ******
+Security_code : xtnbv
+Send : Enviar
+
+---------------
+
+Address : 186.158.253.50
+Nombre : Verónica
+Apellido : Sosa Corrales
+Cargo : Archivista, monitoreo, data entry, docente, administrativa
+Direccion : Paris 734
+Ciudad : Haedo
+Telefono : 4650-6849 / 15-2180- 6239
+Email : vscluz@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : EXPERIENCIA PRINCIPAL EN DOCENCIA
+Security_code : N5BTY
+Send : Enviar
+
+---------------
+

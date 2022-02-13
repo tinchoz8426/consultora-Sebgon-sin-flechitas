@@ -1,0 +1,15 @@
+Address : 190.172.223.176
+Nombre : emilio ernesto
+Apellido : cocha
+Cargo : operario de produccion
+Direccion : rio bamba 5035
+Ciudad : bs.as
+Telefono : 011 4463 3208
+Email : emibrendacata@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : busco una oportunidad de trabajo q dios los bendiga 
+Security_code : tq57j
+Send : Enviar
+
+---------------
+

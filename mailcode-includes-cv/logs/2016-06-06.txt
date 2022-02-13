@@ -1,0 +1,124 @@
+Address : 181.92.49.119<br>
+ <br>Nombre : gustavo ariel
+ <br>Apellido : reyes
+ <br>Cargo : gerencial, planificacion, control de gestion
+ <br>Direccion : trofeli 1679 B° ariel del plata 
+ <br>Ciudad : campana
+ <br>Telefono : 03489449021
+ <br>Email : gustariel_61@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Curriculum para ser tenido en cuenta en futuras oportunidades laborales
+ <br>Security_code : 679fq
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.135.129.189<br>
+ <br>REF : OEL
+ <br>Nombre : Ricardo Jose
+ <br>Apellido : Silva Mashacuri
+ <br>Cargo : oficial
+ <br>Direccion : barbier 935
+ <br>Ciudad : el jaguel,bs as
+ <br>Telefono : 1138225629
+ <br>Email : Ricardo24sm@outlook.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : busco ampliar mis conocimientos para un futuro prometedor y ganar mas capacidad en este rubro...gracias
+ <br>Security_code : 7c3kz
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.231.106.180<br>
+ <br>Nombre : Jorge Martin
+ <br>Apellido : Jonval
+ <br>Cargo : supervisor de Produccion
+ <br>Direccion : CALLE 6  N° 1830
+ <br>Ciudad : zarate
+ <br>Telefono : 0348715689156
+ <br>Email : jonvaljorge@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola Buenos días, hago llegar mi Curriculum vitae para ser parte de su staf de personal. 
+ <br>Security_code : jckjn
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.231.106.180<br>
+ <br>REF : SuP
+ <br>Nombre : Jorge Martin
+ <br>Apellido : Jonval
+ <br>Cargo : supervisor de Produccion
+ <br>Direccion : CALLE 6  N° 1830
+ <br>Ciudad : zarate
+ <br>Telefono : 0348715689156
+ <br>Email : jonvaljorge@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Quisiera ser4 parte de su staf de profesionales.
+ <br>Security_code : v8zbg
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.61.1.140<br>
+ <br>Nombre : Giuliana
+ <br>Apellido : Serignano
+ <br>Cargo : Vendedora/Recepcionista
+ <br>Direccion : Aragón 1973
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 1526363392
+ <br>Email : Giuliayelenserignano@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje :  Busco progresar en un trabajo que me permita desafiarme a mí misma, a través de la resolución por mis propios medios de los problemas que se me presenten y en el cumplimiento de las metas que me proponga lograr.
+
+ <br>Security_code : ctwbc
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 179.7.78.83<br>
+ <br>Nombre : vanessa
+ <br>Apellido : rojas
+ <br>Cargo : bachiller
+ <br>Direccion : urb los brillantes de santa ines
+ <br>Ciudad : trujillo
+ <br>Telefono : 271180
+ <br>Email : shurtup_mylife@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : hola mi nombre es vanessa rojas me gustaria trabajar con udts ya que es un empresa conocida y tengo las ganas de formar parte de su empresa ya sea como practicas o trabajo saludos.
+ <br>Security_code : 7b76n
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.177.9.188<br>
+ <br>Nombre : Luis Alberto Cristian
+ <br>Apellido : Leon
+ <br>Cargo : Operario Produccion
+ <br>Direccion : Jose Lemos 781
+ <br>Ciudad : Guernica (Presidente Peron) Bs As
+ <br>Telefono : (02224) 47-6795
+ <br>Email : luisalbertocristianleon@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Soy una persona responsable ordenada y con ganas de trabajar.
+Cordialmente:Luis Leon
+ <br>Security_code : p422r
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.239.30.55<br>
+ <br>Nombre : florencia belen
+ <br>Apellido : amarilla
+ <br>Cargo : Administrativa
+ <br>Direccion : calle 5 nº 2283
+ <br>Ciudad : Berazategui
+ <br>Telefono : 54342171
+ <br>Email : flopi.juli73@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas tardes adjunto mi cv, cuento con disponibilidad horaria. Gracias!
+ <br>Security_code : rzpbv
+ <br>Send : Enviar
+ <br>
+---------------
+

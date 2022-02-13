@@ -1,0 +1,34 @@
+Address : 181.169.29.251
+REF : GTEP
+Nombre : Diego Rafael
+Apellido : Spina
+Cargo : Gerente de Planta
+Direccion : 515/2465
+Ciudad : Ringuelet
+Telefono : 0111531639112
+Email : diegorspina@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados:
+Adlunto mi cv y me encuentro a su disposición por cualquier otro dato que estimen necesario.
+Atte.
+Ing. Diego Spina
+Security_code : wtnt2
+Send : Enviar
+
+---------------
+
+Address : 181.168.226.117
+Nombre : florencia 
+Apellido : patruno
+Cargo : promotora
+Direccion : la rioja 1257
+Ciudad : mar del plata
+Telefono : 0223155796475
+Email : flor-.mdq@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola que tal, estoy en busqueda de trabajo en la ciudad de mar del plata, tengo experiencia en ventas, atencion al publico y promo-ventas. Espero que me tomen en cuenta, desde ya , muchas gracias.
+Security_code : 2yqvq
+Send : Enviar
+
+---------------
+

@@ -1,0 +1,34 @@
+Address : 24.232.101.42
+Nombre : Romina
+Apellido : Antonuccio
+Cargo : supervisora  en el area  de  salud
+Direccion : Paraguay  4653  P.B. "N"
+Ciudad : Buenos Aires - Capital Federal
+Telefono : 3-527-8287
+Email : romina.antonuccio@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Por  favor  me tendria en cuenta gracias  por su tiempo
+Security_code : yfd5m
+Send : Enviar
+
+---------------
+
+Address : 186.23.46.173
+Nombre : Matias Javier
+Apellido : D Alessandro
+Cargo : Administrativo
+Direccion : Sargento Cabral 2015
+Ciudad : Ramos Mejía
+Telefono : 15-6609-0472
+Email : matiasdalessa@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimado le adjunto mi CV para que lo tengan en cuenta en futuras búsquedas. Si necesitan que me acerque con otro tipo de documentación o para alguna entrevista estoy a su disposición.
+
+Saludos cordiales
+
+D´Alessandro Matías.
+Security_code : 9ms8m
+Send : Enviar
+
+---------------
+

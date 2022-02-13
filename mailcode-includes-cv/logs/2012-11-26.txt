@@ -1,0 +1,31 @@
+Address : 186.124.158.152
+Nombre : maximiliano federico 
+Apellido : nuñez
+Cargo : administrativo 
+Direccion : sarandi 760 
+Ciudad : capital federal 
+Telefono : 348915656973
+Email : maximiliano.nu@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : gracias por su tiempo . saludos 
+Security_code : 3kzqs 
+Send : Enviar
+
+---------------
+
+Address : 190.16.16.73
+Nombre : Silvana del Valle
+Apellido : Calvo
+Cargo : Secretaria
+Direccion : Duarte Quirós 477
+Ciudad : Cordoba - capital
+Telefono : 0351 - 153908601
+Email : chilicalvo28@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Necesitaria encontrar un trabajo urgente, osea para los primeros dias de diciembre.
+Gracias
+Security_code : j6qsf
+Send : Enviar
+
+---------------
+

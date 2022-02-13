@@ -1,0 +1,150 @@
+Address : 200.68.120.225
+Nombre : Eliana
+Apellido : Lizarraga
+Cargo : recepcionista
+Direccion : yerbal 795
+Ciudad : Buenos Aires
+Telefono : 15-26515488
+Email : lizarraga.eliana@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Busco incorporarme en una empresa,tengo disponibilidad horaria y predisposición a la hora de desempeñar mi trabajo.
+Security_code : 4sfjw
+Send : Enviar
+
+---------------
+
+Address : 181.239.34.31
+Nombre : Fabian
+Apellido : Serantes
+Cargo : Contro de calidad/ Operario Tecnico
+Direccion : CAlle 153 A Nro.6262 
+Ciudad : Hudson
+Telefono : 011-42150196/26332324
+Email : fabio_08@hotmail.es
+MAX_FILE_SIZE : 2097152
+Mensaje : Estoy buscando Empleo para mejorar mi situación laboral y económica 
+Security_code : dgfwg
+Send : Enviar
+
+---------------
+
+Address : 186.18.216.255
+Nombre : Luciana
+Apellido : Di Chenna
+Cargo : Recursos Humanos
+Direccion : Vallejos 3352
+Ciudad : Capital Federal
+Telefono : 1538613800
+Email : ldichenna@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Deseo trabajar en areas administrativas o de recursos humanos. Horarios part time
+Security_code : 6y8fh
+Send : Enviar
+
+---------------
+
+Address : 186.124.34.83
+Nombre : Gabriel Norberto 
+Apellido : Bianco
+Cargo : Periodismo/comunicación/prensa
+Direccion : lafuente 221
+Ciudad : Capital Federal 
+Telefono : (011) 35827343
+Email : bianco.gabriel.n@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Envío mi CV con motivo de ser tenido en cuanta en futuras búsquedas laborales.
+Security_code : ct2f3
+Send : Enviar
+
+---------------
+
+Address : 200.5.104.243
+Nombre : Paula Alejandra
+Apellido : Marchetti
+Cargo : Indistinto
+Direccion : Rodhe 177
+Ciudad : General Roca
+Telefono : 0221-155715687
+Email : marchettialejandra@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados, envío adjunto mi CV en carácter de presentación espontánea, a fin de que mi perfil sea considerado para futuras búsquedas en General Roca (Pcia de Río Negro), alrededores y la ciudad de Neuquén. Saludos, 
+Security_code : vxsvb
+Send : Enviar
+
+---------------
+
+Address : 200.5.104.243
+Nombre : Paula Alejandra
+Apellido : Marchetti
+Cargo : Indistinto
+Direccion : Rodhe 177
+Ciudad : General Roca
+Telefono : 0221-155715687
+Email : marchettialejandra@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados, envío adjunto mi CV en carácter de presentación espontánea, a fin de que mi perfil sea considerado para futuras búsquedas en General Roca (Pcia de Río Negro), alrededores y la ciudad de Neuquén. Saludos, 
+Security_code : vxsvb
+Send : Enviar
+
+---------------
+
+Address : 200.5.104.243
+Nombre : Paula Alejandra
+Apellido : Marchetti
+Cargo : Indistinto
+Direccion : Rodhe 177
+Ciudad : General Roca
+Telefono : 0221-155715687
+Email : marchettialejandra@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados, envío adjunto mi CV en carácter de presentación espontánea, a fin de que mi perfil sea considerado para futuras búsquedas en General Roca (Pcia de Río Negro), alrededores y la ciudad de Neuquén. Saludos, 
+Security_code : VXSVb
+Send : Enviar
+
+---------------
+
+Address : 200.5.104.243
+Nombre : Paula Alejandra
+Apellido : Marchetti
+Cargo : Indistinto
+Direccion : Rodhe 177
+Ciudad : General Roca
+Telefono : 0221-155715687
+Email : marchettialejandra@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados, envío adjunto mi CV en carácter de presentación espontánea, a fin de que mi perfil sea considerado para futuras búsquedas en General Roca (Pcia de Río Negro), alrededores y la ciudad de Neuquén. Saludos, 
+Security_code : rtjvs
+Send : Enviar
+
+---------------
+
+Address : 186.18.15.11
+Nombre : daniel
+Apellido : lezcano
+Cargo : cadete administrativo
+Direccion : pinzon 131
+Ciudad : capital federal
+Telefono : 1166314138
+Email : danialelezcano@hotmail.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : hola les dejo mi curriculum estoy buscando trabajo para seguir pagando mis estudios . gracias .
+Security_code : v8xqs
+Send : Enviar
+
+---------------
+
+Address : 186.137.123.79
+Nombre : José Manuel
+Apellido : Sola
+Cargo : Administrativo
+Direccion : SAn juan 1632
+Ciudad : Salta
+Telefono : 03874270563
+Email : sola_jose@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : muchas gracias por darme la oportunidad de buscar  empleo desde su sitio web.
+Security_code : 5rb98
+Send : Enviar
+
+---------------
+

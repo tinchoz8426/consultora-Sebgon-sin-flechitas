@@ -1,0 +1,233 @@
+Address : 186.13.3.217<br>
+ <br>REF : chr
+ <br>Nombre : Diego eduardo
+ <br>Apellido : Enriquez
+ <br>Cargo : Chofer, operario, funciones múltiples.
+ <br>Direccion : Santa Catalina 5367
+ <br>Ciudad : Buenos Aires 
+ <br>Telefono : 46265211 1533130911
+ <br>Email : diegoclary21@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me postuló para ocupar el puesto requerido x ustedes tengo 31 años.
+ <br>Security_code : 6x4hn
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 200.115.217.155<br>
+ <br>Nombre : carmen
+ <br>Apellido : otero
+ <br>Cargo : químico
+ <br>Direccion : yerua 1833
+ <br>Ciudad : san justo
+ <br>Telefono : 1562484199
+ <br>Email : carmen1766@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : La carrera esta concluida y la fecha del final que queda sera fines de abril o mayo. Poseo conocimientos de sistemas de gestión y normas de calidad, inglés y capacidad de trabajar en grupo, supervisión de producción, y asistencia técnico comercial.
+ <br>Security_code : ffmmm
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.44.20.88<br>
+ <br>REF : Ing. quim
+ <br>Nombre : Fralenys Carolina
+ <br>Apellido : Gonzalez Monsalve
+ <br>Cargo : Jefa de producción
+ <br>Direccion : Quilmes
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 1522851344
+ <br>Email : fralenys@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Disponibilidad Inmediata.
+ <br>Security_code : qgrf5
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.108.126.46<br>
+ <br>Nombre : Joaquin
+ <br>Apellido : Alemañy 
+ <br>Cargo : Área de ingeniería 
+ <br>Direccion : Chacabuco 1669
+ <br>Ciudad : San Fernando 
+ <br>Telefono : 1530660439 
+ <br>Email : joaquin.alema@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola,
+          Mi nombre es Joaquin Alemañy, estoy en la etapa de tesis próximo a graduarme en la carrera de ingeniería de sonido en la Universidad Nacional de Tres de Febrero (Untref) con orientación en electrónica, acústica, ruido y vibraciones. Me encuentro en una búsqueda laboral y me gustaría formar parte de su equipo de trabajo, adjunto mi curriculum vitae para mayor información, desde ya muchas gracias.
+Saludos.
+Joaquín Alemañy.
+ <br>Security_code : Bjc9x
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.192.135.132<br>
+ <br>REF : chr
+ <br>Nombre : Nicolas
+ <br>Apellido : Narvaez
+ <br>Cargo : Chofer
+ <br>Direccion : ginebra 4040
+ <br>Ciudad : caba
+ <br>Telefono : 1528329707
+ <br>Email : nicolas.edgardo_narvaez@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas noches adjunto envio mi cv.
+
+gracias
+ <br>Security_code : x5cnd
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.192.135.132<br>
+ <br>REF : chr
+ <br>Nombre : Nicolas
+ <br>Apellido : Narvaez
+ <br>Cargo : Chofer
+ <br>Direccion : Ginebra 4040
+ <br>Ciudad : CABA
+ <br>Telefono : 1528329707
+ <br>Email : nicolas.edgardo_narvaez@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Adjunto envio mi cv.
+
+Gracias
+ <br>Security_code : ff48t
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.192.135.132<br>
+ <br>REF : chr
+ <br>Nombre : Nicolas
+ <br>Apellido : Narvaez
+ <br>Cargo : Chofer
+ <br>Direccion : Ginebra 4040
+ <br>Ciudad : CABA
+ <br>Telefono : 1528329707
+ <br>Email : nicolas.edgardo_narvaez@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Adjunto envio mi cv.
+
+Gracias
+ <br>Security_code : ff48t
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.51.56.28<br>
+ <br>Nombre : leandro
+ <br>Apellido : luque
+ <br>Cargo : operario de produccion
+ <br>Direccion : sobral 957
+ <br>Ciudad : buenos aires
+ <br>Telefono : 1138785366
+ <br>Email : leando.luque@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : busco trabajo
+ <br>Security_code : twh3j
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.192.135.132<br>
+ <br>REF : chr
+ <br>Nombre : Nicolas
+ <br>Apellido : Narvaez
+ <br>Cargo : Chofer
+ <br>Direccion : Ginebra 4040
+ <br>Ciudad : CABA
+ <br>Telefono : 1528329707
+ <br>Email : nicolas.edgardo_narvaez@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Adjunto envio mi cv.
+
+Gracias
+ <br>Security_code : mbz22
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.179.176.174<br>
+ <br>REF : chr
+ <br>Nombre : sergio david
+ <br>Apellido : godoy
+ <br>Cargo : chofer
+ <br>Direccion : ing.huergo 2349 mte.grande 
+ <br>Ciudad : buenos aires
+ <br>Telefono : 42901583
+ <br>Email : sergidavidgodoy@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : tengo registro profecinal y cnrt
+ <br>Security_code : m586d
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.182.192.121<br>
+ <br>REF : chr
+ <br>Nombre : Gabriel Esteban
+ <br>Apellido : Cabrera
+ <br>Cargo : chofer de reparto
+ <br>Direccion : GUIDO SPANO 1651
+ <br>Ciudad : CASEROS BUENOS AIRES
+ <br>Telefono : 15-367 10843
+ <br>Email : gabriel.cabrera1966@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Vi el anuncio en este muro  y me intereso.
+Espero que a la hora de seleccionar personal me tengan en cuenta.
+Atte.Gabriel CABRERA
+ <br>Security_code : 2xdws
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.244.105.6<br>
+ <br>REF : chr
+ <br>Nombre : juan carlos 
+ <br>Apellido : vivas
+ <br>Cargo : chofer repartidor
+ <br>Direccion : amenabar2060
+ <br>Ciudad : hurlingham
+ <br>Telefono : 1153843779
+ <br>Email : juancarlosvivas38@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : busco una estabilidad laboral y econonica 
+ <br>Security_code : qprg8
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.244.105.6<br>
+ <br>REF : chr
+ <br>Nombre : juan carlos 
+ <br>Apellido : vivas
+ <br>Cargo : chofer repartidor
+ <br>Direccion : amenabar2060
+ <br>Ciudad : hurlingham
+ <br>Telefono : 1153843779
+ <br>Email : juancarlosvivas38@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : busco una estabilidad laboral y econonica 
+ <br>Security_code : 5wrrc
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.244.105.6<br>
+ <br>Nombre : juan carlos 
+ <br>Apellido : vivas
+ <br>Cargo : chofer repartidor
+ <br>Direccion : amenabar 2060
+ <br>Ciudad : hulingham
+ <br>Telefono : 1153843779
+ <br>Email : juancarlosvivas38@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : busco una estabilidad laboraly economica 
+ <br>Security_code : 88pxm
+ <br>Send : Enviar
+ <br>
+---------------
+

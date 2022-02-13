@@ -1,0 +1,30 @@
+Address : 132.255.201.2<br>
+ <br>Nombre : Melania
+ <br>Apellido : Paolella
+ <br>Cargo : Administrativa
+ <br>Direccion : España 135
+ <br>Ciudad : Puerto Madryn
+ <br>Telefono : 0280-154195941
+ <br>Email : melpao1988@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Busqueda laboral administrativa
+ <br>Security_code : sq6q3
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.83.157<br>
+ <br>Nombre : Wilson
+ <br>Apellido : Sanchez
+ <br>Cargo : Seguridad
+ <br>Direccion : Barrio piedra buena 740
+ <br>Ciudad : Punta alta
+ <br>Telefono : 2932537281
+ <br>Email : wilsonsanchez858@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas noches envio mi curriculum.tengo carnet de conducir profesional en tramite
+ <br>Security_code : drw7p
+ <br>Send : Enviar
+ <br>
+---------------
+

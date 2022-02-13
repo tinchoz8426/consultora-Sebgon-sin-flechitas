@@ -1,0 +1,233 @@
+Address : 186.182.3.72
+REF : SuP
+Nombre : Juan Jose 
+Apellido : Castelli
+Cargo : Supervisor de Produccion
+Direccion : Matanza 1746
+Ciudad : Avellaneda
+Telefono : 15-35897513 / 52927078
+Email : jj_castelli@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Poseo Certificados de cursos realizados.
+Security_code : hp8yn
+Send : Enviar
+
+---------------
+
+Address : 24.232.180.14
+REF : E.DIS
+Nombre : Gonzalo Andrés Melo
+Apellido : Melo
+Cargo : Estudiante de Diseño Industrial
+Direccion : Bonpland n°779
+Ciudad : Ciudad Autónoma de Buenos Aires
+Telefono : (0221) 15-3030215
+Email : gonzaloamelo@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados
+Estoy interesado en la vacante del puesto para Estudiante de Diseño Industrial, soy técnico electromecánico y actualmente me encuentro estudiando la carrera de diseño industrial. Cuento con experiencia comprobable en diferentes puestos de distintas empresas.
+Les adjunto mi C.V.
+Saludos,
+Gonzalo Andrés Melo
+Tel. Fijo: (011) 48549523
+Cel: (0221) 15-3030215
+Security_code : qq37w
+Send : Enviar
+
+---------------
+
+Address : 24.232.180.14
+REF : T.ELE
+Nombre : Gonzalo Andrés
+Apellido : Melo
+Cargo : Técnico Electrónico
+Direccion : Bonpland n°779
+Ciudad : Ciudad Autónoma de Buenos Aires
+Telefono : (0221) 15-3030215
+Email : gonzaloamelo@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados
+Estoy interesado en la vacante del puesto para Técnico, soy técnico electromecánico y actualmente me encuentro estudiando la carrera de diseño industrial. Cuento con experiencia comprobable en diferentes puestos de distintas empresas.
+Les adjunto mi C.V.
+Saludos,
+Gonzalo Andrés Melo
+Tel. Fijo: (011) 48549523
+Cel: (0221) 15-3030215
+Security_code : tcgx6
+Send : Enviar
+
+---------------
+
+Address : 181.23.48.102
+Nombre : CARLOS HUGO
+Apellido : CHAPARRO
+Cargo : VIGILADOR GENERAL
+Direccion : BILBAO 75
+Ciudad : MERLO
+Telefono : 02204864024
+Email : chchaparro1@outlook.com
+MAX_FILE_SIZE : 2097152
+Mensaje : ENVIO MI CV GRACIAS
+Security_code : nqgzw
+Send : Enviar
+
+---------------
+
+Address : 181.23.48.102
+Nombre : CARLOS HUGO
+Apellido : CHAPARRO
+Cargo : VIGILADOR GENERAL
+Direccion : BILBAO 75
+Ciudad : MERLO
+Telefono : 02204864024
+Email : chchaparro1@outlook.com
+MAX_FILE_SIZE : 2097152
+Mensaje : ENVIO MI CV GRACIAS
+Security_code : nqgzw
+Send : Enviar
+
+---------------
+
+Address : 181.23.48.102
+Nombre : CARLOS HUGO
+Apellido : CHAPARRO
+Cargo : VIGILADOR GENERAL
+Direccion : BILBAO 75
+Ciudad : MERLO
+Telefono : 02204864024
+Email : chchaparro1@outlook.com
+MAX_FILE_SIZE : 2097152
+Mensaje : ENVIO MI CV GRACIAS
+Security_code : 9672d
+Send : Enviar
+
+---------------
+
+Address : 181.23.48.102
+Nombre : CARLOS HUGO
+Apellido : CHAPARRO
+Cargo : VIGILADOR GENERAL
+Direccion : BILBAO 75
+Ciudad : MERLO
+Telefono : 02204864024
+Email : chchaparro1@outlook.com
+MAX_FILE_SIZE : 2097152
+Mensaje : CURRICULUM  VITAE 
+
+Apellido: CHAPARRO
+Nombre: Carlos Hugo.
+Fecha de Nac.:   17/11/1960               DNI:  14213764          C.U.I.L:  20-14213764-0
+Domicilio: Bilbao N° 75   MERLO.
+Cel:  1567050074
+Particular: 0220-4864024                      (certificados de trabajos)
+
+EXPERIENCIA LABORAL:
+O.D.I.P.A. :    Direccion: PICHINCHA N ° 16
+Objetivo: Casa de CAMBIO, CEMENTERIO de FLORES,  HOSPITAL GARRAHAN.
+Tareas realizadas: VIGILADOR
+Fecha de ingreso: 1/03/1996                 EGRESO:   30/11/1999
+Motivo de Egreso: REDUCCION DE PERSONAL.
+
+ AUDISEG:   Direccion: Humberto Primo N° 1422
+                    Tel/  4304-8446
+Objetivo:  UNIVERSIDAD DE MORON , HOSPITAL  HEROES DE MALVINAS ( Merlo).
+Tareas Realizadas: VIGILADOR Y ENCARGADO.
+Fecha de ingreso: 23/08/2000                  EGRESO: 24/11/2001
+Motivo de  Egreso: PERDIDA de OBJETIVO
+
+MARPAMA SA. : Direccion:  Saavedra N° 1039
+                       Tel/ 4943-0183
+Objetivo: CLINICA MEDICA.
+Tareas Realizadas:  VIGILADOR
+Fecha de ingreso: 14/11/2002                        EGRESO: 07/05/2004
+Motivo de Egreso:  REDUCCION DE PERSONAL.
+
+MURATA:  Direccion: Lopez de Vega N° 443
+Tareas Realizadas: VIGIALDOR GENERAL. 
+Objetivos : HOSPITAL de CLINICAS, CEMENTERIO de la CHACARITA. LABORATORIO.
+Fecha de Ingreso: 1/06/2009                           EGRESO: 9/06/2010
+Motivo de egreso:  PERDIDA DE OBJETIVO
+
+FEDERAL RESGUARD:  Direccion: Av. Beiro N° 4151
+               Tel/ 1540295733
+Tareas Realizadas: VIGILADOR Y ENCARGADO. 
+Objetivos:   JUMBO , DISCO.
+Fecha de ingreso: 21/10/2010                          EGRESO: 1/10/2012
+Motivo de Egreso:  REDUCCION DE PERSONAL.
+
+INSTITUTO MEDICO AGÜERO: Direccion Agüero N° 1395. MORON.
+Tareas Realizadas: Vigilador General.
+Fecha de Ingreso: 29/05/2015                         EGRESO: 4/03/2016
+Motivo de Egreso: Reduccion de Personal.
+
+
+CURSOS REALIZADOS:    BRIGADISTA Y PREVENCION CONTRA INCENDIOS.
+                                           PRIMEROS AUXILIOS,
+                                            Capacitacion Inicial de 70 horas en Locales Bailables.
+
+Security_code : mpbrd
+Send : Enviar
+
+---------------
+
+Address : 201.255.191.10
+Nombre : Leila
+Apellido : Gomez
+Cargo : atencion al cliente, telefonista 
+Direccion : calle 108 entre 4 y 5 nº 474
+Ciudad : Buenos Aires
+Telefono : 1139480213
+Email : leilagomez21@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : esperare su respuesta, muchisimas gracias, saludos atentamente leila gomez
+Security_code : 8vjzq
+Send : Enviar
+
+---------------
+
+Address : 186.182.15.155
+Nombre : Julieta
+Apellido : Cejas Dupont
+Cargo : Vendedora / Vigiladora
+Direccion : Las flores 1600
+Ciudad : Wilde
+Telefono : 1144719479
+Email : julietadupont@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estoy en busqueda de un empleo de jornada completa y efectivo. En una zona accesible a la que resido.
+Security_code : 84gnw
+Send : Enviar
+
+---------------
+
+Address : 190.18.138.65
+Nombre : JUAN ANDRES
+Apellido : PUCHE
+Cargo : HIGIENE Y SEGURIDAD EN EL TRABAJO
+Direccion : FRAY JUSTO SANTA MARÍA DE ORO 2440
+Ciudad : CABA
+Telefono : 1158656411
+Email : juanpuche@ciudad.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : .
+Security_code : 3z49j
+Send : Enviar
+
+---------------
+
+Address : 181.117.4.127
+Nombre : Maria Cecilia
+Apellido : Villalba
+Cargo : Administrativa-Cajera-Recepcionista
+Direccion : Av. Pte Juan D. Peron 560
+Ciudad : Lomas de Zamora
+Telefono : 011-42831043
+Email : esperanza1206@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me gustaría ser tenida en cuenta para cubrir un puesto,considero que mi experiencia y motivación pueden contribuir al buen desempeño de la tarea. Solicito a Ud. evalúe  la posibilidad de mantener una entrevista para ampliar aspectos de mi perfil. 
+
+Security_code : yfm4d
+Send : Enviar
+
+---------------
+

@@ -1,0 +1,30 @@
+Address : 168.90.86.157<br>
+ <br>Nombre : Carolina Trinidad
+ <br>Apellido : Rotger
+ <br>Cargo : Trabajadora Social
+ <br>Direccion : Moreno 1992
+ <br>Ciudad : Los Polvorines
+ <br>Telefono : 1150072793
+ <br>Email : carorotger@live.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenos días, envío mi CV para poder postularme a las búsquedas laborales vigentes en el área de Trabajo Social. Desde ya muchas gracias. Saludos, Carolina.
+ <br>Security_code : 4kd26
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 200.68.91.117<br>
+ <br>Nombre : Micalea Romina 
+ <br>Apellido : REARTE
+ <br>Cargo : recepcion 
+ <br>Direccion : BV OCAMPO, 373
+ <br>Ciudad : Cordoba
+ <br>Telefono : 3515518763
+ <br>Email : marisavalles@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados , les adjunto mi CV para tener en cuenta . Recepcion , venta de mostrador, atencion al publico . Desde ya agradezco mucho su atencion 
+ <br>Security_code : m6z84
+ <br>Send : Enviar
+ <br>
+---------------
+

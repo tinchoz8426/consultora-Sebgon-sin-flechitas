@@ -1,0 +1,143 @@
+Address : 190.173.132.68<br>
+ <br>Nombre : Sebastian
+ <br>Apellido : Delerba
+ <br>Cargo : Cajero; Telemarketer; etc...
+ <br>Direccion : 33 Orientales 2542
+ <br>Ciudad : Glew
+ <br>Telefono : 1124722412
+ <br>Email : sebastiandelerba@outlook.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Deseo conseguir trabajo para poder sustentar mis estudios.
+ <br>Security_code : pph6q
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.19.117.138<br>
+ <br>REF : ACO-1
+ <br>Nombre : SERGIO LUIS
+ <br>Apellido : FARIOLI
+ <br>Cargo : ANALISTA DE COMERCIO EXTERIOR
+ <br>Direccion : formosa 1834
+ <br>Ciudad : LANUS (CP=1824)
+ <br>Telefono : 39691160
+ <br>Email : sergiofarioli@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Amplia experiencia en Comercio Exterior y Contador
+ <br>Security_code : rtcrt
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.188.115.180<br>
+ <br>Nombre : Nadia
+ <br>Apellido : Weinstein
+ <br>Cargo : Nutricionista
+ <br>Direccion : Serrano 565
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 3416054142
+ <br>Email : weinstein_nadia@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Soy una persona flexible, analítica, capaz de trabajar en equipo, emprendedora, con inquietudes que van más allá de lo estrictamente laboral.  Estoy convencida de poder aportar mi empuje y experiencia.
+Cuento con disponibilidad horaria
+ <br>Security_code : dywz2
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 191.84.174.24<br>
+ <br>REF : Ing. quim
+ <br>Nombre : Maximiliano
+ <br>Apellido : grosso
+ <br>Cargo : jefe de produccion
+ <br>Direccion : burelas 4815
+ <br>Ciudad : lanus este
+ <br>Telefono : 1141727747
+ <br>Email : me_grosso@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Adjunto mi cv y dejo constancia que me encuentro a su entera disposición para ampliar cualquier tipo de consulta
+ <br>Security_code : 5c2jw
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 191.84.174.24<br>
+ <br>REF : EP-1
+ <br>Nombre : Maximiliano
+ <br>Apellido : grosso
+ <br>Cargo : supervisor
+ <br>Direccion : burelas 4815
+ <br>Ciudad : lanus este
+ <br>Telefono : 1141727747
+ <br>Email : me_grosso@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : adjunto mi cv
+ <br>Security_code : mhqrj
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 191.84.174.24<br>
+ <br>REF : EP-1
+ <br>Nombre : Maximiliano
+ <br>Apellido : grosso
+ <br>Cargo : supervisor
+ <br>Direccion : burelas 4815
+ <br>Ciudad : lanus este
+ <br>Telefono : 1141727747
+ <br>Email : me_grosso@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : adjunto mi cv
+ <br>Security_code : mhqrj
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 191.84.174.24<br>
+ <br>REF : EP-1
+ <br>Nombre : Maximiliano
+ <br>Apellido : grosso
+ <br>Cargo : supervisor
+ <br>Direccion : burelas 4815
+ <br>Ciudad : lanus este
+ <br>Telefono : 1141727747
+ <br>Email : me_grosso@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : adjunto mi cv
+ <br>Security_code : cf493
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 191.84.174.24<br>
+ <br>REF : EP-1
+ <br>Nombre : Maximiliano
+ <br>Apellido : grosso
+ <br>Cargo : supervisor
+ <br>Direccion : burelas 4815
+ <br>Ciudad : lanus este
+ <br>Telefono : 1141727747
+ <br>Email : me_grosso@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : adjunto mi cv
+ <br>Security_code : hdzc9
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 191.84.174.24<br>
+ <br>REF : EP-1
+ <br>Nombre : Maximiliano
+ <br>Apellido : grosso
+ <br>Cargo : supervisor
+ <br>Direccion : burelas 4815
+ <br>Ciudad : lanus este
+ <br>Telefono : 1141727747
+ <br>Email : me_grosso@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : adjunto mi cv
+ <br>Security_code : 839wq
+ <br>Send : Enviar
+ <br>
+---------------
+

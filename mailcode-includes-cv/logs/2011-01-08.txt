@@ -1,0 +1,31 @@
+Address : 190.183.231.135
+REF : gerente-de-operaciones
+Nombre : Melisa Carolina
+Apellido : Tosello
+Cargo : Administrativo
+Direccion : Primer pasaje 4673
+Ciudad : Santa fe
+Telefono : 4899057
+Email : melu_831@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me gustaria tener nuevos conocimientos e ingrsar al mundo laboral.
+Security_code : xzzht
+Send : Enviar
+
+---------------
+
+Address : 190.48.241.158
+Nombre : Matas
+Apellido : Marando
+Cargo : Tecnico
+Direccion : Larrea 335
+Ciudad : Moron
+Telefono : 46295669
+Email : marandomatias@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Mis objetivos laborales más importantes son desempeñarme en el cargo que me asignen de forma satisfactoria aplicando los conocimientos que hasta ahora he adquirido, tanto en forma práctica como académica, desarrollarme profesionalmente y ganar experiencia.
+Security_code : 278my
+Send : Enviar
+
+---------------
+

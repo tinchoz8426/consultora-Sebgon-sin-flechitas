@@ -1,0 +1,33 @@
+Address : 190.188.221.125
+Nombre : Maria Paula
+Apellido : Gomez
+Cargo : el que ustedes consideren adecuado a mi perfil
+Direccion : 61 nro 514
+Ciudad : La Plata
+Telefono : 0221-154408551
+Email : paulagomezna@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me complace enviar adjunto un resumen de mis antecedentes personales y laborales, información que me será grato ampliar personalmente cuando usted lo considere necesario.
+                                                           
+Sin otro particular, saludo a Usted muy atentamente.    
+María Paula Gomez 
+Security_code : 4jsq4
+Send : Enviar
+
+---------------
+
+Address : 190.230.96.126
+Nombre : Maria Soledad
+Apellido : Romero
+Cargo : administrativo, secretaria
+Direccion : Monteagudo 476 1° piso B
+Ciudad : San Miguel de Tucuman
+Telefono : 0381 4222126
+Email : kaossole@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Excelente predisposiicon y deseos de aportar toda mi capacidad a la empresa correspondiente.
+Security_code : rsmpg
+Send : Enviar
+
+---------------
+

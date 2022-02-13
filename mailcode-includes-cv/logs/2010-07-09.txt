@@ -1,0 +1,132 @@
+Address : 190.31.70.235
+Nombre : Mariana
+Apellido : Arrastia
+Cargo : secretaria
+Direccion : Manuel Baigorriia 1858
+Ciudad : cordoba
+Telefono : (0351)156620343
+Email : arrastiamariana@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Aqui les mando mi curriculum.
+Me gustaria mucho trabajar porque lo necesito, desde ya les agradesco por su tiempo.
+
+saludo atte.
+Security_code : fcvt5
+Send : Enviar
+
+---------------
+
+Address : 190.18.53.116
+Nombre : Gabriela
+Apellido : Zemborain
+Cargo : At. al cliente/Recepcion
+Direccion : Alarellos 953
+Ciudad : Buenos Aires/ Acassuso
+Telefono : 47936268/1560508080
+Email : gzemborain@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Curriculum Vitae 
+
+Nombre y Apellido : Gabriela Zemborain
+Fecha de Nacimiento: 18 de mayo de 1964
+Domicilio: Albarellos 953 8 B. CP 1640 Acasusso
+Estado civil : Divorciada ( sin hijos)
+Teléfono : 4793-6268 / 15 60508080
+ 
+Estudios cursados:
+Primaria: Escuela n 33, Juan Manuel Ortiz de Rosas, La Plata
+Secundaria: Normal n 1, Mary O Graham , La Plata
+Universitarios : U.N.L.P. Ciencias Económicas La Plata ( 2 años )
+Idiomas: Francés Alianza francesa La Plata 
+
+
+Cursos realizados
+Servicio distintivo y técnicas de ventas ACUERDO
+Calidad total BANCO FRANCES
+
+
+Experiencia Laboral:
+1)Ono Barcelona : 
+Periodo 12/07 al 09/09
+At. al cliente, Contención de bajas. 
+2) Sodexho Argentina: 
+Periodo 09/05 al 08/06
+Service Desk, atención al cliente interno en Citibank. Recepción.
+3) Smarphone ( Agente oficial Movistar) : 
+Periodo 10/02 al 08/05
+Ventas
+4) Sky Argentina ( Television Satelital) :
+Periodo 09/01 al 06/02
+Ventas telefónicas y atención al cliente.
+5) Movicom :
+Periodo 06/97 al 07/00
+Atención al cliente, sector alto consumo(seguimiento y cobro), sector pagos (negociación con morosos), sector bajas 
+(contención del cliente).
+6)Comcel S.A. (agente oficial Movicom): 
+Periodo 09/93 al 06/97
+Ventas
+7)Banco Francés : 
+Periodo 10/90 al 03/92
+Banca Individual
+
+Security_code : f6y6v
+Send : Enviar
+
+---------------
+
+Address : 190.244.131.9
+Nombre : Hernan
+Apellido : Lacarra
+Cargo : RECEPCIONISTA
+Direccion : Manuela Pedraza 2356 
+Ciudad : CAPITAL FEDERAL
+Telefono : 4-7017-7791 / cel: 15-3569-2962
+Email : hernan_lacarra@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Dejo mi CV adjunto, para puesto de cadeteria o recepcinista, desde ya, muchas gracias.
+Security_code : khk95
+Send : Enviar
+
+---------------
+
+Address : 200.112.158.146
+Nombre : Nazareno
+Apellido : Gaitan
+Cargo : Abogado JR / Procurador
+Direccion : Lavalle 3994
+Ciudad : CABA
+Telefono : 011-15-69778855
+Email : nazarenogaitan@hotmail.com
+
+---------------
+
+Address : 170.51.134.155
+Nombre : Ruben
+Apellido : Rodriguez
+Cargo : Administracion contable y Recursos Humanos
+Direccion : NEUQUEN 865
+Ciudad : Rincon de Los Sauces
+Telefono : 0299154597940-154181514
+Email : ru_rrodriguezz@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Tengo experiencia y conocimientos en Contaduria y Recuersos Humanos,conozco convenios laborales Petroleros, UOCRA y Camioneros, tambien Liquidacion de sueldos.No tengo problemas para residir en Neuquen, Rio Negro o La Pampa, o en otra Provincia teniendo en cuenta el regimen de francos. Puedo desempeñarme como supervisor, jefe de area y trabajar con Personal a cargo en Equipo para cumplir objetivos Empresariales.Estoy cursando segundo año de la Carrera de Contador Publico, en la Universidad Emp.Siglo 21. Quedo a la espera de una entrevista laboral, Saludo Atte. Ruben Rodriguez DNI 14612292.-
+Security_code : jvb7c
+Send : Enviar
+
+---------------
+
+Address : 207.117.33.135
+Nombre : Jose Octavio
+Apellido : Gutierrez
+Cargo : Rios
+Direccion : Eduardo Garcia # 185, Col. Campestre CP 85160
+Ciudad : Obregon Sonora, Mexico
+Telefono : 644 416 51 83
+Email : octavio.gutierrez@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estoy a sus ordenes. 
+Security_code : yzztty
+Send : Enviar
+
+---------------
+

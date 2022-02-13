@@ -1,0 +1,90 @@
+Address : 190.230.162.169
+Nombre : Martin Ruben
+Apellido : Diaz Lobos
+Cargo : Asesor Encargado
+Direccion : Santa Rosa 525
+Ciudad : Rio Tercero
+Telefono : 3571-430422  3571-15520808
+Email : mdiazlobos@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Curriculum
+Security_code : 64t3y
+Send : Enviar
+
+---------------
+
+Address : 186.23.165.136
+Nombre : lautaro federico
+Apellido : espindola
+Cargo : personal part time
+Direccion : Guemes 421
+Ciudad : Avellaneda
+Telefono : 42037364
+Email : lautaro_pr@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Terminando el secundario nocturno con orientacion contable. Ultimo año.
+Security_code : v4t82
+Send : Enviar
+
+---------------
+
+Address : 190.229.6.213
+Nombre : mariana del valle
+Apellido : godoy
+Cargo : cualquier puesto
+Direccion : mza46 lote 12
+Ciudad : cordoba cap
+Telefono : 4 952496
+Email : leo.mondel@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : busco trabajo en empresas de limpieza  o cuidado de ancianos experiencia en limpieza y cuidado de ancianos se tomar tension
+Security_code : Kbcdv
+Send : Enviar
+
+---------------
+
+Address : 201.255.43.27
+Nombre : maria florencia
+Apellido : fernandez
+Cargo : tecnica radiologa/administrativa en salud
+Direccion : tranway 773
+Ciudad : gonzalez catan
+Telefono : 011 68390302
+Email : mellaflorfernandez@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : mi matricula como tecnica radiologa estara dentro de un mes aproximadamente, por tal busco empleo como administrativa en centros de salud o simil pero relacionado en el area de salud.
+Security_code : g7b9x
+Send : Enviar
+
+---------------
+
+Address : 201.255.43.27
+Nombre : maria florencia
+Apellido : fernandez
+Cargo : tecnica radiologa/administrativa en salud
+Direccion : tranway 773
+Ciudad : gonzalez catan
+Telefono : 011 68390302
+Email : mellaflorfernandez@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : mi matricula como tecnica radiologa estara dentro de un mes aproximadamente, por tal busco empleo como administrativa en centros de salud o simil pero relacionado en el area de salud.
+Security_code : g7b9x
+Send : Enviar
+
+---------------
+
+Address : 201.255.43.27
+Nombre : maria florencia
+Apellido : fernandez
+Cargo : tecnica radiologa/administrativa en salud
+Direccion : tranway 773
+Ciudad : gonzalez catan
+Telefono : 011 68390302
+Email : mellaflorfernandez@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : mi matricula como tecnica radiologa estara para dentro de un mes aproximadamente, por tal quisiera un empleo como administrativa en salud,o relacionado con el area de salud. muchas gracias por recibir mi mail.
+Security_code : 3zq52
+Send : Enviar
+
+---------------
+

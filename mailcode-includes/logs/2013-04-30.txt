@@ -1,0 +1,12 @@
+Address : 201.140.82.204
+Nombre : Estrella Ivonne
+Apellido : Corzo Olan
+Empresa : PEMEX
+Telefono : 933 133 72 60
+Email : ivonne_corzo@hotmail.com
+Mensaje : Hola buen dia, me gustaria saber los cursos que ustedes imparten en materia de seguridad, especificamente en el tema de liderazgo. Soy  psicologa de un centro de adiestramiento en Seguridad de Petróleos Mexicanos y me gustaría contar con mayor conocimientos en esa area. Espero una pronta respuesta.
+Security_code : 4gwzh
+Send : Enviar
+
+---------------
+

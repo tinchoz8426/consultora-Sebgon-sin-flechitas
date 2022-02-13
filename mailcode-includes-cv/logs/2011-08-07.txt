@@ -1,0 +1,48 @@
+Address : 190.191.221.197
+Nombre : Gabriel Fabián 
+Apellido : Font
+Cargo : Gerente
+Direccion : Malabia 23330 1º 6 
+Ciudad : CABA
+Telefono : 15-4417-5917
+Email : gabriel.font@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Les adjunto una  versión mejorada del CV enviado oportunamente. Saludos,
+Security_code : y4y9x
+Send : Enviar
+
+---------------
+
+Address : 190.51.99.16
+REF : gerente-de-operaciones
+Nombre : Marcela Noemi
+Apellido : Cerqueiro
+Cargo : Analista de créditos y cobranzas
+Direccion : Rio Limay 1538
+Ciudad : Bella Vista
+Telefono : 011-46681691
+Email : marnoe36@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me postulo para el puesto publicado en zona jobs, de adm. de cobranzas en la zona de Hurlingham.
+Security_code : 9JXXT
+Send : Enviar
+
+---------------
+
+Address : 186.143.168.224
+Nombre : Sergio
+Apellido : Gallo
+Cargo : Asesor en Higiene y Seguridad
+Direccion : Lavarden 981
+Ciudad : Buenos Aires, CABA
+Telefono : 011-15-65195110
+Email : sergio_data@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados, estoy interesado en la posibilidad de trabajar con ustedes como asesor part-time en el área de seguridad e higiene. Desde ya, quedo a su disposición.
+Saludos.
+Sergio Gallo.
+Security_code : xv6tn
+Send : Enviar
+
+---------------
+

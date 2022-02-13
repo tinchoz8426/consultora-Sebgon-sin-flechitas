@@ -1,0 +1,280 @@
+Address : 181.165.89.154<br>
+ <br>REF : EP-1
+ <br>Nombre : Alejandro Octavio
+ <br>Apellido : Márquez Landini
+ <br>Cargo : Gerente/Supervisor Agroindustria
+ <br>Direccion : Araoz 1418
+ <br>Ciudad : CABA
+ <br>Telefono : 15 70330025
+ <br>Email : alejoml68@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Ingeniero Agronomo con experiencia Agroindustrial. Control de procesos y calidad.Manejo de personal y administración.
+ <br>Security_code : m6n72
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.90.1.166<br>
+ <br>REF : EP-1
+ <br>Nombre : Javier
+ <br>Apellido : Sayous
+ <br>Cargo : Encargado de produccion
+ <br>Direccion : Maturin 2365
+ <br>Ciudad : C.A.B.A
+ <br>Telefono : 1535979428
+ <br>Email : javier_1962@hotmail.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Poseo mas de 20 años de experiencia en la industria alimenticia
+ <br>Security_code : pkr98
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.167.120.180<br>
+ <br>Nombre : Luis Miguel
+ <br>Apellido : Mojica Contreras
+ <br>Cargo : Ingeniero químico y de procesos
+ <br>Direccion : Moldes 2541, Belgrano
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : +5491128939305
+ <br>Email : luismc.01@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Soy un ingeniero químico, con más de 6 años de experiencia como ingeniero de procesos, aportando soporte y asesoría técnica en el área de tratamiento de aguas, monitoreando las unidades de desmineralización, suavización en caliente, osmosis inversa, tratamiento de aguas residuales domesticas e industriales por medio de procesos fisico-químicos y biológicos.
+
+Tengo sólidos conocimientos en simulación y diseño de procesos químicos, procesos de refinación del petróleo, pre-comisionamiento y comisionamiento de plantas, formulación de proyectos, servicios industriales, seguridad en los procesos y troubleshooting. Con excelente desenvolvimiento y liderazgo en equipos de alto desempeño y multidisciplinarios.
+
+En mi trabajo actual como supervisor de ingeniería, estoy revisando y optimizando los indicadores, estandarizando los procesos, organizando la información, con la finalidad de disminuir el consumo de horas hombre en procesos que no dejan valor agregado, lo que ha permitido al equipo de trabajo mejorar e incrementar el tiempo del soporte y asistencia técnica.
+
+ <br>Security_code : yfjhh
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.47.138.238<br>
+ <br>REF : EP-1
+ <br>Nombre : Luis
+ <br>Apellido : Rietzsch
+ <br>Cargo : Encargado de Produccion
+ <br>Direccion : Sarmiento 1432
+ <br>Ciudad : Quilmes
+ <br>Telefono : 21184283 no es celular
+ <br>Email : lrietzsch@yahoo.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me interesa el puesto, tengo experiencia y conocimientos, espero que se me tenga en consideración para puesto
+ <br>Security_code : d8kz4
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.20.235.204<br>
+ <br>REF : EP-1
+ <br>Nombre : EMILIO GUSTAVO
+ <br>Apellido : ROBLES
+ <br>Cargo : ENCARGADO DE PRODUCCION
+ <br>Direccion : AZCUENAGA, 826
+ <br>Ciudad : LAS HERAS
+ <br>Telefono : 2616970294
+ <br>Email : ger-robles@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : TENGO 22 AÑOS DE EXPERIENCIAS EN GRANDES PRODUCCIONES SUPERMERCADISTAS Y TODO TIPO DE MERCADO.-
+ <br>Security_code : psh6h
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.20.235.204<br>
+ <br>Nombre : EMILIO GUSTAVO
+ <br>Apellido : ROBLES
+ <br>Cargo : ENCARGADO DE PRODUCCION
+ <br>Direccion : AZCUENAGA, 826
+ <br>Ciudad : LAS HERAS
+ <br>Telefono : 92613670453/92166970294/4482445
+ <br>Email : ger-robles@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : 22 años de experiencia en grandes producciones supermercadistas y de todo tipo de mercado
+ <br>Security_code : sfp8b
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.167.120.180<br>
+ <br>REF : Ing. quim
+ <br>Nombre : Jenny 
+ <br>Apellido : Marquez
+ <br>Cargo : Jefa de procesos industriales
+ <br>Direccion : Moldes 2541
+ <br>Ciudad : Buenos aires 
+ <br>Telefono : 005491165835912
+ <br>Email : 1984.jeny@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas tardes. 
+
+Cumplo con el perfil, anexo cv
+
+Tengo disponibilidad para mandarme cerca de las zona y tengo alta experiencia con manejo de personal 
+
+Gracias
+ <br>Security_code : Dtcfz
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.167.120.180<br>
+ <br>REF : Ing. quim
+ <br>Nombre : Jenny 
+ <br>Apellido : Marquez
+ <br>Cargo : Jefa de procesos industriales
+ <br>Direccion : Moldes 2541
+ <br>Ciudad : Buenos aires 
+ <br>Telefono : 005491165835912
+ <br>Email : 1984.jeny@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas tardes. 
+
+Cumplo con el perfil, anexo cv
+
+Tengo disponibilidad para mandarme cerca de las zona y tengo alta experiencia con manejo de personal 
+
+Gracias
+ <br>Security_code : zvpw5
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.167.120.180<br>
+ <br>Nombre : Jenny 
+ <br>Apellido : Marquez
+ <br>Cargo : INGENIERO de procesos 
+ <br>Direccion : Moldes 2541
+ <br>Ciudad : Buenos aires 
+ <br>Telefono : 005491165835912
+ <br>Email : 1984.jeny@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas tardes
+
+Anexo cv y soy ingeniero químico en el área de procesos con más de 7 años de experiencia 
+
+Saludos 
+ <br>Security_code : s37db
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.141.202.27<br>
+ <br>REF : EP-1
+ <br>Nombre : Edgardo Héctor
+ <br>Apellido : Vázquez
+ <br>Cargo : Supervisor de Producción
+ <br>Direccion : Carlos Calvo 2845 1° 15   CP1230
+ <br>Ciudad : CABA
+ <br>Telefono : 11 3123-5570
+ <br>Email : edg.vazquez64@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Solicíto por favor se analícen mis antecedentes y en todo caso, se tengan en cuenta para futuras ofertas.
+Ofrezco mudarme a la zona laboral. No tengo inconveniento con horarios rotativos y/ o trabajar fijo de noche.
+Licencia de conducir B1
+
+Muchas gracias.
+Atte, Edgardo H. Vázquez
+ <br>Security_code : K899h
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.11<br>
+ <br>REF : EP-1
+ <br>Nombre : Aldana
+ <br>Apellido : Prieto
+ <br>Cargo : Encargado de producción
+ <br>Direccion : Av Corrientes 5734
+ <br>Ciudad : CABA
+ <br>Telefono : 2914022910
+ <br>Email : aldanaa.prieto@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Soy Ingeniera en Alimentos con un interés especial en el control de procesos productivos y el mantenimiento de los estándares de calidad, por ello considero que su grupo de trabajo sería un buen lugar tanto como para crecer como profesional como para que su firma pueda lograr mejores resultados.
+ <br>Security_code : 8gdkd
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.47.139.178<br>
+ <br>REF : SP-1
+ <br>Nombre : JOSE ANTONIO
+ <br>Apellido : GONZALEZ BORGES
+ <br>Cargo : supervisor
+ <br>Direccion : lanus oeste
+ <br>Ciudad : buenos aires
+ <br>Telefono : 11 218813 11 33360945
+ <br>Email : joseantoniogonzalezborges1984@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : cero ser la persona que estar buscando tengo las abilidades correctas para ese cargo
+ <br>Security_code : mjb44
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.22.203.111<br>
+ <br>Nombre : javir alejandro
+ <br>Apellido : zapata
+ <br>Cargo : operario quimico
+ <br>Direccion : beron de astrada, 4673
+ <br>Ciudad : lanus
+ <br>Telefono : 1541702707
+ <br>Email : javialezapata@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : hola soy  Javier zapata trabaje   cognis una química del grupo basf me desempeñaba como operador de planta sulfatadora de azufre operador de planta efluente operador de reactores para formular productos químicos operario envasador y carga y descarga tengo movilidad propia y no tengo problema en cambio de residencia desde muchas gracias : acá les mando mi cv trabaje por temporada en clorox como operador formulador de productos químicos manejo de clark validación del producto final analisis de laboratorio ph activo deteminacion de peroxido viscosidad hipoclorito o cloro conductividad actualmente trabajo en sinteplast  actualmente trabajo en sinplast como operador de planta acuoso en recuperación de agua y planta efluente 
+
+
+ <br>Security_code : tks3h
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.143.198.105<br>
+ <br>REF : ROT-1
+ <br>Nombre : Pablo
+ <br>Apellido : Romano
+ <br>Cargo : Responsable de Oficina Técnica
+ <br>Direccion : Libertad 4069
+ <br>Ciudad : Pdo de Vicente Lopez
+ <br>Telefono : 155 959 9883
+ <br>Email : plromano@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Espero pueda ser convocado para una entrevista. Sin más, estoy a la espera de vuestro llamado. Saludos
+ <br>Security_code : 5ks6j
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 200.69.50.41<br>
+ <br>REF : SP-1
+ <br>Nombre : ROGELIO
+ <br>Apellido : FERNANDEZ
+ <br>Cargo : SUPERVISOR DE PRODUCCIÓN
+ <br>Direccion : sabat 49, El Palomar, Morón
+ <br>Ciudad : MORON - EL PALOMAR
+ <br>Telefono : 3413583737
+ <br>Email : rtflogistica@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : CON DISPONIBILIDAD INMEDIATA.
+ <br>Security_code : qq9zh
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 200.69.50.41<br>
+ <br>REF : SP-1
+ <br>Nombre : ROGELIO
+ <br>Apellido : FERNANDEZ
+ <br>Cargo : SUPERVISOR DE PRODUCCIÓN
+ <br>Direccion : sabat 49, El Palomar, Morón
+ <br>Ciudad : MORON - EL PALOMAR
+ <br>Telefono : 3413583737
+ <br>Email : rtflogistica@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : CON DISPONIBILIDAD INMEDIATA.
+ <br>Security_code : qq9zh
+ <br>Send : Enviar
+ <br>
+---------------
+

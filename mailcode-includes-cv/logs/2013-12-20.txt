@@ -1,0 +1,34 @@
+Address : 201.251.3.62
+REF : Asistente-Contable
+Nombre : ingrid
+Apellido : romero
+Cargo : administracion contable
+Direccion : alem
+Ciudad : las heras
+Telefono : 0297 154261352
+Email : ingrid-romerolh@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Bun dia quisiera postularme
+Security_code : h8zj9
+Send : Enviar
+
+---------------
+
+Address : 190.99.115.108
+REF : TECNICO-MECANICO
+Nombre : Daniel
+Apellido : Copa
+Cargo : Operario 
+Direccion : Gervacio Mendez 5879
+Ciudad : Moreno
+Telefono : 011-1557511364
+Email : danielcopa_85@hotmail.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenas tardes,les envio mi cv,espero reunir las aptitudes necesarias para una entrevista laboral.
+saludos atte
+Daniel Copa
+Security_code : ZX4nd
+Send : Enviar
+
+---------------
+

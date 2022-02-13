@@ -1,0 +1,61 @@
+Address : 181.167.114.145
+Nombre : Angeles
+Apellido : Soraci
+Cargo : Jóvenes Profesionales
+Direccion : Jeronimo Salguero 1964
+Ciudad : CABA
+Telefono : 1133551220
+Email : soraciangeles@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Soy Lic. en relaciones internacionales. Cuento con fluido manejo de inglés y portugués, chino madnarín nivel intermedio (HSK 3) y  francés básico.
+Me interesaría recibir ofertas laborales de empresas relacionadas con China.
+Security_code : 469hj
+Send : Enviar
+
+---------------
+
+Address : 181.46.253.0
+Nombre : Adriana Noemi 
+Apellido : Dotro
+Cargo : Vendedora
+Direccion : Olaya 1307 pb A
+Ciudad : capital federal
+Telefono : 1554035663
+Email : adrianadotro@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Envio mi cv con el fin de postularme como vendedora 
+Security_code : 2nkpn
+Send : Enviar
+
+---------------
+
+Address : 181.171.136.212
+Nombre : Alejandro
+Apellido : Furman
+Cargo : A convenir
+Direccion : Quiroga sarmiento 4670
+Ciudad : Córdoba
+Telefono : 0351-153211850
+Email : Alejandro_furman@hotmail.com.arp
+MAX_FILE_SIZE : 2097152
+Mensaje : .
+Security_code : Pv7ww
+Send : Enviar
+
+---------------
+
+Address : 181.171.136.212
+Nombre : Alejandro
+Apellido : Furman
+Cargo : A convenir
+Direccion : Quiroga sarmiento 4670
+Ciudad : Córdoba
+Telefono : 0351-153211850
+Email : Alejandro_furman@hotmail.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Ninguno
+Security_code : Ym8wd
+Send : Enviar
+
+---------------
+

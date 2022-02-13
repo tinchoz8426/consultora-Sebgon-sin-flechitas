@@ -1,0 +1,45 @@
+Address : 190.188.128.206<br>
+ <br>Nombre : Guillermo
+ <br>Apellido : Hughes
+ <br>Cargo : Hoteleria
+ <br>Direccion : Entre Rios 1950
+ <br>Ciudad : Mar Del Plata
+ <br>Telefono : 02804512125
+ <br>Email : guillehughes@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estudiante avanzado de la carrera de Lic en Turismo, busco trabajo en el rubro turismo.
+ <br>Security_code : mgmvk
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.108.204.198<br>
+ <br>Nombre : Nahuel Agustín 
+ <br>Apellido : Luna
+ <br>Cargo : Trabaje en mapsahacíamos cableado eléctricos de camiones iré contando.repartidor de bebidas  
+ <br>Direccion : 27 de febrero 2870
+ <br>Ciudad : Córdoba 
+ <br>Telefono : 3516757986
+ <br>Email : Brentrubia@outlook.es 
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Soy muy responsable tengo una hija de tres añitos necesito trabajo de lo que sea aprendo rápido lo que sea.
+ <br>Security_code : 453g9
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.22.199.128<br>
+ <br>Nombre : Jonathan Hugo 
+ <br>Apellido : Villegas 
+ <br>Cargo : 1888 
+ <br>Direccion : Ramos Mejía 585 
+ <br>Ciudad : Florencio Varela 
+ <br>Telefono : 1125479318
+ <br>Email : Jonathanvillegas406@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Gracias por la oportunidad
+ <br>Security_code : jgrh8
+ <br>Send : Enviar
+ <br>
+---------------
+

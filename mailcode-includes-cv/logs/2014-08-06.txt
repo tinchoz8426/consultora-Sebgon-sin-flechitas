@@ -1,0 +1,199 @@
+Address : 190.220.48.149
+Nombre : Andrea Tamara
+Apellido : Tedesco
+Cargo : Administrativo
+Direccion : Larrea 242
+Ciudad : Merlo
+Telefono : 1540996148
+Email : andr3_j1989@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Dejo en sus manos mi curriculum vitae con el fin de una busqueda laboral de acuerdo a mi perfil y mi carrera.
+Security_code : tzkjb
+Send : Enviar
+
+---------------
+
+Address : 190.220.48.149
+REF : ADMINISTRATIVA-DE-COMPRAS
+Nombre : Andrea Tamarat
+Apellido : Tedesco
+Cargo : Administrativo de Compras
+Direccion : Larrea 242
+Ciudad : Merlo
+Telefono : 1540996148
+Email : andr3_j1989@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Dejo en sus manos mi cv, para postularme al puesto de administrativo de compras. 
+Muchas gracias!
+Security_code : tyn5j
+Send : Enviar
+
+---------------
+
+Address : 181.164.174.16
+Nombre : Maia
+Apellido : Alimenti Bel
+Cargo : Ingeniera Civil
+Direccion : Zapiola 2140
+Ciudad : Bahía Blanca
+Telefono : 0291-155030011
+Email : mai_alimenti@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : De mi mayor consideración:
+
+Me dirijo a ustedes, con el objeto de hacerles llegar mi CV para que sea de su consideración a la hora de la selección de puestos de trabajos.
+
+Como podrán comprobar he concluido recientemente mis estudios de grados de Ing. Civil en la Universidad Nacional del Sur.
+
+Estimo que una entrevista será el marco adecuado para profundizar aspectos de mi perfil que puedan resultar de su interés. 
+
+Sin otro particular y la espera de una respuesta.
+
+Los saluda muy atte.
+
+Alimenti Bel, Maia
+Security_code : v9dfk
+Send : Enviar
+
+---------------
+
+Address : 186.182.21.166
+Nombre : fernando
+Apellido : Pieroni
+Cargo : Administración integral
+Direccion : calle 138 n°4963
+Ciudad : Berazategui
+Telefono : 1139197078
+Email : asesorinmobiliario.bsas@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Espero satisfacer los requerimientos para formar parte de su equipo de trabajo.
+Security_code : cftxj
+Send : Enviar
+
+---------------
+
+Address : 190.120.177.191
+Nombre : MAYRA
+Apellido : MOYANO
+Cargo : CADETE
+Direccion : CALLE 111 E/18 y 19 N°1863
+Ciudad : BUENOS AIRES
+Telefono : 42614945
+Email : m-a-y-r-a_21@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : HOLA AQUI LES DEJO MI CV,,ESTARE ESPERANDO SU LLAMADO, GRACIAS
+Security_code : SG7J4
+Send : Enviar
+
+---------------
+
+Address : 190.231.115.13
+Nombre : Camila
+Apellido : Natale
+Cargo : Administrativa/Turismo
+Direccion : Aviador Udet 2451
+Ciudad : El Palomar
+Telefono : 1559354496
+Email : camilanatale95@outlook.es
+MAX_FILE_SIZE : 2097152
+Mensaje : Les envío mi cv con el objeto de postularme para algún empleo en el área de turismo o administración y recepción.Muchas gracias.
+Security_code : rv7m5
+Send : Enviar
+
+---------------
+
+Address : 181.46.48.216
+Nombre : Alejandro Daniel
+Apellido : Antunes Pedro
+Cargo : Administrativo
+Direccion : Av. Directorio 3051 1A
+Ciudad : CABA
+Telefono : 11 5736-8407
+Email : alejandro_antunes@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : De mi mayor consideración: 
+                                                                   Tengo el agrado de dirigirme a ustedes con el fin de transmitirle mi deseo en firme de formar parte de su empresa, a tal efecto a la presente adjunto mi CV. 
+De acuerdo con la información que me han proporcionado, acerca de los requisitos y responsabilidades exigidas para el puesto, creo que mi perfil se ajusta a lo solicitado. Le comunico por este medio que estoy interesado en ser seleccionado para trabajar en su empresa.  
+Soy una persona activa, responsable, orientada al logro de resultados y a la resolución y evolución constante en las tareas asignadas. 
+Pongo, además en su conocimiento que estoy en condiciones de asumir la responsabilidad de este empleo en forma inmediata y con amplia disponibilidad de horarios.
+  
+Quedo a la espera de sus noticias. 
+  
+Atentamente 
+  
+                                              ALEJANDRO ANTUNES PEDRO
+ 
+
+Security_code : X65NQ
+Send : Enviar
+
+---------------
+
+Address : 181.46.48.216
+Nombre : Alejandro Daniel
+Apellido : Antunes Pedro
+Cargo : Administrativo
+Direccion : Av. Directorio 3051 1A
+Ciudad : CABA
+Telefono : 11 5736-8407
+Email : alejandro_antunes@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : De mi mayor consideración: 
+                                                                   Tengo el agrado de dirigirme a ustedes con el fin de transmitirle mi deseo en firme de formar parte de su empresa, a tal efecto a la presente adjunto mi CV. 
+De acuerdo con la información que me han proporcionado, acerca de los requisitos y responsabilidades exigidas para el puesto, creo que mi perfil se ajusta a lo solicitado. Le comunico por este medio que estoy interesado en ser seleccionado para trabajar en su empresa.  
+Soy una persona activa, responsable, orientada al logro de resultados y a la resolución y evolución constante en las tareas asignadas. 
+Pongo, además en su conocimiento que estoy en condiciones de asumir la responsabilidad de este empleo en forma inmediata y con amplia disponibilidad de horarios.
+  
+Quedo a la espera de sus noticias. 
+  
+Atentamente 
+  
+                                              ALEJANDRO ANTUNES PEDRO
+ 
+
+Security_code : x65nq
+Send : Enviar
+
+---------------
+
+Address : 181.46.48.216
+Nombre : Alejandro Daniel
+Apellido : Antunes Pedro
+Cargo : Administrativo
+Direccion : Av. Directorio 3051 1A
+Ciudad : CABA
+Telefono : 11 5736-8407
+Email : alejandro_antunes@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : De mi mayor consideración: 
+                                                                   Tengo el agrado de dirigirme a ustedes con el fin de transmitirle mi deseo en firme de formar parte de su empresa, a tal efecto a la presente adjunto mi CV. 
+De acuerdo con la información que me han proporcionado, acerca de los requisitos y responsabilidades exigidas para el puesto, creo que mi perfil se ajusta a lo solicitado. Le comunico por este medio que estoy interesado en ser seleccionado para trabajar en su empresa.  
+Soy una persona activa, responsable, orientada al logro de resultados y a la resolución y evolución constante en las tareas asignadas. 
+Pongo, además en su conocimiento que estoy en condiciones de asumir la responsabilidad de este empleo en forma inmediata y con amplia disponibilidad de horarios.
+Quedo a la espera de sus noticias. 
+  
+Atentamente 
+  
+                                              ALEJANDRO ANTUNES PEDRO
+ 
+
+Security_code : fk2mf
+Send : Enviar
+
+---------------
+
+Address : 190.177.243.208
+Nombre : agustina
+Apellido : chavez
+Cargo : en cualquier puesto, no tengo preferencia.
+Direccion : juan b justo 252
+Ciudad : merlo
+Telefono : 01161056150
+Email : chavezagustina247@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : no tengo tanta preferencia por los horarios pero si hay por la mañana mucho mejor. gracias.
+Security_code : 9g7nf
+Send : Enviar
+
+---------------
+

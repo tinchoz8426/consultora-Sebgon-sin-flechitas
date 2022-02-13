@@ -1,0 +1,58 @@
+Address : 181.14.245.170
+Nombre : Daniela Soledad
+Apellido : Ceccati
+Cargo : Recepcionista
+Direccion : Trinidad 2098
+Ciudad : Jose C Paz
+Telefono : 0111565205187
+Email : daniela.ceccati@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me pongo en contacto con usted para hacerle llegar mi CV a fin de que pueda tenerlo en cuenta en las distintas búsquedas que puedan ir surgiendo que sean acordes a mi perfil.
+Quedo a su disposición por cualquier duda o consulta.
+
+Daniela Ceccati
+Security_code : DWJJS
+Send : Enviar
+
+---------------
+
+Address : 201.235.28.29
+Nombre : Fernando Ezequiel
+Apellido : Sélébam
+Cargo : Empleado Administrativo
+Direccion : José Ingenieros 109 10° A
+Ciudad : Beccar
+Telefono : 4742-5153
+Email : fer.selebam@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Señores: Consultora Sebgon
+
+Les adjunto mi CV.
+ 
+Desde ya muchas gracias.
+ 
+Saludo muy atentamente.
+
+ 
+Security_code : 9cnmn
+Send : Enviar
+
+---------------
+
+Address : 190.49.202.124
+REF : supervisor-seguridad
+Nombre : oscar daniel
+Apellido : castriotta
+Cargo : supervisor-seguridad
+Direccion : santiago del estero 1172
+Ciudad : capital federal
+Telefono : 01143042067      0111534492067
+Email : oscardc74@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola.
+Me contacto con ustedes, para postularme a el aviso que tienen publicado. desde ya muchas gracias. 
+Security_code : sqfsz
+Send : Enviar
+
+---------------
+

@@ -1,0 +1,32 @@
+Address : 190.178.70.194
+Nombre : Nilda
+Apellido : Nahuelquir
+Cargo : Tecnico Superior en Recursos Humanos
+Direccion : charruas 850
+Ciudad : Comodoro Rivadavia
+Telefono : (0297)154726578
+Email : nahuelquir@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : les envio mi C.V. y lo saludo muy atte
+Security_code : d6zb4
+Send : Enviar
+
+---------------
+
+Address : 200.59.197.113
+Nombre : David
+Apellido : Quispe
+Cargo : Estudiante Técnico Electrónico
+Direccion : Lujan de Cuyo Ugarteche Bº Palermo M:H Calle:3 Casa:14
+Ciudad : Mendoza
+Telefono : 153865401
+Email : deivimatu_2012@hotmail.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola solicito puesto de trabajo que necesiten.
+Tengo la Discapacidad Auditiva del Oído Derecho, espero tener la oportunidad de poder capacitarme y trabajos.
+Saludos Cordialmente
+Security_code : 7488W
+Send : Enviar
+
+---------------
+

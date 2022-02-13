@@ -1,0 +1,15 @@
+Address : 186.60.201.171
+Nombre : Marcos Lucas Damian
+Apellido : Giupponi
+Cargo : tecnico en seguridad e higiene en el trabajo
+Direccion : campbell 913
+Ciudad : glew
+Telefono : 1568895872
+Email : giupponimarcos_88@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : gracias por recibir mi cv. 
+Security_code : jjyx9
+Send : Enviar
+
+---------------
+

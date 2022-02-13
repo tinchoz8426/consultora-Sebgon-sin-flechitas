@@ -1,0 +1,31 @@
+Address : 186.23.188.92
+REF : jefe-de-operaciones
+Nombre : Anabella Carla
+Apellido : Bergonzi
+Cargo : Personal para socioambientales
+Direccion : Olleros 1052
+Ciudad : Burzaco
+Telefono : 42994427
+Email : lic.bergonzi@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Solicito que se me tenga presente para realizar aquella función que requiera la formación de mis títulos habilitantes, detallados en el curriculum vitae. Atte Lic. Bergonzi.
+Security_code : gm76p
+Send : Enviar
+
+---------------
+
+Address : 186.182.114.245
+Nombre : julian gonzalo
+Apellido : fanuchi alonso
+Cargo : empleado
+Direccion : curupayti 626
+Ciudad : moron
+Telefono : 1565872202
+Email : julimtrs@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : me interesan mucho los autos y la mecanica y me postulo aqui para trabajar y poder cumplir objetivos no tengo puesto de preferencia
+Security_code : w73jc
+Send : Enviar
+
+---------------
+

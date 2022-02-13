@@ -1,0 +1,17 @@
+Address : 186.190.152.165
+Nombre : Ramiro
+Apellido : Jurado
+Cargo : administrador/ asistente contable
+Direccion : La mendieta 587
+Ciudad : San Salvador de Jujuy
+Telefono : 543884092693
+Email : ramiro-jurado@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Señores Directivos:
+                           Mi nombre es Ramiro Jurado, soy de la provincia de Jujuy, Soy Martillero Publico Nacional, Tasador y Corredor y estoy cursando la carrera de Contador Publico Nacional, y me dirijo a Uds. con el motivo si me pudieran ayudar a encontrar una posibilidad de trabajar, soy soltero, tengo 31 años y no tengo dificultad en viajar a otra  ciudad para trabajar, pero me gustaria si fuera en mi provincia. Hace 2 años y medio que no encuentro trabajo y aveces pienso que con el ezfuerzo que me prepare fue al vano y no se a quien mas recurrir! desde ya mucha gracias por tomarse su tiempo al leer mi solicitud. 
+                            Esperando una una pequeña ayuda donde dirigirme, me despido muy atte.
+Security_code : 249d4
+Send : Enviar
+
+---------------
+

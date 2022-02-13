@@ -1,0 +1,47 @@
+Address : 190.7.231.83
+Nombre : Maria Jose
+Apellido : Palacios
+Cargo : Administrativa/vendedora
+Direccion : Marcelo Fitte 4786
+Ciudad : Adolfo sordeaux
+Telefono : 1544059318
+Email : majo.palac@live.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Busco urgente trabajo,quedo a su disposicion
+Security_code : 5yfzj
+Send : Enviar
+
+---------------
+
+Address : 200.32.6.111
+Nombre : veronica
+Apellido : melli
+Cargo : psicologa
+Direccion : vieytes 316
+Ciudad : moron
+Telefono : 1558267661
+Email : vmelli@unimoron.edu.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Les envio mi Cv para su consideración.
+Atte.
+Lic. Verónica Melli
+Security_code : 8myts
+Send : Enviar
+
+---------------
+
+Address : 190.57.225.50
+Nombre : Graciela Soledad
+Apellido : Ibarrola
+Cargo : Profesionales para Psociambientales
+Direccion : las Heras 4969
+Ciudad : Corrientes
+Telefono : 3794634024
+Email : iglu.1023@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Quisiera saber si tengo alguna posibilidad de tener algun puesto laboral, soy estudiante de psicolgía social del ultimo año, gracias
+Security_code : st6n9
+Send : Enviar
+
+---------------
+

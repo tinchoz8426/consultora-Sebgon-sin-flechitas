@@ -1,0 +1,96 @@
+Address : 190.174.95.97
+REF : jefe-de-operaciones
+Nombre : VALERIA VANINA
+Apellido : BOQUICHO
+Cargo : ENCARGADA
+Direccion : COTAGAITA 1083
+Ciudad : BS.AS.
+Telefono : 43530034 cel.1567298267
+Email : valvani@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenos diás envío mi CV. desde ya muchas gracias por su tiempo y estoy a su disposición ante cualquier propuesta que contenga mi perfil requerido. Atentamente
+Security_code : jcbdf
+Send : Enviar
+
+---------------
+
+Address : 186.108.73.226
+Nombre : carlos alberto
+Apellido : ippolito
+Cargo : tecnico
+Direccion : benito peres galdos 9304
+Ciudad : bs as
+Telefono : 1555681914
+Email : fullaire_1@hotmail.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : estoy en busca de un empleo en el area de operario, mantenimiento tengo experiencia en refrigeracion,electricidady construcciones
+Security_code : vtfqq
+Send : Enviar
+
+---------------
+
+Address : 190.174.95.97
+REF : jefe-de-operaciones
+Nombre : VALERIA VANINA
+Apellido : BOQUICHO
+Cargo : ENCARGADA
+Direccion : COTAGAITA 1083
+Ciudad : BS.AS.
+Telefono : 43530034 cel.1567298267
+Email : valvani@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenos días envío mi CV.Estoy a su disposición ante cualquier posibilidad de trabajo que coincida con mi perfil. Desde ya muchas gracias.Atentamente
+Security_code : 94zpk
+Send : Enviar
+
+---------------
+
+Address : 186.18.187.96
+Nombre : Héctor Miguel
+Apellido : Mendoza
+Cargo : Ejecutivo de cuenta/vendedor/preventista
+Direccion : Jujuy 1017
+Ciudad : J.M. Ezeiza
+Telefono : 42951258
+Email : hector_1950@live.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Necesito re insertarme en el mundo laboral
+Security_code : j29jb
+Send : Enviar
+
+---------------
+
+Address : 186.58.49.251
+REF : jefe-de-operaciones
+Nombre : carlos 
+Apellido : dotta
+Cargo : supervisor
+Direccion : brasil4115
+Ciudad : san justo
+Telefono : 46910408
+Email : carlosdotta@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Busco puesto de supervisor, encargado o mecánico. Tengo más de 20 años de dedicados a la electromecánica y 8 de experiencia como supervisor en empresa de primer nivel. Experiencia en trabajo y toma de decisiones bajo presión. Capacidad de mando. Disponibilidad para trabajar cualquier turno y horario. Poseo vehículo y registro de conducir. Disponibilidad inmediata.
+Security_code : q8gnb
+Send : Enviar
+
+---------------
+
+Address : 190.174.150.131
+REF : administrativa-compras
+Nombre : Vanesa Beatriz
+Apellido : Echeverria
+Cargo : administrativa-compras
+Direccion : Cañada de Gomez 640
+Ciudad : Hurlingham
+Telefono : 11-63053004
+Email : vbe4@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Envio adjunto mi  CV.
+Saludos,
+Vanesa 
+Security_code : k57xg
+Send : Enviar
+
+---------------
+

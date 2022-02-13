@@ -1,0 +1,71 @@
+Address : 190.231.16.191
+Nombre : Jacqueline Betsabe
+Apellido : Rojas
+Cargo : Atención al publico - Recepcionista 
+Direccion : cortes funez 6124 Bº ampliacion los robles
+Ciudad : córdoba capital
+Telefono : 0351-4853961
+Email : jacqueline_lospiojos@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Quisiera unpuesto de trabajo ya sea en un cpc para atencion al publico , rentas, o en algun local de ropa para niños(mimo, cheeky, etc), para call center tambien .
+Security_code : 76s43
+Send : Enviar
+
+---------------
+
+Address : 181.1.121.139
+Nombre : Gonzalo
+Apellido : ferrer
+Cargo : Ingeniero agrónomo
+Direccion : campillo 988
+Ciudad : córdoba
+Telefono : 351-156460882
+Email : gdferrer@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : A quien corresponda :
+
+Hola muy buenos días, mi nombre es Gonzalo Daniel Ferrer, soy Ingeniero Agrónomo, 36 años,  graduado en la Universidad Nacional de Córdoba, durante los últimos seis años he vivido y trabajado en el sector agrícola-ganadero español donde he desarrollado gran parte de mi carrera profesional, pero actualmente y desde el pasado mes de febrero de 2013 he vuelto a vivir a Argentina donde me encuentro actualmente en búsqueda activa de trabajo, motivo por el  cual les hago llegar mi curriculum vitae y carta de presentación, por si mi perfil les interesase para algún puesto laboral que pudiese requerir un perfil como el mío o para alguna futura oferta laboral que pudiese surgir.
+Por último comentarles que tendría disponibilidad inmediata para comenzar a trabajar, que no tengo ningún impedimento para trabajar tanto en la parte agrícola como en la parte ganadera y que no poseo ningún impedimento para radicarme donde el puesto de trabajo lo requiera.
+
+Reciban ustedes un cordial saludo.
+
+Atte.
+Gonzalo Ferrer.
+
+Les agradecería me confirmen la recepción de éste email. Muchas gracias.
+Security_code : g83cn
+Send : Enviar
+
+---------------
+
+Address : 186.109.214.39
+Nombre : clara
+Apellido : simonovich
+Cargo : adminsitrativo
+Direccion : estomba 2315
+Ciudad : cap
+Telefono : 45447742
+Email : clarasimonovich@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Experiencia administrativa y comercial: asistente, recepcionista, secretaria, atención al publico.
+competencias: autonomía, dinamismo, proactividad, empatia.
+Security_code : 67mc4
+Send : Enviar
+
+---------------
+
+Address : 190.176.159.58
+Nombre : Maximiliano Alejandro 
+Apellido : Rivas 
+Cargo : Empleado 
+Direccion : Copiapo 1817 
+Ciudad : Mendoza
+Telefono : 0261-4269123
+Email : mjasosiados78@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Necesito trabajo urgente en cualquier parte de la argentina.
+Security_code : xt8wg
+Send : Enviar
+
+---------------
+

@@ -1,0 +1,61 @@
+Address : 190.176.15.172
+Nombre : jorge horacio
+Apellido : fuentes
+Cargo : repositor- cajero- auditoria
+Direccion : cordoba 172 dto 7
+Ciudad : mendoza
+Telefono : 0216- 155595906
+Email : jhfuentes76@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : estoy buscando empleo 
+me considero un empleado responsable y con muchas ganas
+Security_code : hw62n
+Send : Enviar
+
+---------------
+
+Address : 190.48.172.178
+Nombre : Facundo
+Apellido : González
+Cargo : Editor
+Direccion : Querandies 569
+Ciudad : Merlo
+Telefono : 1131202402
+Email : fakku5@live.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Realizador, Productor y Editor Audiovisual
+Security_code : 46vm7
+Send : Enviar
+
+---------------
+
+Address : 190.48.172.178
+Nombre : Facundo
+Apellido : González
+Cargo : Editor
+Direccion : Querandies 569
+Ciudad : Merlo
+Telefono : 1131202402
+Email : fakku5@live.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Realizador, Productor y Editor Audiovisual
+Security_code : 46vm7
+Send : Enviar
+
+---------------
+
+Address : 190.48.172.178
+Nombre : Facundo
+Apellido : González
+Cargo : Editor
+Direccion : Querandies 569
+Ciudad : Merlo
+Telefono : 1131202402
+Email : fakku5@live.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Realizador, Productor y Editor Audiovisual
+Security_code : zbpjt
+Send : Enviar
+
+---------------
+

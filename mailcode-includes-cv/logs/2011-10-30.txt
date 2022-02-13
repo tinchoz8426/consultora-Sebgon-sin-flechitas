@@ -1,0 +1,15 @@
+Address : 190.245.112.66
+Nombre : Ignacio Alberto 
+Apellido : Frydman
+Cargo : Abastecimientos - Logistica- Produccion
+Direccion : Franklin 603
+Ciudad : Buenos Aires
+Telefono : 4982- 3920
+Email : ignaciofrydman@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Soy proactivo, detallista y pretendo la excelencia en mi trabajo , concepto de trabajo en equipo
+Security_code : h478x
+Send : Enviar
+
+---------------
+

@@ -1,0 +1,198 @@
+Address : 186.128.146.108
+Nombre : Analía Teresa
+Apellido : Parada
+Cargo : Administrativo-Comercial-Contable
+Direccion : Urquiza 230
+Ciudad : Chos Malal
+Telefono : 02942-597001
+Email : analia
+MAX_FILE_SIZE : 2097152
+Mensaje : Disponibilidad de horaraio y de radicación en otra ciudad.
+Security_code : m3pvx
+Send : Enviar
+
+---------------
+
+Address : 190.216.67.225
+REF : ADMINISTRATIVO-DE-LOGISTICA
+Nombre : Sergio Andres
+Apellido : Malla
+Cargo : Administrativo de logistica
+Direccion : Meglioli 527 sur
+Ciudad : san juan
+Telefono : 2644474431
+Email : sergioandresmalla@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estudiante avanzado de Contador Publico en busqueda de oportunidad laboral, remuneracion pretendida 8500.
+Security_code : 7pm85
+Send : Enviar
+
+---------------
+
+Address : 190.51.20.160
+Nombre : Guadalupe
+Apellido : velazquez
+Cargo : Atencion al cliente, administrativa, secretaria, recepcion
+Direccion : calle 852 número 2440
+Ciudad : quilmes
+Telefono : 1141793609
+Email : guada.magali@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estoy en busqueda de mi primer empleo, dispuesta a aprender y poder desarrolarme en el ambiente laboral
+Security_code : mgv6t
+Send : Enviar
+
+---------------
+
+Address : 200.117.117.8
+Nombre : maria laura
+Apellido : Bazan
+Cargo : atencion al cliente - ventas- atencion al publico - cobranzas
+Direccion : pedro de trelles 3581
+Ciudad : cordoba
+Telefono : 0351-153416163
+Email : m_laurabazan@hotmail.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : busqueda laboral
+Security_code : dzp8k
+Send : Enviar
+
+---------------
+
+Address : 186.137.130.120
+Nombre : Patricia Noemi
+Apellido : Maza
+Cargo : operaria
+Direccion : calle 162 Nro 2869
+Ciudad : Berazategui
+Telefono : 54 11 67607527
+Email : pato_ypunto_@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Agradeceria valoren mi experiencia como operaria y deseos de ampliar mis conocimientos en este rubro o el que se me asigne
+Security_code : 8vk8m
+Send : Enviar
+
+---------------
+
+Address : 190.189.30.7
+Nombre : Agustina 
+Apellido : Romero 
+Cargo : vendedora, recepcionista, secretaria.
+Direccion : zapata 2743
+Ciudad : villa carlos paz
+Telefono : 03541-15383878
+Email : agus936@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : -
+Security_code : hpsh7
+Send : Enviar
+
+---------------
+
+Address : 190.179.2.198
+Nombre : Camila 
+Apellido : Kosdrowski
+Cargo : Administrativa/Telefonista
+Direccion : Quilmes
+Ciudad : Bs.As.
+Telefono : 1563509213
+Email : camilataisk@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Tengo 19 años, estoy terminando mi segundo año en la carrera de contador público.  
+Security_code : ymrzn
+Send : Enviar
+
+---------------
+
+Address : 201.254.45.122
+Nombre : NORMA EDITH
+Apellido : VILTE
+Cargo : EMPLEADA
+Direccion : MADRESELVA 298
+Ciudad : MADERO
+Telefono : 46223734
+Email : NORMA78_76@HOTMAIL.COM.AR
+MAX_FILE_SIZE : 2097152
+Mensaje : CUALQUIER TIPO DE TRABAJO APRENDO CON FACILIDAD.
+Security_code : XKM4C
+Send : Enviar
+
+---------------
+
+Address : 201.254.45.122
+Nombre : NORMA EDITH
+Apellido : VILTE
+Cargo : EMPLEADA
+Direccion : MADRESELVA 298
+Ciudad : MADERO
+Telefono : 46223734
+Email : LA78_76@HOTMAIL.COM.AR
+MAX_FILE_SIZE : 2097152
+Mensaje : ESPERO RESPUESTA , PARA CUALQUIER TIPO DE TRABAJO , APRENDO CON FACILIDAD. GRACIAS
+Security_code : 7Q85C
+Send : Enviar
+
+---------------
+
+Address : 190.51.127.62
+Nombre : walter sergio
+Apellido : chiodini
+Cargo : proyectista y direccion de obra
+Direccion : segurola2187
+Ciudad : buenos aires capital federal
+Telefono : 4621-0422 / 1558235890
+Email : arqchiodini@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Busco  trabajo. Mi nombre
+es Walter Sergio Chiodini, soy Arquitecto trabaje con ustedes como asesor externo.
+Especialista en Sistemas de Seguridad contra Incendio,CON CONOCIMIENTOS EL EL CODIGO DE EDIFICACION DE LA CIUDAD DE BUENOS AIRES, CODIGO DE HABILITACION, LEY NACIONAL DE SEGURIDAD E HIGIENE EN EL TRABAJO 19587 DECRETO 351,NORMAS NFPA 13, 14, 20 ,ley 2231 DISPOSICION NUMERO 415 DGDYPC,MEDIOS DE SALIDA,SECTORIZACION, CAJAS DE ESCALERAS " PRESURIZACION DE CAJAS" Y TRABAJE EN LA EX MCBA POR MAS DE 25 AÑOS COMO JEFE DEP. DEL SECTOR DE INCENDIO Y COMO ASESOR EN EMPRESAS PRIVADAS ( Secsin srl,Weng Fire SA, IPCI S.A, CASSI SRL) y en estudios de arquitectura ( Arq Dujovne, Arq Poli,Arq. Testa,Arq Cassano, Arq Zubillaga,Arq Sanchez Gomez,ARQ Mateola, Ing Mallmann)- 
+Les envio mi curriculum.
+
+muchas
+gracias.-    
+   
+
+ 
+Security_code : spjm3
+Send : Enviar
+
+---------------
+
+Address : 190.51.127.62
+Nombre : walter sergio
+Apellido : chiodini
+Cargo : proyectista y direccion de obra
+Direccion : de la vidalita 1378
+Ciudad : ituzaingo.pcia de buenos aires
+Telefono : 4621-0422 / 1558235890
+Email : arqchiodini@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Busco  trabajo. Mi nombre
+es Walter Sergio Chiodini, soy Arquitecto trabaje con ustedes como asesor externo.
+Especialista en Sistemas de Seguridad contra Incendio,CON CONOCIMIENTOS EL EL CODIGO DE EDIFICACION DE LA CIUDAD DE BUENOS AIRES, CODIGO DE HABILITACION, LEY NACIONAL DE SEGURIDAD E HIGIENE EN EL TRABAJO 19587 DECRETO 351,NORMAS NFPA 13, 14, 20 ,ley 2231 DISPOSICION NUMERO 415 DGDYPC,MEDIOS DE SALIDA,SECTORIZACION, CAJAS DE ESCALERAS " PRESURIZACION DE CAJAS" Y TRABAJE EN LA EX MCBA POR MAS DE 25 AÑOS COMO JEFE DEP. DEL SECTOR DE INCENDIO Y COMO ASESOR EN EMPRESAS PRIVADAS ( Secsin srl,Weng Fire SA, IPCI S.A, CASSI SRL) y en estudios de arquitectura ( Arq Dujovne, Arq Poli,Arq. Testa,Arq Cassano, Arq Zubillaga,Arq Sanchez Gomez,ARQ Mateola, Ing Mallmann)- 
+Les envio mi curriculum.
+
+muchas
+gracias.-       
+
+ 
+Security_code : br5jx
+Send : Enviar
+
+---------------
+
+Address : 181.26.69.206
+Nombre : Cecilia
+Apellido : Izumigawa
+Cargo : Técnica Química
+Direccion : Av. Aviación 1039
+Ciudad : Longchamps
+Telefono : 42973847
+Email : ceci.izumigawa@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Aquí les adjunto mi hoja de vida, es pero pronto una respuesta. Muchas gracias.
+Security_code : qw7kj
+Send : Enviar
+
+---------------
+

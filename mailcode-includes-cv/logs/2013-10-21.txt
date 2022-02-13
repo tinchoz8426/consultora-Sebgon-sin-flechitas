@@ -1,0 +1,47 @@
+Address : 190.246.75.180
+Nombre : Natalia
+Apellido : Olivari
+Cargo : Seleccion, Capacitacion, Desarrollo de personal
+Direccion : Av. San Martín 348, 4to F
+Ciudad : Ramos Mejia
+Telefono : 011-15-5619-4985
+Email : los3perfiles@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenos dias. Estoy interesada en participar en busquedas relacionadas con las areas de seleccion, capacitacion y/o desarrollo de RR.HH. Desde ya muchas gracias.
+Security_code : 7vf8r
+Send : Enviar
+
+---------------
+
+Address : 190.172.210.130
+Nombre : Victor
+Apellido : Pedace
+Cargo : Locutor
+Direccion : Tres arroyos 2704
+Ciudad : Buenos Aires
+Telefono : 1560516481
+Email : vhplocucion@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados, soy locutor.. me gusta mucho al coducción de eventos. Estoy a su entera disposición.
+Mis saludos!
+
+Security_code : t7fjr
+Send : Enviar
+
+---------------
+
+Address : 186.57.166.10
+Nombre : Francisco Gaston
+Apellido : Barrios
+Cargo : Ventas
+Direccion : echague 44
+Ciudad : Moron
+Telefono : 1168287650
+Email : gastonrock@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Deseo recibir ofertas laborales, desde ya muchas gracias
+Security_code : 76xwb
+Send : Enviar
+
+---------------
+

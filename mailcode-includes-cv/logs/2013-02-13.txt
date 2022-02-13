@@ -1,0 +1,67 @@
+Address : 190.191.24.107
+Nombre : Adriana
+Apellido : Martinez
+Cargo : Varios
+Direccion : Gelly y Obes 1387
+Ciudad : Talar, Partido de Tigre
+Telefono : 47400304  1553773366
+Email : adri_bedofroses@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Dirección de Recursos Humanos
+
+De mi consideración:
+
+Tengo el agrado de dirigirme a Ud.,considerando que reúno los requisitos necesarios para el desempeño en algunas de sus ofertas,tal como puede verse en el currículum vitae que adjunto a la presente.
+
+Esperando noticias suyas, lo saluda atentamente,Adriana Martinez 
+
+Security_code : ww6yr
+Send : Enviar
+
+---------------
+
+Address : 186.129.201.66
+Nombre : maria luz
+Apellido : battaglia
+Cargo : Diseñadora gráfica
+Direccion : Vicente Lopez 1955
+Ciudad : Morón
+Telefono : 1563764994
+Email : luz_ba09@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : A quien corresponda:
+
+Tengo el agrado de dirigirme a Uds. con el fin de transmitirles mi deseo en firme de incorporarme a su organización.
+
+En el siguiente link se podrá acceder a mi portfolio: http://luzba09.wix.com/luz-dg#!home/mainPage
+
+Me gradué recientemente de la carrera de diseño gráfico en la Universidad de Morón y busco poner en práctica todos mis conocimientos. En cuanto a mi experiencia en el área de diseño, puedo destacar que soy ayudante de las materias Diseño Gráfico 2 y Diseño Gráfico 3 (en la Universidad de Morón), hace ya tres años. Por otra parte, trabajé en un taller gráfico, en el cual adquirí nociones en cuanto a sistemas y métodos de impresión, como también a vincularme con los clientes. 
+
+Pongo, además, en su conocimiento que estoy en condiciones de asumir la responsabilidad de este empleo en forma inmediata, y con amplia disponibilidad de horarios. 
+
+
+Quedando a la espera de su respuesta.
+
+ 
+
+Me despido atte. María Luz Battaglia
+Security_code : 986bx
+Send : Enviar
+
+---------------
+
+Address : 181.47.35.148
+Nombre : Sofia
+Apellido : Letcher Garbino
+Cargo : Abogada junior
+Direccion : Paez 2018
+Ciudad : Capital federal
+Telefono : 1564756018
+Email : sofia.letcher@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estoy interesada en un puesto en el area legal de empresas o gubernamentales, como junior
+Security_code : 9j3kf
+Send : Enviar
+
+---------------
+

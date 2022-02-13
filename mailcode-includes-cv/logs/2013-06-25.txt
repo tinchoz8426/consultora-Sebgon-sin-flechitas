@@ -1,0 +1,16 @@
+Address : 190.1.21.106
+Nombre : Sergio Fernando
+Apellido : Alende
+Cargo : Mantenimiento Mecánico
+Direccion : Brown 1033
+Ciudad : Pto San Julían
+Telefono : 2914462929
+Email : sergio_alende@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Sres.Me dirijo a ustedes  con el fin de poder conseguir un empleo en el área de mantenimiento industrial. Atte Alende
+
+Security_code : tgsbv
+Send : Enviar
+
+---------------
+

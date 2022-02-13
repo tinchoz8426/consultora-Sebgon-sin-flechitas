@@ -1,0 +1,148 @@
+Address : 200.1.117.15
+Nombre : Mauricio
+Apellido : Arena
+Cargo : Tecnico- Responsable
+Direccion : Guemes 4562
+Ciudad : zarate
+Telefono : 0348715659393
+Email : arenamauricio@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Tecnico superior- tecnico electromecanico 
+Espero me tengan encuenta a actuales y/o futuras busquedas laborales 
+
+gracias 
+Security_code : 2f3kn
+Send : Enviar
+
+---------------
+
+Address : 181.170.191.180
+Nombre : Natalia 
+Apellido : Lecuyer
+Cargo : Administrativa, secretaria, recepcionista
+Direccion : la pampa 789
+Ciudad : Buenos aires
+Telefono : 1123390348
+Email : lecuyernatalia@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estoy en búsqueda de empleo, tengo 23 años y estoy estudiando Derecho. 
+Security_code : 2fwxq
+Send : Enviar
+
+---------------
+
+Address : 181.169.120.35
+REF : JPL
+Nombre : HUMBERTO
+Apellido : FERRARI
+Cargo : JEFE DE PLANTA
+Direccion : JOSE MARMOL 2718
+Ciudad : FLORIDA
+Telefono : 1534172510
+Email : hrferrari06@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Estmados, adjunto mi CV para postularme en la busqueda de jefe de planta.
+
+Saludos,
+Humberto
+Security_code : 3mygf
+Send : Enviar
+
+---------------
+
+Address : 190.174.73.230
+REF : ENPRO
+Nombre : Leonardo
+Apellido : Gramajo
+Cargo : Supervisor / Encargado
+Direccion : calle 808, n° 1830
+Ciudad : Quilmes
+Telefono : (11)40401546
+Email : gramajo.leonardo@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me postulo como Supervisor y / o encargado de planta
+Security_code : y6w7g
+Send : Enviar
+
+---------------
+
+Address : 186.23.57.110
+REF : TES
+Nombre : Jose Luis 
+Apellido : Piesco
+Cargo : Tesorero
+Direccion : Fontela 210
+Ciudad : Temperley
+Telefono : 1559260880
+Email : pepe_cele@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Ref.Tesorero
+Security_code : hf9hb
+Send : Enviar
+
+---------------
+
+Address : 186.23.57.110
+REF : TES
+Nombre : Jose Luis 
+Apellido : Piesco
+Cargo : Tesorero
+Direccion : Fontela 210
+Ciudad : Temperley
+Telefono : 1559260880
+Email : pepe_cele@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Ref.Tesorero
+Security_code : tdsn7
+Send : Enviar
+
+---------------
+
+Address : 186.23.247.43
+Nombre : Miguel Angel
+Apellido : Huergo
+Cargo : Intendente de country/club deportivo
+Direccion : Austria Norte 63 Los Troncos del Talar
+Ciudad : Tigre  C.P 1608
+Telefono : 15-6474-8562
+Email : troncosdeltalar2@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : A quien corresponda:
+Me dirijo a ustedes a los efectos de hacerles llegar mis antecedentes laborales a los efectos de que ustedes puedan disponer del mismo en tiempo y forma.
+Saludos cordiales.
+Miguel Angel
+Security_code : bg25j
+Send : Enviar
+
+---------------
+
+Address : 190.231.240.205
+Nombre : Juan Antonio
+Apellido : Caceres
+Cargo : Supervisor
+Direccion : Rivadavia 7515 Jose Leon Suarez
+Ciudad : Bs. As.
+Telefono : 1565628474
+Email : caceresjuan71@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Tengo experiencia en pintura en polvo,armado, soldadura,productos químicos,mantenimient.o
+Security_code : c39gk
+Send : Enviar
+
+---------------
+
+Address : 190.231.240.205
+Nombre : Juan Antonio
+Apellido : Caceres
+Cargo : Supervisor
+Direccion : Rivadavia 7515 Jose Leon Suarez
+Ciudad : Bs. As.
+Telefono : 1565628474
+Email : caceresjuan71@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Tengo experiencia en pintura en polvo,armado, soldadura,productos químicos,mantenimiento.
+Security_code : q7fqh
+Send : Enviar
+
+---------------
+

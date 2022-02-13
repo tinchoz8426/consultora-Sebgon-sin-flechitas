@@ -1,0 +1,37 @@
+Address : 186.19.197.189
+REF : VEN
+Nombre : Juan Facundo
+Apellido : Yanci
+Cargo : vendedor
+Direccion : Dr. Angel Rotta 231
+Ciudad : Monte Grande
+Telefono : 1169048538
+Email : facundoyanci@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Me considero una persona con una muy buena capacidad de adaptación para enfrentar diferentes actividades, como así también para adaptarme a grupos de trabajo.
+ He dejado positivas referencias en los lugares donde me he desempeñado, lo que indica mi compromiso laboral.
+Tengo en cuenta mi experiencia laboral, pero tengo la capacidad para aprender otras tareas y funciones dentro de la empresa, me seducen los desafíos nuevos y lograr superarme personalmente, para luego lograr un crecimiento en los distintos aspectos de la vida. 
+
+Security_code : h8yq9
+Send : Enviar
+
+---------------
+
+Address : 186.19.197.189
+Nombre : Juan Facundo
+Apellido : Yanci
+Cargo : no tengo preferencia
+Direccion : Dr. Angel Rotta 231
+Ciudad : Monte Grande
+Telefono : 1169048538
+Email : facundoyanci@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Me considero una persona con una muy buena capacidad de adaptación para enfrentar diferentes actividades, como así también para adaptarme a grupos de trabajo.
+ He dejado positivas referencias en los lugares donde me he desempeñado, lo que indica mi compromiso laboral.
+Tengo en cuenta mi experiencia laboral, pero tengo la capacidad para aprender otras tareas y funciones dentro de la empresa, me seducen los desafíos nuevos y lograr superarme personalmente, para luego lograr un crecimiento en los distintos aspectos de la vida. 
+
+Security_code : ydhng
+Send : Enviar
+
+---------------
+

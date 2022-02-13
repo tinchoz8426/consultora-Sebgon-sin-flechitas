@@ -1,0 +1,50 @@
+Address : 190.244.43.133
+Nombre : Pablo Andrés
+Apellido : Testa Maggiorini
+Cargo : Comunicador Social
+Direccion : Av. Ricardo Balbín 2419 5ºA
+Ciudad : CABA
+Telefono : 4542 0489
+Email : pablo@pampaconsulting.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados,
+Buenos días. Deseo postularme para el cargo de "Comunicador Social" de la oferta publicada en el portal de Bumeran.
+Sin más, agradezco su atención y quedo a disposición para una entrevista personal, 
+
+Pablo A. Testa M.
+ 
+Security_code : ncykt
+Send : Enviar
+
+---------------
+
+Address : 190.50.199.68
+Nombre : Hernan Javier
+Apellido : Vogler
+Cargo : ejecutivo de cuenta / Vendedor 
+Direccion : Lamadrid 664 PB 3 ( Ramos mejía )
+Ciudad : PCIA DE BSAS
+Telefono : 46561670 / 1551190027
+Email : hervog@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto mi CV para ser tenido en cuenta en búsquedas comerciales . Gracias
+Security_code : 32gth
+Send : Enviar
+
+---------------
+
+Address : 186.130.178.50
+Nombre : Juan Leonardo 
+Apellido : Freire
+Cargo : Operario
+Direccion : Aristobulo del Valle 1241
+Ciudad : Merlo
+Telefono : 15 5376 8788
+Email : johnleonardf@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Gracias!
+Security_code : 7f6n3
+Send : Enviar
+
+---------------
+

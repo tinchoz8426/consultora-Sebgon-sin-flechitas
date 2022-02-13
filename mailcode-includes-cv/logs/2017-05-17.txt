@@ -1,0 +1,157 @@
+Address : 181.228.204.56<br>
+ <br>REF : ROT-1
+ <br>Nombre : hernan
+ <br>Apellido : margni
+ <br>Cargo : tecnico de oficina tecnica
+ <br>Direccion : coronel salvadores 1166
+ <br>Ciudad : CABA
+ <br>Telefono : 1560629889
+ <br>Email : hernan_k-po_05@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : No me considero apto para el puesto de jefe, pero si para empesar como aprendis en la empresa e ir creciendo, como dice mi cv tengo una especialización en mecanizado y agradecería la oportunidad de trabajar y crecer con ustedes
+ <br>Security_code : v3zvh
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.105.37.75<br>
+ <br>Nombre : Elias
+ <br>Apellido : Velazquez
+ <br>Cargo : Operario 
+ <br>Direccion : Paunero 3979
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 1162530965
+ <br>Email : elias2004_72@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buen día !
+Estoy interesado en trabajar en su empresa por lo que dejo mi curriculum vitae en caso de que surgiera alguna vacante con mi perfil. Agradezco de antemano sus atenciones y quedo en espera de su llamado. 
+
+Atte (Elias Velazquez)
+ <br>Security_code : kktkt
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 200.71.236.114<br>
+ <br>REF : ACO-1
+ <br>Nombre : Alfonso
+ <br>Apellido : Hernandez
+ <br>Cargo : ANALISTA DE COMERCIO INTERNACIONAL/EXTERIOR
+ <br>Direccion : Cerviño 4502
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 1555249796
+ <br>Email : arhernandezlara@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola,
+Soy un joven profesional venezolano, recibido de la universidad en EEUU en carreras de Economia, Finanzas, y Ciencias Políticas. Llegue a Buenos Aires hace 9 meses y he estado trabajando en una consultora de software, pero desde que llegue he querido entrar en el rubro de Comercio Exterior ya que es una industria donde veo mucha posibilidad de crecimiento profesional; tengo un pequeño negocio ecommerce en EEUU de indumentaria exportada de Argentina, y mi familia siempre ha estado metida en el rubro en Venezuela, a menor escala. Soy atento a detalles, hablo ingles perfecto, aprendo rápido y trabajaré todo lo que sea necesario para el logro de los objetivos. Les envío un gran saludo y espero recibir respuesta de parte de ustedes. Agradezco su tiempo y disposición.
+
+Todo lo mejor,
+
+Alfonso Hernandez
+ <br>Security_code : 7kjjs
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 200.71.236.114<br>
+ <br>REF : ACO-1
+ <br>Nombre : Alfonso
+ <br>Apellido : Hernandez
+ <br>Cargo : ANALISTA DE COMERCIO INTERNACIONAL/EXTERIOR
+ <br>Direccion : Cerviño 4502
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 1555249796
+ <br>Email : arhernandezlara@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola,
+Soy un joven profesional venezolano, recibido de la universidad en EEUU en carreras de Economia, Finanzas, y Ciencias Políticas. Llegue a Buenos Aires hace 9 meses y he estado trabajando en una consultora de software, pero desde que llegue he querido entrar en el rubro de Comercio Exterior ya que es una industria donde veo mucha posibilidad de crecimiento profesional; tengo un pequeño negocio ecommerce en EEUU de indumentaria exportada de Argentina, y mi familia siempre ha estado metida en el rubro en Venezuela, a menor escala. Soy atento a detalles, hablo ingles perfecto, aprendo rápido y trabajaré todo lo que sea necesario para el logro de los objetivos. Les envío un gran saludo y espero recibir respuesta de parte de ustedes. Agradezco su tiempo y disposición.
+
+Todo lo mejor,
+
+Alfonso Hernandez
+ <br>Security_code : 43rx4
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.22.238.21<br>
+ <br>REF : ACO-1
+ <br>Nombre : Agustín 
+ <br>Apellido : Fernández Villarino
+ <br>Cargo : ANALISTA DE COMERCIO INTERNACIONAL/EXTERIOR
+ <br>Direccion : José Bionifacio
+ <br>Ciudad : 3° C
+ <br>Telefono : 1533627272
+ <br>Email : agus_fernandez@live.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados,
+He visto la Oferta Laboral publicada en indeed.com y la misma me resultó de gran interés. Por este motivo, les hago llegar mi Currículum Vitae, a fin de ser tenido en cuenta como candidato.
+Quedo a su disposición para ampliar cualquier información necesaria.
+Cordialmente,
+Agustin Fernández Villarino
+ <br>Security_code : cc3fg
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 200.125.104.198<br>
+ <br>Nombre : Sabrina
+ <br>Apellido : Peñalva
+ <br>Cargo : Vendedor
+ <br>Direccion : calle 66 número 6482
+ <br>Ciudad : Berazategui
+ <br>Telefono : 1557043733
+ <br>Email : SAC.CHU@live.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estoy en busqueda de puestos de trabajo como recepcionista o venta
+ <br>Security_code : jn54t
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.95.71.8<br>
+ <br>REF : JPER-1
+ <br>Nombre : LUCIANO ARTURO
+ <br>Apellido : LEIVA
+ <br>Cargo : RECURSOS HUMANOS
+ <br>Direccion : SAN LUIS 2532
+ <br>Ciudad : CORDOBA
+ <br>Telefono : 0351 -4878132
+ <br>Email : lucianoarturo@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : TODA MI VIDA LABORAL LA REALICE EN RECURSOS HUMANOS. ES LOGICO QUE PRETENDA SEGUIR DESARROLLANDOME EN ESTA DISCIPLINA 
+ <br>Security_code : 9qty4
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.190.48.132<br>
+ <br>Nombre : Alan Javier
+ <br>Apellido : Coronel
+ <br>Cargo : Tecnico en seguridad e higiene
+ <br>Direccion : Saturnino Segurola 2051
+ <br>Ciudad : Boulogne, San Isidro
+ <br>Telefono : 1166261995
+ <br>Email : alaan_02@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas tardes, me dirijo hacia ustedes con el interes de trabajar en su empresa y sumar mi experiencia personal, me considero una persona de perfil proactivo y responsable
+ <br>Security_code : nsky6
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 5.188.211.39<br>
+ <br>Nombre : JimmiXzSq
+ <br>Apellido : 185689
+ <br>Cargo : AWEGSThpdj
+ <br>Direccion : xmqURLWBevhUTznaJnK
+ <br>Ciudad : NY
+ <br>Telefono : 42934203922
+ <br>Email : jimos45812rt1@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : dc6iqZ http://www.LnAJ7K8QSpkiStk3sLL0hQP6MO2wQ8gO.com
+ <br>Security_code : hjHYb
+ <br>Send : Enviar
+ <br>
+---------------
+

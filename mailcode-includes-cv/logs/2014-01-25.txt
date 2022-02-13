@@ -1,0 +1,30 @@
+Address : 190.161.54.230
+Nombre : Rodrigo
+Apellido : Moyano
+Cargo : Juan palazuelo
+Direccion : 1950
+Ciudad : Calama
+Telefono : 91932795
+Email : axy11777@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Posibilidad de trabajo
+Security_code : df2tb
+Send : Enviar
+
+---------------
+
+Address : 200.117.108.161
+Nombre : Lucas martin
+Apellido : herrera
+Cargo : ..
+Direccion : soldado de malvinas 2050
+Ciudad : Buenos Aires
+Telefono : 1169289877
+Email : lucasmartinherrera@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estoy recientemente mudado de la Ciudad de Neuquen con mi familia. Busco trabajo de forma urgente, muchisimas gracias.
+Security_code : 8tz8m
+Send : Enviar
+
+---------------
+

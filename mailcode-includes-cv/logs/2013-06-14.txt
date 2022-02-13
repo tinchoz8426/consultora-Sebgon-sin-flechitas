@@ -1,0 +1,60 @@
+Address : 190.191.242.108
+Nombre : jonathan ariel
+Apellido : bustamante
+Cargo : cadete , vendedor , cajero 
+Direccion : saladillo 2270
+Ciudad : Capital federal
+Telefono : 1540865372
+Email : jonathan.bustamante@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me gustaria poder trabajar , asi sea con ustedes o a donde ustedes me puedan mandar . Muchas gracias y espero su respuesta .
+Security_code : b2fcm
+Send : Enviar
+
+---------------
+
+Address : 190.55.89.238
+Nombre : Tyanif 
+Apellido : Rico Rodriguez
+Cargo : Personal Socioambientales
+Direccion : Gascon 1010
+Ciudad : C.A.B.A.
+Telefono : 1530633206
+Email : tyanifricorodriguez@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Mi nombre es Tyanif Rico Rodríguez, me encuentro interesada en la oferta laboral en temas socioambientales. Soy Socióloga y actualmente curso la maestría en Estudios Agrarios en Flacso. Mi experiencia laboral ha estado relacionada con el trabajo en comunidades rurales, además del apoyo a la gestión de proyectos de investigación, con lo cual he adquirido herramientas y conocimientos con los que considero me puedo desempeñar en dicha labor. Sumado a ello soy una persona receptiva y con una extraordinaria capacidad de aprendizaje.
+Security_code : 65k2N
+Send : Enviar
+
+---------------
+
+Address : 186.123.133.73
+Nombre : dario victor 
+Apellido : ramirez
+Cargo : soldador/operario/mantenimientos en general
+Direccion : san juan 238
+Ciudad : moreno
+Telefono : 01167330000
+Email : dariovictoramirez@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : gracias por dejarme postularme en su agencia, soy una persona responsable y comprometida con relación a lo laboral y deseo conseguir un trabajo que me permita desarrollar al maximo mis objetivos. desde ya muchas gracias, mis  cordiales saludos
+Security_code : 33rcn
+Send : Enviar
+
+---------------
+
+Address : 186.123.133.73
+Nombre : dario victor 
+Apellido : ramirez
+Cargo : soldador/operario/mantenimientos en general
+Direccion : san juan 238
+Ciudad : moreno
+Telefono : 01167330000
+Email : dariovictoramirez@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : gracias por dejarme postularme en su agencia, soy una persona responsable y comprometida con relación a lo laboral y deseo conseguir un trabajo que me permita desarrollar al maximo mis objetivos. desde ya muchas gracias, mis  cordiales saludos
+Security_code : 33rcn
+Send : Enviar
+
+---------------
+

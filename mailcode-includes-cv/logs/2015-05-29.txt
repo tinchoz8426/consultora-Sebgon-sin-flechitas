@@ -1,0 +1,19 @@
+Address : 190.50.112.49
+Nombre : maría laura
+Apellido : joffré
+Cargo : secretariado médico, secretariado odontológico, obras sociales, prepagas.
+Direccion : bayley 2092
+Ciudad : mar del plata
+Telefono : +540223155065569
+Email : lau_luk@outlook.es
+MAX_FILE_SIZE : 2097152
+Mensaje :    Me dirijo a ustedes para ofrecer mis servicios a su empresa a tal fin envío mi currículum vitae.
+   Mi búsqueda se orienta al área de Secretariado Médico. Me considero una persona dinámica, de actitud proactiva, capaz de adaptarme a las diferentes situaciones que esta actividad presenta. Mi interés es incorporarme al área de atención de paciente/afiliado, ya que he desarrollado actividades afines. Cabe mencionar que me encuentro capacitada para tareas de facturación de prestaciones médicas a medicinas prepagas y obras sociales del sector.
+   Espero que mi oferta sea valorada positivamente y que me convoquen para una entrevista personal en la que pueda ampliar la exposición de mis capacidades.
+   Hasta entonces reciban mi atento saludo.
+
+Security_code : pkp3g
+Send : Enviar
+
+---------------
+

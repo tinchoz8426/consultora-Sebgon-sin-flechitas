@@ -1,0 +1,53 @@
+Address : 204.136.184.30
+Nombre : Rocío 
+Apellido : Costantini
+Cargo : Lic Psicología 
+Direccion : Roque Saenz Peña 266 2do cuerpo 4 F
+Ciudad : San Isidro
+Telefono : 1532947300
+Email : rociocostantini@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenos días,
+Me recibí hace 2 meses de psicóloga en la UBA, y estoy buscando un empleo de medio tiempo. Soy acompañante terapéutico, y además estoy interesada en la elaboración de informes laborales (por la zona del capital federal). Les envío mi CV, y mis datos personales por cualquier duda. 
+Muchas gracias,
+Rocío Costantini
+Security_code : z66jp
+Send : Enviar
+
+---------------
+
+Address : 186.57.148.134
+Nombre : Joaquín Nicolás
+Apellido : Garay
+Cargo : Comercio Internacional
+Direccion : Cordoba 2969
+Ciudad : Bella Vista
+Telefono : 1535744335
+Email : joaquin_garay14@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Aquí adjunto mi curriculum, espero que les pueda servir. Desde ya muchas gracias
+Security_code : mv45g
+Send : Enviar
+
+---------------
+
+Address : 190.19.19.158
+Nombre : Ana Paula
+Apellido : Dvorkin Rodriguez
+Cargo : Administrativa, Ventas, Recepcionista
+Direccion : Av. Juan Bautista Alberdi 1653, 17 A, Torre A
+Ciudad : Capital Federal
+Telefono : 46320188
+Email : pauleets@live.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Les adjunto mi cv a fin de que me tengan en cuenta en sus búsquedas.
+Desde ya, muchas gracias.
+
+Saludos.
+
+Paula Dvorkin Rodriguez
+Security_code : 2nhjh
+Send : Enviar
+
+---------------
+

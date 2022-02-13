@@ -1,0 +1,16 @@
+Address : 190.19.157.38
+REF : gerente-de-operaciones
+Nombre : Hernan
+Apellido : Romero
+Cargo : Cajero
+Direccion : Rosetti 6279 2°A
+Ciudad : Palomar
+Telefono : 1558968532
+Email : herzepp@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Busco empleo de cajero
+Security_code : df4nm
+Send : Enviar
+
+---------------
+

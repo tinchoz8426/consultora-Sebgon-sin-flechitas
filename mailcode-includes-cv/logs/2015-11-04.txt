@@ -1,0 +1,600 @@
+Address : 190.122.75.5
+REF : GTEP
+Nombre : Guillermo Luis
+Apellido : Blasco
+Cargo : Gerente de Planta Industria Alimenticia
+Direccion : Pedro de Oñate 416
+Ciudad : Jesus Maria
+Telefono : 0351-156220200
+Email : gblasco@hotmail.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto CV a los efectos de ser tenido en cuenta en la búsqueda de ref. ya que cuento con 17 años de xperiencia en  agro-industria.
+Security_code : jf7q2
+Send : Enviar
+
+---------------
+
+Address : 181.117.3.198
+REF : GTEP
+Nombre : ALVARO
+Apellido : DOMINGUEZ
+Cargo : GERENTE DE PLANTA
+Direccion : ALVEAR 1600
+Ciudad : LUJAN
+Telefono : 0111566467144
+Email : aedomin@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados
+Cumplo con todos los requisitos mencionados en la búsqueda de referencia. 
+Adjunto mi Curriculum Vitae, quedando a su disposición para concretar una entrevista en la que pueda ampliar mis antecedentes.
+Atte.
+Alvaro Dominguez
+Security_code : dsfrf
+Send : Enviar
+
+---------------
+
+Address : 181.88.253.53
+REF : GTEP
+Nombre : Carlos Humberto
+Apellido : García Domínguez
+Cargo : Gerente de Planta 
+Direccion : Estrada 2338
+Ciudad : Martínez
+Telefono : +541147939583
+Email : carlos.gd90@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto Carta de presentación y CV.
+Atentamente
+Carlos H. García D.
+Security_code : 4gnnp
+Send : Enviar
+
+---------------
+
+Address : 181.88.253.53
+REF : GTEP
+Nombre : Carlos Humberto
+Apellido : García Domínguez
+Cargo : Gerente de Planta 
+Direccion : Estrada 2338
+Ciudad : Martínez
+Telefono : +541147939583
+Email : carlos.gd90@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto Carta de presentación y CV.
+Atentamente
+Carlos H. García D.
+Security_code : g4nnp
+Send : Enviar
+
+---------------
+
+Address : 181.88.253.53
+REF : GTEP
+Nombre : Carlos Humberto
+Apellido : García Domínguez
+Cargo : Gerente de Planta 
+Direccion : Estrada 2338
+Ciudad : Martínez
+Telefono : +541147939583
+Email : carlos.gd90@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto Carta de presentación y CV.
+Atentamente
+Carlos H. García D.
+Security_code : jvnp9
+Send : Enviar
+
+---------------
+
+Address : 190.3.15.20
+REF : GTEP
+Nombre : Marcelo
+Apellido : Begueri Buquet
+Cargo : Gerente de Planta
+Direccion : Damaso Valdez 25
+Ciudad : San Nicolas de los Arroyos
+Telefono : 011 15 5454 4485
+Email : mbegueri@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenos días. Soy Ingeniero Mecánico de la UBA con Postgrado en Siderurgia. Experiencia labora: 13 años de en Ternium Siderar Techint
+Muchas gracias
+Cordiales saludos,
+
+Security_code : ddj7k
+Send : Enviar
+
+---------------
+
+Address : 200.59.239.245
+Nombre : Sergio
+Apellido : Mastroiaco
+Cargo : presentacion espontanea
+Direccion : Berni 2073
+Ciudad : neuquen
+Telefono : 299 4163367
+Email : mastroiaco@fiberytel.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : presentacion espontanea Ingeniero Mantenimiento empresa alimentos y bebibas
+Security_code : p9vfb
+Send : Enviar
+
+---------------
+
+Address : 181.28.104.151
+REF : GTEP
+Nombre : Marcos
+Apellido : Panaggio
+Cargo : GTEP: Gerente de Planta
+Direccion : Av Pringles 2387
+Ciudad : Olavarría
+Telefono : 02284 15 615776
+Email : marcospanaggio@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Experiencia gerencial nacional y corporativa.
+Experiencia en implementación de procesos de mejora y normas ISO.
+Inglés y portugués.
+Security_code : 5v26x
+Send : Enviar
+
+---------------
+
+Address : 186.18.160.11
+REF : JPL
+Nombre : Federico Gustavo
+Apellido : Dominguez
+Cargo : Jefe de Proceso
+Direccion : Pergamino 683
+Ciudad : CABA
+Telefono : 15 2307 0808
+Email : federico.dominguez@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Me considero responsable y dinámico, e intento en ese dinamismo del día a día conseguir las metas pautadas.-
+Mi concepción es que el trabajo no depende de uno, sino de poder formar un grupo responsable y capaz para hacer de los objetivos una realidad.-
+Marca personal; “Experiencia aplicada a la resolución de problemas”.
+Mis objetivos están fundados en el progreso con 18 años de experiencia en la Industria Automotriz
+Security_code : 68k3s
+Send : Enviar
+
+---------------
+
+Address : 186.18.160.11
+REF : JPL
+Nombre : Federico Gustavo
+Apellido : Dominguez
+Cargo : Jefe de Proceso
+Direccion : Pergamino 683
+Ciudad : CABA
+Telefono : 15 2307 0808
+Email : federico.dominguez@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Me considero responsable y dinámico, e intento en ese dinamismo del día a día conseguir las metas pautadas.-
+Mi concepción es que el trabajo no depende de uno, sino de poder formar un grupo responsable y capaz para hacer de los objetivos una realidad.-
+Marca personal; “Experiencia aplicada a la resolución de problemas”.
+Mis objetivos están fundados en el progreso con 18 años de experiencia en la Industria Automotriz
+Security_code : 68k3s
+Send : Enviar
+
+---------------
+
+Address : 186.18.160.11
+REF : JPL
+Nombre : Federico Gustavo
+Apellido : Dominguez
+Cargo : Jefe de Proceso
+Direccion : Pergamino 683
+Ciudad : CABA
+Telefono : 15 2307 0808
+Email : federico.dominguez@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Me considero responsable y dinámico, e intento en ese dinamismo del día a día conseguir las metas pautadas.-
+Mi concepción es que el trabajo no depende de uno, sino de poder formar un grupo responsable y capaz para hacer de los objetivos una realidad.-
+Marca personal; “Experiencia aplicada a la resolución de problemas”.
+Mis objetivos están fundados en el progreso con 18 años de experiencia en la Industria Automotriz
+Security_code : ttdy6
+Send : Enviar
+
+---------------
+
+Address : 186.18.160.11
+REF : JPL
+Nombre : Federico Gustavo
+Apellido : Dominguez
+Cargo : Jefe de Proceso
+Direccion : Pergamino 683
+Ciudad : CABA
+Telefono : 15 2307 0808
+Email : federico.dominguez@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Me considero responsable y dinámico, e intento en ese dinamismo del día a día conseguir las metas pautadas.-
+Mi concepción es que el trabajo no depende de uno, sino de poder formar un grupo responsable y capaz para hacer de los objetivos una realidad.-
+Marca personal; “Experiencia aplicada a la resolución de problemas”.
+Mis objetivos están fundados en el progreso con 18 años de experiencia en la Industria Automotriz.
+Security_code : ttdy6
+Send : Enviar
+
+---------------
+
+Address : 186.18.160.11
+REF : JPL
+Nombre : Federico Gustavo
+Apellido : Dominguez
+Cargo : Jefe de Proceso
+Direccion : Pergamino 683
+Ciudad : CABA
+Telefono : 15 2307 0808
+Email : federico.dominguez@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Me considero responsable y dinámico, e intento en ese dinamismo del día a día conseguir las metas pautadas.-
+Mi concepción es que el trabajo no depende de uno, sino de poder formar un grupo responsable y capaz para hacer de los objetivos una realidad.-
+Marca personal; “Experiencia aplicada a la resolución de problemas”.
+Mis objetivos están fundados en el progreso con 18 años de experiencia en la Industria Automotriz.
+Security_code : 3dq98
+Send : Enviar
+
+---------------
+
+Address : 186.22.103.55
+REF : OME
+Nombre : Osvaldo Nicolas
+Apellido : Rio
+Cargo : OPERARIO
+Direccion : MARCOS AVELLANEDA 1296 
+Ciudad : lanus
+Telefono : 1131060078
+Email : nicolaselpelotero@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : soy un joven dinamico y responsable con experiencia en el rubro alimenticia ,area de produccion,control de calidad y palletizado
+Security_code : ZJG6J
+Send : Enviar
+
+---------------
+
+Address : 186.125.40.178
+REF : GTEP
+Nombre : Luis Ernesto
+Apellido : Coro
+Cargo : Gerente de Planta
+Direccion : Freire 1984
+Ciudad : CABA
+Telefono : 1541995505
+Email : ing.lcoro@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados le senvío mis antecedentes personales para ser evaluados en la busqueda de referencia.
+Saluda atentamente.
+Luis Coro.
+Security_code : rpky8
+Send : Enviar
+
+---------------
+
+Address : 181.228.117.140
+REF : GTEP
+Nombre : Jorge
+Apellido : Pinnola
+Cargo : Gerente de Planta
+Direccion : Ramón y Cajal 2.982
+Ciudad : Bahía Blanca
+Telefono : 0111566591596
+Email : jpinnola@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : De mi mayor consideración:
+
+                                             Tengo el agrado de dirigirme a Uds. con el objeto de presentar mi C.V. y ofrecer mis servicios para la posición de la referencia.
+
+Como profesional, cuento con el conocimiento, aptitudes y experiencia necesarios para cubrir el perfil solicitado, adquiridos ocupando puestos Gerenciales y de Dirección durante más de 35 años en Empresas Multinacionales de primer nivel.
+
+Les ofrezco probado expertise en:
+
+- Planeamiento estratégico de Infraestructura.
+- Planeamiento operativo.
+- Planeamiento de la demanda y operaciones. S&OP.
+- Gestión de procesos y organizaciones. Optimización.
+- Gerenciamiento de Plantas – Tableros de Comando – KPI´s.
+- Excelencia Operativa.
+- Reducción de costos (operativos - logísticos) - Maximización de la rentabilidad.
+- Proyectos de Infraestructura.
+- Supply chain
+- Logística, Distribución y Transporte.
+
+Deben saber que mis principales fortalezas son visión estratégica, capacidad de análisis, modelización, coordinación y dirección de equipos de trabajo y compromiso con los resultados.
+
+Con relación a la forma de contratación, vale aclarar que puede ser freelance
+
+Quedo a Vuestra disposición para cualquier aclaración, ampliación de información o para concertar 
+una entrevista personal en la que pueda exponer en más detalle mis experiencias y logros laborales.
+
+Agradecido por el tiempo dispensado a la presente, los saluda cordialmente.
+
+                                                                                                       
+
+                                                                                                             Lic. Jorge Pinnola 
+     
+
+Security_code : 4zjj4
+Send : Enviar
+
+---------------
+
+Address : 186.23.155.178
+REF : SE.BIL
+Nombre : karina
+Apellido : Testore
+Cargo : Secretaria Bilingue
+Direccion : Viejo Bueno 1338
+Ciudad : Bernal
+Telefono : 1561187814
+Email : karinatestore@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto mi curriculum para el puesto de secretaria
+Espero su respuesta
+Muchas gracias
+Saludos
+Karina
+Security_code : zxpfj
+Send : Enviar
+
+---------------
+
+Address : 186.23.155.178
+REF : SE.BIL
+Nombre : karina
+Apellido : Testore
+Cargo : Secretaria Bilingue
+Direccion : Viejo Bueno 1338
+Ciudad : Bernal
+Telefono : 1561187814
+Email : karinatestore@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto mi curriculum para el puesto de secretaria
+Espero su respuesta
+Muchas gracias
+Saludos
+Karina
+Security_code : zxpfj
+Send : Enviar
+
+---------------
+
+Address : 186.158.229.206
+REF : ADM
+Nombre : Gustavo
+Apellido : Armoa
+Cargo : Administrativo
+Direccion : Santa Marta 1585
+Ciudad : Moron
+Telefono : 1534057797
+Email : gustavoarmoa@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola buenos dias, mi nombre es Armoa Gustavo y me gustaría si por favor me podrían tener en cuenta para
+futuras incorporaciones a la empresa.
+Muchas gracias
+
+Security_code : rvwvd
+Send : Enviar
+
+---------------
+
+Address : 201.176.150.228
+REF : GTEP
+Nombre : FELIX NORBERTO
+Apellido : BALLAUZ
+Cargo : GERENTE DE PLANTA
+Direccion : BAIGORRIA5387
+Ciudad : CABA
+Telefono : 46397363   /    1557971641
+Email : ballauzfelixnorberto@rocketmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me dirijo a Ud. a los efectos  de enviar mi curriculum, considerando la demanda laboral solicitada  por vuestra empresa , Dicha área, la cual desarrollo hace 18 años, considero que tal vez uno de mis objetivos será  o desafíos estarán  vinculados a diseñar e implementar el Planes  de Comunicación Interna y externa vinculados al PROYECTO ENMARCADO EN VUESTRA DEMANDA , generando y gestionando  el desarrollo productivo ,en tiempo y forma  acorde con los requerimientos  que  vuestra empresa considere , aplicando distintas estrategias y metodologías orientadas a la aplicación de normas de regulación de objetivos , la Capacitación acorde a las necesidades será necesario considerando los perfiles reales de producción y organización   ,  con el fin de contribuir al logro de los objetivos organizacionales, Implementando de ser necesario  distintas  herramientas, canales y espacios de comunicación que garanticen efectividad y eficiencia en las acciones implementadas. Como también conducir acciones de integración involucrando a todo el personal de la empresa , en programas institucionales internos y/o externos, Coordinando un proceso de ENSEÑANZA/ APRENDIZAJE,(si fuera necesario) para obtener  los resultados esperados, repetando los tiempos de la ficha contemplativa a tales efectos y  realizando un seguimiento de la implementación de los planes de mejora. La pro actividad, innovación, orientación, serán los pilares de mi desenvolvimiento profesional con una   visión compartida con las áreas de la empresa  ampliando   los fenómenos organizacionales.  la habilidad para liderar varios proyectos la he adquirido en las distintas empresas  en las que me he comprometido , son competencias críticas que las vengo desarrollando a través de los años actualizándome periódicamente 
+Cabe aclarar que poseo conocimientos específicos en el área técnica y tecnológica.
+
+ 
+DATOS PERSONALES
+Apellido: BALLAUZ
+Nombre: Félix Norberto. 
+Estado Civil: casado con 2 hijos (mayores)
+Edad: 55años.  
+TE: 4 639- 7363 / 1557971641
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ESTUDIOS CURSADOS: 
+
+• Técnico superior en Electromecánica y Robótica., (nivel universitario)
+• Titulo de base, secundario Técnico Mecánico, 
+• FI de Formación Profesional. (Formación de instructores) (Nivel universitario)
+• FO de Formación Profesional. (Formación de operarios y técnicos)  (Nivel universitario)
+• FP de Formación Profesional. (Nivel universitario) 
+• FPA de Formación Profesional. ( formación de lideres)
+• Curso en herramientas informáticas.
+• Capacitación  en  Estudio Dirigido (nivel universitario)
+• Curso en Métodos y Tiempos (nivel universitario)
+• Curso en Control Numérico Computarizado.(nivel universitario)
+• Estudio de técnicas operativas en trabajos seriados y de alta producción.
+• Metodología de estudio.
+• Curso de planeamiento y proyecto industrial I y II (nivel universitario)
+• Capacitación en técnicas grupales (nivel universitario)
+  Curso en seguridad industrial, mantenimiento preventivo, correctivo y predictivo.
+• Estudio de Formación Profesional Acelerada. (Nivel universitario)
+• Formación Didáctica. (Nivel universitario)
+• Curso de desarrollo de habilidades creativas para la Innovación Pedagógica.1er. Nivel
+• Curso de idioma, ingles técnico, y árabe e interpretación de planos en varios.
+• Curso en creatividad y desarrollo de actividades técnico/pedagógica., ( nivel ).
+
+PARTICIPACIONES
+
+•	Transformación de la educación 1ero. Y 2do. Congreso (expositivo).
+•	Orientación para el estudio y el trabajo.(expositivo)
+•	Seminario en métodos y tiempos.
+•	Jornadas argentino-británicas.
+•	Jornadas tecnológicas argentino-brasileñas
+•	Seminario en Formación Profesional (expositivo)
+•	Congreso de Formación Didáctica
+
+Poseo conocimientos de todas las áreas técnicas y tecnológicas, ya que parte de mi tiempo lo dedico a la incorporación de información y transmitirla a través de cursos que realizo  orientados a la FORMACION, OPERACIÓN. Y GESTION PROFESIONAL 
+
+EXPERIENCIA LABORAL: 
+
+Me dedique específicamente a la formación Técnica y tecnológica,  no solamente en escuelas y universidades, sino también en empresas especializadas en estas áreas. He trabajado simultáneamente en áreas de tecnología prestando servicio en empresas y a la vez desarrollando trabajos de enseñanza pedagógica en instituciones educativas. Mis cambios de tareas se orientaron a  incorporar experiencias en distintas áreas, es por este motivo que puedo desarrollar mi actividad desde muchos ángulos y con mayor eficacia.
+
+
+Desde 1978 me desempeñe en EX  E.N.E.T. N1 DE FLORIDA MARTIN GUEMES. Primero como maestro de enseñanza practica, dedicándome específicamente al mantenimiento de las maquinas herramientas, con 6 personas a cargo, aplicando conocimientos de hidráulica, mecánica general y mantenimiento según normas de regulación industrial donde más tarde fui accediendo a distintos cargos de JEFATURA, tanto para esta escuela como asi también otros establecimientos que necesitaban una orientación técnica actualizada. 
+
+Luego en PIZZINI .SA.  me dedique a la  supervisión,  en gestión y mantenimiento correctivo y preventivo con 15 personas a cargo de las actualizaciones de las maquinarias para un mercado cada vez más competitivo durante 4 años. 
+
+Luego trabaje en ACEROTEC, con 5 personas a cargo en la parte de mantenimiento general de fabrica, tanto para las MAQUINAS–HERRAMIENTA, como también la parte edilicia en relación a la disposición correcta, según normas ISO, para certificación,   simultáneamente con la ENET. A los 2 años me tuve que retirar debido a que no llegamos a un acuerdo por la inversión que la empresa debía disponer para dicha certificación. 
+
+Desde el año 1987 me desempeñe en la empresa ACORINTI SA, pero con el cargo de encargado de fabrica, donde entre otras tareas también debía prever la vida útil de las maquinarias, su comportamiento en la producción y mejorarlas de ser posible, en esta empresa me desenvolví en las tareas mencionadas durante 4 años y tuve 50 personas a cargo en distintas áreas como mecánica, electricidad, carpintería albañilería y  plomería. 
+
+En el año 1992 trabaje en METAL-MECANICA LOPEZ donde mis tareas eran específicamente mantenimiento preventivo, predictivo y correctivo, lo cual demandaba trabajos fuera del horario estipulado  debido a que los informes debían ser lo más detallados posibles en cuanto a vida útil, tiempos, paradas de producción si  fuera necesario. 
+También me desempeñe en la TORNERIA   AUTOMATICA ZALAZAR en donde no solamente realizaba las tareas de mantenimiento sino también la de operación de las MAQUINAS -HERRAMIENTA ,pero al avanzar la tecnología, estas maquinas iban quedando al margen de un sistema competitivo de mercado para lo cual le sugerí a la misma actualizar las maquinas. En este caso la empresa decidió invertir entonces se tuvo que actualizar  incorporando la tecnología de FANU Y CONTROL NUMERICO COMPUTARIZADO FAGOR utilizando programas de  SLATTE de alta producción lo que permitió a la misma estar acorde con las demandas solicitadas en tiempo y forma , en este caso tuve 76 personas a cargo durante 5 años hasta el año 1997 
+
+Luego trabaje en MECANICA ROFFA HS. Realizando mantenimiento preventivo con 4 personas a cargo ya que la empresa no tenía una alta producción y solamente trabajaba para ciertos sanatorios ya que era una empresa ortopedista  durante 2 años.
+
+Del Año 2003 al 2005 trabaje en la parte de mantenimiento industrial en MUNICIPALIDAD DE MORON (área industria), en donde pude implementar un método nuevo llamado WOLF-RA DE APLICACIÓN PARA MANTENIMIENTO PREDICTIVO, teniendo en cuenta factores que tienen que ver también con la seguridad del medio ambiente, la capacitación en servicio y la disposición de la empresa.
+Deseari aclarar que en ningún momento deje de trabajar para la DIRECCION GENERAL DE ESCUELAS, en la ENET.
+
+
+Más tarde  trabaje en la empresa MIGUEL SCHMITT  ,(Fabricación de bombas centrifugas)donde mis principales objetivos estaban dirigidos  hacia las metodologías y los tiempos de producción ,teniendo en cuenta los proyects realizados a los efectos ,los seguimientos implementando varias mejoras en relación a la implementación de normas ISO 9000,9001, Y 14000, y los procesos productivos deberían cambiar de acuerdo al plan que había presentado,  ya que al trabajar con maquinas casi obsoletas ,no se llegaba a producir lo requerido por los  clientes tanto en cantidad como en calidad y obviamente no se cumplían con los tiempos requeridos 
+
+
+TAREAS ESPECÍFICAS (AREA INDUSTRIA)
+
+         Direccion de Proyectos Industriales a Mediano y largo Plazo 
+         Dirección y supervisión de gestión operativa y administrativa, de empresas 
+-Encargado de compras, materia prima. Y Supervisor de trabajos de producción.
+-Supervisión y seguimiento de producción. Trabajos seriados.
+-Puesta en marcha de PYMES. Mantenimiento general.
+-Dirección de planes productivos con variaciones de flujo metodológico en relación a la producción y venta 
+-Control de calidad de materiales.
+-Control de sistemas de calidad Gestión de certificaciones ISO IRAM, ASME, DIN, y API. 
+-Dirección de proyectos,  planeamientos y control. (dentro de los mas conocidos, el proyecto PIQUI, saneamientos y control de ríos y arroyos de  Bs. As.)
+-Administración, y verificación de certificación de ISO 9000, ISO 9001, ISO 14000. 
+-Utilización (único en la argentina) en tres, PYMES, del método WOLF-RA para control, fiscalización y ejecución de trabajos seriados, bajo just to time en escuelas y organismos dependientes de DGE Y C 
+Coordinador de grupos de trabajo. Orientados al mantenimiento general  y abastecimiento de empresas
+Verificación y fiscalización de trabajos con finalización ejecutoria de fluxograma.
+Supervisor de maquinas- herramienta
+. Operador de maquinas herramienta, tornos paralelos, fresadoras, limadoras, rectificadoras tangenciales,
+-interpretación y evaluación de planos, matrices ejecutorios de procedimientos, 
+- Mantenimiento general de maquinas  de alta y baja complejida
+………………………………………
+FELIX NORBERTO BALLAUZ
+DNI: 12.501 919
+TE: 4639 -7363
+CEL: 1557971641
+
+
+
+
+Security_code : s6vhx
+Send : Enviar
+
+---------------
+
+Address : 201.253.120.102
+Nombre : ANTONIO LA SALA 
+Apellido : LA SALA
+Cargo : JEFE DE PLANTA
+Direccion : LAGOMARSINO  858 
+Ciudad : MERLO
+Telefono : 011 15 62414597
+Email : an_lasala@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : REF JP JEFE DE PLANTA
+Tengo el agrado de dirigirme a Ud., con el objeto  de ofrecer mis servicios con vista a una eventual posición laboral en  vuestra organización, pudiendo desempeñar mis funciones como Jefe de  Planta.
+Toda mi experiencia  se ha basado en la supervisión y jefatura de la producción y calidad de producto, más de 25 años, aplicando todas las herramientas a  la mejora de la producción. Trabaje en grandes empresa PEUGEOT CITROEN / PIRELLI NEUMATICOS / FORD MOTOR ARGENTINA  etc.
+
+ No obstante esto, si usted lo considera necesario  me remito a un examen a los fines de completar de esa manera los  conocimientos que pueda tener sobre mi persona. 
+ 
+Security_code : nkc3s
+Send : Enviar
+
+---------------
+
+Address : 201.253.120.102
+Nombre : ANTONIO LA SALA 
+Apellido : LA SALA
+Cargo : JEFE DE PLANTA
+Direccion : LAGOMARSINO  858 
+Ciudad : MERLO
+Telefono : 011 15 62414597
+Email : an_lasala@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : REF JP JEFE DE PLANTA
+Tengo el agrado de dirigirme a Ud., con el objeto  de ofrecer mis servicios con vista a una eventual posición laboral en  vuestra organización, pudiendo desempeñar mis funciones como Jefe de  Planta.
+Toda mi experiencia  se ha basado en la supervisión y jefatura de la producción y calidad de producto, más de 25 años, aplicando todas las herramientas a  la mejora de la producción. Trabaje en grandes empresa PEUGEOT CITROEN / PIRELLI NEUMATICOS / FORD MOTOR ARGENTINA  etc.
+
+ No obstante esto, si usted lo considera necesario  me remito a un examen a los fines de completar de esa manera los  conocimientos que pueda tener sobre mi persona. 
+ 
+Security_code : nkc3s
+Send : Enviar
+
+---------------
+
+Address : 190.104.210.2
+Nombre : Alejandro
+Apellido : Lacalle
+Cargo : Carga CV
+Direccion : Santa Rosa 1360
+Ciudad : Vicente López
+Telefono : 1568335319
+Email : lacalle.alejandro@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto mi CV a los efectos de ser considerado para búsquedas donde pueda aportar mi experiencia profesional.
+Atentamente,
+Alejandro Lacalle
+Security_code : y6jkk
+Send : Enviar
+
+---------------
+
+Address : 201.253.120.102
+REF : JPL
+Nombre : ANTONIO 
+Apellido : LA SALA
+Cargo : JEFE DE PLANTA
+Direccion : LAGOMARSINO  858 
+Ciudad : MERLO
+Telefono : 0220 4804637 011 1562414597
+Email : an_lasala@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Tengo el agrado de dirigirme a Ud., con el objeto  de ofrecer mis servicios con vista a una eventual posición laboral en  vuestra organización, pudiendo desempeñar mis funciones como Jefe de  Planta.
+Toda mi experiencia  se ha basado en la supervisión y jefatura de la producción y calidad de producto, más de 25 años, aplicando todas las herramientas a  la mejora de la producción. Trabaje en grandes empresa PEUGEOT CITROEN / PIRELLI NEUMATICOS / FORD MOTOR ARGENTINA  etc.
+
+ No obstante esto, si usted lo considera necesario  me remito a un examen a los fines de completar de esa manera los  conocimientos que pueda tener sobre mi persona
+Security_code : pn4dh
+Send : Enviar
+
+---------------
+
+Address : 190.113.181.208
+REF : GTEP
+Nombre : Walter
+Apellido : Kreni
+Cargo : GTEP
+Direccion : Olessio 1980
+Ciudad : Reconquitsa
+Telefono : 3482519279
+Email : wkreni82@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenas tardes a quien corresponda. Dejo mi cv a disposición. Quedo a la espera de una respuesta. Cordialmente.-
+Security_code : zfsn7
+Send : Enviar
+
+---------------
+

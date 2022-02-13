@@ -1,0 +1,108 @@
+Address : 
+REF : SUPERVISOR-DE-SEGURIDAD
+Nombre : pablo martin
+Apellido : lopez
+Cargo : SUPERVISOR DE SEGURIDAD
+Direccion : tte. gral. eustaquio frias 263
+Ciudad : bs as
+Telefono : 35351513
+Email : pablomartinlopezbh@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : gracias
+Security_code : q9sn3
+Send : Enviar
+
+---------------
+
+Address : 
+Nombre : Carlos Alberto
+Apellido : Torres
+Cargo : Higiene y Seguridad
+Direccion : Julián Alvarez 1964
+Ciudad : C.A.B.A.
+Telefono : 1562197904
+Email : carlosalbertotorres20@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Buen día!Observé en Jobomas que están solicitando Profesionales de Higiene y Seguridad
+Security_code : z7x23
+Send : Enviar
+
+---------------
+
+Address : 
+Nombre : Monica
+Apellido : Flores
+Cargo : Licendiado en Seguridad e Higiene
+Direccion : Nother 5963
+Ciudad : Adrogue
+Telefono : 1158373760
+Email : monicaelizabetflores@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : diesponibilidad horaria de lun a vier luego de las 17 hs. fines de semana libres.
+Security_code : 3w2p3
+Send : Enviar
+
+---------------
+
+Address : 
+Nombre : rocio
+Apellido : ferrua
+Cargo : atención al cliente ,administrativa 
+Direccion : quilmes 1583
+Ciudad : temperley
+Telefono : 39665523
+Email : rociodread1@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : espero respuestas 
+Security_code : sdjct
+Send : Enviar
+
+---------------
+
+Address : 
+Nombre : Daniel Federico
+Apellido : Palavecino
+Cargo : Auditor, Repositor.
+Direccion : Suñe1287
+Ciudad : Claypole
+Telefono : 42910912
+Email : palin.ng@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Cuento con experiencia como ADMINISTRATIVO, AUIDOTORÍA, desde ya muchas gracias.
+Security_code : t72px
+Send : Enviar
+
+---------------
+
+Address : 
+Nombre : Noelia Andrea
+Apellido : Lozano
+Cargo : Recepcionista, administrativa, telefonista, asistente
+Direccion : Caseros 2537 3 "a"
+Ciudad : Capital Federal
+Telefono : 49436167
+Email : noelozano@live.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Actualmente estoy haciendo el curso de Asistente en Recursos humanos. Busco cualquier tarea administrativa.
+Security_code : 8c48y
+Send : Enviar
+
+---------------
+
+Address : 
+Nombre : Ciro
+Apellido : Vazquez
+Cargo : Produccion
+Direccion : Bº Agua y Energia MEC2, 8 Plan Gutierrez Maipu
+Ciudad : Mendoza
+Telefono : 156206545
+Email : cirov._92@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Les adjunto mi curriculum vitae.
+
+Gracias.
+Security_code : jvjpd
+Send : Enviar
+
+---------------
+

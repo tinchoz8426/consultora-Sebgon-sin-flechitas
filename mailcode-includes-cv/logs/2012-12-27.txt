@@ -1,0 +1,50 @@
+Address : 200.81.247.29
+Nombre : Angel 
+Apellido : Lagos
+Cargo : Ventas/deposito/reopositor 
+Direccion : Bº Lu4 pasaje 4 Duplex 40
+Ciudad : comodoro rivadavia
+Telefono : 2974775274
+Email : elagos32@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : buen dia.
+
+ Dejo adjunto mi CV para que me tengan en cuenta en su seleccion de persaonal.
+
+saludos cordiales
+Security_code : dd6c9
+Send : Enviar
+
+---------------
+
+Address : 186.61.82.175
+Nombre : Pamela
+Apellido : Estigarribia
+Cargo : Atencion al cliente
+Direccion : calle 105 nº 505
+Ciudad : Berazategui
+Telefono : 1532728698
+Email : solci_pame@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenas tardes,
+Envio mi cv para posibles propuestas laborales, por favor tenerlo en cuenta, gracias.
+Security_code : w5p5r
+Send : Enviar
+
+---------------
+
+Address : 186.129.149.101
+Nombre : Gustavo
+Apellido : Sysak
+Cargo : telemarket
+Direccion : constituyentes
+Ciudad : ciudad madero
+Telefono : 44623044
+Email : gustavo.gabriel01@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Espero qe lean mi cv, les dejo mi coordial saludo, atte Gustavo
+Security_code : 6yzyw
+Send : Enviar
+
+---------------
+

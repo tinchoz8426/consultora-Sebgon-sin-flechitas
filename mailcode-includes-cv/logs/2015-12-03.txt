@@ -1,0 +1,36 @@
+Address : 181.171.14.60
+Nombre : Maria Cecilia 
+Apellido : Campillay
+Cargo : Recursos Humanos
+Direccion : Zapiola 1787
+Ciudad : Ciudad de Buenos Aires 
+Telefono : 1144125222
+Email : mceciliacampillay@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados,
+
+Les adjunto mi curriculum vitae en el caso de que se encuentren en una busqueda para cubrir un puesto dentro del area de Recursos Humanos. Mi remuneracion bruta pretendida es de $15.000
+
+Desde ya muchas gracias,
+
+Cecilia Campillay
+Security_code : qr88c
+Send : Enviar
+
+---------------
+
+Address : 179.37.153.75
+Nombre : José Jeremías 
+Apellido : Pérez Rabasa
+Cargo : Trabajo Social
+Direccion : Alem 2056
+Ciudad : Banfield
+Telefono : 1559587580
+Email : jperezrabasa@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Mi objetivo es el crecimiento en el ámbito profesional y desarrollo de mi carrera laboral explotando mis fortalezas y aptitudes tales como; el trabajo en equipo, las relaciones interpersonales, la organización y coordinación, la proactividad y el dinamismo; adquiriendo nuevos compromisos y mayores responsabilidades.
+Security_code : n782n
+Send : Enviar
+
+---------------
+

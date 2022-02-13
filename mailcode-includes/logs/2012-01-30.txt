@@ -1,0 +1,15 @@
+Address : 186.18.214.126
+Nombre : alejandro
+Apellido : Torti
+Empresa : Canaglia Bicicletas
+Telefono : 4644-3531
+Email : canagliaml@gmail.com
+Mensaje : Estimados,
+Necesito con urgencia un auditor que releve información de nuestras tres sucursales en capital y 
+una más en la localidad de tres arroyos. Las auditorias en capital serían una por semana por cada sucursal y en tres arroyos una por mes. Los puntos a relevar son sobre los locales, empleados y mercaderia. Necesito por favor urgente un presupuesto para este servicio. Desde ya muchas gracias.
+Alejandro Torti
+Security_code : dtkgn
+Send : Enviar
+
+---------------
+

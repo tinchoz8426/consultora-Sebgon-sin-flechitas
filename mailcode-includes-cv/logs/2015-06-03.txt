@@ -1,0 +1,30 @@
+Address : 186.62.145.12
+Nombre : MALVINA SOLEDAD
+Apellido : MINCK
+Cargo : ADMINISTRATIVA
+Direccion : AZOPARDO 5424 1ER PISO
+Ciudad : MAR DEL PLATA
+Telefono : 0223156959948
+Email : mincksoledad@hotrmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Envio CV.
+Security_code : phw4p
+Send : Enviar
+
+---------------
+
+Address : 190.194.117.73
+Nombre : Agustin
+Apellido : Rasch
+Cargo : Cajero - Vendedor - Encargado
+Direccion : mariani 4481
+Ciudad : mar del plata
+Telefono : 2235287578
+Email : agustinrasch6@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola, mi nombre es Agustín Rasch. Tengo 20 años y soy residente de la ciudad de mar del plata. Mi dirijo a ustedes con el propósito de hacerles llegar mi curriculum. Cuento con gran experiencia y predisposición para trabajar. Soy responsable, cumplidor, ordenado, con actitud y mucha voluntad. Estoy a su total disposición. Muchas gracias!
+Security_code : 5gqgg
+Send : Enviar
+
+---------------
+

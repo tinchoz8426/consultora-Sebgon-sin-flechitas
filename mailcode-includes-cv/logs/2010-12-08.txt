@@ -1,0 +1,18 @@
+Address : 201.231.212.100
+REF : gerente-de-operaciones
+Nombre : pablo
+Apellido : gloger
+Cargo : laboral
+Direccion : frias 445
+Ciudad : cap.fed
+Telefono : 48554767
+Email : pablo_ariel_gloger@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola Sres:                             
+                      Me llamo Pablo Ariel Gloger , Tengo 28 años. Soy discapacitado auditivo . Terminé completo la escuela secundaria . Tambien hice cursos de computación .     Muchas Gracias , Saludo Atte !!
+
+Security_code : pmjxb
+Send : Enviar
+
+---------------
+

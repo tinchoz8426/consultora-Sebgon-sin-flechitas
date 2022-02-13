@@ -1,0 +1,146 @@
+Address : 170.51.45.136<br>
+ <br>REF : EP-1
+ <br>Nombre : Sebastián
+ <br>Apellido : Coure
+ <br>Cargo : El que sea requerido
+ <br>Direccion : Entre ríos 1175
+ <br>Ciudad : Rosario
+ <br>Telefono : 3412153741
+ <br>Email : Canobseba@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenos días, me encuentro en la búsqueda de un trabajo serio el cual me de la posibilidad de tener una estabilidad económica y en el cual pueda dar y desarrollar toda mi capacidad. Y para ingreso de forma inmediata. Desde ya muchas gracias 
+ <br>Security_code : T9v3x
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.138.44.94<br>
+ <br>Nombre : franco gabriel
+ <br>Apellido : flores usair
+ <br>Cargo : operario
+ <br>Direccion : pedro ferre 5528 b san lorenzo sur
+ <br>Ciudad : cordoba
+ <br>Telefono : 3513136657
+ <br>Email : franco_gabrieluf@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : hola buen dia necesito trabajo urgente por favor cualquier trabajo tengame en cuenta 
+ <br>Security_code : jrvk9
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 200.115.250.16<br>
+ <br>REF : ROT-1
+ <br>Nombre : JOEL
+ <br>Apellido : SANCHEZ
+ <br>Cargo : COORDINADOR 
+ <br>Direccion : RODRIGUEZ PEÑA 450
+ <br>Ciudad : BUENOS AIRES
+ <br>Telefono : +5491133037995
+ <br>Email : jdss81@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : EXPERIENCIA EN DISEÑO CAD DESDE EL AÑO 2002
+ <br>Security_code : tgngp
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.20.130.170<br>
+ <br>REF : EP-1
+ <br>Nombre : EMILIO
+ <br>Apellido : ROBLES
+ <br>Cargo : ENCARGADO DE PRODUCCION
+ <br>Direccion : AZCUENAGA, 826
+ <br>Ciudad : LAS HERAS
+ <br>Telefono : 92613670453
+ <br>Email : ger-robles@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : gracias
+ <br>Security_code : 3f39z
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.226.19.143<br>
+ <br>REF : EP-1
+ <br>Nombre : Lucia
+ <br>Apellido : de la Reta
+ <br>Cargo : Encargado de producción
+ <br>Direccion : Calle Los Pasos nº2
+ <br>Ciudad : Virasoro, Corrientes
+ <br>Telefono : 3756514513
+ <br>Email : luc3011@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me interesaría el puesto de encargado de producción ya que tengo experiencia en los trabajos y actividades a desarrollar, en mi último trabajo realicé actividades similares. Presento aptitudes de adaptación y flexibilidad a los ambientes y tareas a relizar.
+ <br>Security_code : 5vqxp
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.44.167.43<br>
+ <br>REF : JPER-1
+ <br>Nombre : Ricardo Arturo
+ <br>Apellido : Ortiz
+ <br>Cargo : JPER1
+ <br>Direccion : 15 de Noviembre de 1889  Nº 1545 (1130)
+ <br>Ciudad : CABA
+ <br>Telefono : 1556927853
+ <br>Email : ricardoarturoortiz@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : A quien corresponda.
+De mi consideracion
+
+Lic. Ortiz Ricardo A
+ <br>Security_code : vktc4
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 152.171.1.93<br>
+ <br>REF : JPER-1
+ <br>Nombre : CRISTIAN
+ <br>Apellido : DECHIARA
+ <br>Cargo : JPER-1
+ <br>Direccion : AV.RIVADAVIA 13450
+ <br>Ciudad : RAMOS MEJIA
+ <br>Telefono : 011 15 2318 9418
+ <br>Email : cristianhernandechiara@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me postulo para la búsqueda JPER-1
+ <br>Security_code : 4wjxn
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.83.10<br>
+ <br>REF : EP-1
+ <br>Nombre : Cristian
+ <br>Apellido : Gimenez
+ <br>Cargo : Jefe de produccion
+ <br>Direccion : Pueyrredon 3803
+ <br>Ciudad : José c paz
+ <br>Telefono : 1570441607
+ <br>Email : ccriss1972@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Envío CV para puesto 
+ <br>Security_code : dksfv
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.47.137.216<br>
+ <br>REF : EP-1
+ <br>Nombre : Carlos Roberto
+ <br>Apellido : Scutari
+ <br>Cargo : Encargado de producción
+ <br>Direccion : Cosquin 4465
+ <br>Ciudad : Villa Lugano
+ <br>Telefono : 1125208820
+ <br>Email : carloscutari@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Envío mi cv para ser evaluado por ustedes en el puesto de encargado de producción 
+ <br>Security_code : p6m66
+ <br>Send : Enviar
+ <br>
+---------------
+

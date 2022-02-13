@@ -1,0 +1,344 @@
+Address : 88.10.237.169
+Nombre : Javier
+Apellido : Herrero Gómez
+Cargo : Encargado, Gerente
+Direccion : Carretera Orihuela a Bigastro 7B
+Ciudad : Orihuela
+Telefono : 616535439
+Email : jhg1969@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje :        Javier Herrero Gómez
+					        Ctra. Orihuela a Bigastro 7B
+					        03300  Orihuela (Alicante)
+        jhg1969@hotmail.com/tel:616535439
+
+
+A la atención Responsable Dpto. RRHH.
+Estimados/as Sres/as:
+En los últimos 4 años he gestionado y dirigido mi propio negocio de Té y Café.
+Además tengo amplia experiencia en liderar equipos humanos en grandes empresas como Grupo Vips y McDonald's. 
+Así mismo estoy interesado en ampliar mis conocimientos en otras empresas dada mi capacidad de adaptación y aprendizaje a nuevos retos y situaciones nuevas.
+Quedando a su disposición para una futura entrevista les adjunto mi CV.
+
+Atentamente
+Javier Herrero
+
+Security_code : 74gdh
+Send : Enviar
+
+---------------
+
+Address : 181.110.153.208
+REF : JEOTEC
+Nombre : ALBERTO
+Apellido : SAFTICH
+Cargo : Jefe de oficina técnica
+Direccion : INT CARRERE 57
+Ciudad : HAEDO
+Telefono : 1565321227
+Email : alberto.saftich@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Sres Me interesa realizar una entrevista para este puesto .
+saludos Alberto 52 años
+Security_code : sq2zr
+Send : Enviar
+
+---------------
+
+Address : 190.244.96.145
+Nombre : Gina Piedad
+Apellido : Escobar Martinez
+Cargo : Administrativo 
+Direccion : L.N.Alem 2460 Casa 33
+Ciudad : Castelar
+Telefono : 1136135930
+Email : gigyescobarmonti@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenos días.
+
+A través del presente me pongo en contacto con ustedes para hacerles llegar adjunto mi curriculum  para su valoración en vacantes a las cuales se adapte mi perfil.
+
+Mi nombre es Gina Escobar Martínez,  con tecnicatura en Comercio Inernacional y Legislación Aduanera. Más de siete años de experiencia en tareas administrativas y atención al cliente.
+
+Sería un placer poder ampliar la información sobre mi formación profesional y mis competencias.
+
+Cordial saludo.
+Security_code : gmrwx
+Send : Enviar
+
+---------------
+
+Address : 190.189.213.138
+REF : TES
+Nombre : Horacio Enrique
+Apellido : Perez
+Cargo : Tesorero
+Direccion : J.j castelli 1295
+Ciudad : lomas de zamora
+Telefono : 1540561303
+Email : perez.enriqueh@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados me motivan los desafíos implementados por Cias para ser lideres en un mercado cada vez mas competitivo y exigente. Proactivo.
+Security_code : jphpt
+Send : Enviar
+
+---------------
+
+Address : 200.89.155.227
+Nombre : Marcela
+Apellido : Giménez
+Cargo : Administración
+Direccion : Horacio julian 435
+Ciudad : Moron
+Telefono : 1556465961
+Email : margim2009@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Les agradecería me tuvieran en cuenta para una entrevista.
+Security_code : 4fjw6
+Send : Enviar
+
+---------------
+
+Address : 186.64.92.18
+Nombre : Mara
+Apellido : Rosso
+Cargo : Atención al cliente
+Direccion : Misiones 572
+Ciudad : Rio Cuarto
+Telefono : 3468647662
+Email : mara_rosso@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Envío mi CV porque me encuentro en búsqueda de empleo, por esos solicito sus servicios. Muchas gracias
+Security_code : 5qkcg
+Send : Enviar
+
+---------------
+
+Address : 186.19.67.57
+Nombre : hugo roberto
+Apellido : gorosito
+Cargo : soldador calificado
+Direccion : llavallol
+Ciudad : buenos aires 
+Telefono : 1535477087/20569240
+Email : hugo.g_tatoo@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Curriculum Vitae
+
+Información Personal:
+Nombre y Apellido:Hugo Roberto Gorosito.
+Fecha de Nacimiento:23/12/1982.
+Edad:32 Años.
+D.N.I:29.959.123.                                   
+Estado Civil:Soltero.
+Nacionalidad:Argentino.
+Hijos:3.
+Direccion:Necochea 1461.
+Localidad:Llavallol-Lomas de Zamora.
+Codigo Postal:1836.
+Telefono:20569240./1535477087
+Educación:
+Primario:Completo.
+Secundario: Incompleto.
+Experiencia Laboral:
+Exhibidores Rappeti tareas  desempeñadas:Plegado,corte de chapa y manejo de balancín ,armado sobre planos tridimensional o común ,soldaduras con alambre masiso ,tubular y electrodos.
+Ticsas y Grupo CNG:Trabajo con contratista Ingeniero.
+Manquehuer SRL Tarea desempeñadas:Plegado ,corte de chapa y manejo de balancín,armado sobre planos tridimensionales o común,soldaduras con alambre masiso,tubular y electrodos.
+Industrias Baco S.A.I.C. Tareas desempeñadas:Armado de carrocería y soldadura con alambre masiso y tubular.
+	ultimo trabajo tycsa categoria oficial calificado tareas desempeñadas:soldadura con pinza,tig,semiautomatica ,soldadura con stt.
+CON MUY RAPIDO APRENDISAGE Y DESEMPEÑO
+
+Security_code : znr95
+Send : Enviar
+
+---------------
+
+Address : 186.19.67.57
+Nombre : hugo roberto
+Apellido : gorosito
+Cargo : soldador calificado
+Direccion : llavallol
+Ciudad : buenos aires 
+Telefono : 1535477087/20569240
+Email : hugo.g_tatoo@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Curriculum Vitae
+
+Información Personal:
+Nombre y Apellido:Hugo Roberto Gorosito.
+Fecha de Nacimiento:23/12/1982.
+Edad:32 Años.
+D.N.I:29.959.123.                                   
+Estado Civil:Soltero.
+Nacionalidad:Argentino.
+Hijos:3.
+Direccion:Necochea 1461.
+Localidad:Llavallol-Lomas de Zamora.
+Codigo Postal:1836.
+Telefono:20569240./1535477087
+Educación:
+Primario:Completo.
+Secundario: Incompleto.
+Experiencia Laboral:
+Exhibidores Rappeti tareas  desempeñadas:Plegado,corte de chapa y manejo de balancín ,armado sobre planos tridimensional o común ,soldaduras con alambre masiso ,tubular y electrodos.
+Ticsas y Grupo CNG:Trabajo con contratista Ingeniero.
+Manquehuer SRL Tarea desempeñadas:Plegado ,corte de chapa y manejo de balancín,armado sobre planos tridimensionales o común,soldaduras con alambre masiso,tubular y electrodos.
+Industrias Baco S.A.I.C. Tareas desempeñadas:Armado de carrocería y soldadura con alambre masiso y tubular.
+	ultimo trabajo tycsa categoria oficial calificado tareas desempeñadas:soldadura con pinza,tig,semiautomatica ,soldadura con stt.
+CON MUY RAPIDO APRENDISAGE Y DESEMPEÑO
+
+Security_code : znr95
+Send : Enviar
+
+---------------
+
+Address : 188.143.232.15
+Nombre : Mark
+Apellido : 713973
+Cargo : ykfIEQFtj
+Direccion : EFrRsDPiJSjblrtBFHj
+Ciudad : NY
+Telefono : 58686059130
+Email : mark357177@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : oGSYSf http://www.FyLitCl7Pf7kjQdDUOLQOuaxTXbj5iNG.com
+Security_code : tXeIT
+Send : Enviar
+
+---------------
+
+Address : 191.84.70.4
+REF : TES
+Nombre : alejandro
+Apellido : mazza
+Cargo : teseroro
+Direccion : tapalque 162
+Ciudad : haedo
+Telefono : 1555762981
+Email : alemazza01@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : tesorero
+Security_code : 3qx34
+Send : Enviar
+
+---------------
+
+Address : 181.14.239.2
+Nombre : CARINA VIBIANA
+Apellido : ALMARAZ
+Cargo : ADMINISTRACION
+Direccion : Complejo las americas Dto 21 Mz 35 T 3
+Ciudad : Formosa
+Telefono : 370154215372
+Email : vibialmaraz@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : DISPONIBILIDAD FULL TIME E INMEDIATA
+CUENTO CON REFERENCIAS POR ESCRITO.
+GANAS DE TRABAJAR
+Security_code : W8bWq
+Send : Enviar
+
+---------------
+
+Address : 181.14.239.2
+Nombre : CARINA VIBIANA
+Apellido : ALMARAZ
+Cargo : ADMINISTRACION
+Direccion : Complejo las americas Dto 21 Mz 35 T 3
+Ciudad : Formosa
+Telefono : 370154215372
+Email : vibialmaraz@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : DISPONIBILIDAD FULL TIME E INMEDIATA
+CUENTO CON REFERENCIAS POR ESCRITO.
+GANAS DE TRABAJAR
+Security_code : fjjd9
+Send : Enviar
+
+---------------
+
+Address : 181.14.239.2
+Nombre : CARINA VIBIANA
+Apellido : ALMARAZ
+Cargo : ADMINISTRACION
+Direccion : Complejo las americas Dto 21 Mz 35 T 3
+Ciudad : Formosa
+Telefono : 370154215372
+Email : vibialmaraz@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : DISPONIBILIDAD FULL TIME E INMEDIATA
+CUENTO CON REFERENCIAS POR ESCRITO.
+GANAS DE TRABAJAR
+Security_code : fjjd9
+Send : Enviar
+
+---------------
+
+Address : 181.14.239.2
+Nombre : CARINA VIBIANA
+Apellido : ALMARAZ
+Cargo : ADMINISTRACION
+Direccion : Complejo las americas Dto 21 Mz 35 T 3
+Ciudad : Formosa
+Telefono : 370154215372
+Email : vibialmaraz@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : DISPONIBILIDAD FULL TIME E INMEDIATA
+CUENTO CON REFERENCIAS POR ESCRITO.
+GANAS DE TRABAJAR
+Security_code : w8bwq
+Send : Enviar
+
+---------------
+
+Address : 181.14.239.2
+Nombre : CARINA VIBIANA
+Apellido : ALMARAZ
+Cargo : ADMINISTRACION
+Direccion : Complejo las americas Dto 21 Mz 35 T 3
+Ciudad : Formosa
+Telefono : 370154215372
+Email : vibialmaraz@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : DISPONIBILIDAD FULL TIME E INMEDIATA
+CUENTO CON REFERENCIAS POR ESCRITO.
+GANAS DE TRABAJAR
+Security_code : w8bwq
+Send : Enviar
+
+---------------
+
+Address : 181.14.239.2
+Nombre : CARINA VIBIANA
+Apellido : ALMARAZ
+Cargo : ADMINISTRACION
+Direccion : Complejo las americas Dto 21 Mz 35 T 3
+Ciudad : Formosa
+Telefono : 370154215372
+Email : vibialmaraz@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : DISPONIBILIDAD FULL TIME E INMEDIATA
+CUENTO CON REFERENCIAS POR ESCRITO.
+GANAS DE TRABAJAR
+Security_code : r8fzs
+Send : Enviar
+
+---------------
+
+Address : 181.14.239.2
+Nombre : CARINA VIBIANA
+Apellido : ALMARAZ
+Cargo : ADMINISTRACION
+Direccion : Complejo las americas Dto 21 Mz 35 T 3
+Ciudad : Formosa
+Telefono : 370154215372
+Email : vibialmaraz@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : DISPONIBILIDAD FULL TIME E INMEDIATA
+CUENTO CON REFERENCIAS POR ESCRITO.
+GANAS DE TRABAJAR
+Security_code : W8bWq
+Send : Enviar
+
+---------------
+

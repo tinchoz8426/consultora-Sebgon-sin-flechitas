@@ -1,0 +1,91 @@
+Address : 200.7.179.248
+Nombre : María Inés
+Apellido : Alberto
+Cargo : Auxiliar administrativo - Ing. en tecnología de alimento
+Direccion : belgrano 532
+Ciudad : Justiniano Posse - Córdoba
+Telefono : 03537-15553639
+Email : ines17_5@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : De mi mayor consideración: 
+
+Tengo el agrado de dirigirme a Uds. con el fin de hacerle llegar adjunto mi CV. 
+
+Me presento como una persona responsable,  flexible, activa, orientada al logro de resultados y a la resolución y evolución constante en las tareas asignadas. Con deseo de aprendizaje y capacitación constante en lo que resulte necesario.
+Si bien mi profesión es de Ingeniera en tecnología de Alimentos, cuento con cuatro años de experiencia en área administrativa.
+
+Si fuera necesario podría acercarme personalmente para cualquier consulta adicional o entrevista personal. Solo tiene que comunicarse al teléfono: (03537) 15553639 o por mail ines17_5@hotmail.com 
+
+Pongo, además, en su conocimiento que estoy en condiciones de asumir la responsabilidad de este empleo en forma inmediata.
+
+Quedando a la espera de su respuesta. 
+
+Me despido atte. 
+María Inés Alberto
+
+Security_code : xfysz
+Send : Enviar
+
+---------------
+
+Address : 200.4.59.195
+REF : jefe-de-operaciones
+Nombre : Isabel Dora
+Apellido : Manso
+Cargo : Recursos Humanos
+Direccion : Lad. Martinez 147, 3B
+Ciudad : Martinez
+Telefono : 011 47928919
+Email : liggia_manso@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Pongo a su disposición mi CV adjunto. Cordiales saludos,
+Isabel Manso.-
+Security_code : pkkcs
+Send : Enviar
+
+---------------
+
+Address : 190.230.134.63
+Nombre : María José
+Apellido : Verdera
+Cargo : Abogada
+Direccion : Juan de Garay 2551, 5 C
+Ciudad : Olivos, Buenos Aires
+Telefono : 15 40226190
+Email : majo.verdera@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimado/a.
+ 
+Mi nombre es María José Verdera, tengo 33 años y soy abogada egresada de la UCA.
+ 
+Soy una profesional muy responsable, proactiva y dedicada, cuyo principal objetivo es mi crecimiento profesional. 
+Tengo experiencia como asesora interna de empresa, con un enfoque principalmente en el tema contractual. 
+ 
+Actualmente me encuentro en la búsqueda de un nuevo desafío laboral. 
+A tal fin, adjunto al presente mi CV a fin de ser tenida en cuenta en presentes o futuras búsquedas laborales que sean acordes a mi perfil.
+ 
+Muchas gracias. 
+ 
+Saludos cordiales,
+
+María José Verdera
+Security_code : ddd23
+Send : Enviar
+
+---------------
+
+Address : 186.19.192.189
+Nombre : Agustina
+Apellido : Pellanda
+Cargo : Selección de personal
+Direccion : Calle 2 n 1040
+Ciudad : La Plata
+Telefono : 1550373633
+Email : agustinapellanda@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Quisiera formar parte del staff de profesionales de la empresa. 
+Security_code : wdr94
+Send : Enviar
+
+---------------
+

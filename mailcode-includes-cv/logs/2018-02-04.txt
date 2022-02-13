@@ -1,0 +1,65 @@
+Address : 181.239.51.11<br>
+ <br>Nombre : Vanesa
+ <br>Apellido : Sforzín
+ <br>Cargo : Calidad/Producción/Desarrollo
+ <br>Direccion : Amato 1540
+ <br>Ciudad : El Palomar
+ <br>Telefono : 15-7017-7017
+ <br>Email : sforzinvanesa@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : De mi mayor consideración,
+
+Por medio de la presente adjunto mi currículum vitae a fin de formar parte de vuestra base de datos y ser tenida en cuenta en futuras vacantes acordes a mi perfil.
+Actualmente me encuentro interesada en puestos Senior o Semi-Senior en GBA Norte, Oeste o CABA, para sectores de Calidad, Aseguramiento o Producción en empresas alimenticias, de retail o de consumo masivo.
+Quedando a vuestra disposición saludo muy cordialmente,
+
+Vanesa Sforzín.
+ <br>Security_code : 5gjm4
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.171.187.68<br>
+ <br>Nombre : Dario A. 
+ <br>Apellido : Piccilli
+ <br>Cargo : Gerente de Planta
+ <br>Direccion : Vidt 200
+ <br>Ciudad : CABA
+ <br>Telefono : 011 1540461207
+ <br>Email : rubiodario1@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Sres.
+
+Por la presente les envío mi CV para formar parte de vuestra Base de Datos para participar de vuestras Busquedas laborales.
+
+Los saluda muy atte.
+
+Ing. Darío A. Piccilli
+15-4046-1207
+ <br>Security_code : fzshk
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.171.187.68<br>
+ <br>Nombre : Dario A. 
+ <br>Apellido : Piccilli
+ <br>Cargo : Gerente de Planta
+ <br>Direccion : Vidt 200
+ <br>Ciudad : CABA
+ <br>Telefono : 011 1540461207
+ <br>Email : rubiodario1@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Sres.
+
+Por la presente les envío mi CV para formar parte de vuestra Base de Datos para participar de vuestras Busquedas laborales.
+
+Los saluda muy atte.
+
+Ing. Darío A. Piccilli
+15-4046-1207
+ <br>Security_code : fzshk
+ <br>Send : Enviar
+ <br>
+---------------
+

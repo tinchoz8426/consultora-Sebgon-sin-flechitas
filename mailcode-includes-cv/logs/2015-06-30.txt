@@ -1,0 +1,142 @@
+Address : 190.177.105.67
+Nombre : marina
+Apellido : roman
+Cargo : maestranza,recepcionista,etc
+Direccion : scalabrini ortiz 1828
+Ciudad : trelew
+Telefono : 0280-154777283
+Email : marinita08@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : .
+Security_code : 9s7s8
+Send : Enviar
+
+---------------
+
+Address : 190.220.103.22
+Nombre : Micaela
+Apellido : Pare
+Cargo : Técnico en seguridad e higiene
+Direccion : bariloche 6259
+Ciudad : Gonzalez catan
+Telefono : 011-68953586
+Email : micaela_pare@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me encuentro en el ultimo año de la carrera; a fin de año tendré mi titulo de técnico en seguridad e 
+
+higiene y estoy muy interesada en empezar a trabajar en la rama de mi formación.
+Adjunto mi curriculum, espero que me tengan en cuenta, tengo muchas ganas de trabajar.
+Gracias
+Security_code : jmyg9
+Send : Enviar
+
+---------------
+
+Address : 190.220.103.22
+Nombre : Micaela
+Apellido : Pare
+Cargo : Técnico en seguridad e higiene
+Direccion : bariloche 6259
+Ciudad : Gonzalez catan
+Telefono : 011-68953586
+Email : micaela_pare@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me encuentro en el ultimo año de la carrera; a fin de año tendré mi titulo de técnico en seguridad e 
+
+higiene y estoy muy interesada en empezar a trabajar en la rama de mi formación.
+Adjunto mi curriculum, espero que me tengan en cuenta, tengo muchas ganas de trabajar.
+Gracias
+Security_code : jmyg9
+Send : Enviar
+
+---------------
+
+Address : 190.220.103.22
+Nombre : Micaela
+Apellido : Pare
+Cargo : Técnico en seguridad e higiene
+Direccion : bariloche 6259
+Ciudad : Gonzalez catan
+Telefono : 011-68953586
+Email : micaela_pare@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me encuentro en el ultimo año de la carrera; a fin de año tendré mi titulo de técnico en seguridad e 
+
+higiene y estoy muy interesada en empezar a trabajar en la rama de mi formación.
+Adjunto mi curriculum, espero que me tengan en cuenta, tengo muchas ganas de trabajar.
+Gracias
+Security_code : 4gr84
+Send : Enviar
+
+---------------
+
+Address : 190.220.103.22
+Nombre : Micaela
+Apellido : Pare
+Cargo : Técnico en seguridad e higiene
+Direccion : bariloche 6259
+Ciudad : Gonzalez catan
+Telefono : 011-68953586
+Email : micaela_pare@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me encuentro en el ultimo año de la carrera; a fin de año tendré mi titulo de técnico en seguridad e 
+
+higiene y estoy muy interesada en empezar a trabajar en la rama de mi formación.
+Adjunto mi curriculum, espero que me tengan en cuenta, tengo muchas ganas de trabajar.
+Gracias
+Security_code : 4gr84
+Send : Enviar
+
+---------------
+
+Address : 190.220.103.22
+Nombre : Micaela
+Apellido : Pare
+Cargo : Técnico en seguridad e higiene
+Direccion : bariloche 6259
+Ciudad : Gonzalez catan
+Telefono : 011-68953586
+Email : micaela_pare@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me encuentro en el ultimo año de la carrera; a fin de año tendré mi titulo de técnico en seguridad e higiene y estoy muy interesada en empezar a trabajar en la rama de mi formación.
+Adjunto mi curriculum, espero que me tengan en cuenta, tengo muchas ganas de trabajar.
+Gracias
+Security_code : wft7qd
+Send : Enviar
+
+---------------
+
+Address : 190.220.103.22
+Nombre : Micaela
+Apellido : Pare
+Cargo : Técnico en seguridad e higiene
+Direccion : bariloche 6259
+Ciudad : Gonzalez catan
+Telefono : 011-68953586
+Email : micaela_pare@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me encuentro en el ultimo año de la carrera; a fin de año tendré mi titulo de técnico en seguridad e higiene y estoy muy interesada en empezar a trabajar en la rama de mi formación.
+Adjunto mi curriculum, espero que me tengan en cuenta, tengo muchas ganas de trabajar.
+Gracias
+Security_code : 65y3x
+Send : Enviar
+
+---------------
+
+Address : 190.195.123.146
+Nombre : María de la Paz
+Apellido : Castañeda Lynch
+Cargo : Selección y evaluación de personal
+Direccion : Sánchez de Bustamante 2500
+Ciudad : Ciudad Autonoma de Buenos Aires
+Telefono : 48061407
+Email : mpclynch@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me encuentro interesada en forma parte del equipo de la empresa en el área de selección y evaluación de personal.
+Envío mi cv para su análisis. 
+Muchas gracias. 
+Security_code : g2whw
+Send : Enviar
+
+---------------
+

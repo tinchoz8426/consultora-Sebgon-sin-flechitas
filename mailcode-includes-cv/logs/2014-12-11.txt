@@ -1,0 +1,54 @@
+Address : 181.164.161.83
+Nombre : Ana Pia
+Apellido : Perotti
+Cargo : Psicóloga Laboral
+Direccion : Nicolas de Avellaneda 1479
+Ciudad : Córdoba
+Telefono : 0358154166244
+Email : apperotti_67@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : A quien corresponda:
+
+Me dirijo a usted con el fin de enviarle mi Currículo Vitae y de este modo ofertar mis servicios.
+
+Como puede usted comprobar en el mismo, tengo una amplia capacitación en gestión de los RRHH como así también en mediación y negociación. Considero que estas últimas son dos herramientas muy valiosas para los profesionales que nos desempeñamos en esta área ya que permite resolver o prevenir conflicto de una forma no adversarial, permitiendo ganar grandes ventajas a aquellas organizaciones que disponga de las mismas. También podrá observar mi experiencia de más de una año, y contando, en una consultora de RRHH.
+
+Esperando que estudie mi candidatura y en espera de prontas noticias, le saluda atentamente.
+
+Lic. Ana Pía Perotti
+
+Security_code : mmhrs
+Send : Enviar
+
+---------------
+
+Address : 186.134.200.172
+Nombre : Vanesa
+Apellido : Galimberti
+Cargo : atencion al cliente
+Direccion : catamarca 4144
+Ciudad : lanus oeste
+Telefono : 1535031085
+Email : vanesagalimberti@live.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Los trabajos pueden ser de atencion al cliente, moza/camarera, limpieza. Gracias
+Security_code : w2mzm
+Send : Enviar
+
+---------------
+
+Address : 186.134.200.172
+Nombre : Vanesa
+Apellido : Galimberti
+Cargo : atencion al cliente
+Direccion : catamarca 4144
+Ciudad : lanus oeste
+Telefono : 1535031085
+Email : vanesagalimberti@live.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Los trabajos pueden ser de atencion al cliente, moza/camarera, limpieza. Gracias
+Security_code : 8psxj
+Send : Enviar
+
+---------------
+

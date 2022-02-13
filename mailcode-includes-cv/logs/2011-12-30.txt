@@ -1,0 +1,84 @@
+Address : 186.58.50.215
+REF : maquina-inyectora
+Nombre : marco emiliano
+Apellido : scenati
+Cargo : OPERARIO CALIFICADO MÀQUINA INYECTORA
+Direccion : Einstein 777
+Ciudad : Hurlingham
+Telefono : 011-66827986 
+Email : laloty328@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Muy buenos dias..
+el motivo de la presente es presentarme y solicitarle una oportunidad de trabajo. Por este medio le envió mi curriculum vitae para que sea tomado en cuenta en sus vacantes disponibles. Me considero una persona muy emprendedora, responsable y con muchas ganas de trabajar.
+Estare en espera de tener la oportunidad de entrevistarme para ampliar la información, reciba a quien corresponda, un grato saludo. 
+
+Emiliano
+Security_code : 8yyfp
+Send : Enviar
+
+---------------
+
+Address : 186.58.50.215
+REF : maquina-inyectora
+Nombre : marco emiliano
+Apellido : scenati
+Cargo : OPERARIO CALIFICADO MÀQUINA INYECTORA
+Direccion : Einstein 777
+Ciudad : Hurlingham
+Telefono : 011-66827986 
+Email : laloty328@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Muy buenos dias..
+el motivo de la presente es presentarme y solicitar una oportunidad de trabajo. Por este medio envio mi curriculum vitae para que sea tomado en cuenta en las vacantes disponibles. Me considero una persona muy emprendedora, responsable y con muchas ganas de trabajar.
+Estare en espera de tener la oportunidad de entrevistarme para ampliar la información necesaria, reciba a quien corresponda, un grato saludo. 
+
+Security_code : 8yyfp
+Send : Enviar
+
+---------------
+
+Address : 91.13.56.112
+Nombre : Alexander
+Apellido : Freier
+Cargo : Consultor en Seguridad
+Direccion : Obispo Trejo 351 4 E
+Ciudad : Córdoba 
+Telefono : 351 6885472
+Email : afreier@uni-leipzig.de
+MAX_FILE_SIZE : 2097152
+Mensaje : A quien corresponda, por este medio adjunto mi CV a fin de solicitarles lo tengan en cuenta para los puestos de consultoría en seguridad en su empresa. Quedo a su disposición para cualquier pregunta y seria un placer mantener una entrevista personal en el momento que lo dispongan.  Saludo atentamente, Alexander Freier 
+Security_code : td3qp
+Send : Enviar
+
+---------------
+
+Address : 91.13.56.112
+Nombre : Alexander
+Apellido : Freier
+Cargo : consultor de seguridad
+Direccion : Obispo Trejo 351 4E
+Ciudad : Córdoba
+Telefono : 0351 6885472
+Email : afreier@uni-leipzig.de
+MAX_FILE_SIZE : 2097152
+Mensaje : A quien corresponda, por este medio adjunto mi CV a fin de solicitarles lo tengan en cuenta para los puestos de consultoría en seguridad en su empresa. Quedo a su disposición para cualquier pregunta y seria un placer mantener una entrevista personal en el momento que lo dispongan.  Saludo atentamente, Alexander Freier 
+Security_code : d6r4r
+Send : Enviar
+
+---------------
+
+Address : 190.173.42.170
+Nombre : Magdalena Denise
+Apellido : Montes
+Cargo : Junior
+Direccion : Montero 1373
+Ciudad : Banfield
+Telefono : 01161890834
+Email : denisemontes@live.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto mi Curriculum para que sea examinado y así ver si mi perfil es el adecuado para su búsqueda. Saludos Cordiales.
+Security_code : yhr6j
+Send : Enviar
+
+---------------
+

@@ -1,0 +1,46 @@
+Address : 201.212.107.226
+Nombre : Damian Abel
+Apellido : Bausola
+Cargo : Empleado
+Direccion : Servando Bayo 1379
+Ciudad : Rosario
+Telefono : 3416216176
+Email : damibausola@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Tengo amplia experiencia en atencion al cliente, reposicion de mercaderia, atencion de proveedores, caja, control de stock y deposito.
+Security_code : vtgnk
+Send : Enviar
+
+---------------
+
+Address : 190.7.231.83
+REF : administrativa-compras
+Nombre : Maria Jose
+Apellido : Palacios
+Cargo : Administrativa de compras
+Direccion : Marcelo Fitte 4786
+Ciudad : Ing.Adolfo Sordeaux
+Telefono : 1544059318
+Email : majo.palac@live.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenas tardes, me postulo para este empleo, remuneracion $ 3800.
+Security_code : 7zysc
+Send : Enviar
+
+---------------
+
+Address : 186.59.58.77
+Nombre : CRISTIAN EMANUEL
+Apellido : VARGAS
+Cargo : cualquiera
+Direccion : olascoaga 507
+Ciudad : mendoza
+Telefono : 0261-4454215
+Email : aragon_32910@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : quisiera saber si hay posivilidades de tener trabajo soy un chico emprendedor sin problemas de trabajar en lo que sea solo quiero  trabajar se lo agradeceria mucho 
+Security_code : hqqdr
+Send : Enviar
+
+---------------
+

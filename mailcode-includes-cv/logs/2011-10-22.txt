@@ -1,0 +1,15 @@
+Address : 200.125.74.29
+Nombre : Marcelo Osvaldo
+Apellido : Mariotto
+Cargo : Gerente de Compras/ Ventas/ Proyectos
+Direccion : Tinogasta 4275 PB 5
+Ciudad : Capital Federal
+Telefono : 011 3534 7416
+Email : marcemariotto@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Ingeniero con dominio de idioma francés y nivel intermedio de inglés con experiencia gerencial en empresas multinacionales con experiencia en compras, ventas y proyectos.
+Security_code : vxjyt
+Send : Enviar
+
+---------------
+

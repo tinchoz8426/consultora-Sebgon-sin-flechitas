@@ -1,0 +1,87 @@
+Address : 66.249.85.7<br>
+ <br>REF : SP-1
+ <br>Nombre : Sebastian
+ <br>Apellido : Furrer
+ <br>Cargo : Supervisor de producción 
+ <br>Direccion : Chacabuco 266
+ <br>Ciudad : Pdcia. Roque Sáenz Peña
+ <br>Telefono : 3735531619
+ <br>Email : sebas_fu@live.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados, les adjunto mi perfil y CV. Quedo a disposición para una entrevista posterior. Saludos.
+ <br>Security_code : jqqgm
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 191.103.9.78<br>
+ <br>Nombre : Rita Gabriela
+ <br>Apellido : Rivero
+ <br>Cargo : Personal para entrevistas domiciliarias
+ <br>Direccion : Cleofe Arias esq Marcelo T de Alvear
+ <br>Ciudad : La Rioja
+ <br>Telefono : 3804580319
+ <br>Email : gabrielavenecia@yahoo.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola, me encuentro buscando trabajo, mi zona de residencia es La Rioja Capital y soy Licenciada en Trabajo Social, matriculada.
+ <br>Security_code : db7f4
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 170.51.44.18<br>
+ <br>REF : JPER-1
+ <br>Nombre : Daniel Alberto
+ <br>Apellido : Uncal
+ <br>Cargo : Jefee de Personal
+ <br>Direccion : Diego de Carbajal 771
+ <br>Ciudad : Hurlingham
+ <br>Telefono : 11 46654715
+ <br>Email : dauncal@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados, buenas tardes.
+les adjunto mi CV y quedo a disposición para ampliar en una entrevista personal.
+Muchas gracias.
+Saludos.
+ <br>Security_code : r5gwy
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 170.51.44.18<br>
+ <br>REF : JPER-1
+ <br>Nombre : Daniel Alberto
+ <br>Apellido : Uncal
+ <br>Cargo : Jefee de Personal
+ <br>Direccion : Diego de Carbajal 771
+ <br>Ciudad : Hurlingham
+ <br>Telefono : 11 46654715
+ <br>Email : dauncal@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Adjunto CV
+ <br>Security_code : zfqxp
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.18.149.95<br>
+ <br>REF : SP-1
+ <br>Nombre : Oscar Aurelio
+ <br>Apellido : Pace
+ <br>Cargo : Supervisor
+ <br>Direccion : Rio de Janeiro 2634
+ <br>Ciudad : Lanus
+ <br>Telefono : 1169398955
+ <br>Email : oscarpace06@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Tengo el agrado de dirigirme a uds. a fin de postularme al puesto de Supervisor se Producción.
+Quedo a disposicion para evacuar la consultas que consideren oportunas.
+
+Cordialmente
+Oscar Aurelio Pace
+
+ <br>Security_code : bpvsx
+ <br>Send : Enviar
+ <br>
+---------------
+

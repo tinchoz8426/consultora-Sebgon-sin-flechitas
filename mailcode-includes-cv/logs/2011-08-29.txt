@@ -1,0 +1,36 @@
+Address : 201.255.219.51
+Nombre : yamila myriam 
+Apellido : sanmiguel
+Cargo : Lic. en Comunicación Social
+Direccion : Viamonte 1784
+Ciudad : Ciudad Autónoma de Buenos Aires
+Telefono : 00541143718061
+Email : yamilasanmiguel@yahoo.es
+MAX_FILE_SIZE : 2097152
+Mensaje : Soy  Lic. en Comunicación Social con la especialización en Opinión Pública y Publicidad y poseo gran experiencia en todo lo que hace al proceso editorial, tanto en formato gráfico como on line.
+Trabajé durante 10 años en el periódico argentino Clarín como cronista, redactora, editora gráfica y fotográfica y he coordinado grupos de trabajo bajo mi responsabilidad.
+Los últimos 9 años he vivido en la ciudad de Barcelona, España; donde he trabajado como redactora y correctora en varias editoriales. En una de ellas desempeñé el cargo de  redactora jefe de revistas técnicas, con sus respectivas versiones on line. En la actualidad escribo y edito guiones para  coleccionables  en formato audiovisual para el Departamento Audiovisual de RBA Ediciones y soy colaboradora free lance de Clarín.
+ Estoy interesada en ampliar mis horizontes tanto profesionales como económicos.  
+En mi CV se detallan mi formación académica y mi experiencia profesional.
+         Sin otro particular y a la espera de poder acceder a una entrevista personal, saludo a Ud. muy atte.
+
+Security_code : 9f699
+Send : Enviar
+
+---------------
+
+Address : 186.19.30.67
+Nombre : Mario Edgardo
+Apellido : Caffarena
+Cargo : Empleado Administrativo
+Direccion : Bouchard 3132  José Mármol
+Ciudad : Buenos Aires
+Telefono : 4291-4330 / 1533457716
+Email : egd1986@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Amplio desempeño en atención al cliente y tareas administrativas, alcanzando los objetivos dispuestos por la empresa.
+Security_code : wqy59
+Send : Enviar
+
+---------------
+

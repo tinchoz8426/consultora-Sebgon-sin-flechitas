@@ -1,0 +1,30 @@
+Address : 190.17.154.243
+Nombre : Silvia Gabriela
+Apellido : Luque
+Cargo : Administrativo
+Direccion : Juan Florio 40 - San Justo
+Ciudad : Buenos Aires
+Telefono : 1560000704
+Email : sgluque@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Tengo experiencia en puestos administrativos pero me interesa cualquier tipo de empleo. Desde ya muchas gracias  
+Security_code : s99w8
+Send : Enviar
+
+---------------
+
+Address : 190.17.154.243
+Nombre : Silvia Gabriela
+Apellido : Luque
+Cargo : Administrativo
+Direccion : Juan Florio 40 - San Justo
+Ciudad : Buenos Aires
+Telefono : 1560000704
+Email : sgluque@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Tengo experiencia en puestos administrativos pero me interesa cualquier tipo de empleo. Desde ya muchas gracias  
+Security_code : s99w8
+Send : Enviar
+
+---------------
+

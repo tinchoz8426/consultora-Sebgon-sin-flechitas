@@ -1,0 +1,50 @@
+Address : 190.51.129.103
+REF : jefe-de-operaciones
+Nombre : Gabriel
+Apellido : Alomo
+Cargo : Jefe de Operaciones
+Direccion : Primera Junta 718
+Ciudad : Monte Grande (GBA)
+Telefono : 43679447/1531653290
+Email : alomogh@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Por medio del presente hago llegar a Ud. mi curriculum, con el objeto de ser considerado para ocupar la vacante de referencia.
+Sin otro particular saludo muy atentamente.
+
+Gabriel Hernán Alomo.-
+
+Security_code : ngff4
+Send : Enviar
+
+---------------
+
+Address : 190.247.6.229
+Nombre : Hernan Dario
+Apellido : Bravo
+Cargo : Administrativo, Gastronomico, Operario
+Direccion : Jose Penna 1023
+Ciudad : Buenos Aires
+Telefono : 15 6146 0517
+Email : hernandariobravo@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Mi objetivo es insertarme laboralmente en una empresa en la cual pueda crecer y desarrollarme, como asi tambien desplegar mis habilidades y capacidades
+Security_code : z2x9h
+Send : Enviar
+
+---------------
+
+Address : 186.57.55.80
+Nombre : AGUSTINA AYELEN
+Apellido : ISSA
+Cargo : administrativa, tec en hemoterapia, extraccionista de laboratotio
+Direccion : malvinas 1389
+Ciudad : lujan
+Telefono : 02323-0654800
+Email : agusii@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : hola, soy agustina tengo 23 años y ganas de trabajar. desde ya muchas gracias!! 
+Security_code : yq56d
+Send : Enviar
+
+---------------
+

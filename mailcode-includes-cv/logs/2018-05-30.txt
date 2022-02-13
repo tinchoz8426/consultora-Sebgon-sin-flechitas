@@ -1,0 +1,81 @@
+Address : 179.40.46.131<br>
+ <br>REF : ACO-1
+ <br>Nombre : Jose
+ <br>Apellido : Albornoz
+ <br>Cargo : Analista de comercio exterior 
+ <br>Direccion : Barrio 200 viviendas mza H casa 3
+ <br>Ciudad : San Miguel de Tucumán 
+ <br>Telefono : 3815391811
+ <br>Email : jose18.albornoz@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Aqui les dejo mi cv.
+Muchas gracias desde ya.
+ <br>Security_code : 8r2mm
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 179.60.197.143<br>
+ <br>REF : EP-1
+ <br>Nombre : orlando
+ <br>Apellido : gonzalez
+ <br>Cargo : encargado de produccion
+ <br>Direccion : los olivos 970
+ <br>Ciudad : buenos aires
+ <br>Telefono : 01134021272
+ <br>Email : orlandoa37@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : saludos, adjunto mi Cv parA el puesto requerido
+ <br>Security_code : n7shb
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 152.171.75.149<br>
+ <br>REF : Ing. quim
+ <br>Nombre : Gisela
+ <br>Apellido : Quintero
+ <br>Cargo : Jefa de procesos industriales
+ <br>Direccion : Av. Francisco Acuña de Figueroa 230
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 1133776263
+ <br>Email : Gijoquilan@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me gustaría formar parte de su equipo de trabajo.  Tengo 20 años dw experiencia en el área industrial. 
+ <br>Security_code : H6vz2
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 152.171.75.149<br>
+ <br>REF : Ing. quim
+ <br>Nombre : Gisela
+ <br>Apellido : Quintero
+ <br>Cargo : Jefa de procesos industriales
+ <br>Direccion : Av. Francisco Acuña de Figueroa 230
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 1133776263
+ <br>Email : Gijoquilan@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me gustaría formar parte de su equipo de trabajo.  Tengo 20 años dw experiencia en el área industrial. 
+ <br>Security_code : h6vz2
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 152.171.75.149<br>
+ <br>REF : Ing. quim
+ <br>Nombre : Gisela
+ <br>Apellido : Quintero
+ <br>Cargo : Jefa de procesos industriales
+ <br>Direccion : Av. Francisco Acuña de Figueroa 230
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 1133776263
+ <br>Email : Gijoquilan@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me gustaría formar parte de su equipo de trabajo.  Soy ingeniero químico con 20 años de experiencia en el área industrial. 
+ <br>Security_code : nbszx
+ <br>Send : Enviar
+ <br>
+---------------
+

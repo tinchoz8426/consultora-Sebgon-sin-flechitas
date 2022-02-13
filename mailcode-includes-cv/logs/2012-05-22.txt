@@ -1,0 +1,47 @@
+Address : 200.117.35.148
+REF : jefe-de-operaciones
+Nombre : natalia
+Apellido : carabajal
+Cargo : administrativo
+Direccion : mariano cabal 4018
+Ciudad : santa fe
+Telefono : 3425277653
+Email : nataliacarabajal2008@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : busco trabajo en santa fe capital
+Security_code : ymh8t
+Send : Enviar
+
+---------------
+
+Address : 200.117.35.148
+REF : jefe-de-operaciones
+Nombre : natalia
+Apellido : carabajal
+Cargo : administrativo
+Direccion : mariano cabal 4018
+Ciudad : santa fe
+Telefono : 3425277653
+Email : nataliacarabajal2008@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : busco trabajo en santa fe capital
+Security_code : ymh8t
+Send : Enviar
+
+---------------
+
+Address : 186.125.236.1
+Nombre : Ana
+Apellido : Rollandi
+Cargo : Secretaria Ejecutiva
+Direccion : Mariano Moreno 659
+Ciudad : San Guillermo (Sta Fe)
+Telefono : 03562467031
+Email : anarollandi@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Seria muy grato estar ocupando un cargo de estas caracteristicas.
+Security_code : ddmmg
+Send : Enviar
+
+---------------
+

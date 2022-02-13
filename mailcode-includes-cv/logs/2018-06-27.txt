@@ -1,0 +1,32 @@
+Address : 186.136.67.231<br>
+ <br>Nombre : Marcos
+ <br>Apellido : Girardi
+ <br>Cargo : 1
+ <br>Direccion : pacheco 3921
+ <br>Ciudad : vicente lopez
+ <br>Telefono : +541168583560
+ <br>Email : marcosgirardigronzo@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : dejo mi cv, para futuras busquedas 
+ <br>Security_code : c7df7
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.9<br>
+ <br>Nombre : Agustina
+ <br>Apellido : Gatter
+ <br>Cargo : Atención al público, Diseño, Recepcionista
+ <br>Direccion : Blanco encalada 4765
+ <br>Ciudad : Capital Federal 
+ <br>Telefono : 3442640511
+ <br>Email : agusgatter18@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas tardes, envío mi CV adjunto, para que puedan tenerlo en cuenta ante cualquier vacante que pueda surgir. Quedo a su disposición.
+Saludos cordiales.
+Agustina Gatter
+ <br>Security_code : 4by3h
+ <br>Send : Enviar
+ <br>
+---------------
+

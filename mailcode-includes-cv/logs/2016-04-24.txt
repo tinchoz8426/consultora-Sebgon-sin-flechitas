@@ -1,0 +1,169 @@
+Address : 186.60.178.221
+REF : OEL
+Nombre : alejandro jose
+Apellido : quiroga
+Cargo : oficial electricista
+Direccion : weiss de rossi 3482
+Ciudad : glew
+Telefono : 1136842239
+Email : luliale20@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : hola,soy oficial electricista y tengo curso aprobado de oficial calificado.me encantaria ser parte de su grpo laboral, desde ya muchas gracias.
+Security_code : 2rr43
+Send : Enviar
+
+---------------
+
+Address : 186.60.178.221
+Nombre : alejandro jose
+Apellido : quiroga
+Cargo : oficial electricista
+Direccion : weiss de rossi 3482
+Ciudad : glew
+Telefono : 1136842239
+Email : luliale20@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : buen día. quisiera que me tuvieran en cuenta por que estoy sin trabajo y me encantaría ser parte de su grupo laboral, gracias
+Security_code : 6w7kg
+Send : Enviar
+
+---------------
+
+Address : 186.129.15.183
+Nombre : Mariela Alejandra
+Apellido : Domeneghini
+Cargo : Administrativa
+Direccion : Juan B. Justo 7134
+Ciudad : CABA
+Telefono : 1134704275
+Email : marie_lpa@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenas tardes, Agradecería que puedan considerarme en una futura selección de personal.
+Me encuentro a su entera disposición.
+
+Cordiales saludos
+
+Mariela Domeneghini
+Security_code : Z98Y6
+Send : Enviar
+
+---------------
+
+Address : 186.129.15.183
+Nombre : Mariela Alejandra
+Apellido : Domeneghini
+Cargo : Administrativa
+Direccion : Juan B. Justo 7134
+Ciudad : CABA
+Telefono : 1134704275
+Email : marie_lpa@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenas tardes, Agradecería que puedan considerarme en una futura selección de personal.
+Me encuentro a su entera disposición.
+
+Cordiales saludos
+
+Mariela Domeneghini
+Security_code : z98y6
+Send : Enviar
+
+---------------
+
+Address : 186.129.15.183
+Nombre : Mariela Alejandra
+Apellido : Domeneghini
+Cargo : Administrativa
+Direccion : Juan B. Justo 7134
+Ciudad : CABA
+Telefono : 1134704275
+Email : marie_lpa@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenas tardes, Agradecería que puedan considerarme en una futura selección de personal.
+Me encuentro a su entera disposición.
+
+Cordiales saludos
+
+Mariela Domeneghini
+Security_code : z98y6
+Send : Enviar
+
+---------------
+
+Address : 186.129.15.183
+Nombre : Mariela Alejandra
+Apellido : Domeneghini
+Cargo : Administrativa
+Direccion : Juan B. Justo 7134
+Ciudad : CABA
+Telefono : 1134704275
+Email : marie_lpa@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenas tardes, Agradecería que puedan considerarme en una futura selección de personal.
+Me encuentro a su entera disposición.
+
+Cordiales saludos
+
+Mariela Domeneghini
+Security_code : 46nfp
+Send : Enviar
+
+---------------
+
+Address : 190.176.160.185
+Nombre : Maximiliano Miguel
+Apellido : Lopez
+Cargo : Ingeniero
+Direccion : J. M. Godoy 210
+Ciudad : Mendoza
+Telefono : 2615150146
+Email : maxilopez2905@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados, muy buenas tardes mi nombre es Maximiliano Lopez egresado recientemente de la Facultad de Ingeniería de Petróleos de la UNCuyo; esto me llevo a consultar su web para ponerme en contacto y hacerles llegar mi CV, en el cual podrá comprobar que además he trabajado durante un tiempo de forma independiente y para empresas relacionadas con el medio del petróleo y minería.
+Quedo a la espera de próximas noticias y le agradezco de antemano frente a una posible oportunidad laboral.
+Sin más que decirle, quedo a su entera disposición me despido atentamente.
+
+Security_code : grt43
+Send : Enviar
+
+---------------
+
+Address : 190.247.61.3
+REF : SE.BIL
+Nombre : Carolina
+Apellido : Martinez
+Cargo : Secretaria
+Direccion : Vicente Lopez 2280 9D
+Ciudad : CABA
+Telefono : 0381156463551
+Email : laplatacity13@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados señores:
+Adjunto envío mi CV para su evaluación, esperando tener la oportunidad de una entrevista.
+Los saludo.
+Atentamente,
+Carolina Martinez
+Security_code : tqjdy
+Send : Enviar
+
+---------------
+
+Address : 190.247.61.3
+REF : SE.BIL
+Nombre : Carolina
+Apellido : Martinez
+Cargo : Secretaria
+Direccion : Vicente Lopez 2280 9D
+Ciudad : CABA
+Telefono : 0381156463551
+Email : laplatacity13@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados señores:
+Adjunto envío mi CV para su evaluación, esperando tener la oportunidad de una entrevista.
+Los saludo.
+Atentamente,
+Carolina Martinez
+Security_code : tqjdy
+Send : Enviar
+
+---------------
+

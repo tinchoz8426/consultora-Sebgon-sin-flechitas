@@ -1,0 +1,16 @@
+Address : 24.232.112.143<br>
+ <br>REF : SP-1
+ <br>Nombre : Fernando
+ <br>Apellido : Cicchitti
+ <br>Cargo : Supervision de Porduccion
+ <br>Direccion : Arenales 578
+ <br>Ciudad : Campana
+ <br>Telefono : 0348915496887
+ <br>Email : fernando7111@hotmail.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estoy en la búsqueda de un empleo que me permita desarrollarme tanto profesional como personalmente en las tareas asignadas por mis superiores, tengo deseos  de aprender y adaptarme a demandas de diversas índoles, ya que soy muy emprendedor y me gusta perfeccionarme cada vez.
+ <br>Security_code : shk86
+ <br>Send : Enviar
+ <br>
+---------------
+

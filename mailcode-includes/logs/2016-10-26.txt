@@ -1,0 +1,15 @@
+Address : 181.46.61.199
+ <br>Nombre : Armando 
+ <br>Apellido : Cabral
+ <br>Empresa : Metalurgica Thomas S.R.L.
+ <br>Telefono : 112233445566
+ <br>Email : acabral.rrhh@gmail.com
+ <br>Mensaje : Buenas tardes: 
+Me contacto con usted para consultar servicios de seguridad e higiene para la metalúrgica donde trabajo ya que mis jefes no están conformes con el actual. Espero contacto vía ACabral.rrhh@gmail.com
+Atte. Armando Cabral. 
+
+ <br>Security_code : r2nsx
+ <br>Send : Enviar
+ <br>
+---------------
+

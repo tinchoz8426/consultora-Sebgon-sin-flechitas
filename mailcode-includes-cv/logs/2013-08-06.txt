@@ -1,0 +1,47 @@
+Address : 190.179.202.179
+Nombre : fernando Javier
+Apellido : rodriguez
+Cargo : Tecnico Superior Seguridad e Higiene Laboral
+Direccion : B° Dolores Prats de Huisi, M-42, C-10
+Ciudad : Mendoza
+Telefono : 261-5601711
+Email : fernandojavier_rodriguez87@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : busco trabajo de seguridad e higiene laboral, disponibilidad  de viajar. Con el objetivo de crear experiencia laboral.
+Security_code : 2qfmn
+Send : Enviar
+
+---------------
+
+Address : 186.19.38.211
+Nombre : silvina soledad
+Apellido : garcia
+Cargo : atención al cliente/cajera/recepcionista
+Direccion : alejo ortega 397
+Ciudad : buenos aires -monte grande
+Telefono : 1160075938
+Email : solgarcia01@hotmail.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Me interesaría formar parte de su empresa ó que me contacten con alguna para mi continuidad laboral en el mercado . saludos!
+Security_code : bnk7f
+Send : Enviar
+
+---------------
+
+Address : 190.172.101.136
+Nombre : Valentina
+Apellido : Gaiazzi
+Cargo : Recepcion
+Direccion : Agrelo 4058
+Ciudad : CABA
+Telefono : 49576710
+Email : vgaiazzi@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Mi nombre es Valentina Gaiazzi y me postulo para puestos como recepción, secretariado, atención al cliente.
+Desde ya, muchas gracias. 
+Saludos
+Security_code : y6dqq
+Send : Enviar
+
+---------------
+

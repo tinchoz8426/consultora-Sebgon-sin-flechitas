@@ -1,0 +1,30 @@
+Address : 190.174.169.113
+Nombre : Ileana Celeste
+Apellido : Ferraris
+Cargo : ASISTENTE RRHH
+Direccion : EL CONDOR 107
+Ciudad : VILLA TESEI
+Telefono : 4450 6281
+Email : celeste.ferraris@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : ENVIO MI CV POR EL AVISO PUBLICADO EN EL SITIO WEB COMPU TRABAJO EN EL CUAL SOLICITABAN ASISTENTE DE RRHH 
+Security_code : gdxrk
+Send : Enviar
+
+---------------
+
+Address : 190.51.97.51
+Nombre : Facundo Martín
+Apellido : Mussio
+Cargo : Recepcionista Administrativo
+Direccion : Santa Fé 1471
+Ciudad : Morón
+Telefono : 1563951066
+Email : fakum_86@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Les hago envío de mi CV para ser tenido en cuenta en el puesto vacante de Recepcionista Administrativo. Resido en zona, tengo experiencia administrativa y ganas de trabajar. Muchas gracias. 
+Security_code : yx2qm
+Send : Enviar
+
+---------------
+

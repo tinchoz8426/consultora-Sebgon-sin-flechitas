@@ -1,0 +1,44 @@
+Address : 190.173.43.86
+Nombre : Elisa Valeria
+Apellido : Chaves Scott
+Cargo : Atención al cliente-Recepcionista-mesa de ayuda
+Direccion : Marraspín 3934
+Ciudad : Buenos Aires
+Telefono : 4-242-8780
+Email : eli_vale07@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenos días adjunto mi C.V para alguna propuesta laboral o para ingresar en la base de datos para futuras busquedas. Muchas gracias.
+Security_code : csvjk
+Send : Enviar
+
+---------------
+
+Address : 190.225.204.202
+Nombre : María Laura
+Apellido : Clancy
+Cargo : Admin. General, Atención al público, Archivo, Recepción, etc.
+Direccion : Rio Negro 986
+Ciudad : El Palomar, Partido de Morón. Pcia de Buenos Aires
+Telefono : 4758-1313
+Email : marialauraclancy@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Sres. Departamento de RR. HH. :
+      Tengo el agrado de hacerles llegar mi CV para ser tomada en cuenta para posibles vacantes laborales.  Vivo en El Palomar, Morón, Pcia. de Buenos Aires. No estoy actualmente en actividad laboral. 
+        Trabajé como gestora y empleada de tareas generales en una Gestoría Judicial y Estudio Jurídico, como gestora hice tramites ante organismos públicos y privados y tareas generales propias de un estudio jurídico. Y tramites bancarios. Trabajé en tareas administrativas generales, atención al afiliado personal y telefónicamente, también tareas propias de mesa de entradas, ingreso y egreso de autorizaciones médicas, e ingreso al sistema de computación de las facturas ingresantes a la obra Obra Social. Esto durante el año 2006, y en calidad de  suplente temporal.  
+      Además hice paralelamente  un curso de Facturación Básica y Terminología Médica. Donde entre otras cosas se hacia una introducción al conocimiento del uso del Nomenclador Nacional y manejo del lenguaje de terminología médica correspondiente, y otras cuestiones relativas al tema. El curso de Facturación  Básica y Terminología Médica, es un teórico práctico con una carga de 77 horas con certificado de reconocimiento oficial realizado en el Hospital de Clínicas "José de San Martín" de la UBA.   
+       Hasta el 2008 (2º año) cursé la Técnica de Administración de Servicios de Salud, en el I.S.F.T. Nº 7 que funciona en el Hospital Durán de la Ciudad Autónoma de Buenos Aires. No lo continué porque sus horarios me hacían prácticamente imposible la compatibilidad con la búsqueda de un trabajo de horario completo. Además durante el año 2007 desde abril hasta diciembre realicé una pasantía en el Sector Compras, del Hospital Oftalmológico “Pedro Lagleyze” dependiente del Gobierno de la Ciudad de Buenos Aires. Haciendo tareas administrativas básicas, como confección de solicitud de gastos, y compras, invitación a oferentes, búsqueda de precios en los registros del Gobierno de la Ciudad de Buenos Aires, colaboración con la planta permanente de empleados en la confección de ordenes de compras) mantenimiento en condiciones y acondicionamiento de los expedientes cuyo proceso se vio cumplido, y otras tareas. Era ser auxiliar del área en las múltiples tareas que se desarrollan en este Sector. 
+      He tenido experiencia de trabajo en áreas legales como gestoría judicial y general,  empleada de tareas generales de la misma, además de 10 meses de meritoria en un Juzgado Laboral de Capital Federal en tareas de mesa de entradas y administrativas internas en el mismo. Soy Auxiliar Contable ( introducción al conocimiento de libros, conciliaciones bancarias, ajustes, liquidaciones de sueldos y jornales, etc.),  Curso teórico prácticos curso oficial que realicé en una escuela del Gobierno de la Ciudad de Buenos Aires   
+     Tengo perfil administrativa básica en tareas generales de oficina. Postulo para este o todo otro puesto que crean conveniente a mi perfil y amplitud para aprender nuevos trabajos.  Todos mis datos, conocimientos y experiencia están constados entre mi CV y la carta de presentación adjunta.  
+       Deseo ser tenida en cuenta para la búsqueda que realizan  y de no contar con el perfil que requieren ahora, quedar en su base de datos  para  próximas necesidades de cubrir vacantes  que puedan presentarles. Para puestos administrativos básicos u otras áreas donde vean más conveniente se ajuste mi perfil. 
+ Sin más me despido muy atentamente  
+María Laura Clancy
+
+marialauraclancy@yahoo.com.ar
+
+marialauraclancy@hotmail.com
+
+Security_code : z5fsc
+Send : Enviar
+
+---------------
+

@@ -1,0 +1,32 @@
+Address : 152.169.253.49<br>
+ <br>Nombre : Martin 
+ <br>Apellido : Paz
+ <br>Cargo : Técnico Superior en Higiene y Seguridad en el Trabajo
+ <br>Direccion : Av Mahatma Gandhi 600 
+ <br>Ciudad : Córdoba
+ <br>Telefono : 03513488722
+ <br>Email : martineduardopaz@hotmail.con
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estoy interesado en trabajar con ustedes, soy de Córdoba.
+ <br>Security_code : xcn5s
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.166.219.250<br>
+ <br>Nombre : belen
+ <br>Apellido : kuzeluk
+ <br>Cargo : administrativa
+ <br>Direccion : av rivadavia 919
+ <br>Ciudad :  villa luro
+ <br>Telefono :  1570180264
+ <br>Email : belen4_93@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas tardes
+
+me encuentro en la búsqueda de empleo con amplia disponibilidad horaria
+ <br>Security_code : 94374
+ <br>Send : Enviar
+ <br>
+---------------
+

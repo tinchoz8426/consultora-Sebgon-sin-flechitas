@@ -1,0 +1,62 @@
+Address : 186.125.230.60<br>
+ <br>Nombre : Julieta
+ <br>Apellido : Nuñez
+ <br>Cargo : Cajera
+ <br>Direccion : Berutti 1424
+ <br>Ciudad : San Martin
+ <br>Telefono : 1165456977
+ <br>Email : julietalillmans@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Adjunto mi CV para futuras búsquedas laborales.
+ <br>Security_code : m6dbz
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.153.47.181<br>
+ <br>REF : OEL
+ <br>Nombre : jorge ricardo
+ <br>Apellido : mauri
+ <br>Cargo : oficial electricista
+ <br>Direccion : victor hugo
+ <br>Ciudad : escobar
+ <br>Telefono : 0111556360692
+ <br>Email : maurijor9@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje :                    Desempeñarme, ofrecer y desarrollar todas mis capacidades innatas, consiguiendo un excelente resultado en la labor y el área asignada; además, adquirir a través de la responsabilidad y confianza en mí depositada, una experiencia inigualable, con la cual conseguiré un paso importante en mi superación personal, junto con el orgullo de hacer parte de su equipo de trabajo.
+ <br>Security_code : 26y87
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.153.47.181<br>
+ <br>Nombre : jorge ricado
+ <br>Apellido : mauri
+ <br>Cargo : oficial electricista
+ <br>Direccion : victor hugo
+ <br>Ciudad : escobar
+ <br>Telefono : 0111556360692
+ <br>Email : maurijor9@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje :                    Desempeñarme, ofrecer y desarrollar todas mis capacidades innatas, consiguiendo un excelente resultado en la labor y el área asignada; además, adquirir a través de la responsabilidad y confianza en mí depositada, una experiencia inigualable, con la cual conseguiré un paso importante en mi superación personal, junto con el orgullo de hacer parte de su equipo de trabajo.
+ <br>Security_code : bnpfp
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.130.16.122<br>
+ <br>REF : GTEP
+ <br>Nombre : martin
+ <br>Apellido : villanueva
+ <br>Cargo : gerente de planta
+ <br>Direccion : larralde 1060
+ <br>Ciudad : moron
+ <br>Telefono : 44894615
+ <br>Email : villanueva,martin42@yahoo.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : adjunto mis referencias para ser evaluadas 
+ <br>Security_code : xnvpk
+ <br>Send : Enviar
+ <br>
+---------------
+

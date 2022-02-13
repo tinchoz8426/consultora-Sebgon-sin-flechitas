@@ -1,0 +1,24 @@
+Address : 181.228.59.152
+REF : JP
+Nombre : Derlis Ailem
+Apellido : Cuadrado
+Cargo : Jefe de Planta
+Direccion : Estomba 1270
+Ciudad : Bahía Blanca
+Telefono : 2914449756
+Email : derliscuadrado@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimado Director de Recursos Humanos:
+Luego de leer su anuncio buscando un Ingeniero en Alimentos publicado en el sitio web de consultorasebgon.com.ar, considero que me encuentro capacitada para el puesto ya que cuento con experiencia laboral en la industria alimenticia.
+Mi experiencia en Lácteos “La Familia” me otorgó la posibilidad de crecer significativamente en cuanto al trato con el personal de la empresa así como también adquirir conocimientos en las distintas operaciones correspondientes a la gestión de calidad de los procesos industriales. 
+Poseo una gran capacidad de adaptación, así como de trabajo en equipo, dado que a lo largo de mi carrera universitaria integré diferentes grupos de trabajo orientados a la generación de proyectos.
+Asimismo cuento con experiencia laboral en atención al cliente y manejo de proveedores, ya que colaboré durante toda mi vida en el comercio familiar.
+Soy consciente que este puesto significa un desafío para mi carrera profesional pero estoy segura que me encuentro a la altura de las circunstancias.
+Lo saludo atte.
+Ing. Derlis A. Cuadrado
+
+Security_code : 79cxp
+Send : Enviar
+
+---------------
+

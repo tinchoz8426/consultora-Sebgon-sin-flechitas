@@ -1,0 +1,61 @@
+Address : 190.51.235.36
+Nombre : Natlia Belén
+Apellido : Maldonado
+Cargo : Recepcionista, Data Entry, Telefonista,
+Direccion : Corrientes 306
+Ciudad : Ezeiza
+Telefono : 43890838
+Email : naty_maldonado02@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Deseo que tengan en cuenta mi CV para alguno de los puestos a los que aspiro
+Security_code : 9kmc3
+Send : Enviar
+
+---------------
+
+Address : 186.129.204.245
+Nombre : Melina
+Apellido : Soledad
+Cargo : Operaria
+Direccion : Ortega y Gasset 1114
+Ciudad : Buenos Aires - Hurlingham
+Telefono : 1559556984
+Email : meli_0588@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Gracias por recibir mi cv.
+Security_code : v8zck
+Send : Enviar
+
+---------------
+
+Address : 186.129.204.245
+Nombre : Melina
+Apellido : Ybañez
+Cargo : Operaria
+Direccion : Ortega y Gasset 1114
+Ciudad : bç
+Telefono : 1559556984
+Email : meli_0588@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Gracias por recibir mu cv.
+Security_code : sdk4w
+Send : Enviar
+
+---------------
+
+Address : 186.130.21.64
+REF : gerente-de-operaciones
+Nombre : SERGIO LEONIDAS
+Apellido : VILA TEJADA
+Cargo : TECNICO  EN  HIGIENE Y  SEGURIDAD  EN EL TRABAJO
+Direccion : GENERAL PAZ 924 ∙ ( OESTE ) 
+Ciudad : SAN JUAN
+Telefono : 0264-4283725-02645192717
+Email : flor_34_89@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : ATTE. GRACIAS
+Security_code : tgmfd
+Send : Enviar
+
+---------------
+

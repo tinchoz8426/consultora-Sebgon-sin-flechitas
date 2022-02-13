@@ -1,0 +1,61 @@
+Address : 186.18.25.208<br>
+ <br>Nombre : Cesar Artemio
+ <br>Apellido : Villalba
+ <br>Cargo : Administrativo, contable
+ <br>Direccion : Constitucion 2023
+ <br>Ciudad : Cap. Fed. 
+ <br>Telefono : 1559374073
+ <br>Email : cesar_v_23@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Soy proactivo, responsable, dinamico. 
+ <br>Security_code : sfh4s
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.26.184.99<br>
+ <br>Nombre : Matías
+ <br>Apellido : Ferrara
+ <br>Cargo : Atención al cliente
+ <br>Direccion : Jose M.Moreno2535
+ <br>Ciudad : Lanús
+ <br>Telefono : (011)42096439
+ <br>Email : matiasferrara1996@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Tengo 20 años, soy de Lanús Oeste, actualmente estudio en la UBA Licenciatura en Administración por la mañana y estoy en la búsqueda de un empleo, sea part-time o full time, Gracias
+ <br>Security_code : mw52g
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 179.41.209.54<br>
+ <br>REF : OEL
+ <br>Nombre : raul
+ <br>Apellido : cardoso
+ <br>Cargo : oficial electricista
+ <br>Direccion : soldado sosa 2615
+ <br>Ciudad : rafael castillo
+ <br>Telefono : 1137439259
+ <br>Email : cardosoraul810@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : hola es por el aviso me postulo como oficial electricista
+ <br>Security_code : g8c55
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.224.66.131<br>
+ <br>Nombre : Daiana Belen
+ <br>Apellido : Chavez
+ <br>Cargo : Logistica
+ <br>Direccion : Angel Gallardo 4395
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 011-15-34428643
+ <br>Email : daianachavez05@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Experiencia en Logistica.
+ <br>Security_code : k23f6
+ <br>Send : Enviar
+ <br>
+---------------
+

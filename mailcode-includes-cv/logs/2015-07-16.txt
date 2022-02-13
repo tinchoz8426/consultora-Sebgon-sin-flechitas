@@ -1,0 +1,16 @@
+Address : 190.18.183.159
+Nombre : Juan Manuel
+Apellido : Lizarraga
+Cargo : A
+Direccion : Lino A. Neves 450
+Ciudad : Cordoba, Capital
+Telefono : 0351-157300012
+Email : juan.uni@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Gracias por recibir mi curriculum vitae, espero les sirva de ayuda. 
+Atte. J.M.Lizarraga
+Security_code : mwkxp
+Send : Enviar
+
+---------------
+

@@ -1,0 +1,30 @@
+Address : 200.82.119.66
+Nombre : Monica
+Apellido : Huck
+Cargo : Futuras Búsquedas
+Direccion : Mitre 625 
+Ciudad : Campana
+Telefono : 0111532335297
+Email : monica.huck@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto C.V. Para futuras búsquedas para mi perfil, cordialmente, Mónica Huck
+Security_code : ps827
+Send : Enviar
+
+---------------
+
+Address : 186.61.2.215
+Nombre : Federico 
+Apellido : Favali
+Cargo : Inglés o italiano 
+Direccion : Fader 1260
+Ciudad : Burzaco
+Telefono : 1162774436
+Email : si.visconti@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Cualquier puesto donde se requiera inglés o italiano bilingue
+Security_code : 69c4q
+Send : Enviar
+
+---------------
+

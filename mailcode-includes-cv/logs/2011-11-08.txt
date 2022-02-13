@@ -1,0 +1,81 @@
+Address : 190.17.67.223
+REF : gerente-de-operaciones
+Nombre : Claudio Ariel
+Apellido : Argüello
+Cargo : chofer
+Direccion : Alfredo Palacios 327 P.B. dep 4
+Ciudad : Ciudadela Prov. Buenos Aires
+Telefono : 1567860401
+Email : masa264@hotmail.com
+
+---------------
+
+Address : 190.17.67.223
+REF : gerente-de-operaciones
+Nombre : Claudio Ariel
+Apellido : Argüello
+Cargo : chofer
+Direccion : Alfredo Palacios 327 P.B. dep 4
+Ciudad : Ciudadela Prov. Buenos Aires
+Telefono : 1567860401
+Email : masa264@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto mi curriculum vitae,para ser considerado ya que me encuentro en la busqueda de un trabajo estable. Poseo  licencia CNRT. 
+ 
+Muchas gracias
+ 
+Atentamente
+ 
+ 
+Claudio Ariel Argüello 
+ 
+ 
+
+Security_code : btwzb
+Send : Enviar
+
+---------------
+
+Address : 190.17.67.223
+Nombre : Claudio Ariel
+Apellido : Argüello
+Cargo : chofer
+Direccion : Alfredo Palacios 327 P.B. dep 4
+Ciudad : Ciudadela Prov. Buenos Aires
+Telefono : 1567860401
+Email : masa264@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto mi curriculum vitae, para ser considerado ya que me encuentro en la busqueda de un trabajo estable. Poseo  licencia CNRT. 
+ 
+Muchas gracias
+ 
+Atentamente
+ 
+ 
+Claudio Ariel Argüello 
+ 
+ 
+
+Security_code : d5zb8
+Send : Enviar
+
+---------------
+
+Address : 190.189.171.198
+Nombre : Antonela
+Apellido : Pignataro
+Cargo : Selectora
+Direccion : Cabrera 2980  Piso: 1ero  Dpto: A
+Ciudad : Capital Federal
+Telefono : 03783-15602869
+Email : tone_321@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : ESTIMADO/A: 
+                       MI NOMBRE ES ANTONELA SOY TECNICA EN PSICOLOGIA Y ESTOY CULMINANDO LA LICENCIATURA EN PSICOLOGIA   EN CORRIENTES. POSEO EXPERIENCIA EN LA REALIZACION DE EVALUACIONES PSICOLOGICAS PARA LA SELECCION DE PERSONAL Y EN DESCRIPCION Y ANALISIS DE PUESTOS, TAMBIEN EXPERIENCIAS EN VENTAS POR TELEFONO O EN PERSONA POR LO CUAL ME INTERESARIA TRABAJAR CON UDS.
+                      DESDE YA ESPERO SU RESPUESTA. ME DESPIDO ATTE.
+                                                                                                                  PIGNATARO ANTONELA
+Security_code : hpkkz
+Send : Enviar
+
+---------------
+

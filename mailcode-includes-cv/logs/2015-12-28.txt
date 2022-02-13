@@ -1,0 +1,53 @@
+Address : 190.104.249.18
+Nombre : Romina
+Apellido : Alfonsi
+Cargo : Diseño Gráfico
+Direccion : Necochea 2028
+Ciudad : Hurlingham
+Telefono : 1168698092
+Email : romina.alfonsi@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenos días, adjunto mi CV y dejo los links con mis portfolios.
+
+Link con el portfolio de diseño:
+http://rominaalfonsi.blogspot.com.ar/
+
+Link con portfolio de fotografía:
+http://rominaalfonsi-ph.blogspot.com.ar/
+Security_code : n99x8
+Send : Enviar
+
+---------------
+
+Address : 181.16.22.102
+REF : RTC
+Nombre : ANA LIA
+Apellido : KETLUN
+Cargo : GERENTE DE VENTAS
+Direccion : LAMADRID1634
+Ciudad : ESCOBAR
+Telefono : 0348 154438260
+Email : analiaketlun@arnet.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : estoy buscando trabajo , gracias
+Security_code : 3xdnw
+Send : Enviar
+
+---------------
+
+Address : 181.169.31.199
+REF : OEL
+Nombre : martin
+Apellido : pardo
+Cargo : oficial electricista
+Direccion : feval 590
+Ciudad : merlo
+Telefono : 1162255760
+Email : pardomartinjavier@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : A quien corresponda envio atte. mi CV
+Security_code : kc4ms
+Send : Enviar
+
+---------------
+

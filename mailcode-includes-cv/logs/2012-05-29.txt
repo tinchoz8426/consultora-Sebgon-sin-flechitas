@@ -1,0 +1,102 @@
+Address : 201.255.225.89
+Nombre : Mariela 
+Apellido : Montello
+Cargo : Selector
+Direccion : Rivadavia 4704 piso 11
+Ciudad : Capital Federal
+Telefono : 155-4877-356
+Email : marielamontello@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Deseo incorporarme a una Consultora con modalidad free lance o full time.  Poseo experiencia como Selectora y en tareas administrativas.  Poseo una actitud proactiva y me gustan los desafíos.
+Security_code : 3kqjh
+Send : Enviar
+
+---------------
+
+Address : 190.179.160.8
+Nombre : Rodrigo 
+Apellido : Salinas Cepeda
+Cargo : Area comercial o comercio exterior
+Direccion : Cerro Catedral 1157
+Ciudad : Godoy Cruz, Mendoza
+Telefono : (0261) 4520509, 4222421
+Email : rodo_salinas@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto CV personal para que pueda ser cargado a su base de datos. 
+Atentamente
+
+Rodrigo Salinas Cepeda
+MOTTES BROKERS
+Mendoza-Argentina
+Mobile: +54-9-261-5529046
+Nextel: #54 *640 *4648
+Skype: rodrigo.salinas.cepeda
+
+ 
+
+Security_code : kgk5p
+Send : Enviar
+
+---------------
+
+Address : 190.2.121.92
+Nombre : Lucas Martin
+Apellido : Cruz OLguin
+Cargo : administrativo
+Direccion : Gregorio Pedriel 150
+Ciudad : Salta
+Telefono : 0387 154762676
+Email : lucasy2k150@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Deseo desarrollarme y crecer laboralmente, compartir mis conocimientos y habilidades, para contribuir al logro de los objetivos de la empresa; realizando las actividades a desempeñar de manera eficaz en el puesto para el cual sea asignado
+Security_code : rcf7f
+Send : Enviar
+
+---------------
+
+Address : 186.23.189.72
+Nombre : jonatan gabriel
+Apellido : malfatti
+Cargo : operario en produccion,clarkista,maquinista y embasador de pintura
+Direccion : cairo 441
+Ciudad : burzaco
+Telefono : 15 57 82 96 70
+Email : jonygab@hotmail.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : me dirijo a ustedes con el proposito de poder formar parte de algun grupo de trabajo en lo cual soy muy responsable y capas. 
+Security_code : n5wh4
+Send : Enviar
+
+---------------
+
+Address : 190.51.80.159
+REF : jefe-de-operaciones
+Nombre : Maria Fernanda 
+Apellido : Bóccoli
+Cargo : Recepcionista/At. al cliente/Promotora
+Direccion : Humaita 741
+Ciudad : Morón
+Telefono : 5430-2239 / 115020-3917
+Email : fernanda.boccoli@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto Curriculum Vitae donde se detalla mi formación y experiencia.
+Security_code : fkmx5
+Send : Enviar
+
+---------------
+
+Address : 190.114.154.12
+Nombre : Walter
+Apellido : Mardones
+Cargo : Camionero
+Direccion : Huergo 4630
+Ciudad : Comodoro rivadavia
+Telefono : 0297155081813
+Email : waltermardones@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : hola.me gustaria trabajar en alguna Empresa petrolera.gracias
+Security_code : zdb4g
+Send : Enviar
+
+---------------
+

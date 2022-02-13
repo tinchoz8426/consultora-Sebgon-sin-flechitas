@@ -1,0 +1,93 @@
+Address : 190.50.208.196
+Nombre : ANA FLORENCIA
+Apellido : KAVADLO
+Cargo : ASIS RECEPCIONISTA ADMINISTRATIVO
+Direccion : Av. Diaz velez
+Ciudad : MORON
+Telefono : 15-3-560-7475
+Email : kavadloanaflorencia@live.com
+MAX_FILE_SIZE : 2097152
+Mensaje : ESTOY INTERESADA EN LA LA SIGUIENTE PROPUESTA LABORAL
+
+Nos encontramos en la búsqueda de un asistente / administrativo para realizar tareas concernientes a las actividades de la consultora.
+Tendrá función realizar administrativas como también atención de llamados y recepción.
+
+Se requiere:
+Edad: 18 a 22 años
+Estudios: universitarios en curso preferentemente de las carreras de administración, relaciones laborales o recursos humanos.
+Sexo: masculino (excluyente)
+Muy buena presencia
+Conocimientos de paquete office 
+
+Jornada laboral: lunes a viernes en horario part-time
+Quien se incorpore al staff deberá poseer actitud responsable, buena relación interpersonal, integridad y compromiso.
+Enviar remueración pretendida, ref: asis
+Security_code : VC6J5
+Send : Enviar
+
+---------------
+
+Address : 190.50.208.196
+Nombre : ANA FLORENCIA
+Apellido : KAVADLO
+Cargo : ASIS RECEPCIONISTA ADMINISTRATIVO
+Direccion : Av. Diaz velez
+Ciudad : MORON
+Telefono : 15-3-560-7475
+Email : kavadloanaflorencia@live.com
+MAX_FILE_SIZE : 2097152
+Mensaje : ESTOY INTERESADA EN LA LA SIGUIENTE PROPUESTA LABORAL
+ búsqueda de un asistente administrativo para realizar tareas concernientes a las actividades de la consultora.
+Tendrá función realizar administrativas como también atención de llamados y recepción.
+
+
+Security_code : VC6J5
+Send : Enviar
+
+---------------
+
+Address : 186.58.9.21
+Nombre : Magali Paula
+Apellido : Salas
+Cargo : Ventas Atencion al publico
+Direccion : Godoy Cruz 2246
+Ciudad : Bs.As
+Telefono : 1161811953/46996618
+Email : magalisalas@live.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Envio mis datos personales a fin de lograr una entrevista con Ud.Desde ya muchas gracias por la oportunidad e interes.
+Security_code : jk3pn
+Send : Enviar
+
+---------------
+
+Address : 186.58.9.21
+Nombre : Magali Paula
+Apellido : Salas
+Cargo : Ventas Atencion al publico
+Direccion : Godoy Cruz 2246
+Ciudad : Bs.As
+Telefono : 1161811953/46996618
+Email : magalisalas@live.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Envio mis datos personales a fin de lograr una entrevista con Ud.Desde ya muchas gracias por la oportunidad e interes.
+Security_code : jk3pn
+Send : Enviar
+
+---------------
+
+Address : 186.58.9.21
+Nombre : magali paula
+Apellido : salas
+Cargo : ventas atencion al publico
+Direccion : godoy cruz 2246
+Ciudad : Bs.As
+Telefono : 1161811953/46996618
+Email : magalisalas@live.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Envio mis datos personales a fin de lograr una entrevista con Ud.Desde ya muchas gracias por la oportunidad e interes.
+Security_code : jk3pn
+Send : Enviar
+
+---------------
+

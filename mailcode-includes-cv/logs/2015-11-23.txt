@@ -1,0 +1,118 @@
+Address : 181.91.66.57
+REF : JPL
+Nombre : gaston rorigo
+Apellido : spennato
+Cargo : jefe de planta
+Direccion : paris 1834
+Ciudad : pablo podesta
+Telefono : 1123607822
+Email : spennato_gaston@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : señores les adjunto mi cv espero este acorde a su necesidad
+desde ya muchas gracias
+atte
+spennato gaston
+Security_code : spzqy
+Send : Enviar
+
+---------------
+
+Address : 201.250.162.157
+REF : SEP
+Nombre : miguel angel
+Apellido : magne
+Cargo : sep
+Direccion : calderon 5727
+Ciudad : moreno
+Telefono : 0116245452
+Email : mamagne@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Contacto todo el dia
+Security_code : 6jgsw
+Send : Enviar
+
+---------------
+
+Address : 201.176.13.112
+REF : ADM
+Nombre : Ana Inés
+Apellido : Parra
+Cargo : Administrativa para tareas generales
+Direccion : Gabino Ezeiza 1360
+Ciudad : Bella Vista
+Telefono : 1162752833
+Email : aparra2007@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Por este medio adjunto mi currículum vitae para su análisis, en caso que el mismo se adecue al perfil que solicita en la búsqueda de referencia, me complacería ser tenida en cuenta para una entrevista personal y conversar más detalladamente acerca de mi experiencia laboral.
+Reciban mientras tanto mi saludo cordial. 
+Ana Inés Parra
+Security_code : ch3yv
+Send : Enviar
+
+---------------
+
+Address : 190.139.110.10
+REF : GTEP
+Nombre : Jorge
+Apellido : Comesaña
+Cargo : Gerete de Planta
+Direccion : El Ñandú 3173
+Ciudad : CABA
+Telefono : 01161846263
+Email : comesanj@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados, 
+Entiendo reunir todos los requisitos para el puesto ofrecido. Pretendo obtener una remuneración acorde al carg y posibilidades de desrrollo persnal y profesional. Actuamente i sueldo neto es de 38000 pesos + OSDE 310 para el grupo familiar y reintegros por gastos automotor y vivienda. Deseo obtener como mínimo las mismas condiciones
+Quedo a su disposición
+Saludos
+Jorge Comesña
+Security_code : nwhhr
+Send : Enviar
+
+---------------
+
+Address : 181.14.247.42
+Nombre : Fernando
+Apellido : Catterino
+Cargo : Administrativo
+Direccion : Barrio Guemes Manzana D, Sector 19, Casa
+Ciudad : Corrientes
+Telefono : 379154895949
+Email : fercatte1@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto CV
+Security_code : dz3c5
+Send : Enviar
+
+---------------
+
+Address : 201.235.137.229
+Nombre : Gabriela
+Apellido : Ossipoff
+Cargo : Acompañante terapéutico, Maestra integradora
+Direccion : Honorio Pueyrredon 963 4 a
+Ciudad : CABA
+Telefono : 1544087733
+Email : gabyossipoff@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me considero una persona responsable y agradable. Me apasiona el trabajo con personas y entiendo que soy genuina en el encuentro con un otro.
+Security_code : xpjng
+Send : Enviar
+
+---------------
+
+Address : 190.172.26.229
+Nombre : Cintia
+Apellido : Gonzalez
+Cargo : Atencion al Cliente
+Direccion : Vieytes 1606
+Ciudad : Capital Federal
+Telefono : 1166768924
+Email : cintiamayragonzalez@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Formar parte de un equipo de trabajo, aplicar mis experiencias y conocimientos en las distintas áreas de la empresa, y desarrollarme profesionalmente para el buen desempeño de las funciones asignadas.
+Security_code : zgpch
+Send : Enviar
+
+---------------
+

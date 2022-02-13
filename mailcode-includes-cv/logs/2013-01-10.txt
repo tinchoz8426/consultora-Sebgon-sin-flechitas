@@ -1,0 +1,47 @@
+Address : 200.117.134.44
+Nombre : Ayelen
+Apellido : Galdeano
+Cargo : Diseñadora de indumentaria / Secretaria Administrativa
+Direccion : Octaviano Navarro 4134
+Ciudad : Cordoba Capital
+Telefono : 0351-152309883
+Email : ayegaldeano@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Le adjunto mi Curriculum Vitae. 
+Lo saluda 
+Ayelen Galdeano 
+Security_code : mq348
+Send : Enviar
+
+---------------
+
+Address : 186.59.83.150
+Nombre : manuel
+Apellido : puma
+Cargo : técnico electromecanico
+Direccion : lemo
+Ciudad : mendoza
+Telefono : 298-4355045
+Email : manu-albert27@hotmail.es
+MAX_FILE_SIZE : 2097152
+Mensaje : soy alguien q aprende rapido con muchas ganas de trabajar 
+Security_code : yhfbw
+Send : Enviar
+
+---------------
+
+Address : 186.59.118.183
+Nombre : Constanza
+Apellido : Malcun
+Cargo : Analista o Licenciada en Relaciones Humanas
+Direccion : Cochabamba 3518
+Ciudad : Mendoza
+Telefono : 0261-4211743
+Email : contymalcun@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estoy interesada en propuests laborales. Mi disponibilidad horaria es :full time. Desde ya muchas gracias.
+Security_code : zw2mf
+Send : Enviar
+
+---------------
+

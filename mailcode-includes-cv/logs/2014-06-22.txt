@@ -1,0 +1,105 @@
+Address : 190.175.35.125
+Nombre : mari julieta
+Apellido : alegre
+Cargo : administrativa
+Direccion : virrey liniers 577
+Ciudad : caba
+Telefono : 1559008160
+Email : julieta72_98@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Deseo postularme como administrativa,recepcionista o secretaria
+Security_code : cy29x
+Send : Enviar
+
+---------------
+
+Address : 190.27.68.171
+Nombre : Roberto 
+Apellido : Melo Franco
+Cargo : Tecnico / profesional
+Direccion : Diagonal 115 # 45 - 56 apto 102
+Ciudad : Bogota (Colombia)
+Telefono :  047 -  6204305
+Email : robertomelofranco@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : hola, desde Bogota - Colombia, que gustaria conocer que ofdertas hay para extranjeros.
+
+Gracias por su atencion
+
+Roberto Melo Franco
+Bogota - Colombia
+Tel : (047) 6204305
+Cel : 3138351020
+
+Security_code : 6nzhr
+Send : Enviar
+
+---------------
+
+Address : 190.27.68.171
+Nombre : Roberto
+Apellido : Melo Franco
+Cargo : Tecnico / profesional
+Direccion : Diagonal 115 # 45 - 56 apto 102
+Ciudad : Bogota (Colombia)
+Telefono : 047 -  6204305
+Email : robertomelofranco@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : hola, desde Bogota - Colombia, que gustaria conocer que ofdertas hay para extranjeros.
+No puede subir el curriculo completo, envio uno mas liviano 
+Gracias por su atencion
+
+Roberto Melo Franco
+Bogota - Colombia
+Tel : (047) 6204305
+Cel : 3138351020
+
+Security_code : ctg94
+Send : Enviar
+
+---------------
+
+Address : 190.27.68.171
+Nombre : Roberto
+Apellido : Melo Franco
+Cargo : Tecnico / profesional
+Direccion : Diagonal 115 # 45 - 56 apto 102
+Ciudad : Bogota (Colombia)
+Telefono : 047 -  6204305
+Email : robertomelofranco@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola desde Solombia, me gustaria conocer que ofertas hay para extranjeros.
+Envio un curriculo liviano en extension .doc, el sistema no me permitio cargar el pdf completo.
+Gracias por su atencion
+Roberto Melo Franco
+Tel : (047) 6204305
+Cel : 3138351020
+Bogota Colombia
+
+Security_code : d35q2
+Send : Enviar
+
+---------------
+
+Address : 190.27.68.171
+Nombre : Roberto
+Apellido : Melo Franco
+Cargo : Tecnico / profesional
+Direccion : Diagonal 115 # 45 - 56 apto 102
+Ciudad : b
+Telefono : 047 -  6204305
+Email : robertomelofranco@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola desde Solombia, me gustaria conocer que ofertas hay para extranjeros.
+Trate de enviar el curriculo por pdf, .doc, y en archivo liviano , pero el sistema no permitio cargar
+Gracias por su atencion
+Roberto Melo Franco
+Tel : (047) 6204305
+Cel : 3138351020
+Bogota Colombia
+
+Security_code : x26rm
+Send : Enviar
+
+---------------
+

@@ -1,0 +1,122 @@
+Address : 181.109.184.152
+Nombre : Yanina 
+Apellido : Herrera 
+Cargo : Atención al público 
+Direccion : Camino de las toscas 
+Ciudad : Belén de escobar 
+Telefono : 1130265795
+Email : Franponce75@gmail.com 
+MAX_FILE_SIZE : 2097152
+Mensaje : Agradecere puesto de trabajo para capacitarme aun mas gracias 
+Security_code : 7j6kp  
+Send : Enviar
+
+---------------
+
+Address : 190.216.66.234
+Nombre : maria jimena
+Apellido : pastor
+Cargo : Administrativa
+Direccion : Crespo 2188
+Ciudad : Caba
+Telefono : 011-1532807441
+Email : pastor@agro.uba.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Desde ya agradeceré disposición en la selección.
+Security_code : kd4px
+Send : Enviar
+
+---------------
+
+Address : 200.126.223.248
+Nombre : Laura Mercedes
+Apellido : Guido
+Cargo : Cadista
+Direccion : Teodoro Garcia 3509
+Ciudad : capital federal
+Telefono : 4553-8961
+Email : lauramercedesguido@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Sr. / Sra. Gerente de RR.HH.:
+
+A través del  presente, le envío mi Curriculum Vitae, con motivo de formar parte de la base de datos y ser valorada para futura búsquedas laborales.
+Considero que mis aptitudes, motivación y creatividad, pueden contribuir al crecimiento del sector donde me encuentre.
+Ante cualquier duda o para ampliar información no dude en ponerse en contacto conmigo, quedo a la espera de su llamado.
+
+Saluda atentamente, 
+
+Laura Mercedes Guido. 
+
+ 
+
+Tel: (011) 4553-8961
+Celular: 155-593-9303
+
+lauramercedesguido@gmail.com
+
+
+Security_code : 78w3n
+Send : Enviar
+
+---------------
+
+Address : 186.153.72.227
+Nombre : Gisel
+Apellido : Acosta
+Cargo : administración, atención al publico o telemarketer 
+Direccion : Pelegrini 5150
+Ciudad : Rosario 
+Telefono : 4361086
+Email : gisechesortu@hotmail.es
+MAX_FILE_SIZE : 2097152
+Mensaje : disponibilidad horaria no poseo movilidad.
+Security_code : 4khmq
+Send : Enviar
+
+---------------
+
+Address : 186.23.129.220
+Nombre : Maria Florencia
+Apellido : Ceballos
+Cargo : Recepcionista, secretaria
+Direccion : Colombres 118
+Ciudad : Almagro, Capital Federal
+Telefono : 20540379
+Email : clover_2_3@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Busco empleo de lunes a viernes/sábado, part-time, full-time. Remuneración pretendida: desde $3500
+Security_code : n57b5
+Send : Enviar
+
+---------------
+
+Address : 186.23.129.220
+Nombre : Maria Florencia
+Apellido : Ceballos
+Cargo : Recepcionista, secretaria
+Direccion : Colombres 118
+Ciudad : Almagro, Capital Federal
+Telefono : 20540379
+Email : clover_2_3@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Busco empleo de lunes a viernes/sábado, part-time, full-time. Remuneración pretendida: desde $3500
+Security_code : n57b5
+Send : Enviar
+
+---------------
+
+Address : 186.23.129.220
+Nombre : Maria Florencia
+Apellido : Ceballos
+Cargo : Recepcionista, secretaria
+Direccion : Colombres 118
+Ciudad : Almagro, Capital Federal
+Telefono : 20540379
+Email : clover_2_3@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Busco empleo de lunes a viernes/sábado, part-time, full-time. Remuneración pretendida: desde $3500
+Security_code : mbgjm
+Send : Enviar
+
+---------------
+

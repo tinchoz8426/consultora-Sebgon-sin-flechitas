@@ -1,0 +1,59 @@
+Address : 190.51.28.207<br>
+ <br>Nombre : julio alesis
+ <br>Apellido : zarate
+ <br>Cargo : operario,vendedor,atencion al publico
+ <br>Direccion : 125 nro 1767
+ <br>Ciudad : berazategui
+ <br>Telefono : 42162840
+ <br>Email : miriamnexag.o@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola,mi nombre es Julio Zarate y estoy en busqueda laboral. Soy una persona responsable y me adapto y aprendo rapido. Le dejo adjuntado mi CV. Muchas gracias
+ <br>Security_code : 4sfkb
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.138.124.10<br>
+ <br>REF : ACO-1
+ <br>Nombre : Solana
+ <br>Apellido : Bentancur
+ <br>Cargo : comercio exterior
+ <br>Direccion : Monte Caseros
+ <br>Ciudad : Gualeguay
+ <br>Telefono : 03444 15447383
+ <br>Email : solubentancur@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Proactiva, flexible,organizada, con ganas de trabajar y crecer profesionalmente.
+ <br>Security_code : nrvhs
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.19.118.87<br>
+ <br>REF : ACO-1
+ <br>Nombre : Agustin
+ <br>Apellido : Arena
+ <br>Cargo : analista de comercio internacional
+ <br>Direccion : Aristobulo del valle, SN
+ <br>Ciudad : Lanus oeste
+ <br>Telefono : 1526423260
+ <br>Email : agustin.arena@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : stimados,
+
+Buenos días.
+
+Mi nombre es Agustín Arena, tengo 23 años y me encuentro cursando la Licenciatura de Comercio Internacional. Obtuve a fines de diciembre mi titulo como Analista de Comercio Internacional y estoy próximo a graduarme de la Licenciatura. 
+El motivo de mi mail es por el puesto de trabajo que ofrecen de Analista de Importación. Me encuentro con muchas ganas de poder tener la oportunidad de insertarme en el mercado internacional y poder aportar todo mi conocimiento y poder incorporar todos los aspectos de la carrera profesional tanto en lo profesional como en la practica. 
+Tengo muchas ganas de poder iniciar mi carrera en lo profesional. Espero puedan tenerme en cuenta para dicha busqueda y caso contrario quedar en su base de dato para futuro.
+
+Desde ya les agradezco mucho su tiempo.
+
+Saludos Atte.
+Agustin Arena
+
+ <br>Security_code : n24bz
+ <br>Send : Enviar
+ <br>
+---------------
+

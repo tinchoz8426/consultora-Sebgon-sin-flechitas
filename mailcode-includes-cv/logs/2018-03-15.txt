@@ -1,0 +1,93 @@
+Address : 181.47.217.81<br>
+ <br>Nombre : Juan Manuel
+ <br>Apellido : Manrique
+ <br>Cargo : Periodista
+ <br>Direccion : Guemes 4256
+ <br>Ciudad : CABA
+ <br>Telefono : 280 154661406
+ <br>Email : juan_m08@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Mi nombre es Juan Manrique. Soy  graduado universitario, periodista y Licenciado en Comunicación. Envío este E-mail con el motivo de poder participar de la búsqueda laboral que la empresa realiza, y formar parte de las pruebas que el departamento de recursos humanos haga de aquí en adelante. 
+En cuanto a mí: soy una persona responsable, con iniciativa, con muchas ganas de aprender. Poseo una larga experiencia como productor y redactor en medios gráficos y on-line; Tengo conocimientos sobre herramientas de edición de imagen, sonido y video, además de un buen manejo de Internet y redes sociales.
+ <br>Security_code : spwyt
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.183.56.232<br>
+ <br>Nombre : Francisco Dario
+ <br>Apellido : MAIDANA
+ <br>Cargo : ASESOR Y/O SEPERVISOR
+ <br>Direccion : LAS DALIAS NRO 209
+ <br>Ciudad : CORRIENTES
+ <br>Telefono : 3794581051
+ <br>Email : fdm.consultora@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : ESTOY EN BUSCA DE NUEVOS DESAFIOS, POR LO QUE ESTOY A SU ENTERA DISPOSICION, PARA LO QUE GUSTE ENCOMENDAR, GRACIAS ATTE FRANCISCO
+ <br>Security_code : jc9f7
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.9<br>
+ <br>REF : TE-1
+ <br>Nombre : Renny Paul
+ <br>Apellido : Yepez Lucena
+ <br>Cargo : Técnico Electricista
+ <br>Direccion : Calle Tupac Amaru 74, Barrio los Angeles UF 25
+ <br>Ciudad : Ingeniero Maschwitz, Escobar 
+ <br>Telefono : 911-32655240
+ <br>Email : rennyyepez@yahoo.es
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas Estimados, Mi nombre es Renny Yepez y soy Técnico Superior Universitario en Electricidad Industrial. Soy Venezolano y me encuentro en Argentina, tengo amplia experiencia laboral y podrán ver parte en mi resume  curricular. Estoy interesado en formar parte en su equipo de trabajo, mi disponibilidad es para trabajar a tiempo completo, horarios rotativos e incluso disponibilidad de viajar y cambio de residencia. Tengo experiencia Mi última experiencia laboral fue en la Energía Eléctrica de Venezuela donde dure 10 años, en las cuales 5 de ellos como Técnico Electricista en el Departamento de Protecciones, medición y Control del sistema Eléctrico del Estado a nivel de Subestaciones de Transmisión y Distribución. Luego trabaje con el cargo de Despachador de Carga supervisando, monitores no y controlando el sistema Eléctrico de la región Centro Occidental de Venezuela por medio de Sitemas SCADA e igualmente despachaba las unidades de Generación de la zona. Tengo experiencia en otras empresas y mi solicitud es para ser tomado en cuenta y sea evaluado mi perfil. En mi resumen curricular están mis datos personales. .. Sin nada más a que hacer referencia me despido de ustedes deseándole el mayor de los éxitos.  
+ <br>Security_code : K4r54
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.47.217.176<br>
+ <br>REF : ROT-1
+ <br>Nombre : massiel
+ <br>Apellido : quevedo
+ <br>Cargo : ARQUITECTO
+ <br>Direccion : Baradero 56
+ <br>Ciudad : Floresta
+ <br>Telefono : 1123532247
+ <br>Email : massi
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : ARQUITECTURA CONSTRUCCION LOGISTICA PLANIFICACION CADISTA PROYECTISTA DIBUJANTE
+ <br>Security_code : rgg23
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.27<br>
+ <br>Nombre : Ignacio
+ <br>Apellido : Ramirez
+ <br>Cargo : Chofer
+ <br>Direccion : Cortina 12333
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 46266534- 1164351644
+ <br>Email : Nachito04_04@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me encuentro en búsqueda laboral activo. Chófer de media y corta distancia. Poseo registro y experiencias al día.
+ <br>Security_code : 52ssc
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 200.80.131.117<br>
+ <br>Nombre : Natalia
+ <br>Apellido : Ortega
+ <br>Cargo : técnico en higiene y seguridad laboral
+ <br>Direccion : cardozo 150
+ <br>Ciudad : Arroyo Seco
+ <br>Telefono : 0340215447214
+ <br>Email : natiortega_17@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : disponibilidad horaria.
+ <br>Security_code : wpgff
+ <br>Send : Enviar
+ <br>
+---------------
+

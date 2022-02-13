@@ -1,0 +1,12 @@
+Address : 190.190.189.98
+Nombre : Catalina 
+Apellido : De Faccio
+Empresa : Sociedad Friulana Buenos Aires
+Telefono : 501-0764
+Email : friulanabuenosaires@fibertel.com.ar
+Mensaje : Necesitamos un presupuesto para la confección del plano de evacuación y evaluación de la carga de fuego para nuestra Sede Social. Muchas gracias.
+Security_code : 4jcyq
+Send : Enviar
+
+---------------
+

@@ -1,0 +1,113 @@
+Address : 181.171.238.68<br>
+ <br>Nombre : Debora 
+ <br>Apellido : Ayunta 
+ <br>Cargo : Cajera, vendedora, recepcionista, de limpieza 
+ <br>Direccion : 144 e 6y7 
+ <br>Ciudad : La Plata 
+ <br>Telefono : 2216388049
+ <br>Email : Debi.ayunta88@gmail.com 
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje :  me considero una persona muy sociable ,y responsable en mi trabajo. 
+-poseo disponibilidad absoluta para trabajar e incorporar nuevos conocimientos en el área laboral.
+ Aprendo muy rapido. 
+ <br>Security_code : jnb3j
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 170.51.43.31<br>
+ <br>Nombre : Juan jose
+ <br>Apellido : Zuñiga perez
+ <br>Cargo : Chofer
+ <br>Direccion : Barrio la nueva formosa mansana 9 casa 18
+ <br>Ciudad : Formosa capital
+ <br>Telefono : 3704345148
+ <br>Email : Juanjosezuñiga@gimeil.com 
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Horarios disponible full taim
+ <br>Security_code : Jzv9r
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.7<br>
+ <br>REF : TE-1
+ <br>Nombre : Roderyck 
+ <br>Apellido : Nava
+ <br>Cargo : Técnico electrico
+ <br>Direccion : Manzilla 60 pilar. Bs
+ <br>Ciudad : Buenos aires
+ <br>Telefono : 1128289588
+ <br>Email : rnava2106@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenos dias, el presente es para postularme por la oferta de empleo de técnico electrico
+ <br>Security_code : Jgrnq
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.174.114.44<br>
+ <br>Nombre : Florencia
+ <br>Apellido : Benitez
+ <br>Cargo : Tecnico
+ <br>Direccion : 487 e/ 134 y 135
+ <br>Ciudad : La Plata
+ <br>Telefono : (221) 6542672
+ <br>Email : benitez.florenciasabrina@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me pongo en contacto con Ud. para manifestarle que estoy buscando nuevas oportunidades laborales, por ello presento mi candidatura para futuros empleos vacantes.
+Remito mi CV. y dos cartas de recomendación.
+Quedo a su entera disposición y a la espera de una pronta respuesta.
+Muchas gracias
+ <br>Security_code : nvd85
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.101.178.141<br>
+ <br>Nombre : Marcia
+ <br>Apellido : Perez
+ <br>Cargo : Mucama
+ <br>Direccion : Serrano 750
+ <br>Ciudad : BsAs
+ <br>Telefono : 1560467075
+ <br>Email : mspmarciaperez@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Bueno desde ya muchas gracias por favor, contestar es con urgencia 
+ <br>Security_code : 6dr8r
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.106.32.251<br>
+ <br>Nombre : Nicolas
+ <br>Apellido : del Cin
+ <br>Cargo : Administrativo
+ <br>Direccion : Manuela Pedraza, 1715
+ <br>Ciudad : Capital Federal
+ <br>Telefono : 2284522124
+ <br>Email : nicolas.delcin@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Solicito empleo con urgencia para culquier trabajo de tipo administrativo/contable/cajero/repositor/at al cliente/callcenter.
+ <br>Security_code : f7ssw
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.16.167.22<br>
+ <br>Nombre : Felix Edgardo German
+ <br>Apellido : Thorlet
+ <br>Cargo : Playero de Estación de Servicio
+ <br>Direccion : venezuela 3848 
+ <br>Ciudad : Ciudad Autónoma de Buenos Aires
+ <br>Telefono : 11-15-34623470
+ <br>Email : thorletfelix@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados les adjunto mi curriculum para su análisis quedando así a la espera de una futura entrevista.
+Saludos Cordiales!
+Thorlet Félix  
+ <br>Security_code : nqrwz
+ <br>Send : Enviar
+ <br>
+---------------
+

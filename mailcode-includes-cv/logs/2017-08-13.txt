@@ -1,0 +1,94 @@
+Address : 186.135.18.140<br>
+ <br>REF : chr
+ <br>Nombre : daniel miguel
+ <br>Apellido : fabro
+ <br>Cargo : chofer
+ <br>Direccion : platon 5820
+ <br>Ciudad : jose c paz
+ <br>Telefono : 01150636736
+ <br>Email : laura.ali2002@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : hola tengocnrt registro de moyano registro profesional al dia 
+ <br>Security_code : nk37h
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.19.104.218<br>
+ <br>REF : ROT-1
+ <br>Nombre : Nicolás
+ <br>Apellido : Bruno
+ <br>Cargo : Responsable de oficina técnica
+ <br>Direccion : Boedo, 313
+ <br>Ciudad : Ramos Mejía
+ <br>Telefono : 1530048009
+ <br>Email : nicobruno85@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hago llegar mi CV para postularme en la búsqueda que están realizando.
+Saludos Cordiales
+ <br>Security_code : 5rt9z
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.178.128.219<br>
+ <br>REF : chr
+ <br>Nombre : mantovani
+ <br>Apellido : diego
+ <br>Cargo : chofer
+ <br>Direccion : venezuela
+ <br>Ciudad : avellaneda
+ <br>Telefono : 1134244415
+ <br>Email : lele-22@live.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : les envio mi cv para el puesto de chofer 
+ <br>Security_code : fz3f7
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.141.197.169<br>
+ <br>Nombre : Giselle
+ <br>Apellido : Santana
+ <br>Cargo : Encuestadora
+ <br>Direccion : Rodario 2347
+ <br>Ciudad : Don torcuato
+ <br>Telefono : 15-55848341
+ <br>Email : Lauragisellesantana@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Busco trabajo de lo que haya urgente! Gracias
+ <br>Security_code : Ykqrt
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.141.197.169<br>
+ <br>Nombre : Giselle
+ <br>Apellido : Santana
+ <br>Cargo : Encuestadora
+ <br>Direccion : Rodario 2347
+ <br>Ciudad : Don torcuato
+ <br>Telefono : 15-55848341
+ <br>Email : Lauragisellesantana@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Busco trabajo de lo que haya urgente! Gracias
+ <br>Security_code : YKqrt
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 179.36.134.165<br>
+ <br>Nombre : nestor 
+ <br>Apellido : garay
+ <br>Cargo : produccion
+ <br>Direccion : conde 4444
+ <br>Ciudad : la matanza
+ <br>Telefono : 1166430631
+ <br>Email : nahiarabairon15@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : necesito trabajar ya que tengo un hijo muy chiquito que necesita de mi
+ <br>Security_code : vvvs7
+ <br>Send : Enviar
+ <br>
+---------------
+

@@ -1,0 +1,81 @@
+Address : 186.137.44.184
+Nombre : Alejandro Eugenio
+Apellido : Parada
+Cargo : Presentacion
+Direccion : Calle 489 N° 2188
+Ciudad : La Plata
+Telefono : 02214710399
+Email : alejandroeparada@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados buenos días,
+
+Después de haber visto su página Web, por medio de la presente les hago llegar mi CV para que figure en su base de datos para cualquier búsqueda laboral que surja y coincida con mi perfil, ya que estoy a la búsqueda de una posición dentro de una empresa de prestigio que me permita aportar mis conocimientos y experiencia y sea un nuevo desafío profesional.
+
+
+Quedo a su disposición por cualquier duda.
+
+Saludos
+
+
+Alejandro E. Parada
+
+Security_code : 8266b
+Send : Enviar
+
+---------------
+
+Address : 186.182.9.39
+Nombre : Mariana Ines
+Apellido : Freire
+Cargo : administración
+Direccion : Lavarello 605
+Ciudad : Sarandi
+Telefono : 56487411
+Email : mfreire2002@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : A quien corresponda, adjunto envio mi CV esperando contar con vuestro llamado para futuras entrevistas. Muchas Gracias
+Security_code : 54xwm
+Send : Enviar
+
+---------------
+
+Address : 190.17.115.135
+Nombre : Debora Ailen
+Apellido : Quilici
+Cargo : el que se solicite
+Direccion : francisco de bengolea 320
+Ciudad : Cordoba Capital
+Telefono : 0351-153114399
+Email : a.quilici@outlook.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Objetivos
+-	Desempeñarme en el puesto en que se me asigne
+-	Aceptar los desafíos que me proponga la empresa
+-	Lograr nuevas metas laborales, como así también personales
+-	Crecer en conocimientos
+
+Security_code : bmb2h
+Send : Enviar
+
+---------------
+
+Address : 190.17.115.135
+Nombre : Debora Ailen
+Apellido : Quilici
+Cargo : el que se solicite
+Direccion : francisco de bengolea 320
+Ciudad : Cordoba Capital
+Telefono : 0351-153114399
+Email : a.quilici@outlook.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Objetivos
+-	Desempeñarme en el puesto en que se me asigne
+-	Aceptar los desafíos que me proponga la empresa
+-	Lograr nuevas metas laborales, como así también personales
+-	Crecer en conocimientos
+
+Security_code : bmb2h
+Send : Enviar
+
+---------------
+

@@ -1,0 +1,54 @@
+Address : 181.164.98.76<br>
+ <br>Nombre : JOSE DEL CARMEN
+ <br>Apellido : RAMONES PIÑERO
+ <br>Cargo : INGENIERO CIVIL VACANTES
+ <br>Direccion : HUMBOLDT 2462
+ <br>Ciudad : CABA
+ <br>Telefono : 1122404066
+ <br>Email : ramonesjose@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola Buenas Tardes, Soy un Ingeniero con buena comunicación, excelente relaciones interpersonales, responsable, trabajador  y con amplia experiencia en la construcción y obras civiles, como por ejemplo: inspeccion de obras, vialidad urbana y rural, diseño de mesclas de concreto y asflato, sala de proyectos y sala tecnica, control de calidad y produccion de planta de bloques de mamposteria, entre otros ya que por mas de 10 años e trabajado en el área de la construcción. Además manejo bien las herramientas tecnológicas como (AUTOCAD, WORD, EXCEL, POWER POINT, IP3, SWMM, LULOWIN, EPANET).
+
+Tengo completa disponibilidad y muchas ganas de trabajar, Sin más a que hacer referencia.-
+
+Ing. Jose Ramones
+011-22404066 / 011-68209312
+ <br>Security_code : r7bkx
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.47.52.65<br>
+ <br>REF : ROT-1
+ <br>Nombre : Maximiliano Raul
+ <br>Apellido : Carrizo
+ <br>Cargo : Diseñador Industrial
+ <br>Direccion : bogota 1671
+ <br>Ciudad : CABA
+ <br>Telefono : 1566280074
+ <br>Email : maximilianorcarrizo@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : A quien corresponda:
+Soy Diseñador Industrial buscando trabajo. Adjunto mi CV y link con Portfolio. Espero poder concertar una entrevista.
+Saludos cordiales
+ <br>Security_code : bghzq
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.22.250.45<br>
+ <br>REF : JPER-1
+ <br>Nombre : Debora
+ <br>Apellido : Charaf
+ <br>Cargo : Jefe de Recursos Humanos
+ <br>Direccion : Salcedo 2933
+ <br>Ciudad : CABA
+ <br>Telefono : 1130576565
+ <br>Email : d_charaf@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : envio mi CV
+ <br>Security_code : sczhf
+ <br>Send : Enviar
+ <br>
+---------------
+

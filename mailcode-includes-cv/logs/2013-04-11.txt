@@ -1,0 +1,37 @@
+Address : 190.189.106.15
+Nombre : Denise
+Apellido : Bevilacqua
+Cargo : Administrativo
+Direccion : José Bonifacio 4170
+Ciudad : Capital Federal
+Telefono : 46710157
+Email : denisebevilacqua8@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Envío adjunto CV
+Security_code : vj7y8
+Send : Enviar
+
+---------------
+
+Address : 181.166.121.232
+Nombre : Sergio
+Apellido : Giannunzio
+Cargo : Jefe/Lider de Area o Sectoor
+Direccion : de los Claveles 2676
+Ciudad : El Palomar
+Telefono : 1569115334
+Email : sergio.giannunzio@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : PERFIL
+
+Lógico y crítico en los enfoques hacia la obtención de metas. 
+
+Directo y efectivo en el trato con el equipo de trabajo, coordinado con una adecuada delegación, perseverante, respetuoso de la ética y  de buenas relaciones interpersonales.
+
+Organizado en planificación de tareas, respondiendo constantemente a desafíos y oportunidades. 
+
+Security_code : sphkd
+Send : Enviar
+
+---------------
+

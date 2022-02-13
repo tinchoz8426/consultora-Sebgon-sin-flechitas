@@ -1,0 +1,32 @@
+Address : 181.168.72.14
+REF : GT PL
+Nombre : Fernando Enrique
+Apellido : Orio
+Cargo : Gerente
+Direccion : Benito Lynch 2664 4to B
+Ciudad : Buenos Aires
+Telefono : 1162260370
+Email : fernandoenrique.orio@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Cuento con mas de 20 años de experiencia industrial pasando por todas las areas de proceso y produccion, con manejo de gran numero de personas , objetivos, indicadores de gestion, etc, con formaciones en el ambito local e internacional considero estar a la altura de las busquedas en diferentes areas, produccion, calidad, mantenimiento, oficinas tecnicas, desde ya muchas gracias por su consideracion
+Security_code : prgr3
+Send : Enviar
+
+---------------
+
+Address : 181.168.72.14
+REF : GT PL
+Nombre : Fernando Enrique
+Apellido : Orio
+Cargo : Gerente
+Direccion : Benito Lynch 2664 4to B
+Ciudad : Buenos Aires
+Telefono : 1162260370
+Email : fernandoenrique.orio@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Cuento con mas de 20 años de experiencia industrial pasando por todas las areas de proceso y produccion, con manejo de gran numero de personas , objetivos, indicadores de gestion, etc, con formaciones en el ambito local e internacional considero estar a la altura de las busquedas en diferentes areas, produccion, calidad, mantenimiento, oficinas tecnicas, desde ya muchas gracias por su consideracion
+Security_code : prgr3
+Send : Enviar
+
+---------------
+

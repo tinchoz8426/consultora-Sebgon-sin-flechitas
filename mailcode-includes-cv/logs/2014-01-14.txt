@@ -1,0 +1,76 @@
+Address : 186.57.225.202
+Nombre : Christian 
+Apellido : Heredia
+Cargo : Repositor
+Direccion : Entre Rios 1682
+Ciudad : Morón
+Telefono : 4627 - 3570
+Email : christian.heredia@outlook.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me gustaría encontrar un empleo que me permita progresar y continuar con mis estudios universitarios. 
+Security_code : rpywx
+Send : Enviar
+
+---------------
+
+Address : 91.193.45.7
+REF : TECNICO-ELECTRONICO
+Nombre : mariano
+Apellido : aguilera
+Cargo : tecnico electronico
+Direccion : genova 466
+Ciudad : mariano acosta
+Telefono : 1537916803
+Email : electroaguilera@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : estoy interesado en la busqueda
+Security_code : p9952
+Send : Enviar
+
+---------------
+
+Address : 200.195.166.42
+Nombre : Daiana
+Apellido : Wisczorek
+Cargo : Ventas-Atencion al publico
+Direccion : G artigas 350 Villa Alta
+Ciudad : Púerto Iguazu
+Telefono : 03751405091
+Email : wiesczorekc22@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola Buenos dias estoy interesada en trabajos referidos a ventas y/o atencion al publico ,actualmente estoy desocupada.Espero su pronta respuesta .Atte
+Security_code : 3x8wr
+Send : Enviar
+
+---------------
+
+Address : 181.110.108.186
+Nombre : Rodrigo Nicolás
+Apellido : Cejas
+Cargo : no tengo un puesto fijo
+Direccion : Alberto Einstein 384
+Ciudad : Salta capital- Barrio Universitario
+Telefono : 4251657
+Email : roysc100
+MAX_FILE_SIZE : 2097152
+Mensaje : Mentalidad proactiva, con muchas ganas de progresar.
+Security_code : hwzrp
+Send : Enviar
+
+---------------
+
+Address : 186.135.10.221
+Nombre : Linda Ayelen
+Apellido : Figueroa
+Cargo : Técnico radiologo/Recepcionista/Telefonista
+Direccion : Reservistas Argentinos 3039
+Ciudad : Moreno
+Telefono : (0237)4639244
+Email : tec.aye_figueroa@outlook.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Envío mi cv para formar parte de su base de datos y me tuvieran en cuenta ante alguna oferta laboral. El objetivo es acrecentar mi conocimientos y poder tener una estabilidad económica.
+Security_code : gstd2
+Send : Enviar
+
+---------------
+

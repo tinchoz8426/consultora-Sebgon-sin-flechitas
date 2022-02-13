@@ -1,0 +1,19 @@
+Address : 190.17.131.44
+Nombre : Natalia Vanesa
+Apellido : Alvarez
+Cargo : Secretaria
+Direccion : Ombú 1119
+Ciudad : Villa Luzuriaga, San Justo
+Telefono : 011 153398-1446
+Email : nataliavaalvarez@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : A través de este medio les envío mi CV para que lo tengan en cuenta ante posibles búsquedas. Estoy dispuesta a concretar una entrevista para conocernos, en el día y horario que ustedes dispongan y así poder escuchar su propuesta laboral. Agradecería me den la posibilidad de demostrar mis conocimientos adquiridos. Atentamente.
+
+
+Natalia Vanesa Alvarez
+153398-1446
+Security_code : 2jygj
+Send : Enviar
+
+---------------
+

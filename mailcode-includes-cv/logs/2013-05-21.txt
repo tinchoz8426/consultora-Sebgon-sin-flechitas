@@ -1,0 +1,56 @@
+Address : 186.129.161.67
+Nombre : Maximo Martin
+Apellido : Paz
+Cargo : Administrativo
+Direccion : Ricardo Rojas 2567
+Ciudad : Burzaco
+Telefono : (011)- 4238-9983 / 1557034644
+Email : maximomartinpaz@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : De mi mayor consideración:
+Me dirijo a Uds. a los efectos de hacerles llegar mi CV con mis datos personales, capacidades y tareas desempeñadas.  
+Soy estudiante de la carrera de Contador Público en la Universidad Nacional de Lomas de Zamora. Me he desempeñado en operaciones logísticas en Cepas Argentina (“Gancia”) con sistema de información en almacén. He trabajado en Estudios Contables, realizando tareas Administrativas Contables e impositivas. Además poseo buen manejo de herramientas informáticas.
+Espero una respuesta favorable para poder concertar una entrevista personal y ampliar los datos incluidos en mi currículum. 
+Saludos cordiales.
+
+Security_code : 4tp86
+Send : Enviar
+
+---------------
+
+Address : 190.31.235.161
+Nombre : Soledad
+Apellido : Medina
+Cargo : administrativo/limpieza
+Direccion : suarez 737
+Ciudad : C.A.B.A.
+Telefono : 43025645
+Email : sol_medina12@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenas tardes estimados 
+Me dirijo a ustedes con el fin de dejarles mi C.V. para un puesto laboral.
+
+aylen S.Medina
+Security_code : nt248
+Send : Enviar
+
+---------------
+
+Address : 190.31.235.161
+Nombre : Juan 
+Apellido : Sendra
+Cargo : administravo
+Direccion : Alberdi 3412
+Ciudad : San Andres
+Telefono : 1132338381
+Email : juan.a.sendra@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : buenas tardes,
+Me comunico a ustedes para dejarles mi curriculum.
+
+Muchas Gracias por su atencion.
+Security_code : dgfpt
+Send : Enviar
+
+---------------
+

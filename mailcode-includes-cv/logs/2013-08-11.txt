@@ -1,0 +1,21 @@
+Address : 181.31.54.123
+REF : gerente-produccion
+Nombre : Gustavo
+Apellido : Costanzo
+Cargo : Gerente de Produccion
+Direccion : Echeverria 850
+Ciudad : Gral Pacheco
+Telefono : 15 36 94 07 29
+Email : gj_costanzo@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Ante quien corresponda:
+
+Adjunto para vuestra evaluacion mis antecedentes laborales para que puedan ser considerados en la busqueda por ustedes publicada.
+Atte
+
+Gustavo Costanzo
+Security_code : gkp8y
+Send : Enviar
+
+---------------
+

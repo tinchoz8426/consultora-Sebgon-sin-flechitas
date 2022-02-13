@@ -1,0 +1,63 @@
+Address : 190.174.131.106
+REF : administrativa-compras
+Nombre : Florencia 
+Apellido : Bolis
+Cargo : Administrativa 
+Direccion : Coraceros 3250
+Ciudad : Hurlingham
+Telefono : 4452 9116 / 15 6484 9242
+Email : flor_bolis@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : por medio del presente envio un archivo en word con mi curriculum vitae. En respuesta a la solicitud publicada. A la espera de una satisfactoria respuesta. Saluda Atte. Florencia Bolis.
+Security_code : 34sm2
+Send : Enviar
+
+---------------
+
+Address : 190.51.125.118
+Nombre : Oscar
+Apellido : Crespo
+Cargo : Empleado
+Direccion : Lobos 2131
+Ciudad : Castelar
+Telefono : 1568696347
+Email : oscar_crespo_1604@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : les mando mi Curriculum Vitae, para formar parte de su base de datos, asi poder llegar a encontrar un trabajo digno y en donde con su ayuda poder seguir creciendo en el ambito laboral y cultural.
+Security_code : g5fms
+Send : Enviar
+
+---------------
+
+Address : 190.245.120.25
+Nombre : Daiana 
+Apellido : HOLASEK
+Cargo : Secretaria,telefonista,maquilladora,asesora de imagen,administrativa.
+Direccion : Donato alvarez 1026
+Ciudad : CABA
+Telefono : 1561971150
+Email : daianaholasek@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me comunico con ustedes con el fin de encontrar un trabajo acorde a mi Cv.
+Muchas gracias.
+
+Security_code : mr9n3
+Send : Enviar
+
+---------------
+
+Address : 190.231.28.175
+Nombre : Andres
+Apellido : Bardach
+Cargo : Cualquira
+Direccion : Etruria 7908
+Ciudad : Cordoba
+Telefono : 0351 157510039
+Email : andresbardach@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje :  
+Security_code : 43r2f
+Send : Enviar
+
+---------------
+

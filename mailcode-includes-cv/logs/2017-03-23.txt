@@ -1,0 +1,158 @@
+Address : 191.80.104.230<br>
+ <br>Nombre : Rocio
+ <br>Apellido : Rodriguez
+ <br>Cargo : Ventas
+ <br>Direccion : Pedro garcia 5630
+ <br>Ciudad : Capital Federal
+ <br>Telefono : 46050799
+ <br>Email : rrbogado16@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : .
+ <br>Security_code : 9mnmm
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.9<br>
+ <br>REF : chr
+ <br>Nombre : Ezequiel jonatan
+ <br>Apellido : Rolon
+ <br>Cargo : Chofer cargas generales
+ <br>Direccion : Zelaya 115
+ <br>Ciudad : Claypole
+ <br>Telefono : 1520267223
+ <br>Email : ezequieljonatanrolon@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buscó trabajo de chofer cargas generales registros al día buena predisposición desde ya muchas gracias
+ <br>Security_code : Xjk7g
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.7<br>
+ <br>REF : chr
+ <br>Nombre : Ezequiel jonatan
+ <br>Apellido : Rolon
+ <br>Cargo : Chofer cargas generales
+ <br>Direccion : Zelaya 115
+ <br>Ciudad : Claypole
+ <br>Telefono : 1520267223
+ <br>Email : ezequieljonatanrolon@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buscó trabajo de chofer cargas generales registros al día buena predisposición desde ya muchas gracias
+ <br>Security_code : Xjk7g
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 200.125.106.100<br>
+ <br>REF : chr
+ <br>Nombre : Martín
+ <br>Apellido : Gallinal
+ <br>Cargo : Operario dep./ chofer
+ <br>Direccion : Coronel isleño 876
+ <br>Ciudad : Isidro Casanova
+ <br>Telefono : 1533494953
+ <br>Email : martinnicoga369@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola buen día! Mi nombre es Martín gallinal, en este email les acerco mi currículum. Mi experiencia es amplia, ya sea en depósito, control de mercadería, reposición, venta, etc. También cuento con registro de conducir profesional. Muy buen trato y responsable! Desde ya, Muchas gracias!
+ <br>Security_code : f9rv2
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 200.125.106.100<br>
+ <br>REF : chr
+ <br>Nombre : Martín
+ <br>Apellido : Gallinal
+ <br>Cargo : Operario dep./ chofer
+ <br>Direccion : Coronel isleño 876
+ <br>Ciudad : Isidro Casanova
+ <br>Telefono : 1533494953
+ <br>Email : martinnicoga369@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola buen día! Mi nombre es Martín gallinal, en este email les acerco mi currículum. Mi experiencia es amplia, ya sea en depósito, control de mercadería, reposición, venta, etc. También cuento con registro de conducir profesional. Muy buen trato y responsable! Desde ya, Muchas gracias!
+ <br>Security_code : f9rv2
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 200.125.107.102<br>
+ <br>REF : chr
+ <br>Nombre : Nicolás Ezequiel
+ <br>Apellido : Cardozo
+ <br>Cargo : Chofer de camion
+ <br>Direccion : Caminito 755
+ <br>Ciudad : Ezeiza
+ <br>Telefono : 15282924
+ <br>Email : Nicolascardozo90@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola: me dirijo a usted por la vacante de empleo. Tengo todos los registros al día y ganas de trabajar de sde ya muchas grasias.
+ <br>Security_code : 2hyh7
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.109.95.122<br>
+ <br>REF : chr
+ <br>Nombre : Damian
+ <br>Apellido : Vasile
+ <br>Cargo : Chofer logistica/vendedor
+ <br>Direccion : Av.martin garcia 688 8 r
+ <br>Ciudad : Buenos aires
+ <br>Telefono : 1566171488
+ <br>Email : damianvasile@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Soy responsable,cumplidor, confiable.chofer con exp.cnrt activa.vendedor. referencia 
+ <br>Security_code : Zm2fg
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.213.133.13<br>
+ <br>Nombre : Nabila
+ <br>Apellido : Dieterle
+ <br>Cargo : Cajera
+ <br>Direccion : Belgrano 23
+ <br>Ciudad : Parana
+ <br>Telefono : 03435225916
+ <br>Email : mar_lise_8@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Adjunto Cv tengo experiencia tanto en caja como en atencion al publico. A disposicion. 
+ <br>Security_code : mtm84
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.45.38.83<br>
+ <br>Nombre : Joel Hernan
+ <br>Apellido : Villarreal
+ <br>Cargo : chofer para camion , reparto , CNRT al dia
+ <br>Direccion : catriel 3784
+ <br>Ciudad : lomas del mirador
+ <br>Telefono : 1560145866 / 4482-6753
+ <br>Email : villarrealjoelhernan@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Tengo experiencia en reparto carga y descarga , los registros al dia y tambien el curso, manejo hasta Balancin , experiencia comprobable .
+Tengo 28 años y mechas ganas de trabajar
+ <br>Security_code : 9f82n
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 191.85.134.57<br>
+ <br>REF : EP-1
+ <br>Nombre : Eugenia
+ <br>Apellido : Rojas
+ <br>Cargo : Encargado de Producción
+ <br>Direccion : Presidente Luis Saenz Peña 342
+ <br>Ciudad : Capital Federal
+ <br>Telefono : 1127231147
+ <br>Email : eu_rojas@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Adjunto curriculum, para postularme a su vacante de empleo, saludos.
+ <br>Security_code : fvbcg
+ <br>Send : Enviar
+ <br>
+---------------
+

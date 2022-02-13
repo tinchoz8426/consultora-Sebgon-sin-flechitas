@@ -1,0 +1,16 @@
+Address : 190.55.102.237
+Nombre : Noelia
+Apellido : Giza
+Cargo : Asistente Recursos Humanos
+Direccion : virgilio 1742
+Ciudad : CABA
+Telefono : 35321353
+Email : noegiza@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimado Segbon, le envió mi curriulum vitae ya que me encuentro en la búsqueda laboral.
+Muchas gracias
+Security_code : 6swtk
+Send : Enviar
+
+---------------
+

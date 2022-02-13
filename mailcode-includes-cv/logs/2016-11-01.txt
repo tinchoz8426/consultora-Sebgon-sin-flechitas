@@ -1,0 +1,411 @@
+Address : 66.249.85.9<br>
+ <br>REF : JPER-1
+ <br>Nombre : Jorge
+ <br>Apellido : Nuñez
+ <br>Cargo : Jefe de personal
+ <br>Direccion : Calle 3 mza B 17
+ <br>Ciudad : Claypole
+ <br>Telefono : 1551046219
+ <br>Email : jorgeomarnunez@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Quisiera ser tenido en cuenta en su base de datos para búsquedas
+ <br>Security_code : 6v8rc
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.103.11.97<br>
+ <br>REF : JPER-1
+ <br>Nombre : Roberto
+ <br>Apellido : Ferreira
+ <br>Cargo : Jefe de Personal
+ <br>Direccion : JOSE INGENIEROS 1647
+ <br>Ciudad : Fcio VARELA
+ <br>Telefono : 1142219753
+ <br>Email : robertomf1004@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados, adjunto mi cv para el puesto de Jefe de Personal.
+Atte.
+
+Roberto
+ <br>Security_code : dz9v8
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.189.253.161<br>
+ <br>REF : JPER-1
+ <br>Nombre : Sergio Adrian
+ <br>Apellido : Nappi
+ <br>Cargo : Jefe de Personal
+ <br>Direccion : Chaco 4203
+ <br>Ciudad : Villa Ballester
+ <br>Telefono : 1540691100
+ <br>Email : s_nappi@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Postulación para el puesto de Jefe de Personal
+ <br>Security_code : pmj5m
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.193.139.74<br>
+ <br>REF : EP-1
+ <br>Nombre : Eugenia
+ <br>Apellido : Rojas
+ <br>Cargo : Encargado en producción
+ <br>Direccion : Chacabuco, San Telmo 679
+ <br>Ciudad : Capital Federal
+ <br>Telefono : 1127231147
+ <br>Email : eu_rojas@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenos días, adjunto curriculum para postularme a su vacante de empleo. Saludos...
+ <br>Security_code : bysdv
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.18.86.108<br>
+ <br>REF : SP-1
+ <br>Nombre : Oscar Aurelio
+ <br>Apellido : Pace
+ <br>Cargo : Supervisor de Producción
+ <br>Direccion : Rio de Janeiro 2634 
+ <br>Ciudad : Lanus, Bs. As.
+ <br>Telefono : 011-6939-8955
+ <br>Email : oscarpace06@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Tengo el agrado de dirigirme a Uds. con motivo de la búsqueda de un Supervisor de Producción, a fin de postulante, les hago llegar mi cv.
+Quedó a disposición para evacuar las consultas que consideren oportunas.
+
+Cordialmente.
+Oscar Aurelio Pace
+ <br>Security_code : w36qy
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.139.16.61<br>
+ <br>REF : EP-1
+ <br>Nombre : jose luis
+ <br>Apellido : Dell uomo
+ <br>Cargo : compras
+ <br>Direccion : illanes
+ <br>Ciudad : Quilmes
+ <br>Telefono : 011 40411 1179
+ <br>Email : joseluisdelluomo@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Mi nombre es José Luis Dell´uomo, actualmente me desempeñaba como jefe de compras técnicas y no productivas. Estoy buscando nuevas oportunidades de desarrollo.
+Vista la Oferta Laboral les hago llegar mis datos personales y profesionales en Currículum Vitae a fin de ser tenido en cuenta como candidato.
+Con la convicción de poseer el perfil requerido para un muy buen desempeño en el cargo a cubrir, quedo a entera disposición, ya sea en una entrevista personal o por el medio que se me indique.
+ Desde ya gracias, y a la espera de recibir noticias.
+                                                                        Saluda atte.
+                                                                                             José Luis Dell´uomo
+
+ <br>Security_code : 8gd3m
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.139.16.61<br>
+ <br>REF : SP-1
+ <br>Nombre : jose luis
+ <br>Apellido : Dell uomo
+ <br>Cargo : supervisor de produccion
+ <br>Direccion : illanes
+ <br>Ciudad : Quilmes
+ <br>Telefono : 4041 1179
+ <br>Email : joseluisdelluomo@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Mi nombre es José Luis Dell´uomo, actualmente me desempeñaba como jefe de compras técnicas y no productivas. Estoy buscando nuevas oportunidades de desarrollo.
+Vista la Oferta Laboral les hago llegar mis datos personales y profesionales en Currículum Vitae a fin de ser tenido en cuenta como candidato.
+Con la convicción de poseer el perfil requerido para un muy buen desempeño en el cargo a cubrir, quedo a entera disposición, ya sea en una entrevista personal o por el medio que se me indique.
+ Desde ya gracias, y a la espera de recibir noticias.
+                                                                        Saluda atte.
+                                                                                             José Luis Dell´uomo
+
+ <br>Security_code : s9v88
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 191.81.36.21<br>
+ <br>REF : JPER-1
+ <br>Nombre : Jorge Omar
+ <br>Apellido : Castañares
+ <br>Cargo : REF.:JPER-1
+ <br>Direccion : Manuela Pedraza 3040 - Lanus
+ <br>Ciudad : Lanus Oeste
+ <br>Telefono : 42094164
+ <br>Email : jorcasta2000@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Selector/ Búsquedas
+
+Buenos días, me dirijo a los efectos de remitir mi CV a los fines de cubrir la posición de referencia ajustándose al perfil.
+Mi último empleo fue en la empresa Antártida Cía. Argentina de  Seguros SA, durante tres años y medio. Encontrandome actualmente en búsqueda activa de un nuevo empleo. 
+Agradezco su atención. Cordialmente Jorge Castañares
+Lanús  -  42094164
+
+ <br>Security_code : zdmrk
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.23.29.156<br>
+ <br>REF : EP-1
+ <br>Nombre : Enrique Raul
+ <br>Apellido : Tejeda
+ <br>Cargo : encargado de produccion
+ <br>Direccion : Elsa Oconnor
+ <br>Ciudad : CLAYPOLE
+ <br>Telefono : 1553454110
+ <br>Email : eliaspablo08@outlook.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : control ingreso de producto madre y egreso producto terminado,control calidad,willetiado,paletizado,paca-yin,fecha elaboración y expedición etc,reporte de producción,reconocimiento de instructivo del producto.Manejo auto elevador y zorras eléctricas,manejo pc (sistema SAP)
+ <br>Security_code : 2VQSG
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.23.29.156<br>
+ <br>REF : EP-1
+ <br>Nombre : Enrique Raul
+ <br>Apellido : Tejeda
+ <br>Cargo : encargado de produccion
+ <br>Direccion : Elsa Oconnor
+ <br>Ciudad : CLAYPOLE
+ <br>Telefono : 1553454110
+ <br>Email : eliaspablo08@outlook.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : control ingreso de producto madre y egreso producto terminado,control calidad,willetiado,paletizado,paca-yin,fecha elaboración y expedición etc,reporte de producción,reconocimiento de instructivo del producto.Manejo auto elevador y zorras eléctricas,manejo pc (sistema SAP)
+ <br>Security_code : 2VQSG
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.169.11.101<br>
+ <br>REF : JPER-1
+ <br>Nombre : Karina
+ <br>Apellido : Della Rossa
+ <br>Cargo : Jefe de Recursos humanos
+ <br>Direccion : La Pista 490 CC Los Horneros UF 150
+ <br>Ciudad : Ingeniero Maswichtz
+ <br>Telefono : 3484486150
+ <br>Email : kdrossa@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : envio adjunto mi cv para vuestra consideracion
+ <br>Security_code : pc3hr
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 191.85.58.67<br>
+ <br>REF : EP-1
+ <br>Nombre : Marcos Alberto
+ <br>Apellido : Zurita
+ <br>Cargo : Encargado de Producción 
+ <br>Direccion : Av. Córdoba 1886, piso 11, depart. B 
+ <br>Ciudad : C.A.B.A.
+ <br>Telefono : 1559708395
+ <br>Email : marcos.alberto.zurita@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados Sres.
+Estoy interesado en el puesto de Encargado de Producción, tengan en consideración mi CV.
+Muchas gracias.
+ <br>Security_code : mhkkf
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.137.194.208<br>
+ <br>REF : JPER-1
+ <br>Nombre : Anibal
+ <br>Apellido : Aballe
+ <br>Cargo : Jefe de Personal
+ <br>Direccion : Fitz Roy 2489
+ <br>Ciudad : Capital Federal
+ <br>Telefono : 47754877
+ <br>Email : anibalaballe@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Adjunto mi CV para ser evaluado en la búqueda de Jefe de personal. Es importante aclarar que tengo varios años de experiencia en empresas alimenticias y de consumo masivo. De considerar que mis antecedentes reúnen los requisitos del puesto, me encuentro a su disposición para coordinar una entrevista personal para ampliar sobre la información que acompaño.
+Atte
+
+Anibal Aballe
+ <br>Security_code : z4mxp
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.90.38.57<br>
+ <br>REF : JPER-1
+ <br>Nombre : martin ariel
+ <br>Apellido : matamoros
+ <br>Cargo : supervisor produccion
+ <br>Direccion : anchorena 1238
+ <br>Ciudad : capital
+ <br>Telefono : 1134139637
+ <br>Email : ariel_atenea@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : adjunto cv
+ <br>Security_code : GYBVS
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.90.38.57<br>
+ <br>Nombre : martin ariel
+ <br>Apellido : matamoros
+ <br>Cargo : supervisor produccion
+ <br>Direccion : anchorena 1238
+ <br>Ciudad : capital
+ <br>Telefono : 1134139637
+ <br>Email : ariel_atenea@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : adjunto cv
+ <br>Security_code : zbvy7
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.90.38.57<br>
+ <br>REF : EP-1
+ <br>Nombre : martin ariel
+ <br>Apellido : matamoros
+ <br>Cargo : encargado produccion
+ <br>Direccion : anchorena 1238
+ <br>Ciudad : capital
+ <br>Telefono : 1134139637
+ <br>Email : ariel_atenea@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : adjunto cv
+ <br>Security_code : hnf7b
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.192.62.22<br>
+ <br>REF : EP-1
+ <br>Nombre : juan jose
+ <br>Apellido : digiulio
+ <br>Cargo : encargado de produccion ep-1
+ <br>Direccion : alberto williams 2194
+ <br>Ciudad : san miguel
+ <br>Telefono : 1554901452
+ <br>Email : juandigiulio@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : hola los dedejo mi cv espero que nos contactemos para poder escuchar su propuesta laboral
+ <br>Security_code : jmdpn
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.192.62.22<br>
+ <br>REF : EP-1
+ <br>Nombre : juan jose
+ <br>Apellido : digiulio
+ <br>Cargo : encargado de produccion ep-1
+ <br>Direccion : alberto williams 2194
+ <br>Ciudad : san miguel
+ <br>Telefono : 1554901452
+ <br>Email : juandigiulio@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : hola los dejo mi cv espero que nos contactemos para poder escuchar su propuesta laboral
+ <br>Security_code : jmdpn
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.26.160.152<br>
+ <br>REF : JPER-1
+ <br>Nombre : Gustavo Omar
+ <br>Apellido : Rodas
+ <br>Cargo : JPER-1
+ <br>Direccion : CRAIG
+ <br>Ciudad : SARANDI
+ <br>Telefono : 1142052382
+ <br>Email : grodas67@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Ref: JPER-1 Jefe de Personal
+
+Estimados,
+He visto la Oferta Laboral, y la misma me resultó interesante y atractiva. Por este motivo, les hago llegar mi Currículum Vitae, a fin de ser tenido en cuenta como candidato a cubrir el puesto.
+
+Me encuentro con disponibilidad inmediata, full time, con movilidad propia, y con domicilio en Avellaneda, Sur del GBA.
+
+Quedo a su disposición para concretar entrevista laboral, y poder ampliar cualquier información necesaria.
+
+Cordialmente,
+Gustavo Omar Rodas
+1150963997
+ <br>Security_code : 45wt8
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.165.239.6<br>
+ <br>REF : JPER-1
+ <br>Nombre : Pablo Roberto
+ <br>Apellido : Perez
+ <br>Cargo : Jefe de Personal
+ <br>Direccion : R. Balbin
+ <br>Ciudad : Lanus
+ <br>Telefono : 15-5412-6788
+ <br>Email : perezpablo102@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados tengo mas de 20 años de experiencia manejando grandes dotaciones de personal y vehiculos, me destaque en el area de RR. HH., RR.LL. y Logistica, siempre con mucho profesionalismo en mis funciones, trato con sindicatos, encargado total de una planta, manejo paquete Office, no tengo problemas de horarios y cuento con movilidad propia
+saludos
+
+ <br>Security_code : 3cnpd
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.57.174.141<br>
+ <br>REF : JPER-1
+ <br>Nombre : Jorge Daniel
+ <br>Apellido : Giménez
+ <br>Cargo : Jefe de Personal
+ <br>Direccion : Rio Diamante 1690
+ <br>Ciudad : Bella Vista
+ <br>Telefono : 1123012991
+ <br>Email : dgimenezar@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Jefe de Personal, he hecho el trabajo que solicitan y soy capaz de adaptarme a cualquier cultura de empresa.
+ <br>Security_code : g7v88
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.138.55.230<br>
+ <br>REF : EP-1
+ <br>Nombre : Orlando
+ <br>Apellido : Gonzalez
+ <br>Cargo : encargado de produccion
+ <br>Direccion : Bartolomé mitre 1241,
+ <br>Ciudad : Ciudad Autónoma de Buenos aires
+ <br>Telefono : 11 3402-1272
+ <br>Email : orlandoa37@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : CARTA DE PRESENTACION
+	¡Saludos cordiales! En la presente les escribo con la intención de postularme a un  puesto de trabajo, busco mi oportunidad para poder formar parte de su equipo de trabajo, por favor ver mi perfil espero esta oportunidad laboral. Estoy a su disposición, muchas gracias.
+
+ <br>Security_code : j8922
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.148.113.123<br>
+ <br>Nombre : Mauro
+ <br>Apellido : Almada
+ <br>Cargo : Tecnico superior en Higiene y Seguridad Laboral
+ <br>Direccion : TUCUMAN, tucuman 1411
+ <br>Ciudad : FUNES
+ <br>Telefono : 3415703635
+ <br>Email : almada.mauro92@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : hola soy tecnico superio matriculado y con monotributo al dia.
+ <br>Security_code : yyqrs
+ <br>Send : Enviar
+ <br>
+---------------
+

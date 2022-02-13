@@ -1,0 +1,15 @@
+Address : 190.179.22.30
+Nombre : Alejandro
+Apellido : D'Andrea
+Cargo : indistinto
+Direccion : psje. romero 2435
+Ciudad : Buenos Aires
+Telefono : 15338113750
+Email : Nicolasalejandro@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Busco cualquier tipo de empleo con disponibilidad horaria  indistinta a  exepcion de martes y viernes que tendria que ser a partir de las 14
+Security_code : xgymp
+Send : Enviar
+
+---------------
+

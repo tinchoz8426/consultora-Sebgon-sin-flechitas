@@ -1,0 +1,51 @@
+Address : 201.250.236.122<br>
+ <br>Nombre : sergio ramon
+ <br>Apellido : quiñones
+ <br>Cargo : varios
+ <br>Direccion : calle 29 n 1172 1 C
+ <br>Ciudad : General Pico
+ <br>Telefono : 2302478853 - 2302563507
+ <br>Email : sergio_qsr@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : hola me llamo Sergio y estoy buscando trabajo.
+soy responsable y tengo conocimiento en varios rubros
+ <br>Security_code : n97yk
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.58.180.234<br>
+ <br>Nombre : JOSÉ MANUEL
+ <br>Apellido : ORELLANA
+ <br>Cargo : Tecnico en Higiene y Seguridad en el trabajo
+ <br>Direccion : monseñor verdaguer 1261
+ <br>Ciudad : las heras
+ <br>Telefono : 02612479364
+ <br>Email : jose_121426@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Espero cumplir con todo los requisitos que piden para poder llegar a ser parte de su equipo. Si bien me falta experiencia debo decir que soy muy responsable, capaz, organizado y cumplo muy bien con todo lo que se me pida. Muchas gracias! 
+ <br>Security_code : 85qwk
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.18.72.158<br>
+ <br>REF : ROT-1
+ <br>Nombre : Esteban
+ <br>Apellido : Medina
+ <br>Cargo : RESPONSABLE DE OFICINA TECNICA
+ <br>Direccion : Irala 106
+ <br>Ciudad : Capital federal
+ <br>Telefono : 01143001375
+ <br>Email : medina.esteban.fdi@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenos días.
+Soy diseñador industrial con amplio conocimiento en el desarrollo, presentación y gestión de una amplia gama de productos diferentes. Comenzando desde una idea conceptual hasta el desarrollo de modelos y prototipos para ofrecer la mejor alternativa de producción de acuerdo con los acabados y costos deseados.
+Soy una persona organizada, observadora, con capacidad de análisis y totalmente dispuesto a seguir aprendiendo y colaborando con el crecimiento de la institución.
+Espero recibir pronto noticias suyas sobre mi candidatura y sobre las posibilidades de trabajar en su instituto. Estoy a su entera disposición para coordinar una entrevista personal.
+Saludos.
+ <br>Security_code : rcrk7
+ <br>Send : Enviar
+ <br>
+---------------
+

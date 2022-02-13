@@ -1,0 +1,104 @@
+Address : 179.40.203.228<br>
+ <br>REF : RTC
+ <br>Nombre : mario alberto
+ <br>Apellido : junger
+ <br>Cargo : Ingeniero Ventas, Asesor Tecnico, Comercial
+ <br>Direccion : Pje Marti Pescador 2334, 1er Piso Dto 2
+ <br>Ciudad : C.A.B.A.
+ <br>Telefono : 116 509 2945
+ <br>Email : majunger@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me interesa el cargo de Ing Preventa, Mercado Construccion., Productos Quimicos.
+
+Sds, atte :
+
+Mario Junger
+ <br>Security_code : vqsqx
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 179.40.203.228<br>
+ <br>REF : RTC
+ <br>Nombre : mario alberto
+ <br>Apellido : junger
+ <br>Cargo : Ingeniero Ventas, Asesor Tecnico, Comercial
+ <br>Direccion : Pje Marti Pescador 2334, 1er Piso Dto 2
+ <br>Ciudad : C.A.B.A.
+ <br>Telefono : 116 509 2945
+ <br>Email : majunger@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me interesa el cargo de Ing Preventa, Mercado Construccion., Productos Quimicos.
+
+Sds, atte :
+
+Mario Junger
+ <br>Security_code : vqsqx
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 179.37.67.246<br>
+ <br>REF : RTC
+ <br>Nombre : Gerardo Gastón
+ <br>Apellido : Muñoz
+ <br>Cargo : Arquitecto
+ <br>Direccion : Riobamba 89
+ <br>Ciudad : Vlla Mercedes
+ <br>Telefono : +543513719931
+ <br>Email : gaston_1408@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Desarrollo de Anteproyectos y Proyectos en pequeña o gran escala, Remodelaciones y Ampliaciones, Dirección Técnica o Asesoramiento en Obra, Diseño de Espacios Interiores, Gestión y Trámites, Relevamientos en obras comenzadas o edificaciones existentes y elaboración para presentación de planos, Asesoramientos en gral. 
+ <br>Security_code : tvy67
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.130.103.193<br>
+ <br>REF : OEL
+ <br>Nombre : Gustavo 
+ <br>Apellido : Torres
+ <br>Cargo : Tecnico
+ <br>Direccion : saladillo 3786
+ <br>Ciudad : castelar
+ <br>Telefono : 46923308
+ <br>Email : grindfat2@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Adjunto mi cv .
+
+MUCHAS GRACIAS///
+ <br>Security_code : sdxt2
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 196.32.91.94<br>
+ <br>Nombre : RENE ROMUALDO
+ <br>Apellido : ROVETTA
+ <br>Cargo : tecnico electromecanico
+ <br>Direccion : belgrano 1398
+ <br>Ciudad : fcio varela
+ <br>Telefono : 1159585304
+ <br>Email : renarottcx500@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : soy tecnico electromecanico tengo conocimiento de grupos electrogenos tableros electricos plc y otros 
+ <br>Security_code : kt42v
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.31.137.95<br>
+ <br>Nombre : Francisco
+ <br>Apellido : Hermo
+ <br>Cargo : asistente - atención 
+ <br>Direccion : Blanco Encalada 2222 
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 4786-2448
+ <br>Email : francisco_hermo@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : -
+ <br>Security_code : 3hwtm
+ <br>Send : Enviar
+ <br>
+---------------
+

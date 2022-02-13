@@ -1,0 +1,15 @@
+Address : 181.104.118.91
+Nombre : Barbara Aangela
+Apellido : Duni
+Cargo : para cuidado y limpieza en centro de dia con personas discapacitadas
+Direccion : bolivia 1520 b
+Ciudad : Rosario
+Telefono : 3415630671
+Email : barbaradunimaty@ gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Soy responsable .necesito trabajar y tengo un amor especial con personas discapacitadas 
+Security_code : ddmcz
+Send : Enviar
+
+---------------
+

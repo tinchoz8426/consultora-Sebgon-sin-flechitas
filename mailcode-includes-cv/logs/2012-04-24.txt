@@ -1,0 +1,26 @@
+Address : 186.109.18.210
+Nombre : Luciana
+Apellido : Trost
+Cargo : Recepcionista / Asistente
+Direccion : Acevedo 141
+Ciudad : C.A.B.A.
+Telefono : 155-335-3992
+Email : lucianatrost@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Al depto. de RRHH,
+
+Mi nombre es Luciana Trost, tengo 24 años y soy estudiante de la carrera de Diseño de Indumentaria en la UBA.
+Cuento con más de 4 años de experiencia en posiciones de Recepcionista y Asistente, tanto en empresas nacionales como multinacionales.
+Envío mi CV adjunto, para ser tenida en cuenta en búsquedas part-time afines a mi perfil.
+
+Saludos cordiales,
+
+Luciana Trost
+Cel. 155-335-3992
+Te. 4856-3549
+
+Security_code : 2gsfv
+Send : Enviar
+
+---------------
+

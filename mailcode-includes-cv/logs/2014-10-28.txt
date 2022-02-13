@@ -1,0 +1,140 @@
+Address : 179.49.110.217
+Nombre : Facundo Ezequiel
+Apellido : Carabajal
+Cargo : Asistente Administrativo
+Direccion : los alerces
+Ciudad : Pilar
+Telefono : 0111535016984
+Email : facundo.carabajal@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : En la busqueda de crecimiento y de nuevas expectativas
+Security_code : twyfd
+Send : Enviar
+
+---------------
+
+Address : 179.49.110.217
+Nombre : Facundo Ezequiel
+Apellido : Carabajal
+Cargo : Asistente Administrativo
+Direccion : los alerces
+Ciudad : Pilar
+Telefono : 0111535016984
+Email : facundo.carabajal@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : En la busqueda de crecimiento y de nuevas expectativas
+Security_code : twyfd
+Send : Enviar
+
+---------------
+
+Address : 181.166.81.223
+Nombre : Maria Aggustina
+Apellido : Harguindegui
+Cargo : Indistinti
+Direccion : 61 Num. 936
+Ciudad : La Plata
+Telefono : 221 5601734
+Email : aharguindegui@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Aqui adjunto mi curriculum.Espero poder conversar personalmente con ustedes, en una proxima entrevista, para mostrar mis conocimientos y formar parte del equipo.
+Saludos.
+Security_code : pvvr2
+Send : Enviar
+
+---------------
+
+Address : 190.188.136.105
+Nombre : luz
+Apellido : Bazterrica
+Cargo : secretaria
+Direccion : Rodriguez Peña 1959
+Ciudad : Mar del Plata
+Telefono : 153019706
+Email : luzbaz@outlook.es
+MAX_FILE_SIZE : 2097152
+Mensaje : busco empleo en secretaria, recepcion o similar
+Security_code : 73byr
+Send : Enviar
+
+---------------
+
+Address : 200.5.196.72
+Nombre : Andres
+Apellido : Schapchuk
+Cargo : Jefe RH
+Direccion : Vuelta de Obligado 3029
+Ciudad : CABA
+Telefono : 1530770831
+Email : a_schapchuk1@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenos días. Soy Andres Schapchuk, trabajo en PSA Peugeot Citroen Argentina. Me desempeño como Responsable de Capacitación y también como abogado. Adjunto mi CV a fin de ser tenido en cuenta para las búsquedas acordes a mi perfil.
+ 
+Cordialmente
+Security_code : 25d6g
+Send : Enviar
+
+---------------
+
+Address : 186.58.191.224
+Nombre : Nadia
+Apellido : Cieslinski
+Cargo : Secretaria Bilingüe
+Direccion : 145 n°788
+Ciudad : Berazategui
+Telefono : 1136832465
+Email : nadia.cieslinski@outlook.com
+MAX_FILE_SIZE : 2097152
+Mensaje : De mi consideración:
+
+Tengo el agrado de comunicarme con usted para ofrecer mis servicios como secretaria, recepcionista o empleada administrativa ante cualquier puesto a cubrir.
+
+La formación recibida en el Instituto Argentino de Secretarias Ejecutivas me ha brindado la capacidad profesional indispensable para el mundo empresario de hoy. En este momento me encuentro finalizando la carrera asistiendo a las clases de Redacción Empresarial y Business Correspondence and Translation. El resto de las materias como Administración, Contabilidad Gerencial, Computación, Psicología y Comportamiento Organizacional, Gestión Profesional, Imagen y Comunicación corporativa, Protocolo y Ceremonial de Empresas han sido aprobadas.
+
+Desearía tener la oportunidad de una entrevista para ampliar los detalles de mi ofrecimiento.
+
+Lo saludo atentamente.
+
+Nadia Cieslinski
+Security_code : p7xfr
+Send : Enviar
+
+---------------
+
+Address : 200.69.41.250
+Nombre : Facundo
+Apellido : Vencato
+Cargo : Jefe Administracion
+Direccion : Cajaraville 3772
+Ciudad : Carapachay
+Telefono : 1561562852
+Email : fvencato@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : De mi consideración, por intermedio de la presente le  hago llegar mi CV con mis datos personales, estudios y experiencia laboral con el objetivo de que el mismo sea considerado ante la posibilidad de incor¬porarme a las búsquedas que su empresa considere que se adecua a mi perfil.  
+Tengo pleno interés en prestar mis servicios a la compañía puesto que cuento con una gran iniciativa y deseos de afrontar nuevos desafíos. Me desenvuelvo muy bien en distintos ambientes laborales y trabajo en forma eficiente.
+ 
+  Sin otro particular, agradezco la atención prestada, quedando a su ente¬ra disposición, y en espera de una pronta respuesta.
+ 
+Lo Saludo Atentamente.
+
+Security_code : qf2hm
+Send : Enviar
+
+---------------
+
+Address : 190.183.62.29
+REF : VEN
+Nombre : Juan
+Apellido : Berns
+Cargo : Ventas y otros
+Direccion : De las violetas s/n
+Ciudad : Crespo (E.R.)
+Telefono : 3434467606
+Email : johnnyberns@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me desempeño muy bien en varios ambitos laborales... ´Con posibilidad de relocacion
+Security_code : pgc6r
+Send : Enviar
+
+---------------
+

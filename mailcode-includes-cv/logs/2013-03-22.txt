@@ -1,0 +1,43 @@
+Address : 190.136.19.224
+REF : administrativo-logistica
+Nombre : Mauricio Anibal
+Apellido : Rios
+Cargo :  administrativo-logistica
+Direccion : Chacabuco 231
+Ciudad : La Cesira
+Telefono : 0338215674598
+Email : riosmauricio@hotmail.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : A quien corresponda:
+      Me dirijo a Ud para solicitarle tenga a bien recibir mi Curriculum Vitae, en el cual se detallan datos personales, estudios y capacitaciones, además de la experiencia laboral.
+      Mi interés de desempeñarme laboralmente en su empresa, no responde solo a una necesidad económica, sino también a un deseo personal de insertarme en el mercado laboral de las agroindustrias.  En el desarrollo de mi trabajo, me considero una persona dinámica, responsable y sumamente adaptable; manejándome con discreción y precisión.
+     Sin otro particular y en espera de una favorable respuesta, quedo a su disposición y le saludo muy atte.-
+
+                                                                                       Mauricio A.  Rios
+
+Security_code : mmy4y
+Send : Enviar
+
+---------------
+
+Address : 190.247.2.165
+REF : jefe-de-operaciones
+Nombre : Sebastian
+Apellido : Pico Estrada
+Cargo : jefe  operaciones
+Direccion : prado 2682
+Ciudad : victoria prov buenos aires
+Telefono : 1531806478
+Email : sebaspicoestrada@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Les hago llegar mi Currículum Vitae a fin de ser tenido en cuenta como candidato.
+ 
+Con la convicción de poseer el perfil requerido para un muy buen desempeño en el cargo a cubrir, quedo a su entera disposición para mantener una entrevista personal.
+Esperando una respuesta positiva, los saluda atentamente,
+
+Sebastian Pico Estrada 
+Security_code : 52bsw
+Send : Enviar
+
+---------------
+

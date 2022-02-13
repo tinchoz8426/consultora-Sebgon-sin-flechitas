@@ -1,0 +1,254 @@
+Address : 191.81.0.245<br>
+ <br>REF : OEL
+ <br>Nombre : CARLOS
+ <br>Apellido : FERNANDEZ
+ <br>Cargo : oficial electricista
+ <br>Direccion : sstea 1393
+ <br>Ciudad : temperley
+ <br>Telefono : 42922562
+ <br>Email : mycarlosfe@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : envio adjunto
+ <br>Security_code : qmt74
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.1.220.243<br>
+ <br>REF : GTEP
+ <br>Nombre : Luis Ernesto
+ <br>Apellido : Coro
+ <br>Cargo : GTEP
+ <br>Direccion : Freire 1984
+ <br>Ciudad : Capital Federal
+ <br>Telefono : 1541995505
+ <br>Email : ing.lcoro@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados Consultores: les envío mis antecedentes personales a fin de ser evaluados en la busqueda de referencia.
+Saluda atentamente.
+Luis Coro.
+ <br>Security_code : 8fjwh
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.18.33.221<br>
+ <br>Nombre : Silvana Raquel
+ <br>Apellido : Fariña
+ <br>Cargo : Recursos HUMANOS
+ <br>Direccion : MAIPU 564
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 1168750008
+ <br>Email : farinasilvana@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Adjunto Curriculum Vitae
+ <br>Security_code : kdjqh
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 104.236.74.212<br>
+ <br>Nombre : fabian gabriel
+ <br>Apellido : estevez ruibal
+ <br>Cargo : supervisor/gerente/encargado
+ <br>Direccion : lugones 1651
+ <br>Ciudad : caba
+ <br>Telefono : 1166388798
+ <br>Email : fgabrielestevez@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : buenos dias les adjunto mi curriculum para ingresar a la base de datos para futuras busquedas laborales muchas gracias
+ <br>Security_code : 5m4gs
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 104.236.74.212<br>
+ <br>Nombre : fabian gabriel
+ <br>Apellido : estevez ruibal
+ <br>Cargo : supervisor/gerente/encargado
+ <br>Direccion : lugones 1651
+ <br>Ciudad : caba
+ <br>Telefono : 1166388798
+ <br>Email : fgabrielestevez@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : buenos dias les adjunto mi curriculum para ingresar a la base de datos para futuras busquedas laborales muchas gracias
+ <br>Security_code : 5m4gs
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.44.40.106<br>
+ <br>Nombre : German
+ <br>Apellido : Clavel
+ <br>Cargo : secretario recepcionista
+ <br>Direccion : José Paz, María
+ <br>Ciudad : ituzaingo
+ <br>Telefono : 1536296956
+ <br>Email : german.clavel@outlook.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Tengo disponibilidad completa
+ <br>Security_code : xw52b
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.19.72.30<br>
+ <br>Nombre : Maria Agustina
+ <br>Apellido : Godoy
+ <br>Cargo : Vacantr
+ <br>Direccion : Río de Janeiro
+ <br>Ciudad : Almagro
+ <br>Telefono : 3444-15440011
+ <br>Email : rrppgodoy@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas tardes, adjunto mi CV para que lo tengan en cuenta si mi perfil es acorde a un puesto vacante.
+
+
+Saludos,
+Agustina Godoy.
+ <br>Security_code : 3rcr6
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.130.99.32<br>
+ <br>Nombre : victor david 
+ <br>Apellido : godoy
+ <br>Cargo : oficial cañista
+ <br>Direccion : gabriel miro 3760
+ <br>Ciudad : castelar
+ <br>Telefono : 1166956366
+ <br>Email : victordavidgodoy78@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : soy oficial cañista soldador de castelar
+ <br>Security_code : hmf8y
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.0.184.4<br>
+ <br>Nombre : Viviana Dominga
+ <br>Apellido : Monzon
+ <br>Cargo : Cajera Atencion al cliente Ventas
+ <br>Direccion : Juan de Ayolas 1340
+ <br>Ciudad : Dock Sud Avellaneda
+ <br>Telefono : 0377415433089
+ <br>Email : vivianit58@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : A espera de una respuesta favorable, cuento con muy buena predisposicion. Desde ya muchas gracias.
+ <br>Security_code : 3m3hj
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.0.184.4<br>
+ <br>Nombre : Viviana Dominga
+ <br>Apellido : Monzon
+ <br>Cargo : Cajera Atencion al cliente Ventas
+ <br>Direccion : Juan de Ayolas 1340
+ <br>Ciudad : Dock Sud Avellaneda
+ <br>Telefono : 0377415433089
+ <br>Email : vivianit58@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : A espera de una respuesta favorable, cuento con muy buena predisposicion. Desde ya muchas gracias.
+ <br>Security_code : 3m3hj
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.255.115.94<br>
+ <br>REF : GTEP
+ <br>Nombre : Diego Rafael
+ <br>Apellido : Spina
+ <br>Cargo : Gerente de Planta
+ <br>Direccion : 515 nro 2465
+ <br>Ciudad : Ringuelet partido La Plata
+ <br>Telefono : 0111531639112
+ <br>Email : gerencia@clubelcarmen.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados:
+Me dirijo a ud para esta y otras búsquedas acorde a mi perfil.
+Muchas Gracias
+Ing. Diego Spina
+ <br>Security_code : m3nh4
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.28.74.171<br>
+ <br>Nombre : sofia
+ <br>Apellido : grossi ponce
+ <br>Cargo : Vinculados a la comunicación
+ <br>Direccion : callao 2075
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 2984550121
+ <br>Email : sofi.grossi@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola! Adjunto mi CV. Desde ya muchas gracias.
+
+Saludos, 
+Sofía.
+ <br>Security_code : msys2
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 152.168.18.98<br>
+ <br>Nombre : mauricio
+ <br>Apellido : imbachi chavez
+ <br>Cargo : Docente de fisica, matematicas, asistente de oficina, atencion al cliente
+ <br>Direccion : sarmiento 1518
+ <br>Ciudad : buenos aires Caba
+ <br>Telefono : 1126695416
+ <br>Email : maoimbachi@yahoo.es
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Por medio de la presente misiva expreso mi deseo de postular al puesto de asistente que está ofreciendo para la empresa y que fue publicado.
+Cuento con experiencia trabajando para  empresas en atención al cliente  asi como docencia, asi mismo siempre he cumplido con las expectativas de mis empleadores. Tengo estudios secundarios concluidos poseo un excelente vocabulario,   dicción y mis referencias son comprobables, además de un titulo de pregrado de ingeniero  y falta  culminar mi posgrado.
+Me considero una persona con alto sentido de la responsabilidad que puede trabajar bajo presión y que tiene un excelente trato con los clientes. Me gusta aprender constantemente nuevas cosas que me ayuden a ser un mejor profesional.
+Agradezco mucho la atención que puedan brindar a mi solicitud, adjunto mi currículo.
+
+
+Cordialmente,
+
+Jeivar Mauricio Imbachi
+Ingeniero físico
+
+ <br>Security_code : vg2xy
+ <br>Send : Enviar
+ <br>
+---------------
+
+Security_code : qbppn
+ <br>REF : TEQ
+ <br>Email : 8kb3vtc2geu@mail.com
+ <br>Send : Enviar
+ <br>Ciudad : rKkQiiIca
+ <br>Direccion : doPgBQYdNDL8
+ <br>Telefono : yL9NX4XD
+ <br>Apellido : cmA3ewmOZSn
+ <br>Nombre : lzadpzuo3
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Cargo : ToU9xKtuBe
+ <br>Address : 188.143.234.155<br>
+ <br>Attachment : 
+ <br>Mensaje : All things coedrdnies, this is a first class post
+ <br>
+---------------
+
+Security_code : wr789
+ <br>REF : COM
+ <br>Email : c93nonn9@yahoo.com
+ <br>Send : Enviar
+ <br>Ciudad : 22TYZIWc
+ <br>Direccion : dC5Vyile6W
+ <br>Telefono : Wjdc21vDQXB
+ <br>Apellido : lADjZRpCA
+ <br>Nombre : WFWKTi7gPs
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Cargo : y53h43apRk
+ <br>Address : 188.143.234.155<br>
+ <br>Attachment : 
+ <br>Mensaje : That's an ineuniogs way of thinking about it.
+ <br>
+---------------
+

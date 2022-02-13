@@ -1,0 +1,49 @@
+Address : 190.50.173.169
+Nombre : Franco
+Apellido : Rodriguez
+Cargo : ------
+Direccion : Guatemala 2043
+Ciudad : San Justo
+Telefono : 4441-0651
+Email : fransanj@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : ----
+Security_code : 7mnw9
+Send : Enviar
+
+---------------
+
+Address : 190.245.93.54
+Nombre : Marianela Analia
+Apellido : Rodriguez
+Cargo : Administrativa de Logistica / Data Entry
+Direccion : Santamarina 640 Morón
+Ciudad : Buenos Aires
+Telefono : 1536435825
+Email : mariam-sip@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Por medio del presente les hago llegar mi Curriculum Vitae, me encuentro en la búsqueda de un puesto del cual les menciono, Preferentemente en zona oeste. 
+espero sea tenida en cuenta para futuras incorporaciones.
+Sin mas saluda atte.
+Marianela Rodríguez
+
+Security_code : 3Kzxg
+Send : Enviar
+
+---------------
+
+Address : 190.49.184.147
+Nombre : Elena 
+Apellido : Bellido
+Cargo :  
+Direccion : Albania
+Ciudad : Florencio Varela
+Telefono : 4237 6452
+Email : elena_naisa@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estudiante Sistemas de Informacion
+Security_code : kcf9r
+Send : Enviar
+
+---------------
+

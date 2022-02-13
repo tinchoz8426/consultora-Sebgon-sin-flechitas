@@ -1,0 +1,64 @@
+Address : 181.169.195.168<br>
+ <br>Nombre : Bodo
+ <br>Apellido : Schmidt
+ <br>Cargo : Gerente de Proyecto / Facility Manager Data Center
+ <br>Direccion : Avenida del Libertador 1740 6B
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 1162312509
+ <br>Email : schmidtbodo1@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Soy ingeniero electricista especializado en gerencia de proyecto, con amplia experiencia en operación, diseño y construcción de centros de datos y edificaciones tipo bancaria.
+
+Estoy viviendo en Buenos Aires, y actualmente estoy buscando trabajo.
+
+Agradeciendo su atención al respecto me despido.
+ <br>Security_code : xpy99
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.9<br>
+ <br>Nombre : Gisel Romina
+ <br>Apellido : Cañete
+ <br>Cargo : Vendedora
+ <br>Direccion : Piedra Buena 805 n°1659 Entre 832 y 834
+ <br>Ciudad : Buenos aires
+ <br>Telefono : 1167501065 -42876433
+ <br>Email : Rominac_grc581@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Busco sumarme algun equipo de trabajo segun mis experiencias  con el finde de una estabilidad economica y crecer en el ambito laboral y personal 
+ <br>Security_code : Ng8bn
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.9<br>
+ <br>Nombre : Gisel Romina
+ <br>Apellido : Cañete
+ <br>Cargo : Vendedora
+ <br>Direccion : Piedra Buena 805 n°1659 Entre 832 y 834
+ <br>Ciudad : Buenos aires
+ <br>Telefono : 1167501065 -42876433
+ <br>Email : Rominac_grc581@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Busco sumarme algun equipo de trabajo segun mis experiencias  con el finde de una estabilidad economica y crecer en el ambito laboral y personal 
+ <br>Security_code : Ng8bn
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.11<br>
+ <br>Nombre : Gisel Romina
+ <br>Apellido : Cañete
+ <br>Cargo : Vendedora
+ <br>Direccion : Piedra Buena 805 n°1659 Entre 832 y 834
+ <br>Ciudad : Buenos aires
+ <br>Telefono : 1167501065 -42876433
+ <br>Email : Rominac_grc581@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Busco sumarme algun equipo de trabajo segun mis experiencias  con el finde de una estabilidad economica y crecer en el ambito laboral y personal 
+ <br>Security_code : 2fyph
+ <br>Send : Enviar
+ <br>
+---------------
+

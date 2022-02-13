@@ -1,0 +1,139 @@
+Address : 190.14.176.146
+Nombre : Edgardo Alberto
+Apellido : Moya
+Cargo : gerencia o dirreccion
+Direccion : Ruta nº 22 km 1265
+Ciudad : Arroyito de Challaco
+Telefono : 02994696675
+Email : edgardomoya@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenos Dia por aviso en in
+Security_code : d83jm
+Send : Enviar
+
+---------------
+
+Address : 181.167.244.42
+Nombre : florencia
+Apellido : ricioppo
+Cargo : empleo
+Direccion : gascon 2467
+Ciudad : mar del plata
+Telefono : 155 931458
+Email : floor_89@live.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Tengo ganas y aptitudes para un buen desempeño del rol laboral. Soy responsable y comprometida con lo que tenga que hacer.
+Security_code : ssng5
+Send : Enviar
+
+---------------
+
+Address : 186.137.178.193
+Nombre : Cecilia
+Apellido : Gentile
+Cargo :  
+Direccion : Cochabamba 478 depto 3
+Ciudad : CABA
+Telefono : 1551324950
+Email : gentilececilia@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto mi cv para ser tenida en cuenta en futuras búsquedas laborales
+Security_code : zxqdy
+Send : Enviar
+
+---------------
+
+Address : 181.29.221.92
+Nombre : Natalia
+Apellido : Achinelly
+Cargo : Asistente Ejecutiva
+Direccion : Gdor. Valentín Vergara 419
+Ciudad : Haedo
+Telefono : 1541774778
+Email : achinelly@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Agradecería tener en cuenta mi perfil para las posiciones de Office Manager & Asistente Ejecutiva
+Security_code : 3ghqp
+Send : Enviar
+
+---------------
+
+Address : 181.29.221.92
+Nombre : Natalia
+Apellido : Achinelly
+Cargo : Asistente Ejecutiva
+Direccion : Gdor. Valentín Vergara 419
+Ciudad : Haedo
+Telefono : 1541774778
+Email : achinelly@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Agradecería tener en cuenta mi perfil para las posiciones de Office Manager & Asistente Ejecutiva
+Security_code : 2bjsq
+Send : Enviar
+
+---------------
+
+Address : 181.14.171.237
+Nombre : camila
+Apellido : griffiths
+Cargo : educacion,atencion al cliente
+Direccion : belgrano 325
+Ciudad : tigre
+Telefono : 35340782
+Email : c_ami_88@live.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Aqui les entrego mi cv
+Security_code : 2z3sc
+Send : Enviar
+
+---------------
+
+Address : 186.23.192.253
+Nombre : Giselle
+Apellido : Camacho
+Cargo : Cajera, atención al cliente
+Direccion : Pasaje Lautaro 134
+Ciudad : Buenos Aires
+Telefono : 46993534
+Email : giselle.camacho@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Mi objetivo personal es trabajar en una empresa desempeñando las funciones que me sean asignadas con total responsabilidad, cumplimiento y puntualidad. Brindar mi persona y mis cualidades para lograr el objetivo de la empresa y progresar en el ámbito laboral.
+Security_code : 5nybg
+Send : Enviar
+
+---------------
+
+Address : 186.109.11.253
+Nombre : PAOLA
+Apellido : ZEBALLOS
+Cargo : administrativo o atención al público
+Direccion : calle 14 N 21 dpto 3
+Ciudad : RIO CUARTO
+Telefono : 358-4281171
+Email : pawuo_13@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : De mi mayor consideración:
+Tengo el agrado de dirigirme a usted con el propósito de adjuntarle mis antecedentes personales y laborales, a efectos sean tenidos en cuenta y eventualmente evaluarlos para considerar mi postulación laboral ante vuestra prestigiosa empresa. Quedo a vuestra disposición y, si usted lo cree necesario tener una entrevista personal, favor comunicármelo en el teléfono informados en el currículum adjunto.
+                                        Agradeciéndole su atención, saludo a usted cordialmente.
+
+Security_code : HQXMW
+Send : Enviar
+
+---------------
+
+Address : 186.125.27.107
+Nombre : EXEQUIEL FACUNDO
+Apellido : DIAZ
+Cargo : A COMBENIR
+Direccion : SALTA 1109
+Ciudad : TAFI VIEJO
+Telefono : 03813041880
+Email : exe-diaz-tecnico@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : ESPERO SU RESPUESTA.
+GRACIAS
+Security_code : CH6C4
+Send : Enviar
+
+---------------
+

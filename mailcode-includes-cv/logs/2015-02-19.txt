@@ -1,0 +1,30 @@
+Address : 190.6.246.18
+Nombre : Marion 
+Apellido : Benedetto
+Cargo : Asistente
+Direccion : Trinidad y Cramer
+Ciudad : Jose C Paz
+Telefono : (011) 15 61065366
+Email : Marionbenedetto@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Tengo experiencia en relaciones publicas, buena diccion y manejo de PC.
+Security_code : 6hk4p
+Send : Enviar
+
+---------------
+
+Address : 190.221.197.146
+Nombre : Alejandra
+Apellido : Merín
+Cargo : Búsqueda laboral
+Direccion : San Gabriel 5750 Lunlunta Maipú
+Ciudad : Mendoza
+Telefono : 0261 156139857
+Email : alemerin@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : A lo largo de mi carrera profesional he adquirido experiencia en las Áreas de Turismo, Relaciones Públicas, Comunicación, Relación con la Prensa, Marketing, Ventas, Liderazgo, RSE, Atención a Clientes, entre otras. Esto me permitió adquirir habilidades para desempeñarme con éxito laboralmente. 
+Security_code : xzzg2
+Send : Enviar
+
+---------------
+

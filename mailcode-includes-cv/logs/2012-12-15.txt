@@ -1,0 +1,98 @@
+Address : 190.177.217.50
+REF : administrativo-logistica
+Nombre : Martín
+Apellido : Cornes
+Cargo : ADMINISTRATIVO DE LOGÍSTICA
+Direccion : Rojas 391 4to B
+Ciudad : capital federal
+Telefono : 1540860406
+Email : martin.dc@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto mi CV para aplicar según Código de Referencia: administrativo-logistica. 
+Martín Cornes
+Security_code : 25jp8
+Send : Enviar
+
+---------------
+
+Address : 186.63.50.175
+Nombre : Noelia Soledad 
+Apellido : Montenegro
+Cargo : Tec en seguridad e higiene
+Direccion : Balboa 1695
+Ciudad : Rafael Calzada
+Telefono : 1167417322
+Email : noeliasmontenegro@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : me postulo para que me puedan tener en cuenta en la búsquedas de empleo relacionadas a la seguridad e higiene en el trabajo.
+Security_code : 23thp
+Send : Enviar
+
+---------------
+
+Address : 186.137.242.252
+REF : jefe-de-operaciones
+Nombre : Daiana Reyner
+Apellido : Reyner
+Cargo : Administrativa
+Direccion : Pasaje Gonzalez Catán 4765
+Ciudad : Buenos Aires
+Telefono : (011) 1561993683
+Email : daianareyner@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me interesa la propuesta laboral. Espero una pronta respuesta. Gracias
+Security_code : s5sw8
+Send : Enviar
+
+---------------
+
+Address : 186.137.242.252
+Nombre : Daiana Reyner
+Apellido : Reyner
+Cargo : Recepcionista
+Direccion : Pasaje Gonzalez Catán 4765
+Ciudad : Buenos Aires
+Telefono : (011) 1561993683
+Email : daianareyner@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola Adjunto mi curriculum para actuales o futuras búsquedas.
+Gracias
+Security_code : 55fr5
+Send : Enviar
+
+---------------
+
+Address : 190.17.223.190
+Nombre : Marcela Alejandra
+Apellido : Sánchez
+Cargo : Secretaria
+Direccion : Caldas 1729 B
+Ciudad : CABA
+Telefono : (011)4552-5656
+Email : masanchez903@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Gerente de
+Personal
+Presente
+ 
+De mi mayor consideración:
+                                       Me dirijo a Ud. a fin de postularme como Administrativa  ,según aviso publicado en Diario Clarín del Dgo. 9 del cte. mes.
+Soy Perito Mercantil, actualmente trabajo de Secretaria Contable  (Part Time) para el Dr. Nelson López Del Carril.
+
+He trabajado en Segona S.A. (Ind. Plástica) y en Ruben Maril S.A. (Publicidad) como Secretaria Contable, además de cubrir otras Áreas durante los recesos vacacionales. Realización de Proformas, Notas de Pedido, Facturación, cobranzas, pago a proveed., Ing. Brutos, Iva., Gcias., Iva compras, Iva. Ventas, depósitos, Sueldos,  RRHH, CH/, endosos, libro bancos, actas, Asistencia a los Directivos para el control de Ctas. Particulares.
+
+Cabe señalar que resido en zona, soy una persona de trato cordial y agradable.
+Me despido a la espera de una respuesta favorable, agradeciendo la atención dispensada y poniéndome a su disposición en caso de  encontrar concordancia con mis datos. 
+ 
+Atte,
+
+Sánchez Marcela
+155-117-3825
+4552-5656
+
+
+Security_code : xmnqp
+Send : Enviar
+
+---------------
+

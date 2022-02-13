@@ -1,0 +1,90 @@
+Address : 186.110.238.129
+Nombre : María Georgina
+Apellido : Giandinotto Galvani
+Cargo : puestos contables - gerencia
+Direccion : Av san martin 3593 oeste
+Ciudad : San Juan
+Telefono : 26445014476
+Email : ggiandinotto@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Envio cv.
+Security_code : qsxyh
+Send : Enviar
+
+---------------
+
+Address : 190.231.27.230
+Nombre : Agostina
+Apellido : Giacomino
+Cargo : Traductora de Inglés
+Direccion : Colón 442
+Ciudad : San Francisco
+Telefono : 03564 15613549
+Email : agogia90@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Aquí les envío mi C.V. Espero que me tengan en cuenta en caso de necesitar mis seevicios. ¡Muchas gracias!
+Security_code : qqrq4
+Send : Enviar
+
+---------------
+
+Address : 200.41.230.241
+Nombre : alejandro
+Apellido : berretta
+Cargo : Consultor de procesos de negocios 
+Direccion : Gral. Eugenio Garzón 6776 – C.A.B.A
+Ciudad : caba
+Telefono : 4687-6349 – Celular 15-5758-0701
+Email : alejandroberretta@yahoo.it
+MAX_FILE_SIZE : 2097152
+Mensaje : Envío mi CV para su consideración. Gracias
+Security_code : kddbz
+Send : Enviar
+
+---------------
+
+Address : 190.188.55.72
+Nombre : Camila
+Apellido : Torres
+Cargo : -
+Direccion : Gaeberler 1054
+Ciudad : Morón
+Telefono : 01169584064
+Email : camila.torres@hotmail.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto mi cv para cualquier oportunidad en puesto junior part-time
+Security_code : 9dxtg
+Send : Enviar
+
+---------------
+
+Address : 190.176.55.51
+Nombre : Daniela 
+Apellido : Castro
+Cargo : limpieza, 
+Direccion : B° Martin Guemes M-48 C- 14 Las Heras
+Ciudad : Mendoza
+Telefono : 02613649960
+Email : naniis.18.15@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : desde ya muchas gracias.
+Security_code : j3q27
+Send : Enviar
+
+---------------
+
+Address : 190.176.55.51
+Nombre : Daniela 
+Apellido : Castro
+Cargo : limpieza, 
+Direccion : B° Martin Guemes M-48 C- 14 Las Heras
+Ciudad : Mendoza
+Telefono : 02613649960
+Email : naniis.18.15@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : desde ya muchas gracias.
+Security_code : j3q27
+Send : Enviar
+
+---------------
+

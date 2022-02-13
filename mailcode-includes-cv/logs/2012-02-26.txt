@@ -1,0 +1,60 @@
+Address : 186.19.65.3
+Nombre : Natasha Carolina 
+Apellido : Diaz
+Cargo : Recepcionista
+Direccion : AV. Eva Peron 465
+Ciudad : Temperley
+Telefono : 20574803
+Email : natashac.diaz@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Es ampliamente valorado el empleo con jornada part-time. No excluyente. Ofrezco responsabilidad y dedicación con entusiasmo para progresar. Gracias.
+Security_code : bcfqs
+Send : Enviar
+
+---------------
+
+Address : 201.252.177.80
+Nombre : Franco Manuel
+Apellido : Farias
+Cargo : Operario
+Direccion : Rufino de Elizalde  5634
+Ciudad : Córdoba
+Telefono : 0351-152555492
+Email : el22piratafranko@hotmail.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : -
+Security_code : g6yz9
+Send : Enviar
+
+---------------
+
+Address : 201.252.177.80
+Nombre : Franco Manuel
+Apellido : Farias
+Cargo : Operario
+Direccion : Rufino de Elizalde  5634
+Ciudad : Córdoba
+Telefono : 0351-152555492
+Email : el22piratafranko@hotmail.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : -
+Security_code : g6yz9
+Send : Enviar
+
+---------------
+
+Address : 190.1.34.66
+Nombre : Joel Agustin 
+Apellido : Masson
+Cargo : empleado
+Direccion : cipolletti 15
+Ciudad : Bahia Blanca
+Telefono : (291) 4301896 / 4883526 / 4497538
+Email : mas.son@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : hola qe tal .. no se bein d qe parte son .. yo son de bahia blanca estaria dispuesto a irme a otra ciudad x trabajo espero me tengan en cuenta... qe no qede en nda cmo siempre suelen hacer espero qe este no sea otra caso d esos... muchas gracias por escucharme y haber leido este mensaje .. hasta luego y espero respuestas ... 
+Security_code : 649tq
+Send : Enviar
+
+---------------
+

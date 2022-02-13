@@ -1,0 +1,66 @@
+Address : 186.141.198.160<br>
+ <br>Nombre : Mariavfernsnda
+ <br>Apellido : Chourio
+ <br>Cargo : Ingeniero de procesos, ingeniero de calidad
+ <br>Direccion : Deheza
+ <br>Ciudad : Capital federal
+ <br>Telefono : 1133614432
+ <br>Email : mfer.chourio@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados buen día, 
+
+Adjunto mi CV para ser tomada en cuenta en sus busquedas, tengo experiencia en consultoría de procesos de negocio y gestión de proyectos.
+
+Saludos.
+Ing. Maria Fernanda Chourio.
+ <br>Security_code : jpgcx
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.141.199.173<br>
+ <br>Nombre : CONSTANZA
+ <br>Apellido : AGREST
+ <br>Cargo : Psicologa
+ <br>Direccion : Gral Lavalle 1580
+ <br>Ciudad : Vicente López 
+ <br>Telefono : 1551149663
+ <br>Email : c_agrest@yahoo.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados, adjunto mi CV para que sea tenido en cuenta en futuras busquedas laborales. Quedo a su disposición para cualquier consulta. Saludos cordiales 
+ <br>Security_code : y6wfs
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.13.240.96<br>
+ <br>REF : SP-1
+ <br>Nombre : Alan
+ <br>Apellido : Santillan
+ <br>Cargo : Supervisor de Produccion
+ <br>Direccion : Peralta Ramos 1239
+ <br>Ciudad : Grand Bourg
+ <br>Telefono : 1144111100
+ <br>Email : alancito.33.as@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Adjunto cv para la busqueda de supervisor de producción.
+ <br>Security_code : c7gtz
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.170.216.15<br>
+ <br>Nombre : silvina
+ <br>Apellido : nyohena
+ <br>Cargo : psicóloga
+ <br>Direccion : peron 1980
+ <br>Ciudad : C.A.B.A.
+ <br>Telefono : 1162832970
+ <br>Email : silvinyohen@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : buenas tardes: quisiera más informacion sobre el pedido de profesionales, que ví en otro portal. saludos
+ <br>Security_code : 6brn7
+ <br>Send : Enviar
+ <br>
+---------------
+

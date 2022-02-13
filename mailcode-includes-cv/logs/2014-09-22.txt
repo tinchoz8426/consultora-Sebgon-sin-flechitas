@@ -1,0 +1,31 @@
+Address : 186.130.80.227
+Nombre : patricia
+Apellido : Llarin
+Cargo : niñera..limpieza
+Direccion : Caaguazu 2613
+Ciudad : Ituzaingo
+Telefono : 46926414
+Email : patinoe_28@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : estoy en busqueda de empleo trabaje en grafica,armado de cajas y montaje.niñera y limpieza
+Security_code : xsn96
+Send : Enviar
+
+---------------
+
+Address : 190.31.173.209
+REF : GETECOM
+Nombre : Orlando
+Apellido : Meza
+Cargo : Gerente de Compras
+Direccion : Salta Polo Club 2756
+Ciudad : Pilar
+Telefono : 1552473535
+Email : orlando.meza@reteplast.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Con disponibilidad para radicarme en El Bolson. Mis estudios lo realizo en forma Virtual.
+Security_code : rnjbs
+Send : Enviar
+
+---------------
+

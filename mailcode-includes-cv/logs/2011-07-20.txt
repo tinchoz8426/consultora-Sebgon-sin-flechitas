@@ -1,0 +1,35 @@
+Address : 186.18.250.177
+Nombre : Ana Sofía
+Apellido : De Cristófaro
+Cargo : Selectora de Personal
+Direccion : Paraguay 4689
+Ciudad : Capital Federal
+Telefono : 154419-5797
+Email : asdecristofaro@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : FYI
+Security_code : ptsyv
+Send : Enviar
+
+---------------
+
+Address : 190.194.161.171
+Nombre : Virginia
+Apellido : Claro
+Cargo : Diseño de indumentaria y textil
+Direccion : Billingurth 1977
+Ciudad : Capital federal
+Telefono : 48225910
+Email : claro.virginia@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola! les dejo mi CV para agregarme a su base de dato para la busqueda de empleo. 
+
+Me interesa el àrea textil, de moda, tendencias, diseño, produccion, etc. 
+MuCHAS GRACIAS POR LA OPORTUNIDAD. ett. Virignia claro
+
+
+Security_code : csnfy
+Send : Enviar
+
+---------------
+

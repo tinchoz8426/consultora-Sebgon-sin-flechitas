@@ -1,0 +1,94 @@
+Address : 190.176.6.253
+REF : administrativo-logistica
+Nombre : mariano
+Apellido : lopez vico
+Cargo : ADMINISTRATIVO DE LOGÍSTICA
+Direccion : B. Matienzo 1162
+Ciudad : godoy cruz
+Telefono : 2615560351
+Email : mariano_85_1@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Tec en loguistica y transporte. Solamente me falta rendir la tesis la cual esta en curso
+Security_code : 37snv
+Send : Enviar
+
+---------------
+
+Address : 190.176.6.253
+Nombre : mariano
+Apellido : lopez vico
+Cargo : relacionado con la logistica
+Direccion : B. Matienzo 1162
+Ciudad : godoy cruz
+Telefono : 2615560351
+Email : mariano_85_1@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Tec en logística y transporte. Solo me queda rendir la Tesis la cual esta en curos
+Security_code : j8pz4
+Send : Enviar
+
+---------------
+
+Address : 190.176.6.253
+Nombre : mariano
+Apellido : lopez vico
+Cargo : relacionado con la logistica
+Direccion : B. Matienzo 1162
+Ciudad : godoy cruz
+Telefono : 2615560351
+Email : mariano_85_1@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Tec en logística y transporte. Solo me queda rendir la Tesis la cual esta en curos
+Security_code : j8pz4
+Send : Enviar
+
+---------------
+
+Address : 190.176.6.253
+Nombre : mariano
+Apellido : lopez vico
+Cargo : relacionado con la logistica
+Direccion : B. Matienzo 1162
+Ciudad : godoy cruz
+Telefono : 2615560351
+Email : mariano_85_1@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Tec en logística y transporte. solamente me falta rendir la tesis
+
+Security_code : yrff3
+Send : Enviar
+
+---------------
+
+Address : 186.157.210.186
+Nombre : maria belen
+Apellido : angeli
+Cargo : administrativa
+Direccion : avellaneda 654
+Ciudad : cordoba
+Telefono : 0351-155200971
+Email : mariabelenangeli@hotmail.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : postulacion a trabajos en busqueda
+Security_code : p8b85
+Send : Enviar
+
+---------------
+
+Address : 186.18.172.28
+REF : tecnico-electornico
+Nombre : Jennifer Sol
+Apellido : Emanuel
+Cargo : Recursos Humanos
+Direccion : Segurola 294
+Ciudad : buenos aires
+Telefono : 1557006821
+Email : jenniemanuel@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenas tardes, Les hago llegar mi CV ya que me interesaría poder formar parte de su empresa. Muchas Gracias
+
+Security_code : xv6cr
+Send : Enviar
+
+---------------
+

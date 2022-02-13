@@ -1,0 +1,145 @@
+Address : 190.55.165.45
+Nombre : Lucía Jazmin
+Apellido : Carimali
+Cargo : Recepcionista, secretaria, asistente, administrativo
+Direccion : remon falcon 5595
+Ciudad : capital federal
+Telefono : 1550596292
+Email : lucarimali@hotmail.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : CV
+Security_code : p283f
+Send : Enviar
+
+---------------
+
+Address : 24.232.165.69
+Nombre : ELIAN EMANUEL
+Apellido : RODRIGUEZ
+Cargo : OPERARIO
+Direccion : BUENOS AIRES 870
+Ciudad : CORDOBA
+Telefono : 03574 - 15401945
+Email : rodriguezelian@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : buenas tardes, soy Elian Rodriguez, estoy buscando trabajo,porque lo estoy necesitando con urgencia.. me adapto a cualquir area q se disponga.. saludos.
+Security_code : 3jjq4
+Send : Enviar
+
+---------------
+
+Address : 190.18.58.24
+Nombre : ALEJANDRA EDITH
+Apellido : ROMAN
+Cargo : TECNICO EN SEGURIDAD E HIGIENE
+Direccion : 25 DE MAYO 870
+Ciudad : CAMPANA
+Telefono : 03489-15562515
+Email : aleyiyo8@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje :  	Experiencia de más de 2 años en puestos de responsabilidad en atención al público en estación de servicio YPF como cajera y despacho de combustibles.
+ 	Pasantía en seguridad e higiene dentro de la empresa Tenaris-Siderca, Campana (en los siguientes sectores: ACERIA, PREMIUM, FACU), Hasta el 31 de enero del presente año ocupe el puesto de operadora en call center en Axion Energy, para la empresa ATENTO.
+ 	
+ 	Amplios conocimientos del paquete office.
+ 	
+ 	Cursando el tercer año de la carrera de técnico superior en seguridad e higiene y control ambiental industrial. Conocimientos básicos de inglés y francés
+Personalidad dinámica, activa, emprendedora, colaboradora.
+Security_code : rh78n
+Send : Enviar
+
+---------------
+
+Address : 186.59.13.163
+Nombre : Carolina Denis
+Apellido : Pujol Abaurre
+Cargo : Secretaria, Traductora
+Direccion : Olascuaga 1547 
+Ciudad : Mendoza
+Telefono : 02616513018
+Email : carolapujol@hotmail.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : NECESITO TRABAJAR URGENTE EN LO QUE SEA ADMINISTRATIVO, ATENCIÓN AL PÚBLICO O TRADUCTORA.
+DESDE YA MUCHISIMAS GRACIAS
+Security_code : fzcg9
+Send : Enviar
+
+---------------
+
+Address : 186.59.13.163
+Nombre : Carolina Denis
+Apellido : Pujol Abaurre
+Cargo : Secretaria
+Direccion : Olascuaga 1547
+Ciudad : Mendoza
+Telefono : 02616513018
+Email : carolapujol@hotmail.com.ar 
+MAX_FILE_SIZE : 2097152
+Mensaje : por favor trabajo de lo que sea en mendoza
+Security_code : jr6dr
+Send : Enviar
+
+---------------
+
+Address : 186.58.93.186
+REF : tecnico-electornico
+Nombre : Ariel Sebastian
+Apellido : Ortega
+Cargo : Técnico electrónico
+Direccion : Junín 1323
+Ciudad : Ciudad Madero
+Telefono : 46226486
+Email : ari3313@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Por medio de la presente, tengo el agrado de presentarles mi curriculum vitae, esperando que el  mismo sea adecuado para el aviso por Uds. publicado. A la espera de noticias favorables, me despido muy Atte.
+Security_code : b4kxk
+Send : Enviar
+
+---------------
+
+Address : 186.58.93.186
+REF : tecnico-electornico
+Nombre : Ariel Sebastian
+Apellido : Ortega
+Cargo : Técnico electrónico
+Direccion : Junín 1323
+Ciudad : Ciudad Madero
+Telefono : 46226486
+Email : ari3313@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Por medio de la presente, tengo el agrado de presentarles mi curriculum vitae, esperando que el  mismo sea adecuado para el aviso por Uds. publicado. A la espera de noticias favorables, me despido muy Atte.
+Security_code : b4kxk
+Send : Enviar
+
+---------------
+
+Address : 186.58.93.186
+REF : tecnico-electornico
+Nombre : Ariel Sebastian
+Apellido : Ortega
+Cargo : Técnico electrónico
+Direccion : Junín 1323
+Ciudad : Ciudad Madero
+Telefono : 46226486
+Email : ari3313@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Por medio de la presente, tengo el agrado de presentarles mi curriculum vitae, esperando que el  mismo sea adecuado para el aviso por Uds. publicado. A la espera de noticias favorables, me despido muy Atte.
+Security_code : m5y7m
+Send : Enviar
+
+---------------
+
+Address : 186.58.93.186
+Nombre : Nadia Soledad
+Apellido : Ortega
+Cargo : Grafocolo
+Direccion : Barrio Autopista Torre 2 piso 12 depto C
+Ciudad : Tapiales
+Telefono : 1535901529
+Email : grafoeducando@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenas tardes: Por medio del presente, aprovecho la oportunidad para enviarles adjunto mi Curriculum Vitae. Me encuentro actualmente realizando la especialización en Selección de Personal en la carrera de Grafología. Ademas poseo habilidades para realizar psicodiagnostico a través de test proyectivos. Quedo a su entera disposición en el caso de poder serle de utilidad. Saludos Cordiales.
+Security_code : 4m56z
+Send : Enviar
+
+---------------
+

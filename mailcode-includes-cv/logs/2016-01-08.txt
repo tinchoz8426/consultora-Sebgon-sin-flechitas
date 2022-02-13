@@ -1,0 +1,46 @@
+Address : 181.95.47.249
+Nombre : pablo martin
+Apellido : schultze
+Cargo : tecnico electronico
+Direccion : barrio gral s martin monoblock 22 3 F
+Ciudad : caba
+Telefono : 1533470714
+Email : schultzepablo@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : remuneracion pretendida en tabacalera 22000netos
+Security_code : h6wsn
+Send : Enviar
+
+---------------
+
+Address : 186.65.67.35
+Nombre : Matias
+Apellido : Moyano
+Cargo : Seguridad e Higiene
+Direccion : B° 21 de Julio M H C 7
+Ciudad : Mendoza
+Telefono : 2612021403
+Email : matismoyano@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Téc. superior en Higiene y Seguridad.
+Cuento con experiencia en el rubro del Petróleo, actualmente trabajando en Comodoro Rivadavia.
+Security_code : 53xsk
+Send : Enviar
+
+---------------
+
+Address : 200.125.104.185
+Nombre : RUBEN
+Apellido : BALEA
+Cargo : PORTERO INSTITUCION EDUCATIVA
+Direccion : DON BOSCO 3440
+Ciudad : CABA
+Telefono : 1540897423
+Email : rubenvps@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Por favor solicito considerar mi CV adjunto en la búsqueda anunciada. Agradezco la atención dispensada. Muy atte. Rubén Balea
+Security_code : ngg47
+Send : Enviar
+
+---------------
+

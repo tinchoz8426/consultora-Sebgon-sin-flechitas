@@ -1,0 +1,15 @@
+Address : 190.17.159.30
+Nombre : Pamela Beatriz
+Apellido : Jorge
+Cargo : RRHH/Seleccion de Personal/Administracion de Personal
+Direccion : Larrea 3089
+Ciudad : Buenos Aires
+Telefono : 1532674737
+Email : pamelajorge@live.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Buen día! Actualmente me encuentro sin trabajo, cualquier propuesta laboral que me puedan llegar a ofrecer se los agradeceria mucho.
+Security_code : bhqj2
+Send : Enviar
+
+---------------
+

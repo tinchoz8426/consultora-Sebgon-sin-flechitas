@@ -1,0 +1,46 @@
+Address : 201.250.102.34
+Nombre : Horacio Gabriel
+Apellido : Bruzzesi
+Cargo : Analista de riesgo
+Direccion : Inclan 4230 15 B
+Ciudad : CABA
+Telefono : 15-5052-5320
+Email : hgb1968@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : ME encuentro en la busqueda de empleo no necesariamente para el cargo que me postulo sino aquel que pueda cumplir segun mi perfil de experiencia.
+Saludos cordiales.-
+Security_code : jcz63
+Send : Enviar
+
+---------------
+
+Address : 190.246.1.71
+Nombre : Aldana
+Apellido : De Simone
+Cargo : Secretaria/asistente/recepción
+Direccion : Ruta 52 km 3,5
+Ciudad : Cnning
+Telefono : (011)1569576960
+Email : aldy.desimone@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenas tardes, les envio mi c.v para una oportunidad laboral.
+Security_code : gxkvw
+Send : Enviar
+
+---------------
+
+Address : 201.250.164.6
+Nombre : DARIO, FABIAN
+Apellido : JIMENEZ
+Cargo : operario
+Direccion : chile 1050
+Ciudad : BUENOS AIRES
+Telefono : 02320-434919
+Email : dariojimenez74@yahoo.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola espero tener solicitado para una oportunidad de trabajo
+Security_code : x3jhn
+Send : Enviar
+
+---------------
+

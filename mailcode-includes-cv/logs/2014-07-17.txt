@@ -1,0 +1,77 @@
+Address : 200.45.197.137
+Nombre : Macarena
+Apellido : Mira Ghisolfi
+Cargo : Secretaria / Recepcion / Telefonista
+Direccion : Lascano 2683
+Ciudad : CABA
+Telefono : 1567918430
+Email : macarenamg15@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto mi curriculum vitae. Soy una persona muy activa, con ganas de aprender y progresar.
+Security_code : 27ghn
+Send : Enviar
+
+---------------
+
+Address : 186.39.152.225
+Nombre : Marcia
+Apellido : Montivero
+Cargo : administrativa-recepcion
+Direccion : barrio foecyt m-f casa 24
+Ciudad : mendoza
+Telefono : 2612469740
+Email : marcia_m91@live.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenas tardes, mi nombre es Marcia Montivero, tengo experiencia en el área administrativa y me estoy perfeccionando en ello. Soy muy responsable, comprometida y tengo muchas ganas de continuar capacitandome. Espero mi curriculum les interese. Quisiera pedirle si podemos concretar una entrevista personal, así quedara mucho mas convencido/a de mis habilidades. Quedo a la espera de su respuesta.  Desde ya muchas gracias.
+
+atte. Marcia Montivero
+Security_code : gvgmc
+Send : Enviar
+
+---------------
+
+Address : 190.228.1.102
+Nombre : Cristina
+Apellido : Rivadeneira
+Cargo : Asistente Juridico
+Direccion : Alberdi 578
+Ciudad : General Guemes
+Telefono : 3874108679
+Email : rivadeneira_mc@outlook.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Busco empleo relacionado al area legal.
+Security_code : mkyw3
+Send : Enviar
+
+---------------
+
+Address : 181.26.16.254
+Nombre : Benitez
+Apellido : Mario Leonardo
+Cargo : Operario
+Direccion : Neuquen 2725
+Ciudad : Monte Grande
+Telefono : 1559149410
+Email : benitezleo83@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Mi objetivo es desarrollarme tanto en lo personal como en lo laboral para alcanzar mis objetivos personales y crecer en el ámbito laboral.
+Security_code : bsx69
+Send : Enviar
+
+---------------
+
+Address : 181.26.16.254
+Nombre : Benitez
+Apellido : Mario Leonardo
+Cargo : Operario
+Direccion : Neuquen 2725
+Ciudad : Monte Grande
+Telefono : 1559149410
+Email : benitezleo83@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Mi objetivo es desarrollarme tanto en lo personal como en lo laboral para alcanzar mis objetivos personales y crecer en el ámbito laboral.
+Security_code : 3c26v
+Send : Enviar
+
+---------------
+

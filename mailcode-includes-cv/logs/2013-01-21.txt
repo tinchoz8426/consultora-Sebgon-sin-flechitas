@@ -1,0 +1,32 @@
+Address : 190.174.158.12
+Nombre : Walter Hernan
+Apellido : Acosta
+Cargo : Encargado
+Direccion : Beron de Astrada 5583 3º A
+Ciudad : Tablada
+Telefono : 1551084471
+Email : walterh_acosta74@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Envio mi Curriculum Vitae para futuras postulaciones.
+Saludos
+Security_code : p2b88
+Send : Enviar
+
+---------------
+
+Address : 181.29.155.239
+Nombre : Eva
+Apellido : Errandonea
+Cargo : Recepcionista / Secretaria Administrativa
+Direccion : Colonia 988
+Ciudad : Ituzaingo
+Telefono : 1159532803
+Email : evaerrandonea@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Me dirijo a usted con motivo de hacerle llegar mis datos personales y laborales a los efectos de postularme para algún cargo que pueda solicitar la empresa.
+Mi objetivo es obtener un trabajo que me permita desarrollar mis conocimientos y experiencia y poder adquirir nuevas habilidades.
+Security_code : d29yh
+Send : Enviar
+
+---------------
+

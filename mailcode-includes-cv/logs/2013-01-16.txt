@@ -1,0 +1,75 @@
+Address : 190.189.5.159
+Nombre : Pablo Leonel
+Apellido : Mastropasqua
+Cargo : Operario
+Direccion : Mendoza 3874
+Ciudad : Lanus
+Telefono : 4203 2005
+Email : elcave_07@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Queria dejar mi CV, desde ya, muchas gracias.
+Security_code : 4swhq
+Send : Enviar
+
+---------------
+
+Address : 190.136.126.233
+Nombre : Facundo
+Apellido : Roldan
+Cargo : Lic. en Trabajo Social
+Direccion : dorrego 792
+Ciudad : baradero
+Telefono : 03329-15579476
+Email : facuroldan2012@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : soy lic. en Trabajo Social me gustaria formar parte de su equipo de trabajo, vivo en baradero y cuento con movilidad en caso de ser necesario. elavore un proyecto de la importancia del socio-ambiental para la selección de personal.
+Security_code : 69fz9
+Send : Enviar
+
+---------------
+
+Address : 181.46.117.239
+Nombre : Cristian Daniel
+Apellido : Castño
+Cargo : operario
+Direccion : la pintura e/  paris y fray luis de leon
+Ciudad : moreno
+Telefono : 1562559114 
+Email : luca_joan00@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : necesito trabajar para poder mantener a mi hijo
+Security_code : cfxjw
+Send : Enviar
+
+---------------
+
+Address : 190.52.37.249
+Nombre : Jose Elbio Dario
+Apellido : Velazco
+Cargo : Programador, Empleado en general
+Direccion : Simon Bolivar 223
+Ciudad : Palpala - Provincia de Jujuy
+Telefono : 0388-4276914
+Email : elbiovelazco@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenas noches queria agradecerles la oportunidad, voy a estar a la espera de una respuesta que seguramente sera favorables. Saludos.
+Security_code : gwgvh
+Send : Enviar
+
+---------------
+
+Address : 190.52.37.249
+Nombre : Jose Elbio Dario
+Apellido : Velazco
+Cargo : Programador, Empleado en general
+Direccion : Simon Bolivar 223
+Ciudad : Palpala - Provincia de Jujuy
+Telefono : 0388-4276914
+Email : elbiovelazco@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenas noches queria agradecerles la oportunidad, voy a estar a la espera de una respuesta que seguramente sera favorables. Saludos.
+Security_code : gwgvh
+Send : Enviar
+
+---------------
+

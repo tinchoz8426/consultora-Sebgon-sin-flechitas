@@ -1,0 +1,34 @@
+Address : 179.36.133.231<br>
+ <br>Nombre : Linda Lorena
+ <br>Apellido : Insfran Alcaraz
+ <br>Cargo : Atención al Cliente,Secretaria,Operaria
+ <br>Direccion : Av. Montes de Oca
+ <br>Ciudad : Capital Federal 
+ <br>Telefono : 15-3338-8331
+ <br>Email : LO_INTRO_09@HOTMAIL.COM
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me gustaría poder formar parte de su empresa!
+ <br>Security_code : b7y4f
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.177.212.239<br>
+ <br>REF : Tectron
+ <br>Nombre : Gonzalo Javier 
+ <br>Apellido : Gainza
+ <br>Cargo : Tecnico electronico
+ <br>Direccion : Miraflores 1319
+ <br>Ciudad : Grand Bourg
+ <br>Telefono : 11-6479-7894
+ <br>Email : gonzalojavier2487@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimado.
+ Queria enviarles mi Cv para el puesto de Tecnico Electronico para mantenimiento en la zona norte.
+
+Saludos cordiales
+ <br>Security_code : f2y4g
+ <br>Send : Enviar
+ <br>
+---------------
+

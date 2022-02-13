@@ -1,0 +1,15 @@
+Address : 190.51.65.201
+Nombre : diego gustavo
+Apellido : toloza
+Cargo : preferentemente areas de salud 
+Direccion : piran 175
+Ciudad : ituzaingo, buenos aires
+Telefono : 15-3776 8631
+Email : dgtoloza@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : puede ser utilizado para trabajos part time.
+Security_code : m7m87
+Send : Enviar
+
+---------------
+

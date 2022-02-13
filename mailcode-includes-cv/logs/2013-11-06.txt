@@ -1,0 +1,82 @@
+Address : 
+Nombre : JESICA ROMINA
+Apellido : GARCIA
+Cargo : EMPLEADA ADMINISTRATIVA
+Direccion : BERON DE ASTRADA 2130 1º PISO
+Ciudad : RAMOS MEJIA
+Telefono : 15-24624933
+Email : jesicaramones2215@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto mi CV,  quedo a su disposición para concertar una entrevista en persona o telefónica, o para cualquier otra duda que pudiera surgir sobre mi Curriculum.
+Atentamente
+Jesica 
+
+Security_code : 76d6p
+Send : Enviar
+
+---------------
+
+Address : 
+Nombre : Noelia Aejandra
+Apellido : Giordano
+Cargo : cajera/recepcionista/administracion
+Direccion : el tala 3893
+Ciudad : buenos aires
+Telefono : 1537920354/1560241702
+Email : maty_cami_2005@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me encuentro en la busqueda intensa de trabajo ya sea de lo q corresponda a ami perfil o de lo que se oferte. desde ya muchas gracias y a la espera de una pronta respuesta favorable 
+Security_code : 22824
+Send : Enviar
+
+---------------
+
+Address : 
+Nombre : Noelia Aejandra
+Apellido : Giordano
+Cargo : cajera/recepcionista/administracion
+Direccion : el tala 3893
+Ciudad : buenos aires
+Telefono : 1537920354/1560241702
+Email : maty_cami_2005@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me encuentro en la busqueda intensa de trabajo ya sea de lo q corresponda a ami perfil o de lo que se oferte. desde ya muchas gracias y a la espera de una pronta respuesta favorable 
+Security_code : 62pth
+Send : Enviar
+
+---------------
+
+Address : 
+Nombre : Romina
+Apellido : Lastra
+Cargo : Recepcionista, administrativa
+Direccion : Hornos 1288
+Ciudad : Capital Federal
+Telefono : 43021861
+Email : rominalas@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : 
+
+Sr/a responsable de Recursos Humanos
+
+Entrego mi CV haciendo saber que me encuentro actualmente sin trabajo y deseando encontrar uno a la brevedad.
+
+Me presento como una persona responsable, creativa, flexible, orientada al logro de resultados y a la resolución de las tareas asignadas.
+
+El objetivo que me he impuesto es el de formar parte del personal de una empresa prestigiosa, confiable y con proyectos ambiciosos.
+
+Estoy a su disposición para concretar una entrevista en la que pueda informarles más de mí.
+
+Pongo, además en su conocimiento que estoy en condiciones de asumir la responsabilidad de este empleo en forma inmediata.
+
+Me despido atte.
+
+ 
+
+Gisela Romina Lastra
+
+Security_code : 2ntpf
+Send : Enviar
+
+---------------
+

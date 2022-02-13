@@ -1,0 +1,131 @@
+Address : 186.22.88.172<br>
+ <br>REF : SP-1
+ <br>Nombre : Oscar Aurelio
+ <br>Apellido : Pace
+ <br>Cargo : Supervisor de Producción
+ <br>Direccion : Rio de Janeiro 2634
+ <br>Ciudad : Lanus
+ <br>Telefono : 1169398955
+ <br>Email : oscarpace06@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Tengo el agrado de dirigirme a uds. a fin de postularme al puesto Supervisor de Producción.
+Quedo a disposición para evacuar las consultas que consideren oportunas.
+
+Cordialmente
+Oscar Aurelio Pace
+ <br>Security_code : dnzth
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.18.78.179<br>
+ <br>Nombre : Carolina
+ <br>Apellido : Pintos Gonzalez
+ <br>Cargo : vendedor
+ <br>Direccion : Suarez 1497
+ <br>Ciudad : buenos aires caba
+ <br>Telefono : 01168902111
+ <br>Email : carolinapintosgonzalez@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Con muchas ganas de conocer otros rubros de trabajo, adquirir conocimientos y poder crecer laboral mente. Con mucha predisposición y ganas de trabajar en cualquier sector que se solicite. 
+ <br>Security_code : jn26y
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.138.54.85<br>
+ <br>Nombre : Gabriela
+ <br>Apellido : Zimic
+ <br>Cargo : Administrativa / Atención al cliente / seguros / Marketing
+ <br>Direccion : Int. Ramos Mejia 1178
+ <br>Ciudad : El Palomar
+ <br>Telefono : 1535131369
+ <br>Email : gabrielazimic@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Cuento con experiencia de 10 años en seguros. Atención al publico, clientes y productores. Asesoramiento, emisión, ventas, tramitación de siniestros y cobranzas.
+
+Experiencia de 5 años en marketing. Puesto Trade marketing trainer. Estudio de mercado con relevamiento de información en puntos de venta. Capacitación de productos. Imagen de marca en Puntos De Venta con distribución y colocación de material POP.
+
+Con predisposición a trabajar en nuevas áreas y sectores busco aportar mis experiencias y capacidades. Aprender, superar desafíos y desarrollar carrera en un buen ambiente profesional de trabajo.
+ <br>Security_code : x92yp
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.191.221.106<br>
+ <br>Nombre : Gisella
+ <br>Apellido : Aldabez
+ <br>Cargo : Vendedora/Call center
+ <br>Direccion : Ricardo Guiraldes 2975
+ <br>Ciudad : el jaguel
+ <br>Telefono : 3644355364
+ <br>Email : gisellaaldabez@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Necesito trabajar. Desde ya muchas gracias por recibir mi Curriculum Vitae.
+ <br>Security_code : krjzy
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.19.86.181<br>
+ <br>REF : ROT-1
+ <br>Nombre : Francisco 
+ <br>Apellido : Alvarez Santos
+ <br>Cargo : Ingeniero
+ <br>Direccion : Arcos 1805
+ <br>Ciudad : Capital Federal
+ <br>Telefono : 47854564
+ <br>Email : paco.asantos@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me postulo para la vacante en cuestión a fin de ser tenido en cuenta.
+ <br>Security_code : kxg5x
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.19.28.233<br>
+ <br>REF : JPER-1
+ <br>Nombre : Jorge
+ <br>Apellido : Arteaga
+ <br>Cargo : Jefe de personal 
+ <br>Direccion : Banfield
+ <br>Ciudad : GBA Sur
+ <br>Telefono : 1169472326
+ <br>Email : joge.arteaga@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Postulación par bacante laboral de jefe de personal
+ <br>Security_code : cqvhb
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.231.59.145<br>
+ <br>Nombre : franco
+ <br>Apellido : cannuni
+ <br>Cargo : vendedor 
+ <br>Direccion : independencia 864
+ <br>Ciudad : cordoba
+ <br>Telefono : 0358154226590
+ <br>Email : francocannuni_107@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me gustaria trabajar en la cuidad de cordoba de vendedor o visitador medio o dentro del rubro salud.
+ <br>Security_code : mk2s6
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.231.59.145<br>
+ <br>Nombre : franco
+ <br>Apellido : cannuni
+ <br>Cargo : vendedor 
+ <br>Direccion : independencia 864
+ <br>Ciudad : cordoba
+ <br>Telefono : 0358154226590
+ <br>Email : francocannuni_107@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me gustaria trabajar en la cuidad de cordoba de vendedor o visitador medio o dentro del rubro salud.
+ <br>Security_code : mk2s6
+ <br>Send : Enviar
+ <br>
+---------------
+

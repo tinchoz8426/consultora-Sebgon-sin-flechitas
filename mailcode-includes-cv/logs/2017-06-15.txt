@@ -1,0 +1,64 @@
+Address : 179.41.187.127<br>
+ <br>REF : chr
+ <br>Nombre : Ariel
+ <br>Apellido : Rueda
+ <br>Cargo : Empleo mencionado 
+ <br>Direccion : Ipiranga 2669
+ <br>Ciudad : Caba
+ <br>Telefono : 1170055721
+ <br>Email : rueda.ariel@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Solo quiero trabajar y me evalúen x mi trabajo  poseo mucha voluntad y me adapto 
+ <br>Security_code : J7254
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.44.181.81<br>
+ <br>REF : chr
+ <br>Nombre : julio cesar 
+ <br>Apellido : gomez
+ <br>Cargo : chofer repartidor
+ <br>Direccion : salvigny 7506
+ <br>Ciudad : laferrere
+ <br>Telefono : 20699335
+ <br>Email : juliogomez11225@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : quisiera postularme al puesto de chofer 
+ <br>Security_code : w6ync
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.167.39.8<br>
+ <br>REF : ROT-1
+ <br>Nombre : Francisco A.
+ <br>Apellido : Fazio
+ <br>Cargo :  RESPONSABLE DE OFICINA TECNICA 
+ <br>Direccion : Boedo 510
+ <br>Ciudad : Lomas de Zamora
+ <br>Telefono : 1154588137
+ <br>Email : paco_sub@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Adjuntaré porfolio al mail que me indiquen.
+ <br>Security_code : r49wn
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.224.61.217<br>
+ <br>REF : chr
+ <br>Nombre : Eduardo antonio 
+ <br>Apellido : Caro 
+ <br>Cargo : Chofer acompañante
+ <br>Direccion : Pilar 190
+ <br>Ciudad : Bs.as
+ <br>Telefono : 1138215859
+ <br>Email : eduardoantionocaro@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Chofer
+ <br>Security_code : Wbqmx
+ <br>Send : Enviar
+ <br>
+---------------
+

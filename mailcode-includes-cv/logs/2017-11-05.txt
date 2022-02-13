@@ -1,0 +1,179 @@
+Address : 66.249.85.29<br>
+ <br>Nombre : Carmen
+ <br>Apellido : Farias
+ <br>Cargo : Operaria,mantenimiento
+ <br>Direccion : Belisario Roldan c3
+ <br>Ciudad : Zarate
+ <br>Telefono : 3487646054
+ <br>Email : Carmen_joaqui@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Necesito trabajar
+ <br>Security_code : cbbx8
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.9<br>
+ <br>REF : EP-1
+ <br>Nombre : Cristian
+ <br>Apellido : Giménez
+ <br>Cargo : Encargado /jefe
+ <br>Direccion : Pueyrredon 3803
+ <br>Ciudad : José c paz
+ <br>Telefono : 1570441607
+ <br>Email : ccriss1972@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados , envío mi CV para puesto.saludos
+ <br>Security_code : Kd8gv
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.9<br>
+ <br>REF : EP-1
+ <br>Nombre : Cristian
+ <br>Apellido : Giménez
+ <br>Cargo : Encargado /jefe
+ <br>Direccion : Pueyrredon 3803
+ <br>Ciudad : José c paz
+ <br>Telefono : 1570441607
+ <br>Email : ccriss1972@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados , envío mi CV para puesto.saludos
+ <br>Security_code : 4qwy9
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.9<br>
+ <br>REF : EP-1
+ <br>Nombre : Cristian
+ <br>Apellido : Giménez
+ <br>Cargo : Encargado /jefe
+ <br>Direccion : Pueyrredon 3803
+ <br>Ciudad : José c paz
+ <br>Telefono : 1570441607
+ <br>Email : ccriss1972@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados , envío mi CV para puesto.saludos
+ <br>Security_code : Xdmjv
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.11<br>
+ <br>REF : EP-1
+ <br>Nombre : Cristian
+ <br>Apellido : Giménez
+ <br>Cargo : Encargado /jefe
+ <br>Direccion : Pueyrredon 3803
+ <br>Ciudad : José c paz
+ <br>Telefono : 1570441607
+ <br>Email : ccriss1972@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados , envío mi CV para puesto.saludos
+ <br>Security_code : Xdmjv
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.11<br>
+ <br>REF : EP-1
+ <br>Nombre : Cristian
+ <br>Apellido : Giménez
+ <br>Cargo : Encargado /jefe
+ <br>Direccion : Pueyrredon 3803
+ <br>Ciudad : José c paz
+ <br>Telefono : 1570441607
+ <br>Email : ccriss1972@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados , envío mi CV para puesto.saludos
+ <br>Security_code : XS7YW
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.11<br>
+ <br>REF : EP-1
+ <br>Nombre : Cristian
+ <br>Apellido : Giménez
+ <br>Cargo : Encargado /jefe
+ <br>Direccion : Pueyrredon 3803
+ <br>Ciudad : José c paz
+ <br>Telefono : 1570441607
+ <br>Email : ccriss1972@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados , envío mi CV para puesto.saludos
+ <br>Security_code : 6bgkx
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.17.219.180<br>
+ <br>Nombre : Jesus David
+ <br>Apellido : Magallanes Hernandez
+ <br>Cargo : Técnico Electrico
+ <br>Direccion : Av Hipolito Yrigoyen 1534
+ <br>Ciudad : Capital Federal
+ <br>Telefono : 1128766699
+ <br>Email : jdmhernandez22@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Soy un joven profesional,graduado de técnico industrial con especialidad en plantas generadoras y subestaciones electricas con 6 años de experiencia en el área.
+ <br>Security_code : 284cm
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.9.135.177<br>
+ <br>REF : Tectron
+ <br>Nombre : Dario
+ <br>Apellido : Velazquez
+ <br>Cargo : Técnico electronico
+ <br>Direccion : Sargento cabral, 2339
+ <br>Ciudad : Don torcuato
+ <br>Telefono : 1133950712
+ <br>Email : Dario__velazquez@Hotmail.Com 
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Automatismos y robot iba
+Liderazgo de proyectos
+ <br>Security_code : 9k25w
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 131.72.206.114<br>
+ <br>REF : JPER-1
+ <br>Nombre : Daniel Alberto
+ <br>Apellido : Uncal
+ <br>Cargo : Jefee de Personal
+ <br>Direccion : Diego de Carbajal 771
+ <br>Ciudad : Hurlingham
+ <br>Telefono : 11 46654715
+ <br>Email : dauncal@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas tardes, 
+les adjunto CV, quedo a disposicion para ampliar en una entrevista personal.
+Muchas gracias.
+Saludos.
+Daniel Uncal
+ <br>Security_code : 336hy
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 200.110.188.28<br>
+ <br>REF : VT
+ <br>Nombre : Juan Pedro 
+ <br>Apellido : Zabaljauregui 
+ <br>Cargo : Vendedor
+ <br>Direccion : Acceso oeste km 58
+ <br>Ciudad : Luján 
+ <br>Telefono : 1160441110 
+ <br>Email : Juanpedro.jpz@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Espero que me entrevisten para qu pudan ver mis actitudes profesionales para el puesto requerido.
+ <br>Security_code : Fjg5f
+ <br>Send : Enviar
+ <br>
+---------------
+

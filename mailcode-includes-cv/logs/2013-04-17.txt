@@ -1,0 +1,72 @@
+Address : 201.213.68.222
+Nombre : Ornella María
+Apellido : Petrazzini
+Cargo : operario/ oficial/ medio oficial
+Direccion : Estanislao del campo 487
+Ciudad : Buenos Aires
+Telefono : 1130720717
+Email : petrazziniornella@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Soy una persona joven en busca de un trabajo en  el que pueda crecer, aprender y progresar. Me considero muy buena en la utilización de todas las maquinas de carpinteria y en encontrar soluciones a problemas que se presenten sobre la marcha 
+Security_code : k9s89
+Send : Enviar
+
+---------------
+
+Address : 186.19.155.177
+Nombre : JONATAN
+Apellido : SOSA
+Cargo : CAPACITADOR
+Direccion : CULPINA 425
+Ciudad : VILLA MADERO LA MATANZA
+Telefono : 1139584645
+Email : jsfirerescue@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : BUENOS DÍAS LES ENVIÓ MI CURRICULUM PERSONAL, MI NOMBRE ES JONATAN SOSA SOY INSTRUCTOR INDEPENDIENTE EN FORMACIÓN INTEGRAL DE BRIGADAS DE EMERGENCIAS, PRIMEROS AUXILIOS, COMBATE Y PREVENCIÓN DE INCENDIOS, MANEJO DE EXTINTORES, EVACUACIÓN, ETC.
+DISPONIBILIDAD HORARIA FULL TIME.
+ESPERO UNA RESPUESTA FAVORABLE.
+CORREO ELECTRÓNICO: jsfirerescue@gmail.com
+CELULAR: 1139584645
+
+JONATAN AMIR SOSA
+Security_code : m4bn5
+Send : Enviar
+
+---------------
+
+Address : 186.19.155.177
+Nombre : JONATAN
+Apellido : SOSA
+Cargo : CAPACITADOR
+Direccion : CULPINA 425
+Ciudad : VILLA MADERO LA MATANZA
+Telefono : 1139584645
+Email : jsfirerescue@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : BUENOS DÍAS LES ENVIÓ MI CURRICULUM PERSONAL, MI NOMBRE ES JONATAN SOSA SOY INSTRUCTOR INDEPENDIENTE EN FORMACIÓN INTEGRAL DE BRIGADAS DE EMERGENCIAS, PRIMEROS AUXILIOS, COMBATE Y PREVENCIÓN DE INCENDIOS, MANEJO DE EXTINTORES, EVACUACIÓN, ETC.
+DISPONIBILIDAD HORARIA FULL TIME.
+ESPERO UNA RESPUESTA FAVORABLE.
+CORREO ELECTRÓNICO: jsfirerescue@gmail.com
+CELULAR: 1139584645
+
+JONATAN AMIR SOSA
+Security_code : m4bn5
+Send : Enviar
+
+---------------
+
+Address : 186.57.167.111
+Nombre : Mariano Javier
+Apellido : Acosta Gutierrez
+Cargo : Cualquier puesto disponible (me adapto facilmente a tareas no realizadas anteriormente)
+Direccion : Uspallata 135
+Ciudad : Malvinas Argentinas
+Telefono : 1568794522
+Email : Princess.of.darkness.one@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Soy eficaz, puntual y capaz; estoy buscando un trabajo para adquirir experiencia y un sueldo considerable.
+Security_code : 25r4z
+Send : Enviar
+
+---------------
+

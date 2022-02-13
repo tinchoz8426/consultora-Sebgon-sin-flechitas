@@ -1,0 +1,111 @@
+Address : 190.50.75.228
+REF : electromecanico
+Nombre : Natalia
+Apellido : Pastori
+Cargo : Administrativo
+Direccion : Brown 9046
+Ciudad : Mar del Plata
+Telefono : 487-7045
+Email : nataliadegesell@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Es de mi agrado ponerme en contacto con ustedes y  ofrecerles mi CV. Soy una mujer activa, capaz, responsable. Busco trabajar en una empresa seria, donde pueda progresar laboral y personalmente, soy una mujer que le gustan los desafios y tengo la capacidad de resolverlos.
+Quedo a la espera de su contacto.
+Muchas gracias. Natalia Pastori.
+Security_code : kjphg
+Send : Enviar
+
+---------------
+
+Address : 190.225.229.224
+Nombre : Victor
+Apellido : Firme
+Cargo : empleado
+Direccion : Cerrillos
+Ciudad : Salta
+Telefono : (0387)4999967
+Email : victor_xeneises@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : hola  me llammo victor soy de salta solo le pido que me den un empleo y nada mas y gracias
+Security_code : tsdxn
+Send : Enviar
+
+---------------
+
+Address : 190.227.163.214
+Nombre : Ivana
+Apellido : Follino
+Cargo : Contabilidad
+Direccion : Larralde 1081
+Ciudad : Morón
+Telefono : 1158495692
+Email : ivanafollino@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Busco desarrollarme profesional y personalmente y adquirir nuevos conocimientos y experiencias.
+Security_code : ghbjv
+Send : Enviar
+
+---------------
+
+Address : 186.19.50.20
+Nombre : gabriela
+Apellido : mendez
+Cargo : RECEPCIONISTA
+Direccion : aguilar 2245
+Ciudad : lanus
+Telefono : 39809890
+Email : gabisol_22@live.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Me postulo al aviso publicado en bumeran.com, con el titulo de recepcionista, el dia 01/08/2010.
+Security_code : 2mn6q
+Send : Enviar
+
+---------------
+
+Address : 201.253.206.176
+Nombre : Veronica
+Apellido : Agrazo
+Cargo : Administrativa- Recepcionista
+Direccion : Maipu 3231
+Ciudad : Villa Ballester
+Telefono : 1565549849
+Email : vagrazo@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me encuentro en la busqueda. Espero mi experiencia cubralas necesidades del perfil que buescan.
+Atentamente, Veronica.-
+Security_code : y9hza
+Send : Enviar
+
+---------------
+
+Address : 190.190.66.72
+Nombre : Anahí Mariela
+Apellido : Weber
+Cargo : Recepcionista
+Direccion : Alvear 1763
+Ciudad : Florida, Vicente López
+Telefono : 15-6710-8556
+Email : anahiweber@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto mi CV, por el puesto de Recepcinista publicado en la página Bumeran.com. Considerando que tengo los requisitos mencionados en dicho aviso, y esperando una respuesta favorable.
+Security_code : 6nmsr
+Send : Enviar
+
+---------------
+
+Address : 190.172.128.59
+Nombre : mariano
+Apellido : saez
+Cargo : tecnico en marketing - empleado bancario cajero oficial de negocios - gerencia
+Direccion : san martin 1256 
+Ciudad : neuquen
+Telefono : 0299 155029461
+Email : mssaez@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Desde ya muchas gracias!
+atte. Mariano Saez.
+tel: 0299 155029461
+Security_code : gkp74
+Send : Enviar
+
+---------------
+

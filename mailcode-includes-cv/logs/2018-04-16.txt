@@ -1,0 +1,155 @@
+Address : 186.125.230.105<br>
+ <br>REF : EP-1
+ <br>Nombre : santiago
+ <br>Apellido : martinez
+ <br>Cargo : analista de planeamiento 
+ <br>Direccion : BUrela 1430
+ <br>Ciudad : c.a.b.a
+ <br>Telefono : 1533593240
+ <br>Email : jaimartin99@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : buendía 
+me encuentro postulando a la oferta de supervisor de planeamiento, cuento con  buena experiencia  y  plena disponibilidad . 
+dejo mis saludos 
+Santi
+ <br>Security_code : 7rddf
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.125.230.105<br>
+ <br>REF : EP-1
+ <br>Nombre : santiago
+ <br>Apellido : martinez
+ <br>Cargo : encargado de producción
+ <br>Direccion : BUrela 1430
+ <br>Ciudad : c.a.b.a
+ <br>Telefono : 1533593240
+ <br>Email : jaimartin99@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buen día
+estoy enviando mi c.v. por el puesto de Encargado, cuento con una buena experiencia y plena disposición a empezar full time .
+los saludo 
+Santi 
+ <br>Security_code : zgbhx
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.125.230.105<br>
+ <br>REF : EP-1
+ <br>Nombre : santiago
+ <br>Apellido : martinez
+ <br>Cargo : encargado de producción
+ <br>Direccion : BUrela 1430
+ <br>Ciudad : c.a.b.a
+ <br>Telefono : 1533593240
+ <br>Email : jaimartin99@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buen día
+estoy enviando mi c.v. por el puesto de Encargado, cuento con una buena experiencia y plena disposición a empezar full time .
+los saludo 
+Santi 
+ <br>Security_code : zgbhx
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.136.122.193<br>
+ <br>Nombre : Julieta Andrea
+ <br>Apellido : García
+ <br>Cargo : Recepción
+ <br>Direccion : zamudio 4722
+ <br>Ciudad : Capital Federal
+ <br>Telefono : 1532185616
+ <br>Email : julieta.a.garcia@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenos días, estoy en la búsqueda de un empleo como recepcionista o administrativa. Desde ya muchas gracias.
+ 
+ <br>Security_code : k86dz
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.136.122.193<br>
+ <br>Nombre : Julieta Andrea
+ <br>Apellido : García
+ <br>Cargo : Recepción
+ <br>Direccion : zamudio 4722
+ <br>Ciudad : Capital Federal
+ <br>Telefono : 1532185616
+ <br>Email : julieta.a.garcia@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenos días, estoy en la búsqueda de un empleo como recepcionista o administrativa. Desde ya muchas gracias.
+ 
+ <br>Security_code : k86dz
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.136.122.193<br>
+ <br>Nombre : Julieta Andrea
+ <br>Apellido : García
+ <br>Cargo : Recepción
+ <br>Direccion : zamudio 4722
+ <br>Ciudad : Capital Federal
+ <br>Telefono : 1532185616
+ <br>Email : julieta.a.garcia@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenos días, estoy en la búsqueda de un empleo como recepcionista o administrativa. Desde ya muchas gracias.
+ 
+ <br>Security_code : ytrpb
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.130.47.11<br>
+ <br>Nombre : FRANCO NEHUEN
+ <br>Apellido : PIÑEIRO
+ <br>Cargo : Auxiliar Administrativo
+ <br>Direccion : J. J. CASTAÑOS, 718
+ <br>Ciudad : MORON
+ <br>Telefono : 46272607
+ <br>Email : franconpineiro@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas tardes.
+Dejo adjunto mi CV. Quisiera encontrar un puesto en el area administrativa, ya que dispongo de varios años de experiencia en la misma.
+Ante cualquier otro puesto disponible me gustaria saber de el.
+
+saludos cordiales.
+ <br>Security_code : 3b758
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.46.98.37<br>
+ <br>Nombre : Jacqueline
+ <br>Apellido : De Vega
+ <br>Cargo : empleada
+ <br>Direccion : jauretche 10349
+ <br>Ciudad : MORENO (CP=1744)
+ <br>Telefono : 1168697443
+ <br>Email : judirock_lamanson@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : no tengo problemas en trabajar en forma grupal como individual 
+ <br>Security_code : 9f5nj
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.46.98.37<br>
+ <br>REF : EP-1
+ <br>Nombre : Jacqueline
+ <br>Apellido : De Vega
+ <br>Cargo : empleada
+ <br>Direccion : jauretche 10349
+ <br>Ciudad : MORENO (CP=1744)
+ <br>Telefono : 1168697443
+ <br>Email : judirock_lamanson@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : me siento capasitada  para el puesto
+ <br>Security_code : 5vxqx
+ <br>Send : Enviar
+ <br>
+---------------
+

@@ -1,0 +1,205 @@
+Address : 186.134.23.184
+Nombre : Carlos
+Apellido : Cortez
+Cargo : Junior
+Direccion : S. Fajardo 6858
+Ciudad : Gregorio de Laferrere
+Telefono : 46989188 / 1558702282
+Email : carloscortez739@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estoy en plena busca laborar relacionada con mis caracteristicas. Soy muy responsable y los mas importante, tengo la nesecidad de aprender el uso de nuevas herramientas que me hagan crecer profesionalmente.
+Security_code : Pfjt3
+Send : Enviar
+
+---------------
+
+Address : 186.134.23.184
+Nombre : Carlos
+Apellido : Cortez
+Cargo : Junior
+Direccion : S. Fajardo 6858
+Ciudad : Gregorio de Laferrere
+Telefono : 46989188 / 1558702282
+Email : carloscortez739@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estoy en plena busca laborar relacionada con mis caracteristicas. Soy muy responsable y los mas importante, tengo la nesecidad de aprender el uso de nuevas herramientas que me hagan crecer profesionalmente.
+Security_code : Pfjt3
+Send : Enviar
+
+---------------
+
+Address : 186.134.23.184
+Nombre : Carlos
+Apellido : Cortez
+Cargo : Junior
+Direccion : S. Fajardo 6858
+Ciudad : Gregorio de Laferrere
+Telefono : 46989188 / 1558702282
+Email : carloscortez739@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estoy en plena busca laborar relacionada con mis caracteristicas. Soy muy responsable y los mas importante, tengo la nesecidad de aprender el uso de nuevas herramientas que me hagan crecer profesionalmente.
+Security_code : Pfjt3
+Send : Enviar
+
+---------------
+
+Address : 186.134.23.184
+Nombre : Carlos
+Apellido : Cortez
+Cargo : Junior
+Direccion : S. Fajardo 6858
+Ciudad : Gregorio de Laferrere
+Telefono : 46989188 / 1558702282
+Email : carloscortez739@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estoy en plena busca laborar relacionada con mis caracteristicas. Soy muy responsable y los mas importante, tengo la nesecidad de aprender el uso de nuevas herramientas que me hagan crecer profesionalmente.
+Security_code : dhqhm
+Send : Enviar
+
+---------------
+
+Address : 186.109.193.102
+REF : SuP
+Nombre : Mario
+Apellido : Falcón
+Cargo : Supervisor de producción
+Direccion : Rio Pilcomayo 2124
+Ciudad : Pablo Podesta
+Telefono : 47696629
+Email : m2falcon@outlook.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Solicito entrevista para el puesto de supervisor de producción
+Security_code : hv95j
+Send : Enviar
+
+---------------
+
+Address : 186.109.193.102
+REF : SuP
+Nombre : Mario
+Apellido : Falcón
+Cargo : Supervisor de producción
+Direccion : Rio Pilcomayo 2124
+Ciudad : Pablo Podesta
+Telefono : 47696629
+Email : m2falcon@outlook.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Solicito entrevista para el puesto de supervisor de producción
+Security_code : hv95j
+Send : Enviar
+
+---------------
+
+Address : 186.109.193.102
+REF : SuP
+Nombre : Mario
+Apellido : Falcón
+Cargo : Supervisor de producción
+Direccion : Rio Pilcomayo 2124
+Ciudad : Pablo Podesta
+Telefono : 47696629
+Email : m2falcon@outlook.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Solicito entrevista para el puesto de supervisor de producción
+Security_code : hv95j
+Send : Enviar
+
+---------------
+
+Address : 186.109.193.102
+REF : SuP
+Nombre : Mario
+Apellido : Falcón
+Cargo : Supervisor de producción
+Direccion : Rio Pilcomayo 2124
+Ciudad : Pablo Podesta
+Telefono : 47696629
+Email : m2falcon@outlook.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Solicito entrevista para el puesto de supervisor de producción
+Security_code : nrg9m
+Send : Enviar
+
+---------------
+
+Address : 186.109.193.102
+REF : SuP
+Nombre : Mario
+Apellido : Falcón
+Cargo : Supervisor de producción
+Direccion : Rio Pilcomayo 2124
+Ciudad : Pablo Podesta
+Telefono : 47696629
+Email : m2falcon@outlook.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Solicito entrevista para el puesto de supervisor de producción
+Security_code : cdns3
+Send : Enviar
+
+---------------
+
+Address : 181.169.121.64
+Nombre : Gabriela
+Apellido : Vazquez
+Cargo : Diseñador Gráfico
+Direccion : Liniers 259
+Ciudad : Vicente Lopez
+Telefono : 1524585007
+Email : info@gabrielavazquez.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto mi CV para su evaluación. Muchas Gracias. 
+Security_code : wrkfp
+Send : Enviar
+
+---------------
+
+Address : 200.126.192.183
+Nombre : Manuel Alberto
+Apellido : Zamudio
+Cargo : Gerencia de operaciones
+Direccion : Rivadavia 2890
+Ciudad : CABA
+Telefono : 1544218370
+Email : manuelalbertozamudio@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto mi CV para sus futuras búsquedas
+Muchas gracias
+
+Security_code : hshzm
+Send : Enviar
+
+---------------
+
+Address : 190.55.80.253
+Nombre : Gabriela 
+Apellido : Dinocco
+Cargo : Analista, Asistente, Planificador.
+Direccion : Av. Córdoba 3949
+Ciudad : Capital Federal
+Telefono : 155 257 6298
+Email : gabriela.dinocco@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados:
+
+Adjunto mi CV para su consideración y con el fin de poder participar de los procesos de selección en relación a mi perfil y experiencia laboral.
+
+Cuento con 15 años de trayectoria en la Industria de la Televisión adquirida en una productora y distribuidora de contenidos de televisión por cable.
+
+Me desempeñé como Asistente, Analista, Planificador en distintas áreas como Publicidad, Promociones y Programación siendo responsable en los últimos 10 años, de la coordinación operativa  y pautado de la programación diaria del canal gastronómico "elgourmet" para su emisión
+.
+Previo a estas funciones trabajé como Asistente, Secretaria y Analista Administrativa en distintos rubros de empresas nacionales e internacionales con destacada gestión en la organización de eventos.
+
+Me considero una persona analítica, dinámica, proactiva y con amplia capacidad para el trabajo en equipo y nuevos desafíos.
+
+Si bien mi mayor trayectoria está relacionada a la Industria de la Televisión, tengo flexibilidad para ocupar asimismo una nueva función en otro rubro/rol en donde mi experiencia y gestión aporten al desarrollo y crecimiento de la organización. 
+
+Les agradezco su atención y quedo a su disposición para una entrevista laboral en la cual pueda ampliar detalles de mi perfil profesional.
+
+Atentamente,
+
+Gabriela Dinocco
+Security_code : mbxpx
+Send : Enviar
+
+---------------
+

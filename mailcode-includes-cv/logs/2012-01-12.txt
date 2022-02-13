@@ -1,0 +1,22 @@
+Address : 186.137.28.145
+REF : administrativo-logistica
+Nombre : Pablo
+Apellido : Martello
+Cargo : Administrativo de Logística
+Direccion : Roca 1049. Dx 9
+Ciudad : Neuquén
+Telefono : 011-15-6231-7255
+Email : pgmartello@fibertel.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenos días.
+Adjunto CV para la posiciòn de Referencia. La misma no indica el lugar de trabajo.
+
+dentro del CV incorporo remuneración pretendida.
+
+saludos y gracias
+Pablo
+Security_code : 6b64f
+Send : Enviar
+
+---------------
+

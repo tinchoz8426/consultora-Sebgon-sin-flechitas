@@ -1,0 +1,30 @@
+Address : 186.23.234.77
+Nombre : Facundo
+Apellido : Mansur
+Cargo : Tecnico Superior en seguridad e Higiene
+Direccion : Del Barco Centenera
+Ciudad : Buenos Aires
+Telefono : 1565401061
+Email : f_mansur@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Busco empleo como Técnico en seguridad e Higiene. Experiencia en el área de calidad, ISO 9000, 14000, OSHA 18000, IRAM. Amplia experiencia como docente. Actitud proactiva, amplias capacidades interpersonales,predisposición para el desarrollo de tareas. Buen manejo de idiomas (Ingles / Portugués, nivel intermedio)
+Security_code : nf7mx
+Send : Enviar
+
+---------------
+
+Address : 186.109.207.76
+Nombre : matias
+Apellido : mercado
+Cargo : fiambreria
+Direccion : bailen 356 barrio yapeyu
+Ciudad : cordoba
+Telefono : 153108235
+Email : gabito8500@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : tengo disponibilidad de horario y experiencia en fiambreria.tengo 20 años y un hijo
+Security_code : 8jbbb
+Send : Enviar
+
+---------------
+

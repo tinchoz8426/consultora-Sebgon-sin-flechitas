@@ -1,0 +1,127 @@
+Address : 179.39.71.66<br>
+ <br>Nombre : Gisela 
+ <br>Apellido : Perez
+ <br>Cargo : Varios 
+ <br>Direccion : Isla de los estados 1288
+ <br>Ciudad : Río grande 
+ <br>Telefono : 2964556157 
+ <br>Email : Gigi_08_4@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : En búsqueda de empleo nuevos emprendimientos y actividad grupal 
+ <br>Security_code : 4gbjf
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.182.106.197<br>
+ <br>REF : TEC. EL
+ <br>Nombre : Matías
+ <br>Apellido : Ruggeri
+ <br>Cargo : Técnico electrónico especializado
+ <br>Direccion : Carlos Casares 2240
+ <br>Ciudad : Castelar
+ <br>Telefono : 62898672
+ <br>Email : mdruggeri@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas tardes, adjunto CV para solicitud del empleo Técnico electrónico especializado.
+ <br>Security_code : mphpt
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.182.106.197<br>
+ <br>REF : TEC. EL
+ <br>Nombre : Matías
+ <br>Apellido : Ruggeri
+ <br>Cargo : Técnico electrónico especializado
+ <br>Direccion : Carlos Casares 2240
+ <br>Ciudad : Castelar
+ <br>Telefono : 62898672
+ <br>Email : mdruggeri@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas tardes, adjunto CV para solicitud del empleo Técnico electrónico especializado.
+ <br>Security_code : mphpt
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.47.144.14<br>
+ <br>REF : SP-1
+ <br>Nombre : Victor
+ <br>Apellido : Escalona
+ <br>Cargo : Supervisor de produccion
+ <br>Direccion : Republica de eslovenia 1884
+ <br>Ciudad : Ciudad Autonoma de Buenos Aires
+ <br>Telefono : +5491123296589
+ <br>Email : vjejr08@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Tengo el agrado de dirigirme a ud con el objetivo de participar en búsquedas laborales. Adjunto mi Curriculum Vitae buscando ser incluido en su base de datos por si se produjera alguna vacante. Agrego que tengo alto nivel de ingles con certificación internacional y mi disposicion a reubicarme nacional e internacionalmente.
+
+ <br>Security_code : nm4vz
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.191.215.16<br>
+ <br>Nombre : Morena 
+ <br>Apellido : Caparrós
+ <br>Cargo : Camarera, secretaria
+ <br>Direccion : rawson 5528
+ <br>Ciudad : mar del plata 
+ <br>Telefono : 2235450954
+ <br>Email : morens217@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola buenas tardes, espero que les sea de agrado y les sirva mis disposiciones. Muchas gracias!
+ <br>Security_code : f295n
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.247.155.243<br>
+ <br>Nombre : Daniel Edgardo
+ <br>Apellido : Leynaud
+ <br>Cargo : Jefe de Administración y Finanzas
+ <br>Direccion : Ibañez 1280
+ <br>Ciudad : San Isidro
+ <br>Telefono : 11226811199
+ <br>Email : deleynaud@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : De mi consideración, adjunto mi CV para que sea considerado en vuestras búsquedas laborales.
+Saludos cordiales 
+ <br>Security_code : jzbfc
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 131.108.83.248<br>
+ <br>REF : EM
+ <br>Nombre : Luis
+ <br>Apellido : Rojo
+ <br>Cargo : Electromecanico
+ <br>Direccion : Cullen 1845 y San Luis
+ <br>Ciudad : FCIO.VARELA
+ <br>Telefono : 2229-492038
+ <br>Email : luisrojo45@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Atento a ref Electromecanico coniderando que soy idoneo para el puesto tengo el agrado de acercarles mis datos
+ <br>Security_code : 75thf
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.46.132.18<br>
+ <br>REF : TEC. EL
+ <br>Nombre : Tomás
+ <br>Apellido : OSullivan
+ <br>Cargo : TÉCNICOS ELECTRÓNICOS ESPECIALIZADOS 
+ <br>Direccion : Dr. Eguia 1561
+ <br>Ciudad : Pilar
+ <br>Telefono : 0111536199537
+ <br>Email : tomiosullivan@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Envío mi CV para su consideración al puesto de TÉCNICOS ELECTRÓNICOS ESPECIALIZADOS 
+ <br>Security_code : DP787
+ <br>Send : Enviar
+ <br>
+---------------
+

@@ -1,0 +1,39 @@
+Address : 190.174.6.247
+REF : exp
+Nombre : gustavo raul
+Apellido : alarcon
+Cargo : superviso- logistica y distribucion-vendedor
+Direccion : hertz 3416
+Ciudad : isidro casanova
+Telefono : 44850931 1550150931cel
+Email : hormigabat@yahoo.com.ar
+
+---------------
+
+Address : 190.174.6.247
+REF : exp
+Nombre : gustavo raul
+Apellido : alarcon
+Cargo : logistica y distribucion
+Direccion : hertz 3416
+Ciudad : isidro casanova
+Telefono : 44850931 1550150931cel
+Email : hormigabat@yahoo.com.ar
+
+---------------
+
+Address : 190.189.220.188
+Nombre : NATALIA VERONICA
+Apellido : CRESPELL
+Cargo : ASISTENTE JUNIOR
+Direccion : JUANA MANSO 2820
+Ciudad : MAR DEL PLATA
+Telefono : 0223 4810982
+Email : natalia_veronicac@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Desde ya muchas gracias por recibir mi curriculum, me encantaria que me informen si llegara a salir algun empleo en mi ciudad o si alguna empresa de capital llegara a abrir sus puertas en MDP, gracias
+Security_code : 29x8z
+Send : Enviar
+
+---------------
+

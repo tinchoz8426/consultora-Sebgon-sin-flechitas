@@ -1,0 +1,78 @@
+Address : 190.211.85.240<br>
+ <br>Nombre : Alfredo Luis
+ <br>Apellido : Estrella
+ <br>Cargo : Ingeniero Químico
+ <br>Direccion : Lavalle 274
+ <br>Ciudad : Ciudad
+ <br>Telefono : 2634355764
+ <br>Email : alfredoestrella_37@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Amplios conocimientos en procesos y equipos de diferente índole, ademas de poseer tres idiomas en nivel básico a intermedio de alemán, portugués e inglés.
+ <br>Security_code : cdqkf
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.125.228.159<br>
+ <br>REF : EP-1
+ <br>Nombre : Mariana
+ <br>Apellido : Gutierrez
+ <br>Cargo : Encargado de Producción
+ <br>Direccion : Oliveira Cesar 1997
+ <br>Ciudad : Maipú
+ <br>Telefono : 1123771013
+ <br>Email : mgutti30@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Encargado de Producción
+ <br>Security_code : 5sksy
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.170.108.182<br>
+ <br>Nombre : Macarena
+ <br>Apellido : Mendoza
+ <br>Cargo : recursos humanos
+ <br>Direccion : macaa.mendoza@hotmail.com
+ <br>Ciudad : Luján
+ <br>Telefono : 2323655794
+ <br>Email : macaa.mendoza@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas tardes, estoy en búsqueda activa de trabajo, y les adjunto mi cv para futuras búsquedas. 
+Muchas gracias
+ <br>Security_code : SVm7x
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.170.108.182<br>
+ <br>Nombre : Macarena
+ <br>Apellido : Mendoza
+ <br>Cargo : recursos humanos
+ <br>Direccion : macaa.mendoza@hotmail.com
+ <br>Ciudad : Luján
+ <br>Telefono : 2323655794
+ <br>Email : macaa.mendoza@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas tardes, estoy en búsqueda activa de trabajo, y les adjunto mi cv para futuras búsquedas. 
+Muchas gracias
+ <br>Security_code : 7jt24
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 200.127.31.107<br>
+ <br>Nombre : Jeremias
+ <br>Apellido : oyhamburo
+ <br>Cargo : Técnico
+ <br>Direccion : campana 900
+ <br>Ciudad : Avellaneda
+ <br>Telefono : 15 32436872
+ <br>Email : oyhamburo.Jeremias@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Poseo disponibilidad horaria y posibilidad de realizar turnos rotativos
+ <br>Security_code : cpjcv
+ <br>Send : Enviar
+ <br>
+---------------
+

@@ -1,0 +1,45 @@
+Address : 190.231.131.15
+Nombre : Silvana del Valle
+Apellido : Salvatierra
+Cargo : cajera
+Direccion : manz 34 casa 6 gpo 648 B° Castañares
+Ciudad : Capital Salta
+Telefono : 0387 155862157
+Email : silvysalta_09@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : me adapto a todo mbito de trabajo
+Security_code : qhc9v
+Send : Enviar
+
+---------------
+
+Address : 200.117.183.77
+Nombre : luciano
+Apellido : lucchesi
+Cargo : higiene y seguridad
+Direccion : saavedra 2670
+Ciudad : baradero
+Telefono : 0332915614977
+Email : luciano_lucchesi@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : CV SySO
+Security_code : fpyj2
+Send : Enviar
+
+---------------
+
+Address : 190.19.239.101
+Nombre : Maia
+Apellido : Irigoin
+Cargo : Comunicación Social
+Direccion : Alsina 2623
+Ciudad : San Isidro
+Telefono : 1164945944
+Email : maiuirigoin@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estoy comenzando mi búsqueda laboral, con interés particular en programas de jóvenes profesionales, empresas multinacionales y canales de tv
+Security_code : pc3zm
+Send : Enviar
+
+---------------
+

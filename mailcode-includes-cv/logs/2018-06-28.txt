@@ -1,0 +1,63 @@
+Address : 181.45.91.165<br>
+ <br>Nombre : María Victoria
+ <br>Apellido : Reinert
+ <br>Cargo : Trabajador Social para entrevistas domiciliarias
+ <br>Direccion : parana 1920
+ <br>Ciudad : Vicente lopez
+ <br>Telefono : +541155246567
+ <br>Email : Victoriareinert@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Adjunto C.V para postular en la búsqueda de referencia. Podrán ver en mi formación académica y experiencia profesional que cumplo con los requisitos por uds. solicitados. Agradezco su atención y quedo a disposición para ampliar cualquier información que pudieran requerir.
+Cordialmente, Victoria Reinert
+ <br>Security_code : 4ydxr
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.28<br>
+ <br>Nombre : María Victoria
+ <br>Apellido : Reinert
+ <br>Cargo : Trabajador Social para entrevistas domiciliarias
+ <br>Direccion : parana 1920
+ <br>Ciudad : Vicente lopez
+ <br>Telefono : +541155246567
+ <br>Email : Victoriareinert@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Adjunto C.V para postular en la búsqueda de referencia. Podrán ver en mi formación académica y experiencia profesional que cumplo con los requisitos por uds. solicitados. Agradezco su atención y quedo a disposición para ampliar cualquier información que pudieran requerir.
+Cordialmente, Victoria Reinert
+ <br>Security_code : x63my
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 200.127.106.35<br>
+ <br>REF : JPER-1
+ <br>Nombre : RUBEN FABIAN
+ <br>Apellido : GUANA
+ <br>Cargo : jefe de rr.hh.
+ <br>Direccion : 156 norte 744
+ <br>Ciudad : berisso
+ <br>Telefono : 221 6066975
+ <br>Email : guanafabian@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : me dirijo a uds a los efectos de postularme al puesto de la referencia
+ <br>Security_code : n9kkc
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.11<br>
+ <br>Nombre : Rodrigo 
+ <br>Apellido : Navarro
+ <br>Cargo : Supervisor de produccion
+ <br>Direccion : Alberdi 2952
+ <br>Ciudad : Bs As
+ <br>Telefono : 01134355489
+ <br>Email : Rodrigo_navarro121@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Cuento con amplia experiencia en empresa lider de consumo masivo.
+ <br>Security_code : mfmtk
+ <br>Send : Enviar
+ <br>
+---------------
+

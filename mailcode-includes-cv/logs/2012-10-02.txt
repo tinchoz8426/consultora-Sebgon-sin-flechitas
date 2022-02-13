@@ -1,0 +1,122 @@
+Address : 190.231.82.134
+Nombre : andrea
+Apellido : manassa
+Cargo : recepcionista - secretaria 
+Direccion : wineberg 3767
+Ciudad : la lucila, vicente lopez
+Telefono : 11 4799.5027
+Email : andymanassa@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados,
+
+Adjunto les envío mi CV donde detallo mis datos personales, estudios cursados y experiencia laboral.
+
+Ante la eventual búsqueda que coincida con mi perfil, quedo a su disposión para ampliar detalles.
+
+Cordiales saludos,
+
+Andrea Manassa
+
+Security_code : tkqq4
+Send : Enviar
+
+---------------
+
+Address : 186.111.9.159
+Nombre : Miguel Angel          
+Apellido : Trinidad Mereles
+Cargo : Administracion
+Direccion : 123 - 96 y 97
+Ciudad : La Plata
+Telefono : 221-15-6619761
+Email : miguetrini@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estoy desempleado
+Security_code : n3fbb
+Send : Enviar
+
+---------------
+
+Address : 190.2.51.89
+REF : jefe-de-operaciones
+Nombre : Marcelo Juan Antonio
+Apellido : De Genaro
+Cargo : ANALISTA CONTABLE
+Direccion : VILLATE 1820
+Ciudad : Olivos
+Telefono : 155 471 6711
+Email : mdegenaro@fibertel.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados
+Adjunto mi CV para que sea considerado sobre la postulacion de referencia. Muchas gracias
+Security_code : n2q23
+Send : Enviar
+
+---------------
+
+Address : 190.6.255.90
+Nombre : Valeria Silvina
+Apellido : López
+Cargo : Recepcionista/Cajera/Empleada administrativa
+Direccion : Santa Inés 464
+Ciudad : Tortuguitas
+Telefono : 02320-490774
+Email : valu612@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : A quien corresponda:
+Me encuentro en la necesidad imperiosa de conseguir empleo, ya que hace un mes estoy sin trabajo.
+Como podrá apreciar en mi CV tengo experincia de 8 años en cubrir puestos administrativos y me reconozco una persona capaz y ductil para aprender rápido aún si el puesto ofrecido no se equipare con las aptitudes descriptas en él.
+
+Lo saluda atentamente
+
+Valeria López
+Security_code : cjqs3
+Send : Enviar
+
+---------------
+
+Address : 186.182.121.193
+Nombre : Marisol Soledad
+Apellido : Sequeira
+Cargo : Administracion
+Direccion : 25 de mayo 1065, 6 "D"
+Ciudad : Buenos Aires, Moron
+Telefono : 5431 6998
+Email : sequeira.marisol@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto mi cv, para posibles búsquedas de acuerdo a mi perfil
+Security_code : skwgy
+Send : Enviar
+
+---------------
+
+Address : 200.115.235.185
+Nombre : Veronica 
+Apellido : Diaz
+Cargo : Profesionales para socioambientales
+Direccion : 3 de febrero 2890 7A
+Ciudad : CABA
+Telefono : 155623-8414
+Email : lic.veronica.diaz@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : A quien corresponda: estoy en la búsqueda de incrementar mi trabajo en forma free lance. Soy monotributista y poseo movilidad propia. Desde ya muchas gracias por su atención y espero sus comentarios favorables. Atte Lic. Verónica Diaz
+Security_code : bm4sx
+Send : Enviar
+
+---------------
+
+Address : 190.176.143.186
+Nombre : florencia
+Apellido : fernandez
+Cargo : comerciante o empresa de limpieza
+Direccion : Bª Cadore M8 C25 Gutierres
+Ciudad : Mendoza
+Telefono : 0261-4268324
+Email : relocoporvos@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Aca les mando mi curriculum vitae sinceramente necesito el trabajo muchas gracias.
+Security_code : 8ryn4
+Send : Enviar
+
+---------------
+

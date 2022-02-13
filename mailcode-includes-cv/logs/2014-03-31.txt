@@ -1,0 +1,211 @@
+Address : 181.1.28.245
+Nombre : Nahuel
+Apellido : Diaz
+Cargo : Empleado
+Direccion : parana
+Ciudad : Buenos Aires
+Telefono : 11-3403-9698
+Email : nediam40@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Curriculum
+Security_code : bzctr
+Send : Enviar
+
+---------------
+
+Address : 186.13.4.47
+Nombre : Pablo Matias 
+Apellido : Gavilan Terreu
+Cargo : Empleado Administrativol
+Direccion : Ramon Falcon 3424 3º15
+Ciudad : Capiral federal
+Telefono : 1559044296
+Email : matias.gavilan.terreu@outlook.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Buen dia Sebgon consultora, Les queria dejar mi curriculum para que me tengan en cuenta
+Security_code : qsr6j
+Send : Enviar
+
+---------------
+
+Address : 186.13.4.47
+Nombre : Pablo Matias 
+Apellido : Gavilan Terreu
+Cargo : Empleado Administrativol
+Direccion : Ramon Falcon 3424 3º15
+Ciudad : Capiral federal
+Telefono : 1559044296
+Email : matias.gavilan.terreu@outlook.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Buen dia Sebgon consultora, Les queria dejar mi curriculum para que me tengan en cuenta
+Security_code : qsr6j
+Send : Enviar
+
+---------------
+
+Address : 186.13.4.47
+Nombre : Pablo Matias 
+Apellido : Gavilan Terreu
+Cargo : Empleado Administrativol
+Direccion : Ramon Falcon 3424 3º15
+Ciudad : Capiral federal
+Telefono : 1559044296
+Email : matias.gavilan.terreu@outlook.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Buen dia Sebgon consultora, Les queria dejar mi curriculum para que me tengan en cuenta
+Security_code : 3g6ds
+Send : Enviar
+
+---------------
+
+Address : 186.13.4.47
+Nombre : Pablo Matias 
+Apellido : Gavilan Terreu
+Cargo : Empleado Administrativol
+Direccion : Ramon Falcon 3424 3º15
+Ciudad : Capiral federal
+Telefono : 1559044296
+Email : matias.gavilan.terreu@outlook.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Buen dia Sebgon consultora, Les queria dejar mi curriculum para que me tengan en cuenta
+Security_code : 3g6ds
+Send : Enviar
+
+---------------
+
+Address : 186.13.4.47
+Nombre : Pablo Matias 
+Apellido : Gavilan Terreu
+Cargo : Empleado Administrativol
+Direccion : Ramon Falcon 3424 3º15
+Ciudad : Capiral federal
+Telefono : 1559044296
+Email : matias.gavilan.terreu@outlook.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Buen dia Sebgon consultora, Les queria dejar mi curriculum para que me tengan en cuenta
+Security_code : 3g6ds
+Send : Enviar
+
+---------------
+
+Address : 186.13.4.47
+Nombre : Pablo Matias 
+Apellido : Gavilan Terreu
+Cargo : Empleado Administrativol
+Direccion : Ramon Falcon 3424 3º15
+Ciudad : Capiral federal
+Telefono : 1559044296
+Email : matias.gavilan.terreu@outlook.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Buen dia Sebgon consultora, Les queria dejar mi curriculum para que me tengan en cuenta
+Security_code : 3g6ds
+Send : Enviar
+
+---------------
+
+Address : 190.230.230.248
+Nombre : Carlos Adrián
+Apellido : Medina
+Cargo : Jefe de Produción ; Analista Laboratorio
+Direccion : Pje. Wilde 1735
+Ciudad : Resistencia
+Telefono : 03624430766
+Email : medinaca2003@yahaoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Soy Ing. Químico y Técnico Universitario en Química graduado de la UTN FRRe
+Security_code : qvb6s
+Send : Enviar
+
+---------------
+
+Address : 190.108.232.221
+Nombre : Belen
+Apellido : Rivas
+Cargo : Psicologa social-administrativa
+Direccion : JL Borges 216
+Ciudad : Centenario
+Telefono : 0299-154546525
+Email : blenrivas@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Soy de Neuquen. Experiencia en consultoria, tallerista, capacitadora y administración contable e impositiva.
+Security_code : 7q26b
+Send : Enviar
+
+---------------
+
+Address : 186.122.46.93
+REF : Asistente-Contable
+Nombre : pablo
+Apellido : gomez
+Cargo : asistente contable
+Direccion : cullen ayerza 2545
+Ciudad : san miguel
+Telefono : 1166431065
+Email : gomez_pablodavid@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : me postulo al puesto de asistente-contable
+Security_code : 2z2st
+Send : Enviar
+
+---------------
+
+Address : 186.56.186.88
+Nombre : Ayelen Priscila
+Apellido : Ojeda
+Cargo : Administrativa
+Direccion : Platon 5385
+Ciudad : Jose C Paz
+Telefono : 1135711700
+Email : shashe_ojeda@hotmail.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Hace mucho tiempo que busco trabajo, tengo mucha predisposición para trabajar, quisiera recibir una excelente experiencia laboral en su empresa y poder lograr satisfactoriamente lo que el trabajo me demande.
+Security_code : jn2qc
+Send : Enviar
+
+---------------
+
+Address : 190.31.13.32
+Nombre : carlos daniel
+Apellido : garro
+Cargo : seguridad
+Direccion : lope de vega 2651 2 piso dto 208
+Ciudad : buenos aires
+Telefono : 4712-5966
+Email : planetatiteres@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : tengo 48 años casado mido 2.01 vigilancia -matenimiento -sereno-limpieza
+Security_code : 693r2
+Send : Enviar
+
+---------------
+
+Address : 190.31.13.32
+Nombre : carlos daniel
+Apellido : garro
+Cargo : seguridad
+Direccion : lope de vega 2651 2 piso dto 208
+Ciudad : buenos aires
+Telefono : 4712-5966
+Email : planetatiteres@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : tengo 48 años casado mido 2.01 vigilancia -matenimiento -sereno-limpieza
+Security_code : 693r2
+Send : Enviar
+
+---------------
+
+Address : 190.31.13.32
+Nombre : carlos daniel
+Apellido : garro
+Cargo : seguridad
+Direccion : lope de vega 2651 2 piso dto 208
+Ciudad : buenos aires
+Telefono : 4712-5966
+Email : planetatiteres@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : tengo 48 años casado mido 2.01 vigilancia -matenimiento -sereno-limpieza
+Security_code : ynp6f
+Send : Enviar
+
+---------------
+

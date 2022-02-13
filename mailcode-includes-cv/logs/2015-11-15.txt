@@ -1,0 +1,16 @@
+Address : 74.213.93.62
+REF : GTEP
+Nombre : Etiel
+Apellido : Ortiz
+Cargo : Gerente de Planta
+Direccion : P.O. Box 255
+Ciudad : Jayuya, Puerto Rico 00664
+Telefono : 17872162914
+Email : etielcostales@yahoo.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Saludos, mi nombre es Etiel J. Costales Ortiz, poseo un bachillerato y una maestría en Ciencias Agrícola, tengo mucha experiencia en el área de ecología ambiental. También en en el área de maquinaria agrícola, como en áreas relacionadas en campo de la agricultura. Me gustaría ir a su país a traer nuevas ideas, no solo de mi país sino del mundo ya que e viajado a Europa y varias partes del mundo. Donde hay muchas nuevas ideas. Mi email es etielcosales@yahoo.com . Gracias por su tiempo.
+Security_code : 7pbn3
+Send : Enviar
+
+---------------
+

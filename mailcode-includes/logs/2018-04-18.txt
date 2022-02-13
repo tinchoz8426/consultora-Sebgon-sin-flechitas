@@ -1,0 +1,13 @@
+Address : 190.210.231.12
+ <br>Nombre : MARIANO
+ <br>Apellido : LUQUE
+ <br>Empresa : Gestion y Servicios SRL
+ <br>Telefono : 4328-6757
+ <br>Email : MLUQUE@GYSSRL.COM.AR
+ <br>Mensaje : estimados, necesitamos un presupuesto para dar cumplimiento al protocolo ergonomico y al estudio de carga de fuego.
+quedo al aguardo de su comentario.
+ <br>Security_code : 8yvp9
+ <br>Send : Enviar
+ <br>
+---------------
+

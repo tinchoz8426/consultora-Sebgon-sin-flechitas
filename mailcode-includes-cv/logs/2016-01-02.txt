@@ -1,0 +1,30 @@
+Address : 200.45.93.51
+Nombre : gustavo
+Apellido : fernandez
+Cargo :  soldador/ cañista
+Direccion : El Ceibo
+Ciudad : Loma Hermosa
+Telefono : 48419274
+Email : gusemifer@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : soldador/ cañista
+Security_code : cgfk2
+Send : Enviar
+
+---------------
+
+Address : 181.46.109.145
+Nombre : David
+Apellido : Pryszczuk
+Cargo : Ingeniero Electrónico
+Direccion : Basualdo 123
+Ciudad : Villa Luro, CABA
+Telefono : 1534773355
+Email : daprys@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenos días, estoy en búsqueda laboral en áreas de electromedicina, mantenimiento y como técnico o ingeniero electrónico
+Security_code : xmgfj
+Send : Enviar
+
+---------------
+

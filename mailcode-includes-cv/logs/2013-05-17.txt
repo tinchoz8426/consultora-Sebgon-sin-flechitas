@@ -1,0 +1,89 @@
+Address : 190.31.77.121
+Nombre : Ayelen
+Apellido : Gómez
+Cargo : Varios
+Direccion : A. Williams
+Ciudad : Cordoba Capital
+Telefono : 0351-155108918
+Email : racamaluca@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola: Aqui envio adjunto mi curriculum.
+     Espero respuesta.
+
+Desde ya muchas gracias.
+
+Saludos.
+Security_code : tq6sd
+Send : Enviar
+
+---------------
+
+Address : 190.192.175.62
+Nombre : Marcela Alejandra
+Apellido : García
+Cargo : Recepcionista/ Vendedora/ Administrativa/ Sistemas
+Direccion : Dr. Pedro Ignacio Rivera 3947
+Ciudad : Capital Federal
+Telefono : 1530448196
+Email : marce.08@live.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : A quien corresponda:
+
+
+Tengo el agrado de dirigirme a ustedes con el fin de transmitirles mi deseo de incorporarme a su organización. Les adjunto, junto a la presente, mi CV.
+
+Me presento como una persona activa, responsable, creativa, flexible, orientada al logro de resultados y a la resolución y evolución constante en las tareas asignadas. Me considero exigente conmigo misma, respetuosa y tolerante al trabajo bajo presión, dispuesta a trabajar tanto de forma individual como grupal.
+
+El objetivo que me he  impuesto, es el de formar parte de una empresa prestigiosa, confiable y con proyectos ambiciosos. 
+
+Si fuera necesario podría acercarme personalmente para cualquier consulta adicional o entrevista personal. Si lo desean pueden comunicarse por e-mail: marce.08@live.com.ar o por teléfono: Cel.: 15-3044-8196, Tel.:4543-6609.
+
+Pongo, además, en su conocimiento que estoy en condiciones de asumir la responsabilidad de este empleo en forma inmediata y con amplia disponibilidad horaria. 
+
+Espero su respuesta a la brevedad. 
+Desde ya, muchas gracias. 
+
+Me despido atte. 
+
+
+                    Marcela A. García
+
+Security_code : 3w2c6
+Send : Enviar
+
+---------------
+
+Address : 190.230.75.167
+Nombre : Caterina Natalia
+Apellido : Urban
+Cargo : Administrativa
+Direccion : Aguirre 73
+Ciudad : capital federal
+Telefono : 011-1524604118
+Email : urbancaterina@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me dirijo a Uds.con el objetivo de hacerle llegar mi curriculum vitae con mis datos personales, profesionales y comerciales, considerando que los datos en relación a mis conocimientos y experiencia, como asi también la capacidad de aprendizaje, pueden resultar funcionales a los requisitos pretendidos por dicha institución.
+Agradeciendo su atención, lo saludo a Ud muy atentamente. Caterina Urban.   
+
+Security_code : 4knnw
+Send : Enviar
+
+---------------
+
+Address : 186.22.4.21
+REF : administrativo-logistica
+Nombre : Daniel
+Apellido : Grisolia
+Cargo : administrativo de logistica
+Direccion : risso patron 35 
+Ciudad : buenos aires
+Telefono : 1557149752
+Email : daniel_grisolia@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : para administrativo de logistica 
+renumeracion pretendida 7000 pesos
+Security_code : g8y2m
+Send : Enviar
+
+---------------
+

@@ -1,0 +1,15 @@
+Address : 190.225.81.241
+Nombre : yesica
+Apellido : DAversa
+Cargo : Guia-coordinador y tecnico en turismo
+Direccion : Pablo Poggio 680
+Ciudad : Buenos Aires
+Telefono : 4844 3372
+Email : yesica_daversa@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : ACCEDER A UN TRABAJO QUE APORTE A MI FORMACION PROFESIONAL Y A LA QUE LE APORTE MIS CONOCIMIENTOS ADQUIRIDOS .
+Security_code : v8cbc
+Send : Enviar
+
+---------------
+

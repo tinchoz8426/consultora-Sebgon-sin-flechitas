@@ -1,0 +1,212 @@
+Address : 190.172.226.1
+Nombre : JESICA
+Apellido : SEGOVIA
+Cargo : LIC. EN SERVICIO SOCIAL
+Direccion : O. BETEBEDER 4165
+Ciudad : CASTELAR
+Telefono : 1564579026
+Email : jesicasegovia06@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : HOLA SOY TRABAJADORA SOCIAL Y ESTOY EN BÚSQUEDA PARA LA RELIAZACION DE INFORMES SOCIO AMBIENTALES. GRACIAS
+Security_code : 25p7f
+Send : Enviar
+
+---------------
+
+Address : 190.172.226.1
+Nombre : JESICA
+Apellido : SEGOVIA
+Cargo : LIC. EN SERVICIO SOCIAL
+Direccion : O. BETEBEDER 4165
+Ciudad : CASTELAR
+Telefono : 1564579026
+Email : jesicasegovia06@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : HOLA SOY TRABAJADORA SOCIAL Y ESTOY EN BÚSQUEDA PARA LA RELIAZACION DE INFORMES SOCIO AMBIENTALES. GRACIAS
+Security_code : h4vdj
+Send : Enviar
+
+---------------
+
+Address : 181.1.100.144
+Nombre : noelia
+Apellido : recalde
+Cargo : recursos humanos atencion al publico
+Direccion : miguel cane830
+Ciudad : buenos aires
+Telefono : 1533724911
+Email : noeliarecalde1989@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje :  Curriculum Vitae
+
+
+Noelia Recalde
+ 
+Datos Personales
+
+domicilio Miguel cané 830
+buenos aires argentina
+nacionalidad argentina
+edad 24
+estado civil soltera
+tipo y numero de d.n.i 35.603.564
+fecha de nacimiento 14.11.89
+cel 15 33724911
+
+
+Datos Académicos
+secundario completo bachiller libre
+gastronomía red gourmet
+
+
+EXPERIENCIA LABORAL
+cajera en supermercado
+atención al publico maxi kiosco
+recepcionista agencia de viajes
+animación fiestas infantiles 
+venta de indumentaria 
+
+OBJETIVOS PERSONALES
+
+
+OFRECER MIS CONOCIMIENTOS  Y REALIZAR MI MAYOR ESFUERZO EN LAS TAREAS ASIGNADAS EN FORMA POSITIVA ,RESPONSABLE CON LA CUAL LOGRARE UN PASO IMPORTANTE EN MI SUPERACIÓN PERSONAL.
+
+                  HORARIOS DISPONIBLES FULL TIME.
+
+Security_code : 76ysr
+Send : Enviar
+
+---------------
+
+Address : 186.134.130.91
+Nombre : Rodolfo Adrián 
+Apellido : Amaya
+Cargo : Empleado
+Direccion : Brasil 2770
+Ciudad : Ezpeleta
+Telefono : 42106656
+Email : rodol162002@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Dejo en el archivo adjunto mi C.V. con foto , espero ser de su agrado .
+Security_code : 7tqy7
+Send : Enviar
+
+---------------
+
+Address : 200.123.176.197
+Nombre : JESICA BELEN
+Apellido : GONZALEZ
+Cargo : ADMINISTRATIVA DE RRHH
+Direccion : ZABALA 3512 1ºA
+Ciudad : COLEGIALES
+Telefono : 1151169360
+Email : belengonzalez-25@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenos días, tengo el agrado de ponerme en contacto con ustedes para acercarles mi CV. para que sea evaluado con la posibilidad de ingresar a la organización o a un puesto acorde a mis estudios alcanzados y a experiencias anteriores.
+Muchas gracias
+
+Belén Gonzalez.
+Security_code : pwkmz
+Send : Enviar
+
+---------------
+
+Address : 200.123.176.197
+Nombre : JESICA BELEN
+Apellido : GONZALEZ
+Cargo : ADMINISTRATIVA DE RRHH
+Direccion : ZABALA 3512 1ºA
+Ciudad : COLEGIALES
+Telefono : 1151169360
+Email : belengonzalez-25@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenos días, tengo el agrado de ponerme en contacto con ustedes para acercarles mi CV. para que sea evaluado con la posibilidad de ingresar a la organización o a un puesto acorde a mis estudios alcanzados y a experiencias anteriores.
+Muchas gracias
+
+Belén Gonzalez.
+Security_code : pwkmz
+Send : Enviar
+
+---------------
+
+Address : 190.174.60.234
+Nombre : Luis E mmanuel
+Apellido : Oprandi
+Cargo : operario
+Direccion : emilio zola 19
+Ciudad : isidro casanova
+Telefono : 44660578
+Email : beto-playstation2@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : hola me postulo para trabajar en fabricas
+Security_code : p7w3w
+Send : Enviar
+
+---------------
+
+Address : 186.56.237.238
+Nombre : MONICA
+Apellido :  FERNANDEZ
+Cargo : JUNIOR
+Direccion : MARIO BRAVO 1707
+Ciudad : SAN ANTONIO DE PADUA
+Telefono : 1535056305
+Email : monivivifer@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto mi cv
+Security_code : hjnnj
+Send : Enviar
+
+---------------
+
+Address : 186.56.237.238
+Nombre : MONICA
+Apellido :  FERNANDEZ
+Cargo : JUNIOR
+Direccion : MARIO BRAVO 1707
+Ciudad : SAN ANTONIO DE PADUA
+Telefono : 1535056305
+Email : monivivifer@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto mi cv
+Security_code : ktbj8
+Send : Enviar
+
+---------------
+
+Address : 186.57.226.116
+Nombre : Sheila Nahir
+Apellido : Marquez
+Cargo : vendedora,promotora,recepcionista
+Direccion : Maza 1340
+Ciudad : Moron
+Telefono : 011-4-696-5406
+Email : terpolilli_a@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : telefono cel : 15-6-538-8138
+Security_code : 4cmt8
+Send : Enviar
+
+---------------
+
+Address : 200.0.228.162
+Nombre : Cindy Vanessa
+Apellido : Ramirez Quintana
+Cargo : administrativo/pasantías/ayudante junior
+Direccion : Montes de Oca 15
+Ciudad : C.A.B.A
+Telefono : 11 31 96 48 14
+Email : vanerq_17@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me considero una persona honesta, responsable, emprendedora, cumplidora y ágil con las labores que se me asignan. Se me facilita aprender a realizar cualquier tipo de tareas. Creo que es importante crecer y desarrollarse como ser humano para poder contribuir al crecimiento del lugar donde trabajo.
+
+Soy activa, dedicada, dispuesta a dar todo trabajando en equipo o individualmente. Me llevé de cada lugar donde trabajé los mejores ejemplos y enseñanzas y con esos valores son los que enfrento la vida.
+
+Me motiva la búsqueda laboral no solo una necesidad económica sino mi progreso personal, la adquisición de experiencia y la ganas de demostrar la actitud trabajadora que me caracteriza.
+
+Cuento con disponibilidad horaria y mis pretensiones se limitan a las que me ofrezcan y adaptarme a ellas.
+Security_code : q7c6r
+Send : Enviar
+
+---------------
+

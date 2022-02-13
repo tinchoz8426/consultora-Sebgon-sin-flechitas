@@ -1,0 +1,68 @@
+Address : 186.124.253.239
+Nombre : Eliana
+Apellido : LEpiscopo
+Cargo : Nutricionista
+Direccion : De la salle 5185
+Ciudad : Rosario
+Telefono : 0341-155826347
+Email : elianalepiscopo@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : me gustaria que me tengan en cuenta para cualquiere puesto q se ofrezca en Rosario y/o sus alrededores.
+Security_code : tz6cx
+Send : Enviar
+
+---------------
+
+Address : 186.124.253.239
+Nombre : Eliana
+Apellido : LEpiscopo
+Cargo : Nutricionista
+Direccion : De la salle 5185
+Ciudad : Rosario
+Telefono : 0341-155826347
+Email : elianalepiscopo@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : me gustaria que me tengan en cuenta para cualquier trabajo que surgiere en rosario y/o sus alrededores.
+Security_code : n7fnr
+Send : Enviar
+
+---------------
+
+Address : 186.130.37.84
+REF : tecnico-quimico
+Nombre : Marina Cecilia
+Apellido : Ballato
+Cargo : Tecnico Quimico
+Direccion : Balaguer 223 sur
+Ciudad : Santa Lucia
+Telefono : 0264-155057174
+Email : marinaballato@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Si bien la búsqueda esta orientada a Técnicos Químicos y yo soy Ingeniera Química, me postulo al cargo ya que manejo el tema de tratamiento de efluentes, manejo de PC e instrumental de laboratorio a la espera de una pronta entrevista 
+Me despido
+Ing. Marina Ballato
+
+Security_code : fdyfs
+Send : Enviar
+
+---------------
+
+Address : 186.130.37.84
+REF : tecnico-quimico
+Nombre : Marina Cecilia
+Apellido : Ballato
+Cargo : Tecnico Quimico
+Direccion : Balaguer 223 sur
+Ciudad : Santa Lucia- San Juan
+Telefono : 0264-155057174
+Email : marinaballato@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Si bien la búsqueda esta orientada a Técnicos Químicos y yo soy Ingeniera Química, me postulo al cargo ya que manejo el tema de tratamiento de efluentes, manejo de PC e instrumental de laboratorio a la espera de una pronta entrevista 
+Me despido
+Ing. Marina Ballato
+
+Security_code : 5ff3c
+Send : Enviar
+
+---------------
+

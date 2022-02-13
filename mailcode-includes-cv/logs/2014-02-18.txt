@@ -1,0 +1,254 @@
+Address : 190.245.238.50
+Nombre : Belen Elizabeth
+Apellido : Pousa
+Cargo : Asistente, secretaria, recepcionista
+Direccion : Franco 3303
+Ciudad : capital federal
+Telefono : 1535151617
+Email : belen1617@hotmail.es
+MAX_FILE_SIZE : 2097152
+Mensaje : Soy una joven de 22 años, estudiante de Psicopedagogia, estudio por la mañana. Necesito trabajo urgente.
+Security_code : g433x
+Send : Enviar
+
+---------------
+
+Address : 201.250.19.186
+Nombre : Luciana Victoria
+Apellido : Barrios
+Cargo : Empleada Administrativa-Contable
+Direccion : Olivera 630
+Ciudad : caba
+Telefono : 1161160755
+Email : luciana_barrios@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : A quien corresponda
+
+De mi consideración:
+
+Es un gusto poder saludarle y hacer contacto con usted, el motivo de este e-mail es presentarme y solicitarle una oportunidad de trabajo. Por este medio le envío mi curriculum vitae para que sea tomado en cuenta en sus vacantes disponibles. Me considero una persona muy emprendedora, trabajadora y de retos, cuento con la experiencia necesaria para los puestos administrativos, contables, financieros y estoy predispuesta a capacitarme en función al puesto vacante.
+Desde muy Joven he demostrado mucha responsabilidad, y lealtad a mi trabajo. Mi aspiración y deseo más grande es poder desarrollarme y seguir creciendo personalmente. Quedo a su consideración, gracias por su atención y apoyo.
+Sin más por el momento quedo a sus ordenes esperando su respuesta.
+Muchas gracias.
+Un cordial saludo
+
+Luciana V. Barrios
+Security_code : 42kft
+Send : Enviar
+
+---------------
+
+Address : 201.250.19.186
+Nombre : Luciana Victoria
+Apellido : Barrios
+Cargo : Empleada Administrativa-Contable
+Direccion : Olivera 630
+Ciudad : caba
+Telefono : 1161160755
+Email : luciana_barrios@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : A quien corresponda
+
+De mi consideración:
+
+Es un gusto poder saludarle y hacer contacto con usted, el motivo de este e-mail es presentarme y solicitarle una oportunidad de trabajo. Por este medio le envío mi curriculum vitae para que sea tomado en cuenta en sus vacantes disponibles. Me considero una persona muy emprendedora, trabajadora y de retos, cuento con la experiencia necesaria para los puestos administrativos, contables, financieros y estoy predispuesta a capacitarme en función al puesto vacante.
+Desde muy Joven he demostrado mucha responsabilidad, y lealtad a mi trabajo. Mi aspiración y deseo más grande es poder desarrollarme y seguir creciendo personalmente. Quedo a su consideración, gracias por su atención y apoyo.
+Sin más por el momento quedo a sus ordenes esperando su respuesta.
+Muchas gracias.
+Un cordial saludo
+
+Luciana V. Barrios
+Security_code : c6yck
+Send : Enviar
+
+---------------
+
+Address : 190.17.78.98
+Nombre : melina
+Apellido : netto
+Cargo : secretaria
+Direccion : acassuso 7007
+Ciudad : capital federal
+Telefono : 1536832679
+Email : netto.melina@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola me dirijo a ustedes.Por que Estoy buscando trabajo
+Desde ya Muchas Gracias.
+Security_code : v3hmp
+Send : Enviar
+
+---------------
+
+Address : 181.168.117.29
+REF : GERENTE-DE-PRODUCCION
+Nombre : CLAUDIO 
+Apellido : SEPULVEDA
+Cargo : GERENTE DE PRODUCCOION 
+Direccion : PERU 996
+Ciudad : PLOTTIER 
+Telefono : 0299154082641
+Email : sepujuzbak@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto CV. Quedo a vuestra disposicion para este puesto o similares.- 
+Security_code : mzv69
+Send : Enviar
+
+---------------
+
+Address : 181.168.117.29
+REF : GERENTE-DE-PRODUCCION
+Nombre : CLAUDIO 
+Apellido : SEPULVEDA
+Cargo : GERENTE DE PRODUCCOION 
+Direccion : PERU 996
+Ciudad : PLOTTIER 
+Telefono : 0299154082641
+Email : sepujuzbak@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto CV. Quedo a vuestra disposicion para este puesto o similares.- 
+Security_code : tjpcz
+Send : Enviar
+
+---------------
+
+Address : 181.168.117.29
+REF : GERENTE-DE-PRODUCCION
+Nombre : CLAUDIO 
+Apellido : SEPULVEDA
+Cargo : GERENTE DE PRODUCCOION 
+Direccion : PERU 996
+Ciudad : PLOTTIER 
+Telefono : 0299154082641
+Email : sepujuzbak@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto CV. Quedo a vuestra disposicion para este puesto o similares.- 
+Security_code : 4wrkz
+Send : Enviar
+
+---------------
+
+Address : 190.177.170.173
+Nombre : Mauro
+Apellido : Lizardia
+Cargo : al que requieran
+Direccion : Viamonte 225
+Ciudad : Comodoro Rivadavia
+Telefono : (0297) 154233311
+Email : maurolizardia@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Comodoro Rivadavia, 18 de Febrero de 2014
+
+La presente va acompañada de mis saludos y muestras de respeto, pero también es enviado para ofrecerme a cualquier  puesto de empleo requerido.
+Con tal motivo adjunto mi curriculum vitae.
+Les comento que estoy sin empleo, por lo cual tengo disponibilidad de trabajar en forma inmediata, sin tener problemas con horarios, soy muy responsable en lo laboral y personal, y muy eficiente en mis actividades.
+Mi objetivo es poder cumplir en su totalidad con las metas de la empresa, desempeñarme y capacitarme para  dar lo mejor día a día.
+Quedando en espera de su respuesta me despido.
+Atentamente.
+ 
+
+Mauro Gastón Lizardia.
+Security_code : 7fv4b
+Send : Enviar
+
+---------------
+
+Address : 190.177.170.173
+Nombre : Mauro
+Apellido : Lizardia
+Cargo : al que requieran
+Direccion : Viamonte 225
+Ciudad : Comodoro Rivadavia
+Telefono : (0297) 154233311
+Email : maurolizardia@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Comodoro Rivadavia, 18 de Febrero de 2014
+
+La presente va acompañada de mis saludos y muestras de respeto, pero también es enviado para ofrecerme a cualquier  puesto de empleo requerido.
+Con tal motivo adjunto mi curriculum vitae.
+Les comento que estoy sin empleo, por lo cual tengo disponibilidad de trabajar en forma inmediata, sin tener problemas con horarios, soy muy responsable en lo laboral y personal, y muy eficiente en mis actividades.
+Mi objetivo es poder cumplir en su totalidad con las metas de la empresa, desempeñarme y capacitarme para  dar lo mejor día a día.
+Quedando en espera de su respuesta me despido.
+Atentamente.
+ 
+
+Mauro Gastón Lizardia.
+Security_code : nsz3r
+Send : Enviar
+
+---------------
+
+Address : 186.13.1.8
+Nombre : Jersson Jayro
+Apellido : Cadillo Pérez
+Cargo : Operario
+Direccion : zarate 1390
+Ciudad : moreno
+Telefono : 0237-4690244
+Email : jerssy_15@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Dispuesto a trabajar en cualquier sector, con amplia disponibilidad horaria.
+Security_code : 2z7hy
+Send : Enviar
+
+---------------
+
+Address : 186.13.1.8
+Nombre : Jersson Jayro
+Apellido : Cadillo Pérez
+Cargo : Operario
+Direccion : zarate 1390
+Ciudad : moreno
+Telefono : 0237-4690244
+Email : jerssy_15@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Dispuesto a trabajar en cualquier sector, con amplia disponibilidad horaria.
+Security_code : 2z7hy
+Send : Enviar
+
+---------------
+
+Address : 186.13.1.8
+Nombre : Jersson Jayro
+Apellido : Cadillo Pérez
+Cargo : Operario
+Direccion : zarate 1390
+Ciudad : moreno
+Telefono : 0237-4690244
+Email : jerssy_15@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Dispuesto a trabajar en cualquier sector, con amplia disponibilidad horaria.
+Security_code : 2z7hy
+Send : Enviar
+
+---------------
+
+Address : 186.13.1.8
+Nombre : Jersson Jayro
+Apellido : Cadillo Pérez
+Cargo : Operario
+Direccion : zarate 1390
+Ciudad : moreno
+Telefono : 0237-4690244
+Email : jerssy_15@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Dispuesto a trabajar en cualquier sector, con amplia disponibilidad horaria.
+Security_code : 2z7hy
+Send : Enviar
+
+---------------
+
+Address : 186.13.1.8
+Nombre : Jersson Jayro
+Apellido : Cadillo Pérez
+Cargo : Operario
+Direccion : zarate 1390
+Ciudad : moreno
+Telefono : 0237-4690244
+Email : jerssy_15@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Dispuesto a trabajar en cualquier sector, con amplia disponibilidad horaria.
+Security_code : y2fhq
+Send : Enviar
+
+---------------
+

@@ -1,0 +1,152 @@
+Address : 186.108.79.210<br>
+ <br>Nombre : Alan
+ <br>Apellido : Maciel
+ <br>Cargo : Programador de produccion
+ <br>Direccion : jujuy 1631
+ <br>Ciudad : loma hermosa
+ <br>Telefono : 1520297541
+ <br>Email : maciel.alan@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas Tardes,
+Por el presente medio les hago llegar mi curriculum para poder formar parte de su empresa. Soy técnico universitario en alimentos y  solo adeudo la tesis para ser ingeniero en Alimentos. Por el momento me encuentro viviendo en zona Oeste pero a principios del año entrante tengo planes de mudarme a zona Sur. Poseo movilidad propia. Mi renumeracion pretendida es de 28000 netos. Quedo a su disposición.
+Desde ya muchas gracias.
+Saludos,
+Alan Maciel
+
+ <br>Security_code : 4j484
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.22.63.226<br>
+ <br>Nombre : Laura Cecilia
+ <br>Apellido : Esplugas
+ <br>Cargo : recepcionista,secretaria,atención al cliente, administrativa,data entry
+ <br>Direccion : venezuela 3226 piso 4 dpto A
+ <br>Ciudad : CAPITAL FEDERAL
+ <br>Telefono : 1561736614
+ <br>Email : lauraesplugas@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados:
+
+Adjunto mi cv debido a que estoy buscando empleo.
+
+
+Los saluda Atte,
+
+Laura Esplugas
+ <br>Security_code : f5s33
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.50.202.27<br>
+ <br>REF : GTEP
+ <br>Nombre : Adrian
+ <br>Apellido : Cereghetti
+ <br>Cargo : Gerente de Planta
+ <br>Direccion : Sargento Cabral 786
+ <br>Ciudad : Bernal
+ <br>Telefono : 1536472774
+ <br>Email : adriancereghetti@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados, me interesa ser considerado para este puesto, tengo experiencia en varias industrias.
+Estamos en contacto.
+Adrian Cereghetti
+ <br>Security_code : w8rb3
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.111.233.162<br>
+ <br>REF : OEL
+ <br>Nombre : cesar ariel
+ <br>Apellido : isaguirre
+ <br>Cargo : oficial
+ <br>Direccion : rodolfo lopez manzana G casa 23
+ <br>Ciudad : quilmes 
+ <br>Telefono : 53309779
+ <br>Email : ariemaisaguirre@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : estoy capacitado para este trabajo
+
+ <br>Security_code : ZbfV5
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.111.233.162<br>
+ <br>REF : OEL
+ <br>Nombre : cesar ariel
+ <br>Apellido : isaguirre
+ <br>Cargo : oficial
+ <br>Direccion : calle 894 numero 5060
+ <br>Ciudad : solano
+ <br>Telefono : 53309779
+ <br>Email : ariemaisaguirre@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : estoy capacitado para este empleo
+ <br>Security_code : j5q6b
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.165.133.234<br>
+ <br>Nombre : JORGE 
+ <br>Apellido : CAMARGO
+ <br>Cargo : GEÓGRAFO
+ <br>Direccion : Av Larrazabal 1227
+ <br>Ciudad : CABA
+ <br>Telefono : 11 3145 9095
+ <br>Email : danielcamargo5@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas tardes.
+
+Soy Jorge Daniel Camargo, geógrafo de Colombia y estudiante de la UBA desde marzo del presente año, estoy en condición de discapacidad motriz, producto de un atentado contra mi familia por parte de uno de los grupos armados ilegales. Estoy activamente buscando empleo, debido a que quiero poder pagar mis gastos, ya que cuento con familia en Buenos Aires que me mantiene, pero no quiero ser más una carga para ellos. Estoy en el tramite del certificado de discapacidad, tengo la cita en octubre, cuento con estudios hechos en el Hospital Santojanni por parte de los neurólogos y en medicina general que dan validez a mi discapacidad, que es producto al paso de una bala por mi cabeza, afectando el movimiento del brazo y de la pierna, que gracias a Dios he podido recuperar algo de movimiento, al punto de poder caminar sin ayuda de bastón.
+
+Este mensaje lo envío porque buscando en internet encontré que existe esta herramienta para poder buscar un trabajo donde la discapacidad no sea un impedimento. Anexo mi CV con el fin de que si soy tenido en cuenta, ser evaluado para recibir ofertas laborales, soy una persona que no se detiene ante las oportunidades de progresar y sé que con su ayuda pasaré de la mejor manera una prueba más.
+
+Muchas gracias de antemano!
+ <br>Security_code : 87758
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.104.233.211<br>
+ <br>REF : SE.BIL
+ <br>Nombre : Cruz María
+ <br>Apellido : Isasmendi
+ <br>Cargo : Secretaria Bilingue
+ <br>Direccion : Uriburu 1517
+ <br>Ciudad : CABA
+ <br>Telefono : 1530161719
+ <br>Email : cruzisasmendi@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados, buenas tardes.
+Adjunto mi Curriculum Vitae a fin de ser considerada em la búsqueda que están realizando.
+La remuneracion pretendida es alrededor de $25.000 brutos.
+Quedo a su disposición para ampliar cualquier información necesaria.
+Cordialmente,
+Cruz María Isasmendi
+ <br>Security_code : q388x
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.168.86.147<br>
+ <br>REF : E.DIS
+ <br>Nombre : Laura 
+ <br>Apellido : reinaudo 
+ <br>Cargo : Diseñadora de Interiores 
+ <br>Direccion : Illia 375
+ <br>Ciudad : Cordoba
+ <br>Telefono : 0358-154303093
+ <br>Email : lvreinaudo57@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Mi objetivo laborar es poder aportar mis conocimientos, experiencia y entusiasmo para realizar cualquier tipo de tarea de compromiso y responsabilidad dentro de la institución
+
+ <br>Security_code : mphxy
+ <br>Send : Enviar
+ <br>
+---------------
+

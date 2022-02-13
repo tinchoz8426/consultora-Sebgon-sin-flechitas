@@ -1,0 +1,417 @@
+Address : 66.249.85.7<br>
+ <br>REF : TM-2
+ <br>Nombre : Damián
+ <br>Apellido : Lo Tártaro
+ <br>Cargo : Técnico mecánico
+ <br>Direccion : Av. Directorio 2560 Piso 8 Dpto. 51
+ <br>Ciudad : CABA
+ <br>Telefono : 01146127790  / 1550000043
+ <br>Email : daenlot@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Solicito empleo como Técnico mecánico.
+ <br>Security_code : ccbq2
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.18.87.121<br>
+ <br>REF : TM-2
+ <br>Nombre : amado daniel
+ <br>Apellido : stoll
+ <br>Cargo : tecnico mecanico
+ <br>Direccion : R.wernicke  10008
+ <br>Ciudad : buenos aires
+ <br>Telefono : 47655730   1151463619
+ <br>Email : taller-dany@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : tecnico mecanico mantenimiento de planta
+ <br>Security_code : p54s6
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.23.132.192<br>
+ <br>REF : ACO-1
+ <br>Nombre : Marco
+ <br>Apellido : Agudelo
+ <br>Cargo : Comercio Exterior
+ <br>Direccion : Abasto, Capital Federal, BA
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 1161774392
+ <br>Email : Marcoagudelo@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Adjunto mi cv, espero sea de su agrado.
+ <br>Security_code : gjcz3
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 170.51.45.27<br>
+ <br>REF : TM-2
+ <br>Nombre : Eduardo
+ <br>Apellido : Miñan Obeso
+ <br>Cargo : Tecnico
+ <br>Direccion : 25 de Mayo 16 Villa Maria Cordoba
+ <br>Ciudad : Cordoba
+ <br>Telefono : 1127525242
+ <br>Email : edamobeso@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Disponibilidad inmediata
+ <br>Security_code : kvfqc
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.22.88.172<br>
+ <br>REF : SP-1
+ <br>Nombre : Oscar Aurelio
+ <br>Apellido : Pace
+ <br>Cargo : Supervisor de Producción
+ <br>Direccion : Rio de Janeiro 2634
+ <br>Ciudad : Lanus
+ <br>Telefono : 011-6939-8955
+ <br>Email : oscarpace06@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Tengo el agrado de dirigirme a uds. a fin de postularme al puesto de Supervisor de Producción.
+Quedo a disposición para evacuar las consultas que surgieran.
+
+Cordialmente
+Oscar Aurelio Pace
+ <br>Security_code : 7nwyg
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.22.88.172<br>
+ <br>REF : SP-1
+ <br>Nombre : Oscar Aurelio
+ <br>Apellido : Pace
+ <br>Cargo : Supervisor de Producción
+ <br>Direccion : Rio de Janeiro 2634
+ <br>Ciudad : Lanus
+ <br>Telefono : 011-6939-8955
+ <br>Email : oscarpace06@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Tengo el agrado de dirigirme a uds. a fin de postularme al puesto de Supervisor de Producción.
+Quedo a disposición para evacuar las consultas que surgieran.
+
+Cordialmente
+Oscar Aurelio Pace
+ <br>Security_code : 7nwyg
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.50.209.89<br>
+ <br>REF : JPER-1
+ <br>Nombre : Roberto Alejandro
+ <br>Apellido : Sosa
+ <br>Cargo : Jefe de Personal
+ <br>Direccion : alte. brown 109
+ <br>Ciudad : quilmes
+ <br>Telefono : 42579166
+ <br>Email : robertoasosa@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : la distancia no es inconveniente ya que poseo movilidad propia
+ <br>Security_code : 32fm7
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 200.35.75.213<br>
+ <br>REF : EP-1
+ <br>Nombre : Reinaldo Emilio
+ <br>Apellido : Tovar Guillen
+ <br>Cargo : Encargado de Produccion
+ <br>Direccion : San Felipe - Venezuela
+ <br>Ciudad : Venezuela
+ <br>Telefono : (+0058)4166503668
+ <br>Email : dogandballch@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Técnico. Superior en Alimentos
+Experiencia, Supervisor de Producción  Ron Cacique y Smirnoof Ice,Analista de Control de Calidad laboratorio central Pepsi
+ <br>Security_code : wcg4z
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 200.114.190.114<br>
+ <br>Nombre : Mónica Valeria
+ <br>Apellido : Aguilar
+ <br>Cargo : Administrativa/Atención al cliente/Pasante
+ <br>Direccion : Av. Álvarez Thomas 1262
+ <br>Ciudad : Colegiales
+ <br>Telefono : 1530104282
+ <br>Email : mvaleriaaguilar@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados,
+
+
+El motivo del presente email es el envío de mi CV para futuras búsquedas en Administración, Atención al cliente u otro puesto que consideren que se adapte a mi perfil.
+
+
+Actualmente me encuentro en la búsqueda de un puesto en donde pueda seguir desempeñándome de acuerdo a mi perfil laboral. Asimismo el lo que respecta a mi  historial laboral tengo una amplia experiencia en Atención al cliente, tareas administrativas y cobranzas, desempeñándome en importantes empresas como Visa Argentina, GM y OLX en la cual estuve en los últimos cuatro años como Senior Customer Service Agent.
+
+Me considero proactiva y con capacidad para trabajar en equipo. Actualmente tengo absoluta disponibilidad horaria.
+
+Ante cualquier consulta estoy a su disposición.
+
+Saludos,
+ <br>Security_code : xg8kq
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.246.177.244<br>
+ <br>REF : Ing. quim
+ <br>Nombre : Darwin
+ <br>Apellido : Urbina
+ <br>Cargo : ingeniero
+ <br>Direccion : Buenos Aires
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 01158151666
+ <br>Email : udarwin43@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Un gusto saludarles 
+Me llamo Darwin Urbina, soy venezolano, ingeniero mecánico egresado de la universidad central de Venezuela en diciembre del 2012
+Tengo 32 años, soy proactivo y trabajo muy bien en equipo
+Mi experiencia laboral está basada en: mantenimiento, manejo de personal y ventas (y compras), por lo que se tratar bien con proveedores y clientes además de conocimientos en importación y exportación 
+Espero me puedan tomar en cuenta 
+Saludos cordiales 
+
+ <br>Security_code : dhnkv
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 179.38.102.170<br>
+ <br>REF : ACO-1
+ <br>Nombre : JESUS ENRIQUE
+ <br>Apellido : LESSMANN ESCALONA
+ <br>Cargo : comercio exterior
+ <br>Direccion : SAN JUAN 1890 - BUENOS AIRES
+ <br>Ciudad : buenos aires
+ <br>Telefono : 9116157-4089
+ <br>Email : gerenciadelinea@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Quisiera ingresar a una compañía de alto nivel para crecer dentro de la organización, en una posición en la cual pueda desarrollar todas mis habilidades y aptitudes, en un ambiente de alta competencia.
+ <br>Security_code : WWqzY
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.105.96.130<br>
+ <br>REF : JPER-1
+ <br>Nombre : Luis
+ <br>Apellido : Araujo
+ <br>Cargo : Jefe de Personal
+ <br>Direccion : Antezana 37 PB C
+ <br>Ciudad : Capital Federal
+ <br>Telefono : 1157255939
+ <br>Email : relaclabor@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenos dias.
+Me interesaría tener la posibilidad de que me conozcan y contarles cómo mis habilidades pueden ser un aporte al área y al negocio de la empresa.
+Aguardo su comunicación parar precisar detalles de su interés.
+Saludos cordiales,
+Luis Araujo
+ <br>Security_code : 4xjf4
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.119.81.127<br>
+ <br>Nombre : oscar
+ <br>Apellido : carrizo
+ <br>Cargo : programador cnc matriceria
+ <br>Direccion : peru 408
+ <br>Ciudad : la tablada
+ <br>Telefono : 1130687377
+ <br>Email : oocarrizo71@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : experiencia 10 años en matriceria 
+ <br>Security_code : c2rbd
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 200.5.122.30<br>
+ <br>REF : ACO-1
+ <br>Nombre : Santiago
+ <br>Apellido : Izzo
+ <br>Cargo : ANALISTA DE COMERCIO INTERNACIONAL/EXTERIOR
+ <br>Direccion : chorroaron 1059
+ <br>Ciudad : cap fed
+ <br>Telefono : 1559209536
+ <br>Email : izzo.santiago@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estoy interesado en la busqueda laboral.
+Espero novedades.
+ <br>Security_code : 5bbqn
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.193.136.47<br>
+ <br>REF : ACO-1
+ <br>Nombre : Diego
+ <br>Apellido : Steed
+ <br>Cargo : ANALISTA DE COMERCIO INTERNACIONAL/EXTERIOR
+ <br>Direccion : Chile 851
+ <br>Ciudad : Ciudad de Buenos Aires
+ <br>Telefono : +5491140721904
+ <br>Email : diegosteed@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me ocupé del comercio exterior de Bentónicos de Argentina SA, por más de siete años. Me gustaría volver a ese rubro, en el que tengo tanta experiencia.
+ <br>Security_code : nfw2k
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.183.40.94<br>
+ <br>REF : SP-1
+ <br>Nombre : jorge horacio
+ <br>Apellido : navarro
+ <br>Cargo : supervisor produccion
+ <br>Direccion : 3 de febrero 343
+ <br>Ciudad : ezeiza
+ <br>Telefono : 1135801946
+ <br>Email : jorge.navarro46@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje :            Mando medio con más de 30 años de experiencia en las áreas de programación, manufactura, producción, mantenimiento, arranque de planta y   líneas de producción. Capacitación de personal a cargo, gran capacidad para desarrollar soluciones operativas a problemas inmediatos y áreas de oportunidad ,normas ISO. Habilidad para establecer buena relación con equipos de trabajo y mandos directos. 
+         Compromiso, responsabilidad, capacidad de desempeño en producción de distintos rubros y secciones.
+
+ <br>Security_code : 6rrts
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.189.45.165<br>
+ <br>Nombre : Nestor
+ <br>Apellido : Alagastine
+ <br>Cargo : Supervisor
+ <br>Direccion : tucuman 231
+ <br>Ciudad : General Pacheco
+ <br>Telefono : 1155635706
+ <br>Email : nes43@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : A quien  corresponda,dejo mi C.V
+Gracias
+Saludos
+ <br>Security_code : xxdb3
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.176.152.197<br>
+ <br>REF : SP-1
+ <br>Nombre : Mariano Ariel
+ <br>Apellido : Fernández 
+ <br>Cargo : Supervisor de Producción
+ <br>Direccion : Solís 1037
+ <br>Ciudad : Merlo
+ <br>Telefono : 01138917494
+ <br>Email : mfernandez4@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Gracias por recibir mi CV.
+ <br>Security_code : fp2ck
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 200.125.116.70<br>
+ <br>REF : SP-1
+ <br>Nombre : oriana
+ <br>Apellido : cordero
+ <br>Cargo : supervisor de produccion
+ <br>Direccion : Adolfo Alsina 2011 CABA
+ <br>Ciudad : Caba
+ <br>Telefono : 01168761723
+ <br>Email : orianacordero@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : estoy interesada en lapropuesta laboral
+ <br>Security_code : tj2t3
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.229.100.172<br>
+ <br>REF : ROT-1
+ <br>Nombre : Oscar alberto
+ <br>Apellido : Hernández Romero
+ <br>Cargo : Tecnico
+ <br>Direccion : Humberto 1 820
+ <br>Ciudad : Caba 
+ <br>Telefono : 1161533803
+ <br>Email : oscar_alberto03@hotmail.com 
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas. Soy técnico en Construccion civil.y manejo autocad 2d y 3d, revit arquitectura,lumion sketchup auticad civil 3d. 
+ <br>Security_code : 3jvpf
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.170.42.110<br>
+ <br>REF : SP-1
+ <br>Nombre : Enrique
+ <br>Apellido : Morales
+ <br>Cargo : Ingeniero
+ <br>Direccion : Saraza 2265
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : +541169662860
+ <br>Email : enriquebsm@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Ingeniero Mecanico
+ <br>Security_code : qzsr5
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 170.51.97.32<br>
+ <br>REF : SP-1
+ <br>Nombre : Italo Tancredo Victorio
+ <br>Apellido : DallO
+ <br>Cargo : Supervisor de Producción
+ <br>Direccion : Aviador Franco 6968  Ciudad Jardin
+ <br>Ciudad : Palomar
+ <br>Telefono : 1149747295
+ <br>Email : italodallo@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Palomar, 23  de Mayo de 2018
+Sr. GERENTE
+Referencia: Supervisor de producción 
+Me dirijo a Ud. con el fin de postularme a su búsqueda de referencia.
+Soy Ingeniero Químico e Ingeniero Laboral con una experiencia de más de 15 años supervisando unidades operativas. Poseo experiencia en supervisión de  producción  ( plásticas, químicas y manufactureras),  planificación de la producción,  manejo integral de planta, mejora continua, conocimientos de inglés intermedios, sistemas informáticos de gestión (entorno Windows), GMP, seguimiento de indicadores, seguimiento de no conformidades /normas ISO (9001/14000) normativa de Seguridad e higiene en el trabajo y medio ambiente.
+Sin otro particular saludo a Ud., agradeciéndole desde ya la atención dispensada.
+
+Ing. Italo DallO
+
+ <br>Security_code : v7s2w
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 152.168.48.153<br>
+ <br>REF : Ing. quim
+ <br>Nombre : Ricardo
+ <br>Apellido : La Cruz
+ <br>Cargo : Jefe de Procesos industriales
+ <br>Direccion : Maipu 1111. San fernado.
+ <br>Ciudad : Buenos Aires 
+ <br>Telefono : 1128496031
+ <br>Email : ricardolc13@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenos días,
+
+Reciba un cordial saludo. Le adjunto mi cv para postularme al cargo de Jefe de Procesos Industriales, ya que considero que cumplo con la mayoría de las competencias que exigen para el cargo. Poseo experiencia Procesos productivos y en la dirección de personal. Soy venezolano e ingeniero en Procesos Químicos, con DNI.
+
+Tengo toda la disposición de trasladarme a la zona sin ningún inconveniente.
+
+Quedo plenamente a la orden.
+
+Saludos.
+ <br>Security_code : rpw5d
+ <br>Send : Enviar
+ <br>
+---------------
+

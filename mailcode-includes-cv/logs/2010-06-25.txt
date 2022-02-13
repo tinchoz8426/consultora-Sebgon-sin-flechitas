@@ -1,0 +1,144 @@
+Address : 190.177.210.212
+Nombre : ANDREA SOLEDAD
+Apellido : LITARDO
+Cargo : Analista de Finanzas
+Direccion : Camargo 1161
+Ciudad : Merlo
+Telefono : 011 15 5323 1087
+Email : andre_5385@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Por medio del presente les hago llegar mis datos para ser considerada en futuras búsquedas laborales.
+Security_code : 34dvs
+Send : Enviar
+
+---------------
+
+Address : 190.14.164.67
+Nombre : Adriana Vanesa
+Apellido : Becerra
+Cargo : Trabajadora Social
+Direccion : Punta Delgada 2308
+Ciudad : Rada Tilly
+Telefono : 0297154002966
+Email : Vanebecera@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Soy Lic en Trabajo Social, poseo experiencia en realizar informes sociambientales, econmonicos y demas...poseo capacidad para trabajar en equipo interdisciplinarios y deso seguir formandome como profesional.
+Security_code : bzzzg
+Send : Enviar
+
+---------------
+
+Address : 62.97.117.30
+Nombre : VIRGINIA
+Apellido : DI CIANNI
+Cargo : ADMINISTRATIVO
+Direccion : LUIS MARIA CAMPOS 1666 8ºA
+Ciudad : CAPITAL FEDERAL
+Telefono : (011) 47832178
+Email : virdicianni@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me pongo en contacto con ustedes, para hacerles llegar mi CV.
+Actualmente vivo en Barcelona pero estoy regresando a Buenos Aires a finales de Septiembre.
+Les pido que por favor me tengan en cuenta ante cualquier posibilidad laboral que pueda surgir a partir de esa fecha.
+
+Security_code : hyr8r
+Send : Enviar
+
+---------------
+
+Address : 62.97.117.30
+Nombre : VIRGINIA
+Apellido : DI CIANNI
+Cargo : ADMINISTRATIVO
+Direccion : LUIS MARIA CAMPOS 1666 8ºA
+Ciudad : CAPITAL FEDERAL
+Telefono : 4783-2178
+Email : virdicianni@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me pongo en contacto con ustedes, para hacerles llegar mi CV.
+Actualmente vivo en Barcelona pero estoy regresando a Buenos Aires a finales de Septiembre.
+Les pido que por favor me tengan en cuenta ante cualquier posibilidad laboral que pueda surgir a partir de esa fecha.
+
+Security_code : r25sm
+Send : Enviar
+
+---------------
+
+Address : 186.109.48.187
+Nombre : adrian emanuel 
+Apellido : gutierrez
+Cargo : cualquiera
+Direccion : tomas de rocamora2948
+Ciudad : cordoba capital
+Telefono : 3516610187 o 3514075638
+Email : emacba_10@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : necesito trabaja soy muy puntual  y voluntarioso
+Security_code : sk9wf
+Send : Enviar
+
+---------------
+
+Address : 186.109.48.187
+Nombre : adrian emanuel 
+Apellido : gutierrez
+Cargo : cualquiera
+Direccion : tomas de rocamora2948
+Ciudad : cordoba capital
+Telefono : 3516610187 o 3514075638
+Email : emacba_10@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : necesito empleo soy muy puntual y voluntarioso
+Security_code : sk9wf
+Send : Enviar
+
+---------------
+
+Address : 201.254.39.143
+Nombre : Alejandra Alcira
+Apellido : Batiatto
+Cargo : REPRESENTANTE DE ATENCION AL CLIENTE
+Direccion : PERU 1160
+Ciudad : Buenos Aires
+Telefono : 011-156569-8105
+Email : ale_batiatto@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Busco la posibilidad de desenvolverme en áreas donde pueda llevar a la práctica los conocimientos adquiridos a través de mi experiencia laboral. Poder crecer profesionalmente dentro de la empresa.
+Security_code : 3c4mh
+Send : Enviar
+
+---------------
+
+Address : 190.176.33.170
+Nombre : claudia
+Apellido : guardia
+Cargo : empleada
+Direccion : san francisco del monte 216 e cap
+Ciudad : san juan
+Telefono : 154850043
+Email : clauly@live.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : deseo trabajar ,en administración,recepcionista .telefonista,fabrica ,en la minera,poseo carnet,conducir,buena presencia,
+Security_code : 86nhs
+Send : Enviar
+
+---------------
+
+Address : 190.177.88.58
+Nombre : Jesica
+Apellido : Valdés
+Cargo : area comunciaciones
+Direccion : Belgrano 716
+Ciudad : Carmen de patagones/ viedma
+Telefono : 02920-15617462
+Email : yesival@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : 
+soy periodista recibida y estoy finalizando mis estudios para licenciada en comunciación institucional. Podrán ayudarme a encontrar un trabajo digno que se relacione minimamente con lo que estudié?
+gracias
+
+Security_code : jb8y8
+Send : Enviar
+
+---------------
+

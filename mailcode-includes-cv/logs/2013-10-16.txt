@@ -1,0 +1,30 @@
+Address : 190.174.161.30
+Nombre : Rosa
+Apellido : Puerta
+Cargo : .
+Direccion : Roetgen
+Ciudad : hurlingham
+Telefono : 1526505972
+Email : Rosavanesapuerta@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : .
+Security_code : 4my7h
+Send : Enviar
+
+---------------
+
+Address : 186.137.206.245
+Nombre : Natalia
+Apellido : Bressan
+Cargo : Docente, empleada, niñera, administrativa
+Direccion : Rocha 1261
+Ciudad : Capital Federal
+Telefono : 1551554916
+Email : natalia_bressan2003@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Envío mi CV. Me interesan especialmente anuncios relativos a la provincia de San Luis, ya que tengo intenciones de instalarme alli. Saludos
+Security_code : zfkyk
+Send : Enviar
+
+---------------
+

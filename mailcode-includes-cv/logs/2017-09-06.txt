@@ -1,0 +1,139 @@
+Address : 190.104.208.226<br>
+ <br>REF : ROT-1
+ <br>Nombre : leandro
+ <br>Apellido : de rovere
+ <br>Cargo : jefe oficina tecnica
+ <br>Direccion : congreso 4965 2B
+ <br>Ciudad : buenos aires
+ <br>Telefono : 1565717218
+ <br>Email : leandro.derovere@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : adjunto mi cv
+ <br>Security_code : b8p64
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.191.214.215<br>
+ <br>Nombre : Mariana Leonela
+ <br>Apellido : Rangugni
+ <br>Cargo : Atencion al publico
+ <br>Direccion : Garay 5979
+ <br>Ciudad : mar del plata
+ <br>Telefono : 0223 4703135
+ <br>Email : colores87j@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : .
+ <br>Security_code : ppvgp
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.246.70.169<br>
+ <br>REF : chr
+ <br>Nombre : Esteban Damián
+ <br>Apellido : Sponsillo
+ <br>Cargo : Chofer
+ <br>Direccion : tacuari 444
+ <br>Ciudad : Ramos mejia
+ <br>Telefono : 1154693474
+ <br>Email : estebansponsillo@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Cuento con la experiencia y los conocimientos necesarios para desarrollar actividades en el rubro de su empresa. Quedo a su entera disposición ante una eventual entrevista personal con el objetivo de profundizar aspectos de mi perfil que resulten de su interés. Un cordial saludo.
+ <br>Security_code : 56sbt
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 200.68.113.249<br>
+ <br>REF : ROT-1
+ <br>Nombre : Brian
+ <br>Apellido : Tavares Bertoni
+ <br>Cargo : Responsable de Oficina Técnica
+ <br>Direccion : Marcos paz 2422
+ <br>Ciudad : Capital Federal
+ <br>Telefono : 1157018601
+ <br>Email : briantavaresbertoni@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me dirijo a usted en respuesta a su anuncio. Por mi trayectoria laboral tanto en empresas de material pop sobre el área técnica y mi actual experiencia en el mantenimiento de un Hotel cinco estrellas como coordinador de mantenimiento, puedo aportar un conocimiento del sector, además de actitud de servicio y atención al detalle.
+ <br>Security_code : mqphz
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.111.234.234<br>
+ <br>Nombre : Irwin 
+ <br>Apellido : Olano
+ <br>Cargo : Ingeniero Industrial 
+ <br>Direccion : jorge newbery
+ <br>Ciudad : buenos aires 
+ <br>Telefono : 1127403964
+ <br>Email : ing.irwinolano@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Adjuto mi resumen curricular para su consideración para las vacantes relacionadas a mi profesión. 
+ <br>Security_code : m224g
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.111.234.234<br>
+ <br>Nombre : Irwin 
+ <br>Apellido : Olano
+ <br>Cargo : Ingeniero Industrial 
+ <br>Direccion : jorge newbery
+ <br>Ciudad : buenos aires 
+ <br>Telefono : 1127403964
+ <br>Email : ing.irwinolano@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Adjuto mi resumen curricular para su consideración para las vacantes relacionadas a mi profesión. 
+ <br>Security_code : m224g
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.111.234.234<br>
+ <br>Nombre : Irwin 
+ <br>Apellido : Olano
+ <br>Cargo : Ingeniero Industrial 
+ <br>Direccion : jorge newbery
+ <br>Ciudad : buenos aires 
+ <br>Telefono : 1127403964
+ <br>Email : ing.irwinolano@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Adjuto mi resumen curricular para su consideración para las vacantes relacionadas a mi profesión. 
+ <br>Security_code : m224g
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.111.234.234<br>
+ <br>Nombre : irwin
+ <br>Apellido : olano
+ <br>Cargo : ingeniero industrial
+ <br>Direccion : jorge newbery 2633
+ <br>Ciudad : buenos aires
+ <br>Telefono : 1127403964
+ <br>Email : ing.irwinolano@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Adjuto mi resumen curricular para su consideración para las vacantes relacionadas a mi profesión.
+ <br>Security_code : 3kx65
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.122.207.47<br>
+ <br>REF : chr
+ <br>Nombre : andres mariano
+ <br>Apellido : biaus
+ <br>Cargo : chofer
+ <br>Direccion : las retamas 295
+ <br>Ciudad : merlo bs as
+ <br>Telefono : 02204985912
+ <br>Email : MARIANO_BIAUS@LIVE.COM
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : hola les envio mi curriculum para que sea observado y ser tenido en cuenta. desde ya muchas gracias.
+ <br>Security_code : qkhy7
+ <br>Send : Enviar
+ <br>
+---------------
+

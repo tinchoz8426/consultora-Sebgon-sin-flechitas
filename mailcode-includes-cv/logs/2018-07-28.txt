@@ -1,0 +1,129 @@
+Address : 181.90.157.28<br>
+ <br>Nombre : Micaela Carolina
+ <br>Apellido : Perez
+ <br>Cargo : Empleado
+ <br>Direccion : Publica N°1, 3890 T2 Piso 3 Dpto 6
+ <br>Ciudad : Rosario
+ <br>Telefono : 03413464382
+ <br>Email : micaelalpdaok@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Soy estudiante de Diseño de Vestuario y busco trabajos part-time, me amoldo a cualquier tarea.
+ <br>Security_code : h6wj9
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.91.194.193<br>
+ <br>Nombre : Yanina del Carmen 
+ <br>Apellido : Insfran
+ <br>Cargo : Administración- ventas 
+ <br>Direccion : O higgins 1898
+ <br>Ciudad : Formosa
+ <br>Telefono : 3704217626
+ <br>Email : Yaninsfran54@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Disponibilidad horaria 
+Buena dicción 
+Experiencia en ventas de créditos personales y seguros Cardif. 
+ <br>Security_code : my2kk
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.25.250.119<br>
+ <br>Nombre : julieta soledad
+ <br>Apellido : cepeda
+ <br>Cargo : atencion al pubico
+ <br>Direccion : pizarro 1902
+ <br>Ciudad : moren
+ <br>Telefono : 1133913254
+ <br>Email : julietarollino1991@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : ojala cumplan con las expectativas para poder conceguir un puesto laboral
+ <br>Security_code : jjsd2
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.44.30.126<br>
+ <br>Nombre : Vanesa
+ <br>Apellido : banovaz
+ <br>Cargo : Cajera
+ <br>Direccion : Alem 95
+ <br>Ciudad : Florencio varela
+ <br>Telefono : 1167961100
+ <br>Email : vbanovaz@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola tengo 42 años teñgo mas de 10 años de experiencia en cajas en supermercado mayorista vital referencia 42004400
+ <br>Security_code : 4y375
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.11<br>
+ <br>REF : TM-2
+ <br>Nombre : Cristian ezequiel
+ <br>Apellido : Paulos
+ <br>Cargo : Mantenimiento
+ <br>Direccion : Juan bautista Cabral 233
+ <br>Ciudad : San vicente
+ <br>Telefono : 0222415481985
+ <br>Email : Cristianezequielpaulos@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Necesito empleo
+ <br>Security_code : W8d45
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.7<br>
+ <br>REF : TM-2
+ <br>Nombre : Cristian ezequiel
+ <br>Apellido : Paulos
+ <br>Cargo : Mantenimiento
+ <br>Direccion : Juan bautista Cabral 233
+ <br>Ciudad : San vicente
+ <br>Telefono : 0222415481985
+ <br>Email : Cristianezequielpaulos@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Necesito empleo
+ <br>Security_code : Nrtwp
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.141.199.45<br>
+ <br>REF : JPER-1
+ <br>Nombre : Omar
+ <br>Apellido : Acevedo
+ <br>Cargo : Jefe de personal
+ <br>Direccion : Enrique Larreta 877
+ <br>Ciudad : Tortuguitas, Malvinas Argentina
+ <br>Telefono : 1152471579
+ <br>Email : 27.acevedo.o@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : A quien corresponda;
+Solicito por favor tenga a bien tenerme en cuenta en la selección correspondiente a Jefe de RRHH, estoy capacitado dado la experiencia que tengo por ocupar puesto similar en pyme industrial familiar.
+Atte 
+Omar Acevedo
+ <br>Security_code : qqgb8
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 200.126.212.22<br>
+ <br>REF : SP-1
+ <br>Nombre : César Alexander
+ <br>Apellido : Barreto
+ <br>Cargo : Coordinador de mantenimiento y producción
+ <br>Direccion : Caballito
+ <br>Ciudad : CABA
+ <br>Telefono : 1127830953
+ <br>Email : cesarbarretojhs@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Persona con proyección para asumir retos con ningún tipo de paradigmas con muchas ganas de crecimiento y con facilidad para adaptarme a los nuevos retos
+ <br>Security_code : jvqvf
+ <br>Send : Enviar
+ <br>
+---------------
+

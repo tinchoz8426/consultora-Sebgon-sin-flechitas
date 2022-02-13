@@ -1,0 +1,233 @@
+Address : 143.202.144.2<br>
+ <br>Nombre : Favio
+ <br>Apellido : Giuliani
+ <br>Cargo : Peon Rural
+ <br>Direccion : Uruguay 698
+ <br>Ciudad : Los toldos
+ <br>Telefono : 2236810596
+ <br>Email : favizgiuliani@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola. Buenos dias. Busco trabajo en zona rural. Preferentemente en granjas pequeñas de cerdo. O recria de bacunos
+ <br>Security_code : bmmjb
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.28<br>
+ <br>Nombre : Ariel
+ <br>Apellido : Villalonga
+ <br>Cargo : Técnico HyS
+ <br>Direccion : De las violetas 6220
+ <br>Ciudad : Ciudad jardín Lomas del Palomar
+ <br>Telefono : 1130341642
+ <br>Email :  agvillalonga@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buen día! 
+Por medio de la presente les envío mi CV para que me tengan en cuenta para futuras búsquedas.
+Saludos cordiales.
+Ariel Villalonga
+ <br>Security_code : 9fw2p
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 152.171.75.45<br>
+ <br>REF : SP-1
+ <br>Nombre : Fernando
+ <br>Apellido : Diaz
+ <br>Cargo : Supervisor de produccion
+ <br>Direccion : rivadavia 3172
+ <br>Ciudad : CABA
+ <br>Telefono : 1164038370
+ <br>Email : fernandojdiaz19@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Dispuesto a radicarme donde sea requerido
+ <br>Security_code : y8pvx
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.55.109.194<br>
+ <br>REF : SP-1
+ <br>Nombre : Javier
+ <br>Apellido : Herrera
+ <br>Cargo : supervisor
+ <br>Direccion : Langueneins 567
+ <br>Ciudad : longchamps
+ <br>Telefono : 1123400694
+ <br>Email : javiersherrera143@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados Sres/as de Recursos Humanos
+Tengo el agrado de dirigirme a Ud/s con el objetivo de participar en búsquedas acordes a mi perfil en  su empresa. Adjunto mi Curriculum Vitae buscando ser incluido en su base de datos por si se produjera alguna vacante.
+
+ <br>Security_code : wynjv
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.28<br>
+ <br>Nombre : yannys
+ <br>Apellido : berrio
+ <br>Cargo : Encargada o administración 
+ <br>Direccion : LaFuente 826, Casa
+ <br>Ciudad : Caba
+ <br>Telefono : 1156058936
+ <br>Email : anllerllyn08@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola, quedo a la espera de alguna novedad.
+Saludos 
+ <br>Security_code : Cmpjj
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.182.189.160<br>
+ <br>REF : JPER-1
+ <br>Nombre : Adrian Angel
+ <br>Apellido : Benaglia
+ <br>Cargo : JPER-1
+ <br>Direccion : Avenida San Martin 3980
+ <br>Ciudad : Caseros, Buenos Aires
+ <br>Telefono : 1159485324
+ <br>Email : adrianbenaglia@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Envío mi Cv en relación al tema de referencia. Cordiales Saludos
+ <br>Security_code : ghhrc
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.165.74.5<br>
+ <br>REF : EP-1
+ <br>Nombre : Dario
+ <br>Apellido : Piccilli
+ <br>Cargo : Encargado de Produccion
+ <br>Direccion : Vidt, 2040
+ <br>Ciudad : CABA
+ <br>Telefono : +5491140461207
+ <br>Email : rubiodario1@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Sres. SEBGON CONSULTORA
+
+Por la presente les adjunto mi CV, de acuerdo al aviso publicado en la web.
+
+Con la convicción de poseer el perfil requerido para un muy buen desempeño en el cargo a cubrir, quedo a entera disposición para hacerle llegar, sea en una entrevista personal o por el medio que se me indique, las ampliaciones y/o la documentación probatoria correspondiente.
+
+Esperando una respuesta positiva, lo saluda atentamente.
+
+Ing. Darío A. Piccilli
+011 15-4046-1207
+011 4822-9707
+ <br>Security_code : x2grp
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 45.224.188.12<br>
+ <br>Nombre : Johana 
+ <br>Apellido : Weisheim 
+ <br>Cargo : Atención al público 
+ <br>Direccion : El Soguero 3361 
+ <br>Ciudad : Paraná 
+ <br>Telefono : 155018711 
+ <br>Email : Joha_1193@hotmail.com 
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Necesito algún trabajo, me puedo capacitar en cualquier cosa. 
+ <br>Security_code : hr8td
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.9<br>
+ <br>REF : EP-1
+ <br>Nombre : Edgar
+ <br>Apellido : Serrada
+ <br>Cargo : Encargado de Producción
+ <br>Direccion : Pasco 37
+ <br>Ciudad : Capital Federal
+ <br>Telefono : 011 2254-0699
+ <br>Email : edgarserrada@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas tardes, adjunto envío mi resumen curricular para ser evaluado al cargo de Encargado de Producción.
+
+Muchas gracias
+ <br>Security_code : tt7dm
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.179.50.252<br>
+ <br>Nombre : Florencia
+ <br>Apellido : Petruccelli
+ <br>Cargo : Recepción
+ <br>Direccion : El Palomar, Sourignes 1862
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 1531070318
+ <br>Email : florenciavpetruccelli@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Con ganas de una eventual entrevista para su empresa dirijo este mensaje, sea en el area administrativo o recepción. Los cuales son los que mas experiencias tengo
+ <br>Security_code : rsygv
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.179.50.252<br>
+ <br>Nombre : Florencia
+ <br>Apellido : Petruccelli
+ <br>Cargo : Recepción
+ <br>Direccion : El Palomar, Sourignes 1862
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 1531070318
+ <br>Email : florenciavpetruccelli@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Con ganas de una eventual entrevista para su empresa dirijo este mensaje, sea en el area administrativo o recepción. Los cuales son los que mas experiencias tengo
+ <br>Security_code : rsygv
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.179.50.252<br>
+ <br>Nombre : Florencia
+ <br>Apellido : Petruccelli
+ <br>Cargo : Recepción
+ <br>Direccion : El Palomar, Sourignes 1862
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 1531070318
+ <br>Email : florenciavpetruccelli@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Con ganas de una eventual entrevista para su empresa dirijo este mensaje, sea en el area administrativo o recepción. Los cuales son los que mas experiencias tengo
+ <br>Security_code : nzbkh
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.179.50.252<br>
+ <br>Nombre : Florencia
+ <br>Apellido : Petruccelli
+ <br>Cargo : Recepción
+ <br>Direccion : El Palomar, Sourignes 1862
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 1531070318
+ <br>Email : florenciavpetruccelli@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Con ganas de una eventual entrevista para su empresa dirijo este mensaje, sea en el area administrativo o recepción. Los cuales son los que mas experiencias tengo
+ <br>Security_code : nzbkh
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.179.50.252<br>
+ <br>Nombre : Florencia
+ <br>Apellido : Petruccelli
+ <br>Cargo : Recepción
+ <br>Direccion : El Palomar, Sourignes 1862
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 1531070318
+ <br>Email : florenciavpetruccelli@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Con ganas de una eventual entrevista para su empresa dirijo este mensaje, sea en el area administrativo o recepción. Los cuales son los que mas experiencias tengo
+ <br>Security_code : n z b k h 
+ <br>Send : Enviar
+ <br>
+---------------
+

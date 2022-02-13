@@ -1,0 +1,252 @@
+Address : 181.103.173.8<br>
+ <br>Nombre : Eduardo 
+ <br>Apellido : Mannuccia 
+ <br>Cargo : Ventas  vendedor 
+ <br>Direccion : Conesa 973
+ <br>Ciudad : San  Miguel  bs as
+ <br>Telefono : 1140370363
+ <br>Email : edumann74@gmail.com 
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola
+Me encuentro en la búsqueda de empleo. Hago envío de mi CV, a la espera de una repuesta favorable 
+Desde ya muchas gracias 
+Saludos Cordiales 
+ <br>Security_code : 94vyc
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.103.173.8<br>
+ <br>Nombre : Eduardo 
+ <br>Apellido : Mannuccia 
+ <br>Cargo : Ventas  vendedor 
+ <br>Direccion : Conesa 973
+ <br>Ciudad : San  Miguel  bs as
+ <br>Telefono : 1140370363
+ <br>Email : edumann74@gmail.com 
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola
+Me encuentro en la búsqueda de empleo. Hago envío de mi CV, a la espera de una repuesta favorable 
+Desde ya muchas gracias 
+Saludos Cordiales 
+ <br>Security_code : 94vyc
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.103.173.8<br>
+ <br>Nombre : Eduardo 
+ <br>Apellido : Mannuccia 
+ <br>Cargo : Ventas  vendedor 
+ <br>Direccion : Conesa 973
+ <br>Ciudad : San  Miguel  bs as
+ <br>Telefono : 1140370363
+ <br>Email : edumann74@gmail.com 
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola
+Me encuentro en la búsqueda de empleo. Hago envío de mi CV, a la espera de una repuesta favorable 
+Desde ya muchas gracias 
+Saludos Cordiales 
+ <br>Security_code : 94vyc
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.90.7.0<br>
+ <br>Nombre : Kevin Alexander
+ <br>Apellido : Contreras Rivero
+ <br>Cargo : Ingeniero quimico
+ <br>Direccion : Maipu - San nicolas
+ <br>Ciudad : Capital Federal Buenos Aires
+ <br>Telefono : +5491166592718
+ <br>Email : kevincontrerasra@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Interesado en empleos referente en ingeneiria quimica como supervisor, en consultoras, investigación, ventas tecnicas y control de calidad
+ <br>Security_code : cxymn
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 191.103.182.184<br>
+ <br>Nombre : jose domingo 
+ <br>Apellido : colorado usma
+ <br>Cargo : electricista
+ <br>Direccion : carrera 7 B # 1323
+ <br>Ciudad : montelibano cordoba
+ <br>Telefono : 3045340072 -3146274526
+ <br>Email : josedomingocolorado@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : b
+ <br>Security_code : kzhfm
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.133.187.80<br>
+ <br>Nombre : Mario Emilio
+ <br>Apellido : Salinas
+ <br>Cargo : ......
+ <br>Direccion : Bolivia 438
+ <br>Ciudad : San Rafael, Mendoza
+ <br>Telefono : 260-4650788
+ <br>Email : mariosalinas_12@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buen día, adjunto CV y sumarlo a su base de datos.
+ <br>Security_code : mpfsw
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.133.187.80<br>
+ <br>Nombre : Mario Emilio
+ <br>Apellido : Salinas
+ <br>Cargo : currículum
+ <br>Direccion : Bolivia 438
+ <br>Ciudad : San Rafael, Mendoza
+ <br>Telefono : 260-4650788
+ <br>Email : mariosalinas_12@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buen día, adjunto CV y sumarlo a su base de datos.
+ <br>Security_code : mpfsw
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.133.187.80<br>
+ <br>Nombre : Mario Emilio
+ <br>Apellido : Salinas
+ <br>Cargo : currículum
+ <br>Direccion : Bolivia 438
+ <br>Ciudad : San Rafael, Mendoza
+ <br>Telefono : 260-4650788
+ <br>Email : mariosalinas_12@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buen día, adjunto CV y sumarlo a su base de datos.
+ <br>Security_code : fb94t
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.191.18.27<br>
+ <br>REF : JP
+ <br>Nombre : Saúl Gabriel
+ <br>Apellido : Bustos
+ <br>Cargo : Jefe de Personal
+ <br>Direccion : Chile 2951
+ <br>Ciudad : Don Torcuato
+ <br>Telefono : 153 265 2485
+ <br>Email : saulgbustos@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Profesional de Recursos Humanos y Administración de Personal. Gran experiencia en Industrias.
+ <br>Security_code : zt4sw
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 168.90.85.201<br>
+ <br>REF : OEL
+ <br>Nombre : Moises
+ <br>Apellido : Celestino
+ <br>Cargo : Oficial electricista
+ <br>Direccion : Av. 25 de mayo 943
+ <br>Ciudad : Belen de Escobar 
+ <br>Telefono : 01149890684
+ <br>Email : isaiascelestinomoiss@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : salario pretendido 13000 x mes
+ <br>Security_code : rx6b8
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 168.90.85.201<br>
+ <br>Nombre : Moises
+ <br>Apellido : Celestino
+ <br>Cargo : Oficial electricista
+ <br>Direccion : Av. 25 de mayo 943
+ <br>Ciudad : Belen de Escobar 
+ <br>Telefono : 01149890684
+ <br>Email : isaiascelestinomoiss@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : salario pretendido 13000 x mes
+ <br>Security_code : wfhw9
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 168.90.85.201<br>
+ <br>Nombre : Moises
+ <br>Apellido : Celestino
+ <br>Cargo : Oficial electricista
+ <br>Direccion : Av. 25 de mayo 943
+ <br>Ciudad : Belen de Escobar 
+ <br>Telefono : 01149890684
+ <br>Email : isaiascelestinomoiss@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : salario pretendido 13000 x mes
+ <br>Security_code : wfhw9
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 168.90.85.201<br>
+ <br>Nombre : Moises
+ <br>Apellido : Celestino
+ <br>Cargo : Oficial electricista
+ <br>Direccion : Av. 25 de mayo 943
+ <br>Ciudad : Belen de Escobar 
+ <br>Telefono : 01149890684
+ <br>Email : isaiascelestinomoiss@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : salario pretendido 13000 x mes
+ <br>Security_code : bh6z5
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 168.90.85.201<br>
+ <br>Nombre : Moises
+ <br>Apellido : Celestino
+ <br>Cargo : Oficial electricista
+ <br>Direccion : Av. 25 de mayo 943
+ <br>Ciudad : Belen de Escobar 
+ <br>Telefono : 01149890684
+ <br>Email : isaiascelestinomoiss@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : salario pretendido 13000 x mes
+ <br>Security_code : wfhw9
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 168.90.85.201<br>
+ <br>Nombre : Moises
+ <br>Apellido : Celestino
+ <br>Cargo : Oficial electricista
+ <br>Direccion : Av. 25 de mayo 943
+ <br>Ciudad : Belen de Escobar 
+ <br>Telefono : 01149890684
+ <br>Email : isaiascelestinomoiss@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : salario pretendido 13000 x mes
+ <br>Security_code : j63sq
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 168.90.85.201<br>
+ <br>REF : OEL
+ <br>Nombre : Moises
+ <br>Apellido : Celestino
+ <br>Cargo : Oficial electricista
+ <br>Direccion : Av. 25 de mayo 943
+ <br>Ciudad : Belen de Escobar 
+ <br>Telefono : 01149890684
+ <br>Email : isaiascelestinomoiss@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : 13000 x mes
+ <br>Security_code : 2jrxx
+ <br>Send : Enviar
+ <br>
+---------------
+

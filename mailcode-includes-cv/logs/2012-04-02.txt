@@ -1,0 +1,88 @@
+Address : 190.174.21.234
+REF : jefe-de-garantia-de-calidad
+Nombre : Andry
+Apellido : Rodriguez Perez
+Cargo : Jefe de garantia de calidad
+Direccion : Rufino Ortega 984, Isidro Casanova, La Matanza
+Ciudad : Buenos Aires
+Telefono : 1536105674/44855431/46251831
+Email : arperezinf@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimado Sres.
+
+Me dirijo a ustedes porque estoy interesado en el puesto de Jefe de garantía de Calidad que su empresa ofrece, publicado en el portal web www.consultorasebgon.com.ar.
+
+Soy Ingeniero mecánico con más de 12 años de experiencia en diferentes áreas. Buscó un puesto para realizar tareas de Aseguramiento y/o control de la calidad. Dispongo de conocimientos en normas ISO, BPM, ISO/TS. Considero que el puesto es ideal para mi y estaría encantado de desempeñarlo en cuanto se me indique. Si necesita alguna otra información estaré complacido de poder brindársela.
+
+Sin más, en espera de conocerlos muy pronto.
+
+Un saludo.
+
+Andry Rodríguez Pérez.
+Security_code : 4p486
+Send : Enviar
+
+---------------
+
+Address : 190.174.21.234
+REF : jefe-de-garantia-de-calidad
+Nombre : andry
+Apellido : rodriguez Perez
+Cargo : jefe de garantia de calidad
+Direccion : rufino ortega 984, isidro casanova, la matanza
+Ciudad : buenos aires
+Telefono : 1536105674/44855431/46251831
+Email : arperezinf@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimado Sres.
+
+Me dirijo a ustedes porque estoy interesado en el puesto de Jefe de garantía de Calidad que su empresa ofrece, publicado en el portal web www.consultorasebgon.com.ar.
+
+Soy Ingeniero mecánico con más de 12 años de experiencia en diferentes áreas. Buscó un puesto para realizar tareas de Aseguramiento y/o control de la calidad. Dispongo de conocimientos en normas ISO, BPM, ISO/TS. Considero que el puesto es ideal para mi y estaría encantado de desempeñarlo en cuanto se me indique. Si necesita alguna otra información estaré complacido de poder brindársela.
+
+Sin más, en espera de conocerlos muy pronto.
+
+Un saludo.
+
+Andry Rodríguez Pérez.
+Security_code : 9b2cw
+Send : Enviar
+
+---------------
+
+Address : 201.235.76.85
+Nombre : Lis Vanesa
+Apellido : Barone
+Cargo : Atención al Cliente/ Ventas
+Direccion : Bermúdez 3238
+Ciudad : Capital Federal Devoto
+Telefono : 1565899891
+Email : l_is.vanesa@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimado Sr./Sra.:
+
+Muy buenas tardes, mediante el presente medio le dejo mi curriculum, en caso de cumplir con 
+los requisitos espero su notificación mediante mi correo electrónico.
+
+Lo/a saluda muy atentamente
+Barone Lis Vanesa
+Security_code : 7y77h
+Send : Enviar
+
+---------------
+
+Address : 186.136.218.180
+Nombre : Romina
+Apellido : Karam
+Cargo : Lic en nutricion
+Direccion : doblas 146 5to A
+Ciudad : CABA, Caballito
+Telefono : 1541955387
+Email : sapyzap@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimada/o: mi nombre es Romina Karam. Estoy interesada en la propuesta laboral de administradora de servicio de nutricion. adjunto mi cv. Desde ya Muchas gracias.
+Security_code : szjcd
+Send : Enviar
+
+---------------
+

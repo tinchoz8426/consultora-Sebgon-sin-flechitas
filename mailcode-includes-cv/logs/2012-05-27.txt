@@ -1,0 +1,30 @@
+Address : 190.176.148.102
+Nombre : pablo matias exequiel
+Apellido : keil
+Cargo : operario
+Direccion : huarpes
+Ciudad : mendoza
+Telefono : 2613678649
+Email : matiaskeil10@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : soy tecnico electricista. aprendo muy rapido y soy muy responsable
+Security_code : 9wwkt
+Send : Enviar
+
+---------------
+
+Address : 200.59.197.113
+Nombre : LORENA 
+Apellido : SARGENTI
+Cargo : ADMINISTRATIVO
+Direccion : MATHUS HOYOS 7878
+Ciudad : GUAYMALLEN - MENDOZA
+Telefono : 0261-155505400
+Email : lorena2_54@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto curriculum para ser postulado ante cualquier oferta laboral en Mendoza 
+Security_code : v8n33
+Send : Enviar
+
+---------------
+

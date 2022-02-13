@@ -1,0 +1,15 @@
+Address : 186.22.236.106
+Nombre : Leticia
+Apellido : Solorzano
+Cargo : Administrativo
+Direccion : Gianastacio 3689
+Ciudad : Castelar
+Telefono : 1155612409
+Email : letoxun_ori@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Busco un empleo para seguir creciendo y poder adquirir conocimientos.Soy una persona activa,me gusta generar un buen clima laboral y tengo una muy buena predisposición.  Leticia Solorzano. 
+Security_code : jc2dx
+Send : Enviar
+
+---------------
+

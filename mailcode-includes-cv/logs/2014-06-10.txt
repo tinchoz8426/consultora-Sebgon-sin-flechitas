@@ -1,0 +1,158 @@
+Address : 186.59.145.128
+REF : GETECOM
+Nombre : Aldo
+Apellido : Pesquera
+Cargo : Gerente de Compras El Bolson
+Direccion : 174 Norte N380 - e/31 y 32
+Ciudad : Berisso
+Telefono : 02214640840
+Email : alpes71@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto mi CV para que sea tomado en cuenta para la busqueda de referencia. DEsde ya muchas gracias y aprovecho la oportunidad para saludarlos muy atte
+Security_code : zx43p
+Send : Enviar
+
+---------------
+
+Address : 186.59.145.128
+REF : GETECOM
+Nombre : Aldo
+Apellido : Pesquera
+Cargo : Gerente de Compras El Bolson
+Direccion : 174 Norte N380 - e/31 y 32
+Ciudad : Berisso
+Telefono : 02214640840
+Email : alpes71@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto mi CV para que sea tomado en cuenta para la busqueda de referencia. DEsde ya muchas gracias y aprovecho la oportunidad para saludarlos muy atte
+Security_code : zx43p
+Send : Enviar
+
+---------------
+
+Address : 186.59.145.128
+REF : GETECOM
+Nombre : Aldo
+Apellido : Pesquera
+Cargo : Gerente de Compras El Bolson
+Direccion : 174 Norte N380 - e/31 y 32
+Ciudad : Berisso
+Telefono : 02214640840
+Email : alpes71@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto mi CV para que sea tomado en cuenta para la busqueda de referencia. DEsde ya muchas gracias y aprovecho la oportunidad para saludarlos muy atte
+Security_code : ztg5w
+Send : Enviar
+
+---------------
+
+Address : 190.174.59.226
+Nombre : Nicolas 
+Apellido : Deus
+Cargo : administrativo
+Direccion : joaquin.v.gonsalez 857
+Ciudad : haedo
+Telefono : 1124592118
+Email : deus.nicolas@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : puesto: cajero
+Security_code : 23d42
+Send : Enviar
+
+---------------
+
+Address : 190.174.59.226
+Nombre : Nicolas 
+Apellido : Deus
+Cargo : administrativo
+Direccion : joaquin.v.gonsalez 857
+Ciudad : haedo
+Telefono : 1124592118
+Email : deus.nicolas@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : puesto: cajero
+Security_code : 23d42
+Send : Enviar
+
+---------------
+
+Address : 190.174.59.226
+Nombre : Nicolas 
+Apellido : Deus
+Cargo : administrativo
+Direccion : joaquin.v.gonsalez 857
+Ciudad : haedo
+Telefono : 1124592118
+Email : deus.nicolas@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : puesto: cajero
+Security_code : m3wrr
+Send : Enviar
+
+---------------
+
+Address : 190.174.59.226
+Nombre : Nicolas 
+Apellido : Deus
+Cargo : administrativo
+Direccion : joaquin.v.gonsalez 857
+Ciudad : haedo
+Telefono : 1124592118
+Email : deus.nicolas@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : puesto: cajero
+Security_code : 3whfn
+Send : Enviar
+
+---------------
+
+Address : 190.192.198.135
+Nombre : Alejandro Alberto
+Apellido : Sacco
+Cargo : Contador / Jefe de Contaduría
+Direccion : Nazarre 2665 - 3º A
+Ciudad : CABA
+Telefono : 1549600321
+Email : alejandrosacco@fibertel.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados
+Les hago llegar mi cv para que puedan cargarlo a vuestra base de datos.
+Quedando a su disposición, los saludo atte.
+Alejandro A. Sacco
+Security_code : yp84m
+Send : Enviar
+
+---------------
+
+Address : 186.137.30.57
+Nombre : Brenda
+Apellido : Muller
+Cargo : Ing. Ambiental
+Direccion : Victorino de la Plaza 1101
+Ciudad : Capital Federal
+Telefono : 1562898065
+Email : mullerbrenda@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola, mi nombre es Brenda Müller, soy estudiante de quinto año de Ingeniería Ambiental de la Universidad Católica Argentina, en este momento me encuentro buscando trabajo.
+A continuación adjunto mi CV, para una futura búsqueda laboral. 
+Desde ya muchas gracias. 
+Security_code : twqwp
+Send : Enviar
+
+---------------
+
+Address : 186.136.20.52
+Nombre : andrea
+Apellido : gaspari
+Cargo : administrativo
+Direccion : fitz roy 2461
+Ciudad : buenos aires
+Telefono : 1559045735
+Email : andrea.gaspari@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : actitud proactiva, facilidad de aprender y de adaptarse.
+Security_code : 9fc7t
+Send : Enviar
+
+---------------
+

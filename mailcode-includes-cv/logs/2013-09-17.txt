@@ -1,0 +1,31 @@
+Address : 181.166.70.117
+Nombre : paola
+Apellido : vazquez
+Cargo : cualquiera
+Direccion : 69 n 335
+Ciudad : la plata
+Telefono : 221 6656170
+Email : lobitala222010@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : busco trabajo por favor de lo q sea desde ya m,gracias 
+Security_code : fmspj
+Send : Enviar
+
+---------------
+
+Address : 186.123.135.182
+REF : jefe-de-operaciones
+Nombre : daniel andres 
+Apellido : moron
+Cargo : mantenimiento
+Direccion : cordoba 227, merlo.
+Ciudad : buenos aires 
+Telefono : 1166002208
+Email : danielmorinigo@hotmail.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : hola! que tal? soy un joven que quiere demostrar todo su potencial espear conseguir empleo. los saludo atentamente daniel.
+Security_code : 6mmqqn
+Send : Enviar
+
+---------------
+

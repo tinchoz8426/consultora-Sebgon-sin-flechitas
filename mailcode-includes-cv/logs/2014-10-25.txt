@@ -1,0 +1,30 @@
+Address : 190.179.38.90
+Nombre : natalia soledad
+Apellido : vitolo
+Cargo : Administrativo
+Direccion : Guardia Vieja 1451
+Ciudad : Florencio Varela
+Telefono : 1532034651
+Email : natalia.vitolo.92@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Sr. tenga a bien tener en cuenta mi curriculum para algun puesto laboral, a la espera de una pronta y favorable respuesta. Saludos Cordiales.
+Security_code : xqzg7
+Send : Enviar
+
+---------------
+
+Address : 190.179.38.90
+Nombre : natalia soledad
+Apellido : vitolo
+Cargo : Administrativo
+Direccion : Guardia Vieja 1451
+Ciudad : Florencio Varela
+Telefono : 1532034651
+Email : natalia.vitolo.92@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Sr. tenga a bien tener en cuenta mi curriculum para algun puesto laboral, a la espera de una pronta y favorable respuesta. Saludos Cordiales.
+Security_code : gv92p
+Send : Enviar
+
+---------------
+

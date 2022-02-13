@@ -1,0 +1,235 @@
+Address : 200.70.37.162<br>
+ <br>REF : JPER-1
+ <br>Nombre : Ruben Fabian
+ <br>Apellido : Guana
+ <br>Cargo : Jefe de RR.HH.
+ <br>Direccion : 156 norte
+ <br>Ciudad : BERISSO
+ <br>Telefono : 2216066975
+ <br>Email : guanafabian@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me dirijo a uds a los efectos de postular al puesto de la referencia.
+cordialmente
+Fabian Guana
+ <br>Security_code : YB9QS
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.105.97.78<br>
+ <br>REF : JPER-1
+ <br>Nombre : Luis
+ <br>Apellido : Araujo
+ <br>Cargo : Jefe de Personal
+ <br>Direccion : Antezana 37 PB C
+ <br>Ciudad : Capital Federal
+ <br>Telefono : 1157259939
+ <br>Email : relaclabor@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenos dias.
+Me interesaría tener la posibilidad de que me conozcan y de cómo mis habilidades pueden ser un aporte al área y al negocio de la empresa.
+Saludos cordiales, Luis Araujo
+ <br>Security_code : tsp8v
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.7<br>
+ <br>REF : JPER-1
+ <br>Nombre : Frank Robert
+ <br>Apellido : Durán Rivero
+ <br>Cargo : JPER—1
+ <br>Direccion : CORDOBA
+ <br>Ciudad : CORDOBA 
+ <br>Telefono : +5491133417364
+ <br>Email : fduran28@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Les remito mi perfil profesional que tengan un bendecido día mis saludos cordiales 
+ <br>Security_code : Kbk9p
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 191.85.177.228<br>
+ <br>REF : EP-1
+ <br>Nombre : Luisanny
+ <br>Apellido : Lopez Isava
+ <br>Cargo : Encargado de produccion
+ <br>Direccion : San Jose 340
+ <br>Ciudad : capital federal
+ <br>Telefono : 1131457379
+ <br>Email : luisannyrli@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : hola buenos dias, estoy bastante interesada en el puesto de trabajo, y estoy dispuesta a trabajar full time y sabados
+ <br>Security_code : ncwgv
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.50.206.126<br>
+ <br>REF : TM-2
+ <br>Nombre : Anibal Alfredo
+ <br>Apellido : CABRAL
+ <br>Cargo : TECNICO MECANICO
+ <br>Direccion : calle 22 numro 2850
+ <br>Ciudad : BERAZATEGUI
+ <br>Telefono : 42165907
+ <br>Email : anibalacabral@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Ante la posibilidad que no consigan el perfil perfecto. Me postulo como alternativa. SON MAS DE 30 AÑOS EN MANTENIMIENTO MECANICO. PUEDE SERVIRLES
+ <br>Security_code : 26z2f
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.50.206.126<br>
+ <br>REF : TM-2
+ <br>Nombre : Anibal Alfredo
+ <br>Apellido : CABRAL
+ <br>Cargo : TECNICO MECANICO
+ <br>Direccion : calle 22 numro 2850
+ <br>Ciudad : BERAZATEGUI
+ <br>Telefono : 42165907
+ <br>Email : anibalacabral@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Ante la posibilidad que no consigan el perfil perfecto. Me postulo como alternativa. SON MAS DE 30 AÑOS EN MANTENIMIENTO MECANICO. PUEDE SERVIRLES
+ <br>Security_code : 26z2f
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.50.206.126<br>
+ <br>REF : TM-2
+ <br>Nombre : Anibal Alfredo
+ <br>Apellido : CABRAL
+ <br>Cargo : TECNICO MECANICO
+ <br>Direccion : calle 22 numro 2850
+ <br>Ciudad : BERAZATEGUI
+ <br>Telefono : 42165907
+ <br>Email : anibalacabral@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Ante la posibilidad que no consigan el perfil perfecto. Me postulo como alternativa. SON MAS DE 30 AÑOS EN MANTENIMIENTO MECANICO. PUEDE SERVIRLES
+ <br>Security_code : 26z2f
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.50.206.126<br>
+ <br>REF : TM-2
+ <br>Nombre : Anibal Alfredo
+ <br>Apellido : CABRAL
+ <br>Cargo : TECNICO MECANICO
+ <br>Direccion : calle 22 numro 2850
+ <br>Ciudad : BERAZATEGUI
+ <br>Telefono : 42165907
+ <br>Email : anibalacabral@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Ante la posibilidad que no consigan el perfil perfecto. Me postulo como alternativa. SON MAS DE 30 AÑOS EN MANTENIMIENTO MECANICO. PUEDE SERVIRLES
+ <br>Security_code : 26Z2f
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.50.206.126<br>
+ <br>REF : TM-2
+ <br>Nombre : Anibal Alfredo
+ <br>Apellido : CABRAL
+ <br>Cargo : TECNICO MECANICO
+ <br>Direccion : calle 22 numro 2850
+ <br>Ciudad : BERAZATEGUI
+ <br>Telefono : 42165907
+ <br>Email : anibalacabral@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Ante la posibilidad que no consigan el perfil perfecto. Me postulo como alternativa. SON MAS DE 30 AÑOS EN MANTENIMIENTO MECANICO. PUEDE SERVIRLES
+ <br>Security_code : 7x922
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.13.69.220<br>
+ <br>REF : JPER-1
+ <br>Nombre : LAURA BEATRIZ
+ <br>Apellido : SAUCEDO
+ <br>Cargo : Jefe de personal
+ <br>Direccion : Alonso de Ercilla 7575
+ <br>Ciudad : Capital federal
+ <br>Telefono : 1165060117
+ <br>Email : Laurabsaucedo@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Les envío mi cv para su evaluación.
+Desde ya muchas gracias
+Saludos cordiales
+Lic Laura Saucedo
+ <br>Security_code : Vt9ss
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.9<br>
+ <br>REF : TE-1
+ <br>Nombre : guglielmo
+ <br>Apellido : truini
+ <br>Cargo : TE-1
+ <br>Direccion : av asamblea 1390
+ <br>Ciudad : CABA
+ <br>Telefono : 1133856891
+ <br>Email : guglielmotruini@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : saludos
+
+me llamo guglielmo truini, soy ingeniero en computación, me desempeño en el area de la automatización y control de procesos industriales, poseo amplia experiencia en el rubro, de las industrias alimenticias y farmacéuticas, también poseo experiencia en mantenimiento mecánico preventivo y correctivo, por lo cual me siento capacitado y preparado para la oferta a la cual me estoy postulando.
+
+gracias
+ <br>Security_code : 7wd9m
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 168.90.86.87<br>
+ <br>REF : TM-2
+ <br>Nombre : Oscar Rubén
+ <br>Apellido : Saracho
+ <br>Cargo : Técnico de mantenimiento
+ <br>Direccion : Urquiza 2005
+ <br>Ciudad : San Miguel
+ <br>Telefono : 1133802026
+ <br>Email : rubengrismeyer@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas tardes, hago llegar mí currículum a modo tal de que el mismo pueda adecuarse a algún requerimiento profesional. Desde ya muchas gracias y muy felices fiestas
+ <br>Security_code : zhvds
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.192.17.193<br>
+ <br>REF : ROT-1
+ <br>Nombre : Henry
+ <br>Apellido : Rios
+ <br>Cargo : Responsable Oficina Técnica
+ <br>Direccion : Pasco 492, CABA, C1081AAJ
+ <br>Ciudad : CABA
+ <br>Telefono : 1160596865
+ <br>Email : hr1625@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Soy ingeniero de mantenimiento con conocimientos en Solidworks e Inventor
+ <br>Security_code : zsj92
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.88.74<br>
+ <br>REF : JPER-1
+ <br>Nombre : Olys
+ <br>Apellido : Mendoza
+ <br>Cargo : Jefe de Personal
+ <br>Direccion : Conjunto Residencial Juana La Avanzados Calle 12, Casa J 19 16. Zona industrial. Maturín
+ <br>Ciudad : MATURIN
+ <br>Telefono : +584148686611
+ <br>Email : olysmendoza@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Un cordial saludo, espero poder colaborar con toda mí experiencia e dedicación al laburo.
+ <br>Security_code : rbmc6
+ <br>Send : Enviar
+ <br>
+---------------
+

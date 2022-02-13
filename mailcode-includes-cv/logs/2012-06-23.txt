@@ -1,0 +1,45 @@
+Address : 200.68.68.9
+Nombre : sergio hernan
+Apellido : pariani
+Cargo : CHOFER
+Direccion : timbo 540
+Ciudad : buenos aires
+Telefono : 1551631268
+Email : tetofutbol10@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me Gustaria perteneser al equipo de trabajo
+Security_code : gjwy8
+Send : Enviar
+
+---------------
+
+Address : 186.125.180.89
+Nombre : Noelia
+Apellido : Luque
+Cargo : Trabajadora Social
+Direccion : rubén Dario 266
+Ciudad : Rafaela- Santa Fe
+Telefono : 03406- 15405097
+Email : noeloriluque@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : soy monotributista
+Security_code : 9f6ry
+Send : Enviar
+
+---------------
+
+Address : 190.188.148.21
+Nombre : Adrian Alejandro
+Apellido : Paredes
+Cargo : Auditoria - Logistica
+Direccion : Marconi 1286
+Ciudad : Mar del Plata
+Telefono : 2234742773
+Email : aaparedes@live.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Cualquier empleo en la ciudad de Mar del Plata
+Security_code : pcs47
+Send : Enviar
+
+---------------
+

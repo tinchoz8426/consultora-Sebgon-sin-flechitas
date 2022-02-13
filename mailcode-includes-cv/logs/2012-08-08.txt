@@ -1,0 +1,42 @@
+Address : 190.245.234.125
+Nombre : Mariela
+Apellido : Fernandez
+Cargo : Indiferente
+Direccion : Av. Del Libertador 8190
+Ciudad : Ciudad Autónoma de Bs. As. (Núñez)
+Telefono : 1556638643
+Email : fernandezmb92@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados :
+
+Me comunico con ustedes, a fin de informarles sobre mi interés en trabajar en su empresa. Como podrán ver en mi CV, mis experiencias de trabajo previas, me brindaron la capacidad de comunicarme muy bien con los clientes.
+Soy joven, con buena voluntad y muchas ganas de aprender.
+Por otra parte, la remuneración  pretendida, puede ajustarse a las políticas de su empresa.
+
+Espero que encuentren útil mi postulación, y podamos comunicarnos para acordar una entrevista.
+
+Desde ya, muchas gracias
+
+Mariela Fernandez
+Security_code : vdn9k
+Send : Enviar
+
+---------------
+
+Address : 190.139.125.124
+Nombre : Marcos
+Apellido : de Zuasnabar
+Cargo : Ingeniero Industrial
+Direccion : Lola Mora 700
+Ciudad : Tucumán
+Telefono : 0381-155188633
+Email : marcosdezuasnabar@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me encuentro muy interesada en que se tenga en cuenta mi CV para las búsquedas que consideren acordes a mi perfil.
+
+Lo/a saluda atentamente, Marcos de Zuasnabar.
+Security_code : mpdq3
+Send : Enviar
+
+---------------
+

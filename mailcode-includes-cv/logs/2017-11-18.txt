@@ -1,0 +1,63 @@
+Address : 181.29.254.149<br>
+ <br>REF : ACO
+ <br>Nombre : Lila
+ <br>Apellido : Valicenti
+ <br>Cargo : ASISTENTE COMERCIAL 
+ <br>Direccion : Alberdi 1298
+ <br>Ciudad : Caballito
+ <br>Telefono : 1166001212
+ <br>Email : lilavali@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Mis expectativas son poder trabajar en un ámbito cordial para así transmitir mi responsabilidad, compromiso y facilidad organizativa en las tareas diarias dando lo mejor de mi experiencia y capacidad.
+ <br>Security_code : fm8js
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.29.254.149<br>
+ <br>Nombre : Lila
+ <br>Apellido : Valicenti
+ <br>Cargo : Asistente
+ <br>Direccion : Alberdi 1298
+ <br>Ciudad : Caballito
+ <br>Telefono : 1166001212
+ <br>Email : lilavali@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Mis expectativas son poder trabajar en un ámbito cordial para así transmitir mi responsabilidad, compromiso y facilidad organizativa en las tareas diarias dando lo mejor de mi experiencia y capacidad.
+ <br>Security_code : f2nmy
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.225.204.229<br>
+ <br>REF : TM-2
+ <br>Nombre : Pablo Ernesto
+ <br>Apellido : Cuartero
+ <br>Cargo : Tecnico Electromecanico
+ <br>Direccion : 25 de mayo 130
+ <br>Ciudad : matheu escobar
+ <br>Telefono : 0348154333996
+ <br>Email : toroidal@live.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Avanzada experiencia Técnico Mecánico en empresas de renombre
+ <br>Security_code : ycz2h
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.229.183.192<br>
+ <br>Nombre : Ramona Andrea 
+ <br>Apellido : Salinas
+ <br>Cargo : Recepcionista
+ <br>Direccion : Guiraldez 2031
+ <br>Ciudad : Villa Maipu  San Martin
+ <br>Telefono : 1134293649
+ <br>Email : Adreasalinas@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Soy una mujer muy 
+comprometida, con sentido de pertenencia, creativa y con actitud positiva frente a las circunstancias adversas. 
+ <br>Security_code : 2mgq7
+ <br>Send : Enviar
+ <br>
+---------------
+

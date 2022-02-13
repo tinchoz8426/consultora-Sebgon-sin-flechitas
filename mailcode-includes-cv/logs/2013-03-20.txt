@@ -1,0 +1,37 @@
+Address : 190.16.253.53
+Nombre : Natalia
+Apellido : Pereira
+Cargo : Operaria
+Direccion : Matias Ramos Mejia 1185
+Ciudad : Gran BS AS zona oeste
+Telefono : 15-4399-9002
+Email : natalia_pereira_f@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Envio mi CV para postularme como operaria
+Security_code : mdmn2
+Send : Enviar
+
+---------------
+
+Address : 190.17.168.147
+Nombre : Gabriel
+Apellido : Breglia
+Cargo : Gerente/jefe
+Direccion : ALberdi 489
+Ciudad : Campana
+Telefono : 03489426424
+Email : gabriel.breglia@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Tengo el agrado de dirigirme a Ud. a fin de remitirle una versión actualizada de mi C.V., a fin de que pueda ser ingresado en vuestra base de datos, para ser tenido en cuenta para aquellas búsquedas laborales que consideren acordes con mi perfil profesional y personal.
+
+
+Al respecto, cabe destacar que he desarrollado mi carrera profesional en la empresa Cabot Argentina., de origen multinacional americana, en posición de Gerente de Ingeniería y mantenimiento, en planta de Campana.
+
+
+Agradeciendo desde ya la atención que se sirva dispensar a la presente y al documento adjunto, quedo a su disposición para ampliar la información en el transcurso de una reunión personal.
+
+Security_code : d9w97
+Send : Enviar
+
+---------------
+

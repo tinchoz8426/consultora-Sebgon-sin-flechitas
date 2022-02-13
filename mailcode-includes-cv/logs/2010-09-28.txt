@@ -1,0 +1,46 @@
+Address : 190.48.135.152
+Nombre : pamela del valle
+Apellido : ojeda
+Cargo : operaria
+Direccion : lincoln 1413
+Ciudad : moreno
+Telefono : 0237-4631006
+Email : pamela_laboral@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : A quien corresponda envio mi cv me encuentro con muchas ganas de trabajar le agradecere una oportunidad de demostrarles mi capacidad de aprender cualquier tarea que me asignen sin mas que decir espero una pronta y favorable respuesta atte. ojeda pamela
+Security_code : cyh9g
+Send : Enviar
+
+---------------
+
+Address : 200.69.242.197
+Nombre : Maria Alejandra 
+Apellido : ALONSO
+Cargo : Ingenieria en Alomentos
+Direccion : ciudad de la Paz 1230 
+Ciudad : Capital Federal
+Telefono : 011 1559542976
+Email : alealonso83@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : En el curriculum agrego carta de presentacion.
+
+Security_code : rgmjp
+Send : Enviar
+
+---------------
+
+Address : 190.31.183.160
+Nombre : Johanna Romina
+Apellido : Miranda
+Cargo : Administrativa
+Direccion : Felix Ballester
+Ciudad : Buenos aires
+Telefono : 15-5455-3508
+Email : johanna_romina_miranda@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estoy desempleada, busco trabajos varios.
+Security_code : zgcfy
+Send : Enviar
+
+---------------
+

@@ -1,0 +1,94 @@
+Address : 200.115.249.224<br>
+ <br>REF : EP-1
+ <br>Nombre : Luciana
+ <br>Apellido : Fernandez
+ <br>Cargo : Encargado de producción EP-1
+ <br>Direccion : Avenida Callao, 1066
+ <br>Ciudad : CABA
+ <br>Telefono : 1137802891
+ <br>Email : luci-sep1@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola soy Ingeniera Química me gustaría que mi curriculum pueda ser tomado en cuenta para sus búsquedas laborales
+ <br>Security_code : 7z37m
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 200.115.249.224<br>
+ <br>REF : Ing. quim
+ <br>Nombre : Luciana
+ <br>Apellido : Fernandez
+ <br>Cargo : Ing quim
+ <br>Direccion : Avenida Callao, 1066
+ <br>Ciudad : CABA
+ <br>Telefono : 1137802891
+ <br>Email : luci-sep1@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola soy Ingeniera Química me gustaría que mi curriculum pueda ser tomado encuenta para sus búsquedas laborales
+ <br>Security_code : 4zbyc
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.172.236.211<br>
+ <br>REF : SP-1
+ <br>Nombre : Clemente Rogelio
+ <br>Apellido : Toledo
+ <br>Cargo : Supervisor
+ <br>Direccion : SALCEDO 687
+ <br>Ciudad : LANUS ESTE
+ <br>Telefono : 1558349239
+ <br>Email : r-t@live.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : a 
+ <br>Security_code : tpd4v
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.111.161.105<br>
+ <br>Nombre : Brenda alejandra
+ <br>Apellido : flores
+ <br>Cargo : Seguridad e higiene
+ <br>Direccion : San Luis 801
+ <br>Ciudad : Las Perdices ,Cordoba
+ <br>Telefono : 0353155627309
+ <br>Email : Brendaalejandraflores@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas tardes ,adjunto mi curriculum por alguna busqueda laboral, desde ya muchas gracias.Saludos cordiales.
+ <br>Security_code : xkpw7
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.102.6.231<br>
+ <br>Nombre : Juan Manuel
+ <br>Apellido : Rodríguez
+ <br>Cargo : E.E 1.    T.M 2
+ <br>Direccion : Bignon 7399
+ <br>Ciudad : Virrey del pino, la matanza
+ <br>Telefono : 1125487249
+ <br>Email : Juanmanueltrabajando@gmail com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimado/a me diente la presente quedo a disposición de vuestra empresa. Atte Rodríguez Juan Manuel.
+ <br>Security_code : Ycwd8
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.139.20.44<br>
+ <br>REF : Ing. quim
+ <br>Nombre : Liseth
+ <br>Apellido : Ramirez
+ <br>Cargo : Ingeniera Quimica
+ <br>Direccion : Esmeralda 421 Depto 7 A Capital Federal
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 1161020948
+ <br>Email : lira165@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Disponibilidad para cambio de domicilio, disponibilidad inmediata.
+ <br>Security_code : 3pht4
+ <br>Send : Enviar
+ <br>
+---------------
+

@@ -1,0 +1,12 @@
+Address : 186.60.27.92
+Nombre : mario ramon
+Apellido : villegas
+Empresa : minesterio de educacion
+Telefono :  0280 4605030
+Email : villegasm@live.com.ar
+Mensaje : keiero acer el curso decapacitacion
+Security_code : 7qpac
+Send : Enviar
+
+---------------
+

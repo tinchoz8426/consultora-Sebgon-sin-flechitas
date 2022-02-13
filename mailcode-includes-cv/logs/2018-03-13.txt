@@ -1,0 +1,244 @@
+Address : 66.249.85.7<br>
+ <br>REF : EP-1
+ <br>Nombre : Cristián
+ <br>Apellido : Gimenez
+ <br>Cargo : Encargado de produccion
+ <br>Direccion : Pueyrredon 3803
+ <br>Ciudad : José c paz
+ <br>Telefono : 1570441607
+ <br>Email : ccriss1972@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Envío , CV para puesto
+
+ <br>Security_code : 7jzw6
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.11<br>
+ <br>REF : EP-1
+ <br>Nombre : Cristián
+ <br>Apellido : Gimenez
+ <br>Cargo : Encargado de produccion
+ <br>Direccion : Pueyrredon 3803
+ <br>Ciudad : José c paz
+ <br>Telefono : 1570441607
+ <br>Email : ccriss1972@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Envío , CV para puesto
+
+ <br>Security_code : 7jzw6
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.7<br>
+ <br>Nombre : Cristian
+ <br>Apellido : Gimenez
+ <br>Cargo : Jefe de produccion
+ <br>Direccion : Pueyrredon 3803
+ <br>Ciudad : José c paz
+ <br>Telefono : 1570441607
+ <br>Email : ccriss1972@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Envío CV para futuros puestos. Gracias
+ <br>Security_code : 7j8j7
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.19.149.150<br>
+ <br>REF : ROT-1
+ <br>Nombre : jesus 
+ <br>Apellido : armando
+ <br>Cargo : responsable oficina tecnica
+ <br>Direccion : caballito yerbal 141
+ <br>Ciudad : caballito
+ <br>Telefono : 5491170350140
+ <br>Email : cardenas21jesus@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : buenas tardes soy ing electronico jesus cardenas vengo de venezuela estoy en busca de trabajo full time. muchas gracias
+ <br>Security_code : qvjwn
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.9<br>
+ <br>REF : EP-1
+ <br>Nombre : Mariano
+ <br>Apellido : Fernández 
+ <br>Cargo : Encargado de Producción 
+ <br>Direccion : Solis 1037
+ <br>Ciudad : San Antonio de Padua
+ <br>Telefono : 01138917494
+ <br>Email : mfernandez4@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Tengo la experiencia y habilidades requeridas para el puesto.
+ <br>Security_code : vkb2n
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.3.86.45<br>
+ <br>Nombre : Alessandro
+ <br>Apellido : Silvero
+ <br>Cargo : VARIOS
+ <br>Direccion : Sargento Cabral 1027
+ <br>Ciudad : Puerto Gral San Martin
+ <br>Telefono : 0341153481199
+ <br>Email : alessandrosilvero@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : CV.
+ <br>Security_code : 62WS2
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.29.154.105<br>
+ <br>Nombre : german
+ <br>Apellido : Escubet
+ <br>Cargo : atencion
+ <br>Direccion : colon 1766
+ <br>Ciudad : Mar del Plata
+ <br>Telefono : 226 651-6638
+ <br>Email : germanescubet@outlook.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola,envio mi cv por busqueda laboral.
+ <br>Security_code : ykffj
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.1.185.173<br>
+ <br>REF : EP-1
+ <br>Nombre : Santiago
+ <br>Apellido : Ibarlin
+ <br>Cargo : Encargado de Produccion
+ <br>Direccion : Hernandarias
+ <br>Ciudad : Santo Tomé
+ <br>Telefono : 3425423366
+ <br>Email : santiagoibarlin@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me pongo en contacto con ustedes para manifestarles mi interés en poder desarrollar, aplicar y poner a disposición mis conocimientos adquiridos en la empresa. He finalizado el año anterior la carrera de Ingeniería Química, desarrollando diversas actividades académicas complementarias.
+
+Actualmente estoy perfeccionando mi nivel de Inglés, y estudiando diversas herramientas para el desempeño profesional. Me agradan los desafíos y trabajar en equipo seria y dedicadamente para conseguir resultados.
+
+Adjunto encontrarán mi Curriculum Vitae.
+
+Espero tener la oportunidad de conversar con usted en una próxima entrevista, para personalmente exponerle mis conocimientos y mi deseo de formar parte de su equipo de trabajo.
+
+Reciban un cordial saludo,
+
+                                                  Santiago Nicolás Ibarlin
+ <br>Security_code : 4hmp2
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.9<br>
+ <br>REF : SP-1
+ <br>Nombre : María
+ <br>Apellido : Iturralde
+ <br>Cargo : Sp1
+ <br>Direccion : 25 de mayo 422
+ <br>Ciudad : Quilmes
+ <br>Telefono : (11) 4088-5457
+ <br>Email : mliturralde@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : H
+ <br>Security_code : rgwgt
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.11<br>
+ <br>Nombre : Facundo
+ <br>Apellido : Rodriguez
+ <br>Cargo : tecnico electricista
+ <br>Direccion : av caseros 1030
+ <br>Ciudad : c.a.b.a
+ <br>Telefono : 1562727851
+ <br>Email : tercera_rodriguez@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados, adjunto CV y quedo a su disposicion.
+ <br>Security_code : 5hqv6
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.44.138.33<br>
+ <br>REF : SP-1
+ <br>Nombre : Marcelo Daniel 
+ <br>Apellido : Flores
+ <br>Cargo : Superviso de produccion
+ <br>Direccion : Cavour 3006
+ <br>Ciudad : Lanus
+ <br>Telefono :  011 2083 7279
+ <br>Email : marcelodanielf512@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Por intermedio de la presente me postulo para la vacante de referencia , sin mas lo saludo , a usted muy atte .
+ <br>Security_code : hmkk3
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.254.14.203<br>
+ <br>Nombre : Vanesa Eugenia 
+ <br>Apellido : Ortiz
+ <br>Cargo : Administrativa
+ <br>Direccion : Sordeaux 1730
+ <br>Ciudad : Moron
+ <br>Telefono : 1131547410
+ <br>Email : giuliana.v.ortiz@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola me encantaría poder formar parte de su empresa y tener mas experiencia en lo que me gusta .l administración de documentos ,personal ,y manejo de tramites . saludos 
+ <br>Security_code : 9r2sr
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.254.14.203<br>
+ <br>Nombre : Vanesa Eugenia 
+ <br>Apellido : Ortiz
+ <br>Cargo : Administrativa
+ <br>Direccion : Sordeaux 1730
+ <br>Ciudad : Moron
+ <br>Telefono : 1131547410
+ <br>Email : giuliana.v.ortiz@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Les agradeceria muchos su respuesta ,saludos aqui les envio mi CV.
+ <br>Security_code : 9r2sr
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.254.14.203<br>
+ <br>Nombre : Vanesa Eugenia 
+ <br>Apellido : Ortiz
+ <br>Cargo : Administrativa
+ <br>Direccion : Sordeaux 1730
+ <br>Ciudad : Moron
+ <br>Telefono : 1131547410
+ <br>Email : giuliana.v.ortiz@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Les agradeceria muchos su respuesta ,saludos aqui les envio mi CV.
+ <br>Security_code : 659p5
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.254.14.203<br>
+ <br>Nombre : Vanesa Eugenia 
+ <br>Apellido : Ortiz
+ <br>Cargo : Administrativa
+ <br>Direccion : Sordeaux 1730
+ <br>Ciudad : Moron
+ <br>Telefono : 1131547410
+ <br>Email : giuliana.v.ortiz@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Les agradeceria mucho su respuesta ,saludos aqui les envio mi CV.
+ <br>Security_code : sprf9
+ <br>Send : Enviar
+ <br>
+---------------
+

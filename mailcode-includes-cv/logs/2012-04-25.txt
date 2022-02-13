@@ -1,0 +1,53 @@
+Address : 186.56.233.15
+REF : tecnico-electornico
+Nombre : Alba Natalin
+Apellido : Niz
+Cargo : Cajera
+Direccion : Escobar 2695 
+Ciudad : Merlo
+Telefono : 0220-497-4106
+Email : alba_natalin@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Espero que me tengan en cuenta para alguna oferta de trabajo que se ajuste a mi perfil.
+Muchas Gracias.
+Saluda Atte
+Alba Niz
+ 
+Security_code : cg85x
+Send : Enviar
+
+---------------
+
+Address : 186.56.233.15
+Nombre : Alba Natalin
+Apellido : Niz
+Cargo : Cajera
+Direccion : Escobar 2695 
+Ciudad : Merlo
+Telefono : 0220-4974106
+Email : alba_natalin@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Espero que me tengan en cuenta para las ofertas de trabajo que se ajusten a mi perfi.
+Muchas Gracias.
+Saluda Atte.
+Alba Niz
+Security_code : yjpfg
+Send : Enviar
+
+---------------
+
+Address : 190.49.233.77
+Nombre : Marcos Ivan
+Apellido : Corominola
+Cargo : Calquiera
+Direccion : Santa Fe Nº 2249, 2º "H"
+Ciudad : Capital Federal
+Telefono : 1158668675
+Email : marcosivan.2010@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Necesito con urgencia un trabajo
+Security_code : hzqk6
+Send : Enviar
+
+---------------
+

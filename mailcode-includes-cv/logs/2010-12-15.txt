@@ -1,0 +1,83 @@
+Address : 190.48.250.32
+REF : tecnico-de-mantenimiento
+Nombre : jorge enrique
+Apellido : blasis
+Cargo : recursos humanos
+Direccion : Sub Of. Perdomo 2340
+Ciudad : Ituzaingo
+Telefono : 4-621-5326
+Email : blasisjenrique@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : A la Espera de una entrevista lo saludo atentamente y le agradezco su tiempo dedicado desde ya gracias
+Security_code : 93fmg
+Send : Enviar
+
+---------------
+
+Address : 186.56.162.186
+REF : gerente-de-operaciones
+Nombre : hernan nicolas
+Apellido : bonora
+Cargo : atencion al cliente
+Direccion : avenida san martin 25332
+Ciudad : merlo
+Telefono : 02204821680
+Email : hernanbonora@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : buenos dias,mando adjunto mi curriculum vitale,soy de la zona de merlo,estoy en la busqueda de un trabajo part time para poder sustentar mis estudios universitarios y poder desarrollarme dentro de una empresa.
+
+Security_code : s2mg8
+Send : Enviar
+
+---------------
+
+Address : 186.0.138.18
+Nombre : silvina
+Apellido : cardozo
+Cargo : limpieza,atencion al cliente,vendedora,vigilancia,otros
+Direccion : belen 3398
+Ciudad : merlo
+Telefono : 0220 4930182
+Email : sabri_r_larubia@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : celular 1137970541
+Security_code : kjfbk
+Send : Enviar
+
+---------------
+
+Address : 190.16.118.94
+REF : gerente-de-operaciones
+Nombre : Luciana
+Apellido : Pereira
+Cargo : secretaria/recepcionista
+Direccion : Castro Barros 280 6 A
+Ciudad : Capital Federal
+Telefono : 49585565
+Email : luchy.04@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola!! mi nombre es Luciana Pereira y les estoy enviando mi cv para tener en cuenta en propuestas de trabajo de secretaria/recepcionista. Estoy en busca de mi primer experiencia laboral dispuesta aprender lo necesario para llevarlo acabo. Soy una persona proactiva, responsable y puntual.
+Espero tener respuesta de ustedes.
+Desde ya muchas gracias
+atte.
+Luciana Pereira
+Security_code : ns8yg
+Send : Enviar
+
+---------------
+
+Address : 190.48.182.247
+Nombre : Carlos
+Apellido : Corvalan
+Cargo : indefinido
+Direccion : ituzaingo 1369
+Ciudad : Moreno
+Telefono : (0237)4660635
+Email : tiempos_duros@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Desempeñarme en un área que me permita Deseo desarrollar al máximo mis aptitudes supliendo la falta de experiencia con ánimo de voluntad y progreso.
+Security_code : sc5tm
+Send : Enviar
+
+---------------
+

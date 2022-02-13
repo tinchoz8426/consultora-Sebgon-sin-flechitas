@@ -1,0 +1,90 @@
+Address : 186.13.4.27
+Nombre : Martin Pablo
+Apellido : Deluchi
+Cargo : TECNICO EN ELECTRONICA seguridad
+Direccion : J B Justo y Loza
+Ciudad : Merlo
+Telefono : 15-3-350-8253
+Email : alarmasur@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Les envio mi CV para su posterior evaluacion
+Security_code : 5pdhy
+Send : Enviar
+
+---------------
+
+Address : 186.182.249.8
+Nombre : cindy
+Apellido : ferreira martinez
+Cargo : vendedora-cajera
+Direccion : forrouge 3902
+Ciudad : capital federal
+Telefono : 1125277520
+Email : cindy_ferreira94@outlook.com
+MAX_FILE_SIZE : 2097152
+Mensaje : estoy en busqueda laboral. tengo 20 años y muchas ganas de aprender
+Security_code : nkyft
+Send : Enviar
+
+---------------
+
+Address : 186.134.156.196
+Nombre : Alberto
+Apellido : Galeppi
+Cargo : Encargado
+Direccion : Salta al 1700
+Ciudad : Lanus
+Telefono : 1561539275
+Email : betto101@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : hola, les adjunto mi CV, gracias.
+Security_code : jrgwn
+Send : Enviar
+
+---------------
+
+Address : 186.134.156.196
+Nombre : Alberto
+Apellido : Galeppi
+Cargo : Encargado
+Direccion : Salta al 1700
+Ciudad : Lanus
+Telefono : 1561539275
+Email : betto101@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : hola, les adjunto mi CV, gracias.
+Security_code : jrgwn
+Send : Enviar
+
+---------------
+
+Address : 24.232.106.91
+Nombre : Mariana
+Apellido : Rainieri
+Cargo : Presentación de CV
+Direccion : Juan B Justo 3533
+Ciudad : Olivos
+Telefono : 15-5042-8733
+Email : mariana_rainieri@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Mi nombre es Mariana Rainieri y soy Contadora Pública recibida en la UBA, con 16 años de experiencia en temas de control de gestión, contabilidad y administración. Actualmente me encuentro en búsqueda laboral activa, motivo por el cual les remito mi CV para ser incorporado en la base de datos de su empresa, esperando que mi perfil y experiencia puedan ser de interés en búsquedas futuras.
+Security_code : jcd63
+Send : Enviar
+
+---------------
+
+Address : 179.39.83.78
+Nombre : Natali
+Apellido : Badano Duarte
+Cargo : ejecutiva/asistente/aasesor
+Direccion : Famatina 378
+Ciudad : Lomas de Zamora
+Telefono : 42826944
+Email : natalibadano12@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Cv Natali Badano Duarte. Encio mi curriculum en busqueda de un futuro laboral en base a mis conocimientos y experiencia.
+Security_code : y5m23
+Send : Enviar
+
+---------------
+

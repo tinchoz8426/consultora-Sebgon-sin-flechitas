@@ -1,0 +1,37 @@
+Address : 190.194.38.235
+Nombre : Juan Ignacio
+Apellido : Gnero
+Cargo : Ingenieria
+Direccion : Esquiu 2957
+Ciudad : Santa Fe
+Telefono : 342-155045886
+Email : gnero.juan.ing@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estoy dispuesto a cambiar de ciudad.
+Security_code : t9yxg
+Send : Enviar
+
+---------------
+
+Address : 181.80.149.78
+REF : gerente-produccion
+Nombre : Preiser
+Apellido : Christian Fernando
+Cargo : Gerente Producción
+Direccion : Peru 845/847 
+Ciudad : Haedo
+Telefono : 1166067004
+Email : chrisfpreiser@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto CV vitae.
+
+Profesional.
+Solida experiencia / 20 años.
+Multiplicidad de rubros y actividades.
+Gerenciamiento comprobable.
+Búsqueda de nuevos desafíos.
+Security_code : 37v2r
+Send : Enviar
+
+---------------
+

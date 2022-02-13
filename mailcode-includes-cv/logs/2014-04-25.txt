@@ -1,0 +1,170 @@
+Address : 186.13.1.73
+Nombre : CARLA
+Apellido : PEÑALOZA
+Cargo : administrativo o secretariado
+Direccion : alfonsina storni 170
+Ciudad : guaymallen
+Telefono : 542614324876
+Email : carla_1010@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buen dÍa busco trabajo en Mendoza.
+Security_code : jf7x8
+Send : Enviar
+
+---------------
+
+Address : 186.128.41.73
+Nombre : Carlos
+Apellido : Pereyra
+Cargo : Tecnico comercial
+Direccion : San  Martín 7357
+Ciudad : Mendoza
+Telefono : 0261 436 1078
+Email : cpereyra37@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenos dias. Soy profesional experimentado en la industria de panificación. Mi fortalezas son el compromiso, el trabajo en equipo y las relaciones humanas.
+Security_code : 6qrzk
+Send : Enviar
+
+---------------
+
+Address : 186.18.40.28
+Nombre : Emiliano Gaston
+Apellido : Rodriguez Millan
+Cargo : Indistinto
+Direccion : Formosa 353 piso 18 B
+Ciudad : CABA
+Telefono : 49015180
+Email : emimillan92@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Muchas Gracias.
+Security_code : wrg72
+Send : Enviar
+
+---------------
+
+Address : 190.31.64.93
+REF : ADMINISTRATIVA-DE-COMPRAS
+Nombre : SANDRA DANIELA
+Apellido : PEREZ
+Cargo : ADMINISTRACION
+Direccion : lugones 4540 pb 3
+Ciudad : CAPITAL FEDERAL
+Telefono : 4544-9746
+Email : sada_perez@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : TENGO EXPERIENCIA EN EL AREA DE ADMINISTRACION COMPUTOS 
+Security_code : VY3GX
+Send : Enviar
+
+---------------
+
+Address : 181.31.21.35
+Nombre : Jesica
+Apellido : Lavios
+Cargo : Administrativa
+Direccion : Dufurq (Interna 4) Nº 2883
+Ciudad : Bahía Blanca
+Telefono : 02914703294
+Email : jesicavl@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados envío mi CV para ser tenido en cuanta ante un posible puesto de trabajo.
+Security_code : 545hs
+Send : Enviar
+
+---------------
+
+Address : 190.48.157.91
+Nombre : Marcos
+Apellido : illiano
+Cargo : Repositor-Operario-Logistica
+Direccion : Santa fe 1561
+Ciudad : Merlo
+Telefono : 0220 4837546
+Email : eduardojoseilliano_1@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Busco empleo con una disponibilidad de lunes a domingo. Conocimiento en trabajos de oficio, repositor  y atención al cliente. Ofrezco muy buena predisposición para trabajar en forma rápida y organizada.
+
+Security_code : y9jr2
+Send : Enviar
+
+---------------
+
+Address : 190.48.157.91
+Nombre : Marcos
+Apellido : illiano
+Cargo : Repositor-Operario-Logistica
+Direccion : Santa fe 1561
+Ciudad : Merlo
+Telefono : 0220 4837546
+Email : eduardojoseilliano_1@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Busco empleo con una disponibilidad de lunes a domingo. Conocimiento en trabajos de oficio, repositor  y atención al cliente. Ofrezco muy buena predisposición para trabajar en forma rápida y organizada.
+
+Security_code : y9jr2
+Send : Enviar
+
+---------------
+
+Address : 190.48.157.91
+Nombre : Marcos
+Apellido : illiano
+Cargo : Repositor-Operario-Logistica
+Direccion : Santa fe 1561
+Ciudad : Merlo
+Telefono : 0220 4837546
+Email : eduardojoseilliano_1@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Busco empleo con una disponibilidad de lunes a domingo. Conocimiento en trabajos de oficio, repositor  y atención al cliente. Ofrezco muy buena predisposición para trabajar en forma rápida y organizada.
+
+Security_code : ypv47
+Send : Enviar
+
+---------------
+
+Address : 186.108.125.94
+Nombre : Tomás
+Apellido : Ayesa Dames
+Cargo : Administrativo-Cadete
+Direccion : Guayra 2260 pb c
+Ciudad : Buenos Aires
+Telefono : 47014710
+Email : tomas_ayesa@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : .
+Security_code : 9zh7x
+Send : Enviar
+
+---------------
+
+Address : 190.175.26.87
+Nombre : Nadia
+Apellido : Pizzicaro
+Cargo : Recepcionista
+Direccion : Av. San Juan 1886
+Ciudad : Capital Federal
+Telefono : 1563361934
+Email : nadiapizzicaro@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados,
+Estoy en búsqueda de trabajo. Soy responsable y tengo muchas ganas de crecer y aprender de mi trabajo.
+Security_code : qt74h
+Send : Enviar
+
+---------------
+
+Address : 186.22.13.17
+Nombre : Yoana Magali
+Apellido : Romero
+Cargo : recepcionista
+Direccion : Justo Suárez 7125
+Ciudad : Mataderos
+Telefono : (011) 46878176
+Email : yoanamagaliromero@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me postulo en puestos de: Recepcionista, atención al cliente, telemarketer, call center, vendedora, etc
+Security_code : 9bhwr
+Send : Enviar
+
+---------------
+

@@ -1,0 +1,12 @@
+Address : 186.58.208.175
+Nombre : ezequiel
+Apellido : ebbro
+Empresa : Tectool SA
+Telefono : O1146860831
+Email : ezequielebbro@gmail.com
+Mensaje : buen día , somos una empresa metalúrgica dedicada a cortes laser, radicada en CABA, necesitamos dos operarios y que por lo menos uno de ellos sepa manejar y posea registro de conductor, atte
+Security_code : cf7mh
+Send : Enviar
+
+---------------
+

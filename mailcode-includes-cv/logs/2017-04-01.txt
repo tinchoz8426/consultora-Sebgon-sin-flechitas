@@ -1,0 +1,118 @@
+Address : 66.249.85.11<br>
+ <br>REF : chr
+ <br>Nombre : Sebastian 
+ <br>Apellido : Galvan 
+ <br>Cargo : Chofer 
+ <br>Direccion : Pehuajo 350 
+ <br>Ciudad : Bs as florencio varela 
+ <br>Telefono : 1563994410
+ <br>Email : Yamisebazahi2008@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola me llamo sebastian soy chófer de camiones y poseo todos los registros vigente 
+ <br>Security_code : 3jk8y
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.47.109.210<br>
+ <br>REF : ROT-1
+ <br>Nombre : Jorge
+ <br>Apellido : Martinez
+ <br>Cargo : RESPONSABLE DE OFICINA TECNICA 
+ <br>Direccion : Alejandro magariños cervantes 2172 depto 3
+ <br>Ciudad : CABA
+ <br>Telefono : 1522785926
+ <br>Email : jorge.norberto.martinez@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Envío adjunto mi CV.
+ <br>Security_code : YK752
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.47.109.210<br>
+ <br>REF : ROT-1
+ <br>Nombre : Jorge
+ <br>Apellido : Martinez
+ <br>Cargo : RESPONSABLE DE OFICINA TECNICA 
+ <br>Direccion : Alejandro magariños cervantes 2172 depto 3
+ <br>Ciudad : CABA
+ <br>Telefono : 1522785926
+ <br>Email : jorge.norberto.martinez@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Envío adjunto mi CV.
+ <br>Security_code : YK752
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.47.109.210<br>
+ <br>REF : ROT-1
+ <br>Nombre : Jorge
+ <br>Apellido : Martinez
+ <br>Cargo : RESPONSABLE DE OFICINA TECNICA 
+ <br>Direccion : Alejandro magariños cervantes 2172 depto 3
+ <br>Ciudad : CABA
+ <br>Telefono : 1522785926
+ <br>Email : jorge.norberto.martinez@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Envío adjunto mi CV.
+ <br>Security_code : qr3xy
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.46.28.172<br>
+ <br>REF : Ing. quim
+ <br>Nombre : Marcos
+ <br>Apellido : Schloymann
+ <br>Cargo : Ing. quim
+ <br>Direccion : Av. San Juan 1490
+ <br>Ciudad : Capital Federal
+ <br>Telefono : 	1169819735
+ <br>Email : marcosschloymann@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas tardes, 
+Les envío mi CV y datos personales para ser tenido en cuenta en su oferta de empleo. Soy una persona dinámica con facilidad de aprendizaje y experiencia de trabajo en grupo así como también en varias otras tareas relacionadas a mi profesión, tales como tener personal a cargo, mantenimiento, producción, calidad, proceso, entre otras tareas. Espero poder ampliar en una entrevista laboral.
+Saludos cordiales.
+
+ <br>Security_code : pk3ww
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.46.28.172<br>
+ <br>REF : Ing. quim
+ <br>Nombre : Marcos
+ <br>Apellido : Schloymann
+ <br>Cargo : Ing. quim
+ <br>Direccion : Av. San Juan 1490
+ <br>Ciudad : Capital Federal
+ <br>Telefono : 	1169819735
+ <br>Email : marcosschloymann@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas tardes, 
+Les envío mi CV y datos personales para ser tenido en cuenta en su oferta de empleo. Soy una persona dinámica con facilidad de aprendizaje y experiencia de trabajo en grupo así como también en varias otras tareas relacionadas a mi profesión, tales como tener personal a cargo, mantenimiento, producción, calidad, proceso, entre otras tareas. Espero poder ampliar en una entrevista laboral.
+Saludos cordiales.
+
+ <br>Security_code : gfphf
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.91.131.0<br>
+ <br>REF : ROT-1
+ <br>Nombre : Darli
+ <br>Apellido : Boza
+ <br>Cargo : Dibujante
+ <br>Direccion : Humboldt 387
+ <br>Ciudad : buenos aire
+ <br>Telefono : 01123950574
+ <br>Email : bozadar@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : saludo 
+ <br>Security_code : 2m2kh
+ <br>Send : Enviar
+ <br>
+---------------
+

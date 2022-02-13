@@ -1,0 +1,32 @@
+Address : 200.114.178.120
+REF : gerente-de-operaciones
+Nombre : Natalia Gabriela
+Apellido : Ingrassia
+Cargo : RR.HH
+Direccion : Bolivia 4816 dto F
+Ciudad : Buenos Aires
+Telefono : 4574-2447
+Email : nataliaingrassia@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me interesaria cualquier tipo de posicion en el area de recursos humanos.
+Security_code : 9m9hy
+Send : Enviar
+
+---------------
+
+Address : 186.136.143.198
+Nombre : Lorena
+Apellido : Marasciuolo
+Cargo : Recepcionista,Telefonista
+Direccion : Amenabar 1444 P12 Dpto D
+Ciudad : Capital Federal
+Telefono : 4785-1711
+Email : lolynm@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Les hago llegar mis datos personales y profesionales en Currículum Vitae a fin de ser tenida en cuenta como candidata.
+Muchas Gracias
+Security_code : jpr9r
+Send : Enviar
+
+---------------
+

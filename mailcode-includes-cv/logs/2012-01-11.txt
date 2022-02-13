@@ -1,0 +1,17 @@
+Address : 190.50.176.229
+Nombre : Norberto Gustavo
+Apellido : Fuentes
+Cargo : capataz, sobrestante, jefe de obra
+Direccion : Gualeguaychu 1846
+Ciudad : Ciudadela
+Telefono : (011) 4653-2494 / (0221)156-106-394 
+Email : norberto.fuentes@live.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Envio mi Cv, atento a ser tenido en cuenta para ocupar alguno de los cargos a los que me postulo. 
+Desde ya, muchas gracias.
+Atte. Norberto Fuentes.
+Security_code : x6cyf
+Send : Enviar
+
+---------------
+

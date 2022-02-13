@@ -1,0 +1,12 @@
+Address : 190.18.137.28
+Nombre : Patricia
+Apellido : Dotta
+Empresa : La Casa Hostal de Medio Camino SRL
+Telefono : 15-54954492
+Email : patricia_dotta@yahoo.com.ar
+Mensaje : Dirijo una institución para pacientes psiquiátricos y la ART pide un servicio de higiene y seguridad. Solicito asesoramiento, por favor. Gracias.
+Security_code : yzmtn
+Send : Enviar
+
+---------------
+

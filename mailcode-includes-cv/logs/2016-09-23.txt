@@ -1,0 +1,64 @@
+Address : 190.230.243.165<br>
+ <br>Nombre : JOSE ANTONIO
+ <br>Apellido : ROMAN
+ <br>Cargo : operario o empleado
+ <br>Direccion : mafalda gilli
+ <br>Ciudad : villa maria
+ <br>Telefono : 353-154774709
+ <br>Email : saidangelroman@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : le dejo mi curriculum, desde ya muchas gracias.
+ <br>Security_code : ng5v2
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.141.200.192<br>
+ <br>Nombre : Augusto
+ <br>Apellido : Bouvier
+ <br>Cargo : Responsable de oficina tecnica
+ <br>Direccion : Bolivia 2424
+ <br>Ciudad : Lujan
+ <br>Telefono : 0111541635984
+ <br>Email : Augustbouvier@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas tardes, queria postularme por la busqueda de un Responsable de Oficina Tecnica. Actualmente me desempeño como Responsable de Diseño en Samet s.a (bandejas portacables).
+Muchas gracias.
+ <br>Security_code : Crpsx
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.141.200.192<br>
+ <br>Nombre : Augusto
+ <br>Apellido : Bouvier
+ <br>Cargo : Responsable de oficina tecnica
+ <br>Direccion : Bolivia 2424
+ <br>Ciudad : Lujan
+ <br>Telefono : 0111541635984
+ <br>Email : Augustbouvier@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas tardes, queria postularme por la busqueda de un Responsable de Oficina Tecnica. Actualmente me desempeño como Responsable de Diseño en Samet s.a (bandejas portacables).
+Muchas gracias.
+ <br>Security_code : crpsx
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.46.206.130<br>
+ <br>Nombre : Brian
+ <br>Apellido : Theiler
+ <br>Cargo : Asistente, atencion al cliente
+ <br>Direccion : Ayacucho 702
+ <br>Ciudad : CABA
+ <br>Telefono : 3424227892
+ <br>Email : brian_theiler@yahoo.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola, adjunto CV, muchas gracias por la respuesta!
+
+Saludos.
+ <br>Security_code : vdnbj
+ <br>Send : Enviar
+ <br>
+---------------
+

@@ -1,0 +1,46 @@
+Address : 186.138.193.28<br>
+ <br>Nombre : juan
+ <br>Apellido : Thomas
+ <br>Cargo : tecnico en seguridad e higiene
+ <br>Direccion : manuel quintana, 1956
+ <br>Ciudad : quilmes
+ <br>Telefono : 1164438631
+ <br>Email : juanthomas10@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : me gustaría trabajar con ustedes y adquirir experiencia 
+ <br>Security_code : wb95z
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 188.143.232.70<br>
+ <br>Nombre : Barnypok
+ <br>Apellido : 359551
+ <br>Cargo : VFTSUHBqEkviwXszRl
+ <br>Direccion : IfRahzgDFyByGUOJ
+ <br>Ciudad : NY
+ <br>Telefono : 23096213743
+ <br>Email : jfvynms4281rt@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : 5kcd1z http://www.FyLitCl7Pf7ojQdDUOLQOuaxTXbj5iNG.com
+ <br>Security_code : Uy98H
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.18.102.207<br>
+ <br>REF : EP-1
+ <br>Nombre : Luis
+ <br>Apellido : Bolivar
+ <br>Cargo : Encargado de Produccion
+ <br>Direccion : Cafferata 550
+ <br>Ciudad : Rosario
+ <br>Telefono : 1131923736
+ <br>Email : luisebolivarg@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Ingeniero Químico con experiencia en industrias de consumo masivo, abarcando roles de investigación, producción y calidad. Capacidad de liderar grupos de trabajo, rápido aprendizaje, buen desempeño bajo presión y actitud positiva. Poseo experiencia en fabricación de bebidas alcohólicas y carbonatadas, inspección de materia prima, análisis químicos, auditorías BPM y HACCP y control de proveedores externos. Además, cuento con conocimientos en campos de Ingeniería tales como Investigación y desarrollo de nuevos productos, mercadeo, productos petroquímicos y detergentes, calificado como auditor interno ISO 9001:2015. Con capacidad de reubicación en toda la Argentina.
+ <br>Security_code : mhzdt
+ <br>Send : Enviar
+ <br>
+---------------
+

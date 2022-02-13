@@ -1,0 +1,207 @@
+Address : 191.82.18.233
+Nombre : DAMIAN
+Apellido : MONZONCILLO
+Cargo : supervisor jefe o director
+Direccion : MONTGOLFIER 5326 
+Ciudad : MORENO
+Telefono : 0111157128209
+Email : endamon2011@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Gracias por tenerme en cuenta en sus busquedas activas saludos.
+Security_code : XWWKM
+Send : Enviar
+
+---------------
+
+Address : 191.82.18.233
+Nombre : DAMIAN
+Apellido : MONZONCILLO
+Cargo : supervisor jefe o director
+Direccion : MONTGOLFIER 5326 
+Ciudad : MORENO
+Telefono : 0111157128209
+Email : endamon2011@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Gracias por tenerme en cuenta en sus busquedas activas saludos.
+Security_code : xwwkm
+Send : Enviar
+
+---------------
+
+Address : 181.229.181.128
+Nombre : carlos  osvaldo
+Apellido : montanari
+Cargo : jefe de fabrica-gerente-jefe de taller
+Direccion : mariano moreno 5536
+Ciudad : caseros
+Telefono : 1155960945
+Email : carlos.montanari@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : amplia experiencia 
+en dirección de planta como manejo de personal
+10 años en Distintas empresas en SAN PABLO
+Security_code : d4ddh
+Send : Enviar
+
+---------------
+
+Address : 200.68.64.253
+Nombre : VICTOR MOISES
+Apellido : MENESES
+Cargo : informatica
+Direccion : MONTEVIDEO 362
+Ciudad : BUENOS AIRES
+Telefono : 1128231112
+Email : VICMEN17@GMAIL.COM
+MAX_FILE_SIZE : 2097152
+Mensaje : SOPORTE TECNICO; VENDEDOR
+Security_code : DSZ9Z
+Send : Enviar
+
+---------------
+
+Address : 200.68.64.253
+Nombre : VICTOR MOISES
+Apellido : MENESES DURAN
+Cargo : informatica
+Direccion : MONTEVIDEO 362
+Ciudad : BUENOS AIRES
+Telefono : 1128231112
+Email : VICMEN17@GMAIL.COM
+MAX_FILE_SIZE : 2097152
+Mensaje : SOPORTE TECNICO, VENDEDOR
+Security_code : jyvdk
+Send : Enviar
+
+---------------
+
+Address : 190.203.13.3
+Nombre : josue anibal
+Apellido : zamora gonzalez
+Cargo : radiadorista
+Direccion : venezuela edo. miranda guarenas
+Ciudad : miranda venezuela
+Telefono : 04142136734
+Email : josueanibalzamora@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Desarrollar mi formación y experiencia en una empresa que ofrezca perspectivas y promoción profesional, ganas de superación  
+Security_code : 74yg7
+Send : Enviar
+
+---------------
+
+Address : 181.44.45.215
+Nombre : Daniel
+Apellido : Lize
+Cargo : administrativo- contable
+Direccion : Pueyrredon 677
+Ciudad : Buenos Aires
+Telefono : 20466442
+Email : cronosgs@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : les agradeceria tenerme en cuenta para algun puesto de trabajo.-
+desde ya muchas gracias
+Security_code : szqhv
+Send : Enviar
+
+---------------
+
+Address : 186.129.12.32
+REF : GTEP
+Nombre : Adrián
+Apellido : Martínez
+Cargo : Gernete de producción
+Direccion : Portela 501
+Ciudad : Caba
+Telefono : 1556440552
+Email : martinezfalchini@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Señores, les adjunto currículum personal y laboral para ser considerado en vuestra búsqueda de gerente de producción. Vale una aclaración en cuanto a experiencia en industria alimenticia que sí la tengo pero es previa a las expuestas en currículum.
+Sin otro particular los saludo atentamente
+Security_code : apxg3
+Send : Enviar
+
+---------------
+
+Address : 186.129.12.32
+REF : GTEP
+Nombre : Adrián
+Apellido : Martínez
+Cargo : Gernete de producción
+Direccion : Portela 501
+Ciudad : Caba
+Telefono : 1556440552
+Email : martinezfalchini@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Señores, les adjunto currículum personal y laboral para ser considerado en vuestra búsqueda de gerente de producción. Vale una aclaración en cuanto a experiencia en industria alimenticia que sí la tengo pero es previa a las expuestas en currículum.
+Sin otro particular los saludo atentamente
+Security_code : spxg3
+Send : Enviar
+
+---------------
+
+Address : 186.129.12.32
+REF : GTEP
+Nombre : Adrián
+Apellido : Martínez
+Cargo : Gernete de producción
+Direccion : Portela 501
+Ciudad : Caba
+Telefono : 1556440552
+Email : martinezfalchini@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Señores, les adjunto currículum personal y laboral para ser considerado en vuestra búsqueda de gerente de producción. Vale una aclaración en cuanto a experiencia en industria alimenticia que sí la tengo pero es previa a las expuestas en currículum.
+Sin otro particular los saludo atentamente
+Security_code : zp47m
+Send : Enviar
+
+---------------
+
+Address : 186.135.73.144
+REF : OEL
+Nombre : hector
+Apellido : chavez
+Cargo : oficial electricista
+Direccion : zelada 5788
+Ciudad : gonzalez catan
+Telefono : 02202457219
+Email : chavezh70@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : soy pro activo prolijo y responsable con mi trabajo me gusta lo que hago
+Security_code : mn7yr
+Send : Enviar
+
+---------------
+
+Address : 181.44.17.18
+Nombre : matias jose
+Apellido : avalos
+Cargo : operario 
+Direccion : monroe 1625
+Ciudad : buenos aires, pablo nogues
+Telefono : 1167944151
+Email : majo77pro@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : sres.recursos humanos.
+les envio mi CV para postularme a algun puesto acorde a mi experiencia.
+ desde ya muchas gracias.
+Security_code : p6qhd
+Send : Enviar
+
+---------------
+
+Address : 181.29.74.86
+Nombre : Catalina
+Apellido : Colombini
+Cargo : administrativa, diseño, at. al publico
+Direccion : Del Candil 3299
+Ciudad : Buenos Aires
+Telefono : 1160322976
+Email : cata.colombini@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola me comunico para postularme, y poder formar arte de su equipo de trabajo.
+Security_code : rjphx
+Send : Enviar
+
+---------------
+

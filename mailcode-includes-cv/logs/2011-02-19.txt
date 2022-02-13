@@ -1,0 +1,15 @@
+Address : 24.232.113.162
+Nombre : VERONICA ANDREA
+Apellido : ARANA
+Cargo : Administración / Logistica y distribución
+Direccion : AGUIAR 62
+Ciudad : CAMPANA
+Telefono : 03489 15 562884
+Email : veanar@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Busqueda laboral en GBA Norte
+Security_code : 32sK4
+Send : Enviar
+
+---------------
+

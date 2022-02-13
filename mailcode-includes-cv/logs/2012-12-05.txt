@@ -1,0 +1,30 @@
+Address : 186.182.144.244
+Nombre : Gonzalo
+Apellido : Alonso
+Cargo : Jefe Area IT, Sistemas,Informática o similar
+Direccion : Rio Cuarto 2892
+Ciudad : Mendoza
+Telefono : 261 155781382
+Email : alonso.gonzaloadrian@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenas tardes, por este medio envío CV. Sin mas lo saludo atentamente
+Security_code : qwh3y
+Send : Enviar
+
+---------------
+
+Address : 181.46.39.96
+Nombre : Maria Soledad
+Apellido : Gallego
+Cargo : Calidad
+Direccion : Lavalle 531
+Ciudad : Bernal
+Telefono : 0111551786857
+Email : sol
+MAX_FILE_SIZE : 2097152
+Mensaje : Envio mi Cv con motivo de postularme a busquedas acordes a mi perfil
+Security_code : mnk9r
+Send : Enviar
+
+---------------
+

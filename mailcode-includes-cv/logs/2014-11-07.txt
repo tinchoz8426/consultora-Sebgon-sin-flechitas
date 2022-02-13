@@ -1,0 +1,61 @@
+Address : 181.110.47.51
+Nombre : julia yolanda
+Apellido : VIO
+Cargo : trabajadora social
+Direccion : pueyrredon 
+Ciudad : apostoles
+Telefono : 03758-154897893 y 03758 421179
+Email : juliavio@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : quisiera que me tengan en cuenta para cumplir tareas en zona capital de misiones asi como tambien depto apostoles.
+Security_code : qknwj
+Send : Enviar
+
+---------------
+
+Address : 190.30.83.42
+Nombre : Solana 
+Apellido : Martinini
+Cargo : secretaria
+Direccion : Av. Republica del Libano 939
+Ciudad : San Miguel de Tucumán
+Telefono : (0381) 154734818
+Email : solmartinini.90@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenos días, mi nombre es Solana Martinini, tengo 23 años, soy de Tucumán, Argentina, y estoy buscando empleo. En este e-mail adjunto mi Curriculum Vitae. Espero que puedan ayudarme. Muchas gracias.
+Security_code : swdm7
+Send : Enviar
+
+---------------
+
+Address : 181.168.114.75
+Nombre : Yesica Soledad
+Apellido : Canales
+Cargo : Atención Al publico
+Direccion : las lajas 47
+Ciudad : Plottier
+Telefono : (0299) 155153132
+Email : yesi_canales@hotmail.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenas tardes. Aqui les dejo mi curriculum Vitae. Desde ya muchas gracias!
+Security_code : 8nx9p
+Send : Enviar
+
+---------------
+
+Address : 200.32.13.90
+Nombre : VIVIANA MONICA
+Apellido : NUÑEZ
+Cargo : GERENTE DE ADMINISTRACION Y FINANZAS
+Direccion : DONADO 3198
+Ciudad : CABA
+Telefono : 1554677414
+Email : vncarrizo@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto envio CV.
+
+Security_code : 7xbsf
+Send : Enviar
+
+---------------
+

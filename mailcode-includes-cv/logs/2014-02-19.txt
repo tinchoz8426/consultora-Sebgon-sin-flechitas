@@ -1,0 +1,168 @@
+Address : 186.13.4.204
+Nombre : Franco José
+Apellido : Cassataro
+Cargo : Abogado recién recibido
+Direccion : Pasaje corel 839,1f. Barrio Alberdi
+Ciudad : Córdoba
+Telefono : 0351153297866
+Email : Franco_Cassataro@hotmail.com
+
+---------------
+
+Address : 186.13.4.204
+Nombre : Franco José
+Apellido : Cassataro
+Cargo : Abogado recién recibido
+Direccion : Pasaje corel 839,1f. Barrio Alberdi
+Ciudad : Córdoba
+Telefono : 0351153297866
+Email : Franco_Cassataro@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Soy un abogado recién recibido de la U.N.C que busca la oportunidad de comenzar a ejercer la práctica del derecho.
+Security_code : q53fd
+Send : Enviar
+
+---------------
+
+Address : 190.16.157.184
+Nombre : Franco
+Apellido : Vulcano
+Cargo : Atencion al publico
+Direccion : Sarmiento 343 
+Ciudad : Bahia Blanca
+Telefono : 02921493218
+Email : fran715@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Quisiera conseguir un trabajo estable para solventar gastos a mi familia. 
+Security_code : y392f
+Send : Enviar
+
+---------------
+
+Address : 190.49.220.180
+Nombre : paula
+Apellido : gomez
+Cargo : administrativa/recepcionista
+Direccion : defensa 868
+Ciudad : buenos aires
+Telefono : 1568680414
+Email : paula_cinthia@hotmail.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Estoy en la búsqueda de un empleo de administrativa, recepcionista, cadete administrativo. desde ya muchas gracias. 
+paula gomez
+Security_code : zknzw
+Send : Enviar
+
+---------------
+
+Address : 181.164.41.37
+Nombre : Maria Belen
+Apellido : Lorenzo
+Cargo : Empleada
+Direccion : O'higgins 2368
+Ciudad : Lanus
+Telefono : 1562208489
+Email : mariabelenlorenzo-@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto Curriculum Vitae para tener en cuenta en futuras búsquedas.
+Security_code : vx2dn
+Send : Enviar
+
+---------------
+
+Address : 200.89.154.83
+Nombre : Ana Cecilia
+Apellido : Quiros
+Cargo : Ingenieria Quimica
+Direccion : Ecuador 1568 3A
+Ciudad : Cap fed
+Telefono : 1522387164
+Email : anacecilia.quiros@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : EStimados, envio mi cv para ver si hay algun empleo que coincida con mi perfil. Desde ya muchas gracias.
+Saludos Cordiales
+Ing Ana Quiros
+Security_code : 99cpp
+Send : Enviar
+
+---------------
+
+Address : 181.1.89.101
+Nombre : Yolanda
+Apellido : Gonzalez
+Cargo : Comprador
+Direccion : Caññe 103 Nro 8420
+Ciudad : Loma Hermosa - San Martin
+Telefono : 15 4416 5279
+Email : yol.gonzalez@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto mi CV para que sea considerado en sus busquedas.
+Atte.
+Yolanda Gonzalez
+Security_code : 75pzw
+Send : Enviar
+
+---------------
+
+Address : 186.22.209.136
+Nombre : Elizabeth Nahir
+Apellido : RAHOLIN
+Cargo : Administrativo
+Direccion : De la Democracia 2350
+Ciudad : Lomas del Mirador Partido La Matanza
+Telefono : 1566872555
+Email : elizabethraholin@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me dirijo a ustedes a fin de elevar mi C.V con el propósito  de cubrir alguna vacante o necesidad de trabajo existente en el departamento a cargo.
+Me considero una persona responsable y comprometida con el trabajo, sé integrarme al grupo de trabajo, tengo espíritu de colaboración, se trabajar en equipo en pos del proyecto institucional, me siento cómoda organizando y planificando mis tareas, se adaptarme a los cambios que puedan surgir en la rutina diaria de trabajo.
+
+Security_code : c9hqy
+Send : Enviar
+
+---------------
+
+Address : 181.164.41.37
+Nombre : Maria Belen
+Apellido : Lorenzo
+Cargo : Empleada
+Direccion : O'higgins 2368
+Ciudad : Lanus
+Telefono : 1562208489
+Email : mariabelenlorenzo-@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto Curriculum Vitae para tener en cuenta en futuras búsquedas.
+Security_code : vx2dn
+Send : Enviar
+
+---------------
+
+Address : 181.164.41.37
+Nombre : Maria Belen
+Apellido : Lorenzo
+Cargo : Empleada
+Direccion : O'higgins 2368
+Ciudad : Lanus
+Telefono : 1562208489
+Email : mariabelenlorenzo-@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto Curriculum Vitae para tener en cuenta en futuras búsquedas.
+Security_code : r5ygq
+Send : Enviar
+
+---------------
+
+Address : 181.164.41.37
+Nombre : Maria Belen
+Apellido : Lorenzo
+Cargo : Empleada
+Direccion : O'higgins 2368
+Ciudad : Lanus
+Telefono : 1562208489
+Email : mariabelenlorenzo-@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto Curriculum Vitae para tener en cuenta en futuras búsquedas.
+Security_code : 2pxgz
+Send : Enviar
+
+---------------
+

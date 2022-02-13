@@ -1,0 +1,94 @@
+Address : 181.171.15.115<br>
+ <br>Nombre : Gustavo
+ <br>Apellido : Campoamor
+ <br>Cargo : Jefe de Deposito/Logistica
+ <br>Direccion : San Nicolas 5184
+ <br>Ciudad : Ciudad Autonoma de BsAs
+ <br>Telefono : 1155129351
+ <br>Email : campoamor1712@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me encuentro en una búsqueda laboral activa y estoy necesitando reinsertarme en el mercado en relación de dependencia.
+ <br>Security_code : n8mjq
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.23.199.34<br>
+ <br>REF : TE-1
+ <br>Nombre : Sebastián
+ <br>Apellido : SWIDZISKI
+ <br>Cargo : Técnico Electrónico / Mantenimiento Predictivo
+ <br>Direccion : Anatole France 1527
+ <br>Ciudad : Lanus
+ <br>Telefono : 011 6923-7848
+ <br>Email : swidzinskis@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : sería de mi agrado me concedan una entrevista. Desde ya muchas gracias.
+ <br>Security_code : ktfj6
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.23.199.34<br>
+ <br>REF : TE-1
+ <br>Nombre : Sebastián
+ <br>Apellido : SWIDZISKI
+ <br>Cargo : Técnico Electrónico / Mantenimiento Predictivo
+ <br>Direccion : Anatole France 1527
+ <br>Ciudad : Lanus
+ <br>Telefono : 011 6923-7848
+ <br>Email : swidzinskis@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : sería de mi agrado me concedan una entrevista. Desde ya muchas gracias.
+ <br>Security_code : kftj6
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.23.199.34<br>
+ <br>REF : TE-1
+ <br>Nombre : Sebastián
+ <br>Apellido : SWIDZISKI
+ <br>Cargo : Técnico Electrónico / Mantenimiento Predictivo
+ <br>Direccion : Anatole France 1527
+ <br>Ciudad : Lanus
+ <br>Telefono : 011 6923-7848
+ <br>Email : swidzinskis@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : sería de mi agrado me concedan una entrevista. Desde ya muchas gracias.
+ <br>Security_code : kftj6
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.23.199.34<br>
+ <br>REF : TE-1
+ <br>Nombre : Sebastián
+ <br>Apellido : SWIDZISKI
+ <br>Cargo : Técnico Electrónico / Mantenimiento Predictivo
+ <br>Direccion : Anatole France 1527
+ <br>Ciudad : Lanus
+ <br>Telefono : 011 6923-7848
+ <br>Email : swidzinskis@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : sería de mi agrado me concedan una entrevista. Desde ya muchas gracias.
+ <br>Security_code : n9mcb
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 191.84.175.223<br>
+ <br>Nombre : MARIA LAURA
+ <br>Apellido : AIANI
+ <br>Cargo : VISITADORA DOMICILIARIA
+ <br>Direccion : MURATURE 3236
+ <br>Ciudad : RAFAEL CALZADA
+ <br>Telefono : 4219-4110
+ <br>Email : mariaaiani@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Les envió mi cv, soy visitadora para la Consultora DM desde 3/2016 para Zona Sur y CABA. Soy Monotributista. Estoy   a su disposición .
+ <br>Security_code : 5t4pb
+ <br>Send : Enviar
+ <br>
+---------------
+

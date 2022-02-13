@@ -1,0 +1,335 @@
+Address : 190.175.211.92<br>
+ <br>Nombre : Julián Ernesto 
+ <br>Apellido : Salazar 
+ <br>Cargo : Vendedor
+ <br>Direccion : 41 n 1871
+ <br>Ciudad : Miramar
+ <br>Telefono : 2291412490
+ <br>Email : juliane_salazar@hotmail.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Posibilidad de cambio de residencia
+ <br>Security_code : Vx4gp
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.19.69.224<br>
+ <br>Nombre : Angelica Maria
+ <br>Apellido : Pacheco Marval
+ <br>Cargo : Ingeniero
+ <br>Direccion : Julián Álvarez 1894, Palermo
+ <br>Ciudad : Capital Federal
+ <br>Telefono : 1130516206
+ <br>Email : angelicapm1993@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas Tardes,
+
+Por favor encuentren adjunto mi resumen curricular, soy una joven profesional con ganas de avanzar y abierta a nuevos desafíos,
+
+Saludos,
+ <br>Security_code : s5396
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.22.34.203<br>
+ <br>REF : chr
+ <br>Nombre : Hernan Mariano
+ <br>Apellido : Contino
+ <br>Cargo : chofer de reparto
+ <br>Direccion : Mentruyt 1406
+ <br>Ciudad : Banfield
+ <br>Telefono : 39640746
+ <br>Email : hernancontino@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : desearia formar pate del staff de vuestra empresa desde ya muchas gracias
+ <br>Security_code : wsdmz
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.25.215.211<br>
+ <br>REF : chr
+ <br>Nombre : Javier Horacio
+ <br>Apellido : p
+ <br>Cargo : Chofer
+ <br>Direccion : Rene Favaloro 703
+ <br>Ciudad : Luis Guillon
+ <br>Telefono : 1164065401
+ <br>Email : javier.pierandrey@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me siento capacitado para ocupar ese puesto de trabajo
+ <br>Security_code : Kybyt
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.25.215.211<br>
+ <br>REF : chr
+ <br>Nombre : Javier Horacio
+ <br>Apellido : p
+ <br>Cargo : Chofer
+ <br>Direccion : Rene Favaloro 703
+ <br>Ciudad : Luis Guillon
+ <br>Telefono : 1164065401
+ <br>Email : javier.pierandrey@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me siento capacitado para ocupar ese puesto de trabajo
+ <br>Security_code : mqbn7
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.244.69.73<br>
+ <br>REF : chr
+ <br>Nombre : Nicolas 
+ <br>Apellido : Dellisola 
+ <br>Cargo : Chofer
+ <br>Direccion : Profesor Castagna 5185
+ <br>Ciudad : Hurlingham
+ <br>Telefono : 1556604161
+ <br>Email : nicolasdellisola@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Busco trabajo de chofer de camiones. 
+ <br>Security_code : 6qbcr
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.244.69.73<br>
+ <br>REF : chr
+ <br>Nombre : Nicolas 
+ <br>Apellido : Dellisola 
+ <br>Cargo : Chofer
+ <br>Direccion : Profesor Castagna 5185
+ <br>Ciudad : Hurlingham
+ <br>Telefono : 1556604161
+ <br>Email : nicolasdellisola@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Busco trabajo de chofer de camiones. 
+ <br>Security_code : 6qbcr
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.244.69.73<br>
+ <br>REF : chr
+ <br>Nombre : Nicolas 
+ <br>Apellido : Dellisola 
+ <br>Cargo : Chofer
+ <br>Direccion : Profesor Castagna 5185
+ <br>Ciudad : Hurlingham
+ <br>Telefono : 1556604161
+ <br>Email : nicolasdellisola@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Busco trabajo de chofer de camiones. 
+ <br>Security_code : 6qbcr
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.244.69.73<br>
+ <br>REF : chr
+ <br>Nombre : Nicolas 
+ <br>Apellido : Dellisola 
+ <br>Cargo : Chofer
+ <br>Direccion : Profesor Castagna 5185
+ <br>Ciudad : Hurlingham
+ <br>Telefono : 1556604161
+ <br>Email : nicolasdellisola@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Busco trabajo de chofer de camiones. 
+ <br>Security_code : p959t
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.244.69.73<br>
+ <br>REF : chr
+ <br>Nombre : Nicolas 
+ <br>Apellido : Dellisola 
+ <br>Cargo : Chofer
+ <br>Direccion : Profesor Castagna 5185
+ <br>Ciudad : Hurlingham
+ <br>Telefono : 1556604161
+ <br>Email : nicolasdellisola@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Busco trabajo de chofer de camiones. 
+ <br>Security_code : hghdc
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.18.69.108<br>
+ <br>REF : chr
+ <br>Nombre : Aldo Andrés
+ <br>Apellido : Briosso
+ <br>Cargo : Chofer 
+ <br>Direccion : Combate de los pozos 1541
+ <br>Ciudad : Bs as 
+ <br>Telefono : 1530345521
+ <br>Email : Anyt_hyj@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Chofer para reparto
+ <br>Security_code : 25pcf
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.51.39.101<br>
+ <br>REF : chr
+ <br>Nombre : Lucas Matías
+ <br>Apellido : Tarzetti
+ <br>Cargo : Chófer
+ <br>Direccion : 155 N547 
+ <br>Ciudad : Berazategui
+ <br>Telefono : 1136755144
+ <br>Email : lorenzomariacecilia@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me gustaría trabajar con ustedes tengo registro profesional
+ <br>Security_code : Yk9js
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.51.39.101<br>
+ <br>REF : chr
+ <br>Nombre : Lucas Matías
+ <br>Apellido : Tarzetti
+ <br>Cargo : Chófer
+ <br>Direccion : 155 N547 
+ <br>Ciudad : Berazategui
+ <br>Telefono : 1136755144
+ <br>Email : lorenzomariacecilia@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me gustaría trabajar con ustedes tengo registro profesional
+ <br>Security_code : Yk9js
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.130.41.25<br>
+ <br>Nombre : martin gaston
+ <br>Apellido : nuñez
+ <br>Cargo : chofer
+ <br>Direccion : aristizabal  480
+ <br>Ciudad : hurlinghan
+ <br>Telefono : 1533930638
+ <br>Email : gaston_martin@outlook.es
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : gaston
+ <br>Security_code : 5f7v3
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.130.41.25<br>
+ <br>Nombre : martin gaston
+ <br>Apellido : nuñez
+ <br>Cargo : chofer
+ <br>Direccion : aristizabal  480
+ <br>Ciudad : hurlinghan
+ <br>Telefono : 1533930638
+ <br>Email : gaston_martin@outlook.es
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : gaston
+ <br>Security_code : 5f7v3
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.130.41.25<br>
+ <br>Nombre : martin gaston
+ <br>Apellido : nuñez
+ <br>Cargo : chofer
+ <br>Direccion : aristizabal  480
+ <br>Ciudad : hurlinghan
+ <br>Telefono : 1533930638
+ <br>Email : gaston_martin@outlook.es
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : gaston
+ <br>Security_code : 5f7v3
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.130.41.25<br>
+ <br>Nombre : martin gaston
+ <br>Apellido : nuñez
+ <br>Cargo : chofer
+ <br>Direccion : aristizabal  480
+ <br>Ciudad : hurlinghan
+ <br>Telefono : 1533930638
+ <br>Email : gaston_martin@outlook.es
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : gaston
+ <br>Security_code : 5f7v3
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.10.34.151<br>
+ <br>REF : JPER-1
+ <br>Nombre : GUSTAVO
+ <br>Apellido : ITURRIAGA
+ <br>Cargo : JEFE DE PERSONAL
+ <br>Direccion : CURUZU CUATIA 2438
+ <br>Ciudad : CABA
+ <br>Telefono : 1150564088
+ <br>Email : gustavoi@vapahc.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Les agradecere me tengan en cuenta para esta busqueda o futuras.
+Saludos cordiales.
+ <br>Security_code : yjbpv
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.50.238.167<br>
+ <br>REF : chr
+ <br>Nombre : eduardo rodolfo
+ <br>Apellido : thom
+ <br>Cargo : chofer de reparto
+ <br>Direccion : 28 n 3863
+ <br>Ciudad : Berazategui
+ <br>Telefono : 42581444
+ <br>Email : eduthom2016@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : por medio de este mje quiero agradeserles el que me tengan en cuenta para cualquier tarea a realizar que tenga que ver con logistica y distribucion,desde ya muchas gracias   Eduardo.
+ <br>Security_code : nt5zp
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.105.126.204<br>
+ <br>REF : chr
+ <br>Nombre : Diego Hernan
+ <br>Apellido : Coman
+ <br>Cargo : Chofer de reparto
+ <br>Direccion : H.G.Martin
+ <br>Ciudad : Pilar
+ <br>Telefono : 0230-448-9154
+ <br>Email : diego77gero@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Dejo aquí mi CV para postularme al puesto de chofer de reparto saludos cordiales, atentamente: Diego Hernán Coman
+ <br>Security_code : dws6z
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.105.126.204<br>
+ <br>REF : chr
+ <br>Nombre : Diego Hernan
+ <br>Apellido : Coman
+ <br>Cargo : Chofer de reparto
+ <br>Direccion : H.G.Martin
+ <br>Ciudad : Pilar
+ <br>Telefono : 0230-448-9154
+ <br>Email : diego77gero@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Dejo aquí mi CV para postularme al puesto de chofer de reparto saludos cordiales, atentamente: Diego Hernán Coman
+ <br>Security_code : dws6z
+ <br>Send : Enviar
+ <br>
+---------------
+

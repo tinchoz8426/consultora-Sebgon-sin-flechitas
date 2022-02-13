@@ -1,0 +1,145 @@
+Address : 190.50.9.140<br>
+ <br>Nombre : cecilia
+ <br>Apellido : cardoso
+ <br>Cargo : empleada de comercio
+ <br>Direccion : vernier 782
+ <br>Ciudad : buenos aires
+ <br>Telefono : 42973364
+ <br>Email : ceci_longchamps@hotmail.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : hola estoy buscando empleo tengo 36 años
+ <br>Security_code : 29 hqf
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 170.51.41.142<br>
+ <br>Nombre : Jesus Alexis
+ <br>Apellido : Graczyk
+ <br>Cargo : operario
+ <br>Direccion : Solís 2689
+ <br>Ciudad : Rosario
+ <br>Telefono : 3413438061
+ <br>Email : jesusalexisgraczyk@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : A quien corresponda
+ <br>Security_code : xygrw
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.124.20.102<br>
+ <br>REF : EP-1
+ <br>Nombre : HILDER CLAUDIO
+ <br>Apellido : ADUM
+ <br>Cargo : ENCARGADO DE PRODUCCION
+ <br>Direccion : QUIROGA 54
+ <br>Ciudad : CAMPANA
+ <br>Telefono : 03489512614
+ <br>Email : hilder.claudio.adum@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Tengo una amplia experiencia en el manejo de personal, manejo de conflictos, preparación de planes de trabajo. Tengo mucho interes en el puesto
+ <br>Security_code : 6vsjy
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.124.20.102<br>
+ <br>REF : EP-1
+ <br>Nombre : HILDER CLAUDIO
+ <br>Apellido : ADUM
+ <br>Cargo : ENCARGADO DE PRODUCCION
+ <br>Direccion : QUIROGA 54
+ <br>Ciudad : CAMPANA
+ <br>Telefono : 03489512614
+ <br>Email : hilder.claudio.adum@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Tengo una amplia experiencia en el manejo de personal, manejo de conflictos, preparación de planes de trabajo. Tengo mucho interes en el puesto
+ <br>Security_code : 6vsjy
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.124.29.36<br>
+ <br>REF : ACO-1
+ <br>Nombre : Ignacio German
+ <br>Apellido : Eyheremendy
+ <br>Cargo : Analista de Comercio Internacional
+ <br>Direccion : General Pueyrredon 850
+ <br>Ciudad : San Isidro
+ <br>Telefono : +5491151574076
+ <br>Email : nacho_ey@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas tardes,
+Envio mi CV para el puesto de Analista de Comercio Internacional que se encuentra ofertado en su pagina
+Muchas Gracias
+ <br>Security_code : 6vxwf
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.62.69.143<br>
+ <br>REF : EP-1
+ <br>Nombre : Isabel 
+ <br>Apellido : Briones
+ <br>Cargo : ENCARGADO DE PRODUCCIÓN - Buenos Aires
+ <br>Direccion : Champagnat 243
+ <br>Ciudad : Mar del Plata
+ <br>Telefono : 2236183562
+ <br>Email : brionesisabel@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Es de mi total interés me siento capacitada para tomar la responsabilidad y lograr el éxito esperado. Atte Isabel  Briones.
+ <br>Security_code : cq27c
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 200.127.47.141<br>
+ <br>Nombre : Andy 
+ <br>Apellido : Valbuena
+ <br>Cargo : Ejecutivo de Ventas & Logistica
+ <br>Direccion : Montevideo, 67, Balvanera
+ <br>Ciudad : Buenos Aires, Caba.
+ <br>Telefono : 1123718717
+ <br>Email : andy2val@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buen día.
+   Mis intereses se orientan a ocupar un cargos de analista/ejecutivo de ventas & Logística en la industria comerciando tecnología, servicios y materias primas, B2B, pipeline de ventas o atención al cliente ya que cuento con un perfil técnico para darle cauce a las necesidades del cliente con las soluciones que ofertamos.
+
+ <br>Security_code : y86rr
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 200.127.47.141<br>
+ <br>Nombre : Andy 
+ <br>Apellido : Valbuena Romero
+ <br>Cargo : Ejecutivo de Ventas & Logistica
+ <br>Direccion : Montevideo, 67, Balvanera
+ <br>Ciudad : Buenos Aires, Caba.
+ <br>Telefono : 1123718717
+ <br>Email : andy2valbuena@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buen día.
+   Mis interés se orientan a ocupar oportunidades laborales como analista o ingeniero de procesos y control de procesos; en industria, refinería o planta química, implementando el pensamiento crítico, la interpretación de tendencias en la realización de mantenimientos preventivos y correctivos que permitan garantizar el cumplimiento de las operaciones y eludir los escenarios adversos.
+ <br>Security_code : y86rr
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 200.127.47.141<br>
+ <br>Nombre : Andy 
+ <br>Apellido : Valbuena Romero
+ <br>Cargo : Ejecutivo de Ventas & Logistica
+ <br>Direccion : Montevideo, 67, Balvanera
+ <br>Ciudad : Buenos Aires, Caba.
+ <br>Telefono : 1123718717
+ <br>Email : andy2valbuena@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buen día.
+   Mis interés se orientan a ocupar oportunidades laborales como analista o ingeniero de procesos y control de procesos; en industria, refinería o planta química, implementando el pensamiento crítico, la interpretación de tendencias en la realización de mantenimientos preventivos y correctivos que permitan garantizar el cumplimiento de las operaciones y eludir los escenarios adversos.
+ <br>Security_code : 2wp5g
+ <br>Send : Enviar
+ <br>
+---------------
+

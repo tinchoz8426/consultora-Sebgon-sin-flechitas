@@ -1,0 +1,94 @@
+Address : 186.59.54.118
+Nombre : Pablo Angel
+Apellido : Moreno
+Cargo : Gerente, Mando medio o Ingeniero
+Direccion : Buenos Vecinos 1846 Rodeo de la Cruz
+Ciudad : Guaymallén, Mendoza
+Telefono : 0261-153538794
+Email : pabloangelmoreno@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Tengo el agrado de dirigirme a Uds. para hacerle llegar mi currículo vitae, con el fin de que puedan considerarlo en sus futuras búsquedas de personal. 
+Security_code : n686h
+Send : Enviar
+
+---------------
+
+Address : 190.229.150.2
+REF : administrativo-logistica
+Nombre : Leonardo 
+Apellido : Kubiszyn
+Cargo : Aministrativo
+Direccion : Urquiza 321
+Ciudad : Campana
+Telefono : 03489 431197
+Email : l.damian@live.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Solicito que me informen donde es la entrevista y para que lado es el trabajo
+Security_code : wsgbx
+Send : Enviar
+
+---------------
+
+Address : 190.175.66.60
+Nombre : Sergio luis
+Apellido : Martinez
+Cargo : Repositor
+Direccion : Tartagal m1 lote8 
+Ciudad : Merlo
+Telefono : 02204870090
+Email : yoser1981@hotmail.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Tambien me postulo a bachero ou operario
+Security_code : 4zz3c
+Send : Enviar
+
+---------------
+
+Address : 186.58.141.233
+Nombre : JAVIER
+Apellido : OLIVERA
+Cargo : OPERARIO 
+Direccion : ÑANDUBAY 654
+Ciudad : EZEIZA
+Telefono : 1560309961
+Email : JAVIER_OLIVERA@LIVE.COM
+MAX_FILE_SIZE : 2097152
+Mensaje : voluntad ganas de trabajar responsabilidad 
+Security_code : 82scg
+Send : Enviar
+
+---------------
+
+Address : 190.246.61.166
+Nombre : Candela 
+Apellido : Iglesias
+Cargo : Psicóloga
+Direccion : French 54
+Ciudad : Ramos Mejía
+Telefono : 1536810458
+Email : mcipsicologia@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola, Soy Candela Iglesias. Adjunto el CV para así se evalúe la posibilidad de ser parte del staff.
+Desde ya, muchas gracias.
+Saludos
+Security_code : yytqs
+Send : Enviar
+
+---------------
+
+Address : 190.247.91.51
+Nombre : Guido
+Apellido : Petrolo
+Cargo : Gerente de Producción
+Direccion : Av. Dorrego 2621
+Ciudad : CABA
+Telefono : 1541819294
+Email : guido_petrolo@ciudad.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Envío Cv para que se tenga en cuenta para alguna búsqueda acorde a mi perfil. 
+Gracias.
+Security_code : qy3bt
+Send : Enviar
+
+---------------
+

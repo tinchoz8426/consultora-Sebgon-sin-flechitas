@@ -1,0 +1,140 @@
+Address : 190.51.126.248
+Nombre : Carolina
+Apellido : Martins
+Cargo : Asistente de RR.HH
+Direccion : Paraíso 1515
+Ciudad : Haedo - Buenos Aires
+Telefono : 1558872154 // 4659-0223
+Email : carolinamartins90@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : A quien corresponda,
+Mi nombre es Carolina Martins y soy estudiante de la carrera Licenciatura en Relaicones Públicas de la Universidad de La Matanza.
+Tengo 20 años y actualmente estoy cursando el 3º año de la carrera, de la cual tengo aprobadas 22 materias de un total de 39 (19 materias aprobadas por promoción directa y 3 en instancia final).
+Me interesaría que me tengan en cuenta para cualquier puesto vacante, tengo intenciones de aprender y crecer personal y profesionalmente.
+
+Desde ya muchisimas gracias.
+
+Atte. Carolina Martins
+Security_code : b8wrs
+Send : Enviar
+
+---------------
+
+Address : 190.51.126.248
+Nombre : Carolina
+Apellido : Martins
+Cargo : Asistente de RR.HH
+Direccion : Paraíso 1515
+Ciudad : Haedo - Buenos Aires
+Telefono : 1558872154 // 4659-0223
+Email : carolinamartins90@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : A quien corresponda:
+Mi nombre es Carolina Martins, tengo 20 años y soy estudiante de la carrera Licenciatura en Relaciones Públicas en la Universidad Nacional de La Matanza. Actualmente estoy cursando el 3º año de la carrera, tengo aprobadas 22 materias de un total de 39 (19 aprobadas por promoción directa y sólo 3 en instancias de final) y estoy a una materia de recibir el título intermedio Analista en Relaciones Públicas.
+Me interesaría que me tengan en cuenta ya que estoy predispuesta a aprender y crecer personal y profesionalmente.
+
+Desde ya muchas gracias.
+
+Atte. Carolina Martins
+Security_code : m6rjx
+Send : Enviar
+
+---------------
+
+Address : 200.117.133.84
+Nombre : Agustina
+Apellido : Gomez
+Cargo : Administracion-RRHH
+Direccion : Paso de Uspallata 2078
+Ciudad : Cordoba
+Telefono : 0351-152386389
+Email : aaguss.-@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estoy interesada en puestos administrativos o de RRHH. Muchas Gracias.
+Security_code : zvnnr
+Send : Enviar
+
+---------------
+
+Address : 190.224.205.197
+Nombre : Maria Pia
+Apellido : Lubrina
+Cargo : Recursos Humanos
+Direccion : Balcarce 324 7 A
+Ciudad : Rosario
+Telefono : 0341 153697557
+Email : pilu06@hotmail-com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimandos, les envio mi cv para formar parte de las futuras busquedas laborales. Muchas Gracias!
+Security_code : 65s8s
+Send : Enviar
+
+---------------
+
+Address : 190.18.117.51
+REF : adper
+Nombre : matias
+Apellido : kodama
+Cargo : administrativo
+Direccion : azcuenaga 1541
+Ciudad : capital
+Telefono : 57790968
+Email : matiaskodama@fibertel.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Me dirijo a ustedes alos fines de remitirles mi CV. Saludos cordiales.
+Security_code : jdcqc
+Send : Enviar
+
+---------------
+
+Address : 189.178.239.30
+REF : adper
+Nombre : Raul Eduardo
+Apellido : Aranda Rodríguez
+Cargo : Administrativo de Personal
+Direccion : Yacatas 373-4
+Ciudad : Mexico, D.F.
+Telefono : 01 55 5536 9479
+Email : raulearandar@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estoy muy interesado en la posición ofertada.
+Gracias
+Security_code : bkdks
+Send : Enviar
+
+---------------
+
+Address : 200.115.210.121
+Nombre : María Cristina
+Apellido : Raggi López
+Cargo : Analista RRHH
+Direccion : Carlos Croce 1740
+Ciudad : Banfield
+Telefono : 4248-5795 / 1541931903
+Email : craggilopez@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto mis datos personales, para una posible Búsqueda Laboral dentro de la Consultora.
+Security_code : 62nxw
+Send : Enviar
+
+---------------
+
+Address : 186.19.221.170
+Nombre : Soledad
+Apellido : Fernandez
+Cargo : Administrativo
+Direccion : Av.Directorio 596
+Ciudad : Capital Federal
+Telefono : 1549733148
+Email : soledadf85@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Aqui les envio mi Cv.espero pronta respuesta, y queda a su disposicion para una entrevista.
+
+saluda atte.
+
+Soledad Fernandez.
+Security_code : j4m5g
+Send : Enviar
+
+---------------
+

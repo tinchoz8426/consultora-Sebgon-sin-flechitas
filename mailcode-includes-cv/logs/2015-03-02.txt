@@ -1,0 +1,122 @@
+Address : 190.196.238.245
+Nombre : Silvana
+Apellido : Barral
+Cargo : Lic. Trabajo Social
+Direccion : Albanesi 146
+Ciudad : Roque Pérez
+Telefono : 02227 15485262
+Email : chykybarral@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola me encuentro en la búsqueda de trabajo. deseo aclarar que estaría dispuesta a viajar si el puesto es de mi interés. Gracias
+Security_code : 55nyv
+Send : Enviar
+
+---------------
+
+Address : 190.189.128.74
+Nombre : Mónica Dolly
+Apellido : Nochetti
+Cargo : Secretaria, recepcionista, atención al cliente, telemarketer, ventas.
+Direccion : Bolívar 2812 8º B
+Ciudad : Mar del Plata
+Telefono : 223-5752140
+Email : m0ni__@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola!! Actualmente estoy trabajando en un estudio jurídico, hace un poco más de tres años; pero la idea es cambiar de trabajo ya que siento que no tengo mucho más para dar donde estoy, quiero aprender cosas nuevas, conocer otro grupo de gente, en fin.. cambiar de ambiente. Muchas gracias!!! Saludos.
+Security_code : r7hxk
+Send : Enviar
+
+---------------
+
+Address : 181.165.247.10
+Nombre : Natalia
+Apellido : Nicolini
+Cargo : Área de comunicación 
+Direccion : 6 n° 1414
+Ciudad : La Plata
+Telefono : 4834374
+Email : nicolininatalia@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola, mi nombre es Natalia Nicolini y soy una reciente Licenciada en Comunicación Social, y Profesora también en Comunicación Social. Me gradué en diciembre de este año de ambas carreras en la Universidad Nacional de La Plata. 
+Por medio de este mail quería dejarles mi CV ya que me interesa trabajar en la empresa. Desde ya muchas gracias.
+¡Saludos!
+Security_code : 4zvwm
+Send : Enviar
+
+---------------
+
+Address : 186.138.245.237
+Nombre : Eliana Ayelen 
+Apellido : Rosa
+Cargo : Recepcionista
+Direccion : Artigas 396
+Ciudad : Ituzaingo, Buenos Aires
+Telefono : 1554667399
+Email : eliana_ayelen_rosa@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Espero su respuesta
+Security_code : tz8j8
+Send : Enviar
+
+---------------
+
+Address : 186.136.208.218
+Nombre : Sofia Laura
+Apellido : Battaglini
+Cargo : legales
+Direccion : arregui 2852
+Ciudad : ciudad autónoma de Buenos Aires
+Telefono : 1549739401
+Email : slbattaglini@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Soy estudiante de abogacía en los últimos años y busco trabajo relacionado a mi carrera. Quedo a su disposición. 
+Security_code : c6cgq
+Send : Enviar
+
+---------------
+
+Address : 186.136.208.218
+Nombre : Sofia Laura
+Apellido : Battaglini
+Cargo : legales
+Direccion : arregui 2852
+Ciudad : ciudad autónoma de Buenos Aires
+Telefono : 1549739401
+Email : slbattaglini@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Soy estudiante de abogacía en los últimos años y busco trabajo relacionado a mi carrera. Quedo a su disposición. 
+Security_code : c6cgq
+Send : Enviar
+
+---------------
+
+Address : 186.136.208.218
+Nombre : Sofia Laura
+Apellido : Battaglini
+Cargo : legales
+Direccion : arregui 2852
+Ciudad : ciudad autónoma de Buenos Aires
+Telefono : 1549739401
+Email : slbattaglini@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Soy estudiante de abogacía en los últimos años y busco trabajo relacionado a mi carrera. Quedo a su disposición. 
+Security_code : c6cgp
+Send : Enviar
+
+---------------
+
+Address : 186.136.208.218
+Nombre : Sofia Laura
+Apellido : Battaglini
+Cargo : legales
+Direccion : arregui 2852
+Ciudad : ciudad autónoma de Buenos Aires
+Telefono : 1549739401
+Email : slbattaglini@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Soy estudiante de abogacía y estoy en la búsqueda de trabajos relacionados a mi carrera. Quedo a su disposición. 
+Security_code : fqy69
+Send : Enviar
+
+---------------
+

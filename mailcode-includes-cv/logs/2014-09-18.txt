@@ -1,0 +1,125 @@
+Address : 200.123.46.204
+Nombre : carolina guadalupe
+Apellido : rodriguez
+Cargo : administrativo
+Direccion : pje rodriguez 5435
+Ciudad : santa fe
+Telefono : 0342-154677041
+Email : carolagrodriguez@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenos días
+Adjunto cv, soy de Santa Fe y estoy buscando un trabajo administrativo.Gracias
+Security_code : bghv8
+Send : Enviar
+
+---------------
+
+Address : 74.82.68.144
+REF : ADMINISTRATIVO-DE-LOGISTICA
+Nombre : Nicolas
+Apellido : Amaya
+Cargo : Administrativo de Logistica
+Direccion : Chassaing 739
+Ciudad : Pehuajo
+Telefono : 02342-15451639
+Email : nicolasm.amaya@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buen dia
+        Estoy interesado en el puesto que esta vacante. Saludos
+Security_code : pp5dz
+Send : Enviar
+
+---------------
+
+Address : 201.250.80.16
+Nombre : mirta
+Apellido : garay
+Cargo : operario en limpieza
+Direccion : av,escalada 1817
+Ciudad : capital
+Telefono : 1569626859
+Email : meg9596@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : En mi trayectoria laboral me he desempeñado con dedicación y esmero a las tareas encomendadas.
+Desde ya agradezco su atención y cuento con su próxima y positiva respuesta.
+Security_code : 396yd
+Send : Enviar
+
+---------------
+
+Address : 200.49.206.194
+Nombre : Mariana Yamila
+Apellido : Mansilla
+Cargo : Administrativa
+Direccion : villarroel 1.430
+Ciudad : Virrey del Pino
+Telefono : 1158356245
+Email : mariany.mansilla@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Muchas gracias por la posibilidad.h
+Security_code : hk2rr
+Send : Enviar
+
+---------------
+
+Address : 200.49.206.194
+Nombre : Mariana Yamila
+Apellido : Mansilla
+Cargo : Administrativa
+Direccion : villarroel 1.430
+Ciudad : Virrey del Pino
+Telefono : 1158356245
+Email : mariany.mansilla@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Muchas gracias por la posibilidad.
+Security_code : hk2rr
+Send : Enviar
+
+---------------
+
+Address : 181.95.102.230
+Nombre : Fabián
+Apellido : Ferrari
+Cargo : Cualquiera que este disponible
+Direccion : Maria Asunta 3435
+Ciudad : San Martin
+Telefono : 1552497650
+Email : rock.fabi@hotmail.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola, le envio mi cv para trabajar en cualquier puesto que tengan disponible.
+Muchas Gracias.
+Security_code : k292d
+Send : Enviar
+
+---------------
+
+Address : 201.235.248.6
+Nombre : Barbara
+Apellido : Peuvrel
+Cargo : Administrativo
+Direccion : Terrero 3263 11 A
+Ciudad : Capital Federal
+Telefono : 45824018
+Email : peuvrelbarbara@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me gustaria ser parte de su staff. 
+Security_code : 8yhx9
+Send : Enviar
+
+---------------
+
+Address : 190.138.38.61
+Nombre : Yamila
+Apellido : Couselo
+Cargo : Secretaría-administrativa-Telefonista-recepcionista-
+Direccion : general lavalle 8880
+Ciudad : buenos aires. Loma hermosa
+Telefono : (011)1526362632
+Email : yamila.couselo@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Muchas gracias , por su  tiempo y dedicación desde ya voy a estar agradecida con ustedes!
+Security_code : d9yxb
+Send : Enviar
+
+---------------
+

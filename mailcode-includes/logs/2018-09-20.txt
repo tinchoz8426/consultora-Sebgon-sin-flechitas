@@ -1,0 +1,12 @@
+Address : 66.249.85.7
+ <br>Nombre : Joaquín 
+ <br>Apellido : barainca
+ <br>Empresa : guardia 
+ <br>Telefono : 1544074100
+ <br>Email : Joaquín_barainca@yahoo.com.ar
+ <br>Mensaje : buenas tardes. quisiera averiguar el precio de una capacitacion para 6 personas sobre liderazgo y motivación y de cuanta carga horaria es
+ <br>Security_code : k2hrs
+ <br>Send : Enviar
+ <br>
+---------------
+

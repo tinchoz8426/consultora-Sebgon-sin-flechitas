@@ -1,0 +1,83 @@
+Address : 190.55.205.36
+Nombre : Florencia
+Apellido : Lage
+Cargo : Secretaria, Recepcion
+Direccion : av de los incas 4195
+Ciudad : buenos aires
+Telefono : 45511622
+Email : lage.florencia@live.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : me considero una persona proactiva, con ganas de trabajar y crecer laboralmente.
+Security_code : gdhmt
+Send : Enviar
+
+---------------
+
+Address : 190.173.76.226
+REF : jefe-de-garantia-de-calidad
+Nombre : AXEL
+Apellido : LARES
+Cargo : CADETE
+Direccion : ZEINNY 1648
+Ciudad : BUENOS AIRES
+Telefono : 46363560
+Email : AXEL_1210@HOTMAIL.COM
+MAX_FILE_SIZE : 2097152
+Mensaje : ESTOY DISPUESTO A TRABAJAR CON MUCHA RESPONSABILIDAD.
+Security_code : bcgcy
+Send : Enviar
+
+---------------
+
+Address : 190.55.34.177
+Nombre : florencia
+Apellido : rinaldi
+Cargo : Vendedora
+Direccion : nazca
+Ciudad : buenos aires
+Telefono : 35310116
+Email : florenciarinaldi.04@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola les envio mi curriculum vitae. Espero poder conseguir algun tipo de trabajo. Desde ya muchas gracias !
+Security_code : q9j65
+Send : Enviar
+
+---------------
+
+Address : 186.128.34.142
+Nombre : daniel
+Apellido : gonzalez
+Cargo : seguridad
+Direccion : B° covirpol mza E
+Ciudad : Las Heras Mendoza
+Telefono : 261 155874145
+Email : da_3009@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : tecnico en seguridad publica
+Security_code : 7byk6
+Send : Enviar
+
+---------------
+
+Address : 190.194.93.93
+Nombre : Teresa
+Apellido : Del Río
+Cargo : Asistente/Administrativa/Legales
+Direccion : Piovano 2511
+Ciudad : Castelar sur
+Telefono : 15-33486151
+Email : teresa_delrio_tt@hotmail.com
+
+---------------
+
+Address : 190.194.93.93
+Nombre : Teresa
+Apellido : Del Río
+Cargo : Asistente/Administrativa/Legales
+Direccion : Piovano 2511
+Ciudad : Castelar sur
+Telefono : 15-33486151
+Email : teresa_delrio_tt@hotmail.com
+
+---------------
+

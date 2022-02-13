@@ -1,0 +1,30 @@
+Address : 190.247.154.123
+Nombre : fernando
+Apellido : podesta
+Cargo : OPERADOR AGENCIA MARITIMA, OPERADOR PORTUARIO, NAVIERA
+Direccion : VITO DUMAS 200
+Ciudad : TIGRE
+Telefono : 1557552010
+Email : PODESTAMASTER@YAHOO.COM.AR
+MAX_FILE_SIZE : 2097152
+Mensaje : BUSCO EMPLEO EN AGENCIA MARITIMA, TERMINAL PORTUARIA, COMPANIA MARITIMA, LOGISTICA, RELACIONES EXTERIORES
+Security_code : V3XSB
+Send : Enviar
+
+---------------
+
+Address : 190.182.242.254
+Nombre : mario javier
+Apellido : pino
+Cargo : TECNICO SyHL
+Direccion : JUAN ESTEBAN 147
+Ciudad : EL CALAFATE
+Telefono : 0291155086181
+Email : mariojavierp@hotmail.es
+MAX_FILE_SIZE : 2097152
+Mensaje : QUEDO A VUESTRA DISPOSICION
+Security_code : MXP3V
+Send : Enviar
+
+---------------
+

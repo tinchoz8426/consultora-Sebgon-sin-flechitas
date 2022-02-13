@@ -1,0 +1,30 @@
+Address : 181.28.158.64
+Nombre : Andres
+Apellido : Lo Bianco
+Cargo : Area de Marketing
+Direccion : Billinghurst 2380. Piso 1 Dpto A
+Ciudad : Capital Federal
+Telefono : 1536695505
+Email : andreslobianco@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto mi CV con el objetivo de participar en futuras busquedas para el area de Marketing.
+Security_code : x35x2
+Send : Enviar
+
+---------------
+
+Address : 190.246.213.114
+Nombre : rafael
+Apellido : aragon
+Cargo : tecnico en seguridad e higiene
+Direccion : garibaldi 595
+Ciudad : bahia blanca
+Telefono : 2914713906
+Email : rafacvm@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : queria preguntarles si necesiban alguno para trabajar!! les dejo mi curriculum!! desde ya..muchas gracias!!
+Security_code : 8k3hq
+Send : Enviar
+
+---------------
+

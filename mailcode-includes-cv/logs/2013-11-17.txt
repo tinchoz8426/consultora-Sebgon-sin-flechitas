@@ -1,0 +1,111 @@
+Address : 
+Nombre : Juan Carlos Donato
+Apellido : Ragone
+Cargo : administrativo
+Direccion : 9 de julio 1191 primer piso dpto 1
+Ciudad : cordoba
+Telefono : 0351152347549
+Email : juanforever_1@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : desde ya muchas gracias
+Security_code : d96vb
+Send : Enviar
+
+---------------
+
+Address : 
+Nombre : Juan Carlos Donato
+Apellido : Ragone
+Cargo : administrativo
+Direccion : 9 de julio 1191 primer piso dpto 1
+Ciudad : cordoba
+Telefono : 0351152347549
+Email : juanforever_1@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : desde ya muchas gracias
+Security_code : d96vb
+Send : Enviar
+
+---------------
+
+Address : 
+Nombre : Melina
+Apellido : Alescio
+Cargo : Selectora de Personal
+Direccion : Jose Andres Pacheco de Melo 1934
+Ciudad : Capital Federal
+Telefono : 1530984935
+Email : melinaalescio@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados,
+Me encuentro en búsqueda laboral. Soy Lic. en psicología y tengo experiencia en rrhh, parte soft en empresa de 5200 empleados. Desde ya me encuentro a disposición para un puesto vacante.
+
+Muchas Gracias.
+Saludos,
+
+Melina A.
+Security_code : z7m33
+Send : Enviar
+
+---------------
+
+Address : 
+Nombre : cesar
+Apellido : cirilo
+Cargo : RESPONSABLE 
+Direccion : libertad 472 - Alejandro Korn 
+Ciudad : San Vicente - Buenos  Aires
+Telefono : 02225 -  423051
+Email : cesarcirilo45@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenas  tardes, envió en el siguiente adjunto  el presente  Curriculum  Vitae en el se detalla mi experiencia  laboral  así como mi grado de instrucción.
+Security_code : qdz4w
+Send : Enviar
+
+---------------
+
+Address : 
+Nombre : cesar
+Apellido : cirilo
+Cargo : RESPONSABLE 
+Direccion : libertad 472 - Alejandro Korn 
+Ciudad : San Vicente - Buenos  Aires
+Telefono : 02225 -  423051
+Email : cesarcirilo45@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Envió en el siguiente  adjunto el presente curriculum vitae
+Security_code : 3gvck
+Send : Enviar
+
+---------------
+
+Address : 
+Nombre : cyntia analia
+Apellido : muñoz
+Cargo : cajera, atencion al publico
+Direccion : b 12 de junio mh casa 15
+Ciudad : las heras
+Telefono : 2616486989
+Email : ana24munoz@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : me gustaria trabajar de cajera y atencion al publico ya q tengo experiencia en este rubro
+Security_code : gq5h7
+Send : Enviar
+
+---------------
+
+Address : 
+Nombre : cyntia analia
+Apellido : muñoz
+Cargo : cajera, atencion al publico
+Direccion : b 12 de junio mh casa 15
+Ciudad : las heras
+Telefono : 2616486989
+Email : ana24munoz@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : me gustaria trabajar de cajera y atencion al publico ya q tengo experiencia en este rubro
+Security_code : ndg7b
+Send : Enviar
+
+---------------
+

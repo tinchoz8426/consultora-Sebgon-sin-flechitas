@@ -1,0 +1,92 @@
+Address : 190.30.52.200
+Nombre : Maria
+Apellido : Meyer
+Cargo : Vendedora
+Direccion : pelikan 460
+Ciudad : Rosario
+Telefono : 3415053065
+Email : sol_lp@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me encuentro en la busqueda de trabajo en la cuidad de rosario.
+Security_code : 2z35k
+Send : Enviar
+
+---------------
+
+Address : 186.124.234.206
+Nombre : Maximiliano David
+Apellido : Yñiguez
+Cargo : Agente de Propaganda Mëdica
+Direccion : M. Candioti 4140
+Ciudad : Santo tome
+Telefono : 0342 4838409
+Email : madalo11@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : hola, adjunto mi cv para poder ingresar en su base de datos. cualquier  duda lo consulta respecto a los datos quedo a su disposición de aclarárselas. desde ya muchas gracias. Slds
+Security_code : ddy2c
+Send : Enviar
+
+---------------
+
+Address : 186.56.169.186
+Nombre : Laura Cecilia
+Apellido : Heugas
+Cargo : Recursos Humanos
+Direccion : Scalabrini Ortiz 859
+Ciudad : San Antonio de Padua
+Telefono : 0220 4829637
+Email : lau_heugas@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenas tardes, les adjunto mi CV para actuales y/o futuras búsquedas.
+Muchas gracias. Saludos cordiales,
+Laura
+Security_code : qvrpp
+Send : Enviar
+
+---------------
+
+Address : 186.123.135.10
+Nombre : lorena
+Apellido : machinandiarena
+Cargo : ingeniera agronoma
+Direccion : alberdi 1110
+Ciudad : Junin
+Telefono : 02355-15486700
+Email : lolavasca@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : no tengo problemas de trasladarme a otra zona.
+Security_code : pd8wv
+Send : Enviar
+
+---------------
+
+Address : 186.123.135.10
+Nombre : lorena
+Apellido : machinandiarena
+Cargo : ingeniera agronoma
+Direccion : alberdi 1110
+Ciudad : Junin
+Telefono : 02355-15486700
+Email : lolavasca@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : no tengo problema de trasladarme a otra zona
+Security_code : f75p4
+Send : Enviar
+
+---------------
+
+Address : 190.227.154.19
+Nombre : Débora Jessica
+Apellido : Trione
+Cargo : Administrativo
+Direccion : Llavallol 2442
+Ciudad : Capital Federal
+Telefono : 1533185047
+Email : debitrione@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : -
+Security_code : 4jdcv
+Send : Enviar
+
+---------------
+

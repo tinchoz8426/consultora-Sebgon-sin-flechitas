@@ -1,0 +1,73 @@
+Address : 186.18.79.17
+Nombre : Santiago
+Apellido : Garmendia Rosso
+Cargo : operario de deposito / empleado administrativo
+Direccion : sarandi 40 4° G
+Ciudad : ciudad autonoma de buenos aires
+Telefono : (0221)15-5675785
+Email : sgarmendiarosso@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : envio mi Curriculum vitae para ingresarlo a su base de datos por si mi perfil encaja con alguna de sus busquedas laborales, desde ya muchas gracias.
+Security_code : q7jr4
+Send : Enviar
+
+---------------
+
+Address : 201.250.14.225
+Nombre : Pablo
+Apellido : Puglia
+Cargo : Presentación Espontánea
+Direccion : Lima 1141
+Ciudad : Capital Federal
+Telefono : 1562793096
+Email : pablopuglia@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto mi CV para que pueda ser evaluado.
+Saludos
+Security_code : vm6hn
+Send : Enviar
+
+---------------
+
+Address : 190.183.196.31
+Nombre : Paula
+Apellido : Ciarrocca
+Cargo : Masajista- Auxiliar de Jardín Infantes
+Direccion : Brasil 1371
+Ciudad : Paraná
+Telefono : (343)154729548
+Email : paulaciarrocca@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenas Tardes: me postulo para diferentes puesto. Ojalá sea tenida en cuenta. Gracias.
+Security_code : fyv77
+Send : Enviar
+
+---------------
+
+Address : 179.39.43.31
+Nombre : MARICEL
+Apellido : CORREA
+Cargo : ATENCION AL CLIENTE/ SOCIO/ RECEPCION/ ADMINISTRACION/ BACKOFFICE/COBRANZAS.‏
+Direccion : Magallanes N°4641
+Ciudad : QUILMES O.
+Telefono : 42001154/ 15 3916-7896
+Email : angelguardian22@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados: 
+
+     Me pongo en contacto con Uds. para hacerle llegar mi currículo con mis datos personales, experiencia profesional y otros datos útiles, por si necesitan cubrir, ahora o en el futuro, un puesto en el área de ATENCION AL CLIENTE, RECEPCION, ADMINISTRACION, BACKOFFICE Y COBRANZAS.     
+     Por mi formación y experiencia me considero capacitada para desempeñar las funciones y tareas en dichos puestos, ya que he realizado trabajos semejantes en empresas nacionales e internacionales, tal como se describe en el currículum que adjunto. Asimismo, mis estudios en Comunicación Social realizados en la Universidad de Buenos Aires me aportaron los conocimientos necesarios para poder desarrollar mis tareas con solidez.
+     Solicito a Uds. evalúen la posibilidad de mantener una entrevista para ampliar aspectos de mi perfil.
+     Quedo a su disposición, esperando recibir noticias suyas.
+
+
+MARICEL CORREA
+Te: (011) 4200 - 1154
+Celular: 15 3916-7896
+Email: angelguardian22@hotmail.com
+
+Security_code : jp7qq
+Send : Enviar
+
+---------------
+

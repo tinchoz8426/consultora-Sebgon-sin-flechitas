@@ -1,0 +1,12 @@
+Address : 66.249.85.28
+ <br>Nombre : marcos alejandro 
+ <br>Apellido : navarro
+ <br>Empresa : nuevo plastisud
+ <br>Telefono : 2604545124
+ <br>Email : fabi.zoe.9415@gimal.com
+ <br>Mensaje : hola yo mande mi curriculo si pueden responder ..desde ya gracias
+ <br>Security_code : thdx3
+ <br>Send : Enviar
+ <br>
+---------------
+

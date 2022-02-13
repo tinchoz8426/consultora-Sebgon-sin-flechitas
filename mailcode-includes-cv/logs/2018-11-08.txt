@@ -1,0 +1,240 @@
+Address : 190.231.108.35<br>
+ <br>Nombre : Nicolás gustavo
+ <br>Apellido : sierra
+ <br>Cargo : cualquier cargo 
+ <br>Direccion : villa mareano moreno calle 8 y5 las talitas 
+ <br>Ciudad : san Miguel de tucuman 
+ <br>Telefono : 3814484868
+ <br>Email : Nicolás Gustavo sierra@gmail. com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Busco empleo fuy repositor de Super tengo conocimientos de mercaderia rotación vencimientos presentación de la misma. Manejo de dinero buena precensia exelente atencion al publico 
+ <br>Security_code : 3y4mn
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.62.16.233<br>
+ <br>Nombre : paola
+ <br>Apellido : Larrosa
+ <br>Cargo : atencion al publico
+ <br>Direccion : Ecuador 1795
+ <br>Ciudad : Mar del plata
+ <br>Telefono : 2236008376
+ <br>Email : paolalarrosa86@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : en busca de trabajo
+ <br>Security_code : y3g5z
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.143.198.107<br>
+ <br>Nombre : Jose
+ <br>Apellido : Trop
+ <br>Cargo : Médico clinico, Gerontólogo 
+ <br>Direccion : Donado 353Bis
+ <br>Ciudad : Rosario 
+ <br>Telefono : 3412010431
+ <br>Email : joseatrop@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : CV: Médico Geriatra, Gerontología 2zmxh
+ <br>Security_code : 2zmxh
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.137.175.92<br>
+ <br>Nombre : Miguel
+ <br>Apellido : Parodi
+ <br>Cargo : Seguridad e Higiene
+ <br>Direccion : Rawson 2396
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 47947839
+ <br>Email : parodimiguel67@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Mis expectativas son desarrollarme efectivamente en mi puesto de trabajo y crecer dentro del área, llegando a asumir mayores responsabilidades a la par de obtener mayores beneficios
+ <br>Security_code : t4srf
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.137.175.92<br>
+ <br>Nombre : Miguel
+ <br>Apellido : Parodi
+ <br>Cargo : Seguridad e Higiene
+ <br>Direccion : Rawson 2396
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 47947839
+ <br>Email : parodimiguel67@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados, les envio mi CV. Desde ya muchas gracias
+Miguel
+
+ <br>Security_code : fffz8
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.169.88.109<br>
+ <br>REF : ROT-1
+ <br>Nombre : Emiliano
+ <br>Apellido : Barba
+ <br>Cargo : Responsable de Oficina Técnica
+ <br>Direccion : Vergara 4526
+ <br>Ciudad : Florida Oeste
+ <br>Telefono : 1560553142
+ <br>Email : emilianobarba@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buen dia
+
+Adjunto mi CV por la búsqueda de Responsable de Oficina Técnica
+
+Muchas gracias
+ <br>Security_code : tscgj
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.166.159.236<br>
+ <br>Nombre : GISELA PAOLA
+ <br>Apellido : GOMEZ
+ <br>Cargo : Jefa de RRHH
+ <br>Direccion : SAN NICOLAS 2194
+ <br>Ciudad : BUENOS AIRES
+ <br>Telefono : 4881302
+ <br>Email : gisela.p.gomez@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas Tardes , mando adjunto mi cv , para que se tenga en cuenta. 
+desde ya muchas gracias por su tiempo.
+saludos.
+ <br>Security_code : YDF9W
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.166.159.236<br>
+ <br>Nombre : GISELA PAOLA
+ <br>Apellido : GOMEZ
+ <br>Cargo : Jefa de RRHH
+ <br>Direccion : SAN NICOLAS 2194
+ <br>Ciudad : BUENOS AIRES
+ <br>Telefono : 4881302
+ <br>Email : gisela.p.gomez@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas Tardes , mando adjunto mi cv , para que se tenga en cuenta. 
+desde ya muchas gracias por su tiempo.
+saludos.
+ <br>Security_code : YDF9W
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.119.69.58<br>
+ <br>REF : ROT-1
+ <br>Nombre : Diego Fernando
+ <br>Apellido : Chavez
+ <br>Cargo : Producción
+ <br>Direccion : rafael, 1180
+ <br>Ciudad : BELLA VISTA (CP=1661)
+ <br>Telefono : 1155280930
+ <br>Email : diegotb060312@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Quiero formar parte de su equipo
+ <br>Security_code : p7n3j
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.11<br>
+ <br>Nombre : Silvia paola
+ <br>Apellido : Sosa
+ <br>Cargo : limpieza
+ <br>Direccion : Manzana 58 casa 3 la huerta barrio angelelli2
+ <br>Ciudad : Córdoba capital
+ <br>Telefono : 3512716252
+ <br>Email : Silviapaolasosa082@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Busco trabajo urgente soy responsable y aprendo rápido en todo
+ <br>Security_code : 8cxt7
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.104.221.139<br>
+ <br>REF : EP-1
+ <br>Nombre : Anabel Carolina 
+ <br>Apellido : Monzón
+ <br>Cargo : Encargada de producción
+ <br>Direccion : Punta Alta 110
+ <br>Ciudad : Lomas de Zamora
+ <br>Telefono : 42854185
+ <br>Email : monzonanabel@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Soy una persona responsable y capaz de cumplir en el puesto de trabajo que necesitan.
+ <br>Security_code : tw98f
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.104.221.139<br>
+ <br>REF : EP-1
+ <br>Nombre : Anabel Carolina 
+ <br>Apellido : Monzón
+ <br>Cargo : Encargada de producción
+ <br>Direccion : Punta Alta 110
+ <br>Ciudad : Lomas de Zamora
+ <br>Telefono : 42854185
+ <br>Email : monzonanabel@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Soy una persona responsable y capaz de cumplir en el puesto de trabajo que necesitan.
+ <br>Security_code : bj34r
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 45.7.97.227<br>
+ <br>REF : Ing. quim
+ <br>Nombre : Julia
+ <br>Apellido : Oggero
+ <br>Cargo : Jefa de procesos Industriales
+ <br>Direccion : Hipólito Irigoyen 2669
+ <br>Ciudad : Santa Fe
+ <br>Telefono : 3425481067
+ <br>Email : oggerojulia@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Actualmente resido en Santa Fe Capital pero no tendría problema alguno para realizar un cambio de residencia.
+ <br>Security_code : dxzbb
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.29.174.192<br>
+ <br>Nombre : Naira Tamara 
+ <br>Apellido : Villagra Romero
+ <br>Cargo : Personal de limpieza
+ <br>Direccion : Correa de lemos 2296
+ <br>Ciudad : Cordoba
+ <br>Telefono : 3513420111
+ <br>Email : Tamara11041995@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estoy en busqueda de empleo soy una persona super activa. Responsable y se adaptarme a cualquier empleo
+ <br>Security_code : Zc7qg
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.46.36.43<br>
+ <br>Nombre : jorge sebastian
+ <br>Apellido : oviedo
+ <br>Cargo : limpieza
+ <br>Direccion : perna 1576
+ <br>Ciudad : benavidez
+ <br>Telefono : 1122569420
+ <br>Email : Susana-agustina@Outlook.comneces
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Necesito el trabajo X ffabor.gracias
+ <br>Security_code : z397n
+ <br>Send : Enviar
+ <br>
+---------------
+

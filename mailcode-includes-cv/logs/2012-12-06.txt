@@ -1,0 +1,62 @@
+Address : 190.111.214.45
+Nombre : Erika Judith
+Apellido : Marco
+Cargo : Lic Alimentos
+Direccion : Del Barco Centenera 847 8B
+Ciudad : CABA
+Telefono : 011 1557179999
+Email : erikamarco@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenos días, soy Licenciada en Ciencia y Tecnología de los Alimentos, realicé un Master de Calidad Alimentaria en Madrid y quisiera postularme al puesto de Ing Alimentos publicado el 19/11. Quedo a su disposición para ampliar los datos de mi cv. Saludos cordiales
+Security_code : 6msgm
+Send : Enviar
+
+---------------
+
+Address : 190.174.15.54
+Nombre : Federico
+Apellido : Almaraz
+Cargo : Operario
+Direccion : Schweitzer
+Ciudad : Ituzaingó
+Telefono : (011)4481-7078
+Email : federicoalmaraz@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Busco un trabajo en el cual pueda desempeñar mis aptitudes conforme a lo que requieran. Pongo en sus conocimientos que estoy en condiciones de asumir resposabilidades en forma inmediata y cuento con ampia disponibilidad de horarios.
+Security_code : d4h99
+Send : Enviar
+
+---------------
+
+Address : 186.62.171.172
+REF : maquina-inyectora
+Nombre : Isaias david
+Apellido : Figueroa Androwicz
+Cargo : TÉCNICO ELECTRÓNICO85 2484
+Direccion : 85 2484 (Necochea)
+Ciudad : necochea
+Telefono : 02262 15318735
+Email : isaias_arbol@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : con disponibilidad para mudarse la idea es a tandil para seguir estudiando, pero eso depende del trabajo
+Security_code : q4cmn
+Send : Enviar
+
+---------------
+
+Address : 186.62.171.172
+REF : maquina-inyectora
+Nombre : Isaias david
+Apellido : Figueroa Androwicz
+Cargo : TÉCNICO ELECTRÓNICO85 2484
+Direccion : 85 2484 (Necochea)
+Ciudad : necochea
+Telefono : 02262 15318735
+Email : isaias_arbol@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : con disponibilidad para mudarse la idea es a tandil para seguir estudiando, pero eso depende del trabajo
+Security_code : ght8d
+Send : Enviar
+
+---------------
+

@@ -1,0 +1,65 @@
+Address : 186.58.6.19
+REF : gerente-de-operaciones
+Nombre : Claudia
+Apellido : Mazzoleni
+Cargo : Administrativa/Secretaria
+Direccion : Directorio 1671
+Ciudad : Haedo
+Telefono : 1567502809
+Email : clmazzo@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : 
+                                                           Buenos Aires 23 de noviembre del 2010
+ 
+ 
+ 
+ 
+Sr.  Jefe de personal
+Presente
+
+Me pongo en contacto con usted para hacerle llegar mi currículo con mis datos personales, experiencia profesional y otros datos útiles, ofreciéndome para cubrir un puesto en su equipo de trabajo, ahora o en futuras búsquedas.
+ 
+Desearía formar parte de su organización para poder desarrollar mis conocimientos, con posibilidades de crecimiento profesional en un buen ambiente laboral. Estoy capacitada a enfrentar nuevos desafíos para lograr objetivos que impliquen un crecimiento tanto personal como laboral.
+ 
+Quedo a su disposición para ampliar la información que estimen necesaria.
+Sin más me despido, muy atentamente.
+ 
+                                                     
+ 
+                                                            Claudia L. Mazzoleni          
+
+Security_code : j367j
+Send : Enviar
+
+---------------
+
+Address : 24.232.104.73
+Nombre : Giselle Beatriz
+Apellido : Alleq
+Cargo : RRHH
+Direccion : Chacabuco 305
+Ciudad : Florida
+Telefono : 48379383
+Email : gisellealleq@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Objetivos: Soy Licenciada en Psicología egresada de la UBA, estoy capacitándome en el área de RRHH con el fin de poder trabajar en el sector en alguna empresa prestigiosa que me permita hacer carrera acorde a mi desempeño. Ofrezco la experiencia  laboral en  RRHH y los conocimientos académicos adquiridos en mi formación. Poseo conocimientos del Test de Rorschach y Z Test (entre otras técnicas psicométricas y proyectivas) y gran experiencia en entrevistas y capacitación de personal.  
+Security_code : v8dzj
+Send : Enviar
+
+---------------
+
+Address : 186.140.137.98
+Nombre : Vanina
+Apellido : Capadona
+Cargo : Administracion- Recepcion - otros
+Direccion : Pedro Goyena 2157
+Ciudad : Castelar
+Telefono : 4628-6306
+Email : vaninacapadona@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Atte. RRHH - Adjunto mi CV -Gracias
+Security_code : cqvpy
+Send : Enviar
+
+---------------
+

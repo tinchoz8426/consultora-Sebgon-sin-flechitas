@@ -1,0 +1,139 @@
+Address : 190.3.145.241<br>
+ <br>REF : chr
+ <br>Nombre : fernando
+ <br>Apellido : gonzalez
+ <br>Cargo : chefer de reparto
+ <br>Direccion : nobel delviso pilar
+ <br>Ciudad : delviso bs as
+ <br>Telefono : 1125829538 02320301518
+ <br>Email : fernandogaston8556@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : hla buenos dia tengo esperiencia en chofer soy clarkista me gustariaser parte de su enpresa
+ <br>Security_code : 2rh9d
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.23.6.112<br>
+ <br>REF : ACO-1
+ <br>Nombre : Ricardo
+ <br>Apellido : Holst
+ <br>Cargo : ANALISTA DE COMERCIO INTERNACIONAL/EXTERIOR
+ <br>Direccion : Sgto. Cabral 849
+ <br>Ciudad : Acassuso
+ <br>Telefono : 15-2170-3951
+ <br>Email : rholst22@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados, buenos dias
+
+He visto la Oferta Laboral publicada y la misma me resultó de gran interés.
+
+Por ese motivo, les hago llegar mi CV, a fin de ser tenido en cuenta como candidato.
+
+Quedo a su disposición para ampliar cualquier información necesaria.
+
+Cordialmente,
+Ricardo Guillermo Holst
+ <br>Security_code : fy87v
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 143.202.97.3<br>
+ <br>REF : chr
+ <br>Nombre : Hugo Ramon
+ <br>Apellido : Baez
+ <br>Cargo : chofer
+ <br>Direccion : cabildo 105
+ <br>Ciudad : Monte Grande
+ <br>Telefono : 1168527676
+ <br>Email : hugobaez35@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : me gustaría ingresar a sus filas de trabajo, cuento con conocimiento de manejos de vehículos de gran porte y carnet vigentes
+ <br>Security_code : wzdn3
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.190.102.32<br>
+ <br>Nombre : cynthia
+ <br>Apellido : De Vicenzo
+ <br>Cargo : Psicóloga - capacitación
+ <br>Direccion : Belgrano 1142
+ <br>Ciudad : buenos aires
+ <br>Telefono : 1560160730
+ <br>Email : cdevicenzo@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me giustaría ser parte de su staff de trabajo. Poseo amplia experiencia en capacitación empresarial. Quedo a su disposición para una entrevista prsonal.
+
+Muchas gracias.
+
+Cynthia.
+ <br>Security_code : xj6c4
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.19.127.71<br>
+ <br>REF : EP-1
+ <br>Nombre : Marcos Esteban
+ <br>Apellido : Fazio
+ <br>Cargo : Encargado de Produccion
+ <br>Direccion : Emilio Mitre 1036
+ <br>Ciudad : Haedo
+ <br>Telefono : 155 489 5323
+ <br>Email : marcos.fazio@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados:
+
+Me dirijo a Uds. con el fin de presentarme y adjuntarle mi Currículum Vitae.
+ 
+Soy especialista en procesos de Calidad y Manufactura con una visión integral de la Supply Chain. He liderado equipos multidisciplinarios bajo la filosofía T.P.M., promoviendo cambios culturales y la optimización de procesos. 
+Deseo continuar mi desarrollo profesional en una posición de responsabilidad en la que pueda aportar valor y poner en práctica la experiencia y conocimientos adquiridos durante mis mas de veinte años de experiencia en empresas de primera línea.
+
+Quedo a su disposición.
+            
+Me despido muy atte. y agradezco su atención-
+
+Lic. Marcos Fazio
+ <br>Security_code : vf6ck
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.177.60.209<br>
+ <br>REF : chr
+ <br>Nombre : Javier 
+ <br>Apellido : yegros 
+ <br>Cargo : repartidor- clarkista
+ <br>Direccion : 109 E/ 3 y 4
+ <br>Ciudad : BERAZATEGUI (CP=1884)
+ <br>Telefono : 42612281
+ <br>Email : lunayegros@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : buenas tardes. estoy interesado en el puesto que buscan. ya que cuento con experiencia de 10 años en el manejo de autoelevador. agradecería a una futura entrevista. Desde ya muchas gracias
+ <br>Security_code : bfv9d
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.95.133.238<br>
+ <br>REF : ACO-1
+ <br>Nombre : Miguel
+ <br>Apellido : Piccato
+ <br>Cargo : Analista de Comercio Exterior
+ <br>Direccion : Bahia Blanca 875 Bº juniors
+ <br>Ciudad : Cordoba
+ <br>Telefono : 0351 153064156
+ <br>Email : pmiguel2008@hotmail.es
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : A quien corresponda:
+
+Me dirijo con intension de tener un primer contacto, para conocernos, y ver si soy el indicado para formar parte de la empresa. Es por esto que adjunto mi CV para tener la primer cercania hacia udes, aclarando desde ya, que vivo en Córdoba pero mi intensión es irme a Capital Federal a vivir y radicarme si esta me lo permite.
+
+Saludos cordiales.
+ <br>Security_code : ph6q3
+ <br>Send : Enviar
+ <br>
+---------------
+

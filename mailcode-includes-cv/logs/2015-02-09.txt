@@ -1,0 +1,53 @@
+Address : 186.135.71.17
+REF : TECNICO-MECANICO
+Nombre : Patricio
+Apellido : silva
+Cargo : tecnico
+Direccion : 25 de mayo 4109
+Ciudad : merlo
+Telefono : 1566302141
+Email : patriciomartinsilva@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : turno fijo
+Security_code : z7rmt
+Send : Enviar
+
+---------------
+
+Address : 190.193.144.134
+Nombre : Mariana Andrea 
+Apellido : Sanz
+Cargo : Abogada
+Direccion : Mariano Acosta 687 1 7
+Ciudad : Caba
+Telefono : 31071509
+Email : dra.msanz@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : A quien corresponda:
+Les envío mi CV para vuestra evaluación. 
+Reúno la experiencia, los conocimientos y la actitud por ustedes buscadas.  
+De considerarlo y si me dan la oportunidad de una entrevista personal, ampliaré detalles de mi formación académica y laboral.
+Quedando a la espera de Buenas Noticias los saludo muy atte.
+
+ Dra. Mariana Andrea Sanz
+
+Security_code : cbxwj
+Send : Enviar
+
+---------------
+
+Address : 190.179.80.89
+Nombre : Gloria Dayana
+Apellido : Gomez
+Cargo : tecnica en higiene y seguridad laboral
+Direccion : lago fonck 1073
+Ciudad : cipolletti
+Telefono : 299-155124487
+Email : gomez_dayana@outlook.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Les envio mi CV con el fin de poder formar parte de su empresa. muchas gracias. 
+Security_code : 46pdh
+Send : Enviar
+
+---------------
+

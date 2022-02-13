@@ -1,0 +1,81 @@
+Address : 206.132.109.77<br>
+ <br>Nombre : Hector Dario
+ <br>Apellido : Lucero 
+ <br>Cargo : administrativo - produccion
+ <br>Direccion : Paso de libres 1206
+ <br>Ciudad : san luis
+ <br>Telefono : 2657615543
+ <br>Email : mognifico3004@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : buenas adjunto mi cv por algun puesto de lo detallado muchas gracias
+ <br>Security_code : 2jkrs
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.20.201.103<br>
+ <br>REF : EP-1
+ <br>Nombre : EMILIO GUSTAVO
+ <br>Apellido : ROBLES
+ <br>Cargo : ENCAGADO DE PRODUCCION
+ <br>Direccion : AZCUENAGA 826 LAS HERAS
+ <br>Ciudad : MENDOZA
+ <br>Telefono : 261-4482445
+ <br>Email : ger-robles@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : tengo 22 años de experiencia y no tengo problemas de cambiar de recidencia desde ya muchas gracias.
+atte GUSTAVO ROBLES.-
+ <br>Security_code : 7BBZK
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.20.201.103<br>
+ <br>REF : EP-1
+ <br>Nombre : EMILIO GUSTAVO
+ <br>Apellido : ROBLES
+ <br>Cargo : ENCAGADO DE PRODUCCION
+ <br>Direccion : AZCUENAGA 826 LAS HERAS
+ <br>Ciudad : MENDOZA
+ <br>Telefono : 261-4482445
+ <br>Email : ger-robles@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : tengo 22 años de experiencia y no tengo problemas de cambiar de recidencia desde ya muchas gracias.
+atte GUSTAVO ROBLES.-
+ <br>Security_code : 7bbzk
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.20.201.103<br>
+ <br>REF : EP-1
+ <br>Nombre : EMILIO GUSTAVO
+ <br>Apellido : ROBLES
+ <br>Cargo : ENCAGADO DE PRODUCCION
+ <br>Direccion : AZCUENAGA 826 LAS HERAS
+ <br>Ciudad : MENDOZA
+ <br>Telefono : 261-4482445
+ <br>Email : ger-robles@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : tengo 22 años de experiencia y no tengo problemas de cambiar de recidencia desde ya muchas gracias.
+atte GUSTAVO ROBLES.-
+ <br>Security_code : 9mdw5
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 179.0.4.143<br>
+ <br>Nombre : MARIANO
+ <br>Apellido : VIOLA
+ <br>Cargo : JEFE Y/O GERENTE RECURSOS HUMANOS
+ <br>Direccion : NECOCHEA 321
+ <br>Ciudad : CABA
+ <br>Telefono : 1551222176
+ <br>Email : m_viola2@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Licenciado en Relaciones Laborales con mas de 20 años de experiencia en áres Hard y Soft en organizaciones con grandes dotaciones.
+ <br>Security_code : jczq9
+ <br>Send : Enviar
+ <br>
+---------------
+

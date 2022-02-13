@@ -1,0 +1,465 @@
+Address : 179.40.35.129<br>
+ <br>Nombre : MAITE
+ <br>Apellido : BRUNO
+ <br>Cargo : Cualquier cargo
+ <br>Direccion : 78-2455
+ <br>Ciudad : Necochea
+ <br>Telefono : 2262 544142
+ <br>Email : maite04@hotmail.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Gracias por brindar este servicio 
+ <br>Security_code : 9j467
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 179.40.35.129<br>
+ <br>Nombre : MAITE
+ <br>Apellido : BRUNO
+ <br>Cargo : Cualquier cargo
+ <br>Direccion : 78-2455
+ <br>Ciudad : Necochea
+ <br>Telefono : 2262 544142
+ <br>Email : maite04@hotmail.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : ¡Muchas gracias!
+ <br>Security_code : 9j467
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 179.40.35.129<br>
+ <br>Nombre : MAITE
+ <br>Apellido : BRUNO
+ <br>Cargo : Cualquier cargo
+ <br>Direccion : 78-2455
+ <br>Ciudad : Necochea
+ <br>Telefono : 2262 544142
+ <br>Email : maite04@hotmail.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : ¡Muchas gracias!
+ <br>Security_code : gg5yg
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.94.185.4<br>
+ <br>REF : OEL
+ <br>Nombre : Eduardo Decima
+ <br>Apellido : Decima
+ <br>Cargo : tecnico electromecanico
+ <br>Direccion : la aguada 1671
+ <br>Ciudad : florencio varela ( buenos aires)
+ <br>Telefono : 1141499784
+ <br>Email : eduardecima@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Soy tecnico electromecanico con amplia experiencia y conocimientos en armado de tableros electricos
+ <br>Security_code : t37y2
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.134.155.24<br>
+ <br>Nombre : RauL Armando
+ <br>Apellido : Moreno
+ <br>Cargo : soldador cañista
+ <br>Direccion : calle 898 numero 5980
+ <br>Ciudad : quilmes oeste
+ <br>Telefono : 42132267
+ <br>Email : morenoraul819@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : necesito trabajar 
+ <br>Security_code : sdgp4
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.143.198.121<br>
+ <br>REF : OEL
+ <br>Nombre : oscar alberto
+ <br>Apellido : maristan
+ <br>Cargo : oficial
+ <br>Direccion : sayos  565
+ <br>Ciudad : bs as
+ <br>Telefono : 1131548427
+ <br>Email : oscarmaristan855@gimail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola cuento con experiencia de más de 10 años con certificado de técnico instalador y matrícula y muchas ganas de trabajar . gracias
+ <br>Security_code : kbzfr
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.208.11.233<br>
+ <br>REF : tecm
+ <br>Nombre : Elio
+ <br>Apellido : Gonzalez
+ <br>Cargo : Tornero/Mecanico Industrial
+ <br>Direccion : Buenos Aires
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 00584269592960
+ <br>Email : eliojosegonzalez1@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : 17 años de experiencia en torno paralelo, formacion profesional Mecánico Automotriz, Mecánico Industrial y Tornero Mecánico con certificación y referencias comprobables. Venezolanano en tramites para emigrar a la República Argentina para trabajar y seguir aprendiendo en áreas relacionadas con mi experiencia laboral.
+ <br>Security_code : 7hm8j
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.141.197.222<br>
+ <br>Nombre : Ruth
+ <br>Apellido : D'Ambruoso
+ <br>Cargo : atención al cliente-ventas
+ <br>Direccion : belgrano 535
+ <br>Ciudad : Mar del Plata
+ <br>Telefono : 0239215530312
+ <br>Email : dambruosor@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola! Quiero adjuntar mi cv, pero no responde...
+ <br>Security_code : mkbrx
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.58.20.167<br>
+ <br>REF : OEL
+ <br>Nombre : Luis Alberto
+ <br>Apellido : Nuñez 
+ <br>Cargo : Oficial Electricista instalador 
+ <br>Direccion : Julio Arg. Roca 3193
+ <br>Ciudad : Hurlingham
+ <br>Telefono : 1166184495
+ <br>Email : nuluisalberto@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola buenos dias como pedido laboral Lo único que pido es que respeten mi categoría . Soy una persona estudiada en el tema ya que es una profesión que me gusta y soy estricto con mi trabajo. Y por cuestiones de necesidad salí a trabajar a temprana edad es decir tengo mas de 10 años de experiencia y sigo aprendiendo mas del oficio y otras carreras para ser una persona mejor capacitada 
+
+ <br>Security_code : v7xtz
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.60.199.148<br>
+ <br>REF : OEL
+ <br>Nombre : alejandro jose
+ <br>Apellido : quiroga
+ <br>Cargo : oficial electricista
+ <br>Direccion : weiss de rossi 3482
+ <br>Ciudad : glew
+ <br>Telefono : 1136842239
+ <br>Email : luliale20@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : hola buenos día, soy oficial electricista y también tengo curso aprobado de automatismos también cuento con tarjeta ieric, tengo ya muchos años de experiencia tanto como en obra como también en mantenimiento, ojala pueda integrar su grupo de trabajo, desde ya muchas gracias.
+ <br>Security_code : 7m5wb
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.102.8.154<br>
+ <br>Nombre : Adrian
+ <br>Apellido : Gonzalez
+ <br>Cargo : Oficial cañista
+ <br>Direccion : Calle826 n 2210
+ <br>Ciudad : Quilmes
+ <br>Telefono : 1139000489
+ <br>Email : adriangonzalezz089@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Tengo experiencia hace mas de 10 años en este rubro..se leer planos,usar moladoras grande y chicas..
+ <br>Security_code : Qyzq9
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.102.8.160<br>
+ <br>Nombre : Adrian
+ <br>Apellido : Gonzalez
+ <br>Cargo : Oficial cañista
+ <br>Direccion : Calle826 n 2210
+ <br>Ciudad : Quilmes
+ <br>Telefono : 1139000489
+ <br>Email : adriangonzalezz089@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Tengo experiensa hace mas de dies años en este rubro..
+ <br>Security_code : Fpfp8
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.175.145.169<br>
+ <br>Nombre : IVAN 
+ <br>Apellido : CORTES
+ <br>Cargo : diseño grafico
+ <br>Direccion : carasa 3209
+ <br>Ciudad : mar del plata
+ <br>Telefono : 2236 37 1809
+ <br>Email : imcdg@outlook.es
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : cv y portfolio 
+ <br>Security_code : y5ywt
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.19.247.100<br>
+ <br>Nombre : MARIA LAURA
+ <br>Apellido : Rivas
+ <br>Cargo : asesor comercial
+ <br>Direccion : Argerich 2787
+ <br>Ciudad : CAPITAL FEDERAL
+ <br>Telefono : 1558885380
+ <br>Email : marilaurarivas@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buen Día,
+Le escribo para solicitar una oportunidad de trabajo, tengo experiencia de:
+Asistente Administrativo
+Atención al cliente
+Auxiliar de Facturación
+Operadora de  Callcenter 
+Auxiliar de Cobranzas 
+adjunto mi currículo para cualquiera oportunidad que se presente, cuento con disponibilidad inmediata para comenzar a trabajar en caso de existir la oportunidad.
+ <br>Security_code : nwb5g
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.226.48.58<br>
+ <br>REF : SE.BIL
+ <br>Nombre : Juliana
+ <br>Apellido : Salmoiraghi
+ <br>Cargo : Secretaria/Asistente
+ <br>Direccion : cespedes 2477 
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 011-15-38720147
+ <br>Email : julisalmo@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Envío para su consideración
+ <br>Security_code : nck6z
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.49.111.134<br>
+ <br>Nombre : Jose Alfredo
+ <br>Apellido : Barrio
+ <br>Cargo : atencion al cliente, cajero
+ <br>Direccion : Guanahani 6662 ph dpto3
+ <br>Ciudad : Mar del Plata
+ <br>Telefono : 2235988413
+ <br>Email : manoderoca@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me es grato presentarme para empleos acorde a mis experiencias o estudio. Muchas gracias
+ <br>Security_code : dqsx6
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.30.52.233<br>
+ <br>Nombre : Luis Gerardo
+ <br>Apellido : Hernandez Padron
+ <br>Cargo : Postulacion Espontanea
+ <br>Direccion : RP No. 6 Km 207.3
+ <br>Ciudad : Zarate
+ <br>Telefono : 0111561390727
+ <br>Email : Luisghernandez70@outlook.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas tardes
+
+Me permito enviarles mi CV para ser considerado en las ofertas laborales donde mi perfil y experiencia sea de valor agregado para la empresa solicitante
+
+Soy Ingeniero Maquinista Naval, sin embargo tengo 20+ años de experiencia trabajando para empresas metal mecánica fabricantes de equipos petroleros (Cameron / FMC) y Válvulas esféricas (Wenmazza, Brasil) donde en los últimos 10 años me desempeñe como Gerente de Planta / Operaciones liderando departamentos de producción, manufactura, mantenimiento, planificación,  QA/QC, y con mucho foco y detenimiento en Supply Chain siendo en estas empresas uno de los departamentos centrales de las operaciones.
+
+Tengo disponibilidad inmediata, podría cambiar mi lugar de residencia si así la empresa o la oferta lo requiere y puedo realizar viajes en representación de la misma cada vez que sea necesario
+
+Muchas gracias por la atención al presente correo
+
+Luis G Hernandez
+ <br>Security_code : gqtcq
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.59.153.223<br>
+ <br>Nombre : luis alberto
+ <br>Apellido : sosa
+ <br>Cargo : electricista
+ <br>Direccion : 24 num 4272
+ <br>Ciudad : Berisso
+ <br>Telefono : 2215246171
+ <br>Email : sosaluis27@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : encargado, of electrisista
+ <br>Security_code : zgb5h
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.18.80.75<br>
+ <br>Nombre : Gonzalo
+ <br>Apellido : Asensio
+ <br>Cargo : Part Time
+ <br>Direccion : Darragueira 105
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 4248-3922
+ <br>Email : asensio.gonzalo@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Preferiblemente busco un trabajo part time, no importa el turno
+ <br>Security_code : 8jxb6
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 191.81.209.173<br>
+ <br>Nombre : Camila
+ <br>Apellido : Smereka
+ <br>Cargo : Recursos Humanos
+ <br>Direccion : Bahia blanca 661
+ <br>Ciudad : Mar del plata
+ <br>Telefono : 4785131
+ <br>Email : camismereka@outlook.es
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Les agradecería que tengan en cuenta mi petición.Saluos
+ <br>Security_code : cwz4s
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 191.81.209.173<br>
+ <br>Nombre : Camila
+ <br>Apellido : Smereka
+ <br>Cargo : Recursos Humanos
+ <br>Direccion : Bahia blanca 661
+ <br>Ciudad : Mar del plata
+ <br>Telefono : 4785131
+ <br>Email : camismereka@outlook.es
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Les agradecería que tengan en cuenta mi petición.Saluos
+ <br>Security_code : cwz4s
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 191.81.209.173<br>
+ <br>Nombre : Camila
+ <br>Apellido : Smereka
+ <br>Cargo : Recursos Humanos
+ <br>Direccion : Bahia blanca 661
+ <br>Ciudad : Mar del plata
+ <br>Telefono : 4785131
+ <br>Email : camismereka@outlook.es
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Les agradecería que tengan en cuenta mi petición.Saluos
+ <br>Security_code : bmjxz
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.62.156.254<br>
+ <br>Nombre : angelica
+ <br>Apellido : diaz
+ <br>Cargo : limpieza cajera geriatrico
+ <br>Direccion : moreno 10948
+ <br>Ciudad : mar del plata
+ <br>Telefono : 2235363503
+ <br>Email : angelica_diaz_anyi@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estoy en búsqueda urgente de un puesto laboral. Soy responsable aprendo rapido me desenvuelbo muy bien trabajando sola y en grupo. Trabaje de cajera geriatrico hotel y otros..espero lograr mi objetibo con el fin de no arrepntirme doy fe a que doy mas de lo que soy.desde ya muchas gracias angelica.
+ <br>Security_code : ztgny
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 191.81.209.173<br>
+ <br>Nombre : Camila
+ <br>Apellido : Smereka
+ <br>Cargo : Recursos Humanos
+ <br>Direccion : Bahia blanca 661
+ <br>Ciudad : Mar del plata
+ <br>Telefono : 4785131
+ <br>Email : camismereka@outlook.es
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Les agradecería que tengan en cuenta mi petición.Saluos
+ <br>Security_code : 7djq3
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.62.156.254<br>
+ <br>Nombre : angelica
+ <br>Apellido : diaz
+ <br>Cargo : limpieza cajera geriatrico
+ <br>Direccion : moreno 10948
+ <br>Ciudad : mar del plata
+ <br>Telefono : 2235363503
+ <br>Email : angelica_diaz_anyi@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estoy en búsqueda urgente de un puesto laboral. Soy responsable aprendo rapido me desenvuelbo muy bien trabajando sola y en grupo. Trabaje de cajera geriatrico hotel y otros..espero lograr mi objetibo con el fin de no arrepntirme doy fe a que doy mas de lo que soy.desde ya muchas gracias angelica.
+ <br>Security_code : ztgny
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.225.44.75<br>
+ <br>Nombre : Celeste Ayelén
+ <br>Apellido : Florit Rozas
+ <br>Cargo : Licenciado en Trabajo Social
+ <br>Direccion : Ambrosio Olmos 929
+ <br>Ciudad : Córdoba
+ <br>Telefono : 0351-157015357
+ <br>Email : celeflorit_92@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Envío mi CV para puestos relacionados a mi profesión. Capacidad de adaptación y deseos de crecer en lo profesional.
+ <br>Security_code : f9tqh
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.24.50.105<br>
+ <br>Nombre : Georgina
+ <br>Apellido : Molina Durand 
+ <br>Cargo : atencion al publico
+ <br>Direccion : roca 5444
+ <br>Ciudad : mar del plata
+ <br>Telefono : 2235903346
+ <br>Email : chinadurand@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Tengo ganas de trabajar en algún lugar para atención al público! 
+ <br>Security_code : 9cwtc
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.138.58.54<br>
+ <br>REF : RTC
+ <br>Nombre : Álvaro
+ <br>Apellido : Delfino
+ <br>Cargo : RTC
+ <br>Direccion : Castelli 90 7C
+ <br>Ciudad : CABA
+ <br>Telefono : 0222715481402
+ <br>Email : alvaro.delfino@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : -
+ <br>Security_code : bycxd
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.245.240.10<br>
+ <br>REF : ANFAC
+ <br>Nombre : Nazareno Gabriel Esteban
+ <br>Apellido : Pablo
+ <br>Cargo : Analista de facturación
+ <br>Direccion : Cuidadela 1479
+ <br>Ciudad : Argentina
+ <br>Telefono : 1569598003
+ <br>Email : nazarenopablo@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas Noches
+
+Adjunto mi cv para que sea evaluado por ustedes, para el puesto solicitado.
+
+Gracias
+ <br>Security_code : 5tmgv
+ <br>Send : Enviar
+ <br>
+---------------
+

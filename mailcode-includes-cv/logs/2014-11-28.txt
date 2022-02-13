@@ -1,0 +1,93 @@
+Address : 200.127.106.14
+Nombre : DEBORA
+Apellido : LUNA
+Cargo : RECEPCIONISTA,ATENCION AL PUBLICO,REPOSITORA
+Direccion : EVA PERON 340
+Ciudad : GENERAL RODRIGUEZ
+Telefono : 1167995841
+Email : debyl8825@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Aqui les dejo mi curriculum vitae. Estoy a su disposicion. Gracias.
+Security_code : 23skf
+Send : Enviar
+
+---------------
+
+Address : 200.127.106.14
+Nombre : DEBORA
+Apellido : LUNA
+Cargo : RECEPCIONISTA,ATENCION AL PUBLICO,REPOSITORA
+Direccion : EVA PERON 340
+Ciudad : GENERAL RODRIGUEZ
+Telefono : 1167995841
+Email : debyl8825@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Aqui les dejo mi curriculum vitae. Estoy a su disposicion. Gracias.
+Security_code : 23skf
+Send : Enviar
+
+---------------
+
+Address : 190.48.181.57
+Nombre : Melisa
+Apellido : Cabrera
+Cargo : Cualquiera
+Direccion : Atalco 6065 
+Ciudad : Buenos Aires
+Telefono : 1124592603
+Email : melisa-cabrera09@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estoy en la busqueda de empleo, cualquiera que sea estoy dispuesta a un aprendizaje dia a dia.
+Security_code : wfprv
+Send : Enviar
+
+---------------
+
+Address : 186.18.229.222
+Nombre : gloria
+Apellido : Godoy
+Cargo : RR. HH
+Direccion : Corrientes 5943 3° P
+Ciudad : CABA
+Telefono : 39791707
+Email : gloriasandragodoy@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto CV.
+
+Saludos Cordiales.
+Security_code : z4nwz
+Send : Enviar
+
+---------------
+
+Address : 190.174.0.167
+Nombre : Florencia Alejandra
+Apellido : Godoy
+Cargo : Administrativa
+Direccion : Adminatrativa
+Ciudad : Buenos Aires,Ituzaingo
+Telefono : 15646576321
+Email : florencia-godoy22@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Busco un puesto afin a mi carrera para poder especializarme en la misma.
+Security_code : z7xjj
+Send : Enviar
+
+---------------
+
+Address : 190.173.123.8
+Nombre : marcela
+Apellido : galvan
+Cargo : mantenimiento 
+Direccion : echeandia 3763
+Ciudad : bs as 
+Telefono : 1568707414
+Email : marce_elparque@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : soy alguien que es cumplidora y que realmente precisa trabajo, si estan interesados por favor llamen.gracias 
+
+Security_code : 57ph6
+Send : Enviar
+
+---------------
+

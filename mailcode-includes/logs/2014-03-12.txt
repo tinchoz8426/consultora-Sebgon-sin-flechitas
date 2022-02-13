@@ -1,0 +1,24 @@
+Address : 165.98.115.218
+Nombre : Juan Bosco
+Apellido : Acosta
+Empresa : JBALELCONSULSEG
+Telefono : 505-86763304
+Email : jboscoal@hotmail.com
+Mensaje : Soy director ejecutivo de esta firma especializada en eeguridad y estoy interesado en establecer contactos con su firma y valorar la posibilidad de representar su firma para Nicaragua y Centroamerica
+Security_code : c45rq
+Send : Enviar
+
+---------------
+
+Address : 186.158.229.163
+Nombre : fv
+Apellido : bvcb
+Empresa : cvbc
+Telefono : cbb
+Email : cvbcvb
+Mensaje : bcvbcb
+Security_code : rdwgq
+Send : Enviar
+
+---------------
+

@@ -1,0 +1,33 @@
+Address : 186.108.222.66
+REF : tecnico-electornico
+Nombre : fatima elizabeth
+Apellido : quintana
+Cargo : 4103
+Direccion : la paz al 800
+Ciudad : tafi viejo - tcuman
+Telefono : 03866222521
+Email : fatimaquintana_25@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Fui egresada hace poco
+Security_code : vznvnw
+Send : Enviar
+
+---------------
+
+Address : 186.18.190.64
+Nombre : Damián
+Apellido : Capuzzi
+Cargo : Administración, Atención al cliente, Periodismo, Recepción, Asistente.
+Direccion : Necochea 1564
+Ciudad : Ramos Mejía
+Telefono : 15-5115-2577
+Email : dam_cstan@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Solicito empleo en Capital Federal y Gran Buenos Aires.
+
+Muchas Gracias.
+Security_code : c8nct
+Send : Enviar
+
+---------------
+

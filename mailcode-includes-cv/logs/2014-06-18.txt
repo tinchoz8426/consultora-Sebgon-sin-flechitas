@@ -1,0 +1,174 @@
+Address : 66.60.53.168
+Nombre : Yesica Romina
+Apellido : Tammaro
+Cargo : VARIOS
+Direccion : Famatina 55
+Ciudad : Buenos Aires
+Telefono : 02204995224
+Email : yesitamm14@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Les envió mi cv ha tener en cuenta. Espero estar en contacto con ustedes a la brevedad. Gracias.
+Security_code : g3mrj
+Send : Enviar
+
+---------------
+
+Address : 181.26.174.110
+Nombre : Fernanda Carolina 
+Apellido : gargiulo
+Cargo : Manager
+Direccion : Cnel brandsen 2196
+Ciudad : Avellaneda
+Telefono : 1522705010
+Email : fergargiulo@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto mi CV para ser tenida en cuenta en las búsquedas profesionales. 
+Security_code : 469px
+Send : Enviar
+
+---------------
+
+Address : 181.26.174.110
+Nombre : Fernanda Carolina 
+Apellido : gargiulo
+Cargo : Manager
+Direccion : Cnel brandsen 2196
+Ciudad : Avellaneda
+Telefono : 1522705010
+Email : fergargiulo@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto mi CV para ser tenida en cuenta en las búsquedas profesionales. 
+Security_code : rkx32
+Send : Enviar
+
+---------------
+
+Address : 186.57.182.65
+Nombre : ANA ELISABETH
+Apellido : FERNANDEZ
+Cargo : ADMINISTRATIVA o VARIOS
+Direccion : AGUARIBAY 722
+Ciudad : ITUZAINGO
+Telefono : 1124553250
+Email : fernandez_anaelisabeth@hotmail.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Solicito trabajo area administrativa u otros disponibles acorde a CV
+Security_code : 37xzx
+Send : Enviar
+
+---------------
+
+Address : 190.174.217.222
+Nombre : Erica Gisela
+Apellido : Vera
+Cargo : Técnica Química
+Direccion : Lisandro de la torre 4664
+Ciudad : Quilmes
+Telefono : 4210-2501
+Email : ericagiselav@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Tengo el agrado de dirigirme a usted a fin de acercarles mi CV, para eventuales búsquedas acordes a mi perfil.
+
+Como usted podrá observa en mi currículum, tengo experiencia en el campo de Industria Alimenticias, desempeñando análisis físicos-químicos, manejo de documentación pertinente, realizando diversas actividades de actualización, Así como también en el campo de líneas productivas en Industria de consumo masivo, trabajando turnos rotativos sin problemas (TM-TT-TN). Adquirí experiencia en el campo farmacéutico como analista de materias primas.
+Mi formación y experiencia me han dado una gran habilidad para relaciones con clientes externos  e internos. Me considero una persona responsable, ordenada y acostumbrada a trabajar en equipo.
+
+Me oriento a ocupar puestos en áreas Control de Calidad. Estimo que una entrevista será el marco adecuado para profundizar aspectos de mi perfil que puedan resultar de su interés.
+
+Cordialmente
+
+Security_code : xy9d3
+Send : Enviar
+
+---------------
+
+Address : 181.239.32.5
+Nombre : hector
+Apellido : juarez
+Cargo : vendedor
+Direccion : 153 a 
+Ciudad : berazategui
+Telefono : 1522617698
+Email : juareorla2014@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : me postulo a un trabajo y les envio mi curriculum gracias
+Security_code : vw6dw
+Send : Enviar
+
+---------------
+
+Address : 186.61.98.84
+Nombre : Erika 
+Apellido : Acevedo
+Cargo : indistinto
+Direccion : 26 n 2626
+Ciudad : berazategui
+Telefono : 1532171847/ 42584543
+Email : e_e_a13@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : .
+Security_code : phtzt
+Send : Enviar
+
+---------------
+
+Address : 186.39.237.190
+Nombre : Emanuel
+Apellido : Velocce Rearte
+Cargo : Area Tecnica
+Direccion : 2º Barrio Cementista Mazana 12 Casa 17
+Ciudad : Las Heras - Mendoza
+Telefono : 261 1530227791
+Email : emanuel.velocce@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimado/a.
+Adjunto encontrará usted mi CV en el cual encontrará toda mi experiencia y capacidad. 
+
+Espero pueda tener en cuenta al solictar un puesto.
+
+Desde ya muchas gracias.
+ Saludos cordiales. 
+Security_code : nk3fp
+Send : Enviar
+
+---------------
+
+Address : 186.39.237.190
+Nombre : Emanuel
+Apellido : Velocce Rearte
+Cargo : Oficina Tecnica
+Direccion : 2º Barrio Cementista Mazana 12 Casa 17
+Ciudad : Las Heras - Mendoza
+Telefono : 261 153027791
+Email : emanuel.velocce@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimado/a.
+Adjunto encontrará usted mi CV en el cual encontrará toda mi experiencia y capacidad. 
+
+Espero pueda tener en cuenta al solictar un puesto.
+
+Desde ya muchas gracias.
+ 
+
+Saludos cordiales. 
+Security_code : d8475
+Send : Enviar
+
+---------------
+
+Address : 190.195.113.32
+Nombre : Graciela
+Apellido : Carta
+Cargo : Comunicación
+Direccion : Avda. Coronel Díaz 2149
+Ciudad : CABA
+Telefono : 011/1533342976
+Email : gracarta@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Busco ingresar a una empresa en la que pueda lograr una posición administrativa y transferir mis conocimientos, habilidades y  experiencia en Comunicación Integral, RSE, Estrategias de Marketing y Salud, contribuyendo al logro de objetivos con una adaptación responsable y creativa.
+Muchas Gracias por su atención.
+
+Security_code : 66j3c
+Send : Enviar
+
+---------------
+

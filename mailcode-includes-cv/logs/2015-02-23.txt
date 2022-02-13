@@ -1,0 +1,81 @@
+Address : 190.48.188.189
+Nombre : Daniel Guillermo
+Apellido : Ramirez
+Cargo : Operador en Producion
+Direccion : Joaquin V Gonzales 6924
+Ciudad : Moreno
+Telefono : 011 15 4099 3342
+Email : danielramirez56@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Le envío mi CV para que el mismo pueda ser considerado en futuras búsquedas laborales que realice su organización en puestos Operarios en Producción o en Maquinaria de impresión OFF SET.
+Me avala la experiencia y estudios realizados hasta el momento y el interés genuino que poseo para este tipo de tareas.
+Dejo constancia que adjunto mi CV a la presente quedando a la espera de poder obtener una entrevista, a fin de ofrecerle toda la información que usted crea pertinente.
+Atentamente,
+Daniel
+Security_code : b32pc
+Send : Enviar
+
+---------------
+
+Address : 190.19.77.254
+Nombre : Julieta
+Apellido : Caviglia
+Cargo : Técnico en Higiene y Seguirdad 
+Direccion : Facon 2564
+Ciudad : Capital Feredal
+Telefono : 0341-155599105
+Email : cavigliajulieta@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Si bien no cuento con experiencia específica en el rubro, estoy dispuesta a realizar otra tareas a fin de adquirir experiencia, aprender y crecer como profesional.
+Security_code : vwj26
+Send : Enviar
+
+---------------
+
+Address : 190.19.77.254
+Nombre : Julieta
+Apellido : Caviglia
+Cargo : Técnico en Higiene y Seguirdad
+Direccion : Facon 2564
+Ciudad : Capital Feredal
+Telefono : 0341-155599105
+Email : cavigliajulieta@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Si bien no cuento con experiencia específica en el rubro, estoy dispuesta a realizar otra tareas a fin de adquirir experiencia, aprender y crecer como profesional.
+Security_code : qr2z8
+Send : Enviar
+
+---------------
+
+Address : 200.125.125.249
+REF : VEN
+Nombre : Juan Pablo
+Apellido : Paz 
+Cargo : Vendedor Zona Sur
+Direccion : Riobamba 73
+Ciudad : Lanus Oeste
+Telefono : 42493017
+Email : juanpablopaz20@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenas Tardes:
+el motivo de mi mensaje es postular me para vendedor/operario/cajero. 
+Security_code : 7jf6w
+Send : Enviar
+
+---------------
+
+Address : 186.56.160.235
+Nombre : Micaela Soledad
+Apellido : Funes
+Cargo : Legales/ comercial
+Direccion : Azara 1142
+Ciudad : Merlo 
+Telefono : 02204861528
+Email : funesmicaelasoledad@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Abogada empresarial/tributario. 
+Security_code : pfzbg
+Send : Enviar
+
+---------------
+

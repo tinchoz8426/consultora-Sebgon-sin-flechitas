@@ -1,0 +1,75 @@
+Address : 181.15.237.237
+Nombre : demian
+Apellido : leguizamon
+Cargo : operario
+Direccion : Bahia Blanca 674
+Ciudad : Bs As
+Telefono : 1166310515
+Email : demianleguizamon@yahoo.com
+MAX_FILE_SIZE : 2097152
+Mensaje : me postulo para el puesto de operario de villa martelli soy una persona muy responsable y con muchas necesidad del trabajo desde ya muchas gracias !
+Security_code : 5xy74
+Send : Enviar
+
+---------------
+
+Address : 186.138.169.114
+Nombre : Maximiliano
+Apellido : Miozzo
+Cargo : Cualquiera
+Direccion : Rivadavia 20378
+Ciudad : Castelar
+Telefono : 1564094982
+Email : maxi.miozzo@live.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Cualquier puesto estaría bien , estoy en búsqueda hace tiempo , ojala puedan ayudar desde ya muchas gracias
+Security_code : cv3m4
+Send : Enviar
+
+---------------
+
+Address : 186.138.169.114
+Nombre : Maximiliano
+Apellido : Miozzo
+Cargo : Cualquiera
+Direccion : Rivadavia 20378
+Ciudad : Castelar
+Telefono : 1564094982
+Email : maxi.miozzo@live.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Cualquier puesto estaría bien , estoy en búsqueda hace tiempo , ojala puedan ayudar desde ya muchas gracias
+Security_code : cv3m4
+Send : Enviar
+
+---------------
+
+Address : 186.138.169.114
+Nombre : Maximiliano
+Apellido : Miozzo
+Cargo : Cualquiera
+Direccion : Rivadavia 20378
+Ciudad : Castelar
+Telefono : 1564094982
+Email : maxi.miozzo@live.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Cualquier puesto estaría bien , estoy en búsqueda hace tiempo , ojala puedan ayudar desde ya muchas gracias
+Security_code : cv3m4
+Send : Enviar
+
+---------------
+
+Address : 186.138.169.114
+Nombre : Maximiliano
+Apellido : Miozzo
+Cargo : Cualquiera
+Direccion : Rivadavia 20378
+Ciudad : Castelar
+Telefono : 1564094982
+Email : maxi.miozzo@live.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Cualquier puesto estaría bien , estoy en búsqueda hace tiempo , ojala puedan ayudar desde ya muchas gracias
+Security_code : w5r3m
+Send : Enviar
+
+---------------
+

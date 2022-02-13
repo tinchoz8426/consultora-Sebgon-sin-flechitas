@@ -1,0 +1,80 @@
+Address : 186.134.7.193<br>
+ <br>REF : EP-1
+ <br>Nombre : daniel
+ <br>Apellido : vilca
+ <br>Cargo : encargado
+ <br>Direccion : santa maria de oro 1849
+ <br>Ciudad : castelar
+ <br>Telefono : 1122979411
+ <br>Email : vdanielroberto@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : amplia experiencia
+ <br>Security_code : ss3GW
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.134.7.193<br>
+ <br>REF : EP-1
+ <br>Nombre : daniel
+ <br>Apellido : vilca
+ <br>Cargo : encargado
+ <br>Direccion : santa maria de oro 1849
+ <br>Ciudad : castelar
+ <br>Telefono : 1122979411
+ <br>Email : vdanielroberto@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : amplia experiencia
+ <br>Security_code : ss3gw
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.134.7.193<br>
+ <br>REF : EP-1
+ <br>Nombre : daniel
+ <br>Apellido : vilca
+ <br>Cargo : encargado
+ <br>Direccion : santa maria de oro 1849
+ <br>Ciudad : castelar
+ <br>Telefono : 1122979411
+ <br>Email : vdanielroberto@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : amplia experiencia
+ <br>Security_code : ss3gW
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.134.7.193<br>
+ <br>REF : EP-1
+ <br>Nombre : daniel
+ <br>Apellido : vilca
+ <br>Cargo : encargado
+ <br>Direccion : santa maria de oro 1849
+ <br>Ciudad : castelar
+ <br>Telefono : 1122979411
+ <br>Email : vdanielroberto@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : amplia experiencia
+ <br>Security_code : ss3gW
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.110.135.186<br>
+ <br>REF : ACO-1
+ <br>Nombre : Andres Eduardo
+ <br>Apellido : Escolar Vargas
+ <br>Cargo : Analista Comercio Exterior
+ <br>Direccion : Ayacucho, 1641
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 1155935851
+ <br>Email : andres.escolar89@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Administrador de Empresas bilingüe egresado de la Universidad del Norte con enfasis en logistica, abastecimiento, compras y distribución fisica internacional. Habilidad para dirigir, planear y ejecutar cualquier tarea que den respuesta a las distintas necesidades de los clientes. Capacidad para tomar decisiones y asumir retos. Excelente desempeño en el área de logística y mercadeo. Con destrezas para trabajar en grupo y obtener los mejores resultados
+ <br>Security_code : tkmkf
+ <br>Send : Enviar
+ <br>
+---------------
+

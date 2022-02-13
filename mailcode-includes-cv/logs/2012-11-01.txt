@@ -1,0 +1,53 @@
+Address : 200.3.175.147
+Nombre : Carlos Fabian 
+Apellido : Mugurusa
+Cargo : montaje
+Direccion : libertad 390
+Ciudad : Rosario
+Telefono : 0641 4926928
+Email : fabianmugurusa@hotmail.es
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimado Sr/a:
+                            Me pongo en contacto a quien corresponda con el fin de cubrir algún puesto de trabajo
+,ahora o en algún futuro,¿el puesto? el que la empresa requiera...
+  Me interesaría trabajar en su empresa porque se trata de una corporación nueva y respaldada por una gran cantidad de personas
+ con perspectivas de crecimiento
+
+puede usted ponerse en contacto conmigo mediante mi tel: 0341-4926928 a la hora que se le haga mas accesible,
+espero recibir pronto noticias suyas sobre mi candidatura y sobre las posibilidades de trabajar en su empresa.
+Security_code : b9f54
+Send : Enviar
+
+---------------
+
+Address : 186.130.35.112
+Nombre : GINA DANIELA
+Apellido : MASTRONARDI HIDALGO
+Cargo : administrativa-secretaria-diseño-maquilladora
+Direccion : Barrio El Sol, Mz J, casa 3, 
+Ciudad : Las Heras, Mendoza
+Telefono : 0261-155677050
+Email : ginita_084@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : cursando 3r año de diseño escenográfico en fac.artes de Uncuyo. curso maquillaje artístico y profesional con roberto piazza
+Security_code : 4pznx
+Send : Enviar
+
+---------------
+
+Address : 186.134.167.138
+REF : administrativo-logistica
+Nombre : fernando ariel
+Apellido : escalante
+Cargo : ADMINISTRATIVO LOGISTICA
+Direccion : MARCOS AVELLANEDA 1976
+Ciudad : LANUS
+Telefono : 42672188
+Email : fernandoescalante@live.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : PERSEVERANCIA PARA EL PROGRESO EN ÁMBITO LABORAL 
+Security_code : 5SCY9
+Send : Enviar
+
+---------------
+

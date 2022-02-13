@@ -1,0 +1,65 @@
+Address : 186.0.177.81
+Nombre : Cecilia
+Apellido : Stevani
+Cargo : gastronomia
+Direccion : humberto primo 854
+Ciudad : bs as
+Telefono : 0111531291266
+Email : ceciliastevani@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : ADJUNTO MI CV, CON INTENCIONES DE SER SELECCIONADA, CORDIAL SALUDO, ENVIE POR MAIL A TODAS LAS DIRECCIONES EN PATALLA MI CV, CON LA FOTO ACTUALIZADA DEL PASAPORTE.
+Security_code : TJFHZ
+Send : Enviar
+
+---------------
+
+Address : 79.150.63.93
+Nombre : Gonzalo 
+Apellido : Carbajales
+Cargo : Project Manager
+Direccion : Matheu 1460
+Ciudad : Capital Federal
+Telefono : 15-4938-9814
+Email : gcarbajales@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenas tardes:
+Adjunto CV para que, en caso de estimarlo adecuado, sea considerado en búsquedas laborales.
+Mi perfil es de Project Leader, con experiencia principalmente en el sector bancario (en España), y también en la recaudación impositiva ( AFIP - Argentina).
+
+Me encuentro a su disposición si desean ampliar información. 
+
+A la espera de sus comentarios, les envío un cordial saludo.
+
+Desde ya, muchas gracias.
+Gonzalo Carbajales
+
+Security_code : d5wd8
+Send : Enviar
+
+---------------
+
+Address : 79.150.63.93
+Nombre : Gonzalo
+Apellido : Carbajales
+Cargo : Project Manager
+Direccion : Matheu 1460
+Ciudad : Capital Federal
+Telefono : 15-4938-9814
+Email : gcarbajales@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenas tardes:
+Adjunto CV para que, en caso de estimarlo adecuado, sea considerado en búsquedas laborales.
+Mi perfil es de Project Leader, con experiencia principalmente en el sector bancario (en España), y también en la recaudación impositiva ( AFIP - Argentina).
+
+Me encuentro a su disposición si desean ampliar información. 
+
+A la espera de sus comentarios, les envío un cordial saludo.
+
+Desde ya, muchas gracias.
+Gonzalo Carbajales
+
+Security_code : hk53t
+Send : Enviar
+
+---------------
+

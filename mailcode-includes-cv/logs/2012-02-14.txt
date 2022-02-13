@@ -1,0 +1,64 @@
+Address : 190.188.80.114
+REF : jefe-de-operaciones
+Nombre : Conrado
+Apellido : Rollie
+Cargo : Emplado administrativo Contable
+Direccion : 9 E/ 54 y 55 1057 8 A
+Ciudad : La Plata
+Telefono : 2241-508121
+Email : Conra_rollie_16@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estudiante de administracion, primer año.
+Security_code : 2snmv
+Send : Enviar
+
+---------------
+
+Address : 190.49.225.14
+REF : jefe-de-operaciones
+Nombre : Guido Julián
+Apellido : Gamboa
+Cargo : Indiferente
+Direccion : Gral. Araoz de Lamadrid 564 11 D
+Ciudad : Capital Federal
+Telefono : 43028981
+Email : gui.gamboa89@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : -
+Security_code : yht2x
+Send : Enviar
+
+---------------
+
+Address : 190.19.101.231
+Nombre : agustin
+Apellido : piunca
+Cargo : relaciones publicas
+Direccion : guayaquil 45
+Ciudad : caba
+Telefono : 1141780114
+Email : agustinpiunca@live.com
+MAX_FILE_SIZE : 2097152
+Mensaje : estoy curando el ultimo año de la carrera Lic Relac. Publicas en UADE
+Muchas gracias
+Security_code : bqgyp
+Send : Enviar
+
+---------------
+
+Address : 190.50.193.172
+REF : tecnico-electornico
+Nombre : jorge
+Apellido : aquino
+Cargo : SUPERVISOR
+Direccion : BROWN 688 1 
+Ciudad : CIUDADELA
+Telefono : 44886560
+Email : joriaquino@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Sres. RRHH,mi postulacion se orienta a seguridad,  poseo certificados de trabajo, referencias, soy perito matriculado, experiencias en verificaciones de ART,investigacionesde siniestros, estudio de vulnerabilidades,evaluacion de siniestralidades, atte. J. Aquino
+Security_code : kbgr2
+Send : Enviar
+
+---------------
+

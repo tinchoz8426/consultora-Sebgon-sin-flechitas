@@ -1,0 +1,177 @@
+Address : 66.249.83.76<br>
+ <br>Nombre : Jacqueline 
+ <br>Apellido : Bustamante 
+ <br>Cargo : Limpieza
+ <br>Direccion : Agustín Garzón 5283
+ <br>Ciudad : Cordoba 
+ <br>Telefono : 3513529831
+ <br>Email : Bustamantejacqueline1002@gmail.com 
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Busco trabajo urgente, lo nesesito
+ <br>Security_code : Zsfh9
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.83.76<br>
+ <br>Nombre : Jacqueline 
+ <br>Apellido : Bustamante 
+ <br>Cargo : Limpieza
+ <br>Direccion : Agustín Garzón 5283
+ <br>Ciudad : Cordoba 
+ <br>Telefono : 3513529831
+ <br>Email : Bustamantejacqueline1002@gmail.com 
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Busco trabajo urgente, lo nesesito
+ <br>Security_code : Zsfh9
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.83.76<br>
+ <br>Nombre : Jacqueline 
+ <br>Apellido : Bustamante 
+ <br>Cargo : Limpieza
+ <br>Direccion : Agustín Garzón 5283
+ <br>Ciudad : Cordoba 
+ <br>Telefono : 3513529831
+ <br>Email : Bustamantejacqueline1002@gmail.com 
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Busco trabajo urgente, lo nesesito
+ <br>Security_code : zsfh9
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 152.169.165.36<br>
+ <br>REF : TE-1
+ <br>Nombre : OMAR JUAN
+ <br>Apellido : KAZAR
+ <br>Cargo : Técnico eléctrico
+ <br>Direccion : Montes de Oca 1108
+ <br>Ciudad : C.A.B.A.
+ <br>Telefono : 01142047031
+ <br>Email : okazar@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buen día envío CV para postularme al empleo de referencia, gracias.
+ <br>Security_code : nwcfw
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 24.232.103.156<br>
+ <br>REF : EP-1
+ <br>Nombre : Ivonne
+ <br>Apellido : Gando
+ <br>Cargo : Encargado de produccion
+ <br>Direccion : Quirno Costa, san fernando
+ <br>Ciudad : Buenos aires
+ <br>Telefono : 911 61927987
+ <br>Email : ivonnegando9@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Ingeniero Químico con experiencia en coordinación de producción y de calidad.
+ <br>Security_code : 3sgvw
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 24.232.103.156<br>
+ <br>REF : EP-1
+ <br>Nombre : Ivonne
+ <br>Apellido : Gando
+ <br>Cargo : Encargado de produccion
+ <br>Direccion : Quirno Costa, san fernando
+ <br>Ciudad : Buenos aires
+ <br>Telefono : 911 61927987
+ <br>Email : ivonnegando9@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Ingeniero Químico con experiencia en coordinación de producción y de calidad.
+ <br>Security_code : 3sgvw
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 24.232.103.156<br>
+ <br>REF : EP-1
+ <br>Nombre : Ivonne
+ <br>Apellido : Gando
+ <br>Cargo : Encargado de produccion
+ <br>Direccion : Quirno Costa, san fernando
+ <br>Ciudad : Buenos aires
+ <br>Telefono : 911 61927987
+ <br>Email : ivonnegando9@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Ingeniero Químico con experiencia en coordinación de producción y de calidad.
+ <br>Security_code : hgh9k
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 24.232.103.156<br>
+ <br>Nombre : Ivonne
+ <br>Apellido : Gando
+ <br>Cargo : Encargado de produccion
+ <br>Direccion : Quirno Costa, san fernando
+ <br>Ciudad : Buenos aires
+ <br>Telefono : 911 61927987
+ <br>Email : ivonnegando9@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Ingeniero Químico con experiencia en coordinación de producción y de calidad
+ <br>Security_code : xqcc8
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 24.232.103.156<br>
+ <br>Nombre : Ricardo
+ <br>Apellido : Colman
+ <br>Cargo : Soporte tecnico
+ <br>Direccion : Quirno Costa, san fernando
+ <br>Ciudad : Buenos aires
+ <br>Telefono : 911 61927987
+ <br>Email : ricardocolman2013@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Técnico en informática con experiencia en dar soporte a usuarios dentro de una empresa y velar por el buen funcionamiento de la plataforma tecnológica interna, a través de los mantenimientos preventivos y correctivos, a fin de asegurar la óptima operatividad de las comunicaciones.
+ <br>Security_code : wbqrn
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.22.73.100<br>
+ <br>Nombre : Nahuel 
+ <br>Apellido : Peredo
+ <br>Cargo : Mantenimiento edilicio
+ <br>Direccion : Cotagaita 2122
+ <br>Ciudad : Buenos aires 
+ <br>Telefono : 1130097923
+ <br>Email : peredonahuel@yahoo.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola qué tal, soy Nahuel Peredo. Tengo título electricista instalador. También de instalador reparador de aires acondicionados. Instalaciones, reparaciones eléctricas (trifásicas 380v y monofásicas 220v) Funcionamiento de grupos electrógenos
+Instalación reparación de aire acondicionado. 
+Trabajos en plomería. (caños de polipropileno y termo fusión)
+ Trabajos en herrería. (soldadura eléctrica y mig,).
+ <br>Security_code : Msmbm
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.188.51.234<br>
+ <br>REF : ROT-1
+ <br>Nombre : Augusto
+ <br>Apellido : RiOS
+ <br>Cargo : RESPONSABLE DE OFICINA TECNICA 
+ <br>Direccion : 9 DE Julio 433
+ <br>Ciudad : Moron
+ <br>Telefono : 1165893653
+ <br>Email : augandm@outlook.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buen día,
+
+adjunto resumen curricular para postularme al puesto de responsable de oficina tecnica, si mi perfil resulta de interes no duden en comunicarse para coordinar una entrevista.
+
+Saludos cordiales
+ <br>Security_code : qns7n
+ <br>Send : Enviar
+ <br>
+---------------
+

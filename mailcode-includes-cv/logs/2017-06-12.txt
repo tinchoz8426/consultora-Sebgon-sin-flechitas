@@ -1,0 +1,80 @@
+Address : 181.44.69.37<br>
+ <br>REF : chr
+ <br>Nombre : cesar javier 
+ <br>Apellido : rodriguez
+ <br>Cargo : chofer de camiones
+ <br>Direccion : 1852, asamblea
+ <br>Ciudad : burzaco
+ <br>Telefono : 1164368796
+ <br>Email : pao-valent@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje :  buenas tarde aquien corresponda quisiera postularme a la vacante de chofer
+ <br>Security_code : bb8y4
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.61.156.198<br>
+ <br>Nombre : Daniel alberto
+ <br>Apellido : Cravero 
+ <br>Cargo : operario inyector plastco
+ <br>Direccion : argerich 2083  
+ <br>Ciudad : hurlingham  
+ <br>Telefono : 1563741560
+ <br>Email : Danielcravero43@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola soy operador inyector y tenga 20 años de experiencia en el rubro
+ <br>Security_code : 6kbt5
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.61.156.198<br>
+ <br>Nombre : Daniel alberto
+ <br>Apellido : Cravero 
+ <br>Cargo : operario inyector plastco
+ <br>Direccion : argerich 2083  
+ <br>Ciudad : hurlingham  
+ <br>Telefono : 1563741560
+ <br>Email : Danielcravero43@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola soy operador inyector y tenga 20 años de experiencia en el rubro
+ <br>Security_code : 6kbt5
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.137.192.84<br>
+ <br>REF : chr
+ <br>Nombre : pablo javier
+ <br>Apellido : ramos
+ <br>Cargo : chofer
+ <br>Direccion : isabel la catolica, 1145
+ <br>Ciudad : caba
+ <br>Telefono : 1162706027
+ <br>Email : pablojr75@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : cv
+ <br>Security_code : k4bqc
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.124.1.217<br>
+ <br>REF : EP-1
+ <br>Nombre : Pablo
+ <br>Apellido : Garrido
+ <br>Cargo : Encargado de producción
+ <br>Direccion : El Chalchalero 654
+ <br>Ciudad : Lujan
+ <br>Telefono : +54 9 11 5939 7763
+ <br>Email : garridopablo.1979@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas noches. Adjunto mi CV para la búsqueda laboral.
+
+Atte.-
+ <br>Security_code : gjzns
+ <br>Send : Enviar
+ <br>
+---------------
+

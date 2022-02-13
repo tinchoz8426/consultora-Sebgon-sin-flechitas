@@ -1,0 +1,31 @@
+Address : 201.212.5.71
+Nombre : JUAN IGNACIO
+Apellido : VAL
+Cargo : EMPLEADO
+Direccion : LUGONES 4447
+Ciudad : BUENOS AIRES
+Telefono : 45449476
+Email : juancito.uqz@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Espero a la brevedad alguna respuesta,muchas gracias
+Security_code : vk8kd
+Send : Enviar
+
+---------------
+
+Address : 190.138.95.146
+REF : jefe-de-operaciones
+Nombre : Kevin Joaquin
+Apellido : Calderon
+Cargo : sin pretenciones
+Direccion : Rwson 343, bº Sabattini
+Ciudad : Alta Gracia
+Telefono : 0351152177129
+Email : chuca_lv_ag@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : busco un empleo que me permita crecer en mi ámbito social, laboral y personal. Soy una persona activa y con muchas ganas de aprender y trabajar. 
+Security_code : r8794
+Send : Enviar
+
+---------------
+

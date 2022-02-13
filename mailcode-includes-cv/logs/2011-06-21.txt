@@ -1,0 +1,32 @@
+Address : 186.19.204.90
+Nombre : Gretel
+Apellido : Martinez
+Cargo : Asistente - Rrhh - Acompañante terapéutico
+Direccion : Ramón Falcón 1510
+Ciudad : CABA
+Telefono : 35355889
+Email : licgretelmartinez@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimana consultora: Soy una profesional recientemente recibida en la universidad de Buenos Aires. Me encuentro en la búsqueda laboral, sea en puestos acordes a mi experiencia como así también nuevos desafíos relacionados a mi profesión.
+Aguardo una pronta comunicación.
+Lic. Gretel Martinez
+Security_code : 5fg33
+Send : Enviar
+
+---------------
+
+Address : 190.191.13.46
+Nombre : Vanina
+Apellido : Borrillo
+Cargo : Lic Comunicación social
+Direccion : 11 entre 71 y 72
+Ciudad : La Plata
+Telefono : 2215935282
+Email : vaniborrillo@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Soy Licenciada en Comunicación social con orientacion en Planificación comunicacional.
+Security_code : ypwst
+Send : Enviar
+
+---------------
+

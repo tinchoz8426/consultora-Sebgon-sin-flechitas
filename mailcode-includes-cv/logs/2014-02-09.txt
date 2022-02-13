@@ -1,0 +1,125 @@
+Address : 190.120.180.45
+Nombre : María Elizabeth 
+Apellido : Lopez
+Cargo : Administrativa, Analista Cuentas a Pagar
+Direccion : Calle 394
+Ciudad : Quilmes Oeste
+Telefono : 11-3923-4743
+Email : melizabethlopez@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenos días, adjunto mi CV quedando a su disposición para una entrevista si se presenta un puesto que entre en mi perfil.
+Desde ya muchas gracias.
+Security_code : yq8vw
+Send : Enviar
+
+---------------
+
+Address : 186.133.6.251
+Nombre : jose hector
+Apellido : serrano
+Cargo : tecnico mecanico
+Direccion : barrio provincias unidas
+Ciudad : tolhuin
+Telefono : 02901-15408048
+Email : simonne2002@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : me dirijo a ud. a espera de una respuesta favorable
+Security_code : wvh3s
+Send : Enviar
+
+---------------
+
+Address : 201.235.148.33
+Nombre : dario 
+Apellido : barga
+Cargo : repositor
+Direccion : JB.Gaona
+Ciudad : cordoba
+Telefono : 155202570
+Email : caceresayelen@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : disponibilidad full time.
+Security_code : cm43c
+Send : Enviar
+
+---------------
+
+Address : 201.235.148.33
+Nombre : dario 
+Apellido : barga
+Cargo : repositor
+Direccion : JB.Gaona
+Ciudad : cordoba
+Telefono : 155202570
+Email : caceresayelen@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : disponibilidad full time.
+Security_code : cm43c
+Send : Enviar
+
+---------------
+
+Address : 201.235.148.33
+Nombre : dario 
+Apellido : barga
+Cargo : repositor
+Direccion : JB.Gaona
+Ciudad : cordoba
+Telefono : 155202570
+Email : caceresayelen@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : disponibilidad full time.
+Security_code : 2yfgw
+Send : Enviar
+
+---------------
+
+Address : 186.122.46.66
+Nombre : lucia soledad
+Apellido : bustos
+Cargo : fabrica de cualquier rubro
+Direccion : viedma 114 barrio las flores
+Ciudad : cordoba
+Telefono : 03515311534
+Email : luli1815@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : hola necesito trabajo disponibl. full time 
+Security_code : 9mykv
+Send : Enviar
+
+---------------
+
+Address : 190.244.195.84
+Nombre : Maria Victoria 
+Apellido : Ansola
+Cargo : produccion
+Direccion : callle 41 y 10
+Ciudad : 25 de mayo
+Telefono : 02345-15659670
+Email : vickyansola08@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me dirijo a ustedes con el fin de remitirles mi Currriculum Vitae para que me tengan en cuenta para cualquier trabajo que pueda salir. Ya que estoy a punto de recibirme como Ing. Agronomo, estudiante avanzado de la carrera de Agronomia de la UNLP, con un buen expediente académico, sino que además tengo un listados de cursos, jornadas realizados a fines agronómicos.
+
+ 
+
+Espero tener la oportunidad de conversar con ustedes en una entrevista para personalmente exponerles mis conocimientos y mi deseo de formar parte de su grupo de trabajo. 
+Security_code : m7mk6
+Send : Enviar
+
+---------------
+
+Address : 186.19.79.66
+Nombre : Ignacio
+Apellido : tavieres
+Cargo : -
+Direccion : PICHINCHA 141
+Ciudad : capital federal
+Telefono : 02396-15466034
+Email : tavieres212@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenos dias , estoy buscando trabajo en distintos rubros , ventas,atencion al cliente,logistica,gastronomia,etc. Espero puedan ayudarme. Atte Ignacio
+Security_code : wtjnf
+Send : Enviar
+
+---------------
+

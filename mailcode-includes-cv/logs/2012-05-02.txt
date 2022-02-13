@@ -1,0 +1,48 @@
+Address : 186.18.207.35
+Nombre : Carla Mariel
+Apellido : Diaz Piccone
+Cargo : Asistente de RRHH
+Direccion : Escalada 112
+Ciudad : Capital Federal
+Telefono : 46822248
+Email : diaz.carla44@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Les envío mi C.V para formar parte de su base de datos.
+Muchas gracias
+Security_code : 92sjf
+Send : Enviar
+
+---------------
+
+Address : 190.179.117.137
+Nombre : claudio grabriel
+Apellido : ortega
+Cargo : Varios
+Direccion : esquiu 490
+Ciudad : cipolletti
+Telefono : 0299154733865
+Email : go.ortega59@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : deseo tener nuevas experencia laborales por eso estoy dispuesto a nuevas ofertas. 
+Security_code : sz8yj
+Send : Enviar
+
+---------------
+
+Address : 190.30.72.217
+Nombre : Jesica Irina
+Apellido : Castro
+Cargo : Vendedora
+Direccion : Pasaje La Prida s/n
+Ciudad : La Falda
+Telefono : 3548-15408687
+Email : iri_307@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Pretendo desempeñar las tareas q se me designen. 
+Formarm en el ambito laboral.
+
+Security_code : nnk5m
+Send : Enviar
+
+---------------
+

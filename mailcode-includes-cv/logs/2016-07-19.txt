@@ -1,0 +1,111 @@
+Address : 181.16.123.47<br>
+ <br>REF : OEL
+ <br>Nombre : Marcelo Oscar
+ <br>Apellido : Fiorini
+ <br>Cargo : Electricista matriculado
+ <br>Direccion : Granaderos a caballos 3833
+ <br>Ciudad : Jose c paz
+ <br>Telefono : 1128674860
+ <br>Email : Marceloelectricidad@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me postulo para el puesto de electricista .adjunto al conocimiento montaje de maquinas automaticas.instalacion electrica 380220 .armados diseños y calculos de tableros interpretacion de planos .conocimiento en plomeria .herreria .soldadura.mecanica industrial .y automotriz tambien e dado clases de electrotecnia nivel 3.asi que no tengo incomvenientes con adaptarme a grupo .espero sirva los datos aportados gracias 8
+ <br>Security_code : 828m6
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.231.93.120<br>
+ <br>REF : TECELEC
+ <br>Nombre : Marcelo Alejandro
+ <br>Apellido : Di Nardo
+ <br>Cargo : tecnico electronico
+ <br>Direccion : Bolivar, 1071
+ <br>Ciudad : Villa Ballester
+ <br>Telefono : 1147206109
+ <br>Email : marcelodinard@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : remumeración pretendida 15000
+ <br>Security_code : zn3rh
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.231.93.120<br>
+ <br>REF : tecm
+ <br>Nombre : Marcelo Alejandro
+ <br>Apellido : Di Nardo
+ <br>Cargo : tecnico
+ <br>Direccion : Bolivar, 1071
+ <br>Ciudad : Villa Ballester
+ <br>Telefono : 1147206109
+ <br>Email : marcelodinard@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : rem 15000
+ <br>Security_code : t7663
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.231.93.120<br>
+ <br>REF : TLP
+ <br>Nombre : Marcelo Alejandro
+ <br>Apellido : Di Nardo
+ <br>Cargo : tecnico
+ <br>Direccion : Bolivar, 1071
+ <br>Ciudad : Villa Ballester
+ <br>Telefono : 1147206109
+ <br>Email : marcelodinard@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : rem 15000
+ <br>Security_code : pwf4y
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.231.93.120<br>
+ <br>Nombre : Marcelo Alejandro
+ <br>Apellido : Di Nardo
+ <br>Cargo : tecnico
+ <br>Direccion : Bolivar, 1071
+ <br>Ciudad : Villa Ballester
+ <br>Telefono : 1147206109
+ <br>Email : marcelodinard@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : rem 15000
+ <br>Security_code : wfsbp
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 191.84.166.7<br>
+ <br>REF : tecm
+ <br>Nombre : Roberto Ramón
+ <br>Apellido : Varas
+ <br>Cargo : Tec. eletromecánico
+ <br>Direccion : Milan 158
+ <br>Ciudad : Florencio Varela
+ <br>Telefono : 42873531
+ <br>Email : corsriovaras@hotmil.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me conecto con ustedes con el fin de cercarles mi curreiculum
+ <br>Security_code : qjyh5
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.45.225.206<br>
+ <br>REF : tecm
+ <br>Nombre : FERNANDO
+ <br>Apellido : OJEDA
+ <br>Cargo : Tecnico Mecanico Mantenimiento
+ <br>Direccion : lavallol 3052
+ <br>Ciudad : laferrere
+ <br>Telefono : 1155867339
+ <br>Email : fernandoojeda777@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : tecnico mecanico con experiencia en mantenimiento y aplicacion de normas de seguridad
+ <br>Security_code : 9q9ts
+ <br>Send : Enviar
+ <br>
+---------------
+

@@ -1,0 +1,25 @@
+Address : 190.104.239.26<br>
+ <br>REF : EP-1
+ <br>Nombre : Eduardo
+ <br>Apellido : Malpica
+ <br>Cargo : Encargado de Producción
+ <br>Direccion : Tte. Gral. Juan Domingo Perón 1554
+ <br>Ciudad : Ciudad Autónoma de Buenos Aires
+ <br>Telefono : 1126734927
+ <br>Email : malpicaeduardo@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Envío mi CV para ser tenido en cuenta en el área de investigación y desarrollo, planta o producción.
+
+Tengo amplia experiencia en manejo de grupo de trabajo, investigación y desarrollo en productos horneados libres de gluten, chocolarería y bebidas no alcohólicas, también en manejo de paquetes estadísticos para evaluaciones sensoriales o de control.
+
+Estoy dispuesto a empezar a trabajar en cualquier puesto y que poco a poco conozca mi desempeño, sólo quisiera me brindara la oportunidad, de reubicarme tanto en Buenos Aires como en cualquier otro punto del país.
+
+Gracias de antemano, me despido en espera de una pronta y satisfactoria respuesta, atentamente,
+
+Eduardo Malpica
+
+ <br>Security_code : q23jx
+ <br>Send : Enviar
+ <br>
+---------------
+

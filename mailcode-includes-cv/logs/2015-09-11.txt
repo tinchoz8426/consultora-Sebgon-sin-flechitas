@@ -1,0 +1,67 @@
+Address : 167.62.174.220
+Nombre : RAUL 
+Apellido : VIOLA
+Cargo : OPERADOR DE SISTEMAS / VISITADOR MEDICO 
+Direccion : LINIERS 2434   
+Ciudad : VALENTIN ALSINA 
+Telefono : 011 3090 9488
+Email : raulviola62@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Mediante la presente me dirijo a Uds. con motivo de postularme alguna búsqueda de acuerdo a mi perfil.  Un cordial saludo atte. 
+Security_code : ywk6v
+Send : Enviar
+
+---------------
+
+Address : 186.18.230.235
+Nombre : Karina 
+Apellido : Virla
+Cargo : Coordinador
+Direccion : Charcas 5265
+Ciudad : Buenos Aires
+Telefono : +5491164676963
+Email : kvirla@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Reciban un cordial saludo, soy una profesional de la Ingeniería Química con sólida experiencia en Administración y Liderazgo de Personal, manejo de Proveedores y facilidad para la organización del trabajo en equipo, proactiva, creativa con gran sentido de responsabilidad, excelentes relaciones interpersonales y comunicacionales.  
+
+Agradecería tomaran en cuenta mi currículum en caso de tener alguna vacante.
+
+Sin otro particular al cual referirme, me despido.
+
+Ing. Karina Virla
+
+Security_code : y5qvq
+Send : Enviar
+
+---------------
+
+Address : 200.59.75.124
+Nombre : Miriam alejandra
+Apellido : perez
+Cargo : maestranza y otros
+Direccion : puyen 156
+Ciudad : río grande 
+Telefono : 02964 526166
+Email : miliialejandraperez@gmail.com.con.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola busco trabajo ASE poco vine del norte disponibilidad de hora y respeto y responsavilidad y seriedad
+Security_code : f8zf5
+Send : Enviar
+
+---------------
+
+Address : 190.151.174.68
+Nombre : mara alejandra
+Apellido : ledesma
+Cargo : preceptor
+Direccion : manuel alberti 1187
+Ciudad : capital
+Telefono : 0385155873427
+Email : maledesma22@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : hola soy la presona que estan buscando contactamen
+Security_code : 65mry
+Send : Enviar
+
+---------------
+

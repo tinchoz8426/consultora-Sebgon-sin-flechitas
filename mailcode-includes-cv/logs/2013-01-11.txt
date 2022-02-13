@@ -1,0 +1,81 @@
+Address : 190.51.198.212
+Nombre : Lucas 
+Apellido : Segovia
+Cargo : Operario de produccion
+Direccion : Alvear 416
+Ciudad : Ezeiza
+Telefono : (011) 4295-1447
+Email : lucas_lms_24@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Dejo mi CV
+Security_code : s9ygz
+Send : Enviar
+
+---------------
+
+Address : 190.51.198.212
+Nombre : Lucas 
+Apellido : Segovia
+Cargo : Operario de produccion
+Direccion : Alvear 416
+Ciudad : Ezeiza
+Telefono : 011 4295 1447
+Email : lucas_lms_24@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Les dejo mi CV
+Security_code : gvxv6
+Send : Enviar
+
+---------------
+
+Address : 190.247.17.45
+Nombre : Liliana Mariel
+Apellido : González
+Cargo : Administración. Atención al público
+Direccion : Sobremonte 166
+Ciudad : San Fernando
+Telefono : 011-47312084
+Email : liliana_gonzalezvargas@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : 11/01/2013 
+
+A: Consultora Sebgon, de mi mayor consideración. 
+
+Me dirijo a ustedes con el propósito de postularme para un posible puesto de trabajo en la Empresa. 
+
+Soy estudiante de la Universidad de Buenos Aires (UBA), de la Carrera de Trabajo Social; actualmente poseo e 95% de la Carrera aprobada (con certificado analítico a su disposición). 
+
+Poseo experiencia en tareas administrativas varias (en Analista en Riesgo Crediticio Bancario), y en Telemarketer (de atención telefónica a clientes y ventas de llamadas entrantes y salientes). 
+
+Tengo conocimientos de Informática (Windows, Excel, Word, Access, Internet) e Idioma Inglés. 
+
+Resido en Zona Norte de Gran Buenos Aires. 
+
+Adjunto le envío mi Currículum Vitae. 
+
+Sin otro particular, los saludo muy atentamente. 
+
+                                                                Liliana Mariel González.
+
+
+Security_code : 2wzbm
+Send : Enviar
+
+---------------
+
+Address : 186.123.135.133
+Nombre : maria fernanda
+Apellido : barrios
+Cargo : Ing. Forestal Magister en Gestion y auditorias ambientales
+Direccion : av del trabajo s/n
+Ciudad : Pampa del Infierno
+Telefono : 3644-227872 o 3704-783905
+Email : fernyba84@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : De mi mayor consideracion:
+Adjunto mi cv por alguna oportunidad laboral, segun mi perfin profesional, quedo a su disposicion
+Security_code : 9wjwn
+Send : Enviar
+
+---------------
+

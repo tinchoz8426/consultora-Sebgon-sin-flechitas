@@ -1,0 +1,49 @@
+Address : 181.0.0.97
+Nombre : German Nahuel
+Apellido : Meisnen
+Cargo : Aux Seguridad e higiene
+Direccion : San Nicolas 4855
+Ciudad : V. Dominico
+Telefono : 1544186400
+Email : mg_nahuel@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenos días aca les envio mi curriculum. Ojala puedan tenerlo en cuenta. Desde ya muchas gracias. 
+Security_code : c7j8q
+Send : Enviar
+
+---------------
+
+Address : 200.117.85.117
+Nombre : Pedro Antonio Andrés
+Apellido : Simmermacher
+Cargo : Gerenciamiento de Obras 
+Direccion : Pilar
+Ciudad : Pilar
+Telefono : 0292615400111
+Email : Pedro@jesmye.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : A/C Buenos Dias Estoy interesado que tengan en cuenta mi CV
+Muchas Gracias 
+Security_code : 6k6gn
+Send : Enviar
+
+---------------
+
+Address : 201.254.63.130
+Nombre : Jonatan Ariel
+Apellido : Borghetti
+Cargo : administracion/ventas
+Direccion : Suarez 4529
+Ciudad : Tres de febrero
+Telefono : 4488-5376
+Email : jonatan-ariel-b@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Aca les dejo mi CV.
+Desde ya muchas gracias.
+Saludo atte.
+Jonatan Borghetti
+Security_code : dc2y5
+Send : Enviar
+
+---------------
+

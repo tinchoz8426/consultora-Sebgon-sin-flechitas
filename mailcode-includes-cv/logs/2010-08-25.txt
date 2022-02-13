@@ -1,0 +1,83 @@
+Address : 24.232.181.72
+Nombre : María Lorena
+Apellido : Martínez
+Cargo : Lic. en Psicología
+Direccion : Bacacay 2623
+Ciudad : Ciudad Autónoma de Buenos Aires
+Telefono : 1540784136
+Email : maria_lorena_martinez@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : De mi mayor consideración:
+                      Me dirijo a Usted para pedirle tenga a bien aceptar mi Curriculum Vitae en respuesta a su pedido de Lic. en Psicología.           Quisiera adelantarle que soy Lic. en Psicología, egresada de la UBA. Actualmente, estoy ampliando mi formación, y me encuentro finalizando una Maestría Psicodiagnóstico y Evaluación Psicológica en la UBA. En cuanto a mi experiencia profesional, llevo cinco años realizando Evaluaciones Psicológicas para los ingresos de aspirantes a la formación en Seguridad Pública de la Policía de la Provincia de Buenos Aires. Me he desempeñado tanto en ingresos masivos como en evaluaciones individuales, logrando especializarme en el área de Seguridad y Aptos para portación de arma.                                   
+Es mi interés seguir creciendo profesionalmente, desarrollandome en puestos que ameriten esfuerzo y profesionalismo. Quedo a su entera disposición para una entrevista personal. Saludo a Usted atte.
+
+Lic. María Lorena Martínez
+tel. 1540784136
+
+Security_code : wkjx4
+Send : Enviar
+
+---------------
+
+Address : 186.19.131.228
+Nombre : alejandra
+Apellido : valente
+Cargo : recepcionista/administrativa
+Direccion : cafayate 4264
+Ciudad : capital federal
+Telefono : 1569110186
+Email : alejandravalente_75@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : por favor si pueden tener mi curriculum por este medio ya que en jobs se hace un poco complicado cuando piden requisitos ej remuneracion
+Security_code : 77gmx
+Send : Enviar
+
+---------------
+
+Address : 200.47.60.62
+REF : exp
+Nombre : MARIA PAULA
+Apellido : GOROSITO
+Cargo : PSICOLOGA
+Direccion : PEDRO TORRES 1368
+Ciudad : PERGAMINO
+Telefono : 02477-414450
+Email : paulagorosito@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : quisiera ser tenida en cuenta para un puesto en la ciudad de pergamino
+Security_code : 8bq6j
+Send : Enviar
+
+---------------
+
+Address : 200.123.170.73
+REF : adper
+Nombre : Michele 
+Apellido : tanquart 
+Cargo : Administrativo
+Direccion : Av. San Juan 2975 
+Ciudad : cap fed
+Telefono : 46586300 
+Email : mtanquart@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Me postulo al aviso de Adm 
+Security_code : 6fdk5
+Send : Enviar
+
+---------------
+
+Address : 190.51.119.179
+Nombre : Matias
+Apellido : Goitisolo
+Cargo : Administrativo
+Direccion : Avellaneda 241
+Ciudad : Morón
+Telefono : 46960313
+Email : Matigoiti@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me encuentro en la busqueda de un trabajo de acuerdo a mis capacidades. Soy una persona dinámica, proactiva, con ganas de trabajar y con ganas de crecer permanentemente
+Security_code : nztzw
+Send : Enviar
+
+---------------
+

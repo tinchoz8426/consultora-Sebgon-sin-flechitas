@@ -1,0 +1,49 @@
+Address : 181.47.137.222<br>
+ <br>Nombre : Elias Leonardo
+ <br>Apellido : Abdala
+ <br>Cargo : Ayudante de cocina
+ <br>Direccion : Soldado de la frontera 5186
+ <br>Ciudad : Capital federal
+ <br>Telefono : 1537592797
+ <br>Email : eliaslabdala@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buen día,me dirijo a ustedes con el fin de poder hacerles llegar mi curriculum debido a que actualmente me encuentro en la búsqueda activa de empleo.
+
+Soy una persona responsable y con ganas de trabajar.
+
+Me despido atentamente.
+ <br>Security_code : xbydb
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.28<br>
+ <br>Nombre : Jorge
+ <br>Apellido : Baldini
+ <br>Cargo : Supervisor
+ <br>Direccion : Friuli, 1165
+ <br>Ciudad : Mar Del Plata
+ <br>Telefono : 2235715308
+ <br>Email : jobaldini26@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Soy una persona altamente calificada para supervisar y controlar personal e impartir directivas y hacerlas cumplir. Poseo el título de técnico en seguridad pública y ciudadana 
+ <br>Security_code : ck68f
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.221.213.123<br>
+ <br>Nombre : Fernando
+ <br>Apellido : Nuñez
+ <br>Cargo : Técnico en higiene y seguridad laboral 
+ <br>Direccion : Victoria 1795 Barrio Foeva
+ <br>Ciudad : san juan
+ <br>Telefono : 2644454684
+ <br>Email : fernando_nz5@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Asesoramiento y control en Seguridad e Higiene laboral, habilitaciones, Capacitación, revelamiento de riesgos, cumplimiento legal, plan de evacuación, capacitación ergonómico; otros servicios.
+ <br>Security_code : 6byff
+ <br>Send : Enviar
+ <br>
+---------------
+

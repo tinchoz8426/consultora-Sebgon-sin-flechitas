@@ -1,0 +1,63 @@
+Address : 190.99.115.158
+Nombre : Marcela
+Apellido : Arroyo
+Cargo : Administracion
+Direccion : Saavedra Lamas 628
+Ciudad : Jose C Paz
+Telefono : 1565779898
+Email : marcela_arroyo76@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : A quien corresponda
+Me dirijo a Ud. con el fin de enviarle mi Curriculum Vitae y de este modo aspirar al puesto de Empleada Administrativaa.
+
+Como puede usted comprobar en el mismo, tengo experiencia  ya que estuve desempeñando Tareas Administrativas en general, Cajas , Tesorerìa, Atención al Cliente,  Recepción ,etc  también tengo ganas de seguir capacitándome en la medida que lo soliciten.
+
+Mi ultimo trabajo fue en Química Opalion SRL por un período de 2 meses un reemplazo de Licencia por maternidad de Encargada Administrativa cargo y tareas realizadas son recepción,Distribución y logística, impresión de remitos, control de pedidos, cobranzas coordinación de las mismas,  seguimiento de cuentas corrientes, compras, pago a proveedores, Ingreso de pagos y recibos al sistema, ventas, toma de pedidos, ingreso de facturas al sistema contable, libros IVA Compras y Ventas, archivos. Perìodo 22/07/13 a 03/09/13.
+
+Esperando que estudie mi candidatura y en espera de prontas noticias, le saluda atentamente.
+
+Arroyo, Marcela A.-
+Adjunto: "Curriculum Vitae"
+
+
+Security_code : 23cmh
+Send : Enviar
+
+---------------
+
+Address : 190.183.93.204
+Nombre : Hernan Celedonio 
+Apellido : Gomez Cabrera
+Cargo : Pasante/Ayudante
+Direccion : Avenida Wilde 352
+Ciudad : Resistencia
+Telefono : 03624432264
+Email : hernanceledonio@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Soy estudiante avanzado de una carrera medioambiental con residencia en la ciudad de Resistencia, Chaco.
+Security_code : sh4kx
+Send : Enviar
+
+---------------
+
+Address : 186.56.132.194
+Nombre : Marcelo Sergio
+Apellido : Gutter
+Cargo : Presentación espontánea
+Direccion : Ruta 8 km 51,500.   Barrio Cerrado Las Condes
+Ciudad : Pilar
+Telefono : 1551188966
+Email : mgutter@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estoy iniciando un proceso de búsqueda laboral y mucho agradecería tengan en cuenta mi CV para posiciones acordes a mi perfil y experiencia. Hace más de 16 años que estoy ocupando el puesto de Gerente de Administración y Finanzas / Controller, en importantes empresas nacionales y multinacionales, habiéndome desempeñado exitosamente en distintas ramas del comercio y de la industria. 
+
+Muchisimas gracias por su atención y quedo a  disposición por si quisieran que nos conozcamos personalmente. 
+
+Cordiales saludos 
+Marcelo Gutter 
+Cel 155 118 89 66
+Security_code : cqr72
+Send : Enviar
+
+---------------
+

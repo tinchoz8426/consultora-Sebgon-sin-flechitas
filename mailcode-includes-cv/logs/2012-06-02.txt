@@ -1,0 +1,15 @@
+Address : 186.191.191.94
+Nombre : Gino Fabrizio
+Apellido : Salvatelli
+Cargo : empleado
+Direccion : Ortiz Montiel 2317
+Ciudad : Cordoba Capital
+Telefono : 351 155 188 601
+Email : ginosalvatelli@hotmail.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenos días, me dirijo a Ud/s con el objetivo de enviar mi CV. Espero contar con su respuesta, desde ya, muchas gracias. Gino Salvatelli
+Security_code : nkbry
+Send : Enviar
+
+---------------
+

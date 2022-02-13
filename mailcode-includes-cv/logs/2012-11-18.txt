@@ -1,0 +1,51 @@
+Address : 190.247.78.68
+Nombre : Mariela Belen
+Apellido : Fernandez
+Cargo : At. al Cliente (secretaria, recepcionista, camarera)
+Direccion : Av. del Libertador 8190
+Ciudad : Nuñez (CABA)
+Telefono : 47021426
+Email : fernandezmb92@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados :
+
+Me comunico con ustedes, a fin de informarles sobre mi interés en trabajar en su empresa. Como podrán ver en mi CV, mis experiencias de trabajo previas, me brindaron la capacidad de comunicarme muy bien con los clientes.
+Soy joven, con buena voluntad y muchas ganas de aprender.
+Por otra parte, la remuneración  pretendida, puede ajustarse a las políticas de su empresa.
+Espero que encuentren útil mi postulación, y podamos comunicarnos para acordar una entrevista.
+
+Atte.,
+
+Mariela Fernandez
+
+P.D.: DISPONIBILIDAD HORARIA TODOS LOS DIAS, A PARTIR DE LAS 21 HS.
+Security_code : J2X2N
+Send : Enviar
+
+---------------
+
+Address : 186.22.71.171
+Nombre : GERARDO
+Apellido : ORTIGUEIRA
+Cargo : EMPLEADO
+Direccion : Av. Córdoba 2910 7º A
+Ciudad : CAP. FED
+Telefono : 4963-1720
+Email : g.ortigueira@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Sr. Gerente de RR.HH:
+
+
+Mediante la presente molesto su atención con el fin de enviarles una copia de mi currículum vitae. En el mismo podrá apreciar mis datos personales y antecedentes laborales. Cualquier consulta, me encuentro a v/disposición.
+ 
+Sin más, aprovecho la oportunidad para saludarlos muy cordialmente.
+
+ 
+Gerardo A. Ortigueira
+     15-6258-9033
+
+Security_code : Z5W8F
+Send : Enviar
+
+---------------
+

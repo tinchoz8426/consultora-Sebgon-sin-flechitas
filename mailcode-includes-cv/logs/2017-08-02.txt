@@ -1,0 +1,528 @@
+Address : 186.60.142.184<br>
+ <br>REF : JPER-1
+ <br>Nombre : juan
+ <br>Apellido : bustos
+ <br>Cargo : rrhh
+ <br>Direccion : independencia 818 p 2 c
+ <br>Ciudad : caba
+ <br>Telefono : 1163582599
+ <br>Email : juanbusto288@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : disposición full time 
+ <br>Security_code : dgw47
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.29.194.235<br>
+ <br>REF : chr
+ <br>Nombre : Juan
+ <br>Apellido : Olartes
+ <br>Cargo : chofer
+ <br>Direccion : Guillermo Hudson
+ <br>Ciudad : San Francisco Solano
+ <br>Telefono : 1168534002
+ <br>Email : jhony7919@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me dirijo a ustedes con el interés de trabajar para ustedes, tengo buena predisposición y seriedad para cualquiera de los puestos.
+ <br>Security_code : bk5tj
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.29.194.235<br>
+ <br>REF : chr
+ <br>Nombre : Juan
+ <br>Apellido : Olartes
+ <br>Cargo : chofer
+ <br>Direccion : Guillermo Hudson
+ <br>Ciudad : San Francisco Solano
+ <br>Telefono : 1168534002
+ <br>Email : jhony7919@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me dirijo a ustedes con el interés de trabajar para ustedes, tengo buena predisposición y seriedad para cualquiera de los puestos.
+ <br>Security_code : vgd68
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.170.174.83<br>
+ <br>REF : ACO-1
+ <br>Nombre : Nicolás
+ <br>Apellido : Borrescio
+ <br>Cargo : ANALISTA DE COMERCIO INTERNACIONAL/EXTERIOR
+ <br>Direccion : Guayaquil 241 Piso 2
+ <br>Ciudad : Capital Federal
+ <br>Telefono : (15)26334586
+ <br>Email : nborrescio@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : -
+ <br>Security_code : kqwv
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.170.174.83<br>
+ <br>REF : ACO-1
+ <br>Nombre : Nicolás
+ <br>Apellido : Borrescio
+ <br>Cargo : ANALISTA DE COMERCIO INTERNACIONAL/EXTERIOR
+ <br>Direccion : Guayaquil 241 Piso 2
+ <br>Ciudad : Capital Federal
+ <br>Telefono : (15)26334586
+ <br>Email : nborrescio@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : -
+ <br>Security_code : 4h5wq
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 179.36.117.7<br>
+ <br>REF : ACO
+ <br>Nombre : Federico
+ <br>Apellido : Serra Villarroel
+ <br>Cargo : ASISTENTE COMERCIAL 
+ <br>Direccion : Del Comercio 1084
+ <br>Ciudad : CABA
+ <br>Telefono : 541149229587
+ <br>Email : federico.serra.villarroel@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Técnico comercial administrativo
+ <br>Security_code : 2mzrj
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.95.178.160<br>
+ <br>Nombre : Gonzalo Pablo
+ <br>Apellido : Fernandez
+ <br>Cargo : Chjofer
+ <br>Direccion : CONGRESO 3580
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 15-6286-3422
+ <br>Email : gonzalopablofernandez@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Chofer de camiom o camioneta.
+ <br>Security_code : yxhx6
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.13.238.218<br>
+ <br>REF : SP-1
+ <br>Nombre : alan
+ <br>Apellido : santillan
+ <br>Cargo : supervisor de producción
+ <br>Direccion : peralta ramos 1239
+ <br>Ciudad : grand bourg
+ <br>Telefono : 1144111100
+ <br>Email : alancito.33.as@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Envio adjunto el cv por la solicitud de supervisor de produccion
+ <br>Security_code : k6nfn
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.17.199.27<br>
+ <br>REF : JPER-1
+ <br>Nombre : Roberto
+ <br>Apellido : Quirico
+ <br>Cargo : Jefe de personal
+ <br>Direccion : Guardia Nacional
+ <br>Ciudad : argentina
+ <br>Telefono : 1133774874
+ <br>Email : robertoquirico.rq@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Soy la persona
+ <br>Security_code : V3m29
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 200.125.74.49<br>
+ <br>REF : EP-1
+ <br>Nombre : Marlene
+ <br>Apellido : Mora
+ <br>Cargo : Encargado de Calidad
+ <br>Direccion : Av. Cordoba 1890
+ <br>Ciudad : CABA
+ <br>Telefono : 1170248491
+ <br>Email : beatrizucv2012@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : envio mi cv para su evaluación al cargo
+ <br>Security_code : c6mwf
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 179.39.135.146<br>
+ <br>REF : ACO
+ <br>Nombre : Daniela Fabiana
+ <br>Apellido : Garis
+ <br>Cargo : Asistente de Ventas
+ <br>Direccion : Posadas, 754
+ <br>Ciudad : PROVINCIA DE Bs.As.
+ <br>Telefono : 46473006
+ <br>Email : daniela_g37@hotmail.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : De mi mayor consideración:
+Tengo el agrado de dirigirme a Ud. Con el fin de transmitirles mi deseo en firme de incorporarme a su organización. A tal efecto adjunto, mi Curriculum Vitae.
+Me presento como una persona activa, responsable, creativa, flexible, orientada al logro de resultados y a la resolución y evolución constante en las tareas asignadas.
+El objeto que me he impuesto, es el de formar parte del personal de una empresa prestigiosa y confiable.
+Si fuera necesario podría acercarme personalmente para cualquier consulta adicional o entrevista personal.
+Solo tiene que comunicarse al telPart: 4647-3006 o Cel 15 3246-3315 o por mail daniela_g37@hotmail.com.ar
+Pongo, además, en su conocimiento que estoy en condiciones de asumir la responsabilidad de este empleo en forma inmediata, con amplia disponibilidad de horarios.
+Me despido Atte
+Daniela F Garis
+
+ <br>Security_code : r76f6
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.45.141.26<br>
+ <br>Nombre : Graciela
+ <br>Apellido : Abdala
+ <br>Cargo : Administrativa Recepcionista Asistente 
+ <br>Direccion : Foche 1156
+ <br>Ciudad : Castelar
+ <br>Telefono : 1536942260
+ <br>Email : greysabdala@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola buen día, mi nombre es Graciela Abdala y me encuentro en la búsqueda de trabajo. Tengo experiencia en áreas de facturación, manejo de ecxel como verán en mi curriculum. Tengo ganas de aprender y asumir nuevos desafíos. Quedo a su disposición. Saludos 
+ <br>Security_code : ybxbj
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.45.141.26<br>
+ <br>Nombre : Graciela
+ <br>Apellido : Abdala
+ <br>Cargo : Administrativa Recepcionista Asistente 
+ <br>Direccion : Foche 1156
+ <br>Ciudad : Castelar
+ <br>Telefono : 1536942260
+ <br>Email : greysabdala@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola buen día, mi nombre es Graciela Abdala y me encuentro en la búsqueda de trabajo. Tengo experiencia en áreas de facturación, manejo de ecxel como verán en mi curriculum. Tengo ganas de aprender y asumir nuevos desafíos. Quedo a su disposición. Saludos 
+ <br>Security_code : ybxbj
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.124.241.72<br>
+ <br>REF : ACO
+ <br>Nombre : Mariano Javier
+ <br>Apellido : Wiñar
+ <br>Cargo : ASISTENTE COMERCIAL 
+ <br>Direccion : Catamarca 4357
+ <br>Ciudad : Villa Ballester
+ <br>Telefono : 0226615635101
+ <br>Email : winarmarianoj@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados,
+
+Vista la Oferta Laboral les hago llegar mis datos personales y profesionales en Currículum Vitae a fin de ser tenido en cuenta como candidato.
+
+Con la convicción de poseer el perfil requerido para un muy buen desempeño en el cargo a cubrir, quedo a entera disposición para hacerle llegar, sea en una entrevista personal o por el medio que se me indique, las ampliaciones y/o la documentación probatoria correspondiente.
+
+Esperando una respuesta positiva lo saluda atentamente,
+
+
+
+Mariano Javier Wiñar
+Celular  02266-15-635101
+
+
+ <br>Security_code : n67s5
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 170.78.109.197<br>
+ <br>REF : ACO
+ <br>Nombre : Julia
+ <br>Apellido : Muratorio
+ <br>Cargo : ACO
+ <br>Direccion : Gral Mitre 141
+ <br>Ciudad : Tortuguitas
+ <br>Telefono : 1564743143
+ <br>Email : juliamuratorio@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Les escribo en respuesta a su aviso de referencia. 
+Mi nombre es Julia Muratorio. Soy divorciada sin hijos y sin personas a cargo. Vivo en Tortuguitas, a 2 cuadras de la estación de tren a Puente Saavedra (50 minutos de viaje) y Retiro (65 minutos). 
+Tengo estudios terciarios (Comercialización y Dirección de Empresas y Profesorado de Inglés). Soy bilingüe. 
+Cuento con extensa experiencia en relación de dependencia (empleada bilingüe, secretaria  y jefa de sector) realizando tareas tales como atención a clientes y proveedores, logística y cobranzas.
+Soy una persona de impecable presencia y trato, excelentes relaciones interpersonales, profesional, responsable, dinámica, organizada, creativa y propositiva. Cuento con la experiencia y cualidades requeridas, incluyendo dominio de herramientas informáticas. 
+Mis referencias son excelentes. 
+Mi disponibilidad es inmediata.
+Adjunto envío CV con detalle referencias. 
+Mi celular es 15-6474-3143.   
+Saludos cordiales
+
+ <br>Security_code : qncjz
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.30.19.158<br>
+ <br>REF : ACO
+ <br>Nombre : Florencia
+ <br>Apellido : Cariello
+ <br>Cargo : Asistente de Ventas
+ <br>Direccion : Boyaca 1379 2 B
+ <br>Ciudad : buenos aires
+ <br>Telefono : 1161912546
+ <br>Email : florcariello@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados, buen día! 
+Adjunto mi CV y quedo atenta de interesarles mis perfil.
+
+Muchas gracias!
+Saludos
+Florencia
+ <br>Security_code : q8sfb
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.45.95.152<br>
+ <br>Nombre : leandro 
+ <br>Apellido : altamirano
+ <br>Cargo : chofer
+ <br>Direccion : beethoven 5478
+ <br>Ciudad : laferrere
+ <br>Telefono : 1522805243
+ <br>Email : ezze_el12@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : hola busco trabajo de chofer tengo registro profesional y lnh para carga generales .experiencia en camiones chasis gran conocimiento de caba y gbsas gracias
+ <br>Security_code : 3bcjn
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.178.12.173<br>
+ <br>REF : EP-1
+ <br>Nombre : Fernando
+ <br>Apellido : Chepenecas
+ <br>Cargo : Encargado de producción
+ <br>Direccion : Paraguay 930
+ <br>Ciudad : CABA
+ <br>Telefono : 1562555643
+ <br>Email : ferchepe@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados, les acerco mi currículum vitae con la finalidad de aplicar a la búsqueda actual de Encargado de producción.
+
+Saluda atte. 
+Fernando Chepenecasa.
+Linkedin: linkedin.com/in/fernando-chepenecas-492195117
+ <br>Security_code : 2wr29
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.45.160.173<br>
+ <br>REF : chr
+ <br>Nombre : fernando ariel
+ <br>Apellido : montenegro
+ <br>Cargo : chofer
+ <br>Direccion : ferraroty 437
+ <br>Ciudad : monte grande
+ <br>Telefono : 20861664
+ <br>Email : guadalupe18lu@hotmail.coml
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : quiero trabajar por favor
+
+ <br>Security_code : thxr8
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 200.125.73.35<br>
+ <br>REF : EP-1
+ <br>Nombre : Luciana
+ <br>Apellido : Fernandez
+ <br>Cargo : Encargado de produccion
+ <br>Direccion : Av. Callao
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 1137802891
+ <br>Email : luci-sep1@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Tengo disponibilidad inmediata para trabajar
+ <br>Security_code : t6njg
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 200.125.73.35<br>
+ <br>REF : Ing. quim
+ <br>Nombre : Luciana
+ <br>Apellido : Fernandez
+ <br>Cargo : Jefa de Producción/ Ingeniera Quimica
+ <br>Direccion : Av. Callao
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 1137802891
+ <br>Email : luci-sep1@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Tengo disponibilidad inmediata para trabajar,quisiera que fura posible integrarme al equipo de trabajo.
+ <br>Security_code : hyc32
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 200.125.73.35<br>
+ <br>REF : Ing. quim
+ <br>Nombre : Luciana
+ <br>Apellido : Fernandez
+ <br>Cargo : Jefa de Producción/ Ingeniera Quimica
+ <br>Direccion : Av. Callao
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 1137802891
+ <br>Email : luci-sep1@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Tengo disponibilidad inmediata para trabajar,quisiera que fura posible integrarme al equipo de trabajo.
+ <br>Security_code : hyc32
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 200.125.73.35<br>
+ <br>REF : Ing. quim
+ <br>Nombre : Luciana
+ <br>Apellido : Fernandez
+ <br>Cargo : Jefa de Producción/ Ingeniera Quimica
+ <br>Direccion : Av. Callao
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 1137802891
+ <br>Email : luci-sep1@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Tengo disponibilidad inmediata para trabajar,quisiera que fura posible integrarme al equipo de trabajo.
+ <br>Security_code : hyc32
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 200.125.73.35<br>
+ <br>REF : Ing. quim
+ <br>Nombre : Luciana
+ <br>Apellido : Fernandez
+ <br>Cargo : Jefa de Producción/ Ingeniera Quimica
+ <br>Direccion : Av. Callao
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 1137802891
+ <br>Email : luci-sep1@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Soy una persona muy pro-activa me gustaría tener la oportunidad de integrarme a su equipo de trabajo
+ <br>Security_code : cgqy8
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 200.125.73.35<br>
+ <br>REF : Ing. quim
+ <br>Nombre : Luciana
+ <br>Apellido : Fernandez
+ <br>Cargo : Ing. Quim
+ <br>Direccion : Av. Callao
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 1137802891
+ <br>Email : luci-sep1@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Soy una persona pro-activa, me encuentro con disponibilidad inmediata para empezar a trabajar, me gustaria formar parte de su equipo de trabajo.
+ <br>Security_code : j6xmm
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 200.125.73.35<br>
+ <br>Nombre : Luciana
+ <br>Apellido : Fernandez
+ <br>Cargo : Ingeniera Química CV para búsquedas laborales
+ <br>Direccion : Av. Callao
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 1137802891
+ <br>Email : luci-sep1@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Envio mi CV para que pueda ser tomado en cuenta en las demandas laborales que busque su consultora.
+ <br>Security_code : w9c5h
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.50.254.204<br>
+ <br>Nombre : Eduardo Rodolfo
+ <br>Apellido : Thom
+ <br>Cargo : Chofer Distribuidor
+ <br>Direccion : calle 28 n3863
+ <br>Ciudad : Berazategui
+ <br>Telefono : 42581444  o 42585539 o 1549390981
+ <br>Email : eduthom2016@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : 5dpqy
+ <br>Security_code : 5dpqy
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.225.229.213<br>
+ <br>REF : ACO
+ <br>Nombre : Romina
+ <br>Apellido : Pereyra
+ <br>Cargo : Asistente comercial
+ <br>Direccion : Bahia Blanca 4772
+ <br>Ciudad : Capital Federal
+ <br>Telefono : 1559625317
+ <br>Email : romi_85s@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Sr/Sra. Gerente de Recursos Humanos
+
+
+De mi mayor consideración:
+
+Tengo el agrado de dirigirme a usted a fin de solicitarle una entrevista laboral para ofrecer los conocimientos que poseo para desempeñarme en la Institución
+
+Mi formación académica ha dado una visión integral de lo que representa trabajar en una organización.
+Considero que algunas de mis cualidades son: Buena predisposición al trabajo en equipo, actitud positiva, proactiva, emprendedora
+
+Soy una persona Eficaz, con ganas de aprender y crecer en mi desempeño laboral diariamente, paciente y con una personalidad motivadora
+
+	Adjunto mi currículum vitae y cuentan conmigo para profundizar aspectos de mi perfil que resulten de su interés.
+
+ <br>Security_code : vgrxn
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 191.85.155.126<br>
+ <br>REF : TE-1
+ <br>Nombre : JOSE MARIA
+ <br>Apellido : MORALES
+ <br>Cargo : TECNICO ELECTRICO
+ <br>Direccion : JUNIN 759
+ <br>Ciudad : CABA
+ <br>Telefono : 1170367278
+ <br>Email : jmmorales33@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me gustaría trabajar con ustedes.
+ <br>Security_code : pncwg
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 191.85.155.126<br>
+ <br>Nombre : JOSE MARIA
+ <br>Apellido : MORALES
+ <br>Cargo : TECNICO ELECTRICO
+ <br>Direccion : JUNIN 759
+ <br>Ciudad : CABA
+ <br>Telefono : 1170367278
+ <br>Email : jmmorales33@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me gustaría tener una entrevista con ustedes.
+ <br>Security_code : zwgvy
+ <br>Send : Enviar
+ <br>
+---------------
+

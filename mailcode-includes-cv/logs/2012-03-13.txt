@@ -1,0 +1,100 @@
+Address : 186.59.47.174
+Nombre : Jonathan
+Apellido : Lòpez
+Cargo : repocitor o cajero
+Direccion : Bº los cerros m-e casa 14
+Ciudad : godoycruz
+Telefono : 4274036 ò 156926281
+Email : jonhi.lopez77@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : les envio este curriculum con esperansas de poder coseguir empleo saluda atte: Jonathan Lòpez
+Security_code : f3m22
+Send : Enviar
+
+---------------
+
+Address : 200.69.26.67
+Nombre : Juan Manuel
+Apellido : Castellarín
+Cargo : administrativo
+Direccion : Acoyte 2577
+Ciudad : Hurlingham
+Telefono : 011-4452-2862
+Email : juanmanuel_358@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : A quien corresponda, 
+En referencia a una notificación de la página  www.trabajar.com recibida el 08 de marzo del corriente año, adjunto mi Currículum Vitae, con la intención de ofrecerles mis servicios. 
+Security_code : r77rg
+Send : Enviar
+
+---------------
+
+Address : 190.111.201.50
+Nombre : Maria Eugenia
+Apellido : Villar
+Cargo : Administrativa
+Direccion : Heroes de Malvinas 1056
+Ciudad : Buenos Aires 
+Telefono : 4732-9341
+Email : villareuge2003@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : estoy interesada en ofertas laborales principalmente en zona norte
+Security_code : sf3xr
+Send : Enviar
+
+---------------
+
+Address : 190.151.157.97
+REF : jefe-de-operaciones
+Nombre : walter javier
+Apellido : cazzaniga
+Cargo : seguridad
+Direccion : estrada 350
+Ciudad : zarate
+Telefono : 03445- 15402426
+Email : kzza@live.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje :  AFRONTAR LAS TAREAS ASIGNADAS Y EL PERFECCIONAMIENTO DE LAS MISMAS PARA CUMPLIL SATISFACTORIAMENTE LO ENCOMENDADO.
+Security_code : wq78y
+Send : Enviar
+
+---------------
+
+Address : 200.126.210.44
+Nombre : CATALINA
+Apellido : BARBOZA
+Cargo : ADMINISTRATIVO SENIOR O SEMI SENIOR
+Direccion : CANGALLO 617
+Ciudad : AVELLANEDA
+Telefono : 4-155-856-4944
+Email : catalinabarb@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimad@/s, me dirijo a Ud/s con el fin de presentarles una reseña de mi experiencia laboral, datos personales y académicos, para que pueda/n evaluar la posibilidad de tener una entrevista, y así poder complementar el curriculum. 
+Desde ya agradezco la oportunidad.
+Saluda atentamente
+Catalina Barboza
+
+Security_code : ZbsqZ
+Send : Enviar
+
+---------------
+
+Address : 200.126.210.44
+Nombre : Catalina
+Apellido : Barboza
+Cargo : Administrativa semi senior o senior
+Direccion : cangallo 617
+Ciudad : avellaneda
+Telefono : 1558564944
+Email : catalinabarb@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimad@/s, me dirijo a Ud/s con el fin de presentarles una reseña de mi experiencia laboral, datos personales y académicos, para que pueda/n evaluar la posibilidad de tener una entrevista, y así poder complementar el curriculum. 
+Desde ya agradezco la oportunidad.
+Saluda atentamente
+Catalina Barboza
+
+Security_code : 8zq87
+Send : Enviar
+
+---------------
+

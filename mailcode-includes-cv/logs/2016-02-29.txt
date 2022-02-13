@@ -1,0 +1,397 @@
+Address : 191.84.15.198
+Nombre : Sabrina Laura Evangelina
+Apellido : Demarco
+Cargo : Administración, secretaria, cajas
+Direccion : La Rosita 4086
+Ciudad : ciudad evita
+Telefono : 44875560
+Email : demarcosabrina_sled@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimado Sr/a: 
+                       Tengo el agrado de dirigirme a Usted con el fin de postularme como ingresante en su Empresa. A tal efecto adjunto, mi Curriculum Vitae. 
+                       Me presento como una persona activa, dinámica, con buenas Relaciones Humanas, flexible y constante en el área de trabajo, ya sea en puntualidad y eficiencia.
+                       Poseo un avanzado conocimiento en Informática contando con tres (3) años de experiencia como docente en establecimiento educativo.                  
+                       En este momento me encuentro con absoluta disponibilidad horaria (full time)- resido en Ciudad Evita (La matanza) y poseo analítico sellado por el ministerio de educación. 
+                        
+                       Saludos Cordiales.-
+
+                      Sra Demarco, Sabrina Laura Evangelina. 
+Security_code : 523cj
+Send : Enviar
+
+---------------
+
+Address : 201.177.53.100
+REF : OEL
+Nombre : David Edward
+Apellido : Narcizo
+Cargo : Oficial Electricista
+Direccion : Santiago del Estero 1926
+Ciudad : Autonoma de Buenos Aires
+Telefono : 1545300894
+Email : nardaed@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : trabajo muy bien en equipo, buenas relacion interpersona, serio y puntual
+Security_code : 8f7b4
+Send : Enviar
+
+---------------
+
+Address : 190.230.71.105
+REF : RTC
+Nombre : Marcos Alberto 
+Apellido : Albo
+Cargo : Representante Tecnico Comercial
+Direccion : Trelles 1456
+Ciudad : C.A.B.A
+Telefono : 4581 8478
+Email : maralbo2004@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : De mi mayor consideración:
+Atento a la convocatoria por uds realizada en referencia a la posición de Ejecutivo de cuentas , cumplo en dar respuesta a la misma enviando mi C.V del cual se desprende mi experiencia , siendo la misma realizada en el país a así como trabajando como apoyatura y asesoramiento técnico en diferentes representaciones en el exterior ,como ser en China , Tailandia , Taiwan , Uruguay , Brasil , Colombia , Venezuela ,Chile ,Italia , Uk , Peru, etc , esperando que la información enviada sea des su interés .
+Sin mas y a la espera de su respuesta , saludo muy atte.
+
+Security_code : 39j76
+Send : Enviar
+
+---------------
+
+Address : 190.230.71.105
+REF : RTC
+Nombre : Marcos Alberto 
+Apellido : Albo
+Cargo : Representante Tecnico Comercial
+Direccion : Trelles 1456
+Ciudad : C.A.B.A
+Telefono : 4581 8478
+Email : maralbo2004@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : De mi mayor consideración:
+Atento a la convocatoria por uds realizada en referencia a la posición de Ejecutivo de cuentas , cumplo en dar respuesta a la misma enviando mi C.V del cual se desprende mi experiencia , siendo la misma realizada en el país a así como trabajando como apoyatura y asesoramiento técnico en diferentes representaciones en el exterior ,como ser en China , Tailandia , Taiwan , Uruguay , Brasil , Colombia , Venezuela ,Chile ,Italia , Uk , Peru, etc , esperando que la información enviada sea des su interés .
+Sin mas y a la espera de su respuesta , saludo muy atte.
+
+Security_code : 39j76
+Send : Enviar
+
+---------------
+
+Address : 190.230.71.105
+Nombre : Marcos Alberto 
+Apellido : Albo
+Cargo : Representante tecnico comercial
+Direccion : 1456
+Ciudad : C.A.B.A
+Telefono : 45818478
+Email : maralbo2004@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : De mi mayor consideración:
+Atento a la convocatoria por uds realizada en referencia a la posición de Ejecutivo de cuentas , cumplo en dar respuesta a la misma enviando mi C.V del cual se desprende mi experiencia , siendo la misma realizada en el país a así como trabajando como apoyatura y asesoramiento técnico en diferentes representaciones en el exterior ,como ser en China , Tailandia , Taiwan , Uruguay , Brasil , Colombia , Venezuela ,Chile ,Italia , Uk , Peru, etc , esperando que la información enviada sea des su interés .
+Sin mas y a la espera de su respuesta , saludo muy atte.
+
+Security_code : yzgc3
+Send : Enviar
+
+---------------
+
+Address : 190.220.230.130
+Nombre : pablo damian
+Apellido : cordoba
+Cargo : operario produccion
+Direccion : dias de solis 5662
+Ciudad : rafael calzada
+Telefono : 1566796013
+Email : cordobapablodamian@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : operario con muchas ganas de trabajar sin importar horarios disponibilidad full time
+Security_code : 5r276
+Send : Enviar
+
+---------------
+
+Address : 190.220.230.130
+Nombre : pablo damian
+Apellido : cordoba
+Cargo : operario produccion
+Direccion : dias de solis 5662
+Ciudad : rafael calzada
+Telefono : 1566796013
+Email : cordobapablodamian@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : operario con muchas ganas de trabajar sin importar horarios disponibilidad full time
+Security_code : 5r276
+Send : Enviar
+
+---------------
+
+Address : 191.84.207.213
+Nombre : gustavo
+Apellido : zarza
+Cargo : soldadoe y montador
+Direccion : 898  2082
+Ciudad : quilmes
+Telefono : 42712934
+Email : GUSTAVO.ZARZA@HOTMAIL.COM
+MAX_FILE_SIZE : 2097152
+Mensaje : estoy sin trabajo soy soldadoor montador de estucturas metelicas trabaje en mantenimiento
+
+Security_code : g4sf7
+Send : Enviar
+
+---------------
+
+Address : 186.62.72.82
+Nombre : natalia
+Apellido : novelli
+Cargo : mucama
+Direccion : osvaldo cruz 3990 3°a
+Ciudad : caba
+Telefono : 1539256813
+Email : natyisa78dequilmes@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : hola necesito trabajar urgente
+Security_code : kxf5p
+Send : Enviar
+
+---------------
+
+Address : 186.62.56.5
+REF : JPL
+Nombre : Jorge Alberto
+Apellido : Teijeira
+Cargo : Jefe de Planta
+Direccion : Montevideo 1204
+Ciudad : Quilmes
+Telefono : 1564103807
+Email : jateijeira@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados Señores,
+Mi nombre es Jorge Teijeira Soy Ingeniero Químico Especialista en Ingeniería Ambiental y deseo hacerle llegar por éste medio mi CV resumido colocando a su disposición formatos mas detallados.
+Mis Skills Incluyen: Formación de Pre-grado en Ciencia y tecnología de los Alimentos, Especialista en Ingeniería Ambiental, y actualmente me encuentro especializándome en Docencia Universitaria, y en Seguridad e Higiene Industrial, Experiencia en manejo de personal como Jefe de Planta de pequeña a mediana envergadura (120 personas), Experiencia operativa en las áreas Planificación General de la Producción, Seguridad e Higiene y Medioambiente y Calidad total (gestionando ISO 9000 y trabajando adjunto al área) Experiencia en Agroindustrias y de la Alimentación y químicas, por mi formación de postgrado poseo también experiencia en acciones tendientes a reducir el scrap de planta. Docente Universitario en Medio ambiente y Seguridad.
+Espero tengan a bien contactarse con mi persona a fin de entrevistarme para que puedan tener una idea mas cabal de mis aptitudes.- 
+Referencias a su disposición.-
+Saludos cordiales,
+ 
+Ing. Jorge A. Teijeira
+Cel: 1564103807
+
+Security_code : 2pxhp
+Send : Enviar
+
+---------------
+
+Address : 186.62.56.5
+Nombre : Jorge Alberto
+Apellido : Teijeira
+Cargo : Jefe de Planta
+Direccion : Montevideo 1204
+Ciudad : Quilmes
+Telefono : 1564103807
+Email : jateijeira@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados Señores,
+Mi nombre es Jorge Teijeira Soy Ingeniero Químico Especialista en Ingeniería Ambiental y deseo hacerle llegar por éste medio mi CV resumido colocando a su disposición formatos mas detallados.
+Mis Skills Incluyen: Formación de Pre-grado en Ciencia y tecnología de los Alimentos, Especialista en Ingeniería Ambiental, y actualmente me encuentro especializándome en Docencia Universitaria, y en Seguridad e Higiene Industrial, Experiencia en manejo de personal como Jefe de Planta de pequeña a mediana envergadura (120 personas), Experiencia operativa en las áreas Planificación General de la Producción, Seguridad e Higiene y Medioambiente y Calidad total (gestionando ISO 9000 y trabajando adjunto al área) Experiencia en Agroindustrias y de la Alimentación y químicas, por mi formación de postgrado poseo también experiencia en acciones tendientes a reducir el scrap de planta. Docente Universitario en Medio ambiente y Seguridad.
+Espero tengan a bien contactarse con mi persona a fin de entrevistarme para que puedan tener una idea mas cabal de mis aptitudes.- 
+Referencias a su disposición.-
+Saludos cordiales,
+ 
+Ing. Jorge A. Teijeira
+Cel: 1564103807
+
+Security_code : yrzk7
+Send : Enviar
+
+---------------
+
+Address : 186.139.50.72
+Nombre : Fabian
+Apellido : Debrassi
+Cargo : Comercial/ Ventas
+Direccion : Gualeguaychu 2.989|
+Ciudad : CABA
+Telefono : 1566730719
+Email : fadadei@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Por favor, incluir en V/ base de datos
+Security_code : 7sf23
+Send : Enviar
+
+---------------
+
+Address : 186.134.27.165
+Nombre : Tomas
+Apellido : Maccagno
+Cargo : mantenimiento
+Direccion : Avellaneda 1994
+Ciudad : castelar
+Telefono : 1540823425
+Email : tomas.maccagno@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Gracias por este espacio
+Security_code : s2wmg
+Send : Enviar
+
+---------------
+
+Address : 179.60.253.42
+REF : OEL
+Nombre : Vicente Ezequiel 
+Apellido : Caballero 
+Cargo : Electricista 
+Direccion : Punta alta 570
+Ciudad : Lomas de Zamora 
+Telefono : 1141611803-42850580
+Email : ezequielcaballero701@yahoo.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Trabajo ya hace 5 años de electrcista 
+Trabajos hechos hospital churruca.guardia médica 
+Security_code : 6hxx8
+Send : Enviar
+
+---------------
+
+Address : 181.1.147.192
+Nombre : Sabrina Natalia 
+Apellido : Rossi
+Cargo : Secretaria, Administrativa, Recepcionista
+Direccion : Guemes
+Ciudad : San Martin
+Telefono : 1165861900
+Email : sabrina.natalia.rossi@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenas tardes, adjunto Cv para búsqueda laboral.
+
+
+
+Desde ya muchas gracias, 
+
+
+Atte. Sabrina Natalia Rossi.
+Security_code : 7ppk4
+Send : Enviar
+
+---------------
+
+Address : 181.1.147.192
+Nombre : Sabrina Natalia 
+Apellido : Rossi
+Cargo : Recepcionista, Secretaria, Administrativa
+Direccion : Guemes
+Ciudad : San Martin
+Telefono : 1165861900
+Email : sabrina.natalia.rossi@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenas tardes, adjunto Cv para búsqueda laboral.
+
+
+Desde ya muchas gracias,
+
+
+Atte, Sabrina Natalia Rossi
+Security_code : 8t5wg
+Send : Enviar
+
+---------------
+
+Address : 190.230.71.105
+REF : RTC
+Nombre : Marcos Alberto 
+Apellido : Albo
+Cargo : Representante tecnico comercial
+Direccion : Trelles 1456
+Ciudad : C.A.B.A
+Telefono : 45818478
+Email : maralbo2004@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : De mi mayor consideración:
+Atento a la convocatoria por uds realizada en referencia a la posición de Ejecutivo de cuentas , cumplo en dar respuesta a la misma enviando mi C.V del cual se desprende mi experiencia , siendo la misma realizada en el país a así como trabajando como apoyatura y asesoramiento técnico en diferentes representaciones en el exterior ,como ser en China , Tailandia , Taiwan , Uruguay , Brasil , Colombia , Venezuela ,Chile ,Italia , Uk , Peru, etc , esperando que la información enviada sea des su interés .
+Sin mas y a la espera de su respuesta , saludo muy atte.
+
+Security_code : b2rhm
+Send : Enviar
+
+---------------
+
+Address : 200.49.206.196
+Nombre : Luis Alberto 
+Apellido : Holsen 
+Cargo : Montador eléctrico, conexionista
+Direccion : Calle 10 N851
+Ciudad : Lima 
+Telefono : (03487)15 629711
+Email : Luisholsen@gmail.com 
+MAX_FILE_SIZE : 2097152
+Mensaje : Buen día estoy en búsqueda de trabajo, tengo experiencia en montaje eléctrico y conexionado en eintrumentcion y control, en atucha 2, tendido y peinado de cable, y poseo carnet para maquinaria especiales, espero Q me tengan en cuenta
+Security_code : V75hs
+Send : Enviar
+
+---------------
+
+Address : 181.229.206.91
+REF : JP
+Nombre : Agostina
+Apellido : Ramos
+Cargo : JP
+Direccion : valdenegro 4450
+Ciudad : caba
+Telefono : 45448517
+Email : agoramos@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : .
+Security_code : m7s8s
+Send : Enviar
+
+---------------
+
+Address : 181.229.206.91
+Nombre : Agostina
+Apellido : Ramos
+Cargo : Psicologa
+Direccion : valdenegro 4450
+Ciudad : caba
+Telefono : 45448517
+Email : agoramos@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Soy una profesional que ejerce su profesion en el ambito del consultorio psicologico y me gustaria expandirme y crecer hacia nuevas areas y contextos.Muchas gracias
+Security_code : hbv5h
+Send : Enviar
+
+---------------
+
+Address : 201.255.55.244
+Nombre : Gabriela Anahi
+Apellido : Ayala
+Cargo : Auxiliar de Recursos Humanos
+Direccion : Albateiro 4775
+Ciudad : Gonzalez Catan
+Telefono : 1540836435
+Email : ayalagabrielaa@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Equipo de RRHH:
+                                  Mi nombre es Gabriela, soy licenciada en Relaciones Laborales y actualmente me encuentro cursando la carrera de Trabajo Social.
+                                  Soy una persona responsable y dedicada a las tareas, a la que le gusta aceptar desafíos y continuamente aprender de las experiencias. Las experiencias laborales anteriores me han permitido desarrollar habilidades tales como el trabajo en equipo, las relaciones interpersonales, la resolución de conflictos, flexibilidad y dinamismo para poder alcanzar los objetivos en los diferentes proyectos que se me asignaban.  
+Desde ya, muchas gracias por brindarme  la oportunidad de presentarme.
+Saludos cordiales,
+Gabriela
+
+Security_code : tmzqk
+Send : Enviar
+
+---------------
+
+Address : 186.56.195.60
+REF : OEL
+Nombre : jorge 
+Apellido : garcia
+Cargo : electricista industrial
+Direccion : serrano 2175
+Ciudad : vlilla rosa pilar
+Telefono : 0169067794
+Email : elchino_jorge.garcia@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola,tengo experiencia para el trabajo
+Security_code : qzwfj
+Send : Enviar
+
+---------------
+

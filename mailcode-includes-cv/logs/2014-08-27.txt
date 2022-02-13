@@ -1,0 +1,223 @@
+Address : 186.138.73.58
+Nombre : Jose Luis
+Apellido : Garcia
+Cargo : Ingeniero Industrial Tecnico Quimico Control de Calidad ANalista de laboratorio
+Direccion : Santiago del Estero 947 Capital Federal
+Ciudad : Capital Federal
+Telefono : 1164222824
+Email : joseluisgarciaolcina@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me llamo Jose Luis Garcia, soy Ing. Industrial esp Quimica Industrial por la Universidad Politecnica de Valencia y tambien soy Tecnico Quimico Superior. Tengo experiencia en diferentes tipos de laboratorios y asumiendo diferentes roles. Esaria interesado en trabajar con vosotros.
+
+Mi expectativa salarial seria entre 8000-1000 pesos Argentinos. Actualmenete vivo en un hotel a la espera de encontrar trabajo y poder mudarme cerca de el. Tengo todos los papeles en regla para trabajar. Si les interesa no duden en llamarme a mi telefono 1164222824.
+
+Un saludo y gracias
+Security_code : 85vq7
+Send : Enviar
+
+---------------
+
+Address : 200.45.67.67
+Nombre : macarena
+Apellido : diaz
+Cargo : marketing
+Direccion : salvador caputo 3338
+Ciudad : SANTA FE 
+Telefono : 155134603
+Email : lamaka_coronda@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : mi orientación esta dirigida al marketing.
+Security_code : tbyh5
+Send : Enviar
+
+---------------
+
+Address : 186.135.89.55
+REF : TECNICO-ELECTRONICO
+Nombre : ruben
+Apellido : bejarano
+Cargo : tecnico electronico
+Direccion : arias 2726
+Ciudad : jose c. paz
+Telefono : 1161716904
+Email : luybruno2@gmail,com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estoy  en la búsqueda de estabilidad laboral
+Security_code : hqycs
+Send : Enviar
+
+---------------
+
+Address : 190.246.114.84
+Nombre : Martin
+Apellido : Gómez
+Cargo : Administrador
+Direccion : José Ingenieros 546
+Ciudad : Villa Maria
+Telefono : 03584-15415771
+Email : marting_07@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Ahí le mando mi CV, espero alguna respuestas ya que necesito trabajo. gracias, saludos.
+Martin
+Security_code : gsytq
+Send : Enviar
+
+---------------
+
+Address : 190.246.114.84
+Nombre : Martin
+Apellido : Gómez
+Cargo : Administrador
+Direccion : José Ingenieros 546
+Ciudad : Villa Maria
+Telefono : 03584-15415771
+Email : marting_07@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Ahí le mando mi CV, espero alguna respuestas ya que necesito trabajo. gracias, saludos.
+Martin
+Security_code : gsytq
+Send : Enviar
+
+---------------
+
+Address : 190.246.114.84
+Nombre : Martin
+Apellido : Gómez
+Cargo : Administrador
+Direccion : José Ingenieros 546
+Ciudad : Villa Maria
+Telefono : 03584-15415771
+Email : marting_07@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Ahí le mando mi CV, espero alguna respuestas ya que necesito trabajo. gracias, saludos.
+Martin
+Security_code : gsytq
+Send : Enviar
+
+---------------
+
+Address : 190.246.114.84
+Nombre : Martin
+Apellido : Gómez
+Cargo : Administrador
+Direccion : José Ingenieros 546
+Ciudad : Villa Maria
+Telefono : 03584-15415771
+Email : marting_07@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Ahí le mando mi CV, espero alguna respuestas ya que necesito trabajo. gracias, saludos.
+Martin
+Security_code : pm23v
+Send : Enviar
+
+---------------
+
+Address : 181.29.81.52
+Nombre : francisco 
+Apellido : martin costilla
+Cargo : operario,soldador,seguridad.
+Direccion : arredondo 2709
+Ciudad : Castelar
+Telefono : 03487-15537584
+Email : frank34n@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola espero que mi curriculum sea de su interes.Un saludo atentamente.Fran
+Security_code : b4q5z
+Send : Enviar
+
+---------------
+
+Address : 190.105.40.205
+Nombre : monica vanesa
+Apellido : ojeda
+Cargo : niñera; limpieza; atención al cliente; ect.
+Direccion : cerviño 1347
+Ciudad : moreno
+Telefono : 1161435563
+Email : decore_el_pais@yahoo.com
+MAX_FILE_SIZE : 2097152
+Mensaje : espero poder coincidir con sus espectativas. desde ya muchas gracias.
+Security_code : swfcn
+Send : Enviar
+
+---------------
+
+Address : 200.82.76.2
+Nombre : Crolina
+Apellido : Cabral
+Cargo : Administración hotelera
+Direccion : Patagones 5902
+Ciudad : Bariloche
+Telefono : 0294-154267557
+Email : ccabral44@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Soy una persona pro activa, que busca mejorar y aprender día a día, trabajando con responsabilidad y empeño.
+Security_code : qwcs7
+Send : Enviar
+
+---------------
+
+Address : 181.44.28.243
+Nombre : cristian
+Apellido : bavaro
+Cargo : cnc
+Direccion : antartida argentina 1315
+Ciudad : buenos aires
+Telefono : 1568569666
+Email : bavarocristian@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola señores  cuento con 10 años de experiencia en programación cnc y me gustaría radicarme en Neuquén. Puedo comprar vehículo y trasladar a mi familia.
+No tengo muchas pretensiones, solo vivir allí y trabajar. Puedo rentar una vivienda hasta trasladar a mi familia.
+Si podrían ayudarme a conseguir trabajo se los agradeceré muchísimo.
+Pueden enviarme un correo y les envío mi CV.
+Gracias.
+Security_code : g5jjn
+Send : Enviar
+
+---------------
+
+Address : 186.129.212.159
+Nombre : Stephanie Anahi
+Apellido : Caballero Vieira
+Cargo : Cajera
+Direccion : Bacacay 3830
+Ciudad : CABA
+Telefono : 1126525693
+Email : stephanie.anahi.1989@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : CV
+Security_code : 7w3sx
+Send : Enviar
+
+---------------
+
+Address : 190.244.179.135
+Nombre : Agustina
+Apellido : Pisu
+Cargo : Telemarketer/recepcionista
+Direccion : Av San juan 3760
+Ciudad : Buenos aires
+Telefono : 1521833811
+Email : agustina.pisu@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola! me pongo en contacto con ustedes. Besos!
+Security_code : 7z7n9
+Send : Enviar
+
+---------------
+
+Address : 190.176.217.84
+Nombre : maria andrea
+Apellido : motta
+Cargo : seguridad
+Direccion : terrada 896
+Ciudad : bahia blanca
+Telefono : 0291-154168483
+Email : polancomotta@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Aquí les envio mi curriculum,disponibilidad de horario,espero su pronta respuesta,gracias
+Security_code : jj24y
+Send : Enviar
+
+---------------
+

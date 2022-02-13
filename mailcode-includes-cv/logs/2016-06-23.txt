@@ -1,0 +1,100 @@
+Address : 179.36.177.151<br>
+ <br>REF : OEL
+ <br>Nombre : Jorge
+ <br>Apellido : Roldan
+ <br>Cargo : Oficiales Electricistas
+ <br>Direccion : Achupallas 5161
+ <br>Ciudad : Gonzalez Catan
+ <br>Telefono : 11 55245954
+ <br>Email : RicardoRowland76@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Visto el pedido laboral,me interesa la propuesta y me postulo al mismo.
+Agradeciendo la atención prestada,saludo atte.
+
+Jorge Roldan
+ <br>Security_code : 5yjtf
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 200.114.237.172<br>
+ <br>Nombre : MAXIMILIANO
+ <br>Apellido : AYRALA
+ <br>Cargo : ADMINISTRATIVO
+ <br>Direccion : CAMARONES 1519 (PATERNAL)
+ <br>Ciudad : Capital Federal
+ <br>Telefono : 1532178557
+ <br>Email : ayralamaxi@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados Sres/as de Recursos Humanos
+Tengo el agrado de dirigirme a Ud/s con el objetivo de participar en búsquedas acordes a mi perfil en su empresa.  Adjunto mi Currículum Vitae buscando ser incluido en su base de datos por si se produjera alguna vacante.
+En relación a esto, cuento con la experiencia y los conocimientos técnicos necesarios para desarrollar actividades en el rubro de empresas. y manejo de herramientas informáticas.
+Agradezco la gentileza de su atención y quedo a la espera de sus comentarios. Asimismo, aprovecho esta oportunidad para saludarlo cordialmente.
+MAXIMILIANO
+ <br>Security_code : gth3z
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.26.139.177<br>
+ <br>Nombre : Malena Lucia
+ <br>Apellido : Arcolia
+ <br>Cargo : indiferente
+ <br>Direccion : Carabelas 1288
+ <br>Ciudad : avellaneda
+ <br>Telefono : 01135621953
+ <br>Email : malenaarcolia@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Mi nombre es Malena Arcolia, adjunto mi cv para que me tengan en cuenta para empleos. 
+Muchas gracias. 
+ <br>Security_code : 8x74m 
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.13.231.231<br>
+ <br>Nombre : Damian Raul
+ <br>Apellido : Bustos
+ <br>Cargo : Tecnico electricista
+ <br>Direccion : Quiroz 1622
+ <br>Ciudad : Jose c. Paz
+ <br>Telefono : 1131114318
+ <br>Email : damian73bustos@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me presento a usted con el fin de ofrecer mis servicios en el puesto requerido por su empresa.
+Desde ya muchas gracias por su atención.
+ <br>Security_code : wh3rx
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.119.74.11<br>
+ <br>Nombre : Gabriel
+ <br>Apellido : Vega
+ <br>Cargo : Oficial soldador
+ <br>Direccion : Bach 6374
+ <br>Ciudad : Buenos aires
+ <br>Telefono : 1130088068
+ <br>Email : gaby4705@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Soy una persona de rápido aprendizaje
+ <br>Security_code : S8tg5
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.119.74.11<br>
+ <br>Nombre : Gabriel
+ <br>Apellido : Vega
+ <br>Cargo : Oficial soldador
+ <br>Direccion : Juan sebastian bach 6374
+ <br>Ciudad : Buenos aires
+ <br>Telefono : 1130088068
+ <br>Email : gaby4705@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Soy una persona de rápido aprendizaje
+ <br>Security_code : 699 nm
+ <br>Send : Enviar
+ <br>
+---------------
+

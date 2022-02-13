@@ -1,0 +1,15 @@
+Address : 186.56.24.156
+Nombre : Gonzalo
+Apellido : Maggio
+Cargo : Tecnico en Seguridad e Higiene 
+Direccion : Chubut 2109
+Ciudad : Mar del plata
+Telefono : 0223-155035818
+Email : gonzalomaggio@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto mis datos personales, postulandome para la busqueda laboral de tecnico en seguridad e higiene en el trabajo, dispongo de movilidad y estoy realizando la licenciatura tambien.
+Security_code : nvrr3
+Send : Enviar
+
+---------------
+

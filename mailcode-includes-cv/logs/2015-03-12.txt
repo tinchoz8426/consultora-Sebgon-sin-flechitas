@@ -1,0 +1,57 @@
+Address : 181.47.90.123
+Nombre : Hernan
+Apellido : antenucci
+Cargo : administrativo
+Direccion : tres arroyos 2247
+Ciudad : capital federal
+Telefono : 1130330116
+Email : hernanantenucci@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : A quien corresponda envio Cv co la esperanza de que sea tenido en cuenta.
+Muchas Gracas
+Security_code : b585r
+Send : Enviar
+
+---------------
+
+Address : 186.138.203.103
+REF : VENDSAL
+Nombre : Eduardo 
+Apellido : Fuentes
+Cargo : Vendedor
+Direccion : Ruta 40 Norte km 1927
+Ciudad : Bolson
+Telefono : 0299 -5525863
+Email : badside_08@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : En el caso de no contestar el telefono,le pido que se comunique por email. ya que no poseo buena señal donde vivo. Muchas Gracias
+Security_code : xyy9h
+Send : Enviar
+
+---------------
+
+Address : 186.22.169.147
+Nombre : Matias Daniel
+Apellido : Vincenti
+Cargo : Vendedor, empleado deposito, E-Commerce, limpieza, cadete
+Direccion : Callao 2080 Torre:9 Dpto:1°D
+Ciudad : Villa Madero
+Telefono : 44626568
+Email : matias.vincenti@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenas noches!
+ 
+A continuación les envío mi curriculum vitae, con el fin que lo analicen.
+ 
+Desde ya, muchas gracias.
+ 
+Saludos.
+ 
+Atte.
+ 
+Matías Daniel Vincenti
+Security_code : jdb9m
+Send : Enviar
+
+---------------
+

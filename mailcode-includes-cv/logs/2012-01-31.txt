@@ -1,0 +1,53 @@
+Address : 190.220.163.241
+Nombre : Viviana
+Apellido : Endelman Zapata
+Cargo : capacitadora
+Direccion : San Pedro
+Ciudad : Castelar
+Telefono : 54309967
+Email : vivianaendelman@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados: Adjunto curriculum atenta a si mi perfil podría ser de utilidad para el área de capacitación u otra de la consultora. Algo importante para mí es tener un horario part-time y flexible para poder seguir acompañando de cerca la crianza de nuestras hijas que tienen ahora 8, 6 y 3 años.
+Viviana Endelman Zapata
+Security_code : m7cp9
+Send : Enviar
+
+---------------
+
+Address : 190.173.209.177
+Nombre : Hernan
+Apellido : pulfer
+Cargo : Cadete, recepcionista, administrativo
+Direccion : Esteban echeverría 2077
+Ciudad : Avellaneda
+Telefono : 1151615288
+Email : hernanpulfer@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Quiero insertarme en el ambito laboral mientras realizo mis estudios terciarios.
+Security_code : j5jb8
+Send : Enviar
+
+---------------
+
+Address : 190.1.37.98
+Nombre : Martin Roberto
+Apellido : Conte
+Cargo : Ingeniero Mecánico
+Direccion : Avenente 3405
+Ciudad : Ing. White Bahia Blanca
+Telefono : (0291) 155776191
+Email : martinconte125@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Estoy en busca de empleo, trabajé por mas de 4 años en una empresa dedicada a la ingeniería de detalles como proyectista en el área Piping y Mecánica de lo cual amplío con detalles en mi curriculum adjunto. Mis objetivos laborales son simples: trabajar en una empresa donde pueda desarrollarme profesionalmente, capacitarme, hacer experiencia y participar, sostener o crear un ambiente agradable de trabajo en equipo.
+Tengo estudio universitario, graduado en la UTN Facultad Regional Bahía Blanca en la carrera Ingeniería Mecánica.
+Poseo disponibilidad para cambiar mi radicación o viajar, soy una persona proactiva y en busca de una mejora continua, también me adapto a tareas de campo como de oficina.
+ 
+gracias.
+ 
+Martín Conte
+
+Security_code : b3xbk
+Send : Enviar
+
+---------------
+

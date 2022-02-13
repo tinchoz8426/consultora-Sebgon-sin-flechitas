@@ -1,0 +1,65 @@
+Address : 190.51.255.182
+REF : gerente-de-operaciones
+Nombre : Marta Noemi
+Apellido : Mendes
+Cargo : Guardia de seguridad
+Direccion : Santa Rosa639
+Ciudad : Ezeiza
+Telefono : 42320321
+Email : martanoemimendes@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Deseo ingresar mi curriculum a la base de datos para ser tenido en cuenta en futuras postulaciones
+Security_code : c5h7m
+Send : Enviar
+
+---------------
+
+Address : 190.51.41.247
+Nombre : estefania
+Apellido : rivas
+Cargo : cualquier cargo
+Direccion : mansilla 5510
+Ciudad : avellaneda
+Telefono : 43534248
+Email : fania_82.2@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : envió cv para algún puesto de trabajo disponible.
+Security_code : tyysq
+Send : Enviar
+
+---------------
+
+Address : 186.191.234.212
+Nombre : luciano
+Apellido : laime
+Cargo : indistinto
+Direccion : acevedo 505
+Ciudad : capital federal
+Telefono : 48541276
+Email : lucho_lp45@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : HOLA BUEN DIA LE ENVIO MI CURRICULUM LE AGRADECERIA ME TENGA EN CUENTA. DESDE YA MUCHAS GRACIAS!
+SALUDOS
+ATTE. LUCIANO EZEQUIEL LAIME
+Security_code : zv4nq
+Send : Enviar
+
+---------------
+
+Address : 186.19.69.72
+REF : gerente-de-operaciones
+Nombre : DATOS
+Apellido : MONTOYA
+Cargo : RECEPCIONISTA/SECRETARIA/ATT. CLIENTE
+Direccion : NICASIO OROÑO 1858
+Ciudad : PATERNAL
+Telefono : 1531986409
+Email : vale.montoya75@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : no tengo problemas de horarios.
+conocimiento y experiencia: manejo caja, posnet, cobranzas, proveedores, conmutador, y tareas  administrativas y contables, atención al cliente.
+Security_code : q3gvt
+Send : Enviar
+
+---------------
+

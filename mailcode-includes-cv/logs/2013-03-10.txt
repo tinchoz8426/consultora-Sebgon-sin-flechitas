@@ -1,0 +1,31 @@
+Address : 190.124.132.177
+Nombre : Vanesa
+Apellido : Capovilla
+Cargo : Profesional free lance
+Direccion : 9 de julio 1221
+Ciudad : san luis capital
+Telefono : 2664805431
+Email : psicotecnicos@outlook.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados, a continuación adjunto mi cv para su consideración ante alguna necesidad de servicios a clientes en mi provincia. Saludos cordiales
+Security_code : z9sk7
+Send : Enviar
+
+---------------
+
+Address : 190.17.211.161
+REF : tecnico-electornico
+Nombre : diego
+Apellido : gomez
+Cargo : empleado
+Direccion : AV MAIPU 1744 9º G
+Ciudad : BUENOS AIRES
+Telefono : 4797-4248 o 15-56-20-48-68
+Email : diegogomeazar@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : ganas de trabajar y crecer
+Security_code : xt79x
+Send : Enviar
+
+---------------
+

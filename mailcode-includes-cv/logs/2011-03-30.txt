@@ -1,0 +1,48 @@
+Address : 190.244.93.152
+Nombre : Gerardo
+Apellido : Maidana
+Cargo : Administración / Asistente
+Direccion : Vuelta de obligado 2632
+Ciudad : Capital Federal
+Telefono : 47819008
+Email : gdmaida@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados Señores
+
+Me dirijo a ustedes para comentarles que conociendo su importancia me pareció interesante contactarme.
+Al respecto deseo manifestarles mi interés por postularme a alguna posibilidad laboral. 
+He trabajado en Distintas Empresas sumando experiencia en distintos rubros y sectores,
+como administración, Atención al cliente y manejo de pc,  
+esperando poder seguir creciendo y conociendo nuevas oportunidades de colaborar.
+
+
+Adjunto mi Curriculum y espero poder tener algún contacto
+Y tener la posibilidad de brindar mayor información.
+
+Muchas Gracias
+Atentamente.
+
+Gerardo Maidana
+4781 9008
+
+Security_code : kk7fz
+Send : Enviar
+
+---------------
+
+Address : 186.61.71.250
+Nombre : vanina ariana
+Apellido : muñiz
+Cargo : administrativa
+Direccion : cervantes 2212
+Ciudad : rafael calzada
+Telefono : 42147928
+Email : vaninasky22@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : A quien corresponda:
+Estoy muy interesada en que me tengan en cuenta para futuras busquedas laborales ya sea en dicha área u otra, saludo atentamente.
+Security_code : 749s4
+Send : Enviar
+
+---------------
+

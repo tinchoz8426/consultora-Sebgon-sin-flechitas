@@ -1,0 +1,175 @@
+Address : 190.51.145.90
+Nombre : Yonathan Agustin Ramon
+Apellido : Crespo
+Cargo : operario
+Direccion : catamarca 4156
+Ciudad : Bs As
+Telefono : 1169591275
+Email : eldurosequedaenelcamino@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola me llamo Yonathan Agustin Ramon Crespo, soy un joven con responsablida, dedicacion, oblgacion. Con muchas ganas de crecer en el ambito laboral siempre que sea con esfuerzo y dedicacion.
+Security_code : y5sq9
+Send : Enviar
+
+---------------
+
+Address : 186.136.173.115
+Nombre : Daniel Anator
+Apellido : Reist
+Cargo : Encargado Jefe Gerente 
+Direccion : C arenal 3676 
+Ciudad : Caba
+Telefono : 48546467
+Email : danielreist2@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me llega el newsletter de Laboral Rosario- y veo que tienen ustedes varios puestos para cubrir en el interior.
+Mi disposicion de radicacion es inmediata, y  me ajusto a los salarios que ofrezcan. Mi intencion es demostrar todo lo que aprendi en : Logistica.Compras, Ventas y administracion durante mi carrera.
+Muchisimas gracias por recibir esto y evaluarlo.
+Les aseguro que estoy muy preparado para cubrir cualquiera de los puestos.
+Security_code : 8b93q
+Send : Enviar
+
+---------------
+
+Address : 190.49.207.105
+Nombre : Graciela
+Apellido : Amabile
+Cargo : Analista Contable
+Direccion : Av Rivadavia 6582
+Ciudad : CABA
+Telefono : 1165586799
+Email : gracielaamabile@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Estoy interesada en incorporarme a vuestra Compañía para desempeñarme en un área que posibilite mi crecimiento profesional y colaborar con el desarrollo de la Compañía.-
+Es mi intención integrarme a un área donde pueda utilizar mis conocimientos y habilidades adquiridas a lo largo de mi carrera profesional y laboral contando con una personalidad proactiva
+Saludos  cordiales
+Graciela Amábile
+gracielaamabile@yahoo.com.ar	(11)1565586799
+
+Security_code : 997wg
+Send : Enviar
+
+---------------
+
+Address : 186.109.163.95
+Nombre : Verónica Giselle
+Apellido : Gjugum
+Cargo : ASESOR,AGENTE TELEFONICO
+Direccion : DIAGONAL 12 1058N°
+Ciudad : TUCUMAN
+Telefono : 3815809552
+Email : veronicagjugum@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : -
+Security_code : 4P8ZC
+Send : Enviar
+
+---------------
+
+Address : 186.109.163.95
+Nombre : Verónica Giselle
+Apellido : Gjugum
+Cargo : ASESOR,AGENTE TELEFONICO
+Direccion : DIAGONAL 12 1058N°
+Ciudad : TUCUMAN
+Telefono : 3815809552
+Email : veronicagjugum@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : -
+Security_code : 4p8zc
+Send : Enviar
+
+---------------
+
+Address : 190.123.96.215
+REF : TECM
+Nombre : Mariano
+Apellido : bulgari
+Cargo : cualquiera
+Direccion : jose hernandez 133
+Ciudad : capitan bermudez
+Telefono : 0341-153314479
+Email : mariano.bulgari.rc23@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : necesito trabajo
+Security_code : nr6br
+Send : Enviar
+
+---------------
+
+Address : 201.250.104.29
+Nombre : Ruben Alberto
+Apellido : Rivas
+Cargo : Chofer
+Direccion : 24 de Novienbre 749
+Ciudad : Capital
+Telefono : 49577738
+Email : ruben.a.rivas@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Mi objetivo es pertenecer a una empresa seria a la cual pueda volcar mis conocimientos y mis experiencias desde ya muchas gracias.
+Security_code : x7pcd
+Send : Enviar
+
+---------------
+
+Address : 190.189.45.133
+Nombre : Mariana Mercedes
+Apellido : Mazzina
+Cargo : administrativo
+Direccion : Roca 365
+Ciudad : Cipolletti
+Telefono : 02995357836
+Email : marumazzina@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Envio mi CV para postularme en los empleos que surjan. 
+Security_code : 82k4v
+Send : Enviar
+
+---------------
+
+Address : 190.48.231.139
+Nombre : Juan Lucas 
+Apellido : ayala
+Cargo : repositor/cajero
+Direccion : lujan 2218 laferrere la matanza
+Ciudad : buenos aires
+Telefono : 15-4937-6563
+Email : juankolor@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Agradezco el manternerme al tanto de las ofertas laborales vigentes.
+Security_code : 5qbnk
+Send : Enviar
+
+---------------
+
+Address : 181.168.136.92
+Nombre : Antonella Solange
+Apellido : Iuvariello
+Cargo : administrativa, recepcionista, cajera, secretaria
+Direccion : Santa Fe 1151
+Ciudad : Neuquen
+Telefono : 0299-155170918
+Email : antoii@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Envío mi C.V. para búsquedas laborales, agradezco lo tengan en cuenta. Saludos.
+Antonella.
+Security_code : hnmhc
+Send : Enviar
+
+---------------
+
+Address : 201.176.19.30
+Nombre : Rocio Belen
+Apellido : Prota
+Cargo : tareas afines a RR.HH
+Direccion : Dr. Montes 2778
+Ciudad : Moron
+Telefono : 4696-8470
+Email : rocioprota@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Actualmente me encuentro en la búsqueda de trabajo, principalmente relacionado con Relaciones Laborales, que es la carrera que me encuentro cursando. Sin embargo cualquier puesto afin, estoy interesada. 
+Security_code : t2hgk
+Send : Enviar
+
+---------------
+

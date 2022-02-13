@@ -1,0 +1,148 @@
+Address : 66.249.85.28<br>
+ <br>Nombre : Jorge Rafael
+ <br>Apellido : Vilchez Maticorena
+ <br>Cargo : Administrativo cuidador paciente en domicilio
+ <br>Direccion : Calla Santa De 1123 Monte Vera
+ <br>Ciudad : Santa Fe
+ <br>Telefono : 0342154633703
+ <br>Email : vilchezjorge1969@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Puedo cumplir tareas administrativas o de cuidados de pacientes 
+ <br>Security_code : bvv83
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.136.229.208<br>
+ <br>Nombre : DAVID
+ <br>Apellido : CARIAMANA
+ <br>Cargo : ADMINISTRATIVO
+ <br>Direccion : ALEM 773
+ <br>Ciudad : TANDIL
+ <br>Telefono : 1133652598
+ <br>Email : davidcariamana21@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Desarrollarme en un ambiente de trabajo que me lleve a nuevas fronteras de conocimiento y aprendizaje para un mejor desarrollo en mi vida laboral.
+Asimismo, poder incorporarme a una prestigiosa empresa, básicamente en un área donde se lleven a cabo las relaciones interpersonales, el trato con clientes y trabajadores, brindando atención a los mismos. Estoy Capacitado para enfrentar nuevos desafíos y lograr objetivos que impliquen un crecimiento tanto personal como profesional.
+
+ <br>Security_code : csk5k
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.136.229.208<br>
+ <br>REF : EP-1
+ <br>Nombre : DAVID
+ <br>Apellido : CARIAMANA
+ <br>Cargo : ENCARGADO DE PRODUCCIÓN
+ <br>Direccion : zona oeste
+ <br>Ciudad : TANDIL
+ <br>Telefono : 1133652598
+ <br>Email : davidcariamana21@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Desarrollarme en un ambiente de trabajo que me lleve a nuevas fronteras de conocimiento y aprendizaje para un mejor desarrollo en mi vida laboral.
+Asimismo, poder incorporarme a una prestigiosa empresa, básicamente en un área donde se lleven a cabo las relaciones interpersonales, el trato con clientes y trabajadores, brindando atención a los mismos. Estoy Capacitado para enfrentar nuevos desafíos y lograr objetivos que impliquen un crecimiento tanto personal como profesional.
+
+ <br>Security_code : 58tvz
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.182.106.66<br>
+ <br>Nombre : Pablo
+ <br>Apellido : Cámara
+ <br>Cargo : Asistente Recursos Humanos 
+ <br>Direccion : Villanueva 1908
+ <br>Ciudad : Castelar
+ <br>Telefono : 54317009
+ <br>Email : pabloc.psisocial@outlook.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola, estoy en busqueda de algun puesto Dentro del area de Recursos humanos, dentro de las posibilidades, que sea part-time por la mañana 
+gracias!
+ <br>Security_code : 2vvn75
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.182.106.66<br>
+ <br>Nombre : Pablo
+ <br>Apellido : Cámara
+ <br>Cargo : Asistente Recursos Humanos 
+ <br>Direccion : Villanueva 1908
+ <br>Ciudad : Castelar
+ <br>Telefono : 54317009
+ <br>Email : pabloc.psisocial@outlook.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola, estoy en busqueda de algun puesto Dentro del area de Recursos humanos, dentro de las posibilidades, que sea part-time por la mañana 
+gracias!
+ <br>Security_code : 2wn75
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.182.106.66<br>
+ <br>Nombre : Pablo
+ <br>Apellido : Cámara
+ <br>Cargo : RRHH
+ <br>Direccion : Villanueva 1908
+ <br>Ciudad : Castelar
+ <br>Telefono : 54317009
+ <br>Email : pabloc.psisocial@outlook.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Busco algun puesto dentro del area de Recursos humanos 
+ <br>Security_code : jdprn
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 191.85.145.96<br>
+ <br>Nombre : Valentin
+ <br>Apellido : Sere
+ <br>Cargo : RRHH, seleccion de personal
+ <br>Direccion : Combate de los Pozos 260
+ <br>Ciudad : C.A.B.A
+ <br>Telefono : 1558654512
+ <br>Email : valensere93@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenos dias. Actualmente estoy buscando trabajo en el area de RRHH. Mi interes es empezar ganando experiencia, por lo que no tengo una exigencia salarial muy alta. 
+ <br>Security_code : jyg2f
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.139.37.56<br>
+ <br>Nombre : esteban ezequiel
+ <br>Apellido : ditzel
+ <br>Cargo : tecnico/licenciado
+ <br>Direccion : castro barros 163
+ <br>Ciudad : san antonio de padua
+ <br>Telefono : 0111568400008
+ <br>Email : estebanezequielditzel@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : adjunto mi cv para futuras postulaciones
+muchas gracias
+ <br>Security_code : jq9zj
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.44.245.90<br>
+ <br>REF : TE-1
+ <br>Nombre : Rodrigo
+ <br>Apellido : Mionetto
+ <br>Cargo : Tecnico Electrico
+ <br>Direccion : Tte. Cnel, Caxaraville 2287
+ <br>Ciudad : Ituzaingó
+ <br>Telefono : 01158019443
+ <br>Email : rodrigo_mrm@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados, me dirijo hacia ustedes para poner en vuestro conocimiento mi alto interés en lograr una entrevista para informarme sobre este puesto. Es importante mencionar que actualmente me encuentro estudiando Técnico superior en automatización y es de mi interés abordar  un puesto eléctrico, ademas mi experiencia profesional en gestion de calidad me capacita para el analisis y efectiva solución a problemas.
+Espero tener la oportunidad de una próxima entrevista personal.
+
+Saludos Cordiales.
+Rodrigo Mionetto
+ <br>Security_code : 68gg8
+ <br>Send : Enviar
+ <br>
+---------------
+

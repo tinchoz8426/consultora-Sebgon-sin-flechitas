@@ -1,0 +1,30 @@
+Address : 190.230.191.240
+Nombre : estefanai
+Apellido : fernande padilla
+Cargo : pasante o practicas 
+Direccion : Bº juan pablo II block 25 dpto 7 
+Ciudad : salta capital
+Telefono : 0387-154101671
+Email : estefraniafernandez_p@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Espero su respuesta.
+Security_code : wkr5p
+Send : Enviar
+
+---------------
+
+Address : 200.45.77.50
+Nombre : CLAUDIA DANIELA
+Apellido : PENZO
+Cargo : CAPACITACION- ASESORAMIENTO
+Direccion : MANZANA 10 CASA 2- Bº DOCENTE SUR
+Ciudad : SALTA- CAPITAL
+Telefono : 0387155784004
+Email : penzodaniela@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje :  contacto de 08 a 16 hs.
+Security_code : mhxb5
+Send : Enviar
+
+---------------
+

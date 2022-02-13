@@ -1,0 +1,81 @@
+Address : 181.90.29.155
+Nombre : federico
+Apellido : freitas
+Cargo : metalugico,chofer,etc
+Direccion : calle 6 n364
+Ciudad : cordoba
+Telefono : 03543 15575930
+Email : exe_fiesta@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : De mi mayor consideración: 
+
+Tengo el agrado de dirigirme a Uds. con el fin de transmitirles mi deseo en firme de incorporarme a su organización. A tal efecto adjunto, junto a la presente, mi CV. 
+
+Me presento como una persona activa, responsable, creativa, flexible, orientada al logro de resultados y a la resolución y evolución constante en las tareas asignadas. 
+
+El objetivo que me he impuesto, es el de formar parte del personal de una empresa prestigiosa, confiable y con proyectos ambiciosos. 
+
+Si fuera necesario podría acercarme personalmente para cualquier consulta adicional o entrevista personal. Solo tiene que comunicarse al teléfono: (03543) 15575930 o al fijo 489842.
+Pongo, además, en su conocimiento que estoy en condiciones de asumir la responsabilidad de este empleo en forma inmediata, y con amplia disponibilidad de horarios. 
+
+Quedando a la espera de su respuesta. 
+
+Me despido atte. 
+Federico Exequiel Freitas
+
+Security_code : hgydm
+Send : Enviar
+
+---------------
+
+Address : 201.252.121.202
+Nombre : Matias
+Apellido : Romero
+Cargo : operario
+Direccion : campos 2217
+Ciudad : buenos aires
+Telefono : 4741 9391
+Email : maty_racing_94@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me considero una persona muy sociable, capacitado para las relaciones personales, constante y responsable de mi trabajo. 
+Poseo disponibilidad absoluta para trabajar y total movilidad geográfica.
+
+Security_code : rw72h
+Send : Enviar
+
+---------------
+
+Address : 201.252.121.202
+Nombre : Matias
+Apellido : Romero
+Cargo : operario
+Direccion : campos 2217
+Ciudad : buenos aires
+Telefono : 4741 9391
+Email : maty_racing_94@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me considero una persona muy sociable, capacitado para las relaciones personales, constante y responsable de mi trabajo. 
+Poseo disponibilidad absoluta para trabajar y total movilidad geográfica.
+
+Security_code : rw72h
+Send : Enviar
+
+---------------
+
+Address : 201.252.121.202
+Nombre : Matias
+Apellido : Romero
+Cargo : operario
+Direccion : campos 2217
+Ciudad : buenos aires
+Telefono : 4741 9391
+Email : maty_racing_94@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me considero una persona muy sociable, capacitado para las relaciones personales, constante y responsable de mi trabajo. 
+Poseo disponibilidad absoluta para trabajar y total movilidad geográfica.
+
+Security_code : 7dcrw
+Send : Enviar
+
+---------------
+

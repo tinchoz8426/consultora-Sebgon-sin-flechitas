@@ -1,0 +1,80 @@
+Address : 190.48.220.166
+Nombre : manuel 
+Apellido : suarez
+Cargo : empleado
+Direccion : cosquin 1983
+Ciudad : ituzaingo
+Telefono : 15-6383-9100
+Email : mjose.suarez@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : buenas les dejo mi cv ,desde ya se lo agradeseria si me tienen en cuenta ya que hace tiempo estoy buscando trabajo. muchas gracias
+Security_code : rhz5d
+Send : Enviar
+
+---------------
+
+Address : 181.46.15.27
+Nombre : romina daiana
+Apellido : lucente
+Cargo : ventas 
+Direccion : martinez 2276
+Ciudad : ituzaingo
+Telefono : 541134222281
+Email : ilusiones_de_papel_08@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : me gustaria desempeñarme en una empresa donde pueda ampliar mis conocimientos actuales y potenciar mi crecimiento
+Security_code : 9ws3s
+Send : Enviar
+
+---------------
+
+Address : 181.46.15.27
+Nombre : romina daiana
+Apellido : lucente
+Cargo : ventas 
+Direccion : martinez 2276
+Ciudad : ituzaingo
+Telefono : 541134222281
+Email : ilusiones_de_papel_08@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : me gustaria desempeñarme en una empresa donde pueda ampliar mis conocimientos actuales y potenciar mi crecimiento
+Security_code : 9ws3s
+Send : Enviar
+
+---------------
+
+Address : 190.174.128.179
+Nombre : Griselda
+Apellido : Maciel
+Cargo : cajera
+Direccion : Garnica 1835
+Ciudad : Hurlingham
+Telefono : 01146658252
+Email : gry87_hurlingham@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Envio mi cv para cualquier oferta laboral  que ustedes consideren se adapte a mi perfil,mi disponilidad es full time.Muchas gracias.Atte.
+
+Griselda 
+Security_code : pvtwp
+Send : Enviar
+
+---------------
+
+Address : 190.173.20.215
+Nombre : Sabrina Micaela
+Apellido : Pacheco
+Cargo : Administrativa,telefonista ,recepcionista , atención al publico
+Direccion : Bouchard  3432
+Ciudad : Buenos Aires.
+Telefono : 116-808-9217
+Email : lamejor_sabry@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Mi idea es encontrar un trabajo seguro con sueldo fijo por mes, en realidad enfoco en lo que es administracion pero por la necesidad que tengo de trabajar puedo cualquier puesto, tengo el secundario completo y termine el curso de marketing profesional.
+Muchas gracias .
+comuníquense conmigo.
+Sabrina Pacheco
+Security_code : mwtm6
+Send : Enviar
+
+---------------
+

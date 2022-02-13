@@ -1,0 +1,92 @@
+Address : 191.103.3.27<br>
+ <br>REF : TEC. EL
+ <br>Nombre : Francisco Rene
+ <br>Apellido : ESTEBAN
+ <br>Cargo : Tecnico de Mantenimiento Electromecánico
+ <br>Direccion : Joaquin Victor Gonzalez 476, Gonzalez
+ <br>Ciudad : La Rioja Capital
+ <br>Telefono : +5493512000722
+ <br>Email : efranciscorene@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me psotulo para bacantes de electronico Especializado 
+ <br>Security_code : 5wjpn
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 152.168.170.174<br>
+ <br>Nombre : Cynthia Natali
+ <br>Apellido : Barria 
+ <br>Cargo : Comercio
+ <br>Direccion : Corrientes 1084
+ <br>Ciudad : Neuquen
+ <br>Telefono : 2995296659
+ <br>Email : Cynthianaty15@gmail.com 
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Dispongo de horario full time y con movilidad 
+ <br>Security_code : nc8vm
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.183.121.210<br>
+ <br>Nombre : Ricardo Anibal 
+ <br>Apellido : Juarez
+ <br>Cargo : deposito chofer administrativo
+ <br>Direccion : ushuaia 837
+ <br>Ciudad : isidro casanova 
+ <br>Telefono : 2916436727
+ <br>Email : juarez.ricardo.anibal@gimail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : A quien corresponda.y pueda recibir  mi cbu ,estoy dispuesto a trabajar en cualquier puesto que considere necesario o usted lo requiera ..ATTE Ricardo  
+ <br>Security_code : y3rwh
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.183.121.210<br>
+ <br>Nombre : Ricardo Anibal 
+ <br>Apellido : Juarez
+ <br>Cargo : deposito chofer administrativo
+ <br>Direccion : ushuaia 837
+ <br>Ciudad : isidro casanova 
+ <br>Telefono : 2916436727
+ <br>Email : juarez.ricardo.anibal@gimail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : A quien corresponda.y pueda recibir  mi cbu ,estoy dispuesto a trabajar en cualquier puesto que considere necesario o usted lo requiera ..ATTE Ricardo  
+ <br>Security_code : y3rwh
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.9<br>
+ <br>Nombre : Marilen Analisi
+ <br>Apellido : Vier
+ <br>Cargo : Administración
+ <br>Direccion : Nahuel Huapi 295
+ <br>Ciudad : Las grutas
+ <br>Telefono : 2944804432
+ <br>Email : marilenvier@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas tardes adjunto mi cv. Actualmente resido en las grutas, por razones laborales, soy oriunda de Bariloche. No tengo problemas en cambiar de residencia, en caso de tener oportunidad de trabajar en vuestra empresa. Saludos cordiales
+ <br>Security_code : k746t
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.18.127.115<br>
+ <br>REF : TEC. EL
+ <br>Nombre : claudio daniel 
+ <br>Apellido : segade
+ <br>Cargo : tecnico
+ <br>Direccion : rio colorado 2670
+ <br>Ciudad : hurlingham 
+ <br>Telefono : 011-2094-5384
+ <br>Email : segadecd2015@outlook.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas Noches me interesa postularme al puesto de tecnico , tengo experiencia y amplios conocimientos
+ <br>Security_code : 5h9r2
+ <br>Send : Enviar
+ <br>
+---------------
+

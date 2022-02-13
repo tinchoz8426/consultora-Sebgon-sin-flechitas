@@ -1,0 +1,36 @@
+Address : 190.15.200.11
+Nombre : noelia patricia
+Apellido : rocha
+Cargo : personal temporario
+Direccion : roberto saravia 1626
+Ciudad : mendoza
+Telefono : 156272029
+Email : more_morenita18@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : hola espero su respuesta si me puden ayudar a encontrar un trabajo
+Security_code : n4f2p
+Send : Enviar
+
+---------------
+
+Address : 190.210.61.21
+Nombre : Leandro
+Apellido : Carfagna
+Cargo : Ventas
+Direccion : BAradero 359
+Ciudad : CABA
+Telefono : 011 15 34 08 6000
+Email : leandro.carfagna@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : A quién corresponda:
+Ante todo muy buenos días, el motivo de la presente es hacerles llegar mi CV.
+Les informo que me estaré mudando a la localidad de Baradero, por lo cual me interesaría me informen sobre las Ofertas laborales acorde a mi perfil, dentro de esa zonal.
+A la espera de una pronta respuesta.
+
+Muy Atte.
+Leandro J. Carfagna
+Security_code : jv5q7
+Send : Enviar
+
+---------------
+

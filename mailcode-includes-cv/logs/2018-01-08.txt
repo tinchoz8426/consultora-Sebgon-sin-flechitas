@@ -1,0 +1,30 @@
+Address : 181.166.54.44<br>
+ <br>Nombre : Josias Eduardo
+ <br>Apellido : Donnet
+ <br>Cargo : Operario
+ <br>Direccion : Saavedra 4462
+ <br>Ciudad : Santa Fe
+ <br>Telefono : 4537931
+ <br>Email : donnetjosias95@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estoy sin trabajo, hace 1 semana que se me venció el contrato en mi trabajo anterior.. estoy necesitando verdaderamente uno nuevo.
+ <br>Security_code : 7jr3t
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.199.144.184<br>
+ <br>Nombre : facundo
+ <br>Apellido : rodriguez
+ <br>Cargo : operario
+ <br>Direccion : sevando bayo 1200
+ <br>Ciudad : rosario
+ <br>Telefono : 3413863647
+ <br>Email : facu_rodriguez@live.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : busco enpleo en cualquier rubro. ganas de aprender y trabajar
+ <br>Security_code : d4gq4
+ <br>Send : Enviar
+ <br>
+---------------
+

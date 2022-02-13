@@ -1,0 +1,134 @@
+Address : 200.125.104.36<br>
+ <br>REF : ROT-1
+ <br>Nombre : CARLOS
+ <br>Apellido : obon
+ <br>Cargo : ingeniero
+ <br>Direccion : Arengreen 970
+ <br>Ciudad : CABA
+ <br>Telefono :   15-59381688
+ <br>Email : ricardo@telecentro.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : se agradece enviar TE de contacto. 
+
+ <br>Security_code : y6fyk
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 200.125.104.36<br>
+ <br>Nombre : CARLOS
+ <br>Apellido : obon
+ <br>Cargo : ingeniero TE 1559381688
+ <br>Direccion : Arengreen 970
+ <br>Ciudad : CABA
+ <br>Telefono :   15-59381688
+ <br>Email : ricardo@telecentro.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : enviar TE de contacto. 
+ <br>Security_code : rs2v
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 200.125.104.36<br>
+ <br>Nombre : CARLOS
+ <br>Apellido : Obon 
+ <br>Cargo : ingeniero
+ <br>Direccion : Arengreen 970
+ <br>Ciudad : CABA
+ <br>Telefono :   15-59381688
+ <br>Email : ricardo@telecentro.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Enviar TE de contacto.
+
+ <br>Security_code : jvxjc
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 200.125.104.36<br>
+ <br>Nombre : CARLOS
+ <br>Apellido : obon
+ <br>Cargo : ingeniero 
+ <br>Direccion : Arengreen 970
+ <br>Ciudad : CABA
+ <br>Telefono :   15-59381688
+ <br>Email : ricardo@telecentro.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : enviar TE de contacto. 
+
+ <br>Security_code : gdw9h
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.48.133.72<br>
+ <br>Nombre : Albenis 
+ <br>Apellido : Sarcos 
+ <br>Cargo : Comunicación Organizacional, Relaciones Públicas y Privadas
+ <br>Direccion : Barrio San Nicolás, Av. Corrientes 819, Capital Federal
+ <br>Ciudad :  Buenos Aires
+ <br>Telefono : 1170148501
+ <br>Email : ALBENISSARCOS@GMAIL.COM
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Saludos amigos,
+ Les envío mi hoja de vida profesional, para que sea evaluada en el caso de tener una vacante entre su distinguida clientela en las áreas que consideren puedo ocupar.
+Gracias por su apoyo....
+ <br>Security_code : kpnjm
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.136.190.37<br>
+ <br>REF : ACO-1
+ <br>Nombre : Mario Daniel
+ <br>Apellido : Pasqualini
+ <br>Cargo : Analista Comercio Internacional
+ <br>Direccion : Baigorria 3283
+ <br>Ciudad : CABA
+ <br>Telefono : 4501 4257
+ <br>Email : mariopasqualini@fibertel.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Mi nombre es Mario Pasqualini y soy un profesional recibido en la carrera de Licenciado en Relaciones Comerciales Internacionales. Mi aspiración está basada en la búsqueda de un puesto laboral en el sector de Comercio Exterior para poder utilizar y desarrollar mis conocimientos profesionales. He trabajo en el mencionado sector durante más de 10 años, donde he ocupado distintos puestos y he colaborado en diversas tareas, tales como: controles de carga y descarga de mercadería, exportaciones a países limítrofes y cierres de cambio en operativas de Importación y Exportación, tambien he desarrollado tareas en companias navieras de primera linea. Mis ambiciones y mis ansias de superación tanto en lo laboral como en lo personal, me llevan a solicitarle una entrevista para ampliar detalles en forma personal. 
+
+Saluda atte
+Mario Pasqualini
+ <br>Security_code : ftxtv
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.136.190.37<br>
+ <br>REF : ACO-1
+ <br>Nombre : Mario Daniel
+ <br>Apellido : Pasqualini
+ <br>Cargo : Analista Comercio Internacional
+ <br>Direccion : Baigorria 3283
+ <br>Ciudad : CABA
+ <br>Telefono : 4501 4257
+ <br>Email : mariopasqualini@fibertel.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Mi nombre es Mario Pasqualini y soy un profesional recibido en la carrera de Licenciado en Relaciones Comerciales Internacionales. Mi aspiración está basada en la búsqueda de un puesto laboral en el sector de Comercio Exterior para poder utilizar y desarrollar mis conocimientos profesionales. He trabajo en el mencionado sector durante más de 10 años, donde he ocupado distintos puestos y he colaborado en diversas tareas, tales como: controles de carga y descarga de mercadería, exportaciones a países limítrofes y cierres de cambio en operativas de Importación y Exportación, tambien he desarrollado tareas en companias navieras de primera linea. Mis ambiciones y mis ansias de superación tanto en lo laboral como en lo personal, me llevan a solicitarle una entrevista para ampliar detalles en forma personal. 
+
+Saluda atte
+Mario Pasqualini
+ <br>Security_code : ftxtv
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.190.192.241<br>
+ <br>Nombre : Matias
+ <br>Apellido : Pezzali
+ <br>Cargo : Administrador Windows Server
+ <br>Direccion : Pastorino 514, Saenz Peña
+ <br>Ciudad : Tres de Febrero
+ <br>Telefono : 1569754415
+ <br>Email : mn.pezzali@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : *
+ <br>Security_code : vq248
+ <br>Send : Enviar
+ <br>
+---------------
+

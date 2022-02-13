@@ -1,0 +1,79 @@
+Address : 200.59.236.250
+REF : GETECOM
+Nombre : Enrique
+Apellido : Benatti
+Cargo : Gerente Comercial El Bolsón
+Direccion : Los Eucaliptus 405
+Ciudad : Dina Huapi
+Telefono : 0299 4433352
+Email : enriquebenatti@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : SRES.
+Adjunto CV por la postulación de Gte Comercial El Bolsón.
+Atte
+Security_code : kxzmc
+Send : Enviar
+
+---------------
+
+Address : 201.255.219.244
+Nombre : Maria Eugenia
+Apellido : Gargaglione
+Cargo : Gerente
+Direccion : Av. Independencia 1681
+Ciudad : Caba
+Telefono : 156002400
+Email : maregargaglione@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto mi CV, para busquedas laborales. Gracias
+Security_code : 4stw3
+Send : Enviar
+
+---------------
+
+Address : 186.137.82.166
+Nombre : Aley Tal
+Apellido : Szejer
+Cargo : Secretaria
+Direccion : Av. De Mayo 456
+Ciudad : Ramos Mejía, La Matanza
+Telefono : 1559106331
+Email : aley.sze@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Envío mi CV para poder ser tomada en cuenta en futuras búsquedas de empleo.
+Cuento con experiencia en secretaría, administración y vendedora. Desde ya, muchas gracias.
+Security_code : qv7v4
+Send : Enviar
+
+---------------
+
+Address : 190.51.135.105
+Nombre : Analia Raquel
+Apellido : Vergara
+Cargo : Recepcionista; Atención al público.
+Direccion : Monteagudo 1340
+Ciudad : Buenos Aires
+Telefono : 1537858205
+Email : analia_sag@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me gustaria que me tengan es sus bases de datos, para que, si surge un puesto de trabajo, me pudieran tener en cuenta. Desde ya, muchas gracais!
+Security_code : cby9q
+Send : Enviar
+
+---------------
+
+Address : 181.167.18.120
+Nombre : Micaela
+Apellido : Harina
+Cargo : Atencion al cliente
+Direccion : Cramer 2930 dpto 8
+Ciudad : CABA
+Telefono : 011-1539264602
+Email : micaelaharina@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Envio de cv
+Security_code : 7s8d5
+Send : Enviar
+
+---------------
+

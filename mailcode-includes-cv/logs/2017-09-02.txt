@@ -1,0 +1,21 @@
+Address : 201.179.83.239<br>
+ <br>Nombre : joaquin
+ <br>Apellido : Ibañez
+ <br>Cargo : Lic en Gestion Ambiental
+ <br>Direccion : calle 49 3707
+ <br>Ciudad : Berazategui
+ <br>Telefono : 1563631940
+ <br>Email : yacoibaniez@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados, 
+
+Me llamo Joaquin Ibañez, soy Tec. Unv. en Gestion Ambiental y actualmente estudiante avanzado de la Lic.
+Me encuentro en la busqueda de empleo a fines a la formacion universitaria y de mis capacitaciones previas. 
+
+Estoy a su disposcion . 
+Ibañez.
+ <br>Security_code : yvnxw
+ <br>Send : Enviar
+ <br>
+---------------
+

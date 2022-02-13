@@ -1,0 +1,15 @@
+Address : 200.117.32.162
+Nombre : Eduardo
+Apellido : Saravia Julio
+Cargo : Seguridad, Mantenimiento Eléctrico general.
+Direccion : Santiago Derqui 2895
+Ciudad : Santa Fe
+Telefono : 0342155901721
+Email : eduardosaraviajulio@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Busco una oportunidad laboral en lo que estoy capacitado. Desde ya muchas gracias.
+Security_code : bbyhj
+Send : Enviar
+
+---------------
+

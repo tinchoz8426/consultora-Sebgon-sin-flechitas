@@ -1,0 +1,16 @@
+Address : 190.178.73.100
+REF : gerente-de-operaciones
+Nombre : diego fabian
+Apellido : garino
+Cargo : empleado
+Direccion : kekombochs 66
+Ciudad : rio grande
+Telefono : 02964441475
+Email : diegofa2001@hotmail.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : quiero ser parte de la empresa
+Security_code : 4s5bs
+Send : Enviar
+
+---------------
+

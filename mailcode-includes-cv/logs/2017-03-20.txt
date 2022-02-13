@@ -1,0 +1,272 @@
+Address : 190.177.5.192<br>
+ <br>Nombre : Braian David
+ <br>Apellido : Basualdo
+ <br>Cargo : Operario
+ <br>Direccion : calle 9 2950
+ <br>Ciudad : Berazategui
+ <br>Telefono : 43562181
+ <br>Email : braiandav@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : 1151418347
+ <br>Security_code : 7s7bt
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.141.197.98<br>
+ <br>Nombre : Eduardo
+ <br>Apellido : Carabajal
+ <br>Cargo : chofer reparto
+ <br>Direccion : sarratea 399
+ <br>Ciudad : claypole
+ <br>Telefono : 1133917257
+ <br>Email : eduardo_carabajal@hotmail.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola me postulo para chofer de reparto,ya que vib que tienen un aviso 
+ <br>Security_code : 2gc3v
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 200.126.245.23<br>
+ <br>REF : chr
+ <br>Nombre : Ezequiel
+ <br>Apellido : Di Paolis
+ <br>Cargo : Chofer de reparto
+ <br>Direccion : Griveo 3160
+ <br>Ciudad : Capital
+ <br>Telefono : 1163672431
+ <br>Email : ezedipaolis@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Soy una persona orientada hacia las metas y objetivos de la organización, aplicando mis conocimientos para lograr así un trabajo coordinado que permita el crecimiento de la empresa así como el mío personal y profesional.
+ <br>Security_code : z2r4c
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.22.242.59<br>
+ <br>Nombre : Luis
+ <br>Apellido : Myszkowski
+ <br>Cargo : Indiferente
+ <br>Direccion : Payro 3043
+ <br>Ciudad : Glew
+ <br>Telefono : 01139747522
+ <br>Email : myszkowski4040@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Desde ya,Gracias por recibir mi C.V.
+
+Atte. Myszkowski Luis
+ <br>Security_code : 265b7
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.22.242.59<br>
+ <br>Nombre : Luis
+ <br>Apellido : Myszkowski
+ <br>Cargo : Indiferente
+ <br>Direccion : Payro 3043
+ <br>Ciudad : Glew
+ <br>Telefono : 01139747522
+ <br>Email : myszkowski4040@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Desde ya,Gracias por recibir mi C.V.
+
+Atte. Myszkowski Luis
+ <br>Security_code : 265b7
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.10.39.17<br>
+ <br>REF : chr
+ <br>Nombre : fernando
+ <br>Apellido : lopez
+ <br>Cargo : chofer de reparto
+ <br>Direccion : w de tata
+ <br>Ciudad : caseros
+ <br>Telefono : 1525046678
+ <br>Email : ref.saranda@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : aQUI LES DEJO MI CV, TENGO EXPERIENSA EN REPARTO
+ <br>Security_code : 385t2
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.143.198.221<br>
+ <br>REF : chr
+ <br>Nombre : Diego 
+ <br>Apellido : Silva
+ <br>Cargo : Chofer
+ <br>Direccion : Independencia 1655
+ <br>Ciudad : Merlo
+ <br>Telefono : 1161817460
+ <br>Email : sdiegoemiliano@yahoo.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas noches...me dirijo a ustedes con la intencion y posibilidad de postularme al empleo que buscan y asimismo ser elegido ya que me considero apto y con los conocimientos requeridos para el puesto. Muchas gracias
+ <br>Security_code : b2ydh
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.7<br>
+ <br>REF : chr
+ <br>Nombre : Mauro
+ <br>Apellido : Ortega
+ <br>Cargo : Chofer 
+ <br>Direccion : Iguazu 9317
+ <br>Ciudad : Buenos aires
+ <br>Telefono : 1553831260
+ <br>Email : Mauroyasmin21@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : En la actualidad hago tramporte de pasajeros con un micro escolar propio 
+ <br>Security_code : bs25s
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.158.138.113<br>
+ <br>REF : chr
+ <br>Nombre : Javier Gastón
+ <br>Apellido : Branco
+ <br>Cargo : Chofer /operario
+ <br>Direccion : Rodriguez  peña 1687
+ <br>Ciudad : San miguel 
+ <br>Telefono : 1166729315/02320664771
+ <br>Email : javierbrc@yahoo.com.ar 
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buscó progreso laboral y destacar mis conocimientos 
+ <br>Security_code : Kxssh
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.31.43.164<br>
+ <br>REF : chr
+ <br>Nombre : Flavio mar celo
+ <br>Apellido : Tessone
+ <br>Cargo : Chófer
+ <br>Direccion : Alberdi.150
+ <br>Ciudad : Tigre
+ <br>Telefono : 1133895697
+ <br>Email : flavio.m.tessone@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Necesito trabajar.demen la oportunidad.de demostrarlo .q les sirvo.y soy muy responsable
+ <br>Security_code : R4b6q
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.31.43.164<br>
+ <br>REF : chr
+ <br>Nombre : Flavio mar celo
+ <br>Apellido : Tessone
+ <br>Cargo : Chófer
+ <br>Direccion : Alberdi.150
+ <br>Ciudad : Tigre
+ <br>Telefono : 1133895697
+ <br>Email : flavio.m.tessone@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Necesito trabajar.demen la oportunidad.de demostrarlo .q les sirvo.y soy muy responsable
+ <br>Security_code : R4b6q
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.31.43.164<br>
+ <br>REF : chr
+ <br>Nombre : Flavio mar celo
+ <br>Apellido : Tessone
+ <br>Cargo : Chófer
+ <br>Direccion : Alberdi.150
+ <br>Ciudad : Tigre
+ <br>Telefono : 1133895697
+ <br>Email : flavio.m.tessone@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Necesito trabajar.demen la oportunidad.de demostrarlo .q les sirvo.y soy muy responsable
+ <br>Security_code : R4b6q
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.134.7.236<br>
+ <br>Nombre : Aldana
+ <br>Apellido : Laffon
+ <br>Cargo : Cadete, vendedora,cajera, limpieza.
+ <br>Direccion : Unamuno
+ <br>Ciudad : Castelar
+ <br>Telefono : 1165268396
+ <br>Email : belen091114ayb@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola quisiera trabajar tengo 22años y estoy buscando un empleo aprendo rapido.
+Tengo secundario completo y muchas ganas de conseguir algo gracias estoy a su disposición.
+ <br>Security_code : 4qr8b
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.179.154.38<br>
+ <br>REF : chr
+ <br>Nombre : juan jose maria 
+ <br>Apellido : altamirano
+ <br>Cargo : chofer
+ <br>Direccion : juan bautista alberdi
+ <br>Ciudad : caba
+ <br>Telefono : 46820189 0 1135214740
+ <br>Email : juan_josemaria@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Soy una persona seria y responsable soy entrerriano
+ <br>Security_code : 8z7xc
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.179.154.38<br>
+ <br>REF : chr
+ <br>Nombre : juan jose maria 
+ <br>Apellido : altamirano
+ <br>Cargo : chofer
+ <br>Direccion : juan bautista alberdi
+ <br>Ciudad : caba
+ <br>Telefono : 46820189 0 1135214740
+ <br>Email : juan_josemaria@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Soy una persona seria y responsable soy entrerriano
+ <br>Security_code : 8z7xc
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.179.154.38<br>
+ <br>REF : chr
+ <br>Nombre : juan jose maria 
+ <br>Apellido : altamirano
+ <br>Cargo : chofer
+ <br>Direccion : juan bautista alberdi
+ <br>Ciudad : CABA
+ <br>Telefono : 46820189 0 1135214740
+ <br>Email : juan_josemaria@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Soy una persona seria y responsable soy entrerriano
+ <br>Security_code : 8z7xc
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.179.154.38<br>
+ <br>REF : chr
+ <br>Nombre : juan jose maria 
+ <br>Apellido : altamirano
+ <br>Cargo : chofer
+ <br>Direccion : juan bautista alberdi
+ <br>Ciudad : CABA
+ <br>Telefono : 46820189 0 1135214740
+ <br>Email : juan_josemaria@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Soy una persona seria y responsable soy entrerriano
+ <br>Security_code : 8z7XC
+ <br>Send : Enviar
+ <br>
+---------------
+

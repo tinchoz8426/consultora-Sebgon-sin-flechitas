@@ -1,0 +1,203 @@
+Address : 190.231.110.140
+REF : TES
+Nombre : DANIEL GUSTAVO
+Apellido : VALLE
+Cargo : TESORERO
+Direccion : ASUNCION 3854 PISO 8 DTO. A
+Ciudad : C.A.B.A.
+Telefono : 15-5106-3333  4504-6738
+Email : dgvalle55@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto mi curriculum para el puesto de Tesorero
+Security_code : 8mpd6
+Send : Enviar
+
+---------------
+
+Address : 190.231.118.193
+REF : OEL
+Nombre : Lucas santiago
+Apellido :  Farias 
+Cargo : oficial
+Direccion : Alarcón 172  tigre 
+Ciudad :  buenos  aire 
+Telefono : 1124221471
+Email :  javierdetorcuato26@hotmail.con
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola soy Lucas  Farias y  soy  oficial electricista estoy sin  trabajo 
+Security_code : 4hm3z
+Send : Enviar
+
+---------------
+
+Address : 190.231.118.193
+REF : OEL
+Nombre : Lucas santiago
+Apellido :  Farias 
+Cargo : oficial
+Direccion : Alarcón 172  tigre 
+Ciudad :  buenos  aire 
+Telefono : 1124221471
+Email :  javierdetorcuato26@hotmail.con
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola soy Lucas  Farias y  soy  oficial electricista estoy sin  trabajo 
+Security_code : 4hm3z
+Send : Enviar
+
+---------------
+
+Address : 190.231.118.193
+REF : OEL
+Nombre : Lucas santiago
+Apellido :  Farias 
+Cargo : oficial
+Direccion : Alarcón 172  tigre 
+Ciudad :  buenos  aire 
+Telefono : 1124221471
+Email :  javierdetorcuato26@hotmail.con
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola soy Lucas  Farias y  soy  oficial electricista estoy sin  trabajo 
+Security_code : 4hm3z
+Send : Enviar
+
+---------------
+
+Address : 181.170.36.124
+Nombre : Lucas
+Apellido : Afonso
+Cargo : Asesores Comerciales
+Direccion : Baigorria 3633
+Ciudad : Buenos Aires
+Telefono : 1553282397
+Email : afonsolucasm@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estoy actualmente en la búsqueda de un emeplo part-time, para poder complementar con mis estudios universitarios.
+Security_code : snntc
+Send : Enviar
+
+---------------
+
+Address : 190.228.212.41
+Nombre : Varinka
+Apellido : De Sandoval
+Cargo : Recepcionista, Asistente Administrativa Jr
+Direccion : Beruti 4646
+Ciudad : CABA
+Telefono : 1130793330
+Email : varinkads.epi@outlook.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenas tardes,
+
+Por este medio envío Curriculum Vitae, para la postulante de alguna vacante disponible en el puesto de "Recepcionista y/o Asistente Administrativa "en su cartera de clientes.
+
+Permitame darle una breve presentación de mi perfil profesional, ya que cuento con experiencia en puestos de Atención a clientes, recepción y asistencia a puestos gerenciales en empresas tales como TOTVS MÉXICO (Empresa internacional de software e IT) y GRUPO EPI S.A. (Empresa constructora). Dado que mis estudios universitarios en México y Argentina se basan en Relaciones comerciales a nivel internacional, cuento con una formación multicultural, ya que durante mis estudios y preparación profesional obtuve una puntuación en la prueba TOEFL 560 demostrando un nivel avanzado en el idioma inglés, así como del idioma portugués, brindándome la capacidad de ser más competitiva a nivel global.
+
+Esperando haber logrado captar su atención, espero con entusiasmo la oportunidad de ampliar mi trayectoria y preparación profesional en una entrevista laboral.
+
+Saludos cordiales,
+
+ATT. Varinka de Sandoval Barona
+Security_code : wb9z4
+Send : Enviar
+
+---------------
+
+Address : 190.105.213.223
+REF : GTEP
+Nombre : Alberto
+Apellido : Proaño
+Cargo : gerente de olanta
+Direccion : los robles
+Ciudad : Villa Nueva
+Telefono : +5493534247929
+Email : albertoproa@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buen dìa, a la espera de  una entrevista laboral
+Saludos
+Alberto Proaño
+Security_code : sg7bh
+Send : Enviar
+
+---------------
+
+Address : 190.30.70.246
+Nombre : Ana Soledad
+Apellido : Bruccieri
+Cargo : Recursos Humanos
+Direccion : Pareja 2561
+Ciudad : Ciudad Autónoma de Bs. As
+Telefono : 011 1541782697
+Email : solbru@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados, envío mi CV para ser tenida en cuenta en vacantes que se asemejen a mi perfil. Muchas gracias,
+Saludos cordiales
+Security_code : x6kz3
+Send : Enviar
+
+---------------
+
+Address : 201.177.84.186
+REF : JP
+Nombre : Alejandro
+Apellido : Georgòpulos 
+Cargo : Jefe de RRHH
+Direccion : Lautaro 430 - 5to C
+Ciudad : CABA
+Telefono : 15 4163 1396
+Email : georgopulos@fibertel.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Por medio de la presente adjunto mis datos personales y experiencia laboral en función del aviso solcitando  Gerente de Recursos Humanos.-
+
+Sin otro particular y esperando verme favorecido con una entrevista les saludo muy atte.
+
+Alejandro Georgópulos
+Security_code : hjnzz
+Send : Enviar
+
+---------------
+
+Address : 181.92.56.222
+Nombre : rodrigo emmanuel
+Apellido : savloff
+Cargo : administracion y ventas
+Direccion : barrio covifol casa 50
+Ciudad : formosa
+Telefono : 370154757770
+Email : rodrigosavloff@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Busco empleo
+Security_code : ty8s2
+Send : Enviar
+
+---------------
+
+Address : 181.29.87.218
+Nombre : Micaela Alejandra
+Apellido : Alegre
+Cargo : Recursos Humanos
+Direccion : Tucuman 1449
+Ciudad : Castelar
+Telefono : 1162665520
+Email : Micaela.alegre@live.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Envio mi CV para alguna búsqueda relacionada al área de RRHH. Gracias!
+Security_code : xwtt5
+Send : Enviar
+
+---------------
+
+Address : 191.82.112.6
+Nombre : Adrian Ezequiel
+Apellido : Bentos
+Cargo : operario de produccion
+Direccion : democracia 110
+Ciudad : merlo, buenos aires
+Telefono : 00204893604
+Email : adrii_millo17@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Tecnico electromecanico
+Security_code : h5m6b
+Send : Enviar
+
+---------------
+

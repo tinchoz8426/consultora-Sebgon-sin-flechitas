@@ -1,0 +1,45 @@
+Address : 190.175.158.216
+Nombre : Juan Manuel
+Apellido : De La Prida
+Cargo : Indistinto
+Direccion : Calletano Silva 1581
+Ciudad : Godoy Cruz
+Telefono : 02614397752
+Email : juanmadelaprida_2010@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me postulo para cualquier puesto de trabajo
+Security_code : zwp9x
+Send : Enviar
+
+---------------
+
+Address : 186.18.208.33
+Nombre : melisa alejandra
+Apellido : faussone
+Cargo : psicologia
+Direccion : pacheco de melo 2638 740 piso:3 depto:B
+Ciudad : capital federal
+Telefono : 11 1562152822
+Email : melifaussone@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola quisiera tener una entrevista para realizar psicotécnicos, ya que, estoy en búsqueda laboral. 
+Security_code : 2n7jr
+Send : Enviar
+
+---------------
+
+Address : 190.190.134.36
+Nombre : Emilse Gisel del Valle
+Apellido : Naretto
+Cargo : atencion al cliente
+Direccion : Celiz De Quiroga 385
+Ciudad : Cordoba
+Telefono : 0351-157072518
+Email : emilsenaretto@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me Gustaria conseguir trabajo
+Security_code : ysm44
+Send : Enviar
+
+---------------
+

@@ -1,0 +1,16 @@
+Address : 186.62.54.19
+REF : SE.BIL
+Nombre : Noelia
+Apellido : Lorenzo
+Cargo : Secretaria Bilingüe
+Direccion : 9 5335
+Ciudad : Berazategui
+Telefono : 1563069339
+Email : noelialorenzo@hotmail.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Soy una persona proactiva, dinámica y aprendo rápido cualquier tarea nueva que se me asigne. Al ser Traductora Pública en idioma Inglés, hablo el idioma en un nivel bilingüe y tengo conocimientos sobre las distintas ramas del derecho argentino y anglosajón. Además, tengo muy buen manejo de las herramientas de informática, tanto de Microsoft Office como de Internet.
+Security_code : bcdhc
+Send : Enviar
+
+---------------
+

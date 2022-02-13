@@ -1,0 +1,30 @@
+Address : 190.245.43.160
+Nombre : Enrique Guido
+Apellido : Del Giorno
+Cargo : Asistente/junior/QA
+Direccion : Puan 667 dto B
+Ciudad : Buenos Aires
+Telefono : 1535150002
+Email : enrique.delgiorno@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Actualmente me encuentro en la búsqueda de un puesto que mas alla de la remuneración pretendida me enfoco en la estabilidad laboral, posibilidades de crecimiento y capacitaciones y buen clima laboral.
+Security_code : qmmbf
+Send : Enviar
+
+---------------
+
+Address : 190.13.230.128
+Nombre : sofia
+Apellido : gutierrez
+Cargo : administrativo
+Direccion : san blas
+Ciudad : tortuguitas
+Telefono : 541134095495
+Email : sofia35237@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : me gustaria que tengan en cuenta mi cv por cualquier cosa. muchas gracias
+Security_code : ytssg
+Send : Enviar
+
+---------------
+

@@ -1,0 +1,27 @@
+Address : 186.136.24.27
+Nombre : Marina
+Apellido : Dìaz
+Empresa : Grafològa Oficial
+Telefono : 1532182735
+Email : marinaadiaz@hotmail.com
+Mensaje : buenas tardes, quisiera consultarles si puedo enviarles mi CV para trabajar en la consultora como Grafòloga , me recibì en el 2007 en el Instituto Superior Emerson y realicè la Diplomatura de Seleccion de Personal 
+Saludos cordiales
+Marina A. Dìaz
+
+Security_code : zzsxp
+Send : Enviar
+
+---------------
+
+Address : 190.139.249.141
+Nombre : Ana Guadalupe
+Apellido : Hidalgo
+Empresa : Ninguna
+Telefono : 0351-153062458
+Email : chapitotal@hotmail.com
+Mensaje : hola el motivo de mi breve carta es para sacar una duda yo estoy en busca de empleo pero soy de córdoba capital.ustedes trabajan con empresas de cba cap? si me pueden responder mi duda a travez de mi casilla de correo les estaria muy agreadecida.
+Security_code : 67339
+Send : Enviar
+
+---------------
+

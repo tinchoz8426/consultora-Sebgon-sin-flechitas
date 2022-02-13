@@ -1,0 +1,105 @@
+Address : 181.166.32.146
+Nombre : Samantha Magali
+Apellido : Lopez Kolender
+Cargo : Indistinto
+Direccion : 136 1478
+Ciudad : La Plata
+Telefono : 2215763309
+Email : samanthamlk@yahoo.com
+MAX_FILE_SIZE : 2097152
+Mensaje : .
+Security_code : 7n3v2
+Send : Enviar
+
+---------------
+
+Address : 181.29.12.231
+Nombre : CARINA
+Apellido : BAEZ
+Cargo : CONTADOR
+Direccion : VALENTIN ALSINA 2979
+Ciudad : EL JAGUEL
+Telefono : 1536806281
+Email : jarkcary@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : .
+Security_code : dx6w6
+Send : Enviar
+
+---------------
+
+Address : 201.254.24.246
+Nombre : micaela
+Apellido : quintero
+Cargo : comercio
+Direccion : parral 3181
+Ciudad : san justo
+Telefono : 11-3287-6572
+Email : nahirquintero13@live.com
+MAX_FILE_SIZE : 2097152
+Mensaje : estoy buscando trabajo urgente. desde ya muchas gracias
+Security_code : ssth7
+Send : Enviar
+
+---------------
+
+Address : 201.254.24.246
+Nombre : micaela
+Apellido : quintero
+Cargo : comercio
+Direccion : parral 3181
+Ciudad : san justo
+Telefono : 11-3287-6572
+Email : nahirquintero13@live.com
+MAX_FILE_SIZE : 2097152
+Mensaje : estoy buscando trabajo urgente. desde ya muchas gracias
+Security_code : ssth7
+Send : Enviar
+
+---------------
+
+Address : 201.254.24.246
+Nombre : micaela
+Apellido : quintero
+Cargo : comercio
+Direccion : parral 3181
+Ciudad : san justo
+Telefono : 11-3287-6572
+Email : nahirquintero13@live.com
+MAX_FILE_SIZE : 2097152
+Mensaje : estoy buscando trabajo urgente. desde ya muchas gracias
+Security_code : g3fq8
+Send : Enviar
+
+---------------
+
+Address : 190.55.67.155
+Nombre : Jorgelina
+Apellido : Tagliani
+Cargo : Atención al cliente - empleada administrativa
+Direccion : Pasaje salado 767 - Temperley
+Ciudad : Buenos Aires
+Telefono : 39791963
+Email : candelatagliani@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Solicito empleo como empleada administrativa o atención al cliente, preferentemente en zona sur de la provincia de BsAs o Capital Federal, también puedo desempeñarme en Olavarria, provincia de BsAs. 
+Security_code : 346p5
+Send : Enviar
+
+---------------
+
+Address : 190.31.200.16
+Nombre : Jesica Paola 
+Apellido : Puglie
+Cargo : Indistinto 
+Direccion : Florencia 3286 Villa Azalais 
+Ciudad : Córdoba 
+Telefono : 0351155648675
+Email : jesicapuglie@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Desempeñarme, ofrecer y desarrollar todas mis capacidades innatas, consiguiendo un excelente resultado en la labor y el área asignada. Adquirir a través de la responsabilidad y confianza en mí depositada, una experiencia inigualable, con la cual conseguiré un paso importante en mi superación personal. Crecer personal y económicamente. 
+Security_code : tygfp
+Send : Enviar
+
+---------------
+

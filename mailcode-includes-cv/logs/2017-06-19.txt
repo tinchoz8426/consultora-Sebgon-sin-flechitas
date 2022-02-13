@@ -1,0 +1,324 @@
+Address : 190.191.251.59<br>
+ <br>REF : ACO-1
+ <br>Nombre : Carlos
+ <br>Apellido : Méndez
+ <br>Cargo : Analista Comercio Exterior
+ <br>Direccion : Malabia 2418
+ <br>Ciudad : Capital Federal
+ <br>Telefono : +5491123943691
+ <br>Email : cdanielmg93@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Poseo disponibilidad inmediata y me encantaría unirme a su equipo de trabajo, tengo las competencias necesarias para cumplir con el trabajo requerido.
+ <br>Security_code : fh6gq
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.179.175.250<br>
+ <br>REF : chr
+ <br>Nombre : Emiliano
+ <br>Apellido : Petracca
+ <br>Cargo : chr
+ <br>Direccion : Lope de vega 843
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 1530998641
+ <br>Email : emi.petracca@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : no tengo experiencia en transporte
+ <br>Security_code : m5pjc
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 170.51.30.218<br>
+ <br>REF : chr
+ <br>Nombre : Nicolas Fabian 
+ <br>Apellido : ROA
+ <br>Cargo : Chofer
+ <br>Direccion : French 561
+ <br>Ciudad : Ezeiza
+ <br>Telefono : 1562080082
+ <br>Email : nicoroa85@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas tardes a cabo de ver su publicación y me gustaría postularse al puesto de chofer tengo una experiencia de manejo de más de seis años soy muy adaptable a cualquier ambiente de trabajo .
+Muchas gracias 
+ <br>Security_code : qk3jh
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.45.226.96<br>
+ <br>REF : chr
+ <br>Nombre : Edgar antonio
+ <br>Apellido : Maldonado
+ <br>Cargo : Chofer
+ <br>Direccion : Larrazabal 4844 villa luzuriaga
+ <br>Ciudad : Matanza
+ <br>Telefono : 1254696946
+ <br>Email : Chmaldonado2016@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estoy interezado..
+ <br>Security_code : W5374
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.45.226.96<br>
+ <br>REF : chr
+ <br>Nombre : Edgar antonio
+ <br>Apellido : Maldonado
+ <br>Cargo : Chofer
+ <br>Direccion : Larrazabal 4844 villa luzuriaga
+ <br>Ciudad : Matanza
+ <br>Telefono : 1254696946
+ <br>Email : Chmaldonado2016@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estoy interezado..
+ <br>Security_code : W5374
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.136.2.124<br>
+ <br>REF : chr
+ <br>Nombre : alan
+ <br>Apellido : rolon
+ <br>Cargo : choferdereparto
+ <br>Direccion : 2deabril 4844
+ <br>Ciudad : san martin
+ <br>Telefono : 1164859935
+ <br>Email : alanmedicardio@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : me postulo para chofer de camion de reparto o acompañante de reparto.espero su llamado gracias
+ <br>Security_code : v5hqw
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.9<br>
+ <br>REF : chr
+ <br>Nombre : Daniel Horacio
+ <br>Apellido : Antequeda
+ <br>Cargo : Chofer
+ <br>Direccion : 32
+ <br>Ciudad : Berazategui
+ <br>Telefono : 21014676
+ <br>Email : danielantequeda1@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenos dias necesito trabajar ya. Estoy dispuesto al puesto q necesiten y el horario que quieran muchas gracias saludos 
+ <br>Security_code : 3fnzq
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.7<br>
+ <br>Nombre : Daniel Horacio
+ <br>Apellido : Antequeda
+ <br>Cargo : Chofer
+ <br>Direccion : 32
+ <br>Ciudad : Berazategui
+ <br>Telefono : 21014676
+ <br>Email : danielantequeda1@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Nesesito el trabajo yaaaa 
+ <br>Security_code : 4kgpx
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.143.198.92<br>
+ <br>REF : chr
+ <br>Nombre : Jorge armando
+ <br>Apellido : Trujillo Molina 
+ <br>Cargo : Chofer
+ <br>Direccion : Avenida caseros 3788
+ <br>Ciudad : Argentina 
+ <br>Telefono : 005491136888746
+ <br>Email : Jotrumo.g.2010@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Soy puntual y responsable en el trabajo trabaje en rovella carranza y en crear textil y en materiales pétreos tengo 31años 
+ <br>Security_code : Jgdww
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.137.171.225<br>
+ <br>REF : chr
+ <br>Nombre : Emmanuel
+ <br>Apellido : Sachi
+ <br>Cargo : chofer
+ <br>Direccion : gandara2563
+ <br>Ciudad : parque chas
+ <br>Telefono : 1127604468
+ <br>Email : esachi81@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : estoy en busca de trabajo como chofer me adapto rapido a tareas dadas responsable y ganas de crecer en la empreza
+ <br>Security_code : cnxzx
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 200.125.108.156<br>
+ <br>REF : ACO-1
+ <br>Nombre : Marcelo Hernán
+ <br>Apellido : Arboniés
+ <br>Cargo : ANALISTA DE COMERCIO INTERNACIONAL/EXTERIOR
+ <br>Direccion : Paso 532
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 15-6356-5347
+ <br>Email : mararbix@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estoy en la búsqueda de un trabajo que me permita ampliar mi desarrollo tanto laboral como personal, donde me dé la posibilidad de enfrentar nuevos desafíos aprovechando mis más de 13 años de experiencia en Comercio Exterior. Me gustaría pertenecer a una empresa dinámica que se oriente al trabajo en equipo y me permita seguir creciendo en sus distintas áreas.
+ <br>Security_code : 9zckz
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 200.125.108.156<br>
+ <br>REF : ACO-1
+ <br>Nombre : Marcelo Hernán
+ <br>Apellido : Arboniés
+ <br>Cargo : ANALISTA DE COMERCIO INTERNACIONAL/EXTERIOR
+ <br>Direccion : Paso 532
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 15-6356-5347
+ <br>Email : mararbix@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estoy en la búsqueda de un trabajo que me permita ampliar mi desarrollo tanto laboral como personal, donde me dé la posibilidad de enfrentar nuevos desafíos aprovechando mis más de 13 años de experiencia en Comercio Exterior. Me gustaría pertenecer a una empresa dinámica que se oriente al trabajo en equipo y me permita seguir creciendo en sus distintas áreas.
+ <br>Security_code : 9zckz
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 200.125.108.156<br>
+ <br>REF : ACO-1
+ <br>Nombre : Marcelo Hernán
+ <br>Apellido : Arboniés
+ <br>Cargo : ANALISTA DE COMERCIO INTERNACIONAL/EXTERIOR
+ <br>Direccion : Paso 532
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 15-6356-5347
+ <br>Email : mararbix@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estoy en la búsqueda de un trabajo que me permita ampliar mi desarrollo tanto laboral como personal, donde me dé la posibilidad de enfrentar nuevos desafíos aprovechando mis más de 13 años de experiencia en Comercio Exterior. Me gustaría pertenecer a una empresa dinámica que se oriente al trabajo en equipo y me permita seguir creciendo en sus distintas áreas.
+ <br>Security_code : qhjhm
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.251.134.214<br>
+ <br>REF : ROT-1
+ <br>Nombre : Norberto
+ <br>Apellido : Perez
+ <br>Cargo : RESPONSABLE DE OFICINA TECNICA
+ <br>Direccion : Mitre 1499
+ <br>Ciudad : Bariloche
+ <br>Telefono : 0294 154539346
+ <br>Email : norbertoperez.ar@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : ¡Estoy muy entusiasmado de trabajar con ustedes brindándoles mis servicios!
+ 
+Sres. Sebgon Consultora
+ 
+Atte. Sr. Gerente RR.HH.
+ 
+    Siendo Ingeniero Mecánico, quiero participar en vuestros desafíos como Ingeniero de Obras y Proyectos,
+para lo cual le envío mis antecedentes profesionales y le ofrezco toda mi capacidad, pro-actividad y liderazgo.
+ 
+    Poseo amplia experiencia en el diseño de Piping y Stress Analysis en Instalaciones de Superficie rubro Oil & Gas,
+Plantas Químicas, Petroquímicas y Nucleares.
+Últimamente estuve trabajando en varios proyectos para YPF en la zona de las Heras, Santa Cruz.
+
+También poseo amplia experiencia en diseño de recipientes sometidos a presión de acuerdo a ASME VIII.
+ 
+¡Poseo capacidad para re-localizarme y estoy listo para trabajar con ustedes!
+ 
+Sin otro particular y descontando serles de utilidad, le solicito una entrevista donde poder ampliar mi experiencia.
+
+Saludo a usted muy atentamente,
+ 
+Ing. Norberto Omar Perez
+✆ 0294 154 539346
+ 
+    P.D.: Gracias desde ya por su consideración en lo que tengo para ofrecerles. 
+¡Pueden contactarme en cualquier momento en mi celular 0294 154 539346 o a este e-mail, para colaborar con ustedes!
+
+ <br>Security_code : nb7y5
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.139.82.150<br>
+ <br>Nombre : Lautaro
+ <br>Apellido : Galarza
+ <br>Cargo : Desarrollador de Software
+ <br>Direccion : Leiva 4038 9B
+ <br>Ciudad : Ciudad Autonoma De Buenos Aires
+ <br>Telefono : 0111524512419
+ <br>Email : lautarogalarza@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola,
+
+Quería agregar mi CV a su base de datos, para que me tenga en cuenta para sus futuras búsquedas laborales.
+
+Gracias.
+ <br>Security_code : 2t7vp
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.139.82.150<br>
+ <br>Nombre : Lautaro
+ <br>Apellido : Galarza
+ <br>Cargo : Desarrollador de Software
+ <br>Direccion : Gascón 317
+ <br>Ciudad : Mar del Plata
+ <br>Telefono : 0111524512419
+ <br>Email : lautarogalarza@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola,
+
+Quería agregar mi CV a su base de datos, para que me tenga en cuenta para sus futuras búsquedas laborales.
+
+Gracias.
+ <br>Security_code : 2t7vp
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.139.82.150<br>
+ <br>Nombre : Lautaro
+ <br>Apellido : Galarza
+ <br>Cargo : Desarrollador de Software
+ <br>Direccion : Gascón 317
+ <br>Ciudad : Mar del Plata
+ <br>Telefono : 0111524512419
+ <br>Email : lautarogalarza@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola,
+
+Quería agregar mi CV a su base de datos, para que me tenga en cuenta para sus futuras búsquedas laborales.
+
+Gracias.
+ <br>Security_code : vk6ck
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.11<br>
+ <br>REF : ACO
+ <br>Nombre : Ganna
+ <br>Apellido : Shvarts
+ <br>Cargo : Asistente Comercial
+ <br>Direccion : Finca 6194
+ <br>Ciudad : Ciudad Jardín
+ <br>Telefono : 1162813754
+ <br>Email : shvarts96@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Aguardo ser el perfil buscado y poder coordinar una entrevista.
+Desde ya, muchas gracias.
+ <br>Security_code : pvfr5
+ <br>Send : Enviar
+ <br>
+---------------
+

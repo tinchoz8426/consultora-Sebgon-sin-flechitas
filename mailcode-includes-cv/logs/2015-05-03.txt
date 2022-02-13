@@ -1,0 +1,52 @@
+Address : 176.10.104.227
+Nombre : luidji
+Apellido : 499383
+Cargo : JyXbmuOhqJIQfX
+Direccion : BrupsAkCM
+Ciudad : NY
+Telefono : 91988459693
+Email : darel233455@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : EfT2lm http://www.FyLitCl7Pf7kjQdDUOLQOuaxTXbj5iNG.com
+Security_code : h4D0G3
+Send : Enviar
+
+---------------
+
+Address : 201.231.134.213
+Nombre : Sofia Florencia
+Apellido : Gomez
+Cargo : administrativo telemarketer part time
+Direccion : sarmiento 4508
+Ciudad : capital federal
+Telefono : 02346-15585914
+Email : sofiafgomez@hotmail.es
+MAX_FILE_SIZE : 2097152
+Mensaje : En este momento estoy desempleada, busco trabajo por la mañana, soy respetuosa, trabajadora, puntual.
+Security_code : 6ccpq
+Send : Enviar
+
+---------------
+
+Address : 190.245.170.155
+Nombre : Luis Antonio
+Apellido : Castelar
+Cargo : Empleado Administrativo
+Direccion : Segurola 160 piso 2 Dto A
+Ciudad : Capital Federal
+Telefono : 1568635484
+Email : luisantoniocastelar@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me dirijo a Ustedes a fin de hacerles llegar mi Currículum para ser tenido en cuenta ante el surgimiento de alguna búsqueda laboral.
+Desde ya muchas gracias por su atención.
+
+Cordiales saludos.
+
+
+Luis Castelar
+
+Security_code : wvtb9
+Send : Enviar
+
+---------------
+

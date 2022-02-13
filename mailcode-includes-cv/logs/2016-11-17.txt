@@ -1,0 +1,94 @@
+Address : 181.31.97.88<br>
+ <br>Nombre : Gustavo Daniel
+ <br>Apellido : Burgos
+ <br>Cargo : Operario Industrial/Comercial.
+ <br>Direccion : Urquiza 2474 1-3 B° Alta Córdoba.
+ <br>Ciudad : Cordoba Capital
+ <br>Telefono : 0351 153888104
+ <br>Email : gustyburguer@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola.Mi nombre es Gustavo Burgos y deseo acceder a un puesto laboral dentro de su compañía, a fin de colaborar en logros significativos de vuestra empresa poniendo a su merced mis actitudes y aptitudes.
+ <br>Security_code : xqp9c
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.109.173.20<br>
+ <br>REF : JPER-1
+ <br>Nombre : Alejandro Javier
+ <br>Apellido : Junik
+ <br>Cargo : Jefe de Personal (JPER-1)
+ <br>Direccion : Los nardos237
+ <br>Ciudad : Escobar
+ <br>Telefono : 011 15 2334 5042
+ <br>Email : alejandrojunik@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados, Buenos Dias.  Envio CV a fin de que sea tenido en cuenta para la busqueda de referencia.  Muchas Gracias. Saludos
+ <br>Security_code : 83bw3
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.139.215.36<br>
+ <br>REF : EP-1
+ <br>Nombre : Abrahana
+ <br>Apellido : Mendoza
+ <br>Cargo : Encargado de Producción.
+ <br>Direccion : Banfield
+ <br>Ciudad : Lomas de Zamora
+ <br>Telefono : 1134545173/1125693131
+ <br>Email : abrahanamendoza@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buen dia, estoy interesada en el cargo de Encargado de producción y en sus búsquedas relacionadas con el área de alimentos, tengo disponibilidad horaria y disposición para cambiar de lugar de residencia.
+ <br>Security_code : h87dy
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.139.215.36<br>
+ <br>REF : EP-1
+ <br>Nombre : Abrahana
+ <br>Apellido : Mendoza
+ <br>Cargo : Encargado de Producción.
+ <br>Direccion : Banfield
+ <br>Ciudad : Lomas de Zamora
+ <br>Telefono : 1134545173/1125693131
+ <br>Email : abrahanamendoza@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buen dia, estoy interesada en el cargo de Encargado de producción y en sus búsquedas relacionadas con el área de alimentos, tengo disponibilidad horaria y disposición para cambiar de lugar de residencia.
+ <br>Security_code : h87dy
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.139.215.36<br>
+ <br>REF : EP-1
+ <br>Nombre : Abrahana
+ <br>Apellido : Mendoza
+ <br>Cargo : Encargado de Producción.
+ <br>Direccion : Banfield
+ <br>Ciudad : Lomas de Zamora
+ <br>Telefono : 1134545173/1125693131
+ <br>Email : abrahanamendoza@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buen dia, estoy interesada en el cargo de Encargado de producción y en sus búsquedas relacionadas con el área de alimentos, tengo disponibilidad horaria y disposición para cambiar de lugar de residencia.
+ <br>Security_code : zn3fm
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.130.96.21<br>
+ <br>Nombre : Norberto Martin
+ <br>Apellido : Gonzalez
+ <br>Cargo : Atención al cliente/ Empleado administrativo/ Cajero
+ <br>Direccion : Passadore 3679 B° Marina
+ <br>Ciudad : Castelar
+ <br>Telefono : 46925000
+ <br>Email : nmg1977@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Ses Segbon: espero tener el perfil que ustedes necesitan para una pronta entrevista. Interesado en nuevos desafíos laborales dentro de empresas donde pueda continuar creciendo y desarrollándome profesionalmente. Solida experiencia manejando grandes sumas de dinero. De rápido aprendizaje, responsable, comprometido y orientado al trabajo en equipo.
+ <br>Security_code : cp96r
+ <br>Send : Enviar
+ <br>
+---------------
+

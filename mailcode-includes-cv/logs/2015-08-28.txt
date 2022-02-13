@@ -1,0 +1,33 @@
+Address : 186.138.36.144
+Nombre : Irina Cecilia
+Apellido : Blas Pisco
+Cargo : Recepcionista administrativa
+Direccion : Diego de Aráoz 3334
+Ciudad : castelar
+Telefono : 1540745174
+Email : irina.blas.ib@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Saludos cordiales, 
+Remito ante ustedes mi hoja de vida laboral, para en lo que mi perfil se ajuste y poder tener una oportunidad.
+
+Gracias!!
+Security_code : k4rgy
+Send : Enviar
+
+---------------
+
+Address : 186.39.235.188
+Nombre : nicolas
+Apellido : boschi
+Cargo : Construccion
+Direccion : avellaneda 117
+Ciudad : Mendoza
+Telefono : 0263-154770889
+Email : niconatibau@outlook.es
+MAX_FILE_SIZE : 2097152
+Mensaje : Espero una pronta respuesta ya que necesito trabajo urgente..desde ya muchas gracias
+Security_code : rsy4c
+Send : Enviar
+
+---------------
+

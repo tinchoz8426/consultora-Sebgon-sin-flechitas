@@ -1,0 +1,17 @@
+Address : 186.63.20.247
+Nombre : Jorge David
+Apellido : Segovia
+Cargo : Atención al cliente/Soporte Técnico
+Direccion : zarate 5570
+Ciudad : Laferrere, La Matanza
+Telefono : 15-6637-2583
+Email : davidkukirose@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenos Días:
+                   Aquí le adjunto mi curriculum vitae para ponerlo a su disposición.
+Atte David
+Security_code : xwthq
+Send : Enviar
+
+---------------
+

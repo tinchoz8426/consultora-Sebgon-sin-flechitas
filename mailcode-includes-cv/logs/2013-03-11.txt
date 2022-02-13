@@ -1,0 +1,47 @@
+Address : 186.59.10.208
+Nombre : andrea
+Apellido : Guardia
+Cargo : Venta
+Direccion : las heras 186 ciudad
+Ciudad : ciudad
+Telefono : 2615153217
+Email : focusmeticulosus@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola agradeceria cualquier informacion para poder trabajar. 
+atte Andrea Guardia.
+Security_code : w584z
+Send : Enviar
+
+---------------
+
+Address : 190.245.215.88
+Nombre : Paula 
+Apellido : Salgado
+Cargo : telefonista
+Direccion : Paz y Figueroa 156
+Ciudad : Córdoba
+Telefono : 0351 156620473
+Email : pausalg@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : estoy interesada en formar parte de su empresa
+Security_code : djqt7
+Send : Enviar
+
+---------------
+
+Address : 190.51.127.23
+Nombre : daiana ayelen
+Apellido : Montenegro
+Cargo : vendedora, cajera, operaria.
+Direccion : pedro ferre 3955
+Ciudad : Moron
+Telefono : 46920067
+Email : montenegro.ayelen@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : tengo muchas ganas de trabajar y aprender.
+muchas gracias
+Security_code : 4q4kw
+Send : Enviar
+
+---------------
+

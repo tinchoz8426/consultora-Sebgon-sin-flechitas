@@ -1,0 +1,99 @@
+Address : 186.137.149.219<br>
+ <br>Nombre : LAURA
+ <br>Apellido : DIAZ
+ <br>Cargo : ASISTENTE RRHH
+ <br>Direccion : MADARIAGA 1419
+ <br>Ciudad : BUENOS AIRES
+ <br>Telefono : 1127688770
+ <br>Email : LAURADIAZCULTURA@GMAIL.COM
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Soy  pro activa ,con  conocimientos en RRHH.
+ <br>Security_code : rK9tK
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.25.52.123<br>
+ <br>Nombre : Adrian
+ <br>Apellido : Colli
+ <br>Cargo : Comercial
+ <br>Direccion : Posadas 991
+ <br>Ciudad : Ituzaingo
+ <br>Telefono : 46247279
+ <br>Email : adrian_colli@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Les dejo mi CV para que sea analizado y quedo a su disposicion
+ <br>Security_code : rqf2d
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.178.76.148<br>
+ <br>Nombre : gabriela 
+ <br>Apellido : Perez
+ <br>Cargo : Secretaria
+ <br>Direccion : España 116
+ <br>Ciudad : Villa Regina
+ <br>Telefono : 2984536725
+ <br>Email : gabrielafabianaperez@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola aca les envio mi curriculum necesito que me mantengan informada y saber si llego lo que envie Muchas Gracias
+ <br>Security_code : 9mzrj
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.91.62.78<br>
+ <br>Nombre : ines julieta
+ <br>Apellido : sassi
+ <br>Cargo : Analista en Recursos Humanos 
+ <br>Direccion : Aquiles pedrolini, 7128
+ <br>Ciudad : córdoba
+ <br>Telefono : 3515556685
+ <br>Email : ines.sassi5.is@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas tardes, cargué mi cv ya que necesito trabajo inmediato y me gustaría poner en practicas mis conocimientos ya que actualmente estoy realizando mi tesis en Recursos Humanos. 
+Espero tener la oportunidad de una entrevista.  
+Muchas gracias por su tiempo.
+Saludos 
+ <br>Security_code : gm7kd
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.91.62.78<br>
+ <br>Nombre : ines julieta
+ <br>Apellido : sassi
+ <br>Cargo : Analista en Recursos Humanos 
+ <br>Direccion : Aquiles pedrolini, 7128
+ <br>Ciudad : córdoba
+ <br>Telefono : 3515556685
+ <br>Email : ines.sassi5.is@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas tardes, cargué mi cv ya que necesito trabajo inmediato y me gustaría poner en practicas mis conocimientos ya que actualmente estoy realizando mi tesis en Recursos Humanos. 
+Espero tener la oportunidad de una entrevista.  
+Muchas gracias por su tiempo.
+Saludos 
+ <br>Security_code : gm7kd
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.91.62.78<br>
+ <br>Nombre : ines julieta
+ <br>Apellido : sassi
+ <br>Cargo : Analista en Recursos Humanos 
+ <br>Direccion : Aquiles pedrolini, 7128
+ <br>Ciudad : córdoba
+ <br>Telefono : 3515556685
+ <br>Email : ines.sassi5.is@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas tardes, cargué mi cv ya que necesito trabajo inmediato y me gustaría poner en practicas mis conocimientos ya que actualmente estoy realizando mi tesis en Recursos Humanos. 
+Espero tener la oportunidad de una entrevista.  
+Muchas gracias por su tiempo.
+Saludos 
+ <br>Security_code : gm7kd
+ <br>Send : Enviar
+ <br>
+---------------
+

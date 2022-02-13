@@ -1,0 +1,16 @@
+Address : 190.179.223.32
+REF : tecnico-electornico
+Nombre : CLAUDIO MARCELO
+Apellido : HOLZHEKER
+Cargo : GERENTE COMERCIAL
+Direccion : GUTIERREZ 789 PISO 4 DPTO5
+Ciudad : MENDOZA
+Telefono : 261-1545446574
+Email : LICCLAUDIOHOLZHEKER@YAHOO.COM.AR
+MAX_FILE_SIZE : 2097152
+Mensaje : POR FAVOR CONFIRMAR LA CORRECTA RECEPCION DE MI C. VITAE-GRACIAS
+Security_code : b5c9f
+Send : Enviar
+
+---------------
+

@@ -1,0 +1,233 @@
+Address : 200.125.74.49<br>
+ <br>REF : EP-1
+ <br>Nombre : marlene
+ <br>Apellido : mora
+ <br>Cargo : encargado de produccion
+ <br>Direccion : av. cordoba 1890 CABA
+ <br>Ciudad : Capital federal
+ <br>Telefono : 1170248491
+ <br>Email : beatrizucv2012@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : hola buen día envío cv para su evaluación.
+gracias
+ <br>Security_code : cmgph
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 200.125.74.49<br>
+ <br>REF : ACO
+ <br>Nombre : marlene
+ <br>Apellido : mora
+ <br>Cargo : asistente comercial
+ <br>Direccion : av. Cordoba 1890
+ <br>Ciudad : CABA
+ <br>Telefono : 1170248491
+ <br>Email : beatrizucv2012@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : hola buen día envio cv para postulación.
+gracias
+ <br>Security_code : jn74s
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.44.89.14<br>
+ <br>Nombre : Cristian
+ <br>Apellido : Novaro
+ <br>Cargo : sistemas
+ <br>Direccion : Buenos Aires, 633
+ <br>Ciudad : Castelar - Buenos Aires - Argentina
+ <br>Telefono : 1156661771
+ <br>Email : cristiannovaro@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Busco trabajo en algo tecnico preferentemente sistemas sino puede ser algo temporario como chofer u otra cosa
+ <br>Security_code : pb3xj
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.19.147.174<br>
+ <br>REF : SP-1
+ <br>Nombre : Carmelo 
+ <br>Apellido : Alexander
+ <br>Cargo : Supervisor
+ <br>Direccion : Valle 359
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 1126552430
+ <br>Email : alexander.carmelo@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Disponibilidad full time.
+ <br>Security_code : jx7yw
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.7<br>
+ <br>REF : chr
+ <br>Nombre : Juan José
+ <br>Apellido : Rosato
+ <br>Cargo : Chofer
+ <br>Direccion : H IRIGOYEN 2193
+ <br>Ciudad : C.A.B.A.
+ <br>Telefono : 1141635772
+ <br>Email : Rosatojuanjose@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Adjunto mi cv para que me tengan en cuenta. Conozca del tema, trabaje mucho tiempo en norton entre otras.
+Agradecería la posibilidad de una entrevista. Gracias 
+ <br>Security_code : Ftdmj
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.45.90.63<br>
+ <br>Nombre : Pablo
+ <br>Apellido : Giovannone
+ <br>Cargo : Tecnología
+ <br>Direccion : Sarmiento 2722
+ <br>Ciudad : castelar
+ <br>Telefono : 1560156082
+ <br>Email : pablo.giovannone@outlook.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Desarrollarme y crecer tanto profesional como laboralmente. Compartir mis conocimientos y habilidades para lograr un desempeño satisfactorio tanto mío como de la empresa. Capaz de desempeñar el puesto de manera eficiente.
+ <br>Security_code : xy6sm
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.45.90.63<br>
+ <br>Nombre : Pablo
+ <br>Apellido : Giovannone
+ <br>Cargo : Tecnología
+ <br>Direccion : Sarmiento 2722
+ <br>Ciudad : castelar
+ <br>Telefono : 1560156082
+ <br>Email : pablo.giovannone@outlook.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Desarrollarme y crecer tanto profesional como laboralmente. Compartir mis conocimientos y habilidades para lograr un desempeño satisfactorio tanto mío como de la empresa. Capaz de desempeñar el puesto de manera eficiente.
+ <br>Security_code : xy6sm
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.179.244.249<br>
+ <br>REF : chr
+ <br>Nombre : marcelo fabian
+ <br>Apellido : gamburgo
+ <br>Cargo : chofer reparto
+ <br>Direccion : pergamino 3259
+ <br>Ciudad : capital federal
+ <br>Telefono : 1565940177
+ <br>Email : fabi312000@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : necesito trabajo reinsertarme 
+ <br>Security_code : frzt5
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.130.65.1<br>
+ <br>Nombre : Oscar alberto
+ <br>Apellido : Garcia
+ <br>Cargo : Chofer de camioneta
+ <br>Direccion : Darwin 1249
+ <br>Ciudad : Buenos aires
+ <br>Telefono : 1134739545
+ <br>Email : oscar1991.martu@gmail.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas tarde estoy buscando trabajo por el cual yo hace 7 años que trabajo en una empreza textil hago reparto todo capital y alrededores 
+ <br>Security_code : 97p5j
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.244.97.117<br>
+ <br>Nombre : NICOLA
+ <br>Apellido : RUSCIO
+ <br>Cargo : ADMINISTRATIVO, ENTRE OTROS
+ <br>Direccion : quilmes 1088
+ <br>Ciudad : castelar
+ <br>Telefono : 1568536409
+ <br>Email : nicolasruscio@outlook.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estoy interesado en la búsqueda de empleo para desempeñarme en diferentes tareas. Me adapto a situaciones diversas. Actitud positiva y resolutiva. 
+ <br>Security_code : 8y6vv
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.244.97.117<br>
+ <br>Nombre : NICOLA
+ <br>Apellido : RUSCIO
+ <br>Cargo : ADMINISTRATIVO, ENTRE OTROS
+ <br>Direccion : quilmes 1088
+ <br>Ciudad : castelar
+ <br>Telefono : 1568536409
+ <br>Email : nicolasruscio@outlook.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estoy interesado en la búsqueda de empleo para desempeñarme en diferentes tareas. Me adapto a situaciones diversas. Actitud positiva y resolutiva. 
+ <br>Security_code : 8y6vv
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.244.97.117<br>
+ <br>Nombre : NICOLA
+ <br>Apellido : RUSCIO
+ <br>Cargo : ADMINISTRATIVO, ENTRE OTROS
+ <br>Direccion : quilmes 1088
+ <br>Ciudad : castelar
+ <br>Telefono : 1568536409
+ <br>Email : nicolasruscio@outlook.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estoy interesado en la búsqueda de empleo para desempeñarme en diferentes tareas. Me adapto a situaciones diversas. Actitud positiva y resolutiva. 
+ <br>Security_code : 8y6vv
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.244.97.117<br>
+ <br>Nombre : NICOLA
+ <br>Apellido : RUSCIO
+ <br>Cargo : ADMINISTRATIVO, ENTRE OTROS
+ <br>Direccion : quilmes 1088
+ <br>Ciudad : castelar
+ <br>Telefono : 1568536409
+ <br>Email : nicolasruscio@outlook.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estoy interesado en la búsqueda de empleo para desempeñarme en diferentes tareas. Me adapto a situaciones diversas. Actitud positiva y resolutiva. 
+ <br>Security_code : 8y6vv
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.244.97.117<br>
+ <br>Nombre : nicolas
+ <br>Apellido : RUSCIO
+ <br>Cargo : ADMINISTRATIVO, ENTRE OTROS
+ <br>Direccion : quilmes 1088
+ <br>Ciudad : castelar
+ <br>Telefono : 1568536409
+ <br>Email : nicolasruscio@outlook.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estoy interesado en la búsqueda laboral para desempeñarme en diferentes tareas, roles y funciones. Actitud proactiva y resolutiva
+ <br>Security_code : 4rb2s
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.7<br>
+ <br>Nombre : Gaston
+ <br>Apellido : Cajal
+ <br>Cargo : personal para entrevistas domiciliaras prelaborales
+ <br>Direccion : Bernardez 3636
+ <br>Ciudad : castelar
+ <br>Telefono : 46920323.  1541682153
+ <br>Email : cajaldg@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Realice prelaborales para Mercedes Benz.
+ <br>Security_code : mrh2b
+ <br>Send : Enviar
+ <br>
+---------------
+

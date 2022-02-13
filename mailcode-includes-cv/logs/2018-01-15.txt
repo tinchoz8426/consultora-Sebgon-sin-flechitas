@@ -1,0 +1,75 @@
+Address : 181.165.254.189<br>
+ <br>Nombre : Ezequiel
+ <br>Apellido : Rostagno
+ <br>Cargo : Empleado
+ <br>Direccion : Bernardo de irigoyen 744
+ <br>Ciudad : Rafaela
+ <br>Telefono : 3492596555
+ <br>Email : Ezerostagno@live.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Actualmente me encuentro buscando un empleo full time
+ <br>Security_code : z7t24
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.255.44.221<br>
+ <br>Nombre : Nahuel Hector
+ <br>Apellido : Minervino Aguaisol
+ <br>Cargo : Maestro Mayor de Obras
+ <br>Direccion : Maciel 995
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 02204893793
+ <br>Email : minercharly@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Desde esta misma carta me presento ,les dejo mi cv y estoy a su disposición gracias
+ <br>Security_code : pk25g
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.255.44.221<br>
+ <br>Nombre : nahuel
+ <br>Apellido : minervino
+ <br>Cargo : Maestro Mayor de Obras
+ <br>Direccion : Maciel 995
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 02204893793
+ <br>Email : minercharly@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : DESEO EN ALGUN MOMENTO TRABAJAR CON USTEDES Y PODER INTERIORIZARME EN EL MUNDO LABORAL DE LA MANO DE USTEDES GRACIAS
+ <br>Security_code : 2s2zy
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 168.228.224.151<br>
+ <br>Nombre : walter
+ <br>Apellido : corbalán
+ <br>Cargo : encargado de establecimiento rural
+ <br>Direccion : Los Arrayanes 112
+ <br>Ciudad : gral villegas
+ <br>Telefono : 3388414507
+ <br>Email : cwe@live.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : No solamente puedo trabajar como encargado de establecimiento, sino que también puedo hacerlo como administrativo, chófer ya que mi último trabajo fue como remis.
+ <br>Security_code : z6v5d
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.94.116.51<br>
+ <br>Nombre : sabrina maria belen
+ <br>Apellido : avile
+ <br>Cargo : seguridad e higiene
+ <br>Direccion : nicolas avellaneda de san luis 4838
+ <br>Ciudad : villa constitución 
+ <br>Telefono : (3400)471141
+ <br>Email : sasyavile@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : busco tener la posibilidad de establecerme y consolidarme en su empresa para tener estabilidad laboral, aplicar mis experiencias y conocimientos en las distintas áreas de la empresa, y desarrollarme profesionalmente para el buen desempeño de las funciones asignadas
+ <br>Security_code : hynjp
+ <br>Send : Enviar
+ <br>
+---------------
+

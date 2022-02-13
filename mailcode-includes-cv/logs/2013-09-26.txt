@@ -1,0 +1,47 @@
+Address : 190.122.1.27
+REF : jefe-de-operaciones
+Nombre : PATRICIA ADRIANA
+Apellido : SANCHEZ
+Cargo : ADMINISTRATIVA
+Direccion : ALBERDI Y EVA PERON
+Ciudad : San Antonio de Padua
+Telefono : 0111557433641
+Email : spatryy@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados, 
+Envio mi CV,para ser tenido en cuenta en futuras busquedas laborales.
+Security_code : Ysb5Y
+Send : Enviar
+
+---------------
+
+Address : 190.122.1.27
+Nombre : PATRICIA ADRIANA
+Apellido : SANCHEZ
+Cargo : ADMINISTRATIVA
+Direccion : ALBERDI Y EVA PERON
+Ciudad : San Antonio de Padua
+Telefono : 0111557433641
+Email : spatryy@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados, les envio mi cv, para ser tenido en cuenta en futuras busquedas laborales.
+Security_code : 3jj39h
+Send : Enviar
+
+---------------
+
+Address : 190.246.62.8
+Nombre : Jonathan Nahuel
+Apellido : Peruffo
+Cargo : Ayudante
+Direccion : Moreno 136
+Ciudad : Ramos Mejia
+Telefono : 46567622
+Email : jonathan.peruffo@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estoy buscando desesperadamente trabajo, me quede sin trabajo hace 2 meses.Gracias por tomarse un tiempo para leer mi curriculum . Muchas gracias
+Security_code : wnrbn
+Send : Enviar
+
+---------------
+

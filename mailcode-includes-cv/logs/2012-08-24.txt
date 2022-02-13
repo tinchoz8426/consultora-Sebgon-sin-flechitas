@@ -1,0 +1,56 @@
+Address : 186.137.236.228
+Nombre : Li
+Apellido : Pignataro
+Cargo : Diseñadora de Indumentaria
+Direccion : CAMARONES 3825
+Ciudad : CAP FED
+Telefono : 1555785935
+Email : magnolia.li@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Mi nombre es Li, soy diseñadora de indumentaria con base en Argentina. Soy flexible, pro-activa,  con excelente manejo de relaciones interpersonales. Soy sumamente creativa y ejecutiva. Estoy altamente capacitada en el área compras, elección de productos y negociación con proveedores, como así también en todas las áreas del rubro. Actualmente investigo el mercado Paulista. La marca Havaianas llamó poderosamente mi atención con su colección para este verano, con customización de sus productos con Joyas Swarovski y su nueva incorporación de productos de indumentaria. Mi idea es crear productos que se pueden fabricar a nivel mundial, manteniendo respeto y participación por la sustentabilidad.
+Estoy en constante cuestionamiento y observación de mi entornoy los enfoques contemporáneos. Trabajo ininterrumpidamente en empresas del sector. 
+A la espera de conocernos y ampliar mis habilidades, les dejo un saludo cordial.
+Li Pignataro
+Cel: 155.578.5935
+magnolia.li@hotmail.com
+Facebook
+http://facebook.com/magnolia.li
+
+Security_code : 2cj6f
+Send : Enviar
+
+---------------
+
+Address : 190.188.83.18
+REF : gerente-produccion
+Nombre : Federico Luis
+Apellido : Crispiani
+Cargo : Ingeniero 
+Direccion : 58 N°1779
+Ciudad : La Plata
+Telefono : 02214519951
+Email : fede_2810@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Le envío mi curriculum vitae para que me tenga en consideración en actuales o futuras búsquedas.
+
+Saludos cordiales
+Security_code : 5smkb
+Send : Enviar
+
+---------------
+
+Address : 190.31.139.61
+Nombre : Valeria
+Apellido : Viña
+Cargo : Abogada Laboralista
+Direccion : Mansilla 3026
+Ciudad : Capital federal
+Telefono : 49624014
+Email : valeverovina@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Remito mi cv para su consideracion. Gcias
+Security_code : ypbd7
+Send : Enviar
+
+---------------
+

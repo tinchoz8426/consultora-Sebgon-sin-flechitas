@@ -1,0 +1,19 @@
+Address : 181.46.116.53
+Nombre : LUCILA
+Apellido : LANDOLFI
+Empresa : Hotel S.A.G.
+Telefono : 1530889974
+Email : lulandolf@hotmail.com
+Mensaje : Estimado/da, necesito una cotización para la realización de un plan de
+evacuación para un Hotel próximo a abrir, el edificio se encuentra en CABA
+(calle Rodriguez peña 1026), y posee 10 empleados en total. Cuenta con
+sistema de Hidrante y extintores en cada uno de sus 9 pisos.
+Al encargado le comentaron de la ART que deben poseer un plan de evacuación
+y necesitamos un presupuesto formal, donde figure el trabajo a realizar y
+el tiempo de demora. Mi nombre es Lucila y voy a hacer la recepcionista. 
+
+Security_code : qsh8b
+Send : Enviar
+
+---------------
+

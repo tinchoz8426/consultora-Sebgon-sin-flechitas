@@ -1,0 +1,15 @@
+Address : 168.228.224.151<br>
+ <br>Nombre : walter
+ <br>Apellido : corbalán
+ <br>Cargo : encargado de establecimiento rural
+ <br>Direccion : Los Arrayanes 112
+ <br>Ciudad : gral villegas
+ <br>Telefono : 3388414507
+ <br>Email : cwe@live.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Busco trabajo como encargado de establecimiento rural con mas de 20 años de experiencia
+ <br>Security_code : zj7wm
+ <br>Send : Enviar
+ <br>
+---------------
+

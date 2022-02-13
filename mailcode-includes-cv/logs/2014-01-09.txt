@@ -1,0 +1,106 @@
+Address : 190.103.210.216
+Nombre : cristian
+Apellido : pucheta
+Cargo : mantenimientomecanico
+Direccion : san martin358
+Ciudad : punta alta
+Telefono : 2932-15412970
+Email : puucheta@yahoo.com
+MAX_FILE_SIZE : 2097152
+Mensaje : necesito trabajar en cualquier puesto requerido
+Security_code : rw97h
+Send : Enviar
+
+---------------
+
+Address : 190.103.210.216
+Nombre : cristian
+Apellido : pucheta
+Cargo : mantenimientomecanico
+Direccion : san martin358
+Ciudad : punta alta
+Telefono : 2932-15412970
+Email : puucheta@yahoo.com
+MAX_FILE_SIZE : 2097152
+Mensaje : necesito trabajar en cualquier puesto requerido
+Security_code : rw97h
+Send : Enviar
+
+---------------
+
+Address : 186.135.39.229
+Nombre : JOSE ROBERTO
+Apellido : SUAREZ
+Cargo : OPERARIO PARA ALIMENTICIA O METALURGICA
+Direccion : SUIZA
+Ciudad : PRESIDENTE DERQUI
+Telefono : 1130264111
+Email : LESCANERO22@GMAIL.COM
+MAX_FILE_SIZE : 2097152
+Mensaje : Isertarme en el campo laboral con el fin de adquirir conocimientos y experiencias en el area que me se aea comendado y cubrir eficazmente el puesto
+Security_code : QT3J2
+Send : Enviar
+
+---------------
+
+Address : 186.135.39.229
+Nombre : JOSE ROBERTO
+Apellido : SUAREZ
+Cargo : OPERARIO PARA ALIMENTICIA O METALURGICA
+Direccion : SUIZA
+Ciudad : PRESIDENTE DERQUI
+Telefono : 1130264111
+Email : LESCANERO22@GMAIL.COM
+MAX_FILE_SIZE : 2097152
+Mensaje : Isertarme en el campo laboral con el fin de adquirir conocimientos y experiencias en el area que me se aea comendado y cubrir eficazmente el puesto
+Security_code : 9hmmb
+Send : Enviar
+
+---------------
+
+Address : 186.56.172.43
+Nombre : alejandro
+Apellido : eberle
+Cargo : tecnico en seguridad e higiene
+Direccion : plutarco 5557
+Ciudad : moreno
+Telefono : 011 1530073045
+Email : alejandroarieleberle@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : soy estudiante de tercer año de la tecnicatura en seguridad e higiene y me gustaria formar parte de su empresa.
+Security_code : frz22
+Send : Enviar
+
+---------------
+
+Address : 201.251.0.244
+Nombre : marcelo julian
+Apellido : vallejos
+Cargo : operario
+Direccion : bouchard 2120
+Ciudad : grand bourg
+Telefono : 02320 - 488846
+Email : vallejosmarcelo_87@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : amplia disponibilidad horaria e inmediata,responsable y con muchas ganas de trabajar
+Security_code : m5tsj
+Send : Enviar
+
+---------------
+
+Address : 190.230.246.53
+Nombre : Gabriel Alejandro
+Apellido : Flores
+Cargo : empleado
+Direccion : jose bogado 5540 barrio el quebracho
+Ciudad : capital
+Telefono : 03516147412-03514507579
+Email : gabriel_2013_flores@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : hola me dirijo a usted en busca de empleo...
+Necesito trabajo porque tengo familia. Desdes ya muchas gracias 
+Security_code : jc7v6
+Send : Enviar
+
+---------------
+

@@ -1,0 +1,15 @@
+Address : 186.57.144.144
+Nombre : javier andres
+Apellido : blengini
+Cargo : tecnico en seguridad e higiene
+Direccion : rucci
+Ciudad : casanova
+Telefono : 44662577
+Email : javierblen23@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : el motivo del msj es para ser parte del equipo de trabajo y poder desarrollar el conocimiento obtenido en el transcurso de la carrera. poder seguir aprendiendo.tener un mejor nivel economico
+Security_code : jcm6s
+Send : Enviar
+
+---------------
+

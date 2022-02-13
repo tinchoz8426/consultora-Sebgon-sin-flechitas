@@ -1,0 +1,45 @@
+Address : 190.220.164.224
+Nombre : Andrea
+Apellido : De Giuseooe
+Cargo : Secretaria administrativa y vendedora
+Direccion : Alpatacal 2776 
+Ciudad : ciudad
+Telefono : 4231764
+Email : andide88@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Curriculum vitae espero su repuesta pronto..
+Security_code : mfccz
+Send : Enviar
+
+---------------
+
+Address : 190.220.164.224
+Nombre : Andrea
+Apellido : De Giuseooe
+Cargo : Secretaria administrativa y vendedora
+Direccion : Alpatacal 2776 
+Ciudad : ciudad
+Telefono : 4231764
+Email : andide88@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Curriculum vitae espero su repuesta pronto..
+Security_code : mfccz
+Send : Enviar
+
+---------------
+
+Address : 190.220.164.224
+Nombre : Andrea
+Apellido : De Giuseppe
+Cargo : Secretaria administrativa y vendedora
+Direccion : Alpatacal 2776 
+Ciudad : ciudad
+Telefono : 4231764
+Email : andide88@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Curriculum Vitae
+Security_code : 7s8jb
+Send : Enviar
+
+---------------
+

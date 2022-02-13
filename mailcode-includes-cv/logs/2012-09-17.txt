@@ -1,0 +1,61 @@
+Address : 169.145.3.23
+REF : jefe-de-operaciones
+Nombre : Emiliano
+Apellido : Costa
+Cargo : ANALISTA CONTABLE
+Direccion : Jerónimo Salguero 777
+Ciudad : CABA
+Telefono : 1567267594 (13:30 a 15:00)
+Email : emicos75@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Estoy en la búsqueda de un cambio, agradecería la oportunidad de la entrevista. Saludos Cordiales. Emiliano Costa.
+Security_code : yynzw
+Send : Enviar
+
+---------------
+
+Address : 190.210.15.43
+REF : jefe-de-operaciones
+Nombre : Florencia
+Apellido : Bortoletto
+Cargo : Administrativo
+Direccion : Virgen stella maris 4648
+Ciudad : cordoba
+Telefono : 0351-156378009
+Email : florbortoletto@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : quiero postularme para el puesto de administrativo para el que tienen una vacante a dispocision para entrevistas.
+Security_code : 5vdr5
+Send : Enviar
+
+---------------
+
+Address : 190.31.1.87
+REF : trilingue
+Nombre : Hsin I
+Apellido : Lin
+Cargo : Recepcionista Trilingüe Chino/Inglés
+Direccion : Salguero 1871 2 E
+Ciudad : Capital Federal
+Telefono : 1166200617
+Email : hippolin_2005@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimado Personal de Selección,
+
+Mi nombre es Hsin I Lin, una joven taiwanesa de 24 años. Entiendo que la edad requerida es desde los 25 años pero me considero capaz de asumir el cargo. 
+Actualmente trabajo en una agencia de turismo cuyo fuerte es el mercado oriental. Desempeño en el Departamento de Ventas de dicha empresa la tarea de planificación, cotización y comercialización de paquetes turísticos. Constantemente mantengo comunicación con los pasajeros chinos con el idioma Mandarín fluído. Cuento con conocimiento de escritura tanto del Chino Simplificado como el Tradicional. También manejo el Chino Cantónes por haber vivido cuatro años en Guangzhou. Motivo por el cual conozco las costumbres locales. 
+
+Agradecería si Usted me puede otorgar la oportunidad para una entrevista personal. 
+
+Sin otro motivo en particular, me despido. Muchas gracias por su atención. 
+
+Saludos cordiales.
+
+
+Hsin I Lin
+DNI 92885620
+Security_code : xzn97
+Send : Enviar
+
+---------------
+

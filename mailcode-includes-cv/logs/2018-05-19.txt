@@ -1,0 +1,15 @@
+Address : 190.244.163.55<br>
+ <br>Nombre : Gerardo
+ <br>Apellido : Becerra
+ <br>Cargo : Jefe de Ingenieria
+ <br>Direccion : Maipu 600
+ <br>Ciudad : Zarate
+ <br>Telefono : 0348915489756
+ <br>Email : geivanbecerra@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me encuentro en búsqueda activa de empleo. Me desempeñe como Jefe de Ingenieria de Procesos por 7 años. Experiencia de mas de 15 años en la industria.
+ <br>Security_code : 59bm6
+ <br>Send : Enviar
+ <br>
+---------------
+

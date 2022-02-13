@@ -1,0 +1,137 @@
+Address : 201.252.72.242
+Nombre : Florencia Mariel
+Apellido : Zamora
+Cargo : Atencion al cliente
+Direccion : Latorre 6330
+Ciudad : Buenos Aires
+Telefono : 47296318
+Email : florenciamz@outlook.es
+MAX_FILE_SIZE : 2097152
+Mensaje : Les dejo mi curriculum a su disposición.
+Security_code : x7qyy
+Send : Enviar
+
+---------------
+
+Address : 66.249.83.160
+Nombre : marisa noemi
+Apellido : angulo
+Cargo : ayudante de cocina de hotel 5 estrellas
+Direccion : Miguel Cané 3067 fondo planta alta
+Ciudad : san fernando
+Telefono : 1559195698
+Email : mna160666@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : También busco para empleada de comercio,vigiladora tengo la ley 12297 hecha.recepcionista de una peluqueria
+Security_code : r8t5f
+Send : Enviar
+
+---------------
+
+Address : 66.249.83.160
+Nombre : marisa noemi
+Apellido : angulo
+Cargo : ayudante de cocina de hotel 5 estrellas
+Direccion : Miguel Cané 3067 fondo planta alta
+Ciudad : san fernando
+Telefono : 1559195698
+Email : mna160666@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : También busco para empleada de comercio,vigiladora tengo la ley 12297 hecha.recepcionista de una peluqueria
+Security_code : r8t5f
+Send : Enviar
+
+---------------
+
+Address : 66.249.83.160
+Nombre : marisa noemi
+Apellido : angulo
+Cargo : ayudante de cocina de hotel 5 estrellas
+Direccion : Miguel Cané 3067 fondo planta alta
+Ciudad : san fernando
+Telefono : 1559195698
+Email : mna160666@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : También busco para empleada de comercio,vigiladora tengo la ley 12297 hecha.recepcionista de una peluqueria
+Security_code : r8t5f
+Send : Enviar
+
+---------------
+
+Address : 186.182.62.168
+Nombre : Gabino
+Apellido : Vargas
+Cargo : operario
+Direccion : 55 e/ 134 y 135
+Ciudad : berazategui
+Telefono : 54338215
+Email : gabinogian@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : deseo trabajar
+Security_code : p3b2g
+Send : Enviar
+
+---------------
+
+Address : 181.95.116.78
+Nombre : Rodrigo
+Apellido : Cardozo
+Cargo : Empleado
+Direccion : Av del Libertador 8008
+Ciudad : CABA
+Telefono : 1553417172
+Email : rodrigocardozo1977@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : A quien corresponda. 
+Saludos cordiales.
+Security_code : 7z3sk
+Send : Enviar
+
+---------------
+
+Address : 186.62.178.139
+Nombre : Micaela Alejandra
+Apellido : Arrieta
+Cargo : venta
+Direccion : gonzalez guerrico 780 
+Ciudad : mar del plata
+Telefono : 4830926
+Email : micaarrieta-1995@outlook.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me gustaria conseguir un puesto de trabajo en cualquier rubro para poder tener ingresos e independizarme 
+Security_code : kkrxx
+Send : Enviar
+
+---------------
+
+Address : 186.18.157.100
+Nombre : Agustin
+Apellido : Diana Semprini
+Cargo : administrativo, cadetería y tareas en PC
+Direccion : directorio
+Ciudad : ciudad de buenos aires
+Telefono : 1136800800
+Email : ads90_2011@hotmail.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Les dejo mi CV
+Security_code : rxdvp
+Send : Enviar
+
+---------------
+
+Address : 186.135.80.162
+REF : TECNICO-MECANICO
+Nombre : Patricio
+Apellido : silva
+Cargo : tecnico
+Direccion : 25 de mayo 4109
+Ciudad : merlo
+Telefono : 1566302141
+Email : patriciomartinsilva@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : contacto de 8 a 20hs
+Security_code : kndwx
+Send : Enviar
+
+---------------
+

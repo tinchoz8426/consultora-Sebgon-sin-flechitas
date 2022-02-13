@@ -1,0 +1,60 @@
+Address : 190.48.116.242
+Nombre : Tomás
+Apellido : Bindelli
+Cargo : Administrativo
+Direccion : Arias 3430
+Ciudad : San Fernando
+Telefono : 11-3669-1768
+Email : bindellitomas@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola, quisiera dejar mi CV para formar parte de vuestra base de datos para actuales o futuras búsquedas laborales. Gracias.
+Security_code : 8j9j5
+Send : Enviar
+
+---------------
+
+Address : 190.48.116.242
+Nombre : Tomás
+Apellido : Bindelli
+Cargo : Administrativo
+Direccion : Arias 3430
+Ciudad : San Fernando
+Telefono : 11-3669-1768
+Email : bindellitomas@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Quisiera dejar mi CV a fín de que lo tengan en cuenta para futuras o actuales búsquedas laborales.
+Security_code : jdjkb
+Send : Enviar
+
+---------------
+
+Address : 190.183.24.69
+Nombre : stefania
+Apellido : cespedes
+Cargo : tareas domesticas, cuidado de niños, atención al publico.
+Direccion : provincias unidas 761
+Ciudad : parana
+Telefono : 154545252
+Email : steffy_ramones@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : hola, estoy necesitando con urgencia trabajo.tengo conocimientos en diferentes rubros, con muy buenas referencias.le agradecería que me tenga en cuenta. muchas gracias.
+Security_code : 9q9bw
+Send : Enviar
+
+---------------
+
+Address : 190.183.24.69
+Nombre : stefania
+Apellido : cespedes
+Cargo : tareas domesticas, cuidado de niños, atención al publico.
+Direccion : provincias unidas 761
+Ciudad : parana
+Telefono : 154545252
+Email : steffy_ramones@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : hola, estoy necesitando con urgencia trabajo.tengo conocimientos en diferentes rubros, con muy buenas referencias.le agradecería que me tenga en cuenta. muchas gracias.
+Security_code : 9q9bw
+Send : Enviar
+
+---------------
+

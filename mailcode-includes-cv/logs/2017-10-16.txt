@@ -1,0 +1,64 @@
+Address : 181.47.187.102<br>
+ <br>REF : chr
+ <br>Nombre : braulio ramon 
+ <br>Apellido : dominguez ayala
+ <br>Cargo : chofer 
+ <br>Direccion : san martin 2420
+ <br>Ciudad : Quilmes
+ <br>Telefono : 1161352920 
+ <br>Email : braulio.ayala2372@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : esperiensia dedicasion y megusta lo que hago conosimiento de mecanica 
+ <br>Security_code : 6m88y
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.182.12.147<br>
+ <br>REF : ACO
+ <br>Nombre : vilma gladys
+ <br>Apellido : CORMIO
+ <br>Cargo : asistente admnistrativo
+ <br>Direccion : ESTRADA 1131
+ <br>Ciudad : AVELLANEDA
+ <br>Telefono : 1165130935
+ <br>Email : gladyscormio@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Quiero postularme el cargo, Cumplo con os requisitos, espero me llamen gracias
+ <br>Security_code : fzxx3
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 200.114.183.194<br>
+ <br>REF : ROT-1
+ <br>Nombre : CRISTIAN
+ <br>Apellido : HERRERA MONZON
+ <br>Cargo : RESPONSABLE DE OFICINA TECNICA
+ <br>Direccion : GRAL. MANUEL A. RODRIGUEZ 1290
+ <br>Ciudad : CAPITAL FEDERAL
+ <br>Telefono : 15-3632-2693
+ <br>Email : crishemon@yahoo.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : A quien corresponda.
+
+Tengo el agrado de dirigirme a uds. con el fin de transmitirles mi deseo de postularme para el puesto de " RESPONSABLE DE OFICINA TECNICA”.
+
+El objetivo que me he impuesto, es el de formar parte del personal de una empresa prestigiosa, confiable y con proyectos ambiciosos.
+
+Además de los datos que surgen de mi CV, deseo destacar que me desenvuelvo de forma óptima en equipos de trabajo. 
+
+De ser necesario podría acercarme personalmente para cualquier consulta adicional o entrevista personal.
+
+Quedando a la espera de su respuesta. Me despido atte.
+
+
+Ing. Cristian Herrera Monzón
+15-3632-2693
+crishemon@yahoo.com
+
+ <br>Security_code : z4zd9
+ <br>Send : Enviar
+ <br>
+---------------
+

@@ -1,0 +1,93 @@
+Address : 186.23.179.38
+Nombre : César
+Apellido : Nuñez
+Cargo : operario
+Direccion : Guatemala 1180
+Ciudad : Buenos Aires
+Telefono : 011207717
+Email : cesarpetro7@outlook.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Desempleado hace un 1, busco trabajo de lo que sea. tengo muy buena presencia y experiencias. espero su msj
+Security_code : mv6bd
+Send : Enviar
+
+---------------
+
+Address : 190.19.112.77
+Nombre : Leandro
+Apellido : Bettini
+Cargo : Analista
+Direccion : Albarellos 1057
+Ciudad : Acassuso
+Telefono : 1165111067
+Email : leandrobettini@outlook.com
+MAX_FILE_SIZE : 2097152
+Mensaje : RRHH, RRLL, LEGALES, CREDITOS Y COBRANZAS, SEGUROS, EJECUTIVO DE CUENTA
+Security_code : 77hnt
+Send : Enviar
+
+---------------
+
+Address : 190.19.112.77
+Nombre : Leandro
+Apellido : Bettini
+Cargo : Analista
+Direccion : Albarellos 1057
+Ciudad : Acassuso
+Telefono : 1165111067
+Email : leandrobettini@outlook.com
+MAX_FILE_SIZE : 2097152
+Mensaje : RRHH, RRLL, LEGALES, CREDITOS Y COBRANZAS, SEGUROS, EJECUTIVO DE CUENTA
+Security_code : 77hnt
+Send : Enviar
+
+---------------
+
+Address : 190.19.112.77
+Nombre : Leandro
+Apellido : Bettini
+Cargo : Analista
+Direccion : Albarellos 1057
+Ciudad : Acassuso
+Telefono : 1165111067
+Email : leandrobettini@outlook.com
+MAX_FILE_SIZE : 2097152
+Mensaje : RRHH, RRLL, LEGALES, CREDITOS Y COBRANZAS, SEGUROS, EJECUTIVO DE CUENTA
+Security_code : cx6Y8
+Send : Enviar
+
+---------------
+
+Address : 190.19.112.77
+Nombre : Leandro
+Apellido : Bettini
+Cargo : Analista
+Direccion : Albarellos 1057
+Ciudad : Acassuso
+Telefono : 1165111067
+Email : leandrobettini@outlook.com
+MAX_FILE_SIZE : 2097152
+Mensaje : RRHH, RRLL, LEGALES, CREDITOS Y COBRANZAS, SEGUROS, EJECUTIVO DE CUENTA
+Security_code : crwrs
+Send : Enviar
+
+---------------
+
+Address : 181.28.119.45
+REF : SUPERVISOR-DE-SEGURIDAD
+Nombre : santiago
+Apellido : vera
+Cargo : supervisor de seguridad
+Direccion : anchorena 1732
+Ciudad : caba
+Telefono : 1123191323
+Email : sf_vera@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : me envio adjunto mi cv. cuento con las condiciones para el puesto
+saludos cordiales
+Vera Santiago
+Security_code : q5psc
+Send : Enviar
+
+---------------
+

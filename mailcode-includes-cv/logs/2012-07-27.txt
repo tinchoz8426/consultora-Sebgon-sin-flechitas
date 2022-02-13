@@ -1,0 +1,46 @@
+Address : 190.12.160.35
+REF : jefe-de-operaciones
+Nombre : daniel
+Apellido : jaldin
+Cargo : en lo que me requieran
+Direccion : entre rios 1591
+Ciudad : guaymallen
+Telefono : 2613134091
+Email : luciacarolinabargas@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : les encargo trabajo
+Security_code : ztk93
+Send : Enviar
+
+---------------
+
+Address : 24.232.162.178
+Nombre : jorge
+Apellido : laquis
+Cargo : asistente
+Direccion : san luis 1753
+Ciudad : cordoba
+Telefono : 0351153467630
+Email : laqui_307@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola, quería saber si podrían cargar a su base de datos mi curriculum. Me gustaría postularme para cualquier puesto junior en corodoba capital. Gracias.
+Security_code : wkzkd
+Send : Enviar
+
+---------------
+
+Address : 201.254.127.161
+Nombre : Florencia
+Apellido : Ponzinibbio
+Cargo : jefe, Oficial, etc
+Direccion : Guido 1637 5 C
+Ciudad : Capital Federal
+Telefono : 1554674722
+Email : florenciaponzi@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Se adjunta CV
+Security_code : dxfg5
+Send : Enviar
+
+---------------
+

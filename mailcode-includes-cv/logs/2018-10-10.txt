@@ -1,0 +1,201 @@
+Address : 186.143.197.230<br>
+ <br>REF : TEC. EL
+ <br>Nombre : Silvestre Jonathan
+ <br>Apellido : Romero
+ <br>Cargo : Tecnico electronico
+ <br>Direccion : Zeballos2342
+ <br>Ciudad : Bernal Oeste
+ <br>Telefono : 1136929416
+ <br>Email : silver.jon2008@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Soy una persona responsable q desea formar parte de un equipo de trabajo tecnico, ya q poseo más de 5 años de experiencia en el área de mantenimiento tecnico en planta industrial.
+ <br>Security_code : 86qgq
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.153.126.111<br>
+ <br>REF : EP-1
+ <br>Nombre : Ernesto Fidel
+ <br>Apellido : Ayala
+ <br>Cargo : Encargado de Producción
+ <br>Direccion : Rawson 614
+ <br>Ciudad : Villa Maria
+ <br>Telefono : 3534250166
+ <br>Email : ayala_ef@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimada/o:
+Buenos Días.
+Envió mi Curriculum Vitae para que me tengan en cuenta.
+Cordialmente
+ <br>Security_code : 5dz2v
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.9<br>
+ <br>REF : EM
+ <br>Nombre : Franco
+ <br>Apellido : Vallejos
+ <br>Cargo : Tecnico Electromecánico 
+ <br>Direccion : Calle 895 
+ <br>Ciudad : San Francisco Solano
+ <br>Telefono : 1139482967
+ <br>Email : francovallejos166@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Cv
+ <br>Security_code : B
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.9<br>
+ <br>REF : EM
+ <br>Nombre : Franco
+ <br>Apellido : Vallejos
+ <br>Cargo : Tecnico Electromecánico 
+ <br>Direccion : Calle 895 
+ <br>Ciudad : San Francisco Solano
+ <br>Telefono : 1139482967
+ <br>Email : francovallejos166@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Cv
+ <br>Security_code : hqfbn
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.55.144.230<br>
+ <br>REF : TM-2
+ <br>Nombre : sergio
+ <br>Apellido : Martinez
+ <br>Cargo : tecnico mantenimiento
+ <br>Direccion : Prravicin 889
+ <br>Ciudad : Burzaco
+ <br>Telefono : 1140663390
+ <br>Email : sergiomartinez999@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estoy interesado en este empleo u otros similares . gracias por su atención
+ <br>Security_code : 8s7zt
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 168.194.234.80<br>
+ <br>REF : TM-2
+ <br>Nombre : Daniel Oscar
+ <br>Apellido : Fernandes
+ <br>Cargo : tecnico
+ <br>Direccion : Einstein
+ <br>Ciudad : Jose C Paz
+ <br>Telefono : 1166005323
+ <br>Email : danielf-2@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : De mi mayor consideración: 
+
+Tengo el agrado de dirigirme a Uds. con el fin de transmitirles mi deseo de incorporarme a su organización. A tal efecto adjunto, junto a la presente, mi CV. 
+El objetivo que me he impuesto, es el de formar parte del personal de una empresa prestigiosa y confiable. 
+
+Quedando a la espera de su respuesta. 
+Atte.  Daniel O. Fernandes
+
+ <br>Security_code : 7fjcs
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.143.199.3<br>
+ <br>REF : TEC. EL
+ <br>Nombre : Jean Carlos
+ <br>Apellido : Villamizar
+ <br>Cargo : técnico electrónico
+ <br>Direccion : calle bacacay flores
+ <br>Ciudad : buenos aires caba
+ <br>Telefono : 1122527888
+ <br>Email : jeancarlosvillamizarjcv@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola buenas tardes.
+les escribo con el fin de hacerles llegar mi cv. soy venezolano actualmente residenciado en buenos aires CABA. 
+soy técnico superior instrumentista industrial, con experiencia en el area eléctrica, electricidad y mecanica indistrial, actualmente en búsqueda de oportunidad de trabajo.
+soy una persona dinámica, responsable, comprometida y disciplinado.
+me gustaría formar parte de su equipo de trabajo. anexo mi cv. espero tener la oportunidad.
+ <br>Security_code : 6krxk
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.143.199.3<br>
+ <br>REF : TEC. EL
+ <br>Nombre : Jean Carlos
+ <br>Apellido : Villamizar
+ <br>Cargo : técnico electrónico
+ <br>Direccion : calle bacacay flores
+ <br>Ciudad : buenos aires caba
+ <br>Telefono : 1122527888
+ <br>Email : jeancarlosvillamizarjcv@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola buenas tardes.
+les escribo con el fin de hacerles llegar mi cv. soy venezolano actualmente residenciado en buenos aires CABA. 
+soy técnico superior instrumentista industrial, con experiencia en el area eléctrica, electricidad y mecanica indistrial, actualmente en búsqueda de oportunidad de trabajo.
+soy una persona dinámica, responsable, comprometida y disciplinado.
+me gustaría formar parte de su equipo de trabajo. anexo mi cv. espero tener la oportunidad.
+ <br>Security_code : 6krxk
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.143.199.3<br>
+ <br>REF : TEC. EL
+ <br>Nombre : Jean Carlos
+ <br>Apellido : Villamizar
+ <br>Cargo : técnico electrónico
+ <br>Direccion : calle bacacay flores
+ <br>Ciudad : buenos aires caba
+ <br>Telefono : 1122527888
+ <br>Email : jeancarlosvillamizarjcv@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola buenas tardes.
+les escribo con el fin de hacerles llegar mi cv. soy venezolano actualmente residenciado en buenos aires CABA. 
+soy técnico superior instrumentista industrial, con experiencia en el area eléctrica, electricidad y mecanica indistrial, actualmente en búsqueda de oportunidad de trabajo.
+soy una persona dinámica, responsable, comprometida y disciplinado.
+me gustaría formar parte de su equipo de trabajo. anexo mi cv. espero tener la oportunidad.
+ <br>Security_code : 6krxk
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.170.7.129<br>
+ <br>REF : JPER-1
+ <br>Nombre : Daniel Alberto
+ <br>Apellido : Uncal
+ <br>Cargo : Jefe de Personal
+ <br>Direccion : Diego de Carbajal 771
+ <br>Ciudad : Hurlingham
+ <br>Telefono : 11 32626228
+ <br>Email : dauncal@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados, buenas tardes.
+Quedo a disposicion para ampliar mi perfil en una entrevista personal.
+Muchas gracias.
+Saludos.
+Daniel uncal
+ <br>Security_code : jhc6z
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.7<br>
+ <br>Nombre : Lourdes ayelen
+ <br>Apellido : Cirione
+ <br>Cargo : Vendedora
+ <br>Direccion : Tenerife 3148
+ <br>Ciudad : Cordoba capital
+ <br>Telefono : 3517342304
+ <br>Email : petycirione2008@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Tengo disponibilidad horaria. De lo que sea me gustaría trabajar, saludos!
+ <br>Security_code : 23fh6
+ <br>Send : Enviar
+ <br>
+---------------
+

@@ -1,0 +1,68 @@
+Address : 201.231.98.56
+Nombre : Natalia
+Apellido : Bossio
+Cargo : Administrativa
+Direccion : Hermana Fortunata 419
+Ciudad : Rafaela
+Telefono : 0349215339981
+Email : natibossio01@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto mi CV para futuras búsquedas.
+Muchas Gracias.
+Saludos.
+Security_code : p77qx
+Send : Enviar
+
+---------------
+
+Address : 190.9.1.181
+Nombre : María Carolina
+Apellido : Martínez
+Cargo : Auxiliar administrativo-Contable, empleada administrativa, Liquidación de Sueldos.
+Direccion : Vicente López y Planes 558
+Ciudad : Mar del Plata
+Telefono : (0223) 479081
+Email : caromartinez@copetel.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Me encuentro en la búsqueda laboral de mi primer trabajo, teniendo preferencia por las áreas administrativo-contables, pero igualmente soy una persona que me adapto a todo tipo de trabajos administrativos, comerciales, realización de trámites, recursos humanos (liquidación de sueldos), recepción, secretaría administrativa.
+Gracias. Saluda atentamente.
+Security_code : qc48m
+Send : Enviar
+
+---------------
+
+Address : 190.188.51.116
+Nombre : Alexis
+Apellido : Juiz
+Cargo : -
+Direccion : America 371
+Ciudad : Haedo - Moron
+Telefono : 01144435382
+Email : alejui@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Me gustaria me tengan en cuenta para posibles puestos que se ajusten a mi perfil.
+Security_code : cbvm2
+Send : Enviar
+
+---------------
+
+Address : 190.48.255.190
+Nombre : Gisela Noemi
+Apellido : Flores
+Cargo : Empleada
+Direccion : caaguazu2678
+Ciudad : Celina
+Telefono : 1533568074
+Email : giseflores@live.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Tengo el agrado de dirigirme a Uds. Con el fin de transmitirles mi deseo en firme de incorporarme a su Empresa.
+Me presento como una persona responsable, activa, dinámica, emprendedora  y con un gran empeño a aprender trabajos nuevos. Por eso podría encajar satisfactoriamente en el equipo de la Empresa que usted dirige.
+Mis experiencias hasta la fecha, demuestran mi capacidad para trabajar tanto sola, como en equipo, tomar decisiones y aceptar responsabilidades.
+
+ Espero su respuesta, a fin de concretar una Entrevista.
+
+Security_code : wf6pn
+Send : Enviar
+
+---------------
+

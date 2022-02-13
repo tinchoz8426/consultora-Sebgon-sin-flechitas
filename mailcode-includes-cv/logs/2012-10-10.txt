@@ -1,0 +1,45 @@
+Address : 190.179.228.123
+Nombre : Fernando Exequiel
+Apellido : Fidel
+Cargo : Cualquiera
+Direccion : Belgrano 49
+Ciudad : Junin Mendoza
+Telefono : 0263-154273220
+Email : ferfidel1992@hotmail.es
+MAX_FILE_SIZE : 2097152
+Mensaje : Busco trabajo en cualquier lugar estoy disponible full time. Me gustaria que me tuvieran un cuenta desde ya muchas gracias por su atencion. 
+Security_code : swwkg
+Send : Enviar
+
+---------------
+
+Address : 190.177.205.43
+Nombre : SOFIA ISABEL
+Apellido : TORRICO
+Cargo : CUALQUIERA
+Direccion : FILIBERTO 945
+Ciudad : BS AS
+Telefono : 011-15-30618388
+Email : sofia.torrico@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : NECESITO TRABAJAR EN ESTS MOMENTOS ME ENCUENTRO DESOCUPADA TENGO EXPERIENCIA EN VENTAS PRO ME ADAPTO A CUALQUIER PUESTO DESDA YA SALUDO ATTE Y ESPERO SU RESPUESTA.
+Security_code : Kj77n
+Send : Enviar
+
+---------------
+
+Address : 190.177.205.43
+Nombre : SOFIA ISABEL
+Apellido : TORRICO
+Cargo : cualquiera
+Direccion : FILIBERTO 945
+Ciudad : BS AS
+Telefono : 011-15-30618388
+Email : SOFIA.TORRICO@HOTMAIL.COM
+MAX_FILE_SIZE : 2097152
+Mensaje : HOLA ESTOY EN BUSCA DE TRABAJO ,ME ADAPTO A CUALQUIER PUESTO.MIS TRABAJOS ANTERIORES SIEMPRE SE VASARON A VENTA . UN SALUDO CORDIAL Y ESPERO SU RESPUESTA A LA BREVEDAD.
+Security_code : gywzz
+Send : Enviar
+
+---------------
+

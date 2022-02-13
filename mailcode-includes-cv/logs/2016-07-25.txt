@@ -1,0 +1,389 @@
+Address : 186.57.174.244<br>
+ <br>REF : JP
+ <br>Nombre : JORGE DANIEL
+ <br>Apellido : GIMENEZ
+ <br>Cargo : Jefe de Personal
+ <br>Direccion : Rio Diamante 1690
+ <br>Ciudad : Bella Vista
+ <br>Telefono : 1123012991
+ <br>Email : dgimenezar@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Todas las tareas que solicitan en el aviso las hice y las supervise por mucho tiempo. Si bien o cumplo con el requisito de la edad puedo serles de mucha utilidad. Gracias
+ <br>Security_code : vxq3w
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.48.4.176<br>
+ <br>Nombre : Paola
+ <br>Apellido : Guglielmelli
+ <br>Cargo : Administrativo
+ <br>Direccion : roque de lucca 1784
+ <br>Ciudad : Lujan
+ <br>Telefono : 0232315662252
+ <br>Email : guglielmellipaola@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Gracias por la posibilidad de poder formar parte de ustedes.
+
+ <br>Security_code : 22pnt
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.45.140.191<br>
+ <br>REF : tecm
+ <br>Nombre : Gabriel 
+ <br>Apellido : Brites
+ <br>Cargo : MANTENIMIENTO
+ <br>Direccion : ASCASUBI 10867
+ <br>Ciudad : Moreno
+ <br>Telefono : 1560532043
+ <br>Email : britesgab_80@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : TÉCNICO MECÁNICO EN LINEAS AUTOMÁTICAS.
+ <br>Security_code : m8mhq
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.191.240.162<br>
+ <br>Nombre : Christian
+ <br>Apellido : Ortino
+ <br>Cargo : Ejecutivo de Venta / Nuevos Negocios
+ <br>Direccion : Baez 299 2 A
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 1164767619
+ <br>Email : christianortino@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados SEBGON, 
+El motivo de mi contacto es hacerles llegar mis datos personales y profesionales dado que actualmente me encuentro en pleno proceso de búsqueda laboral.
+
+Muchas gracias.
+
+Christian Ortino
+Lic. en Comercialización
+ <br>Security_code : hc7xj
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 179.38.214.24<br>
+ <br>REF : OEL
+ <br>Nombre : daniel
+ <br>Apellido : larramendia
+ <br>Cargo : electricista
+ <br>Direccion : almafuerte
+ <br>Ciudad : buenos aires
+ <br>Telefono : 1535449796-42526035
+ <br>Email : quintanacarolina7@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Instalaciones electricas en generales,tendidos aereos,colocaciones de medidores y de traslado
+ <br>Security_code : j5hcj
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 179.38.214.24<br>
+ <br>REF : OEL
+ <br>Nombre : daniel
+ <br>Apellido : larramendia
+ <br>Cargo : electricista
+ <br>Direccion : almafuerte
+ <br>Ciudad : buenos aires
+ <br>Telefono : 1535449796-42526035
+ <br>Email : quintanacarolina7@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Instalaciones electricas en generales,tendidos aereos,colocaciones de medidores y de traslado
+ <br>Security_code : j5hcj
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 179.38.214.24<br>
+ <br>REF : OEL
+ <br>Nombre : daniel
+ <br>Apellido : larramendia
+ <br>Cargo : electricista
+ <br>Direccion : almafuerte
+ <br>Ciudad : buenos aires
+ <br>Telefono : 1535449796-42526035
+ <br>Email : quintanacarolina7@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Instalaciones electricas en generales,tendidos aereos,colocaciones de medidores y de traslado
+ <br>Security_code : j5hcj
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 200.115.201.215<br>
+ <br>Nombre : Sabrina 
+ <br>Apellido : Guaragna
+ <br>Cargo : Recursos Humanos 
+ <br>Direccion : Oliden 63 Piso 10 Dpto C 
+ <br>Ciudad : Lomas de Zamora
+ <br>Telefono : 1531883531
+ <br>Email : sabrina.guaragna@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje :  
+
+Estimados;
+
+ 
+
+Buenas tardes. 
+
+ 
+
+Me interesaría que me sumen a la base de datos de sus candidatos y antes alguna búsqueda acorde a mi perfil me puedan considerar.
+
+Adjunto mi C.V.. poseo solida experiencia en Recursos Humanos, con un perfil generalista.
+
+ 
+
+A disposición cuando lo consideren,
+
+
+Lic. Guaragna Sabrina
+ <br>Security_code : rsd94
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 179.39.149.200<br>
+ <br>REF : JP
+ <br>Nombre : sandra elisabet
+ <br>Apellido : laso
+ <br>Cargo : jefa de personal
+ <br>Direccion : constancia939
+ <br>Ciudad : Ciudadela
+ <br>Telefono : 1153441928
+ <br>Email : sandra.laso@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Jefe de Personal
+ <br>Security_code : bc8db
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 179.39.149.200<br>
+ <br>REF : JP
+ <br>Nombre : sandra elisabet
+ <br>Apellido : laso
+ <br>Cargo : jefa de personal
+ <br>Direccion : constancia939
+ <br>Ciudad : Ciudadela
+ <br>Telefono : 1153441928
+ <br>Email : sandra.laso@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Jefe de Personal
+ <br>Security_code : bc8db
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.135.131.63<br>
+ <br>REF : JP
+ <br>Nombre : Emiliano Ezequiel
+ <br>Apellido : Buffone
+ <br>Cargo : Recursos Humanos
+ <br>Direccion : Pasaje Carabelas
+ <br>Ciudad : CAPITAL
+ <br>Telefono : 1555779190
+ <br>Email : emilianobuffone@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados,
+Buen día, gusto en saludarlos.
+El mes pasado debido a la delicada situación que atraviesa la empresa y el sector de obra publica, rescindieron mi contrato en comun acuerdo.
+Por este motivo acerco mi CV actualizado y para el caso de conocer alguna búsqueda para que aplique (en el difícil mercado laboral) y pueda ser potencial candidato, me tengan en cuenta.
+Aprovecho la oportunidad para saludarlos cordialmente.
+Muchas Gracias!
+Emiliano
+ <br>Security_code : 6sh7q
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.250.35.215<br>
+ <br>REF : COM
+ <br>Nombre : mariano antonio
+ <br>Apellido : colomo
+ <br>Cargo : vendedor de calle
+ <br>Direccion : rocha 1132 dto B
+ <br>Ciudad : caba
+ <br>Telefono : 15-3860-9547
+ <br>Email : mariano_colomo@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Sr actualmente vendo lubricante multiuso en aerosolzv70 junto con productos linea automotor y hogar , 
+ <br>Security_code : d37jj
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.216.212.153<br>
+ <br>Nombre : Rodrigo De La Cruz 
+ <br>Apellido : Diaz
+ <br>Cargo : Ejecutivo de Ventas
+ <br>Direccion : Antezana 516
+ <br>Ciudad : CABA
+ <br>Telefono : 1531863558
+ <br>Email : rodrigodelacruzdiaz1979.rd@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Muchas gracias
+ <br>Security_code : cvkzr
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.244.210.147<br>
+ <br>Nombre : Ivan
+ <br>Apellido : Stemphelet
+ <br>Cargo : indistinto
+ <br>Direccion : Fleming nº 454
+ <br>Ciudad : Mar del Plata
+ <br>Telefono : 0221-6109139
+ <br>Email : monooct@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola me encuentro en búsqueda de empleo, aquí les dejo  mi CV para cualquier oportunidad de acuerdo a mi formación o experiencia laboral. Muchas gracias. 
+ <br>Security_code : n7f25
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.244.210.147<br>
+ <br>Nombre : Ivan
+ <br>Apellido : Stemphelet
+ <br>Cargo : indistinto
+ <br>Direccion : Fleming nº 454
+ <br>Ciudad : Mar del Plata
+ <br>Telefono : 0221-6109139
+ <br>Email : monooct@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola me encuentro en búsqueda de empleo, aquí les dejo  mi CV para cualquier oportunidad de acuerdo a mi formación o experiencia laboral. Muchas gracias. 
+ <br>Security_code : n7f25
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.168.206.87<br>
+ <br>Nombre : Franz Lenin
+ <br>Apellido : Torres Vidarte
+ <br>Cargo : Administrativo, cajero bancario, asesor comercial de banco
+ <br>Direccion : hilario lagos 1565
+ <br>Ciudad : Buenos Aires GBA Norte
+ <br>Telefono : 1128572181
+ <br>Email : torresvif@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Licenciado en Administración; cuento con un certificado Cisco IT Essential; experiencia como administrador, asistente administrativo, promotor financiero, atención al cliente; soy una persona sociable, elocuente, responsable y comprometido en lo que hace.
+ <br>Security_code : 27yn3
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.220.20.204<br>
+ <br>REF : JP
+ <br>Nombre : Yudith 
+ <br>Apellido : Sánchez
+ <br>Cargo : Jefe de Personal
+ <br>Direccion : C
+ <br>Ciudad : capital federal
+ <br>Telefono : 0221 5627165
+ <br>Email : y.alex@hotmail.es
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Psicóloga con amplia experiencia en el área de  Gestión de los Recursos Humanos  en prácticas de desarrollo organizacional, reclutamiento y selección, evaluación de desempeño, capacitación y entrenamiento, administración de personal,  adquirida en empresas de servicios,  consumo masivo;  aplicando para posiciones generalistas.
+ <br>Security_code : 47bv9
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.220.20.204<br>
+ <br>REF : JP
+ <br>Nombre : Yudith 
+ <br>Apellido : Sánchez
+ <br>Cargo : Jefe de Personal
+ <br>Direccion : C
+ <br>Ciudad : capital federal
+ <br>Telefono : 0221 5627165
+ <br>Email : y.alex@hotmail.es
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Psicóloga con amplia experiencia en el área de  Gestión de los Recursos Humanos  en prácticas de desarrollo organizacional, reclutamiento y selección, evaluación de desempeño, capacitación y entrenamiento, administración de personal,  adquirida en empresas de servicios,  consumo masivo;  aplicando para posiciones generalistas.
+ <br>Security_code : 47bv9
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.220.20.204<br>
+ <br>REF : JP
+ <br>Nombre : Yudith 
+ <br>Apellido : Sánchez
+ <br>Cargo : Jefe de Personal
+ <br>Direccion : C
+ <br>Ciudad : capital federal
+ <br>Telefono : 0221 5627165
+ <br>Email : y.alex@hotmail.es
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Psicóloga con amplia experiencia en el área de  Gestión de los Recursos Humanos  en prácticas de desarrollo organizacional, reclutamiento y selección, evaluación de desempeño, capacitación y entrenamiento, administración de personal,  adquirida en empresas de servicios,  consumo masivo;  aplicando para posiciones generalistas.
+ <br>Security_code : 47bv9
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.220.20.204<br>
+ <br>Nombre : Yudith 
+ <br>Apellido : Sánchez
+ <br>Cargo : Jefe de Personal
+ <br>Direccion : x
+ <br>Ciudad : capital federal
+ <br>Telefono : 0221 5627165
+ <br>Email : y.alex@hotmail.es
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Psicóloga con amplia experiencia en el área de  Gestión de los Recursos Humanos  en prácticas de desarrollo organizacional, reclutamiento y selección, evaluación de desempeño, capacitación y entrenamiento, administración de personal,  adquirida en empresas de servicios,  consumo masivo;  aplicando para posiciones generalistas.
+ <br>Security_code : zkztt
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.220.20.204<br>
+ <br>Nombre : Yudith 
+ <br>Apellido : Sánchez
+ <br>Cargo : Jefe de Personal
+ <br>Direccion : x
+ <br>Ciudad : capital federal
+ <br>Telefono : 0221 5627165
+ <br>Email : y.alex@hotmail.es
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Psicóloga con amplia experiencia en el área de  Gestión de los Recursos Humanos  en prácticas de desarrollo organizacional, reclutamiento y selección, evaluación de desempeño, capacitación y entrenamiento, administración de personal,  adquirida en empresas de servicios,  consumo masivo;  aplicando para posiciones generalistas.
+ <br>Security_code : zkztt
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.220.20.204<br>
+ <br>Nombre : Yudith 
+ <br>Apellido : Sánchez
+ <br>Cargo : Jefe de Personal
+ <br>Direccion : 1
+ <br>Ciudad : capital federal
+ <br>Telefono : 0221 5627165
+ <br>Email : y.alex@hotmail.es
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Psicóloga con amplia experiencia en el área de  Gestión de los Recursos Humanos  en prácticas de desarrollo organizacional, reclutamiento y selección, evaluación de desempeño, capacitación y entrenamiento, administración de personal,  adquirida en empresas de servicios,  consumo masivo;  aplicando para posiciones generalistas.
+ <br>Security_code : zkztt
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.220.20.204<br>
+ <br>Nombre : Yudith 
+ <br>Apellido : Sánchez
+ <br>Cargo : Jefe de Personal
+ <br>Direccion : C
+ <br>Ciudad : capital federal
+ <br>Telefono : 0221 5627165
+ <br>Email : y.alex@hotmail.es
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Psicóloga con amplia experiencia en el área de  Gestión de los Recursos Humanos  en prácticas de desarrollo organizacional, reclutamiento y selección, evaluación de desempeño, capacitación y entrenamiento, administración de personal,  adquirida en empresas de servicios,  consumo masivo;  aplicando para posiciones generalistas.
+ <br>Security_code : zkztt
+ <br>Send : Enviar
+ <br>
+---------------
+

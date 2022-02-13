@@ -1,0 +1,49 @@
+Address : 190.3.140.172
+Nombre : Daniel
+Apellido : Gamarra
+Cargo : Gerente/Jefe de RRHH
+Direccion : Posadas 1050
+Ciudad : Del Viso - Pilar
+Telefono : 1115 5868-8967
+Email : danielgamarra2003@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimado responsable de selección.
+
+
+De mi mayor consideración:
+
+
+Por el presente tengo el agrado de dirigirme a usted a fin de postularme a la posición de Gerente de Recursos Humanos.
+ Mi formación académica, experiencia, y perfil generalista avalan mi candidatura para ocupar la vacante por vosotros requerida.
+En mi último empleo ocupe el cargo de Gerente de Recursos Humanos corporativo en una empresa multinacional autopartista, la cual cuenta con una dotación de 1.200 personas distribuidos en tres provincias.
+Poseo una actitud fuertemente pro-activa y emprendedora, autonomía, capacidad analítica y un muy buen manejo en las relaciones interpersonales. También me caracterizo por una fuerte iniciativa al trabajo en equipo y por una gran aptitud para liderar grupos de trabajo.
+Estoy sumamente interesado en vuestra propuesta laboral por lo cual me encuentro a su entera disposición para formalizar una entrevista personal cuando lo considere oportuno.
+
+
+A la espera de vuestro contacto, lo saludo muy cordialmente.
+
+
+
+
+ Daniel Rubén Gamarra
+
+Security_code : pvt67
+Send : Enviar
+
+---------------
+
+Address : 170.51.228.249
+Nombre : brenda yohana gutierrez
+Apellido : gutierrez
+Cargo : cajera en el disco
+Direccion : bolivar 2428
+Ciudad : mar del plata
+Telefono : 3513998853
+Email : bren_yoe@hotmail.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : trabaje en el supermercado disco 9 meses en cordoba tengo experiencia en la caja 
+Security_code : b7w54
+Send : Enviar
+
+---------------
+

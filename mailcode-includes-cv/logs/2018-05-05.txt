@@ -1,0 +1,17 @@
+Address : 190.52.81.109<br>
+ <br>Nombre : Lorena
+ <br>Apellido : Torres
+ <br>Cargo : Administración
+ <br>Direccion : Edison 1274
+ <br>Ciudad : 9 de Julio
+ <br>Telefono : 0231715448898
+ <br>Email : lorrainevents@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados
+Mi nombre es Lorena Torres; soy Técnica en Dirección de Protocolo, Organización de Eventos y Relaciones Públicas; actualmente trabajo como Administrativa Notificadora en la Municipalidad de 9 de Julio (Buenos Aires); pero estoy buscando empleo para regresar a Azul (Buenos Aires), mí ciudad natal.
+Saludos cordiales.
+ <br>Security_code : jh9v6
+ <br>Send : Enviar
+ <br>
+---------------
+

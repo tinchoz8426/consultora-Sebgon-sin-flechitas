@@ -1,0 +1,104 @@
+Address : 179.36.79.30<br>
+ <br>REF : ROT-1
+ <br>Nombre : Eduardo Daniel
+ <br>Apellido : Soria
+ <br>Cargo : RESPONSABLE DE OFICINA TECNICA 
+ <br>Direccion : Inclan 4278 1º E
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 11 3183 4117
+ <br>Email : eduadodanielsoria@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : ftd3t
+ <br>Security_code : ftd3t
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 200.51.91.116<br>
+ <br>REF : JPER-1
+ <br>Nombre : Fabian Daniel
+ <br>Apellido : Cavallo
+ <br>Cargo : RR.HH.
+ <br>Direccion : Acoyte 790
+ <br>Ciudad : CABA
+ <br>Telefono : 1165264574
+ <br>Email : fabian.daniel.cavallo@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Les agradezco que tengan en cuenta mi cv.
+ <br>Security_code : jkwpj
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.118.31.2<br>
+ <br>Nombre : Viviana Alejandra
+ <br>Apellido : Cadile
+ <br>Cargo : RRHH
+ <br>Direccion : Moron 388
+ <br>Ciudad : Mendoza
+ <br>Telefono : 2615698840
+ <br>Email : vivi_cadile@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Adjunto C.V. 
+ <br>Security_code : 8xfgh
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.7<br>
+ <br>Nombre : Sebastian
+ <br>Apellido : Korcarz
+ <br>Cargo : Administrativo contable
+ <br>Direccion : Rodríguez Peña 1864
+ <br>Ciudad : Cadtelar
+ <br>Telefono : 1558018858
+ <br>Email : Sebastiankorcarz@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados. Estoy interesado en las propuestas laborales que seas acordé a mi profesión. Administrativo contable e impositivo
+ <br>Security_code : Njp9t
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.210.16.41<br>
+ <br>Nombre : Pablo
+ <br>Apellido : Rende
+ <br>Cargo : Compras
+ <br>Direccion : Alfredo R. Bufano 2324
+ <br>Ciudad : Villa del Parque
+ <br>Telefono : 1136657444
+ <br>Email : pablorende@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados, 
+Les hago llegar mi CV para ser considerado en búsquedas acorde a mi perfil.
+
+Atentamente
+
+Pablo D. Rende
+ <br>Security_code : 86rtg
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.48.132.8<br>
+ <br>Nombre : Ana
+ <br>Apellido : Rosano Olivera
+ <br>Cargo : Comercio Exterior/ Logistica
+ <br>Direccion : Puerto Anchorena 150
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 011 15 38526181
+ <br>Email : anarosanoolivera@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Como podrá ver en mi currículum adjunto, cuento con  gran experiencia en áreas comerciales y de logística Internacional, además formación académica en el área de comercio internacional y  buen nivel en el manejo de herramientas informáticas e Ingles.
+ Mi trayectoria laboral demuestra la capacidad que poseo para desarrollar tareas tanto sola  como en equipo, tomar decisiones y aceptar responsabilidades. Me considero una persona proactiva, analítica y con alta adaptabilidad al cambio. 
+Agradeceré la oportunidad de entrevistarme con Uds. y así ampliarles la información acerca de mi experiencia en el área.
+
+ A la espera de vuestra amable respuesta, lo saluda muy atentamente
+
+Lic. Ana Rosano Olivera
+
+ <br>Security_code : 84w4n
+ <br>Send : Enviar
+ <br>
+---------------
+

@@ -1,0 +1,97 @@
+Address : 186.182.164.229
+Nombre : MIGUEL FERDINAND
+Apellido : VALENCIA FERNANDEZ
+Cargo : ARQUITECTO
+Direccion : A. SALDIAS 88
+Ciudad : MORON
+Telefono : 1140680444
+Email : FERDINAND64@HOTMAIL.COM
+MAX_FILE_SIZE : 2097152
+Mensaje : Buen dia, le envio mi cv actualizado, disponibilidad inmediata.
+Atte.
+Ferdinand V
+Security_code : z8c8v
+Send : Enviar
+
+---------------
+
+Address : 181.91.24.116
+Nombre : Marcos Tadeo
+Apellido : Catcoff
+Cargo : Ingeniero Agrónomo
+Direccion : Coronel Davila 245 P.A. Ciudad de Nieva
+Ciudad : San Salvador de Jujuy
+Telefono : 0388154094096
+Email : mcatcoff@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenos días, a quien corresponda, remito mi CV, soy Ingeniero Agrónomo entoy en la busqueda de trabajo, tengo capacidad de trabajo en equipo, resolucion de problemas, flexibilidad horaria, pretendo un salario acorde a las tareas realizadas, pero esto no limita que deje lo mejor de mi en los trabajos que llevo a cabo.
+
+Agradeceré las ofertas laborales que se me envien. Saludo a Ud. muy coordialmente.
+
+
+Marcos Catcoff
+Security_code : z4xz2
+Send : Enviar
+
+---------------
+
+Address : 181.91.24.116
+Nombre : Marcos Tadeo
+Apellido : Catcoff Gussoni
+Cargo : Ingeniero Agrónomo
+Direccion : Coronel Davila 245 P.A. Ciudad de Nieva
+Ciudad : San Salvador de Jujuy
+Telefono : 0388154094096
+Email : mcatcoff@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenos días, a quien corresponda, remito mi CV, soy Ingeniero Agrónomo entoy en la busqueda de trabajo, tengo capacidad de trabajo en equipo, resolucion de problemas, flexibilidad horaria, pretendo un salario acorde a las tareas realizadas, pero esto no limita que deje lo mejor de mi en los trabajos que llevo a cabo.
+
+Agradeceré las ofertas laborales que se me envien. Saludo a Ud. muy coordialmente.
+
+
+Marcos Catcoff
+
+Pd. En caso de solicitarme, poseo CV con certificados y titulos.
+Security_code : ttsn9
+Send : Enviar
+
+---------------
+
+Address : 181.91.24.116
+Nombre : Marcos Tadeo
+Apellido : Catcoff Gussoni
+Cargo : Ingeniero Agrónomo
+Direccion : Coronel Davila 245 P.A. Ciudad de Nieva
+Ciudad : San Salvador de Jujuy
+Telefono : 0388154094096
+Email : mcatcoff@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenos días, a quien corresponda, remito mi CV, soy Ingeniero Agrónomo entoy en la busqueda de trabajo, tengo capacidad de trabajo en equipo, resolucion de problemas, flexibilidad horaria, pretendo un salario acorde a las tareas realizadas, pero esto no limita que deje lo mejor de mi en los trabajos que llevo a cabo.
+
+Agradeceré las ofertas laborales que se me envien. Saludo a Ud. muy coordialmente.
+
+
+Marcos Catcoff
+
+Pd: en caso de solicitarme poseo CV con titulos y certificados.
+Security_code : vdykv
+Send : Enviar
+
+---------------
+
+Address : 181.47.186.226
+Nombre : ALBERTO AMADO
+Apellido : RUIZ
+Cargo : PORTERO INSTITUCION EDUCATIVA
+Direccion : ESTADO DE ISRAEL 4116
+Ciudad : MALVINAS ARGENTINAS
+Telefono : 011-44635247
+Email : albertoruiz03@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Mis ansias de trabajar,superarme,afrontar desafios no tiene edad.
+gracias
+Security_code : 73bz3
+Send : Enviar
+
+---------------
+

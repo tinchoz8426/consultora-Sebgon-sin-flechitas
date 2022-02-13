@@ -1,0 +1,31 @@
+Address : 201.254.4.23
+Nombre : Mariana
+Apellido : Vernet
+Cargo : Vendedora
+Direccion : Bevilacqua y Estero Bellaco,Ed.23 
+Ciudad : Evita
+Telefono : 46204175
+Email : marius_08@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me postulo para los cargos de vendedora y/ Atención al cliente. Mis objetivos laborales son poder crecer laboralmente.
+Quisiera recibir información sobre el Dpto de Capacitación Desde ya Muchas Gracias.
+Security_code : w53f6
+Send : Enviar
+
+---------------
+
+Address : 190.176.218.178
+Nombre : Mariano Ezequiel
+Apellido : Palacios Lusarreta
+Cargo : Joven Profesional
+Direccion : Bravard 174
+Ciudad : Bahía Blanca
+Telefono : 0291-154651188
+Email : marianopalacios83@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Agradezco la oportunidad de poder enviar mi CV por intermedio de su página.
+Security_code : cj493
+Send : Enviar
+
+---------------
+

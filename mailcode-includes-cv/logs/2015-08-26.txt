@@ -1,0 +1,89 @@
+Address : 200.126.186.168
+Nombre : VICTORIA
+Apellido : PERALTA
+Cargo : SECRETARIA/RECEPCIONISTA
+Direccion : MAESTRO VIDAL 375
+Ciudad : cordoba
+Telefono : 3513588786
+Email : victoriasoledad@live.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : ME ENCUENTRO EN LA BUSQUEDA DE UN PUESTO PARA SECRETARIA O RECEPCIONISTA
+Security_code : XZBXK
+Send : Enviar
+
+---------------
+
+Address : 190.31.226.88
+Nombre : Sebastian
+Apellido : Gobernatori
+Cargo : operario
+Direccion : urquiza 9893
+Ciudad : rosario
+Telefono : 3413772829
+Email : seba_leondejuda@live.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Aqui les adjunto mi cv a la espera de una respuesta.
+saludos.-Atte
+Security_code : 79qpm
+Send : Enviar
+
+---------------
+
+Address : 181.164.72.6
+Nombre : Fabiana
+Apellido : Ferrarini
+Cargo : Administrativa
+Direccion : Crespo 1201
+Ciudad : Rosario
+Telefono : 0341-153670102
+Email : ferrarinifabiana@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados;
+                Tengo el agrado de dirigirme a Uds. a fines de acercarles mi currículum vitae para poder participar en búsquedas laborales acordes a mi perfil.
+                Actualmente cuento con disponibilidad full time e inmediata.
+                Quedo a su disposición para concretar una entrevista personal,a fines de ampliar cualquier detalle de mi currículum que consideren pertinente.
+                A la espera de sus noticias, los saludo cordialmente,
+                Fabiana Ferrarini.-
+Security_code : vgpwn
+Send : Enviar
+
+---------------
+
+Address : 181.117.5.56
+Nombre : Diego
+Apellido : Sarago
+Cargo : Analista SR/Jefe de Marketing, Producto o Brand manager
+Direccion : Ocantos 159 Piso 9E
+Ciudad : Avellaneda
+Telefono : 1536131454
+Email : diegosarago@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados 
+me encuentro en búsqueda de nuevos desafíos profesionales y en tal sentido me gustaría hacerle llegar mis antecedentes laborales actualizados para futuros proyectos que puedan surgir.
+
+En cuanto a mi perfil cuento con sólida formación académica y más de nueve años de experiencia en marketing y comunicación en diversos industrias y tipos de empresas llegando a liderar una Jefatura de marketing/Producto. Destaco una visión  integradora, enfocado a resultados y gran pasión por el marketing. Me interés radica en continuar desarrollándome  en el área de marketing, asumiendo nuevos desafíos  en el ámbito de  compañas sólidas.
+
+Quedo a total disposición para ampliar todo aquello que consideren oportuno,
+atte Diego Sarago
+
+Security_code : 7ptx9
+Send : Enviar
+
+---------------
+
+Address : 190.226.186.241
+Nombre : Evelyn
+Apellido : Schwamberger
+Cargo : Acompañante terapéutico 
+Direccion : Quintana 3267
+Ciudad : Buenos Aires
+Telefono : 1535101109
+Email : evb.sch@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Soy una persona muy activa, que no deja de proponerse desafíos, y que no para hasta alcanzarlos. Mi vocación se encuentra en ayudar al prójimo. 
+ Hace diez años que poseo una gemían poseía  izquierda.9h2hy
+Security_code : 9h2hy
+Send : Enviar
+
+---------------
+

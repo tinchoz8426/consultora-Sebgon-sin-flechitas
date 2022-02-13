@@ -1,0 +1,30 @@
+Address : 201.250.160.147
+Nombre : Celeste
+Apellido : Ortellado
+Cargo : Seleccion de personal, capacitaciones
+Direccion : Saavedra 322
+Ciudad : CABA
+Telefono : 1551228218
+Email : celesteortellado@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Envio adjunto mi CV. Me interesa formar parte de la consultora! gracias
+Security_code : rbjd8
+Send : Enviar
+
+---------------
+
+Address : 201.250.160.147
+Nombre : Celeste
+Apellido : Ortellado
+Cargo : Seleccion de personal, capacitaciones
+Direccion : Saavedra 322
+Ciudad : CABA
+Telefono : 1551228218
+Email : celesteortellado@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Envio adjunto mi CV. Me interesa formar parte de la consultora! gracias
+Security_code : rbjd8
+Send : Enviar
+
+---------------
+

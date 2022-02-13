@@ -1,0 +1,150 @@
+Address : 181.44.76.48<br>
+ <br>REF : ROT-1
+ <br>Nombre : Luis Gustavo
+ <br>Apellido : Stivanello
+ <br>Cargo : responsable de oficina tecnica
+ <br>Direccion : Quiroz 2285
+ <br>Ciudad : Ituzaingo
+ <br>Telefono : 1554982792 / 1549893632 /46616962
+ <br>Email : luisstiv@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Responsable y dispuesto a nuevos desafíos 
+ <br>Security_code : y7phc
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.213.77.35<br>
+ <br>REF : EP-1
+ <br>Nombre : Mauricio
+ <br>Apellido : Mercal  
+ <br>Cargo : encargado de produccion 
+ <br>Direccion : Buenos aires 962
+ <br>Ciudad : Villa Ballester
+ <br>Telefono : 1568814899
+ <br>Email : mau.mercal@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenos Aires, 1 de mayo de 2017
+ 
+ 
+Estimado/a Sr/s:
+               Tengo el agrado de de dirigirme a Ud/s con el objetivo de ofrecerle mi curriculum vitae con mis datos personales, profesionales y otros datos de interés buscando ser incluido en su base de datos por si se produjera alguna vacante
+               Con relación a esto, me agradaría trabajar en su empresa ya que cuento con los conocimientos técnicos para desarrollar actividades en el rubro para el cual tengo intenciones de prepararme y capacitarme, con perspectivas de crecimiento. Además, poseo un buen manejo de herramientas informáticas.
+               Mi candidatura le puede resultar de interés por los conocimientos que he adquirido hasta el momento, con objetivos de desarrollo. Estoy dispuesto a seguir aprendiendo, aportando nuevas ideas y frescura a la empresa.
+            Puede usted ponerse en contacto conmigo a través de las siguientes vías;   celular: 116881488 o mail: mau.mercal@hotmail.com
+
+Estoy a su entera disposición, aguardando una pronta respuesta.
+
+Un cordial saludo.
+
+ 
+
+ 
+
+Mauricio Mercal
+ <br>Security_code : 8wkf7
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.195.26.151<br>
+ <br>REF : ROT-1
+ <br>Nombre : Rainier Enrique
+ <br>Apellido : Salazar
+ <br>Cargo : RESPONSABLE DE OFICINA TECNICA
+ <br>Direccion : Sanchez de  Bustante 1644, aptt 2B
+ <br>Ciudad : Buenos Aire
+ <br>Telefono : 1162141814
+ <br>Email : suarezsalazar.rainierenrique@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me considero una persona responsable, trabajadora y de retos, estoy en la disponibilidad de atender cualquier oportunidad que se me pueda presentar, tengo intensiones de asumir cualquier reto que se presente.
+ <br>Security_code : y662n
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.18.173.168<br>
+ <br>REF : ACO-1
+ <br>Nombre : Alejandro
+ <br>Apellido : Fueyo
+ <br>Cargo : ANALISTA DE COMERCIO INTERNACIONAL/EXTERIOR
+ <br>Direccion : Nazarre 4540
+ <br>Ciudad : CABA
+ <br>Telefono : 4567-3334
+ <br>Email : alejandro_f06@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estoy interesado en integrarme al equipo de trabajo y aportar mis conocimientos. Poseo disponibilidad full time y muchas ganas de trabajar. Envio mi CV, porfavor contactarme por email o telefono. Muchas Gracias
+ <br>Security_code : t4g75
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.110.60.55<br>
+ <br>REF : EP-1
+ <br>Nombre : Jorge Joaquín
+ <br>Apellido : Alves
+ <br>Cargo : ENCARGADO DE PRODUCCIÓN
+ <br>Direccion : Tte. Ibañez 600
+ <br>Ciudad : Concordia
+ <br>Telefono : 3454012870
+ <br>Email : joaquin.alves@outlook.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados, les hago llegar mi CV esperando ser tenido en cuenta para esta vacante. Creo firmemente que tengo los conocimientos y las aptitudes necesarias para llevarla a cabo. Esperando recibir noticias, los saludo cordialmente. 
+
+Jorge Joaquín Alves
+ <br>Security_code : sh3gf
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.231.122.20<br>
+ <br>REF : JPER-1
+ <br>Nombre : Gabriela
+ <br>Apellido : Costa
+ <br>Cargo : Jefe de Personal o RRHH
+ <br>Direccion : Baigorria 3247
+ <br>Ciudad : Caba
+ <br>Telefono : 1158138571
+ <br>Email : gabrielamcosta@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Especialista en la gestión y estrategia de RRHH,con marcado perfil en calidad de servicio y orientada a resultados. Por favor agradeceré valorar mi trayectoria profesional.Muchas gracias
+ <br>Security_code : dh5jf
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 191.82.14.118<br>
+ <br>REF : EP-1
+ <br>Nombre : Simon
+ <br>Apellido : Barreto
+ <br>Cargo : Encargado
+ <br>Direccion : Egipto
+ <br>Ciudad : Buenos aires
+ <br>Telefono : 02204940165
+ <br>Email : Simon.barreto95@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola me postulo para encargado.soy de merlo y estoy buscando empleo soy una persona muy reponsable y muy derecha me esfuerzo en mi empeño soy metalurgico tenia operario a mi cargo .gracias
+ <br>Security_code : 9x6tj
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 152.169.159.213<br>
+ <br>REF : EP-1
+ <br>Nombre : Omar Ariel
+ <br>Apellido : Parrilla
+ <br>Cargo : Supervisor de Produccion
+ <br>Direccion : Lambare 220 (P.B.)     
+ <br>Ciudad : Avellaneda
+ <br>Telefono : 1148880350
+ <br>Email : oaparrilla@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me gustaría formar parte de su equipo de trabajo, y es por esto que respondo a la búsqueda, aguardando tener la posibilidad de concretar una entrevista a fin de poder ampliar personalmente mis datos y experiencia laboral.
+Quedando a la espera de una respuesta satisfactoria, saludo atentamente.
+
+
+ <br>Security_code : z96js
+ <br>Send : Enviar
+ <br>
+---------------
+

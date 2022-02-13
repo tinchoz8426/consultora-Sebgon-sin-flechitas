@@ -1,0 +1,46 @@
+Address : 190.225.33.145
+Nombre : maria eugenia
+Apellido : paredes
+Cargo : indiferente
+Direccion : ramos mejia 2553
+Ciudad : cordoba
+Telefono : 3513720075
+Email : eugepar@hotmail.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : cv
+Security_code : j7486
+Send : Enviar
+
+---------------
+
+Address : 201.254.175.179
+Nombre :  Pablo
+Apellido :  Eberle
+Cargo :  Repositor, vendedor, chofer u otro
+Direccion :  Camilo Gay n. 892
+Ciudad :  Azul
+Telefono :  2281-433241  - 2281-470201
+Email :  pabloeberle72@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Mis mas cordiales saludos..me encuentro desempleado, tengo muy buena presencia, trato cordial pero poca suerte en encontrar un empleo en mi ciudad, puesto que hay muy pocas ofertas laborales, soy padre de 2 niños y necesito un empleo, agradezco si me pueden ayudar.
+atte.
+Security_code : wxzhx
+Send : Enviar
+
+---------------
+
+Address : 186.58.28.165
+Nombre : Lorena 
+Apellido : Brizuela
+Cargo : Administrativa/Comprador
+Direccion : Cucha Cucha 2097
+Ciudad : Aldo Bonzi
+Telefono : 156995-8280
+Email : lvbrizu@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto mi CV para la busqueda solicitada, desde ya agradezco la lectura del mismo. 
+Security_code : dmm8v
+Send : Enviar
+
+---------------
+

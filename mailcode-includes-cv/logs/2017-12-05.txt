@@ -1,0 +1,60 @@
+Address : 66.249.85.11<br>
+ <br>Nombre : Micaela Valeria
+ <br>Apellido : Fernandez
+ <br>Cargo : Administrativa
+ <br>Direccion : Bonorino 647
+ <br>Ciudad : Mariano Acosta, partido de Merlo
+ <br>Telefono : 1159395067
+ <br>Email : mikitagrunge97@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me gustaria que me ayudaran a conseguir empleo, en el área administrativa, ya que cuento con experiencia, responsabilidad y muchas ganas de trabajar.
+ <br>Security_code : ydvfp
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 170.51.93.125<br>
+ <br>Nombre : Camila
+ <br>Apellido : Nugent Cuerio 
+ <br>Cargo : Ventas
+ <br>Direccion : Pública 3 7590
+ <br>Ciudad : Córdoba 
+ <br>Telefono : 3515189802
+ <br>Email : nugent868@gmail.com 
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola!, aqui dejo adjuntado mi curriculum , espero ansiosamente una respuesta. Saludos
+ <br>Security_code : r7372
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 200.41.197.114<br>
+ <br>Nombre : Nicolas
+ <br>Apellido : Quiros
+ <br>Cargo : higiene y seguridad
+ <br>Direccion : Barrio illia colon 4401
+ <br>Ciudad : san juan
+ <br>Telefono : 264-155260728
+ <br>Email : nicoquiros.hys@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : .
+ <br>Security_code : 4f85h
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.164.223.130<br>
+ <br>Nombre : milyenci
+ <br>Apellido : fontecha
+ <br>Cargo : diseñadora grafica
+ <br>Direccion : 12 de octubre 1683 casa num 2 providencia
+ <br>Ciudad : cordoba
+ <br>Telefono : 3515159569
+ <br>Email : milicia.grafik@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : disponibilidad full time.
+ <br>Security_code : vqmpp
+ <br>Send : Enviar
+ <br>
+---------------
+

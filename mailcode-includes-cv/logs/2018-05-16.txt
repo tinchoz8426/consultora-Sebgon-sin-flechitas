@@ -1,0 +1,26 @@
+Address : 186.23.166.23<br>
+ <br>Nombre : veronica
+ <br>Apellido : lopez
+ <br>Cargo : administracion
+ <br>Direccion : medel 244
+ <br>Ciudad : Monte Grande
+ <br>Telefono : 1140569077
+ <br>Email : verolopez421@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimada/o 
+
+Me pongo en contacto con usted para ofrecerle mi currículum con mis datos personales,  laborales y otros datos de interés, por el puesto solicitado. Como puede observar en el archivo adjunto, ya he trabajado en sectores de administración y secretaria. Si bien, en el cv publico el sueldo neto pretendido, siempre se puede conversar ya que necesito trabajar.
+Puede ponerse en contacto conmigo mediante mi  cel. (15-40569077), mi mail o tel. fijo (4284-2914). 
+Estoy a su entera disposición, esperando sus noticias.
+
+Un cordial saludo.
+
+Verónica López
+
+
+
+ <br>Security_code : 636vf
+ <br>Send : Enviar
+ <br>
+---------------
+

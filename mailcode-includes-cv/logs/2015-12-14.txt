@@ -1,0 +1,61 @@
+Address : 190.105.68.239
+REF : GTEP
+Nombre : Hernan Roberto
+Apellido : Wilkinson
+Cargo : Gerente de Planta
+Direccion : Rio de Janeiro 373
+Ciudad : Tortuguitas
+Telefono : 1557204577
+Email : hernan.wilkinson@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Licenciado en tecnologia de alimentos con mas de 20 años de experiencia en industria alimenticia
+Security_code : df44s
+Send : Enviar
+
+---------------
+
+Address : 186.158.141.155
+Nombre : ALEJANDRO MARTIN
+Apellido : CUITIÑO
+Cargo : SEGURIDAD,OPERARIO,O PLAYERO DE ESTACION DE SERVISIO
+Direccion : TRIUNVIRATO 396
+Ciudad : Cordoba
+Telefono : 351 2526257- 351 6593004
+Email : marcuiale@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : NECESITO TRABAJAR Y SE HACER DE TODO 
+Security_code : MTNM9
+Send : Enviar
+
+---------------
+
+Address : 186.158.141.155
+Nombre : ALEJANDRO MARTIN
+Apellido : CUITIÑO
+Cargo : SEGURIDAD,OPERARIO,O PLAYERO DE ESTACION DE SERVISIO
+Direccion : TRIUNVIRATO 396
+Ciudad : Cordoba
+Telefono : 351 2526257- 351 6593004
+Email : marcuiale@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : NECESITO TRABAJAR Y SE HACER DE TODO 
+Security_code : cb5r8
+Send : Enviar
+
+---------------
+
+Address : 186.135.20.119
+Nombre :  Carla
+Apellido : Galvan
+Cargo : Telefonista , Limpiesa 
+Direccion : curapaligue 1648
+Ciudad : Merlo
+Telefono : 0220-4872476
+Email : Galvan_carla@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : estoy dispuesta a aprender y progresar dia a dia en cualquier puesto de trabajo y ambiente laboral.
+Security_code : zj4g5
+Send : Enviar
+
+---------------
+

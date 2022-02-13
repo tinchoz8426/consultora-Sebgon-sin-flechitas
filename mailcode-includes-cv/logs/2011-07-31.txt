@@ -1,0 +1,53 @@
+Address : 186.58.129.109
+Nombre : Pablo
+Apellido : Simian
+Cargo : Jef Vetnras / Mkt / Planeamietno
+Direccion : Otto Bemberg 120
+Ciudad : Quilmes
+Telefono : 011 153 209 1092
+Email : simianpablo@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Mi nombre es Pablo Simian, y contacto a Uds. para acercarles mi CV y pedirles si pueden tenerme en cuenta. Muchas gracias!
+Saludos Cordiales Pablo S.
+Security_code : 99mmd
+Send : Enviar
+
+---------------
+
+Address : 186.61.2.247
+Nombre : Natalia
+Apellido : Araujo
+Cargo : Profesor de Arte
+Direccion : Obligado 2093
+Ciudad : Burzaco
+Telefono : 42141209
+Email : araujo.natalia10@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me postulo En el área de Educación.
+Security_code : 7nf8s
+Send : Enviar
+
+---------------
+
+Address : 190.172.220.157
+REF : proyectista-electronico
+Nombre : Valeria Norma
+Apellido : Becerini
+Cargo : Presentación Espontánea
+Direccion : Darregueyra 2431 8° A
+Ciudad : CABA
+Telefono : 15-5343-4734
+Email : vbecerini@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados,
+
+Les envío mi CV a los fines de que me consideren en aquellas búsquedas laborales acordes a mi perfil.
+
+Desde ya muchas gracias.
+
+Saludos cordiales
+Security_code : qnrnq
+Send : Enviar
+
+---------------
+

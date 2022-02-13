@@ -1,0 +1,248 @@
+Address : 186.158.141.142<br>
+ <br>Nombre : Ana Laura 
+ <br>Apellido : Ferreyra
+ <br>Cargo : Atencion Al Cliente
+ <br>Direccion : Bº Sep
+ <br>Ciudad : Cordoba
+ <br>Telefono : 3517694197
+ <br>Email : Laura_sep_2010@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Espero Conseguir El Trabajo Por El Cual Lo Necesito Gracias
+ <br>Security_code : Zx6hv
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.103.186.87<br>
+ <br>Nombre : Adalberto Eladio 
+ <br>Apellido : ALMIRON 
+ <br>Cargo : soldador 
+ <br>Direccion : hayti2556 Benavidez 
+ <br>Ciudad : buenos aires 
+ <br>Telefono : 1134706354
+ <br>Email : adan18_alm@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me postulo para el puesto de soldador cañista
+ <br>Security_code : 6mrbp
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 131.72.132.168<br>
+ <br>REF : GTEP
+ <br>Nombre : Fabian Horacio
+ <br>Apellido : Conde
+ <br>Cargo : Gerente de Planta
+ <br>Direccion : BARRIO PARQUE  CASA 196
+ <br>Ciudad : Sierras Bayas
+ <br>Telefono : 0228415226869
+ <br>Email : fabianh.conde@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Gerente de Planta.
+ <br>Security_code : sj8s2
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.23<br>
+ <br>REF : OEL
+ <br>Nombre : Marcelo Fabian 
+ <br>Apellido : Gutiérrez Sánchez 
+ <br>Cargo : Oficial electricista
+ <br>Direccion : Primera Junta 534 Oeste Rivadavia 
+ <br>Ciudad : San Juan 
+ <br>Telefono : 2645211000
+ <br>Email : tely_san@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Dispuesto a viajar y/o radicarme en zona de trabajo
+ <br>Security_code : w93kq
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.18<br>
+ <br>REF : OEL
+ <br>Nombre : Marcelo Fabian 
+ <br>Apellido : Gutiérrez Sánchez 
+ <br>Cargo : Oficial electricista
+ <br>Direccion : Primera Junta 534 Oeste Rivadavia 
+ <br>Ciudad : San Juan 
+ <br>Telefono : 2645211000
+ <br>Email : tely_san@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Dispuesto a viajar y/o radicarme en zona de trabajo
+ <br>Security_code : w93kq
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.18<br>
+ <br>REF : OEL
+ <br>Nombre : Marcelo Fabian 
+ <br>Apellido : Gutiérrez Sánchez 
+ <br>Cargo : Oficial electricista
+ <br>Direccion : Primera Junta 534 Oeste Rivadavia 
+ <br>Ciudad : San Juan 
+ <br>Telefono : 2645211000
+ <br>Email : tely_san@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Dispuesto a viajar y/o radicarme en zona de trabajo
+ <br>Security_code : w93kq
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.138.185.143<br>
+ <br>Nombre : Diego Ruben
+ <br>Apellido : Ferreyra
+ <br>Cargo : 1416
+ <br>Direccion : M.A.Rodriguez 1714
+ <br>Ciudad : Capital Federal
+ <br>Telefono : 0297154804947
+ <br>Email : diegrufer@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Solicitud Laboral
+ <br>Security_code : ddb6d
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.221.85.13<br>
+ <br>Nombre : gdfg
+ <br>Apellido : dgdg
+ <br>Cargo : dgdgdg
+ <br>Direccion : dgdg
+ <br>Ciudad : gdgdg
+ <br>Telefono : dgdgd
+ <br>Email : gddgd@qw.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : heh
+ <br>Security_code : 68vtx
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.164.105.20<br>
+ <br>REF : OEL
+ <br>Nombre : Dardo 
+ <br>Apellido : Gonzalez
+ <br>Cargo : Electricista 
+ <br>Direccion : Bella vista 738 
+ <br>Ciudad : Merlo- Buenos Aires
+ <br>Telefono : 1530356606
+ <br>Email : gonzalez_dic84@outlook.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Busco postularme para el puesto requerido.
+ <br>Security_code : 4rwkm
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.45.149.220<br>
+ <br>Nombre : jose juan 
+ <br>Apellido : sarabia
+ <br>Cargo : cañista
+ <br>Direccion : turia, 4730
+ <br>Ciudad : idro casanova
+ <br>Telefono : 1568309831
+ <br>Email : sarabia_meca@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : me interesa el puesto tengo experiencia
+ <br>Security_code : j85s3
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.45.149.220<br>
+ <br>Nombre : jose juan 
+ <br>Apellido : sarabia
+ <br>Cargo : cañista
+ <br>Direccion : turia, 4730
+ <br>Ciudad : idro casanova
+ <br>Telefono : 1568309831
+ <br>Email : sarabia_meca@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : me interesa el puesto tengo experiencia
+ <br>Security_code : j85s3
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.62.34.178<br>
+ <br>Nombre : Javier
+ <br>Apellido : Sosa
+ <br>Cargo : Cañista soldador
+ <br>Direccion : 5 y159 Mb F20 Pb Dto C
+ <br>Ciudad : Beraategui
+ <br>Telefono : 1136209674
+ <br>Email : jsosa095s@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas tarde. Le envió mi CV.
+Muchas gracias
+ <br>Security_code : tnpmk
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.244.82.130<br>
+ <br>Nombre : Andrés Marcelo
+ <br>Apellido : Schiattino
+ <br>Cargo : soldador
+ <br>Direccion : Echeverri 2460
+ <br>Ciudad : Hurlingham
+ <br>Telefono : 46623614
+ <br>Email : andresschiattino@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Les dejo mi C.V. para su consideración desde ya muchas gracia.-
+ <br>Security_code : 29rhw
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.62.34.178<br>
+ <br>REF : tecm
+ <br>Nombre : Javier
+ <br>Apellido : Sosa
+ <br>Cargo : Tecnico Mecanico para Mantenimiento
+ <br>Direccion : 5 y159 Mb F20 Pb Dto C
+ <br>Ciudad : Beraategui
+ <br>Telefono : 1136209674
+ <br>Email : jsosa095@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas tardes , les envió mi CV.
+Muchas gracias
+ <br>Security_code : 394gh
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.182.161.23<br>
+ <br>Nombre : esteban anibal
+ <br>Apellido : benitez 
+ <br>Cargo : herrero
+ <br>Direccion : cuzco 735
+ <br>Ciudad : hurlimgham
+ <br>Telefono : 21958789
+ <br>Email : estebananibalbenitez@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : me encuentro en un momento de mi vida de busqueda de superacion ,tanto a nivel profecional como personal.soy una persona proactiva,responsable y onesta.
+ <br>Security_code : hp4qw
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.182.161.23<br>
+ <br>Nombre : esteban anibal
+ <br>Apellido : benitez 
+ <br>Cargo : soldador
+ <br>Direccion : cuzco 735
+ <br>Ciudad : bs. as.
+ <br>Telefono : 21958789
+ <br>Email : estebananibalbenitez@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : me encuentro en un momento de mi vida de superacion.tanto a nivel profecional como personal.soy una persona proactiva,responsable y onesta.
+ <br>Security_code : djkrd
+ <br>Send : Enviar
+ <br>
+---------------
+

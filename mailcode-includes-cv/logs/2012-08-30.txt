@@ -1,0 +1,62 @@
+Address : 190.226.91.177
+Nombre : Lara
+Apellido : Machuca
+Cargo : Administrativo
+Direccion : 17 de agosto 1584
+Ciudad : Martin Coronado
+Telefono : 1544184423
+Email : laramachuca@hotmail.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : mi nombre es lara y me gustaría poder conseguir   un trabajo que me permita estudiar y pagarme los estudios.
+Security_code : n8bqd
+Send : Enviar
+
+---------------
+
+Address : 190.179.131.1
+Nombre : Agustina
+Apellido : Cepeda
+Cargo : Promotora
+Direccion : Antartida Argentina 632
+Ciudad : Mendoza
+Telefono : 2615166450
+Email : aguscepeda@live.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Envio mi cv con el fin de ser tenida en cuenta para promociones de eventos en la Ciudad de Mendoza. Muchas Gracias
+Security_code : vgwpp
+Send : Enviar
+
+---------------
+
+Address : 201.253.169.71
+Nombre : Daiana
+Apellido : Artigué
+Cargo : Visitadora social
+Direccion : Las Camelias 6752
+Ciudad : Loma Hermosa, San Martin.Buenos Aires.
+Telefono : 1561769823
+Email : daia086@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto mi currículum vitae a fin de que puedan tenerme en cuenta en caso de existir una búsqueda vigente, cualquier consulta podrán comunicarse por mail o al teléfono que figura en mis datos.Desde ya muchas gracias, Artigué Daiana.
+Security_code : nmggd
+Send : Enviar
+
+---------------
+
+Address : 190.51.110.211
+Nombre : Eliana Cecilia
+Apellido : Luongo
+Cargo : consultora
+Direccion : Cavia 119
+Ciudad : Lomas del Mirador
+Telefono : 1134357885
+Email : eliana.c.luongo@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Soy la Lic. en Psicología Eliana Cecilia Luongo. 
+Envío mi CV con interés en ser contactada para unirme al equipo de trabajo de la consultora.
+Con intenciones de desarrollarme y crecer profesionalmente, con capacidad, compromiso y responsabilidad, quedo a la espera de su respuesta para mantener un contacto próximo.
+Security_code : zrf2v
+Send : Enviar
+
+---------------
+

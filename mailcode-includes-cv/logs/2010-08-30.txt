@@ -1,0 +1,166 @@
+Address : 186.56.161.171
+REF : adper
+Nombre : IVAN
+Apellido : GOMEZ
+Cargo : ADMINISTRATIVO DE PERSONAL
+Direccion : ANIBAL TROILO 942
+Ciudad : CAPITAL FEDERAL
+Telefono : (011) 1551612441
+Email : ivanvictorgomez@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : me postulo para el aviso de Administrativo de personal y quedo a su disposicion para ampliar la informacion que considere necesaria
+Security_code : twmhm
+Send : Enviar
+
+---------------
+
+Address : 190.174.142.207
+Nombre : Laura Silvana
+Apellido : Inzaurralde
+Cargo : Atención Telefónica
+Direccion : Thevenin 1736
+Ciudad : Autónoma de Buenos Aires
+Telefono : 15-6798-7460
+Email : lauritainza@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Señores de Recursos Humanos,  Les hago llegar mi CV. Con el objetivo que sea tenido en cuenta para futuras búsquedas laborales en la compañía. Atte.
+
+Laura Silvana Inzaurralde
+
+Security_code : 43pky
+Send : Enviar
+
+---------------
+
+Address : 190.50.215.79
+Nombre : DANIELA MARIEL
+Apellido : SLIAK
+Cargo : SECRETARIA
+Direccion : GRANADREROS 368
+Ciudad : BUENOS AIRES
+Telefono : 1538018963
+Email : sliak_daniela@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : A quien corresponda:
+
+Expongo mi Curriculum con el fin que ustedes puedan conocer sobre las areas que me he desempeñado en trabajos anteriores y asi poder saber si mi perfil da con lo que ustedes estan buscando para su oferta laboral.
+Mis conocimientos estan en el trato con el cliente ya sea generando nuevos o respondiendo a las necesidades de los actuales, cuento con una cartera propia de clientes de ser util.
+Ademas me he desarrollado en el area de cajas ( Arqueo, posnet, notas de credito ), soy una persona responsable y dedicada a mi puesto de trabajo. 
+Tambien tareas administrativas generales, confeccion de ordenes de pago, recibos, facturacion, manejo de sistemas de cobro (MSI, PLUS), trato con proveedores, pago a los mismos, ctas.ctes.,prevision de cobro. 
+Estan a su disposicion los telefonos de mis trabajos anteriores donde pueden pedir referencias. 
+Mi objetivo es trabajar en un ambiente agradable donde pueda desarrollarme alcanzando los objetivos que se me requieran y donde pueda adquirir nuevos conocimintos para asi crecer como persona. 
+ 
+Sin mas y aguardando una pronta respuesta, los saludo atte. 
+                        
+Security_code : 2y2h5
+Send : Enviar
+
+---------------
+
+Address : 186.13.24.81
+Nombre : Leonardo
+Apellido : Hernandez
+Cargo : Lic. en Higiene y Seguridad
+Direccion : Lamadrid 598 Cp:5500
+Ciudad : Mendoza
+Telefono : 0261 1546719413
+Email : leohernandezar@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Disponibilidad para viajar y reubicarme.
+
+Security_code : qpb42
+Send : Enviar
+
+---------------
+
+Address : 190.220.163.125
+Nombre : sgfd
+Apellido : sdgda
+Cargo : dgdfg
+Direccion : dfgfdg 5 2357
+Ciudad : ytrh
+Telefono : 527827272
+Email : rge@gbhfh
+MAX_FILE_SIZE : 2097152
+Mensaje : bfgngngh
+Security_code : yi3rt
+Send : Enviar
+
+---------------
+
+Address : 190.55.203.240
+Nombre : sdf
+Apellido : sdfs
+Cargo : fds
+Direccion : dfsdf
+Ciudad : fsdf
+Telefono : sdfsd
+Email : sdfsd
+MAX_FILE_SIZE : 2097152
+Mensaje : sdfsd
+Security_code : 5qt38
+Send : Enviar
+
+---------------
+
+Address : 190.220.163.125
+Nombre : hgh
+Apellido : hghg
+Cargo : jhgkjhb
+Direccion : hjgkjhb
+Ciudad : hghb
+Telefono : 546541564
+Email : hgb@jioj
+MAX_FILE_SIZE : 2097152
+Mensaje : hg
+Security_code : f353h
+Send : Enviar
+
+---------------
+
+Address : 190.55.203.240
+REF : gerente-financiero
+Nombre : d
+Apellido : f
+Cargo : fgd
+Direccion : dfg
+Ciudad : dgfd
+Telefono : gdfg
+Email : dfgd
+MAX_FILE_SIZE : 2097152
+Mensaje : dgfgdf
+Security_code : 5cj2x
+Send : Enviar
+
+---------------
+
+Address : 190.220.163.125
+Nombre : hgfhg
+Apellido : dfghj
+Cargo : fghj
+Direccion : fghj
+Ciudad : ghjk
+Telefono : 85252852
+Email : gthjk,@iojop
+MAX_FILE_SIZE : 2097152
+Mensaje : yughuyh
+Security_code : sb28b
+Send : Enviar
+
+---------------
+
+Address : 186.56.194.254
+Nombre : luis americo
+Apellido : criscuolo
+Cargo : tecnico mecanico
+Direccion : independencia 1539
+Ciudad : merlo
+Telefono : 0220-4823790
+Email : carusiguevivo@hotmail.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : soy tecnico mecanico de mantenimiento de planta, me interesa postularme para sus avisos en la zona de merlo
+Security_code : 8b4k5
+Send : Enviar
+
+---------------
+

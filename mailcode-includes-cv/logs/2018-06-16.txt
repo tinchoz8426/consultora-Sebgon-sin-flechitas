@@ -1,0 +1,50 @@
+Address : 181.16.71.154<br>
+ <br>REF : JPER-1
+ <br>Nombre : Gustavo
+ <br>Apellido : Cordero
+ <br>Cargo : Jefe de personal
+ <br>Direccion : Belgrano
+ <br>Ciudad : Escobar
+ <br>Telefono : 1555787140
+ <br>Email : pgustavocordero@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Adjunto CV a los efectos de ser tenido en cuenta en proceso de selección.
+ <br>Security_code : b284z
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.122.14.179<br>
+ <br>REF : EP-1
+ <br>Nombre : eduardo claudio
+ <br>Apellido : hermida
+ <br>Cargo : encargado de produccion
+ <br>Direccion : luis buzzi 456
+ <br>Ciudad : general las heras-pcia bs.as.
+ <br>Telefono : 2227 531355
+ <br>Email : ecghermida@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Aplicar toda mi experiencia y capacidad en industrias del rubro alimenticio
+ <br>Security_code : f459y
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.183.77.228<br>
+ <br>REF : SP-1
+ <br>Nombre : jorge horacio
+ <br>Apellido : navarro
+ <br>Cargo : supervisor produccion
+ <br>Direccion : 3 de febrero 343
+ <br>Ciudad : ezeiza
+ <br>Telefono : 1135801946
+ <br>Email : jorge.navarro46@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje :            Mando medio con más de 30 años de experiencia en las áreas de programación, manufactura, producción, mantenimiento, arranque de planta y   líneas de producción. Capacitación de personal a cargo, gran capacidad para desarrollar soluciones operativas a problemas inmediatos y áreas de oportunidad ,normas ISO. Habilidad para establecer buena relación con equipos de trabajo y mandos directos. 
+         Compromiso, responsabilidad, capacidad de desempeño en producción y manufactura  distintos rubros .
+
+ <br>Security_code : 4m2nv
+ <br>Send : Enviar
+ <br>
+---------------
+

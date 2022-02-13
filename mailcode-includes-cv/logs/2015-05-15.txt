@@ -1,0 +1,72 @@
+Address : 201.235.235.129
+Nombre : Lara
+Apellido : Osolinski
+Cargo : Comunicación Jr, administrativo.
+Direccion : cervantes 3148
+Ciudad : Capital Federal
+Telefono : 1132746396
+Email : lara.osolinski@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola, mi nombre es Lara Osolinski, adjunto mi cv para postularme para cualquier puesto en el sector comunicación o administración/auxiliar.
+ 
+Soy Licenciada en Ciencias de la Comunicación y me recibí hace un mes, por ello me encuentro activa en la búsqueda laboral.
+
+Desde ya muchas gracias, Lara.
+Security_code : xrw5b
+Send : Enviar
+
+---------------
+
+Address : 201.235.235.129
+Nombre : Lara
+Apellido : Osolinski
+Cargo : Comunicación Jr, administrativo.
+Direccion : cervantes 3148
+Ciudad : Capital Federal
+Telefono : 1132746396
+Email : lara.osolinski@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola, mi nombre es Lara Osolinski, adjunto mi cv para postularme para cualquier puesto en el sector comunicación o administración/auxiliar.
+ 
+Soy Licenciada en Ciencias de la Comunicación y me recibí hace un mes, por ello me encuentro activa en la búsqueda laboral.
+
+Desde ya muchas gracias, Lara.
+Security_code : xrw5b
+Send : Enviar
+
+---------------
+
+Address : 201.235.235.129
+Nombre : Lara
+Apellido : Osolinski
+Cargo : Comunicación Jr, administrativo.
+Direccion : cervantes 3148
+Ciudad : Capital Federal
+Telefono : 1132746396
+Email : lara.osolinski@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola, mi nombre es Lara Osolinski, adjunto mi cv para postularme para cualquier puesto en el sector comunicación o administración/auxiliar.
+ 
+Soy Licenciada en Ciencias de la Comunicación y me recibí hace un mes, por ello me encuentro activa en la búsqueda laboral.
+
+Desde ya muchas gracias, Lara.
+Security_code : b8wzm
+Send : Enviar
+
+---------------
+
+Address : 186.182.229.102
+Nombre : Fernanda
+Apellido : Barrios
+Cargo : administrativa
+Direccion : Eduardo Porrini 207
+Ciudad : Buenos Aires
+Telefono : 1535863420
+Email : Fer_floresta90@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me gustaria poder ser util y cumplir con mis tareas asignadas, aprender de ellas y progresar en lo personal.
+Security_code : 37xyq
+Send : Enviar
+
+---------------
+

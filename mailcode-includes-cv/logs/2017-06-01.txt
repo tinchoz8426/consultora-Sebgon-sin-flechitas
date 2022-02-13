@@ -1,0 +1,443 @@
+Address : 186.137.77.62<br>
+ <br>Nombre : Julian
+ <br>Apellido : Dramisino
+ <br>Cargo : Administrativo o Ventas
+ <br>Direccion : Haedo
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 1536650738
+ <br>Email : julian.personalt@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Adjunto mi CV para algún puesto vacante que exista tanto de un perfil comercial y de ventas , como también administrativo.
+ <br>Security_code : v32ks
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.47.136.50<br>
+ <br>Nombre : Ivan maximiliano
+ <br>Apellido : Ohannecian
+ <br>Cargo : Chofer 
+ <br>Direccion : Rafael de sanzio 2141
+ <br>Ciudad : Buenos aires
+ <br>Telefono : 15559580096
+ <br>Email : bohemio2214@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Necesito el trabajo 
+ <br>Security_code : Ncr5v
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.174.49.150<br>
+ <br>REF : ACO
+ <br>Nombre : Carlos 
+ <br>Apellido : Lizasuain
+ <br>Cargo : ASISTENTE COMERCIAL
+ <br>Direccion : 14a n 667
+ <br>Ciudad : City Bell
+ <br>Telefono : 0221156138194
+ <br>Email : darth_72@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : presento mi CV
+ <br>Security_code : yqqc4
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.174.49.150<br>
+ <br>REF : EP-1
+ <br>Nombre : Carlos 
+ <br>Apellido : Lizasuain
+ <br>Cargo : ENCARGADO DE PRODUCCIÓN
+ <br>Direccion : 14a n 667 
+ <br>Ciudad : City Bell
+ <br>Telefono : 0221156138194
+ <br>Email : darth_72@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : presento mi cv 
+ <br>Security_code : jxsy9
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.45.101.54<br>
+ <br>Nombre : Paula
+ <br>Apellido : Cadeiras
+ <br>Cargo : Comercio Exterior
+ <br>Direccion : Florencio Varela 2696, San Justo
+ <br>Ciudad : San Justo 
+ <br>Telefono : 1154826860
+ <br>Email : paulacadeiras@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados, 
+
+Me dirijo a ustedes con el fin de derivarles mi CV para ser tenida en cuenta en alguna de sus actuales búsquedas a las cuales mi perfil se ajuste. 
+
+Desde ya muchas gracias,
+
+Un cordial saludo,
+
+Paula Cadeiras
+ <br>Security_code : zjrms
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.189.92.207<br>
+ <br>REF : chr
+ <br>Nombre : Jorge antonio
+ <br>Apellido : Rivis
+ <br>Cargo : Chofer 
+ <br>Direccion : Argentina 1349
+ <br>Ciudad : Ramos mejia
+ <br>Telefono : 1137783280
+ <br>Email : jorgerivis78@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Tengo 38 años y estoy en busca de trabajo desde hace 1 año y medio tgolicencia d cargas generales y estoy dispuesto a cumplir con la metodologia de trabajo
+ <br>Security_code : 9cwsk
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 191.84.102.132<br>
+ <br>REF : chr
+ <br>Nombre : Emiliano 
+ <br>Apellido : Wusinowski 
+ <br>Cargo : Chófer 
+ <br>Direccion : Carlos Casares 3687
+ <br>Ciudad : Isidro Casanova 
+ <br>Telefono : 1134807916
+ <br>Email : emi87gasti@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Wusinowski Emiliano 
+
+29.038.248
+
+05/08/81
+
+Argentino 
+
+Concubinato
+
+2 hijas
+
+Carlos Casares 3687
+
+Isidro Casanova 
+
+C.P 1757
+
+Celu 1134807916
+
+Reg profesional hasta D2
+
+
+Secundario completo
+
+
+Fca escaleras
+
+Operario
+
+San justo
+
+2002-2003
+
+
+Gráfica Celomat
+
+Operario
+
+Villa martelli
+
+2003-2004
+
+
+Fca Oblak
+
+Operario-sector vidrio
+
+Virrey del pino
+
+2005-2007
+
+
+Soderia Ivess 
+
+Ayudante reparto 
+
+Virrey del pino
+
+2008
+
+
+Soderia Ivess
+
+Ayudante de reparto
+
+Suplente repartidor
+
+Ciudadela
+
+2009-2011
+
+
+Soderia Fama
+
+Chofer reparto
+
+Flores
+
+2011-2012
+
+
+Soderia Chispal
+
+Chofer reparto
+
+Suplente reparto
+
+Hojas de ruta 
+
+2012-2017
+
+
+Conocimiento en calles, trato con el cliente, remito, factura, cobro y sumilar.
+ <br>Security_code : Cbjnq
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 191.84.102.132<br>
+ <br>REF : chr
+ <br>Nombre : Emiliano 
+ <br>Apellido : Wusinowski 
+ <br>Cargo : Chófer 
+ <br>Direccion : Carlos Casares 3687
+ <br>Ciudad : Isidro Casanova 
+ <br>Telefono : 1134807916
+ <br>Email : emi87gasti@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Wusinowski Emiliano 
+
+29.038.248
+
+05/08/81
+
+Argentino 
+
+Concubinato
+
+2 hijas
+
+Carlos Casares 3687
+
+Isidro Casanova 
+
+C.P 1757
+
+Celu 1134807916
+
+Reg profesional hasta D2
+
+
+Secundario completo
+
+
+Fca escaleras
+
+Operario
+
+San justo
+
+2002-2003
+
+
+Gráfica Celomat
+
+Operario
+
+Villa martelli
+
+2003-2004
+
+
+Fca Oblak
+
+Operario-sector vidrio
+
+Virrey del pino
+
+2005-2007
+
+
+Soderia Ivess 
+
+Ayudante reparto 
+
+Virrey del pino
+
+2008
+
+
+Soderia Ivess
+
+Ayudante de reparto
+
+Suplente repartidor
+
+Ciudadela
+
+2009-2011
+
+
+Soderia Fama
+
+Chofer reparto
+
+Flores
+
+2011-2012
+
+
+Soderia Chispal
+
+Chofer reparto
+
+Suplente reparto
+
+Hojas de ruta 
+
+2012-2017
+
+
+Conocimiento en calles, trato con el cliente, remito, factura, cobro y sumilar.
+ <br>Security_code : Tsbw9
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 191.84.102.132<br>
+ <br>Nombre : Emiliano 
+ <br>Apellido : Wusinowski 
+ <br>Cargo : Chófer 
+ <br>Direccion : Carlos Casares 3687
+ <br>Ciudad : Isidro Casanova 
+ <br>Telefono : 1134807916
+ <br>Email : emi87gasti@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Wusinowski Emiliano 
+
+29.038.248
+
+05/08/81
+
+Argentino 
+
+Concubinato
+
+2 hijas
+
+Carlos Casares 3687
+
+Isidro Casanova 
+
+C.P 1757
+
+Celu 1134807916
+
+Reg profesional hasta D2
+
+
+Secundario completo
+
+
+Fca escaleras
+
+Operario
+
+San justo
+
+2002-2003
+
+
+Gráfica Celomat
+
+Operario
+
+Villa martelli
+
+2003-2004
+
+
+Fca Oblak
+
+Operario-sector vidrio
+
+Virrey del pino
+
+2005-2007
+
+
+Soderia Ivess 
+
+Ayudante reparto 
+
+Virrey del pino
+
+2008
+
+
+Soderia Ivess
+
+Ayudante de reparto
+
+Suplente repartidor
+
+Ciudadela
+
+2009-2011
+
+
+Soderia Fama
+
+Chofer reparto
+
+Flores
+
+2011-2012
+
+
+Soderia Chispal
+
+Chofer reparto
+
+Suplente reparto
+
+Hojas de ruta 
+
+2012-2017
+
+
+Conocimiento en calles, trato con el cliente, remito, factura, cobro y sumilar.
+ <br>Security_code : 98w22
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.138.203.44<br>
+ <br>REF : ACO
+ <br>Nombre : Paula Verónica
+ <br>Apellido : Fernandez Grossi
+ <br>Cargo : Asistente comercial
+ <br>Direccion : Hidalgo 352
+ <br>Ciudad : CABA
+ <br>Telefono : 1554937299
+ <br>Email : paula.fernandez.grossi@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Agradezco que me tomen en cuenta para coordinar una entrevista y conocerme. Saludos cordiales.
+ <br>Security_code : 4ykq9
+ <br>Send : Enviar
+ <br>
+---------------
+

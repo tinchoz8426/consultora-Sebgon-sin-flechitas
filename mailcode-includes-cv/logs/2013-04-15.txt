@@ -1,0 +1,75 @@
+Address : 190.2.122.241
+Nombre : LORENA 
+Apellido : RUARTE
+Cargo : SOCIOAMBIENTALES SALTA
+Direccion : LOS MANZANOS 2065
+Ciudad : Salta Capital
+Telefono : 0387-154115506
+Email : fundacionalamo@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : BUENOS DIAS QUISIERA SABER EN DONDE ME PUEDO POSTULAR PARA REALIZAR LOS SOCIOAMBIANTALES AQUI EN SALTA.TENG AMPLIA EXPERIENCIA EN ENCUESTAS.GRACIAS 
+Security_code : rqcfh
+Send : Enviar
+
+---------------
+
+Address : 190.51.86.79
+Nombre : matias leonel blas
+Apellido : rojas
+Cargo : -
+Direccion : paso de los libres 375
+Ciudad : ituzaingo 
+Telefono : 44584136
+Email : matiasrojas12@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : -
+Security_code : gcktd
+Send : Enviar
+
+---------------
+
+Address : 190.231.113.196
+Nombre : Facundo Manuel
+Apellido : Gonzalez
+Cargo : atención al cliente, ventas, comercial
+Direccion : villarroel 1386 depto 1
+Ciudad : villa crespo
+Telefono : 48575313
+Email : gonzalezfaku@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Brindar mis conocimientos y experiencias a esta empresa para contribuir al desarrollo tanto de esta, como el mío a nivel personal y profesional.
+Security_code : 94jdr
+Send : Enviar
+
+---------------
+
+Address : 190.111.205.66
+Nombre : YESICA NOEMI
+Apellido : GONZALEZ
+Cargo : ventas, atencion alcliente, recepcionista,
+Direccion : la finur 1256
+Ciudad : buenos aires
+Telefono : 1553476384
+Email : gonzalezyes@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : me gustaria q se pongan en contacto cuando tengan una propuesta
+Security_code : 29hwp
+Send : Enviar
+
+---------------
+
+Address : 190.111.205.66
+Nombre : yesica 
+Apellido : gonzalez
+Cargo : ventas, atencion alcliente, recepcionista,
+Direccion : la finur 1256
+Ciudad : buenos aires
+Telefono : 1553476384
+Email : gonzalezyes@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : por favor ponerse en contacto cuando tienen alguna propuesta.. gracias
+Security_code : f6xmj
+Send : Enviar
+
+---------------
+

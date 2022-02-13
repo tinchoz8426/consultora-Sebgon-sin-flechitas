@@ -1,0 +1,52 @@
+Address : 186.133.160.77
+Nombre : Maria Celeste
+Apellido : Cambiaso
+Cargo : Abogada
+Direccion : 82-2845
+Ciudad : Necochea
+Telefono : (02262) 424864
+Email : celecambiaso@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estoy en busca de un trabajo donde pueda aprender mas y demostrar lo aprendido en mi carrera universitaria.
+Security_code : xr2jm
+Send : Enviar
+
+---------------
+
+Address : 201.255.161.22
+Nombre : Silvina
+Apellido : Flolasco
+Cargo : Cadete/Administración/Pasantía 
+Direccion : Castillo, manzana 5 - dúplex 19, Barrio Viplastic
+Ciudad : Longchamps
+Telefono : (011)(4297-3921)
+Email : s.flolasco@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimadas/os sras/es:
+
+Me encuentro en situación de búsqueda laboral para lograr experiencia tanto personal como profesional. Debido a mi corta edad (diecinueve años) y a mis estudios actuales (Relaciones del Trabajo en la U.B.A.) me encantaría formar parte de su empresa mediante una pasantía, como cadete o en sector de administración  Si ustedes se encuentran buscando tal, o requieren de mis conocimientos, podemos concretar una entrevista personal.
+
+Desde ya, muchas gracias por su atención.
+
+Silvina Flolasco.
+
+Security_code : ydrxs
+Send : Enviar
+
+---------------
+
+Address : 190.176.253.69
+Nombre : Juan Ignacio
+Apellido : Poma
+Cargo : cualqiera
+Direccion : misioneros 454
+Ciudad : bahia blanca
+Telefono : 02914816086
+Email : juani.pomaa@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estoy buscando cualquier trabajo ya que necesito trabajar.Soy joven responsable con buena predispociciòn
+Security_code : whc2j
+Send : Enviar
+
+---------------
+

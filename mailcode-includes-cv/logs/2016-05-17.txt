@@ -1,0 +1,102 @@
+Address : 181.47.99.56<br>
+ <br>REF : JPL
+ <br>Nombre : Sebastian Ariel
+ <br>Apellido : Manchado
+ <br>Cargo : Jefe de Planta
+ <br>Direccion : Yatay 775 piso 8 depto D.
+ <br>Ciudad : CABA
+ <br>Telefono : 1569781606
+ <br>Email : se.manchado@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Actualmente me encuentro desarrollando trabajos de consultoria técnica para empresas industriales, tales como start up y montaje de líneas de producción. Tambien me he desempeñado como Jefe de producción y Jefe de planta. Poseo excelentes conocimientos en manejo de grupos numerosos de trabajo, gestión de Proyectos de Mejora continua y reingeniería de procesos de plantas de producción. Poseo capacidad de liderazgo, orientación a resultados, relaciones interpersonales, comunicación, proactividad y resolución de problemas.
+
+Saludos
+Sebastian M.
+
+ <br>Security_code : 2v5qf
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.19.79.12<br>
+ <br>Nombre : Carlos alberto 
+ <br>Apellido : Gonzalez
+ <br>Cargo : encargado de deposito, operario de deposito
+ <br>Direccion : av.alberdi 101 ,caballito
+ <br>Ciudad : buenos aires
+ <br>Telefono : 1562146775
+ <br>Email : carlos_cag@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : buenos dias:
+adjunto mi curriculum para que me puedan conocer.
+muchas gracias
+ <br>Security_code : zmqq4
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 191.81.65.158<br>
+ <br>Nombre : Anibal   Daniel
+ <br>Apellido : Caceres
+ <br>Cargo : operario, cajero, repositor, atencion al publico
+ <br>Direccion : profesor maxer 1255
+ <br>Ciudad : luis guillon
+ <br>Telefono : 1531759511
+ <br>Email : danielcaceres.mg84@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : amplia disponibilidad horaria. resido en zona sur. tengo 32 años
+ <br>Security_code : rt5nf
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.14.185.85<br>
+ <br>Nombre : Diana
+ <br>Apellido : Sanchez
+ <br>Cargo : analista calidad - responsable
+ <br>Direccion : Vuelta de obligado
+ <br>Ciudad : CABA
+ <br>Telefono : 1537625655
+ <br>Email : diamarc_oviedo@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Adjunto mi curriculum Ingeniera en alimentos con maestria en bromatologia de alimentos
+ <br>Security_code : 93t9s
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.194.72.208<br>
+ <br>Nombre : Nicolás
+ <br>Apellido : Lorenzo
+ <br>Cargo : Seguridad e higiene
+ <br>Direccion : ohiggins 2368
+ <br>Ciudad : Lanus
+ <br>Telefono : 1553691971
+ <br>Email : lorenzonicolas2012@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola, buenas tardes, mi nombre es Nicolás Lorenzo, soy estudiante avanzado en la carrera técnico en seguridad e higiene.
+Me estoy comunicando con ustedes para postularme para alguna pasantía o algún tipo de empleo para empezar a relacionarme en el área, conocer y aprender mas sobre la carrera. Estaria muy agradecido si me dieran dicha oportunidad.
+
+Saludo atentamente Nicolás Lorenzo
+
+ <br>Security_code : xnzdv
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.47.29.38<br>
+ <br>REF : OEL
+ <br>Nombre : Sergio Adrian
+ <br>Apellido : Goler
+ <br>Cargo : Oficial electricista
+ <br>Direccion : Av. San Martin 2803 13 A
+ <br>Ciudad : CABA
+ <br>Telefono : 0111551271891
+ <br>Email : sergoler@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : A la espera de una entrevista, lo saludo.
+ <br>Security_code : r3rrc
+ <br>Send : Enviar
+ <br>
+---------------
+

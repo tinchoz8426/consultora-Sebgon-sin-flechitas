@@ -1,0 +1,147 @@
+Address : 
+Nombre : Leonardo
+Apellido : Vieytes
+Cargo : Medios
+Direccion : La Pampa 3987 PB B
+Ciudad : CABA
+Telefono : 1145521763
+Email : leovieytes@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados: 
+Me contacto para que conozcan mi perfil y características profesionales.
+ 
+Estoy en búsqueda activa de nuevas oportunidades, con posibilidad de incorporarme a un proyecto de manera efectiva  o  free lance. 
+Me adapto bien a cualquiera de las dos condiciones.
+ 
+Tengo sólida experiencia en Management y desarrollo integral de proyectos, programación, producción y lanzamiento de canales.
+Me gustan los desafíos, soy tenaz, organizado, minucioso, constante, trabajo siempre orientado a resultados.     
+En mi CV se detalla mi expertise profesional.
+En caso de adecuarse a algún requerimiento me gustaría acceder a una entrevista personal.
+ 
+Saludos cordiales,
+Leonardo Vieytes
+Security_code : b7gbg
+Send : Enviar
+
+---------------
+
+Address : 
+Nombre : Soledad Noemi
+Apellido : Mendoza
+Cargo : ADMINISTRATIVA
+Direccion : calle 606 numero 110
+Ciudad : Berazategui
+Telefono : 1558682140
+Email : soledad.noemi@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Busco un empleo que me ayude a continuar mis estudios, tengo disponibilidad full time con posibilidades de horarios rotativos.
+Security_code : w3xw2
+Send : Enviar
+
+---------------
+
+Address : 
+Nombre : Soledad Noemi
+Apellido : Mendoza
+Cargo : Administrativa
+Direccion : calle 606 numero 110
+Ciudad : Berazategui
+Telefono : 1558682140
+Email : soledad.noemi@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Busco un empleo que me ayude a continuar mis estudios, tengo disponibilidad full time.
+Security_code : tc3pt
+Send : Enviar
+
+---------------
+
+Address : 
+Nombre : Nilda Karina
+Apellido : Gomez
+Cargo : 
+Direccion : Talcahuano 4105, Lanus Oeste
+Ciudad : Bs.As
+Telefono : 1135655679
+Email : Patokg2630@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Espero lean este mensaje y se comuniquen conmigo,para saber de mis capacidades e interés laboral. Dios los bendiga, buenas noches
+Security_code : 8tt5r
+Send : Enviar
+
+---------------
+
+Address : 
+Nombre : Nilda Karina
+Apellido : Gomez
+Cargo : 
+Direccion : Talcahuano 4105, Lanus Oeste
+Ciudad : Bs.As
+Telefono : 1135655679
+Email : Patokg2630@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Espero lean este mensaje y se comuniquen conmigo,para saber de mis capacidades e interés laboral. Dios los bendiga, buenas noches
+Security_code : 8tt5r
+Send : Enviar
+
+---------------
+
+Address : 
+Nombre : Nilda Karina
+Apellido : Gomez
+Cargo : 
+Direccion : Talcahuano 4105, Lanus Oeste
+Ciudad : Bs.As
+Telefono : 1135655679
+Email : Patokg2630@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Espero lean este mensaje y se comuniquen conmigo,para saber de mis capacidades e interés laboral. Dios los bendiga, buenas noches
+Security_code : 8tt5r
+Send : Enviar
+
+---------------
+
+Address : 
+Nombre : Nilda Karina
+Apellido : Gomez
+Cargo : 
+Direccion : Talcahuano 4105, Lanus Oeste
+Ciudad : Bs.As
+Telefono : 1135655679
+Email : Patokg2630@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Espero lean este mensaje y se comuniquen conmigo,para saber de mis capacidades e interés laboral. Dios los bendiga, buenas noches
+Security_code : 8tt5r
+Send : Enviar
+
+---------------
+
+Address : 
+Nombre : Nilda Karina
+Apellido : Gomez
+Cargo : 
+Direccion : Talcahuano 4105, Lanus Oeste
+Ciudad : Bs.As
+Telefono : 1135655679
+Email : Patokg2630@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Espero lean este mensaje y se comuniquen conmigo,para saber de mis capacidades e interés laboral. Dios los bendiga, buenas noches
+Security_code : 8tt5r
+Send : Enviar
+
+---------------
+
+Address : 
+Nombre : Nilda Karina
+Apellido : Gomez
+Cargo : 
+Direccion : Talcahuano 4105, Lanus Oeste
+Ciudad : Bs.As
+Telefono : 1135655679
+Email : Patokg2630@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Espero lean este mensaje y se comuniquen conmigo,para saber de mis capacidades e interés laboral. Dios los bendiga, buenas noches
+Security_code : 8tt5r
+Send : Enviar
+
+---------------
+

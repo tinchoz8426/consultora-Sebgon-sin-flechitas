@@ -1,0 +1,53 @@
+Address : 190.225.118.61
+Nombre : JUAN JOSE MARIA 
+Apellido : DOMINGO
+Cargo : GERENTE O JEFE PLANTAS DE ACOPIO DE CEREALES
+Direccion : MORENO 853
+Ciudad : GÀLVEZ   PCIA. SANTA FE
+Telefono : 03476 15552056
+Email : juanjosemdomingo@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados. ruego por favor considerar mi CV Soy una persona muy capaz y con gran vocaciôn de trabajo.
+muchas gracias.
+jjmd.
+Security_code : rgrh7
+Send : Enviar
+
+---------------
+
+Address : 186.18.158.160
+Nombre : GUILLERMO RAUL
+Apellido : CABANA
+Cargo : JEFE DE IMPUESTOS
+Direccion : JOSE I. RUCCI 4524
+Ciudad : CABA
+Telefono : 15-6738-7586
+Email : guille.cabana@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenas tardes,
+Adjunto mi CV para que pueda ser tenido en cuenta en futuras búsquedas laborales acordes a mi perfil 
+
+Gracias
+Guillermo
+Security_code : gy9c7
+Send : Enviar
+
+---------------
+
+Address : 190.177.209.233
+REF : administrativa-compras
+Nombre : fernanda
+Apellido : silva
+Cargo : administrativa de compras
+Direccion : San Antonio 1007
+Ciudad : merlo 
+Telefono : 02204863888
+Email : ferchusami@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : con aspiraciones al puesto de trabajo con buen manejo de personal amplia experiencia en el campo (6 años comprobables)
+
+Security_code : j735j
+Send : Enviar
+
+---------------
+

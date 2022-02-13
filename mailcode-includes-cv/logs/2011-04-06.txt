@@ -1,0 +1,30 @@
+Address : 190.137.43.69
+Nombre : Manuel Alberto
+Apellido : Lucero
+Cargo : Venta
+Direccion : Blacarce 146 3ro "A"
+Ciudad : Tucumàn
+Telefono : 0381156468179
+Email : manuellucerov@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estoy interesado en formar parte de una empresa seria y con posibilidades de crecimiento econòmico laboral.
+Security_code : g52yn
+Send : Enviar
+
+---------------
+
+Address : 190.48.213.106
+Nombre : Agustina
+Apellido : Cortese
+Cargo : vendedora, promovendedora, atencion al publico.
+Direccion : fasola 579
+Ciudad : haedo
+Telefono : 46503485
+Email : agustinitacortese@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Busco empleo medio dia, preferentemente por la mañana disponibilidad full time.
+Security_code : 3t6zn
+Send : Enviar
+
+---------------
+

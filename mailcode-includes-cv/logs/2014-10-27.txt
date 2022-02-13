@@ -1,0 +1,62 @@
+Address : 186.12.225.154
+Nombre : natalia 
+Apellido : solis
+Cargo : operaria
+Direccion : europa 1471
+Ciudad : ituzaingo
+Telefono : 1555295599
+Email : GonEve2014@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : hola les agjunto mi cv espero me tengan en cuenta gracias
+Security_code : 4cqck
+Send : Enviar
+
+---------------
+
+Address : 186.12.225.154
+Nombre : natalia
+Apellido : solis
+Cargo : operaria
+Direccion : europa 1471
+Ciudad : ituzaingo
+Telefono : 1555295599
+Email : GonEve2014@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : hola les adjunto mi cv espero me tengan presente gracias
+
+Security_code : 4gk4p
+Send : Enviar
+
+---------------
+
+Address : 186.122.46.108
+Nombre : Débora
+Apellido : Sotelo
+Cargo : Vendedora.Cajera.Telemarketer.
+Direccion : Chopin 5645
+Ciudad : Buenos Aires
+Telefono : 1558543179
+Email : dbytankard@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Mi objetivo es poder desempeñarse en el puesto de trabajo adquiriendo experiencia y creciendo laboralmente acompañando a la empresa. 
+Debido a mi gran entusiasmo y carisma para desenvolverme en cualquier medio,tengo la seguridad de que puedo ocupar eficazmente el puesto que se me asigne,ya que soy una persona comprometida con su trabajo cuyo objetivo es esforzarse siempre en las tareas que desempeñe,a fin de ser la mejor.
+Security_code : 5gnyv
+Send : Enviar
+
+---------------
+
+Address : 201.255.174.215
+Nombre : lucas abel
+Apellido : berges
+Cargo : camrero/mozo
+Direccion : nicasio oroño1739
+Ciudad : florencio varela
+Telefono : 42744183
+Email : lukaclown@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : buenas tardes les mando mi curriculum desde ya muchas gracias.
+Security_code : dypsf
+Send : Enviar
+
+---------------
+

@@ -1,0 +1,92 @@
+Address : 181.29.161.147
+REF : administrativa-compras
+Nombre : Juan Pablo Ezequiel
+Apellido : Alberti
+Cargo : Cadete
+Direccion : H. Dunant 1732
+Ciudad : Ituzaiga
+Telefono : 15-6031-8723
+Email : pablito_kevin@hotmail.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : full time
+Security_code : 2hbqw
+Send : Enviar
+
+---------------
+
+Address : 190.18.95.137
+Nombre : Federico
+Apellido : Sanchez
+Cargo : operario/administrativo
+Direccion : Brandsen 1272
+Ciudad : Rosario
+Telefono : 0341-156830806
+Email : fede_sag23@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buen día, busco un trabajo de perfil administartivo o industrial, gracias
+Security_code : cyjyk
+Send : Enviar
+
+---------------
+
+Address : 190.48.111.132
+REF : administrativo-logistica
+Nombre : Nicolás
+Apellido : Ramos
+Cargo : administrativo-logistica
+Direccion : delfor diaz 2147
+Ciudad : hurlingham
+Telefono : 1533573254
+Email : nicolascframos@outlook.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto el cv al mensaje.
+Security_code : mkcpm
+Send : Enviar
+
+---------------
+
+Address : 190.175.111.30
+Nombre : Claudio Alejandro
+Apellido : Muto Rey
+Cargo : Operario
+Direccion : Mazza 3162
+Ciudad : Moron
+Telefono : 46970470
+Email : claudiomoron_91@hotmail.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenas tardes, aca dejo mi CV, necesito conseguir un empleo.
+Security_code : dxg49
+Send : Enviar
+
+---------------
+
+Address : 190.122.215.238
+Nombre : Yésica Romina
+Apellido : Melián
+Cargo : Comunicación/RRPP
+Direccion : Rivera Indarte 157
+Ciudad : Flores
+Telefono : 01133902633
+Email : melian.yesica@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Tengo el agrado de dirigirme a Ud con el objeto de enviarle mi Curriculum Vitae para ser incorporado a la base de datos y me tomasen en cuenta en caso de que se produjera alguna vacante.
+Security_code : 728sz
+Send : Enviar
+
+---------------
+
+Address : 186.19.38.211
+Nombre : silvina soledad
+Apellido : garcia
+Cargo : atención al cliente
+Direccion : alejo ortega 397
+Ciudad : buenos aires -monte grande
+Telefono : 1160075938
+Email : solgarcia01@hotmail.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Me interesaría trabajar para su empresa .
+Security_code : q2nkk
+Send : Enviar
+
+---------------
+

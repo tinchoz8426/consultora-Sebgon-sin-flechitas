@@ -1,0 +1,14 @@
+Address : 190.154.11.184
+Nombre : GALO
+Apellido : LANDAZURI
+Empresa : POLICIA NACIONAL DEL ECUADOR
+Telefono : 097274829
+Email : amigo.efrain@hotmail.com
+Mensaje : SALUDOS
+QUISIERA TENER IMFORMACION DE LA FORMACION DE AUDITOR EN SEGURIDAD INTEGRAL 
+SOY BDE ECUADOR GRACIAS
+Security_code : gtmkg
+Send : Enviar
+
+---------------
+

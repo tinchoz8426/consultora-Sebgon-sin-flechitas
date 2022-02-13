@@ -1,0 +1,17 @@
+Address : 186.18.237.68<br>
+ <br>REF : ACO-1
+ <br>Nombre : Viviana 
+ <br>Apellido : Ayala
+ <br>Cargo : ANALISTA DE COMERCIO INTERNACIONAL/EXTERIOR
+ <br>Direccion : Cochabamba 1750
+ <br>Ciudad : Capital Federal
+ <br>Telefono : 1568587722
+ <br>Email : vi_ayala@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Adjunto mi CV para vuestra evaluación.
+Muchas gracias.
+ <br>Security_code : 4rnk9
+ <br>Send : Enviar
+ <br>
+---------------
+

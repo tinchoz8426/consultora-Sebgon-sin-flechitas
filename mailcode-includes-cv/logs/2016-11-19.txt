@@ -1,0 +1,16 @@
+Address : 66.249.85.9<br>
+ <br>REF : TECME
+ <br>Nombre : Gerardo Héctor 
+ <br>Apellido : Campos Diaz 
+ <br>Cargo : 5149
+ <br>Direccion : Cruz alta 8245
+ <br>Ciudad : Córdoba
+ <br>Telefono : 3513262037
+ <br>Email : geracamposcba@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Espero ser tenido en cuenta.. Soy una persona comprometida y sería en el trabajo designado.. Respetuosa y sería.... Desde ya muchas gracias... Espero su respuesta 
+ <br>Security_code : 2rnt5
+ <br>Send : Enviar
+ <br>
+---------------
+

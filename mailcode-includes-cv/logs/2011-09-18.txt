@@ -1,0 +1,39 @@
+Address : 190.55.89.146
+Nombre : VALERIA
+Apellido : MONTOYA
+Cargo : ADMINISTRATIVA/RECEPCIONISTA
+Direccion : NICASIO OROÑO 1858 1° D
+Ciudad : CAPITAL FEDERAL
+Telefono : 1531986409
+Email : vale.montoya75@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : PRESENTACIÓN ESPONTANEA.
+NO TENGO PROBLEMAS  DE HORARIOS.
+Security_code : t943y
+Send : Enviar
+
+---------------
+
+Address : 186.109.246.154
+Nombre : Lorena Natalia
+Apellido : Gil
+Cargo : salud/recepcionista/administrativa
+Direccion : Guemes 765
+Ciudad : Villa Lynch- San Martin
+Telefono : 1554936595
+Email : lore384@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : 
+Estimados, 
+
+Por medio del presente mail , les hago llegar mi CV. Como ustedes podrán observar, soy estudiante y me encuentro en la búsqueda de un puesto laboral part time por la semana o bien full time los fines de semana.
+Quedo a su entera disposición.
+Atentamente
+
+Lorena Gil.
+
+Security_code : yj7gr
+Send : Enviar
+
+---------------
+

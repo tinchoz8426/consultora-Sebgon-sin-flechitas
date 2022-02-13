@@ -1,0 +1,111 @@
+Address : 181.44.121.96<br>
+ <br>REF : EM
+ <br>Nombre : Marcelo
+ <br>Apellido : Di Nardo
+ <br>Cargo : tecnico electronico
+ <br>Direccion : Bolivar, 1071
+ <br>Ciudad : Villa Ballester
+ <br>Telefono : 1160461597
+ <br>Email : marcelodinard@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : .
+ <br>Security_code : 2m8gx
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 216.244.237.101<br>
+ <br>Nombre : MARTIN OSVALDO
+ <br>Apellido : BOSCARDIN
+ <br>Cargo : gerenciamiento
+ <br>Direccion : Lewis Jones 1375
+ <br>Ciudad : PUERTO MADRYN
+ <br>Telefono : 02804208967
+ <br>Email : moboscardin@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Quedo a vuestra disposición para su consulta
+ <br>Security_code : n3z2t
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.18.47.76<br>
+ <br>Nombre : Agostina
+ <br>Apellido : Said
+ <br>Cargo : Gerente Comercial
+ <br>Direccion : Cap. Gral. Ramon Freire 2443
+ <br>Ciudad : CABA
+ <br>Telefono : 1131761787
+ <br>Email : agos27@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me gustaria ponerme en contacto con algun ejecutivo para explicar las espectativas a las que quisiera llegar.
+Gracias.
+ <br>Security_code : cqvvt
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.191.242.53<br>
+ <br>Nombre : Daniela
+ <br>Apellido : Simon
+ <br>Cargo : Asistente de Recursos Humanos
+ <br>Direccion : Acevedo 1064
+ <br>Ciudad : CABA
+ <br>Telefono : 1160520688
+ <br>Email : dani.simon@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Mi nombre es Daniela Simon y soy estudiante de Relaciones del Trabajo en la Universidad de Buenos Aires. 
+Cursando actualmente el tercer año de la carrera, me encuentro buscando trabajo dentro del área de Recursos Humanos, ya sea en tareas soft o hard. Busco formar parte de un equipo en el cual pueda desarrollarme profesionalmente, aportando a él mis experiencias y habilidades.
+Muchas gracias.
+ <br>Security_code : dfk7f
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.166.175.241<br>
+ <br>Nombre : camila
+ <br>Apellido : citera
+ <br>Cargo : recursos humanos
+ <br>Direccion : Estrada 1516
+ <br>Ciudad : Buenos Aires. Lomas de zamora
+ <br>Telefono : 01164667495
+ <br>Email : camila.citera@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Mi objetivo es desempeñarme en el área de recursos humanos, realizando todo tipo de tarea relacionada a ello, y adaptar todos mis conocimientos al puesto asignado. Para esto creo necesario formar parte de un equipo de trabajo que se desarrolle en un buen clima laboral, para poder entre todos los integrantes, avanzar tanto hacia las metas de la organización, como las personales. Me interesa fortalecer mi experiencia constantemente, para brindar excelencia a la organización que deposita su confianza en mí. Asimismo, mi objetivo a largo plazo es insertarme dentro de una empresa como psicóloga organizacional, estudiando el comportamiento humano dentro de la organización y proponiendo siempre nuevas formas de productividad y satisfacción laboral.
+ <br>Security_code : qvqw9
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.166.175.241<br>
+ <br>Nombre : camila
+ <br>Apellido : citera
+ <br>Cargo : recursos humanos
+ <br>Direccion : Estrada 1516
+ <br>Ciudad : Buenos Aires. Lomas de zamora
+ <br>Telefono : 01164667495
+ <br>Email : camila.citera@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Mi objetivo es desempeñarme en el área de recursos humanos, realizando todo tipo de tarea relacionada a ello, y adaptar todos mis conocimientos al puesto asignado. Para esto creo necesario formar parte de un equipo de trabajo que se desarrolle en un buen clima laboral, para poder entre todos los integrantes, avanzar tanto hacia las metas de la organización, como las personales. Me interesa fortalecer mi experiencia constantemente, para brindar excelencia a la organización que deposita su confianza en mí. Asimismo, mi objetivo a largo plazo es insertarme dentro de una empresa como psicóloga organizacional, estudiando el comportamiento humano dentro de la organización y proponiendo siempre nuevas formas de productividad y satisfacción laboral.
+ <br>Security_code : qvqw9
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.47.217.126<br>
+ <br>Nombre : Ivanna Daniela
+ <br>Apellido : Antonini
+ <br>Cargo : Administrativa contable o en el sector de Recursos Humanos
+ <br>Direccion : Pedro lozano 4180
+ <br>Ciudad : CABA
+ <br>Telefono : 1133490142
+ <br>Email : ivannaantonini@live.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Mi nombre es Ivanna Antonini y tengo el agrado de dirigirme a Usted con el objeto de enviarle mi cv para el sector de recursos humanos o administrativa contable. 
+
+Saludos,
+ <br>Security_code : rq88y
+ <br>Send : Enviar
+ <br>
+---------------
+

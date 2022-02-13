@@ -1,0 +1,38 @@
+Address : 190.55.155.18<br>
+ <br>Nombre : Luis
+ <br>Apellido : Noriega
+ <br>Cargo : Analista de comercio exterior
+ <br>Direccion : Gral. Jose Gervasio Artigas 1801 piso 5 apto 23
+ <br>Ciudad : Ciudad Autónoma de Buenos Aires
+ <br>Telefono : 01122546904
+ <br>Email : luisnoriega85@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Con la convicción de poseer el perfil requerido para un muy buen desempeño en el cargo a cubrir, quedo a entera disposición para hacerle llegar, sea en una entrevista personal o por el medio que se me indique, las ampliaciones y/o la documentación probatoria correspondiente.
+
+
+
+Esperando una respuesta positiva lo saluda atentamente,
+
+
+
+Lcdo. Luis Noriega
+ <br>Security_code : w5vqg
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 200.45.200.122<br>
+ <br>Nombre : nicolas
+ <br>Apellido : frediani
+ <br>Cargo : ventas
+ <br>Direccion : maipu 2345
+ <br>Ciudad : rio cuarto
+ <br>Telefono : 0358154384192
+ <br>Email : nicolas_frediani@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : adjunto mi cv. para puesto de ventas-comercial o similar
+ <br>Security_code : 6fyrc
+ <br>Send : Enviar
+ <br>
+---------------
+

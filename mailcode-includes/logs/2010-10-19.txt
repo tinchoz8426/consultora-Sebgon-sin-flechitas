@@ -1,0 +1,29 @@
+Address : 200.248.48.124
+Nombre : Patricio
+Apellido : Ljubic
+Empresa : Jefferson Sudamericana S.A.
+Telefono : 4918-1181
+Email : patricio.ljubic@jefferson.com.ar
+Mensaje : Buenos días,
+Estamos interesados en el servicio de búsqueda y selección de personal. Concretamente necesitamos ubicar un Comprador Sr. con experiencia en la industria metalúrgica.
+Me gustaría conocer más detalles del servicio que ustedes ofrecen y los costos del mismo.
+
+Saludos.
+Security_code : 2s7y3
+Send : Enviar
+
+---------------
+
+Address : 190.177.151.95
+Nombre : florencia
+Apellido : plaza
+Empresa : acesoramientoenmotivacionorganizacional
+Telefono : 4068564
+Email : acesoramientoenmotivacion@hotmail.com.ar
+Mensaje : hola buen dia soy una alumna de comodoro rivadavia escuela 770 y tengo una materia llamada microemprendimiento y tengo que calcular el precio del servicio y necesito si serian tan amables de aproximadamente recomendarme uno es solo para un proyecto yo elegi el servicio de acesoramiento en motivacion organizacional 
+gracias
+Security_code : kwx3j
+Send : Enviar
+
+---------------
+

@@ -1,0 +1,93 @@
+Address : 201.178.133.200<br>
+ <br>REF : EP-1
+ <br>Nombre : Omar
+ <br>Apellido : Alves
+ <br>Cargo : Encargado Produccion
+ <br>Direccion : Corvala 550
+ <br>Ciudad : Lanus
+ <br>Telefono : 1567284451
+ <br>Email : oalves74@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estoy interesado en el puesto de jefe de produccion
+ <br>Security_code : P8rn4
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.245.12.122<br>
+ <br>REF : chr
+ <br>Nombre : gabriel oscar
+ <br>Apellido : burgos
+ <br>Cargo : chofer mecanico
+ <br>Direccion : del barco centenera
+ <br>Ciudad : capital federal
+ <br>Telefono : 4924-4469
+ <br>Email : gaby.burgos@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : chofer mecanico
+ <br>Security_code : gabriel
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 191.81.146.213<br>
+ <br>Nombre : Sofia Gimena
+ <br>Apellido : Anderete
+ <br>Cargo : Atención al publico, cajera, administrativa. 
+ <br>Direccion : Carasa 6436
+ <br>Ciudad : Mar del Plata1
+ <br>Telefono : (223) 155422321
+ <br>Email : anderetesofia@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Busco empleo estable, en la ciudad de Mar del Plata
+ <br>Security_code : xx7ry
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.169.125.218<br>
+ <br>Nombre : Héctor Alejandro
+ <br>Apellido : Curátolo
+ <br>Cargo : gestor de inversiones
+ <br>Direccion : Esteban de Luca 1917
+ <br>Ciudad : Ciudad Autónoma de Buenos Aires
+ <br>Telefono : 15-5348-3333
+ <br>Email : halejandrocuratolo@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Sres. Consultora Sebgon
+_______________
+
+De mi consideración:
+
+Me presento, soy Alejandro Curátolo, un individuo con sólidos principios morales: íntegro. 
+Trato de mejorar constantemente.
+
+Actualmente trabajo como gestor de inversiones, ésta es mi pasión. Tengo amplia experiencia en mercados de capital, y en el desarrollo de estrategias bursátiles de retornos superiores a los de las inversiones tradicionales.
+
+Estoy interesado en incorporarme en un broker bursátil de primer nivel, donde pueda gestionar un importante fondo, con disponibilidad full time.
+
+Les adjunto mi curriculum vitae, y agradezco desde ya su lectura.
+
+Saludos Cordiales,
+Alejandro Curátolo
+ <br>Security_code : b6d97
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.45.90.239<br>
+ <br>REF : chr
+ <br>Nombre : Carlos Alberto 
+ <br>Apellido : Coronel 
+ <br>Cargo : Chofer
+ <br>Direccion : Totoral  333
+ <br>Ciudad : González catan
+ <br>Telefono : 1521843194
+ <br>Email : Kattoalberto@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estoy interesado en el puesto de chofer
+ <br>Security_code : Tsk3p
+ <br>Send : Enviar
+ <br>
+---------------
+

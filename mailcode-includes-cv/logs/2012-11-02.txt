@@ -1,0 +1,45 @@
+Address : 186.128.55.189
+Nombre : Carla Daniela
+Apellido : Avila
+Cargo : Varios
+Direccion : Pescadores 1095 ciudad 
+Ciudad : Mendoza
+Telefono : 2616143845
+Email : carliitaa_1024@hotmail.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Agradeceria cualquier empleo
+Security_code : pf25g
+Send : Enviar
+
+---------------
+
+Address : 190.229.246.223
+Nombre : Jose Emiliano
+Apellido : Barzola
+Cargo : Cualquiera
+Direccion : Los Tilos 2012
+Ciudad : Parana
+Telefono : 0343-154748241
+Email : emi_741@live.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : ...
+Security_code : 2bnkk
+Send : Enviar
+
+---------------
+
+Address : 186.23.249.243
+Nombre : Romina Carla Rosalía
+Apellido : Tovar Sassone
+Cargo : Secretaria
+Direccion : Saavedra 1004
+Ciudad : Ramos Mejía
+Telefono : 01120600348
+Email : rominatovar@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto mi CV para que lo tengan presente en las búsquedas laborales. Muchas gracias!
+Security_code : h4mdn
+Send : Enviar
+
+---------------
+

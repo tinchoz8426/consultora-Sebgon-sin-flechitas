@@ -1,0 +1,78 @@
+Address : 181.231.34.59<br>
+ <br>REF : ACO-1
+ <br>Nombre : Ricardo Guillermo
+ <br>Apellido : Holst
+ <br>Cargo : ACO-1
+ <br>Direccion : Sgto. Cabral
+ <br>Ciudad : Accassuso
+ <br>Telefono : 2170-3951
+ <br>Email : rholst22@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : En busca laboral
+ <br>Security_code : 2j3q3
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.231.34.59<br>
+ <br>Nombre : Isaias Alejandro
+ <br>Apellido : Gimenez
+ <br>Cargo : ACO-1
+ <br>Direccion : Los Crisantemos 147
+ <br>Ciudad : Agustin Ferrari
+ <br>Telefono : 4060 0690
+ <br>Email : isa.gimenez@hotmail.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : - Inserción laboral - Primer Empleo
+- Obtener experiencia laboral y perfeccionarme en mi Área de trabajo
+
+ <br>Security_code : 29n32
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.192.39.122<br>
+ <br>Nombre : Virginia
+ <br>Apellido : Mazzuchini
+ <br>Cargo : Analista de RRHH
+ <br>Direccion : Cochabamba 849
+ <br>Ciudad : Rosario
+ <br>Telefono : 3482 15633049
+ <br>Email : vir.mzz@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Soy Psicóloga, me gustaría insertarme en el área de RRHH. Cuento con formación y experiencia en la misma
+ <br>Security_code : dcyq2
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.192.39.122<br>
+ <br>Nombre : Virginia
+ <br>Apellido : Mazzuchini
+ <br>Cargo : Analista de RRHH
+ <br>Direccion : Cochabamba 849
+ <br>Ciudad : Rosario
+ <br>Telefono : 3482 15633049
+ <br>Email : vir.mzz@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Soy Psicóloga, me gustaría insertarme en el área de RRHH. Cuento con formación y experiencia en la misma
+ <br>Security_code : dcyq2
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.143.200.41<br>
+ <br>Nombre : dario
+ <br>Apellido : soria
+ <br>Cargo : todos
+ <br>Direccion : yapeyu 1631
+ <br>Ciudad : san vicente capital
+ <br>Telefono : 011-1536174335
+ <br>Email : dariomsoria@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Soy profesional  gastronómico y agente de propaganda médica debidamente matriculado, emprendedor, dinámico y proactivo, en búsqueda constante del crecimiento personal y empresarial, con un excelente manejo de las relaciones interpersonales.
+ <br>Security_code : 4ppys
+ <br>Send : Enviar
+ <br>
+---------------
+

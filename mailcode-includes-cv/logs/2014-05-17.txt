@@ -1,0 +1,113 @@
+Address : 186.153.236.44
+Nombre : Yamila Soledad
+Apellido : Ontivero
+Cargo : Indistinto
+Direccion : Barda del Medio 836-Ampliación Farina
+Ciudad : Córdoba Capital
+Telefono : 3513937097
+Email : yamiontivero@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Envío mi cv a la espera de una pronta y favorable respuesta.
+Security_code : vdkxx
+Send : Enviar
+
+---------------
+
+Address : 190.31.100.55
+Nombre : valeria 
+Apellido : CARLOS
+Cargo : Lic. en trabajo social
+Direccion : San Salvador de Jujuy
+Ciudad : San salvador de jujuy
+Telefono : 0388-154178167
+Email : fervalecarlo@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : busco trabajo en las provincias de jujuy, cordoba o Buenos Aires con disponibilidad de viajar
+Security_code : xw8w5
+Send : Enviar
+
+---------------
+
+Address : 181.31.44.84
+Nombre : Pablo
+Apellido : Bergesio
+Cargo : Gerente / Director 
+Direccion : Islas Orcadas 346
+Ciudad : Gral.Pacheco, BS.As.
+Telefono : 1132358417
+Email : pablo.bergesio@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Profecional con amplia experiencia en Gerencia Comercial, desarrollo de negocios internacionales, Compras, logistica, marketing, negociacion, armado de equipo, manejo del P&L
+Security_code : 9n8q2
+Send : Enviar
+
+---------------
+
+Address : 181.31.44.84
+REF : GETECOM
+Nombre : Pablo
+Apellido : Bergesio
+Cargo : Gerente de Compras
+Direccion : Islas Orcadas 346
+Ciudad : Gral.Pacheco, BS.As.
+Telefono : 1132358417
+Email : pablo.bergesio@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto mi cv para evaluacion
+Security_code : kn2gv
+Send : Enviar
+
+---------------
+
+Address : 181.31.44.84
+REF : GTE COM
+Nombre : Pablo
+Apellido : Bergesio
+Cargo : Gerente Comercial
+Direccion : Islas Orcadas 346
+Ciudad : Gral.Pacheco, BS.As.
+Telefono : 1132358417
+Email : pablo.bergesio@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto mi CV para evaluacion
+Security_code : zv62m
+Send : Enviar
+
+---------------
+
+Address : 190.48.152.173
+Nombre : marcos
+Apellido : illiano
+Cargo : Logistica-Operario-Oficio
+Direccion : Santa fe 1561
+Ciudad : Merlo
+Telefono : 542204837546
+Email :  eduardojoseilliano_1@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Busco empleo con una disponibilidad de lunes a domingo. Conocimiento en trabajos de oficio, repositor  y atención al cliente. Ofrezco muy buena predisposición para trabajar en forma rápida y organizada.
+Security_code : 9n8q2
+Send : Enviar
+
+---------------
+
+Address : 200.3.221.199
+Nombre : Romina
+Apellido : Navarro
+Cargo : Psicologa selectora y capacitadora 
+Direccion : Salta 2075
+Ciudad : Rosario
+Telefono : (0341) 153181086
+Email : navarro.romina.s@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados: mi nombre es Romina Navarro, soy Psicologa, con matricula 6400.Poseo consultorios
+habilitados en las zonas centro y macrocentro de la ciudad de Rosario,
+cito en calles Salta 3568 y Montevideo 1563.Soy Monotibutista, cuento
+con aportes a la Caja del Arte de Curar y trabajo desde hace dos años.Poseo experiencia y referencias en selección y capacitación de personal.Me encuentro  interesada en trabajar como prestadora de servicios para
+la consultora.Con dicho fin adjunto mi curriculum vitae.Aguardo una
+respuesta favorable.Atentamente, Ps Romina Navarro
+
+Security_code : w4bjd
+Send : Enviar
+
+---------------
+

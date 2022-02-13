@@ -1,0 +1,294 @@
+Address : 107.167.105.98<br>
+ <br>Nombre : Nestor Gabriel
+ <br>Apellido : Aguirre
+ <br>Cargo : Soldador
+ <br>Direccion : Coronda y taragui s/n
+ <br>Ciudad : General rodriguez
+ <br>Telefono : 0111557359348
+ <br>Email : Maribel_reggae@hotmail.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estoy interesado en el area de soldador tengo 36 años y exp comprobables ..mi oficio es herrero soldador e trbjado tmb en cañeria de alta presion,etc.
+
+
+
+ <br>Security_code : PW3ng
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 107.167.105.98<br>
+ <br>Nombre : Nestor Gabriel
+ <br>Apellido : Aguirre
+ <br>Cargo : Soldador
+ <br>Direccion : Coronda y taragui s/n
+ <br>Ciudad : General rodriguez
+ <br>Telefono : 0111557359348
+ <br>Email : Maribel_reggae@hotmail.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estoy interesado en el area de soldador tengo 36 años y exp comprobables ..mi oficio es herrero soldador e trbjado tmb en cañeria de alta presion,etc.
+
+
+
+ <br>Security_code : df3w4
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.130.72.146<br>
+ <br>Nombre : victor david 
+ <br>Apellido : godoy
+ <br>Cargo : oficial cañista
+ <br>Direccion : gabriel miro 3760
+ <br>Ciudad : castelar
+ <br>Telefono : 1166956366
+ <br>Email : victordavidgodoy78@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : soy cañista soldador de castelar
+ <br>Security_code : mg28q
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.130.72.146<br>
+ <br>Nombre : victor david 
+ <br>Apellido : godoy
+ <br>Cargo : oficial cañista
+ <br>Direccion : gabriel miro 3760
+ <br>Ciudad : castelar
+ <br>Telefono : 46920637
+ <br>Email : victordavidgodoy78@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : hola, soy cañista soldador ,de castelar
+ <br>Security_code : 3jk4z
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.0.138.35<br>
+ <br>REF : OEL
+ <br>Nombre : Carlos Ismael
+ <br>Apellido : Fretes
+ <br>Cargo : Electricista
+ <br>Direccion : Rio de la Plata 7130
+ <br>Ciudad : Jose C Paz
+ <br>Telefono : 1557633685
+ <br>Email : axeldamianfretes@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buen dia me postulo ala
+oferta de trabajo saludos cordiales.
+ <br>Security_code : bp474
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 179.63.242.86<br>
+ <br>Nombre : Jorge Pablo
+ <br>Apellido : Hanna
+ <br>Cargo : Jefaturas, Gerencias
+ <br>Direccion : Ruta 143 Entre Lavilina y 3 Arroyos
+ <br>Ciudad : San Rafael
+ <br>Telefono : 260154661083
+ <br>Email : jorgepablohanna@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Espero serles utiles a Uds. y a  las empresas que requieran mi experiencia.
+ <br>Security_code : 6s9xq
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.60.164.218<br>
+ <br>REF : OEL
+ <br>Nombre : alejandro jose
+ <br>Apellido : quiroga
+ <br>Cargo : oficial electricista
+ <br>Direccion : weiss de rossi 3482
+ <br>Ciudad : glew
+ <br>Telefono : 1136842239
+ <br>Email : luliale20@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : hola buenas tardes, soy oficial electricista y también tengo curso aprobado de automatismos también cuento con tarjeta ieric, tengo ya muchos años de experiencia tanto como en obra como también en mantenimiento, ojala pueda integrar su grupo de trabajo, desde ya muchas gracias.
+ <br>Security_code : gs5xf
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 179.41.180.92<br>
+ <br>REF : OEL
+ <br>Nombre : raul 
+ <br>Apellido : cardoso
+ <br>Cargo : oficialelectrticista
+ <br>Direccion : soldadososa 2615
+ <br>Ciudad : lamatanza
+ <br>Telefono : 1137439259
+ <br>Email : cardosoraul810@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : holasoyoficialelectricista montaje electicos mi insteres es incorporarme asistema y muchas ganas de progresos y cumplir mi celu es 1137439259 gracias
+ <br>Security_code : mvr47
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.102.8.154<br>
+ <br>Nombre : Hugo
+ <br>Apellido : Gorosito
+ <br>Cargo : Soldador calificado
+ <br>Direccion : Necochea 1461  llavallol Lomas de zamora
+ <br>Ciudad : Buenos Aires  
+ <br>Telefono : 1535477087
+ <br>Email : hugo.g_tatoo@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola estoy en búsqueda de trabajo de el manejo de diferentes máquinas tengo muy bien conocimiento soy soldador calificado tengo muy buen cumplimiento estoy en búsqueda de trabajo ya q tengo tres hijos muchas grasias espero de su llamado 
+ <br>Security_code : 39qf3
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 152.168.36.120<br>
+ <br>Nombre : gisela fabiana
+ <br>Apellido : lezcano
+ <br>Cargo : atencion al cliente
+ <br>Direccion : Formosa 166
+ <br>Ciudad : Mar del Plata
+ <br>Telefono : 2235901716
+ <br>Email : giselalezcano500@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : hola, les adj mi cv para posibles futuras busquedas laborales, muchas gracias!! saludos
+ <br>Security_code : 3tp24
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.228.15.236<br>
+ <br>Nombre : Maximiliano Enrique
+ <br>Apellido : Morales
+ <br>Cargo : pasantia
+ <br>Direccion : av. San Martin 455
+ <br>Ciudad : San Benito
+ <br>Telefono : 343-154197845
+ <br>Email : maxi_0712@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : EMPRESA AGRADEZCO ME TENGAN EN CUENTA. A LA ESPERA DE UNA PRONTA Y FAVORABLE RESPUESTA.
+ <br>Security_code : xgkhq
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.60.199.148<br>
+ <br>REF : OEL
+ <br>Nombre : alejandro jose
+ <br>Apellido : quiroga
+ <br>Cargo : oficial electricista
+ <br>Direccion : weiss de rossi 3482
+ <br>Ciudad : glew
+ <br>Telefono : 1136842239
+ <br>Email : luliale20@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : hola buenas tardes, soy oficial electricista y también tengo curso aprobado de automatismos también cuento con tarjeta ieric, tengo ya muchos años de experiencia tanto como en obra como también en mantenimiento, ojala pueda integrar su grupo de trabajo, desde ya muchas gracias.
+ <br>Security_code : 9tbsb
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 200.123.133.187<br>
+ <br>Nombre : MARTIN
+ <br>Apellido : FUNES
+ <br>Cargo : JEFE DE COMPRAS / LOGISTICA
+ <br>Direccion : RINCON 11 
+ <br>Ciudad : CAPITAL FEDERAL
+ <br>Telefono : 1130345753
+ <br>Email : martin.funes68@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me dirijo a Uds. por este medio en relación a la permanente búsqueda que su empresa realiza, para lo cual le adjunto mis datos personales y antecedentes.
+Tengo una sólida trayectoria en posiciones de Operación, Coordinación y Supervisión como Ingeniero Industrial, específicamente en el área de Contrataciones, Abastecimiento y Logística.
+He dirigido y organizado Licitaciones Públicas y Privadas, Contrataciones de Obras y Servicios, la compra, entrega y almacenamiento de Materiales Productivos y No Productivos, desarrollado Proveedores y Contratistas tanto nacionales como extranjeros, confeccionado Procedimientos Operativos, etc.
+Soy una persona entusiasta, orientada a resultados, con marcada vocación de servicio y con capacidad de gerenciar simultaneidad de tareas. Me caracterizo por tener un estilo proactivo y de solución de problemas, así como por la capacidad de investigación y análisis; características que considero podrían agregar valor a su organización.
+Me sería muy grato tener la posibilidad de conversar personalmente con Uds. y ampliar cualquiera de los aspectos antes mencionados.
+
+Los saluda muy atentamente,
+ 
+Ing. Martín Funes
+Tel: 4952-1048
+Cel: 15-3034-5753
+
+ <br>Security_code : gvkrj
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 191.81.94.165<br>
+ <br>REF : OEL
+ <br>Nombre : david marcelo javier
+ <br>Apellido : gimenez
+ <br>Cargo : oficial electricista
+ <br>Direccion : valentin alsina 769
+ <br>Ciudad : monte grande
+ <br>Telefono : 4281-1977
+ <br>Email : dmjgimenez@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Oficicial electricista. Secundario completo. 5 años de experiencia en montajes civiles, comerciales e industriales. Todo tipo de cañeria y bandejas. 
+ <br>Security_code : 72gff
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 200.114.154.56<br>
+ <br>Nombre : Dámaris
+ <br>Apellido : Macaris
+ <br>Cargo : administrativa
+ <br>Direccion : jacob 608
+ <br>Ciudad : campana
+ <br>Telefono : 03489438201
+ <br>Email : proveit@hotmail.es
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Administrativa en salud y distintos rubros. Estudiantes de arte y bibliotecologia.
+ <br>Security_code : dstm9
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.178.135.16<br>
+ <br>Nombre : Ayelen
+ <br>Apellido : Acosta
+ <br>Cargo : Atencion al publico
+ <br>Direccion : valenyini 2408
+ <br>Ciudad : mar del plata
+ <br>Telefono : 2235938068
+ <br>Email : ayemelaniacosta@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Tengo muchas ganas de trabajar ,soy muy responsable y aprendo facil.
+ <br>Security_code : ycsdc
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.139.86.46<br>
+ <br>REF : OEL
+ <br>Nombre : Gabriel Jose
+ <br>Apellido : Ruggiero
+ <br>Cargo : Tecnico Electricista
+ <br>Direccion : jose leon suarez 3154
+ <br>Ciudad : caba
+ <br>Telefono : 4686-2674/153-592-5249
+ <br>Email : politecnia@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : A quien corresponda,mi disponibilidad horaria es full time de lunes a viernes y la remuneracion pretendida en mano $18000 
+ <br>Security_code : gcqfn
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 191.80.128.179<br>
+ <br>Nombre : walter david
+ <br>Apellido : varela
+ <br>Cargo : cañista soldador
+ <br>Direccion : la santamaria
+ <br>Ciudad : monte grande
+ <br>Telefono : 46937011
+ <br>Email : david_22_80@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : estoy desempleado y nesecito el puesto tengo tres hijos que mantener muchas gracias
+ <br>Security_code : rq3fr
+ <br>Send : Enviar
+ <br>
+---------------
+

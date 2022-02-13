@@ -1,0 +1,49 @@
+Address : 
+Nombre : DAVID
+Apellido : COLLADO MALLOL
+Cargo : Químico
+Direccion : Concepción Arenal
+Ciudad : Castellón de la Plana
+Telefono : 625028933
+Email : ColladoMallol@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me pongo en contacto con ustedes para hacerle llegar mi currículum vitae por si necesitan cubrir ahora o en el futuro un puesto que se ajuste a mi perfil.
+Soy Licenciado en Química y poseo un máster en Técnicas Cromatográficas Aplicadas. He tenido la oportunidad de tener contacto con el mundo laboral en empresa del sector energético, del sector medioambiental, del sector agroalimentario y cerámico en funciones de laboratorio como técnico de laboratorio y analista.
+Por todo ello, me gustaría tener la posibilidad de entrevistarme con usted y poder ampliar la información que le remito.
+Sin otro particular, reciba un cordial saludo
+
+Security_code : ftb7w
+Send : Enviar
+
+---------------
+
+Address : 
+Nombre : cristian
+Apellido : lagos
+Cargo : operario
+Direccion : coliqueo 2084
+Ciudad : jose c paz
+Telefono : 02320436477
+Email : cristiann.lagos@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : me e
+Security_code : 49ckv
+Send : Enviar
+
+---------------
+
+Address : 
+Nombre : carlos daniel
+Apellido : molina 
+Cargo : encargado estacion de servicios playero operario parking chofer utilitario conosimiento herramientas manuales electricas vigilador ect
+Direccion : las tejas s/n
+Ciudad : cordoba capital
+Telefono : 0351-4962543  cel.3516587103
+Email : molyc_43@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : necesito no perder mi dignidad por mis hijos familia y toda persona necesita tener una oportunidad de empleo 18 años estuve en un mismo empleo soy responsable me adacto a todo trabajo dispongo de horas full-taim 156587103 cel..
+Security_code : 156587103
+Send : Enviar
+
+---------------
+

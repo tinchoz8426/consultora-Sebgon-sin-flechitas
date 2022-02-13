@@ -1,0 +1,16 @@
+Address : 201.250.125.107
+Nombre : Rocio Florencia
+Apellido : Garetto
+Cargo : Asistente de RRHH
+Direccion : Tonelero 6948 dpto 3
+Ciudad : Capital Federal
+Telefono : 01146412638
+Email : rociogaretto@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto mi Cv para ser tenida en cuenta para futuras busquedas en el area de RRHH. 
+Gracias
+Security_code : g7497
+Send : Enviar
+
+---------------
+

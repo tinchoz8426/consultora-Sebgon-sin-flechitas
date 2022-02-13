@@ -1,0 +1,76 @@
+Address : 186.13.7.46
+REF : TECNICO-MECANICO
+Nombre : hector
+Apellido : rolon
+Cargo : tecnico o sup mantenimiento
+Direccion : sta brigida 7810
+Ciudad : san martin
+Telefono : 1557817384
+Email : tecnorteservi@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : busco trabajo
+Security_code : hghw6
+Send : Enviar
+
+---------------
+
+Address : 190.18.237.17
+Nombre : Gabriel
+Apellido : Frings
+Cargo : Técnico 
+Direccion : Pje. La Plaza  2156
+Ciudad : cordoba
+Telefono : 0351155570470
+Email : gabyfringslm@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Cargo mi curruculum para cualquier puesto acorde a mis experiencias 
+Security_code : fvksq
+Send : Enviar
+
+---------------
+
+Address : 186.57.50.46
+Nombre : leandro maximiliano
+Apellido : malaisi
+Cargo : operario
+Direccion : c,gutierrez 1190
+Ciudad : lujan 
+Telefono : 0232315622318
+Email : leo.grimoldi@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : me postulo para operario de toyota
+Security_code : vg49r
+Send : Enviar
+
+---------------
+
+Address : 201.252.105.220
+Nombre : Martin
+Apellido : Bolischky
+Cargo : Auxiliar Deposito
+Direccion : Dr. Rebizzo 4079
+Ciudad : Caseros
+Telefono : 15-6059-6300
+Email : martinbolischky@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Dejo mi Cv. 
+Security_code : V4VYX
+Send : Enviar
+
+---------------
+
+Address : 186.108.255.95
+Nombre : Nadina
+Apellido : Sola
+Cargo : Cheff- Ayudante de Cocina
+Direccion : Ortiz Herrera 315
+Ciudad : Biale Masse
+Telefono : (0342) 154705894
+Email : nadina_sola@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Soy de Sta Fe capital, vine a buscar un mejor futuro. 
+Security_code : xgr4p
+Send : Enviar
+
+---------------
+

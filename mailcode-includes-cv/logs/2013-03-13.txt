@@ -1,0 +1,74 @@
+Address : 186.109.152.210
+REF : tecnico-electornico
+Nombre : edgardo roberto
+Apellido : bobadilla
+Cargo : ME ENCUENTRO CAPACITADO PARA VARIOS PUESTOS
+Direccion : ITALIA 2985
+Ciudad : FORMOSA
+Telefono : 3704609009
+Email : edgardobobadilla@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : GRACIAS
+Security_code : h6y9w
+Send : Enviar
+
+---------------
+
+Address : 190.173.112.61
+Nombre : Mercedes Gabriela
+Apellido : Polignano
+Cargo : Técinca en Minoridad y Familia
+Direccion : Mustoni 2183 Pta. Alta
+Ciudad : Hurlingham
+Telefono : 011-4452-2788
+Email : mercedes_polignano@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Busco un empleo relacionado a mi profesión, de medio tiempo para continuar con mis estudos hacia la licenciatura.
+Security_code : q27zm
+Send : Enviar
+
+---------------
+
+Address : 200.51.204.101
+REF : jefe-de-operaciones
+Nombre : Guido Eduardo
+Apellido : Bertilotti
+Cargo : Administrativo/Oficina/Seguros/Contabilidad
+Direccion : Piran 570
+Ciudad : Ituzaingo
+Telefono : 1535031990
+Email : guiiddo@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Objetivo: Desarrollo personal y profesional dentro de un agradable clima laboral utilizando mi capacidad, conocimientos y experiencia en el manejo de diversas áreas laborales, administrativo, contable, documentación y gestión.
+Security_code : m65fh
+Send : Enviar
+
+---------------
+
+Address : 201.213.78.64
+Nombre : Natalia 
+Apellido : Carelli
+Cargo : recepcionista
+Direccion : Moriondo 3440
+Ciudad : Buenos aires
+Telefono : 1545633966
+Email : natalia.carelli@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : 
+
+
+Buenos días, 
+
+Envío mi curriculum frente a ofertas laborales disponibles como recepcionista/secretaria/asistente, vendedora o sectores de atención al cliente. 
+
+
+Desde ya muchas gracias y muy buena semana!
+
+
+
+Natalia Carelli
+Security_code : ps3wb
+Send : Enviar
+
+---------------
+

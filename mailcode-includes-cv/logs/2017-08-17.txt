@@ -1,0 +1,71 @@
+Address : 186.135.155.220<br>
+ <br>REF : chr
+ <br>Nombre : daniel
+ <br>Apellido : fabro
+ <br>Cargo : chofer
+ <br>Direccion : platon5820
+ <br>Ciudad : jose c paz
+ <br>Telefono : 01150636736
+ <br>Email : laura.ali2002@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : tengo cnrt moyano cargas generales registro profesional
+ <br>Security_code : 9w6xz
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.173.17.175<br>
+ <br>REF : chr
+ <br>Nombre : Marcos
+ <br>Apellido : Castro
+ <br>Cargo : Chofer
+ <br>Direccion : Baradero 2627
+ <br>Ciudad : Florencio Varela
+ <br>Telefono : 1137009336
+ <br>Email : castromarcosezequiel@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me interesa esta oferte de trabajo, me adapto muy bien a los distintos empleos y me dijo corregir. Me interesa aprender. 
+ <br>Security_code : G8vh9
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.231.176.220<br>
+ <br>Nombre : Javier
+ <br>Apellido : Colmenarez
+ <br>Cargo : Referencia : JPER-1 (Jefe de Personal)
+ <br>Direccion : Estado de Palestina 815 CABA
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 1127115381
+ <br>Email : javicolmenarez@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Experiencia en Recursos Humanos con estudio universitarios y Master completos
+ <br>Security_code : nyf5p
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.18.129.212<br>
+ <br>REF : ROT-1
+ <br>Nombre : Gabriel
+ <br>Apellido : Gagetti
+ <br>Cargo : Disenador Industrial
+ <br>Direccion : Marcelo T. Alvear 1963
+ <br>Ciudad : CABA
+ <br>Telefono : 5492494608382
+ <br>Email : gabrielgagetti@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados,
+
+Vista la Oferta Laboral Diseñador/A Industrial les hago llegar mis datos personales y profesionales en Currículum Vitae a fin de ser tenido en cuenta como candidato.
+
+Con la convicción de poseer el perfil requerido para un muy buen desempeño en el cargo a cubrir, quedo a entera disposición para hacerle llegar, sea en una entrevista personal o por el medio que se me indique, las ampliaciones y/o la documentación probatoria correspondiente.
+
+Esperando una respuesta positiva lo saluda atentamente,
+
+Gabriel Gagetti 
+ <br>Security_code : 6zhw6
+ <br>Send : Enviar
+ <br>
+---------------
+

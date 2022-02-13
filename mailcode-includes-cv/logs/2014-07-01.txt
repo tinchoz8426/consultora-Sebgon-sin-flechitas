@@ -1,0 +1,108 @@
+Address : 181.46.110.146
+REF : SUPERVISOR-DE-SEGURIDAD
+Nombre : Héctor Diego
+Apellido : Kahla
+Cargo : Supervisor de Seguridad
+Direccion : Av.Juan Bautista Alberdi 4846 3º 31
+Ciudad : Capital Federal
+Telefono : 1565795161
+Email : diegokahla@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Cuento con amplia en el rubro de la seguridad
+Security_code : 47byt
+Send : Enviar
+
+---------------
+
+Address : 186.59.82.208
+Nombre : Hugo
+Apellido : Morvillo
+Cargo : Chofer
+Direccion : Mariano Ianelli 1888.
+Ciudad : San Juan
+Telefono : 2644961528
+Email : hug_66_2007@hotmail.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados: Si bien mi lugar de residencia es en la Provincia de San Juan, estoy dispuesto a radicarme en cualquier punto del pais, por una mejor oportunidad laboral que me permita el crecimiento familiar, y personal. 
+Security_code : gmkt9
+Send : Enviar
+
+---------------
+
+Address : 190.225.69.211
+Nombre : Lucas Dario
+Apellido : Lopez
+Cargo : Administrativo General
+Direccion : Solis 3019
+Ciudad : Buenos Aires
+Telefono : 47220750
+Email : lucasdariolopez1992@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me encuentro en la búsqueda de trabajo y me encantaría formar parte de su staff. Quedo a su disposición para tener una entrevista .
+
+Security_code : px74s
+Send : Enviar
+
+---------------
+
+Address : 190.225.69.211
+Nombre : Lucas Dario
+Apellido : Lopez
+Cargo : Administrativo General
+Direccion : Solis 3019
+Ciudad : Buenos Aires
+Telefono : 47220750
+Email : lucasdariolopez1992@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me encuentro en la búsqueda de trabajo y me encantaría formar parte de su staff. Quedo a su disposición para tener una entrevista .
+
+Security_code : 3rbhz
+Send : Enviar
+
+---------------
+
+Address : 181.46.44.26
+Nombre : Javier
+Apellido : Pisoni
+Cargo : operario
+Direccion : acevedo 4469
+Ciudad : buenos aires
+Telefono : 1134683592
+Email : javierpisoni@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : soy un joven con muchas ganas de trabajar y capacitarme para el puesto requerido
+Security_code : jg7w4
+Send : Enviar
+
+---------------
+
+Address : 186.122.26.145
+Nombre : Bárbara
+Apellido : Hornos
+Cargo : Administrativo-Recepción
+Direccion : 135 N° 4849
+Ciudad : Berazategui
+Telefono : 1567904047
+Email : barbarahornos@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Busco empleo en relación de dependencia que me permita obtener una estabilidad económica.
+Security_code : ks6yg
+Send : Enviar
+
+---------------
+
+Address : 201.254.34.157
+Nombre : Claudia Cecilia
+Apellido : Zipolo
+Cargo : Mandos Medios/Responsable/Jefa
+Direccion : Alte.Brown 3878
+Ciudad : Lomas del Mirador
+Telefono : 011-4652-7708
+Email : 115377-2804
+MAX_FILE_SIZE : 2097152
+Mensaje : Envío Curiculum, para poder postularme a las ofertas que se ajusten a mí perfil,según especialización y experiencia
+Security_code : fk87h
+Send : Enviar
+
+---------------
+

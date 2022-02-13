@@ -1,0 +1,31 @@
+Address : 190.229.144.108
+REF : OPM
+Nombre : Guillermo Diaz
+Apellido : Diaz
+Cargo : Operario
+Direccion : Chiclana 1525
+Ciudad : Campana
+Telefono : 348915361472
+Email : guille13286@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Operario 
+Security_code : 9mp6w
+Send : Enviar
+
+---------------
+
+Address : 186.56.194.43
+Nombre : andrea
+Apellido : torrez
+Cargo : recursos humanos 
+Direccion : rafael obligado
+Ciudad : moreno
+Telefono : 1123373198
+Email : andy_torrez2010@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : dejo mi cv a disposición de la consultora. 
+Security_code : b7zq8
+Send : Enviar
+
+---------------
+

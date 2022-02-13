@@ -1,0 +1,30 @@
+Address : 190.226.16.89
+Nombre : Paola Desiré
+Apellido : Castro Cáceres
+Cargo : Al que se me asigne
+Direccion : pasaje 1393 nº 2097
+Ciudad : Rosario
+Telefono : 0341-4545098
+Email : paodccastro@hotmai.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Soy una persona atenta, respnsable y con buena predisposición para aprender
+Security_code : bgfqx
+Send : Enviar
+
+---------------
+
+Address : 181.166.17.121
+Nombre : Estefanía
+Apellido : Aviléz
+Cargo : ADMINISTRATIVO, SECRETARIA, ATENCION AL CLIENTE.
+Direccion : 62
+Ciudad : La Plata
+Telefono : 4670639
+Email : tef.avilez@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto curriculum vitae. Saludos cordiales.
+Security_code : z3c9h
+Send : Enviar
+
+---------------
+

@@ -1,0 +1,183 @@
+Address : 201.252.6.138
+REF : gerente-financiero
+Nombre : Carla Noelia
+Apellido : Forte
+Cargo : Secretaria, recepcionista, telefonista, atención al cliente
+Direccion : Campana 2846 3°C
+Ciudad : Capital Federal, Villa del Parque
+Telefono : 1555842049
+Email : carla.noelia.forte@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me contacto con ustedes con el objetivo de encontrar un trabajo lo más rápido posible y estable, con una remuneración acorde al trabajo a realizar. Disponibilidad part-time de lunes a viernes entre las 08:00 y 18:00 hs.
+Gracias.
+Security_code : dhdbw
+Send : Enviar
+
+---------------
+
+Address : 201.252.6.138
+Nombre : Carla Noelia
+Apellido : Forte
+Cargo : Secretaria, recepcionista, telefonista, atención al cliente
+Direccion : Campana 2846 3°C
+Ciudad : Capital Federal, Villa del Parque
+Telefono : 1555842049
+Email : carla.noelia.forte@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me contacto con ustedes con el objetivo de encontrar un trabajo lo más rápido posible y estable, con una remuneración acorde al trabajo a realizar. Disponibilidad de lunes a viernes entre las 08:00 y 18:00 hs.
+Security_code : qz6b3
+Send : Enviar
+
+---------------
+
+Address : 186.19.83.6
+Nombre : Paola Constanza 
+Apellido : Zingoni
+Cargo : Recepcionista/telefonista/administrativa
+Direccion : Santos Dumont 2719 10 "D"
+Ciudad : C.A.B.A
+Telefono : 3529-9119/156361-9276
+Email : pao_coni_pao@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Por la presente me dirijo a ustedes, tengan a bien mi cv.
+Saludos cordiales.
+Gracias por su tiempo
+Paola .C. Zingoni
+Security_code : ssccc
+Send : Enviar
+
+---------------
+
+Address : 190.136.229.221
+Nombre : Rocio Cecilia
+Apellido : Perez Navarese
+Cargo : Administrativa
+Direccion : Fructuoso Rivera 330
+Ciudad : Cordoba Capital
+Telefono : 0351 156885410
+Email : rocionavarese@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : A quien Corresponda:        
+ 
+      
+                                Me dirijo a Ud. con el propósito de presentarle mi cv.
+
+                                En este momento me encuentro sin empleo, buscando un trabajo estable. Estoy estudiando Recursos Humanos en La Escuela Superior de Comercio Manuel  Belgrano, cursando el primer año. A nivel laboral eh tenido experiencia en control de presentismo, suspensión e informe de los mismos, verificación de referencias laborales, archivo de legajos entre otras tareas administrativas.
+ 
+ 
+                              Desde ya muchas gracias, quedo a la espera de una pronta respuesta.
+ 
+ 
+ 
+ 
+Saludos cordiales,
+Rocio Navarese.
+
+Security_code : 7xdmm
+Send : Enviar
+
+---------------
+
+Address : 186.56.194.80
+Nombre : Cristian Ariel
+Apellido : Giorgio
+Cargo : Junior recursos humanos
+Direccion : Alsina 114
+Ciudad : Merlo
+Telefono : 1164283166
+Email : cristiangiorgio88@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estoy en la búsqueda de mi primer empleo y me gustaría relacionarme con la asesoría de recursos humanos, les dejo mi Cv por si tienen alguna vacante en su staff. Gracias
+Security_code : 6cq8w
+Send : Enviar
+
+---------------
+
+Address : 186.136.77.78
+Nombre : Juan Ignacio 
+Apellido : Margueirat
+Cargo : Jefatura o Gerencia en Seguridad
+Direccion : Luis M Campos s/n
+Ciudad : Pigüé / Bs As
+Telefono : 02923-15-570197
+Email : juancho357@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Actualmente soy oficial del Ejército Argentino.
+Security_code : kqwm3
+Send : Enviar
+
+---------------
+
+Address : 186.57.168.247
+REF : adper
+Nombre : anabela soledad
+Apellido : gutierrez
+Cargo : administrativo de personal
+Direccion : grito de alcorta 1783
+Ciudad : moron
+Telefono : 46964657
+Email : soleg_129@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Espero noticias suyas.
+saluda atentamente.
+Security_code : ysjdh
+Send : Enviar
+
+---------------
+
+Address : 190.17.185.235
+REF : gerente-financiero
+Nombre : Hugo
+Apellido : Parisi
+Cargo : Gerente Administracion y Finanzas
+Direccion : Tres Arroyos 
+Ciudad : Capital Federal
+Telefono : 15-3687-3269
+Email : hfparisi@yahoo.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados
+  
+Adjunto mi cv a efectos de poder conversar con Ud.
+con  el fin de explicarle mejor mi experiencia y  
+potencialidades laborales. Quedo a la espera de su 
+atenta respuesta para concertar una entrevista  
+personal.
+ 
+Saldos cordiales
+Security_code : 7snys
+Send : Enviar
+
+---------------
+
+Address : 201.213.214.3
+Nombre : facundo david
+Apellido : lucero
+Cargo : operario
+Direccion : facu_lucero
+Ciudad : general rodriguez
+Telefono : (011) 1556529347 / (011) 1567606675 
+Email : facu_lucero@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : envio mi cv para que pueda estar consireracion 
+esperando una pronta respuesta o por lo menos que me llame para decir que no aplico al perfil de sus aspirantes saludos
+Security_code : 5sj54
+Send : Enviar
+
+---------------
+
+Address : 190.193.83.159
+REF : adper
+Nombre : Andrea Claudia
+Apellido : Lobo
+Cargo : Asministrativo de personal
+Direccion : Av.Pellegini 1282 -11-02
+Ciudad : Rosario
+Telefono : 3415909454
+Email : andrelobo1@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Por el presente me postulo a fin de cubrir el puesto de trabajo vacante,para el cual considero ser totalmente idónea.
+Security_code : p85m4
+Send : Enviar
+
+---------------
+

@@ -1,0 +1,31 @@
+Address : 201.250.103.128
+REF : gerente-de-operaciones
+Nombre : Maria Belen
+Apellido : Baratta
+Cargo : ejecutivo de cuenta
+Direccion : salas 650
+Ciudad : Capital Federal
+Telefono : 1551857095
+Email : belen_baratta@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Soy Licenciada en Relaciones Públicas.
+Security_code : 6brjg
+Send : Enviar
+
+---------------
+
+Address : 181.4.94.67
+Nombre : Iris Noemi
+Apellido : Vaninetti
+Cargo : capacitador
+Direccion : Zeballos 585 dpto 1
+Ciudad : Moreno
+Telefono : 0237-4639358
+Email : vaninetti_in@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Espero estar dentro de sus requerimientos. Muchas gracias por recibir mi CV.
+Security_code : 286hs
+Send : Enviar
+
+---------------
+

@@ -1,0 +1,50 @@
+Address : 186.124.58.142
+Nombre : Jose Maria
+Apellido : Gramajo Iramain
+Cargo : Comercial
+Direccion : San Juan 3312
+Ciudad : San Miguel de Tucuman
+Telefono : 0381-155666998
+Email : josemariagramajo@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Busco Empleo con vivienda en el Sur del pais
+Security_code : 3zwsk
+Send : Enviar
+
+---------------
+
+Address : 186.56.171.61
+Nombre : Gerardo Damian
+Apellido : Di Noia
+Cargo : logistica y distribucion
+Direccion : lorenzini 6486
+Ciudad : Buenos Aires
+Telefono : 02202454535
+Email : turro_mix@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : hola,disculpe el atrevimiento:busco empleo para lo que neseciten.gracias.que tengan un buen dia.Di Noia Gerardo.
+Security_code : fz6my
+Send : Enviar
+
+---------------
+
+Address : 190.183.22.46
+Nombre : Guillermo Ignacio
+Apellido : Pérez
+Cargo : ingeniero agrónomo
+Direccion : Rodriguez Peña 1071
+Ciudad : San Miguel
+Telefono : 01146672616
+Email : gip@live.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Mi nombre es Guillermo Ignacio Pérez, soy ingeniero agrónomo y tengo formación de posgrado por la maestría en cultivos intensivos que estoy terminando. 
+Actualmente resido en San Miguel (provincia de Bs. As) y estoy buscando trabajo en Bs. As., por tal motivo, me tomo el atrevimiento de dejar mi CV para que sea tenido en cuenta en cualquier proceso de selección laboral que uds. consideren que cuadre con mi perfil, o en la necesidad de consultores o asesores técnicos.
+Mi experiencia laboral se basa como técnico extensionista - asesor del Ministerio de Producción de Entre Ríos, docente universitario de la cátedra de zoología agrícola (FCA - UNER) e investigador (integrante de proyectos de investigación, FCA - UNL).
+Sin más, y a la espera de una respuesta favorable, los saludo atte,
+Ing. Agr. Pérez, Guillermo Ignacio
+
+Security_code : v3pzs
+Send : Enviar
+
+---------------
+

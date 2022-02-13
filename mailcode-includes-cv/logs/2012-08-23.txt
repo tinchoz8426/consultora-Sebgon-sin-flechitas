@@ -1,0 +1,73 @@
+Address : 190.231.132.86
+Nombre : Cristian Moises
+Apellido : Rodriguez
+Cargo : logistica-comercio
+Direccion : B° SMATA II mzna "G" casa 19
+Ciudad : San Miguel De Tucuman
+Telefono : (381)5887273
+Email : cristianmoisesrodriguez@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola me pongo a su disposicion enviando mis datos personales y laborales,con el fin de obtener un empleo acorde a mis conosimientos o llegar a capacitarme en una nueva experiencia laboral.mucahas gracias ATTE. Rodriguez Cristian Moises.
+Security_code : g3ycn
+Send : Enviar
+
+---------------
+
+Address : 157.93.242.50
+Nombre : Cynthia
+Apellido : Tartaglini
+Cargo : Estudiante de Ingeniería Química
+Direccion : Senillosa 40 piso 12 dpto. A
+Ciudad : C.A.B.A.
+Telefono : 1557540188
+Email : cynthiatartaglini@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados:
+
+En referencia del anuncio publicado en Jobomas.com solicitando un Estudiante de Ingeniería Química, le envío mi Currículum Vitae con el fin de formar parte en el proceso de selección.
+ 
+En cuanto a mi formación, soy estudiante avanzada en la carrera de Ingeniería Química de la Universidad Tecnológica Nacional, Técnica Universitaria en Química y becaria en distintos proyecto de investigación dentro de la facultad. Cuento con un avanzado nivel de inglés tanto oral como escrito.
+
+Me considero dinámica y comprometida, con predisposición para trabajar en equipo, facilidad para aprender y capaz de trabajar bajo presión.
+
+Quedo a su disposición para ampliar cualquier dato que considere necesario o bien, para concretar una reunión y conocernos personalmente.
+
+A la espera de sus noticias, la saludo cordialmente,
+
+
+Security_code : mfgnx
+Send : Enviar
+
+---------------
+
+Address : 190.174.135.20
+Nombre : María José
+Apellido : Bogliolo
+Cargo : joven profesional
+Direccion : Chacabuco 284 1er piso depto 1
+Ciudad : Tandil
+Telefono : (0249)154583208
+Email : mariajose_bogliolo@hotmail.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto curriculum vitae para futuras propuestas laborales.
+Security_code : wrvv4
+Send : Enviar
+
+---------------
+
+Address : 186.39.149.247
+REF : jefe-de-operaciones
+Nombre : Martin Pablo
+Apellido : Petina Avila
+Cargo : codigo de referencia
+Direccion : Mza O Mblock 9 1º Piso B. Bº Rivadavia Norte
+Ciudad : Rivadavia
+Telefono : 264-5130901
+Email : lory.avi@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Por favor necesito un trabajo en forma urgente, confío en vuestra empresa para que me ubiquen en éste o cualquier puesto que ustedes crean acorde a mis aptitudes. Gracias
+Security_code : bkb7y
+Send : Enviar
+
+---------------
+

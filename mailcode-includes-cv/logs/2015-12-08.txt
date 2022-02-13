@@ -1,0 +1,67 @@
+Address : 190.189.169.107
+REF : GTEP
+Nombre : Luis María
+Apellido : Monet
+Cargo : Gerente
+Direccion : Luis María Drago 1223
+Ciudad : Villa Adelina-San Isidro
+Telefono : 47653640
+Email : luismonett@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Por medio de la presente coloco a su disposición mi CV para ser tenido en cuenta en la selección de personal que se encuentra realizando .
+Security_code : 7sjqw
+Send : Enviar
+
+---------------
+
+Address : 190.244.173.52
+Nombre : Natalia
+Apellido : Ferrero
+Cargo : Jefe de producto
+Direccion : la rioja 1231 4b
+Ciudad : Capital Federal
+Telefono : 20758549
+Email : nati_ferrero@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Envio mi cv para futuras busquedas
+Security_code : xm9n3
+Send : Enviar
+
+---------------
+
+Address : 181.228.243.224
+Nombre : Camila Kimei
+Apellido : Marful Martínez
+Cargo : Atención al cliente/ Secretaria
+Direccion : Eva Perón 1010
+Ciudad : Burzaco
+Telefono : 1533920169
+Email : camila.kimei@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me encuentro en la búsqueda de un empleo que me permita adquirir experiencia y nuevos conocimientos. 
+Security_code : yqyj5
+Send : Enviar
+
+---------------
+
+Address : 190.189.208.25
+Nombre : Laura Alicia
+Apellido : Innocenzi
+Cargo : Arquitecto
+Direccion : José Manuel Estrada 2159
+Ciudad : Crucesita
+Telefono : 1564378797
+Email : arquilai@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : De mi mayor consideración:
+                                         Por la presente tengo el agrado de dirigirme a Uds. con el fin de acercarles mi Curriculum Vitae.
+Seria de mi agrado concertar una entrevista con ustedes, para profundizar aspectos de mi perfil que puedan resultarle de interés. Para su concertación, adjunto mis datos personales y espero su llamado.
+
+Saludo a usted cordialmente
+
+Arq. Laura Innocenzi
+Security_code : 68c98
+Send : Enviar
+
+---------------
+

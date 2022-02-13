@@ -1,0 +1,16 @@
+Address : 190.48.232.197
+Nombre : Mariela
+Apellido : Berra
+Cargo : Administrativo - Recepcion
+Direccion : Juan B. Justo 800
+Ciudad : Haedo
+Telefono : 156.301.6525
+Email : berra.mariela@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenos dias, estoy en la busqueda laboral, mi interesan puestos administrativos, de recepcion, secretariado ya que poseeo experiencia en el area.
+Muchas Gracias.
+Security_code : s5xyw
+Send : Enviar
+
+---------------
+

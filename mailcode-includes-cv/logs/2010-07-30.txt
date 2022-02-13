@@ -1,0 +1,95 @@
+Address : 190.193.153.32
+Nombre : FELIPE JOSE
+Apellido : TOMANOVICH
+Cargo : GERENTE DE ADMINISTRATIVO FINANCIERO
+Direccion : AV SAN JUAN B DE LASALLE 1829
+Ciudad : BUENOS AIRES
+Telefono : 46841693
+Email : ftomanovich@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Lic. Andrea Tambascio:
+Ref.: GTEFIN
+
+Deseo postularme en la bùsqueda de la referencia aparecida en el Portal Computrabajo. Soy Contador Pùblico y Licenciado en Administraciòn habìendo liderado equipos de trabajo orientados al logro de los objetivos propuestos en esta bùsqueda.
+Quedo a su disposiciòn para ampliar personalmente la informaciòn remitida.
+Atentamente
+
+Felipe J. Tomanovich
+15-3-407-1912
+Security_code : 6vhmx
+Send : Enviar
+
+---------------
+
+Address : 190.174.24.134
+Nombre : Juan Manuel
+Apellido : Escudero
+Cargo : Administrativo, Cadete, Otros
+Direccion : Rio Negro 642
+Ciudad : Bueno Aires
+Telefono : 1567432166
+Email : juannno.j@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenas,queria aclarar no me postulo para un cargo en especial, necesito un trabajo
+Security_code : r237g
+Send : Enviar
+
+---------------
+
+Address : 190.220.163.125
+Nombre : hh
+Apellido : ghgh
+Cargo : hghs
+Direccion : hshg
+Ciudad : hgh
+Telefono : 465445645
+Email : hhs@grega
+MAX_FILE_SIZE : 2097152
+Mensaje : grgrg
+Security_code : hk9nw
+Send : Enviar
+
+---------------
+
+Address : 186.58.37.136
+REF : contador
+Nombre : santiago david
+Apellido : serrano
+Cargo : empleado de deposito , diseño
+Direccion : santa catalina 5136
+Ciudad : laferrere
+Telefono : 1569535785
+Email : santiago_david@live.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : contrar un trabajoacorde ami curriculum.gracias
+Security_code : 9g9vg
+Send : Enviar
+
+---------------
+
+Address : 24.232.112.91
+Nombre : Heber
+Apellido : Alvarez 
+Cargo : Ayudante de Seguridad e Higiene
+Direccion : Garcia Lorca 4166
+Ciudad : Jose C. Paz
+Telefono : 011-6604-4542
+Email : alvarezheber@hotmail.com
+
+---------------
+
+Address : 24.232.112.91
+Nombre : Heber
+Apellido : Alvarez 
+Cargo : Ayudante de Seguridad e Higiene
+Direccion : Garcia Lorca 4166
+Ciudad : Jose C. Paz
+Telefono : 011-6604-4542
+Email : alvarezheber@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Una pasantia me viene barbaro para adquirir experiencia en base a mi carrera.Atte.
+Security_code : v4vhx
+Send : Enviar
+
+---------------
+

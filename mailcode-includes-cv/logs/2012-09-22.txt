@@ -1,0 +1,30 @@
+Address : 190.1.16.144
+Nombre : Alexis Nicolas
+Apellido : Oliva
+Cargo : Indistinto
+Direccion : Cramer 902
+Ciudad : BAHIA BLANCA
+Telefono : 0291 - 154720354
+Email : olivaalex2008@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Quisiera tener la oportunidad de obtener un empleo. desde ya muchas gracias por su ayuda.
+Security_code : xzpqf
+Send : Enviar
+
+---------------
+
+Address : 181.1.225.70
+Nombre : Daiana
+Apellido : De La Rosa
+Cargo : atencion telefonica
+Direccion : pozo de vargas 621
+Ciudad : tigre
+Telefono : 1536866194
+Email : daianadelarosa@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : curriculum
+Security_code : Sf2jn
+Send : Enviar
+
+---------------
+

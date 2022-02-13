@@ -1,0 +1,267 @@
+Address : 190.172.225.127
+Nombre : Carina Soledad
+Apellido : Aguirre
+Cargo : Cajera, Recepcionista
+Direccion : Crisólogo Larralde 1060
+Ciudad : Moron
+Telefono : 1559245270
+Email : carina.s.aguirre@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Tengo el agrado de dirigirme a Uds. con el fin de transmitirles mi deseo en firme de incorporarme a su organización. A tal efecto adjunto, junto a la presente, mi CV.
+
+Saludos
+
+Aguirre Carina
+Security_code : c89ry
+Send : Enviar
+
+---------------
+
+Address : 190.7.253.238
+Nombre : Nuhad Mariel
+Apellido : Kassab
+Cargo : Arquitecta
+Direccion : cochabamba 2516
+Ciudad : caba
+Telefono : 1134704143
+Email : nuhi.kassab@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenos dias estoy interesada en un puesto relacionado con el rubro de la arquitectura.
+Security_code : 5zwsn
+Send : Enviar
+
+---------------
+
+Address : 190.7.253.238
+Nombre : Nuhad Mariel
+Apellido : Kassab
+Cargo : Arquitecta
+Direccion : cochabamba 2516
+Ciudad : caba
+Telefono : 1134704143
+Email : nuhi.kassab@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenos dias estoy interesada en un puesto relacionado con el rubro de la arquitectura.
+Security_code : 5zwsn
+Send : Enviar
+
+---------------
+
+Address : 190.7.253.238
+Nombre : Nuhad Mariel
+Apellido : Kassab
+Cargo : Arquitecta
+Direccion : cochabamba 2516
+Ciudad : caba
+Telefono : 1134704143
+Email : nuhi.kassab@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenos dias estoy interesada en un puesto relacionado con el rubro de la arquitectura.
+Security_code : 5zwsn
+Send : Enviar
+
+---------------
+
+Address : 190.7.253.238
+Nombre : Nuhad Mariel 
+Apellido : Kassab
+Cargo : Arquitecta jr
+Direccion : cochambamba 2516
+Ciudad : caba
+Telefono : 1134704143
+Email : nuhi.kassab@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenos dias estoy interesada en un puesto relacionado con el rubro de la arquitectura.
+Security_code : kx9w9
+Send : Enviar
+
+---------------
+
+Address : 190.7.253.238
+Nombre : Nuhad Mariel 
+Apellido : Kassab
+Cargo : Arquitecta jr
+Direccion : cochambamba 2516
+Ciudad : caba
+Telefono : 1134704143
+Email : nuhi.kassab@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenos dias estoy interesada en un puesto relacionado con el rubro de la arquitectura.
+Security_code : kx9w9
+Send : Enviar
+
+---------------
+
+Address : 190.7.253.238
+Nombre : Nuhad Mariel
+Apellido : Kassab
+Cargo : Arquitecta jr
+Direccion : cochabamba 2516
+Ciudad : caba
+Telefono : 1134704143
+Email : nuhi.kassab@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenos dias estoy interesada en un puesto relacionado con el rubro de la arquitectura.
+Security_code : yq7w9
+Send : Enviar
+
+---------------
+
+Address : 190.7.253.238
+Nombre : Nuhad Mariel
+Apellido : Kassab
+Cargo : Arquitecta jr
+Direccion : cochabamba 2516
+Ciudad : caba
+Telefono : 1134704143
+Email : nuhi.kassab@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenos dias estoy interesada en un puesto relacionado con el rubro de la arquitectura.
+Security_code : yq7w9
+Send : Enviar
+
+---------------
+
+Address : 190.7.253.238
+Nombre : Nuhad Mariel
+Apellido : Kassab
+Cargo : Arquitecta
+Direccion : cochabamba 2516
+Ciudad : caba
+Telefono : 1134704143
+Email : nuhi.kassab@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenos dias estoy interesada en un puesto relacionado con el rubro de la arquitectura.
+Security_code : czpcs
+Send : Enviar
+
+---------------
+
+Address : 190.183.100.93
+Nombre : Fernando Sebastián
+Apellido : Bezus
+Cargo : Ingeniero en Alimentos
+Direccion : Juncal 2843
+Ciudad : CABA
+Telefono : 3794702453
+Email : fernandobezus@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados,
+Mi nombre es Fernando Sebastián Bezus, soy Ingeniero en Alimentos.
+Me encuentro en plena búsqueda laboral para ofrecer mis servicios. Dado esto es que me gustaría saber sí tiene algún email dónde pueda enviar mi CV, para poder pertenecer a su base de datos. 
+Desde ya muchísimas gracias, disculpe las molestias. 
+Saludos
+Fernando
+Security_code : m668x
+Send : Enviar
+
+---------------
+
+Address : 190.183.100.93
+Nombre : Fernando Sebastián
+Apellido : Bezus
+Cargo : Ingeniero en Alimentos
+Direccion : Juncal 2843
+Ciudad : CABA
+Telefono : 3794702453
+Email : fernandobezus@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados,
+Mi nombre es Fernando Sebastián Bezus, soy Ingeniero en Alimentos.
+Me encuentro en plena búsqueda laboral para ofrecer mis servicios. Dado esto es que me gustaría saber sí tiene algún email dónde pueda enviar mi CV, para poder pertenecer a su base de datos. 
+Desde ya muchísimas gracias, disculpe las molestias. 
+Saludos
+Fernando
+Security_code : m668x
+Send : Enviar
+
+---------------
+
+Address : 190.183.100.93
+Nombre : Fernando Sebastián
+Apellido : Bezus
+Cargo : Ingeniero en Alimentos
+Direccion : Juncal 2843
+Ciudad : CABA
+Telefono : 3794702453
+Email : fernandobezus@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados,
+Mi nombre es Fernando Sebastián Bezus, soy Ingeniero en Alimentos.
+Me encuentro en plena búsqueda laboral para ofrecer mis servicios. Dado esto es que me gustaría saber sí tiene algún email dónde pueda enviar mi CV, para poder pertenecer a su base de datos. 
+Desde ya muchísimas gracias, disculpe las molestias. 
+Saludos
+Fernando
+Security_code : gy83j
+Send : Enviar
+
+---------------
+
+Address : 168.96.255.161
+Nombre : Lucia
+Apellido : Lentini
+Cargo : Selección de personal, Asistente, Secretaria, Recepcionista 
+Direccion : Gorriti 6083 
+Ciudad : Buenos Aires
+Telefono : 15-68002185
+Email : luli.lentini@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados, Espero puedan considerar mi CV para sus actuales o futuras búsquedas laborales
+Security_code : 4xnrp
+Send : Enviar
+
+---------------
+
+Address : 186.18.166.168
+Nombre : Florencia Micaela
+Apellido : Soler
+Cargo : Organización de eventos
+Direccion : zequeira 6987
+Ciudad : Capital Federal
+Telefono : 1558426949
+Email : florencia.soler.18@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenos días: Envío adjunto mi curriculum vitae para futuras contrataciones, ya que estoy interesada en formar parte del equipo de Sebgon Consultora y estudio la carrera de Organización de eventos en COE.
+
+Muchas gracias. 
+
+Saludos Att: Florencia Micaela Soler
+Security_code : 5nt6g
+Send : Enviar
+
+---------------
+
+Address : 186.18.166.168
+Nombre : Florencia Micaela
+Apellido : Soler
+Cargo : Organización de eventos
+Direccion : zequeira 6987
+Ciudad : Capital Federal
+Telefono : 1558426949
+Email : florencia.soler.18@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenos días: Envío adjunto mi curriculum vitae para futuras contrataciones, ya que estoy interesada en formar parte del equipo de Sebgon Consultora y estudio la carrera de Organización de eventos en COE.
+
+Muchas gracias. 
+
+Saludos Att: Florencia Micaela Soler
+Security_code : 5nt6g
+Send : Enviar
+
+---------------
+
+Address : 181.169.83.68
+Nombre : Yasmin Lucia
+Apellido : De Micheli
+Cargo : Secretaria, Cadeta, Empleada administrativa, Recepcionista
+Direccion : Estados Unidos 375
+Ciudad : V.MARTELLI
+Telefono : 1544467269
+Email : yasmiinluciia@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Necesito trabajar, quiero desempeñar mis conocimientos y estoy dispuesta a aprender cosas nuevas. Desde ya muchas gracias. 
+Security_code : sf45r
+Send : Enviar
+
+---------------
+

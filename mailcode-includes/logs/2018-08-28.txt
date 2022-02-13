@@ -1,0 +1,12 @@
+Address : 181.47.230.163
+ <br>Nombre : Adela 
+ <br>Apellido : Toresano
+ <br>Empresa : Asociación Civil Isauro Arancibia
+ <br>Telefono : 1140490882
+ <br>Email : adelatoresano@hotmail.com
+ <br>Mensaje : Estimados, mi nombre es Adela Toresano y soy vicepresidenta de la AC. Tenemos un hogar para adolescentes que funciona en una casa grande y estamos necesitando presupuesto para realizar un plan de evacuación de acuerdo a la nueva ley de la CABA. Esperamos su pronta respuesta. Saludos.
+ <br>Security_code : hczky
+ <br>Send : Enviar
+ <br>
+---------------
+

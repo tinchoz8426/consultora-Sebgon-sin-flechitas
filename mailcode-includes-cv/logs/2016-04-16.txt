@@ -1,0 +1,79 @@
+Address : 190.216.85.172
+Nombre : Juan Pablo
+Apellido : Fígaro
+Cargo : Cualquier cargo
+Direccion : Libertad 251
+Ciudad : CABA
+Telefono : 0346515404559
+Email : juanpablolaboral@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola, me encuentro en la búsqueda de empleo y me gustaría hacerle saber a esta empresa que estoy a su plena disposición en el supuesto que llegaran a necesitar de una persona con ganas de trabajar. Muchas gracias. Saludos.
+Security_code : d69y6
+Send : Enviar
+
+---------------
+
+Address : 181.104.111.96
+Nombre : Adalberto Eladio 
+Apellido : ALMIRON 
+Cargo : soldador
+Direccion : Haití 2556 
+Ciudad : Benavidez 
+Telefono : 1134706354
+Email : adan18_alm@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Es para postularme como soldador
+Security_code : yygh6
+Send : Enviar
+
+---------------
+
+Address : 186.130.205.82
+Nombre : carlos alberto
+Apellido : figueras
+Cargo : oficial cableador / tecnico 
+Direccion : soldado de la frontera 5085
+Ciudad : caba
+Telefono : 46041856 // 1567317660
+Email : kaytotango66@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : He visto la Oferta Laboral publicada y la misma me resultó de gran interés. Por este motivo, les hago llegar mi Currículum Vitae, a fin de ser tenido en cuenta como candidato.
+Quedo a su disposición para ampliar cualquier información necesaria.
+Cordialmente,
+Carlos Figueras
+
+Security_code : 9vj5r
+Send : Enviar
+
+---------------
+
+Address : 181.22.22.228
+Nombre : brenda
+Apellido : albamonte
+Cargo : secretaria
+Direccion : diag 79 n° 415
+Ciudad : La Plata
+Telefono : 4232421
+Email : albamontebren@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estoy interesada en trabajar con ustedes
+Security_code : h8tjb
+Send : Enviar
+
+---------------
+
+Address : 179.36.131.131
+Nombre : Carlos Daniel
+Apellido : Romero
+Cargo : Operario
+Direccion : armonia 5428
+Ciudad : Buenos Aires
+Telefono : 1535885870
+Email : carlosdanielromero10@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : muchas gracias por recibir mi curriculo
+Security_code : zh98k
+Send : Enviar
+
+---------------
+

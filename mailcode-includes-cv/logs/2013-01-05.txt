@@ -1,0 +1,63 @@
+Address : 190.139.80.233
+REF : jefe-de-operaciones
+Nombre : OSVALDO JULIO
+Apellido : GATTI
+Cargo : JEFE DE OPERACIONES
+Direccion : av.avelino rolon 2190
+Ciudad : BOULOGNE SUR MER
+Telefono : 4735/4648
+Email : osvaldogatti@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Me postulo para el empleo de Jefe de Seguridad, soy abogado con mas de cinco años de experiencia, ademas de ser Licenciado de Seguridad Integral, egresado del Instituop Universitario de Policia Federal y ademasn en el transcurso de este año presentare mi tesis para obtener la Maestria en Seguridad Publica.
+Security_code : j4htf
+Send : Enviar
+
+---------------
+
+Address : 190.16.195.220
+Nombre : Eduardo Adrián
+Apellido : Aspezzi
+Cargo : Operador
+Direccion : Lope de Vega 920 D 1
+Ciudad : CABA
+Telefono : 15-2191-5654
+Email : edu_rp_3@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estoy en búsqueda de un puesto de trabajo de atención al publico o en área administrativa, en cual tenga posibilidades de avance en la institución y a nivel personal.
+
+Soy una persona organizada, con habilidad de aprendizaje y adaptación. Me considero resolutivo.
+
+En relación a trabajos previos la experiencia me brindó la capacidad de comunicación con el cliente. 
+
+A su inmediata disposición, espero una respuesta.
+
+Saludos cordiales.
+
+Eduardo Aspezzi.
+Security_code : 25cxp
+Send : Enviar
+
+---------------
+
+Address : 186.137.238.254
+Nombre : Govana Paola
+Apellido : Duarte Nuñez
+Cargo : Nutricionista
+Direccion : Laguna 1108
+Ciudad : Capital Federal
+Telefono : 155-1775023
+Email : giovana_duarte@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : 
+Estimada/o( a quien va dirigido)
+Le envío por medio del presente, mi Curriculum Vitae, a fin de que pueda evaluar si el mismo se ajusta al perfil buscado. 
+
+Saludo a Ud atte 
+
+Govana Duarte
+
+Security_code : YKh4v
+Send : Enviar
+
+---------------
+

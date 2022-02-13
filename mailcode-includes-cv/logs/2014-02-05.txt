@@ -1,0 +1,167 @@
+Address : 181.118.6.230
+Nombre : Jorge
+Apellido : Brizuela
+Cargo : cajero-repositor
+Direccion : b tres estrellas 2 m-a c-8
+Ciudad : Mendoza
+Telefono : 02614709150-4363790
+Email : jorge_loschangos @hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : soy muy activo y capas de adaptarme a cualquier tipo de trabajo, con disponibilidad horaria y muchas ganas de trabajar
+Security_code : r6wrn
+Send : Enviar
+
+---------------
+
+Address : 186.122.44.195
+Nombre : cinthiag
+Apellido : giantomaso
+Cargo : vendedora/recepcionista/atencion al cliente/empleada administrativa
+Direccion : J. azurduy 1178
+Ciudad : Pilar, Bs, As
+Telefono : 02326400379
+Email : cinthiag_18@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Disponibilidad horaria full time
+Security_code : wv6sp
+Send : Enviar
+
+---------------
+
+Address : 190.2.123.179
+Nombre : Simon Ezequiel
+Apellido : Salvatierra
+Cargo : Técnico en Higiene y Seguridad en el trabajo
+Direccion : Vicente López 2838
+Ciudad : Salta
+Telefono : 387-155744763
+Email : eze_salvatierra@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Socialmente apunto a la creación de un buen ambiente laboral, compañerismo y trabajo en equipo.
+Profesionalmente busco aprender de los profesionales, explotar mi creatividad y lograr aquellos propósitos que me sean señalados.
+
+Security_code : nvygs
+Send : Enviar
+
+---------------
+
+Address : 190.188.46.176
+REF : Asistente-Comercial
+Nombre : Juan Pablo
+Apellido : Kiberl
+Cargo : Sin postulación
+Direccion : Cnel. Pringles 36 Depto. 3
+Ciudad : Bernal
+Telefono : 1530528288
+Email : jpkiberl@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : De mi mayor consideración: 
+
+Adjunto, junto a estas lineas, mi hoja de vida para poder tener una oportunidad laboral con ustedes.
+
+Si fuera necesario podría acercarme personalmente para cualquier consulta adicional o entrevista personal. Solo tiene que comunicarse al teléfono: 1530528288 o por mail jpkiberl@gmail.com
+
+Pongo, además, en su conocimiento que estoy en condiciones de asumir la responsabilidad de este empleo en forma inmediata, y con amplia disponibilidad de horarios. 
+
+Agradezco tengan en cuenta mi perfil 
+
+Muchas Gracias por su atención prestada 
+
+En espera de sus comentarios 
+
+Me despido atte.
+Security_code : hcwpn
+Send : Enviar
+
+---------------
+
+Address : 190.188.46.176
+REF : Asistente-Comercial
+Nombre : Juan Pablo
+Apellido : Kiberl
+Cargo : Sin postulación
+Direccion : Cnel. Pringles 36 Depto. 3
+Ciudad : Bernal
+Telefono : 1530528288
+Email : jpkiberl@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : De mi mayor consideración: 
+
+Adjunto, junto a estas lineas, mi hoja de vida para poder tener una oportunidad laboral con ustedes.
+
+Si fuera necesario podría acercarme personalmente para cualquier consulta adicional o entrevista personal. Solo tiene que comunicarse al teléfono: 1530528288 o por mail jpkiberl@gmail.com
+
+Pongo, además, en su conocimiento que estoy en condiciones de asumir la responsabilidad de este empleo en forma inmediata, y con amplia disponibilidad de horarios. 
+
+Agradezco tengan en cuenta mi perfil 
+
+Muchas Gracias por su atención prestada 
+
+En espera de sus comentarios 
+
+Me despido atte.
+Security_code : 3wgwc
+Send : Enviar
+
+---------------
+
+Address : 190.188.46.176
+REF : Asistente-Comercial
+Nombre : Juan Pablo
+Apellido : Kiberl
+Cargo : Sin postulación
+Direccion : Cnel. Pringles 36 Depto. 3
+Ciudad : Bernal
+Telefono : 1530528288
+Email : jpkiberl@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : De mi mayor consideración: 
+
+Adjunto, junto a estas lineas, mi hoja de vida para poder tener una oportunidad laboral con ustedes.
+
+Si fuera necesario podría acercarme personalmente para cualquier consulta adicional o entrevista personal. Solo tiene que comunicarse al teléfono: 1530528288 o por mail jpkiberl@gmail.com
+
+Pongo, además, en su conocimiento que estoy en condiciones de asumir la responsabilidad de este empleo en forma inmediata, y con amplia disponibilidad de horarios. 
+
+Agradezco tengan en cuenta mi perfil 
+
+Muchas Gracias por su atención prestada 
+
+En espera de sus comentarios 
+
+Me despido atte.
+Security_code : 82b9d
+Send : Enviar
+
+---------------
+
+Address : 190.195.204.163
+Nombre : Roger
+Apellido : Ortiz
+Cargo : Consultor
+Direccion : Castelli 376
+Ciudad : CABA
+Telefono : 1133063942
+Email : ingroger@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buen día, tengo una amplia experiencia consultorias de seguridad informática, calidad, continuidad del negocios y gestió de TI.me gustaria trabajar con ustedes.
+Security_code : j65z6
+Send : Enviar
+
+---------------
+
+Address : 186.59.69.104
+Nombre : Verónica Belén
+Apellido : BRAVO
+Cargo : empleado
+Direccion : Hugo Ferrari
+Ciudad : Godoy Cruz
+Telefono : 054-0261-156257504
+Email : bravoveronicabelen@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estoy a su disposición para cualquier oferta de empleo desde ya muchas gracias
+Security_code : K4Q29
+Send : Enviar
+
+---------------
+

@@ -1,0 +1,30 @@
+Address : 190.245.211.20
+Nombre : Julieta Malena
+Apellido : Najt
+Cargo : relacionista publico
+Direccion : parana 533 3A
+Ciudad : cordoba
+Telefono : 2994124422
+Email : julietanajt@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola. quisiera contactarme con ustedes para alguna oportunidad laboral.
+Security_code : gw8xy
+Send : Enviar
+
+---------------
+
+Address : 190.137.116.183
+Nombre : Elizabeth Leonor
+Apellido : Massad
+Cargo : Asistente Contable, Secretaria
+Direccion : Santuario Eucarístico 4473
+Ciudad : Villa Ballester
+Telefono : 4847-2433
+Email : elinorm@arnet.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : También aunque no tenga experiencia laboral, me gustaría algún puesto que tenga que ver con mi formación técnica, como para empezar a trabajar en lo mío. Gracias.
+Security_code : 2qpn4
+Send : Enviar
+
+---------------
+

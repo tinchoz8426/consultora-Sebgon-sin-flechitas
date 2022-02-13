@@ -1,0 +1,76 @@
+Address : 190.173.32.41
+Nombre : Maria Esther
+Apellido : Aguinagalde
+Cargo : trabajadora social
+Direccion : chorroarin 3254
+Ciudad : Lanus
+Telefono : 1567667125
+Email : esther_3015@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : A quien corresponda; dejo adjunto cv por puesto de trabajadora social para socioambiental, zona Lanus, segun solicitud de empleo de computrabajo con fecha 4/4.
+Saludos cordiales
+Security_code : w2dgk
+Send : Enviar
+
+---------------
+
+Address : 200.41.47.212
+REF : jefe-de-operaciones
+Nombre : Tamara
+Apellido : Dreher
+Cargo : Administracion de empresas
+Direccion : Yapeyu 710
+Ciudad : Santa Fe
+Telefono : 03482-15629914
+Email : tamara_dreher@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Mi objetivo es encontrar trabajo, me considero responsable y eficaz al momento en el que me delegan obligaciones.
+Security_code : zd2bx
+Send : Enviar
+
+---------------
+
+Address : 200.41.47.212
+REF : jefe-de-operaciones
+Nombre : Tamara
+Apellido : Dreher
+Cargo : Administracion de empresas
+Direccion : Yapeyu 710
+Ciudad : Santa Fe
+Telefono : 03482-15629914
+Email : tamara_dreher@hotmail.com
+
+---------------
+
+Address : 190.230.43.148
+Nombre : sabrina
+Apellido : lucania
+Cargo : indistinto
+Direccion : independencia 2332
+Ciudad : villa constitucion santa fe
+Telefono : 0336154592713
+Email : sabrinalucania@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : quisiera trabajar efectivamente en na empresa seria que me respalde seguridad laboral, efectividad, y sueldo acorde a la ley
+Security_code : rs63m
+Send : Enviar
+
+---------------
+
+Address : 200.29.248.26
+Nombre : Enoch
+Apellido : Assell
+Cargo : produccion
+Direccion : cordoba 365
+Ciudad : Huinca Renanco
+Telefono : 0230215512195
+Email : assellenoch@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenas tardes les dejo mi curriculum, soy Ingeniero Agronomo y estoy buscando trabajo, desde ya le agradezco el servicio y estoy a su disposición para alguna entrevista.
+Espero no haberle ocasionado muchas molestias.
+Saludos cordiales
+Security_code : t2rgk
+Send : Enviar
+
+---------------
+

@@ -1,0 +1,24 @@
+Address : 190.195.26.68
+Nombre : sergio
+Apellido : lipovich
+Empresa : Sol de Poman sa
+Telefono : 5491149697646
+Email : slipovich@fibertel.com.ar
+Mensaje : buscamos tecnico en alimentacion para supervisor de linea de producción .Con experiencia y disposicion para radicarse en Andalgala, Catamarca
+Security_code : vfqpk
+Send : Enviar
+
+---------------
+
+Address : 186.13.6.15
+Nombre : manuel
+Apellido : lopez
+Empresa : sin nombre
+Telefono : 1532100076
+Email : manu508@hotmail.com
+Mensaje : quisiera saber si puedon enviar mi cv para servicios de estudios de seguridad, debido soy miembro de una FFSS, y quisiera hacer estudiso de seguridad. gracias. 
+Security_code : wd9qf
+Send : Enviar
+
+---------------
+

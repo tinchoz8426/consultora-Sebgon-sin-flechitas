@@ -1,0 +1,15 @@
+Address : 181.1.96.184
+Nombre : georgina
+Apellido : coronel
+Cargo : administracion
+Direccion : ayacucho
+Ciudad : buenos aires
+Telefono : 47380804
+Email : georgina.coronel@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje :  mi curriculum vitae esta a su disposición desde ya muchas gracias
+Security_code : 7dn46
+Send : Enviar
+
+---------------
+

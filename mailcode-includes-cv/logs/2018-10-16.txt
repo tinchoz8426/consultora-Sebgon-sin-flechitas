@@ -1,0 +1,200 @@
+Address : 66.249.85.7<br>
+ <br>REF : TEC. EL
+ <br>Nombre : Facundo
+ <br>Apellido : Hendel
+ <br>Cargo : Tecnico
+ <br>Direccion : Zeballos 519
+ <br>Ciudad : Avellaneda
+ <br>Telefono : 1132755018
+ <br>Email : facundohendel@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Adjunto cv para remitir a quien corresponda
+ <br>Security_code : t8tm7
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.183.105.149<br>
+ <br>Nombre : Elias David
+ <br>Apellido : Peralta
+ <br>Cargo : Control de Calidad un Operarío de producción 
+ <br>Direccion : Castro Torres 3603
+ <br>Ciudad : Córdoba 
+ <br>Telefono : 3516516062
+ <br>Email : davidperalta.83@hotmail.com.ar 
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buen día,
+            Adjunto mi Curriculum Vitae para que lo tengan en consideración.
+ Desde ya muchas gracias.
+ <br>Security_code : mn9nq
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.192.40.183<br>
+ <br>Nombre : Luciano
+ <br>Apellido : Ugarte
+ <br>Cargo : Vacantes
+ <br>Direccion : Corrientes 1870
+ <br>Ciudad : Rosario
+ <br>Telefono : 03404 - 15518842
+ <br>Email : Lucianougarte95@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Adjunto cv
+ <br>Security_code : 4XCTK
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.55.193.221<br>
+ <br>Nombre : Federico
+ <br>Apellido : Gallegos
+ <br>Cargo : Licenciatura en Seguridad e Higiene y Control Ambiental 
+ <br>Direccion : aberastain 177
+ <br>Ciudad : moron
+ <br>Telefono : 1555252108
+ <br>Email : fgallegos007@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Envio el curriculum para participar de alguna oportinidad laboral
+ <br>Security_code : npmxm
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 152.170.93.226<br>
+ <br>REF : Ing. quim
+ <br>Nombre : Maria Victoria
+ <br>Apellido : Markovich Garcia
+ <br>Cargo : Jefa de procesos Industriales
+ <br>Direccion : Uruguay 688
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 91121840357
+ <br>Email : markovich189@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas tardes, estoy consciente de que no cumplo con la edad y no cuento con movilidad propia en el caso del cargo "Jefa de procesos Industriales", sin embargo, adjunto mi CV para futuras oportunidades.
+ <br>Security_code : wqgfh
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.25.251.46<br>
+ <br>Nombre : Emmanuel
+ <br>Apellido : Tenca
+ <br>Cargo : Otros
+ <br>Direccion : Maestra Munñoz 1716
+ <br>Ciudad : Ituzaingo
+ <br>Telefono : 1125128391
+ <br>Email : emmanueltenca@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Realmente necesito encontrar un empleo por lo cual no tengo amplias pretensiones. Tengo mivilidad propia y amplia disponibilidad horaria
+ <br>Security_code : t485j
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.12.8.6<br>
+ <br>Nombre : Gabriel
+ <br>Apellido : Brunerberg 
+ <br>Cargo : Operario 
+ <br>Direccion : P. Stoppñer 4829
+ <br>Ciudad : Buenos Aires 
+ <br>Telefono : 1125835638
+ <br>Email : Gabrielbrunerberg97@gmail.com 
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Disponibilidad: full time
+ <br>Security_code : hjvzd
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.18.124.234<br>
+ <br>Nombre : Alvaro Alejo
+ <br>Apellido : Alvarez
+ <br>Cargo : Todo tipo de oficio.
+ <br>Direccion : Gaboto 6573 
+ <br>Ciudad : Almirante Brown
+ <br>Telefono : 1162042768
+ <br>Email : Alejodedonatozg@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me gustaria poder brindarle mis experencia y poder cumplir en cualquier tipo de oficio.
+ <br>Security_code : Vbdgb
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.18.124.234<br>
+ <br>Nombre : Alvaro Alejo
+ <br>Apellido : Alvarez
+ <br>Cargo : Todo tipo de oficio.
+ <br>Direccion : Gaboto 6573 
+ <br>Ciudad : Almirante Brown
+ <br>Telefono : 1162042768
+ <br>Email : Alejodedonatozg@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me gustaria poder brindarle mis experencia y poder cumplir en cualquier tipo de oficio.
+ <br>Security_code : 4zm38
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.18.124.234<br>
+ <br>Nombre : Alvaro Alejo
+ <br>Apellido : Alvarez
+ <br>Cargo : Todo tipo de oficio.
+ <br>Direccion : Gaboto 6573 
+ <br>Ciudad : Almirante Brown
+ <br>Telefono : 1162042768
+ <br>Email : Alejodedonatozg@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me gustaria poder brindarle mis experencia y poder cumplir en cualquier tipo de oficio.
+ <br>Security_code : 4zm38
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.141.199.194<br>
+ <br>REF : TEC. EL
+ <br>Nombre : Jean Carlos
+ <br>Apellido : Villamizar
+ <br>Cargo : técnico electrónico
+ <br>Direccion : calle bacacay flores 2532
+ <br>Ciudad : buenos aires caba
+ <br>Telefono : 1122527888
+ <br>Email : jeancarlosvillamizarjcv@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola buenas tardes le escribo con el fin de postularme para la vacante de técnico electrónico industrial. 
+ <br>Security_code : wf7gq
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.10.85.47<br>
+ <br>Nombre : Diego Martin
+ <br>Apellido : Berardo
+ <br>Cargo : Chófer repositor
+ <br>Direccion : Barrio casino block d depto 8pb
+ <br>Ciudad : Salta
+ <br>Telefono : 3875666697/ fijo /4237889
+ <br>Email : diegoberardo37@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Currículum vitae 
+ <br>Security_code : 5tqw7
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.46.36.238<br>
+ <br>Nombre : Ricardo Enrique
+ <br>Apellido : Ruiz Rodriguez
+ <br>Cargo : Ingeniero Civil
+ <br>Direccion : calle 41 y 137
+ <br>Ciudad : LA PLATA
+ <br>Telefono : 2215694615
+ <br>Email : rruizcec@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Desempleado
+ <br>Security_code : s7wt9
+ <br>Send : Enviar
+ <br>
+---------------
+

@@ -1,0 +1,126 @@
+Address : 190.194.0.81<br>
+ <br>REF : ROT-1
+ <br>Nombre : Paula Andrea
+ <br>Apellido : Jiménez
+ <br>Cargo : Oficina Técnica
+ <br>Direccion : México
+ <br>Ciudad : 1/7
+ <br>Telefono : 1158708034
+ <br>Email : paulagj2000@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buen día,
+Adjunto mi cv.
+
+Graias
+Cordialmente
+Paula Giraldo
+ <br>Security_code : xdfjm
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.23.95.83<br>
+ <br>REF : ACO-1
+ <br>Nombre : Facundo
+ <br>Apellido : Kuttler
+ <br>Cargo : ACO-1
+ <br>Direccion : Zado 3334
+ <br>Ciudad : Ciudad de Buenos Aires
+ <br>Telefono : 156975436
+ <br>Email : facundokuttler@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimado: Adjunto envío cv 
+
+Gracias
+ <br>Security_code : 4723p
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.23.95.83<br>
+ <br>REF : ACO
+ <br>Nombre : Facundo
+ <br>Apellido : Kuttler
+ <br>Cargo : ACO
+ <br>Direccion : Zado 3334
+ <br>Ciudad : Ciudad de Buenos Aires
+ <br>Telefono : 1569754436
+ <br>Email : facundokuttler@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimado: Adjunto envío cv
+
+Gracias
+ <br>Security_code : vkm54
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.17.170.189<br>
+ <br>REF : SP-1
+ <br>Nombre : Fernando Daniel
+ <br>Apellido : Cicchitti
+ <br>Cargo : Supervision de Porduccion
+ <br>Direccion : Arenales 578
+ <br>Ciudad : Campana
+ <br>Telefono : 0348915496887
+ <br>Email : fernando7111@hotmail.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje :     Estoy en busqueda de Trabajo y le queria Consultar si tiene informacion alguna o Contacto donde poder Mandar mi CV. 
+    Mi ultimo empleo fue como Supervisor de Mejora Continua en Linea de Produccion Toyota Arg. Cursos Realizados en ITBA(Gestion para Supervisores de Empresas Productivas). Evaluaciones y Mejoramiento de Puestos de Trabajo-5s - Ergonomia-Seguridad y Medio Ambiente-Reduccion de Costos. 
+    Desde Ya Muchas Gracias.....
+
+13
+ <br>Security_code : gbkhv
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.124.168.209<br>
+ <br>REF : EP-1
+ <br>Nombre : jhoselyn kateryn
+ <br>Apellido : rivera guillen
+ <br>Cargo : tecnica industrias alimentarias
+ <br>Direccion :  MZA 116 CASA 626 VILLA 31 BIS.RETIRO
+ <br>Ciudad : buenos aires 
+ <br>Telefono : 1170184736
+ <br>Email : may24rg@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : TECNICA EN INDUSTRIAS DE ALIMENTOS DISPONIBILIDAD INMEDIATA 
+ <br>Security_code : Z3ZZQ
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.124.168.209<br>
+ <br>REF : EP-1
+ <br>Nombre : jhoselyn kateryn
+ <br>Apellido : rivera guillen
+ <br>Cargo : tecnica industrias alimentarias
+ <br>Direccion :  MZA 116 CASA 626 VILLA 31 BIS.RETIRO
+ <br>Ciudad : buenos aires 
+ <br>Telefono : 1170184736
+ <br>Email : may24rg@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : TECNICA EN INDUSTRIAS DE ALIMENTOS DISPONIBILIDAD INMEDIATA 
+ <br>Security_code : Z3ZZQ
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 200.125.106.129<br>
+ <br>Nombre : Juan Manuel
+ <br>Apellido : Rodriguez
+ <br>Cargo : TE-1
+ <br>Direccion : bignon 7399
+ <br>Ciudad : VIRREY DEL PINO
+ <br>Telefono : 1125487249
+ <br>Email : juanmanueltrabajando@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : estimado 
+ es mi deseo que usted tenga en cuenta mi personas para futuras búsquedas laborales.
+desde ya muchas gracias
+ <br>Security_code : yptbq
+ <br>Send : Enviar
+ <br>
+---------------
+

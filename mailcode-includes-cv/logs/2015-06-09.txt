@@ -1,0 +1,309 @@
+Address : 74.82.64.160
+Nombre : Sara Mabel 
+Apellido : Cerrudo 
+Cargo : Técnica en Laboratorio 
+Direccion : Calle 511 No.3731
+Ciudad : Florencio Varela 
+Telefono : 1556906813
+Email : sarah-smc1@hotmail.com 
+MAX_FILE_SIZE : 2097152
+Mensaje : Soy Técnica en Laboratorio y Técnica Química,cuento con disponibilidad horario,soy responsable y dedicada a mi trabajo.Gracias.
+Security_code : 9kbcc
+Send : Enviar
+
+---------------
+
+Address : 200.5.114.130
+Nombre : Cintia
+Apellido : Perri
+Cargo : Compras
+Direccion : Arenales 3800
+Ciudad : CABA
+Telefono : 1162250168
+Email : cimaper@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Envío anexo mi curriculum vitae.
+Security_code : CZSSK
+Send : Enviar
+
+---------------
+
+Address : 181.167.2.183
+Nombre : Analia Celeste
+Apellido : BURGOS
+Cargo : Trabajo Social
+Direccion : Nuñez 2422
+Ciudad : Capital Federal
+Telefono : 1559471209
+Email : cele_burgos@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenas tardes, envío mi CV para futuras búsquedas laborales, agradecería poder ser contactada.
+Security_code : x6gkf
+Send : Enviar
+
+---------------
+
+Address : 190.226.78.154
+REF : GT PL
+Nombre : Guillermo Carlos
+Apellido : Molina
+Cargo : Gerente de Planta
+Direccion : Uspallata 2288
+Ciudad : Beccar
+Telefono : 15 2161 7777
+Email : guillermo.mol@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estoy interesado en el puesto de la referencia
+Security_code : vfb3y
+Send : Enviar
+
+---------------
+
+Address : 201.252.126.96
+REF : GT PL
+Nombre : Eduardo
+Apellido : Aiassa
+Cargo : Gerente de Planta
+Direccion : Navarro 3546
+Ciudad : Cap. Fed
+Telefono : 15-5737-8680
+Email : eduardo.aiassa@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados Señores,
+Durante los últimos 17 años me he desempeñado como Gerente de Planta en la industria. Tengo una fuerte experiencia en la gestión integral de unidades de negocio, coordinando grupos de trabajo sindicalizados. Dentro de los cuales destaco producción, programación y control de la producción, calidad, proyectos y mantenimiento. Las fortalezas las destaco en accionamiento sobre costos, utilización de herramientas de calidad, cambio cultural y cumplimiento de objetivos de rentabilidad. Asimismo poseo experiencia internacional de 20 años en empresas como Goodyear y Culligan.
+ 
+Soy ingeniero, avanzado en inglés, fluído en portugués, cuento con más de quince años de experiencia como Gerente en la industria, y 20 en industrias multinacionales líderes. 
+
+Estoy disponible para reunirme con Uds. a su entera conveniencia para discutir mi background.
+Cordialmente,
+ 
+Ing. EDUARDO F. AIASSA
+(011) 15-5737-8680
+eduardo.aiassa@gmail.com
+
+Security_code : 3np6j
+Send : Enviar
+
+---------------
+
+Address : 201.252.126.96
+REF : GT PL
+Nombre : Eduardo
+Apellido : Aiassa
+Cargo : Gerente de Planta
+Direccion : Navarro 3546
+Ciudad : Cap. Fed
+Telefono : 15-5737-8680
+Email : eduardo.aiassa@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados Señores,
+Durante los últimos 17 años me he desempeñado como Gerente de Planta en la industria. Tengo una fuerte experiencia en la gestión integral de unidades de negocio, coordinando grupos de trabajo sindicalizados. Dentro de los cuales destaco producción, programación y control de la producción, calidad, proyectos y mantenimiento. Las fortalezas las destaco en accionamiento sobre costos, utilización de herramientas de calidad, cambio cultural y cumplimiento de objetivos de rentabilidad. Asimismo poseo experiencia internacional de 20 años en empresas como Goodyear y Culligan.
+ 
+Soy ingeniero, avanzado en inglés, fluído en portugués, cuento con más de quince años de experiencia como Gerente en la industria, y 20 en industrias multinacionales líderes. 
+
+Estoy disponible para reunirme con Uds. a su entera conveniencia para discutir mi background.
+Cordialmente,
+ 
+Ing. EDUARDO F. AIASSA
+(011) 15-5737-8680
+eduardo.aiassa@gmail.com
+
+Security_code : 3np6j
+Send : Enviar
+
+---------------
+
+Address : 201.252.126.96
+REF : GT PL
+Nombre : Eduardo
+Apellido : Aiassa
+Cargo : Gerente de Planta
+Direccion : Navarro 3546
+Ciudad : Cap. Fed
+Telefono : 15-5737-8680
+Email : eduardo.aiassa@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados Señores,
+Durante los últimos 17 años me he desempeñado como Gerente de Planta en la industria. Tengo una fuerte experiencia en la gestión integral de unidades de negocio, coordinando grupos de trabajo sindicalizados. Dentro de los cuales destaco producción, programación y control de la producción, calidad, proyectos y mantenimiento. Las fortalezas las destaco en accionamiento sobre costos, utilización de herramientas de calidad, cambio cultural y cumplimiento de objetivos de rentabilidad. Asimismo poseo experiencia internacional de 20 años en empresas como Goodyear y Culligan.
+ 
+Soy ingeniero, avanzado en inglés, fluído en portugués, cuento con más de quince años de experiencia como Gerente en la industria, y 20 en industrias multinacionales líderes. 
+
+Estoy disponible para reunirme con Uds. a su entera conveniencia para discutir mi background.
+Cordialmente,
+ 
+Ing. EDUARDO F. AIASSA
+(011) 15-5737-8680
+eduardo.aiassa@gmail.com
+
+Security_code : 9y3qy
+Send : Enviar
+
+---------------
+
+Address : 181.165.126.48
+Nombre : Ailín
+Apellido : Gerzovich Lis
+Cargo : Postulación espontánea
+Direccion : Colombres 860
+Ciudad : Buenos Aires
+Telefono : 46591958 - 1530207745
+Email : ailin_gl@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados:
+
+mi nombre es Ailín Gerzovich, tengo 23 años y estoy realizando la tesis para la Licenciatura en Comunicación Social. 
+¿Por qué les escribo? Porque próxima a graduarme, mis intereses y proyectos me motivan a buscar un cambio laboral. Estoy en busca de profundizar mi experiencia, de modo que me posibilite crecer humana y profesionalmente. Hoy me propongo encontrar un espacio donde pueda aprender y al mismo tiempo poner en práctica mis conocimientos, aptitudes, y no quedarme sólo con lo que dice un pergamino... creo que un cv no es más que una carta de presentación y yo quiero  apostar a la acción, a plasmar en hechos lo que en algunas líneas puedo decir que sé. 
+Soy una persona sumamente operativa y organizada, buscando siempre estar en el aquí y ahora para definir qué quiero y a dónde pretendo llegar, de modo de no derrochar el tiempo; por eso es que me siento identificada con la frase "Cualquier viento es favorable para quien no sabe a qué puerto se dirige".
+
+Me despido entusiasmada en poder avanzar con este contacto.
+
+Desde ya muchas gracias
+Atte.
+Ailín
+Security_code : rbxgc
+Send : Enviar
+
+---------------
+
+Address : 181.166.235.28
+Nombre : Kevin Ariel
+Apellido : Bastus
+Cargo : Procurador
+Direccion : Amenabar 4198
+Ciudad : Capital Federal
+Telefono : (011) 1558652743
+Email : kevbas93@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Tengo 21 años y soy periodista recibido en TEA, además de estudiante de Abogacía de la Universidad de Buenos Aires desde el año 2012. Me gradué en la Escuela Superior de Comercio Carlos Pellegrini. Tengo el agrado de dirigirme hacia ustedes mediante esta vía con el fin de facilitarle mi CV, para una futura búsqueda laboral que se abriere. La forma a través de la cual arribé a su contacto es la página web del Ministerio de Trabajo y Seguridad Social de la Nación. 
+   Cordiales saludos.
+Security_code : 4gpjt
+Send : Enviar
+
+---------------
+
+Address : 181.166.235.28
+Nombre : Kevin Ariel
+Apellido : Bastus
+Cargo : Procurador
+Direccion : Amenabar 4198
+Ciudad : Capital Federal
+Telefono : (011) 1558652743
+Email : kevbas93@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Tengo 21 años y soy periodista recibido en TEA, además de estudiante de Abogacía de la Universidad de Buenos Aires desde el año 2012. Me gradué en la Escuela Superior de Comercio Carlos Pellegrini. Tengo el agrado de dirigirme hacia ustedes mediante esta vía con el fin de facilitarle mi CV, para una futura búsqueda laboral que se abriere. La forma a través de la cual arribé a su contacto es la página web del Ministerio de Trabajo y Seguridad Social de la Nación. 
+   Cordiales saludos.
+Security_code : 4gpjt
+Send : Enviar
+
+---------------
+
+Address : 181.166.235.28
+Nombre : Kevin Ariel
+Apellido : Bastus
+Cargo : Procurador
+Direccion : Amenabar 4198
+Ciudad : Capital Federal, Argentina
+Telefono : (011) 1558652743
+Email : kevbas93@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Tengo 21 años y soy periodista recibido en TEA, además de estudiante de Abogacía de la Universidad de Buenos Aires desde el año 2012. Me gradué en la Escuela Superior de Comercio Carlos Pellegrini. Tengo el agrado de dirigirme hacia ustedes mediante esta vía con el fin de facilitarle mi CV, para una futura búsqueda laboral que se abriere. La forma a través de la cual arribé a su contacto es la página web del Ministerio de Trabajo y Seguridad Social de la Nación. 
+   Cordiales saludos.
+Security_code : 2qpn2
+Send : Enviar
+
+---------------
+
+Address : 181.166.235.28
+Nombre : Kevin Ariel
+Apellido : Bastus
+Cargo : Procurador
+Direccion : Amenabar 4198
+Ciudad : Capital Federal, Argentina
+Telefono : (011) 1558652743
+Email : kevbas93@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Tengo 21 años y soy periodista recibido en TEA, además de estudiante de Abogacía de la Universidad de Buenos Aires desde el año 2012. Me gradué en la Escuela Superior de Comercio Carlos Pellegrini. Tengo el agrado de dirigirme hacia ustedes mediante esta vía con el fin de facilitarle mi CV, para una futura búsqueda laboral que se abriere. La forma a través de la cual arribé a su contacto es la página web del Ministerio de Trabajo y Seguridad Social de la Nación. 
+   Cordiales saludos.
+Security_code : qvrx2
+Send : Enviar
+
+---------------
+
+Address : 186.19.26.41
+Nombre : MARIELA
+Apellido : ACOSTA
+Cargo : ADMINISTRATIVA
+Direccion : DIAZ VELEZ 529
+Ciudad : AVELLANEDA
+Telefono : 1544307584
+Email : MARIELAACOSTA35@GMAIL.COM
+MAX_FILE_SIZE : 2097152
+Mensaje : Atención
+Gerente de RRHH
+Presente
+
+De mi mayor consideración:
+					Tengo el gusto de dirigirme a Ud. con el fin de acercarle mi currículum vitae para poder participar en búsquedas laborales acordes a mi perfil dentro de su empresa.
+					Cuento con vasta experiencia en las tareas administrativas en el Sistema de salud y un fluido manejo del inglés. Me considero proactiva y con capacidad para trabajar en equipo. Actualmente tengo absoluta disponibilidad horaria.
+					Quedo a su disposición para concretar una reunión, si lo cree conveniente, a fin de conocernos personalmente y ampliar cualquier detalle de mi currículum que considere pertinente.
+					A la espera de sus noticias, lo saludo cordialmente,
+
+
+						Mariela Acosta
+Security_code : k3h5p
+Send : Enviar
+
+---------------
+
+Address : 186.19.26.41
+Nombre : MARIELA
+Apellido : ACOSTA
+Cargo : ADMINISTRATIVA
+Direccion : DIAZ VELEZ 529
+Ciudad : AVELLANEDA
+Telefono : 1544307584
+Email : MARIELAACOSTA35@GMAIL.COM
+MAX_FILE_SIZE : 2097152
+Mensaje : Atención
+Gerente de RRHH
+Presente
+
+De mi mayor consideración:
+					Tengo el gusto de dirigirme a Ud. con el fin de acercarle mi currículum vitae para poder participar en búsquedas laborales acordes a mi perfil dentro de su empresa.
+					Cuento con vasta experiencia en las tareas administrativas en el Sistema de salud y un fluido manejo del inglés. Me considero proactiva y con capacidad para trabajar en equipo. Actualmente tengo absoluta disponibilidad horaria.
+					Quedo a su disposición para concretar una reunión, si lo cree conveniente, a fin de conocernos personalmente y ampliar cualquier detalle de mi currículum que considere pertinente.
+					A la espera de sus noticias, lo saludo cordialmente,
+
+
+						Mariela Acosta
+Security_code : k3h5p
+Send : Enviar
+
+---------------
+
+Address : 186.19.26.41
+Nombre : MARIELA
+Apellido : ACOSTA
+Cargo : ADMINISTRATIVA
+Direccion : DIAZ VELEZ 529
+Ciudad : AVELLANEDA
+Telefono : 1544307584
+Email : MARIELAACOSTA35@GMAIL.COM
+MAX_FILE_SIZE : 2097152
+Mensaje : Atención
+Gerente de RRHH
+Presente
+
+De mi mayor consideración:
+					Tengo el gusto de dirigirme a Ud. con el fin de acercarle mi currículum vitae para poder participar en búsquedas laborales acordes a mi perfil dentro de su empresa.
+					Cuento con vasta experiencia en las tareas administrativas en el Sistema de salud y un fluido manejo del inglés. Me considero proactiva y con capacidad para trabajar en equipo. Actualmente tengo absoluta disponibilidad horaria.
+					Quedo a su disposición para concretar una reunión, si lo cree conveniente, a fin de conocernos personalmente y ampliar cualquier detalle de mi currículum que considere pertinente.
+					A la espera de sus noticias, lo saludo cordialmente,
+
+
+						Mariela Acosta
+Security_code : pvk9w
+Send : Enviar
+
+---------------
+

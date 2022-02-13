@@ -1,0 +1,217 @@
+Address : 201.231.11.70
+REF : GTEP
+Nombre : Carlos
+Apellido : Moreiras
+Cargo : Gerente de planta alimenticia
+Direccion : Bogotá 2299 16 B
+Ciudad : CABA
+Telefono : 15-5947-7340
+Email : cmoreiras@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados Consultores:
+
+Tengo el agrado de dirigirme a Uds en respuesta a la búsqueda laboral de Gerente de Planta para industria alimenticia, para lo cual les adjunto mi CV para su evaluación.
+Sin otro particular los saluda muy atentamente.
+
+Ing. Carlos Moreiras
+Security_code : mpk4h
+Send : Enviar
+
+---------------
+
+Address : 201.255.61.26
+Nombre : Marcos Nicolás
+Apellido : Gosenje
+Cargo : Administrativo/Cadete/Recursos Humanos 
+Direccion : Pizarro 250
+Ciudad : Merlo
+Telefono : (011)1538864906
+Email : marcosgosenje@live.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : .
+
+
+Security_code : 5py3X
+Send : Enviar
+
+---------------
+
+Address : 186.58.147.13
+Nombre : Jonathan
+Apellido : Zaniboni
+Cargo : Pizzero/Seguridad/Limpieza
+Direccion : La blanqueada
+Ciudad : Avellaneda
+Telefono : 42270521
+Email : beepu@hotmail.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Gracias!
+Security_code : zrx9t
+Send : Enviar
+
+---------------
+
+Address : 190.51.178.12
+Nombre : Matias Eduardo
+Apellido : Guerra
+Cargo : Al que este disponible
+Direccion : Calle 540
+Ciudad : Buenos Aires
+Telefono : 4237-7318
+Email : Mattyguerra80@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estoy en busqueda de empleo en emergencia! Cualquier Trabajo Que Aya Estoy Full Time.
+Security_code : ycfnt
+Send : Enviar
+
+---------------
+
+Address : 190.51.178.12
+Nombre : Jose Ignacio
+Apellido : Torales
+Cargo : Cualquiera
+Direccion : Calle 544
+Ciudad : Buenos Aires
+Telefono : 1134370613
+Email : -
+MAX_FILE_SIZE : 2097152
+Mensaje : quiero trabajar yaaaaaaa 
+Security_code : 4rn7h
+Send : Enviar
+
+---------------
+
+Address : 186.19.163.47
+Nombre : Marcelo Alajendro 
+Apellido : Falcon
+Cargo : recepcion
+Direccion : Fco de Morazan 2159
+Ciudad : Lomas de Zamora
+Telefono : 1557316849
+Email : falcon@outlook.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Tengo mucha experiencia en atención al publico y quisiera ser parte de su empresa y poder brindarla.
+Security_code : rrc2s
+Send : Enviar
+
+---------------
+
+Address : 186.19.163.47
+Nombre : Marcelo Alajendro 
+Apellido : Falcon
+Cargo : Recepcion
+Direccion : Fco de Morazan 2159
+Ciudad : Lomas de Zamora
+Telefono : 1557316849
+Email : falcon@outlook.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : el motivo de mi pedido laboral es que poseo mucha experiencia con el trato con el publico y quisiera ser parte de su empresa.
+Security_code : 3qxqf
+Send : Enviar
+
+---------------
+
+Address : 186.61.13.207
+REF : TECME
+Nombre : jorge daniel
+Apellido : solovjovas
+Cargo : ocial freadorfi
+Direccion : alfonsina estorni 2448
+Ciudad : lomas de zamora
+Telefono : 42828679
+Email : daniel_solovjovas@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : oficial fresador conocimientos de torno alesadora manejo de instrumentos de medicion interpretacion de planos manejo de herramienta manuale y electrica 
+Security_code : hhfjh
+Send : Enviar
+
+---------------
+
+Address : 186.158.143.100
+Nombre : Sofia
+Apellido : Marhaba
+Cargo : camarera-vendedora-cajera
+Direccion : Villegas 1515
+Ciudad : Buenoa Aires
+Telefono : 1134822000
+Email : sofiamarhaba@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenas tardes,envio mi curriculum espero poder tener alguna oportunidad ya que estoy en la busqueda de empleo muy necesario. Gracias
+Security_code : 53wb6
+Send : Enviar
+
+---------------
+
+Address : 186.158.143.100
+Nombre : Sofia
+Apellido : Marhaba
+Cargo : camarera-vendedora-cajera
+Direccion : Villegas 1515
+Ciudad : Buenoa Aires
+Telefono : 1134822000
+Email : sofiamarhaba@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenas tardes,envio mi curriculum espero poder tener alguna oportunidad ya que estoy en la busqueda de empleo muy necesario. Gracias
+Security_code : 53wb6
+Send : Enviar
+
+---------------
+
+Address : 201.220.169.236
+Nombre : Maria Eugenia
+Apellido : Gomez Gabrielli
+Cargo : Traductor
+Direccion : Barzana 2058
+Ciudad : Capital Federal
+Telefono : +5491164820559
+Email : meugeniagabrielli@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Traductora de Inglés Matriculada. Maestra de Inglés. 
+Security_code : 2yg69
+Send : Enviar
+
+---------------
+
+Address : 186.124.28.223
+Nombre : Lia Victoria
+Apellido : Cedro
+Cargo : Dibujante CAD/ Administrativa de obra/ Sobrestante de obra/ Renderista/ Estudiante de Arquitectura
+Direccion : Ricardo Rojas, Tigre
+Ciudad : Buenos Aires
+Telefono : 1530991136
+Email : cedrolia@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados, 
+                    Actualmente me encuentro estudiando Arquitectura en la Universidad de Buenos Aires. Estoy en el cuarto año de la carrera. Busco mi primer empleo donde profundizar y aplicar de modo práctico los conocimientos adquiridos hasta el momento. 
+                    No cuento con experiencia formal en el área de la Arquitectura pero creo que con esmero y voluntad todo puede aprenderse. Sumado a eso, estoy muy entusiasmada para comenzar a formarme y para aprender. Me siento muy capacitada en materia de conocimiento de obra y arquitectura. Manejo diversos programas de manera avanzada: AutoCAD, Revit, 3D Studio MAX, Photoshop, entre otros. Soy una persona activa y me gustan los desafíos y la auto-capacitación constante.
+                    Me sería muy grato, tener ocasión de demostrar mis aptitudes en su empresa, por ello solicito tener la oportunidad de concertar una entrevista con ustedes. 
+                    En espera de sus noticias, les saluda muy atentamente, 
+
+Lia Victoria Cedro.
+15-3099-1136
+cedrolia@hotmail.com
+Security_code : kqcpv
+Send : Enviar
+
+---------------
+
+Address : 186.134.149.241
+REF : ASCO
+Nombre : Diego
+Apellido : Vazquez
+Cargo : Asesor comercial
+Direccion : Gonzalez Balcarc 3639
+Ciudad : Lanus
+Telefono : 1556420780
+Email : vazquezdiegoda@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buen día,
+Mi nombre es Diego Vazquez y me contacto con ustedes porque me encuentro en búsqueda de empleo.
+Les envío mi CV para participar de sus búsquedas y en el caso de que estén interesado en mi perfil podamos coordinar una entrevista personal.
+Muchas gracias por la atención.
+Saludos.
+Security_code : vr8bp
+Send : Enviar
+
+---------------
+

@@ -1,0 +1,35 @@
+Address : 190.50.29.245
+Nombre : Leandro
+Apellido : Virgilio 
+Cargo : Producción/Calidad.
+Direccion : 2 Nº 1406
+Ciudad : La Plata
+Telefono : 0221-154974542
+Email : leandrovir33@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hágole saber que mi disponibilidad para trasladarme y/o radicarme en el lugar de trabajo es absoluta
+Security_code : jj85x
+Send : Enviar
+
+---------------
+
+Address : 181.171.197.179
+Nombre : Vanesa
+Apellido : Lievich
+Cargo : abogada
+Direccion : ibera 2148
+Ciudad : capital federal
+Telefono : 1550274440
+Email : vanesalievich@yahoo.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados,
+Adjunto al presente mi CV para su consideración ante la posibilidad de algún eventual puesto de trabajo, quedo a su
+disposición para realizar una entrevista.
+Saludos cordiales,
+Vanesa Lievich
+Contacto: 15-5027-4440
+Security_code : c38k2
+Send : Enviar
+
+---------------
+

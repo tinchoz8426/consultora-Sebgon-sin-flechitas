@@ -1,0 +1,153 @@
+Address : 190.188.170.235<br>
+ <br>REF : TM-2
+ <br>Nombre : amado daniel
+ <br>Apellido : stoll
+ <br>Cargo : tecnico mecanico
+ <br>Direccion : r.wernicke 1008 villa adelina
+ <br>Ciudad : BUENOS AIRES
+ <br>Telefono : 1151463619
+ <br>Email : taller-dany@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : 
+TÃCNICOS MECÃNICOS 
+ <br>Security_code : rwb6s
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.174.181.218<br>
+ <br>REF : Ing. quim
+ <br>Nombre : Marina
+ <br>Apellido : Gandolfo
+ <br>Cargo : Jefa de Producción
+ <br>Direccion : Chañar 1045
+ <br>Ciudad : Lincoln
+ <br>Telefono : 2355574117
+ <br>Email : marina_gandolfo@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados, me comunico para hacerle llegar mi CV. 
+Les cuento que actualmente estoy trabajando en la Municipalidad de Lincoln en el cargo de Dirección de Bromatología. Pero la realidad es que es un trabajo que no me permite crecer como profesional. Sigo buscando de manera activa algún trabajo que me permita adquirir nuevos conocimientos y poder desarrollarme como profesional. Dispongo de la posibilidad de radicarme en cualquier ciudad. 
+Cualquier duda, a su disposición. Y agradezco su tiempo.
+
+ <br>Security_code : 9wys6
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.174.181.218<br>
+ <br>REF : SP-1
+ <br>Nombre : Marina
+ <br>Apellido : Gandolfo
+ <br>Cargo : Supervisor de Producción
+ <br>Direccion : Chañar 1045
+ <br>Ciudad : Lincoln
+ <br>Telefono : 2355574117
+ <br>Email : marina_gandolfo@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados, me comunico para hacerle llegar mi CV. 
+Les cuento que actualmente estoy trabajando en la Municipalidad de Lincoln en el cargo de Dirección de Bromatología. Pero la realidad es que es un trabajo que no me permite crecer como profesional. Sigo buscando de manera activa algún trabajo que me permita adquirir nuevos conocimientos y poder desarrollarme como profesional. Dispongo de la posibilidad de radicarme en cualquier ciudad. 
+Cualquier duda, a su disposición. Y agradezco su tiempo.
+
+ <br>Security_code : hw6wm
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.174.181.218<br>
+ <br>REF : EP-1
+ <br>Nombre : Marina
+ <br>Apellido : Gandolfo
+ <br>Cargo : Encargado de Producción
+ <br>Direccion : Chañar 1045
+ <br>Ciudad : Lincoln
+ <br>Telefono : 2355574117
+ <br>Email : marina_gandolfo@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados, me comunico para hacerle llegar mi CV.
+Les cuento que actualmente estoy trabajando en la Municipalidad de Lincoln en el cargo de Dirección de Bromatología. Pero la realidad es que es un trabajo que no me permite crecer como profesional. Sigo buscando de manera activa algún trabajo que me permita adquirir nuevos conocimientos y poder desarrollarme como profesional. Dispongo de la posibilidad de radicarme en cualquier ciudad. 
+Cualquier duda, a su disposición. Y agradezco su tiempo.
+
+ <br>Security_code : s598n
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.103.11.153<br>
+ <br>REF : JPER-1
+ <br>Nombre : Guillermo Julio
+ <br>Apellido : Quintana
+ <br>Cargo : Jefe de Personal
+ <br>Direccion : Juramento 5613- 7 "C"
+ <br>Ciudad : Capital Federal
+ <br>Telefono : 01149409158
+ <br>Email : gjquintana61@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Ejecutivo, orientado a los Recursos Humanos, comercialización, con amplia experiencia en planeamiento estratégico de ventas, Manejo de personal, Capacitación,  Optimización de recursos, Administración y Control de gestión.
+ <br>Security_code : dh9w4
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.164.45.183<br>
+ <br>Nombre : Eduardo
+ <br>Apellido : Iruarrizaga
+ <br>Cargo : Operaciones Logistica Distribucion 
+ <br>Direccion : Cordoba, 1526
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 1151138027  42407672
+ <br>Email : eduiru17@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me encuentro en búsqueda laboral activa, amplia experiencia en logística y distribución.
+ <br>Security_code : c2yz9
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.19.113.163<br>
+ <br>REF : chr
+ <br>Nombre : Ariel Ruperto
+ <br>Apellido : Gomez
+ <br>Cargo : chofer
+ <br>Direccion : Av Escalada 841
+ <br>Ciudad : Caba
+ <br>Telefono : 1554784287
+ <br>Email : ruperto80@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estoy interesado en el puesto.Muchas gracias.
+ <br>Security_code : c5c6p
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.17.174.172<br>
+ <br>REF : EP-1
+ <br>Nombre : Ignacio
+ <br>Apellido : Vasapollo
+ <br>Cargo : Encargado de producción
+ <br>Direccion : America 1973
+ <br>Ciudad : Villa Luzuriaga
+ <br>Telefono : 1162024059
+ <br>Email : vasapolloignacio@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados les envio mi CV para que lo evaluen y poder concertar una entrevista. Sin mas lo saluda.                  Ignacio Vasapollo
+
+ <br>Security_code : wd6gt
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.91.201.188<br>
+ <br>Nombre : Graciela Maribel
+ <br>Apellido : Guaimasi
+ <br>Cargo : Trabajador Social
+ <br>Direccion : Junin 645
+ <br>Ciudad : Formosa
+ <br>Telefono : 3704429460
+ <br>Email : gracielita80@outlook.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Soy Trabajadora Social,actualmente estudiante de la Licenciatura en la Universidad Nacional de Misiones, durante 4 años me he desempeñado en el campo profesional en el Instituto Santa Isabel en coordinació e intervención en caso individual-familiar, grupal-comunitario, manejo de tecnicas como la entrevista- observación, experiencia en visitas domiciliarias. Amplio conocimiento en Pc
+ <br>Security_code : m3jgp
+ <br>Send : Enviar
+ <br>
+---------------
+

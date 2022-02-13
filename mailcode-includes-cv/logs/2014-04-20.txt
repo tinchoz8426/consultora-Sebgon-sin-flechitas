@@ -1,0 +1,43 @@
+Address : 190.194.27.83
+Nombre : Leandro Nahuel
+Apellido : Tejeda
+Cargo : Operario,Distribuidor Domiciliario
+Direccion : Hertz 5531
+Ciudad : Cordoba
+Telefono : 156201567
+Email : leandro_7777@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Soy una persona dinámica,progresista,confiable y fiable con muchas ganas de trabajar.
+Security_code : fdpzn
+Send : Enviar
+
+---------------
+
+Address : 186.58.28.221
+Nombre : Soledad
+Apellido : Carmona Méndez
+Cargo : Técnica en tecnología de los Alimentos
+Direccion : Laferrere
+Ciudad : La Matanza-Buenos Aires
+Telefono : 1131269515
+Email : soledad_carmona@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimada /o
+Adjunto le remito mi Curriculum Vitae para su consideración, y le manifiesto mi interés en participar en los procesos de selección que requieran de una profesional de mis características.
+Soy Técnica Universitaria en Tecnología de los Alimentos, egresada en el 2013 
+A mis 25 años, Busco una oportunidad de inserción laboral que corresponda a mi área  
+Mis funciones actuales abarcan:
+-Análisis fisicoquímicos de Alimentos.
+-Análisis Microbiológicos 
+-Manejo de material de Laboratorio.
+Acostumbrada a estudiar  y manejarme en  laboratorios en la universidad, me considero una persona dinámica, con iniciativa y capacidad de organización y gestión.
+Mis principales objetivos son: poder crecer en conocimiento, capacitarme y sobretodo demostrar mi capacidad en el área de trabajo, quiero ser útil para ustedes, poder colaborar con el crecimiento de su empresa. 
+Le agradezco de antemano su atención y quedo a su disposición para mantener una entrevista cuando surja una posición que considere puede encajar con mi perfil.
+Atentamente:
+Soledad Carmona.
+
+Security_code : s6pq4
+Send : Enviar
+
+---------------
+

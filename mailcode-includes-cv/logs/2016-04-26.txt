@@ -1,0 +1,373 @@
+Address : 179.60.208.107
+Nombre : Florencia 
+Apellido : Pomilia
+Cargo : Pasantia
+Direccion : Barrio Larena
+Ciudad : Pilar
+Telefono : 1168922541
+Email : floorpoomilia@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto Cv para pasantias o o comercio internacional. estudiante del 2do año de la carrera
+Security_code : scm98
+Send : Enviar
+
+---------------
+
+Address : 186.153.195.118
+Nombre : SERGIO
+Apellido : ROBERTONE
+Cargo : VENTAS-ATENCION AL CLIENTE
+Direccion : 25 DE MAYO 990
+Ciudad : CONCORDIA
+Telefono : 0345155290439
+Email : serobertone@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola, les envio mi CV para futuras postulaciones en sus busquedas laborales. Gracias
+Security_code : c7tcw
+Send : Enviar
+
+---------------
+
+Address : 181.104.71.39
+Nombre : Marcelo
+Apellido : Benitez
+Cargo : bartender - atencion al publico
+Direccion : Urquiza 767 1 piso f  (boedo)
+Ciudad : Capital federa 
+Telefono : 1540575745
+Email : depechedevotion@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Mi objetivo es insertarme en una empresa y formar parte de un equipo laboral, tengo disponibilidad horaria y estoy dispuesto en capacitarme para cualquier área de trabajo.  Los saludo atentamente. Gracias 
+Security_code : jghr2
+Send : Enviar
+
+---------------
+
+Address : 190.19.97.237
+Nombre : kevin
+Apellido : Mamani Romero
+Cargo : auxiliar admnitrativo
+Direccion :  SAN JUAN MZA 14 PUERTA 63 (FLORES)
+Ciudad : C.A.B.A
+Telefono : 1544923470
+Email : KEVINROMERO868@GMAIL.COM
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola busco trabajo como todos solicito su ayuda para conseguir uno les dejo mi CV. si es un trabajo de medio tiempo mejor, gracias por su atención.    
+Security_code : g3bfm
+Send : Enviar
+
+---------------
+
+Address : 186.33.234.199
+Nombre : Nerio 
+Apellido : Quispe Puma
+Cargo : Chofer ambulancia , Empresas Privadas
+Direccion : Buenos Aires
+Ciudad : Gral. San Martin
+Telefono : 011-69435132
+Email : n_erio@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Trabajo actualmente para arsat hasta a fines de mayo que culmina mi contrato .
+Security_code : XP358
+Send : Enviar
+
+---------------
+
+Address : 186.33.234.199
+Nombre : Nerio 
+Apellido : Quispe Puma
+Cargo : Chofer ambulancia , Empresas Privadas
+Direccion : Buenos Aires
+Ciudad : Gral. San Martin
+Telefono : 011-69435132
+Email : n_erio@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Trabajo actualmente para arsat hasta a fines de mayo que culmina mi contrato .
+Security_code : XP358
+Send : Enviar
+
+---------------
+
+Address : 186.182.119.61
+Nombre : Carlos
+Apellido : Virreira
+Cargo : Prueba
+Direccion : Prueba
+Ciudad : Prueba
+Telefono : 80980980
+Email : chv@ctn.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : prueba
+Security_code : h8yn3
+Send : Enviar
+
+---------------
+
+Address : 201.177.155.99
+Nombre : PABLA
+Apellido : ARRUE
+Cargo : LIC TRABAJO SOCIAL
+Direccion : ASIA 2234
+Ciudad : RIO GALLEGOS -SANTA CRZ
+Telefono : 2966654830
+Email : peado18@yahoo.com
+MAX_FILE_SIZE : 2097152
+Mensaje : ENVIO MI CV COMO LIC EN TRABAJO SOCIAL .
+Security_code : KtKgr
+Send : Enviar
+
+---------------
+
+Address : 201.177.155.99
+Nombre : NATALI
+Apellido : ONTIVERO
+Cargo : ESTUDIOS JURIDICOS
+Direccion : CORDOBA CAPITAL
+Ciudad : RIO GALLEGOS -SANTA CRZ
+Telefono : 2966654830
+Email : peado18@yahoo.com
+MAX_FILE_SIZE : 2097152
+Mensaje : ENVIO MI CV COMO ESTUDIANTE CARRERA DE ABOGACIA 5TO AÑO
+Security_code : ff8m6
+Send : Enviar
+
+---------------
+
+Address : 186.158.141.191
+REF : SE.BIL
+Nombre : Denise 
+Apellido : Pilon
+Cargo : SE.BIL
+Direccion : Gualeguaychu 2358
+Ciudad : Tortuguitas
+Telefono : 1151489914
+Email : denpilon.dp@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenas tardes,
+
+Acompaño mi CV para ser tenida en cuenta como candidata para ocupar la posición de Secretaria, ya que poseo gran experiencia en el cargo.
+A su disposición para ampliar cualquier información adicional.
+Saludos cordiales
+Denise Pilon 
+
+Security_code : 83tqd
+Send : Enviar
+
+---------------
+
+Address : 186.182.119.61
+Nombre : Carlos
+Apellido : Virreira
+Cargo : Prueba
+Direccion : Prueba
+Ciudad : Prueba
+Telefono : 444444
+Email : chv@ctn.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : prue
+Security_code : z39bs
+Send : Enviar
+
+---------------
+
+Address : 186.182.119.61
+Nombre : Carlos
+Apellido : Virreira
+Cargo : Prueba
+Direccion : Prueba
+Ciudad : Prueba
+Telefono : 444444
+Email : chv@ctn.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : prtyty
+Security_code : 2y78w
+Send : Enviar
+
+---------------
+
+Address : 186.182.119.61<br>
+Nombre : Carlos
+Apellido : Virreira
+Cargo : Prueba
+Direccion : Prueba
+Ciudad : Prueba
+Telefono : 444444
+Email : chv@ctn.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : rerereer
+Security_code : pqprx
+Send : Enviar
+
+---------------
+
+Address : 186.182.119.61<br>
+Nombre : Carlos
+Apellido : Virreira
+Cargo : Prueba
+Direccion : Prueba
+Ciudad : Prueba
+Telefono : 444444
+Email : chv@ctn.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : gggg
+Security_code : 4w2wt
+Send : Enviar
+
+---------------
+
+Address : 186.182.119.61<br>
+Nombre : Carlos
+Apellido : Virreira
+Cargo : Prueba
+Direccion : Prueba
+Ciudad : Prueba
+Telefono : 444444
+Email : chv@ctn.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : werwerew
+Security_code : qdydz
+Send : Enviar
+
+---------------
+
+Address : 190.192.231.212<br>
+Nombre : tamara
+Apellido : Luna
+Cargo : tecnico en seguridad e higiene
+Direccion : Salta 279
+Ciudad : Lanus
+Telefono : 0294154600395
+Email : tamluna@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : me gustaria pertenecer alsu staff de trabajo
+Security_code : pkhrg
+Send : Enviar
+
+---------------
+
+Address : 186.182.119.61<br>
+Nombre : Carlos
+Apellido : Virreira
+Cargo : Prueba
+Direccion : Prueba
+Ciudad : Prueba
+Telefono : 444444
+Email : chv@ctn.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : werewqrw
+Security_code : vfs2j
+Send : Enviar
+
+---------------
+
+Address : 186.182.119.61<br>
+ <br>Nombre : Carlos
+ <br>Apellido : Virreira
+ <br>Cargo : Prueba
+ <br>Direccion : Prueba
+ <br>Ciudad : Prueba
+ <br>Telefono : 444444
+ <br>Email : chv@ctn.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : jklkjlkj
+ <br>Security_code : 5b9ft
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.182.119.61<br>
+ <br>Nombre : Carlos
+ <br>Apellido : Virreira
+ <br>Cargo : Prueba
+ <br>Direccion : Prueba
+ <br>Ciudad : Prueba
+ <br>Telefono : 444444
+ <br>Email : chv@ctn.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : wqew
+ <br>Security_code : zrmfx
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.29.80.48<br>
+ <br>Nombre : gfgdg
+ <br>Apellido : dgdfgg
+ <br>Cargo : dgdgd
+ <br>Direccion : dggdg
+ <br>Ciudad : dgdg
+ <br>Telefono : dgdg
+ <br>Email : dgd
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : gdfgfdgf
+ <br>Security_code : 72jbp
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.138.236.56<br>
+ <br>Nombre : Catherine Aldana
+ <br>Apellido : Arce
+ <br>Cargo : Atencion al cliente/ administracion
+ <br>Direccion : pasaje privado casa 60. barrio ampliación yapeyu
+ <br>Ciudad : cordoba capital
+ <br>Telefono : +543515478483
+ <br>Email : aldanaarce94@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Mi nombre es Catherine, tengo 21 años, y estoy en búsqueda laboral, tengo capacidad de aprender rápido y satisfactoriamente, necesito progresar, tengo disponibilidad horaria.
+ <br>Security_code : p7bww
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.19.154.55<br>
+ <br>Nombre : Aylen
+ <br>Apellido : Polsoni
+ <br>Cargo : Empleada administrativa
+ <br>Direccion : Donovan 1210
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 1554794738
+ <br>Email : Aylenpolsoni@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados, Adjunto mi curriculum vitae ya que me encuentro desocupada y en activa busca laboral. Desde ya muchisimas gracias.
+Atte Polsoni Aylen 
+ <br>Security_code : 5zbft
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.111.174.10<br>
+ <br>REF : GTEP
+ <br>Nombre : Dario
+ <br>Apellido : Molina
+ <br>Cargo : Gerente de planta
+ <br>Direccion : Mendoza 1162
+ <br>Ciudad : San Jorge-Santa Fé
+ <br>Telefono : 0264-155803693
+ <br>Email : dachi_004@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : De mi mayor consideración:
+                          Por la presente, me dirijo a quien corresponda, con el fin de postularme al puesto de referencia. Confiado de contar con las aptitudes y actitudes necesarias para la función, es que pongo a vuestra disposición mis antecedentes personales, académicos y laborales.
+A la espera de un próximo contacto, los saludo atentamente.
+
+Lic. Dario Molina
+ <br>Security_code : jx8hg
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 191.83.52.204<br>
+ <br>Nombre : Ruben
+ <br>Apellido : Acosta
+ <br>Cargo : De lo que sea-!
+ <br>Direccion : 527 / 143 y 144
+ <br>Ciudad : La Plata
+ <br>Telefono : 2214700884
+ <br>Email : thegolf92@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola, acá le dejo mi curriculum vitae.
+ <br>Security_code : vfgv8
+ <br>Send : Enviar
+ <br>
+---------------
+

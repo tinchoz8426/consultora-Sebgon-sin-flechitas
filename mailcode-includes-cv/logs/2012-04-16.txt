@@ -1,0 +1,75 @@
+Address : 201.254.17.200
+Nombre : Silvia Mabel
+Apellido : Fuertes
+Cargo : Analista contable
+Direccion : Bradley 305-TA2-Piso 7-Dpto "A"
+Ciudad : Villa Tessei
+Telefono : 4450-6511
+Email : silvifuertes@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Tengo el agrado de dirigirme a Uds., con el objeto de solicitarle una entrevista y aprovecho la oportunidad para saludarlo atte.
+Security_code : 7gcdw
+Send : Enviar
+
+---------------
+
+Address : 190.176.154.51
+Nombre : Carmen Carolina
+Apellido : Alcover Andaloro
+Cargo : Esteticista o Promotora
+Direccion : Carlos Thays 3656 2do Bº Unimev.Villa Nueva Gllén.
+Ciudad : Mendoza
+Telefono : 2615321475
+Email : caritq_9@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : En cuanto a experiencia laboral puedo mencionar desfiles y sesiones fotográficas para escuela de modelaje Instituto Roberto Piazza, modelo de Productora Marcelo Reginato y promotora. 
+Security_code : jw33c
+Send : Enviar
+
+---------------
+
+Address : 190.49.219.228
+Nombre : Guillermo
+Apellido : Guerci
+Cargo : .
+Direccion : Avellaneda 3660
+Ciudad : Rafael Calzada
+Telefono : 4291-1842
+Email : guichoguerci@yahoo.es
+MAX_FILE_SIZE : 2097152
+Mensaje : .
+Security_code : p53v5
+Send : Enviar
+
+---------------
+
+Address : 186.22.137.207
+Nombre : Julieta Mabel
+Apellido : Castillo
+Cargo : recepcionista
+Direccion : azcuenaga 1044  2 G
+Ciudad : Buenos aires. capital federal.
+Telefono : 2061-9833 o 02320-437685
+Email : julhietacastillo.cj@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : hola, desearia que mi curriculum concuerede con el perfil que estan buscando, desde ya muchas gracias! 
+Security_code : mfr49
+Send : Enviar
+
+---------------
+
+Address : 186.124.163.73
+Nombre : Maria Lucia
+Apellido : Callegari 
+Cargo : Area de Recursos Humanos 
+Direccion : Vuelta de Obligado 1906
+Ciudad : Capital Federal
+Telefono : 011 15 68387400
+Email : marialucia.callegari@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Aca envió mi cv ya que estoy buscando trabajo en el área de Recursos Humanos 
+Security_code : 27x28
+Send : Enviar
+
+---------------
+

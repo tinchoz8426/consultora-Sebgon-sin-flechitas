@@ -1,0 +1,199 @@
+Address : 190.50.115.59<br>
+ <br>REF : chr
+ <br>Nombre : Javier Horacio
+ <br>Apellido : Pierandrey
+ <br>Cargo : Chofer
+ <br>Direccion : Rene Favaloro 703, Belgrano y Moreno
+ <br>Ciudad : Luis Guillon
+ <br>Telefono : 1164065401
+ <br>Email : javier.pierandrey@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : necesito el trabajo
+ <br>Security_code : f8x46
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.83.154<br>
+ <br>REF : chr
+ <br>Nombre : Aldo willian 
+ <br>Apellido : Bordon Arriola
+ <br>Cargo : 1169
+ <br>Direccion : Alfredo palacio  844
+ <br>Ciudad : CABA
+ <br>Telefono : 1134422463
+ <br>Email : Williamlaboca@hotmail.com 
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : No tengo problema en horario tengo movilidad para ir al trabajo 
+ <br>Security_code : Mdszk
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 170.51.34.198<br>
+ <br>REF : chr
+ <br>Nombre : Ariel alejandro
+ <br>Apellido : Contreras
+ <br>Cargo : Chofer
+ <br>Direccion : Azucenas 3238
+ <br>Ciudad : Buenos aires
+ <br>Telefono : 11.26558157
+ <br>Email : alecontreras.benja@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Chofer repartidor con experience comprobable
+ <br>Security_code : 4p24v
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 170.51.99.70<br>
+ <br>REF : chr
+ <br>Nombre : Marcelo Rene
+ <br>Apellido : Valdez
+ <br>Cargo : Chofer
+ <br>Direccion : Las heras 6583
+ <br>Ciudad : Moreno
+ <br>Telefono : 1123637747
+ <br>Email : Valdezmariaae@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Siempre me dedique a la gastronomia , pero estoy buscando trabajo. Tengo registro y horario fulltime . No importa el puesto que sea , tengo ganas de trabajar. ¡¡GRACIAS!!
+ <br>Security_code : 9yxq6
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 170.51.99.70<br>
+ <br>REF : chr
+ <br>Nombre : Marcelo Rene
+ <br>Apellido : Valdez
+ <br>Cargo : Chofer
+ <br>Direccion : Las heras 6583
+ <br>Ciudad : Moreno
+ <br>Telefono : 1123637747
+ <br>Email : Valdezmariaae@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Siempre me dedique a la gastronomia , pero estoy buscando trabajo. Tengo registro y horario fulltime . No importa el puesto que sea , tengo ganas de trabajar. ¡¡GRACIAS!!
+ <br>Security_code : 9yxq6
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 170.51.99.70<br>
+ <br>REF : chr
+ <br>Nombre : Marcelo Rene
+ <br>Apellido : Valdez
+ <br>Cargo : Chofer
+ <br>Direccion : Las heras 6583
+ <br>Ciudad : Moreno
+ <br>Telefono : 1123637747
+ <br>Email : Valdezmariaae@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Siempre me dedique a la gastronomia , pero estoy buscando trabajo. Tengo registro y horario fulltime . No importa el puesto que sea , tengo ganas de trabajar. ¡¡GRACIAS!!
+ <br>Security_code : 9yxq6
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.25.73.74<br>
+ <br>REF : TM-2
+ <br>Nombre : GASTON EDUARDO
+ <br>Apellido : LISICKI
+ <br>Cargo : FRESADOR
+ <br>Direccion : BERNARDI 585
+ <br>Ciudad : HURLINGHAM
+ <br>Telefono : 44526639
+ <br>Email : lisickigaston13@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : BUENAS TARDES LES DEJO MI CV PARA EL PUESTO DE FRESADOR
+ <br>Security_code : 3NYHZ
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.141.199.114<br>
+ <br>REF : TM-2
+ <br>Nombre : Rolando
+ <br>Apellido : Burgos
+ <br>Cargo : Trc.Mec.Mantenimiento
+ <br>Direccion : laguna 2620 manz.6 casa 36
+ <br>Ciudad : capital federal
+ <br>Telefono : 1122436904
+ <br>Email : rolyman_3545@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estoy disponible a una posible entrevista.y busco trabajo en horario diurno.salario a convenir.
+ <br>Security_code : z3tfc
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.141.199.114<br>
+ <br>REF : TM-2
+ <br>Nombre : Rolando
+ <br>Apellido : Burgos
+ <br>Cargo : Trc.Mec.Mantenimiento
+ <br>Direccion : laguna 2620 manz.6 casa 36
+ <br>Ciudad : capital federal
+ <br>Telefono : 1122436904
+ <br>Email : rolyman_3545@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estoy disponible a una posible entrevista.y busco trabajo en horario diurno.salario a convenir.
+ <br>Security_code : z3tfc
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.141.199.114<br>
+ <br>REF : TM-2
+ <br>Nombre : Rolando
+ <br>Apellido : Burgos
+ <br>Cargo : Trc.Mec.Mantenimiento
+ <br>Direccion : laguna 2620 manz.6 casa 36
+ <br>Ciudad : capital federal
+ <br>Telefono : 1122436904
+ <br>Email : rolyman_3545@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estoy disponible a una posible entrevista.y busco trabajo en horario diurno.salario a convenir.
+ <br>Security_code : q9d2r
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.158.215.226<br>
+ <br>Nombre : Mariana
+ <br>Apellido : Venosi
+ <br>Cargo : Empleada
+ <br>Direccion : San Luis 320
+ <br>Ciudad : Bs As
+ <br>Telefono : 11 62724199
+ <br>Email : marianavenosi@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas tardes, me dirijo a ustedes con el fin de hacerles llegar mi CV para que analicen y tengan en cuenta.
+
+Desde ya muchas gracias.
+
+Saludos atte:
+
+Mariana Venosi
+ <br>Security_code : kvgxf
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.55.8.130<br>
+ <br>Nombre : Adrian 
+ <br>Apellido : Tomini
+ <br>Cargo : Gerencia comercial
+ <br>Direccion : Gibraltar 2667
+ <br>Ciudad : San Justo
+ <br>Telefono : 1562191357
+ <br>Email : adriantomini@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas tardes...
+Les hago llegar mi curriculum vitae para que lo tengan en cuenta en futuras búsquedas laborales.
+Saludos.
+
+ <br>Security_code : yy3n6
+ <br>Send : Enviar
+ <br>
+---------------
+

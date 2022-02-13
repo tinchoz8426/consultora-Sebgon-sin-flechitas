@@ -1,0 +1,76 @@
+Address : 190.174.176.232
+Nombre : María Fernanda
+Apellido : Savini
+Cargo : secrataria/procuracion/adaminiatrativa
+Direccion : Patricios 1521
+Ciudad : Hurlingham
+Telefono : 1532571695
+Email : fersavini@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : envio cv
+Security_code : cttgp
+Send : Enviar
+
+---------------
+
+Address : 190.137.24.106
+REF : jefe-de-operaciones
+Nombre : Leonardo
+Apellido : Gutierrez
+Cargo : administrativo
+Direccion : Maipu
+Ciudad : Buenos Aires
+Telefono : 1565200557
+Email : leito_diablo10@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Full time preferentemente de Lunes a Viernes.
+Security_code : sxz5t
+Send : Enviar
+
+---------------
+
+Address : 190.137.24.106
+Nombre : Mara
+Apellido : Salomon
+Cargo : marketing/administrativo
+Direccion : Tamborini 5974
+Ciudad : Buenos Aires
+Telefono : 1540292228
+Email : marita-12@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : De Lunes a Viernes hasta las 18 hs preferentemente.
+Security_code : ncb69
+Send : Enviar
+
+---------------
+
+Address : 181.1.150.217
+Nombre : Lihue
+Apellido : Rivero
+Cargo : Varios
+Direccion : Coronel diaz 2381
+Ciudad : CABA - Recoleta
+Telefono : 4808-5193
+Email : lihue.jorge@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : a
+Security_code : gcth2
+Send : Enviar
+
+---------------
+
+Address : 181.1.150.217
+Nombre : Lihue
+Apellido : Rivero
+Cargo : Varios
+Direccion : Coronel diaz 2381
+Ciudad : CABA - Recoleta
+Telefono : 4808-5193
+Email : lihue.jorge@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : a
+Security_code : qkwrw
+Send : Enviar
+
+---------------
+

@@ -1,0 +1,51 @@
+Address : 186.124.6.17
+Nombre : juan jose
+Apellido : moreno
+Cargo : CAJERO
+Direccion : antartida argentina 174 
+Ciudad : banda del rio sali tucuman
+Telefono : 03816680070
+Email : juanjosemoreno_2011@outlook.com
+MAX_FILE_SIZE : 2097152
+Mensaje : gracias por recibir mi cv
+Security_code : wct72
+Send : Enviar
+
+---------------
+
+Address : 186.57.51.65
+Nombre : Pedro
+Apellido : Barbani
+Cargo : Data Entry
+Direccion : Paraguay
+Ciudad : 2943
+Telefono : 011 1532928985
+Email : pmbarbani@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : A quien corresponda:
+
+                              Hola, mi nombre es Pedro Barbani, tengo 23 años y estoy en la búsqueda de un trabajo que me permita sostener algún tipo de alquiler en Capital Federal y mi carrera universitaria. Dispuse el turno noche para asistir a la Universidad, quedándome libre las horas de día para trabajar. En el currículum que adjunto se verá detallado mi perfil con sus características y mis trabajos anteriores.
+
+Gracias por su tiempo, y quedo a la espera de cualquier novedad. Saludos.
+
+Security_code : c6bzx
+Send : Enviar
+
+---------------
+
+Address : 179.37.232.240
+Nombre : Gisela 
+Apellido : Jara
+Cargo : Creditos
+Direccion : Maximo Paz 579 
+Ciudad : Monte Grande
+Telefono : 1160581725
+Email : giselajara_82@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenas tardes, tengo la intensión de que cuenten con mi cv, ya que actualmente estoy buscando empleo.
+Muchas gracias
+Security_code : 89bw3
+Send : Enviar
+
+---------------
+

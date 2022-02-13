@@ -1,0 +1,32 @@
+Address : 200.110.130.226
+REF : gerente-de-operaciones
+Nombre : María Inés
+Apellido : Rojas
+Cargo : Diseñadora web
+Direccion : Guayaquil 118 4b
+Ciudad : Buenos Aires
+Telefono : 1531557754
+Email : inesgrafica@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola.
+Soy María Inés Rojas, Diseñadora Gráfica de la Universidad de Buenos Aires.
+
+Estoy interesada en el puesto de Diseñadora Grafica/Web.
+
+La remuneración pretendida es entre $5500 y $6000
+
+Adjunto en este mail mi CV, y aquí les agrego un link para que puedan ver mi portfolio:
+
+http://inesgrafica.blogspot.com/
+
+http://ar.linkedin.com/in/inesgrafica 
+
+Saludos.
+
+Inés
+
+Security_code : n86mp
+Send : Enviar
+
+---------------
+

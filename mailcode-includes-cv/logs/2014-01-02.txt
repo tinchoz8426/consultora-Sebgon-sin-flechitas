@@ -1,0 +1,196 @@
+Address : 181.23.174.195
+Nombre : Lelis Ivana
+Apellido : Miras
+Cargo : Administrativo
+Direccion : cipoletti 418 n, casa 39
+Ciudad : Rivadavia, san juan
+Telefono : 0264-4261660- 154430994
+Email : lelisivana@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me dirijo a Uds. con el objetivo de sumarme a la búsqueda de empleo.
+Atte. Ivana
+Security_code : 6k6mz
+Send : Enviar
+
+---------------
+
+Address : 190.151.144.26
+Nombre : diego
+Apellido : barrera
+Cargo : operario
+Direccion : 1º de mayo casa 64
+Ciudad : zarate
+Telefono : 3487 15 321790
+Email : diego-barrera@live.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Gracias por tenerme en cuenta en su busqueda laboral.
+Security_code : t3prv
+Send : Enviar
+
+---------------
+
+Address : 186.19.5.242
+Nombre : MARIA EUGENIA
+Apellido : RIECHE
+Cargo : ADMINISTRATIVA
+Direccion : PABLO SIMBRON 1890
+Ciudad : BUENOS AIRES
+Telefono : 011-31745106
+Email : eugeniarieche@live.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Desde ya, gracias por su tiempo.
+Security_code : dzb34
+Send : Enviar
+
+---------------
+
+Address : 200.127.202.214
+Nombre : Ezequiel
+Apellido : Merlino
+Cargo : Contador Púlico Nacional
+Direccion : Cecilia Grierson 729
+Ciudad : Azul
+Telefono : 02281-15575826
+Email : ezequielmerlino@live.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Busqueda preferentemente  media jornada de tarde.
+Security_code : qhr63
+Send : Enviar
+
+---------------
+
+Address : 190.11.62.34
+Nombre : ROBERTO JESUS
+Apellido : QUIROGA
+Cargo : OPERARIO METALURGICA
+Direccion : JUNIN 129
+Ciudad : VILLA GOVERNADOR GALVEZ
+Telefono : 5185453
+Email : pitu_lacanallona@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : HOLA ME GUSTARI MUCHO TRABAJAR PARA USTEDES ME INTERESA MUCHO EL TRABAJO LO NECESITO ESPERO UNA PRONTA RESPUESTA LE OFRESCO MIS SERVICIOS A QUIEN CORRESPONDA DESDE YA MUCHAS GRACIAS
+Security_code : Z2G7W
+Send : Enviar
+
+---------------
+
+Address : 190.11.62.34
+Nombre : ROBERTO JESUS
+Apellido : QUIROGA
+Cargo : OPERARIO METALURGICA
+Direccion : JUNIN 129
+Ciudad : VILLA GOVERNADOR GALVEZ
+Telefono : 5185453
+Email : pitu_lacanallona@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : HOLA ME GUSTARI MUCHO TRABAJAR PARA USTEDES ME INTERESA MUCHO EL TRABAJO LO NECESITO ESPERO UNA PRONTA RESPUESTA LE OFRESCO MIS SERVICIOS A QUIEN CORRESPONDA DESDE YA MUCHAS GRACIAS
+Security_code : HHWTC
+Send : Enviar
+
+---------------
+
+Address : 190.11.62.34
+Nombre : ROBERTO JESUS
+Apellido : QUIROGA
+Cargo : OPERARIO METALURGICA
+Direccion : JUNIN 129
+Ciudad : VILLA GOVERNADOR GALVEZ
+Telefono : 5185453
+Email : pitu_lacanallona@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : HOLA ME GUSTARI MUCHO TRABAJAR PARA USTEDES ME INTERESA MUCHO EL TRABAJO LO NECESITO ESPERO UNA PRONTA RESPUESTA LE OFRESCO MIS SERVICIOS A QUIEN CORRESPONDA DESDE YA MUCHAS GRACIAS
+Security_code :  XG6FZ
+Send : Enviar
+
+---------------
+
+Address : 190.11.62.34
+Nombre : ROBERTO JESUS
+Apellido : QUIROGA
+Cargo : OPERARIO METALURGICA
+Direccion : JUNIN 129
+Ciudad : VILLA GOVERNADOR GALVEZ
+Telefono : 5185453
+Email : pitu_lacanallona@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : HOLA ME GUSTARI MUCHO TRABAJAR PARA USTEDES ME INTERESA MUCHO EL TRABAJO LO NECESITO ESPERO UNA PRONTA RESPUESTA LE OFRESCO MIS SERVICIOS A QUIEN CORRESPONDA DESDE YA MUCHAS GRACIAS
+Security_code :  7 G 9 B R
+Send : Enviar
+
+---------------
+
+Address : 190.11.62.34
+Nombre : ROBERTO JESUS
+Apellido : QUIROGA
+Cargo : OPERARIO METALURGICA
+Direccion : JUNIN 129
+Ciudad : VILLA GOVERNADOR GALVEZ
+Telefono : 5185453
+Email : pitu_lacanallona@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : HOLA ME GUSTARI MUCHO TRABAJAR PARA USTEDES ME INTERESA MUCHO EL TRABAJO LO NECESITO ESPERO UNA PRONTA RESPUESTA LE OFRESCO MIS SERVICIOS A QUIEN CORRESPONDA DESDE YA MUCHAS GRACIAS
+Security_code : 4ny3w
+Send : Enviar
+
+---------------
+
+Address : 200.127.57.85
+Nombre : Maria Dilys
+Apellido : Dell
+Cargo : Arquitecta
+Direccion : La merced 568
+Ciudad : Ensenada
+Telefono : 02920-15-407529
+Email : mariadilys@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenos dias estoy buscando trabajo, les dejo mi cv. Saludos Dilys
+Security_code : vdvdr
+Send : Enviar
+
+---------------
+
+Address : 190.12.175.119
+Nombre : Jeremías
+Apellido : Aliquó
+Cargo : Ingeniería
+Direccion : Tacuarí 362
+Ciudad : Godoy Cruz - Mendoza
+Telefono : 251 45856640
+Email : jeremias.aliquo@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto CV para ser tenido en cuenta para futuras búsquedas laborales.
+Security_code : hh52c
+Send : Enviar
+
+---------------
+
+Address : 190.12.175.119
+Nombre : Jeremías
+Apellido : Aliquó
+Cargo : Ingeniería
+Direccion : Tacuarí 362
+Ciudad : Godoy Cruz - Mendoza
+Telefono : 251 45856640
+Email : jeremias.aliquo@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto CV para ser tenido en cuenta para futuras búsquedas laborales.
+Security_code : hh52c
+Send : Enviar
+
+---------------
+
+Address : 190.12.175.119
+Nombre : Jeremías
+Apellido : Aliquó
+Cargo : Ingeniería
+Direccion : Tacuarí 362
+Ciudad : Mendoza
+Telefono : 251 45856640
+Email : jeremias.aliquo@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto CV para ser tenido en cuenta en las búsquedas vigentes
+Security_code : 2rtzc
+Send : Enviar
+
+---------------
+

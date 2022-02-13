@@ -1,0 +1,228 @@
+Address : 181.25.221.107<br>
+ <br>REF : chr
+ <br>Nombre : Javier Horacio
+ <br>Apellido : Pierandrey
+ <br>Cargo : Chofer
+ <br>Direccion : Rene Favaloro 703, Belgrano y Moreno
+ <br>Ciudad : Luis Guillon
+ <br>Telefono : 1164065401
+ <br>Email : javier.pierandrey@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : estoy capacitado para cubrir esa vacante
+
+ <br>Security_code : gty2h
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.191.160.184<br>
+ <br>Nombre : Natalia
+ <br>Apellido : Lopez
+ <br>Cargo : Psicologa
+ <br>Direccion : 9 529
+ <br>Ciudad : La Plata
+ <br>Telefono : 0221155242556
+ <br>Email : natalialopez_83@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Lic. en Psicología
+Acompañante Terapéutico
+
+Disponibilidad de trabajo en La Plata, CABA y Zona Sur
+ <br>Security_code : s6yfx
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.191.160.184<br>
+ <br>Nombre : Natalia
+ <br>Apellido : Lopez
+ <br>Cargo : Psicologa
+ <br>Direccion : 9 529
+ <br>Ciudad : La Plata
+ <br>Telefono : 0221155242556
+ <br>Email : natalialopez_83@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Lic. en Psicología
+Acompañante Terapéutico
+
+Disponibilidad de trabajo en La Plata, CABA y Zona Sur
+ <br>Security_code : q2h7g
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.231.153.231<br>
+ <br>REF : ROT-1
+ <br>Nombre : cristhian
+ <br>Apellido : torres
+ <br>Cargo : dibujante 
+ <br>Direccion : castillo 99
+ <br>Ciudad : capital federal
+ <br>Telefono : 1168686578
+ <br>Email : crisplotter@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : gracias...
+ <br>Security_code : qw969
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.202.30.121<br>
+ <br>REF : ACO-1
+ <br>Nombre : Richard
+ <br>Apellido : Merino
+ <br>Cargo : Comercio Exterior
+ <br>Direccion : Caracas
+ <br>Ciudad : Caracas
+ <br>Telefono : 00584241833048
+ <br>Email : richardmerino@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : "experiencia en convenios de comercio exterior, graduado en la materia, experiencia como delegado del Mercosur en temas de comercio exterior."
+ <br>Security_code : 8mfwb
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.182.105.150<br>
+ <br>REF : ACO
+ <br>Nombre : Jonathan Gaston
+ <br>Apellido : Rosales
+ <br>Cargo : Empleado
+ <br>Direccion : España
+ <br>Ciudad : Castelar
+ <br>Telefono : 1555621066
+ <br>Email : rosalesgaston89@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me encantaría trabajar con ustedes.
+ <br>Security_code : y5zx7
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.182.105.150<br>
+ <br>REF : ACO
+ <br>Nombre : Jonathan Gaston
+ <br>Apellido : Rosales
+ <br>Cargo : Empleado
+ <br>Direccion : España
+ <br>Ciudad : Castelar
+ <br>Telefono : 1555621066
+ <br>Email : rosalesgaston89@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me encantaría trabajar con ustedes.
+ <br>Security_code : y5zx7
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.182.105.150<br>
+ <br>REF : ACO
+ <br>Nombre : Jonathan Gaston
+ <br>Apellido : Rosales
+ <br>Cargo : Empleado
+ <br>Direccion : España
+ <br>Ciudad : Castelar
+ <br>Telefono : 1555621066
+ <br>Email : rosalesgaston89@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me encantaría trabajar con ustedes.
+ <br>Security_code : y5zx7
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.182.105.150<br>
+ <br>REF : ACO
+ <br>Nombre : Jonathan Gaston
+ <br>Apellido : Rosales
+ <br>Cargo : Empleado
+ <br>Direccion : España 2008
+ <br>Ciudad : Castelar
+ <br>Telefono : 1555621066
+ <br>Email : rosalesgaston89@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me encantaría trabajar con ustedes.
+ <br>Security_code : y5zx7
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.182.105.150<br>
+ <br>REF : ACO
+ <br>Nombre : Jonathan Gaston
+ <br>Apellido : Rosales
+ <br>Cargo : Empleado
+ <br>Direccion : España 2008
+ <br>Ciudad : Castelar
+ <br>Telefono : 1555621066
+ <br>Email : rosalesgaston89@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me encantaría trabajar con ustedes.
+ <br>Security_code : Y5ZX7
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.182.105.150<br>
+ <br>Nombre : Jonathan Gaston
+ <br>Apellido : Rosales
+ <br>Cargo : Empleado
+ <br>Direccion : Bruselas
+ <br>Ciudad : Ituzaingo
+ <br>Telefono : 1555621066
+ <br>Email : rosalesgaston89@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me encantaria trabajar con ustedes
+ <br>Security_code : 75wz6
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.182.105.150<br>
+ <br>Nombre : Jonathan Gaston
+ <br>Apellido : Rosales
+ <br>Cargo : Empleado
+ <br>Direccion : Bruselas
+ <br>Ciudad : Ituzaingo
+ <br>Telefono : 1555621066
+ <br>Email : rosalesgaston89@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me encantaria trabajar con ustedes
+ <br>Security_code : 75wz6
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.182.105.150<br>
+ <br>Nombre : Jonathan Gaston
+ <br>Apellido : Rosales
+ <br>Cargo : Empleado
+ <br>Direccion : Bruselas
+ <br>Ciudad : Ituzaingo
+ <br>Telefono : 1555621066
+ <br>Email : rosalesgaston89@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me encantaria trabajar con ustedes
+ <br>Security_code : 75wz6
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.167.129.229<br>
+ <br>REF : ROT-1
+ <br>Nombre : Omar
+ <br>Apellido : Sanchez
+ <br>Cargo : Responsable Oficina Tecnica
+ <br>Direccion : Cabildo 4276
+ <br>Ciudad : Ciudad Autonoma de Buenos Aires
+ <br>Telefono : 011 27902439
+ <br>Email : omargsanchezch@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Tengo experiencia en el uso de Solid Works/Inventor/Ansys y Simulation Mechanical para el diseño de piezas.
+
+Realicé un curso de programación CNC de la Escuela Técnica Roberto Rocca de Tenaris University
+ <br>Security_code : hts79
+ <br>Send : Enviar
+ <br>
+---------------
+

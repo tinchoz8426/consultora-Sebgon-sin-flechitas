@@ -1,0 +1,83 @@
+Address : 186.125.0.224<br>
+ <br>REF : ROT-1
+ <br>Nombre : Nicolas
+ <br>Apellido : Jara
+ <br>Cargo : RESPONSABLE DE OFICINA TECNICA
+ <br>Direccion : Araoz 2862
+ <br>Ciudad : Palermo
+ <br>Telefono : 1133835050
+ <br>Email : nicolasjra@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buen día.
+Vista la Oferta laboral adjunto mi CV a modo de ser tenido en cuenta  para el puesto de Responsable de Oficina Técnica.
+quedo a disposición para cualquier consulta.
+saludos cordiales.
+Nicolas A.J
+ 
+ <br>Security_code : 9s87m
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.33.235.137<br>
+ <br>REF : Ing. quim
+ <br>Nombre : Maria del Carmen
+ <br>Apellido : Baspineiro
+ <br>Cargo : Jefa de producción
+ <br>Direccion : Humberto primo 3259
+ <br>Ciudad : Capital federal
+ <br>Telefono : 0387 5366828
+ <br>Email : maritabaspi@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Quedo a su disposición para cualquier consulta
+ <br>Security_code : zgcpk
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 168.196.245.32<br>
+ <br>REF : chr
+ <br>Nombre : Diego
+ <br>Apellido : Lopez
+ <br>Cargo : Chofer
+ <br>Direccion : samaniego 9238
+ <br>Ciudad : moreno
+ <br>Telefono : 1135193215
+ <br>Email : lopezmelu258@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Mi nombre es Diego soy una persona muy responsable puntual y buen compañero me gustaria que me tengan en cuenta en sus futuras busquedas
+ <br>Security_code : cs984
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.173.199.242<br>
+ <br>Nombre : Kelvin
+ <br>Apellido : Cisneros
+ <br>Cargo : Analista de Procesos
+ <br>Direccion : Federal, San Telmo, Calle Bolívar 1109
+ <br>Ciudad : Capital Federal
+ <br>Telefono : 1170505972
+ <br>Email : niumar-10@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Disponibilidad Full Time
+ <br>Security_code : rx8zz
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.235.118.151<br>
+ <br>Nombre : Lorena Veronica
+ <br>Apellido : Domingues 
+ <br>Cargo : Asistente comercial
+ <br>Direccion : Gral Alvear 1246
+ <br>Ciudad : Don Torcuato
+ <br>Telefono : 1559574180
+ <br>Email : Lvdomingues786@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados les adjunto mi cv para vacantes disponibles
+ <br>Security_code : Vjz22
+ <br>Send : Enviar
+ <br>
+---------------
+

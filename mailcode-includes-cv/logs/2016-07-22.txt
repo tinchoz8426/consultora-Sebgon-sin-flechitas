@@ -1,0 +1,130 @@
+Address : 190.31.204.232<br>
+ <br>Nombre : rodrigo nicolas
+ <br>Apellido : alvarez
+ <br>Cargo : call center
+ <br>Direccion : larrañaga 15
+ <br>Ciudad : cordoba
+ <br>Telefono : 3544547239
+ <br>Email : rodrigoalvarez1996@outlook.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me interesaria trabajar en un call center, tendo disponibilidad horaria por la mañana
+ <br>Security_code : 23j6j
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.104.233.211<br>
+ <br>REF : SE.BIL
+ <br>Nombre : Cruz María
+ <br>Apellido : Isasmendi
+ <br>Cargo : Secretaria Bilingüe
+ <br>Direccion : Pte Uriburu 1517
+ <br>Ciudad : CABA
+ <br>Telefono : 150161719
+ <br>Email : cruzisasmendi@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenos días,
+Adjunto mi Curriculum Vitae a fin de ser considerada en la búsqueda que están realizando.
+Sin otro particular los saludo cordialmente.
+Cruz M. Isasmendi
+ <br>Security_code : cn8rj
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 200.45.161.46<br>
+ <br>Nombre : christian
+ <br>Apellido : pannunzio
+ <br>Cargo : operario , picking, empleado , abastecedor de linea de produccion , operador de pc , manejo de programas para impresion de etiquetas de codigos de barras.
+ <br>Direccion : san roque 2733
+ <br>Ciudad : Buenos aires
+ <br>Telefono : 47572442
+ <br>Email : chiiriiss.-@live.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Interes laboral 
+ <br>Security_code : zzpjm
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.137.165.84<br>
+ <br>REF : T.ELE
+ <br>Nombre : Jose Domingo
+ <br>Apellido : Catari Refunjol
+ <br>Cargo : T.ELE
+ <br>Direccion : Av Caseros 612
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 1124096441
+ <br>Email : jose.catari1408@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Ingeniero electrónico con experiencia en mantenimiento preventivo, correctivo, puesta en marcha, diseño e implementación de sistemas y equipos de control automático, telecomunicaciones e informáticos implementados en el área industrial, comercial y residencial.
+ <br>Security_code : 9tbvs
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.45.62.99<br>
+ <br>REF : SE.BIL
+ <br>Nombre : sofia rocio
+ <br>Apellido : arruti
+ <br>Cargo : secretaria Bilingue
+ <br>Direccion : diego laure 514
+ <br>Ciudad : Buenos aires
+ <br>Telefono : 1537845928
+ <br>Email : sofia.arruti03@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Envió mi curriculum ya que estoy muy interesada en el puesto de trabajo. A espera de una respuesta positiva saludo atentamente. Arruti Sofia
+ <br>Security_code : njhmt
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.94.185.5<br>
+ <br>REF : TLP
+ <br>Nombre : Kenneth 
+ <br>Apellido : Marley
+ <br>Cargo : Tecnico electronico operario 
+ <br>Direccion : Fructuoso rivera 2583
+ <br>Ciudad : Buenos aires 
+ <br>Telefono : 1562657169
+ <br>Email : kenymarley@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Operario tecnico electronico 
+ <br>Security_code : Xtqb5
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.44.211.92<br>
+ <br>Nombre : Federico
+ <br>Apellido : Varanini
+ <br>Cargo : Viajante
+ <br>Direccion : Carabelas 187
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 1154551270
+ <br>Email : fedecuervodelcele@gmeil.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Desde ya muchas gracias. Tengo ganas de aprender y progresar en el rubro que sea.disponibilidad horaria.
+ <br>Security_code : Tkrhg
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.91.252.247<br>
+ <br>REF : JP
+ <br>Nombre : Guillermo
+ <br>Apellido : Vidal
+ <br>Cargo : Jefe RRHH
+ <br>Direccion : Alte. Brown 2964
+ <br>Ciudad : Villa Ballester
+ <br>Telefono : 15-5013-0914
+ <br>Email : guille_a_vidal@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados, adjunto mi CV para ser tenido en cuenta en su búsqueda de personal.
+Atte.
+Guillermo
+ <br>Security_code : vtnrw
+ <br>Send : Enviar
+ <br>
+---------------
+

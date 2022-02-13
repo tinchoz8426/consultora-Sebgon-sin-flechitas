@@ -1,0 +1,48 @@
+Address : 190.175.104.124<br>
+ <br>REF : JPER-1
+ <br>Nombre : LUIS
+ <br>Apellido : MELUL
+ <br>Cargo : JEFE DE PERSONAL
+ <br>Direccion : DEL BARCO CENTENERA 530
+ <br>Ciudad : BUENOS AIRES
+ <br>Telefono : 01149881866
+ <br>Email : luigimelul@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Soy Licenciado en Relaciones del Trabajo con mas de 20 años de experiencia laboral en busqueda nuevos desafíos profesionales.
+ <br>Security_code : sgr2k
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.45.120.187<br>
+ <br>REF : TEC. EL
+ <br>Nombre : Alejandro
+ <br>Apellido : Cortese
+ <br>Cargo : Tecnico electronico especializado
+ <br>Direccion : Nazca 5127
+ <br>Ciudad : CABA
+ <br>Telefono : 1558073344
+ <br>Email : alejcortese@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola, adjunto mi CV.
+ <br>Security_code : 2nzzn
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.137.244.39<br>
+ <br>REF : ROT-1
+ <br>Nombre : Joaquin
+ <br>Apellido : Ninoff
+ <br>Cargo : "RESPONSABLE DE OFICINA TECNICA"
+ <br>Direccion : Isaac Albéniz 2859
+ <br>Ciudad : Córdoba
+ <br>Telefono : 0351155427211
+ <br>Email : gonzaloninoff@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buen día, quería aclarar ademas que tengo disponibilidad para radicarme en Buenos Aires, y que poseo carnet de conducir vigente B2.
+ <br>Security_code : x664q
+ <br>Send : Enviar
+ <br>
+---------------
+

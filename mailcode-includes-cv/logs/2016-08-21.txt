@@ -1,0 +1,56 @@
+Address : 190.31.247.136<br>
+ <br>REF : GTEP
+ <br>Nombre : ANALÍA ALEJANDRA
+ <br>Apellido : GUERRA
+ <br>Cargo : GERENTE
+ <br>Direccion : CONDARCO 3181
+ <br>Ciudad : BUENOS AIRES
+ <br>Telefono : 1544278551
+ <br>Email : aa_guerra@msn.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Adjunto CV para la postulación de referencia
+ <br>Security_code : kwp5m
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.15.183.240<br>
+ <br>REF : JEOTEC
+ <br>Nombre : Norberto
+ <br>Apellido : Perez
+ <br>Cargo : Jefe de oficina tecnica
+ <br>Direccion : La Florida 3377
+ <br>Ciudad : Bariloche
+ <br>Telefono : 0294 154539346
+ <br>Email : norbertoperez.ar@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados,
+
+He visto la Oferta Laboral publicada en INDEED y la misma me resultó de gran interés. Por este motivo, les hago llegar mi Currículum Vitae, a fin de ser tenido en cuenta como candidato.
+Quedo a su disposición para ampliar cualquier información necesaria.
+Cordialmente,
+
+Norberto Omar Perez
+Cel. 0294 154539346
+ <br>Security_code : qggcv
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.168.192.198<br>
+ <br>REF : GTEP
+ <br>Nombre : Ana Lorena
+ <br>Apellido : Guinda Polack
+ <br>Cargo : Gerente de Planta
+ <br>Direccion : Jose Hernandez, 2484
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 1561343114
+ <br>Email : an.guinda@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados,
+Tengo amplia experiencia en los ambitos de la busqueda y de manejo de sindicato. A la espera de la oportunidad de una entrevista, saludo a Uds. Atte
+ <br>Security_code : 9kxkc
+ <br>Send : Enviar
+ <br>
+---------------
+

@@ -1,0 +1,115 @@
+Address : 201.210.135.41<br>
+ <br>REF : T.ELE
+ <br>Nombre : Jose 
+ <br>Apellido : Castañon
+ <br>Cargo : Electronicos para dpto de Produccion y Desarrollo 
+ <br>Direccion : Belgrano
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : +584141707924
+ <br>Email : jackoblitus@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Experiencia en electronica y equipos de audio y produccion 
+ <br>Security_code : 445xd
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 179.37.143.146<br>
+ <br>Nombre : Walter Adrian
+ <br>Apellido : Fioravanti
+ <br>Cargo : Jefe/supervisor/encargado
+ <br>Direccion : Santa Angela 
+ <br>Ciudad : Ezeiza- Buenos Aires
+ <br>Telefono : 01143980013
+ <br>Email : walterfiora@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Soy una persona con ganas de seguir incrementando mi capacidad de trabajo
+ <br>Security_code : zhdf8
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 179.37.143.146<br>
+ <br>Nombre : Walter Adrian
+ <br>Apellido : Fioravanti
+ <br>Cargo : Jefe/supervisor/encargado
+ <br>Direccion : Santa Angela 
+ <br>Ciudad : Ezeiza- Buenos Aires
+ <br>Telefono : 01143980013
+ <br>Email : walterfiora@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Soy una persona con ganas de seguir incrementando mi capacidad de trabajo
+ <br>Security_code : zhdf8
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 179.39.151.55<br>
+ <br>Nombre : Maria Florencia
+ <br>Apellido : Santos
+ <br>Cargo : Diseñadora/Administrativa/Asistente/Secretaria
+ <br>Direccion : Manuel Ocampo 958
+ <br>Ciudad : Hurlingham
+ <br>Telefono : 1553235655
+ <br>Email : dgmar90@yahoo.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenos días, soy Maria Florencia y me comunico con la Consultora Sebgon tras visitar su Sitio Web, con el fin de enviarles mi CV para si es posible, ser parte de su Búsqueda.
+
+Esperando que analicen mi postulación si así lo desean,
+Les saluda atte.
+Florencia S.
+ <br>Security_code : cbgjq
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.60.176.64<br>
+ <br>REF : TEQ
+ <br>Nombre : Ana Claudia
+ <br>Apellido : Barreyra
+ <br>Cargo : TEQ
+ <br>Direccion : I. Arabes 100
+ <br>Ciudad : Chascomús
+ <br>Telefono : 02241-15458860
+ <br>Email : abarreyra@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me encuentro en busqueda laboral de posiciones referidas a Tecnicatura Universitaria en Laboratorio.  Adjunto c.v.  
+ <br>Security_code : td8x9
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.1.125.68<br>
+ <br>Nombre : Yamila Michelle
+ <br>Apellido : Yaccusi 
+ <br>Cargo : Atención al cliente
+ <br>Direccion : Unquillo 432 B°Panamericano
+ <br>Ciudad : Cordoba
+ <br>Telefono : 3516803045
+ <br>Email : yamilamyaccusi@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me gustaría trabajar para poder superarme en el espacio laboral y en el espacio personal. 
+ <br>Security_code : 6gpk8
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.44.19.129<br>
+ <br>Nombre : Gabriel
+ <br>Apellido : Villalba
+ <br>Cargo : Soldador
+ <br>Direccion : Rio de la Plata 3237
+ <br>Ciudad : Ing. Pablo Nogues
+ <br>Telefono : 02320-414782
+ <br>Email : grv751@outlook.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenos dias / Buenas tardes.
+
+Dejo en muestra mi CV para la propuesta de soldador, con esxperiencia comprobable.
+
+Muchas gracias
+ <br>Security_code : dnbsz
+ <br>Send : Enviar
+ <br>
+---------------
+

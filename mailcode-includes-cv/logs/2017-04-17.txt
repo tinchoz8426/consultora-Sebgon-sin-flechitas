@@ -1,0 +1,353 @@
+Address : 190.122.213.158<br>
+ <br>Nombre : ariel
+ <br>Apellido : Vasquez
+ <br>Cargo : capataz - operario 
+ <br>Direccion : escribano mayor de gobierno 3810 
+ <br>Ciudad : buenos aires 
+ <br>Telefono : 02204982661 
+ <br>Email : Vasquez7ariel@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola que tal,  me gustaría que me ayuden en la búsqueda de un empleo donde pueda desempeñarme y ampliar mis conocimientos. Desde ya muchas gracias. 
+ <br>Security_code : d56wj
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.18.241.144<br>
+ <br>REF : chr
+ <br>Nombre : ruben oscar
+ <br>Apellido : rodriguez
+ <br>Cargo : chofer
+ <br>Direccion : ocampo4485
+ <br>Ciudad : la matanza
+ <br>Telefono : 20647258
+ <br>Email : brandoncanch@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : hola buen dia soy oscar me gustaria trbajar como chofer ya q tengo experriencia tambien se majer clack el q trngo es de clases a.2.2.b1.b2
+ <br>Security_code : v72ys
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.18.241.144<br>
+ <br>REF : chr
+ <br>Nombre : ruben oscar
+ <br>Apellido : rodriguez
+ <br>Cargo : chofer
+ <br>Direccion : ocampo4485
+ <br>Ciudad : la matanza
+ <br>Telefono : 20647258
+ <br>Email : brandoncanch@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : hola buen dia soy oscar me gustaria trbajar como chofer ya q tengo experriencia tambien se majer clack el q trngo es de clases a.2.2.b1.b2
+ <br>Security_code : v72ys
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.18.241.144<br>
+ <br>REF : chr
+ <br>Nombre : ruben oscar
+ <br>Apellido : rodriguez
+ <br>Cargo : chofer
+ <br>Direccion : ocampo4485
+ <br>Ciudad : la matanza
+ <br>Telefono : 20647258
+ <br>Email : brandoncanch@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : hola buen dia soy oscar me gustaria trbajar como chofer ya q tengo experriencia tambien se majer clack el q trngo es de clases a.2.2.b1.b2
+ <br>Security_code : v72ys
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.212.196.20<br>
+ <br>REF : ACO-1
+ <br>Nombre : Fatima
+ <br>Apellido : Funes
+ <br>Cargo : Analista Comercio Exterior 
+ <br>Direccion : Padre Ingles 1156, Lujan
+ <br>Ciudad : Jauregui Jose Maria
+ <br>Telefono : 1160934011
+ <br>Email : fatima_cfunes@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estoy interesada en aplicar al puesto de analista en comercio exterior. Cuento con 5 años de experiencia en el área.
+ <br>Security_code : gbm38
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.2.49.149<br>
+ <br>REF : JPER-1
+ <br>Nombre : Silvina
+ <br>Apellido : Varela
+ <br>Cargo : Jefe de Personal
+ <br>Direccion : Lope de Vega 316 Dpto B
+ <br>Ciudad : Capital Federal
+ <br>Telefono : 1560103484
+ <br>Email : silvinalauravarela@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Trabaje con dotaciones compuesta por hombres integramente, por este motivo me postulo. Saludos, Silvina Varela
+ <br>Security_code : 7x55m
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.254.148.220<br>
+ <br>REF : chr
+ <br>Nombre : gaston guillermo
+ <br>Apellido : coniberti
+ <br>Cargo : chofer
+ <br>Direccion : juan bautista alberdi 2650
+ <br>Ciudad : moreno
+ <br>Telefono : 1126596039
+ <br>Email : pepu74@hotmaul.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : tengo muchas ganas de trabajar y de prosperar para darle un buen estar a mi familia 
+ <br>Security_code : d3qrz
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.191.157.7<br>
+ <br>REF : ACO-1
+ <br>Nombre : Federico
+ <br>Apellido : Ojeda
+ <br>Cargo : Analista de Comercio Internacional
+ <br>Direccion : Peron 3393, 5A
+ <br>Ciudad : CABA
+ <br>Telefono : 1523153110
+ <br>Email : dfede182@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : adjunto CV.
+ <br>Security_code : 7qq9m
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.125.45.110<br>
+ <br>REF : TE-1
+ <br>Nombre : Antonio Diego
+ <br>Apellido : Sessa
+ <br>Cargo : TE-1
+ <br>Direccion : Roberto Wernicke 1723
+ <br>Ciudad : Villa Adelina
+ <br>Telefono : 011 15 5414 1550
+ <br>Email : adsessa@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : HOLA,
+PARA SU CONSIDERACIÓN ADJUNTO MI CV.
+SALUDOS, ANTONIO SESSA
+ <br>Security_code : rr9g8
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.1.243.78<br>
+ <br>REF : ACO-1
+ <br>Nombre : Jessica
+ <br>Apellido : Gregorio
+ <br>Cargo : ANALISTA DE COMERCIO INTERNACIONAL/EXTERIOR
+ <br>Direccion : Lavallol de Acosta 333
+ <br>Ciudad : San Antonio de Padua
+ <br>Telefono : 0111534746855
+ <br>Email : gregorio.jessica@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados,
+
+Mi nombre es Jessica Gregorio soy Licenciada en Comercio Internacional y en 2015 finalice mi Maestría en Dirección y Gestión de empresas Internacionales en la UAB (Universitat Autónoma de Barcelona).
+
+Me encuentro absolutamente interesada en la vacante ya que sigo buscando obtener experiencia valiosa para formarme profesionalmente en el área de Comercio Internacional por lo que espero que mi perfil sea de su agrado. Tengo para aportar muchas ganas de trabajar, pro actividad, responsabilidad, capacidad de trabajo en equipo y conocimientos. 
+
+Estando a su entera disposición para coordinar una entrevista cuando ud. considere necesario, la saluda atentamente,
+ 
+Lic. Jessica Vanesa Gregorio
+(+54) 9 11 3474 6855
+ <br>Security_code : fknf7
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.194.0.81<br>
+ <br>REF : ROT-1
+ <br>Nombre : Paula Andrea 
+ <br>Apellido : Giraldo Jiménez
+ <br>Cargo : Responsable de Oficina técnica
+ <br>Direccion : México, 1773
+ <br>Ciudad : Capital Federal
+ <br>Telefono : 1158708034
+ <br>Email : paulagj2000@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas tardes,
+
+Adjunto mi CV para la vacante, quedo atenta a sus comentarios.
+
+Cordialmente,
+Paula Giraldo
+ <br>Security_code : 3fvs2
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.105.103.208<br>
+ <br>Nombre : Isabel
+ <br>Apellido : González
+ <br>Cargo : Ingeniero
+ <br>Direccion : Bogota 335
+ <br>Ciudad : Tortuguitas (Prov. Bs. As.)
+ <br>Telefono : 011 41745913
+ <br>Email : isabelb.gonzalezm@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas tardes.
+ 
+Les envío mi CV. 
+ 
+Tengo experiencia en coordinación y control de obras/proyectos, trabajo en equipo y manejo de personal. Conocimientos en administración de negocios y marketing. 
+ 
+Saludos.
+Isabel González
+
+
+ <br>Security_code : bkx7y
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.225.195.2<br>
+ <br>Nombre : FERNANDO MARTIN
+ <br>Apellido : ANTONIOW
+ <br>Cargo : Administracion de ventas
+ <br>Direccion : Miguel Murray 1185
+ <br>Ciudad : Merlo
+ <br>Telefono : 1534039635
+ <br>Email : fered21ma@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Dejo CV para ser tenido en cuenta
+ <br>Security_code : vc3sk
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.199.145.154<br>
+ <br>REF : ROT-1
+ <br>Nombre : Giulia
+ <br>Apellido : Recanati
+ <br>Cargo : Responsable de oficina técnica
+ <br>Direccion : 3 de febrero 1317
+ <br>Ciudad : Rosario
+ <br>Telefono : 03471-15683130
+ <br>Email : giulia_recanati@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenos días,
+Reciba mi cordial saludo.
+A través de esta carta me dirijo a Usted por el siguiente asunto.
+Mi nombre es Giulia Recanati , soy Ingeniera Química, graduada en la Universidad Tecnológica Nacional, Facultad Regional Rosario.
+Mi propósito es adquirir experiencia en relación a mis estudios universitarios, cumplir con los objetivos establecidos y desarrollar todo mi potencial para poder llevarlos a cabo; asumir responsabilidades y trabajar en equipo en el desarrollo de nuevos proyectos que me permitan crecer personal y profesionalmente, logrando así los objetivos de la empresa, comprometida a dar lo mejor de mi para el crecimiento y desarrollo constante de la misma.
+Estoy a su disposición y espero poder concretar una entrevista con Ustedes.
+Les agradezco mucho por el tiempo dedicado.
+Saludo atentamente. 
+Recanati, Giulia.
+
+ <br>Security_code : q462q
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.9<br>
+ <br>Nombre : Alejandro gabriel
+ <br>Apellido : Menendez
+ <br>Cargo : Chofer de reparto 
+ <br>Direccion : Florencio sanchez 1973
+ <br>Ciudad : Lomas de zamora
+ <br>Telefono : 1122380029
+ <br>Email : menendezalejandro81@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me gustaria formar parte de su equipo de trabajo.  Me desempeñado por mas de 20 años en reparto de productos de alimtos.
+ <br>Security_code : S2dcv
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.141.133.108<br>
+ <br>REF : chr
+ <br>Nombre : Sebastian angel
+ <br>Apellido : Galvan
+ <br>Cargo : Chofer profecional
+ <br>Direccion : Pehuajo
+ <br>Ciudad : Florencio Varela
+ <br>Telefono : 1161400694
+ <br>Email : yamisebazahi2008@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola mi nombre es sebastian angel galvan de 37 años, dni 27556324, vivo en florencio varela en la localidad de bosques y estoy desocupado. Cuento con el rejistro cnrt y profecional al dia y libreta sanitaria vigente. Exelentes conocimiento de reparto corta y larga distancia, agradeseria que me tengan en cuenta mi celular es 1561400694 y si lo decean personalmente les llevo mi curriculum espero su respuesta. Desde ya muchas gracias
+ <br>Security_code : dgj6v
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.183.83.87<br>
+ <br>REF : chr
+ <br>Nombre : Hector Matias 
+ <br>Apellido : Argañaras
+ <br>Cargo : Chofer
+ <br>Direccion : estanilao del campo
+ <br>Ciudad : LA MATANZA - GREGORIO DE LAFERRERE
+ <br>Telefono : 1549987462
+ <br>Email : matias_arganaras@hotmail.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola estoy muy interesado en trabajar soy muy responsable...
+ <br>Security_code : 5hrv9
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.7<br>
+ <br>Nombre : Alejandro gabriel
+ <br>Apellido : Menendez
+ <br>Cargo : Chofer de reparto 
+ <br>Direccion : Florencio sanchez 1973
+ <br>Ciudad : Lomas de zamora
+ <br>Telefono : 1122380029
+ <br>Email : menendezalejandro81@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estoy en busca de empleo como chofer de camion para reparto. Me e desempeñado como repartidor desde los 17 año y ya llevo 20 años en el rubro de repartidor 
+ <br>Security_code : 9qqn5
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.9<br>
+ <br>REF : ROT-1
+ <br>Nombre : Walter Sergio
+ <br>Apellido : Alvarez
+ <br>Cargo : Oficina técnica
+ <br>Direccion : Moranchel 643
+ <br>Ciudad : Fcio Varela
+ <br>Telefono : 1562693246
+ <br>Email : waltersergioalvarez@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : At. Sr. Jefe de Personal
+   
+     Por medio de la presente me dirijo a Ud. para postularme al puesto vacante de refreferencia. Los datos personales como así también mi experiencia laboral, las podrá evaluar en mi currículum vitae que figura en adjunto.
+Seguro de ser una persona con aptitud para ocupar el puesto, no tendría inconveniente en coordinar un encuentro en la fecha y hora que a Ud. más le convenga, con el fin de ampliar mis conocimientos.
+Sin más, y a la espera de su pronta respuesta, le envío un cordial saludo.
+ <br>Security_code : zbvf9
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 179.41.216.5<br>
+ <br>REF : ACO-1
+ <br>Nombre : Natalia Marisol
+ <br>Apellido : Hernandez
+ <br>Cargo : ACO-1
+ <br>Direccion : Sudamerica 6050
+ <br>Ciudad : Gregorio de Laferrere
+ <br>Telefono : 1133754146
+ <br>Email : nmarisolhernandez@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : -
+ <br>Security_code : 74dfb
+ <br>Send : Enviar
+ <br>
+---------------
+

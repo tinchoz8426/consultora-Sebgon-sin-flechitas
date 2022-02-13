@@ -1,0 +1,71 @@
+Address : 200.31.1.98
+REF : jefe-de-operaciones
+Nombre : Hugo
+Apellido : Squinobal
+Cargo : Jerárquico
+Direccion : Tablada 172
+Ciudad : Salsipuedes
+Telefono : 0351152043081
+Email : squinobal@salsipuedes.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados: Envío mi CV con la finalidad de postularme para alguna posición laboral de acuerdo a mis conocimientos, habilidades y capacidades, mismos que se orientan hacia el desarrollo de negocios con todas las herramientas que ello implica: Plan de Negocios, estudio de mercado, análisis de la competencia y zona geográfica, factibilidad, contingencias, etc.
+
+Espero vuestra gentil respuesta. Mi búsqueda prefiero que se realice dentro del ámbito industrial / comercial de Córdoba o ciudades aledañas.
+
+Saludos
+
+Dr. Hugo Squinobal
+Security_code : wdbgy
+Send : Enviar
+
+---------------
+
+Address : 190.55.120.77
+Nombre : Aldana Celeste
+Apellido : Figoli
+Cargo : Analista Grafóloga
+Direccion : Francisco Acuña de Figueroa 749 piso: 5 dpto: A
+Ciudad : CABA
+Telefono : 4861 - 5867 / 1565124473 
+Email : aldanaceleste@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados:
+
+              Buen día, el motivo de este mail es hacerles llegar mi CV. Sé que no reciben al menos que haya una búsqueda. Me gustaría poder formar parte de su equipo de trabajo. Soy Grafóloga Oficial especializada en Selección de Personal egresada del Instituto Superior Emerson. Les agradezco su tiempo. Espero tener noticias de ustedes.
+
+Atentos Saludos,
+Security_code : zs6r6
+Send : Enviar
+
+---------------
+
+Address : 201.252.120.248
+Nombre : gaston rodrigo
+Apellido : compagnucci
+Cargo : vendedor
+Direccion : bahia blanca 4215
+Ciudad : buenos aires
+Telefono : 155-456-7728
+Email : pibechorro_v.a_18@hotmail.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : me postulo para un puesto de vendedor comercio
+Security_code : x463x
+Send : Enviar
+
+---------------
+
+Address : 190.177.211.37
+Nombre : Juan Manuel
+Apellido : Altolaguirre
+Cargo : Administrativo/otro
+Direccion : Ramon Falcon 1341
+Ciudad : Capital Federal
+Telefono : 44321200
+Email : juanma1285@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Me gustaría formar parte de una empresa que apueste al desarrollo de mis habilidades.
+Security_code : bv6jk
+Send : Enviar
+
+---------------
+

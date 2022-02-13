@@ -1,0 +1,186 @@
+Address : 93.57.248.160<br>
+ <br>Nombre : Filippo
+ <br>Apellido : Puligheddu
+ <br>Cargo : Informaciones generales
+ <br>Direccion : Via Carlo Cammeo 150
+ <br>Ciudad : Cascina (provincia de Pisa, Italia)
+ <br>Telefono : +393664794215
+ <br>Email : filippo.puligheddu@tiscali.it
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Soy un ingeniero electrónico con una larga experiencia en Marketing y Ventas, y también en Compras y Desarrollo de negocios. Os envío mi CV. Me gustaría trabajar en un país de lengua española en America del Sur y Argentina es el primero. Quería saber cuales posibilidades tengo. Muchas Gracias.
+Filippo Puigheddu
+ <br>Security_code : qtbjg
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 191.81.57.26<br>
+ <br>REF : JP
+ <br>Nombre : Jorge Omar
+ <br>Apellido : Castañares
+ <br>Cargo : Jefe de Personal
+ <br>Direccion : Manuela Pedraza 3040 - Lanus Oeste
+ <br>Ciudad : Lanus Oeste
+ <br>Telefono : 1558676166
+ <br>Email : jorcasta2000@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenos días, me dirijo a los efectos de remitir mi CV a los fines de cubrir alguna posición en RRHH que tengan en curso o próxima a definirse y en las cuales pueda intervenir ajustándose al perfil.
+Deje de pertenecer a la empresa Antártida Cía. Argentina de  Seguros SA, luego de tres años  y me encuentro en búsqueda activa de un nuevo empleo. 
+Agradezco su atención. Cordialmente Jorge Castañares
+
+ <br>Security_code : nz3nb
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.57.168.73<br>
+ <br>REF : JP
+ <br>Nombre : Luis Bernardo
+ <br>Apellido : Solodovsky
+ <br>Cargo : Recursos Humanos
+ <br>Direccion : San Ignacio 2170
+ <br>Ciudad : Ituzaingo
+ <br>Telefono : 1530474658
+ <br>Email : solodovsky@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Por la presente, me dirijo a usted a los efectos de solicitarle la posibilidad de ingresar a trabajar; estuve trabajando en forma ininterrumpida por treinta y seis años en el grupo de una empresa multinacional en el área de Recursos Humanos (dejo mi CV).  Mi objetivo es demostrar que soy capaz de activar las políticas de motivación con las personas que trabajan y desarrollar programas de fidelización entre los empleados y la empresa, formando en forma contínua la capacitación del personal dependiente de los departamentos y habilidades que se requieran, administrando los recursos humanos conforme al presupuesto otorgado. Poseo conocimientos integrales de la gerencia con clara comprensión de las relaciones interpersonales y habilidades de negociación y liderazgo.
+ <br>Security_code : 3bjjg
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.165.125.194<br>
+ <br>Nombre : Daniela
+ <br>Apellido : Zolezzi
+ <br>Cargo : Administrativo
+ <br>Direccion : Althabe 374
+ <br>Ciudad : San Antonio de Padua
+ <br>Telefono : 1130302079
+ <br>Email : danizole@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Experiencia en el area administrativa y atencion al cliente
+ <br>Security_code : 26bz6
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.165.125.194<br>
+ <br>Nombre : lucas misael
+ <br>Apellido : mendoza lugo
+ <br>Cargo : Ventas
+ <br>Direccion : irigoyen  3869
+ <br>Ciudad : San justo
+ <br>Telefono : 1126600182
+ <br>Email : simoncito128@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Experiencia atencion al cliente
+ <br>Security_code : zj5t7
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.165.125.194<br>
+ <br>Nombre : lucas misael
+ <br>Apellido : mendoza lugo
+ <br>Cargo : Ventas
+ <br>Direccion : irigoyen  3869
+ <br>Ciudad : San justo
+ <br>Telefono : 1126600182
+ <br>Email : simoncito128@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Experiencia atencion al cliente
+ <br>Security_code : zj5t7
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.165.125.194<br>
+ <br>Nombre : lucas misael
+ <br>Apellido : mendoza lugo
+ <br>Cargo : Ventas
+ <br>Direccion : irigoyen  3869
+ <br>Ciudad : San justo
+ <br>Telefono : 1126600182
+ <br>Email : simoncito128@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Experiencia atencion al cliente
+ <br>Security_code : zj5t7
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.165.125.194<br>
+ <br>Nombre : lucas misael
+ <br>Apellido : mendoza lugo
+ <br>Cargo : Ventas
+ <br>Direccion : irigoyen  3869
+ <br>Ciudad : San justo
+ <br>Telefono : 1126600182
+ <br>Email : simoncito128@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Experiencia atencion al cliente
+ <br>Security_code :  zj5t7
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.165.125.194<br>
+ <br>Nombre : lucas misael
+ <br>Apellido : mendoza lugo
+ <br>Cargo : Ventas
+ <br>Direccion : irigoyen  3869
+ <br>Ciudad : San justo
+ <br>Telefono : 1126600182
+ <br>Email : simoncito128@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Experiencia en atencion al cliente 
+ <br>Security_code : 2p6tw
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.165.125.194<br>
+ <br>Nombre : lucas misael
+ <br>Apellido : mendoza lugo
+ <br>Cargo : Ventas
+ <br>Direccion : irigoyen  3869
+ <br>Ciudad : San justo
+ <br>Telefono : 1126600182
+ <br>Email : simoncito128@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Experiencia en atencion al cliente 
+ <br>Security_code : jm3w7
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.165.125.194<br>
+ <br>Nombre : lucas misael
+ <br>Apellido : mendoza lugo
+ <br>Cargo : Ventas
+ <br>Direccion : irigoyen  3869
+ <br>Ciudad : San justo
+ <br>Telefono : 1126600182
+ <br>Email : simoncito128@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Experiencia en atencion al cliente 
+ <br>Security_code : jm3w7
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.165.125.194<br>
+ <br>Nombre : lucas misael
+ <br>Apellido : mendoza lugo
+ <br>Cargo : Ventas
+ <br>Direccion : irigoyen  3869
+ <br>Ciudad : San justo
+ <br>Telefono : 1126600182
+ <br>Email : simoncito128@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Experiencia en atencion al cliente 
+ <br>Security_code : hkw44
+ <br>Send : Enviar
+ <br>
+---------------
+

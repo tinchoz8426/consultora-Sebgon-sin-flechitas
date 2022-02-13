@@ -1,0 +1,82 @@
+Address : 190.245.159.165
+Nombre : Ludmila Noel
+Apellido : Asteggiano
+Cargo : Ejecutivo de cuentas
+Direccion : Gral. Cesar Diaz 5119
+Ciudad : Capital Federal
+Telefono : 20101139
+Email : ludmilanoel4@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenas noches! Les adjunto mi CV para futuras ofertas laborales.
+Security_code : cbt5g
+Send : Enviar
+
+---------------
+
+Address : 190.1.43.23
+Nombre : Facundo
+Apellido : Miconi
+Cargo : Administrativo, ventas, maestranza
+Direccion : 11 de abril 251
+Ciudad : Bahía Blanca
+Telefono : 291-154270882
+Email : f_miconi@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me dirijo a ustedes para que tengan a bien incorporar mi cv a su base de datos.
+
+ATTE
+Miconi Facundo
+Security_code : hh3xm
+Send : Enviar
+
+---------------
+
+Address : 181.26.79.135
+Nombre : Gonzalo Julian
+Apellido : D'amario
+Cargo : Optico Tecnico
+Direccion : General Lopez 1374
+Ciudad : Villa Bosch
+Telefono : 1557560964
+Email : gonzalo.damario@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Busco adquirir experiencia en el rubro de la optica y contactologia a fin de poder desarrolarme como un buen profesional de la salud visual
+Security_code : ygd2p
+Send : Enviar
+
+---------------
+
+Address : 181.23.3.55
+Nombre : Lorena 
+Apellido : Benitez
+Cargo : Organización de Eventos
+Direccion : Hipólito Irigoyen 3685. Almagro.
+Ciudad : CABA
+Telefono : 1558821479
+Email : lorena.anahi.benitez@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados, ante todo me presento, mi nombre es Lorena Benitez, soy recibida en organización de eventos y espectáculos con experiencia en el rubro que maneja la empresa, destacando el sistema de acreditación para eventos y me comunico por medio del presente para poder acercarles mi curriculum con el afán de formar parte del equipo. 
+  Espero puedan considerar la lectura del adjunto, ya que estaría muy interesada en poder concretar una entrevista de ser posible. Desde ya muchas gracias. Saludo cordialmente, Lorena.
+Security_code : dqqmw
+Send : Enviar
+
+---------------
+
+Address : 190.229.72.211
+Nombre : Paula
+Apellido : Capotorto
+Cargo : Responsable Comunicaciones Internas
+Direccion : Valentín Virasoro 760
+Ciudad : CABA
+Telefono : 1562651317
+Email : paula.capotorto@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenos días, mi nombre es Paula Capotorto, soy Licenciada en Ciencias de la Comunicación de la Universidad de Buenos Aires, Periodista de TEA y estoy por empezar una Maestría en Comunicación Institucional en la UADE. A lo largo de mi carrera profesional me especialicé en Desarrollos de Comunicación Interna y Externa en varias Empresas, también he desarrollado Planes de RSE en cada una de ellas.
+
+Adjunto mi curriculum para que sea considerado para futuras búsquedas, 
+Saludos, 
+Security_code : 77vsd
+Send : Enviar
+
+---------------
+

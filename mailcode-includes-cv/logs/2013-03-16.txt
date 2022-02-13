@@ -1,0 +1,47 @@
+Address : 190.176.152.70
+Nombre : Santiago
+Apellido : Waigua
+Cargo : Operario
+Direccion : La Paz N° 2265
+Ciudad : Mendoza
+Telefono : 261-4214310
+Email : santiago_dw@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola buenos dias, mi nombre es Santiago Waigua y aqui adjunto mi C.V. Soy muy responsable, aprendo rapido y mi disponibilidad es Full Time. Espero poder responder con lo deseado. Saludos
+Security_code : 7dz22
+Send : Enviar
+
+---------------
+
+Address : 186.182.104.37
+Nombre : Sebastian Emilio
+Apellido : Moreno
+Cargo : Administrativo, Operario de Deposito
+Direccion : Machado 2931
+Ciudad : Castelar
+Telefono : 4623-6814
+Email : seba_emi_moreno@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Busco un trabajo administrativo, operario de deposito
+Tengo Lincencia de Conducir Vigente.
+
+Security_code : h5j4y
+Send : Enviar
+
+---------------
+
+Address : 186.22.210.81
+Nombre : Tamara Noelia
+Apellido : Vilecco
+Cargo : Administrativo Contable
+Direccion : Jose Alico 1946
+Ciudad : Aldo Bonzi
+Telefono : 1534292239
+Email : tvilecco@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Disponibilidad horaria full time
+Security_code : pnyvr
+Send : Enviar
+
+---------------
+

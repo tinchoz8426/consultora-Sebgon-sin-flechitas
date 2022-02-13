@@ -1,0 +1,92 @@
+Address : 190.138.69.150<br>
+ <br>Nombre : Simon 
+ <br>Apellido : Aguilar 
+ <br>Cargo : vendedor 
+ <br>Direccion : olegario correa 1288
+ <br>Ciudad : cordoba 
+ <br>Telefono : 0351 4809254
+ <br>Email : simonaguilar5to@outlook.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : .
+ <br>Security_code : bdchr
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.245.26.49<br>
+ <br>REF : Ing. quim
+ <br>Nombre : Gisela
+ <br>Apellido : Quintero
+ <br>Cargo : Jefa de procesos industriales
+ <br>Direccion : Av Francisco Acuña de Figueroa
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 1133776263
+ <br>Email : gijoquilan@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Actualmente resido en CABA, sin embargo cuento con disponibilidad para cambio de residencia. 
+ <br>Security_code : q7r26
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.111.164.179<br>
+ <br>Nombre : Sol Priscila
+ <br>Apellido : Cibello
+ <br>Cargo : Atención al cliente 
+ <br>Direccion : Curupayti
+ <br>Ciudad : Cordob Capital
+ <br>Telefono : (351)156148700
+ <br>Email : solcibello8@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola muchas gracias por recibir mi cv.
+ <br>Security_code : j3s2w
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.111.164.179<br>
+ <br>Nombre : Sol Priscila
+ <br>Apellido : Cibello
+ <br>Cargo : Atención al cliente 
+ <br>Direccion : Curupayti
+ <br>Ciudad : Cordob Capital
+ <br>Telefono : (351)156148700
+ <br>Email : solcibello8@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola muchas gracias por recibir mi cv.
+ <br>Security_code : j3s2w
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.111.164.179<br>
+ <br>Nombre : Sol Priscila
+ <br>Apellido : Cibello
+ <br>Cargo : Atención al cliente 
+ <br>Direccion : Curupayti
+ <br>Ciudad : Cordob Capital
+ <br>Telefono : (351)156148700
+ <br>Email : solcibello8@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola muchas gracias por recibir mi cv.
+ <br>Security_code : n5fwd
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.204.83.63<br>
+ <br>REF : ROT-1
+ <br>Nombre : Edgar Jose
+ <br>Apellido : Otero Pericana
+ <br>Cargo : proyectista CAD
+ <br>Direccion : calle general frias 1302 dock sud 
+ <br>Ciudad : buenos aires
+ <br>Telefono : 54591188
+ <br>Email : oteroeh@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : postulacion a cargo de responsable de oficina tecnica
+ <br>Security_code : m94f2
+ <br>Send : Enviar
+ <br>
+---------------
+

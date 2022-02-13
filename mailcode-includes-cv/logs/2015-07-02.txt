@@ -1,0 +1,33 @@
+Address : 186.158.139.170
+Nombre : carlos omar
+Apellido : Melian
+Cargo : vigilancia, operador cctv, otras.
+Direccion : esmeralda 589 1º 6
+Ciudad : capital federal
+Telefono : 1167384549
+Email : carlosomelian@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Disculpe si he enviado dicha misiva con mi C.V., es que aun creo e insisto en encontrar una fuente laboral. Mis experiencias se basaron hace 16 años en lo que es prevención en casi todas sus áreas como Operador de CCTV y dentro de una Central de Operaciones realizando tareas de monitoreo y seguimiento vehicular de GPS como así tomar presentimos, manejo de pc, tareas afines de base. 
+E empezado realizando tareas de vigilancia en control de ingreso/egreso del personal, control  de mercadería,  desde consorcios, sanatorios, comercios, country, oficinas, garitas de seguridad, puerto, instituciones privadas y públicas, estadio de futbol, aunque hoy no lo busco he tenido portación de arma realizando culatas de camiones y vehículos como custodio.
+De mi parte busco en zona Oeste o Norte aunque siempre e trabajado en Capital Federal, no tengo problemas de trabajar 8 o 12 hs. Como así 6x1 o 4x2, siempre he trabajado en turno nocturno no teniendo problemas así mismo he trabajado en pocas oportunidades de día, lo que quiero es estacionarme en un lugar y trabajar ya que aún tengo conciencia que en este oficio se aprende y se sigue aprendiendo el día a día quedando a su entera disposición si es que se abriría una vacante laboral, adjuntando documentación.
+
+Security_code : rffps
+Send : Enviar
+
+---------------
+
+Address : 181.95.43.206
+Nombre : Gisselle Stefani
+Apellido : Maza
+Cargo : Otro
+Direccion : Duarte quiros 2531
+Ciudad : Cordoba
+Telefono : 3514893095
+Email : giscba07@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : -
+Security_code : m5wmc
+Send : Enviar
+
+---------------
+

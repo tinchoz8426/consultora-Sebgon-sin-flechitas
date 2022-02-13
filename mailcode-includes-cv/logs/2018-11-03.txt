@@ -1,0 +1,83 @@
+Address : 181.229.80.164<br>
+ <br>REF : TEC. EL
+ <br>Nombre : Jose Gregorio
+ <br>Apellido : Mijares
+ <br>Cargo : Técnico Electrónico Especializado
+ <br>Direccion : Baldomero Fernandez Moreno
+ <br>Ciudad : Capital Federal
+ <br>Telefono : 01137670865
+ <br>Email : josemijaresgm1@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas noches.
+Cumplo con el perfil requerido por ustedes. Les adjunto mi CV para que evaluen. Estoy a la orden. Saludos cordiales
+ <br>Security_code : t4nkr
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.12.32.142<br>
+ <br>Nombre : Luciana Ailén
+ <br>Apellido : Mastrolorenzo
+ <br>Cargo : Caja/Vendedora
+ <br>Direccion : Canning 3854
+ <br>Ciudad : Tortuguitas
+ <br>Telefono : 1132685805
+ <br>Email : lumastro97@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Tengo muchas ganas de trabajar, soy muy responsable y voluntariosa 
+ <br>Security_code : 3qqjr
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.99.113.250<br>
+ <br>REF : TEC. EL
+ <br>Nombre : Alejandro Daniel
+ <br>Apellido : Calandra
+ <br>Cargo : TÉCNICOS ELECTRÓNICOS ESPECIALIZADOS
+ <br>Direccion : Newton 2480
+ <br>Ciudad : moreno
+ <br>Telefono : 01141756007
+ <br>Email : a.d.calandra@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : TÉCNICOS ELECTRÓNICOS ESPECIALIZADOS
+ <br>Security_code : xh689
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.22.200.88<br>
+ <br>Nombre : Matias 
+ <br>Apellido : Repice
+ <br>Cargo : Tecnico Administrativo en Recursos Humanos 
+ <br>Direccion : Pichincha 1722
+ <br>Ciudad : Lanús 
+ <br>Telefono : 5491164731404
+ <br>Email : Matiasrepice@outlook.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados, 
+En el siguiente archivo adjunto les hago llegar mi Currículum Vitae, a fin de ser tenido en cuenta como candidato.
+Quedo a su disposición para ampliar cualquier información necesaria.
+Cordialmente,
+Matias Repice 
+ <br>Security_code : rqphx
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.143.133.76<br>
+ <br>REF : TEC. EL
+ <br>Nombre : Eduardo
+ <br>Apellido : Decima
+ <br>Cargo : Tecnico especializado
+ <br>Direccion : La aguada 1671 fcio. Varela
+ <br>Ciudad : FLORENCIO VARELA (CP=1888)
+ <br>Telefono : 1141499784
+ <br>Email : eduardecima@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenos días . Soy tecnico con solicos cinocimientos entableros electricos y lineas de  produccion automatizadas. Cel 1141499784. 
+ <br>Security_code : 4xzn6
+ <br>Send : Enviar
+ <br>
+---------------
+

@@ -1,0 +1,612 @@
+Address : 66.249.85.28<br>
+ <br>Nombre : Lila
+ <br>Apellido : Gomez
+ <br>Cargo : Cal center 
+ <br>Direccion : 31 y 155
+ <br>Ciudad : Berazategui 
+ <br>Telefono : 1154771408
+ <br>Email : gomezlila223@gmail.com 
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas busco trabajo 
+ <br>Security_code : 8fjst
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.228.83.171<br>
+ <br>REF : EP-1
+ <br>Nombre : Oreste
+ <br>Apellido : Pereyra
+ <br>Cargo : Ecargado de Produccion
+ <br>Direccion : Av Peron 3072
+ <br>Ciudad : Victoria
+ <br>Telefono : 1564596073
+ <br>Email : pereyra.oreste@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados
+	Tengo el agrado de dirigirme a Ud./s haciendo referencia a la búsqueda que se encuentra para Encargado de Producción que se publicó en el portal de búsqueda de empleo llamado Linkedinn con la búsqueda, cuento con la experiencia y los conocimientos técnicos necesarios para desarrollar el puesto Encargado de Producción. Además de conocimiento de inglés y manejo de herramientas informáticas.
+	Considero que podría integrarme adecuadamente a la organización dado que soy una persona proactiva y con capacidad de formar parte de un equipo de trabajo que busca permanentemente alcanzar objetivos a través de valores sostenidos y responsables. 
+	Quedo a su disposición para ampliar cuanta información estimen necesaria.
+
+ <br>Security_code : 95z4q
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 168.96.249.130<br>
+ <br>REF : EP-1
+ <br>Nombre : Kevin
+ <br>Apellido : Serman
+ <br>Cargo : Encargado de Producción
+ <br>Direccion : San Lorenzo 4761
+ <br>Ciudad : Rosario
+ <br>Telefono : 3413730391
+ <br>Email : kevinserman@live.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Adjunto CV para postularnme a dicha vancante laboral.
+ <br>Security_code : m3v9t
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.7<br>
+ <br>REF : TE-1
+ <br>Nombre : Yoljuan
+ <br>Apellido : Medina
+ <br>Cargo : Técnico eléctrico 
+ <br>Direccion : Castro Barros 338
+ <br>Ciudad : CABA 
+ <br>Telefono : 01123872588
+ <br>Email : yoljuan@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Ing. Eléctrico con experiencia en construcción, dirección de obra, gestión de proyectos. Mantenimiento de equipos y servicios generales. 
+ <br>Security_code : Kq3sg
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.11<br>
+ <br>REF : TE-1
+ <br>Nombre : Yoljuan
+ <br>Apellido : Medina
+ <br>Cargo : Técnico eléctrico 
+ <br>Direccion : Castro Barros 338
+ <br>Ciudad : CABA 
+ <br>Telefono : 01123872588
+ <br>Email : yoljuan@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Ing. Eléctrico con experiencia en construcción, dirección de obra, gestión de proyectos. Mantenimiento de equipos y servicios generales. 
+ <br>Security_code : zfq69
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 200.44.77.26<br>
+ <br>REF : EP-1
+ <br>Nombre : Carlos Alberto
+ <br>Apellido : Roa Millano
+ <br>Cargo : Encargado de produccion
+ <br>Direccion : Venezuela
+ <br>Ciudad : Maracaibo
+ <br>Telefono : +584120751627
+ <br>Email : Carlosroamillano@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Tengo 9 años como supervisor de produccion , en el area de consumo masivo de bebidas y malta en la cerveceria regional
+ <br>Security_code : Cvy3p
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 200.44.77.26<br>
+ <br>REF : EP-1
+ <br>Nombre : Carlos Alberto
+ <br>Apellido : Roa Millano
+ <br>Cargo : Encargado de produccion
+ <br>Direccion : Venezuela
+ <br>Ciudad : Maracaibo
+ <br>Telefono : +584120751627
+ <br>Email : Carlosroamillano@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Tengo 9 años como supervisor de produccion , en el area de consumo masivo de bebidas y malta en la cerveceria regional
+ <br>Security_code : cvy3p
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 200.44.77.26<br>
+ <br>REF : EP-1
+ <br>Nombre : Carlos Alberto
+ <br>Apellido : Roa Millano
+ <br>Cargo : Encargado de produccion
+ <br>Direccion : Venezuela
+ <br>Ciudad : Maracaibo
+ <br>Telefono : +584120751627
+ <br>Email : Carlosroamillano@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Tengo 9 años como supervisor de produccion , en el area de consumo masivo de bebidas y malta en la cerveceria regional
+ <br>Security_code : tsxd9
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 200.44.77.26<br>
+ <br>REF : EP-1
+ <br>Nombre : Carlos Alberto
+ <br>Apellido : Roa Millano
+ <br>Cargo : Encargado de produccion
+ <br>Direccion : Venezuela
+ <br>Ciudad : San francisco
+ <br>Telefono : +584120751627
+ <br>Email : Carlosroamillano@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Tengo 9 años como supervisor de producción en el área de consumo masivo de bebidas y malta 
+ <br>Security_code : gthyt
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.213.198.188<br>
+ <br>REF : EP-1
+ <br>Nombre : Héctor 
+ <br>Apellido : Piña 
+ <br>Cargo : Encargado de producción.
+ <br>Direccion : Av.Salvador María del carril 2129.
+ <br>Ciudad : Capital federal.
+ <br>Telefono : 11 23647233
+ <br>Email : hector.241277@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Como Ingeniero Industrial con experiencia en Industria de consumo masivo estoy dispuesto a asumir grandes compromisos .
+ <br>Security_code : hqzhd
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.213.198.188<br>
+ <br>REF : EP-1
+ <br>Nombre : Héctor 
+ <br>Apellido : Piña 
+ <br>Cargo : Encargado de producción.
+ <br>Direccion : Av.Salvador María del carril 2129.
+ <br>Ciudad : Capital federal.
+ <br>Telefono : 11 23647233
+ <br>Email : hector.241277@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Como Ingeniero Industrial con experiencia en Industria de consumo masivo estoy dispuesto a asumir grandes compromisos .
+ <br>Security_code : czd3w
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.213.198.188<br>
+ <br>Nombre : Héctor 
+ <br>Apellido : Piña 
+ <br>Cargo : Encargado de producción 
+ <br>Direccion : Av.Salvador María del carril 2129
+ <br>Ciudad : Capital Federal 
+ <br>Telefono : 1123647233
+ <br>Email : hector.241277@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Soy Ingeniero Industrial con experiencia en empresa del sector alimentos y bebidas.
+ <br>Security_code : h8zg9
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.213.198.188<br>
+ <br>REF : SP-1
+ <br>Nombre : Héctor 
+ <br>Apellido : Piña 
+ <br>Cargo : Supervisor de producción 
+ <br>Direccion : Av.Salvador María del carril 2129
+ <br>Ciudad : Capital Federal 
+ <br>Telefono : 11 23647233
+ <br>Email : hector.241277@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Soy Ingeniero Industrial con experiencia en Industria del sector alimentos y bebidas Venezolano con DNI y Cuil con experiencia previa en fábrica de chocolate colonial Bruselas 526 .
+ <br>Security_code : sv48p
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.181.76.174<br>
+ <br>Nombre : Mariano
+ <br>Apellido : de las Carreras
+ <br>Cargo : Ingeniero Agronomo
+ <br>Direccion : Castro 3541
+ <br>Ciudad : BELLA VISTA
+ <br>Telefono : 1150019746
+ <br>Email : mdelascarreras78@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Amplios conocimientos de administracion y asesoramiento.Uso de imagenes satelitales.
+ <br>Security_code : 5p4nv
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.190.35.68<br>
+ <br>REF : EP-1
+ <br>Nombre : ANDY ADOLFO 
+ <br>Apellido : GOMEZ FALCON 
+ <br>Cargo : ENCARGADO DE PRODUCCIÓN 
+ <br>Direccion : AV TRIUNVIRATO 3937
+ <br>Ciudad : CABA
+ <br>Telefono : 1121840175
+ <br>Email : andygomez2005@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : ADJUNTO CV PARA SER CONSIDERADO. 
+GRACIAS 
+ <br>Security_code : TZDTY
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 200.125.74.99<br>
+ <br>REF : EP-1
+ <br>Nombre : Rafael 
+ <br>Apellido : Lopez
+ <br>Cargo : Encargado de Produccion
+ <br>Direccion : David Magdalena 2842
+ <br>Ciudad : Buenos aires
+ <br>Telefono : 1154589242
+ <br>Email : edu102044@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Actualmente trabajando en estacion de Servicio YPF
+ <br>Security_code : mp2qn
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.47.216.115<br>
+ <br>REF : TE-1
+ <br>Nombre : Juan
+ <br>Apellido : Berroca
+ <br>Cargo : Tecnico electrico
+ <br>Direccion : Dean Funes 1773, 
+ <br>Ciudad : Ciudad Autónoma de Buenos Aires
+ <br>Telefono : 0111532633193
+ <br>Email : marceloberroca@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados Sres/as de Recursos Humanos:
+
+
+   Tengo el agrado de dirigirme a Ud con el objetivo de participar en su búsquedas en su empresa. Adjunto mi Currículum Vitae.
+
+ En relación a esto, cuento con la experiencia y los conocimientos técnicos necesarios para desarrollar actividades en el rubro de su empresa.
+
+
+ Considero que podría integrarme adecuadamente a la organización que soy una persona proactiva y con capacidad para formar parte de un equipo de trabajo en el que se busque permanentemente alcanzar los valores sostenidos en la responsabilidad social empresaria.
+
+ Agradezco la gentileza de su atención y quedo a la espera de sus comentarios. Asimismo, aprovecho esta oportunidad para saludarlo cordialmente.
+
+ <br>Security_code : 4j958
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.139.183.21<br>
+ <br>REF : EP-1
+ <br>Nombre : Cesar
+ <br>Apellido : Henao
+ <br>Cargo : Encargado Produccion
+ <br>Direccion : Maipu 26
+ <br>Ciudad : CABA
+ <br>Telefono : 1134974025
+ <br>Email : cesarhenao26@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Respetados Señores:
+ 
+Me dirijo a ustedes con el fin de hacerles llegar mi Curriculum Vitae, para su consideración.
+
+Como podrán  ver,  poseo una amplia experiencia en empresas de alimentos; con conocimientos y experiencias en el manejo, mejora y control de procesos; planificación de la producción, insumos, materias primas y producto terminado. Controles de mermas, de costos y desperdicios; ajuste de formulaciones y mejoras en la productividad. 
+ 
+No obstante a la experiencia ya adquirida, deseo poder incorporar nuevos conocimientos; tener nuevos desafíos y responsabilidades. Adicionalmente a lo ya escrito, considero que soy una persona resolutiva, con iniciativa, capacidad de trabajo en equipo, capacidad de compaginar varios proyectos de forma simultánea; hábil a la hora de afrontar y solucionar los problemas del día a día; mi pro-actividad, mis ganas de aprender y mí formación actualizada, aportarían elementos importantes a su empresa.
+
+Por ello espero que los datos que aquí encuentren sean de su interés y me de la oportunidad de conocerles en una entrevista donde ustedes podrán ampliar la información que aquí les suministro. Me pueden ubicar telefónicamente al móvil 11-34974025. 
+
+Cordialmente,
+  
+Cesar Augusto Henao Perez
+D.N.I. 94414025
+ <br>Security_code : 4yt3m
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.47.216.115<br>
+ <br>REF : TM-2
+ <br>Nombre : Juan
+ <br>Apellido : Berroca
+ <br>Cargo : Tecnico Mecanico
+ <br>Direccion : Dean Funes 1773, 
+ <br>Ciudad : Ciudad Autónoma de Buenos Aires
+ <br>Telefono : 0111532633193
+ <br>Email : marceloberroca@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados Sres/as de Recursos Humanos:
+
+
+   Tengo el agrado de dirigirme a Ud con el objetivo de participar en su búsquedas en su empresa. Adjunto mi Currículum Vitae.
+
+ En relación a esto, cuento con la experiencia y los conocimientos técnicos necesarios para desarrollar actividades en el rubro de su empresa.
+
+
+ Considero que podría integrarme adecuadamente a la organización que soy una persona proactiva y con capacidad para formar parte de un equipo de trabajo en el que se busque permanentemente alcanzar los valores sostenidos en la responsabilidad social empresaria.
+
+ Agradezco la gentileza de su atención y quedo a la espera de sus comentarios. Asimismo, aprovecho esta oportunidad para saludarlo cordialmente.
+
+ <br>Security_code : 3q8v2
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.229.158.232<br>
+ <br>REF : EP-1
+ <br>Nombre : Jairo Rholando
+ <br>Apellido : Molina Roa
+ <br>Cargo : Encargado de producción
+ <br>Direccion : Avenida Segurola 3292, Villa Devoto
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 01128859545
+ <br>Email : Rholandomolinar@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenos días Sres Sebgon consultora, por medio de la presente me dirijo a ustedes con la finalidad de remitirles en el anexo mi currículum vitae para que sea evaluado y tomado en cuenta cómo posible candidato para el puesto de encargado de producción.
+De antemano muchas gracias.
+Saludos cordiales.
+Rholando Molina.
+ <br>Security_code : mh8sh
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.17.200.251<br>
+ <br>REF : EP-1
+ <br>Nombre : Maria Silvia
+ <br>Apellido : Pereira
+ <br>Cargo : Encargado de Producción
+ <br>Direccion : Av Belgrano
+ <br>Ciudad : CABA
+ <br>Telefono : 11-1554542802
+ <br>Email : mariasilvia_pereira@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Les adjunto CV para evaluación del mismo.
+
+Saludos Cordiales
+ <br>Security_code : njbxd
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.17.200.251<br>
+ <br>Nombre : Maria Silvia
+ <br>Apellido : Pereira
+ <br>Cargo : Ingeniero en Alimentos
+ <br>Direccion : Av Belgrano
+ <br>Ciudad : CABA
+ <br>Telefono : 1554542802
+ <br>Email : mariasilvia_pereira@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenos días Estimados, adjunto CV  para  evaluacion del mismo.
+
+Saludos Cordiales
+ <br>Security_code : 5rz9z
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.231.253.130<br>
+ <br>REF : ACO-1
+ <br>Nombre : Daniel Raul
+ <br>Apellido : Guastadisegno
+ <br>Cargo : ANALISTA DE COMERCIO INTERNACIONAL/EXTERIOR
+ <br>Direccion : Pedernera, 540
+ <br>Ciudad : CABA
+ <br>Telefono : 01144070474
+ <br>Email : guastad@yahoo.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : adjunto cv
+ <br>Security_code : 2mhcj
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.18.13.240<br>
+ <br>REF : EP-1
+ <br>Nombre : Jhoan
+ <br>Apellido : Calderón
+ <br>Cargo : Encargado de Producción
+ <br>Direccion : Belgrano, Mendoza 3335
+ <br>Ciudad : capital federal
+ <br>Telefono : 1133541434
+ <br>Email : jhoancalderon@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas tardes, anexo se encuentra mi Curriculum, me gustaría participar en el preoceso de selección
+ <br>Security_code : b242t
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.11<br>
+ <br>REF : EP-1
+ <br>Nombre : Mariano
+ <br>Apellido : Fernández 
+ <br>Cargo : Encargado de Producción 
+ <br>Direccion : Reconquista 2658
+ <br>Ciudad : Merlo
+ <br>Telefono : +541138917494
+ <br>Email : mfernandez4@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Tengo la experiencia y conocimientos necesarios para el puesto. Vivo en zona oeste.
+ <br>Security_code : xrqwd
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.11<br>
+ <br>REF : EP-1
+ <br>Nombre : Mariano
+ <br>Apellido : Fernández 
+ <br>Cargo : Encargado de Producción 
+ <br>Direccion : Reconquista 2658
+ <br>Ciudad : Merlo
+ <br>Telefono : +541138917494
+ <br>Email : mfernandez4@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Tengo la experiencia y conocimientos necesarios para el puesto. Vivo en zona oeste.
+ <br>Security_code : xrqwd
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.94.105.205<br>
+ <br>REF : JPER-1
+ <br>Nombre : Karina
+ <br>Apellido : Llanas
+ <br>Cargo : Jefe de Personal
+ <br>Direccion : Freire 891 2do
+ <br>Ciudad : C. Autónoma de Buenos Aires
+ <br>Telefono : 1125950029
+ <br>Email : karina.llanas@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenos días. 
+Soy Licenciada en Relaciones del Trabajo (UBA). Cuento con un perfil generalista en el sector de Recursos Humanos y amplia experiencia en las áreas de Administración de Personal, Relaciones laborales, Capacitación y Liquidación de Sueldos. 
+Saludos cordiales, Karina Llanas
+
+ <br>Security_code : mrmzv
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.104.214.235<br>
+ <br>REF : JPER-1
+ <br>Nombre : Martin Alejandro
+ <br>Apellido : Dalcol
+ <br>Cargo : Responsable de RRHH
+ <br>Direccion : Dean Funes 2011
+ <br>Ciudad : CIUDAD AUTONOMA DE BS.AS.
+ <br>Telefono : 0111569760467
+ <br>Email : martindalcol@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Experiencia, capacidad, liderazgo, compañero, solidario, responsable.
+ <br>Security_code : YWWX7
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.7<br>
+ <br>REF : EP-1
+ <br>Nombre : Aldana
+ <br>Apellido : Prieto
+ <br>Cargo : Encargado de producción
+ <br>Direccion : Av Corrientes 5734
+ <br>Ciudad : CABA
+ <br>Telefono : 2914022910
+ <br>Email : aldanaa.prieto@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Soy Ingeniera en Alimentos con un interés especial en el control de procesos productivos y el mantenimiento de los estándares de calidad, por el momento desarrollandome en el área de regulación pero en búsqueda de nuevos desafíos, por ello considero que su grupo de trabajo sería un buen lugar para crecer como profesional.
+ <br>Security_code : fp584
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.47.217.134<br>
+ <br>REF : TE-1
+ <br>Nombre : JEAN CARLOS
+ <br>Apellido : MAZA RUIZ
+ <br>Cargo : TECNICO ELECTRICO
+ <br>Direccion : Pernanbuco 2426
+ <br>Ciudad : Ciudad Federal
+ <br>Telefono : 1124739810
+ <br>Email : jeancarlos2100@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estoy interesado en este trabajo porque puedo ver que en este área, mis habilidades les generarán un beneficio y eso también me proporcionará a mi beneficio personal, profesional y económico. Es una importante empresa donde podré aprender y desarrollar mi carrera profesional.
+ <br>Security_code : 5bz4r
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.19.217.78<br>
+ <br>REF : ACO-1
+ <br>Nombre : Tomas
+ <br>Apellido : Pierrard
+ <br>Cargo : ACO-1
+ <br>Direccion : Pasaje de la tecnica
+ <br>Ciudad : CAPITAL FEDERAL (CP=)
+ <br>Telefono : 1141917464
+ <br>Email : tomaspierrard@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estudiante de despacho aduanero, proactivo, con muchas ganas de independizarme y crecer como profesional. Espero que mi perfil se ajuste a su necesidad
+ <br>Security_code : j2vsb
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.167.130.227<br>
+ <br>REF : ROT-1
+ <br>Nombre : larry
+ <br>Apellido : rubio
+ <br>Cargo : arquitecto oficina tecnica
+ <br>Direccion : belgrano
+ <br>Ciudad : buenos aires
+ <br>Telefono : 1559159390
+ <br>Email : lrubio0891.lr@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : interesado en la vacante
+ <br>Security_code : svnvx
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.226.73.89<br>
+ <br>Nombre : Matias
+ <br>Apellido : Fazio
+ <br>Cargo : RRHH/RELACIONES LABORALES
+ <br>Direccion : LAS HERAS 2425 
+ <br>Ciudad : CABA
+ <br>Telefono : 1134833923
+ <br>Email : mfazioa@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : 
+Mi nombre es Matias Fazio, soy abogado recibido de la Universidad Católica Argentina. A lo largo de mi formación académica fui descubriendo mi interés por insertarme en una compañía donde pueda desarrollar mi potencial. Considero que dicho perfil está fuertemente ligado a las relaciones interpersonales, la empatía para entender las necesidades de los que me rodean y la motivación de incorporarme en un espacio donde pueda volcar tales habilidades para lograr ser lo más eficiente que sea posible. Debido a todo ello, al finalizar mi carrera me propuse abrir mi horizonte laboral, por lo que fui poco a poco sumando valor agregado a mi título de abogado. Para comenzar, un curso de posgrado en el CEMA que brinda una mirada más amplia a los abogados recién recibidos junto con la carrera de Psicología con el fin de desarrollar aún más este perfil. Cabe agregar que poseo dominio completo del idioma inglés y conocimientos informáticos.
+
+Me gustaría tener la oportunidad de hablar con usted para analizar mi posible contribución a las necesidades actuales y proyectos futuros de su compañía.
+ <br>Security_code : Bq37y
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.226.73.89<br>
+ <br>Nombre : Matias
+ <br>Apellido : Fazio
+ <br>Cargo : RRHH/RELACIONES LABORALES
+ <br>Direccion : LAS HERAS 2425 
+ <br>Ciudad : CABA
+ <br>Telefono : 1134833923
+ <br>Email : mfazioa@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : 
+Mi nombre es Matias Fazio, soy abogado recibido de la Universidad Católica Argentina. A lo largo de mi formación académica fui descubriendo mi interés por insertarme en una compañía donde pueda desarrollar mi potencial. Considero que dicho perfil está fuertemente ligado a las relaciones interpersonales, la empatía para entender las necesidades de los que me rodean y la motivación de incorporarme en un espacio donde pueda volcar tales habilidades para lograr ser lo más eficiente que sea posible. Debido a todo ello, al finalizar mi carrera me propuse abrir mi horizonte laboral, por lo que fui poco a poco sumando valor agregado a mi título de abogado. Para comenzar, un curso de posgrado en el CEMA que brinda una mirada más amplia a los abogados recién recibidos junto con la carrera de Psicología con el fin de desarrollar aún más este perfil. Cabe agregar que poseo dominio completo del idioma inglés y conocimientos informáticos.
+
+Me gustaría tener la oportunidad de hablar con usted para analizar mi posible contribución a las necesidades actuales y proyectos futuros de su compañía.
+ <br>Security_code : bq37y
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.226.73.89<br>
+ <br>Nombre : Matias
+ <br>Apellido : Fazio
+ <br>Cargo : RRHH/RELACIONES LABORALES
+ <br>Direccion : LAS HERAS 2425 
+ <br>Ciudad : CABA
+ <br>Telefono : 1134833923
+ <br>Email : mfazioa@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : 
+Mi nombre es Matias Fazio, soy abogado recibido de la Universidad Católica Argentina. A lo largo de mi formación académica fui descubriendo mi interés por insertarme en una compañía donde pueda desarrollar mi potencial. Considero que dicho perfil está fuertemente ligado a las relaciones interpersonales, la empatía para entender las necesidades de los que me rodean y la motivación de incorporarme en un espacio donde pueda volcar tales habilidades para lograr ser lo más eficiente que sea posible. Debido a todo ello, al finalizar mi carrera me propuse abrir mi horizonte laboral, por lo que fui poco a poco sumando valor agregado a mi título de abogado. Para comenzar, un curso de posgrado en el CEMA que brinda una mirada más amplia a los abogados recién recibidos junto con la carrera de Psicología con el fin de desarrollar aún más este perfil. Cabe agregar que poseo dominio completo del idioma inglés y conocimientos informáticos.
+
+Me gustaría tener la oportunidad de hablar con usted para analizar mi posible contribución a las necesidades actuales y proyectos futuros de su compañía.
+ <br>Security_code : x73sf
+ <br>Send : Enviar
+ <br>
+---------------
+

@@ -1,0 +1,78 @@
+Address : 177.113.19.126
+REF : trilingue
+Nombre : Daniel Alexandre
+Apellido : Weber de Quadros
+Cargo : Recepcionista trilíngue
+Direccion : Boa vista do Tietê
+Ciudad : Araucária
+Telefono : 55 41 98378088
+Email : danielwquadros@yahoo.com.br
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola.
+Me llamo Daniel y vivo en Brasil.
+Me gustaria muchísimo trabajar en Argentina.
+Security_code : 6527t
+Send : Enviar
+
+---------------
+
+Address : 190.226.86.85
+Nombre : Franco
+Apellido : Aguirre
+Cargo : Al que se me disponga.
+Direccion : Puerto San Carlos 548
+Ciudad : Campana
+Telefono : 03489-466672 o 03489-15-681159
+Email : ifrancoaguirre@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Busco trabajo desesperado, lo necesito  . Soy muy responsable y cuento con muchas ganas de trabajar. Saludos.
+Security_code : 5vx2b
+Send : Enviar
+
+---------------
+
+Address : 190.226.86.85
+Nombre : Franco
+Apellido : Aguirre
+Cargo : Al que se me disponga.
+Direccion : Puerto San Carlos 548
+Ciudad : Campana
+Telefono : 03489-466672 o 03489-15-681159
+Email : ifrancoaguirre@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Busqueda de trabajo desesperada.
+Security_code : 95db5
+Send : Enviar
+
+---------------
+
+Address : 186.137.10.8
+Nombre : ROCIO MARISOL
+Apellido : GONZALEZ
+Cargo : SECRETARIA BILINGUE
+Direccion : Salto Grande 3557 Mod 5 PB A
+Ciudad : Neuquen
+Telefono : (0299) 154764622
+Email : rociomarisol-g@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Soy Profesora de Ingles de nivel superior y me interesaría ampliar los horizontes de mi profesión. 
+Security_code : g5ynd
+Send : Enviar
+
+---------------
+
+Address : 186.137.10.8
+Nombre : ROCIO MARISOL
+Apellido : GONZALEZ
+Cargo : SECRETARIA BILINGUE
+Direccion : Salto Grande 3557 Mod 5 PB A
+Ciudad : Neuquen
+Telefono : (0299) 154764622
+Email : rociomarisol-g@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Soy Profesora de Ingles de nivel superior y me interesaría ampliar los horizontes de mi profesión. 
+Security_code : g5ynd
+Send : Enviar
+
+---------------
+

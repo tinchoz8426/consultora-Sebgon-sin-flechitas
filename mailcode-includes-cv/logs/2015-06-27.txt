@@ -1,0 +1,30 @@
+Address : 190.139.6.95
+Nombre : santiago 
+Apellido : ledesma
+Cargo : profesionales para entrevistas domiciliarias en salta
+Direccion : leguizamon 488
+Ciudad : salta
+Telefono : 3814494746
+Email : lic.santiagoledesma@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenas tardes, vi un aviso en computrabajo que buscan profecionales para entrevistas domiciliarias en salta. quiero postular.
+Security_code : dzd2x
+Send : Enviar
+
+---------------
+
+Address : 181.108.235.78
+Nombre : Laura Romina
+Apellido : Petcoff
+Cargo : Administrativa-Telemarket
+Direccion : Leandro N Alem 289. Dpto 3
+Ciudad : Resistencia_Chaco
+Telefono : 3624-704248
+Email : petcofflaura@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Pro actividad,eficiencia, responsabilidad 
+Security_code : k4pwq
+Send : Enviar
+
+---------------
+

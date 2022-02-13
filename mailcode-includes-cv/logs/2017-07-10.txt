@@ -1,0 +1,201 @@
+Address : 66.249.85.9<br>
+ <br>REF : chr
+ <br>Nombre : Gaston ariel
+ <br>Apellido : Boggian
+ <br>Cargo : Chofer de reparto
+ <br>Direccion : Las talitas 447 
+ <br>Ciudad : Monte grande
+ <br>Telefono : 4281-7430
+ <br>Email : Arielboggian36@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Soy el indicado para el puesto 
+ <br>Security_code : qx97d
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.111.239.34<br>
+ <br>Nombre : Juliana
+ <br>Apellido : Espil
+ <br>Cargo : Analista
+ <br>Direccion : Ramauge 1025
+ <br>Ciudad : Lujan
+ <br>Telefono : 2323622688
+ <br>Email : july_1290@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola, estoy buscando trabajo cerca de Luján. Al ser complicado Sistemas, también me gustaría desarrollarme en el área comercial, o administración.
+Gracias
+ <br>Security_code : fzs5z
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.164.175.12<br>
+ <br>Nombre : Chiara
+ <br>Apellido : Diaz
+ <br>Cargo : -
+ <br>Direccion : Virrey Olaguer y Feliu 2690
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 1149397625
+ <br>Email : cdiaz91cd@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buen día, 
+Mi nombre es Chiara Diaz, estoy actualmente en búsqueda laboral y me encataría que me tomen en cuenta para sus próximas búsquedas.
+Adjunto mi CV.
+Muchas gracias,
+
+Saludos,
+
+Chiara Diaz.
+ <br>Security_code : yfywb
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.164.175.12<br>
+ <br>Nombre : Chiara
+ <br>Apellido : Diaz
+ <br>Cargo : -
+ <br>Direccion : Virrey Olaguer y Feliu 2690
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 1149397625
+ <br>Email : cdiaz91cd@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buen día, 
+Mi nombre es Chiara Diaz, estoy actualmente en búsqueda laboral y me encataría que me tomen en cuenta para sus próximas búsquedas.
+Adjunto mi CV.
+Muchas gracias,
+
+Saludos,
+
+Chiara Diaz.
+ <br>Security_code : yfyqb
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.164.175.12<br>
+ <br>Nombre : Chiara
+ <br>Apellido : Diaz
+ <br>Cargo : 000000
+ <br>Direccion : Virrey Olaguer y Feliu 2690
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 1149397625
+ <br>Email : cdiaz91cd@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buen día, 
+Mi nombre es Chiara Diaz, estoy actualmente en búsqueda laboral y me encataría que me tomen en cuenta para sus próximas búsquedas.
+Adjunto mi CV.
+Muchas gracias,
+
+Saludos,
+
+Chiara Diaz.
+ <br>Security_code : yfyqb
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.93.152.24<br>
+ <br>Nombre : mariano
+ <br>Apellido : sansone
+ <br>Cargo : atención al cliente - comunicación 
+ <br>Direccion : velez sarsfield 6381
+ <br>Ciudad : Santa Fe
+ <br>Telefono : 3424603566
+ <br>Email : marianosansone92@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : actualmente trabajo como productor general de programa radial RunCast que se transmite en Fm 100.7 Radio ESPN
+ <br>Security_code : ny2x2
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 200.125.112.164<br>
+ <br>REF : chr
+ <br>Nombre : Miguel Adolfo
+ <br>Apellido : Passarino
+ <br>Cargo : chofer
+ <br>Direccion : norberto lopez
+ <br>Ciudad : esteban echeverria
+ <br>Telefono : 1126759147
+ <br>Email : migueladolfopassarino@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : chofer con cnrt y municipal A2,A2.2,B1,B2
+ <br>Security_code : W6dxk
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.16.253.29<br>
+ <br>Nombre : Ana Laura
+ <br>Apellido : ACQUISTO
+ <br>Cargo : Consultor, capacitador
+ <br>Direccion : Sor Mª Magdalena 848
+ <br>Ciudad : (1685) El Palomar
+ <br>Telefono : 11 6572 6711
+ <br>Email : acquistoana@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Muchas gracias por la oportunidad.
+Actualmente, me desempeño en problemáticas vinculadas al ecosistema emprendedor y pequeñas organizaciones. Funciones: consultoría, capacitación, docencia e investigación.
+Cordialmente, 
+Lic. Ana L. Acquisto
+(FCE, UBA)
+ <br>Security_code : d68yx
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.22.134.34<br>
+ <br>Nombre : Gabriel 
+ <br>Apellido : Lopez Montero 
+ <br>Cargo : Chofer de reparto
+ <br>Direccion : Bouchard 1664
+ <br>Ciudad : Buenos aires
+ <br>Telefono : 15-3816-7105
+ <br>Email : gabriellopezmontero28@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Con mucha ganas de trabajar con responsabilidad y compromiso para cualqcualquier Tareas designada 
+ <br>Security_code : qvqn6
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.182.23.216<br>
+ <br>Nombre : Maria Estefania
+ <br>Apellido : Rijo
+ <br>Cargo : Asistente
+ <br>Direccion : Einstein
+ <br>Ciudad : Hurlingham
+ <br>Telefono : 1568347967
+ <br>Email : m-rijo90@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas noches adjunto curriculum viate,
+Por favor tomar en cuenta en vacante disponible.
+
+Gracias.
+ <br>Security_code : 7YqZp
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.182.23.216<br>
+ <br>REF : ACO
+ <br>Nombre : Maria Estefania
+ <br>Apellido : Rijo
+ <br>Cargo : ASISTENTE COMERCIAL
+ <br>Direccion : Einstein
+ <br>Ciudad : Hurlingham
+ <br>Telefono : 1568347967
+ <br>Email : m-rijo90@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenos días,
+
+Adjunto currículum vitae. Por favor tomar en cuenta en vacante disponible.
+
+Gracias anticipadas.
+ <br>Security_code : gmb2n
+ <br>Send : Enviar
+ <br>
+---------------
+

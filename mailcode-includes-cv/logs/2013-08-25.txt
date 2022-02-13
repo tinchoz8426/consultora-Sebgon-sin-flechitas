@@ -1,0 +1,45 @@
+Address : 186.39.12.87
+Nombre : Mariana
+Apellido : Martino
+Cargo : administracion, caja, atencion al publico
+Direccion : Capitan Vargas 185
+Ciudad : Junin
+Telefono : 236154585307
+Email : marianamartino@live.com
+MAX_FILE_SIZE : 2097152
+Mensaje : mi horario es full time... soy de junin y me adapto a cualquier empleo. gracias!
+Security_code : wfsmd
+Send : Enviar
+
+---------------
+
+Address : 186.39.12.87
+Nombre : Mariana
+Apellido : Martino
+Cargo : administrativa, caja, atencion al publico
+Direccion : Capitan Vargas 185
+Ciudad : Junin
+Telefono : 236154585307
+Email : marianamartino@live.com
+MAX_FILE_SIZE : 2097152
+Mensaje : me adapto a cualquier empleo, el horario puede  ser full time. gracias!
+Security_code : qxj8n
+Send : Enviar
+
+---------------
+
+Address : 190.195.3.97
+Nombre : SOFIA ALEJANDRA
+Apellido : DOVIS
+Cargo : ADMINISTRATIVA
+Direccion : Paraguay 2630 6° E
+Ciudad : CIUDAD AUTONOMA DE BUENOS AIRES
+Telefono : 011-4963 4612
+Email : sofia.dovis@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Les dejo mi CV para poder cnseguir un trabajo. Desde ya les agradezco la posibilidad y espero ansiosa conseguirlo. 
+Security_code : q43ky
+Send : Enviar
+
+---------------
+

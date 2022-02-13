@@ -1,0 +1,65 @@
+Address : 181.90.22.169
+Nombre : Flavia
+Apellido : Espindola
+Cargo : operaria
+Direccion : Zorrilla 2366
+Ciudad : Don Torcuato
+Telefono : 1126679465
+Email : flaviaespindola1985@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : me postulo como operaria disponibilidad full time
+Security_code : 6js33
+Send : Enviar
+
+---------------
+
+Address : 181.111.230.11
+REF : GTEP
+Nombre : Ronald
+Apellido : Lombardi
+Cargo : Gerente de Planta
+Direccion : Rioja 23
+Ciudad : Villa María, CORDOBA
+Telefono : +54 9 353 4129442
+Email : ronaldlombardi@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : https://www.linkedin.com/profile/edit?trk=nav_responsive_sub_nav_edit_profile
+
+Security_code : 8zf5m
+Send : Enviar
+
+---------------
+
+Address : 186.141.131.253
+Nombre : Sebastian Martin
+Apellido : Pauer
+Cargo : Operario, atencion al publico..
+Direccion : Francisco Ramirez 1387
+Ciudad : Ituzaingo
+Telefono : 1156696031
+Email : sebapauer@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Ante todo, los saludo muy atte. Estoy postulandome para ocupar cualquier puesto laboral. Necesito imperiosamente un empleo. Tengo muchas ganas de trabajar y estoy muy entusiasmado. Espero estar a la altura de lo que ustedes buscan. Gracias y que do a las ordenes.
+Security_code : z8mwb
+Send : Enviar
+
+---------------
+
+Address : 186.18.57.229
+REF : OEL
+Nombre : oscar
+Apellido : lima
+Cargo : oficial especializado o capataz
+Direccion : zabala 4418
+Ciudad : laferrere
+Telefono : 1124364587
+Email : oscar_lima28@outlook.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Soy el señor Oscar Lima : capataz Electricista con mucha experiencia con ganas de trabajar. Trabajo de electricista hace mas de 19 años, tengo el conocimiento de realizar obras como por ejemplos Diagnostico Maipu, Siemen, Colegio de Estribania, Lansess, entre otras, asi como tambien edificios, ultimo edificio de 27 pisos realizado fue en la Avenida LIbertador Y Areas, con La Empresa Sudamericana. Tengo emails de felicitaciones de Jefes de obras, Ingenieros; Arquitectos, Jefes de Area. Si me da la oportunidad de tener una entrevista con ustedes le presentare los emails mencionado. Se todo tipo de cañeria, bandejas, cableado de todo tipo, Trifasico, Monofasico, bifasico, soy conexionistra y tablerista... 
+Mi numero de celular es 1124364587  
+                                                                                                                     Desde ya muchas Gracias
+Security_code : kvf5d
+Send : Enviar
+
+---------------
+

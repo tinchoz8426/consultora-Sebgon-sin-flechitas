@@ -1,0 +1,180 @@
+Address : 201.180.118.138
+Nombre : Marcelo
+Apellido : Iriarte
+Cargo : Operario
+Direccion : Posta de Yatasto N° 933
+Ciudad : Merlo
+Telefono : 15-32663515
+Email : marcelo.iriarte_@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Envío mi currículum para que sea analizado por vosotros.
+Security_code : xr5gz
+Send : Enviar
+
+---------------
+
+Address : 190.174.202.66
+Nombre : franco dionel
+Apellido : crespo
+Cargo : Cajero, Vendedor, Logistica y distribucion, Aux de limpieza
+Direccion : San Ramón 6567
+Ciudad : San Jose
+Telefono : 42128898
+Email : francocrespo2014@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estoy en la búsqueda de empleo. 
+Security_code : 9ryq7
+Send : Enviar
+
+---------------
+
+Address : 190.174.202.66
+Nombre : franco dionel
+Apellido : crespo
+Cargo : Cajero, Vendedor, Logistica y distribucion, Aux de limpieza
+Direccion : San Ramón 6567
+Ciudad : San Jose
+Telefono : 42128898
+Email : francocrespo2014@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estoy en la búsqueda de empleo. 
+Security_code : 9ryq7
+Send : Enviar
+
+---------------
+
+Address : 190.174.202.66
+Nombre : franco dionel
+Apellido : crespo
+Cargo : Cajero, Vendedor, Logistica y distribucion, Aux de limpieza
+Direccion : San Ramón 6567
+Ciudad : San Jose
+Telefono : 42128898
+Email : francocrespo2014@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estoy en la búsqueda de empleo. 
+Security_code : 9ryq7
+Send : Enviar
+
+---------------
+
+Address : 190.174.202.66
+Nombre : franco dionel
+Apellido : crespo
+Cargo : Cajero, Vendedor, Logistica y distribucion, Aux de limpieza
+Direccion : San Ramón 6567
+Ciudad : San Jose
+Telefono : 42128898
+Email : francocrespo2014@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estoy en la búsqueda de empleo.
+Security_code : fqzv7
+Send : Enviar
+
+---------------
+
+Address : 186.23.5.242
+Nombre : Mariana
+Apellido : Scornik
+Cargo : Selectora de Personal
+Direccion : Corrientes 3859
+Ciudad : capital federal
+Telefono : 1155664911
+Email : licmarianascornik@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Soy una profesional proactiva y dinámina. Con disponibilidad para incoroporación inmediata
+Security_code : t2hvv
+Send : Enviar
+
+---------------
+
+Address : 186.23.5.242
+Nombre : Mariana
+Apellido : Scornik
+Cargo : Selectora de Personal
+Direccion : Corrientes 3859
+Ciudad : capital federal
+Telefono : 1155664911
+Email : licmarianascornik@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Soy una profesional proactiva y dinámina. Con disponibilidad para incoroporación inmediata
+Security_code : t2hvv
+Send : Enviar
+
+---------------
+
+Address : 186.23.5.242
+Nombre : Mariana
+Apellido : Scornik
+Cargo : Selectora de Personal
+Direccion : Corrientes 3859
+Ciudad : capital federal
+Telefono : 1155664911
+Email : licmarianascornik@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Soy una profesional proactiva y dinámina. Con disponibilidad para incoroporación inmediata
+Security_code : t2hvv
+Send : Enviar
+
+---------------
+
+Address : 186.23.5.242
+Nombre : Mariana
+Apellido : Scornik
+Cargo : Selectora de Personal
+Direccion : Corrientes 3859
+Ciudad : capital federal
+Telefono : 1155664911
+Email : licmarianascornik@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Soy una persona proactiva y dinámica. Tengo disponibilidad horaria y entusiasmo.
+Security_code : zs4hd
+Send : Enviar
+
+---------------
+
+Address : 181.46.38.153
+Nombre : Yesica Daiana
+Apellido : Mansilla
+Cargo : administrativo
+Direccion : ciudadela
+Ciudad : quilmes
+Telefono : 20613484
+Email : yesicamdai@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : solicitud de empleo
+Security_code : jtyp2
+Send : Enviar
+
+---------------
+
+Address : 181.46.38.153
+Nombre : Yesica Daiana
+Apellido : Mansilla
+Cargo : administrativo
+Direccion : ciudadela
+Ciudad : quilmes
+Telefono : 20613484
+Email : yesicamdai@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : solicitud de empleo
+Security_code : jtyp2
+Send : Enviar
+
+---------------
+
+Address : 181.46.38.153
+Nombre : Yesica Daiana
+Apellido : Mansilla
+Cargo : administrativo
+Direccion : ciudadela
+Ciudad : quilmes
+Telefono : 20613484
+Email : yesicamdai@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : solicitud de empleo
+Security_code : qcq8t
+Send : Enviar
+
+---------------
+

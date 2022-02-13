@@ -1,0 +1,24 @@
+Address : 200.70.23.242
+Nombre : Tamara
+Apellido : Vilecco
+Empresa : Compañia Petrolera Copsa S.A.
+Telefono : 4129-3200
+Email : tvilecco@petroleracopsa.com.ar
+Mensaje : Queria consultar el presupuesto que manejan para contratar personas. La busqueda es para tres personas en el area administrativo contable con:
+Secundario completo
+Universitario en Curso, pref. estudie Cs. Economicas
+Dominio de Excel y Tango
+Duracion: Dos Meses
+
+Atte., 
+Tamara Vilecco
+Compañia Petrolera Copsa SA
+Av Roque Saenz Peña 846 
+5º piso of. 503
+tel: 4129-3200 Interno 3210
+fax: 3281
+Security_code : vr9b6
+Send : Enviar
+
+---------------
+

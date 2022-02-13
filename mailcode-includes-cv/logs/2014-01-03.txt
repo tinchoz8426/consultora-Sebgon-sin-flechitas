@@ -1,0 +1,91 @@
+Address : 181.168.94.224
+Nombre : Damian Martin
+Apellido : Villoldo
+Cargo : Ayudante de seguridad e higiene - ayudante de boca de pozo
+Direccion : Peru 789 - plottier
+Ciudad : Neuquen
+Telefono : 0299154595005
+Email : damianvilloldo@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me dirijo a ustedes teniendo en cuenta mi experiencia laboral y educativa para solicitar algún cargo de Ayudante de seguridad e higiene o ayudante de boca de pozo en algunas de sus empresas, enviando adjunta un curriculum vitae que dará a conocer mis oportunidades para su organizacion.
+Desde ya un cordial saludos Villoldo Damian!
+Security_code : x68j5
+Send : Enviar
+
+---------------
+
+Address : 190.230.41.182
+Nombre : gustavo oscar
+Apellido : gomez
+Cargo : operario
+Direccion : amenabar 4164
+Ciudad : rosario
+Telefono : 03414336171
+Email : gomezgustavo_2013@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : h8m6c
+Security_code : h8m6c
+Send : Enviar
+
+---------------
+
+Address : 190.230.41.182
+Nombre : gustavo oscar
+Apellido : gomez
+Cargo : operario
+Direccion : amenabar 4164
+Ciudad : rosario
+Telefono : 3414336171
+Email : gomezgustavo_2013@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : necesito trabajar
+Security_code : 8nbg2
+Send : Enviar
+
+---------------
+
+Address : 190.230.41.182
+Nombre : gustavo oscar
+Apellido : gomez
+Cargo : operario
+Direccion : amenabar 4164
+Ciudad : rosario
+Telefono : 03414336171
+Email : gomezgustavo_2013@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : quiero trabajar
+Security_code : h8m6c
+Send : Enviar
+
+---------------
+
+Address : 190.172.182.240
+Nombre : Fabiana  Agostina
+Apellido : Cotal
+Cargo : Atención al cliente
+Direccion : Correntoso 745
+Ciudad : Capital
+Telefono : 542995865140
+Email : fabianacotal@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Busco empleo en la capital neuquina. Responsable y con disposición horaria.
+Security_code : q8zyx
+Send : Enviar
+
+---------------
+
+Address : 186.128.4.38
+Nombre : Lucas Sebastián
+Apellido : Montalto
+Cargo : Ingeniero Agrónomo
+Direccion : colombia 1245
+Ciudad : Godoy Cruz
+Telefono : (0261) 156694181
+Email : montaltolucas@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estoy dispuesto a trasladarme a otra localidad. Dispongo de movilidad propia y full time
+Security_code : 9n2gj
+Send : Enviar
+
+---------------
+

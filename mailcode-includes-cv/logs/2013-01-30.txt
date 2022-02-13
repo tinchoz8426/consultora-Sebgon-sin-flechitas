@@ -1,0 +1,59 @@
+Address : 190.179.250.142
+Nombre : Sandra
+Apellido : Pedernera
+Cargo : Administrativa
+Direccion : Rondeau 377 Dto 1
+Ciudad : Mendoza
+Telefono : 02614237339
+Email : sandrapedernera@yahoo.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados Sres. Consultora Ebgon
+
+Me es grato enviarles mi CV para ser tenida en cuenta en búsquedas en la zona de Cuyo. 
+Atentamente, 
+Sandra Pedernera
+Security_code : 3qcbh
+Send : Enviar
+
+---------------
+
+Address : 200.5.113.210
+Nombre : Rodrigo
+Apellido : Navarro Cardama
+Cargo : no especifico 
+Direccion : cerro leon negro 760
+Ciudad : mendoza
+Telefono : 0261-155074526
+Email : r.navarro.ca@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estoy en búsqueda de un trabajo, estoy capacitado para trabajar en diferentes funciones. Espero les interese mi perfil
+
+Security_code : zjjcc
+Send : Enviar
+
+---------------
+
+Address : 189.35.109.77
+Nombre : Juliano 
+Apellido : Brega
+Cargo : Encarregado Almoxarifado/Logística
+Direccion : Rua Alaska 5-36
+Ciudad : Bauru-SP
+Telefono : 149663-0627
+Email : contatobj@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Prezado(a) Senhor(a),
+Em busca de novos desafios profissionais na área de logística/compras
+apresento-lhes meu currículo anexo.
+Atuando a oito anos na área de logística e gestão de materiais acredito que minha 
+experiência e grande conhecimento possam contribuir muito com a empresa.
+Coloco-me à disposição para prestar-lhes mais esclarecimentos.
+
+Atenciosamente,
+Juliano Brega
+(14)9663-0627
+Security_code : v59m8
+Send : Enviar
+
+---------------
+

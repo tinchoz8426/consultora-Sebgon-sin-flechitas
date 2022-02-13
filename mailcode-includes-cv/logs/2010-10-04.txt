@@ -1,0 +1,47 @@
+Address : 186.18.19.132
+Nombre : Adriana 
+Apellido : Romano
+Cargo : Recepcionista/secretaria/at cliente/ventas
+Direccion : Rio Cuarto 2962 7mo dto.14
+Ciudad : Buenos Aires
+Telefono : (15)3190-9288
+Email : adrianagromano@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : buen dia.les adjunto mi curriculum vitae , ante alguna puesto acorde a mi perfil.
+Gracias.
+Security_code : mj8cz
+Send : Enviar
+
+---------------
+
+Address : 186.18.61.213
+Nombre : Tamara
+Apellido : Vilaplana
+Cargo : Asistente en RR.HH
+Direccion : Mansilla 2552 5to C
+Ciudad : Capital Federal
+Telefono : 39678224
+Email : tamiv_junin@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenos días! Estoy buscando trabajo, me quedan 9 materias para recibirme y quiero aprender y obtener experiencia, ya que nunca trabaje en el área. Muchas Gracias
+Atte Tamara
+Security_code : k96bq
+Send : Enviar
+
+---------------
+
+Address : 190.51.177.48
+Nombre : Gaston
+Apellido : Zeballos
+Cargo : Empleado Administrativo,Empleado de Deposito
+Direccion : Araujo 2900 ed 32 pb 4
+Ciudad : claypole
+Telefono : 1561170272
+Email : reefgaston@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estoy en la busqueda de un empleo que pueda estar acorde, al curriculum que se adjunta a continuaciòn. Deseo poder desempeñarme de la mejor manera posible, tratando de aprender y poder sumar mas experiencia a mi curriculum
+Security_code : 6n94n
+Send : Enviar
+
+---------------
+

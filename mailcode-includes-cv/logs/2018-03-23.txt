@@ -1,0 +1,20 @@
+Address : 190.225.50.205<br>
+ <br>Nombre : Nicolas Jose
+ <br>Apellido : Civetta
+ <br>Cargo : empleado de comercio
+ <br>Direccion : pasaje aguirre 5869
+ <br>Ciudad : rosario
+ <br>Telefono : 3416470864
+ <br>Email : nicolas.civetta@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Sr. Gerente de Recursos Humanos:
+                                                         Me dirijo a usted, con el solo objeto de brindarle mis conocimientos y 
+
+servicios en  favor de vuestra importante compañía.
+Atentamente 
+Nicolas Civetta
+ <br>Security_code : xdbmy
+ <br>Send : Enviar
+ <br>
+---------------
+

@@ -1,0 +1,67 @@
+Address : 181.45.188.52<br>
+ <br>Nombre : Diego
+ <br>Apellido : Gualtieri Diego
+ <br>Cargo : mantenimiento- ventas
+ <br>Direccion : barrio genel paz edificio 30
+ <br>Ciudad : buenos aires
+ <br>Telefono : 1558815578
+ <br>Email : diegoarias606@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Les dejo mi cv, espero que les sea util. 
+Ya que tengo muchas ganas de comenzar a trabajar. 
+ <br>Security_code : 33rjc
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.45.213.188<br>
+ <br>Nombre : CECILIA 
+ <br>Apellido : Sal
+ <br>Cargo : ATENCION AL CLIENTE/CAJERA/RECEPCIONISTA ENTRE OTRAS
+ <br>Direccion : rondeau 733
+ <br>Ciudad : bs as ramos mejia
+ <br>Telefono : 1153274537
+ <br>Email : ceverosal@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Envío mi curriculum vitae en un archivo adjunto.
+Atte Cecilia Sal.
+ <br>Security_code : cngj5
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.47.139.178<br>
+ <br>Nombre : JOSE ANTONIO
+ <br>Apellido : GONZALEZ BORGES 
+ <br>Cargo :  MEDICO VETERINARIO SUPERVISOR DE CRIADERO EN LA INDUSTRIA AVICOLA
+ <br>Direccion : BUENOS AIRES ARGENTINA
+ <br>Ciudad : ARGENTINA
+ <br>Telefono : 21 196704  -  011 15 21829472  -  011 15 27338124  -  011 15 33360945
+ <br>Email : joseantoniogonzalezborges1984@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : TRABAJO EN EQUIPO LIDERIZAR EL AMBIIENTE DE TRABAJO , ORGANOZACION DE ACTIVIDADES DIAREAS CONOCIMIENTO DE WORD EXCEL, CONOCIMIENTO EN SISTEMA OPERATIVO SAP.
+ <br>Security_code : SBNNZ
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 24.232.160.104<br>
+ <br>Nombre : MARIANA JAZMÍN
+ <br>Apellido : VACCARO
+ <br>Cargo : Asistente de RR HH
+ <br>Direccion : Carlos A Lopez 2425
+ <br>Ciudad : CABA
+ <br>Telefono : 1566631784
+ <br>Email : marianajvaccaro@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola, buenas tardes. Mi nombre es Mariana Vaccaro, soy estudiante avanzada de Psicología y me encuentro interesada en comenzar a trabajar en el área de recursos humanos.
+Debido a ello, les envío adjunto mi curriculum vitae.
+Desde ya, muchas gracias.
+
+Mariana 
+
+ <br>Security_code : yycfk
+ <br>Send : Enviar
+ <br>
+---------------
+

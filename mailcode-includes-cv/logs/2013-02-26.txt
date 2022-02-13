@@ -1,0 +1,15 @@
+Address : 190.195.65.55
+Nombre : Candelaria
+Apellido : Acosta
+Cargo : Recursos Humanos
+Direccion : Coronel Diaz 1519
+Ciudad : Capital Federal
+Telefono : 011-1534269592
+Email : cande_0035@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me considero una persona proactiva, responsable y comprometida con todo lo que realiza. Con excelente predisposición y buen manejo de las relaciones interpersonales, persigo siempre los objetivos que me propongo y que se me son asignados.  Por mi perseverancia y optimismo, soy una persona que puede contribuir, sin lugar a dudas, al crecimiento del sector donde desarrolle mi labor. 
+Security_code : k466f
+Send : Enviar
+
+---------------
+

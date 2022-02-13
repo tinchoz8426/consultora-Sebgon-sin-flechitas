@@ -1,0 +1,76 @@
+Address : 186.134.14.62
+REF : tecnico-electornico
+Nombre : carlos  alberto
+Apellido : IANNICCARI
+Cargo : asistente obra / encgdo mant. edilicio.,etc..
+Direccion : R. Amato 1486
+Ciudad : Haedo.P. Moton. G, Bs. As. Oeste
+Telefono : 1560542543 / 44430340
+Email : cianniccari@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : 
+
+
+
+Estimado 
+Sr. ( Gerente RRHH ).
+
+                                                                              Me dirijo a Ud. a los efectos de postularme en forma espontanea, ante la eventualidad de busqueda de un perfil de  Asistente , Facility, Encargado integral infraestruc. edilicias, edif. complejos, barrios, etc.,  supervisor, operatividad en deposit. a cargo de personal, etc.  (de suma confianza y seriedad , solidario ,orientado a dar resultados efectivos de gestión  ) , para desempeñar y asistir a todas las areas y las tareas de mant. preventivo, predict. correctivo, en infraestructura, necesarias para el desarrollo normal de la empresa , por ello adjunto mi CV para su evaluacion .
+Las experiencias gestionadas en mantenimiento integral edilicio y de infraestruturas,  (facility manager./ intendencia ), me permiten desarrollar coordinacion en resolucion de conflictos con claro perfil operativo en sectores o servicios como   : maestranza para gdes superf.  ; refrigeración / calefaccion central., electricidad, plomeria, gas, inst. de redes , telefonia,etc, mecánica y mantenimiento edilicio. , refacciones y construcciones en seco, estando a cargo de grupo operativo de empleados y tercerizados.
+Fue desempeñado en Olivos. Z/Norte : Edificios educativos de 3 niveles , Oficinas administ. propias ,complejos deportivos gral. (canchas en cesped , polvo y cemento alisad. con pinturas de calidad tipo : piso tenis)  , edif. universitarios , jardines .(como Conserje en Deptos. alquilados) utilizados como alojam. para docentes extranjeros . 
+Logistica de equipos y elementos para apoyo e insumos y taller propio. 
+                                                                               Mi objetivo es que pueda conocer mi perfil u otorgarlo en  una entrevista  y alli podra percibir  mi actitud ,conocimientos, responsabilidad e iniciativa, dispuesto a generar un ambiente de excelente relacion laboral..
+                                                                               A su entera disposicion,  tenga un excelente dia ,
+
+
+cordial saludo.   Muchas Gracias!
+
+
+   Carlos A. Ianniccari
+cianniccari@hotmail.com
+    Cel.: 1560542543 
+    Part.     44430340
+
+Security_code : mnz49
+Send : Enviar
+
+---------------
+
+Address : 190.172.217.233
+Nombre : Rodolfo
+Apellido : Inturias
+Cargo : Desarrollador PHP Semi Senior
+Direccion : santa rosa
+Ciudad : rafael castillo
+Telefono : 1558906473
+Email : rodoprogramador@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Programador PHP Semi sr. Las mas importantes tecnologías con las que tengo experiencia son MySQL, PHP 5.3, Java EE, Javascript, maquetación con xhtml y css, json, actionscript 2. Mi nivel de ingles es bueno, puedo escribir y leer bien pero la conversación en ingles no es fluida.
+Me encuentro en búsqueda activa de empleo, las zonas de trabajo de mi preferencia son ciudad autónoma de Buenos Aires y Gran Buenos Aires.
+Actualmente estoy desocupado por lo que estoy dispuesto a trabajar bajo relación de dependencia de ser posible o como monotributista de ser necesario.
+Horarios de las entrevistas pueden ser entre las 8 y 18 hs.
+Security_code : bckgg
+Send : Enviar
+
+---------------
+
+Address : 200.45.57.192
+Nombre : Mariano Andres
+Apellido : Martin Pellegrini
+Cargo : Finanzas/Administración/RRHH
+Direccion : Olga Orozco 2818
+Ciudad : Cordoba
+Telefono : 0351-156860279
+Email : marianomartinpellegrini@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenos días.
+Les adjunto mi CV para que ante cualquier oportunidad laboral en la cual califique, sea tenido en cuenta.
+
+Muchas Gracias,
+
+Mariano Martin.
+Security_code : m8hpv
+Send : Enviar
+
+---------------
+

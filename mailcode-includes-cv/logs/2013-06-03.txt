@@ -1,0 +1,61 @@
+Address : 190.194.25.83
+REF : supervisor-de-elaboracion
+Nombre : Franco nicolas
+Apellido : Heredia
+Cargo : vendedor 
+Direccion : boedo 1715
+Ciudad : cordoba
+Telefono : 03514554583
+Email : francoheredia07@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola me postulo para vendedor de automoviles, de comercio . o cualquier cosa
+Security_code : mcr2y
+Send : Enviar
+
+---------------
+
+Address : 24.232.25.127
+Nombre : María Florencia
+Apellido : Bracamonte Ifrán
+Cargo : Administración
+Direccion : Mosconi 621
+Ciudad : San Isidro
+Telefono : 1568683856
+Email : florenciabracamonte@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estudiante de la carrera de Contador Público, en la Facultad de Ciencias Económicas de la Universidad de Buenos Aires. Proactiva, con ganas de adquirir experiencia y, crecer a nivel profesional y humano.
+Security_code : jswhx
+Send : Enviar
+
+---------------
+
+Address : 200.127.204.243
+Nombre : Maria Lorena
+Apellido : Panetta
+Cargo : Lic Nutricion
+Direccion : Paso 253 
+Ciudad : Avellaneda
+Telefono : 42038180
+Email : mlorep@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Soy Lic. en Nutricion. Quisiera ingresar mis datos para proximas busquedas laborales.
+Security_code : 43j8v
+Send : Enviar
+
+---------------
+
+Address : 190.173.108.49
+Nombre : Mariela
+Apellido : Escobar
+Cargo : cajera
+Direccion : Linch 211
+Ciudad : Lanus Este
+Telefono : 42890951
+Email : marielalila@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Por favor leer mj
+Security_code : 9grd7
+Send : Enviar
+
+---------------
+

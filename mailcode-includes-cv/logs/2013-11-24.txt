@@ -1,0 +1,33 @@
+Address : 
+Nombre : Julieta
+Apellido : Rodríguez
+Cargo : selección de personal
+Direccion : independencia 417
+Ciudad : Córdoba
+Telefono : 157595539
+Email : jul90ro@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados, les dejo mi cv para que me tengan en cuenta como profesional en psicología laboral en ésta consultora, o para alguna otra búsqueda relacionada. Muchas gracias
+Security_code : rdptq
+Send : Enviar
+
+---------------
+
+Address : 
+REF : ADMINISTRATIVO-DE-LOGISTICA
+Nombre : Matias Alberto
+Apellido : Carrizo Aldeco
+Cargo : Administrativo de Logistica
+Direccion : Bouchardo 3965
+Ciudad : San Andres
+Telefono : 15- 5910- 3696
+Email : macarrizoaldeco@hotmail.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Me postulo a la búsqueda del puesto Administrativo de Logística. Estaré a disposición ante cualquier consulta.
+Saluda Atte. Matias Carrizo.
+
+Security_code : 9ycpj
+Send : Enviar
+
+---------------
+

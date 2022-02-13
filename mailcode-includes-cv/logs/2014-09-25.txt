@@ -1,0 +1,359 @@
+Address : 190.224.148.44
+Nombre : Melina
+Apellido : Enrique
+Cargo : Secretaria/recepcionista
+Direccion : Cazadores  1987 2a
+Ciudad : CABA
+Telefono : 1569590101
+Email : melienrique92@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estoy dispuesta a recibir cualquier oportunidad de trabajo.
+Security_code : hrtn4
+Send : Enviar
+
+---------------
+
+Address : 190.224.148.44
+Nombre : Melina
+Apellido : Enrique
+Cargo : Secretaria/recepcionista
+Direccion : Cazadores  1987 2a
+Ciudad : CABA
+Telefono : 1569590101
+Email : melienrique92@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estoy dispuesta a recibir cualquier oportunidad de trabajo.
+Security_code : hrtn4
+Send : Enviar
+
+---------------
+
+Address : 190.224.148.44
+Nombre : Melina
+Apellido : Enrique
+Cargo : Secretaria/recepcionista
+Direccion : Cazadores  1987 2a
+Ciudad : CABA
+Telefono : 1569590101
+Email : melienrique92@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estoy dispuesta a recibir cualquier oportunidad de trabajo.
+Security_code : r6fs5
+Send : Enviar
+
+---------------
+
+Address : 190.224.148.44
+Nombre : Melina
+Apellido : Enrique
+Cargo : Secretaria/recepcionista
+Direccion : Cazadores  1987 2a
+Ciudad : CABA
+Telefono : 1569590101
+Email : melienrique92@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estoy dispuesta a recibir cualquier oportunidad de trabajo.
+Security_code : r6fs5
+Send : Enviar
+
+---------------
+
+Address : 190.224.148.44
+Nombre : Melina
+Apellido : Enrique
+Cargo : Secretaria/recepcionista
+Direccion : Cazadores  1987 2a
+Ciudad : CABA
+Telefono : 1569590101
+Email : melienrique92@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estoy dispuesta a recibir cualquier oportunidad de trabajo.
+Security_code : yvyf7
+Send : Enviar
+
+---------------
+
+Address : 190.224.148.44
+Nombre : Melina
+Apellido : Enrique
+Cargo : Secretaria/recepcionista
+Direccion : Cazadores  1987 2a
+Ciudad : CABA
+Telefono : 1569590101
+Email : melienrique92@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estoy dispuesta a recibir cualquier oportunidad de trabajo.
+Security_code : ggtkr
+Send : Enviar
+
+---------------
+
+Address : 200.16.116.3
+Nombre : Miriana Andrea
+Apellido : Delbene
+Cargo : Administrativo
+Direccion : Carapachay
+Ciudad : Vicente Lopez - Buenos Aires
+Telefono : 1532542196
+Email : m.delbene@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Mi búsqueda se orienta al capo salud/educación, con motivo de interrelacionarme un poco mas con el área para la que me estoy formando académicamente.
+Security_code : qmfxq
+Send : Enviar
+
+---------------
+
+Address : 200.16.116.3
+Nombre : Miriana Andrea
+Apellido : Delbene
+Cargo : Administrativo
+Direccion : Carapachay
+Ciudad : Vicente Lopez - Buenos Aires
+Telefono : 1532542196
+Email : m.delbene@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Mi búsqueda se orienta a un puesto en el campo salud o educación, con motivo de comenzar a interrelacionarme en un área más familiarizada con mi formación académica (en curso).
+Security_code : zmrz6
+Send : Enviar
+
+---------------
+
+Address : 200.16.116.3
+Nombre : Miriana Andrea
+Apellido : Delbene
+Cargo : Administrativo
+Direccion : Carapachay
+Ciudad : Vicente Lopez - Buenos Aires
+Telefono : 1532542196
+Email : m.delbene@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Mi búsqueda se orienta a un puesto en el campo salud o educación, con motivo de comenzar a interrelacionarme en un área más familiarizada con mi formación académica (en curso).
+Security_code : v59qz
+Send : Enviar
+
+---------------
+
+Address : 201.251.157.60
+Nombre : felipe domingo eduardo
+Apellido : llano
+Cargo : técnico en seguridad e higiene
+Direccion : maipú 373
+Ciudad : Monte Hermoso
+Telefono : 0291154746930
+Email : felipe.llano@live.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados señores:
+Me dirijo a ustedes con el fin de remitirles mi Currículum Vitae para ser considerado y seleccionado en futuras búsquedas.
+Como podrán observar en el CV adjunto, soy Técnico Superior en Seguridad, Higiene y Control Ambiental Industrial, además tengo un buen expediente académico, formando parte del consejo académico durante dos años consecutivos y excelentes referencias dando cuenta de mi conducta profesional.
+En caso que sea de vuestro interés, cuento con el certificado de antecedentes penales emitido por el Ministerio de Justicia y Derechos Humanos de la Nación.
+Espero tener la oportunidad de acceder a una entrevista, para personalmente exponer mis conocimientos y mi deseo de formar parte de su grupo de trabajo.
+Quedo a la espera de una respuesta satisfactoria.
+Saluda cordialmente
+Llano Felipe
+Security_code : m87nb
+Send : Enviar
+
+---------------
+
+Address : 190.2.50.213
+Nombre : Pablo Daniel 
+Apellido : Sotomayor
+Cargo : Selector free lance
+Direccion : Anunciación 2886
+Ciudad : Morón
+Telefono : 1523390463
+Email : pablosotomayor@hotmail.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenas tardes, mi nombre es Pablo Sotomayor. Les envío mi CV para ver si mi perfil les puede servir en algún momento, Saludos.
+Security_code : hq8s3
+Send : Enviar
+
+---------------
+
+Address : 190.16.117.60
+Nombre : Manuel
+Apellido : Flocco
+Cargo : Personal para socioambientales
+Direccion : Tucuman 3344 4 A
+Ciudad : Ciudad Autonoma de Buenos Aires
+Telefono : 1168155251
+Email : manuelflocco@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : A quien corresponda:
+Le envío mi cv. para que lo tenga en consideración para el puesto de entrevistas socioambientales. Tengo experiencia realizando dicho tipo de entrevistas. Muchas   gracias.
+Manuel Flocco. 
+Security_code : 5m2v6
+Send : Enviar
+
+---------------
+
+Address : 190.195.137.188
+Nombre : Emanuel
+Apellido : Aguayo Caliva
+Cargo : Administrativo / Data Entry
+Direccion : Carlos Calvo 2067 
+Ciudad : Capital Federal
+Telefono : 1564465520
+Email : emanuelaguayocaliva@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Sin experiencia laboral. Predisposición absoluta a adquirirla
+Security_code : 7bky7
+Send : Enviar
+
+---------------
+
+Address : 190.195.137.188
+Nombre : Emanuel
+Apellido : Aguayo Caliva
+Cargo : Administrativo / Data Entry
+Direccion : Carlos Calvo 2067 
+Ciudad : Capital Federal
+Telefono : 1564465520
+Email : emanuelaguayocaliva@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Sin experiencia laboral. Predisposición absoluta a adquirirla
+Security_code : 7bky7
+Send : Enviar
+
+---------------
+
+Address : 200.114.216.144
+Nombre : Daniela Ester
+Apellido : Flores
+Cargo : Puesto administrativo
+Direccion : Yatay 269
+Ciudad : Ciudad Autonoma de Buenos Aires
+Telefono : 11 1550513946
+Email : frs.daniela@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimada/o Sr/a:
+
+Me pongo en contacto con ustedes, para hacerles llegar mi Curriculum Vitae, con el objetivo de conseguir un empleo en el  area de administración, con expectativas de ampliar mis conocimientos, y experiencia.
+Soy una persona activa, me gusta trabajar en equipo, con buena predisposición y adaptación a los cambios con el fin de progresar y crecer.
+ 
+Quedando a su disposición, saluda atte.
+ 
+ 
+Lic. Daniela Flores
+11 15- 5051-3946
+Security_code : ktgnn
+Send : Enviar
+
+---------------
+
+Address : 186.60.3.105
+Nombre : Rodrigo
+Apellido : Madera
+Cargo : Repositor en supermercado,telemarketing,vendedor.
+Direccion : Buenos Aires 664
+Ciudad : Carmen de Patagones
+Telefono : 0292015361838
+Email : rodo.dj@live.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola Consultora Sebgon,estaria mas que agradecido si me podrian enviar avisos de trabajo en rio negro viedma o carmen de patagones.Desde ya muchas gracias!! 
+Security_code : bnnmq
+Send : Enviar
+
+---------------
+
+Address : 181.228.161.250
+Nombre : Ariel roberto
+Apellido : Sebastian
+Cargo : Administrativo general
+Direccion : Alvarado 1870
+Ciudad : Bahía Blanca
+Telefono : 54-0291-4881050
+Email : c_eba@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola estoy buscando trabajo en la ciudad de Bahía Blanca
+Security_code : 9vg7s
+Send : Enviar
+
+---------------
+
+Address : 190.190.59.7
+Nombre : Cristian Damian
+Apellido : Almada 
+Cargo : Supervisor
+Direccion : Joaquín v Gonzalez 1343 
+Ciudad : Villa Adelina
+Telefono : 1534704000 / 47089383
+Email : cristiantcj.ub@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estoy interesado en formar parte de su empresa ,tengo total disponibilidad horaria y con voluntad de acoplarme a sus medidas ,agradecería una posibilidad de entrevista ,estoy en busca del puesto de supervisor de vigilancia, custodio de mercadería en tránsito o jefe coordinador de grupo con personal a cargo, tengo total  experiencia en el área de seguridad  ,con certificado de referencia laborales comprobables ,les dejo mi CV . Desde ya muchas gracias.                Currículum vítae
+
+Almada Cristian Damian 
+
+DATOS PERSONALES.  Nacionalidad:        Argentina.
+
+Edad 36 años 
+
+Fecha de Nac.: 29/11/1977
+
+D.N.I:        26.659.626 
+
+C.U.I.L.: 20-26659626-0 
+
+Estado Civil casado Hijos: 2 
+
+Dirección:       Joaquín .V. González 1343 
+
+Localidad:       Villa Adelina (C. P. 1607)
+
+Teléfono.    Cel :15-34704000, casa: 4708-9383
+
+E-mail:          CristianAlmada29@hotmail.com
+Cristiantcj.ub@hotmail.com           
+Nivel primario: Completo
+
+Escuela N° 2 de San Isidro
+
+Nivel secundario:     Completo
+
+Escuela Media N° 3 “Gral. José de San Martín”, San Isidro 
+
+Título: Bachiller Contable
+Con analítico ,
+Otros Conocimientos:    -Computación: Conocimientos generales. Ingles conocimientos básico .
+
+- C.L.U. (vto 01/04/2017) 
+
+-Curso de manejo defensivo, realizado en Cesvi Argentina. 
+
+-Registro de conducir profesional, clase A.2.2.-B.1.-C.-D1-D2-D3.
+
+-Licencia nacional habilitante.
+
+-Capacitación para manejo de trámites internos (Despacho)
+
+-Cursos básicos de A.T.M (mantenimientos de cajeros automáticos)
+
+Objetivo ..
+Brindar a su empresa mi capacidad de responsabilidad.
+Tengo total disponibilidad horaria,cuento con movilidad mod  2012 en perfecto estado si es requerido. Agradecería la posibilidad de una entrevista.
+
+Trabajos ...
+
+Transportadora de Caudales Juncadella S.A.: Tres Arroyos 2835 Cap.Fed.
+
+Periodo: 04/04/2005 hasta 09/06/2014
+
+Desempeño: Chofer con firma (PORTA VALOR)
+
+-Jefe de dotación, custodios a cargo para la distribución de valores en tránsito, representación de clientes particulares en trámites y transacciones bancarias,
+Guardias en planta: tareas generales en despacho, control y logísticas de unidades blindadas,
+
+-Certificado Laboral y Referencias: Carlos Martín Rodríguez Iosovitch - Relaciones Laborales 
+(tel.: 45858200 /0800-888-6834 )
+
+Prosegur S.A. (Planta Florida- Vte. López)
+Periodo: 13/12/2002 hasta 03/04/2005 traspaso a “Transportadora de Caudales”
+
+Desempeño: Dos años como vigilador y luego promovido a Supervisor vigilancia activa, control de acceso, recepción en barrios privados, programación, fiscalización, control carga horaria, elevación de informes, relación permanente con el Cliente,coordinación general         Me desempeñe un año en este puesto ,luego traspaso al área de caudales
+
+Total disposición para acoplarme al puesto que ustedes consideren, con expectativas de progreso,remuneración a convenir
+Security_code : bgbxk
+Send : Enviar
+
+---------------
+

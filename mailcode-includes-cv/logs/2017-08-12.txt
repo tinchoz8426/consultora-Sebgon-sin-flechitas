@@ -1,0 +1,47 @@
+Address : 190.50.242.77<br>
+ <br>Nombre : Eduardo Rodolfo
+ <br>Apellido : Thom
+ <br>Cargo : Chofer Distribuidor
+ <br>Direccion : calle 28 n3863
+ <br>Ciudad : Berazategui
+ <br>Telefono : 42581444  o 42585539 o 1549390981
+ <br>Email : eduthom2016@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Quedo a su entera disposicion para el puesto de chofer que ustedes ofrecen ya que tengo mas de 14 años trabajando como distribuidor de cargas generales,entregando,recepcionando con manejo de documentacion y habeces hasta cobrando;dentro de Cap Fed,Bs As, Gran Bs AS,Provincia de Bs As y Provincias de la Republica Argentina, sin mas quedo a su entera disposicion para cuaquier consulta que quieran hacerme. Desde ya muchas gracias. 
+ <br>Security_code : qjvvw
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.57.140.180<br>
+ <br>REF : chr
+ <br>Nombre : jose maria
+ <br>Apellido : ledesma
+ <br>Cargo : chofer
+ <br>Direccion : eva peron 941
+ <br>Ciudad : provincia bs as
+ <br>Telefono : 1544002684
+ <br>Email : joshem_01@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : hola me interesa el puesto de chofer de comion
+ <br>Security_code : jjnmd
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.61.187.48<br>
+ <br>REF : chr
+ <br>Nombre : Emiliano ruben
+ <br>Apellido : Ferreyra
+ <br>Cargo : Chófer operario
+ <br>Direccion : Primera junta 911
+ <br>Ciudad : Buenos aires
+ <br>Telefono : 1153862931
+ <br>Email : Emylyano88@hotmail.Com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buena predisposición 
+ <br>Security_code : Vgbk4
+ <br>Send : Enviar
+ <br>
+---------------
+

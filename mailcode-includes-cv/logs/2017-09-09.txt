@@ -1,0 +1,55 @@
+Address : 181.166.200.110<br>
+ <br>REF : ROT-1
+ <br>Nombre : Francisco A.
+ <br>Apellido : Fazio
+ <br>Cargo : RESPONSABLE DE OFICINA TECNICA
+ <br>Direccion : Boedo
+ <br>Ciudad : Lomas de Zamora
+ <br>Telefono : 1154588137
+ <br>Email : paco_sub@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Diseñador Industrial (uba) con experiencia y orientado a desarrollo de producto e ingeniería inversa.
+Lógico, pragmático uso de sentido común, capacidad de trabajar en forma interdisciplinaria.
+Actualmente cursando una Especialización en Plásticos (INTI), incursionando en Catia y Abaqus.
+Cuento con experiencia en solidworks y programas de diseño, realización de planos y gestión d prototipos, por lo q puedo resultar una opción interesante para ustedes.
+Ganas de seguir aprendiendo, capacitando y superandome.
+
+Atte Francisco
+
+Pd_ Enviaré porfolio con trabajos al mail que indiquen
+ <br>Security_code : cjpjy
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.47.226.97<br>
+ <br>Nombre : VERÓNICA INÉS
+ <br>Apellido : LEMOINE
+ <br>Cargo : legales
+ <br>Direccion : Ángel J. Carranza 1410 Piso 7º “D” (1414), CABA
+ <br>Ciudad : caba
+ <br>Telefono : 4777-8836
+ <br>Email : viglemoine@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Deseo conseguir un trabajo orientado a RRHH
+ <br>Security_code : z4phr
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.179.60.46<br>
+ <br>REF : VT
+ <br>Nombre : omar
+ <br>Apellido : obes
+ <br>Cargo : vendedor técnico
+ <br>Direccion : THAMES 3234
+ <br>Ciudad : PB 2
+ <br>Telefono : 44847637
+ <br>Email : omarobes79@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : por la presente le envio los datos solicitados a la espera le sean de utilidad.
+ <br>Security_code : g9hj2
+ <br>Send : Enviar
+ <br>
+---------------
+

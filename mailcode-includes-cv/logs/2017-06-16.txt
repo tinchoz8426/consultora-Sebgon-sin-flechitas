@@ -1,0 +1,126 @@
+Address : 200.16.89.157<br>
+ <br>REF : chr
+ <br>Nombre : Pablo Adrian
+ <br>Apellido : IASICHI
+ <br>Cargo : CHOFER
+ <br>Direccion : Pelegrini 4969
+ <br>Ciudad : San Martin 
+ <br>Telefono : 0111567258765
+ <br>Email : anii.c05@hotmail.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me encuentro en la busqueda de empleo, soy chofer con licencia cnrt y de conducir vigente
+ <br>Security_code : 3FQF4
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.44.69.37<br>
+ <br>REF : chr
+ <br>Nombre : javier
+ <br>Apellido : rodriguez
+ <br>Cargo : chofer de camiones
+ <br>Direccion : 1852, asamblea
+ <br>Ciudad : burzaco
+ <br>Telefono : 1564368796 /39671495
+ <br>Email : pao-valent@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : buen dia aquien corresponda quisiera postularme al pusto solicitado tengo movilidad para mi traslado
+ <br>Security_code : j4474
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.105.97.248<br>
+ <br>Nombre : Nicolás 
+ <br>Apellido : Ramírez 
+ <br>Cargo : chofer
+ <br>Direccion : Uztárroz 3682
+ <br>Ciudad : San Miguel 
+ <br>Telefono : 1158875352
+ <br>Email : vani1512@outlook.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Chofer de camiones con registro CNRT generales
+ <br>Security_code : 64jp7
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 191.83.138.98<br>
+ <br>REF : chr
+ <br>Nombre : miguel sebastian
+ <br>Apellido : montanari
+ <br>Cargo : CHOFER
+ <br>Direccion : SAN MARIA 2153
+ <br>Ciudad : san miguel
+ <br>Telefono : 1558565709
+ <br>Email : miguel.montanari@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Deseo ser parte de la Empresa y ser parte del grupo de trabajo
+ <br>Security_code : shwmh
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 191.83.138.98<br>
+ <br>REF : chr
+ <br>Nombre : miguel sebastian
+ <br>Apellido : montanari
+ <br>Cargo : CHOFER
+ <br>Direccion : SAN MARIA 2153
+ <br>Ciudad : san miguel
+ <br>Telefono : 1558565709
+ <br>Email : miguel.montanari@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Deseo ser parte de la Empresa y ser parte del grupo de trabajo
+ <br>Security_code : t3nsg
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 191.83.138.98<br>
+ <br>REF : chr
+ <br>Nombre : miguel sebastian
+ <br>Apellido : montanari
+ <br>Cargo : CHOFER
+ <br>Direccion : SAN MARIA 2153
+ <br>Ciudad : san miguel
+ <br>Telefono : 1558565709
+ <br>Email : miguel.montanari@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Deseo ser parte de la Empresa y ser parte del grupo de trabajo
+ <br>Security_code : n55fh
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.216.236.230<br>
+ <br>Nombre : Jorge
+ <br>Apellido : Arias
+ <br>Cargo : Técnico Electronico
+ <br>Direccion : Venezuela
+ <br>Ciudad : Valencia
+ <br>Telefono : 04127716722
+ <br>Email : jarias73@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas, soy tsu en electricidad con una especialización en mtto industrial, con alto conocimiento en PLC; control Logix, variadores de frecuencia y automatización
+ <br>Security_code : 4KWPY
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.231.83.134<br>
+ <br>REF : ROT-1
+ <br>Nombre : lars
+ <br>Apellido : andersen
+ <br>Cargo : diseño indsutriañ
+ <br>Direccion : san isidro
+ <br>Ciudad : san isidro
+ <br>Telefono : 1158901164
+ <br>Email : andersenlars96@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estoy muy interesado en poder desarrollarme en su empresa, trabajar en equipo y adquirir experiencia
+ <br>Security_code : yx2ym
+ <br>Send : Enviar
+ <br>
+---------------
+

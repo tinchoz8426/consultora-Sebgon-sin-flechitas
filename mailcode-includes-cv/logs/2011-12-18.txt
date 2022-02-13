@@ -1,0 +1,15 @@
+Address : 190.105.76.208
+Nombre : edgardo emanuel
+Apellido : ponce
+Cargo : operario de logistica
+Direccion : malnatti 2551
+Ciudad : san miguel
+Telefono : 1555624405
+Email : emanuel.ponce23@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : hola estoy en busqueda de un empleo de logistica, aca les dejo mis experiencias.mis pretensiones salariales son arriba de $4000 desde ya a su disposicion muchas gracias
+Security_code : m6fp5
+Send : Enviar
+
+---------------
+

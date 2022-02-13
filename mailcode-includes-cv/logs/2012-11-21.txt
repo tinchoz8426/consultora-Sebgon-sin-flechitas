@@ -1,0 +1,32 @@
+Address : 190.210.48.57
+Nombre : Fabiano
+Apellido : Perotto
+Cargo : Administrativo
+Direccion : Bme Mitre 1131 2 c
+Ciudad : CABA
+Telefono : 1539182488
+Email : portugues.fab@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados,
+Tengo una amplia experiencia laboral además de ser hablante nativo de portugués y español.
+gracias
+Security_code : g58yh
+Send : Enviar
+
+---------------
+
+Address : 190.179.8.41
+Nombre : Andrea Romina
+Apellido : Gil Esteves
+Cargo : Secretaria / Administrativa
+Direccion : Enrique Fernandez 2115
+Ciudad : Buenos Aires
+Telefono : 1144044085
+Email : andrea.esteves@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me encuentro en la búsqueda de empleo con urgencia, y este medio es de gran ayuda. Desde ya, muchas gracias.
+Security_code : 6vd39
+Send : Enviar
+
+---------------
+

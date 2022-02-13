@@ -1,0 +1,22 @@
+Address : 200.80.213.83
+Nombre : Gimena
+Apellido : Del Rio
+Cargo : Analista/jefe de RRHH
+Direccion : Av. Marquez 2521
+Ciudad : Pablo Podesta
+Telefono : 4519-7238
+Email : gimena.a.delrio@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : A quien corresponda:
+                             Les envío como documento adjunto mi CV para que me tengan en cuenta de acuerdo a mi perfil en su búsqueda laboral.
+                          Soy licenciada en psicología recibida de la Universidad Abierta Interamericana desde el año 2002, hace mas de seis años oriente mi vocación al área de Recursos Humanos cumpliendo diversas tareas y capacitándome para cumplir correctamente mi función.
+                                    Queda a la espera de que me llamen para una entrevista y poder ampliar lo expuesto en mi CV
+ 
+                                      Sin otro particular, saluda muy atte.
+ 
+                                                                                        Del Rio Gimena Andrea 
+Security_code : X787V
+Send : Enviar
+
+---------------
+

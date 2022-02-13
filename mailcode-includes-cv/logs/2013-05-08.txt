@@ -1,0 +1,102 @@
+Address : 186.137.15.55
+Nombre : Luciano
+Apellido : Paschetta
+Cargo : RRHH COmunicacion Marketin Publicidad Periodismo Produccion gestion
+Direccion : Foteringham 856
+Ciudad : Neuquen
+Telefono : 0299 154659936
+Email : lfpaschetta@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Les envio mi CV con la mayor espectativa de que me convoquen para una entrevista en busqueda de una oportunidad laboral acorde a mis estudios
+Security_code : 2yyx4
+Send : Enviar
+
+---------------
+
+Address : 186.137.15.55
+Nombre : Luciano
+Apellido : Paschetta
+Cargo : RRHH COmunicacion Marketin Publicidad Periodismo Produccion gestion
+Direccion : Foteringham 856
+Ciudad : Neuquen
+Telefono : 0299 154659936
+Email : lfpaschetta@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Les envio mi CV con la mayor espectativa de que me convoquen para una entrevista en busqueda de una oportunidad laboral acorde a mis estudios
+Security_code : zn68z
+Send : Enviar
+
+---------------
+
+Address : 181.95.136.67
+Nombre : Marcos José
+Apellido : Chiatellino
+Cargo : Espontaneo
+Direccion : Av. de la Marina 100
+Ciudad : Tigre
+Telefono : 1536834051
+Email : mjc0605@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Presentación Espontanea
+Security_code : k9dwq
+Send : Enviar
+
+---------------
+
+Address : 190.176.236.73
+Nombre : Diego  
+Apellido : Schwerdt
+Cargo : Ingeniero Agronómo
+Direccion : Mendoza 719
+Ciudad : Bahia Blanca
+Telefono : 0291-155780768
+Email : schwerdtdiego@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Tengo el agrado de dirigirme a uds. con el objeto de participar en búsquedas acordes a mi perfil. Adjunto le remito mi Curriculum Vitae para que me incluyeran en su base de datos por si se produjera alguna vacante.
+
+En cuanto a mi formación, soy Ingeniero Agronómo, egresado de la Universidad Nacional del Sur. Cuento con un nivel básico de inglés y portugués tanto oral con escrito. Me considero proactivo, ordenado, perseverante y responsable. Estoy en búsqueda de oportunidades laborales que me brinden experiencia para poder desarrollarme como buen profesional. 
+Me encuentro disponible a radicarme en otra ciudad de ser necesario.
+
+Sin más por el momento quedo a sus ordenes esperando su respuesta.
+
+
+Saludos y Muchas gracias.
+
+Un cordial saludo
+Atte. Schwerdt Diego
+Security_code : m4zz6
+Send : Enviar
+
+---------------
+
+Address : 200.82.57.136
+Nombre : Waldemar Fredy
+Apellido : Santos Oliveira
+Cargo : Socioambientales
+Direccion : Mendoza 668
+Ciudad : Resistencia
+Telefono : 03624452311
+Email : wfredyoliveira@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Solicito empleo para socioambientales en Resistencia Chaco
+Security_code : gqz34
+Send : Enviar
+
+---------------
+
+Address : 201.235.122.189
+REF : administrativo-logistica
+Nombre : carlos alberto
+Apellido : solana
+Cargo : administrativo-logistica
+Direccion : belgrano 54
+Ciudad : capitan sarmiento
+Telefono : 02478-481012
+Email : carlosalberto.solana@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : estoy en busca de un puesto en el sector logistica o en la parte administrativa o archivo
+Security_code : mrydb
+Send : Enviar
+
+---------------
+

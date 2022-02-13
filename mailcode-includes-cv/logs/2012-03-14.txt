@@ -1,0 +1,158 @@
+Address : 190.192.16.96
+Nombre : NATALIA
+Apellido : KALLSTEN
+Cargo : asistente social
+Direccion : serrano 1979
+Ciudad : san miguel
+Telefono : 0346115314536
+Email : nataliakallsten@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Soy asistente social, terminando la licenciatura en trabajo social,con ganas de trabajr y seguir aprendiendo, busco un trabajo en capital federal o provincia.
+Security_code : 5kpds
+Send : Enviar
+
+---------------
+
+Address : 190.105.9.219
+Nombre : pablo javier
+Apellido : diaz
+Cargo : operario
+Direccion : juan diaz  de solis
+Ciudad : moreno
+Telefono : 0111568912933
+Email : javierdiaz92@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : deseo conseguir un trabajo para poder seguir estudiando, soy un joven responsable y tengo capacidad para realizar cualquier tarea
+Security_code : ng939
+Send : Enviar
+
+---------------
+
+Address : 200.42.8.109
+Nombre : Ignacio
+Apellido : Bermejo
+Cargo : Comercio Internacional (Importación, Exportación, Logistica)
+Direccion : Mitre 1465
+Ciudad : Buenos Aires
+Telefono : 46274807
+Email : nachojbe@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Es de mi mayor interés obtener un empleo que  permita desarrollarme tanto personal como profesionalmente enfrentando nuevos desafios y responsabilidades. En caso de que mis conocimientos teoricos o mi experiencia laboral le resulten interesantes quedo a vuestra disposición para ampliarlos en una futura entrevista que espero se concrete a la brevedad
+Security_code : 92zst
+Send : Enviar
+
+---------------
+
+Address : 200.42.8.109
+Nombre : ignacio
+Apellido : bermejo
+Cargo : comercio exterio
+Direccion : mitre 1465
+Ciudad : buenos aires
+Telefono : 46274807
+Email : nachojbe@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Es de mi mayor interés obtener un empleo que permita desarrollarme tanto personal como profesionalmente, enfrentando nuevos desafíos y responsabilidades. En caso que mis conocimientos teóricos o mi experiencia laboral le resulten interesantes quedo a vuestra entera disposición para ampliarlos en una futura entrevista que espero se concrete a la brevedad
+Security_code : 3tg34
+Send : Enviar
+
+---------------
+
+Address : 200.42.8.109
+Nombre : ignacio
+Apellido : bermejo
+Cargo : comercio exterior
+Direccion : mitre 1465
+Ciudad : buenos aires
+Telefono : 46274807
+Email : nachojbe@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Es de mi mayor interés obtener un empleo que permita desarrollarme tanto personal como profesionalmente, enfrentando nuevos desafíos y responsabilidades. En caso que mis conocimientos teóricos o mi experiencia laboral le resulten interesantes quedo a vuestra entera disposición para ampliarlos en una futura entrevista que espero se concrete a la brevedad
+Security_code : gd337
+Send : Enviar
+
+---------------
+
+Address : 201.255.9.201
+Nombre : Pablo Ariel
+Apellido : Romeo
+Cargo : supervisor/jefe de personal
+Direccion : Leopoldo Lugones 1392
+Ciudad : Moreno
+Telefono : 1558935075
+Email : pablette20@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenas tardes a quien corresponda dejo mi C.V.
+Muchas gracias
+
+Pablo Romeo
+
+
+Security_code : 9mvs8
+Send : Enviar
+
+---------------
+
+Address : 200.42.8.109
+Nombre : ignacio
+Apellido : bermejo
+Cargo : comercio internacional
+Direccion : mitre 1465
+Ciudad : buenos aires
+Telefono : 46274807
+Email : nachojbe1465
+MAX_FILE_SIZE : 2097152
+Mensaje : Es de mi mayor interés obtener un empleo que permita desarrollarme tanto personal como profesionalmente, enfrentando nuevos desafíos y responsabilidades. En caso que mis conocimientos teóricos o mi experiencia laboral le resulten interesantes quedo a vuestra entera disposición para ampliarlos en una futura entrevista que espero se concrete a la brevedad
+Security_code : gyfqw
+Send : Enviar
+
+---------------
+
+Address : 190.192.131.170
+Nombre : Natalia Micaela
+Apellido : Aballay
+Cargo : administracion
+Direccion : Llavallol 4125
+Ciudad : CABA
+Telefono : (011) 15 4161 2202
+Email : natakup@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Realizo por esta vía mi presentación para vuestra consideración.  He regresado a la Argentina después de haber vivido en el exterior. He trabajado en  una Institución Académica en el área de administración y relaciones internacionales;  en una Empresa de Importación como Secretaria Administrativa Bilingüe. He realizado tareas que requieran manejo de equipos, organización, investigación y organizar base de datos en Excell y SPSS, etc. He trabajado con equipos multidisciplinarios en culturas de difícil inserción.
+Quedo a la espera de la concreción de una entrevista personal para ampliar cualquier información que crean necesaria. 
+Un cordial saludo
+
+Security_code : j8j5h
+Send : Enviar
+
+---------------
+
+Address : 200.114.177.111
+Nombre : Georgina
+Apellido : Agosta
+Cargo : Medios
+Direccion : Villa Devoto
+Ciudad : Ciudad Autónoma de Buenos Aires
+Telefono : 15-4160-0780
+Email : gmagosta@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenos Aires, Marzo de 2012
+
+De mi consideración:
+
+Me resulta grato dirigirme a usted con el fin de presentarle mis datos personales y antecedentes profesionales. 
+		
+Me caracterizo por adaptarme a grupos de trabajos, poseo iniciativa, capacidad de trabajo, paciencia, constancia y adaptación a circunstancias.
+			
+Quedo a su disposición. Sin más, lo saludo y agradezco el tiempo dedicado a mis antecedentes.
+
+
+Georgina Agosta
+
+Tel. 4503-0425
+Cel. 15-4160-0780
+gmagosta@yahoo.com.ar
+Security_code : cd8b7 
+Send : Enviar
+
+---------------
+

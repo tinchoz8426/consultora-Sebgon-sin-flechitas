@@ -1,0 +1,45 @@
+Address : 186.23.67.87
+REF : TECNICO-MECANICO
+Nombre : leonardo andres
+Apellido : alfonsin
+Cargo : Tecnico Mecanico
+Direccion : Pcia de bsas 1542
+Ciudad : Longchamps
+Telefono : 20770417
+Email : leoalfonsin@hotmail.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : De mi mayor consideración:
+			 
+Me dirijo a Uds. Desde los 19 años me desempeño en sectores de maquina y herramientas. En el CV que adjunto detallo mi experiencia en las distintas empresas, donde adquirí sólidos conocimientos sobre mantenimiento mecánico, soldador, y operador.
+
+Realicé cursos orientados a perfeccionar mis conocimientos en el espacio de mecanizado. 
+
+Me gustaría ser parte de la empresa . Considero que mis aptitudes, motivación y creatividad pueden contribuir al crecimiento del sector donde me encuentre. Dejo a su criterio la posibilidad de mantener una entrevista para ampliar aspectos de mi perfil.
+
+
+Saludo muy atentamente.
+
+Security_code : vst2v
+Send : Enviar
+
+---------------
+
+Address : 186.61.17.211
+Nombre : Alexia Rafaela
+Apellido : Amicone
+Cargo : Tècnico en seguridad e higiene industrial
+Direccion : calle 7 Nº 1386
+Ciudad : La Plata
+Telefono : (0221) 15-5312404
+Email : alexiaramicone@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados, Soy Técnico en Seguridad, Higiene y Control Ambiental Industrial, me encuentro en la búsqueda de empleo. Ajunto mi CV a fin de ser tenida en cuenta para una futura vacante.Vivo en zona Sur de GBA.
+
+Saludos Cordiales.
+
+Alexia Amicone
+Security_code : 7c78b
+Send : Enviar
+
+---------------
+

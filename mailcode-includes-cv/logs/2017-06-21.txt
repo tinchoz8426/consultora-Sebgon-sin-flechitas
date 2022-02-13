@@ -1,0 +1,301 @@
+Address : 170.51.98.75<br>
+ <br>REF : chr
+ <br>Nombre : Silvestre Jose
+ <br>Apellido : Ugarte
+ <br>Cargo : Chófer de reparto
+ <br>Direccion : Fino ruge 4191
+ <br>Ciudad : Caba
+ <br>Telefono : 1154861377
+ <br>Email : mandale_gas69@hotnail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola
+ Me interesa formar parte de su equipo cuento con los requisitos 
+ <br>Security_code : hyrbf
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.143.138.142<br>
+ <br>REF : chr
+ <br>Nombre : Jorge andres 
+ <br>Apellido : Cavallieri
+ <br>Cargo : Chofer de reparto
+ <br>Direccion : Gervacio posadas 528
+ <br>Ciudad : Bs as 
+ <br>Telefono : 1539414798
+ <br>Email : Jorgeandrescavallieri@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Espero dar con los requisitos
+ <br>Security_code : G6n99
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.143.138.142<br>
+ <br>REF : chr
+ <br>Nombre : Jorge andres 
+ <br>Apellido : Cavallieri
+ <br>Cargo : Chofer de reparto
+ <br>Direccion : Gervacio posadas 528
+ <br>Ciudad : Bs as 
+ <br>Telefono : 1539414798
+ <br>Email : Jorgeandrescavallieri@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Espero dar con los requisitos
+ <br>Security_code : G6n99
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 179.40.204.78<br>
+ <br>REF : chr
+ <br>Nombre : EDUARDO ALEJANDRO
+ <br>Apellido : Andrizzi
+ <br>Cargo : chofer
+ <br>Direccion : LOS ANDES 2047
+ <br>Ciudad : buenos aires
+ <br>Telefono : 1558687073    44661469
+ <br>Email : eduardo.andrizzi@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Necesito el trabajo tengo experiencia, gracias!
+ <br>Security_code : phwp3
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.188.141.192<br>
+ <br>Nombre : Ana Alejandra 
+ <br>Apellido : Ciccone
+ <br>Cargo : Atención al público
+ <br>Direccion : Lamadrid 2649
+ <br>Ciudad : Mar del Plata
+ <br>Telefono : 0291 154634169
+ <br>Email : ana.a.ciccone@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Esperando la oportunidad de demostrar mis capacidades, responsabilidad, compromiso y ganas de trabajar.
+ <br>Security_code : hr2sy
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.7<br>
+ <br>REF : chr
+ <br>Nombre : Albeto
+ <br>Apellido : Scofano
+ <br>Cargo : Chofer 
+ <br>Direccion : Rio traful 2586
+ <br>Ciudad : Buenos aires,Florencio Varela
+ <br>Telefono : 1568995573
+ <br>Email : scofanoalberto@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Disponibilidad Horaria Full Time.
+ <br>Security_code : w4wmx
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.250.62.0<br>
+ <br>REF : chr
+ <br>Nombre : ariel
+ <br>Apellido : salinas
+ <br>Cargo : chofer
+ <br>Direccion : payro 1641
+ <br>Ciudad : Merlo
+ <br>Telefono : 1157031455
+ <br>Email : ariel_salinas79@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : hola soy ariel salinas en estos momentos estoy desocupado tengo disponibilidad horaria soy responsable en mi trabajo tengo rejistro b1 y d1 tengo un megane 2 2007 en muy buy estado al dia y estoy con muchas ganas de trabajar mi celu es 011-15-5703-1455 desde ya muchas gracias
+ <br>Security_code : ymmtpz
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.141.135.38<br>
+ <br>REF : chr
+ <br>Nombre : Nicolas ulises
+ <br>Apellido : Silva
+ <br>Cargo : Chófer
+ <br>Direccion : Pizurno 1240
+ <br>Ciudad : Merlo
+ <br>Telefono : 1167046342
+ <br>Email : Acero777@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Disponibilidad horaria y amplia experiencia en logística.
+ <br>Security_code : Zsmpy
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.141.135.38<br>
+ <br>REF : chr
+ <br>Nombre : Nicolas ulises
+ <br>Apellido : Silva
+ <br>Cargo : Chófer
+ <br>Direccion : Pizurno 1240
+ <br>Ciudad : Merlo
+ <br>Telefono : 1167046342
+ <br>Email : Acero777@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Disponibilidad horaria y amplia experiencia en el rubro.
+ <br>Security_code : zsmpy
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.141.135.38<br>
+ <br>REF : chr
+ <br>Nombre : Nicolas ulises
+ <br>Apellido : Silva
+ <br>Cargo : Chófer
+ <br>Direccion : Pizurno 1240
+ <br>Ciudad : Merlo
+ <br>Telefono : 1167046342
+ <br>Email : Acero777@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Disponibilidad horaria y amplia experiencia en el rubro.
+ <br>Security_code : 243vx
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.11<br>
+ <br>REF : chr
+ <br>Nombre : Martin Federico
+ <br>Apellido : Quintela
+ <br>Cargo : Chofer de reparto
+ <br>Direccion : Diagonal suiza 4955
+ <br>Ciudad : Buenos aires
+ <br>Telefono : 1530979398
+ <br>Email : rapioeste@live.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Mi objetivo es volcar mis conocimientos previos aplicando seriedad y responsabilidad en mi trabajo y así poder aprender día a día un poco más.
+ <br>Security_code : 7vjcy
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.7<br>
+ <br>Nombre : Martin Federico
+ <br>Apellido : Quintela
+ <br>Cargo : Repositor externo
+ <br>Direccion : Diagonal suiza 4955
+ <br>Ciudad : Buenos aires
+ <br>Telefono : 1530979398
+ <br>Email : rapioeste@live.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Mi objetivo es volcar mi experiencia previa aplicando seriedad y compromiso y así poder aprender día a día un poco más .
+ <br>Security_code : 4h4fq
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.38.88.3<br>
+ <br>REF : chr
+ <br>Nombre : Iván franco
+ <br>Apellido : Alemán
+ <br>Cargo : Operario 
+ <br>Direccion : Calle 1151 n° 1885
+ <br>Ciudad : Florencio varela
+ <br>Telefono : 1159129641
+ <br>Email : Ivanaleman21@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : vida
+ <br>Security_code : m8c45
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.88.38<br>
+ <br>REF : chr
+ <br>Nombre : Alberto
+ <br>Apellido : Scófano
+ <br>Cargo : chofer
+ <br>Direccion : rio traful 2586
+ <br>Ciudad : Bs.As florencio varela
+ <br>Telefono : 1168995573
+ <br>Email : scofanoalberto@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : horario full tame
+ <br>Security_code : ntr2x
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.7<br>
+ <br>Nombre : Federico emanuel
+ <br>Apellido : Montero
+ <br>Cargo : Operario
+ <br>Direccion : Sagasta 1472
+ <br>Ciudad : Buenos aires
+ <br>Telefono : 46968344
+ <br>Email : Montero_federico@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estoy en busca de trabajo. Disponibilidad full time.
+ <br>Security_code : 54wyz
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.45.229.53<br>
+ <br>REF : chr
+ <br>Nombre : daniel
+ <br>Apellido : lovera
+ <br>Cargo : chofer
+ <br>Direccion : salta 2066, salta 2011
+ <br>Ciudad : 9 de abril
+ <br>Telefono : 1139321421
+ <br>Email : daniplaza2009_@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : tengo conocimientos de mecanica y mantenimiento de vehiculos
+ <br>Security_code : vnj49
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.45.229.53<br>
+ <br>Nombre : daniel alfredo
+ <br>Apellido : lovera
+ <br>Cargo : chofer
+ <br>Direccion : salta 2066, 9 de abril E Echeverria
+ <br>Ciudad : buenos aires
+ <br>Telefono : 1139321421
+ <br>Email : daniplaza2009_@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : con conocimientos de mecanica y mantenimiento de vehiculos
+ <br>Security_code : f78kj
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.192.32.80<br>
+ <br>REF : chr
+ <br>Nombre : daniel lucas
+ <br>Apellido : almeida
+ <br>Cargo : chofer
+ <br>Direccion : juncal 1905
+ <br>Ciudad : san fernando 
+ <br>Telefono : 1560506945
+ <br>Email : almeidadaniel081@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : quiesiera que llamen para trabajar con ustedes seria un placer
+ <br>Security_code : djfqb
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 179.41.165.96<br>
+ <br>REF : chr
+ <br>Nombre : EDUARDO GUSTAVO
+ <br>Apellido : CARRIZO
+ <br>Cargo : chofer
+ <br>Direccion : madrid 3395
+ <br>Ciudad : isidro casanova
+ <br>Telefono : 155-006-8828
+ <br>Email : gustavocarrizo-68@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : poseo licencia nacional habilitante y cnrt,mas libreta sanitaria actualizada
+ <br>Security_code : 7ddb6
+ <br>Send : Enviar
+ <br>
+---------------
+

@@ -1,0 +1,161 @@
+Address : 190.17.141.95
+Nombre : Federico 
+Apellido : Spalletti
+Cargo : Vendedor
+Direccion : Francisco Madero 594
+Ciudad : Ciudadela, Buenos Aires
+Telefono : 1530299308
+Email : feche_09@hotmail.es
+MAX_FILE_SIZE : 2097152
+Mensaje : A quien corresponda
+ 
+Le envió adjunto mi curriculum vitae para que me considere al surgir una vacante en el puesto de ventas
+Como usted podrá observar en mi currículum, tengo experiencia en el campo de secretaria general, atención al cliente, administración, ventas.
+ De mis experiencias obtenidas al transcurrir de los años, me considero una persona capaz de enfrentar cualquier reto que se me presente. También me considero una persona responsable, ordenada y acostumbrada a trabajar en equipo.
+Espero me puedan conceder la oportunidad de una entrevista. Pueden localizarme a los siguientes números telefónicos: particular 47657-3389, celular (5411)15-3029-9308, o a mi correo electrónico  federicospalletti.fs@gmail.com
+ Me alegraría poderle proporcionar cualquier otra información que ustedes precisen.
+Saludos Cordiales
+
+Security_code : 9fxz7
+Send : Enviar
+
+---------------
+
+Address : 190.17.141.95
+Nombre : Federico 
+Apellido : Spalletti
+Cargo : Vendedor
+Direccion : Francisco Madero 594
+Ciudad : Ciudadela, Buenos Aires
+Telefono : 1530299308
+Email : feche_09@hotmail.es
+MAX_FILE_SIZE : 2097152
+Mensaje : Quedo a su entera disposición.
+Security_code : 9fxz7
+Send : Enviar
+
+---------------
+
+Address : 181.47.104.32
+REF : GTEP
+Nombre : Sebastian Ariel
+Apellido : Manchado
+Cargo : Gerente de planta
+Direccion : Yatay 775 piso 8 depto D.
+Ciudad : CABA
+Telefono : 1569781606
+Email : se.manchado@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados, actualmente me encuentro en busqueda laboral. Seria de mi agrado poder contactarme con ustedes. Desde ya muchas gracias.
+Security_code : srs2d
+Send : Enviar
+
+---------------
+
+Address : 190.244.73.81
+Nombre : Damian Alejandro
+Apellido : Sandoval
+Cargo : operaciones
+Direccion : Andres Lamas 66
+Ciudad : ituzaingo
+Telefono : 1567070579
+Email : damian.sandoval@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : me gustaria realizar un trabajo en zona oeste en el cual pueda crecer laboralmente
+Security_code : fbf4f
+Send : Enviar
+
+---------------
+
+Address : 190.188.63.130
+Nombre : jose
+Apellido : Schamine
+Cargo : Logistica y distribucion
+Direccion : 505 N° 1226
+Ciudad : Gonnet
+Telefono : 221156182074
+Email : scham_86@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados Adjunto mi cv por alguna vacante por un puesto de trabajo.
+Gracias.
+Security_code : dcsd6
+Send : Enviar
+
+---------------
+
+Address : 190.176.95.177
+Nombre : Jorge Daniel
+Apellido : Da Silva
+Cargo : Seguridad e Hiegiene
+Direccion : Hipolito Yrigoyen
+Ciudad : Rio gallegos
+Telefono : 2966-15512984
+Email : dasilvajorge_asyahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto Curriculum Vitae
+Security_code : 7bm52
+Send : Enviar
+
+---------------
+
+Address : 186.134.185.204
+REF : ENPRO
+Nombre : claudio
+Apellido : capitani
+Cargo : supervisor
+Direccion : magallanes 3508
+Ciudad : bs as
+Telefono : 42765121
+Email : claudioalbertocapitani@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : estoy interesado
+Security_code : jck6f
+Send : Enviar
+
+---------------
+
+Address : 181.171.191.193
+Nombre : Lucila
+Apellido : Ferrón
+Cargo : Administrativa 
+Direccion : Fernández blanco 2075
+Ciudad : CABA
+Telefono : 1568317663
+Email : lucila.ferron@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenas tardes, quisiera que tengan en cuenta mi perfil para búsquedas relacionadas a la sociología ya que estoy en el 3 año de la carrera. Tengo experiencia como secretaria y atención al cliente en ventas. 
+Security_code : 53f29
+Send : Enviar
+
+---------------
+
+Address : 200.89.155.227
+Nombre : Marcelo
+Apellido : Ghetti
+Cargo : Ventas
+Direccion : Horacio julian 435
+Ciudad : Morón
+Telefono : 1154244691
+Email : maghetti2009@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Puesto de Vendedor para caneles mayoristas y minoristas, de cualquirer rubro
+Security_code : svnxd
+Send : Enviar
+
+---------------
+
+Address : 190.111.196.36
+Nombre : juan ramon
+Apellido : wayar
+Cargo : tecnico electromecanico
+Direccion : perez bulnes 865
+Ciudad : pilar
+Telefono : 0230154588447
+Email : wayarj@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : técnico electromecánico 
+Security_code : ywj9y
+Send : Enviar
+
+---------------
+

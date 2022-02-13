@@ -1,0 +1,99 @@
+Address : 200.125.74.240<br>
+ <br>REF : chr
+ <br>Nombre : Marcos
+ <br>Apellido : González
+ <br>Cargo : chofer
+ <br>Direccion : Paula Albarracín 3588
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 1559050118
+ <br>Email : marcoseg7915@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hombre con iniciativa propia.Para aprender y mejorar.Responsable.Disponibilidad horaria completa.
+ <br>Security_code : dbq5d
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.18.56.214<br>
+ <br>Nombre : Johanna Maria  
+ <br>Apellido : Pedraza 
+ <br>Cargo : Cajera
+ <br>Direccion : Finlay 1645
+ <br>Ciudad : La Matanza,Rafael Castillo
+ <br>Telefono : 1140913457
+ <br>Email : yohanapedraza.2304@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : hola buenas tardes envió mi cv para postularme al cargo de cajera o cualquier otro,un saludo cordialmente...
+ <br>Security_code : tcrhp
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 200.125.81.118<br>
+ <br>Nombre : Yolanda 
+ <br>Apellido : Sanabria
+ <br>Cargo : ventas o  marketing
+ <br>Direccion : Av. Coronel Díaz
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 11 67191327
+ <br>Email : yolandacsanabria@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Mi objetivo consiste en formar parte de un equipo de trabajo estable en donde pueda aportar mis conocimientos y habilidades interpersonales, asumir nuevos desafíos y adquirir experiencias para crecer exitosamente como una profesional, en un buen ambiente de trabajo desempeñándome de manera dinámica, proactiva y responsable.  
+
+
+
+ <br>Security_code : fqvmz
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.2.5.237<br>
+ <br>REF : chr
+ <br>Nombre : omar
+ <br>Apellido : magallanes
+ <br>Cargo : chofer de reparto
+ <br>Direccion : 3 marias 56
+ <br>Ciudad : san miguel
+ <br>Telefono : 1168400793
+ <br>Email : omagallanes@hotmail.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : quiero ofrecer mi experiencia en su empresa desde ya muchas gracias
+ <br>Security_code : vfhtm
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.2.5.237<br>
+ <br>Nombre : omar
+ <br>Apellido : magallanes
+ <br>Cargo : chofer de reparto
+ <br>Direccion : 3 marias 56
+ <br>Ciudad : san miguel
+ <br>Telefono : 1168400793
+ <br>Email : omagallanes@hotmail.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : ofrsco mi gran experiencia en muchos rubros desde ya muchas gracias
+ <br>Security_code : zrjm5
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.22.89.214<br>
+ <br>Nombre : Evelyn Giselle
+ <br>Apellido : Garcia
+ <br>Cargo : TÉCNICA EN SEGURIDAD E HIGIENE LABORAL
+ <br>Direccion : Gral. Pico, 1627
+ <br>Ciudad : Lanus
+ <br>Telefono : 1132414382
+ <br>Email : evelyn.g.garcia@hotmail.es
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola  mi nombre es Evelyn Giselle Garcia , desearía formar parte de su organización para desarrollarme en un ambiente de trabajo que me lleve a nuevas fronteras de conocimiento y aprendizaje para un mejor desarrollo en mi vida laboral.
+ Dejo adjunto mi curriculum vitae.
+ Saludos cordiales.
+  Atte. Evelyn Garcia.
+
+ <br>Security_code : w7h8F
+ <br>Send : Enviar
+ <br>
+---------------
+

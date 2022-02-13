@@ -1,0 +1,47 @@
+Address : 186.122.148.113
+Nombre : Adrián
+Apellido : Cagliani
+Cargo : Supervisor de mantenimiento
+Direccion : Bolivar 960
+Ciudad : San Nicolás
+Telefono : 03461-451222
+Email : readrys65@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Deseraría desarrolarme en la parte de mantenimiento, actualmente soy supervisor en antenimiento en tecmaco Integral.
+Security_code : 9vx2n
+Send : Enviar
+
+---------------
+
+Address : 190.19.151.241
+REF : responsable-mantenimiento
+Nombre : Juan Carlos
+Apellido : Rodado Brieva
+Cargo : mantenimiento
+Direccion : Palestina 646 depto 27 piso 6
+Ciudad : Buenos Aires
+Telefono : 1132731958
+Email : juan.rodado@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Ingeniero Mecanico
+
+Security_code : ckpp2
+Send : Enviar
+
+---------------
+
+Address : 190.139.237.178
+Nombre : Romina Elizabeth
+Apellido : Tribulo
+Cargo : cualquiera 
+Direccion : España 549
+Ciudad : C. del Uruguay
+Telefono : 3442644288
+Email : rotribulo@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : aqui les envio mis datos,si no les llega el cv envienme otra direccion para poder enviarselos.muchas gracias.
+Security_code : 2ytyz
+Send : Enviar
+
+---------------
+

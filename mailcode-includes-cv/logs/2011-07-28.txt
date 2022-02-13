@@ -1,0 +1,32 @@
+Address : 190.175.69.19
+Nombre : Mariana Betina
+Apellido : Sobral 
+Cargo : Secretaria Bilingüe
+Direccion : Concejal Rosset
+Ciudad : Moreno
+Telefono : 1551162202
+Email : marianasobral_1@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Aguardo su respuesta a la brevedad.
+Muchas gracias, saludos cordiales.
+Security_code : w52c5
+Send : Enviar
+
+---------------
+
+Address : 190.136.117.199
+REF : gerente-de-operaciones
+Nombre : Gustavo Ariel
+Apellido : Coronel
+Cargo : Responsable o representante comercial
+Direccion : Jujuy 1130
+Ciudad : Formosa
+Telefono : 03717-15-602631
+Email : ariel256@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Remuneracion pretendida $3500
+Security_code : bbgxc
+Send : Enviar
+
+---------------
+

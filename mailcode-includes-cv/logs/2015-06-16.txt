@@ -1,0 +1,46 @@
+Address : 190.19.187.229
+Nombre : belen
+Apellido : tavelli
+Cargo : diseño de interiores
+Direccion : azcuenaga 1086
+Ciudad : capital federal
+Telefono : 1532805717
+Email : belentavelli@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : envio adjunto mi cv 
+Security_code : q53gc
+Send : Enviar
+
+---------------
+
+Address : 186.138.233.202
+REF : AFAC
+Nombre : SEBASTIAN
+Apellido : KORCARZ
+Cargo : AFAC
+Direccion : RODRIGUEZ PEÑA 1864
+Ciudad : CASTELAR
+Telefono : 1558018858
+Email : SEBASTIANKORCARZ@GMAIL.COM
+MAX_FILE_SIZE : 2097152
+Mensaje :  
+Security_code : ss6dc
+Send : Enviar
+
+---------------
+
+Address : 181.95.215.199
+Nombre : Yamile
+Apellido : Matiello
+Cargo : Atencion al cliente // administracion
+Direccion : Aconcagua 
+Ciudad : Corodba
+Telefono : 0351-157472663
+Email : yami_17_cba@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Muchas ganas de trabajar.
+Security_code : 3v899
+Send : Enviar
+
+---------------
+

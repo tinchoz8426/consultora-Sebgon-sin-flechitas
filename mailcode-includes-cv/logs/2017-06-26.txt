@@ -1,0 +1,239 @@
+Address : 179.40.165.74<br>
+ <br>REF : chr
+ <br>Nombre : maximiliano
+ <br>Apellido : pollio
+ <br>Cargo : chofer
+ <br>Direccion : ramon falcon1292
+ <br>Ciudad : el palomar
+ <br>Telefono : 1558485577
+ <br>Email : maximiliano150313@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : chofer cnrt al dia
+ <br>Security_code : rff4c
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.15.124.18<br>
+ <br>REF : EP-1
+ <br>Nombre : juan carlos
+ <br>Apellido : rodriguez
+ <br>Cargo : supervisor de produccion
+ <br>Direccion : marie curie 1265
+ <br>Ciudad : bs.as
+ <br>Telefono : 0230154557531
+ <br>Email : chiquirodri@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : proactivo.
+disponibilidad horaria
+ <br>Security_code : 6scc3
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.134.11.171<br>
+ <br>REF : EP-1
+ <br>Nombre : daniel
+ <br>Apellido : vilca
+ <br>Cargo : encargado
+ <br>Direccion : santa maria de oro 1849
+ <br>Ciudad : castelar
+ <br>Telefono : 1122979411
+ <br>Email : vdanielroberto@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : amplia experiencia
+ <br>Security_code : r7j89
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.134.11.171<br>
+ <br>REF : EP-1
+ <br>Nombre : daniel
+ <br>Apellido : vilca
+ <br>Cargo : encargado
+ <br>Direccion : santa maria de oro 1849
+ <br>Ciudad : castelar
+ <br>Telefono : 1122979411
+ <br>Email : vdanielroberto@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : amplia experiencia
+ <br>Security_code : r7j89
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.104.215.17<br>
+ <br>Nombre : Maximiliano
+ <br>Apellido : Vadillo
+ <br>Cargo : Administrativo / Ofican / Aux en Seguridad e Higiene Industial
+ <br>Direccion : Francisco Bourel 798
+ <br>Ciudad : Bella Vista ( Partido de San Miguel)
+ <br>Telefono : 1160160392
+ <br>Email : vadillo.max@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados:
+Les envio mi Cv, con foto adjuntado en archivo Excel,
+
+Me llamo Maximiliano Vadillo, tengo 29 años
+
+Actualmente trabajo como administrativo en Carrefour (INC S.A)
+Estoy cursando la carrera de Lic en Seguridad e Higiene Industrial; cuento con formacion docente.
+
+Saludos !
+Atte Maximiliano, telefono: 11-6016-0392
+ <br>Security_code : 5wr9p
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 170.51.94.248<br>
+ <br>Nombre : Carolina
+ <br>Apellido : Maenza
+ <br>Cargo : Limpieza
+ <br>Direccion : Jacinto peralta Ramos 2760
+ <br>Ciudad : Mar del plata
+ <br>Telefono : 2236334332
+ <br>Email : 0netouchiidol@gmail
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola soy de mar del plata
+Me gustaría ser parte de su empresa , yo ando buscando urgente trabajo ya estuve trabajando en otra empresa y en casas tengo experiencia .Soy muy buena persona responsable tengo buena presencia si tengo que aprender algo lo aprendo rápido me gusta que las cosas queden muy bien soy ordenada . Lo que si cuido muy bien mi trabajo
+Bueno espero su respuesta !!
+ <br>Security_code : Tc9yw
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.7<br>
+ <br>REF : chr
+ <br>Nombre : Cristia  raul
+ <br>Apellido : Mendoza
+ <br>Cargo : Cofer 
+ <br>Direccion : Jorge newbery 1704
+ <br>Ciudad : Jose.c.paz
+ <br>Telefono : 1125598923
+ <br>Email : mendozacristianraul1991@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Demostrar mi buena capasidad de desempeño laborar
+ <br>Security_code : X3V43
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.45.226.96<br>
+ <br>REF : chr
+ <br>Nombre : Edgar antonio
+ <br>Apellido : Maldonado
+ <br>Cargo : Chofer
+ <br>Direccion : Larrazabal 4844 villa luzuriaga
+ <br>Ciudad : Matanza
+ <br>Telefono : 1554696946
+ <br>Email : Chmaldonado2016@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Espero respuestas
+ <br>Security_code : Gd2d4
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.134.10.62<br>
+ <br>REF : EP-1
+ <br>Nombre : daniel
+ <br>Apellido : vilca
+ <br>Cargo : encargado
+ <br>Direccion : santa maria de oro 1849
+ <br>Ciudad : castelar
+ <br>Telefono : 1122979411
+ <br>Email : vdanielroberto@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : amplia experiencia
+ <br>Security_code : rrjjg9
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.254.152.209<br>
+ <br>Nombre : gabriela
+ <br>Apellido : barraza
+ <br>Cargo : administracion/comex
+ <br>Direccion : thames 1387
+ <br>Ciudad : buenos aires
+ <br>Telefono : 1558307646
+ <br>Email : gabriela.barraza@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados Sres. /as de Recursos Humanos
+
+Tengo el agrado de dirigirme a Uds. con el objetivo de participar en las búsquedas acorde a mi perfil y competencias en su empresa. Adjunto mi CV buscando ser incluida en la base de datos en caso de que se produjera alguna vacante disponible.
+Cuento con experiencia en atención al cliente, manejo de divisas nacional y extranjera, tarjetas de crédito, cheques, conciliaciones  bancarias, ingles intermedio, manejo de herramientas informáticas, para poder desarrollarme en la empresa. Actualmente continuo perfeccionando inglés, estoy estudiando Licenciatura En Administración, con simultaneidad con Licenciatura Comercio Internacional.
+ Soy una persona proactiva con capacidad de formar parte de un equipo de trabajo alcanzar objetivo de la organización, como personales 
+Agradezco la gentiliza de su atención
+Un saludo cordial
+Gabriela Barraza
+
+ <br>Security_code : 34gqj
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.175.211.92<br>
+ <br>REF : ACO
+ <br>Nombre : Julián Ernesto 
+ <br>Apellido : Salazar 
+ <br>Cargo : Vendedor
+ <br>Direccion : 41 n 1871
+ <br>Ciudad : Miramar
+ <br>Telefono : 2291412490
+ <br>Email : juliane_salazar@hotmail.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Cambio de residencia a la ciudad de mar del olata
+ <br>Security_code : K28p6
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.175.211.92<br>
+ <br>Nombre : Julián Ernesto 
+ <br>Apellido : Salazar 
+ <br>Cargo : Vendedor
+ <br>Direccion : 41 n 1871
+ <br>Ciudad : Miramar
+ <br>Telefono : 2291412490
+ <br>Email : juliane_salazar@hotmail.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Cambio de residencia en la ciudad de mar del plata 
+ <br>Security_code : 76xxd
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.175.211.92<br>
+ <br>Nombre : Julián Ernesto 
+ <br>Apellido : Salazar 
+ <br>Cargo : Vendedor
+ <br>Direccion : 41 n 1871
+ <br>Ciudad : Miramar
+ <br>Telefono : 2291412490
+ <br>Email : juliane_salazar@hotmail.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Cambio de residencia en la ciudad de mar del plata 
+ <br>Security_code : 76xxd
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.179.237.32<br>
+ <br>REF : chr
+ <br>Nombre : fabian
+ <br>Apellido : castelblanco
+ <br>Cargo : chofer
+ <br>Direccion : gual 2612
+ <br>Ciudad : caba
+ <br>Telefono : 1123548581
+ <br>Email : fabian_707@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola seria un gusto en poder contribuir con mis capacidades de manejo de vehiculos de carga 
+ <br>Security_code : b7k75
+ <br>Send : Enviar
+ <br>
+---------------
+

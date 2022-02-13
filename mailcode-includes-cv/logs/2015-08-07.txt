@@ -1,0 +1,80 @@
+Address : 179.39.0.49
+Nombre : Agustin Leonel
+Apellido : Lopez
+Cargo : Administrativo
+Direccion : Corvalan 2986
+Ciudad : Lanus
+Telefono : 1521578438
+Email : agustin.l.lopez@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola, si me podrian pasar algun mail para madanr el CV se los agradeceria, desde ya muchas gracias.
+Security_code : rt44n
+Send : Enviar
+
+---------------
+
+Address : 181.164.224.65
+Nombre : Esteban
+Apellido : Ramallo
+Cargo : auxiliar químico o metalúrgico 
+Direccion : lulio 3105
+Ciudad : cordoba
+Telefono : 3571327822
+Email : melyramallo45@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Quiero desempeñar mis tareas en:informes de calidad, metalografia, análisis de composición química, uso de PC, análisis de tierra, control de fundición, gris, nodular y gris aleado, terminación de piezas. 
+Security_code : kxzpm
+Send : Enviar
+
+---------------
+
+Address : 190.188.57.72
+Nombre : Giselle
+Apellido : Comande
+Cargo : Psicóloga
+Direccion : Psicóloga
+Ciudad : Buenos Aires
+Telefono : 1136524844
+Email : giselleacomande@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenas tardes! Adjunto mi CV quedando a su disposción para cubrir la función de selección de personal,evaluación de test psicotécnicos,entrevistas,etc...
+Muchas gracias!
+Security_code : 8yqgd
+Send : Enviar
+
+---------------
+
+Address : 188.143.232.19
+Nombre : Bradley
+Apellido : 8628
+Cargo : lemPneESnhVsW
+Direccion : ZhNPlZduHEZHNjBW
+Ciudad : NY
+Telefono : 76906356693
+Email : djbrucho3@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : W3cD6C http://www.FyLitCl7Pf7kjQdDUOLQOuaxTXbj5iNG.com
+Security_code : s22br
+Send : Enviar
+
+---------------
+
+Address : 186.137.47.13
+Nombre : Esteban Roberto
+Apellido : Margueliche
+Cargo : Geologo de campo
+Direccion : calle 472 Nro 1442
+Ciudad : La Plata
+Telefono : 0221156140796
+Email : esteban_marg@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola, soy un joven profesional en búsqueda activa de oportunidad laboral dentro del área de las Ciencias de la Tierra. 
+Les adjunto mi Curriculum Vitae quedando su a disposición.
+
+Desde ya muchas gracias.
+Saludos cordiales
+Security_code : qqc2h
+Send : Enviar
+
+---------------
+

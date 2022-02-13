@@ -1,0 +1,145 @@
+Address : 186.141.197.51<br>
+ <br>Nombre : Elbio Gabriel 
+ <br>Apellido : Casafus
+ <br>Cargo : Chofer
+ <br>Direccion : Alaska 4123
+ <br>Ciudad : General Rodrigues
+ <br>Telefono : 1159644790
+ <br>Email : elbio922@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estoy en busca de empleo
+ <br>Security_code : 7jdrk
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.13.64.209<br>
+ <br>Nombre : jonathan  ayrton
+ <br>Apellido : pena
+ <br>Cargo : chofer
+ <br>Direccion : unamuno 387
+ <br>Ciudad : lomas de zamora
+ <br>Telefono : 1130247974
+ <br>Email : jonathanayrtonpena
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Ando en busca de trabajo para chofer de camion.
+ <br>Security_code : p3skt
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.11<br>
+ <br>REF : chr
+ <br>Nombre : Marcelo 
+ <br>Apellido : Martinez
+ <br>Cargo : Chofer
+ <br>Direccion : Av coronel roca 3555
+ <br>Ciudad : Caba
+ <br>Telefono : 1161129281
+ <br>Email : Marcelo_2581@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Busco empleo de chofer
+ <br>Security_code : M9ygr
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.104.43.118<br>
+ <br>REF : chr
+ <br>Nombre : MARCELO ALBERTO
+ <br>Apellido : LEDESMA
+ <br>Cargo : chofer
+ <br>Direccion : iparraguirre 2752
+ <br>Ciudad : lomas de zamora
+ <br>Telefono : 15 56545337
+ <br>Email : marceloledesma688@gamail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : 
+
+ <br>Security_code : dkgbw
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.134.0.123<br>
+ <br>REF : chr
+ <br>Nombre : Gabriel
+ <br>Apellido : Capurro
+ <br>Cargo : chofer
+ <br>Direccion : coronel montt 1441
+ <br>Ciudad : Rafael castillo
+ <br>Telefono : 1132663699
+ <br>Email : alejandrocapurro17@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : en este momento me encuentro en absoluta disponibilidad para realizar turnos y jornadas rotativas
+ <br>Security_code : 6fzpz
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 179.36.155.232<br>
+ <br>REF : chr
+ <br>Nombre : Juan
+ <br>Apellido : Palominno
+ <br>Cargo : Chofer
+ <br>Direccion : Sayos 724
+ <br>Ciudad : MERLO - LIBERTAD
+ <br>Telefono : 1135038817
+ <br>Email : juanchy22_3@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : les dejo mis datos por alguna solicitud de chofer q tengan. espero q me tengan en cuenta saludos 
+ <br>Security_code : qkw36
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.177.200.84<br>
+ <br>REF : chr
+ <br>Nombre : david lionel
+ <br>Apellido : funes
+ <br>Cargo : chofer
+ <br>Direccion : h.bouchard 135
+ <br>Ciudad : grand bourg
+ <br>Telefono : 02320413908
+ <br>Email : dlfunes36@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : postularme
+ <br>Security_code : 3jjxs
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 179.41.136.186<br>
+ <br>REF : chr
+ <br>Nombre : Jonathan
+ <br>Apellido : Díaz
+ <br>Cargo : Chofer de reparto
+ <br>Direccion : Perdriel 2815
+ <br>Ciudad : La Tablada
+ <br>Telefono : 1549496056
+ <br>Email : jonathan___diaz@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola, necesito trabajar rápidamente, tengo experiencia en reparto de 3 años. Espero el contacto gracias
+ <br>Security_code : 8nfj6
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.210.22.163<br>
+ <br>REF : ROT-1
+ <br>Nombre : German 
+ <br>Apellido : Arancibia Narambuen
+ <br>Cargo : Dirección del departamento técnico 
+ <br>Direccion : 47 n 517 1/2 piso 12 c
+ <br>Ciudad : la plata
+ <br>Telefono : 0221 15 592 8081
+ <br>Email : ger_aran@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Diseñador con 10 años de experiencia en el área Metal mecánica Responsable del área de desarrollo y diseño en Pedro Bordogna, altamente social, apasionado al diseño y el ciclismo.  
+Interesado en ser parte importante de un proyecto del cual sentirme orgulloso.
+
+ <br>Security_code : 2bb9f
+ <br>Send : Enviar
+ <br>
+---------------
+

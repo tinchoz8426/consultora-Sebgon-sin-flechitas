@@ -1,0 +1,213 @@
+Address : 190.19.63.54
+Nombre : jacqueline
+Apellido : sevilla
+Cargo : administrativa
+Direccion : unanue 6671
+Ciudad : ciudad autonoma de buenos aires
+Telefono : 46017250
+Email : jacquelineasevilla@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : queria participar de sus busquedas laborales. desde ya muchas gracias
+Security_code : 44h5j
+Send : Enviar
+
+---------------
+
+Address : 190.105.109.45
+Nombre : HECTOR
+Apellido : ALANIS
+Cargo : GERENTE DE COMPRAS EN EL BOLSÓN,RIÓ NEGRO
+Direccion : RIVADAVIA 871
+Ciudad : PILAR
+Telefono : (011) 15 35431723
+Email : hectoralanis@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : BUENOS DIAS,ENVIO MI CV,PARA POSTULARME COMO GERENTE DE COMPRAS EN LA CUIDAD DEL BOLSÓN,RÍO NEGRO,YA QUE MI INTENCIÓN ES RADICARME EN ESA CIUDAD DENTRO DE ESTE AÑO. MUCHAS GRACIAS.
+Security_code : 454r8
+Send : Enviar
+
+---------------
+
+Address : 190.175.173.135
+REF : ADMINISTRATIVO-DE-LOGISTICA
+Nombre : diego
+Apellido : vittek
+Cargo : administrativo de logistica
+Direccion : los pumas 6278
+Ciudad : bariloche
+Telefono : 0294154556733
+Email : diego.vittek@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Soy responsable, comprometido con los objetivos de la empresa, de rápido aprendizaje, y buena relación con compañeros y superiores
+Security_code : 7v8g4
+Send : Enviar
+
+---------------
+
+Address : 190.178.94.64
+Nombre : juan joose 
+Apellido : carrizo
+Cargo : chofer d flota pesada y makinas especiales no agricolas
+Direccion : ciudadela.los andes 1450
+Ciudad : comodoro rivadavia
+Telefono : 154228503
+Email : juanjcarrizo83@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : experiencia en canteras,ruta y sona urbana.con cargadoras ,excavadora , retro excavadora, chasi y acoplado ,hidrogruas, responsabilidad absoluta. experiencia 10 años. los carnet vigentes.curso de IAPG(MANEJO DEFENCIVO) PROFECIONAL.Y CARGAS  PELIGROSAS. TENGO 30 AÑOS NACIDO EL 8 DE JULIO DEL 83. .....LOS SALUDO MUY ATENTAMENTE A LA ESPERA DE UNA RESPUESTA SACTIFACTORIA.
+
+Security_code : 6vgy6
+Send : Enviar
+
+---------------
+
+Address : 181.119.25.106
+Nombre : yanina micaela
+Apellido : fiorenza
+Cargo : analista de rrhh
+Direccion : anchorena 95
+Ciudad : pilar
+Telefono : 1159322147
+Email : yaninafiorenza@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje :  el área de rrhh
+Security_code : ncj6f
+Send : Enviar
+
+---------------
+
+Address : 181.29.153.166
+Nombre : Alan Eluney
+Apellido : Bermani Rios
+Cargo : Administrativo
+Direccion : Bernardo de Irigoyen 1156
+Ciudad : Castelar
+Telefono : 15-3296-0234
+Email : alan.bermani@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me gustaría ingresar en una empresa donde pueda aplicar mis conocimientos, con posibilidad de crecimiento. Un lugar donde sean reconocidos el esfuerzo y la dedicación, y pueda crecer tanto en el ámbito laboral como personal.
+Security_code : gqdtr
+Send : Enviar
+
+---------------
+
+Address : 181.29.153.166
+Nombre : Alan Eluney
+Apellido : Bermani Rios
+Cargo : Administrativo
+Direccion : Bernardo de Irigoyen 1156
+Ciudad : Castelar
+Telefono : 15-3296-0234
+Email : alan.bermani@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me gustaría ingresar en una empresa donde pueda aplicar mis conocimientos, con posibilidad de crecimiento. Un lugar donde sean reconocidos el esfuerzo y la dedicación, y pueda crecer tanto en el ámbito laboral como personal.
+Security_code : qz4dt
+Send : Enviar
+
+---------------
+
+Address : 181.28.44.71
+Nombre : Graciela Beatriz
+Apellido : Ciardullo
+Cargo : Gerencia Administrativa Contable
+Direccion : Av.Pedro Goyena 202-Piso 1
+Ciudad : C.A.B.A.
+Telefono : (5411)4921-2603
+Email : gpenas@speedy.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Envío mi CV para ser tenida en cuenta en futuras búsquedas de vuestra consultora.
+Security_code : khpnx
+Send : Enviar
+
+---------------
+
+Address : 190.221.85.167
+Nombre : Jorge Alejandro
+Apellido : Sadir
+Cargo : Encargado o administrativo de depósito
+Direccion : Rojas 1596 Castelar
+Ciudad : Castelar
+Telefono : 15-3064-9797
+Email : jorgesadir@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto envío CV a fin de que forme parte de su base de datos y sea considerado ante búsquedas acordes a mi perfil. Muchas gracias
+Security_code : h4mv5
+Send : Enviar
+
+---------------
+
+Address : 190.221.85.167
+Nombre : Jorge Alejandro
+Apellido : Sadir
+Cargo : Encargado o administrativo de depósito
+Direccion : Rojas 1596 Castelar
+Ciudad : Castelar
+Telefono : 15-3064-9797
+Email : jorgesadir@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto envío CV a fin de que forme parte de su base de datos y sea considerado ante búsquedas acordes a mi perfil. Muchas gracias
+Security_code : h4mv5
+Send : Enviar
+
+---------------
+
+Address : 190.221.85.167
+Nombre : Jorge Alejandro
+Apellido : Sadir
+Cargo : Encargado o administrativo de depósito
+Direccion : Rojas 1596 Castelar
+Ciudad : Castelar
+Telefono : 15-3064-9797
+Email : jorgesadir@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto envío CV a fin de que forme parte de su base de datos y sea considerado ante búsquedas acordes a mi perfil. Muchas gracias
+Security_code : h4mv5
+Send : Enviar
+
+---------------
+
+Address : 190.221.85.167
+Nombre : Jorge Alejandro
+Apellido : Sadir
+Cargo : Encargado o administrativo de depósito
+Direccion : Rojas 1596 Castelar
+Ciudad : Castelar
+Telefono : 15-3064-9797
+Email : jorgesadir@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto envío CV a fin de que forme parte de su base de datos y sea considerado ante búsquedas acordes a mi perfil. Muchas gracias
+Security_code : h4mv5
+Send : Enviar
+
+---------------
+
+Address : 190.221.85.167
+Nombre : Jorge Alejandro
+Apellido : Sadir
+Cargo : Encargado o administrativo de depósito
+Direccion : Rojas 1596 Castelar
+Ciudad : Castelar
+Telefono : 15-3064-9797
+Email : jorgesadir@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto envío CV a fin de que forme parte de su base de datos y sea considerado ante búsquedas acordes a mi perfil. Muchas gracias
+Security_code : s39vx
+Send : Enviar
+
+---------------
+
+Address : 201.250.86.139
+Nombre : Néstor Oscar
+Apellido : Penas
+Cargo : Director / Gerente
+Direccion : Av. Pedro Goyena 202 1° Piso
+Ciudad : Ciudad Autónoma de Buenos Aires
+Telefono : 4921-2603 / 15 5815-5815
+Email : npenas@speedy.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Profesional de la industria de las Telecomunicaciones e Informática, con más de veinte años de experiencia en cargos directivos en empresas multinacionales, en las áreas de Operaciones, Planificación, Abastecimiento y Logística.
+Experiencia en planificación, organización, dirección y control de operaciones técnicas y comerciales, implementando estrategias y objetivos. 
+Security_code : q6zc5
+Send : Enviar
+
+---------------
+

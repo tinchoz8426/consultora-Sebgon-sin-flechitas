@@ -1,0 +1,12 @@
+Address : 200.55.7.58
+ <br>Nombre : JIMENA
+ <br>Apellido : GONZALEZ
+ <br>Empresa : GCO
+ <br>Telefono : 02374030529
+ <br>Email : mgonzalez@gco.com.ar
+ <br>Mensaje : Buenas tardes queria pedirles si me podian enviar informacion de la capacitacion de Liderazgo y Motivación: duracion, costo y modalidad.Aguardo su respuesta, un saludo cordial.
+ <br>Security_code : fs49p
+ <br>Send : Enviar
+ <br>
+---------------
+

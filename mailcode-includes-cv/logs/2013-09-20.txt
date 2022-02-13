@@ -1,0 +1,33 @@
+Address : 201.213.100.209
+Nombre : Gladys Noemí
+Apellido : Pavichevich
+Cargo : Administración
+Direccion : Calle 110 Formosa 102 PB
+Ciudad : Don Bosco - Pdo. de Quilmes
+Telefono : 4259-1361
+Email : ngpavicevic@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Departamento de Recursos Humanos
+                      La intención de esta carta es solicitarles la posibilidad de ingresar mis antecedentes en su base de datos para una posible inserción laboral.
+      
+                                          
+Security_code : m6c89
+Send : Enviar
+
+---------------
+
+Address : 201.250.61.101
+Nombre : Facundo
+Apellido : Romero
+Cargo : --
+Direccion : Victorica 140 10
+Ciudad : CABA
+Telefono : 43613870
+Email : facu_romero@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : sin experiencia.
+Security_code : rqw44
+Send : Enviar
+
+---------------
+

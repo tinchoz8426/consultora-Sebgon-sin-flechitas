@@ -1,0 +1,139 @@
+Address : 186.153.106.36<br>
+ <br>Nombre : juan manuel
+ <br>Apellido : nuñez loza
+ <br>Cargo : operador o encargado
+ <br>Direccion : san nicolas 2540
+ <br>Ciudad : rosario
+ <br>Telefono : 3416271652
+ <br>Email : manuel2.sham@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : BUENOS DIAS BUSCO TRABAJO Y DESEO LOGRAR UN OFICIO RENTABLE GRACIAS
+ <br>Security_code : 9y47r
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.153.106.36<br>
+ <br>Nombre : juan manuel
+ <br>Apellido : nuñez loza
+ <br>Cargo : operador o encargado
+ <br>Direccion : san nicolas 2540
+ <br>Ciudad : rosario
+ <br>Telefono : 3416271652
+ <br>Email : manuel2.sham@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : BUENOS DIAS DEJO MI CV. GRACIAS
+ <br>Security_code : s7z3q
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.11.199.14<br>
+ <br>REF : TEC. EL
+ <br>Nombre : Fabricio
+ <br>Apellido : López
+ <br>Cargo : TEC. EL
+ <br>Direccion : Sarmiento 931
+ <br>Ciudad : Justiniano Posse
+ <br>Telefono : 3537300429
+ <br>Email : fabri_lopez@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados Sres./as de Recursos Humanos
+
+Tengo el agrado de dirigirme a Ud./es con el objetivo de participar en búsquedas que se adecúen a mi perfil en su empresa. Adjunto mi Curriculum Vitae para ser incluido en sus bases de datos y ser tenido en cuenta al producirse una vacante. 
+Cuento con amplia experiencia en diferentes áreas relacionadas con la Automatizacion, técnicas de mantenimiento y tecnologías de la información que pueden ser muy útiles para sus necesidades. Me encuentro desarrollando la tesis de grado para la carrera de Ingeniería en Sistemas. Cuento además con un muy buen nivel de inglés habiendo tomado el examen internacional IELT como así también en francés además de un amplio conocimiento en todo tipo de herramientas informáticas. 
+Considero que mi proactividad y capacidad de trabajo en equipo me permitirá integrarme de forma adecuada a su organización. 
+Agradezco la gentileza en por su atención quedando a la espera de sus comentarios. Aprovecho esta oportunidad para saludarlo cordialmente. 
+
+Fabricio A. López. 
+
+ <br>Security_code : zn94w
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.31.74.190<br>
+ <br>REF : TEC. EL
+ <br>Nombre : Sergio Dario
+ <br>Apellido : Depetri
+ <br>Cargo : Tecnico electronico
+ <br>Direccion : San Luis 2055
+ <br>Ciudad : Quilmes
+ <br>Telefono : 1557678462
+ <br>Email : serd68@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados Sres.:
+	Tengo el agrado de dirigirme a Uds. Para  presentarle mis antecedentes  y experiencia laboral que estoy seguro se pueden adecuar a los requerimientos de su empresa.
+Estoy seguro de aplicar todos mis conocimientos, dedicación y entusiasmo en las tareas que me encomienden.
+Quedo a su entera disposición para cualquier entrevista a concretar.
+Adjunto con la presente carta  mi Curriculum Vitae.
+Desde ya muchas gracias por su atención, saludos a Uds. Muy atte.
+	
+Sergio Darío Depetri.
+
+ <br>Security_code : czyqb
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.124.222.13<br>
+ <br>Nombre : Feliz Alejandro
+ <br>Apellido : Navarro
+ <br>Cargo : Playero shell
+ <br>Direccion : Claudio arrechea 1135
+ <br>Ciudad : San javier misiones 
+ <br>Telefono : 3754416778
+ <br>Email : Navarroale52@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Busco trabajo de playero tuve experiencia en la ypf san javier misiones argentina
+ <br>Security_code : 2sy7n
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.192.142.159<br>
+ <br>REF : TEC. EL
+ <br>Nombre : William alexander
+ <br>Apellido : Ortiz Montilva
+ <br>Cargo : técnico electrónico especializado
+ <br>Direccion : la Pampa 5033 piso 2, dpto 2D, Villa Urquiza
+ <br>Ciudad : CABA
+ <br>Telefono : 91160564834
+ <br>Email : william21_01@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Ante todo reciba un cordial saludo, le escribe William Ortiz soy ingeniero electrónico Venezolano graduado en la universidad Nacional experimental politécnica Antonio Jose de Sucre (UNEXPO), Actualmente estoy residenciado en la ciudad de Buenos aires y me encuentro en la búsqueda de oportunidades laborales. Se que se encuentran en la búsqueda de personal por ello anexo mi curriculum, con la finalidad de que sea sometido a su evaluación, le informo ademas que poseo toda mi documentación en regla. agradezco su tiempo y de de antemano le doy las gracias.
+ <br>Security_code : kxh67
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.118.16.193<br>
+ <br>Nombre : Maribel Soledad
+ <br>Apellido : Varas
+ <br>Cargo : Atencion al cliente
+ <br>Direccion : Laques 9644 Villa Cornu
+ <br>Ciudad : Cordoba Capital
+ <br>Telefono : 351-5582493
+ <br>Email : Maribelvaras0810@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Cargo mi curriculum Vitae para puesto de trabajo.A la espera de si llamado..
+ <br>Security_code : Vzg6m
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.213.43.45<br>
+ <br>Nombre : Nicolás sebastian 
+ <br>Apellido : cattaneo
+ <br>Cargo : vendedor
+ <br>Direccion : Echeverría 930
+ <br>Ciudad : resistencia 
+ <br>Telefono : 3614290506
+ <br>Email : pelatub@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola buenas quisiera trabajar!!!!
+ <br>Security_code : 6xn7n
+ <br>Send : Enviar
+ <br>
+---------------
+

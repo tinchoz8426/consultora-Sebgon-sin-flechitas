@@ -1,0 +1,79 @@
+Address : 186.135.34.252<br>
+ <br>REF : tecm
+ <br>Nombre : Oscar Antonio
+ <br>Apellido : Bruzzese
+ <br>Cargo : mecánico mantenimiento
+ <br>Direccion : venezuela 5428
+ <br>Ciudad : Moreno Bs As
+ <br>Telefono : 0111560414886
+ <br>Email : oscar_bruzzese@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : me resulta de gran interés la oferta laboral por lO cual les mando mi CV
+ <br>Security_code : z9339
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.44.48.27<br>
+ <br>REF : JP
+ <br>Nombre : Angel
+ <br>Apellido : Graf
+ <br>Cargo : RH.
+ <br>Direccion : Trelles 1698
+ <br>Ciudad : Banfield
+ <br>Telefono : 1154547339
+ <br>Email : aegrrhh@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Remito datos personales.
+ <br>Security_code : t6n37
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 24.232.198.9<br>
+ <br>REF : JP
+ <br>Nombre : luciano arturo
+ <br>Apellido : LEIVA DAVALOS
+ <br>Cargo : JEFE DE RECURSOS HUMANOS
+ <br>Direccion : SAN LUIS 2532
+ <br>Ciudad : CORDOBA
+ <br>Telefono : 0351 155373130
+ <br>Email : lucianoarturo@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : TODA MI VIDA LABORAL LA REALICE EN RECURSOS HUMANOS. MOTIVO MAS QUE SUFICIENTE PARA PRETENDER SEGUIR DESARROLLANDOME EN ESTA DISCIPLINA
+ <br>Security_code : gyv9x
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 24.232.198.9<br>
+ <br>REF : JP
+ <br>Nombre : luciano arturo
+ <br>Apellido : LEIVA DAVALOS
+ <br>Cargo : JEFE DE RECURSOS HUMANOS
+ <br>Direccion : SAN LUIS 2532
+ <br>Ciudad : CORDOBA
+ <br>Telefono : O351 155373130
+ <br>Email : lucianoarturo@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : TODA MI VIDA LABORA LA REALICE EN RECURSOS HUMANOS. MOTIVO MAS QUE SUFICIENTE PARA SEGUIR DESARROLLANDOME EN ESTA DISCIPLINA
+ <br>Security_code : x6hrr
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.190.226.2<br>
+ <br>Nombre : Virginia Inés
+ <br>Apellido : Pardo Espinosa 
+ <br>Cargo : Recepcionista
+ <br>Direccion : joaquín v. gonzalez 1716
+ <br>Ciudad : Villa Adelina 
+ <br>Telefono : 1564717894
+ <br>Email : viir.pardo@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : -
+ <br>Security_code : nykj7
+ <br>Send : Enviar
+ <br>
+---------------
+

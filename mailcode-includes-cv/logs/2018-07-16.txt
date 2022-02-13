@@ -1,0 +1,118 @@
+Address : 201.254.167.173<br>
+ <br>REF : EP-1
+ <br>Nombre : Antonella
+ <br>Apellido : Fabiano
+ <br>Cargo : Encargado de producción
+ <br>Direccion : Pico 2329
+ <br>Ciudad : Capital Federal
+ <br>Telefono : 1167404224
+ <br>Email : antoofabianoo@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola, qué tal?
+Mi nombre es Antonella Fabiano, soy Licenciada en Nutrición y me interesa desempeñarme en el área de alimentos.
+Quedo a su disposición
+Muchas gracias!
+ <br>Security_code : d9mtw
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 170.51.96.46<br>
+ <br>REF : TEC. EL
+ <br>Nombre : Julian albanis
+ <br>Apellido : Martinez roman
+ <br>Cargo : Tec.El
+ <br>Direccion : Chacabuco 145,monserrat
+ <br>Ciudad : Buenos aires
+ <br>Telefono : 1154026661. +584244901665
+ <br>Email : mjulian19@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Tec.El
+ <br>Security_code : 869mh
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 170.51.96.46<br>
+ <br>REF : TEC. EL
+ <br>Nombre : Julian albanis
+ <br>Apellido : Martinez roman
+ <br>Cargo : Tec.El
+ <br>Direccion : Chacabuco 145,monserrat
+ <br>Ciudad : Buenos aires
+ <br>Telefono : 1154026661. +584244901665
+ <br>Email : mjulian19@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Tec.El
+ <br>Security_code : 3ws36
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.245.243.161<br>
+ <br>REF : JPER-1
+ <br>Nombre : Alejandro
+ <br>Apellido : Buhelr
+ <br>Cargo : JPER-1
+ <br>Direccion : R.Iribarren 2849
+ <br>Ciudad : Caseros
+ <br>Telefono : 54911 4420 7151
+ <br>Email : alebuhler@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Adjunto CV para la busqueda de ref JPER-1
+ <br>Security_code : 86hd9
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.231.61.82<br>
+ <br>Nombre : juan cruz
+ <br>Apellido : aguirre
+ <br>Cargo : ventas y comercial 
+ <br>Direccion : lima 392
+ <br>Ciudad : córdoba 
+ <br>Telefono : 3512402838
+ <br>Email : aguirrejuancruz22@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Responsable y trabajo bajo presión para lograr metas.
+ <br>Security_code : 3qw75
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.231.61.82<br>
+ <br>Nombre : juan cruz
+ <br>Apellido : aguirre
+ <br>Cargo : ventas y comercial 
+ <br>Direccion : lima 392
+ <br>Ciudad : córdoba 
+ <br>Telefono : 3512402838
+ <br>Email : aguirrejuancruz22@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Responsable y trabajo bajo presión para lograr metas.
+ <br>Security_code : 3qw75
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.220.163.231<br>
+ <br>Nombre : Samanta
+ <br>Apellido : Volgin
+ <br>Cargo : Arquitecto
+ <br>Direccion : santa rosa, 1108
+ <br>Ciudad : castelar
+ <br>Telefono : 1567605890
+ <br>Email : saaam_21@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados, he visto su oferta laboral publicada en internet y la misma me resultó de gran interés. Por este motivo, les hago llegar mi Currículum Vitae, a fin de ser tenido en cuenta.
+Soy arquitecta y estoy en busca de un nuevo empleo. Tengo experiencia con planos de instalaciones eléctricas; cómputo y presupuesto; confección, revisión y arreglo de planos de aire acondicionado y planos electromecánicos; medios de escape; revelamientos en obra; tramites municipales; seguimiento de avance de obra y ventas inmobiliarias. 
+Tengo disponibilidad horaria.
+Agradeceré que me permitan tener una entrevista laboral.
+Desde ya muchas gracias.
+
+Tel:1567605890
+ <br>Security_code : spbst
+ <br>Send : Enviar
+ <br>
+---------------
+

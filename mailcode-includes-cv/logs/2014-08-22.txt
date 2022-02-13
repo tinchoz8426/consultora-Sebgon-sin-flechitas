@@ -1,0 +1,238 @@
+Address : 190.55.67.41
+Nombre : Andrea
+Apellido : Souto
+Cargo : Junior
+Direccion : Nogoyá 1544
+Ciudad : Lomas de Zamora
+Telefono : 1530505146
+Email : andreasouto15@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Por medio de la presente, dejo a su consideración mi Currriculum Vitae. Me considero una persona capaz y de rápido aprendizaje. Desde ya, muchas gracias. Atte. Souto Andrea
+Security_code : 58j94
+Send : Enviar
+
+---------------
+
+Address : 190.188.42.17
+Nombre : Daniela
+Apellido : Palazzo
+Cargo : Redactora
+Direccion : Boedo 540
+Ciudad : Bernal
+Telefono : 1559702190
+Email : danpal85@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimado Dpto de RRHH,
+
+Me dirijo a usted a fin de hacerle llegar mi CV para que lo tengan en cuenta en próximas búsquedas laborales.  Tengo experiencia en ventas, tareas administrativas, legales y periodísticas. Manejo avanzado en  paquete office, sistema Tango y Lex Doctor, como también en internet y redes sociales. 
+Asimismo, soy Periodista egresada de ISEC, y actualmente ejerzo la profesión en un blog y en un portal de noticias de una radio digital (Radio Sentidos).
+
+Sin mas, saludos cordiales
+Security_code : h9qr4
+Send : Enviar
+
+---------------
+
+Address : 190.52.33.102
+Nombre : JULIAN
+Apellido : FAVA
+Cargo : INDISTINTO
+Direccion : CARLOS GARDEL 825
+Ciudad : SAN SALVADOR DE JUJUY
+Telefono : 0388154757131
+Email : favajulian@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : TENGO EXPERIENCIA EN ACTIVIDAD COMERCIAL-VENTAS MAYOR A 5 AÑOS. MI TRATO CON EL PUBLICO/CLIENTES ES MUY FLUIDO DEBIDO A MIS ESTUDIOS Y EXPERIENCIA PREVIA.
+MANEJO MUY BIEN EL PAQUETE OFFICE, EN ESPECIAL WORD Y EXCEL.
+MI DISPONIBILIDAD HORARIA SE PUEDE AJUSTAR A LOS REQUERIMIENTOS DEL EMPLEO.
+ESTOY HABITUADO A REALIZAR TAREAS EN EQUIPO Y/O INDIVIDUALES, SEGUN SE REQUIERA.
+ESPERANDO QUE LE RESULTE DE INTERES, SALUDO ATENTAMENTE.
+
+Security_code : 8Z8VD
+Send : Enviar
+
+---------------
+
+Address : 190.52.33.102
+Nombre : JULIAN
+Apellido : FAVA
+Cargo : INDISTINTO
+Direccion : CARLOS GARDEL 825
+Ciudad : SAN SALVADOR DE JUJUY
+Telefono : 0388154757131
+Email : favajulian@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : TENGO EXPERIENCIA EN ACTIVIDAD COMERCIAL-VENTAS MAYOR A 5 AÑOS. MI TRATO CON EL PUBLICO/CLIENTES ES MUY FLUIDO DEBIDO A MIS ESTUDIOS Y EXPERIENCIA PREVIA.
+MANEJO MUY BIEN EL PAQUETE OFFICE, EN ESPECIAL WORD Y EXCEL.
+MI DISPONIBILIDAD HORARIA SE PUEDE AJUSTAR A LOS REQUERIMIENTOS DEL EMPLEO.
+ESTOY HABITUADO A REALIZAR TAREAS EN EQUIPO Y/O INDIVIDUALES, SEGUN SE REQUIERA.
+ESPERANDO QUE LE RESULTE DE INTERES,  SALUDO ATENTAMENTE.
+
+Security_code : skpry
+Send : Enviar
+
+---------------
+
+Address : 190.104.198.62
+Nombre : silvina
+Apellido : paludi
+Cargo : administrativa  .maquilladora de tv
+Direccion : benavidez
+Ciudad : tigre
+Telefono : 1135436221
+Email : silvinapaludi@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : responsable y trabajadora.
+Security_code : sjyff
+Send : Enviar
+
+---------------
+
+Address : 200.114.158.139
+Nombre : Juan Pablo
+Apellido : Mórtola
+Cargo : Agente de Propaganda Médica
+Direccion : Paysandu 1174 1 A
+Ciudad : Ciudad Autónoma de Buenos Aires
+Telefono : 1164763084
+Email : jpmortola1705@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Atento a cualquier posibilidad que se presente
+Security_code : 26wp8
+Send : Enviar
+
+---------------
+
+Address : 200.114.158.139
+Nombre : Juan Pablo
+Apellido : Mórtola
+Cargo : Agente de Propaganda Médica
+Direccion : Paysandu 1174 1 A
+Ciudad : Ciudad Autónoma de Buenos Aires
+Telefono : 1164763084
+Email : jpmortola1705@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Atento a cualquier posibilidad que se presente
+Security_code : 26wp8
+Send : Enviar
+
+---------------
+
+Address : 200.114.158.139
+Nombre : Juan Pablo
+Apellido : Mórtola
+Cargo : Agente de Propaganda Médica
+Direccion : Paysandu 1174 1 A
+Ciudad : Ciudad Autónoma de Buenos Aires
+Telefono : 1164763084
+Email : jpmortola1705@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Atento a cualquier posibilidad que se presente
+Security_code : wvf68
+Send : Enviar
+
+---------------
+
+Address : 200.114.158.139
+Nombre : Juan Pablo
+Apellido : Mórtola
+Cargo : Agente de Propaganda Médica
+Direccion : Paysandu 1174 1 A
+Ciudad : Ciudad Autónoma de Buenos Aires
+Telefono : 1164763084
+Email : jpmortola1705@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Atento a cualquier posibilidad que se presente
+Security_code : pm7v2
+Send : Enviar
+
+---------------
+
+Address : 186.59.83.114
+Nombre : Daniel
+Apellido : Luna
+Cargo : empleado
+Direccion : barrio don bosco Mi C5
+Ciudad : maipu
+Telefono : 2616931672
+Email : afm_71@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : busco trabajo
+Security_code : bzsxx
+Send : Enviar
+
+---------------
+
+Address : 186.129.251.191
+Nombre : Matias
+Apellido : Ruiz Agüero
+Cargo : Empleado
+Direccion : 50 Nº 1094 depto. 2A
+Ciudad : La Plata
+Telefono : 2314618745
+Email : mato_r12@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Tengo el agrado de dirigirme a ustedes a fin de transmitir para su conocimiento, Currículum Vitae para su análisis y ofrecer mis servicios laborales. Sin otro particular y esperando se de curso favorable a la presente, aprovecho la oportunidad para saludarle de mi mayor consideración.
+
+Matías Ruiz Agüero.
+DNI 38.362.483
+Security_code : 4twwz
+Send : Enviar
+
+---------------
+
+Address : 186.13.6.189
+Nombre : Evelyn Daiana
+Apellido : Diaz
+Cargo : cualquier
+Direccion : peredo 1677
+Ciudad : gba oeste
+Telefono : 1562026740
+Email : evelyn.d.diaz@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Les dejo mi cv
+Security_code : qzj9q
+Send : Enviar
+
+---------------
+
+Address : 24.232.113.177
+Nombre : Jorge
+Apellido : Menendez
+Cargo : Gerente de Servicios
+Direccion : Perrone 31
+Ciudad : Campana
+Telefono : 03489 15 525676
+Email : jorgeosvaldomenendez@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estoy en búsqueda laboral.
+Security_code : 9m3x3
+Send : Enviar
+
+---------------
+
+Address : 190.17.138.89
+Nombre : Cecilia
+Apellido : Demadonna
+Cargo : Asistente de Selección/Selectora 
+Direccion : Sargento Cabral 207
+Ciudad : Ramos Mejía
+Telefono : 1567547982
+Email : ceciliademadonna@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : 
+Estimados,
+
+Mi nombre es Cecilia Demadonna y soy Lic. en Psicología (UBA).
+Me he desempeñado como Asistente de Reclutamiento en la consultora G&G Recursos Humanos. Mi zona de residencia es Ramos Mejía. Estoy en búsqueda laboral activa, preferentemente dentro del área de RRHH.
+Quedo al aguardo de sus comentarios y/o respuesta,
+
+Muchas gracias,
+Saludos,
+
+Cecilia Demadonna
+Security_code : 92hr2
+Send : Enviar
+
+---------------
+

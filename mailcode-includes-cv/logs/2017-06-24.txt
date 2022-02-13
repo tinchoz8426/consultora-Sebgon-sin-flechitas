@@ -1,0 +1,32 @@
+Address : 186.143.197.233<br>
+ <br>REF : chr
+ <br>Nombre : diego
+ <br>Apellido : rodriguez
+ <br>Cargo : chofer de reparto
+ <br>Direccion : gaona 1841
+ <br>Ciudad : banfield
+ <br>Telefono : 42860488/1131437031
+ <br>Email : diegodemariovi@hotmsil.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : desempeñarme en un ambiente laboral seguro para poder sustentar las necesisdades de mi familia.
+ <br>Security_code : 7gr79
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.47.138.3<br>
+ <br>REF : chr
+ <br>Nombre : Rodrigo
+ <br>Apellido : Alvarez
+ <br>Cargo : Chofer 
+ <br>Direccion : Godoy cruz 1889
+ <br>Ciudad : Los Polvorines
+ <br>Telefono : 1160179889
+ <br>Email : bellaybestia12@live.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Chofer de chasis y balancin, realizaba trabajo de logistica carga y descarga de mercaderia, 7 años de experiencia comprobable 
+ <br>Security_code : hp67k
+ <br>Send : Enviar
+ <br>
+---------------
+

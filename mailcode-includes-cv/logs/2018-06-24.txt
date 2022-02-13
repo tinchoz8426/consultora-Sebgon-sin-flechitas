@@ -1,0 +1,80 @@
+Address : 186.129.223.86<br>
+ <br>Nombre : Flavia Danisa
+ <br>Apellido : Gianuzzi
+ <br>Cargo : Vendedora, Administrativa, Secretaria entre otros
+ <br>Direccion : Avellaneda 4567
+ <br>Ciudad : Mar del Plata
+ <br>Telefono : 0223156229487
+ <br>Email : flau2via@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Les envío mi cv estoy en la búsqueda de un trabajo fijo. Muchas gracias
+
+ <br>Security_code : vqct5
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.20.166.34<br>
+ <br>REF : EM
+ <br>Nombre : Jorge
+ <br>Apellido : Rodrigo
+ <br>Cargo : Electromecánico 
+ <br>Direccion : Sarmiento 2901
+ <br>Ciudad : San Juan-castelar
+ <br>Telefono : 02645223751
+ <br>Email : jorgerodrigo_ska@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estoy dispuesto  a trasladarme, soy ingeniero electromecánico y tengo experiencia en puestos similares 
+ <br>Security_code : x4xkb
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.20.166.34<br>
+ <br>REF : EM
+ <br>Nombre : Jorge
+ <br>Apellido : Rodrigo
+ <br>Cargo : Electromecánico 
+ <br>Direccion : Sarmiento 2901
+ <br>Ciudad : San Juan-castelar
+ <br>Telefono : 02645223751
+ <br>Email : jorgerodrigo_ska@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estoy dispuesto  a trasladarme, soy ingeniero electromecánico y tengo experiencia en puestos similares 
+ <br>Security_code : x4xkb
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.20.166.34<br>
+ <br>REF : EM
+ <br>Nombre : Jorge
+ <br>Apellido : Rodrigo
+ <br>Cargo : Electromecánico 
+ <br>Direccion : Sarmiento 2901
+ <br>Ciudad : San Juan-castelar
+ <br>Telefono : 02645223751
+ <br>Email : jorgerodrigo_ska@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estoy dispuesto  a trasladarme, soy ingeniero electromecánico y tengo experiencia en puestos similares 
+ <br>Security_code : x4xkn
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.20.166.34<br>
+ <br>REF : EM
+ <br>Nombre : Jorge
+ <br>Apellido : Rodrigo
+ <br>Cargo : Electromecánico 
+ <br>Direccion : Sarmiento 2901
+ <br>Ciudad : San Juan-castelar
+ <br>Telefono : 02645223751
+ <br>Email : jorgerodrigo_ska@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estoy dispuesto  a trasladarme, soy ingeniero electromecánico y tengo experiencia en puestos similares 
+ <br>Security_code : 6trng
+ <br>Send : Enviar
+ <br>
+---------------
+

@@ -1,0 +1,92 @@
+Address : 188.143.232.11
+Nombre : Bradley
+Apellido : 48860
+Cargo : tZDDqpurzWYzid
+Direccion : HLRiZSRDSr
+Ciudad : NY
+Telefono : 12650806163
+Email : lucas2d44@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : viPRew http://www.FyLitCl7Pf7kjQdDUOLQOuaxTXbj5iNG.com
+Security_code : UDpON
+Send : Enviar
+
+---------------
+
+Address : 188.143.232.62
+REF : PLG
+Nombre : Bradley
+Apellido : 613496
+Cargo : eWwfLRAtTu
+Direccion : oBFZQNDZcTAjSCIX
+Ciudad : NY
+Telefono : 96429672651
+Email : lucas2d44@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : cBERha http://www.FyLitCl7Pf7kjQdDUOLQOuaxTXbj5iNG.com
+Security_code : uBFpZ
+Send : Enviar
+
+---------------
+
+Address : 201.250.104.138
+Nombre : Claudio
+Apellido : Pietrantuono
+Cargo : Supervisor de Produccion o calidad
+Direccion : Victor Martinez 1383
+Ciudad : CABA
+Telefono : 1564754467
+Email : claudio219@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Envió Mi CV a fin de ser tenido en cuenta en futuras búsquedas 
+Saludos Cordiales 
+Security_code : rq5jr
+Send : Enviar
+
+---------------
+
+Address : 186.19.140.202
+Nombre : Noelia
+Apellido : Van Schilt
+Cargo : Empleada
+Direccion : Paso 375
+Ciudad : Buenos Aires
+Telefono : 42458241
+Email : noeliavanschilt@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola que tal, soy Licenciada en Comunicación Social recientemente graduada.Tengo prácticas en voluntariados.Mi intención es poder crecer personalmente en mi área. 
+Security_code : bbwx8
+Send : Enviar
+
+---------------
+
+Address : 186.19.140.202
+Nombre : Noelia
+Apellido : Van Schilt
+Cargo : Empleada
+Direccion : Paso 375
+Ciudad : Buenos Aires
+Telefono : 42458241
+Email : noeliavanschilt@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola que tal, soy Licenciada en Comunicación Social recientemente graduada.Tengo prácticas en voluntariados.Mi intención es poder crecer personalmente en mi área. 
+Security_code : bbwx8
+Send : Enviar
+
+---------------
+
+Address : 181.26.203.110
+Nombre : Gustavo Jorge
+Apellido : Garcia Crespo
+Cargo : nn
+Direccion : E. Zeballos 3600
+Ciudad : Avellaneda
+Telefono : 4265 4507
+Email : garciagustavo76@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados, adjunto CV para se incorporado a vuestr base de datos. Saludos cordiales.
+Security_code : rzkrc
+Send : Enviar
+
+---------------
+

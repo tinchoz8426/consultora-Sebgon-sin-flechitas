@@ -1,0 +1,61 @@
+Address : 190.230.250.145
+Nombre : guillermo ignacio
+Apellido : pérez
+Cargo : ingeniero agrónomo
+Direccion : rodríguez peña 1071
+Ciudad : san miguel
+Telefono : 01146672616
+Email : gip@live.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Agradecería que puedan tener en cuenta mi CV para posibles búsquedas en el rubro de agronomía y en particular el de producción de frutas, hortalizas y flores.
+Security_code : rb5db
+Send : Enviar
+
+---------------
+
+Address : 190.230.250.145
+Nombre : guillermo ignacio
+Apellido : pérez
+Cargo : ingeniero agrónomo
+Direccion : rodríguez peña 1071
+Ciudad : san miguel
+Telefono : 01146672616
+Email : gip@live.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Agradecería sea tenido en cuenta mi CV en búsquedas en el área de agronomía y cultivos intensivos.
+Security_code : jzddg
+Send : Enviar
+
+---------------
+
+Address : 190.192.170.9
+REF : administrativo-logistica
+Nombre : Enrique Josè
+Apellido : Condoleo
+Cargo : Administrativo de Logìstica
+Direccion : Mariano Acha 3682
+Ciudad : Capital Federal
+Telefono : 45459202
+Email : gebajn@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Remuneraciòn pretendida 7.000 $
+Security_code : mnvxh
+Send : Enviar
+
+---------------
+
+Address : 190.183.4.172
+Nombre : guillermo ignacio
+Apellido : pérez
+Cargo : ingeniero agrónomo
+Direccion : rodríguez peña 1071
+Ciudad : san miguel
+Telefono : 03434596304
+Email : gip@live.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Agradecería tengan en cuenta mi CV en búsquedas del rubro agropecuario
+Security_code : c3j88
+Send : Enviar
+
+---------------
+

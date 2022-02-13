@@ -1,0 +1,15 @@
+Address : 186.123.8.58
+Nombre : mario
+Apellido : luna
+Cargo : operario
+Direccion : manzana 43 casa 20
+Ciudad : cordoba
+Telefono : 155939548
+Email : male_matu_02@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : busco trabajo como operario en empresas metalurgicas ya que poseo experiencia en las mismas e interes por aprender
+Security_code : f449d
+Send : Enviar
+
+---------------
+

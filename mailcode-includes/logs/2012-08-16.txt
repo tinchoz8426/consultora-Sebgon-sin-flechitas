@@ -1,0 +1,12 @@
+Address : 190.24.129.57
+Nombre : Tatiana
+Apellido : Serrato
+Empresa : Dicorp s.a.
+Telefono : 6231799 ext 179
+Email : tatianal90@hotmail,com
+Mensaje : requiero una cotizacion con el fin de adquirir el servicio de capacitacion de seleccion razon por la cual requiere el pensum y el valor de la misma. agradezco su atencion prestada
+Security_code : t497y
+Send : Enviar
+
+---------------
+

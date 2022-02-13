@@ -1,0 +1,145 @@
+Address : 181.47.164.103<br>
+ <br>Nombre : Sofia 
+ <br>Apellido : Federico
+ <br>Cargo : Publicidad
+ <br>Direccion : Av. Castañares 4847
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 1562361020
+ <br>Email : svfederico94@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estoy muy interesada en alguna propuesta relacionada con las agencias de publicidad y comunicaciones
+ <br>Security_code : 4z6sj
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.179.217.130<br>
+ <br>Nombre : Claudio
+ <br>Apellido : Piaggio
+ <br>Cargo : jefe - Gerente - Empleado
+ <br>Direccion : Curapaligue 183
+ <br>Ciudad : capital federal
+ <br>Telefono : 4632-5024
+ <br>Email : piaggioclaudio@speedy.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buen dia, envio mi CV.
+Muchas gracias
+ <br>Security_code : zfvs7
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.165.199.34<br>
+ <br>Nombre : JORGE
+ <br>Apellido : Sanchez
+ <br>Cargo : OPERARIO
+ <br>Direccion : rio gallegos 1578
+ <br>Ciudad : cordoba
+ <br>Telefono : 3513230438
+ <br>Email : ctverino@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola, mi nombre es Jorge Sanchez, estoy realizando una búsqueda laboral y me interesa formar parte de vuestra empresa. 
+Me considero una persona activa, emprendedora, con ganas de progresar y forjar los intereses de la compania.
+Me postulo en los rubros de operarios para fabricas, atencion al cliente, chofer, administrativo, entre otras.  Disponibilidad para una pronta entrevista  incorporación inmediata. 
+Atte...Jorge Sanchez-
+
+ <br>Security_code : x35p
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.190.187.40<br>
+ <br>Nombre : andrea
+ <br>Apellido : castro
+ <br>Cargo : secretaria/ recepcionista
+ <br>Direccion : av independencia 1890
+ <br>Ciudad : CAPITAL FEDERAL
+ <br>Telefono : 1561721301
+ <br>Email : yolideriver@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : estoy en busqueda de un puesto laboral me esty instruyendo en este momento para facturacion en obras sociales. pero estoy abierta a cualquier propuesta laboral y simpre abierta al aprenizaje.
+ <br>Security_code : 4vk5c
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 200.61.187.253<br>
+ <br>REF : JP
+ <br>Nombre : Pablo S
+ <br>Apellido : Ibañez
+ <br>Cargo : Jefe de Personal
+ <br>Direccion : Catamarca 529 piso 4 dpto C
+ <br>Ciudad : CABA
+ <br>Telefono : 15-5639-7009
+ <br>Email : pablosibanez@arnet.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Envio CV para la busqueda publicada de Jefe de Personal
+ <br>Security_code : r6x3c
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.57.130.202<br>
+ <br>REF : JP
+ <br>Nombre : JORGE DANIEL
+ <br>Apellido : GIMENEZ
+ <br>Cargo : Jefe de Personal
+ <br>Direccion : Rio Diamante 1690
+ <br>Ciudad : Bella Vista
+ <br>Telefono : 46680539
+ <br>Email : dgimenezar@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Envío mi CV esperando les sea de utilidad en su busqueda. Gracias.
+ <br>Security_code : cm8st
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.188.171.11<br>
+ <br>REF : TES
+ <br>Nombre : Oscar Nicolas
+ <br>Apellido : OLIVIERI
+ <br>Cargo : TESORERO
+ <br>Direccion : Dolores 685
+ <br>Ciudad : Haedo
+ <br>Telefono : 46566425
+ <br>Email : oscarnicolasolivieri@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Envìo mi postulación al puesto de refeerencia
+ <br>Security_code : dswwk
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.190.10.69<br>
+ <br>REF : JEOTEC
+ <br>Nombre : Ruben
+ <br>Apellido : Santoro
+ <br>Cargo : Jefe de Oficina Técnica
+ <br>Direccion : Av. San Martín 1314
+ <br>Ciudad : Lanús Oeste
+ <br>Telefono : 15-6372-9675
+ <br>Email : rsflia@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Muy amplia experiencia en diseño y desarrollo de producto.
+ <br>Security_code : v6szg
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.190.10.69<br>
+ <br>REF : JEOTEC
+ <br>Nombre : Ruben
+ <br>Apellido : Santoro
+ <br>Cargo : Jefe de Oficina Técnica
+ <br>Direccion : Av. San Martín 1314
+ <br>Ciudad : Lanús Oeste
+ <br>Telefono : 15-6372-9675
+ <br>Email : rsflia@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Muy amplia experiencia en diseño y desarrollo de producto.
+ <br>Security_code : kph6q
+ <br>Send : Enviar
+ <br>
+---------------
+

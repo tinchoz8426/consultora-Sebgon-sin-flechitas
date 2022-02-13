@@ -1,0 +1,30 @@
+Address : 190.50.202.196
+Nombre : Eliana Jorgelina
+Apellido : Porro
+Cargo : Administrativo
+Direccion : Bruno de Zabala  1319
+Ciudad : Castelar
+Telefono : 1540336723
+Email : elianaporro@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Universitaria Lic. en Administración de Empresas
+Security_code : djcb3
+Send : Enviar
+
+---------------
+
+Address : 190.138.152.79
+Nombre : angeles
+Apellido : riquelme
+Cargo : licenciado en criminalistica
+Direccion : lavalle 1563
+Ciudad : corrientes
+Telefono : 03783-15713135
+Email : angeles369_963@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : le comento ademas que soy perito mercantil, licenciada en criminalistica, profesora de ingles y estoy estudiando la carrera de tecnico en laboratorio de analisis quimicos
+Security_code : qwd8y
+Send : Enviar
+
+---------------
+

@@ -1,0 +1,85 @@
+Address : 181.93.153.173<br>
+ <br>Nombre : Marina Celeste
+ <br>Apellido : Sola
+ <br>Cargo : Contable/Bancario/Aministrativo
+ <br>Direccion : Salvador Caputto 3923 Interno 11
+ <br>Ciudad : Santa Fe
+ <br>Telefono : 342-155424503
+ <br>Email : solamarinaceleste@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Adjunto mi CV para posibles búsquedas laborales acordes a mi perfil. Soy una persona responsable y con mucha voluntad de perfeccionarse profesionalmente.
+ <br>Security_code : mbnvp
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 200.5.108.50<br>
+ <br>Nombre : Juan Francisco
+ <br>Apellido : Fernandez Blanco
+ <br>Cargo : Psicologo
+ <br>Direccion : 45 N° 572 Piso 15 Dpto B
+ <br>Ciudad : La Plata
+ <br>Telefono : 2215850477
+ <br>Email : jf.fernandezblanco@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Psicologia
+ <br>Security_code : qpdjh
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.230.74.87<br>
+ <br>REF : JPER-1
+ <br>Nombre : Roberto
+ <br>Apellido : Sanchez
+ <br>Cargo : Jefe de Personal
+ <br>Direccion : Bartolome Cruz 1150
+ <br>Ciudad : Vicente Lopez Bs.As.
+ <br>Telefono : 1556969740
+ <br>Email : robertosanchez_14@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Señor
+Gerente
+
+De mi consideración
+                                                              Tengo el agrado de dirigirme a Ud. con el objetivo de participar de vuestra búsqueda.
+                                                             Por la formación y experiencia, que desarrolle en el área de RRHH  he alcanzado una destacada especialización en el desarrollo de programas, mejoras de procesos y relaciones laborales.
+He logrado algunos objetivos destacados, como reducir en  un porcentaje significativo la rotación de turnos de los empleados,mediante la creación de programas de incentivos y bonus, la mejora en el tiempo necesario  en el sistema de Organización administrativo, reducción de personal  con costos significativamente menores, a los que una desvinculación sin causa pudiera ocasionar,significativos ahorros empresarios reorganizando  las estructuras para eliminar puestos innecesarios.
+                                                             Adjunto CV. Donde se podrá apreciar la trayectoria, creo que una entrevista seriá el marco adecuado donde pueda profundizar aspectos del perfil que resulten de interés. Tengo la convicción de poder desempeñarme en forma exitosa en la tarea encomendada.
+                                                            Sin otro particular, aprovecho la oportunidad, para saludarlo cordialmente.-
+
+ <br>Security_code : jyrpg
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 152.171.135.158<br>
+ <br>Nombre : Carolina
+ <br>Apellido : Vargas
+ <br>Cargo : Atención al público 
+ <br>Direccion : Rodríguez Peña  2047
+ <br>Ciudad : Mar del plata 
+ <br>Telefono : 2236928135
+ <br>Email : Caro10vargas@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : .
+ <br>Security_code : Tjps9
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 200.126.212.42<br>
+ <br>Nombre : Eduardo
+ <br>Apellido : Melchor
+ <br>Cargo : Tecnico electricista
+ <br>Direccion : Campichuelo 216
+ <br>Ciudad : CABA
+ <br>Telefono : +5491150125462
+ <br>Email : melchore1992@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Disponibilidad de radicacion en cualquier zona
+ <br>Security_code : bdthn
+ <br>Send : Enviar
+ <br>
+---------------
+

@@ -1,0 +1,61 @@
+Address : 181.104.40.66<br>
+ <br>Nombre : melisa andrea
+ <br>Apellido : duran
+ <br>Cargo : maestranza 
+ <br>Direccion : piran y robles 5700
+ <br>Ciudad : bs as 
+ <br>Telefono : 1162444700
+ <br>Email : melisaduran27@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola dejo mi curriculum y me encantaria trabajar a Su servicio 
+ <br>Security_code : c55s9
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.244.197.212<br>
+ <br>Nombre : Marcela Ximena
+ <br>Apellido : Cavaleri
+ <br>Cargo : Administrativa
+ <br>Direccion : Beruti 463
+ <br>Ciudad : Ramos Mejia
+ <br>Telefono : 1569689515
+ <br>Email : ximexii@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenos días envió CV estoy a la búsqueda de un puesto de administración.
+Muchas gracias
+ <br>Security_code : nx4tz
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.138.57.240<br>
+ <br>Nombre : monroy
+ <br>Apellido : andres
+ <br>Cargo : capacitador
+ <br>Direccion : av. de mayo 1316 20B CABA
+ <br>Ciudad : CABA
+ <br>Telefono : 23005574
+ <br>Email : andresm@synexus.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Ofrezco mis servicios como capacitador de forma inmediata
+ <br>Security_code : 6kzmh
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.50.112.10<br>
+ <br>Nombre : Paola Natalia
+ <br>Apellido : Mantek
+ <br>Cargo : Atencion al publico
+ <br>Direccion : cerrito 1757
+ <br>Ciudad : Mar del Plata
+ <br>Telefono : 4896821
+ <br>Email : paolamantek@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas tardes: me postulo para el cargo que crean mas conveniente de acuerdo a mi formacion y experiencia. Desde ya muchas gracias.
+ <br>Security_code : f6f35
+ <br>Send : Enviar
+ <br>
+---------------
+

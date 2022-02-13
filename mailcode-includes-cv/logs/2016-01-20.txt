@@ -1,0 +1,189 @@
+Address : 181.29.98.121
+REF : E.DIS
+Nombre : Juan Pablo
+Apellido : Campodónico
+Cargo : E.DIS
+Direccion : Av. del Libertador 4880
+Ciudad : Ciudad Autonoma de Buenos Aires
+Telefono : 1567023097
+Email : jpcampodonico@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buen día, quisiera saber un poco más acerca de la búsqueda laboral. Estoy cursando últimas materias de Diseño Industrial. 
+Desde ya muchas gracias.
+Security_code : djghv
+Send : Enviar
+
+---------------
+
+Address : 201.250.188.62
+Nombre : Tamara
+Apellido : Mazza
+Cargo : Indistinto
+Direccion : Bolivia
+Ciudad : Moreno
+Telefono : 011-62752383
+Email : tamy_bmm@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola buenas tardes mi nombre es Tamara Mazza,tengo 20 años y soy Técnica Química, egresada de la E.E.T N°2 "República de venezuela" (Merlo), también tengo una capacitación en Auxiliar de Farmacia del instituo IDECES (Moron).
+Le envío mi Curriculum Vitae para postularme a un puesto de trabajo. 
+Security_code : jgzvg
+Send : Enviar
+
+---------------
+
+Address : 201.250.188.62
+Nombre : Tamara
+Apellido : Mazza
+Cargo : Indistinto
+Direccion : Bolivia
+Ciudad : Moreno
+Telefono : 011-62752383
+Email : tamy_bmm@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola buenas tardes mi nombre es Tamara Mazza,tengo 20 años y soy Técnica Química, egresada de la E.E.T N°2 "República de venezuela" (Merlo), también tengo una capacitación en Auxiliar de Farmacia del instituo IDECES (Moron).
+Le envío mi Curriculum Vitae para postularme a un puesto de trabajo. 
+Security_code : jgzvg
+Send : Enviar
+
+---------------
+
+Address : 201.250.188.62
+Nombre : Tamara
+Apellido : Mazza
+Cargo : Indistinto
+Direccion : Bolivia
+Ciudad : Moreno
+Telefono : 011-62752383
+Email : tamy_bmm@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola buenas tardes mi nombre es Tamara Mazza,tengo 20 años y soy Técnica Química, egresada de la E.E.T N°2 "República de venezuela" (Merlo), también tengo una capacitación en Auxiliar de Farmacia del instituo IDECES (Moron).
+Le envío mi Curriculum Vitae para postularme a un puesto de trabajo. 
+Security_code : jgzvg
+Send : Enviar
+
+---------------
+
+Address : 201.250.188.62
+Nombre : Tamara
+Apellido : Mazza
+Cargo : Indistinto
+Direccion : Bolivia
+Ciudad : Moreno
+Telefono : 011-62752383
+Email : tamy_bmm@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola buenas tardes mi nombre es Tamara Mazza,tengo 20 años y soy Técnica Química, egresada de la E.E.T N°2 "República de venezuela" (Merlo), también tengo una capacitación en Auxiliar de Farmacia del instituo IDECES (Moron).
+Le envío mi Curriculum Vitae para postularme a un puesto de trabajo. 
+Security_code : b2dyv
+Send : Enviar
+
+---------------
+
+Address : 201.250.188.62
+Nombre : Tamara
+Apellido : Mazza
+Cargo : Indistinto
+Direccion : Bolivia
+Ciudad : Moreno
+Telefono : 011-62752383
+Email : tamy_bmm@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola buenas tardes mi nombre es Tamara Mazza,tengo 20 años y soy Técnica Química, egresada de la E.E.T N°2 "República de venezuela" (Merlo), también tengo una capacitación en Auxiliar de Farmacia del instituo IDECES (Moron).
+Le envío mi Curriculum Vitae para postularme a un puesto de trabajo. 
+Security_code : b2dyv
+Send : Enviar
+
+---------------
+
+Address : 201.250.188.62
+Nombre : Tamara
+Apellido : Mazza
+Cargo : Indistinto
+Direccion : Bolivia
+Ciudad : Moreno
+Telefono : 011-62752383
+Email : tamy_bmm@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola buenas tardes mi nombre es Tamara Mazza,tengo 20 años y soy Técnica Química, egresada de la E.E.T N°2 "República de venezuela" (Merlo), también tengo una capacitación en Auxiliar de Farmacia del instituo IDECES (Moron).
+Le envío mi Curriculum Vitae para postularme a un puesto de trabajo. 
+Security_code : jgzvg
+Send : Enviar
+
+---------------
+
+Address : 201.250.188.62
+Nombre : Tamara
+Apellido : Mazza
+Cargo : Indistinto
+Direccion : Bolivia
+Ciudad : Moreno
+Telefono : 011-62752383
+Email : tamy_bmm@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola buenas tardes mi nombre es Tamara Mazza,tengo 20 años y soy Técnica Química, egresada de la E.E.T N°2 "República de venezuela" (Merlo), también tengo una capacitación en Auxiliar de Farmacia del instituo IDECES (Moron).
+Le envío mi Curriculum Vitae para postularme a un puesto de trabajo. 
+Security_code : mj8cc
+Send : Enviar
+
+---------------
+
+Address : 190.48.0.60
+REF : GTEP
+Nombre : ALVARO
+Apellido : DOMINGUEZ
+Cargo : GERENTE DE PLANTA
+Direccion : ALVEAR 1259
+Ciudad : LUJAN
+Telefono : 111566467144
+Email : AEDOMIN@YAHOO.COM.AR
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados
+Me encuentro interesado  en la búsqueda de Gerente de Planta. 
+Adjunto mi CV, quedando a su disposición para ampliar mis antecedentes cuando considere necesario.
+Atte.
+Alvaro Dominguez
+Security_code : zxtr3
+Send : Enviar
+
+---------------
+
+Address : 186.136.119.234
+Nombre : Miguel
+Apellido :  Fermin
+Cargo : Ingeniero o técnico químico junior
+Direccion : Av. Cabildo 492
+Ciudad : Buenos Aires, Capital Federal
+Telefono : 15 34774052
+Email : ferminmu26@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenas noches,
+
+Me dirijo a Ud para adjuntar copia actualizada de mi curriculum vitae y solicito la oportunidad de que evalúe mi cv para ser considerado ante una vacante Junior de ingenieria. Soy una persona motivada con capacidad para adquirir nuevos conocimientos.
+
+ 
+Saludo  atentamente.
+
+
+Miguel Fermin
+
+Security_code : 73sf3
+Send : Enviar
+
+---------------
+
+Address : 190.244.208.125
+Nombre : Vanesa Gisele
+Apellido : Cascallana
+Cargo : Administrativo/Comercio
+Direccion : moreno 2708
+Ciudad : mar del plata
+Telefono : 2266536960
+Email : vanesacascallana@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenos días! estoy en la búsqueda de trabajo, dejo mis datos y CV adjunto para quedar a disposición de alguna oferta acorde. 
+Muchas gracias!
+Security_code : 94r5h
+Send : Enviar
+
+---------------
+

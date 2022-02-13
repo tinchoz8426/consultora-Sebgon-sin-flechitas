@@ -1,0 +1,123 @@
+Address : 190.173.82.248
+Nombre : Alfredo
+Apellido : Moreno
+Cargo : Jefe de Recursos Humanos
+Direccion : Bogotá 3755 4to. Piso Dpto.14
+Ciudad : CABA
+Telefono : 4674-1087
+Email : alfredo.moreno@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados/as:
+ 
+Por la presente, solicito a Uds. tener a bien considerar mi trayectoria en el área de recursos humanos, conformada por 15 años en la Cía. Unilever de Argentina. Como podrán comprobar en mi CV poseo un gran conocimiento del área, consolidando además un manejo muy avanzado en herramientas informáticas debido a mi formación y desarrollo.
+Quedo pues a vuestra disposición para concertar una entrevista y en ella ampliar los detalles del puesto buscado, como así también todas las evaluaciones que consideren necesarias.
+ 
+Adjunto mi curriculum a esta nota.
+
+Sin otro particular, saluda atte.
+ 
+Alfredo Moreno.
+
+Security_code : m9r58
+Send : Enviar
+
+---------------
+
+Address : 190.244.215.154
+Nombre : Nicolás
+Apellido : Moncaut
+Cargo : Finanzas
+Direccion : Paternal
+Ciudad : CABA
+Telefono : 1554921460
+Email : nmoncaut@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Mi nombre es Nicolás Moncaut, tengo 21 años y soy estudiante de la Lic. en Economía en la Universidad de Buenos Aires, con un muy buen desempeño academico
+Security_code : wgbks
+Send : Enviar
+
+---------------
+
+Address : 186.18.200.210
+Nombre : Leticia Laura
+Apellido : Galeano
+Cargo : Recepcionista
+Direccion : Jose M. Moreno 30
+Ciudad : buenos Aires
+Telefono : 39694191
+Email : leticiagaleano10@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : A quien corresponda hago llegar  mi Curriculum Vitae en respuesta al aviso publicado en Bumeran para recepcionista, encontrándome a su entera disposición para ampliar mis conocimientos mediante una entrevista personal.
+
+Saluda atte, Galeano Leticia 
+Security_code : 963x8
+Send : Enviar
+
+---------------
+
+Address : 186.18.200.210
+Nombre : Leticia Laura
+Apellido : Galeano
+Cargo : recepcionista
+Direccion : jose m. moreno 30
+Ciudad : buenos Aires
+Telefono : 39694191
+Email : leticiagaleano10@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : A quien corresponda hago llegar  mi Curriculum Vitae en respuesta al aviso publicado en Bumeran para recepcionista, encontrándome a su entera disposición para ampliar mis conocimientos mediante una entrevista personal.
+
+Saluda atte, Galeano Leticia 
+Security_code : 963x8
+Send : Enviar
+
+---------------
+
+Address : 204.62.206.252
+Nombre : Eleonora
+Apellido : Piperno
+Cargo : Administrativa
+Direccion : Crescencio Acosta 729
+Ciudad : Buenos Aires
+Telefono : 4650-6089
+Email : eleonorapiperno@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Solicito que por favor tengan en cuenta mi curriculum para un puesto administrativos, de lunes a viernes part time. 
+Muchas gracias
+Security_code : txv6k
+Send : Enviar
+
+---------------
+
+Address : 190.188.177.44
+Nombre : Claudia Mariel 
+Apellido : Giardullo
+Cargo : Analista
+Direccion : Av. Alte Brown 2685
+Ciudad : Temperley
+Telefono : 011-31607528
+Email : marielgiardullo@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Estoy iniciando una búesqueda afín con mi carrera, aguardo con gran expectativa.
+Muchas Gracias.
+Security_code : 3fqf6
+Send : Enviar
+
+---------------
+
+Address : 190.51.255.243
+Nombre : Maria Eugenia
+Apellido : Wilde
+Cargo : empleado
+Direccion : Av. Alsina 1874
+Ciudad : Lomas de Zamora
+Telefono : 11-41604461
+Email : mariaeugeniawilde@live.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : A las autoridades competentes: Me gustaría onciliar una entrevista de trabajo a los efectos de que verifiquen mi capacidad para trabajar en la consultora en el caso de que necesiten de personal. Soy estudiante avanzada de Sociología en la Universidad de Buenos Aires y cuento con manejo de pc e idioma (inglés).
+
+Muchas gracias
+Security_code : kykr5
+Send : Enviar
+
+---------------
+

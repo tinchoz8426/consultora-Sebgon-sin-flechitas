@@ -1,0 +1,101 @@
+Address : 186.182.58.61<br>
+ <br>Nombre : Carlos Alejandro 
+ <br>Apellido : Cordoba 
+ <br>Cargo : Operario,encargado,supervisor
+ <br>Direccion : Oyuela y casacuberta 
+ <br>Ciudad : Avellaneda
+ <br>Telefono : 54303397
+ <br>Email : Aletatocordoba@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola me gustaría poder trabajar con ustedes ya que tengo el agrado de poder dirigirme a usteded ya que tengo la experiencia y la capacidad en este momento estoy desempleado y necesito trabajar para satisfacer ami familia desde ya muchas gracias.
+ <br>Security_code : Z6bym
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.182.58.61<br>
+ <br>Nombre : Carlos Alejandro 
+ <br>Apellido : Cordoba 
+ <br>Cargo : Operario,encargado,supervisor
+ <br>Direccion : Oyuela y casacuberta 
+ <br>Ciudad : Avellaneda
+ <br>Telefono : 54303397
+ <br>Email : Aletatocordoba@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola me gustaría poder trabajar con ustedes ya que tengo el agrado de poder dirigirme a usteded ya que tengo la experiencia y la capacidad en este momento estoy desempleado y necesito trabajar para satisfacer ami familia desde ya muchas gracias.
+ <br>Security_code : Z6bYm
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.139.16.61<br>
+ <br>Nombre : jose luis
+ <br>Apellido : Dell uomo
+ <br>Cargo : compras
+ <br>Direccion : illanes 1028
+ <br>Ciudad : Quilmes
+ <br>Telefono : 40411179
+ <br>Email : joseluisdell@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : CV
+ <br>Security_code : wxh6x
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.182.58.61<br>
+ <br>Nombre : Carlos Alejandro 
+ <br>Apellido : Cordoba 
+ <br>Cargo : Operario,encargado,supervisor
+ <br>Direccion : Oyuela y casacuberta 
+ <br>Ciudad : Avellaneda
+ <br>Telefono : 54303397
+ <br>Email : Aletatocordoba@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola me gustaría poder trabajar con ustedes ya que tengo la experiencia y capacidad. En este momento estoy desempleado y necesito trabajar para poder  satisfacer las necesidades de mi familia y así brindarles una mejor calidad de vida, desde ya muchas gracias.
+Los saludo atte. Cordoba Carlos
+ <br>Security_code : xh3fq
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.176.136.69<br>
+ <br>Nombre : Ignacio Adrian
+ <br>Apellido : González
+ <br>Cargo : Supervisor
+ <br>Direccion : Coronel Cordova 1329
+ <br>Ciudad : VILLA SARMIENTO, Buenos aires.
+ <br>Telefono : 15-4188-5028
+ <br>Email : nacho_overhead@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados,
+Me encuentro en la busqueda laboral. Por este motivo, les hago llegar mi Currículum Vitae, a fin de ser tenido en cuenta como candidato.
+Quedo a su disposición para ampliar cualquier información necesaria.
+Cordialmente,
+Ignacio Adrián González
+
+ <br>Security_code : cffbw
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.176.136.69<br>
+ <br>Nombre : Ignacio Adrian
+ <br>Apellido : González
+ <br>Cargo : Supervisor
+ <br>Direccion : Coronel Cordova 1329
+ <br>Ciudad : VILLA SARMIENTO  Buenos aire
+ <br>Telefono : 1541885028
+ <br>Email : nacho_overhead@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados,
+Me encuentro en la busqueda laboral. Por este motivo, les hago llegar mi Currículum Vitae, a fin de ser tenido en cuenta como candidato.
+Quedo a su disposición para ampliar cualquier información necesaria.
+Cordialmente,
+Ignacio Adrián González
+
+ <br>Security_code : 75nbb
+ <br>Send : Enviar
+ <br>
+---------------
+

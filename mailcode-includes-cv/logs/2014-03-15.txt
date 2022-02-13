@@ -1,0 +1,60 @@
+Address : 181.25.197.183
+Nombre : Candela
+Apellido : D'Adamo
+Cargo : Cualquiera de acuerdo a mi perfil
+Direccion : Bombero Ariño 426
+Ciudad : Temperley
+Telefono : 1530674264
+Email : candeladadamo@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me puedo adaptar a cualquier tipo de trabajo, (excepto el de limpieza), tanto sola como en grupo, soy bastante sociable e inteligente.
+Security_code : fpvvn
+Send : Enviar
+
+---------------
+
+Address : 186.61.83.172
+Nombre : Carlo Martin
+Apellido : Flores
+Cargo : Expedicion/abastecimiento
+Direccion : Mendelevich 2256
+Ciudad : Quilmes
+Telefono : 1165448442
+Email : carlomartinf@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Buen dia, estimados quisiera dejarles mi cv para las distintas vacantes que ofertan que esten acorde a mi perfil. Saludos Cordiales. Atte. Carlo Flores.
+Security_code : 4mqhd
+Send : Enviar
+
+---------------
+
+Address : 190.179.202.188
+Nombre : veronica alejandra
+Apellido : morales
+Cargo : administrativo
+Direccion : bruno moron 451
+Ciudad : maipu
+Telefono : 2614930761
+Email : vero-_22@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : necesito conseguir un trabajo en el area de estudio estoy recin recibida pero no tengo experiencia
+Security_code : z6sxg
+Send : Enviar
+
+---------------
+
+Address : 201.253.69.59
+Nombre : Daniela Romina
+Apellido : Martinez
+Cargo : secretaria-atencio al cliente-aministrativo
+Direccion : 3 de febrero 2067
+Ciudad : rosario
+Telefono : 03329-15642872
+Email : nony518@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : espero su respuesta a la brevedad.muchas gracias
+Security_code : 93xsv
+Send : Enviar
+
+---------------
+

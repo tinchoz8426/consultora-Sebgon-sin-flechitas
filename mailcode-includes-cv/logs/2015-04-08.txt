@@ -1,0 +1,30 @@
+Address : 201.213.123.42
+Nombre : ADRIAN
+Apellido : Fernandez
+Cargo : Manejo de Caja y atencion al cliente
+Direccion : Av. San Juan 2045
+Ciudad : buenos aires
+Telefono : 1567391317
+Email : adrian-fernandez0509@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Deceo encontrar un puesto de trabajo donde pueda desempeñar mis conocimientos y asi lograr altos rendimientos en el sector donde me encuentre para favorecer completamente a la empresa
+Security_code : 2728k
+Send : Enviar
+
+---------------
+
+Address : 186.23.86.70
+Nombre : Santiago Alejandro
+Apellido : Gonzalez
+Cargo : Empleos part-time
+Direccion : alberti 260
+Ciudad : lomas de zamora
+Telefono : 1526523760
+Email : santiagoagonzalez1986@outlook.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Espero que mi perfil se adecue a las preferencias de la consultora. Saludos.
+Security_code : x69jf
+Send : Enviar
+
+---------------
+

@@ -1,0 +1,34 @@
+Address : 190.179.236.96
+Nombre : DIEGO
+Apellido : RODRIGUEZ
+Cargo : GERENTE, VENDEDOR, AUDITOR
+Direccion : CHUQUISACA 846
+Ciudad : MENDOZA
+Telefono : 261 156579811
+Email : extremo.diegorodriguez@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : responsable, buena presenci, disponibilidad horaria
+Security_code : s5dfy
+Send : Enviar
+
+---------------
+
+Address : 190.189.101.203
+Nombre : Esteban Hernan
+Apellido : Angelini
+Cargo : Administrativo
+Direccion : Timoteo Gordillo 652
+Ciudad : Caba
+Telefono : 46420137
+Email : estebange2002@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Por medio del presente envio mis antecedentes laborales.
+
+Atte.
+
+Esteban.H.Angelini
+Security_code : zgyzw
+Send : Enviar
+
+---------------
+

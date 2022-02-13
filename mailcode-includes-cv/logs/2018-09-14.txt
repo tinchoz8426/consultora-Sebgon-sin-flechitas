@@ -1,0 +1,96 @@
+Address : 201.252.116.10<br>
+ <br>REF : EM
+ <br>Nombre : José Luis
+ <br>Apellido : Guidi 
+ <br>Cargo : Electromecánico
+ <br>Direccion : Neuquén 3165
+ <br>Ciudad : Sáenz Peña
+ <br>Telefono : 154 557 5438
+ <br>Email : jlguidi1@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Elevo mi Cv para su evaluación.
+ <br>Security_code : jfdzr
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.189.97.222<br>
+ <br>REF : TEC. EL
+ <br>Nombre : Alberto
+ <br>Apellido : Hurtado
+ <br>Cargo : Tecnico Electronico Especializado
+ <br>Direccion : Mariano Acosta 1340
+ <br>Ciudad : CABA
+ <br>Telefono : +5491158560686
+ <br>Email : huralberto@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Disponible inmediatamente
+ <br>Security_code : tv4cx
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.18.38.181<br>
+ <br>REF : ROT-1
+ <br>Nombre : Ignacio
+ <br>Apellido : Argamasilla Goñi
+ <br>Cargo : Responsable Oficina Técnica
+ <br>Direccion : Alberdi 2128
+ <br>Ciudad : Ciudad de Buenos Aires
+ <br>Telefono : 1155785304
+ <br>Email : argamasilla.goni.ignacio@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Soy Ignacio Argamasilla Goñi, soy Arquitecto egresado de la UBA y actualmente me encuentro desocupado. Creo podes desempeñarme correctamente en el cargo que solicitan.
+ <br>Security_code : ypc64
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.183.202.24<br>
+ <br>REF : EP-1
+ <br>Nombre : Ariel
+ <br>Apellido : Bracamonte
+ <br>Cargo : Supervisor
+ <br>Direccion : San Lorenzo 1023
+ <br>Ciudad : SANTA FE (CP=3000)
+ <br>Telefono : +5493424780527
+ <br>Email : bracamonteariel@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Profesional serio, responsable, proactivo con 20 años de experiencia en procesos de producción industrial. Habiendo participado en el arranque y puesta en marcha de las 4 líneas existentes en Nestlé Argentina no temo a los desafíos para superar objetivos de injerencia directa.
+ <br>Security_code : x3zw3
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.183.202.24<br>
+ <br>REF : EP-1
+ <br>Nombre : Ariel
+ <br>Apellido : Bracamonte
+ <br>Cargo : Supervisor
+ <br>Direccion : San Lorenzo 1023
+ <br>Ciudad : SANTA FE (CP=3000)
+ <br>Telefono : +5493424780527
+ <br>Email : bracamonteariel@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Profesional serio, responsable, proactivo con 20 años de experiencia en procesos de producción industrial. Habiendo participado en el arranque y puesta en marcha de las 4 líneas existentes en Nestlé Argentina no temo a los desafíos para superar objetivos de injerencia directa.
+ <br>Security_code : x3zw3
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.183.202.24<br>
+ <br>REF : EP-1
+ <br>Nombre : Ariel
+ <br>Apellido : Bracamonte
+ <br>Cargo : Supervisor
+ <br>Direccion : San Lorenzo 1023
+ <br>Ciudad : SANTA FE (CP=3000)
+ <br>Telefono : +5493424780527
+ <br>Email : bracamonteariel@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Profesional serio, responsable, proactivo con 20 años de experiencia en procesos de producción industrial. Habiendo participado en el arranque y puesta en marcha de las 4 líneas existentes en Nestlé Argentina no temo a los desafíos para superar objetivos de injerencia directa.
+ <br>Security_code : rzxr5
+ <br>Send : Enviar
+ <br>
+---------------
+

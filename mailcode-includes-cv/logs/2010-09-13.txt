@@ -1,0 +1,87 @@
+Address : 201.235.111.121
+Nombre : nancy lorena 
+Apellido : rojas
+Cargo : operaria
+Direccion : general guido 2775
+Ciudad : BS.AS 
+Telefono : 48920796
+Email : NANCYLORENAROJAS41@HOTMAIL.COM
+MAX_FILE_SIZE : 2097152
+Mensaje : HOLA ME POSTULO A SUS OFERTAS LABORALES, ESPERO PODER LLEGAR A SER PARTE DE SU EQUIPO Y QUE ME PUEDAN BRINDAR UNA OPRTUNIDAD.DESDE YA MUCHAS GRACIAS.
+Security_code : FH4MS
+Send : Enviar
+
+---------------
+
+Address : 190.230.159.119
+Nombre : mario
+Apellido : miguez
+Cargo : puesto vacante
+Direccion : navarro 66055
+Ciudad : rosario
+Telefono : 3415726002
+Email : migue_z_mario@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : para el puesto
+Security_code : b9q5q
+Send : Enviar
+
+---------------
+
+Address : 186.58.20.185
+Nombre : Patricia Eliana
+Apellido : Gomez
+Cargo : Asistente Administrativo
+Direccion : Avelino Palacios 3321
+Ciudad : Morón
+Telefono : 46979910
+Email : patriciagomeze@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Les mando mi CV para que lo tengan e su base de datos para ofertas de empleos. Espero les sea util. Gracias
+Security_code : yrt7h
+Send : Enviar
+
+---------------
+
+Address : 190.48.158.46
+Nombre : Luis Emmanuel
+Apellido : Pereyra
+Cargo : Electricista
+Direccion : Lautaro 805
+Ciudad : merlo
+Telefono : 011 15 34800527 / 0220 4871447
+Email : Luisemmanuelpereyra@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Sr. Gerente de Recursos Humanos
+
+Consultora SEBGON
+
+
+De mi consideración:
+
+
+Tengo el agrado de dirigirme a Uds. Con el fin de ser parte de su base de datos. A tal efecto adjunto, junto a la presente, mi Curriculum Vitae.
+
+
+Me presento como una persona activa, responsable, creativa, flexible, orientada al logro de resultados y a la resolución y evolución constante en las tareas asignadas.
+
+
+El objetivo que me he impuesto, es el de formar parte del personal de una empresa prestigiosa, confiable y con proyectos ambiciosos.
+
+
+Si fuera necesario podría acercarme personalmente para cualquier consulta adicional o entrevista personal. Solo tiene que comunicarse al teléfono: (0220) 4871447 / 1534800527 o por mail:LuisEmmanuelPereyra@gmail.com
+
+
+Pongo, además, en su conocimiento que estoy en condiciones de asumir la responsabilidad de un empleo en forma inmediata, y con amplia disponibilidad de horarios.
+
+
+Quedando a la espera de su respuesta.
+
+
+Me despido atte.
+
+Security_code : t2ks9
+Send : Enviar
+
+---------------
+

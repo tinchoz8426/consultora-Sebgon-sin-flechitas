@@ -1,0 +1,123 @@
+Address : 186.143.219.166
+REF : gerente-financiero
+Nombre : Noelia Ayelen
+Apellido : Lopez
+Cargo : Administrativo
+Direccion : Nahuel Huapi 4566
+Ciudad : Rosario
+Telefono : 0341-4667861
+Email : noelia_burbuja007@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : mensaje para ocupar un puesto en alguna empresa.
+Security_code : bnfyc
+Send : Enviar
+
+---------------
+
+Address : 200.115.216.33
+Nombre : Romero
+Apellido : Mónica Patricia
+Cargo : trabajadora social (sur)
+Direccion : Palestina 554
+Ciudad : Ciudad de Bs. As.
+Telefono : 48636393
+Email : patriciaromero.ar@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Cuento con 15 años de experiencia en evaluaciones para empresas. 
+No poseo móvil, me manejo en taxi y remises.
+Adjunto cv. Atte.
+Security_code : 3f92x
+Send : Enviar
+
+---------------
+
+Address : 190.224.87.71
+Nombre : Karina Nioemí 
+Apellido : Ozuna de Mangano
+Cargo : Administrativa o Periodista
+Direccion : Ruta 202 nº1088
+Ciudad : Don Torcuato
+Telefono : 1558324457
+Email : karina.ozuna@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Envio el CV para que lo tengan en cuenta.
+Security_code : vj69j
+Send : Enviar
+
+---------------
+
+Address : 190.139.20.74
+Nombre : Cecilia 
+Apellido : González
+Cargo : Analista de Finanzas/Research/Trader
+Direccion : Guemes 3311 
+Ciudad : Capital Federal
+Telefono : 011 15 69768590
+Email : cg08@cema.edu.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Luego de haber logrado enfocar mi cv hacia el Mercado de Capitales, actualmente me encuentro buscando una posición vacante acorde a mi perfil. Y realmente les estaría agradecida si me ayudan a encontrarla.
+Atentamente,
+Cecilia.
+ 
+Security_code : gbt4t
+Send : Enviar
+
+---------------
+
+Address : 190.229.149.30
+REF : adper
+Nombre : Veronica
+Apellido : Agrazo
+Cargo : administrativo de personal
+Direccion : Maipu 3231
+Ciudad : Ballester
+Telefono : 1565549849
+Email : vagrazo@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Actualmente me encuentro en la busqueda laboral. Espero mi perfil sea acorde a sus necesidades.
+Security_code : q2b25
+Send : Enviar
+
+---------------
+
+Address : 190.51.123.199
+Nombre : SANDRA
+Apellido : VEGA
+Cargo : ADMINISTRATIVA
+Direccion : FLORENCIO SANCHEZ 1446 FDO. 
+Ciudad : CASTELAR
+Telefono : 4627-3358
+Email : vsandric@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : De mi consideración: 
+
+Tengo el agrado de dirigirme a Ud. a fin de enviar mi CV para la búsqueda que esta realizando acordes a mi perfil con motivo de poder formar parte de una empresa de primera línea, y brindarles mis servicios en el área Administrativa. 
+
+Quiero destacar mi versatilidad para adaptarme a distintas posiciones, focalizándome en una capacidad analítica para interactuar en entornos complejos y también mis habilidades sociales para relacionarme con distintas personas dentro de un equipo de trabajo altamente capacitado y entrenado, logrando de este modo crecer y desarrollarme profesional y personalmente dentro de la empresa, cumpliendo así con el objetivo de la misma.
+
+Seria de mi especial agrado obtener una entrevista laboral con ustedes y así 
+poder ampliarles mas datos sobre mi perfil.
+
+Sin mas lo saluda muy Atte. 
+
+Security_code : CMQ4Z
+Send : Enviar
+
+---------------
+
+Address : 190.183.105.125
+REF : exp
+Nombre : Maria 
+Apellido : Leguiza
+Cargo : tecnico en higiene y seguridad
+Direccion : salta 885
+Ciudad : corrientes
+Telefono : 03783-15594504
+Email : angeles_mal2007@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : enivio adjunto mi cv, espero una respuesta favorable para ser parte de su grupo de trabajo.
+Security_code : fh2xj
+Send : Enviar
+
+---------------
+

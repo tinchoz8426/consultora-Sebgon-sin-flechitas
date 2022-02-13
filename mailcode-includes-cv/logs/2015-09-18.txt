@@ -1,0 +1,92 @@
+Address : 181.95.76.110
+Nombre : Tatiana Maricruz
+Apellido : Llinares
+Cargo : Atencion al Cliente
+Direccion : calle 126 entre 61 y 62 alt. 1424
+Ciudad : La Plata
+Telefono : 2994155406
+Email : tatianallinares@hotmail.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : experiencia en ventas, atención al cliente.
+Security_code : vs6w2
+Send : Enviar
+
+---------------
+
+Address : 181.95.76.110
+Nombre : Tatiana Maricruz
+Apellido : Llinares
+Cargo : Atencion al Cliente
+Direccion : calle 126 al 1424
+Ciudad : La Plata
+Telefono : 2994155406
+Email : tatianallinares@hotmail.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : experiencia en ventas, atención al cliente.
+Security_code : vs6w2
+Send : Enviar
+
+---------------
+
+Address : 181.95.76.110
+Nombre : Tatiana Maricruz
+Apellido : Llinares
+Cargo : Atencion al Cliente
+Direccion : 126 * 1424
+Ciudad : La Plata
+Telefono : 2994155406
+Email : tatianallinares@hotmail.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : experiencia en ventas, atención al cliente.
+Security_code : vs6w2
+Send : Enviar
+
+---------------
+
+Address : 181.95.76.110
+Nombre : Tatiana Maricruz
+Apellido : Llinares
+Cargo : Atencion al Cliente
+Direccion : calle 126 al 1424
+Ciudad : La Plata
+Telefono : 2994155406
+Email : tatianallinares@hotmail.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : experiencia en ventas, atención al cliente.
+Security_code : rbt2g
+Send : Enviar
+
+---------------
+
+Address : 186.135.41.103
+Nombre : Muaro
+Apellido : Speranza
+Cargo : cajero,repositor,atencion al cliente,limpienza
+Direccion : joaquìn V Gonzalèz 650
+Ciudad : merlo
+Telefono : 1138722950
+Email : mauroosvaldosp@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me dirijo a quien corresponda, con el fin de que con mi curriculum vitae, sea considerado ante posibles procesos selectivos en relación con mi perfil academico y experiencia laboral.
+Espero tener la oportunidad de conversar con ustedes, en una entrevista para que personalmente pueda exponer mis conocimientos y quedo a su disposición, para cualquier proceso selectivo en el que puedan incluirme. Desde ya muchas gracias y un cordial saludo.
+
+Security_code : cdtrc
+Send : Enviar
+
+---------------
+
+Address : 190.111.250.154
+Nombre : Carla
+Apellido : Giacopinelli
+Cargo : mandos medios
+Direccion : Jean Jaures 708
+Ciudad : CABA
+Telefono : 00541164435826
+Email : carlagiacopinelli@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Agradezco la revisión de mi CV para en caso lo encuentren interesante poder revisarlo personalmente.
+Security_code : ks9wj
+Send : Enviar
+
+---------------
+

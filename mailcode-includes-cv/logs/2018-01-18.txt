@@ -1,0 +1,31 @@
+Address : 179.38.157.84<br>
+ <br>Nombre : Diana Gabriela
+ <br>Apellido : Valdez
+ <br>Cargo : administrativa-recepcion-at.cliente
+ <br>Direccion : 518 N°1479
+ <br>Ciudad : La PLata
+ <br>Telefono : 2215771864
+ <br>Email : dianavaldez@live.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Busco trabajo. El puesto, a considerar por uds.
+ <br>Security_code : rndnf
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.169.148.111<br>
+ <br>Nombre : Mariano David
+ <br>Apellido : Pereyra
+ <br>Cargo : Empleado
+ <br>Direccion : Corrientes 1753 7c
+ <br>Ciudad : Mar del Plata
+ <br>Telefono : 2236034783
+ <br>Email : marianodavidpereyra@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenos días.
+Adjunto mi C.V.
+ <br>Security_code : 9fqpg
+ <br>Send : Enviar
+ <br>
+---------------
+

@@ -1,0 +1,45 @@
+Address : 201.253.80.159
+Nombre : Carolina Betiana
+Apellido : Allegretti
+Cargo : Administrativa
+Direccion : Montevideo 1332 piso 15 dpto A
+Ciudad : Rosario
+Telefono : 0341 6791094
+Email : caroallegretti@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto mi CV para eventuales búsquedas. Saludos cordiales.
+Security_code : 6t5tb
+Send : Enviar
+
+---------------
+
+Address : 190.174.164.81
+Nombre : Pablo Daniel
+Apellido : Alemany
+Cargo : Administracion
+Direccion : Nazarre 4271
+Ciudad : Capital Federal
+Telefono : 45661252
+Email : pabloalem78@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me dirijo a usted con el fin de adjuntarle mi CV y estoy a su disposicion. Muchas gracias.
+Security_code : 78b4f
+Send : Enviar
+
+---------------
+
+Address : 190.174.51.135
+Nombre : Florencia Luján
+Apellido : Perez
+Cargo : Indistinto
+Direccion : República de Eslovenia 2287
+Ciudad : Moron
+Telefono : 46280293
+Email : fleur_1505@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : .
+Security_code : c58cn
+Send : Enviar
+
+---------------
+

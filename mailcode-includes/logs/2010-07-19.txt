@@ -1,0 +1,25 @@
+Address : 190.137.19.163
+Nombre : Matias
+Apellido : divincenzo
+Empresa : divincenzo
+Telefono : 4744-4001
+Email : mcsevice04@hotmail.com  
+Mensaje : Quisiera incorporar 2 vendedores para el rubro alimentos en mi distribuidora por favor enviar cotización del servicio.gracias
+Security_code : 7fkdw
+Send : Enviar
+
+---------------
+
+Address : 190.173.75.54
+Nombre : Karina
+Apellido : Carrera
+Empresa : DEYJEL
+Telefono : 4457-3473/4467-6716
+Email : consultas@deyjel.com.ar
+Mensaje : Buenas tardes, nos contactamos con ustedes con el fin de solicitar informacion de sus servicios, ya que estamos precisando ocupar puestos temporarios para la puesta en marcha de una maquina.
+Esperamos se contacten con nosotros a la brevedad. Desde ya muchas gracias. 
+Security_code : 2558c
+Send : Enviar
+
+---------------
+

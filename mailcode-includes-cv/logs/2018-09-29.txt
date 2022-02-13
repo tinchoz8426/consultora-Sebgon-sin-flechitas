@@ -1,0 +1,162 @@
+Address : 181.1.67.225<br>
+ <br>REF : ROT-1
+ <br>Nombre : Juan José
+ <br>Apellido : Pistone
+ <br>Cargo : RESPONSABLE DE OFICINA TECNICA
+ <br>Direccion : Calle 59 N° 733
+ <br>Ciudad : Las Talitas Tucumán
+ <br>Telefono : 3816102752
+ <br>Email : josepistone@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Tengo más de 10 años de experiencia en industrias tales como azucarera, citrícola, bioetanol, etc, desempeñándome como diseñador, delineante, calculista, supervisor de fabricación de equipos, máquinas e instalaciones como ser, tanques de almacenamiento API, recipientes a presión y cañerías de proceso ASME, estructuras metálicas, cintas transportadoras, tornillos transportadores, cangiloneras, redlers,etc.
+ <br>Security_code : vr7bd
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.9.137.187<br>
+ <br>Nombre : Julieta
+ <br>Apellido : Limpieza
+ <br>Cargo : Electromecanica
+ <br>Direccion : Tercer barrioperdriel M D C 5
+ <br>Ciudad : Mendoza lujan de cuyo
+ <br>Telefono : 2613299072
+ <br>Email : reynosojulietabeatriz@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Nesecito trabajo
+ <br>Security_code : 2×59p
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.230.12.165<br>
+ <br>REF : ACO-1
+ <br>Nombre : Agostina 
+ <br>Apellido : Peña 
+ <br>Cargo : Comercio exterior 
+ <br>Direccion : Carlos Pellegrini 2813
+ <br>Ciudad : Buenos aires
+ <br>Telefono : 1565873443
+ <br>Email : Agos_94@hotmail.com 
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Envío cv para dicha postulacion 
+Mucha gracias
+ <br>Security_code : s5795
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.250.94.106<br>
+ <br>Nombre : Andres
+ <br>Apellido : Belluscio
+ <br>Cargo : Ingeniero Electrónico
+ <br>Direccion : Ramírez Urtazun 1880
+ <br>Ciudad : Bahía Blanca
+ <br>Telefono : 2914617979
+ <br>Email : andres_k_91@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenos días, mi nombre es Andres Belluscio y me encuentro en búsqueda laboral activa.
+
+Busco trabajar en algún área relacionada con mi carrera de la que estoy graduado (Ingeniería Electrónica), desarrollar tareas en áreas técnicas, mantenimiento, diseño de circuitos, reparaciones, entre otros. También estoy dispuesto a aprender nuevas actividades en distintas áreas relacionadas a mi carrera.
+
+Tengo experiencia como técnico electrónico (7 meses), trabajando en laboratorio. También realicé mi proyecto final de carrera para la Armada Argentina (1 año) realizando actividades en la rama de ingeniería electrónica.
+
+Adjunto mi CV junto a este correo, un saludo muchas gracias.
+ <br>Security_code : 38g5d
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 152.168.106.241<br>
+ <br>Nombre : John Enrique
+ <br>Apellido : Orellana Meriño
+ <br>Cargo : Analista contable o administrativa
+ <br>Direccion : Excombatiente Juan C Reguera 1899, Virreyes, San Fernando
+ <br>Ciudad : Buenos aires
+ <br>Telefono : 54911-2722 1760
+ <br>Email : johorellana78@gmail.com 
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas tardes,
+
+Hola, Soy John, Estoy adjuntando mi CV,  soy Licenciado en Administración y Técnico Superior en Contaduría, en general me interesa obtener un empleo en cualquier área administrativa y contable.
+
+
+Desde ya te agradezco inmensamente la ayuda que puedas brindarme.
+
+
+Quedo a disposición para cualquier entrevista o consulta, sin compromiso.
+
+
+Cordial saludo
+
+
+John Orellana
+
+Cel. 11 2722 1760
+ <br>Security_code : 7zdrz
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.3.79.27<br>
+ <br>Nombre : Rosana
+ <br>Apellido : Gomez Ortiz
+ <br>Cargo : Administrativa
+ <br>Direccion : Adolfo Alsina, 1633
+ <br>Ciudad : Vicente López
+ <br>Telefono : 1165611207
+ <br>Email : rosana12.sv@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me considero una persona responsable, con facilidad de adaptación y capacidad para las relaciones interpersonales. Cuento con iniciativa propia para resolver problemas y lograr las metas de la empresa.
+Deseo poner en practica todos los conocimientos adquiridos y poder formar parte de un equipo que me permita desarrollarme personal y profesional mente.
+
+ <br>Security_code : hzmn3
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 191.97.41.52<br>
+ <br>Nombre : jose luis
+ <br>Apellido : jofre
+ <br>Cargo : peon boca de pozo
+ <br>Direccion : Cecconato N°28
+ <br>Ciudad : Enrrique Godoy
+ <br>Telefono : 2984964474
+ <br>Email : pao_usp@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : buenas tardes envio CV disponibilidad horaria full time espero su respuesta favorable
+ <br>Security_code : c9c2g
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.111.74.69<br>
+ <br>Nombre : Nicolás 
+ <br>Apellido : Messina 
+ <br>Cargo : Operario
+ <br>Direccion : Las heras 2810
+ <br>Ciudad : San Fernando 
+ <br>Telefono : 1130321866
+ <br>Email : Messina.n@hotmailcom.ar 
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Necesito un trabajo 
+ <br>Security_code : Gsn4v
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.111.74.69<br>
+ <br>Nombre : Nicolás 
+ <br>Apellido : Messina 
+ <br>Cargo : Operario
+ <br>Direccion : Las heras 2810
+ <br>Ciudad : San Fernando 
+ <br>Telefono : 1130321866
+ <br>Email : Messina.n@hotmailcom.ar 
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Necesito un trabajo 
+ <br>Security_code : gsn4v
+ <br>Send : Enviar
+ <br>
+---------------
+

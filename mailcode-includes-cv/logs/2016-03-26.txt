@@ -1,0 +1,88 @@
+Address : 190.192.153.174
+Nombre : alberto
+Apellido : giuliodori
+Cargo : gerente de planta
+Direccion : echeverria 5479
+Ciudad : caba
+Telefono : 45215032
+Email : agiuliodori@fibertel.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimado /a Sr. /a., 
+
+Me dirijo a usted con el fin de expresarle mi interés en desempeñar la función de gerente de planta anunciada en su web. 
+Adjunto mi curriculum vitae para su consideración, y le manifiesto mi interés en participar en los procesos de selección, ahora o en el futuro, que requieran de un profesional de mis características para un puesto en los departamentos de planta o ingeniería de sus empresas clientes o de su empresa.
+Si lo considera oportuno, tendría mucho gusto en proporcionarle mas detalles sobe mi Curriculum Vitae durante una entrevista con usted. 
+
+Esperando sus noticias, le agradezco su atención y aprovecho la oportunidad para saludarlo oportunamente.
+
+Alberto Giuliodori
+
+Security_code : xb74h
+Send : Enviar
+
+---------------
+
+Address : 191.102.23.91
+Nombre : SEBASTIAN ALEJANDRO 
+Apellido : RILLO
+Cargo : OFICIAL CABLEADOR
+Direccion : RICCIO 786
+Ciudad : MERLO
+Telefono : 0220-472-4744
+Email : rillosebastian@hotmail.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : estimados buenos dias tengo pleno interes en el puesto solicitado.  
+Security_code : mz5nv
+Send : Enviar
+
+---------------
+
+Address : 191.102.23.91
+Nombre : SEBASTIAN ALEJANDRO 
+Apellido : RILLO
+Cargo : OFICIAL CABLEADOR
+Direccion : RICCIO 786
+Ciudad : MERLO
+Telefono : 0220-472-4744
+Email : rillosebastian@hotmail.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : estimados buenos dias tengo pleno interes en el puesto solicitado. 
+Security_code : 497zs
+Send : Enviar
+
+---------------
+
+Address : 186.157.84.154
+Nombre : Immanuel
+Apellido : Schinder
+Cargo : Licenciado en Seguridad e Higiene
+Direccion : Bolivar 2630 
+Ciudad : mar del Plata
+Telefono : 0223-155910120
+Email : immanuel.schinder@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hago envio de CV para la oferta mencionada en computrabajo.com.ar
+
+saludos cordiales
+
+Immanuel Schinder
+Security_code : zsxg9
+Send : Enviar
+
+---------------
+
+Address : 181.44.234.124
+Nombre : Marianela
+Apellido : Rodriguez
+Cargo : Vendedora
+Direccion : Av. Jauretche 1384
+Ciudad : hurlingham
+Telefono : 1568702903
+Email : male_luz@live.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto mi CV, me interesan propuestas de vendedora comercial o recepcionista.
+Security_code : knctq
+Send : Enviar
+
+---------------
+

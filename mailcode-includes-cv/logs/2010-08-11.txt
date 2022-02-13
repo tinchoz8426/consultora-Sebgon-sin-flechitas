@@ -1,0 +1,125 @@
+Address : 200.115.254.199
+Nombre : Maria Claudia
+Apellido : Perez
+Cargo : Secretaria/Recepcionista/Telefonista
+Direccion : Pje.Leipzig 4975
+Ciudad : Capital Federal
+Telefono : 15-6-674-7427
+Email : mclaudiaperez89@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Desarrolarme en un ambiente dinamico, acorde a mis conocimientos, volcar mi desempeño y experiencia en tareas que represente.
+Security_code : 2kyby
+Send : Enviar
+
+---------------
+
+Address : 186.59.75.167
+Nombre : Amilcar Denis
+Apellido : Gil
+Cargo : TECNICO EN HIGIENE Y SEGURIDAD
+Direccion : JUAN JOSE PASO 597
+Ciudad : SAN RAFAEL MENDOZA
+Telefono : 02627430230
+Email : GILAMILCAR@YAHOO.COM.AR
+MAX_FILE_SIZE : 2097152
+Mensaje : ..
+Security_code : 6SGG6
+Send : Enviar
+
+---------------
+
+Address : 186.123.112.46
+Nombre : Simón Eduardo
+Apellido : Palavecino
+Cargo : Supervisor de Higiene y Seguridad Industrial
+Direccion : Federico Leloir 540
+Ciudad : Tartagal - Salta
+Telefono : 03875-156660543
+Email : epalavecino@argentina.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados, tengo entendido que se encuentran en la búsqueda de un Tec en H&S para la Prov. de Tucumán, envío mi CV para ser tenido en cuenta, mi perfil se ajusta a vuestros requerimientos. Tengo disponibilidad para radicarme en cualquier lugar del País. Quedo a isposición.
+Feliz año del Bicentenario.
+Security_code : 5zqt7
+Send : Enviar
+
+---------------
+
+Address : 200.68.93.15
+Nombre : sergio anibal
+Apellido : sena
+Cargo : operario tareas generales
+Direccion : guanacache 12425
+Ciudad : buenos aires
+Telefono : 02202496043
+Email : sergioasena@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : tengo 11 años de e`xperiencia en varios sectores de la planta
+Security_code : 233hy
+Send : Enviar
+
+---------------
+
+Address : 200.68.93.15
+Nombre : Sergio Anibal
+Apellido : Sena
+Cargo : operario tareas generales
+Direccion : Guanacache 12425
+Ciudad : Bs.As
+Telefono : 02202496043
+Email : sergioasena@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : tengo 11 años de experiencia en la planta en varios sectores
+Security_code : ktrjp
+Send : Enviar
+
+---------------
+
+Address : 186.124.51.121
+Nombre : maria carolina
+Apellido : corrales
+Cargo : tec higiene y seguridad en el trabajo
+Direccion : coronel vidt 527
+Ciudad : salta
+Telefono : 03876/421099
+Email : maricarol_2832@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : hola, les mando mi curriculum por si sale oferta laboral. saludo atte carolina. 
+Security_code : tmmrg
+Send : Enviar
+
+---------------
+
+Address : 190.12.122.18
+Nombre : Sabrina Soledad
+Apellido : Caneda
+Cargo : Atención al Cliente/Recepción/Administrativa
+Direccion : La Nación
+Ciudad : San A. de Padua
+Telefono : 011-15-36105996
+Email : sabrinacaneda@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Mi búsqueda se orienta a un pesto en el área administrativa, de Atención al Cliente o Recepción y a pesar de no poseer experiencia en las dos últimas, estoy predispuesta a crecer en las relaciones interpersonales. Me considero una ppersona con ímpetu de crecimiento profecional.
+Security_code : h4vwn
+Send : Enviar
+
+---------------
+
+Address : 186.12.173.241
+Nombre : José Antonio
+Apellido : Cannata
+Cargo : TECNICO EN SEGURIDAD E HIGIENE PARA TUCUMAN
+Direccion : Gral. Paz 2293
+Ciudad : San Miguel de Tucumán
+Telefono : 03865-15581425 / 15453073
+Email : jose.cannata@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : ESTIMADO/A ME QUISIERA POSTULAR PARA EL AVISO:
+Publicado el 09-08-2010
+ Licenciado / Ingeniero / Técnico en Seguridad e Higiene
+
+PARA TUCUMAN. GRACIAS.
+Security_code : 74ctr
+Send : Enviar
+
+---------------
+

@@ -1,0 +1,85 @@
+Address : 186.136.76.88
+Nombre :  CYNTIA
+Apellido : CRISTALDO 
+Cargo : RECEPCIONISTA/ADMINISTRATIVA
+Direccion : CORRIENTES 658
+Ciudad : BUENOS AIRES
+Telefono : 1551772661
+Email : CYNCOTY@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Gracias por recibir el C.V, necesito empleo y pondre lo mejor de mi, espero respuesta alguna.
+Desde ya muchas Gracias.
+Saludos, cordiales
+cyntia Cristaldo
+Security_code : 32ydg
+Send : Enviar
+
+---------------
+
+Address : 200.125.94.208
+Nombre : Sergio
+Apellido : Gutman
+Cargo : capacitador externo
+Direccion : Charcas 3559 3° 12
+Ciudad : CABA
+Telefono : 1540518964
+Email : sergio.gutman@gmail.com
+
+---------------
+
+Address : 200.125.94.208
+Nombre : Sergio
+Apellido : Gutman
+Cargo : capacitador externo
+Direccion : Charcas 3559 3° 12
+Ciudad : CABA
+Telefono : 1540518964
+Email : sergio.gutman@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Atento a sus aviso publicado en Zona Jobs, remito mis antecedentes laborales y de formación académica.
+Información complementaria puede verse en:
+http://ar.linkedin.com/in/sergiogutman
+Cordialmente, 
+Lic. Sergio Gutman 
+Security_code : 7dxdh
+Send : Enviar
+
+---------------
+
+Address : 190.179.63.112
+Nombre : Maria Magdalena
+Apellido : Pérez
+Cargo : Cajera Administrativa
+Direccion : Las Violetas 278
+Ciudad : Monte Grande
+Telefono : 1556362726
+Email : m_mariaperez@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto mi CV detallando mis conocimientos 
+y experiencia. A la espera de una respuesta 
+Favorable. Desde ya gracias por su tiempo
+y atención.
+Lo saluda atentamente 
+  
+                                           Maria. M. Perez
+
+Security_code : hgpbh
+Send : Enviar
+
+---------------
+
+Address : 186.56.206.95
+Nombre : sabrina vanesa
+Apellido : galliano
+Cargo : cajera u operaria
+Direccion : juan XXIII 2338
+Ciudad : moreno
+Telefono : 1160551640
+Email : sabrinagalliano@live.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : tengo dosponibilidad horaria, me gustaria trabajar por la zona.. gracias
+Security_code : d2ntt
+Send : Enviar
+
+---------------
+

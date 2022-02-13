@@ -1,0 +1,18 @@
+Address : 24.232.78.68
+ <br>Nombre : Daniel
+ <br>Apellido : Chocron
+ <br>Empresa : Lempriere S.A.
+ <br>Telefono : 1130858708
+ <br>Email : dchocron@lflsa.com.ar
+ <br>Mensaje : Buenos días, 
+quería saber cotización para realizar una encuesta de clima en mi empresa Lempriere SA
+Somos 50 trabajadores, ubicados en oficinas por microcentro. 
+
+Espero su respuesta a la brevedad. 
+
+Saludos, Daniel 
+ <br>Security_code : zrr3f
+ <br>Send : Enviar
+ <br>
+---------------
+

@@ -1,0 +1,28 @@
+Address : 190.3.48.135<br>
+ <br>REF : TEC. EL
+ <br>Nombre : Franco
+ <br>Apellido : Pericotti
+ <br>Cargo : TÉCNICOS ELECTRÓNICOS ESPECIALIZADOS
+ <br>Direccion : HILARION DE LA QUINTANA 3113
+ <br>Ciudad : OLIVOS
+ <br>Telefono : 1133000587
+ <br>Email : fpericotti@outlook.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimado:
+
+  Soy Franco Pericotti, estudiante de Automatización y Robótica. Autodidacta y apasionado por la electrónica y mecánica. Perseverante ante un objetivo.
+Me dirijo hacia usted con el fin de hacerle llegar mi currículum vitae con mis datos personales, experiencia laboral y otros datos útiles, ya que estoy en busca de nuevas oportunidades laborales.
+
+  Me interesa trabajar en su empresa puesto que tengo formación y experiencia para desarrollar diferentes trabajos dentro de su organización. Con ganas de conformar un equipo de trabajo que me aporte ideas y conocimientos nuevos, permitiéndome proyectarme profesionalmente a largo plazo.
+
+  Le agradezco mucho por la atención y espero tener la oportunidad de conversar con usted en una entrevista para personalmente exponerle mis conocimientos y mi deseo de formar parte de su equipo de trabajo.
+
+Un cordial saludo,
+
+Franco Pericotti
+
+ <br>Security_code : cbgpw
+ <br>Send : Enviar
+ <br>
+---------------
+

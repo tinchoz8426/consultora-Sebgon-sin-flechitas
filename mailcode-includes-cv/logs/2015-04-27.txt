@@ -1,0 +1,137 @@
+Address : 181.16.85.41
+Nombre : Ana
+Apellido : Javier
+Cargo : Administrativa
+Direccion : Ejercito de Los Andes
+Ciudad : Ing. Pablo Nogues
+Telefono : 1533438412
+Email : anajavier.amj@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenos días aprendo  muy rápido, busco capacitarme constantemente en mis tareas para perfeccionarla  y me encantan los desafíos.
+Security_code : knrvq
+Send : Enviar
+
+---------------
+
+Address : 181.16.85.41
+Nombre : Ana
+Apellido : Javier
+Cargo : Administrativa
+Direccion : Ejercito de Los Andes
+Ciudad : Ing. Pablo Nogues
+Telefono : 1533438412
+Email : anajavier.amj@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenos días aprendo  muy rápido, busco capacitarme constantemente en mis tareas para perfeccionarla  y me encantan los desafíos.
+Security_code : knrvq
+Send : Enviar
+
+---------------
+
+Address : 181.16.85.41
+Nombre : Ana
+Apellido : Javier
+Cargo : Administrativa
+Direccion : Ejercito de Los Andes
+Ciudad : Ing. Pablo Nogues
+Telefono : 1533438412
+Email : anajavier.amj@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenos días aprendo  muy rápido, busco capacitarme constantemente en mis tareas para perfeccionarla  y me encantan los desafíos.
+Security_code : jgxq4
+Send : Enviar
+
+---------------
+
+Address : 181.167.148.53
+Nombre : Jessica Agustina
+Apellido : Sawicz
+Cargo : Capacitacion / seleccion
+Direccion : F. Roosevelt 1935
+Ciudad : CABA
+Telefono : 1557332783
+Email : jessicasawicz@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Psicologa con 8 años de experiencia en búsqueda de nuevas oportunidades laborales en el área de capacitación y selección de personal.
+Security_code : 7tfjs
+Send : Enviar
+
+---------------
+
+Address : 176.10.104.227
+Nombre : varlog
+Apellido : 19151
+Cargo : fylGalgW
+Direccion : VkfOyigQd
+Ciudad : NY
+Telefono : 57426778150
+Email : darel233455@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : RJNa67 http://www.FyLitCl7Pf7kjQdDUOLQOuaxTXbj5iNG.com
+Security_code : t1BjGt
+Send : Enviar
+
+---------------
+
+Address : 186.138.205.210
+Nombre : eduardo
+Apellido : baygorria
+Cargo : infornes socioambientales
+Direccion : neuquen
+Ciudad : neuquen
+Telefono : 000000000
+Email : duadybay@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : quisiera saber si necesitan personas para realizar informes socioambientales en neuquen capital y alrededores,cuento con experiencia y referencias
+Security_code : f7qgp
+Send : Enviar
+
+---------------
+
+Address : 181.46.100.60
+Nombre : Luiz Fernando
+Apellido : Soares de Melo
+Cargo : todos
+Direccion : pacheco de melo 3078
+Ciudad : Buenos Aires
+Telefono : 1151252214
+Email : l.fernando_melo@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : hola busco una vaga de trabajo segue  mi curriculo
+Security_code : n5vjw
+Send : Enviar
+
+---------------
+
+Address : 37.228.106.253
+Nombre : leonardo
+Apellido : jara
+Cargo : operario/maestranza
+Direccion : crisantemo 6573
+Ciudad : alte.brown
+Telefono : 1138109494
+Email : jaraleonardo79@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : hola soy jara leonardo .necesito trabajar.soy muy respomsable estoy muy dispuesto en aprender cosas nuevas .
+Security_code : 9qtbc
+Send : Enviar
+
+---------------
+
+Address : 186.145.37.253
+Nombre : William Oswaldo
+Apellido : Orjuela Marin
+Cargo : Consultor de seguridad Fisica
+Direccion : Transv, 78D No. 7a-32 
+Ciudad : Bogotá, Colombia
+Telefono : 57-1 3115278395
+Email : orjuelawilliam@yahoo.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenas tardes.
+Estoy interesado en el cargo de consultor, disponibilidad de viajar inmediata mediante contrato.
+Gracias.
+Security_code : qhcwb
+Send : Enviar
+
+---------------
+

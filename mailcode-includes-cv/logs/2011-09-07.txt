@@ -1,0 +1,66 @@
+Address : 190.139.138.207
+Nombre : MARIA CELINA
+Apellido : GENTILE
+Cargo : JOVEN PROFESIONAL
+Direccion : UGARTE 719
+Ciudad : MENDOZA
+Telefono : 0261-155089200
+Email : cely_gentile@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados: A fin de ser tenida en cuenta para las proximas busquedas laborales, adjunto mi CV.
+Desde ya Muchas Gracias,
+
+Saludos
+Security_code : cvy6r
+Send : Enviar
+
+---------------
+
+Address : 201.252.77.16
+Nombre : María Luz 
+Apellido : Vila
+Cargo : Capacitadora
+Direccion : N. Avellaneda 3340
+Ciudad : San Isidro
+Telefono : 1569607732
+Email : mluzvila@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estoy interesada en el área de capacitación, tengo amplia experiencia en docencia, trabajé con diversos sistemas pedagógicos. Tengo muy buena presencia, trato y dicción. Actualmente me estoy formando en la Carrera de Counseling y deseo orientarme hacia el área organizacional.
+Desde ya muchas gracias y espero un a pronta respuesta
+Atte María Luz 
+Security_code : xk5nr
+Send : Enviar
+
+---------------
+
+Address : 186.58.132.194
+Nombre : jemima
+Apellido : centurion
+Cargo : Atencion al cliente
+Direccion : calle 18 Nº 2979
+Ciudad : Berazategui
+Telefono : 1132307718
+Email : shemy452@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : solicito, puedan considerar mi curriculum y asignarme un trabajo correspondiente dependiendo el perfil de cada empresa.
+Security_code : b3tjw
+Send : Enviar
+
+---------------
+
+Address : 190.195.70.206
+REF : tecnico-de-mantenimiento
+Nombre : Carlos
+Apellido : Intino
+Cargo : Tecnico de Mantenimiento
+Direccion : Oliden 1245
+Ciudad : Lomas de Zamora
+Telefono : 4244 9354
+Email : intinocarlos@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola, adjunto mi CV ya que soy Tecnico Electrico con orientacion en electronica. Saludos
+Security_code : xn5c7
+Send : Enviar
+
+---------------
+

@@ -1,0 +1,37 @@
+Address : 181.1.142.218
+Nombre : Sonia
+Apellido : Fernandez
+Cargo : secretaria/Recepción
+Direccion : Iberá 1575 piso 3 departamento
+Ciudad : Ciudad Autónoma de }Buenos Aires
+Telefono : 4785 6193
+Email : soniafernandez_8@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Saludos! me gustaria ser tenida en cuenta para alguna propuesta laboral acorde a mi perfil 
+Muchisimas gracias.
+Security_code : 3swmy
+Send : Enviar
+
+---------------
+
+Address : 201.212.102.205
+Nombre : María Paula
+Apellido : Jacinto
+Cargo : traductora pública nacional
+Direccion : 7 n 1274
+Ciudad : La Plata
+Telefono : 0221-4840753
+Email : mpau2000@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : A quien corresponda:
+
+Tengo el agrado de dirigirme a usted con el motivo de enviarle mi CV. Soy traductora pública en lengua inglesa, graduada de la UNLP, y me interesaría saber si existe la posibilidad de trabajar con ustedes.
+Muchas gracias por su tiempo.
+
+Atentamente,
+Jacinto, M. Paula.
+Security_code : wy9v7
+Send : Enviar
+
+---------------
+

@@ -1,0 +1,90 @@
+Address : 190.123.101.171
+Nombre : Alexis
+Apellido : Elias
+Cargo : Operario
+Direccion : Av marmol 333
+Ciudad : Capitan Bermudez Rosario
+Telefono : 0341-155857766
+Email : AlexisElias3@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Necesito con urgencia un trabajo, uno que sea estable soy una persona muy responsable y dispuesto aprender al máximo necesito que me den una mano la voy a valorar desde ya muchas gracias y cualquier cosa estaremos en contacto , saludos.  
+Security_code : qvx66
+Send : Enviar
+
+---------------
+
+Address : 190.123.101.171
+Nombre : Alexis
+Apellido : Elias
+Cargo : Operario
+Direccion : Av marmol 333
+Ciudad : Capitan Bermudez Rosario
+Telefono : 0341-155857766
+Email : AlexisElias3@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Necesito con urgencia un trabajo, uno que sea estable soy una persona muy responsable y dispuesto aprender al máximo necesito que me den una mano la voy a valorar desde ya muchas gracias y cualquier cosa estaremos en contacto , saludos.  
+Security_code : 8dytd
+Send : Enviar
+
+---------------
+
+Address : 181.46.109.224
+Nombre : Mariana Ailen
+Apellido : Marcarian
+Cargo : Secretaria/Recepcionista
+Direccion : Rivadavia 9844
+Ciudad : Ciudad Autónoma de Buenos Aires
+Telefono : 1531199402
+Email : marcarianmariana@outlook.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buen Día, me dirijo a ustedes con el objetivo de presentarles mi curriculum vitae, ya que me encuentro en búsqueda de un puesto laboral. Muchas gracias.
+Security_code : v2wzf
+Send : Enviar
+
+---------------
+
+Address : 181.192.49.49
+Nombre : carina
+Apellido : sanchez
+Cargo : empleo dometico
+Direccion : rosario 4372
+Ciudad : don torcuto
+Telefono : 1130872778
+Email : carinasanchez1974@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : empleo dometico
+Security_code : nnj36
+Send : Enviar
+
+---------------
+
+Address : 201.252.94.130
+Nombre : maria antonia
+Apellido : Frias
+Cargo : atencion al cliente
+Direccion : manuel estrada 3303 
+Ciudad : tucuman
+Telefono : 03815687900
+Email : mariaantoniafras@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : me intereaaria formar parte de su empresa
+Security_code : 8t8d4
+Send : Enviar
+
+---------------
+
+Address : 188.143.232.11
+Nombre : Bradley
+Apellido : 942220
+Cargo : ZzGJBurKYWKq
+Direccion : kkiMglWYfY
+Ciudad : NY
+Telefono : 54549780909
+Email : djbrucho3@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : xqvgME http://www.FyLitCl7Pf7kjQdDUOLQOuaxTXbj5iNG.com
+Security_code : y4aE3
+Send : Enviar
+
+---------------
+

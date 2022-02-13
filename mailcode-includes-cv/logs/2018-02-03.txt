@@ -1,0 +1,33 @@
+Address : 190.17.240.134<br>
+ <br>Nombre : Bárbara 
+ <br>Apellido : Stenghele
+ <br>Cargo : Administrativo
+ <br>Direccion : Adolfo P. Carranza 2733 1°
+ <br>Ciudad : Capital Federal
+ <br>Telefono : 45028525
+ <br>Email : stennbarchuu@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me gustaría sumarme al equipo.
+ <br>Security_code : xyydt
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 152.169.80.249<br>
+ <br>Nombre : Alejandro Guillermo
+ <br>Apellido : Nedelkoff
+ <br>Cargo : Seguridad e Higiene
+ <br>Direccion : Dr. Abraham 1850. Monoblok 9 Piso 3 Depto. 144. Barrio MUDON
+ <br>Ciudad : Neuquén (8300)
+ <br>Telefono : 0299-15-6003752
+ <br>Email : alejandronedelkoff@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenos días. Soy Licenciado y Técnico en Seguridad e Higiene Laboral, Técnico en Saneamiento Ambiental y Técnico Electromecánico. Resido en Neuquén Capital, soy soltero y tengo 30 años. No poseo empleo por el momento, pero soy entusiasta y optimista en conseguir uno nuevo próximamente.
+Me destaco por la responsabilidad y la puntualidad, el respeto a mis superiores y pares, soy muy analítico y me gusta investigar y consultar mucho para cerciorarme de mis respuestas y mis acciones.
+Como experiencia laboral, me he desempeñado como ayudante de cátedra de Inglés para Saneamiento Ambiental en la Universidad Nacional del Comahue (Neuquén). Lamentablemente no poseo experiencia en mi área de seguridad e higiene y medioambiente, pero tengo intenciones de formarme e insertarme en el ámbito de la industria.
+Gracias por incluirme en su Base de Datos. Saludos y buena semana.
+ <br>Security_code : mnmgx
+ <br>Send : Enviar
+ <br>
+---------------
+

@@ -1,0 +1,68 @@
+Address : 190.3.54.130
+REF : jefe-de-operaciones
+Nombre : mariela
+Apellido : Muñoz
+Cargo : seguridad e higiene
+Direccion : sta clara del mar
+Ciudad : mar del plata
+Telefono : 0223056838835
+Email : mariel6674@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenos dias. poseo 14 años de experiencia en seguridad personal ademas, ya que pertenecí a la fuerza policial. Luego me 
+retire. Actualmente con mis estudios y titulo adjuntado en archivo,  mis pretensiones económicas son: a convenir con la 
+empresa.
+un saludo cordial. 
+Security_code : 3vxyf
+Send : Enviar
+
+---------------
+
+Address : 190.7.245.246
+Nombre : Ayelen Giselle
+Apellido : Piclu
+Cargo : Administravo/a
+Direccion : Grahan Bell 510
+Ciudad : Moreno
+Telefono : 011 15 34862730
+Email : ayelenpiclu@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenos dias, dejo adjunto mi cv, por la oferta de Admnistrativo/a para la zona de Moreno.
+Muchas gracias.
+Atte Piclu Ayelen.
+Security_code : 2xz3z
+Send : Enviar
+
+---------------
+
+Address : 190.114.143.121
+REF : administrativa-compras
+Nombre : laura
+Apellido : rapetti
+Cargo : administrativa-compras
+Direccion : int nordenstrom 1452
+Ciudad : neuquen
+Telefono : 0299-155321677
+Email : rapettilb@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : gracias por considerar mi cv
+Security_code : 5vm57
+Send : Enviar
+
+---------------
+
+Address : 190.173.100.146
+REF : administrativa-compras
+Nombre : ruth
+Apellido : sotelo
+Cargo : administrativa
+Direccion : isabel del maestro 1775
+Ciudad : hurlingham
+Telefono : 46627199
+Email : rms_79@hotmail.es
+MAX_FILE_SIZE : 2097152
+Mensaje : buenas tardes soy ruth y en mi antiguo trabajo realizaba tareas administrativas generales 
+Security_code : 692qd
+Send : Enviar
+
+---------------
+

@@ -1,0 +1,31 @@
+Address : 190.18.169.46
+Nombre : Jorge Luis
+Apellido : Righetti
+Cargo : Auxiliar en farmacia
+Direccion : Larrañaga 118
+Ciudad : Córdoba
+Telefono : 0353-154593035
+Email : jorgeluisrighetti@live.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenos días me gustaría trabajar en una farmacia ya que me gusta relacionarme con la gente trabajar en equipo.Cuento con el curso de auxiliar en farmacia.
+
+Security_code : zq25n
+Send : Enviar
+
+---------------
+
+Address : 190.31.17.65
+Nombre : Denise
+Apellido : Gatter
+Cargo : Personal para socioambientales
+Direccion : M. güemes 58
+Ciudad : C. del Uruguay
+Telefono : 03442 15559616
+Email : denise.gatter@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Realizo informes socioambiantales hace 3 años. Experiencia comprobable. Y tengo planes para especializarme académicamente.
+Security_code : 2bjgp
+Send : Enviar
+
+---------------
+

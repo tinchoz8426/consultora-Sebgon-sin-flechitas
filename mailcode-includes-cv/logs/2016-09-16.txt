@@ -1,0 +1,116 @@
+Address : 186.58.133.213<br>
+ <br>Nombre : Natalia Rosana
+ <br>Apellido : Escobar
+ <br>Cargo : Cajera/vendedora
+ <br>Direccion : 149 A 3640
+ <br>Ciudad : Berazategui
+ <br>Telefono : (011)4258-5026/1138991830
+ <br>Email : natu_es_79@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola les adjunto mi CV tengo experiencia y referencias. En venta,atención al cliente, caja,y limpieza en clínicas y hospitales. 
+ <br>Security_code : 34b2g
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 177.130.255.178<br>
+ <br>Nombre : Victoria
+ <br>Apellido : Nardi
+ <br>Cargo : Organizadora de Eventos
+ <br>Direccion : Liniers 237
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 1565807967
+ <br>Email : vinardi84@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : A quien corresponda
+
+Tengo el gusto de remitirles mi currículum vitae con el objetivo de participar en el proceso de selección. 
+Quedo a su disposición para una futura entrevista.
+Desde ya muchas gracias
+Atte Victoria Nardi
+ <br>Security_code : b3n27
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.19.98.85<br>
+ <br>Nombre : Pablo Alejandro
+ <br>Apellido : Mastronicola
+ <br>Cargo : Responsable de cobranza
+ <br>Direccion : lavoisier 3170
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 1161569848
+ <br>Email : pablo.mastronicola@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados
+Envío mi cv para futuras búsquedas laborales referente a mi perfil.
+Cualquier consulta me encuentro a disposición!
+Muchas Gracias
+
+Saludos
+
+ <br>Security_code : vfkyd
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.137.174.181<br>
+ <br>Nombre : SILVINA
+ <br>Apellido : MANTUANO
+ <br>Cargo : Secretaria
+ <br>Direccion : AV MONTES DE OCA 1040
+ <br>Ciudad : CAPITAL
+ <br>Telefono : 1558650507
+ <br>Email : silvinamantuano@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : CV
+ <br>Security_code : zvp4g
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.189.80.128<br>
+ <br>Nombre : Nicolas
+ <br>Apellido : Fuentes
+ <br>Cargo : Abogado, Legales
+ <br>Direccion : Avellaneda 646
+ <br>Ciudad : Bragado
+ <br>Telefono : 02342-15-448210
+ <br>Email : nicolasfuentes@live.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : DISPONIBILIDAD PARA RADICARME EN CAPITAL FEDERAL
+ <br>Security_code : 33m4x
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.189.80.128<br>
+ <br>Nombre : Nicolas
+ <br>Apellido : Fuentes
+ <br>Cargo : Abogado, Legales
+ <br>Direccion : Avellaneda 646
+ <br>Ciudad : Bragado
+ <br>Telefono : 02342-15-448210
+ <br>Email : nicolasfuentes@live.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : DISPONIBILIDAD PARA RADICARME EN CAPITAL FEDERAL
+ <br>Security_code : 33m4x
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.189.80.128<br>
+ <br>Nombre : Nicolas
+ <br>Apellido : Fuentes
+ <br>Cargo : Abogado, Legales
+ <br>Direccion : Avellaneda 646
+ <br>Ciudad : Bragado
+ <br>Telefono : 02342-15-448210
+ <br>Email : nicolasfuentes@live.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : DISPONIBILIDAD PARA RADICARME EN CAPITAL FEDERAL
+ <br>Security_code : 3mcmp
+ <br>Send : Enviar
+ <br>
+---------------
+

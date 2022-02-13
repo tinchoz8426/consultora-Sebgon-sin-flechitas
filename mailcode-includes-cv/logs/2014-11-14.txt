@@ -1,0 +1,57 @@
+Address : 186.134.7.131
+Nombre : Joanna
+Apellido : Ruiz
+Cargo : administrativo
+Direccion : marquez 2534
+Ciudad : los polvorines
+Telefono : 1550409359
+Email : joaruiz22@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola, que tal: a quien lo reciba, adjunto mi cv para tenerlo en cuenta,si así lo consideran ustedes, para futuros puestos admi.
+ desde ya muchas
+ grasias.
+Joanna Ruiz.
+Security_code : cmfw4
+Send : Enviar
+
+---------------
+
+Address : 186.134.7.131
+Nombre : Joanna
+Apellido : Ruiz
+Cargo : administrativo
+Direccion : marquez 2534
+Ciudad : los polvorines
+Telefono : 1550409359
+Email : joaruiz22@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola, que tal: a quien lo reciba, adjunto mi cv para tenerlo en cuenta,si así lo consideran ustedes, para futuros puestos admi.
+ desde ya muchas
+ grasias.
+Joanna Ruiz.
+Security_code : cmfw4
+Send : Enviar
+
+---------------
+
+Address : 190.195.83.212
+Nombre : carolina
+Apellido : vicente
+Cargo : Comunicaciones RRPP
+Direccion : Jean Jaures 11665 
+Ciudad : Ciudad Autónoma de Buenos Aires
+Telefono : 15 68836437
+Email : caro.vicente@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados.
+Adjunto mi currículum vitae para que me consideren en futuras búsquedas acordes a mi perfil.
+
+Muchas gracias
+Saludos
+Carolina
+
+Security_code : vrv9t
+Send : Enviar
+
+---------------
+

@@ -1,0 +1,30 @@
+Address : 186.58.60.170
+Nombre : Carmen Marisa
+Apellido : Rivero
+Cargo : adminitratcion
+Direccion : san miguel
+Ciudad : buenos aires
+Telefono : 1159742844
+Email : marisa-rivero@hotmail.es
+MAX_FILE_SIZE : 2097152
+Mensaje : Espero revisen mi cv y simle interesa se puedan comunicar conmigo desde ya muchas gracias
+Security_code : gtfm5
+Send : Enviar
+
+---------------
+
+Address : 190.245.48.94
+Nombre : william horacio
+Apellido : garcia rea
+Cargo : empleado operario distribuidor
+Direccion : jose de calasanz 1030 dpto 3
+Ciudad : capital federal
+Telefono : 1535125194
+Email : ghoraccio57@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : obejtivo poner todo mi empeño y capacidades adquiridas para brindar un buen servicioa la empresa
+Security_code : zc4r3
+Send : Enviar
+
+---------------
+

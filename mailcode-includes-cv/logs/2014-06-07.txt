@@ -1,0 +1,45 @@
+Address : 181.46.5.22
+Nombre : Lucas
+Apellido : Sapiente
+Cargo : Administrativo, Cadete
+Direccion : Paez 1482 
+Ciudad : Ramos Mejia
+Telefono : 1534860674
+Email : saapi-@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Les adjunto aqui mi curriculum para serles util en su busqueda de personal. Saludos.
+Security_code : xg3sm
+Send : Enviar
+
+---------------
+
+Address : 186.13.5.248
+Nombre : Laura
+Apellido : Czajkowski
+Cargo : Empleada
+Direccion : Calle 4 n° 5733
+Ciudad : Unidad Turistica Chapadmalal
+Telefono : 0223154979731
+Email : Lauraczajkowski@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Deseo encontrar un trabajo con horario corrido, en un buen clima de compañerismo
+Security_code : vrv2x
+Send : Enviar
+
+---------------
+
+Address : 190.195.93.187
+Nombre : SANDRA MILENA
+Apellido : BORDA SANCHEZ
+Cargo : secretaria - volantero - bachero - oficios varios
+Direccion : Medrano 1076
+Ciudad : Buenos Aires, Capital Federal
+Telefono : 15 56419876
+Email : mylesa.777@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Envió adjunto mi CV para aplicar a cualquier tipo de empleo disponible  en Buenos Aires - Capital Federal
+Security_code : 6dcpj
+Send : Enviar
+
+---------------
+

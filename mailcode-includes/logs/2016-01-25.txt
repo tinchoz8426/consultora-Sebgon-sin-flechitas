@@ -1,0 +1,13 @@
+Address : 190.40.8.41
+Nombre : MELODY 
+Apellido : CHAVEZ
+Empresa : ICONSER SAC
+Telefono : 945111887
+Email : mchavez@iconser.com.pe
+Mensaje : HOLA NECESITAMOS UNA COTIZACION PARA EVALUACION DE CLIMA LABORAL Y 360.
+PERSONAL ADMINISTRATIVO 30 TRABAJADORES 
+Security_code : 3M9SJ
+Send : Enviar
+
+---------------
+

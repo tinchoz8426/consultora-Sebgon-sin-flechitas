@@ -1,0 +1,107 @@
+Address : 181.165.3.88<br>
+ <br>REF : chr
+ <br>Nombre : gabriel
+ <br>Apellido : diaz
+ <br>Cargo : chofer
+ <br>Direccion : 856 n°2712
+ <br>Ciudad : san francisco solano
+ <br>Telefono : 42133020
+ <br>Email : gabrielldey@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : No manejo clark pero me gustataria aprender. 
+ <br>Security_code : 9sp7k
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.95.118.20<br>
+ <br>REF : chr
+ <br>Nombre : MAURO GABRIEL
+ <br>Apellido : QUIROZ
+ <br>Cargo : chofer
+ <br>Direccion : CHARRUAS 2059
+ <br>Ciudad : VILLA ROSA PILAR
+ <br>Telefono : 3484309093
+ <br>Email : maurogabriel_quiroz@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : SOLO QUIERO TRABAJAR...
+ <br>Security_code : hjvyn
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.45.90.51<br>
+ <br>Nombre : Alberto
+ <br>Apellido : Garbi
+ <br>Cargo : Capacitador, selector
+ <br>Direccion : Islas Malvinas 3545
+ <br>Ciudad : Castelar
+ <br>Telefono : 1150476208
+ <br>Email : albertogarbi@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Aplico a partir de anuncio publicado en Empleos clarin.com para capacitador
+ <br>Security_code : q54s9
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.230.123.82<br>
+ <br>Nombre : Gaston
+ <br>Apellido : Garcia
+ <br>Cargo : repositor.merchandising
+ <br>Direccion : Alberto Gabetta 8540
+ <br>Ciudad : Rosario
+ <br>Telefono : 3412697642
+ <br>Email : gaston_andres_garcia@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : responsable
+ <br>Security_code : x4vkh
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.230.123.82<br>
+ <br>Nombre : Gaston
+ <br>Apellido : Garcia
+ <br>Cargo : repositor.merchandising
+ <br>Direccion : Alberto Gabetta 8540
+ <br>Ciudad : Rosario
+ <br>Telefono : 3412697642
+ <br>Email : gaston_andres_garcia@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : responsable
+ <br>Security_code : x4vkh
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.230.123.82<br>
+ <br>Nombre : Gaston
+ <br>Apellido : Garcia
+ <br>Cargo : repositor.merchandising
+ <br>Direccion : Alberto Gabetta 8540
+ <br>Ciudad : Rosario
+ <br>Telefono : 3412697642
+ <br>Email : gaston_andres_garcia@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : responsable
+ <br>Security_code : x4vkh
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.230.123.82<br>
+ <br>Nombre : Gaston
+ <br>Apellido : Garcia
+ <br>Cargo : repositor.merchandising
+ <br>Direccion : san lorenzo 8540
+ <br>Ciudad : Rosario
+ <br>Telefono : 3412697642
+ <br>Email : gaston_andres_garcia@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : responsable
+ <br>Security_code : x4vkh
+ <br>Send : Enviar
+ <br>
+---------------
+

@@ -1,0 +1,158 @@
+Address : 190.226.76.189
+Nombre : Juan Cruz
+Apellido : Dominguez Barco
+Cargo : Diseño Gráfico-Administrativo-Atención al cliente
+Direccion : castelli 1672
+Ciudad : El talar de Pacheco
+Telefono : 1161105751
+Email : jcdominguezbarco@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados Señores.
+
+Me dirijo a Uds. con el fin de remitirles mi "curriculum vitae" para optar al puesto que solicitan.
+
+Como podrán comprobar en el mismo , me encuentro sumamente capacitado para el puesto , cuento con un Perfil altamente proactivo con aptitud para trabajar en equipo y para relacionarme interpersonalmente, cuento con capacidad de de análisis y planificación .
+Mis Objetivos Laborales son brindar un desempeño optimo a la empresa desarrollando tanto mis capacidades como mi creatividad  a la hora del trabajo. Por este motivo estoy en búsqueda de un trabajo que me de la oportunidad de crecer ,logro que realizare con esfuerzo ,dedicación y compromiso .
+Esperando que tenga en cuenta mi solicitud, en espera de sus noticias ,les saluda atte.
+Fdo...Juan Cruz Dominguez Barco
+
+Security_code : v8xg5
+Send : Enviar
+
+---------------
+
+Address : 186.58.9.148
+Nombre : nahuel
+Apellido : chavez
+Cargo : operario 
+Direccion : isabel la catolica
+Ciudad : san miguel
+Telefono : 44651801
+Email : alue93@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Establecerme y consolidarme en una empresa que me otorgue estabilidad laboral, aplicar mis experiencias y conocimientos en las áreas administrativas y operativas de la empresa, y desarrollarme profesionalmente para el buen desempeño de las funciones asignadas. 
+Security_code : 67fhh
+Send : Enviar
+
+---------------
+
+Address : 181.174.192.10
+Nombre : alejandro
+Apellido : vitali
+Cargo : operario
+Direccion : condarco 521
+Ciudad : lanus
+Telefono : 42308953
+Email : vitali.alejandro@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : hola me gustaria dejar mi CV desde ya muchas gracias
+Security_code : gp69f
+Send : Enviar
+
+---------------
+
+Address : 181.174.192.10
+Nombre : alejandro
+Apellido : vitali
+Cargo : operario
+Direccion : condarco 521
+Ciudad : lanus
+Telefono : 42308953
+Email : vitali.alejandro@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : hola me gustaria dejar mi CV desde ya muchas gracias
+Security_code : n2xgp
+Send : Enviar
+
+---------------
+
+Address : 181.174.192.10
+Nombre : alejandro
+Apellido : vitali
+Cargo : operario
+Direccion : condarco 521
+Ciudad : lanus
+Telefono : 42308953
+Email : vitali.alejandro@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : hola me gustaria dejar mi CV desde ya muchas gracias
+Security_code : c89jt
+Send : Enviar
+
+---------------
+
+Address : 181.174.192.10
+Nombre : alejandro
+Apellido : vitali
+Cargo : operario
+Direccion : condarco 521
+Ciudad : lanus
+Telefono : 42308953
+Email : vitali.alejandro@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : hola me gustaria dejar mi CV desde ya muchas gracias
+Security_code : c3cmb
+Send : Enviar
+
+---------------
+
+Address : 190.51.185.15
+Nombre : Ana Paula
+Apellido : Castro
+Cargo : *
+Direccion : Necochea 2311
+Ciudad : Quilmes
+Telefono : 1134148787 / 42804397
+Email : anita87tandil@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Aguardo respuesta pronto, Gracias!
+Security_code : c6rsg
+Send : Enviar
+
+---------------
+
+Address : 190.189.10.165
+Nombre : Emmanuel Alejandro
+Apellido : García
+Cargo : Ventas - Atención al cliente
+Direccion : Manuel Carlés 3271
+Ciudad : Córdoba
+Telefono : 0351-4761401
+Email : garciatrs21@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Envío mis datos personales y mi Curriculum Vitae para vuestra consideración. Atte Emmanuel garcía
+Security_code : b4d8h
+Send : Enviar
+
+---------------
+
+Address : 190.189.10.165
+Nombre : Emmanuel Alejandro
+Apellido : García
+Cargo : Ventas - Atención al cliente
+Direccion : Manuel Carlés 3271
+Ciudad : Córdoba
+Telefono : 0351-4761401
+Email : garciatrs21@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Envío mis datos personales y mi Curriculum Vitae para vuestra consideración. Atte Emmanuel garcía
+Security_code : b4d8h
+Send : Enviar
+
+---------------
+
+Address : 190.189.10.165
+Nombre : Emmanuel Alejandro
+Apellido : García
+Cargo : Ventas - Atención al cliente
+Direccion : Manuel Carlés 3271
+Ciudad : Córdoba
+Telefono : 0351-4761401
+Email : garciatrs21@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Envío mis datos personales y mi Curriculum Vitae para vuestra consideración. Atte Emmanuel garcía
+Security_code : dsmy8
+Send : Enviar
+
+---------------
+

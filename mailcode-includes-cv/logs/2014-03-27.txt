@@ -1,0 +1,105 @@
+Address : 186.58.25.236
+Nombre : Diego
+Apellido : Rusca
+Cargo : Administrativo
+Direccion : General acha 465
+Ciudad : ramos mejia
+Telefono : 44889232
+Email : diego.rusca@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : tengo 30 años,mi nombre es diego rusca
+Security_code : mt35v
+Send : Enviar
+
+---------------
+
+Address : 186.58.25.236
+Nombre : Diego
+Apellido : Rusca
+Cargo : Administrativo
+Direccion : General acha 465
+Ciudad : ramos mejia
+Telefono : 44889232
+Email : diego.rusca@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : tengo 30 años,mi nombre es diego rusca
+Security_code : mt35v
+Send : Enviar
+
+---------------
+
+Address : 190.105.117.116
+Nombre : Agustin
+Apellido : Marcocci
+Cargo : Almacenamiento/ Logística/ Distribucion
+Direccion : Atahualpa 01
+Ciudad : Moreno
+Telefono : 1133211387
+Email : cochi.-@live.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Desarrollarme en un ambiente de trabajo que me lleve a nuevas fronteras de conocimiento y aprendizaje para un mejor desarrollo en mi vida laboral.
+Security_code : yh9s7
+Send : Enviar
+
+---------------
+
+Address : 190.221.12.2
+Nombre : Mariano
+Apellido : Gonzalez
+Cargo : Licenciado en Administracion de Empresas
+Direccion : 9 de Julio 1551, 3º piso, Dpto 11. Ciudad MENDOZA
+Ciudad : Mendoza
+Telefono : 0261 - 4299407-- 156402196
+Email : marianoegonzalez07@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Desde ya Gracias por su tiempo y espero su pronta respuesta. Gracias
+Security_code : 2fxs4
+Send : Enviar
+
+---------------
+
+Address : 190.179.246.149
+Nombre : NAHIR
+Apellido : PONCE
+Cargo : CONTADOR PUBLICO
+Direccion : BARRIO SANTA RITA M--10 C-20
+Ciudad : JUNIN MENDOZA
+Telefono : 0263-4433383
+Email : nahir_ponce18@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : hae poco me recibi de contadora y ando en busca de trabajo ojala pueda cubrir sus expectativas.
+Security_code : 2wt62
+Send : Enviar
+
+---------------
+
+Address : 186.23.113.221
+Nombre : Noelia
+Apellido : Di Mango
+Cargo : Administración
+Direccion : Aristóbulo del valle 447
+Ciudad : CABA
+Telefono : 43621855 / 1535078333
+Email : noeliadimango@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Busco trabajo en el área de administración
+Security_code : cwpwj
+Send : Enviar
+
+---------------
+
+Address : 190.175.114.207
+Nombre : Natalia
+Apellido : Grosso
+Cargo : Recursos Humanos
+Direccion : Rodriguez Peña 1095
+Ciudad : Buenos Aires
+Telefono : 02474-15400058
+Email : naatii.grosso@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Quisiera  desarrollarme en el ámbito laboral al cual pertenece mi formación académica en curso, ganar experiencia y poder perfeccionarme en ello. A la compañía podría brindarle mis cualidades de proactividad, dinamismo, capacidad de crecimiento, organización.
+Security_code : 2c45b
+Send : Enviar
+
+---------------
+

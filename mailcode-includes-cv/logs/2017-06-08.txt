@@ -1,0 +1,35 @@
+Address : 181.90.197.91<br>
+ <br>REF : chr
+ <br>Nombre : lautaro
+ <br>Apellido : arredes
+ <br>Cargo : chofer
+ <br>Direccion : av Triunvirato 4355
+ <br>Ciudad : buenos aires
+ <br>Telefono : 02346-15530101
+ <br>Email : lautaroarredes3@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : tengo buena presencia, responsabilidad y ganas de trabajar .
+ <br>Security_code : 2dh3z
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 179.41.158.221<br>
+ <br>REF : VT
+ <br>Nombre : omar
+ <br>Apellido : obes
+ <br>Cargo : vendedor
+ <br>Direccion : Thames 3234
+ <br>Ciudad : san justo
+ <br>Telefono : 44847637
+ <br>Email : elomi2008@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : SOY UNA PERSONA RESPONSABLE ORDENADA Y METODICA QUE DISFRUTA DEL TRABAJO EN
+EQUIPO Y DE LA OBTENCION DE LOGROS POR ESA VIA,ME ADAPTO RAPIDAMENTE A LOS
+CAMBIOS Y SIEMPRE TRATANDO DE EVOLUCIONAR EN LO QUE HAGO 
+
+ <br>Security_code : x4hks
+ <br>Send : Enviar
+ <br>
+---------------
+

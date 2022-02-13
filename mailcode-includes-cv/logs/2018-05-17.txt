@@ -1,0 +1,85 @@
+Address : 190.191.103.204<br>
+ <br>REF : SP-1
+ <br>Nombre : Miguel
+ <br>Apellido : Iozzo
+ <br>Cargo : ingeniero
+ <br>Direccion : wilde
+ <br>Ciudad : LLAVALLOL (CP=1836)
+ <br>Telefono : 1141440807
+ <br>Email : iozzgel@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Ingeniero Mecanico
+ <br>Security_code : sq64g
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.191.103.204<br>
+ <br>REF : SP-1
+ <br>Nombre : Miguel
+ <br>Apellido : Iozzo
+ <br>Cargo : ingeniero
+ <br>Direccion : wilde 140, llavallol
+ <br>Ciudad : Buenos aires
+ <br>Telefono : 1141440807
+ <br>Email : iozzgel@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Ingeniero Mecanico
+ <br>Security_code : sq64g
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.247.243.33<br>
+ <br>Nombre : Andrea
+ <br>Apellido : Gomez
+ <br>Cargo : Administrativa
+ <br>Direccion : Las Piedras 1447
+ <br>Ciudad : Lanus
+ <br>Telefono : 42416707
+ <br>Email : andreafgomez1973@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me podrian mandar un mail asi puedo enviar mi CV para postularme al puesto de administrativa para zona Burzaco
+ <br>Security_code : qq63s
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.45.6.218<br>
+ <br>Nombre : Rosana Judith
+ <br>Apellido : alvez
+ <br>Cargo : Senior 
+ <br>Direccion : Reconquista 68
+ <br>Ciudad : Monte grande
+ <br>Telefono : 1164904489
+ <br>Email : roalvez@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas Tardes adjunto cv para ser evaluada en la busqueda de Administrativa tareas generales burzaco
+Disponibilidad Full time, incorporacion inmediata  y movilidad propia 
+sld. 
+Atte 
+ <br>Security_code : wjr2g
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 200.114.235.96<br>
+ <br>REF : ACO-1
+ <br>Nombre : Romina Camacho
+ <br>Apellido : Camacho
+ <br>Cargo : Analista de comercio internacional/exterior
+ <br>Direccion : Av.Rivadavia 1976
+ <br>Ciudad : Ciudad de Buenos Aires
+ <br>Telefono : 1551221219
+ <br>Email : rocamacho77@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados Sres.
+Adjunto mi CV para postularme al puesto de referencia ACO-1.
+Aguardo ser contactada para una entrevista.
+Saludos cordiales.
+Lic. Romina Camacho
+ <br>Security_code : jgtwd
+ <br>Send : Enviar
+ <br>
+---------------
+

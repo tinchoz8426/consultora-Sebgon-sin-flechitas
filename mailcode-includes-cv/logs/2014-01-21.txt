@@ -1,0 +1,108 @@
+Address : 186.130.16.66
+Nombre : Veronica
+Apellido : Palacio
+Cargo : Tecnico Superior en Seguridad e Higiene Laboral 
+Direccion : Paraguay 1312
+Ciudad : Mendoza
+Telefono : 0261 4270992
+Email : veronicapalacio08@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Agradeceria , me tomaran en cuenta , soy unapersona muy responsable.      Muchas gracias 
+Security_code : vpw8x
+Send : Enviar
+
+---------------
+
+Address : 186.56.53.32
+Nombre : Manuela
+Apellido : Degliantoni
+Cargo : Enfermera laboral- administrativa
+Direccion : Guerra 1126
+Ciudad : Ramallo
+Telefono : 03407 15 466350
+Email : manuycosty@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Necesito trabajar, me adapto facilmente.
+Security_code : wmtbf
+Send : Enviar
+
+---------------
+
+Address : 190.229.133.67
+Nombre : Francisco Maximiliano
+Apellido : Robles
+Cargo : tecnico vial
+Direccion : uchitel 968
+Ciudad : basavilbaso
+Telefono : 0344515471285
+Email : robless10@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : estoy buscando trabajo en rosario o alrededores. 
+Security_code : dmm3b
+Send : Enviar
+
+---------------
+
+Address : 186.109.87.177
+REF : ADMINISTRATIVO-DE-LOGISTICA
+Nombre : silvio hugo dario
+Apellido : szemintowski chavez
+Cargo : ADMINISTRATIVO-DE-LOGISTICA
+Direccion : 2 de abril 945
+Ciudad : las breñas chaco
+Telefono : 03731-15437768
+Email : szemintowski_dario@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : adjunto mi curriculum vitae esperando una respuesta favorable
+
+saludos 
+Security_code : b9pj5
+Send : Enviar
+
+---------------
+
+Address : 186.109.172.8
+Nombre : Juan Manuel
+Apellido : Ferrero
+Cargo : Supervisor/Jefe/Coordinador/Analista de Sistemas/Gerencia
+Direccion : Sarmiento 2600
+Ciudad : Caseros
+Telefono : 1164131904
+Email : jumafe@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Trayectoria de 17 años realizando proyectos de IT.  Experiencia en rubro ferroviario, autotransporte urbano y de larga distancia, turismo, automotriz y hotelera
+Security_code : gy4mt
+Send : Enviar
+
+---------------
+
+Address : 196.32.64.47
+Nombre : adrian rodrigo
+Apellido : martinez
+Cargo : operario
+Direccion : azopardo 2059
+Ciudad : moreno
+Telefono : 15-2285-9250
+Email : martinez.rodrigoadrian@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : les dejo mi curriculum a su disposicion, para la incorporacion en algun puesto de trabajo disponible. gracias
+Security_code : bb8vk
+Send : Enviar
+
+---------------
+
+Address : 196.32.64.47
+Nombre : adrian rodrigo
+Apellido : martinez
+Cargo : operario
+Direccion : azopardo 2059
+Ciudad : moreno
+Telefono : 15-2285-9250
+Email : martinez.rodrigoadrian@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : les dejo mi curriculum a su disposicion, para la incorporacion en algun puesto de trabajo disponible. gracias
+Security_code : bb8vk
+Send : Enviar
+
+---------------
+

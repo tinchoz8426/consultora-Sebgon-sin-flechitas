@@ -1,0 +1,15 @@
+Address : 201.235.159.42
+Nombre : Melina Valeria
+Apellido : Villagra
+Cargo : Abogado
+Direccion : Rivera Indarte2120
+Ciudad : córdoba
+Telefono : 4742881
+Email : melivillagra@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me dirijo a ud. con el propósito de hacer llegar mi CV. Me gustaría formar un puesto de trabajo en el que pueda desarrollarme profesionalmente. Desdeya muchas gracias.Atte. Villagra.
+Security_code : ncpnj
+Send : Enviar
+
+---------------
+

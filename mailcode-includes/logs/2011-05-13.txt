@@ -1,0 +1,14 @@
+Address : 190.175.1.253
+Nombre : Francisco 
+Apellido : Frenquelli
+Empresa : Full Security SRL
+Telefono : 4308-4828
+Email : ffrenquelli@full-security.net
+Mensaje : Buenas tardes:
+Estamos interesados en el modulo de juicios y arreglos laborales, que valor tiene por unidad y si le pedimos un promedio de 500 por mes, cual es el costo final y tiempo de respuesta por pedido.
+Gracias
+Security_code : qtvsy
+Send : Enviar
+
+---------------
+

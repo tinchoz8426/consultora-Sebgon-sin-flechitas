@@ -1,0 +1,38 @@
+Address : 186.129.132.98
+Nombre : NORBERTO
+Apellido : BALLAUZ
+Cargo : capacitador en todas las areas de formacion profesional
+Direccion : baigorria 5385
+Ciudad : CABA
+Telefono : 46397363
+Email : BETTOBALLAUZ@YAHOO.COM.AR
+MAX_FILE_SIZE : 2097152
+Mensaje : desde ya muchas gracias por atender la presente ,y en cuanto a mis a
+haberes creo oportuno conversarlo personalmente, por las caracteristicas abordadas y dificultades planteadas en ls squemas de o delos dictados de cursos .
+saludo atte
+Security_code : kzzyb
+Send : Enviar
+
+---------------
+
+Address : 190.50.158.18
+Nombre : Maria Belen
+Apellido : Cicardi
+Cargo : Selectora Jr.
+Direccion : Peribebuy 898
+Ciudad : Lomas del mIrador
+Telefono : 1139224176
+Email : bcicardi@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : De mi mayor Consideración:
+
+Por medio de la presente, envío mi CV para eventuales búsquedas acordes a mi perfil.
+
+Saludos Cordiales.
+
+María Belén Cicardi
+Security_code : fw59p
+Send : Enviar
+
+---------------
+

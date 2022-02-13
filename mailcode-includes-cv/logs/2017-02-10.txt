@@ -1,0 +1,299 @@
+Address : 181.228.197.45<br>
+ <br>REF : SP-1
+ <br>Nombre : Rafael Manuel
+ <br>Apellido : Bellido
+ <br>Cargo : Supervisor de Produccion
+ <br>Direccion : Iberlucea 1142
+ <br>Ciudad : Capital Federal
+ <br>Telefono : 43012614
+ <br>Email : rafaelbellido@live.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Poseo una amplia experiencia en supervisor de produccion en laboratorios
+ <br>Security_code : b5sm3
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.228.197.45<br>
+ <br>REF : EP-1
+ <br>Nombre : Rafael Manuel
+ <br>Apellido : Bellido
+ <br>Cargo : Bellido
+ <br>Direccion : Iberlucea 1142
+ <br>Ciudad : Capital Federal
+ <br>Telefono : 43012614
+ <br>Email : rafaelbellido@live.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Poseo una amplia experiencia en supervisar procesos en laboratorios.
+ <br>Security_code : ft5nd
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.177.36.188<br>
+ <br>REF : EP-1
+ <br>Nombre : Bergimar
+ <br>Apellido : García
+ <br>Cargo : EP-1
+ <br>Direccion : Cochabamba 514, San Telmo
+ <br>Ciudad : Buenos aires
+ <br>Telefono : 1166790192
+ <br>Email : Bergi30082@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me comunico con ustedes ya que estoy muy interesada en la oferta laboral publicada para el cargo de encargado de producción. Les estoy enviando mi cv para que por favor lo revisen y de haber alguna oportunidad no duden en contactarme. Estaré muy atenta a sus comentarios. Saludos cordiales
+ <br>Security_code : wg3vx
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.177.36.188<br>
+ <br>Nombre : Bergimar
+ <br>Apellido : García
+ <br>Cargo : Analista de calidad, supervisor de planta
+ <br>Direccion : Cochabamba 514, San Telmo
+ <br>Ciudad : Buenos aires
+ <br>Telefono : 1166790192
+ <br>Email : Bergi30082@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenos días, les escribo ya que me encuentro en búsqueda laboral activa, les escribo para que por favor tomen en cuenta mi candidatura cuando surjan ofertas laborales acordes a mi perfil. De antemano les agradezco la oportunidad que me puedan brindar. Saludos cordiales
+ <br>Security_code : d5hk3
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.47.67.142<br>
+ <br>REF : JPER-1
+ <br>Nombre : MARIANO CARDACI
+ <br>Apellido : CARDACI
+ <br>Cargo : jefe de personal industri alimenticia
+ <br>Direccion : borges 1667
+ <br>Ciudad : caba
+ <br>Telefono : 1563660250
+ <br>Email : mariano_cardaci@yahoo.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : adjunto cv para el cargo con mas de 10 años de experiencia
+
+
+disponbilidad inmediata
+ <br>Security_code : k8nsx
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.193.10.190<br>
+ <br>REF : EP-1
+ <br>Nombre : Victor
+ <br>Apellido : Luna
+ <br>Cargo : ENCARGADO DE PRODUCCION
+ <br>Direccion : Lynch 81
+ <br>Ciudad : Avellaneda
+ <br>Telefono : 1535896195
+ <br>Email : kingsanti@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Experiencia en Unilever , Basf y Rindedos.
+ <br>Security_code : W335d
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.193.10.190<br>
+ <br>REF : EP-1
+ <br>Nombre : Victor
+ <br>Apellido : Luna
+ <br>Cargo : ENCARGADO DE PRODUCCION
+ <br>Direccion : Lynch 81
+ <br>Ciudad : Avellaneda
+ <br>Telefono : 1535896195
+ <br>Email : kingsanti@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Experiencia en Unilever , Basf y Rindedos.
+ <br>Security_code : ms94h
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.193.10.190<br>
+ <br>REF : EP-1
+ <br>Nombre : Victor
+ <br>Apellido : Luna
+ <br>Cargo : ENCARGADO DE PRODUCCION
+ <br>Direccion : Lynch 81
+ <br>Ciudad : Avellaneda
+ <br>Telefono : 1535896195
+ <br>Email : kingsanti@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Experiencia en Unilever , Basf y Rindedos.
+ <br>Security_code : ms94h
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.193.10.190<br>
+ <br>REF : EP-1
+ <br>Nombre : Victor
+ <br>Apellido : Luna
+ <br>Cargo : ENCARGADO DE PRODUCCION
+ <br>Direccion : Lynch 81
+ <br>Ciudad : Avellaneda
+ <br>Telefono : 1535896195
+ <br>Email : kingsanti@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Experiencia en Unilever , Basf y Rindedos.
+ <br>Security_code : ms94h
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.193.10.190<br>
+ <br>REF : EP-1
+ <br>Nombre : Victor
+ <br>Apellido : Luna
+ <br>Cargo : ENCARGADO DE PRODUCCION
+ <br>Direccion : Lynch 81
+ <br>Ciudad : Avellaneda
+ <br>Telefono : 1535896195
+ <br>Email : kingsanti@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Experiencia en Unilever , Basf y Rindedos.
+ <br>Security_code : mS94h
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.193.10.190<br>
+ <br>REF : EP-1
+ <br>Nombre : Victor
+ <br>Apellido : Luna
+ <br>Cargo : ENCARGADO DE PRODUCCION
+ <br>Direccion : Lynch 81
+ <br>Ciudad : Avellaneda
+ <br>Telefono : 1535896195
+ <br>Email : kingsanti@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Experiencia en Unilever , Basf y Rindedos.
+ <br>Security_code : nkcp9
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.117.4.109<br>
+ <br>REF : JPER-1
+ <br>Nombre : Elmer
+ <br>Apellido : Alcántara Coronel
+ <br>Cargo : Jefe de personal
+ <br>Direccion : Julio César 1342
+ <br>Ciudad : José León Suárez
+ <br>Telefono : 011 32788240
+ <br>Email : elm13@hotmail.c om
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenos días
+Adjunto hago llegar mi CV por aviso publicado.
+Saludos cordiales
+ <br>Security_code : 57jrn
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.247.121.25<br>
+ <br>REF : EP-1
+ <br>Nombre : Brian
+ <br>Apellido : Lavecchia
+ <br>Cargo : Jefe de producción alimenticio 
+ <br>Direccion : David Magdalena, 3322
+ <br>Ciudad : Caseros
+ <br>Telefono : 1568908297
+ <br>Email : brian.lavecchia@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me dirijo a ustedes demostrando amplio interés en el puesto requerido, siendo capaz de cumplir con sus demandas para el puesto  , contando con amplia experiencia en empresas alimenticias de producción masiva. Desde ya saludos.
+Luciano Lavecchia
+ <br>Security_code : 3mjbp
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.137.149.106<br>
+ <br>Nombre : Carlos Fabián
+ <br>Apellido : Visintainer
+ <br>Cargo : Técnico TE-1
+ <br>Direccion : Cochabamba 1840 2 D
+ <br>Ciudad : Capital Federal
+ <br>Telefono : 43058330
+ <br>Email : fabian.visintainer1@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Al aguardo de una pronta y gentil respuesta, los saludo.
+Cordialmente,
+
+Carlos Fabián Visintainer
+ <br>Security_code : fdw9m
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.167.194.42<br>
+ <br>REF : SP-1
+ <br>Nombre : Gustavo
+ <br>Apellido : Ardiles
+ <br>Cargo : Supervisor de Producción
+ <br>Direccion : Rojas 585, Caballito. CABA
+ <br>Ciudad : Buenos aires
+ <br>Telefono : 91122880471
+ <br>Email : gustavoardilessilva@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados, 
+
+Envío para su consideración en alguna vacante.
+
+Saludos.
+ <br>Security_code : 5v99y
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.129.134.167<br>
+ <br>Nombre : Alexis Orlando
+ <br>Apellido : Sulca Aedo
+ <br>Cargo : Administrativo/Atención al cliente/Ventas
+ <br>Direccion : Avellaneda 3833
+ <br>Ciudad : Mar del Plata
+ <br>Telefono : (223) 154567375
+ <br>Email : sulca.aedo.alexis@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Excelente disposición para trabajos grupales e individuales.
+Experiencia en Administración (libro diario, control de stock, facturación, contacto con proveedores), atención al publico y ventas.
+Conocimiento avanzado en idioma Inglés.
+ <br>Security_code : yqvdk
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.167.194.42<br>
+ <br>Nombre : Rafael Emilio
+ <br>Apellido : Moros Ortega
+ <br>Cargo : Ingeniero Industrial
+ <br>Direccion : Rojas 585 PB 2, Caballito
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 1169072785
+ <br>Email : rafaelmoros@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buen día. Anexo CV para su consideración dentro de sus procesos de selección. Agradecido de antemano. Saludos.
+ <br>Security_code : gn5qw
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.167.194.42<br>
+ <br>REF : EP-1
+ <br>Nombre : Rafael Emilio
+ <br>Apellido : Moros Ortega
+ <br>Cargo : Encargado de Produccion
+ <br>Direccion : Rojas 585 PB 2, Caballito
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 1169072785
+ <br>Email : rafaelmoros@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buen día. Anexo CV para su consideración dentro del proceso de selección del cargo citado. Gracias por su atención. Saludos.
+ <br>Security_code : kngsy
+ <br>Send : Enviar
+ <br>
+---------------
+

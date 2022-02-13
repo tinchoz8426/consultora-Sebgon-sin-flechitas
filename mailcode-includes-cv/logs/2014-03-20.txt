@@ -1,0 +1,62 @@
+Address : 186.153.246.232
+Nombre : Rocio Micaela
+Apellido : Allende
+Cargo : -
+Direccion : Lote 5 manz 32 coop la Unidad
+Ciudad : Cordoba
+Telefono : 156578011
+Email : rociomgallende@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : -
+Security_code : 9Q3BK
+Send : Enviar
+
+---------------
+
+Address : 186.153.246.232
+Nombre : Rocio Micaela
+Apellido : Allende
+Cargo : -
+Direccion : Lote 5 manz 32 coop la Unidad
+Ciudad : Cordoba
+Telefono : 156578011
+Email : rociomgallende@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : -
+Security_code : 62gv4
+Send : Enviar
+
+---------------
+
+Address : 179.37.194.8
+Nombre : Nilsa
+Apellido : Gonzalez
+Cargo : Area comercial
+Direccion : Haiti 3939 Valentin Alsina Bs.As.
+Ciudad : Lnus
+Telefono : 1532389208
+Email : nilsa1976@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : LES ENVIO MI CV. 
+BUSCO OPORTUNIDADES EN EL AREA COMERCIAL ,VENTAS PREFERIBLE MEDIO TIEMPO AUNQUE TAMBIEN ME INTERESA TIEMPO COMPLETO
+Security_code : jm7nn
+Send : Enviar
+
+---------------
+
+Address : 190.113.176.15
+Nombre : JUAN PABLO
+Apellido : ABDALA
+Cargo : COMERCIO EXTERIOR Y ADUANA
+Direccion : BARRIO DALVIAN
+Ciudad : MENDOZA
+Telefono : 2613030321
+Email : emsetexsa@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenas tardes. Envío mi curriculum adjunto.Busco trabajo en lo posbile relacionado al Comercio Exterior y aduana. Espero Respuesta. 
+Saludos!
+Security_code : hbwh4
+Send : Enviar
+
+---------------
+

@@ -1,0 +1,62 @@
+Address : 201.253.26.103
+REF : administrativo-logistica
+Nombre : Marcos
+Apellido : San Martino
+Cargo : Administrativo de logistica
+Direccion : Mendoza 1521
+Ciudad : Rosario
+Telefono : 03404-1553059
+Email : marcossm_23@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : .
+Security_code : bvv82
+Send : Enviar
+
+---------------
+
+Address : 190.172.228.48
+REF : tecnico-electornico
+Nombre : JOAQUIN EZEQUIEL
+Apellido : TOLABA
+Cargo : Operario/Empleado
+Direccion : Lisandro de la torre 3412
+Ciudad : Ituzaingo
+Telefono : 44810686
+Email : joaquintolaba2010@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Gracias por brindar este servicio.
+Security_code : 8ztrv
+Send : Enviar
+
+---------------
+
+Address : 186.136.141.93
+Nombre : Luis Carlos
+Apellido : Lezama Barreto
+Cargo : Area Administrativa
+Direccion : Antonio Beruti 4529
+Ciudad : Buenos Aires-Capital Federal
+Telefono : 15-39162693
+Email : sankarlos@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me interesa desarrollarme laboralmente y cumplir fielmente los objetivos misionales de la empresa. 
+Security_code : nt4w9
+Send : Enviar
+
+---------------
+
+Address : 190.31.232.18
+Nombre : Antonella
+Apellido : Piercamilli Lema
+Cargo : secretaria, recepcionista, administrativa, vendedora, asistente cocina, camarera
+Direccion : jose.c.paz 961
+Ciudad : buenos aires
+Telefono : 1558104330
+Email : antonella.pl@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : estoy en la busqueda de un empleo con urgencia, muchas gracias.
+Security_code : p47vx
+Send : Enviar
+
+---------------
+

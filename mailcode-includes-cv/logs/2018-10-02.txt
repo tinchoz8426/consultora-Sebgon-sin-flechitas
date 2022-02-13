@@ -1,0 +1,309 @@
+Address : 186.141.201.66<br>
+ <br>Nombre : Carla soledad
+ <br>Apellido : Avalos
+ <br>Cargo : Administración 
+ <br>Direccion : San Jose 253 ezeiza
+ <br>Ciudad : Bs as
+ <br>Telefono : 01150384930
+ <br>Email : Soledad9100@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me gustaría trabajar de lo que me asignen estoy en busca de trabajo tengo el secundario y analítico en mano y mi currículum desde ya muchas gracias 
+ <br>Security_code : Swc68
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.29<br>
+ <br>Nombre : Mirtha Susana
+ <br>Apellido : Fernandez
+ <br>Cargo : Atencion al cliente al publico caja
+ <br>Direccion : Lisandro Segovia 1880
+ <br>Ciudad : Casa
+ <br>Telefono : 3795023896
+ <br>Email : Cielo_02@hotmail.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Solicito el puesto 
+ <br>Security_code : gqwqc
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.19.188.186<br>
+ <br>Nombre : Franco gaston
+ <br>Apellido : Astrada
+ <br>Cargo : Mantenimiento
+ <br>Direccion : La pinta 746
+ <br>Ciudad : Jesus maria
+ <br>Telefono : 3525
+ <br>Email : Monicacortez85@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Gracias por su tiempo y me gustaria estar en su empresa.
+ <br>Security_code : Brqkc
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.19.188.186<br>
+ <br>Nombre : Franco gaston
+ <br>Apellido : Astrada
+ <br>Cargo : Mantenimiento
+ <br>Direccion : La pinta 746
+ <br>Ciudad : Jesus maria
+ <br>Telefono : 3525
+ <br>Email : Monicacortez@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Gracias por su tiempo y me gustaria estar en su empresa.
+
+
+
+
+
+ <br>Security_code : 7jrct
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.171.230.241<br>
+ <br>Nombre : claudio oscar
+ <br>Apellido : herman
+ <br>Cargo : ingeniero de proyecto jefe de ingenieria
+ <br>Direccion : 3 de febrero 3267
+ <br>Ciudad : caba
+ <br>Telefono : 1154993942
+ <br>Email : claudiooh@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : mi perfil es basicamente ingenieria de todo tipo puedo trabajar como gerente de ing. jefe de ing. como ingeniero de proyectos
+ <br>Security_code : kkkvg
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.99.113.250<br>
+ <br>REF : TM-2
+ <br>Nombre : Alejandro Daniel
+ <br>Apellido : Calandra
+ <br>Cargo : Tecnico mecanico
+ <br>Direccion : Newton 2480
+ <br>Ciudad : moreno
+ <br>Telefono : 1141756007
+ <br>Email : a.d.calandra@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : tm02
+ <br>Security_code : tmf4k
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.28.211.152<br>
+ <br>Nombre : Carmen Rosa
+ <br>Apellido : Gomez Fuentes
+ <br>Cargo : Administrativo
+ <br>Direccion : Dr Enrique Finocheto 864
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 1126995367
+ <br>Email : crgf1502@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola buenos dias me encantaria compartir mis conocimientos que puedan ayudar al desarrollo de alguna empresa que lo requiera
+ <br>Security_code : 5nmww
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.11<br>
+ <br>REF : SP-1
+ <br>Nombre : Mauro
+ <br>Apellido : Muñoz
+ <br>Cargo : Supervisor
+ <br>Direccion : La Gaviota 26
+ <br>Ciudad : Pilar
+ <br>Telefono : 11 6556 3740
+ <br>Email : mzmauro@hotmail.es
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Soy Ingeniero Industrial
+ <br>Security_code : ngvpq
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.27<br>
+ <br>Nombre : Lucas
+ <br>Apellido : Coria
+ <br>Cargo : Estoy sin trabajo
+ <br>Direccion : Carlos gardel 469
+ <br>Ciudad : Rafaela 
+ <br>Telefono : 3492519876
+ <br>Email : Luzisabella469@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Necesito trabajo 
+ <br>Security_code : Yw7z6
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.28<br>
+ <br>Nombre : Lucas
+ <br>Apellido : Coria
+ <br>Cargo : Estoy sin trabajo
+ <br>Direccion : Carlos gardel 469
+ <br>Ciudad : Rafaela 
+ <br>Telefono : 3492519876
+ <br>Email : Luzisabella469@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Necesito trabajo 
+ <br>Security_code : j8397
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 200.32.35.203<br>
+ <br>Nombre : Leidys Josefina
+ <br>Apellido : Carias Mata
+ <br>Cargo : Administrativo
+ <br>Direccion : Villa América -  Calle Bolivia Este 1293
+ <br>Ciudad : san Juan
+ <br>Telefono : 02645889561
+ <br>Email : leidyscm@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : En busqueda de oportunidad laboral en la rama Administrativa y RRHH.
+ <br>Security_code : tsbdz
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 200.32.35.203<br>
+ <br>Nombre : Leidys Josefina
+ <br>Apellido : Carias Mata
+ <br>Cargo : Administrativo
+ <br>Direccion : Villa América -  Calle Bolivia Este 1293
+ <br>Ciudad : san Juan
+ <br>Telefono : 02645889561
+ <br>Email : leidyscm@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : En busqueda de oportunidad laboral en la rama Administrativa y RRHH.
+ <br>Security_code : sd3kh
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 200.32.35.203<br>
+ <br>Nombre : Marlyn
+ <br>Apellido : Guzman
+ <br>Cargo : Atención al cliente
+ <br>Direccion : Villa América -  Calle Bolivia Este 1293
+ <br>Ciudad : san Juan
+ <br>Telefono : 02645889561
+ <br>Email : marlynguzmanmata@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : En busqueda de oportunidad laboral temporal hasta que pueda insertarme en el área de Salud.
+ <br>Security_code : g64s3
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.23.238.95<br>
+ <br>REF : ROT-1
+ <br>Nombre : Jose
+ <br>Apellido : Ponce
+ <br>Cargo : RESPONSABLE DE OFICINA TECNICA
+ <br>Direccion : Avenida Directorio
+ <br>Ciudad : 1° F
+ <br>Telefono : 46317296
+ <br>Email : jlp11_1969@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Atn, RRHH. 
+Estimados.:
+De mi mayor consideración: 
+Tengo el agrado de dirigirme a Uds. con el fin de transmitirles mi deseo en firme de incorporarme a su organización. A tal efecto adjunto, junto a la presente, mi CV. 
+Me presento como una persona activa, responsable, creativa, flexible, orientada al logro de resultados,  a la resolución y evolución constante en las tareas asignadas.
+El objetivo que me he impuesto, es el de formar parte del personal de una empresa prestigiosa, confiable y de proyectos ambiciosos. 
+Si fuera necesario podría acercarme personalmente para cualquier consulta adicional o entrevista personal. Solo tiene que comunicarse a los datos de referencia.
+Pongo, además, en su conocimiento que estoy en condiciones de asumir la responsabilidad de un empleo en forma inmediata.
+
+Quedando a la espera de su respuesta. 
+Me despido atte.
+                                                                        
+                                                                                                  José Luis Ponce
+
+ <br>Security_code : nvd6m
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.94.85.36<br>
+ <br>REF : TM-2
+ <br>Nombre : JAVIER
+ <br>Apellido : GUERCHUNY
+ <br>Cargo : TECNICO MECANICO
+ <br>Direccion : dr. aleu 3487 dpto 4
+ <br>Ciudad : san martin
+ <br>Telefono : +541162932124
+ <br>Email : jguerchuny@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Adjunto mi CV segun vuestro pedido, y para que lo conserven en su base de datos.
+ <br>Security_code : 458y3
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.9.131.177<br>
+ <br>Nombre : Natalia belen 
+ <br>Apellido : Constante 
+ <br>Cargo : Auxiliar general de mantenimiento o área de limpiesa
+ <br>Direccion : Calle 394 num 968
+ <br>Ciudad : Quilmes oeste 
+ <br>Telefono : 1551204974 
+ <br>Email : Natu_72_09@hotmail.com 
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Para solicitar una entrevista laboral desde ya gracias po leer el mensaje
+ <br>Security_code : 3c4qr
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.9.131.177<br>
+ <br>Nombre : Natalia belen 
+ <br>Apellido : Constante 
+ <br>Cargo : Auxiliar general de mantenimiento o área de limpiesa
+ <br>Direccion : Calle 394 num 968
+ <br>Ciudad : Quilmes oeste 
+ <br>Telefono : 1551204974 
+ <br>Email : Natu_72_09@hotmail.com 
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Para solicitar una entrevista laboral desde ya gracias po leer el mensaje
+ <br>Security_code : 3c4qr
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.95.106.40<br>
+ <br>REF : Ing. quim
+ <br>Nombre : SONIA
+ <br>Apellido : MADRID 
+ <br>Cargo : Jefa de procesos Industriales
+ <br>Direccion : AV CABILDO
+ <br>Ciudad : CAPITAL FEDERAL
+ <br>Telefono : 5491138473352
+ <br>Email : madridsonia2018@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Disponibilidad 
+ <br>Security_code : n23nz
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.17.19.161<br>
+ <br>REF : SP-1
+ <br>Nombre : Eduardo Enrique
+ <br>Apellido : Mejias Rodriguez
+ <br>Cargo : Supervisor de Produccion
+ <br>Direccion : Av. Mayo 1260
+ <br>Ciudad : C.A.B.A.
+ <br>Telefono : 1134026007
+ <br>Email : eduardoemr83@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : •	Ingeniero industrial con seis (6) años de experiencia profesional, amplios conocimientos en planificación de la producción, manejo de SAP, control y manejo de inventarios, supervisión y administración de los recursos humanos , conocimiento de normas ISO 9000-9001,14000,18000, planificación de  manejo de materiales a procesos, supervisión de operaciones de mantenimientos en el área Industrial, Control de documentos.
+ <br>Security_code : qtqyw
+ <br>Send : Enviar
+ <br>
+---------------
+

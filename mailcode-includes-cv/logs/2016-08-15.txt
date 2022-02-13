@@ -1,0 +1,86 @@
+Address : 181.14.174.249<br>
+ <br>REF : GTEP
+ <br>Nombre : ANALÍA ALEJANDRA
+ <br>Apellido : GUERRA
+ <br>Cargo : GERENTE
+ <br>Direccion : CONDARCO 3181
+ <br>Ciudad : BUENOS AIRES
+ <br>Telefono : 1544278551
+ <br>Email : aa_guerra@msn.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Adjunto cv para vuestro análisis
+ <br>Security_code : ZJF8S
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.195.233.80<br>
+ <br>REF : GTEP
+ <br>Nombre : Orlando
+ <br>Apellido : Parrado
+ <br>Cargo : Gerente de Planta
+ <br>Direccion : Cullen 4941
+ <br>Ciudad : CABA
+ <br>Telefono : 01140702655
+ <br>Email : fparrado2002@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : En referencia a su bùsqueda de un Gte de Planta es que les envìo mi CV.
+Saludos.
+Orlando Parrado
+ <br>Security_code : xrv73
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.18.166.149<br>
+ <br>REF : JPL
+ <br>Nombre : Alejandro 
+ <br>Apellido : Roccatagliata
+ <br>Cargo : Jefe de Planta
+ <br>Direccion : Homero 1017
+ <br>Ciudad : caba
+ <br>Telefono : 1568158466
+ <br>Email : rocca@telecentro.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Gracias
+ <br>Security_code : 754j2
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.22.132.113<br>
+ <br>Nombre : Luisa Celeste
+ <br>Apellido : Pantol
+ <br>Cargo : limpieza
+ <br>Direccion : almeyra 3198
+ <br>Ciudad : buenos aires
+ <br>Telefono : 1538465735
+ <br>Email : celes_amormio@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas. Les envio mi CV para que me tengan en su base de datos para futuras incorporaciones laborales
+ <br>Security_code : fcx4g
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.108.79.210<br>
+ <br>REF : ENPRO
+ <br>Nombre : Alan
+ <br>Apellido : Maciel
+ <br>Cargo : Encargado de Produccion
+ <br>Direccion : jujuy 1631
+ <br>Ciudad : loma hermosa
+ <br>Telefono : 1520297541
+ <br>Email : maciel.alan@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas Tardes,
+Por el presente medio les hago llegar mi curriculum para poder formar parte de su empresa. Soy técnico universitario en alimentos y  solo adeudo la tesis para ser ingeniero en Alimentos. Por el momento me encuentro viviendo en zona Oeste pero a principios del año entrante tengo planes de mudarme a zona Sur. Poseo movilidad propia. Quedo a su disposición.
+Desde ya muchas gracias.
+Saludos,
+Alan Maciel
+
+ <br>Security_code : mmbrg
+ <br>Send : Enviar
+ <br>
+---------------
+

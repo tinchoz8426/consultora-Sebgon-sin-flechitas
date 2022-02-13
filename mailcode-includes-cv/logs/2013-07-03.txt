@@ -1,0 +1,45 @@
+Address : 186.130.46.100
+Nombre : Inti
+Apellido : Castillo
+Cargo : Administrativo
+Direccion : Rio Blanco 4000
+Ciudad : Lujan de Cuyo
+Telefono : 261 - 5095842
+Email : intidelcastillo@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Les envío mi CV para puesto de Administrativo. Gracias; Inti Castillo.
+Security_code : 2gvp3
+Send : Enviar
+
+---------------
+
+Address : 190.182.137.152
+Nombre : ALEXANDRA
+Apellido : MEDERO
+Cargo : comercial
+Direccion : urquiza 62, piso 4 , dpto D
+Ciudad : cordoba
+Telefono : 3512935215
+Email : ale_77_2003@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Mi Nombre es Alexandra Medero , tengo 23 años , soy Técnica superior en Administración de Empresas y Técnica Superior en Comercialización . Estoy cursando el ultimo ano de la Licenciatura en Administración de empresas en la Universidad de Morón. He realizado varios trabajos de vendedora, promoción y administración. Adjunto le remito mi currículum vitae para su consideración , a fin de que los tenga en cuenta para esta búsqueda. Cuento con disponibilidad full time y mi remuneración pretendida de 3000 pesos . Puede contactarse a mi celular 0351293521.En espera de su respuesta, le saludo atentamente.Alexandra Medero
+Security_code : x9qdv
+Send : Enviar
+
+---------------
+
+Address : 186.59.124.66
+Nombre : Florencia Belen
+Apellido : Palacios
+Cargo : asistencia social
+Direccion : Maza 1663
+Ciudad : Mendoza
+Telefono : 156230303
+Email : palaciosbelen21@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Soy de Mendoza, he terminado de cursa la carrera de Licenciatura en Psicologia
+Security_code : qnvkw
+Send : Enviar
+
+---------------
+

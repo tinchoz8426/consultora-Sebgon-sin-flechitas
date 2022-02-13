@@ -1,0 +1,47 @@
+Address : 
+Nombre : Lucas
+Apellido : Maggio
+Cargo : Administrativo
+Direccion : Gounod 2250
+Ciudad : Hurlingham
+Telefono : 113663-8304
+Email : maggiolucas@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Busco empleo administrativo por caba
+Security_code : vy7sq
+Send : Enviar
+
+---------------
+
+Address : 
+Nombre : Lorena Paola
+Apellido : Mosna
+Cargo : Abogada Jr, 
+Direccion : Av. Pueyrredon 1546
+Ciudad : CABA
+Telefono : 1168029167
+Email : lorenapmosna@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me encuentro en búsqueda laboral, ya que a fin de mes estoy concluyendo con mis estudios universitarios. Preferentemente me interesan puestos donde pueda desarrollar mis conocimientos en el área del derecho del trabajo. 
+Atte los saludo.  
+Security_code : 77rqn
+Send : Enviar
+
+---------------
+
+Address : 
+Nombre : Lorena Paola
+Apellido : Mosna
+Cargo : Abogada Jr, 
+Direccion : Av. Pueyrredon 1546
+Ciudad : CABA
+Telefono : 1168029167
+Email : lorenapmosna@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me encuentro en busqueda  de trabajo, ya que a fin de mes , estoy finalizando mis estudios universitarios. Mi búsqueda se orienta a puestos en los que pueda desempeñar mis conocimientos del Derecho Laboral. 
+Atte los saludo. 
+Security_code : 8pzsd
+Send : Enviar
+
+---------------
+

@@ -1,0 +1,113 @@
+Address : 181.199.145.205<br>
+ <br>Nombre : Maria de los Milagros 
+ <br>Apellido : Delaloye
+ <br>Cargo : Psicóloga
+ <br>Direccion : Italia 1275
+ <br>Ciudad : Rosario
+ <br>Telefono : 3416413069
+ <br>Email : milagrosdelaloye@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Como Psicóloga,  estoy interesada y motivada no solo en trabajar desde la clínica con niños, niñas y adolescentes, sino también en trabajar desde la orientación vocacional con los mismos, ya que se considera que dicha disciplina está abocada tanto a la orientación de los adolescentes por ser  una población que se halla en una etapa compleja de la vida donde decidir implica más que la identidad, sino también a la reorientacion vocacional de aquellas personas que deciden volver a elegir otra carrera por diversos motivos.
+Así mismo me hallo interesada y actualmente capacitándome en Psicología Laboral, para trabajar desde la selección de personal.
+
+Considero que cuando se trabaja con lo que uno desea; la motivación, la iniciativa, la capacidad de aprendizaje, la predisposicion, entre otras competencias, habilidades, destrezas y capacidades predominan en el sujeto.
+
+ <br>Security_code : 9d699
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 200.115.230.105<br>
+ <br>Nombre : Denise
+ <br>Apellido : Fernandez
+ <br>Cargo : Trabajo Social
+ <br>Direccion : Arismendi 2664
+ <br>Ciudad : Capital Federal
+ <br>Telefono : 1536484926
+ <br>Email : denisefernandezts@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Envió CV,  a fin de ser considerado en su búsqueda laboral para realizar entrevistas domiciliarias. 
+ <br>Security_code : h957f
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.221.32.156<br>
+ <br>Nombre : MARIA JOSE
+ <br>Apellido : GARCILASO
+ <br>Cargo : EMPLEADO
+ <br>Direccion : URQUIZA 3360 DPTO 2
+ <br>Ciudad : SANTA FE
+ <br>Telefono : 3425311851
+ <br>Email : marita_sf@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Envio C.V. adjunto para ser tenida en cuenta para el empleo solicitado. Desde ya muchas gracias
+ <br>Security_code : dn232
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.47.24.155<br>
+ <br>Nombre : Cecilia
+ <br>Apellido : del Puerto
+ <br>Cargo : administración 
+ <br>Direccion : Heredia 380
+ <br>Ciudad : CABA
+ <br>Telefono : 1151352233
+ <br>Email : ceciliadelpuerto@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenos dias, 
+estoy interesada en trabajar
+ <br>Security_code : 2cbbj
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.83.66<br>
+ <br>REF : TEC. EL
+ <br>Nombre : Diego
+ <br>Apellido : Vega
+ <br>Cargo : Técnicos electrónicos especializados 
+ <br>Direccion : Salvigny 5324
+ <br>Ciudad : gregorio de laferrere
+ <br>Telefono : 01144572604
+ <br>Email : halcon.nocturno74@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Las pretensiones salariales a convenir.
+ <br>Security_code : m225p
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.138.26.242<br>
+ <br>REF : TECME
+ <br>Nombre : Marcos
+ <br>Apellido : Garrido
+ <br>Cargo : tecnico-operador
+ <br>Direccion : manuel calviño 8147
+ <br>Ciudad : arguello
+ <br>Telefono : 3516858768
+ <br>Email : eliveropeci@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : espero una pronta comunicacion de vuestra emoresa
+ <br>Security_code : 4zxr7
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.83.68<br>
+ <br>REF : EM
+ <br>Nombre : Diego
+ <br>Apellido : Vega
+ <br>Cargo : Técnicos electromecanico
+ <br>Direccion : Salvigny 5324
+ <br>Ciudad : gregorio de laferrere
+ <br>Telefono : 01144572604
+ <br>Email : halcon.nocturno74@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Sueldo a convenir 
+ <br>Security_code : h2z6b
+ <br>Send : Enviar
+ <br>
+---------------
+

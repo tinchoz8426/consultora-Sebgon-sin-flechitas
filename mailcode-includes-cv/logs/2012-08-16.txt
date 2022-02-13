@@ -1,0 +1,35 @@
+Address : 186.157.212.189
+Nombre : ofelia beatriz
+Apellido : sosa
+Cargo : trabajadora social
+Direccion : corrientes
+Ciudad : corrientes
+Telefono : 379435733
+Email : ofelina14@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : espero que me tengan en cuenta
+Security_code : 3yfm9
+Send : Enviar
+
+---------------
+
+Address : 186.158.229.32
+Nombre : Carolina Solange
+Apellido : Crespo
+Cargo : Secretaria/recepcionista/administración
+Direccion : Bécquer 2443
+Ciudad : Buenos Aires
+Telefono : 15 6138 7944
+Email : crespo.carolina@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buen día: Me gustaría saber si hay disponibles ofertas laborales para que pueda enviar mi cv o si son ustedes quienes se encargan de seleccionar los mismos.
+
+
+Muchas gracias.
+
+Atte, Carolina.
+Security_code : khdg7
+Send : Enviar
+
+---------------
+

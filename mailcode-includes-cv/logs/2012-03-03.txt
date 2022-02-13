@@ -1,0 +1,62 @@
+Address : 64.213.148.138
+REF : tecnico-quimico
+Nombre : gustavo 
+Apellido : quiroga
+Cargo : quimico
+Direccion : san luis
+Ciudad : san luis 
+Telefono : 266-4256520
+Email : alfgq@yahoo.com
+MAX_FILE_SIZE : 2097152
+Mensaje : busco trabajo en el sur del pais
+Security_code : tmqgx
+Send : Enviar
+
+---------------
+
+Address : 64.213.148.138
+REF : supervisor-de-elaboracion
+Nombre : gustavo 
+Apellido : quiroga
+Cargo : calidad
+Direccion : san luis
+Ciudad : san luis
+Telefono : 266-4256520
+Email : alfgq@yahoo.com
+MAX_FILE_SIZE : 2097152
+Mensaje : .
+Security_code : 4388w
+Send : Enviar
+
+---------------
+
+Address : 181.14.151.117
+Nombre : Luisina Carol
+Apellido : Schenkel
+Cargo : Ingeneria
+Direccion : Belgrano 678
+Ciudad : Pigue
+Telefono : 0291156433417
+Email : luisinask@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Interesada en radicarme en zona norte de Buenos Aires o en Mendoza.-
+Security_code : wkpg4
+Send : Enviar
+
+---------------
+
+Address : 190.188.103.31
+Nombre : Sebastian
+Apellido : Rollié Oliva
+Cargo : Tecnico maestro mayor de obra/tecnico en salud, seguridad e higiene.
+Direccion : 27 nº 1286
+Ciudad : La Plata
+Telefono : 2214099870
+Email : sebastianlp@live.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Les envio mi cv deseando q sea de interes de alguna de las empresas q cuenta con su trabajo
+Security_code : dbpgw
+Send : Enviar
+
+---------------
+

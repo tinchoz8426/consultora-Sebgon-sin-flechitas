@@ -1,0 +1,15 @@
+Address : 190.173.215.171
+Nombre : Osvaldo Rodolfo
+Apellido : Aguirre
+Cargo : Psicólogo
+Direccion : Av.Patricios 1451
+Ciudad : Autónoma de Buenos Aires
+Telefono : 4240-1194
+Email : aguirre_osvaldo2011@yahoo.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Les agradezco me consideren para algun puesto de trabajo.Muchas gracias.
+Security_code : 9hvbt
+Send : Enviar
+
+---------------
+

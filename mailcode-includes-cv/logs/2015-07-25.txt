@@ -1,0 +1,60 @@
+Address : 201.212.159.157
+Nombre : VALERIA GABRIELA 
+Apellido : CATANIA
+Cargo : RR.HH.
+Direccion : Abipones 779
+Ciudad : Rosario
+Telefono : 4593995   155807366
+Email : valecatania@live.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Deseo trabajar en el área en la cual me prepare para lo cual estoy atenta a una entrevista y ampliar cualquier informacion.
+Security_code : ffn92
+Send : Enviar
+
+---------------
+
+Address : 201.212.159.157
+Nombre : VALERIA GABRIELA 
+Apellido : CATANIA
+Cargo : RR.HH.
+Direccion : Abipones 779
+Ciudad : Rosario
+Telefono : 4593995   155807366
+Email : valecatania@live.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Deseo trabajar en el área en la cual me prepare para lo cual estoy atenta a una entrevista y ampliar cualquier informacion.
+Security_code : ffn92
+Send : Enviar
+
+---------------
+
+Address : 186.153.70.45
+Nombre : LUIS LEANDRO
+Apellido : BALDELLI
+Cargo : gerente
+Direccion : entre rios 738
+Ciudad : concordia
+Telefono : 03454225316
+Email : luisbaldelli@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados adjunto cv,busco una empresa líder donde poder desarrollarme personal y profesionalmente.Disponibilidad para radicarme en otra localidad.Saludos cordiales
+Security_code : cgrr2
+Send : Enviar
+
+---------------
+
+Address : 186.153.70.45
+Nombre : LUIS LEANDRO
+Apellido : BALDELLI
+Cargo : gerente
+Direccion : entre rios 738
+Ciudad : concordia
+Telefono : 03454225316
+Email : luisbaldelli@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados adjunto cv,busco una empresa líder donde poder desarrollarme personal y profesionalmente.Disponibilidad para radicarme en otra localidad.Saludos cordiales
+Security_code : x4prj
+Send : Enviar
+
+---------------
+

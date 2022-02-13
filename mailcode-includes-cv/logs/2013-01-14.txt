@@ -1,0 +1,63 @@
+Address : 190.191.196.169
+REF : gerente-produccion
+Nombre : Fabio
+Apellido : Bertona
+Cargo :  gerente-produccion
+Direccion : Antonia Godoy 7041
+Ciudad : Santa Fe
+Telefono : 0342154770106
+Email : fabiobertona@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Envío CV para el puesto en cuestión.
+Security_code : sfrbp
+Send : Enviar
+
+---------------
+
+Address : 186.61.37.169
+Nombre : Florencia Leonor
+Apellido : Figueras
+Cargo : Estudiante de Ingeniería Química
+Direccion : Medel 323
+Ciudad : Monte Grande
+Telefono : 4367-8837
+Email : florencia_figueras@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : 
+De mi consideración:
+	
+	Tengo el agrado de ponerme en contacto con ustedes, con el fin de solicitarle un puesto de trabajo en la Entidad.
+
+	El título de Secretaria/Asistente Ejecutiva que me fue otorgado por el Instituto Argentino de Secretarias Ejecutivas, con asignaturas importantes  para el desempeño de esa función, me avala para solicitar un puesto en esta importante empresa.
+
+	Continúo mi formación académica en la Universidad Tecnológica Nacional, Facultad Regional Buenos Aires, cursando  la Carrera de Ingeniería Química.
+
+	La formación recibida en las Instituciones mencionadas me han brindado la aptitud profesional indispensable para el mundo empresarial de hoy, capacitándome en disciplinas como Administración, Redacción Empresarial, Finanzas, Computación, Laboratorio, Industria y otras áreas del conocimiento que podrán apreciar en mi Currículum Vitae adjunto.
+
+	Ya que por carta es difícil aclarar todos los aspectos que consideren importantes para cubrir un puesto de trabajo, solicito la oportunidad de una entrevista para ello.
+
+		Los saludo atentamente.
+
+
+
+ 
+		     Florencia L. Figueras
+
+
+
+Dr. Medel 323
+1842 Monte Grande
+Prov. de Buenos Aires
+Tel: 4367-8837
+
+	
+
+
+
+		
+
+Security_code : n276h
+Send : Enviar
+
+---------------
+

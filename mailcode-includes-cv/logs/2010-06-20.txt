@@ -1,0 +1,45 @@
+Address : 200.59.194.66
+Nombre : ELIAS
+Apellido : PIBOULEAU
+Cargo : Geologo de yacimiento
+Direccion : San Juan Bosco 2406
+Ciudad : San Rafael
+Telefono : 02627-15685700
+Email : pibouleau@yahoo.com ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Sres Recursos humanos, adjunto a la presente env{io mis datos personales. Gracias
+Security_code : nfjjf
+Send : Enviar
+
+---------------
+
+Address : 201.255.74.234
+Nombre : Marcela Fabiana
+Apellido : Rodriguez
+Cargo : Lic. Trabajo Social
+Direccion : 504 Nº 1153
+Ciudad : M.B.Gonnet - La Plata - Bs.As.
+Telefono : (0221) 15-554-5326
+Email : marcero_05@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Se envia CV para su base de datos y en caso de solicitar profesionales en el area social, se tenga presente el mismo, desde ya muchas gracias Marcela
+Security_code : 8vymt
+Send : Enviar
+
+---------------
+
+Address : 190.174.210.66
+Nombre : carla mabel
+Apellido : zalazar
+Cargo : administrativo contable
+Direccion : iglesia paz 880
+Ciudad : claypole
+Telefono : 42683527
+Email : zalazar_k@live.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : quiero poder adquirir experiencia 
+Security_code : fs7p8
+Send : Enviar
+
+---------------
+

@@ -1,0 +1,35 @@
+Address : 181.228.54.109
+Nombre : Marta Viviana
+Apellido : Galatro Rodriguez
+Cargo : auxiliar admin., recepcionista, preceptora, secretaria, atencion al cliente
+Direccion : D'Orbigny 2239
+Ciudad : Bahia Blanca
+Telefono : 154739143
+Email : mvgalatro@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Envio mi CV para ser considerado. Actualmente estoy sin trabajo. Muchas gracias.
+Security_code : hbsvp
+Send : Enviar
+
+---------------
+
+Address : 200.51.83.133
+Nombre : Carlos Sebastián 
+Apellido : Garay
+Cargo : Administración
+Direccion : Salta 978
+Ciudad : Mendoza
+Telefono : 0261152185430
+Email : carlossgaray@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados Sr./Sras:
+Escribo con el objeto de participar en la selección de nuevos candidatos para puestos de trabajos de su empresa,y tener el placer de ofrecerles mis servicios y adjuntarles mi currículo.
+Si lo consideran oportuno, quedo a su disposición para cualquier pregunta y consulta que pudiera surgirles y/o aportarles la documentación que estimen oportuna.
+En espera de sus gratas noticias, sin mas que añadir les saluda atentamente.
+Garay, Carlos
+
+Security_code : hczr2
+Send : Enviar
+
+---------------
+

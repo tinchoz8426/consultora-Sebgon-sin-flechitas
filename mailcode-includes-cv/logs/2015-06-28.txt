@@ -1,0 +1,100 @@
+Address : 186.138.232.161
+Nombre : Nestor Damian
+Apellido : Galais
+Cargo : Supervisor
+Direccion : Rafael Castillo 197
+Ciudad : Buenos Aires
+Telefono : 0111534423883
+Email : damiangalais@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Envio mi cv para ser evaluado y puedan tenerme en cuenta para futuras busquedas.
+Security_code : j7nj9
+Send : Enviar
+
+---------------
+
+Address : 190.16.236.161
+Nombre : Maria Magdalena
+Apellido : Buzzani de Urquiza
+Cargo : Recepcionista/asistente/procuración
+Direccion : Ecuador
+Ciudad : 318
+Telefono : 1555734879
+Email : magdabuzzani@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenas tardes, estoy interesada en puestos de recepción, asistente, administrativa.Procuración.
+Security_code : 2S4br
+Send : Enviar
+
+---------------
+
+Address : 190.16.236.161
+Nombre : Maria Magdalena
+Apellido : Buzzani de Urquiza
+Cargo : Recepcionista/asistente/procuración
+Direccion : Ecuador
+Ciudad : 318
+Telefono : 1555734879
+Email : magdabuzzani@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenas tardes, estoy interesada en puestos de recepción, asistente, administrativa.Procuración.
+Security_code : 2s4br
+Send : Enviar
+
+---------------
+
+Address : 190.16.236.161
+Nombre : Maria Magdalena
+Apellido : Buzzani de Urquiza
+Cargo : Recepcionista/asistente/procuración
+Direccion : Ecuador
+Ciudad : 318
+Telefono : 1555734879
+Email : magdabuzzani@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenas tardes, estoy interesada en puestos de recepción, asistente, administrativa.Procuración.
+Security_code :  2s4br
+Send : Enviar
+
+---------------
+
+Address : 190.16.236.161
+Nombre : Maria Magdalena
+Apellido : Buzzani de Urquiza
+Cargo : Recepcionista/asistente/procuración
+Direccion : Ecuador
+Ciudad : 318
+Telefono : 1555734879
+Email : magdabuzzani@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenas tardes, estoy interesada en puestos de recepción, asistente, administrativa.Procuración.
+Security_code : nsmww
+Send : Enviar
+
+---------------
+
+Address : 181.111.8.52
+Nombre : Jorge Rubén 
+Apellido : Meriles
+Cargo : Psicólogo 
+Direccion : Block 2 dpto 4 El Huaico
+Ciudad : Salta 
+Telefono : 3876126665
+Email : jmeriles@ucasal.edu.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Sobre la oferta
+Salario
+A convenir
+Descripción
+Estamos en la búsqueda de PROFESIONALES psicólogos, trabajadores sociales, psicólogos sociales para la realización de entrevistas domiciliarias en la Provincia de SALTA Se requiere buen contacto interpersonal, disponibilidad, responsabilidad y organización de trabajo. El tiempo de trabajo es free lance.
+Cantidad de Vacantes: 2
+Requerimientos
+Educación Mínima: Universitario
+Años de Experiencia: 1
+Disponibilidad de Viajar: No
+Disponibilidad de Cambio de Residencia: No
+Security_code : vpt82
+Send : Enviar
+
+---------------
+

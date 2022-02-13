@@ -1,0 +1,107 @@
+Address : 186.1.230.167
+REF : GTEP
+Nombre : Nelson
+Apellido : Quindt
+Cargo : Gerente de Planta
+Direccion : Bvrd de Todos Los Santos 5700 
+Ciudad : Benavidez
+Telefono : 11 3084-7776
+Email : nelsonquindt@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados, buenas tardes,
+ 
+En respuesta al anuncio publicado en "Indeed.com", me complace adjuntarles mis antecedentes y trayectoria profesional para aplicar a la búsqueda de Gerente de Planta.
+ 
+Soy una persona con amplia experiencia en el área de Ingeniería, Producción y Gerenciamiento de Plantas en empresas de primera línea, en especial de la industria alimenticia de consumo masivo. Me considero altamente responsable, comprometido, flexible y proactivo.
+
+El objetivo que me he impuesto, es el de continuar desarrollándome en industrias prestigiosas, confiables y con proyectos ambiciosos. En cuanto a la remuneración, me pretención es de $/mes 50.000 (netos). 
+
+
+
+Considero que una entrevista será el marco adecuado donde pueda profundizar aspectos de mi perfil que resulten de su interes. 
+
+
+
+Quedo a vuestra disposición. 
+
+
+Atte,
+
+
+
+Nelson Quindt
+
+
+Security_code : z5dz8
+Send : Enviar
+
+---------------
+
+Address : 200.81.251.235
+REF : ENPRO
+Nombre : claudio
+Apellido : capitani
+Cargo : encargado
+Direccion : magallanes 3508
+Ciudad : buenos aires
+Telefono : 42765121
+Email : claudioalbertocapitani@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : estoy interesado en el puesto
+Security_code : mfn6g
+Send : Enviar
+
+---------------
+
+Address : 186.59.141.169
+Nombre : RAFAEL
+Apellido : ANTILLE
+Cargo : COMERCIO EXTERIOR
+Direccion : 1897
+Ciudad : LA PLATA
+Telefono : 02214714885
+Email : rafaantille@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : EN BUSCA DE EMPLEOS EN EL AREA DE COMERCIO, VENTAS , ADMINISTRATIVO FULL TIME
+Security_code : nj9vs
+Send : Enviar
+
+---------------
+
+Address : 190.244.173.52
+Nombre : Catriel
+Apellido : Poletti
+Cargo : Analista de Comunicación
+Direccion : Quintino Bocayuva
+Ciudad : Ciudad Autónoma de Buenos Aires
+Telefono : 1531693806
+Email : catrupol@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados:
+
+Por medio de la presente les hago llegar mi Currículum Vitae a fin de ser considerado para búsquedas presentes y futuras.
+Desde ya muchas gracias, y quedo a su disposición por si fuera necesario ampliar cualquier información contenida en el CV.
+Saludos cordiales,
+
+Catriel Poletti
+Security_code : gm2s8
+Send : Enviar
+
+---------------
+
+Address : 186.134.182.238
+REF : ENPRO
+Nombre : claudio
+Apellido : capitani
+Cargo : supervisor
+Direccion : magallanes3508
+Ciudad : buenos aires
+Telefono : 42765121
+Email : claudioalbertocapitani@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : estoy interesado en el puesto .
+Security_code : 8r3gq
+Send : Enviar
+
+---------------
+

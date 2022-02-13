@@ -1,0 +1,18 @@
+Address : 190.189.102.27
+REF : jefe-de-operaciones
+Nombre : Leandro Martín
+Apellido : Canteli
+Cargo : Administrativo
+Direccion : Baldomero Fernandez Moreno 3528
+Ciudad : CABA
+Telefono : 46124215
+Email : leandrocanteli@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenos días, me gustaría tener la posibilidad de trabajar para la empresa. Adjunto mi currículum y lo dejo a su disposición ante cualquier búsqueda laboral. 
+Desde ya, agradezco la atención y lo saludo atte. 
+
+Security_code : p7qr8
+Send : Enviar
+
+---------------
+

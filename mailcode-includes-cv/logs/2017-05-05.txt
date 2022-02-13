@@ -1,0 +1,217 @@
+Address : 201.176.29.227<br>
+ <br>REF : chr
+ <br>Nombre : Enrique Agustin
+ <br>Apellido : Jara
+ <br>Cargo : chofer
+ <br>Direccion : garibaldi 1939
+ <br>Ciudad : hurlingham
+ <br>Telefono : 1535976252
+ <br>Email : enriquejara27120466@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : destaco máximo interés en cualquier oportunidad de crecimiento. 
+ <br>Security_code : f4gnh
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.118.213.152<br>
+ <br>REF : chr
+ <br>Nombre : Dario daniel
+ <br>Apellido : Villalba
+ <br>Cargo : Chofer
+ <br>Direccion : Hornos 3209
+ <br>Ciudad : Buenos aires
+ <br>Telefono : 1151390381
+ <br>Email : villalbadario22@outlook.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Busco trabajo urgente, soy muy responsable y cuento con registro cnrt al dia.. espero poder entrar en su empresa..
+Desde ya muchas gracias.
+ <br>Security_code : r44m5
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.118.213.152<br>
+ <br>Nombre : Dario daniel
+ <br>Apellido : Villalba
+ <br>Cargo : Chofer
+ <br>Direccion : Hornos 3209
+ <br>Ciudad : Buenos aires
+ <br>Telefono : 1151390381
+ <br>Email : villalbadario22@outlook.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Busco trabajo de chofer poseo registro cnrt para cargas generales, tengo disponibilidad horaria full time, soy muy responsable y con muchas ganas de trabajar..
+Desde ya muchas gracias.
+ <br>Security_code : n4qrc
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.13.5.165<br>
+ <br>REF : ACO-1
+ <br>Nombre : Jorge
+ <br>Apellido : Rankov
+ <br>Cargo : Analista de Comercio Exterior
+ <br>Direccion : Piedrabuena 45, entre calles Agrelo y Recreo
+ <br>Ciudad : Llavallol
+ <br>Telefono : 1142311202
+ <br>Email : jrankov@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimado, vi su aviso en la web y quisiera estar dentro de la terna para su consideración.
+Adjunto mi CV a sus efectos.
+Saludo atentamente
+Jorge Rankov
+ <br>Security_code : 7gngs
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.117.3.115<br>
+ <br>REF : chr
+ <br>Nombre : Christian daniel
+ <br>Apellido : Wolber
+ <br>Cargo : Chofer de reparto
+ <br>Direccion : Av centenario 2650 d 3  
+ <br>Ciudad : Beccar .san isidro
+ <br>Telefono : 47427960   -1561395409
+ <br>Email : wolberchristian@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buen trato con compañeros. Clientes .responsable .
+ <br>Security_code :  pbnk5
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.60.129.8<br>
+ <br>REF : EP-1
+ <br>Nombre : Fabian Ernesto
+ <br>Apellido : Ortiz
+ <br>Cargo : Encargado de Produccion
+ <br>Direccion : Pringles 4172
+ <br>Ciudad : SAN MIGUEL - SAN MIGUEL OESTE
+ <br>Telefono : 1160328582
+ <br>Email : fabianortiz1978@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : estoy a su disposicion.
+ <br>Security_code : 5p8dx
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.129.17.220<br>
+ <br>REF : VT
+ <br>Nombre : ignacio
+ <br>Apellido : Elias
+ <br>Cargo : Empleado
+ <br>Direccion : Rodriguez 9
+ <br>Ciudad : Ramos Mejia
+ <br>Telefono : 57406802
+ <br>Email : susanaguillaumet@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola soy responsable y sincero
+ <br>Security_code : jm3yf
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 200.42.22.13<br>
+ <br>REF : ACO
+ <br>Nombre : Darrelson
+ <br>Apellido : Marquez
+ <br>Cargo : Asistente Comercial
+ <br>Direccion : capital federal
+ <br>Ciudad : buenos aires
+ <br>Telefono : 1127101679
+ <br>Email : darrelson.marquez@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Profesional en la carrera de Administración, con experiencia de 19 años en telecomunicaciones con orientación a las
+ventas y al servicio al cliente, habilidades para trabajar en equipos de alto desempeño con proactividad y compromiso al
+logro de objetivos, promoviendo sinergia con las personas, aplicando los procesos y lineamientos organizacionales.
+ <br>Security_code : fpymz
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 179.41.152.29<br>
+ <br>REF : JPER-1
+ <br>Nombre : Gladys Noemi
+ <br>Apellido : Fontenla
+ <br>Cargo : jefe de recursos humanos
+ <br>Direccion : Quiroz 2487
+ <br>Ciudad : ITUZAINGO (CP=1714)
+ <br>Telefono : 1140440244
+ <br>Email : fontenla.gladys@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Experiencia en el cargo y en el rubro
+ <br>Security_code : 8xpkx
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.57.232.157<br>
+ <br>REF : SP-1
+ <br>Nombre : Cristian Fabián 
+ <br>Apellido : Pogliani
+ <br>Cargo : Supervisor de Producción
+ <br>Direccion : Salta 345
+ <br>Ciudad : Ramallo
+ <br>Telefono : 0340715405864
+ <br>Email : cristianpogliani@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados,
+He visto la Oferta Laboral publicada y la misma me resultó de gran interés. Por este motivo, les hago llegar mi Currículum Vitae, a fin de ser tenido en cuenta como candidato.
+Quedo a su disposición para ampliar cualquier información necesaria.
+Cordialmente,
+Cristian Fabian Pogliani
+
+ <br>Security_code : 2y5d3
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.151.175.118<br>
+ <br>Nombre : Maximiliano*
+ <br>Apellido : Jimenez*
+ <br>Cargo : Encargado de seguridad e higiene laboral*
+ <br>Direccion : Ambargasta Nº 3255*
+ <br>Ciudad : Santiago del Estero. Capital*
+ <br>Telefono : +5493854123078*
+ <br>Email : maximilianojim@outlook.com*
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : En caso de que haya un encargado de la seguridad en la empresa, estoy dispuesto a colaborara con las tareas en la que se me requiera.
+ <br>Security_code : tfzq5
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.17.98.218<br>
+ <br>Nombre : Maria Soledad
+ <br>Apellido : Pereira
+ <br>Cargo : Tecnico en Seguridad e Higiene
+ <br>Direccion : Av. Federico Lacroze 2981
+ <br>Ciudad : Capital Federal
+ <br>Telefono : 1540863595
+ <br>Email : msoledadpereira@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Tecnico en Seguridad e Higiene
+ <br>Security_code : 6wkmn
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.23.208.83<br>
+ <br>REF : TE-1
+ <br>Nombre : Roger Andres
+ <br>Apellido : Lorza Castillo
+ <br>Cargo : Técnico Electrico
+ <br>Direccion : Av Callao 341
+ <br>Ciudad : Ciudad Autónoma de Buenos Aires
+ <br>Telefono : 1158520435
+ <br>Email : rlorza@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Objetivo: Calificar en una empresa donde pueda desarrollarme profesionalmente y contribuir al logro de sus metas
+ <br>Security_code : t2fsm
+ <br>Send : Enviar
+ <br>
+---------------
+

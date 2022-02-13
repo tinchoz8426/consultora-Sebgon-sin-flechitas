@@ -1,0 +1,97 @@
+Address : 190.17.199.27<br>
+ <br>REF : JPER-1
+ <br>Nombre : Roberto
+ <br>Apellido : Quirico
+ <br>Cargo : Jper1
+ <br>Direccion : Guardia Nacional
+ <br>Ciudad : argentina
+ <br>Telefono : 1133774874
+ <br>Email : robertoquirico.rq@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Soy el candidato
+ <br>Security_code : 7g946
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 200.91.34.30<br>
+ <br>Nombre : Vanesa Jaqueline
+ <br>Apellido : Cuenca
+ <br>Cargo : TECNICA HIGIENE Y SEGURIDAD LABORAL
+ <br>Direccion : 25 DE MAYO S/N
+ <br>Ciudad : San juan
+ <br>Telefono : 02645281517
+ <br>Email : vanec964@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : mi deseo es encontrar trabajo en lo que me compete
+ <br>Security_code : fhxyv
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.9<br>
+ <br>REF : chr
+ <br>Nombre : Alberto
+ <br>Apellido : Scifano
+ <br>Cargo : Chofer
+ <br>Direccion : rio traful 2586 
+ <br>Ciudad : bs as F.varela
+ <br>Telefono : 1568995573
+ <br>Email : scofano.alberto@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : hirario full tame
+ <br>Security_code : hwsvr
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.244.112.79<br>
+ <br>REF : JPER-1
+ <br>Nombre : Daniela
+ <br>Apellido : Dellacasa
+ <br>Cargo : JPER-1
+ <br>Direccion : https://www.linkedin.com/in/daniela-florencia-dellacasa-76661662
+ <br>Ciudad : Ituzaingó
+ <br>Telefono : 1153382515
+ <br>Email : danielafdellacasa@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas tardes,
+Acerco mi cv ya que me encuentro interesada en formar parte del proceso de búsqueda de referencia.
+
+Quiero presentarme contándoles que tengo 30 años de edad, resido en la localidad de Ituzaingó (zona oeste de GBA) y en relación a mi educación, poseo buen nivel de inglés, formación terciaria en Protocolo y Ceremonial, así como también una carrera de grado en Psicología. 
+En mis diez años de carrera dentro de empresas multinacionales, he recorrido áreas como Supply chain, Customer Service, Ventas y Recursos Humanos, lo cual me permite conocer diferentes variables de atención al cliente (interno y/o externo).
+Asimismo, me describo como una profesional con perfil generalista, con marcada vocación de servicio, altamente orientada a resultados, comprometida y con capacidad de inspiración e influencia positiva.
+
+En la actualidad, me encuentro realizando Consultoría de RRHH de manera independiente, incluyendo procesos de selección, aunque continúo interesada en reinsertarme en un empleo en relación de dependencia dentro de una organización socialmente responsable, de la que sentirme orgullosa.
+
+Invito a que puedan ver mi experiencia en detalle y si lo creen oportuno, coordinar una entrevista.
+
+Desde ya, muchas gracias.
+Daniela Dellacasa
+ <br>Security_code : 4kr4p
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.194.144.170<br>
+ <br>REF : ROT-1
+ <br>Nombre : Guido
+ <br>Apellido : Bruno
+ <br>Cargo : Diseñador Industrial
+ <br>Direccion : Soler 3858
+ <br>Ciudad : Ciudad Autónoma de Buenos Aires
+ <br>Telefono : 223 154391327
+ <br>Email : guidobruno@outlook.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me comunico en respuesta a la solicitud de empleo publicada, mi nombre es Guido Bruno, Diseñador Industrial.
+Estoy muy interesado en la propuesta, cuento con capacidad en generar propuestas y alternativas de diseño, poseo un manejo avanzado en software de modelado 3d, renderizado, desarrollo y confección de planos.
+Tengo experiencia en industria metalúrgica, desarrollando productos conformados en chapa y poseo un amplio conocimiento en técnicas de producción y materiales.
+Envío adjunto mi CV. 
+
+Gracias por su atención
+Saludos
+ <br>Security_code : b6y2d
+ <br>Send : Enviar
+ <br>
+---------------
+

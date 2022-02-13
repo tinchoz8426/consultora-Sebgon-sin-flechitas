@@ -1,0 +1,79 @@
+Address : 186.143.26.128
+Nombre : catalina
+Apellido : ortiz
+Cargo : empleado
+Direccion : costa rica 2002
+Ciudad : catamarca
+Telefono : 03833433548
+Email : catalina_oe@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Le envio mi curriculum vitae. 
+Security_code : kn8j2
+Send : Enviar
+
+---------------
+
+Address : 190.174.46.123
+Nombre : Marianela
+Apellido : Ochoa
+Cargo : rrhh
+Direccion : Salcedo 1271
+Ciudad : Castelar
+Telefono : 4489-4690
+Email : marianelaochoa@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me postulo para un puesto en el área de Recursos Humanos como asistente o auxiliar. Muchas Gracias
+Security_code : wr3vp
+Send : Enviar
+
+---------------
+
+Address : 190.175.204.112
+Nombre : Gisele
+Apellido : Rabinovich
+Cargo : todo lo referido a la comunicación audiovisual
+Direccion : sarmiento 2595
+Ciudad : Bs As
+Telefono : 15-64739798
+Email : giselerabinovich@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola, soy estudiante de la carrera Dirección de cine y tv y deseo trabajar en algún puesto relacionado a la tarea audiovisual (cine,teatro,tv). Asistir, ser meritoria, administracion-producción, visualización de films. Algún puesto dentro del área que elijo.
+
+Muchisimas gracias 
+Security_code : xbgf6
+Send : Enviar
+
+---------------
+
+Address : 190.177.222.135
+Nombre : Patricia
+Apellido : Sandón
+Cargo : Administrativo/Analista Jr. de RR.HH
+Direccion : Espora 636
+Ciudad : Zona Oeste, GBA.
+Telefono : 011-1561171824
+Email : psandon@live.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Saludos, 
+
+P.Sandón.
+Security_code : c99xx
+Send : Enviar
+
+---------------
+
+Address : 190.51.75.76
+Nombre : Julieta
+Apellido : Ceballos
+Cargo : Administrativa, recepcionista, rrhh
+Direccion : Santa Fe 769
+Ciudad : Morón
+Telefono : 1158161391
+Email : julietaaceballos@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me interesan puestos similares a administracion, recepcion, secretaria y rrhh, preferentemente en Morón o aledaños. 
+Security_code : 22228
+Send : Enviar
+
+---------------
+

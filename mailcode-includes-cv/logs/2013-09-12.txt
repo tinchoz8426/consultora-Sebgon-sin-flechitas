@@ -1,0 +1,40 @@
+Address : 190.178.188.150
+Nombre : Natalia Lujan
+Apellido : Nucciarone
+Cargo : Abogado
+Direccion : Bolivar 2630 9c 
+Ciudad : Mar del Plata
+Telefono : (2266) 154-79892
+Email : natinuccia@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados, busco trabajo de abogada en empresas, en cualquier parte del pais, gracias
+Security_code : tmxw8
+Send : Enviar
+
+---------------
+
+Address : 190.7.3.78
+Nombre : Sebastián Cesar
+Apellido : Hilarza
+Cargo : Ingeniería Industrial
+Direccion : Villaguay 452, 6P Dpto 33C
+Ciudad : Paraná
+Telefono : 0343 154 601 235
+Email : seba_hilarza@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenos días. Me llamo Sebastián Hilarza, soy Ingeniero en Control e Instrumentación Industrial recibido de la Universidad Técnica Federico Santa María, (Chile), siendo esta  la tercera Universidad de prestigio en dicho país.
+Mis estudios universitarios, (Homologado para el ejercicio en todo el territorio Nacional) y el grueso de mi ejercicio profesional datan en una de las mineras subterráneas de extracción de cobre mas grande del mundo, CODELCO Chile, lugar donde me formé y adquirí las habilidades y conocimientos necesarios para mi profesión, las cuáles eran constantemente desafiadas por el avance tecnológico que imponía la puesta al día siempre.   
+Soy ciudadano Argentino y actualmente me encuentro radicado en la ciudad de Paraná, Entre Ríos luego de haber vivido los últimos 16 años en el vecino país. Aún así, esto no es impedimento para radicarme en la zona que se estime conveniente mi presencia.
+Mi desempeño, por mi formación profesional y competencias, bien puede darse en el ámbito de supervisión, Control de la Producción, Gestión de Calidad entre otras actividades.
+Dejo mis antecedentes personales y laborales a continuación con la finalidad de ponerme a vuestra disposición  para lo que se estime conveniente. Por lo demás, desearía ponerme en contacto con usted/es a fin de poder concertar una reunión para mayor detalle de lo aquí expresado.
+Sin problemas de radicación en donde se estime conveniente mi presencia.
+ 		
+Atte
+Sebastián Hilarza
+343-154 601 235
+
+Security_code : 6xsv8
+Send : Enviar
+
+---------------
+

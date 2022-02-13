@@ -1,0 +1,31 @@
+Address : 201.252.254.102
+REF : TECM
+Nombre : fernando
+Apellido : josviak
+Cargo : tecnico mecanico
+Direccion : crespo 646
+Ciudad : sunchales
+Telefono : 3493/524478
+Email : fjosviak@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : buenas tardes ,adjunto mi cv a la espera de una oferta laboral,saludos cordiales
+Security_code : wvs7m
+Send : Enviar
+
+---------------
+
+Address : 190.227.18.128
+Nombre : Maria Belen
+Apellido : Alderete
+Cargo : recepcionista, cajera, administrativa
+Direccion : Pasaje melian 5999
+Ciudad : Rosario
+Telefono : 0341-156319250
+Email : belusagitario@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Espero me tengan en cuenta para algun puesto laboral. saluda atte.
+Security_code : gtpgp
+Send : Enviar
+
+---------------
+

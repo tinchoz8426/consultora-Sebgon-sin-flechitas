@@ -1,0 +1,81 @@
+Address : 200.47.108.247
+REF : administrativo-logistica
+Nombre : Domingo Orlando Sosa
+Apellido : Sosa
+Cargo : Administrativo Logistica
+Direccion : Antonio Toro 931
+Ciudad : Bs As
+Telefono : 02304-488151
+Email : domingosos@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Administrativo Logistica
+Security_code : psdpk
+Send : Enviar
+
+---------------
+
+Address : 200.47.108.247
+REF : jefe-de-operaciones
+Nombre : Domingo Orlando Sosa
+Apellido : Sosa
+Cargo : Jefe de operaciones
+Direccion : Antonio Toro 931
+Ciudad : Bs As
+Telefono : 02304-488151
+Email : domingosos@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : jEFE-DE-OPERACIONES
+Security_code : KKXR2
+Send : Enviar
+
+---------------
+
+Address : 181.95.150.52
+Nombre : SERGIO DANIEL
+Apellido : LEONARDINI
+Cargo : ADMINISTRATIVO CONTABLE
+Direccion : NAVARRO 4111
+Ciudad : CABA
+Telefono : 1557968238 O 45034747
+Email : sergioleonar@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : LES ADJUNTO MI CURRICULUM VITAE, POR SI CUADRA DENTRO DE ALGUN PERFIL.
+
+DESDE YA MUCHAS GRACIAS.
+
+SALUDA ATTE. SERGIO LEONARDINI
+Security_code : p5qwj
+Send : Enviar
+
+---------------
+
+Address : 181.29.103.35
+Nombre : Jessica Paola
+Apellido : Castaño 
+Cargo : Psicologia
+Direccion : Esmeralda 1385
+Ciudad : Buenos Aires, Capital Federal
+Telefono : 1159768122
+Email : jesicarendon@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : mi objetivo profesional se direcciona a todo el proceso de enganche sobre el area de talento humano...les envió mi CV para que se entere un poco mas de mi...disponibilidad full time
+Security_code : 5ftfq
+Send : Enviar
+
+---------------
+
+Address : 200.112.138.230
+Nombre : Daniel Andrés
+Apellido : Gagliardino
+Cargo : nn
+Direccion : Tilcara 373
+Ciudad : Campana
+Telefono : 0111524524044
+Email : danielgagliardino@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Me presento para su base de datos ya que estoy en búsqueda de empleo
+Security_code : 4scv6
+Send : Enviar
+
+---------------
+

@@ -1,0 +1,157 @@
+Address : 205.211.199.30<br>
+ <br>Nombre : Norman Gerardo
+ <br>Apellido : Trejo Sanchez
+ <br>Cargo : Arquitecto
+ <br>Direccion : Colonia Loarque
+ <br>Ciudad : Tegucigalpa
+ <br>Telefono : 98445365
+ <br>Email : normanger7@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas, soy arquitecto egresado en busca de empleo en el area de diseño y construccion.
+ <br>Security_code : tt3d5
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.117.2.214<br>
+ <br>Nombre : Micaela ayelen 
+ <br>Apellido : Gajes
+ <br>Cargo : El que esté disponible
+ <br>Direccion : Mariano Benitez 1561, Pb 3
+ <br>Ciudad : Cordoba 
+ <br>Telefono : 3518051301
+ <br>Email : miika.gajes@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Deseo que me den una oportunidad laboral, ya que con el tiempo fui adquiriendo muy buenas experiencias en relación con el público , y cualquier cosa nueva a aprender no es un reto para mi , aprendo muy rápido . 
+Estaré eternamente agradecido por tenerme en cuenta , Muchas gracias por su tiempo. 
+
+ <br>Security_code : Dn4v9
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.169.34.23<br>
+ <br>Nombre : Martin 
+ <br>Apellido : Pardo
+ <br>Cargo : Oficial Electricista
+ <br>Direccion : Feval 590
+ <br>Ciudad : Merlo
+ <br>Telefono : 1162255760
+ <br>Email : pardomartinjavier@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : A quien corresponda envio atte mi CV.
+ <br>Security_code : qwtm4
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.231.190.233<br>
+ <br>Nombre : María Eugenia
+ <br>Apellido : Fornaro
+ <br>Cargo : Técnica Química
+ <br>Direccion : Calle 23 1469
+ <br>Ciudad : La Plata
+ <br>Telefono : 2494495679
+ <br>Email : fornaroeugenia@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Necesito un trabajo temporal.
+ <br>Security_code : g3tyt
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.231.190.233<br>
+ <br>Nombre : María Eugenia
+ <br>Apellido : Fornaro
+ <br>Cargo : Técnica Química
+ <br>Direccion : Calle 23 1469
+ <br>Ciudad : La Plata
+ <br>Telefono : 2494495679
+ <br>Email : fornaroeugenia@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Necesito un trabajo temporal.
+ <br>Security_code : g3tyt
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.60.141.12<br>
+ <br>Nombre : Fabiana
+ <br>Apellido : Büchert Lerch
+ <br>Cargo : Educadora
+ <br>Direccion : Bolívar 1356, San Telmo
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 1127002423
+ <br>Email : fabianabuchertlerch@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me he desempeñado en el área administrativa de educación. Estoy abierta a realizar trabajos administrativos.
+ <br>Security_code : kbs3v
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.165.232.122<br>
+ <br>Nombre : Sonia Esther 
+ <br>Apellido : Sanchez
+ <br>Cargo : informes socio-ambientales
+ <br>Direccion : av. Bustamante 560
+ <br>Ciudad : Lanus. E
+ <br>Telefono : 1123418364 fijo 42049391
+ <br>Email : soniaracig@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me postulo para realizar informes socio-ambientales en zona C.A.B.A y zur Bs As gracias 
+ <br>Security_code : 6pqmb
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.110.160.31<br>
+ <br>Nombre : Emiliano
+ <br>Apellido : Ahumada
+ <br>Cargo : Administracion
+ <br>Direccion : Lopez y Planes 5000
+ <br>Ciudad : Cordoba
+ <br>Telefono : 3513742739
+ <br>Email : egahumada38@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Disponibilidad: full time.
+ <br>Security_code : ptcv2
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.6.253.39<br>
+ <br>Nombre : Santos
+ <br>Apellido : Moreno Quintana
+ <br>Cargo : Consultoría o Marketing
+ <br>Direccion : Golf Club Argentino
+ <br>Ciudad : José C Paz
+ <br>Telefono : 1544350823
+ <br>Email : santos_mor@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Realmente interesado en formar parte de un trabajo dinámico donde aporte los conocimientos para crecer personal y profesionalmente.
+ <br>Security_code : rqf74
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.23.189.133<br>
+ <br>Nombre : Barbara Mailen
+ <br>Apellido : Coná
+ <br>Cargo : Administrativa
+ <br>Direccion : El Baqueano, 1284
+ <br>Ciudad : Burzaco
+ <br>Telefono : +541139749879
+ <br>Email : barbarasenisi@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados: 
+
+      Les hago llegar mi Currículum Vitae, a fin de ser tenido en cuenta como candidato.
+Quedo a su disposición para ampliar cualquier información necesaria.
+Cordialmente,
+Barbara Mailen Coná
+ <br>Security_code : bgh57
+ <br>Send : Enviar
+ <br>
+---------------
+

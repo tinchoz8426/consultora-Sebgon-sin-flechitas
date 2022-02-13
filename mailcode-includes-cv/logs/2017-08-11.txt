@@ -1,0 +1,207 @@
+Address : 190.104.247.98<br>
+ <br>REF : ACO-1
+ <br>Nombre : Marcos
+ <br>Apellido : Pereira
+ <br>Cargo : Analista de Comercio Exterior
+ <br>Direccion : Pilar, 1134
+ <br>Ciudad : Pilar
+ <br>Telefono : 1150413706
+ <br>Email : marcos13pereira@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Soy un Licenciado que busca aplicar conocimientos tecnicos en los procesos a fin de facilitar los flujos de trabajo.
+ <br>Security_code : wvpk9
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.191.155.23<br>
+ <br>REF : ROT-1
+ <br>Nombre : Nicolas
+ <br>Apellido : Barrientos
+ <br>Cargo :  RESPONSABLE DE OFICINA TECNICA 
+ <br>Direccion : Monroe 4050 - Villa Urquiza
+ <br>Ciudad : CABA
+ <br>Telefono : 1133320635
+ <br>Email : snico.barrientos@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados,
+
+En respuesta a su anuncio publicado, me dirijo a ustedes con el fin de remitirles mi Currriculum Vitae para aspirar a la vacante de Diseñador Industrial.
+
+Quedo a su disposición para ampliar cuanta información estimen necesaria.
+
+Reciban un cordial saludo,
+
+Nicolas Barrientos
+
+Portfolio Online: https://www.behance.net/nicolasbarrientos
+ <br>Security_code : ss9wq
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.104.208.226<br>
+ <br>REF : ROT-1
+ <br>Nombre : leandro
+ <br>Apellido : de rovere
+ <br>Cargo : jefe oficina tecnica
+ <br>Direccion : congreso 4965 2B
+ <br>Ciudad : buenos aires
+ <br>Telefono : 1565717218
+ <br>Email : leandro.derovere@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : adjunto mi cv
+ <br>Security_code : v6hsv
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.179.134.76<br>
+ <br>REF : chr
+ <br>Nombre : Eduardo
+ <br>Apellido : anizan
+ <br>Cargo : chofer
+ <br>Direccion : ravel 2698
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 1138966580
+ <br>Email : eduanizan@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : me postulo para el puesto de chofer
+ <br>Security_code : 4bxv4
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.17.158.196<br>
+ <br>REF : VT
+ <br>Nombre : Osvaldo Hector
+ <br>Apellido : Carle
+ <br>Cargo : Vendedor Tecnico
+ <br>Direccion : Hurlingham
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 01141622428
+ <br>Email : osvaldocarle98@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Soy egresado de una escuela tecnica que busca, estabilidad laboral con muy buena predisposicion y organizacion.
+ <br>Security_code : vm8vg
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.17.158.196<br>
+ <br>REF : VT
+ <br>Nombre : Osvaldo Hector
+ <br>Apellido : Carle
+ <br>Cargo : Vendedor Tecnico
+ <br>Direccion : Hurlingham
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 01141622428
+ <br>Email : osvaldocarle98@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Soy egresado de una escuela tecnica que busca, estabilidad laboral con muy buena predisposicion y organizacion.
+ <br>Security_code : ck69z
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.143.198.227<br>
+ <br>REF : chr
+ <br>Nombre : Luis emilio 
+ <br>Apellido : Jatip
+ <br>Cargo : Chofer
+ <br>Direccion : Jose hernandez 1595
+ <br>Ciudad : Isidro casanova
+ <br>Telefono : 1130928884
+ <br>Email : luisemiliojatip09@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas tardes me gustaria formar parte de la empresa y poder cumplir con las tareas a desempeñar tengo conocimiento de mecanica y electrisidad gracias y saludos
+ <br>Security_code : 6469y
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.143.198.227<br>
+ <br>REF : chr
+ <br>Nombre : Luis emilio 
+ <br>Apellido : Jatip
+ <br>Cargo : Chofer
+ <br>Direccion : Jose hernandez 1595
+ <br>Ciudad : Isidro casanova
+ <br>Telefono : 1130928884
+ <br>Email : luisemiliojatip09@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas tardes me gustaria formar parte de la empresa y poder cumplir con las tareas a desempeñar tengo conocimiento de mecanica y electrisidad gracias y saludos
+ <br>Security_code : 6469y
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.11<br>
+ <br>REF : SP-1
+ <br>Nombre : ezequiel omar
+ <br>Apellido : lencina
+ <br>Cargo : Jefe de planta / supervisor 
+ <br>Direccion : Río dé Janeiro
+ <br>Ciudad : LANUS (CP=1824)
+ <br>Telefono : 1568847173
+ <br>Email : Eze_lencina83@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Gran liderazgo , trabajo en equipo , manejo de 5S, SMED, normas ISO.
+ <br>Security_code : 99mzk
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.9<br>
+ <br>REF : SP-1
+ <br>Nombre : ezequiel omar
+ <br>Apellido : lencina
+ <br>Cargo : Jefe de planta / supervisor 
+ <br>Direccion : Río dé Janeiro
+ <br>Ciudad : LANUS (CP=1824)
+ <br>Telefono : 1568847173
+ <br>Email : Eze_lencina83@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Gran liderazgo , trabajo en equipo , manejo de 5S, SMED, normas ISO.
+ <br>Security_code : 99mzk
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.231.158.136<br>
+ <br>Nombre : Ariel Anibal
+ <br>Apellido : Villagra
+ <br>Cargo : SADOFE - Administrativo fin de semana
+ <br>Direccion : CABA
+ <br>Ciudad : CABA
+ <br>Telefono : 1569618866
+ <br>Email : aavillagra@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados,
+Estoy interesado en postularme para algún empleo de fin de semana y feriados.
+Tengo 40 años, vivo en CABA y tengo formación y experiencia en RR.HH., puedo realizar tareas de Administración general y Supervisión de personal, además de otras funciones operativas.
+Por último les solicito me informen un mail donde enviar mi CV, desde ya les agradezco por su tiempo, los  saludo atte.
+ 
+ Ariel A. Villagra.
+
+ <br>Security_code : ss548
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.190.52.36<br>
+ <br>REF : JPER-1
+ <br>Nombre : Sergio Fabián
+ <br>Apellido : Rosales
+ <br>Cargo : Jefe de Recursos Humanos
+ <br>Direccion : Wernicke 905
+ <br>Ciudad : Villa Adelina
+ <br>Telefono : 1550393453
+ <br>Email : sfr_rrtt@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Remuneración Bruta 55000
+ <br>Security_code : 6n4dk
+ <br>Send : Enviar
+ <br>
+---------------
+

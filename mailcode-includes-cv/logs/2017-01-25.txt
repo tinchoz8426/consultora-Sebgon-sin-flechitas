@@ -1,0 +1,123 @@
+Address : 190.19.129.107<br>
+ <br>REF : ROT-1
+ <br>Nombre : Carlos
+ <br>Apellido : Gaia
+ <br>Cargo : ROT-1
+ <br>Direccion : Primera Junta 109
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 1160996281
+ <br>Email : carlos.gaia@hotmail.es
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Sr Responsable:
+
+Me dirijo a Ud para solicitar el empleo referenciado.
+
+Me presento como una persona joven, dinamica, y proactiva.
+Adjunto mi CV a fin de que vea mis antecedentes academicos y mi experiencia laboral.
+
+Me despido atentamente a la espera de una pronta y favorable respuesta.
+
+Atentamente. Carlos Gaia
+ <br>Security_code : nyz9w
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 191.80.96.140<br>
+ <br>Nombre : Marina Lorena
+ <br>Apellido : Ramirez Noguera
+ <br>Cargo : Secretaria
+ <br>Direccion : cataneo  6486
+ <br>Ciudad : Gonzalez catan,Buenos Aires
+ <br>Telefono : 02202-454023
+ <br>Email : lorenaramirez437@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Les hago llegar mi Currículum Vitae, a fin de ser tenida en cuenta como candidata.
+Quedo a su disposición para ampliar cualquier información necesaria.
+                                                                 
+ <br>Security_code : vmmgf
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.115.44.105<br>
+ <br>Nombre : jose antonio
+ <br>Apellido : plaza
+ <br>Cargo : tecnico de seguridad e higiene
+ <br>Direccion : hualpa 1096
+ <br>Ciudad : mendoza
+ <br>Telefono : 02615638544
+ <br>Email : joseplaza74@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : buenas tardes envio C.VITAE para postularme en tecnico de seguridad e higiene
+ <br>Security_code : hn9s7
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.226.182.98<br>
+ <br>REF : JPER-1
+ <br>Nombre : Jorge Alberto
+ <br>Apellido : Zanetti
+ <br>Cargo : Jefe de personal 
+ <br>Direccion : Carlos Gardel, 830
+ <br>Ciudad : Loma Hermosa
+ <br>Telefono : 01148482577
+ <br>Email : jzanetti@arnet.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Adjunto CV para la búsqueda de referencia.
+Saludos 
+ <br>Security_code : f7tk9
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.226.182.98<br>
+ <br>REF : JPER-1
+ <br>Nombre : Jorge Alberto
+ <br>Apellido : Zanetti
+ <br>Cargo : Jefe de personal 
+ <br>Direccion : Carlos Gardel, 830
+ <br>Ciudad : Loma Hermosa
+ <br>Telefono : 01148482577
+ <br>Email : jzanetti@arnet.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Adjunto CV para la búsqueda de referencia.
+Saludos 
+ <br>Security_code : f7tk9
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.226.182.98<br>
+ <br>REF : JPER-1
+ <br>Nombre : Jorge Alberto
+ <br>Apellido : Zanetti
+ <br>Cargo : Jefe de personal 
+ <br>Direccion : Carlos Gardel, 830
+ <br>Ciudad : Loma Hermosa
+ <br>Telefono : 01148482577
+ <br>Email : jzanetti@arnet.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Adjunto CV para la búsqueda de referencia.
+Saludos 
+ <br>Security_code : 33jhm
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.254.61.237<br>
+ <br>Nombre : Cristian
+ <br>Apellido : Paniagua Garcia
+ <br>Cargo : Empleado
+ <br>Direccion : Edison
+ <br>Ciudad : Rafael Castillo
+ <br>Telefono : 1158302516
+ <br>Email : cristian-@live.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Actualmente sin trabajo y amplia disponibilidad horaria.
+ <br>Security_code : fx3t5
+ <br>Send : Enviar
+ <br>
+---------------
+

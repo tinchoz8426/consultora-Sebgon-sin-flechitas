@@ -1,0 +1,161 @@
+Address : 190.175.80.63<br>
+ <br>REF : Tectron
+ <br>Nombre : Diego
+ <br>Apellido : Savia
+ <br>Cargo : Tecnico Electronico
+ <br>Direccion : Juan Dillon 4138
+ <br>Ciudad : Merlo
+ <br>Telefono : 0220-4806090
+ <br>Email : diegosavia@yahoo.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Agradezco su atención y estoy a su disposición para el puesto que consideren necesario ya que estoy en búsqueda de trabajo por lo que tengo disponibilidad inmediata.
+
+Saludos y gracias
+ <br>Security_code : 22p65
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.178.239.175<br>
+ <br>Nombre : leonardo gabriel
+ <br>Apellido : claure
+ <br>Cargo : tecnico electronico
+ <br>Direccion : bouchard 3928
+ <br>Ciudad : lanus este
+ <br>Telefono : 1556226868
+ <br>Email : leo_la12pasion@hotmail.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : quisiera seguir desarrollando mis conocimientos en una empresa seria y tener un buen ambiente laboral para seguir creciendo.
+ <br>Security_code : fyyyc
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.178.239.175<br>
+ <br>REF : Tectron
+ <br>Nombre : leonardo gabriel
+ <br>Apellido : claure
+ <br>Cargo : tecnico electronico
+ <br>Direccion : bouchard 3928
+ <br>Ciudad : lanus este
+ <br>Telefono : 1556226868
+ <br>Email : leo_la12pasion@hotmail.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : DESARROLLAR MIS CONOCIMIENTOS Y PODER SEGUIR CRECIENDO LABORAL Y PERSONALMENTE
+ <br>Security_code : bpzw2
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.178.239.175<br>
+ <br>REF : Tectron
+ <br>Nombre : leonardo gabriel
+ <br>Apellido : claure
+ <br>Cargo : tecnico electronico
+ <br>Direccion : bouchard 3928
+ <br>Ciudad : lanus este
+ <br>Telefono : 1556226868
+ <br>Email : leo_la12pasion@hotmail.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : DESARROLLAR MIS CONOCIMIENTOS Y PODER SEGUIR CRECIENDO LABORAL Y PERSONALMENTE
+ <br>Security_code : bpzw2
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.178.239.175<br>
+ <br>REF : Tectron
+ <br>Nombre : leonardo gabriel
+ <br>Apellido : claure
+ <br>Cargo : tecnico electronico
+ <br>Direccion : bouchard 3928
+ <br>Ciudad : lanus este
+ <br>Telefono : 1556226868
+ <br>Email : leo_la12pasion@hotmail.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : DESARROLLAR MIS CONOCIMIENTOS Y PODER SEGUIR CRECIENDO LABORAL Y PERSONALMENTE
+ <br>Security_code : bpzw2
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.18.154.14<br>
+ <br>Nombre : Gaston Agustin
+ <br>Apellido : Ferreiro Salvo
+ <br>Cargo : Tecnico electronico
+ <br>Direccion : Manuel Arce
+ <br>Ciudad : Buenos aires
+ <br>Telefono : 1538467665
+ <br>Email : gastonagustinferreiro@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Agradezco la atención que me ofrecen, espero cumplir con las expectativas que me propongan.
+ <br>Security_code : m868t
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.179.254.185<br>
+ <br>REF : ROT-1
+ <br>Nombre : luis humberto
+ <br>Apellido : Quinteros
+ <br>Cargo : Proyectista
+ <br>Direccion : San Isidro 965
+ <br>Ciudad : Ituzaingo
+ <br>Telefono : 15 55686093
+ <br>Email : luiggi_2519@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : envio mi CV para que puedan evaluarlo .
+
+gracias
+ <br>Security_code : 8pyzf
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.171.172.19<br>
+ <br>REF : EP-1
+ <br>Nombre : YANET
+ <br>Apellido : IRIGOITI
+ <br>Cargo : Encargado de produccion
+ <br>Direccion : san martin 364
+ <br>Ciudad : ensenada
+ <br>Telefono : 2216717472
+ <br>Email : YANETIRIGOITI@HOTMAIL.COM
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : .
+ <br>Security_code : 399qr
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.44.179.173<br>
+ <br>Nombre : Celeste Andrea
+ <br>Apellido : Alfano
+ <br>Cargo : seguros/cajas
+ <br>Direccion : Colombia 2286
+ <br>Ciudad : Ituzaingó
+ <br>Telefono : 1564955902
+ <br>Email : celestealfano@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Envío mi cv el cual espero consideren.
+ <br>Security_code : skb6c
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.1.138.73<br>
+ <br>REF : Tectron
+ <br>Nombre : David Andres
+ <br>Apellido : Murcia
+ <br>Cargo : Técnico Electronico
+ <br>Direccion : Juan Zanella 4349 D2
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 1134449952
+ <br>Email : davidborgia@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola, me gustaría mucho una oportunidad para demostrar mis conocimientos y aptitudes.
+ <br>Security_code : b6s5w
+ <br>Send : Enviar
+ <br>
+---------------
+

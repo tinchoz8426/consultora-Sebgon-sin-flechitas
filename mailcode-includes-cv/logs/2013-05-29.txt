@@ -1,0 +1,81 @@
+Address : 201.253.23.30
+Nombre : Leandro Daniel
+Apellido : Arias Ronchi
+Cargo : empleado
+Direccion : clucellas 1247
+Ciudad : santa fe
+Telefono : 0342 4960478 / 0342 155281917
+Email : arias577@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : CONSEGUIR TRABAJO
+Security_code : XZQN8
+Send : Enviar
+
+---------------
+
+Address : 190.247.138.115
+Nombre : Hemer
+Apellido : Hernandez Meza
+Cargo : vacantes camara Argentina-China
+Direccion : Jorge Luis Borges 2387, Capital Federal.
+Ciudad : Ciudad Autonoma de Buenos Aires
+Telefono : 11- 5094-3668 
+Email : hemerhernandezmeza@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenos Aires,  29  de Mayo de  2013
+
+
+Señores
+Consultora Sebgon
+Atn. Andrea Tambascio
+Ciudad.
+
+Referencia: Postulación a Vacantes empresas relacionadas con China
+
+
+Cordial Saludo.
+Con la presente adjunto mi curriculum vitae  porque me gustaría participar en los procesos de selección  de empresas de la cámara Argentina - China y que se ajusten a mi perfil, Considero que mis aptitudes, motivación y creatividad pueden contribuir al crecimiento de algunas de estas compañías inicialmente participando en el proceso de selección.
+Con el fin de ampliar y comentar algún aspecto de mi formación y experiencia profesional, solicito una entrevista y la posibilidad de participar en las diferentes pruebas de selección.
+Sin otro particular.  A la espera de sus prontas noticias,
+Les saluda atentamente,
+Firma
+
+Fdo.: Hemer Hernández Meza
+Buenos Aires – Argentina.
+
+
+Security_code : 8f6wn
+Send : Enviar
+
+---------------
+
+Address : 201.212.65.59
+Nombre : Elian Dario
+Apellido : Suarez
+Cargo : Operario,operario autoelevador
+Direccion : palacios 1240
+Ciudad : lujan
+Telefono : 02324-15525090
+Email : eliansuarez84@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Contribuir al logro de los objetivos de la empresa, sea realizando las actividades a desempeñar de manera eficaz en el puesto para el cual sea asignado, buscando un desarrollo personal y profesional, siempre que sea posible demostrar mi capacidad en  el ámbito laboral.
+Security_code : 9dmxn
+Send : Enviar
+
+---------------
+
+Address : 190.50.209.133
+Nombre : juan
+Apellido : fossati
+Cargo : operario/carnicero
+Direccion : arribeños
+Ciudad : hurlingham
+Telefono : 1556169747
+Email : juan_fossatti@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : juan 
+Security_code : f46r7
+Send : Enviar
+
+---------------
+

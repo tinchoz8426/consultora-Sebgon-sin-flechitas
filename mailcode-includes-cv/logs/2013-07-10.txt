@@ -1,0 +1,15 @@
+Address : 201.212.33.117
+Nombre : leandro 
+Apellido : nuñez
+Cargo : administrativos, o  ventas 
+Direccion : Javier de la rosa 1325
+Ciudad : santa fe
+Telefono : 0342 - 155046098
+Email : leanunez713@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : No me presenta inconveniente el ser trasladado a otra ciudad o pueblo ya que soy soltero y no tengo hijos además pretendo independizarme de mi familia. Siempre que no sea Buenos Aires, Córdoba (capital), Rosario.
+Security_code : 2jnqv
+Send : Enviar
+
+---------------
+

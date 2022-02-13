@@ -1,0 +1,30 @@
+Address : 186.129.3.195
+Nombre : Gustavo Damian
+Apellido : Martinez
+Cargo : Gerencia Adminitrativa
+Direccion : Saenz Peña 1187
+Ciudad : Temperley
+Telefono : 4392-1606
+Email : g.martinez.74@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : x
+Security_code : 4rvpt
+Send : Enviar
+
+---------------
+
+Address : 190.18.122.88
+Nombre : monica 
+Apellido : vanzini
+Cargo : gerente (área desarrollo alimentos)
+Direccion : pujol 1435
+Ciudad : capital
+Telefono : 0332915696416
+Email : vanzim@quickfood.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : envio de CV
+Security_code : p6vdf
+Send : Enviar
+
+---------------
+

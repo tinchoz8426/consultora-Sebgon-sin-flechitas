@@ -1,0 +1,32 @@
+Address : 190.244.59.201<br>
+ <br>REF : TEC. EL
+ <br>Nombre : carlos
+ <br>Apellido : monico
+ <br>Cargo : tecnico electronico
+ <br>Direccion : thorne 927
+ <br>Ciudad : ituzaingo
+ <br>Telefono : 01153840857
+ <br>Email : monicocd@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : te experiencia en electrónica industrial soy tecnico hace 25 años
+ <br>Security_code : 6gycm
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.244.59.201<br>
+ <br>REF : TEC. EL
+ <br>Nombre : carlos
+ <br>Apellido : monico
+ <br>Cargo : tecnico electronico
+ <br>Direccion : thorne 927
+ <br>Ciudad : ituzaingo
+ <br>Telefono : 01153840857
+ <br>Email : monicocd@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : te experiencia en electrónica industrial soy tecnico hace 25 años
+ <br>Security_code : 6gycm
+ <br>Send : Enviar
+ <br>
+---------------
+

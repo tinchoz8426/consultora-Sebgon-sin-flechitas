@@ -1,0 +1,139 @@
+Address : 181.104.75.242
+Nombre : johana 
+Apellido : herrera
+Cargo : atencion al cliente
+Direccion : chiclana 7581
+Ciudad : del viso, pilar
+Telefono : 01168796119
+Email : shanty_bh8@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : necesito un empleo
+Security_code : security code
+Send : Enviar
+
+---------------
+
+Address : 181.104.75.242
+Nombre : johana 
+Apellido : herrera
+Cargo : atencion al cliente
+Direccion : chiclana 7581
+Ciudad : del viso, pilar
+Telefono : 01168796119
+Email : shanty_bh8@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : necesito un empleo
+Security_code : ghfqk
+Send : Enviar
+
+---------------
+
+Address : 181.28.193.145
+Nombre : fernando
+Apellido : caraballo
+Cargo : operario
+Direccion : Sáenz peña 1134
+Ciudad : Zárate 
+Telefono : 3787 588179
+Email : caraballofer86@outlook.es
+MAX_FILE_SIZE : 2097152
+Mensaje : Busco trabajo 
+Security_code : 49y23
+Send : Enviar
+
+---------------
+
+Address : 24.232.53.153
+Nombre : Ariel
+Apellido : Clusman
+Cargo : Compras administracion
+Direccion : Rivadavia 64 piso 1 depto 1
+Ciudad : San Isidro
+Telefono : 4 747 -9072
+Email : aclusman@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenas tardes .
+Adjunto mi cv ya que estoy en plena búsqueda laboral. De surgir alguna necesidad de acuerdo a mi aptitud profesional por favor tener en cuenta.
+Desde ya muchas gracias por su atención y colaboración en mi búsqueda. 
+Saludos cordiales.
+Security_code : mjk8j
+Send : Enviar
+
+---------------
+
+Address : 181.46.84.53
+Nombre : Cristian Marcelo 
+Apellido : Castro Arancibi
+Cargo : Auxiliar de operativa / Tester/ BPO/ Data entry/ Procesamiento de datos/ Mesa de ayuda, soporte IT/Encargado de cajas; Cajero banca financiera.
+Direccion : Alsina 443, departemaneto 3
+Ciudad : Burzaco
+Telefono : 15 - 6421 - 9882
+Email : cristianmarcelocastro@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Mensajes al 20536396.
+Security_code : 6z3zt
+Send : Enviar
+
+---------------
+
+Address : 186.182.193.138
+Nombre : Vanesa
+Apellido : Sforzín
+Cargo : Calidad/Producción/Desarrollo
+Direccion : Amato 1540
+Ciudad : Haedo
+Telefono : 15-3211-8106
+Email : sforzinvanesa@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me encuentro en búsqueda activa de empleo. Empresas alimenticias. 
+Security_code : bmr2x
+Send : Enviar
+
+---------------
+
+Address : 181.164.7.109
+REF : TECM
+Nombre : Fernando Damian
+Apellido : Gutierrez
+Cargo : TECNICO
+Direccion : Horneros 228
+Ciudad :  Cordoba
+Telefono : 0351-3395771
+Email : ferdamian2012@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : ...
+Security_code : p477z
+Send : Enviar
+
+---------------
+
+Address : 190.189.128.186
+Nombre : Maritzu
+Apellido : Larreyna
+Cargo : Junior
+Direccion : Cordoba 1737
+Ciudad : Mar del Plata
+Telefono : 2235839335
+Email : maritzuazul@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : jOVEN EMPRENDEDORA Y RESPONSABLE QUE BUSCA OBTENER SU PRIMERA POSIBILIDAD LABORAL.
+Security_code : XYR9S
+Send : Enviar
+
+---------------
+
+Address : 181.95.162.184
+Nombre : matias jesus
+Apellido : bartholdy
+Cargo : repositor o vendedor
+Direccion : av ader 1617
+Ciudad : villa adelina
+Telefono : 1537761267
+Email : matiasbartholdy@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Soy un chico cumplidor y responsable que me gusta trabajr en un ambiente comodo y que me ayude a progresar.
+Security_code : jb3rj
+Send : Enviar
+
+---------------
+

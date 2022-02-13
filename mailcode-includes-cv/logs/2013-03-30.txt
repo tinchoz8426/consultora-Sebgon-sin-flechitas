@@ -1,0 +1,40 @@
+Address : 190.231.10.10
+Nombre : MARIA INES
+Apellido : RETES
+Cargo : TECNICO EN SEGURIDAD E HIGIENE
+Direccion : CABRERA 5500
+Ciudad : CABA
+Telefono : 0291 154708539
+Email : inesretes@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : De mi consideración.
+                           
+                           les agradezco que Ud.  incorpore mis  antecedentes a  su base de datos, de tal forma de ser considerado como candidato potencial en aquellas búsquedas que se adecuen al perfil descrito. Como indica mi Currículum  vitae,  soy Técnico en Higiene y seguridad laboral.
+                          Se completa mi perfil con una fuerte acción en el desarrollo de la seguridad, determinación de objetivos y estrategias para cumplir con las evaluaciones de las nuevas leyes y normas. 
+                          
+                           Desde ya, me complacerá mantener con ustedes las entrevistas que consideren necesarias. A la espera de sus novedades, lo saludo atentamente.
+ Inés Retes
+ Tec Seg. e Hig CAI
+ MP: T-41967
+ 0291-154708539
+Security_code : 5QHD5
+Send : Enviar
+
+---------------
+
+Address : 190.30.29.8
+REF : supervisor-seguridad
+Nombre : Gerardo Daniel
+Apellido : Chao
+Cargo : Empleado de seguridad
+Direccion : Tirana 4337 B,Estacion Flores
+Ciudad : Còrdoba Capital
+Telefono : 4660719
+Email : gerardochao1@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Desempeñar mi labor lo mejor posible,para lograr resultados favorables, para mi satisfacción y de la empresa. 
+Security_code : 94rk2
+Send : Enviar
+
+---------------
+

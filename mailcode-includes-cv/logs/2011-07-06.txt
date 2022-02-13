@@ -1,0 +1,15 @@
+Address : 190.224.125.76
+Nombre : oscar b
+Apellido : lopez paredes
+Cargo : operario metalurgico
+Direccion : pasaje maraton 2032
+Ciudad : rosario
+Telefono : 0341153191072
+Email : oscar_el_machooo@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : pretensiones capacitacion y crecimento laboral estabilidad y desarrollo 
+Security_code : 64g7b
+Send : Enviar
+
+---------------
+

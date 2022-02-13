@@ -1,0 +1,61 @@
+Address : 181.27.129.192
+Nombre : Silvia Lucía
+Apellido : Borini
+Cargo : Administrativo
+Direccion : Uriarte 752
+Ciudad : Lomas de Zamora
+Telefono : 1560548495
+Email : sl.borini@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje :  
+Security_code : xfnxq
+Send : Enviar
+
+---------------
+
+Address : 181.118.248.248
+Nombre : agustina
+Apellido : nordenstrom
+Cargo : cajera 
+Direccion : jose hernandez 2097 2do b
+Ciudad : caba
+Telefono : 1557812085
+Email : agustinanordenstrom@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : trabajar full time
+Security_code : 7yxtx
+Send : Enviar
+
+---------------
+
+Address : 181.168.242.193
+Nombre : Franco
+Apellido : Santagata Ten
+Cargo : Recursos Humanos
+Direccion : Cataluña 5487
+Ciudad : Mar del Plata
+Telefono : (0223) 4792857
+Email : sukyt@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto mi CV.
+Muchísimas gracias.
+Security_code : mypzt
+Send : Enviar
+
+---------------
+
+Address : 190.189.34.143
+Nombre : Luisa de Lourdes
+Apellido : Echevarria Rivera
+Cargo : Cualquier puesto conveniente.
+Direccion : Soldado de Malvinas 2466
+Ciudad : Villa Adelina
+Telefono : 1165695825
+Email : jadziam@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estoy en la busqueda de un trabajo urgente. Le agradeceria la oportunidad.
+Security_code : dzvzm
+Send : Enviar
+
+---------------
+

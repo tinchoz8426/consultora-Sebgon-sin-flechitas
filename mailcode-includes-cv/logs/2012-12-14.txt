@@ -1,0 +1,31 @@
+Address : 190.227.155.103
+REF : jefe-de-operaciones
+Nombre : Gustavo Hernan
+Apellido : San Martin
+Cargo : Jefe de Operaciones
+Direccion : Melincue 2835 PB B
+Ciudad : CABA
+Telefono : 45024740
+Email : ghsm_2012@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenos dias, pongo a vuestra disposicion mis datos y CV para que los mismos puedan ser evaluados acorde a sus necesidades. Muchas gracias.-
+Security_code : grp6n
+Send : Enviar
+
+---------------
+
+Address : 186.140.67.83
+Nombre : ricardo javier
+Apellido : morañles
+Cargo : de lo que sea solo quiero entrer al anvito laboral
+Direccion : col. nva. esp. mza. 28 l. i
+Ciudad : neuquen, capital
+Telefono : 2994569208
+Email : rjmaj_ley@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : hola quiero trabajar es lo unico que pido  porque desde ase rato que mantengo a mi familia con changas y no alcansa
+Security_code : rzk7w
+Send : Enviar
+
+---------------
+

@@ -1,0 +1,30 @@
+Address : 200.81.215.10
+Nombre : Gonzalo nicolas
+Apellido : Moran
+Cargo : Tecnico en seguridad e higiene
+Direccion : Blas parera 1485
+Ciudad : Moreno
+Telefono : 011_15_3479_8380
+Email : Ye.gonzalo@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Curriculum 
+Security_code : Qpqwv
+Send : Enviar
+
+---------------
+
+Address : 181.31.102.189
+Nombre : María Eugenia
+Apellido : Sartori
+Cargo : junior
+Direccion : Ob. Oro 391
+Ciudad : Córdoba
+Telefono : 0351- 157678557
+Email : mariaeugeniasartori@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Dispuesta a reubicarme de ciudad.
+Security_code : mn4d4
+Send : Enviar
+
+---------------
+

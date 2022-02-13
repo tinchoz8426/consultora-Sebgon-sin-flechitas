@@ -1,0 +1,147 @@
+Address : 190.193.137.74
+Nombre : angel
+Apellido : franco
+Cargo : oficial maestro mayor de obra
+Direccion : calle 970 - Nº 235
+Ciudad : Florencia Varela
+Telefono : (011) - 1544307698 
+Email : antoniofrancochavez@gmail.com 
+MAX_FILE_SIZE : 2097152
+Mensaje : Necesito trabajar para poder ayudar a mi familia. gracias 
+Security_code : pv34g
+Send : Enviar
+
+---------------
+
+Address : 186.134.176.24
+REF : ENPRO
+Nombre : Jorge
+Apellido : Madsen
+Cargo : Supervisor/ Lider de Equipio
+Direccion : Av. Hipólito Yrigoyen 5263
+Ciudad : Lanus
+Telefono : 42490632
+Email : jorgemadsen72@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Poseo la cultura del trabajo inculcada por mis mayores, esto es cumplir con: el horario laboral, el aprovechamiento al máximo de la materia prima, la tarea designada en tiempo y forma, en definitiva cumplir con todo lo ordenado por mis superiores con lealtad y honestidad. Asimismo  poseo excelente interrelación  laboral y firmeza para hacer cumplir las decisiones encomendadas.- 
+Security_code : 7frgh
+Send : Enviar
+
+---------------
+
+Address : 186.134.176.24
+REF : ENPRO
+Nombre : Jorge
+Apellido : Madsen
+Cargo : Supervisor/ Lider de Equipio
+Direccion : Av. Hipólito Yrigoyen 5263
+Ciudad : Lanus
+Telefono : 42490632
+Email : jorgemadsen72@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Poseo la cultura del trabajo inculcada por mis mayores, esto es cumplir con: el horario laboral, el aprovechamiento al máximo de la materia prima, la tarea designada en tiempo y forma, en definitiva cumplir con todo lo ordenado por mis superiores con lealtad y honestidad. Asimismo  poseo excelente interrelación  laboral y firmeza para hacer cumplir las decisiones encomendadas.- 
+Security_code : dpq58
+Send : Enviar
+
+---------------
+
+Address : 186.134.176.24
+Nombre : Jorge
+Apellido : Madsen
+Cargo : Supervisor/Lider de Equipo
+Direccion : Av. Hipólito Yrigoyen 5263 
+Ciudad : Lanús Pcia Buenos Aires
+Telefono : 42490632  Cel. 1556128369
+Email : jorgemadsen72@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Poseo la cultura del trabajo inculcada por mis mayores, esto es cumplir con: el horario laboral, el aprovechamiento al máximo de la materia prima, la tarea designada en tiempo y forma, en definitiva cumplir con todo lo ordenado por mis superiores con lealtad y honestidad. Asimismo  poseo excelente interrelación  laboral y firmeza para hacer cumplir las decisiones encomendadas.- 
+Security_code : wfrnr
+Send : Enviar
+
+---------------
+
+Address : 201.255.114.178
+Nombre : Ingrid Daiana 
+Apellido : Muñoz Quezada
+Cargo : cajera, recepcionista, vendedora.
+Direccion : calle 50 e/ 1y2
+Ciudad : Villa Elisa
+Telefono : 02213639401
+Email : daiimunoz@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Espero me tengan en cuenta para cualquier puesto que ustedes consideren acorde a mi perfil, les aseguro que tengo la capacidad de ocupar satisfactoriamente cualquier puesto que me sea ofrecido, que tengan buenas tardes y desde ya muchas gracias.  
+Security_code : r4yw5
+Send : Enviar
+
+---------------
+
+Address : 186.134.156.56
+REF : ENPRO
+Nombre : claudio
+Apellido : capitani
+Cargo : supervisor
+Direccion : mgallanes3508
+Ciudad : buenos aires
+Telefono : 42765121
+Email : claudioalbertocapitani@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : estoy interesado en el puesto
+Security_code : p6t5x
+Send : Enviar
+
+---------------
+
+Address : 186.136.107.109
+Nombre : Magali
+Apellido : Echave
+Cargo : Atencion Al Publico
+Direccion : Camino General Belgrano 2840
+Ciudad : Berazategui
+Telefono : 1565200813
+Email : maguiechave@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados Sres/as de Recursos Humanos
+Tengo el agrado de dirigirme a Ud
+búsquedas acordes a mi perfil en su empresa. Adjunto mi Currículum Vitae
+buscando ser incluido en su base de datos por si se produjera alguna vacante.
+Security_code : Krmrz
+Send : Enviar
+
+---------------
+
+Address : 186.136.107.109
+Nombre : Magali
+Apellido : Echave
+Cargo : Atencion Al Publico
+Direccion : Camino General Belgrano 2840
+Ciudad : Berazategui
+Telefono : 1565200813
+Email : maguiechave@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados Sres/as de Recursos Humanos
+Tengo el agrado de dirigirme a Ud
+búsquedas acordes a mi perfil en su empresa. Adjunto mi Currículum Vitae
+buscando ser incluido en su base de datos por si se produjera alguna vacante.
+Security_code : krmrz
+Send : Enviar
+
+---------------
+
+Address : 186.136.107.109
+Nombre : Magali
+Apellido : Echave
+Cargo : Atencion Al Publico
+Direccion : Camino General Belgrano 2840
+Ciudad : Berazategui
+Telefono : 1565200813
+Email : maguiechave@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados Sres/as de Recursos Humanos
+Tengo el agrado de dirigirme a Ud
+búsquedas acordes a mi perfil en su empresa. Adjunto mi Currículum Vitae
+buscando ser incluido en su base de datos por si se produjera alguna vacante.
+Security_code : td5q2
+Send : Enviar
+
+---------------
+

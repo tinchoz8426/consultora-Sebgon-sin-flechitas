@@ -1,0 +1,60 @@
+Address : 186.136.152.146
+Nombre : Diego
+Apellido : Kleiner
+Cargo : Joven Profesional
+Direccion : Laprida 1256
+Ciudad : Capital Federal
+Telefono : (0341) 156 005820
+Email : diegokleiner@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : -
+Security_code : xj78c
+Send : Enviar
+
+---------------
+
+Address : 200.59.206.184
+Nombre : Carolina Fernanda
+Apellido : Rojas
+Cargo : Administrativo, contable
+Direccion : Undiano 18
+Ciudad : Bahia Blanca
+Telefono : 0291-155777545
+Email : carorojas77@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Soy Carolina Rojas, estudiante avanzada de la carrera contador público y estoy interesada en un empleo donde pueda aplicar los conocimientos obtenidos. desde ya muchas gracias
+Security_code : hw6v8
+Send : Enviar
+
+---------------
+
+Address : 190.51.64.82
+Nombre : Micaela
+Apellido : Guevara
+Cargo : atencion al cliente
+Direccion : san pedro 635
+Ciudad : buenos aires
+Telefono : 15-3807-4583
+Email : mika_16_11@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : soy una persona que se adapta facil y muy responsable, con muchas ganas de trabajar. muchas gracias
+Security_code : vpn79
+Send : Enviar
+
+---------------
+
+Address : 190.49.170.62
+Nombre : Marcela
+Apellido : Saavedra
+Cargo : APM APF Vendedora Marketing Farmaceutico
+Direccion : 25 de Mayo 868
+Ciudad : J:Marmol Adrogué
+Telefono : 0114214 7222
+Email : ganarentabilidad@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Es de mi especial interés poder desarrollarme en lo  relativo a mercadotecnia de especialidades medicinales. 
+Security_code : sxrdd
+Send : Enviar
+
+---------------
+

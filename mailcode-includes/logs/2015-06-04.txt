@@ -1,0 +1,12 @@
+Address : 201.210.232.45
+Nombre : Ana Cecilia
+Apellido : Guardia
+Empresa : no aplica
+Telefono : 00584125429013
+Email : anniguardia@gmail.com
+Mensaje : Buenas Tardes, soy venezolana y voy a ir a Buenos Aires a estudiar,sera posible que consiga trabajo, o que ustedes me ayuden en la busqueda, yo he leido que no es legal trabajar mientras uno estudia siendo extranjero, se puede conseguir trabajo,aunque no sea legal?o en el mercado laboral negro?
+Security_code : fgsvg
+Send : Enviar
+
+---------------
+

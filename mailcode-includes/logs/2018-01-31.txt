@@ -1,0 +1,18 @@
+Address : 143.0.77.204
+ <br>Nombre : Juan David
+ <br>Apellido : Schwarz
+ <br>Empresa : Lakaut
+ <br>Telefono : 1569705503
+ <br>Email : davidschwarz@lakaut.com.ar
+ <br>Mensaje : Buenas, 
+
+Me gustaria saber si dan cursos en modo on site en la empresa.
+El mismo es de programación, en caso de que den este servicio, les podría pasar el temario definido con el equipo de desarrollo.
+
+Gracias,
+Saludos
+ <br>Security_code : sw8th
+ <br>Send : Enviar
+ <br>
+---------------
+

@@ -1,0 +1,63 @@
+Address : 190.210.145.153
+Nombre : Julian 
+Apellido : Moran Losada
+Cargo : diseñador grafico o web
+Direccion :  Tte.Gral.Juan D.Perón 2108,
+Ciudad : Capital Federal
+Telefono : 0225515416070
+Email : jmoran.losada@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola soy Julian, actualmente estoy buscando algo relacionado a mi carrera de diseño multimedia y deseo con muchas ansias encontrar algo relacionado con ese rubro.
+Muchas gracias!
+Security_code : xb7bp
+Send : Enviar
+
+---------------
+
+Address : 190.231.15.86
+Nombre : Maria Brenda
+Apellido : Sanchez Fay
+Cargo : Nutricionista
+Direccion : Gallo 1427 7º "C"
+Ciudad : C.A.B.A
+Telefono : 1556326787
+Email : bsanchezfay@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto mi CV por posibles búsquedas laborales.
+Security_code : n979y
+Send : Enviar
+
+---------------
+
+Address : 201.250.183.74
+Nombre : karina
+Apellido : quintans
+Cargo : Administrativa de ventas
+Direccion : Magallanes  1616
+Ciudad : San A. de Padua. Merlo
+Telefono : 0220-4971176 / 155-5027915
+Email : kariqpilar@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenas tardes, envío mi C.V. actualizado con el fin de postularme para puestos administrativos, tengo mas que nada experiencia en la part de adm.de ventas/contable, aunque eventualmente también en rrhh, logística y compras. Desde ya muchas gracis y a la espera de su cordial respuesta.
+Atte. Karina Quintans
+Security_code : 52m5,
+Send : Enviar
+
+---------------
+
+Address : 201.250.183.74
+Nombre : karina
+Apellido : quintans
+Cargo : Administrativa de ventas
+Direccion : Magallanes  1616
+Ciudad : San A. de Padua. Merlo
+Telefono : 0220-4971176 / 155-5027915
+Email : kariqpilar@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenas tardes, envío mi C.V. actualizado con el fin de postularme para puestos administrativos, tengo mas que nada experiencia en la part de adm.de ventas/contable, aunque eventualmente también en rrhh, logística y compras. Desde ya muchas gracis y a la espera de su cordial respuesta.
+Atte. Karina Quintans
+Security_code : 52m5n
+Send : Enviar
+
+---------------
+

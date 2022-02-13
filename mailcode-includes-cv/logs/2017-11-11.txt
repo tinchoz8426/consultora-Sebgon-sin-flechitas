@@ -1,0 +1,94 @@
+Address : 190.210.28.37<br>
+ <br>Nombre : Matiaseduardo
+ <br>Apellido : Lake
+ <br>Cargo :  plomero gasista 
+ <br>Direccion : Mza 95 lote 15 barrio 16 de noviembre
+ <br>Ciudad : Córdoba
+ <br>Telefono : 3516504618
+ <br>Email : matiaslake23@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola tengo muchas ganas de trabajar soy una persona responsable con hijos y deseo brindarle lo mejor
+ <br>Security_code : Fvhtf
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.213.230.139<br>
+ <br>Nombre : Lucrecia 
+ <br>Apellido : McDonald
+ <br>Cargo : Administrativa/secretaria
+ <br>Direccion : calle 62
+ <br>Ciudad : La Plata
+ <br>Telefono : 0221-153505167
+ <br>Email : mcdonaldlucrecia@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados,
+Quiero volver a vivir a mi ciudad de origen y necesito trabajo. Solicito contemplen mi pedido.Gracias! 
+Saludos cordiales. Lucrecia McDonald 
+ <br>Security_code : 6mgj4
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.44.138.54<br>
+ <br>REF : SP-1
+ <br>Nombre : MARCELO DANIEL
+ <br>Apellido : FLORES
+ <br>Cargo : SUPERVISOR DE PRODUCCION
+ <br>Direccion : Cavour 3006 Piso 2 Dto. a
+ <br>Ciudad : Lanús
+ <br>Telefono : 20837279
+ <br>Email : marcelodanielf512 @gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Por intermedio de la presente me dirijo a usted , para participar en la seleccion de personal para , el puesto de referencia .
+ <br>Security_code : mjh2s
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.44.138.54<br>
+ <br>REF : SP-1
+ <br>Nombre : MARCELO DANIEL
+ <br>Apellido : FLORES
+ <br>Cargo : SUPERVISOR DE PRODUCCION
+ <br>Direccion : Cavour 3006 Piso 2 Dto. a
+ <br>Ciudad : Lanús
+ <br>Telefono : 20837279
+ <br>Email : marcelodanielf512 @gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Por intermedio de la presente me dirijo a usted , para participar en la seleccion de personal para , el puesto de referencia .
+ <br>Security_code : k3hrx
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.170.148.102<br>
+ <br>Nombre : Rocío
+ <br>Apellido : Burgois
+ <br>Cargo : Administrativa
+ <br>Direccion : Gaboto 6680
+ <br>Ciudad : Mar del Plata
+ <br>Telefono : 0223-155792795
+ <br>Email : rocio.ediagonal@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola, estoy muy interesada en trabajar, soy responsable, proactiva y entusiasta
+ <br>Security_code : sxf2f
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.170.148.102<br>
+ <br>Nombre : Rocío
+ <br>Apellido : Burgois
+ <br>Cargo : Administrativa
+ <br>Direccion : Gaboto 6680
+ <br>Ciudad : Mar del Plata
+ <br>Telefono : 0223-155792795
+ <br>Email : rocio.ediagonal@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me llamo Rocío, soy una persona responsable, proactiva y con muchas ganas de trabajar
+ <br>Security_code : zxxpd
+ <br>Send : Enviar
+ <br>
+---------------
+

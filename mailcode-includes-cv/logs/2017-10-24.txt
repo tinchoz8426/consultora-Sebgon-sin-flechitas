@@ -1,0 +1,122 @@
+Address : 186.138.177.58<br>
+ <br>Nombre : Andrea Flavia
+ <br>Apellido : Martino
+ <br>Cargo : APM(agente de propaganda médica)
+ <br>Direccion : De la tradición 848
+ <br>Ciudad : Ituzaingo
+ <br>Telefono : 011 1568075858
+ <br>Email : andrea_flavia_martino@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenos Días soy visitadora médica recién recibida aún no llego mi título estaría llegando en el transcurso de estos días y quisiera ir viendo la posibilidad de conseguir algún trabajo relacionado a lo que se... ya sea en laboratorios o en farmacias! Atte Andrea Martino
+ <br>Security_code : 4s5vf
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.83.158<br>
+ <br>Nombre : Luciano
+ <br>Apellido : Rosales
+ <br>Cargo : Carga y Descarga. Limpieza. logistica y distribucion
+ <br>Direccion : Cerrito 3169
+ <br>Ciudad : Ituzaingo
+ <br>Telefono : 1155235824
+ <br>Email : luciano_delalto@hotmail.com 
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : busqueda laborAl
+ <br>Security_code : r27tc
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.18.139.118<br>
+ <br>REF : chr
+ <br>Nombre : DIEGO
+ <br>Apellido : BOISEN KRUSE
+ <br>Cargo : chofer de reparto
+ <br>Direccion : Arozarena 635
+ <br>Ciudad : Aldo Bonzi
+ <br>Telefono : 1562055388
+ <br>Email : diebkruse@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenos días, envio mi CV dispuesto a una entrevista personal cuando asi lo requieran. Gracias, saludos cordiales.
+ <br>Security_code : 5nhsw
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 200.3.222.38<br>
+ <br>Nombre : andrea 
+ <br>Apellido : giacoboni
+ <br>Cargo : pasantia
+ <br>Direccion : mitre 288
+ <br>Ciudad : rojas
+ <br>Telefono : 2475410389
+ <br>Email : andruu_giacoboni@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : quiero realizar una pasantia
+ <br>Security_code : qp4kv
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 200.3.222.38<br>
+ <br>Nombre : andrea 
+ <br>Apellido : giacoboni
+ <br>Cargo : pasantia
+ <br>Direccion : mitre 288
+ <br>Ciudad : rojas
+ <br>Telefono : 2475410389
+ <br>Email : andruu_giacoboni@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : quiero realizar una pasantia
+ <br>Security_code : qp4kv
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.138.223.18<br>
+ <br>Nombre : ricardo
+ <br>Apellido : caballero
+ <br>Cargo : Supervisor de produccion
+ <br>Direccion : francisco bilbao 2666
+ <br>Ciudad : caba
+ <br>Telefono : 1140813134
+ <br>Email : richardcc71
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Soy tecnico mecanico y tecnico superior en Sistemas informaticos , envio el C.V.gracias .
+ <br>Security_code : j9k2b
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.183.124.39<br>
+ <br>Nombre : Andrea
+ <br>Apellido : Mendez
+ <br>Cargo : Técnico Seguridad e Higiene Laboral
+ <br>Direccion : Ruiz de Montoya 205
+ <br>Ciudad : Posadas
+ <br>Telefono : 1124849740
+ <br>Email : andii_892@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Busco poder empezar mi carrera y poner en practica todos los conocimientos adquiridos, poder crecer a nivel personal y profesional
+ <br>Security_code : qzc5
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.83.214<br>
+ <br>REF : Tectron
+ <br>Nombre : Amado Gabriel
+ <br>Apellido : Ferreira Colman
+ <br>Cargo : Técnico electronico
+ <br>Direccion : avda balbin 1868
+ <br>Ciudad : San Miguel, Buenos Aires
+ <br>Telefono : 1158598819
+ <br>Email : amagabfercol15@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buen día soy un técnico orientado a la electricidad y electrónica aunque también tengo bastante experiencia en el área electromecánica y mecánica,mucha experiencia en área de automatización industrial,montaje de maquinas ,tableros,trabajo con motores arranque automatización y protección.
+ <br>Security_code : Ytk5t
+ <br>Send : Enviar
+ <br>
+---------------
+

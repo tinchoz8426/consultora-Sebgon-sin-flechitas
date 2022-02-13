@@ -1,0 +1,468 @@
+Address : 168.226.219.202
+REF : JPL
+Nombre : hector javier
+Apellido : castro
+Cargo : JPL
+Direccion : calle 164 Nº845
+Ciudad : quilmes
+Telefono : 1564618605
+Email : varilla.castro@outlook.es
+MAX_FILE_SIZE : 2097152
+Mensaje : crecer junto a la empresar y seguir en nuevos desafios
+Security_code : zx54x
+Send : Enviar
+
+---------------
+
+Address : 168.226.219.202
+Nombre : hector javier
+Apellido : castro
+Cargo : jefe
+Direccion : calle 164 Nº845
+Ciudad : quilmes
+Telefono : 1564618605
+Email : varilla.castro@outlook.es
+MAX_FILE_SIZE : 2097152
+Mensaje : buscar nuevos desafios
+Security_code : rhqmz
+Send : Enviar
+
+---------------
+
+Address : 190.138.57.210
+REF : OEL
+Nombre : Roberto 
+Apellido : Gelvez
+Cargo : Oficial electricista
+Direccion : Av.warnes 1653
+Ciudad : Caba
+Telefono : 4856-8180
+Email : robertoluisgelvez@hotmail.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Soy oficial electricista y tengo 16 años. ,cableado, interpretación de planos eléctricos, armado de tableros, canalizaciones, instalación d bandeja,ect.. full time. replanteo de circuitos en losas.  
+Security_code : p5vKp
+Send : Enviar
+
+---------------
+
+Address : 181.26.24.47
+REF : OEL
+Nombre : Gustavo Javier
+Apellido : Ocampo
+Cargo : Oficial electricista j
+Direccion : Brasilia 269
+Ciudad : Tristán Suárez 
+Telefono : 43860209
+Email : gus_ocampo9@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : CURRICULUM VITAE:
+
+Apellido: Ocampo
+
+Nombre:  Gustavo Javier
+
+Edad:       39
+
+Nacionalidad:   Argentino
+
+DNI:     24647410
+
+Estado Civil:   Casado
+
+Hijos:  2 ---17 años- 14 año
+
+Celular:   1535528258  tel: 43860209
+
+Estudios Cursados
+escuela numero 12 __escuela nacional de comercio frncisco javier muñiz monte grande__escuela tecnica nro 1 monte grande 
+trabajos realizados
+
+
+
+Empresa:     araucaria
+
+Puesto ocupado:  repartidor en moto
+
+Fecha de ingreso:  20/04/96
+
+Fecha de egreso: 14/01/97
+
+
+
+Empresa:   bagnols sa
+
+Puesto ocupado: oficial electricista esp encargado de obra automatisacion
+
+Fecha de ingreso:  15/01/97---26/04/04
+
+Fecha de egreso: 31/11/01--03/06/06
+
+
+
+Empresa:   sie srl
+
+Puesto ocupado:  oficial elctricista esp montajes
+
+Fecha de ingreso: 10/08/02  
+
+Fecha de egreso:   25/04/04
+
+
+
+Empresa:    luar contruciones
+
+Puesto ocupado:  oficial electricista esp encargado de obra
+
+Fecha de ingreso: 17/06/06
+
+Fecha de egreso:   20/1106
+
+
+
+Empresa:  C.f.m
+ 
+Puesto ocupado:oficial electricista tecnico en aire acondicionado, fancoit, central
+
+Fecha de ingreso: 21/11/06
+
+Fecha de egreso:05/01/08
+
+
+
+Empresa:  Altelec
+
+Puesto ocupado:oficial electricista esp encargado de obra
+
+Fecha de ingreso:08/01/08
+
+Fecha de megreso:18/02/09
+
+
+
+Empresa:  M.E.Y.A SR
+
+Puesto ocupado:  oficial electricista esp mineras piquitasprov jujuy y minera santa cruz
+
+Fecha de ingreso: 20/02/09
+
+Fecha de egreso:07/01/10
+
+
+
+Empresa:  S.I.E.  Obras y servicios
+
+Puesto ocupado:  oficial electricista esp encargado de mantenimiento de estaciones de 
+sevicios opessa y.p.f
+
+Fecha de ingreso:08/01/10
+
+Fecha de egreso:03/04/13                                            
+
+
+
+Empresa:  maderera catriel 
+
+Puesto ocupado:  matenimiento operarario multiple
+
+Fecha de ingreso:08/04/13
+
+Fecha de egreso a la fecha
+                                           
+
+registro de cargas generales 
+
+                                                                                                           firma:GUSTAVO OCAMPO
+                                                                                                           DNI   : 24647410r
+Responder
+Security_code : Wtxzq
+Send : Enviar
+
+---------------
+
+Address : 181.26.24.47
+REF : OEL
+Nombre : Gustavo Javier
+Apellido : Ocampo
+Cargo : Oficial electricista j
+Direccion : Brasilia 269
+Ciudad : Tristán Suárez 
+Telefono : 43860209
+Email : gus_ocampo9@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : CURRICULUM VITAE:
+
+Apellido: Ocampo
+
+Nombre:  Gustavo Javier
+
+Edad:       39
+
+Nacionalidad:   Argentino
+
+DNI:     24647410
+
+Estado Civil:   Casado
+
+Hijos:  2 ---17 años- 14 año
+
+Celular:   1535528258  tel: 43860209
+
+Estudios Cursados
+escuela numero 12 __escuela nacional de comercio frncisco javier muñiz monte grande__escuela tecnica nro 1 monte grande 
+trabajos realizados
+
+
+
+Empresa:     araucaria
+
+Puesto ocupado:  repartidor en moto
+
+Fecha de ingreso:  20/04/96
+
+Fecha de egreso: 14/01/97
+
+
+
+Empresa:   bagnols sa
+
+Puesto ocupado: oficial electricista esp encargado de obra automatisacion
+
+Fecha de ingreso:  15/01/97---26/04/04
+
+Fecha de egreso: 31/11/01--03/06/06
+
+
+
+Empresa:   sie srl
+
+Puesto ocupado:  oficial elctricista esp montajes
+
+Fecha de ingreso: 10/08/02  
+
+Fecha de egreso:   25/04/04
+
+
+
+Empresa:    luar contruciones
+
+Puesto ocupado:  oficial electricista esp encargado de obra
+
+Fecha de ingreso: 17/06/06
+
+Fecha de egreso:   20/1106
+
+
+
+Empresa:  C.f.m
+ 
+Puesto ocupado:oficial electricista tecnico en aire acondicionado, fancoit, central
+
+Fecha de ingreso: 21/11/06
+
+Fecha de egreso:05/01/08
+
+
+
+Empresa:  Altelec
+
+Puesto ocupado:oficial electricista esp encargado de obra
+
+Fecha de ingreso:08/01/08
+
+Fecha de megreso:18/02/09
+
+
+
+Empresa:  M.E.Y.A SR
+
+Puesto ocupado:  oficial electricista esp mineras piquitasprov jujuy y minera santa cruz
+
+Fecha de ingreso: 20/02/09
+
+Fecha de egreso:07/01/10
+
+
+
+Empresa:  S.I.E.  Obras y servicios
+
+Puesto ocupado:  oficial electricista esp encargado de mantenimiento de estaciones de 
+sevicios opessa y.p.f
+
+Fecha de ingreso:08/01/10
+
+Fecha de egreso:03/04/13                                            
+
+
+
+Empresa:  maderera catriel 
+
+Puesto ocupado:  matenimiento operarario multiple
+
+Fecha de ingreso:08/04/13
+
+Fecha de egreso a la fecha
+                                           
+
+registro de cargas generales 
+
+                                                                                                           firma:GUSTAVO OCAMPO
+                                                                                                           DNI   : 24647410r
+Responder
+Security_code : wtxzq
+Send : Enviar
+
+---------------
+
+Address : 181.26.24.47
+REF : OEL
+Nombre : Gustavo Javier
+Apellido : Ocampo
+Cargo : Oficial electricista j
+Direccion : Brasilia 269
+Ciudad : Tristán Suárez 
+Telefono : 43860209
+Email : gus_ocampo9@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : CURRICULUM VITAE:
+
+Apellido: Ocampo
+
+Nombre:  Gustavo Javier
+
+Edad:       39
+
+Nacionalidad:   Argentino
+
+DNI:     24647410
+
+Estado Civil:   Casado
+
+Hijos:  2 ---17 años- 14 año
+
+Celular:   1535528258  tel: 43860209
+
+Estudios Cursados
+escuela numero 12 __escuela nacional de comercio frncisco javier muñiz monte grande__escuela tecnica nro 1 monte grande 
+trabajos realizados
+
+
+
+Empresa:     araucaria
+
+Puesto ocupado:  repartidor en moto
+
+Fecha de ingreso:  20/04/96
+
+Fecha de egreso: 14/01/97
+
+
+
+Empresa:   bagnols sa
+
+Puesto ocupado: oficial electricista esp encargado de obra automatisacion
+
+Fecha de ingreso:  15/01/97---26/04/04
+
+Fecha de egreso: 31/11/01--03/06/06
+
+
+
+Empresa:   sie srl
+
+Puesto ocupado:  oficial elctricista esp montajes
+
+Fecha de ingreso: 10/08/02  
+
+Fecha de egreso:   25/04/04
+
+
+
+Empresa:    luar contruciones
+
+Puesto ocupado:  oficial electricista esp encargado de obra
+
+Fecha de ingreso: 17/06/06
+
+Fecha de egreso:   20/1106
+
+
+
+Empresa:  C.f.m
+ 
+Puesto ocupado:oficial electricista tecnico en aire acondicionado, fancoit, central
+
+Fecha de ingreso: 21/11/06
+
+Fecha de egreso:05/01/08
+
+
+
+Empresa:  Altelec
+
+Puesto ocupado:oficial electricista esp encargado de obra
+
+Fecha de ingreso:08/01/08
+
+Fecha de megreso:18/02/09
+
+
+
+Empresa:  M.E.Y.A SR
+
+Puesto ocupado:  oficial electricista esp mineras piquitasprov jujuy y minera santa cruz
+
+Fecha de ingreso: 20/02/09
+
+Fecha de egreso:07/01/10
+
+
+
+Empresa:  S.I.E.  Obras y servicios
+
+Puesto ocupado:  oficial electricista esp encargado de mantenimiento de estaciones de 
+sevicios opessa y.p.f
+
+Fecha de ingreso:08/01/10
+
+Fecha de egreso:03/04/13                                            
+
+
+
+Empresa:  maderera catriel 
+
+Puesto ocupado:  matenimiento operarario multiple
+
+Fecha de ingreso:08/04/13
+
+Fecha de egreso a la fecha
+                                           
+
+registro de cargas generales 
+
+                                                                                                           firma:GUSTAVO OCAMPO
+                                                                                                           DNI   : 24647410r
+Responder
+Security_code : bmm3n
+Send : Enviar
+
+---------------
+
+Address : 190.139.34.69
+Nombre : Roberto Félix María
+Apellido : Wagener
+Cargo : Ingeniero
+Direccion : Av del golf
+Ciudad : Don Torcuato
+Telefono : 011 1569258262
+Email : wagenerfelix@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenas tardes,
+Envío adjunto mi CV.
+Desde ya muchas gracias,
+Saludos,
+Wagener Roberto Félix María
+Security_code : rcnch
+Send : Enviar
+
+---------------
+

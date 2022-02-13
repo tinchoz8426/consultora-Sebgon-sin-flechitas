@@ -1,0 +1,65 @@
+Address : 186.18.227.159<br>
+ <br>REF : GTEP
+ <br>Nombre : Raúl Adrián
+ <br>Apellido : Osmolski
+ <br>Cargo : Gerente de Planta. Ref.: GTEP
+ <br>Direccion : Tandil 2951
+ <br>Ciudad : C.A.B.A.
+ <br>Telefono : 15-6447-2903
+ <br>Email : raul.osmolski@yahoo.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje :    Es de mi especial interés poder desarrollar la gestión del puesto de referencia, con miras al desarrollo y crecimiento personal y el de la empresa.
+Para ello, ofrezco iniciativa y creatividad, anteponiendo capacidad de adaptación a nuevas circunstancias, dinamismo y experiencia adquirida en la gestión realizada para las empresas en las cuales he trabajado.
+Deseo se valore el presente ofrecimiento de colaboración, dado que me considero responsable, con metas y objetivos claros, un fuerte anhelo de crecimiento y un perfil acorde.
+Quedo a vuestra disposición a una futura entrevista que permita un mejor conocimiento personal.
+Adjunto envío mi Curriculum Vitae.
+
+Agradeciendo por vuestra deferencia, saluda a Ud. muy atte.
+
+ Raúl Adrián Osmolski
+
+ <br>Security_code : hqgdm
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.194.14.2<br>
+ <br>REF : GTEP
+ <br>Nombre : Carlos Antonio
+ <br>Apellido : Vaiasicca
+ <br>Cargo : Gerente de Planta
+ <br>Direccion : Laprida 50
+ <br>Ciudad : Avellaneda Centro
+ <br>Telefono : 0111523108529
+ <br>Email : carlosvaiasicca@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Ing. Carlos Vaiasicca
+ <br>Security_code : hhv45
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 191.80.189.142<br>
+ <br>Nombre : Hernan
+ <br>Apellido : Perri
+ <br>Cargo : Arquitecto
+ <br>Direccion : Circunscripción 4° Sección 7° Manzana 19 Casa 6  Ciudad Evita.
+ <br>Ciudad : La Matanza. Buenos Aires
+ <br>Telefono : 1168832400
+ <br>Email : perrihernanmatias@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados, me comunico con ustedes para ser considerado en búsquedas acordes a mi perfil. 
+Estoy cursando cuarto año de arquitectura en la Universidad de Buenos Aires. Tengo experiencia en obras pequeñas y en ventas con asesoramiento técnico.
+En mi puesto actual estoy incorporando habilidades de liderazgo y mejora de procesos. 
+
+Me gustaría seguir mi desarrollo profesional en empresas del rubro de la construcción, trabajando en obra o con tareas de oficina técnica. 
+
+Gracias por su atención. 
+Saludos cordiales, 
+
+Hernán Perri 
+ <br>Security_code : xhg43
+ <br>Send : Enviar
+ <br>
+---------------
+

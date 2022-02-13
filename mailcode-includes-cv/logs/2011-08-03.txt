@@ -1,0 +1,78 @@
+Address : 186.130.200.200
+Nombre : Nicolas Guillermo
+Apellido : Sandoval
+Cargo : Encargado
+Direccion : Pellico 1973
+Ciudad : Moreno
+Telefono : 0237-4665992/ 15-5177-4505
+Email : nicolasgsandoval@speedy.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola
+Security_code : w93qh
+Send : Enviar
+
+---------------
+
+Address : 190.188.9.55
+Nombre : Jorgelina
+Apellido : Mena
+Cargo : Comunicador social
+Direccion : Villa Adelina
+Ciudad : Buenos Aires
+Telefono : 1556017109
+Email : jorgelinamena@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto mi cv para la búsqueda de Comunicador Social.
+Security_code : c7dpz
+Send : Enviar
+
+---------------
+
+Address : 190.220.158.50
+Nombre : KARINA GRACIELA
+Apellido : FIGUEROA
+Cargo : ADMINISTRATIVO-COBRANZAS
+Direccion : MELIAN 2487 5B
+Ciudad : CAPITAL FEDERAL
+Telefono : 15-5867-6095
+Email : knugat@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : A quien corresponda: 
+Mediante la presente les adjunto mi CV a fin de que sea tenido en cuenta para futuras busquedas laborales.
+saludos cordiales.
+Karina Figueroa
+Security_code : j2pm6
+Send : Enviar
+
+---------------
+
+Address : 200.125.106.111
+Nombre : melina
+Apellido : cappurro
+Cargo : telemrketer
+Direccion : rincon 1102
+Ciudad : buenos aires
+Telefono : 1553392734
+Email : melinacappurro@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : me dirijo a usted con el fin de postularme a las busquedas acorde a mi perfil. 
+Security_code : 6nyc9
+Send : Enviar
+
+---------------
+
+Address : 201.250.143.55
+Nombre : Miguel
+Apellido : Trasel
+Cargo : Operario, pintor
+Direccion : F. Quiroga 2063
+Ciudad : Moreno
+Telefono : 0111568482811
+Email : mtrasel@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estoy buscando trabajo, disponibilidad inmediata, sin problemas de horario
+Security_code : ntv69
+Send : Enviar
+
+---------------
+

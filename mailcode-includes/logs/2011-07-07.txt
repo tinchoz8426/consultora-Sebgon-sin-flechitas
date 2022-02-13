@@ -1,0 +1,13 @@
+Address : 190.48.1.177
+Nombre : pablo nicolas
+Apellido : ortiz
+Empresa : geo-metrica    
+Telefono : 02355-15-573928
+Email : ortiz_pablo@live.com.ar
+Mensaje : quiziera recibir info respecto de las capacitaciones de motivacion y liderazgo, honorarios, fechas horarios, si son a distancia, etc.
+atte Pablo Ortiz
+Security_code : zfn8m
+Send : Enviar
+
+---------------
+

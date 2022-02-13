@@ -1,0 +1,196 @@
+Address : 181.31.82.206
+Nombre : Gabriela Roxana 
+Apellido : Luna
+Cargo : cualquier empleo
+Direccion : punta del sauce 1756
+Ciudad : Córdoba 
+Telefono : 4533287
+Email : gabyluna2015@outlook.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola Éstoy buscando empleo soy gestor. Tengo experiencia en atención al cliente y ventas
+Security_code : qbj9t
+Send : Enviar
+
+---------------
+
+Address : 186.108.240.162
+Nombre : Paula Gisella 
+Apellido : Paredes
+Cargo : Atención al cliente
+Direccion : Sargento Gomez
+Ciudad : Córdoba, capital.
+Telefono : 03512881368
+Email : paredespaulagisella@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Muchas ganas de trabajar y desarrollar mis conocimientos aprendidos.
+Security_code : 8nvjy
+Send : Enviar
+
+---------------
+
+Address : 181.31.154.20
+Nombre : Nicolas Exequiel
+Apellido : Villagran
+Cargo : recursos humanos, ventas, 
+Direccion : Independencia 553
+Ciudad : Cordoba
+Telefono : 3512623774
+Email : villanico22@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estoy en la búsqueda de crecimiento profesional tanto como personal. 
+Security_code : 2m333
+Send : Enviar
+
+---------------
+
+Address : 186.19.38.98
+Nombre : Diego
+Apellido : Dominguez
+Cargo : Empleado
+Direccion : Ramon Sta. Marina 1081
+Ciudad : Buenos Aires.
+Telefono : 1538018306
+Email : dadg175@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me encuentro en la busqueda de empleo. Adjunto mi curriculum donde trato de ser breve.
+Security_code : 6ymt4
+Send : Enviar
+
+---------------
+
+Address : 190.246.188.124
+Nombre : carla elizabeth
+Apellido : carrizo
+Cargo : venta y atencion al publico
+Direccion : cochabamba 2715
+Ciudad : córdoba
+Telefono : 3513450354
+Email : carrizocalu@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me comunico con ustedes , con el fin de conseguir trabajo el cual necesito y quiero tener.
+Experiencia en venta al publico ,atencion, moza d salon , refuerzo de barra y caja en boliche. 
+Security_code : 42cg4
+Send : Enviar
+
+---------------
+
+Address : 201.212.159.157
+Nombre : VALERIA GABRIELA 
+Apellido : CATANIA
+Cargo : RR.HH.
+Direccion : Abipones 779
+Ciudad : R
+Telefono : 341-4593995     cel.341 15807366
+Email : valecatania@live.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me encuentro a su disposición para ampliar informacion del C.V. y así poder ingresar a trabajar en cualquier empresa sin distinción de tamaño en el área administrativa o de RR.HH. que es donde me he preparado. Muchas Gracias.
+Security_code : gfrhm
+Send : Enviar
+
+---------------
+
+Address : 201.212.159.157
+Nombre : VALERIA GABRIELA 
+Apellido : CATANIA
+Cargo : RR.HH.
+Direccion : Abipones 779
+Ciudad : R
+Telefono : 341-4593995     cel.341 15807366
+Email : valecatania@live.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me encuentro a su disposición para ampliar informacion del C.V. y así poder ingresar a trabajar en cualquier empresa sin distinción de tamaño en el área administrativa o de RR.HH. que es donde me he preparado. Muchas Gracias.
+Security_code : gfrhm
+Send : Enviar
+
+---------------
+
+Address : 201.234.24.4
+Nombre : Maria Eugenia
+Apellido : Maiorana
+Cargo : Junior
+Direccion : Santa Rosa 980 8 D
+Ciudad : Cordoba
+Telefono : 0351156875406
+Email : eugemaiorana@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Capacidad de trabajo en equipo, responsabilidad, puntualidad, ganas de aprender.
+Security_code : ghcmg
+Send : Enviar
+
+---------------
+
+Address : 190.137.0.161
+Nombre : Dalma Yohana
+Apellido : Markiewicz
+Cargo : atencion al cliente, ayudante en farmacias,limpieza, entre otros.
+Direccion : Luis Burela
+Ciudad : Cordoba capital
+Telefono : 3515155168
+Email : dalma-yohana@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenas tardes, estoy en la búsqueda de empleo. Actualmente estoy cursando segundo año del profesorado de educación primaria en el establecimiento Alegando Carbono de lunes a viernes de 18:30 a 22:30hs muchas gracias.
+Security_code : 9wqsq
+Send : Enviar
+
+---------------
+
+Address : 186.134.227.15
+Nombre : Lucas
+Apellido : Irazábal
+Cargo : Jefe de servicios / Técnico de pc
+Direccion : Amsterdam 851
+Ciudad : Banfeld
+Telefono : 1567223771
+Email : lucasdespedazado@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Necesito trabajo con urgencia. Gracias. 
+Security_code : rtyk5
+Send : Enviar
+
+---------------
+
+Address : 190.245.222.177
+Nombre : Adriana
+Apellido : García
+Cargo : Relaciones Internacionales
+Direccion : Pasaje Hilario Fernandez 59 7 D
+Ciudad : Córdoba
+Telefono : 0351153532948
+Email : adrianagarcia85@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Soy relacionista internacional y pública
+Security_code : yc7rw
+Send : Enviar
+
+---------------
+
+Address : 181.110.16.143
+Nombre : Luis 
+Apellido : Gudiño Dufour
+Cargo : Junior
+Direccion : Luis Pasteur 2340, Bº Ameghino Sur
+Ciudad : Córdoba
+Telefono : 0351-4662603
+Email : luis.dufour@outlook.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me considero una persona responsable y con puntualidad, con muchas ganas de trabajar
+Security_code : 6qcqg
+Send : Enviar
+
+---------------
+
+Address : 181.1.87.46
+Nombre : Paula del V. 
+Apellido : Cosentino
+Cargo : Comunicadora
+Direccion : Lamadrid 153
+Ciudad : Yerba Buena (Tucumán) 
+Telefono : (381) 156290537
+Email : paula.cosentino7@outlook.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto mi curriculum vitae. 
+Security_code : xdbc9
+Send : Enviar
+
+---------------
+

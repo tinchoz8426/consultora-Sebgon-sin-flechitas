@@ -1,0 +1,16 @@
+Address : 190.179.212.15
+REF : gerente-produccion
+Nombre : Angel Luciano
+Apellido : Generale Pomaski
+Cargo : Gerente de Produccion
+Direccion : Bombal 924
+Ciudad : San Rafael
+Telefono : 02604446593
+Email : angelgenerale@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Le hago llegar mi CV
+Security_code : vs7qs
+Send : Enviar
+
+---------------
+

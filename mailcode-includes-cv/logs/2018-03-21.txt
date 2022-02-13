@@ -1,0 +1,262 @@
+Address : 181.165.200.178<br>
+ <br>Nombre : Nadia
+ <br>Apellido : Savid
+ <br>Cargo : administrativo, secretaria
+ <br>Direccion : colombia, 1058
+ <br>Ciudad : RIO CUARTO
+ <br>Telefono : 3584843104
+ <br>Email : nadiasavid@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : soy de la localidad de Rio Cuarto busco trabajo relacionado a administracion, seguros, secretaria etc
+ <br>Security_code : fzrqc
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 152.171.241.190<br>
+ <br>Nombre : MARIA EUGENIA
+ <br>Apellido : Gonzalez
+ <br>Cargo : Administrativo
+ <br>Direccion : lagunilla 4135
+ <br>Ciudad : CORDOBA
+ <br>Telefono : 3513733737
+ <br>Email : eugegonzalez46@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenos días, envió mi curriculum para futuras búsquedas, actualmente vivo en Córdoba Capital mi intensión es irme a vivir a Villa Maria.
+Saludos
+ <br>Security_code : hkth7
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.28.224.91<br>
+ <br>Nombre : Smelin 
+ <br>Apellido : Acosta
+ <br>Cargo : Supervisor 
+ <br>Direccion : Arenales/recoleta 
+ <br>Ciudad : Caba
+ <br>Telefono : 01121692200
+ <br>Email : smelinacosta@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buen día gusto en saludarles,  soy ingeniero en mantenimiento 10 años de experiencia favor evaluar cv para agendar entrevista 
+ <br>Security_code : Wn7jy
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.28.224.91<br>
+ <br>Nombre : Smelin 
+ <br>Apellido : Acosta
+ <br>Cargo : Supervisor 
+ <br>Direccion : Arenales/recoleta 
+ <br>Ciudad : Caba
+ <br>Telefono : 01121692194
+ <br>Email : smelinacosta@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas gusto en saludarle,  agradecería evaluarán mi cv, toda la disposición de trabajar 
+ <br>Security_code : 325nW
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.23.39.16<br>
+ <br>Nombre : Federico
+ <br>Apellido : Spalek
+ <br>Cargo : Analista comercio exterior
+ <br>Direccion : Estocolmo 2366
+ <br>Ciudad : Isidro Casanova
+ <br>Telefono : 1537980959
+ <br>Email : fspalek@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Referencia ACO-1
+ <br>Security_code : v7kkb
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.29<br>
+ <br>Nombre : Evelyn
+ <br>Apellido : Chilan
+ <br>Cargo : Vendedora de ropa, administrativa, operaria, limpieza, etc
+ <br>Direccion : Marquez 3830
+ <br>Ciudad : Morón
+ <br>Telefono : 1565713219
+ <br>Email : Evechilan15@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola! Les cargo mi cv para que me tengan en cuenta en algun empleo. Gracias.
+ <br>Security_code : D3ggc
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.29<br>
+ <br>Nombre : Evelyn
+ <br>Apellido : Chilan
+ <br>Cargo : Vendedora de ropa, administrativa, operaria, limpieza, etc
+ <br>Direccion : Marquez 3830
+ <br>Ciudad : Morón
+ <br>Telefono : 1565713219
+ <br>Email : Evechilan15@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola! Les cargo mi cv para que me tengan en cuenta en algun empleo. Gracias.
+ <br>Security_code : d3ggc
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.28<br>
+ <br>Nombre : Evelyn
+ <br>Apellido : Chilan
+ <br>Cargo : Vendedora de ropa, administrativa, operaria, limpieza, etc
+ <br>Direccion : Marquez 3830
+ <br>Ciudad : Morón
+ <br>Telefono : 1565713219
+ <br>Email : Evechilan15@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola! Les cargo mi cv para que me tengan en cuenta en algun empleo. Gracias.
+ <br>Security_code : q53bt
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.27<br>
+ <br>Nombre : Evelyn
+ <br>Apellido : Chilan
+ <br>Cargo : Vendedora de ropa, administrativa, operaria, limpieza, etc
+ <br>Direccion : Marquez 3830
+ <br>Ciudad : Morón
+ <br>Telefono : 1565713219
+ <br>Email : Evechilan15@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola! Les cargo mi cv para que me tengan en cuenta en algun empleo. Gracias.
+ <br>Security_code : d3ggc
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.28<br>
+ <br>Nombre : Evelyn
+ <br>Apellido : Chilan
+ <br>Cargo : Vendedora de ropa, administrativa, operaria, limpieza, etc
+ <br>Direccion : Marquez 3830
+ <br>Ciudad : Morón
+ <br>Telefono : 1565713219
+ <br>Email : Evechilan15@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola! Les cargo mi cv para que me tengan en cuenta en algun empleo. Gracias.
+ <br>Security_code : 2bfd6
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.165.58.123<br>
+ <br>REF : ACO-1
+ <br>Nombre : randal
+ <br>Apellido : boharski
+ <br>Cargo : comercio exterior
+ <br>Direccion : bucarelli 2220
+ <br>Ciudad : caba
+ <br>Telefono : 1554795817
+ <br>Email : randalboharski@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estudiante de comercio exterior. Busco adquierir experiencia y capacitarme.
+ <br>Security_code : g7tx8
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.165.58.123<br>
+ <br>REF : ACO-1
+ <br>Nombre : randal
+ <br>Apellido : boharski
+ <br>Cargo : comercio exterior
+ <br>Direccion : bucarelli 2220
+ <br>Ciudad : caba
+ <br>Telefono : 1554795817
+ <br>Email : randalboharski@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estudiante de comercio exterior. Busco adquierir experiencia y capacitarme.
+ <br>Security_code : g7tx8
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.165.58.123<br>
+ <br>REF : ACO-1
+ <br>Nombre : randal
+ <br>Apellido : boharski
+ <br>Cargo : comercio exterior
+ <br>Direccion : bucarelli 2220
+ <br>Ciudad : caba
+ <br>Telefono : 1554795817
+ <br>Email : randalboharski@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estudiante de comercio exterior. Busco adquierir experiencia y capacitarme.
+ <br>Security_code : g7tx8
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.165.58.123<br>
+ <br>REF : ACO-1
+ <br>Nombre : randal
+ <br>Apellido : boharski
+ <br>Cargo : comercio exterior
+ <br>Direccion : bucarelli 2220
+ <br>Ciudad : caba
+ <br>Telefono : 1554795817
+ <br>Email : randalboharski@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estudiante de comercio exterior. Busco adquierir experiencia y capacitarme.
+ <br>Security_code : gmwn4
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.165.58.123<br>
+ <br>REF : ACO-1
+ <br>Nombre : randal
+ <br>Apellido : boharski
+ <br>Cargo : comercio exterior
+ <br>Direccion : bucarelli 2220
+ <br>Ciudad : caba
+ <br>Telefono : 1554795817
+ <br>Email : randalboharski@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estudiante de comercio exterior. Busco adquierir experiencia y capacitarme.
+ <br>Security_code : t9sr3
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.139.47.192<br>
+ <br>Nombre : Lucas Maximiliano
+ <br>Apellido : Costilla
+ <br>Cargo : Chofer 
+ <br>Direccion : Avellaneda 369 depto 10
+ <br>Ciudad : Merlo, Buenos Aires
+ <br>Telefono : 1132570117
+ <br>Email : lucasmcostilla@hotmail.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me encuentro en la busqueda de un puesto para chofer
+ <br>Security_code : 7gwyh
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.190.35.199<br>
+ <br>REF : JPER-1
+ <br>Nombre : Sergio Adrian
+ <br>Apellido : Nappi
+ <br>Cargo :  JPER-1 Jefe de Personal
+ <br>Direccion : Chaco 4203
+ <br>Ciudad : Villa Ballester
+ <br>Telefono : 1540691100
+ <br>Email : snappi59@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Disponibilidad Inmediata y full time.
+ <br>Security_code : qnf8w
+ <br>Send : Enviar
+ <br>
+---------------
+

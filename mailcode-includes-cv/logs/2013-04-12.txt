@@ -1,0 +1,78 @@
+Address : 190.229.201.156
+Nombre : Santiago
+Apellido : Cabrera
+Cargo : Desarrollador de sistemas
+Direccion : Cervantes 981
+Ciudad : Gualeguaychu
+Telefono : 03446 436819
+Email : info@tecnochu.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje :  Soy desarrollador de sistemas con experiencia comprobale
+Security_code : dqkx7
+Send : Enviar
+
+---------------
+
+Address : 190.173.192.25
+Nombre : gabriel hernan
+Apellido : palacios
+Cargo : APM
+Direccion : san lorenzo 868
+Ciudad : turdera
+Telefono : 42982435
+Email : gahepalacios@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : termine el urso de APM en noviembre espero por este medio conseguir empleo gracias.
+Security_code : z6r3j
+Send : Enviar
+
+---------------
+
+Address : 190.173.79.168
+REF : jefe-de-operaciones
+Nombre : WALTER ALBO
+Apellido : TECHERA BARCELO
+Cargo : jefe de operaciones
+Direccion : HUMAHUACA 2582
+Ciudad : MORON
+Telefono : 1540783029//01146965428
+Email : losalbos1959@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Vista la Oferta Laboral ,les hago llegar mis datos personales y profesionales en Curriculum Vitae a fin de ser tenido en cuenta como candidato.
+
+Con la convicciòn de poseer el perfil requerido para un muy buen desempeño en el cargo a cubrir, quedo a entera disposicion para hacerle llegar, sea en una entrevista personal o por el medio que se me indique, las ampliaciones y/o la documentaciòn probatoria correspondiente.
+
+Esperando una respuesta positiva lo saluda atentamente,
+
+    walter albo techera barcelo
+     154-0783029
+
+Security_code : 35XD7
+Send : Enviar
+
+---------------
+
+Address : 190.173.79.168
+REF : jefe-de-operaciones
+Nombre : walter albo 
+Apellido : Techera Barcelò
+Cargo : jefe de operaciones
+Direccion : humahuaca 2582
+Ciudad : moron
+Telefono : 1540783029//01146965428
+Email : losalbos1959@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Vista la Oferta Laboral ,les hago llegar mis datos personales y profesionales en Curriculum Vitae a fin de ser tenido en cuenta como candidato.
+
+Con la convicciòn de poseer el perfil requerido para un muy buen desempeño en el cargo a cubrir, quedo a entera disposicion para hacerle llegar, sea en una entrevista personal o por el medio que se me indique, las ampliaciones y/o la documentaciòn probatoria correspondiente.
+
+Esperando una respuesta positiva lo saluda atentamente,
+
+    walter albo techera barcelo
+     154-0783029
+
+Security_code : 35XD7
+Send : Enviar
+
+---------------
+

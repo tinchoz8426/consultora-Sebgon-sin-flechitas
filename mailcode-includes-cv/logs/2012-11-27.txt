@@ -1,0 +1,75 @@
+Address : 201.212.49.59
+Nombre : marcela gretel
+Apellido : claus
+Cargo : asistente de comunicacion junior
+Direccion : aristobulo del valle 139
+Ciudad : buenos aires
+Telefono : 01153762408
+Email : marcela_gc83@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : buenos dias les adjunto mi CV para una futua entrevista laboral.Muchas Gracias
+Security_code : ktf7y
+Send : Enviar
+
+---------------
+
+Address : 190.192.38.207
+Nombre : rodrigo
+Apellido : quevedo
+Cargo : atencion al cliente / area administrativa
+Direccion : paraguay 926
+Ciudad : rosario
+Telefono : 0341-4486206
+Email : simplementeroy@live.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : 
+Security_code : pbzyz
+Send : Enviar
+
+---------------
+
+Address : 190.192.38.207
+Nombre : rodrigo
+Apellido : quevedo
+Cargo : atencion al cliente / area administrativa
+Direccion : paraguay 926
+Ciudad : rosario
+Telefono : 0341-4486206
+Email : simplementeroy@live.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Busco insertarme en el mercado Laboral para poder desarrollarme laboralmente.
+Security_code : pbzyz
+Send : Enviar
+
+---------------
+
+Address : 190.195.167.223
+Nombre : fernanda
+Apellido : seva
+Cargo : recepcionista
+Direccion : 1 de mayo 933
+Ciudad : buenos aires
+Telefono : 42028200
+Email : fernandaseva@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : hala ! mando mi cv para ofertas laborales ! gracias.
+Security_code : jp3cd
+Send : Enviar
+
+---------------
+
+Address : 190.195.167.223
+Nombre : fernanda
+Apellido : seva
+Cargo : recepcionista
+Direccion : 1 de mayo
+Ciudad : buenos aires
+Telefono : 42028200
+Email : fernandaseva@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : hala ! mando mi cv para ofertas laborales ! gracias.
+Security_code : jp3cd
+Send : Enviar
+
+---------------
+

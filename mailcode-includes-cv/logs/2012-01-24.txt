@@ -1,0 +1,41 @@
+Address : 190.50.211.207
+Nombre : Valeria
+Apellido : Chiappara
+Cargo : diseñadora gráfica
+Direccion : Bolivar 352 piso 6 depto 5
+Ciudad : Ramos Mejía
+Telefono : 153-693-8548
+Email : valeriachiappara@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Les adjunto mi cv, a la espera de una respuesta favorable y que podamos concretar una entrevista para ampliar mis conocimientos y experiencia.
+Security_code : cmzpj
+Send : Enviar
+
+---------------
+
+Address : 190.231.84.8
+Nombre : RUBEN
+Apellido : CREGO
+Cargo : SUPERVISOR DE PRODUCION 
+Direccion : SARGENTO DIAZ 9250
+Ciudad : PABLO PODESTA
+Telefono : 4739-9343
+Email : rubencrego@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Lo primero enviarle un saludo y rogarle que no se tome a mal que me dirija a usted con esta carta.
+
+Es mi deseo poder incorporarme a una  prestigiosa empresa. en calidad de Supervisor del área de Producción 
+
+Me encuentro ahora buscando trabajo estoy Disponible para el cargo de supervisor . Quisiera una ocupación en el marco de la cual pueda poner en práctica mis conocimientos y de esta manera lograr éxitos tanto para la empresa como para mi persona. Me gustan las tareas que me sean un reto y requieran creatividad,Mi objetivo profesional consiste en formar parte de una compañía en la cual pueda continuar el desarrollo de mi carrera profesional aplicando mis conocimientos y habilidades interpersonales y Desempeñarme en el trabajo que me corresponda con la mayor idoneidad y responsabilidad 
+
+Le agradezco su tiempo y pido disculpas por la molestia que pudiera ocasionarle.
+Atentamente
+
+RUBÉN ALEJANDRO CREGO
+DNI: 21730623
+
+Security_code : 3bspb
+Send : Enviar
+
+---------------
+

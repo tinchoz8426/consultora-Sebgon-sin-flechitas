@@ -1,0 +1,98 @@
+Address : 190.139.113.167
+Nombre : Daniela
+Apellido : Castillo
+Cargo : Analista de RR.HH
+Direccion : Pje Lafinur 3252 - Dpto. B
+Ciudad : Tucuman
+Telefono : 0381-155414388
+Email : danielakastillo@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : A la espera de una respuesta favorable, los saludo atte.
+Security_code : wcpjd
+Send : Enviar
+
+---------------
+
+Address : 181.28.250.158
+Nombre : Ernesto Isidro
+Apellido : Fernández Núnez
+Cargo : -
+Direccion : Peña 2473
+Ciudad : Capital Federal
+Telefono : 1554696870
+Email : ernestofernandezn@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados,
+Envío mi CV para ser considerado en futuras búsquedas.
+Saludo cordial
+Security_code : v8nvz
+Send : Enviar
+
+---------------
+
+Address : 181.28.250.158
+Nombre : Ernesto Isidro
+Apellido : Fernández Núnez
+Cargo : Futuras busquedas
+Direccion : Peña 2473
+Ciudad : Capital Federal
+Telefono : 1554696870
+Email : ernestofernandezn@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados,
+Envío mi CV para ser considerado en futuras búsquedas.
+Saludo cordial
+Security_code : v8nvz
+Send : Enviar
+
+---------------
+
+Address : 181.28.250.158
+Nombre : Ernesto Isidro
+Apellido : Fernández Núnez
+Cargo : Futuras busquedas
+Direccion : Peña 2473
+Ciudad : Capital Federal
+Telefono : 1554696870
+Email : ernestofernandezn@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados,
+Envío mi CV para ser considerado en futuras búsquedas.
+Saludo cordial
+Security_code : xn7mp
+Send : Enviar
+
+---------------
+
+Address : 181.28.250.158
+Nombre : Ernesto Isidro
+Apellido : Fernández Núnez
+Cargo : futuras busquedas
+Direccion : Peña 2473
+Ciudad : Capital Federal
+Telefono : 1554696870
+Email : ernestofernandezn@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados,
+Envío mi CV para ser considerado en futuras búsquedas.
+Saludo cordial
+Security_code : swr48
+Send : Enviar
+
+---------------
+
+Address : 200.117.174.206
+Nombre : Lourdes
+Apellido : Viguri
+Cargo : administrativo
+Direccion : 70 N° 3358
+Ciudad : Necochea
+Telefono : (02262) 52-7341
+Email : lourdesviguri@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me considero una persona responsable, puntual, emprendedora, con disposición de aprender y trabajar. Siempre estoy dispuesta a crear un buen ambiente laboral. Tengo conocimientos en ingles, computación, recursos humanos, estética, administración, manipulación de alimentos. En mi curriculum adjuntado a continuación dejo detallado mis trabajos, cursos y referencias. Muchas gracias
+Security_code : ny3wt
+Send : Enviar
+
+---------------
+

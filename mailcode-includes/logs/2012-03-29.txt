@@ -1,0 +1,27 @@
+Address : 201.255.115.188
+Nombre : Claudia
+Apellido : Pilote
+Empresa : Particular
+Telefono : 0221-155444311
+Email : claudia_pilote@gmail.com.ar
+Mensaje : Quisiera saber cuanto cuesta un plan de evacuacion e incendio p un salon de fiestas infantiles con una casa de caseros todo en planta baja y en un predio de una hectarea.
+Atte: Sra Claudia
+Security_code : 23gz7
+Send : Enviar
+
+---------------
+
+Address : 201.255.115.188
+Nombre : Claudia
+Apellido : Pilotin
+Empresa : Particular
+Telefono : 0221-155444311
+Email : claudiapilotin@gmail.com
+Mensaje : Hola: Quisiera saber cuanto cuesta un plan de evacuacion e incendio para una casa de fiestas y la casa de un casero, todo en planta baja, es sencillo, con una galeria
+Y tiene una hectarea alrededor de verde.
+Atte: Sra Claudia
+Security_code : z2nb2
+Send : Enviar
+
+---------------
+

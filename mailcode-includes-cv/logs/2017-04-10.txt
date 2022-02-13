@@ -1,0 +1,123 @@
+Address : 181.231.87.186<br>
+ <br>REF : EP-1
+ <br>Nombre : Mariano
+ <br>Apellido : Tornaqueidici
+ <br>Cargo : Encargado de Producción
+ <br>Direccion : 58 esq 25
+ <br>Ciudad : La Plata
+ <br>Telefono : 2215698565
+ <br>Email : marianotorna@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados, buenos días
+Soy ingeniero químico especialista en ambiental, de la Universidad Nacional de La Plata. Poseo casi 3 años de experiencia en la industria del petróleo y gas, desarrollándome como Ingeniero de Procesos en la Refinería La Plata de YPF S.A.
+
+Envío mi CV para ver si existe la posibilidad de realizar una inserción laboral en la compañía.
+
+Atentamente y muchas gracias por su atención.
+
+Saludos
+
+              Mariano
+ <br>Security_code : 753hs
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.62.3.201<br>
+ <br>Nombre : Guillermo
+ <br>Apellido : Salvatore
+ <br>Cargo : Administrativo
+ <br>Direccion : calle 151 686
+ <br>Ciudad : Berazategui
+ <br>Telefono : 1150175884
+ <br>Email : guillesalvatore@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Ademas del cargo  Administrativo, me puede interesar algo relacionado con reparación de computadora. O programación, a pesar de que estoy en los primeros años de la carrera.
+ <br>Security_code : bz3zr
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.104.201.66<br>
+ <br>REF : ROT-1
+ <br>Nombre : Luciano Emanuel
+ <br>Apellido : lencina
+ <br>Cargo : responsable of Tecnica
+ <br>Direccion : pizzurno 164
+ <br>Ciudad : monte grande
+ <br>Telefono : 1136915086
+ <br>Email : lucianogotan@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : me gustaría postularme al puesto
+ <br>Security_code : rjxpq
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.13.3.211<br>
+ <br>REF : chr
+ <br>Nombre : Eduardo
+ <br>Apellido : Orellana
+ <br>Cargo : Chofer
+ <br>Direccion : Arenales
+ <br>Ciudad : Florencio varela
+ <br>Telefono : 1135614700
+ <br>Email : eduardoorellana612@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola ando presisando trabajar y conosco el rubro 
+ <br>Security_code : qv55h
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.29.153.65<br>
+ <br>REF : EP-1
+ <br>Nombre : Favio
+ <br>Apellido : Martínez
+ <br>Cargo : Supervisor de produccion
+ <br>Direccion : Deheza 2351 Ituzaingo
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 1563357859
+ <br>Email : favioantmartinez@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Tengo 28 años de experiencia en mantenimiento y lineas de producción,preventivo,correctivo,planificacion de tareas ,manejo de personal,seguridad,ambiente,5s,mejora continua,atencion de proveedores 
+ <br>Security_code : 62jph
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.16.160.218<br>
+ <br>REF : JPER-1
+ <br>Nombre : Jorge Adrian
+ <br>Apellido : Qunitana
+ <br>Cargo : Jefe de RRHH
+ <br>Direccion : Armenia 2436 1 D
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 1155261329
+ <br>Email : adrianjq@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados:
+Me dirijo a Usted con el motivo de hacerle llegar mi CV,a fin de ser considerado para el puesto de Jefe de Personal.
+Saludos cordiales.
+Lic. Jorge Adrián Quintana
+ <br>Security_code : v3z44
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.3.132.54<br>
+ <br>REF : chr
+ <br>Nombre : fernando
+ <br>Apellido : gonzalez
+ <br>Cargo : 1669
+ <br>Direccion : delviso
+ <br>Ciudad : pilar
+ <br>Telefono : 1125829538
+ <br>Email : fernandogaston8556@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : tengo mucha gana de trabajar.
+ <br>Security_code : 3fyth
+ <br>Send : Enviar
+ <br>
+---------------
+

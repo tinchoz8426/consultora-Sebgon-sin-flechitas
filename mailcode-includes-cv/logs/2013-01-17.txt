@@ -1,0 +1,15 @@
+Address : 181.28.45.40
+Nombre : María
+Apellido : Doria
+Cargo : Asistente/Secretaria/Comuncación o Diplomacia
+Direccion : Rodriguez Peña 1465 4A
+Ciudad : Capital Federal
+Telefono : 1156422908
+Email : mery_doria@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me encuentro interesada en empleos en el area de la comunicación, el periodismo o la diplomacia. Sin embargo, por el momento busco trabajos de secretaria o asistente en cualquier entorno
+Security_code : k2538
+Send : Enviar
+
+---------------
+

@@ -1,0 +1,57 @@
+Address : 186.153.65.123
+Nombre : Adriana
+Apellido : Fintz
+Cargo : Compradora Senior - Secretaria Ejecuiva - Administracion - Seguros - Bancos
+Direccion : Mansilla 3960 2 B
+Ciudad : CABA
+Telefono : 011 63568425
+Email : adrifintz@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Muchas Gracias
+Security_code : gkzvj
+Send : Enviar
+
+---------------
+
+Address : 181.109.127.211
+Nombre : Adrián
+Apellido : Mancuso
+Cargo : PORTERO
+Direccion : Almafuerte 4156- Santos Lugares
+Ciudad : Buenos Aires
+Telefono : 1133935678
+Email : adrianmancuso@yahoo.com.arn
+MAX_FILE_SIZE : 2097152
+Mensaje : A quién corresponda:
+
+Con relación a la oferta de empleo, aparecida en Computrabajo con fecha 08/01/2016, me es grato comunicarles mi interés por el puesto convocado de PORTERO Para prestigiosa Institución Educativa de Capital Federal.
+
+Me complace presentarles mi CV por si pudiera ser de utilidad y de interés para la Empresa, con el fin de ser tomado en consideración. Por este motivo, les expreso mi interés por el mismo, ya que cómo podrán apreciar con su lectura, poseo sólida formación que, complementado con experiencia, se adaptan a la persona que se requiere para el pueso. Me considero una persona muy emprendedora, trabajadora y me gustan los desafíos.
+                        Mi aspiración y deseo, es poder desarrollarme en una Empresa o institución de calidad, en donde pueda crecer profesionalmente y personalmente.
+
+Con la esperanza de que mis datos se ajusten a los requisitos demandados por ustedes, quedo a su entera disposición para completar cuanta información consideren necesaria. 
+                       Agradeciendo la atención que prestan a este mensaje, sin otro particular, reciban un saludo cordial.
+
+Adrián Mancuso
+Tel 113393-5678
+adrianmancuso@yahoo.com.ar
+Security_code : nzthr
+Send : Enviar
+
+---------------
+
+Address : 186.7.127.89
+Nombre : Amiesel
+Apellido : de los Santos Montas
+Cargo : Informatico
+Direccion : 8 1/2 Independencia
+Ciudad : Santo Domingo
+Telefono : 829-284-5097
+Email : ami_forter_20@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Trabajar para la empresa y desarrollo personal
+Security_code : h3rmx
+Send : Enviar
+
+---------------
+

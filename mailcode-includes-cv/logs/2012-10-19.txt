@@ -1,0 +1,68 @@
+Address : 200.45.247.252
+Nombre : Francisco Damián
+Apellido : Lupia
+Cargo : Ejecutivo de Ventas, Operario
+Direccion : F. alfaro 436
+Ciudad : Hurlingham
+Telefono : 1163595928
+Email : demiantano@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : De mi mayor consideración:
+
+Me presento como una persona activa, responsable, creativa, flexible, orientada al logro de resultados y a la resolución y evolución constante en las tareas asignadas.
+
+Dejo a su criterio la posibilidad de mantener una entrevista para ampliar aspectos de mi perfil.
+
+Saludo muy atentamente. 
+Francisco Damian lupia.
+Security_code : rcykd
+Send : Enviar
+
+---------------
+
+Address : 186.23.186.22
+REF : supervisor-de-elaboracion
+Nombre : David Abraham
+Apellido : Abraham
+Cargo : Supervisor de elaboracion
+Direccion : Juan Farrell 602
+Ciudad : Valentin Alsina Argentina
+Telefono : 541140792428
+Email : cristiandavidabraham@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Es mi intensión avanzar sobre otras áreas de trabajo es por ello que me postulo a cubrir la posición requerida.
+Security_code : j5gdg
+Send : Enviar
+
+---------------
+
+Address : 200.127.233.67
+Nombre : carlo
+Apellido : zoto
+Cargo : vigilador
+Direccion : murcia 2050
+Ciudad : cordoba
+Telefono : 3513354795
+Email : charlyzetax@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : me gustaria entrar
+Security_code : qzqh7
+Send : Enviar
+
+---------------
+
+Address : 190.19.227.137
+Nombre : Veronica
+Apellido : Polzinetti
+Cargo : Contador
+Direccion : Villegas 465 3 B
+Ciudad : Gral. Roca
+Telefono : 0298 - 154667620
+Email : vpolzi@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenas tardes, estoy buscando trabajo en las provincias de Neuquen (capital) y Rio Negro, por lo que les envio mi CV. Gracias
+Security_code : fn7c4
+Send : Enviar
+
+---------------
+

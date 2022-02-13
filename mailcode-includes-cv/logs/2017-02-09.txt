@@ -1,0 +1,155 @@
+Address : 186.22.134.169<br>
+ <br>Nombre : alejandra
+ <br>Apellido : farias
+ <br>Cargo : recepcionista, secretaria, limpieza, cajera
+ <br>Direccion : SUDAMERICA
+ <br>Ciudad : laferrere
+ <br>Telefono : 1162799412
+ <br>Email : aleygama16@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Mi nombre es Alejandra Farías y me comunico con Usted a fines de solicitar empleo en el sector que usted administra. Mi conocimiento me capacita para ejecutar las tareas de como secretaria, recepcionista, limpieza, ya que tengo experiencia en el rubro de atención al cliente.
+Si me concede, agradecería que me cediera unos minutos de su tiempo, para poder dialogar en persona. Por favor, indíqueme el día y la hora de su mayor conveniencia.
+Desde ya, le estoy muy agradecida y quedaré aguardando su respuesta.
+Saludos muy cordiales.
+
+
+ <br>Security_code : nhzqr
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.44.76.48<br>
+ <br>REF : ROT-1
+ <br>Nombre : Luis
+ <br>Apellido : Stivanello
+ <br>Cargo : responsable de oficina tecnica
+ <br>Direccion : Quiroz 2285
+ <br>Ciudad : Ituzaingo
+ <br>Telefono : 1554982792
+ <br>Email : luisstiv@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Interés por el empleo
+ <br>Security_code : j8d5f
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.192.62.195<br>
+ <br>REF : EP-1
+ <br>Nombre : Mariano
+ <br>Apellido : Esquerra
+ <br>Cargo : Encargado de producción. Ref.: EP-1
+ <br>Direccion : Lavalle 430
+ <br>Ciudad : Luján
+ <br>Telefono : 0111569186378
+ <br>Email : marianoesquerra@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados.
+Estoy interesado en el puesto de Encargado de producción.
+
+saludos
+mariano
+
+ <br>Security_code : d87yj
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.192.62.195<br>
+ <br>REF : EP-1
+ <br>Nombre : Mariano
+ <br>Apellido : Esquerra
+ <br>Cargo : Encargado de producción. Ref.: EP-1
+ <br>Direccion : Lavalle 430
+ <br>Ciudad : Luján
+ <br>Telefono : 0111569186378
+ <br>Email : marianoesquerra@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados.
+Estoy interesado en el puesto de Encargado de producción.
+
+saludos
+mariano
+
+ <br>Security_code : d87yj
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.192.62.195<br>
+ <br>REF : EP-1
+ <br>Nombre : Mariano
+ <br>Apellido : Esquerra
+ <br>Cargo : EP-1
+ <br>Direccion : Lavalle 430
+ <br>Ciudad : Luján
+ <br>Telefono : 0111569186378
+ <br>Email : marianoesquerra@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados.
+Estoy interesado en el puesto de Encargado de producción.
+
+saludos
+mariano
+
+ <br>Security_code : d87yj
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.192.62.195<br>
+ <br>Nombre : Mariano
+ <br>Apellido : Esquerra
+ <br>Cargo : EP-1
+ <br>Direccion : Lavalle 430
+ <br>Ciudad : luján
+ <br>Telefono : 0111569186378
+ <br>Email : marianoesquerra@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados
+subo mi cv para que me tengan en cuentra para alguna búsqueda referida a la industria alimenticia
+desde ya muchas gracias
+saludos
+mariano
+
+ <br>Security_code : 9s6sd
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.189.16.229<br>
+ <br>REF : EP-1
+ <br>Nombre : Gustavo
+ <br>Apellido : Ferreira
+ <br>Cargo : Encargado produccion
+ <br>Direccion : Alsina 800 
+ <br>Ciudad : Avellaneda Centro
+ <br>Telefono : 1537007388
+ <br>Email : gaf_800@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me postulo al aviso contando con una amplia experiencia en industria alimenticia y en laboratorios medicinales
+ <br>Security_code : 39hcz
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.192.62.195<br>
+ <br>Nombre : Mariano
+ <br>Apellido : Esquerra
+ <br>Cargo : EP-1
+ <br>Direccion : Lavalle 430
+ <br>Ciudad : luján
+ <br>Telefono : 0111569186378
+ <br>Email : marianoesquerra@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados
+subo mi cv para que me tengan en cuentra para alguna búsqueda referida a la industria alimenticia
+desde ya muchas gracias
+saludos
+mariano
+
+ <br>Security_code : jdy8x
+ <br>Send : Enviar
+ <br>
+---------------
+

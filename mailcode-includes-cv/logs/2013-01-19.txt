@@ -1,0 +1,32 @@
+Address : 186.123.135.46
+Nombre : Faviana Graciela Carla
+Apellido : Biolcati
+Cargo : Recursos Humanos
+Direccion : Barrio Santa Barbara 935
+Ciudad : Tigre
+Telefono : 1537846989
+Email : chinbiolcati@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto mi CV, aguardando se ajuste a alguna búsqueda laboral por ustedes realizada.
+Muchas Gracias
+Security_code : gx67m
+Send : Enviar
+
+---------------
+
+Address : 186.128.46.156
+Nombre : Patricia
+Apellido : Agostinelli
+Cargo : SECRETARIA O ASISTENTE
+Direccion : Gobernador castro 69 oeste
+Ciudad : san juan
+Telefono : 024-289789
+Email : agostinellipetri@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Mi postulacion es para el area seleccionada o a fines similares.
+Gracias por su atención
+Security_code : q7ztm
+Send : Enviar
+
+---------------
+

@@ -1,0 +1,102 @@
+Address : 190.139.157.1
+Nombre : Lucia
+Apellido : Vallejos
+Cargo : Técnica en seguridad e higiene
+Direccion : Beliera 3887
+Ciudad : Escobar
+Telefono : 1130164109
+Email : luciavallejos02@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me gustaría, tener la oportunidad de una oferta laboral.
+
+Gracias
+Security_code : n5oy5
+Send : Enviar
+
+---------------
+
+Address : 181.90.197.181
+REF : OEL
+Nombre : jose luis 
+Apellido : fabrat 
+Cargo : ofial electricista 
+Direccion : diaz colodrero 3110 
+Ciudad : caba
+Telefono : 1567666693
+Email : electricaurquiza@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : hola buenas tardes, me interesa el puesto. soy electricista desde hace mas de 20 años. especializado en maniobras armado de tableros. anuque tengo una amplia esperiencia en todas las áreas. un saludo 
+Security_code : 5gxp8
+Send : Enviar
+
+---------------
+
+Address : 181.90.197.181
+REF : OEL
+Nombre : jose luis 
+Apellido : fabrat 
+Cargo : ofial electricista 
+Direccion : diaz colodrero 3110 
+Ciudad : caba
+Telefono : 1567666693
+Email : electricaurquiza@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : hola buenas tardes, me interesa el puesto. soy electricista desde hace mas de 20 años. especializado en maniobras armado de tableros. anuque tengo una amplia esperiencia en todas las áreas. un saludo 
+Security_code : 5gxp8
+Send : Enviar
+
+---------------
+
+Address : 181.90.197.181
+REF : OEL
+Nombre : jose luis 
+Apellido : fabrat
+Cargo : ofial electricista
+Direccion : diaz colodrero 3110
+Ciudad : caba
+Telefono : 1567666693
+Email : electricaurquiza@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : estaria interesado en en su oferta de empleo. soy electricista con mas de 20 años de experiencia. especializado en armado de tablero y maniobras.
+Security_code : rcb4t
+Send : Enviar
+
+---------------
+
+Address : 181.165.127.165
+Nombre : Facundo
+Apellido : Touriño
+Cargo : Cadete Administrativo
+Direccion : 9 de julio 18 Piso 3 Dpto. 8
+Ciudad : Ramos Mejía
+Telefono : 15-6868-1068
+Email : facundo.tourino@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Soy un joven con ambiciones. Deseo crecer y desarrollarme profesionalmente.
+Sólo necesito una oportunidad.
+Security_code : 3bbxf
+Send : Enviar
+
+---------------
+
+Address : 190.247.196.78
+Nombre : Marcial Alejandro
+Apellido : Perez Peña
+Cargo : Arquitecto
+Direccion : EEUU 4263
+Ciudad : CABA
+Telefono : 011 61214879
+Email : mapp88@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenas tardes,
+
+ Adjunto mi Resumen Curricular esperando positiva evaluación; ademas de Arquitecto curso actualmente Posgrado sobre Diseño de Mobiliario Arquitectónico. 
+Para servirles,
+
+Arq. Pérez Peña Marcial Alejandro
+
+Security_code : 622cy
+Send : Enviar
+
+---------------
+

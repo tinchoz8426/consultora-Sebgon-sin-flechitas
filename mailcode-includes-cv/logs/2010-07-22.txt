@@ -1,0 +1,110 @@
+Address : 190.188.50.87
+Nombre : Fabiana
+Apellido : Villegas
+Cargo : Secretaria / Asistente / Administrativa
+Direccion : Ing. Amoretti 3776
+Ciudad : Ciudadela
+Telefono : 4488 2775
+Email : fabiana.villegas@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Tengo experiencia de  mas de diez  años como Secretaria. Organizando Eventos, Coordinando  viajes , Recepción de llamadas y Tareas Administrativas, Seguimiento de Clientes (Post venta). Con optimo manejo de herramientas informáticas e intermedio nivel de idioma Ingles tanto hablado como escrito.
+
+También cuento con una basta experiencia  en organizar cursos, confección de  Casos de Éxito de Clientes  y actualizar material de Marketing para el mercado Hispano
+
+Mi objetivo es desarrollar y realizarme tanto personal como profesionalmente, en un medio que permita aplicar mis conocimientos y habilidades en la consecución de los objetivos de la Empresa así como mis objetivos personales.
+
+
+Security_code : 6ztmr
+Send : Enviar
+
+---------------
+
+Address : 201.231.150.61
+Nombre : María Clara
+Apellido : Ducassé
+Cargo : Administrativo
+Direccion : Larrea 1058 1º
+Ciudad : Capital Federal
+Telefono : 01148226121
+Email : clara_ducasse@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : De mi consideración:
+
+Tengo el agrado de dirigirme a Ud., con el objeto de  participar en procesos de búsquedas relacionadas a mi perfil en tan importante a Empresa, siendo mi deseo formar parte de un equipo de trabajo en el que pueda contribuir a través de mi desempeño personal y profesional. 
+Como Joven Profesional, egresada en Diciembre 2009, (trabajado actualmente en la presentación final de la Tesis correspondiente a la carrera), cuento con experiencia en pasantías en áreas de administración y otras relacionadas con esta. 
+En cuanto a mi formación, soy Lic. en Administración y Gestión en Agronegocios, UB., teniendo un fluido manejo del idioma inglés y de herramientas informáticas.  
+Adjunto mi curriculum vitae., y agradezco tener la oportunidad de una entrevista laboral en la que pueda profundizar aspectos de mi perfil que resulten de su interés. 
+Saludos Cordiales, 
+
+M. Clara Ducassé
+Cel. 011.1563567584
+Tel. 011.48226121 / 02362.15386764
+E-mail: clara_ducasse@yahoo.com.ar
+
+Security_code : svq2w
+Send : Enviar
+
+---------------
+
+Address : 190.139.44.153
+Nombre : cesar manuel
+Apellido : contreras
+Cargo : operario
+Direccion : dupuy 3468
+Ciudad : cordoba,capital
+Telefono : 152870335
+Email : cesarcontreras723
+MAX_FILE_SIZE : 2097152
+Mensaje : espero conseguir un buen trabajo con ustedes por que lo unico q consigo son trabajos en negro y un amigo me recomendo esta pagina
+Security_code : rckz7
+Send : Enviar
+
+---------------
+
+Address : 201.252.146.171
+Nombre : Liliana
+Apellido : Fontaine
+Cargo : Nutricionista/Secretaria/Recepcionista/Atención al Cliente
+Direccion : O. Trejo 741
+Ciudad : Córdoba
+Telefono : 0351-153098435
+Email : lulyf@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me ofrezco para puestos de trabajo aún fuera de mi profesión. En lo posible de medio tiempo.
+Gracias.
+Security_code : 3n44g
+Send : Enviar
+
+---------------
+
+Address : 186.18.134.147
+Nombre : Rodrigo
+Apellido : Clariá
+Cargo : Ing. Mecánico presentación espontánea
+Direccion : Moldes 825 2º A
+Ciudad : Capital Federal
+Telefono : 1135307015
+Email : rodrigoclaria@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Envío mi CV y quedo a su disposición para una entrevista personal
+Security_code : mtnym
+Send : Enviar
+
+---------------
+
+Address : 186.58.24.153
+Nombre : santiago david
+Apellido : serrano
+Cargo : Diseño Tecnico en Autocad y Grafico,Facturacion Basica Medica,Empleado.
+Direccion : Santa Catalina 5136
+Ciudad : Laferrere
+Telefono : 4467-6440
+Email : santiago_david@live.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Encontrar un empleo para poner en practica mis conocimientos para cumplir con las expectativas de la empresa y crecer personalmente.
+ 
+Security_code : gxww5
+Send : Enviar
+
+---------------
+

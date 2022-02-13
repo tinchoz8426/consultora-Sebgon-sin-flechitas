@@ -1,0 +1,125 @@
+Address : 190.48.234.8
+Nombre : Facundo
+Apellido : Campos
+Cargo : Operario
+Direccion : Dr. Monte
+Ciudad : Moron
+Telefono : 1558326617
+Email : facundo.campos@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola, mi nombre es Facundo quedo a su disposición por cualquier trabajo que tengan. Desde ya muchísimas gracias.
+
+Atte : Facundo Campos
+Security_code : 9fd7q
+Send : Enviar
+
+---------------
+
+Address : 190.3.3.76
+Nombre : Alberto Francisco
+Apellido : Grecco
+Cargo : Jefe de Operaciones
+Direccion : Federico Lacroze 455
+Ciudad : Virrey del Pino
+Telefono : 113-318-4805 
+Email : alberto.grecco@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados
+Buen dia
+
+Conforme aviso, adjunto CV.
+atte.
+Alberto Grecco
+Security_code : dp7vc
+Send : Enviar
+
+---------------
+
+Address : 186.122.26.53
+Nombre : Alejandro Sebastian
+Apellido : Sanabria
+Cargo : Trabajador Social
+Direccion : 28 de junio S/N B° Belgrano
+Ciudad : Comandante Fontana
+Telefono : 3717 - 240536
+Email : alejandro_sanabria@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenas, me gustaría ingresar a la empresa ya que me interesar ser consultor me gusta mucho la investigación Social y la estadística. En este momentos tengo disponibilidad y con planes de ir a vivir en la cuidad de Formosa Capital. Tengo muchas ganas de trabajar para lo que me capacite, fui elegido como mejor perfil profesional de mi promoción, soy responsable, atento y respetuoso. Esperando una respuesta saludos atte.
+Security_code : 978tm
+Send : Enviar
+
+---------------
+
+Address : 190.191.255.34
+Nombre : Sandra Mónica
+Apellido : PERO
+Cargo : Jefa Control y/o Aseg de la Calidad
+Direccion : Castañón 1438 - dpto 1
+Ciudad : CABA
+Telefono : 15-6286-5728
+Email : smp_tiempolibre@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados Señores:
+ 
+Mi nombre es Sandra Mónica Pero, soy Licenciada en Ciencias Químicas y en Ciencias Biológicas, FCEN - UBA. 
+ 
+Mi objetivo profesional es fusionar mi experiencia de 13 años en Control de Calidad (fisicoquímico y microbiológico) y Aseguramiento de Calidad en industria farmacéutica y veterinaria,  bajo normas GMP e ISO con mi formación académica en Ing. Genética, Biología Molecular y Biotecnología.
+ 
+Adjunto mi CV, según lo solicitado. Remuneración a convenir.
+ 
+A la espera de sus comentarios, saludo a Uds. muy atte,
+ 
+Lic. Sandra Mónica Pero
+DNI 16 322 683    
+Cel.: 15-6286-5728 
+
+Security_code : qnt5t
+Send : Enviar
+
+---------------
+
+Address : 201.212.178.186
+Nombre : marcelo
+Apellido : rodriguez
+Cargo : empleado
+Direccion : esteban de luca 5484
+Ciudad : vicente lopez
+Telefono : 1533839766
+Email : l.marcelo-yori@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : mantenimiento de maquinas idraulicas. seguridad e-igiene, sereno, supervisor de produción y calidad y orientacion del personal a cargo
+Security_code : z3ph9
+Send : Enviar
+
+---------------
+
+Address : 186.124.26.131
+Nombre : nicolas alfredo
+Apellido : grasso
+Cargo : empleo en el exterior
+Direccion : 8-3976     6 A
+Ciudad : necochea
+Telefono : 02262-52-7295
+Email : nicolas@grasso.net.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : mando mi CV para ver si consigo empleo en el extranjero.
+Security_code : ncmfb
+Send : Enviar
+
+---------------
+
+Address : 186.136.204.242
+Nombre : FATIMA DANIELA
+Apellido : lionti
+Cargo : informes pre-laborales
+Direccion : pasaje aaron castellanos 1628
+Ciudad : salta-capital
+Telefono : 0387-4210845
+Email : fadali87@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : soy licenciada en trabajo social y me encuentro desempleada. resido actualmente en la provincia de salta.
+Security_code : 4gtnm
+Send : Enviar
+
+---------------
+

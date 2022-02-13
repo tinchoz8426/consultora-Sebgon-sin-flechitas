@@ -1,0 +1,12 @@
+Address : 186.141.145.36
+Nombre : Gisel
+Apellido : Guevara
+Empresa : UNCuyo
+Telefono : 0261 3495851
+Email : mgiselguevara@gmail.com
+Mensaje : Hola. yo necesitaría un presupuesto para poder hacer un trabajo de la facultad. estudio Comunicación Social. Es para presentar un proyecto de una empresa donde proponemos una capacitación de trabajo en equipo. Si el proyecto le agrada a la empresa que hemos elegido es muy posible que lo acepten y trabajen con uds. directamente. Espero una respuesta. Gracias
+Security_code : tthmq
+Send : Enviar
+
+---------------
+

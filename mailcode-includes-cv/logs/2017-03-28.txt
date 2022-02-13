@@ -1,0 +1,244 @@
+Address : 181.46.128.89<br>
+ <br>REF : chr
+ <br>Nombre : Ivan
+ <br>Apellido : Zavaleta
+ <br>Cargo : Reparto y ayudante de deposito
+ <br>Direccion : Cabildo 1056
+ <br>Ciudad : La matanza
+ <br>Telefono : 1123569759
+ <br>Email : Peva2910@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Experiencia en logística y distribución 5 años
+ <br>Security_code : 9y4qp
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 200.125.106.243<br>
+ <br>Nombre : leonardo
+ <br>Apellido : cannizzo
+ <br>Cargo : chofer de reparto
+ <br>Direccion : fonrouge 420, liniers
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 1141903277
+ <br>Email : leocannizzo@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : adjunto cv con referencias laborales
+ <br>Security_code : djbdq
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 191.80.235.146<br>
+ <br>Nombre : Norberto carlos
+ <br>Apellido : Elias
+ <br>Cargo : Chofer o mantenimiento
+ <br>Direccion : Maz1 casa7 seccion3 circunscripcion5
+ <br>Ciudad : Ciudad evita
+ <br>Telefono : 1541754366
+ <br>Email : Mirimere@Hotmail.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola buenos dias tengo experiencia en mecánica del automotor,chófer, conductor de autoelevador y y encargado de mantenimiento secundario realizado en escuela técnica N2 curso realizados Instituto Madero y inyección electrónica en utman
+ <br>Security_code : y6vbx
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.193.138.213<br>
+ <br>Nombre : Alba
+ <br>Apellido : Esteva
+ <br>Cargo : Dibujante Técnico
+ <br>Direccion : Calle Venezuela 770
+ <br>Ciudad : CABA
+ <br>Telefono : 1162257931
+ <br>Email : asec2113@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buen día, me es grato saludarles. Pude informarme mediante su pagina web sobre los proyectos que desarrollan y realmente me gustaría  formar parte equipo de trabajo. A fin de participar en la selección, adjunto a continuación mi currículo para su evaluación y, de estar acorde a sus expectativas, esperar de ustedes una pronta respuesta. Agradecida de antemano.
+ <br>Security_code : njkvz
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.193.138.213<br>
+ <br>Nombre : Alba
+ <br>Apellido : Esteva
+ <br>Cargo : Dibujante Técnico
+ <br>Direccion : Calle Venezuela 770
+ <br>Ciudad : CABA
+ <br>Telefono : 1162257931
+ <br>Email : asec2113@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buen día, me es grato saludarles. Pude informarme mediante su pagina web sobre los proyectos que desarrollan y realmente me gustaría  formar parte equipo de trabajo. A fin de participar en la selección, adjunto a continuación mi currículo para su evaluación y, de estar acorde a sus expectativas, esperar de ustedes una pronta respuesta. Agradecida de antemano.
+ <br>Security_code : njkvz
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.193.138.213<br>
+ <br>Nombre : Alba
+ <br>Apellido : Esteva
+ <br>Cargo : Dibujante Técnico
+ <br>Direccion : Calle Venezuela 770
+ <br>Ciudad : CABA
+ <br>Telefono : 1162257931
+ <br>Email : asec2113@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buen día, me es grato saludarles. Pude informarme mediante su pagina web sobre los proyectos que desarrollan y realmente me gustaría  formar parte equipo de trabajo. A fin de participar en la selección, adjunto a continuación mi currículo para su evaluación y, de estar acorde a sus expectativas, esperar de ustedes una pronta respuesta. Agradecida de antemano.
+ <br>Security_code : njkvz
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 179.60.251.114<br>
+ <br>REF : chr
+ <br>Nombre : ROBERTO OSCAR
+ <br>Apellido : BENITEZ
+ <br>Cargo : COFER Y OTROS
+ <br>Direccion : FRANCICO RATTO 846
+ <br>Ciudad : Lomas de Zamora 
+ <br>Telefono : 42834455
+ <br>Email : robertoobetty27@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : BUEN DIA ME INTERESA ESTE PUESTO TENGO REGUITRO AL DIA Y DURANTE TRESAÑOS BENGO ACINDO ESTOS TRABAJO DE CXHOFER GRACIAS
+ <br>Security_code : hnbhk
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.62.14.171<br>
+ <br>Nombre : angeles Marianel
+ <br>Apellido : Perez
+ <br>Cargo : Recepcionista
+ <br>Direccion : Dardo Rocha nº254
+ <br>Ciudad : Berazategui
+ <br>Telefono : 1534038866
+ <br>Email : mariaanelperez@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Cualquier tipo de trabajo se agradece. Estudio Kinesiología. Tengo una hija de un año y necesito trabajar. Gracias.
+ <br>Security_code : 3zhfn
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.62.14.171<br>
+ <br>Nombre : angeles Marianel
+ <br>Apellido : Perez
+ <br>Cargo : Recepcionista
+ <br>Direccion : Dardo Rocha nº254
+ <br>Ciudad : Berazategui
+ <br>Telefono : 1534038866
+ <br>Email : mariaanelperez@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Cualquier tipo de trabajo se agradece. Estudio Kinesiología. Tengo una hija de un año y necesito trabajar. Gracias.
+ <br>Security_code : 3zhfn
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.62.14.171<br>
+ <br>Nombre : angeles Marianel
+ <br>Apellido : Perez
+ <br>Cargo : Recepcionista
+ <br>Direccion : Dardo Rocha nº254
+ <br>Ciudad : Berazategui
+ <br>Telefono : 1534038866
+ <br>Email : mariaanelperez@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Cualquier tipo de trabajo se agradece. Estudio Kinesiología. Tengo una hija de un año y necesito trabajar. Gracias.
+ <br>Security_code : 3zhfn
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 179.38.209.240<br>
+ <br>Nombre : Vanina
+ <br>Apellido : Goudal
+ <br>Cargo : Encargado de produccion
+ <br>Direccion : Catamarca 3298
+ <br>Ciudad : Quilmes
+ <br>Telefono : 420044351
+ <br>Email : vanu_17river@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : No poseo experiecia en el puesto pero agradezco una oportunidad para poder aprender.
+ <br>Security_code : 28K4c
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 179.38.209.240<br>
+ <br>Nombre : Vanina
+ <br>Apellido : Goudal
+ <br>Cargo : Encargado de produccion
+ <br>Direccion : Catamarca 3298
+ <br>Ciudad : Quilmes
+ <br>Telefono : 420044351
+ <br>Email : vanu_17river@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : No poseo experiecia en el puesto pero agradezco una oportunidad para poder aprender.
+ <br>Security_code : 28k4c
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.254.15.150<br>
+ <br>REF : chr
+ <br>Nombre : daniel
+ <br>Apellido : xavier
+ <br>Cargo : chofer
+ <br>Direccion : larrea444
+ <br>Ciudad : ramos mejia
+ <br>Telefono : 46394199
+ <br>Email : danielxavierh@outlook,es
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : estoy interesado en la propuesta laboral,poseo los registros al dia,experiencia,libreta sanitaria vigente.desde ya muchas gracias espero su pronta respuesta
+ <br>Security_code : f44gg
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.46.88.14<br>
+ <br>Nombre : Evelyn
+ <br>Apellido : Barrios
+ <br>Cargo : Moza de salon
+ <br>Direccion : 137 y 6
+ <br>Ciudad : Berazategui
+ <br>Telefono : 1134539807
+ <br>Email : nyleve_b@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : En Busca de empleo
+ <br>Security_code : 89q9m
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.183.49.202<br>
+ <br>Nombre : Ayelen
+ <br>Apellido : Villagra
+ <br>Cargo : Atención al cliente. Administrativo. Docencia
+ <br>Direccion : Piedrabuena, 109
+ <br>Ciudad : PARANÁ
+ <br>Telefono : 3447513198
+ <br>Email : ayelenvillagra@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Soy una persona responsable, organizada, dinámica, con capacidad de trabajo en equipo y facilidad de aprendizaje de nuevas tareas.
+ <br>Security_code : gmqhq
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.177.210.228<br>
+ <br>REF : JPER-1
+ <br>Nombre : Fernando Mario
+ <br>Apellido : Artioli
+ <br>Cargo : Jefe de personal
+ <br>Direccion : Tucuman
+ <br>Ciudad : las rosas
+ <br>Telefono : 0347115341528
+ <br>Email : fartioli@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : quisiera postularme para el puesto de jefe de personal
+ <br>Security_code : 429kb
+ <br>Send : Enviar
+ <br>
+---------------
+

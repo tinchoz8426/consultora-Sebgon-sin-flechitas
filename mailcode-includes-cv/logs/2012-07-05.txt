@@ -1,0 +1,30 @@
+Address : 190.115.51.4
+Nombre : ALEJANDRA
+Apellido : ANDRADA
+Cargo : Cajera
+Direccion : 3 de febrero 1639 san josé
+Ciudad : guaymallén Mendoza
+Telefono : 4455222-153070367
+Email : aleandrada29@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me interesa un trabajo con estabilidad, serio y que me dé posibilidades de demostrar mi potencial y de crecer en la empresa.
+Security_code : c8k9v
+Send : Enviar
+
+---------------
+
+Address : 186.182.48.8
+Nombre : LAURA ROMINA
+Apellido : SORO
+Cargo : administrativa/telefonista/recepcion
+Direccion : ayolas 2864
+Ciudad : buenos aires
+Telefono : 1559310389   -  54310029
+Email : rom_s17@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenos días!  Les envió mi cv para estar a su disposición en caso de una oferta laboral. Me postulo para el sector de administrativa, telefonista o recepción para el área de salud. Les agradezco de todas maneras que me tengan en cuenta, sin más y a la espera de su llamado, la saluda atentamente. Laura Soro.
+Security_code : bgvmn
+Send : Enviar
+
+---------------
+

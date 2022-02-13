@@ -1,0 +1,40 @@
+Address : 190.247.65.171
+Nombre : pablo
+Apellido : martínez
+Cargo : empleado
+Direccion : besares 1781
+Ciudad : capital federal
+Telefono : 1569350427
+Email : pabloklmr@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : adjunto mi cv para eventuales busquedas acordes a mi perfil
+Security_code : 6spjm
+Send : Enviar
+
+---------------
+
+Address : 190.51.146.69
+Nombre : Elisabet Gisela
+Apellido : Vera
+Cargo : Atencion al cliente
+Direccion : Constanzo 
+Ciudad : Monte Grande
+Telefono : 42960656
+Email : eli.vera@live.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Distinguida Consultora:
+
+Les envío mi curriculum vitae para postularme a la busqueda de trabajo.
+Brindando mis conocimientos y mi vocación de servicio.
+Compromiso laboral en la tarea que se me designe.
+Tengo un gran interés en el área de atención al cliente y parte administrativa.
+
+Les agradesco el espacio y el interés en brindar trabajo a la sociedad Argentina. Estare a su disposicion en el caso que se crea conveniente concertar una entrevista. Los saluda atentamente.
+
+Elisabet Gisela Vera
+
+Security_code : cw5mf
+Send : Enviar
+
+---------------
+

@@ -1,0 +1,279 @@
+Address : 66.249.85.7<br>
+ <br>REF : TEC. EL
+ <br>Nombre : Luis R
+ <br>Apellido : Garcia M
+ <br>Cargo : Tec especialista electronica
+ <br>Direccion : migueletes 1107
+ <br>Ciudad : CABA
+ <br>Telefono : 1126849392
+ <br>Email : lrgarciam@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Anexo resumen
+ <br>Security_code : bbs27
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.11<br>
+ <br>REF : EM
+ <br>Nombre : Rodrigo Julian
+ <br>Apellido : Lopez
+ <br>Cargo : Electromecanico
+ <br>Direccion : Centenario uruguayo 1600 edif 46 3p dep B
+ <br>Ciudad : Avellaneda
+ <br>Telefono : 1554818390
+ <br>Email : jjr.lopez@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buen día.Me postuló con ganas de trabajar y poder aportar toda mi experiencia. Gracias
+ <br>Security_code : f6zzx
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.9<br>
+ <br>REF : TEC. EL
+ <br>Nombre : Rodrigo Julian
+ <br>Apellido : Lopez
+ <br>Cargo : Técnico electromecanico
+ <br>Direccion : Centenario uruguayo 1600
+ <br>Ciudad : Avellaneda
+ <br>Telefono : 1554818390
+ <br>Email : jjr.lopez@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Soy una persona con ganas de trabajar y aportar mi experiencia
+ <br>Security_code : nwnh5
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.7<br>
+ <br>REF : TEC. EL
+ <br>Nombre : Rodrigo Julian
+ <br>Apellido : Lopez
+ <br>Cargo : Técnico electromecanico
+ <br>Direccion : Centenario uruguayo 1600
+ <br>Ciudad : Avellaneda
+ <br>Telefono : 1554818390
+ <br>Email : jjr.lopez@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Soy una persona con ganas de trabajar y aportar mi experiencia
+ <br>Security_code : nwnh5
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.11<br>
+ <br>Nombre : Rodrigo Julian
+ <br>Apellido : Lopez
+ <br>Cargo : Jefe mantenimiento, supervisor mantenimiento o tecnico
+ <br>Direccion : Centenario uruguayo 1600
+ <br>Ciudad : Avellaneda
+ <br>Telefono : 1554818390
+ <br>Email : jjr.lopez@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estoy en la búsqueda de un empleo que puede ir deacuerdo a mi experiencia desde jefe de mantenimiento hasta técnico. Desde ya muchas gracias
+ <br>Security_code : pndkg
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.244.59.201<br>
+ <br>REF : TEC. EL
+ <br>Nombre : carlos
+ <br>Apellido : monico
+ <br>Cargo : técnico electrónico especializado
+ <br>Direccion : thorne 927, ituzaingo
+ <br>Ciudad : ituzaingo
+ <br>Telefono : 01153840857
+ <br>Email : monicocd@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : técnico electrónico con experiencia en electrónica industrial
+ <br>Security_code : m3dry
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.14.169.64<br>
+ <br>REF : ACO-1
+ <br>Nombre : Agostina 
+ <br>Apellido : Peña
+ <br>Cargo : Analista de comercio internacional 
+ <br>Direccion : Carlos Pellegrini 2813
+ <br>Ciudad : Buenos aires 
+ <br>Telefono : 1565873443
+ <br>Email : Agos_94@hotmail.com 
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Adjunto cv para dicha postulacion 
+ <br>Security_code : p4qp5
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 200.42.22.13<br>
+ <br>REF : TEC. EL
+ <br>Nombre : hector
+ <br>Apellido : gonzalez
+ <br>Cargo : tecnico electronico especializados
+ <br>Direccion : Avda. Venezuela 1657
+ <br>Ciudad : Cabas
+ <br>Telefono : 11 6234 2931
+ <br>Email : hierrosysenales1@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimado Sres/as
+
+Ante todo reciba un cordial y respetuoso saludo.
+
+Tengo el agrado de dirigirme a ud(s) con el objetivo de participar (en su selección) en búsquedas acordes a mi perfil en su empresa. Adjunto mi Currículum Vitae, buscando ser incluido en su base de datos por si se produjera alguna vacante.  
+En relación a esto, cuento con la experiencia y los conocimientos técnicos necesarios para desarrollar actividades en el rubro de su empresa. Además, tengo un nivel de inglés medio y un buen manejo de herramientas informáticas
+Considero que podría integrarme adecuadamente a la organización ya que soy una persona proactiva y con capacidad para formar parte de un equipo de trabajo en el que se busque permanentemente alcanzar los valores sostenidos en la responsabilidad social empresarial.
+Me gustaría poder concretar una reunión en donde pueda ahondar en mi experiencia profesional 
+Agradezco la gentileza de su atención y quedo a la espera de sus comentarios. 
+Sin más que decir me despido.
+
+Atte. Héctor González.
+
+
+ <br>Security_code : kzxtm
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 200.42.22.13<br>
+ <br>Nombre : hector
+ <br>Apellido : gonzalez
+ <br>Cargo : tecnico electronico especializados
+ <br>Direccion : Avda. Venezuela 1657
+ <br>Ciudad : buenos aires
+ <br>Telefono : 11 6234 2931
+ <br>Email : hierrosysenales1@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimado Sres/as
+
+Ante todo reciba un cordial y respetuoso saludo.
+
+Tengo el agrado de dirigirme a ud(s) con el objetivo de participar (en su selección) en búsquedas acordes a mi perfil en su empresa. Adjunto mi Currículum Vitae, buscando ser incluido en su base de datos por si se produjera alguna vacante.  
+En relación a esto, cuento con la experiencia y los conocimientos técnicos necesarios para desarrollar actividades en el rubro de su empresa. Además, tengo un nivel de inglés medio y un buen manejo de herramientas informáticas
+Considero que podría integrarme adecuadamente a la organización ya que soy una persona proactiva y con capacidad para formar parte de un equipo de trabajo en el que se busque permanentemente alcanzar los valores sostenidos en la responsabilidad social empresarial.
+Me gustaría poder concretar una reunión en donde pueda ahondar en mi experiencia profesional 
+Agradezco la gentileza de su atención y quedo a la espera de sus comentarios. 
+Sin más que decir me despido.
+
+Atte. Héctor González.
+
+
+ <br>Security_code : 5c272
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 200.42.22.13<br>
+ <br>Nombre : hector
+ <br>Apellido : gonzalez
+ <br>Cargo : tecnico electronico especializados
+ <br>Direccion : Avda. Venezuela 1657
+ <br>Ciudad : buenos aires
+ <br>Telefono : 11 6234 2931
+ <br>Email : hierrosysenales1@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimado Sres/as
+
+Ante todo reciba un cordial y respetuoso saludo.
+
+Tengo el agrado de dirigirme a ud(s) con el objetivo de participar (en su selección) en búsquedas acordes a mi perfil en su empresa. Adjunto mi Currículum Vitae, buscando ser incluido en su base de datos por si se produjera alguna vacante.  
+En relación a esto, cuento con la experiencia y los conocimientos técnicos necesarios para desarrollar actividades en el rubro de su empresa. Además, tengo un nivel de inglés medio y un buen manejo de herramientas informáticas
+Considero que podría integrarme adecuadamente a la organización ya que soy una persona proactiva y con capacidad para formar parte de un equipo de trabajo en el que se busque permanentemente alcanzar los valores sostenidos en la responsabilidad social empresarial.
+Me gustaría poder concretar una reunión en donde pueda ahondar en mi experiencia profesional 
+Agradezco la gentileza de su atención y quedo a la espera de sus comentarios. 
+Sin más que decir me despido.
+
+Atte. Héctor González.
+
+
+ <br>Security_code : cdgms
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.229.188.116<br>
+ <br>REF : TEC. EL
+ <br>Nombre : Ruben Daniel 
+ <br>Apellido : Gómez
+ <br>Cargo : Técnico ingeniería
+ <br>Direccion : Sebastian Marotta 1018
+ <br>Ciudad : Bahia Blanca
+ <br>Telefono : 0291154228487
+ <br>Email : rubendanielgo@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : A su disposición.
+Atte.
+Ruben Daniel Gómez
+0291154228487
+
+ <br>Security_code : yjh92
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.171.166.36<br>
+ <br>Nombre : Elio Sebastian
+ <br>Apellido : Mazmud
+ <br>Cargo : Mandos medios en Seguridad
+ <br>Direccion : Las Heras 2063
+ <br>Ciudad : Muñíz
+ <br>Telefono : 1561561255
+ <br>Email : seba.mazmud@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados, les adjunto Currículum Vitae para cualquier empleo que consideren califique de acuerdo al mismo.
+Muchas gracias
+ <br>Security_code : f4pzt
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.27<br>
+ <br>Nombre : Cecilia
+ <br>Apellido : Quiroga
+ <br>Cargo : Educación
+ <br>Direccion : Bahía blanca 367
+ <br>Ciudad : Morón
+ <br>Telefono : 1138055065
+ <br>Email : Mcecilia.quiroga@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : .
+ <br>Security_code : 8p52w
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.188.51.33<br>
+ <br>REF : TEC. EL
+ <br>Nombre : luis
+ <br>Apellido : aldana
+ <br>Cargo : tec. electronico
+ <br>Direccion : oro 1210
+ <br>Ciudad : MORON
+ <br>Telefono : 1553311137
+ <br>Email : aldanaluis11@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : hola! me postulo para el puesto.
+ <br>Security_code : w8f54
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.188.51.33<br>
+ <br>REF : TEC. EL
+ <br>Nombre : luis
+ <br>Apellido : aldana
+ <br>Cargo : tec. electronico
+ <br>Direccion : oro 1210
+ <br>Ciudad : MORON
+ <br>Telefono : 1553311137
+ <br>Email : aldanaluis11@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : hola! me postulo para el puesto.
+ <br>Security_code : w8f54
+ <br>Send : Enviar
+ <br>
+---------------
+

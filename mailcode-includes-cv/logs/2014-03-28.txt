@@ -1,0 +1,31 @@
+Address : 186.58.80.140
+Nombre : Carlos Alberto
+Apellido : Maciel
+Cargo : Atención al cliente, Vendedor, operario, repositor
+Direccion : Húsares1586
+Ciudad : Hurlingham
+Telefono : 54-11-1561013473
+Email : maciel_carlos@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : A ustedes me dirijo con el claro objetivo de pertenecer a su equipo de trabajo. Y para ello cuento con un gran entusiasmo laboral y una experiencia profesional importante. Me gustaria seguir creciendo a nivel trabajo y es por eso que los invito a conocerme personalmente para charlar y empezar a construir un vinculo sólido y de confianza. Desde ya, muchas gracias por su atención. Carlos Alberto Maciel.. Disponibilidad full-time 
+
+Security_code : c79ys
+Send : Enviar
+
+---------------
+
+Address : 190.247.4.154
+Nombre : Armando
+Apellido : Bulacia
+Cargo : Gerencial
+Direccion : Don Bosco 1501
+Ciudad : Beccar
+Telefono : 1526439887
+Email : urbis@live.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados Sres. SEBGON, les envio mi CV para su Base de Datos y quedo a su disposicion por posibles oportunidades laborales. Atte. Armando T. Bulacia
+Security_code : 9p7n8
+Send : Enviar
+
+---------------
+

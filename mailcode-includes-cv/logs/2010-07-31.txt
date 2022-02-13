@@ -1,0 +1,31 @@
+Address : 201.253.67.49
+Nombre : leonardo ariel
+Apellido : mera
+Cargo : administrativo de distribucion
+Direccion : san jose de flores 5147
+Ciudad : villa ballester
+Telefono : 1554243124
+Email : leomera76@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : adjunto cv
+Security_code : 8m5wz
+Send : Enviar
+
+---------------
+
+Address : 190.228.242.206
+REF : electromecanico
+Nombre : HECTOR EDGARDO
+Apellido : BERNACHEA
+Cargo : REF 1
+Direccion : BROWN 1894
+Ciudad : VILLA CONSTITUCION PCIA. DE STA.FE
+Telefono : 03400477309
+Email : hbernachea@hotmaail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : curriculum
+Security_code : 69ppt
+Send : Enviar
+
+---------------
+

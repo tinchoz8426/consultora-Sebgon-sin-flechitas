@@ -1,0 +1,110 @@
+Address : 216.244.237.101<br>
+ <br>Nombre : MARTIN OSVALDO
+ <br>Apellido : BOSCARDIN
+ <br>Cargo : gerenciamiento
+ <br>Direccion : Lewis Jones 1375
+ <br>Ciudad : PUERTO MADRYN
+ <br>Telefono : 02804208967
+ <br>Email : moboscardin@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Actual asesorías en negocios
+ <br>Security_code : 92rkkh
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 216.244.237.101<br>
+ <br>Nombre : MARTIN OSVALDO
+ <br>Apellido : BOSCARDIN
+ <br>Cargo : gerenciamiento
+ <br>Direccion : Lewis Jones 1375
+ <br>Ciudad : PUERTO MADRYN
+ <br>Telefono : 02804208967
+ <br>Email : moboscardin@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Actual asesorías en negocios
+ <br>Security_code : 9s6K7
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.182.18.36<br>
+ <br>Nombre : Pablo G
+ <br>Apellido : Robledo
+ <br>Cargo : Mantenimiento
+ <br>Direccion : Helguera 740
+ <br>Ciudad : Avellaneda
+ <br>Telefono : 1134479245
+ <br>Email : robledo_ehijos@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Por este medio les hago llegar mi CV para que me tomen en cuenta y formar parte del equipo de trabajo de una empresa la cual este interesada en mi amplia experiencia en mantenimiento.
+ <br>Security_code : K4cj2
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 170.51.96.178<br>
+ <br>Nombre : Diego franco
+ <br>Apellido : Asconape
+ <br>Cargo : Atención al cliente 
+ <br>Direccion : 25 me mayo 532
+ <br>Ciudad : Ciudadela 
+ <br>Telefono : 1121877408
+ <br>Email : diegoasconape@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estoy buscando trabajo soy responsable y tengo experiencia en varios rubros 
+ <br>Security_code : Tg2sd
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.177.76.186<br>
+ <br>REF : TEC. EL
+ <br>Nombre : José Gabriel
+ <br>Apellido : Torres Fernández
+ <br>Cargo : Técnico electrónico especializado
+ <br>Direccion : Banfield Estrada 1427
+ <br>Ciudad : BUENOS AIRES
+ <br>Telefono : 1132865466
+ <br>Email : Jgtf908@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas.
+
+ Soy ingeniero electrónico adjunto mi Curriculum Vitae a continuación con la finalidad y la oportunidad de formar parte de su equipo de trabajo,  disponibilidad de viajar y cambio de residencia,muchas gracias por su atención le deseo un excelente día
+ <br>Security_code : bbwvj
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.177.76.186<br>
+ <br>REF : TEC. EL
+ <br>Nombre : Jose Gabriel
+ <br>Apellido : Torres Fernández
+ <br>Cargo : Tecnico electrónico especializado
+ <br>Direccion : Banfield estrada1427
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 1132865466
+ <br>Email : jgtf908@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me gustaria forma parte de su equipo fe trabajo soy una persona dedica, responsables pro activo y con gran desempeño en grupo
+ <br>Security_code : hcssn
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 179.63.200.142<br>
+ <br>Nombre : Miguel Angel
+ <br>Apellido : Fruman
+ <br>Cargo : Operario
+ <br>Direccion : Aldaos 5044
+ <br>Ciudad : Buenos aires merlo
+ <br>Telefono : 1167079871
+ <br>Email : ma.f8333@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenos días.. A quien corresponda me encuentro en busca de trabajo en general,, 
+Experiencia laboral : medio oficial albañilería, carpinteria en general pintor  operario de carga y descarga encargado de logistica preparación de pedidos ayudante de plomería y electricista.. Últimos 6 años como seguridad privada.. Desde ya mucha gracias,. La verdad m encuentro en busca de trabajo de cualquier cosa preferentemente turno noche .. 
+ <br>Security_code : Xksvm
+ <br>Send : Enviar
+ <br>
+---------------
+

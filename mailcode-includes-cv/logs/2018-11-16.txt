@@ -1,0 +1,45 @@
+Address : 190.195.192.94<br>
+ <br>Nombre : pablo
+ <br>Apellido : benitez
+ <br>Cargo : tecnicos
+ <br>Direccion : santa fe 1818
+ <br>Ciudad : bella vista
+ <br>Telefono : 11-30670716
+ <br>Email : juanpablobenitez@hotmail.es
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : muchas gracias
+ <br>Security_code : vnpmv
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.12.44.115<br>
+ <br>Nombre : carlos daniel
+ <br>Apellido : chavez
+ <br>Cargo : 1665
+ <br>Direccion : matheu 1368
+ <br>Ciudad : bs as
+ <br>Telefono : 1161606744
+ <br>Email : danychavez80@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : para puesto de trabajo 
+ <br>Security_code : tk9bq
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.231.203.50<br>
+ <br>Nombre : JEISON
+ <br>Apellido : VIZCAINO MARTINEZ
+ <br>Cargo : ASISTENTE COMERCIO EXTERIOR
+ <br>Direccion : RAWSON 40
+ <br>Ciudad : CIUDAD AUTONOMA DE BUENOS AIRES
+ <br>Telefono : 1170201756
+ <br>Email : jeisonvizcainom@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me gustaría vincularme a una empresa o compañía que me ayude en mi formación como profesional. 
+ <br>Security_code : 6dshr
+ <br>Send : Enviar
+ <br>
+---------------
+

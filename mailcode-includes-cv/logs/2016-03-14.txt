@@ -1,0 +1,146 @@
+Address : 186.182.3.214
+REF : SuP
+Nombre : Juan Jose
+Apellido : Castelli
+Cargo : Supervisor de Produccion
+Direccion : Matanza 1746
+Ciudad : Avellaneda
+Telefono : 15 3589 7513
+Email : jj_castelli@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Disponibilidad horaria y Certificados a Disposición, como Carta de recomendación de Andariega.
+Security_code : rghp3
+Send : Enviar
+
+---------------
+
+Address : 181.26.150.42
+Nombre : Florencia Ludmila
+Apellido : Frafan
+Cargo : Administrativo / Recepcion 
+Direccion : Aranguren69
+Ciudad : capital federal
+Telefono : 1534531792/42341958
+Email : lussmila92@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenos días dejo adjunto el cv para posible propuestas laborales Gracia.
+Security_code : psjgs
+Send : Enviar
+
+---------------
+
+Address : 181.169.12.5
+REF : E.DIS
+Nombre : Macarena
+Apellido : Besaglia
+Cargo : Diseñador Industeial
+Direccion : Ugarte
+Ciudad : Vicente Lopez
+Telefono : 1159670005
+Email : maca.besaglia@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenos dias,
+adjunto mi CV, soy estudiante de diseño industrial a 3 materias de recibirme en la UBA. Poseo los conocimientos requeridos en la solicitud. Para recibir mi portfolio favor de enviarme un mail.
+Desde ya muchas gracias,
+Macarena
+Security_code : 6nq2q
+Send : Enviar
+
+---------------
+
+Address : 181.46.35.229
+Nombre : Veronica Valeria
+Apellido : Maciel
+Cargo : Recepcionista - Secretaria - Telefonista
+Direccion : Troperos 175
+Ciudad : Lomas de Zamora - Buenos Aires
+Telefono : 1130297662
+Email : maciel.veronica@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenas tardes aqui dejo el archivo adjunto de mi cv, para puestos similares a emplear. Gracias
+Security_code : pjz2h
+Send : Enviar
+
+---------------
+
+Address : 190.31.15.194
+Nombre : jennifer
+Apellido : di stasio
+Cargo : higiene y seguridad del trabajo
+Direccion : esteban merlo 5895
+Ciudad : caseros
+Telefono : 1524956301
+Email : jenny_imy8816@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Busco trabajo en el area de higiene y seguridad del trabajo
+Security_code : cv9w5
+Send : Enviar
+
+---------------
+
+Address : 181.90.16.155
+Nombre : Flavia
+Apellido : Espindola
+Cargo : operaria
+Direccion : zorrilla 2366
+Ciudad : don torcuato
+Telefono : 1126679465
+Email : flaviaespindola1985@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : .
+Security_code : tbfgv
+Send : Enviar
+
+---------------
+
+Address : 181.44.242.26
+Nombre : jorge
+Apellido : valdez
+Cargo : administracion/tesoreria/compras
+Direccion : pio XII 3788
+Ciudad : villa de mayo
+Telefono : 1158576404
+Email : jorge.javier.valdez@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Envio CV para se agregado a su base de datos en la busqueda de personal para el depto de administracion, tesoreria, compras
+Security_code : brjny
+Send : Enviar
+
+---------------
+
+Address : 190.16.44.209
+Nombre : Santiago
+Apellido : Añón
+Cargo : Docencia - Medios
+Direccion : Lavalleja 738
+Ciudad : CABA
+Telefono : 15-6-663-9426
+Email : santiago_anion@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : De mi consideración:
+                                  Me dirijo a usted con el objeto de adjuntarle mis datos personales y CV a fin de que puedan ser tenidos en cuenta en una futura búsqueda e incorporados a su base de datos.
+
+Quedando a su disposición para todo tipo de aclaración o ampliación, muy atentamente le saluda,                                                                                                                          
+
+                                                                                                                                Santiago Tomás Añón
+                                                                                                                                D.N.I. 33.802.357
+Security_code : tkvb2
+Send : Enviar
+
+---------------
+
+Address : 190.13.233.29
+Nombre : Franco
+Apellido : Bustos
+Cargo : Operario
+Direccion : La pampa 355
+Ciudad : Tortuguitas
+Telefono : 0111530673300
+Email : francobustosdavid@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : estimados, les dejo adjunto el CV
+Security_code : wydt9
+Send : Enviar
+
+---------------
+

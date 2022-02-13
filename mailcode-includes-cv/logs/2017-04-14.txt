@@ -1,0 +1,156 @@
+Address : 66.249.85.7<br>
+ <br>Nombre : Sebastián
+ <br>Apellido : Landaco
+ <br>Cargo : Chofer
+ <br>Direccion : Santander 5536
+ <br>Ciudad : V.luzuriaga
+ <br>Telefono : 1534909738
+ <br>Email : Seb.landaco@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas equipo sebgon disculpenme el atrevimiento pero me está interesando el puesto de chófer de reparto en la matanza. Gracias saludos.
+ <br>Security_code : 839qf
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.7<br>
+ <br>Nombre : Sebastián
+ <br>Apellido : Landaco
+ <br>Cargo : Chofer
+ <br>Direccion : Santander 5536
+ <br>Ciudad : V.luzuriaga
+ <br>Telefono : 1534909738
+ <br>Email : Seb.landaco@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas equipo sebgon disculpenme el atrevimiento pero me está interesando el puesto de chófer de reparto en la matanza. Gracias saludos.
+ <br>Security_code : 839qf
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 191.85.145.34<br>
+ <br>Nombre : Luis
+ <br>Apellido : Falconi
+ <br>Cargo : Ingeniero
+ <br>Direccion : Mendoza 3335 belgrano caba
+ <br>Ciudad : Belgrano r
+ <br>Telefono : 1170958804
+ <br>Email : luism.falconi@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Ingeniero electricista
+ <br>Security_code : 3cdqx
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.11<br>
+ <br>REF : chr
+ <br>Nombre : Cesar
+ <br>Apellido : Ojeda
+ <br>Cargo : Chofer
+ <br>Direccion : Balcarce 1386
+ <br>Ciudad : San Miguel
+ <br>Telefono : 1158703531
+ <br>Email : Cesarneney@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Responsable; metódico;puntual
+ <br>Security_code : 67c8s
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.22.96.57<br>
+ <br>REF : ACO-1
+ <br>Nombre : SERGIO LUIS
+ <br>Apellido : FARIOLI
+ <br>Cargo : ANALISTA DE COMERCIO EXTERIOR
+ <br>Direccion : formosa 1834
+ <br>Ciudad : LANUS (CP=1824)
+ <br>Telefono : 39691160
+ <br>Email : sergiofarioli@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Analista de Comercio Exterior y Contador publico
+ <br>Security_code : 9sykr
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 191.83.101.123<br>
+ <br>REF : ROT-1
+ <br>Nombre : Emiliano
+ <br>Apellido : Vallati
+ <br>Cargo : Diseñador Industrial
+ <br>Direccion : 9 n1629
+ <br>Ciudad : La Plata
+ <br>Telefono : 0291-15-6435871
+ <br>Email : vallati.emiliano@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados señores/as:
+
+Me dirijo a ustedes con el fin de remitirles mi Currriculum Vitae para aspirar a la vacante de Diseñador Industrial. 
+
+No sólo cumplo con los requisitos exigidos, ya que tengo el título de Diseñador Industrial, con un vasto conocimiento en programas de diseño y modelado 3d, así como también del paquete office, actualmente  estoy trabajando con el Arquitecto Horacio Dowbley y en el Estudio de diseño Cazador lo que puede ser de una gran utilidad para cumplir con  las necesidades y responsabilidades que el puesto de Diseñador Industrial requiere y de esta manera colaborar al continuo desarrollo de la empresa.
+ 
+Espero tener la oportunidad de conversar con ustedes en una entrevista para personalmente exponerles mis conocimientos y mi deseo de formar parte de su grupo de trabajo.
+ 
+
+Quedo a su disposición para ampliar cuanta información estimen necesaria.
+Reciban un cordial saludo, 
+
+
+Vallati Emiliano
+ <br>Security_code : xc5sw
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 191.83.101.123<br>
+ <br>REF : EP-1
+ <br>Nombre : Emiliano
+ <br>Apellido : Vallati
+ <br>Cargo : ENCARGADO DE PRODUCCIÓN
+ <br>Direccion : Asuncion 5323
+ <br>Ciudad : Ezpeleta
+ <br>Telefono : 0291-15-6435871
+ <br>Email : vallati.emiliano@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Poder demostrar mi capacidad de trabajo y mi entera disponibilidad para el aprendizaje. Desarrollar las actividades asignadas tanto en forma individual como grupal de manera eficiente, a fin de mejorar los resultados de la actividad global. 
+ <br>Security_code : ycfz5
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.44.99.12<br>
+ <br>REF : ROT-1
+ <br>Nombre : Mariano
+ <br>Apellido : Yane
+ <br>Cargo : Responsable de oficina tecnica
+ <br>Direccion : Las tropas 901
+ <br>Ciudad : Lomas de Zamora
+ <br>Telefono : 1168829347
+ <br>Email : marianonehuenyane@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimado responsable de recursos humanos me dirijo a usted con el fin de postularme al puesto de responsable de oficina técnica, ya que cubro con las espectativas de su empresa y tengo el interes de formar parte de su equipo ,con el objetivo de poder capacitarme dia a dia a fin de progresar en el mismo.
+para ello aseguro desenvolverme  acorde con mis capacidades y aptitudes para lograr un maximo desempeño en el puesto.
+desde ya agradezco su atencion y solicito una entrevista para conocerme personalmente por lo cual quedo a la espera de noticias. saludo atentamente Mariano Nehuen Yane 
+ <br>Security_code : t7rn5
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.22.145.240<br>
+ <br>REF : ROT-1
+ <br>Nombre : ALEJANDRO
+ <br>Apellido : lambrini
+ <br>Cargo : planeamiento y control de produccion
+ <br>Direccion : mansilla 120
+ <br>Ciudad : lomas del mirador
+ <br>Telefono : 15 50613078
+ <br>Email : alejandrolambrini@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : me postulo a este trabajo
+ <br>Security_code : grvjz
+ <br>Send : Enviar
+ <br>
+---------------
+

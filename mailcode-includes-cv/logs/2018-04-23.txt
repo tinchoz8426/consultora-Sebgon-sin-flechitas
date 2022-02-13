@@ -1,0 +1,98 @@
+Address : 181.93.4.227<br>
+ <br>Nombre : Eric
+ <br>Apellido : Boscoboinik
+ <br>Cargo : Ventas
+ <br>Direccion : Pasaje Hilario Fernandez, 15
+ <br>Ciudad : Cordoba
+ <br>Telefono : 2664553739
+ <br>Email : Erickboscoboinik@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Soy una persona amable, responsable, respetuosa y con muchas ganas de  aprender y trabajar.
+ <br>Security_code : cdrj8
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.231.104.70<br>
+ <br>Nombre : Diego
+ <br>Apellido : Esersky
+ <br>Cargo : Atención al público, Asistente, Diseñador
+ <br>Direccion : Dorrego 3063
+ <br>Ciudad : Mar del Plata
+ <br>Telefono : 2235828852
+ <br>Email : eserskyd@outlook.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Tengo como objetivo poder mantener mis estudios y obtener experiencia en diferente áreas laborales. Me considero una persona responsable y trabajo fácil en grupo.
+ <br>Security_code : p2g7d
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.23.238.164<br>
+ <br>Nombre : Paula Gimena
+ <br>Apellido : Ortega
+ <br>Cargo : Comunicadora - Ejecutiva de Cuentas Digital - otras dentro del rubro
+ <br>Direccion : Eva Perón, 1329
+ <br>Ciudad : Capital Federal
+ <br>Telefono : 1127292826
+ <br>Email : ortegapaula86@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas tardes
+Adjunto mi CV para futuras búsquedas acordes a mi perfil. 
+
+Desde ya muchas gracias.
+
+Saludos
+ <br>Security_code : 6tc4t
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.103.11.153<br>
+ <br>REF : JPER-1
+ <br>Nombre : GUILLERMO  JULIO
+ <br>Apellido : QUINTANA
+ <br>Cargo : Jefe de Personal
+ <br>Direccion : juramento 5613 "7" C
+ <br>Ciudad : CABA
+ <br>Telefono : 1149409158
+ <br>Email : gjquintana61@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Ejecutivo, orientado a los Recursos Humanos, comercialización, con amplia experiencia en planeamiento estratégico de ventas, Manejo de personal, Capacitación,  Optimización de recursos, Administración y Control de gestión.
+ <br>Security_code : ppm5d
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.103.11.153<br>
+ <br>REF : JPER-1
+ <br>Nombre : GUILLERMO  JULIO
+ <br>Apellido : QUINTANA
+ <br>Cargo : Jefe de Personal
+ <br>Direccion : juramento 5613 "7" C
+ <br>Ciudad : CABA
+ <br>Telefono : 1149409158
+ <br>Email : gjquintana61@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Ejecutivo, orientado a los Recursos Humanos, comercialización, con amplia experiencia en planeamiento estratégico de ventas, Manejo de personal, Capacitación,  Optimización de recursos, Administración y Control de gestión.
+ <br>Security_code : ppm5d
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.103.11.153<br>
+ <br>REF : JPER-1
+ <br>Nombre : GUILLERMO  JULIO
+ <br>Apellido : QUINTANA
+ <br>Cargo : Jefe de Personal
+ <br>Direccion : juramento 5613 "7" C
+ <br>Ciudad : CABA
+ <br>Telefono : 1149409158
+ <br>Email : gjquintana61@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Ejecutivo, orientado a los Recursos Humanos, comercialización, con amplia experiencia en planeamiento estratégico de ventas, Manejo de personal, Capacitación,  Optimización de recursos, Administración y Control de gestión.
+ <br>Security_code : ppm5d
+ <br>Send : Enviar
+ <br>
+---------------
+

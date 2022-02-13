@@ -1,0 +1,91 @@
+Address : 186.136.113.33
+REF : JP
+Nombre : Ronald
+Apellido : Calzadilla
+Cargo : JEFE DE PLANTA
+Direccion : TTE BENJAMIN MATIENZO 2696
+Ciudad : CAPITAL FEDERAL
+Telefono : 01123461055
+Email : dlanor1030@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : ingeniero en electrónica con experiencia en planta industrial
+Security_code : t48vx
+Send : Enviar
+
+---------------
+
+Address : 186.136.113.33
+Nombre : Ronald
+Apellido : Calzadilla
+Cargo : JEFE DE PLANTA
+Direccion : TTE BENJAMIN MATIENZO 2696
+Ciudad : CAPITAL FEDERAL
+Telefono : 01123461055
+Email : dlanor1030@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Ingeniero electrónico con experiencia en industrias
+Security_code : wd2nc
+Send : Enviar
+
+---------------
+
+Address : 181.93.3.121
+Nombre : barbara
+Apellido : ceballos
+Cargo : todos
+Direccion : carlos gaudencio 1552
+Ciudad : cordoba capital
+Telefono : 3512572703
+Email : baarbiidoblea@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estoy buscando trabajo urgente, soy mama de una nena de dos años y necesito entrada de dinero para poder mantenerla. Gracias
+Security_code : y39wv
+Send : Enviar
+
+---------------
+
+Address : 186.158.142.113
+Nombre : SERGIO
+Apellido : RODRIGUEZ
+Cargo : VARIOS
+Direccion : FRAY M PEREZ 576
+Ciudad : SANTA FE
+Telefono : 0342 154483138
+Email : SERGIO_TIAGO_12@HOTMAIL.COM
+MAX_FILE_SIZE : 2097152
+Mensaje : BUENOS DIAS AQUI LES ADJUNTO MI CV DESDE YA MUCHAS GRACIAS 
+Security_code : KVFVT
+Send : Enviar
+
+---------------
+
+Address : 186.158.142.113
+Nombre : SERGIO
+Apellido : RODRIGUEZ
+Cargo : VARIOS
+Direccion : FRAY M PEREZ 576
+Ciudad : SANTA FE
+Telefono : 0342 154483138
+Email : SERGIO_TIAGO_12@HOTMAIL.COM
+MAX_FILE_SIZE : 2097152
+Mensaje : BUENOS DIAS AQUI ADJUNTO MICVDESDE YA MUCHAS GRACIAS
+Security_code : WJXCP
+Send : Enviar
+
+---------------
+
+Address : 190.50.210.181
+Nombre : Valeria Yanina 
+Apellido : crichigno
+Cargo : indistinto
+Direccion : charcas
+Ciudad : Buenos Aires
+Telefono : 44883497
+Email : valeria.crichigno@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Crecer en en trabajo y dedicar lo mejor de mi
+Security_code : 6tnc6
+Send : Enviar
+
+---------------
+

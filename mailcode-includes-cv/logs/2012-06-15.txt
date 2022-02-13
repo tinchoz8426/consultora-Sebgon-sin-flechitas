@@ -1,0 +1,63 @@
+Address : 190.246.61.166
+Nombre : María Candela
+Apellido : Iglesias
+Cargo : Psicóloga
+Direccion : French 54
+Ciudad : Ramos Mejía
+Telefono : 1536810458
+Email : mcipsicologia@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buen dia, envio el CV con la finalidad de que se evalúe la posibilidad de poder ser parte del staff.
+Desde ya,muchas gracias.
+Saludos, Candela
+Security_code : vqxbt
+Send : Enviar
+
+---------------
+
+Address : 186.1.237.19
+Nombre : hernan
+Apellido : rivero
+Cargo : empleado
+Direccion : barabino
+Ciudad : San antonio de padua
+Telefono : 011-15-3758-5933
+Email : hernanariel@hotmail.es
+MAX_FILE_SIZE : 2097152
+Mensaje : soy tecnico en repacion de pc
+Security_code : d7j3f
+Send : Enviar
+
+---------------
+
+Address : 186.137.218.160
+REF : administrativo-logistica
+Nombre : Cristian
+Apellido : Ulloa
+Cargo : ADMINISTRATIVO DE LOGISTICA
+Direccion : Alsina 428
+Ciudad : General Roca
+Telefono : 0298-154599842
+Email : cristianulloa_77@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenos dias estaria disponible para caulquier puesto que tenga que ver con Mecánica debido a que tengo mucha experiencia con maquinaria pesada y manejo de talleres.
+Security_code : jknhd
+Send : Enviar
+
+---------------
+
+Address : 181.0.171.63
+Nombre : alejandra viviana
+Apellido : capuani
+Cargo : administrativa
+Direccion : av. gral paz 15926
+Ciudad : caba
+Telefono : 4601-2704
+Email : alejandravcapuani@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : mi busqueda es tambien como consultora en empresas de cosmetica ya que soy cosmiatra, algun puesto para viajar al interior o al exterior
+Security_code : rq3j2
+Send : Enviar
+
+---------------
+

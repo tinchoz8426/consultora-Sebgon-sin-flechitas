@@ -1,0 +1,55 @@
+Address : 66.249.85.27<br>
+ <br>Nombre : Jose Luis
+ <br>Apellido : Aranda
+ <br>Cargo : Operario
+ <br>Direccion : Don bosco 423
+ <br>Ciudad : Puerto madryn
+ <br>Telefono : 2804856836
+ <br>Email : Arandajose95@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Les dejo mi curriculum ..espero cualquier respuesta muchas gracias
+ <br>Security_code : 22qns
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.250.87.74<br>
+ <br>Nombre : Héctor Abel
+ <br>Apellido : Reyes
+ <br>Cargo : administrativo
+ <br>Direccion : Pje Nuevo Horizonte 1654
+ <br>Ciudad : Trelew
+ <br>Telefono : 0280-154670416
+ <br>Email : habelreyes@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Presento mis antecedentes para que sean evaluados para mí postulación para alguno de los puestos que se encuentren disponibles
+Tengo sumo interés en continuar creciendo personal y profesionalmente, en un ambiente laboral de estabilidad, respeto y cordialidad.
+Poseo conocimientos de electricidad y electrónica. -
+Tengo experiencia en atención al público, en coordinar labores de logística y seguimientos de pedidos y quisiera seguir aprendiendo dentro de la rigurosidad y responsabilidad que exige una empresa
+ <br>Security_code : vhpqq
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.199.145.110<br>
+ <br>Nombre : Andres Felipe
+ <br>Apellido : Pirachican Hernandez
+ <br>Cargo : Help Desk/ Soporte Tecnico
+ <br>Direccion : Mariano Moreno 1031
+ <br>Ciudad : Rosario
+ <br>Telefono : 3415881164
+ <br>Email : pira_1795@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buen Dìa
+
+Envio Curriculium Vitae para que sea tenido en cuenta en las distintas ofertas laborares a las cuales se pueda ajustar el mismo.
+
+Quedo Atento a cualquier inquietud.
+
+Gracias
+
+ <br>Security_code : 3mkck
+ <br>Send : Enviar
+ <br>
+---------------
+

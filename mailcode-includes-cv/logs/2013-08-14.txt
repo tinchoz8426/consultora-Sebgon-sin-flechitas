@@ -1,0 +1,15 @@
+Address : 181.118.3.50
+Nombre : Natalia
+Apellido : Blotta
+Cargo : Profesional
+Direccion : Viamonte 3889
+Ciudad : Mendoza
+Telefono : 156115720
+Email : nb29029@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Por medio de la presente adjunto mis antecedentes laborales ante posibles vacantes.
+Security_code : ts6g6
+Send : Enviar
+
+---------------
+

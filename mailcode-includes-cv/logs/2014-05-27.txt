@@ -1,0 +1,109 @@
+Address : 190.17.113.102
+REF : ADMINISTRATIVO-DE-LOGISTICA
+Nombre : jair
+Apellido : ivanovich
+Cargo : administrativo de logistica
+Direccion : baudilio vazquez 3348
+Ciudad : cordoba
+Telefono : 3515293608
+Email : jair_ivanovich@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados:
+Me pongo en contacto con ustedes para ofrecerle mi currículum con mis datos personales,  profesionales y otros datos de interés, para cubrir el puesto solicitado en la búsqueda.
+
+muchas gracias,saludos cordiales
+Security_code : 5k92b
+Send : Enviar
+
+---------------
+
+Address : 201.212.220.131
+Nombre : Juan David
+Apellido : Leon Martel
+Cargo : Ventas
+Direccion : Tucuman 215
+Ciudad : Junin, Buenos Aires
+Telefono : 02364717424
+Email : juandavidleonmartel@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Vendedor nato. Buenas habilidades administrativas y de organización. 
+Security_code : 25p7f
+Send : Enviar
+
+---------------
+
+Address : 186.157.221.92
+Nombre : Exequiel Pablo
+Apellido : Domingues Ali
+Cargo : Operario
+Direccion : Concepcion Arenal 2887
+Ciudad : Villa Tesei
+Telefono : 1531252453
+Email : exedomingues_24@live.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Tengo un marcado perfil de operario, desde ya muchas gracias!
+Security_code : rs5z2
+Send : Enviar
+
+---------------
+
+Address : 200.0.228.162
+Nombre : Cindy Vanessa
+Apellido : Ramirez Quintana
+Cargo : administrativo/pasantías/ayudante junior
+Direccion : Montes de Oca 15
+Ciudad : C.A.B.A
+Telefono : 1131964814
+Email : vanerq_17@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me motiva la búsqueda laboral no solo una necesidad económica sino mi progreso personal, la adquisición de experiencia y la ganas de demostrar la actitud trabajadora que me caracteriza
+Security_code : vsff9
+Send : Enviar
+
+---------------
+
+Address : 190.16.102.159
+Nombre : Sofia Paula
+Apellido : Altieri Martinez
+Cargo : RRHH
+Direccion : Carlos Calvo 3715 dto 3
+Ciudad : cap. fed
+Telefono : 155975-3983
+Email : sofia_altieri@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : A quien corresponda:
+
+Por medio de la presente, hago llegar mi Curriculum Vitae, para que de ser posible sea tenido en cuenta ante cualquier búsqueda laboral.
+
+Desde ya muchas gracias.
+
+Saluda atte.
+
+
+SOFIA P. ALTIERI MARTINEZ       
+Security_code : j6p4t
+Send : Enviar
+
+---------------
+
+Address : 186.135.76.119
+Nombre : Angel
+Apellido : Sanchez
+Cargo : Gerente de Producción
+Direccion : Sanchez de Bustamante 497
+Ciudad : Capital Federal, Buenos Aires
+Telefono : 011 15 3212 1023
+Email : Schmerzus@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados, como podrán observar en el CV adjunto, soy Ingeniero Industrial con maestría en Tecnologías de Manufactura y Gerencia de Proyectos. Además, me he desempeñado en varias posiciones de Ingeniería y Supply Chain bajo las técnicas de Lean Manufacturing y Six Sigma en distintos departamentos de la Industria Metalmecánica, Electrónica y Farmacéutica. 
+
+Por otra parte, siempre me ha gustado formarme en múltiples campos por lo que me considero muy flexible y adaptable a distintas situaciones.
+
+Poseo una remuneracion pretendida en el rango de 20.000-25.000 a convenir según las condiciones de contratacion.
+
+Esperando una respuesta favorable para poder concertar una entrevista personal y ampliar los datos incluidos en mi Currículum, les saludo cordialmente,
+Security_code : t98y4
+Send : Enviar
+
+---------------
+

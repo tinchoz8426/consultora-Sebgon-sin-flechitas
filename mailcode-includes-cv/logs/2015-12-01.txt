@@ -1,0 +1,350 @@
+Address : 179.62.33.200
+Nombre : Erica Noel
+Apellido : Lucero
+Cargo : Psicologia
+Direccion : Eduardo Castex
+Ciudad : La Pampa
+Telefono : 2302419017
+Email : ericanoel.lucero@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Busco empleo relacionado a la psicologia o las relaciones humanas
+Security_code : pzcy6
+Send : Enviar
+
+---------------
+
+Address : 190.51.253.70
+Nombre : cristian
+Apellido : graziano 
+Cargo : oficial electricista
+Direccion : 136 Nro 1321
+Ciudad : berazategui
+Telefono : 1566214115 
+Email : cristiang-kac@hotmail.com 
+MAX_FILE_SIZE : 2097152
+Mensaje : Tengo poca experiencia en montaje de Red eléctrica domiciliaria y conecciones de Red en sistemas de seguridad.
+Security_code : 3ckd8
+Send : Enviar
+
+---------------
+
+Address : 201.212.34.162
+Nombre : JUAN WALTER MANUEL
+Apellido : paz
+Cargo : oficial de electricista
+Direccion : pichincha 924
+Ciudad : lanus este
+Telefono : 42471602
+Email : walysonico@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : a la espera de una respuesta favorable saludo atte. a ud
+Security_code : 2zp53
+Send : Enviar
+
+---------------
+
+Address : 181.44.173.89
+Nombre : walter david
+Apellido : varela
+Cargo : cañista soldador
+Direccion : la santa maria  6111
+Ciudad : buenos aires
+Telefono : 3528-0917
+Email : walter_32_80@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimado: mi nombre es Walter Varela  me encuentro en la búsqueda de trabajo dejo adjuntado mi curriculum a la espera de su llamada,desde ya muchas gracias.
+Security_code : rjqj5
+Send : Enviar
+
+---------------
+
+Address : 201.250.104.172
+Nombre : LUCAS MARTIN
+Apellido : ARMUA
+Cargo : CADERTE ADMINISTRATIVO
+Direccion : QUINTINO BOCAYUVA
+Ciudad : CAPITAL FEDERAL
+Telefono : 1535535314
+Email : armualucasmartin@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : hola buen dia son muchas las ganas de trabajar y si en este caso el curriculum es escaso quiero demostrar mi entuciasmo y empeño a progresar y salir adelante desde ya muchas gracias.
+Security_code : j5wxz
+Send : Enviar
+
+---------------
+
+Address : 201.250.104.172
+Nombre : LUCAS MARTIN
+Apellido : ARMUA
+Cargo : CADERTE ADMINISTRATIVO
+Direccion : QUINTINO BOCAYUVA
+Ciudad : CAPITAL FEDERAL
+Telefono : 1535535314
+Email : armualucasmartin@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : hola buen dia son muchas las ganas de trabajar y si en este caso el curriculum es escaso quiero demostrar mi entuciasmo y empeño a progresar y salir adelante desde ya muchas gracias.
+Security_code : j5wxz
+Send : Enviar
+
+---------------
+
+Address : 201.250.104.172
+Nombre : LUCAS MARTIN
+Apellido : ARMUA
+Cargo : CADERTE ADMINISTRATIVO
+Direccion : QUINTINO BOCAYUVA
+Ciudad : CAPITAL FEDERAL
+Telefono : 1535535314
+Email : armualucasmartin@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : hola buen dia son muchas las ganas de trabajar y si en este caso el curriculum es escaso quiero demostrar mi entuciasmo y empeño a progresar y salir adelante desde ya muchas gracias.
+Security_code : j5wxz
+Send : Enviar
+
+---------------
+
+Address : 186.134.20.89
+Nombre : Leandro
+Apellido : Mastrorilli
+Cargo : Indistinto
+Direccion : Domingo French 822
+Ciudad : Morón
+Telefono : 46284531
+Email : leandro.mastro@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Comunicarse para futura propuesta laboral, respecto a mis funcionalidades.
+Security_code : 8g7hh
+Send : Enviar
+
+---------------
+
+Address : 201.176.160.187
+REF : GTEP
+Nombre : Norberto 
+Apellido : BALLAUZ
+Cargo : GERENTE DE PROCESOS
+Direccion : BAIGORRIA 5387
+Ciudad : CABA
+Telefono : 4 639 7363
+Email : ballauzfelixnorberto@rocketmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Sr. DIRECTOR DE RECURSOS HUMANOS. 
+De mi mayor consideración
+
+S______________/_________________D
+                                                               
+ Me dirijo a Ud. a los efectos  de enviar mi curriculum, considerando la demanda laboral solicitada  por vuestra empresa , Dicha área, la cual desarrollo hace 18 años, considero que tal vez uno de mis objetivos será  o desafíos estarán  vinculados a diseñar e implementar el Planes  de Comunicación Interna y externa vinculados al PROYECTO ENMARCADO EN VUESTRA DEMANDA , generando y gestionando  el desarrollo productivo ,en tiempo y forma  acorde con los requerimientos  que  vuestra empresa considere , aplicando distintas estrategias y metodologías orientadas a la aplicación de normas de regulación de objetivos , la Capacitación acorde a las necesidades será necesario considerando los perfiles reales de producción y organización   ,  con el fin de contribuir al logro de los objetivos organizacionales, Implementando de ser necesario  distintas  herramientas, canales y espacios de comunicación que garanticen efectividad y eficiencia en las acciones implementadas. Como también conducir acciones de integración involucrando a todo el personal de la empresa , en programas institucionales internos y/o externos, Coordinando un proceso de ENSEÑANZA(si fuera necesario) para obtener  los resultados esperados, repetando los tiempos de la ficha contemplativa a tales efectos y  realizando un seguimiento de la implementación de los planes de mejora. La pro actividad, innovación, orientación, serán los pilares de mi desenvolvimiento profesional con una   visión compartida con las áreas de la empresa  ampliando   los fenómenos organizacionales.  la habilidad para liderar varios proyectos la he adquirido en las distintas empresas  en las que me he comprometido , son competencias críticas que las vengo desarrollando a través de los años actualizándome periódicamente 
+Cabe aclarar que poseo conocimientos específicos en el área técnica y tecnológica.
+
+ 
+DATOS PERSONALES
+Apellido: BALLAUZ
+Nombre: Félix Norberto. 
+Estado Civil: casado con 2 hijos (mayores)
+Edad: 55años.  
+TE: 4 639- 7363 / 1557971641
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ESTUDIOS CURSADOS: 
+
+• Técnico superior en Electromecánica y Robótica., (nivel universitario)
+• Titulo de base, secundario Técnico Mecánico, 
+• FI de Formación Profesional. (Formación de instructores) (Nivel universitario)
+• FO de Formación Profesional. (Formación de operarios y técnicos)  (Nivel universitario)
+• FP de Formación Profesional. (Nivel universitario) 
+• FPA de Formación Profesional. ( formación de lideres)
+• Curso en herramientas informáticas.
+• Capacitación  en  Estudio Dirigido (nivel universitario)
+• Curso en Métodos y Tiempos (nivel universitario)
+• Curso en Control Numérico Computarizado.(nivel universitario)
+• Estudio de técnicas operativas en trabajos seriados y de alta producción.
+• Metodología de estudio.
+• Curso de planeamiento y proyecto industrial I y II (nivel universitario)
+• Capacitación en técnicas grupales (nivel universitario)
+  Curso en seguridad industrial, mantenimiento preventivo, correctivo y predictivo.
+• Estudio de Formación Profesional Acelerada. (Nivel universitario)
+• Formación Didáctica. (Nivel universitario)
+• Curso de desarrollo de habilidades creativas para la Innovación Pedagógica.1er. Nivel
+• Curso de idioma, ingles técnico, y árabe e interpretación de planos en varios.
+• Curso en creatividad y desarrollo de actividades técnico/pedagógica., ( nivel ).
+
+PARTICIPACIONES
+
+•	Transformación de la educación 1ero. Y 2do. Congreso (expositivo).
+•	Orientación para el estudio y el trabajo.(expositivo)
+•	Seminario en métodos y tiempos.
+•	Jornadas argentino-británicas.
+•	Jornadas tecnológicas argentino-brasileñas
+•	Seminario en Formación Profesional (expositivo)
+•	Congreso de Formación Didáctica
+
+Poseo conocimientos de todas las áreas técnicas y tecnológicas, ya que parte de mi tiempo lo dedico a la incorporación de información y transmitirla a través de cursos que realizo  orientados a la FORMACION, OPERACIÓN. Y GESTION PROFESIONAL 
+
+EXPERIENCIA LABORAL: 
+
+Me dedique específicamente a la formación Técnica y tecnológica,  no solamente en escuelas y universidades, sino también en empresas especializadas en estas áreas. He trabajado simultáneamente en áreas de tecnología prestando servicio en empresas y a la vez desarrollando trabajos de enseñanza pedagógica en instituciones educativas. Mis cambios de tareas se orientaron a  incorporar experiencias en distintas áreas, es por este motivo que puedo desarrollar mi actividad desde muchos ángulos y con mayor eficacia.
+
+
+Desde 1978 me desempeñe en EX  E.N.E.T. N1 DE FLORIDA MARTIN GUEMES. Primero como maestro de enseñanza practica, dedicándome específicamente al mantenimiento de las maquinas herramientas, con 6 personas a cargo, aplicando conocimientos de hidráulica, mecánica general y mantenimiento según normas de regulación industrial donde más tarde fui accediendo a distintos cargos de JEFATURA, tanto para esta escuela como asi también otros establecimientos que necesitaban una orientación técnica actualizada. 
+
+Luego en PIZZINI .SA.  me dedique a la  supervisión,  en gestión y mantenimiento correctivo y preventivo con 15 personas a cargo de las actualizaciones de las maquinarias para un mercado cada vez más competitivo durante 4 años. 
+
+Luego trabaje en ACEROTEC, con 5 personas a cargo en la parte de mantenimiento general de fabrica, tanto para las MAQUINAS–HERRAMIENTA, como también la parte edilicia en relación a la disposición correcta, según normas ISO, para certificación,   simultáneamente con la ENET. A los 2 años me tuve que retirar debido a que no llegamos a un acuerdo por la inversión que la empresa debía disponer para dicha certificación. 
+
+Desde el año 1987 me desempeñe en la empresa ACORINTI SA, pero con el cargo de encargado de fabrica, donde entre otras tareas también debía prever la vida útil de las maquinarias, su comportamiento en la producción y mejorarlas de ser posible, en esta empresa me desenvolví en las tareas mencionadas durante 4 años y tuve 50 personas a cargo en distintas áreas como mecánica, electricidad, carpintería albañilería y  plomería. 
+
+En el año 1992 trabaje en METAL-MECANICA LOPEZ donde mis tareas eran específicamente mantenimiento preventivo, predictivo y correctivo, lo cual demandaba trabajos fuera del horario estipulado  debido a que los informes debían ser lo más detallados posibles en cuanto a vida útil, tiempos, paradas de producción si  fuera necesario. 
+También me desempeñe en la TORNERIA   AUTOMATICA ZALAZAR en donde no solamente realizaba las tareas de mantenimiento sino también la de operación de las MAQUINAS -HERRAMIENTA ,pero al avanzar la tecnología, estas maquinas iban quedando al margen de un sistema competitivo de mercado para lo cual le sugerí a la misma actualizar las maquinas. En este caso la empresa decidió invertir entonces se tuvo que actualizar  incorporando la tecnología de FANU Y CONTROL NUMERICO COMPUTARIZADO FAGOR utilizando programas de  SLATTE de alta producción lo que permitió a la misma estar acorde con las demandas solicitadas en tiempo y forma , en este caso tuve 76 personas a cargo durante 5 años hasta el año 1997 
+
+Luego trabaje en MECANICA ROFFA HS. Realizando mantenimiento preventivo con 4 personas a cargo ya que la empresa no tenía una alta producción y solamente trabajaba para ciertos sanatorios ya que era una empresa ortopedista  durante 2 años.
+
+Del Año 2003 al 2005 trabaje en la parte de mantenimiento industrial en MUNICIPALIDAD DE MORON (área industria), en donde pude implementar un método nuevo llamado WOLF-RA DE APLICACIÓN PARA MANTENIMIENTO PREDICTIVO, teniendo en cuenta factores que tienen que ver también con la seguridad del medio ambiente, la capacitación en servicio y la disposición de la empresa.
+
+
+Más tarde  trabaje en la empresa MIGUEL SCHMITT  ,(Fabricación de bombas centrifugas)donde mis principales objetivos estaban dirigidos  hacia las metodologías y los tiempos de producción ,cuyo cargo de desempeño era MANAGER DE PROYECT MANAGEMENT teniendo en cuenta los proyects realizados a los efectos ,los seguimientos implementando varias mejoras en relación a la implementación de normas ISO 9000,9001, Y 14000, y los procesos productivos deberían cambiar de acuerdo al plan que había presentado,  ya que al trabajar con maquinas casi obsoletas ,no se llegaba a producir lo requerido por los  clientes tanto en cantidad como en calidad y obviamente no se cumplían con los tiempos requeridos 
+
+
+TAREAS ESPECÍFICAS (AREA INDUSTRIA)
+
+         Direccion de Proyectos Industriales a Mediano y largo Plazo 
+         Dirección y supervisión de gestión operativa y administrativa, de empresas 
+-Encargado de compras, materia prima. Y Supervisor de trabajos de producción.
+-Supervisión y seguimiento de producción. Trabajos seriados.
+-Puesta en marcha de PYMES. Mantenimiento general.
+-Dirección de planes productivos con variaciones de flujo metodológico en relación a la producción y venta 
+-Control de calidad de materiales.
+-Control de sistemas de calidad Gestión de certificaciones ISO IRAM, ASME, DIN, y API. 
+-Dirección de proyectos,  planeamientos y control. (dentro de los mas conocidos, el proyecto PIQUI, saneamientos y control de ríos y arroyos de  Bs. As.)
+-Administración, y verificación de certificación de ISO 9000, ISO 9001, ISO 14000. 
+-Utilización (único en la argentina) en tres, PYMES, del método WOLF-RA para control, fiscalización y ejecución de trabajos seriados, bajo just to time en escuelas y organismos dependientes de DGE Y C 
+Coordinador de grupos de trabajo. Orientados al mantenimiento general  y abastecimiento de empresas
+Verificación y fiscalización de trabajos con finalización ejecutoria de fluxograma.
+Supervisor de maquinas- herramienta
+. Operador de maquinas herramienta, tornos paralelos, fresadoras, limadoras, rectificadoras tangenciales,
+-interpretación y evaluación de planos, matrices ejecutorios de procedimientos, 
+- Mantenimiento general de maquinas  de alta y baja complejida
+………………………………………
+FELIX NORBERTO BALLAUZ
+DNI: 12.501 919
+TE: 4639 -7363
+CEL: 1557971641
+
+
+
+
+Security_code : 8 x 7 r m
+Send : Enviar
+
+---------------
+
+Address : 190.245.168.242
+Nombre : alejandro 
+Apellido : de brasi
+Cargo : mecanico automotor y motos
+Direccion : cuenca
+Ciudad : cuenca 2040
+Telefono : 1132134502
+Email : marianart_gp@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : full time
+Security_code : hyyt3
+Send : Enviar
+
+---------------
+
+Address : 190.245.168.242
+Nombre : alejandro
+Apellido : de brasi
+Cargo : mecanico automotor y motos
+Direccion : cuenca 2040
+Ciudad : capital federal
+Telefono : 1132134502
+Email : marianart_gp@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : full time
+Security_code : rt9ds
+Send : Enviar
+
+---------------
+
+Address : 181.44.173.89
+Nombre : walter david
+Apellido : varela
+Cargo : cañista soldador
+Direccion : la santa maria  6111
+Ciudad : buenos aires
+Telefono : 3528-0917
+Email : walter_32_80@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : establer una relación laboral conveniente para ambas partes
+Security_code : vrfy2
+Send : Enviar
+
+---------------
+
+Address : 190.55.117.35
+Nombre : LAURA
+Apellido : PARVIS
+Cargo : Psicologa free lance evaluaciones psicolaborales
+Direccion : CIUDAD DE LA PAZ
+Ciudad : CABA
+Telefono : 1130345522
+Email : lauraparvis@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados
+Es un gusto contactarme con Uds., realizo evaluaciones psicotécnicas de manera free lance para Consultoras y empresas, evalúo todos los perfiles, también participo de evaluaciones masivas y AC en Toyota, AR, JPMorgan, YPF; cuento con consultorio en Belgrano y tengo disponibilidad para viajar a evaluar. Les envío mi CV y estoy a su entera disposición para conversar personalmente o por skype.
+Cordialmente, gracias por su tiempo. 
+
+Security_code : PKPVF
+Send : Enviar
+
+---------------
+
+Address : 190.55.117.35
+Nombre : LAURA
+Apellido : PARVIS
+Cargo : Psicologa free lance evaluaciones psicolaborales
+Direccion : CIUDAD DE LA PAZ
+Ciudad : CABA
+Telefono : 1130345522
+Email : lauraparvis@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados
+Es un gusto contactarme con Uds., realizo evaluaciones psicotécnicas de manera free lance para Consultoras y empresas, evalúo todos los perfiles, también participo de evaluaciones masivas y AC en Toyota, AR, JPMorgan, YPF; cuento con consultorio en Belgrano y tengo disponibilidad para viajar a evaluar. Les envío mi CV y estoy a su entera disposición para conversar personalmente o por skype.
+Cordialmente, gracias por su tiempo. 
+
+Security_code : pkpvf
+Send : Enviar
+
+---------------
+
+Address : 201.253.191.113
+Nombre : sandra
+Apellido : musumeci
+Cargo : atencion al publico
+Direccion : muñoz
+Ciudad : rosario
+Telefono : 3412597800
+Email : sandra-noemi-75@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me ofresco para atención al publico con experiencia y responsabilidad
+Security_code : wmtzn
+Send : Enviar
+
+---------------
+

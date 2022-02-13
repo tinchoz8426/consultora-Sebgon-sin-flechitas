@@ -1,0 +1,60 @@
+Address : 181.108.5.119
+Nombre : Jessica
+Apellido : Paez
+Cargo : Tec.en higiene y seguridad laboral
+Direccion : Fiambala
+Ciudad : Catamarca
+Telefono : 383 4779291
+Email : jirs05@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Busco trabajo como tec.en higiene y seguridad laboral.
+Security_code : 7zxyk
+Send : Enviar
+
+---------------
+
+Address : 181.108.69.131
+Nombre : maria ines 
+Apellido : abarca
+Cargo : secretaria
+Direccion : sarmiento 952
+Ciudad : san juan
+Telefono : 2644645456
+Email : lean_mathias@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : se requiere un puesto de trabajo con urgencia!! 
+Security_code : qk7pp
+Send : Enviar
+
+---------------
+
+Address : 200.69.197.198
+Nombre : lucia gladys
+Apellido : quispe
+Cargo : operaria en produccion
+Direccion : terrada 4680
+Ciudad : buenos aires
+Telefono : 15601396
+Email : luciadelomaz32@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : soy profesional en mi trabajo, tanto grupal como individual,soy dinamica y prolija.
+Security_code : tfbwg
+Send : Enviar
+
+---------------
+
+Address : 200.69.197.198
+Nombre : lucia gladys
+Apellido : quispe
+Cargo : opraria textil
+Direccion : terrada 4680
+Ciudad : buenos aires
+Telefono : 1560162256
+Email : luciadelomaz32@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : soy profesional en trabajo tanto grupal como individual,trabaje en rubro grafico textil y grafico.
+Security_code : v96sk
+Send : Enviar
+
+---------------
+

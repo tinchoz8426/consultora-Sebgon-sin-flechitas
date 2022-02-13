@@ -1,0 +1,128 @@
+Address : 200.85.108.14<br>
+ <br>REF : GTEP
+ <br>Nombre : Javier
+ <br>Apellido : Pirez
+ <br>Cargo : Gerente Planta
+ <br>Direccion : Deán Funes 3701
+ <br>Ciudad : Benavídez 
+ <br>Telefono : 1136774135
+ <br>Email : Jpirez@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Envío cv por la búsqueda de referencia 
+ <br>Security_code : ywxdk
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.211.87.85<br>
+ <br>REF : GTEP
+ <br>Nombre : Marcelo
+ <br>Apellido : Trilla
+ <br>Cargo : GTEP
+ <br>Direccion : Ruta 50 km 1028
+ <br>Ciudad : San Martin, Mendoza
+ <br>Telefono : 0261 153466185
+ <br>Email : matrilla2002@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Adjunto CV para que lo tenga en cuenta para esta posición. Quedo atento para una eventual entrevista.
+ <br>Security_code : tg63w
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.211.87.85<br>
+ <br>REF : GTEP
+ <br>Nombre : Marcelo
+ <br>Apellido : Trilla
+ <br>Cargo : GTEP
+ <br>Direccion : Ruta 50 km 1028
+ <br>Ciudad : San Martin, Mendoza
+ <br>Telefono : 0261 153466185
+ <br>Email : matrilla2002@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Adjunto mi CV para que lo tengan en cuenta para la posición de Gte. de planta.
+ <br>Security_code : 5kzbh
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.211.87.85<br>
+ <br>REF : GTEP
+ <br>Nombre : Marcelo
+ <br>Apellido : Trilla
+ <br>Cargo : GTEP
+ <br>Direccion : Ruta 50 km 1028
+ <br>Ciudad : San Martin, Mendoza
+ <br>Telefono : 0261 153466185
+ <br>Email : matrilla2002@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Adjunto CV para la posición de Gte. de planta
+ <br>Security_code : vbwkb
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.60.212.214<br>
+ <br>REF : OEL
+ <br>Nombre : alejandro jose
+ <br>Apellido : quiroga
+ <br>Cargo : oficial electricista
+ <br>Direccion : weiss de rossi 3482
+ <br>Ciudad : glew
+ <br>Telefono : 1136842239
+ <br>Email : luliale20@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : hola buenas tardes, soy oficial electricista y también tengo curso aprobado de automatismos también cuento con tarjeta ieric, tengo ya muchos años de experiencia tanto como en obra como también en mantenimiento, ojala pueda integrar su grupo de trabajo, desde ya muchas gracias.
+ <br>Security_code : 2s796
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.60.212.214<br>
+ <br>Nombre : alejandro jose
+ <br>Apellido : quiroga
+ <br>Cargo : oficial electricista
+ <br>Direccion : weiss de rossi 3482
+ <br>Ciudad : glew
+ <br>Telefono : 1136842239
+ <br>Email : luliale20@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : hola buenas tardes, soy oficial electricista y también tengo curso aprobado de automatismos también cuento con tarjeta ieric, tengo ya muchos años de experiencia tanto como en obra como también en mantenimiento, ojala pueda integrar su grupo de trabajo, desde ya muchas gracias.
+ <br>Security_code : 8b6yf
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.211.87.85<br>
+ <br>REF : GTEP
+ <br>Nombre : Marcelo
+ <br>Apellido : Trilla
+ <br>Cargo : GTEP
+ <br>Direccion : Ruta 50 km 1028
+ <br>Ciudad : San Martin, Mendoza
+ <br>Telefono : 0261 153466185
+ <br>Email : matrilla2002@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Adjunto CV para postularme para esta posición.
+
+Saludos
+ <br>Security_code : nz3br
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.47.215.185<br>
+ <br>Nombre : cecilia
+ <br>Apellido : Flecha
+ <br>Cargo : Psicologia social / admnistrativa
+ <br>Direccion : Billingursth 940
+ <br>Ciudad : Capital Federal
+ <br>Telefono : 20753752
+ <br>Email : ceciliapsicologasocial@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Busco empleo
+ <br>Security_code : p62kv
+ <br>Send : Enviar
+ <br>
+---------------
+

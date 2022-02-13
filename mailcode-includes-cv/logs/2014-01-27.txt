@@ -1,0 +1,111 @@
+Address : 186.36.254.3
+Nombre : Dolca
+Apellido : Machuca
+Cargo : Asistente Administrativo Secretaria
+Direccion : Las Higueras 4589
+Ciudad : santiago
+Telefono : 87793728
+Email : dolca.machuca@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Agradeceré tener en consideración mis antecedentes para las vacantes que se presenten 
+Security_code : wmjz5
+Send : Enviar
+
+---------------
+
+Address : 186.36.254.3
+Nombre : Dolca
+Apellido : Machuca
+Cargo : Asistente administrativo Secretaria
+Direccion : Las Higueras 4589
+Ciudad : Santiago
+Telefono : 87793728
+Email : dolca.machuca@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Favor considerar mis antecedentes para las vacantes que se presenten
+Security_code : dmh7r
+Send : Enviar
+
+---------------
+
+Address : 186.122.128.161
+Nombre : Pablo
+Apellido : Gonzalez
+Cargo : Administrativo
+Direccion : Pueyrredon 1776
+Ciudad : Buenos Aires
+Telefono : 1564732444
+Email : pablopunky@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Envio mi curriculum, Gracias por su tiempo. 
+Security_code : jyyfb
+Send : Enviar
+
+---------------
+
+Address : 181.20.131.162
+Nombre : EDUARDO  RUBEN
+Apellido : BIALET
+Cargo : SUPERVISOR-COORDINADOR
+Direccion : TEURLAY 527 Bº UNIMEV
+Ciudad : V .NUEVA  GLLEN.
+Telefono : 0261-153012153
+Email : eduardobialet@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : ADJUNTO CURRICULUM VITAE DE ACUERDO A MI PERFIL,OTORGAME ENTREVISTA,SALUDA MUY ATTE.-
+Security_code : dw4z2
+Send : Enviar
+
+---------------
+
+Address : 190.138.203.227
+Nombre : daniel osvaldo
+Apellido : carrara
+Cargo : area gastronomia
+Direccion : vuelta de obligado 1227
+Ciudad : haedo -moron
+Telefono : 1538233912
+Email : carraradaniel@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : por este medio, solicito tengan a bien, tener en cuenta me C.V, para posibles puestos de trabajo en el área de gastronomía en gral.
+Atte.
+Daniel Carrara
+Security_code : xvcv6
+Send : Enviar
+
+---------------
+
+Address : 200.117.129.174
+Nombre : Melina Maria
+Apellido : Basualdo
+Cargo : Administrativo
+Direccion : Rueda 273
+Ciudad : Rosario
+Telefono : 03471 - 15515307
+Email : melinamariabasualdo@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados, adjunto mi CV para ver si puede haber algun puesto acorde mis estudios. Desde ya muchas gracias.-
+Security_code : h769f
+Send : Enviar
+
+---------------
+
+Address : 190.111.251.134
+REF : Gerente-de-Administracion-y-Finanzas
+Nombre : Adriana
+Apellido : Vinicki
+Cargo : Gerente de Administración y Finanzas
+Direccion : Ciudad de la Paz 461
+Ciudad : Bs As
+Telefono : 15-5823-9019
+Email : adriana.vinicki@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados adjunto mi CV, a vuestra disposición.
+Los saluda atte.
+
+Adriana Vinicki
+Security_code : vcpzg
+Send : Enviar
+
+---------------
+

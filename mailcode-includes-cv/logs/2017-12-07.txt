@@ -1,0 +1,66 @@
+Address : 66.249.85.28<br>
+ <br>Nombre : Daniel eduardo
+ <br>Apellido : Casas
+ <br>Cargo : Taller de chapa y pintura (colorista)
+ <br>Direccion : Lopez y planes3465
+ <br>Ciudad : Córdoba
+ <br>Telefono : 3513555358
+ <br>Email : Cynthiacasas230@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Responsable capaz de adaptarme a cualquier tarea.espero me tengan en cuenta ..desde ya muchas gracias
+ <br>Security_code : Bkk3p
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.139.134.225<br>
+ <br>Nombre : dariana ximena
+ <br>Apellido : lopez vicedo
+ <br>Cargo : cualquier cargo
+ <br>Direccion : San fernando 85
+ <br>Ciudad : Resistencia
+ <br>Telefono : 3624912583
+ <br>Email : lopezximena160896@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me encuentro en busqueda laboral, puse cualquier cargo porque necesito trabajo urgente, desde ya muchas gracias
+ <br>Security_code : n4hdv
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.9.154.59<br>
+ <br>Nombre : Alan José Alberto
+ <br>Apellido : Buzzi Cespedes
+ <br>Cargo : El que considere adecuado a mi formacion.
+ <br>Direccion : Cordoba 801
+ <br>Ciudad : Pinto
+ <br>Telefono : 3857674028
+ <br>Email : alanbuzzic15@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenos dias,dejo mi cv con el fin de conseguir un empleo acorde a mi formacion.
+Espero les sea util.
+Saludos cordiales
+ <br>Security_code : 28pxg
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 200.125.72.147<br>
+ <br>Nombre : eudimar
+ <br>Apellido : fernandz
+ <br>Cargo : arquitecto
+ <br>Direccion : av triunvirato 4355
+ <br>Ciudad : buenos aires
+ <br>Telefono : 1132998443
+ <br>Email : arqeudimarfernandez@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : -Organizada, responsable, disciplinada y constante con las labores a desempeñar.
+-Buena comunicación y capacidad de trabajar en equipo. 
+-Buena presencia.
+`-relacion con proveedores
+
+ <br>Security_code : 2cg4b
+ <br>Send : Enviar
+ <br>
+---------------
+

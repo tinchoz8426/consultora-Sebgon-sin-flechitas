@@ -1,0 +1,12 @@
+Address : 190.172.202.184
+Nombre : OMAR 
+Apellido : PROVINI
+Empresa : LOS AMIGOS HOGAR
+Telefono : 46610950
+Email : omarprovini@gmail.com
+Mensaje : estoy en la busqueda de personal me gustaria que un representante se constate, espero una repuesta.
+Security_code : 2fbys
+Send : Enviar
+
+---------------
+

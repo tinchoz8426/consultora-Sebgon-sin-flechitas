@@ -1,0 +1,208 @@
+Address : 181.239.68.65<br>
+ <br>Nombre : Antonella
+ <br>Apellido : Nuñez
+ <br>Cargo : Atencion al publico/ limpieza u/ oficina
+ <br>Direccion : Calle 314 "A" nro 1280
+ <br>Ciudad : Ranelagh
+ <br>Telefono : 1532060597
+ <br>Email : Anthomnunez@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Busco trabajo urgente por favor ayudeme.
+ <br>Security_code : Cvq7v
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.239.68.65<br>
+ <br>Nombre : Antonella
+ <br>Apellido : Nuñez
+ <br>Cargo : Limpieza
+ <br>Direccion : Calle 314 "A" nro 1280
+ <br>Ciudad : Ranelagh
+ <br>Telefono : 1532060597
+ <br>Email : Anthomnunez@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Necesito trabajar, y tengo todas las ganas.
+ <br>Security_code : p5qtk
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.9<br>
+ <br>REF : TEC. EL
+ <br>Nombre : Jorge 
+ <br>Apellido : Vallejos
+ <br>Cargo : Técnico 
+ <br>Direccion : Carlos encina 4922 Laferrere 
+ <br>Ciudad : Laferrere 
+ <br>Telefono : 1126708379
+ <br>Email : Vallejoselectronic@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola estoy altamente capacitado me gustaría formar parte de su equpoo de trabajo 
+ <br>Security_code : Xhkp9
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 24.232.200.23<br>
+ <br>REF : TEC. EL
+ <br>Nombre : Reinaldo Alfonso
+ <br>Apellido : Escobar Monsalve
+ <br>Cargo : Tecnico Electronico
+ <br>Direccion : El Sauce 1320
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 22 6246 4007
+ <br>Email : reinaldoalfonso0985@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola Buen dia
+
+Me interesa la vacante de Tecnico Electronico ya que conozco bastante sobre el perfil que estan buscando. Gracias de antemano
+Saludos
+ <br>Security_code : 9kc3c
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 24.232.200.23<br>
+ <br>REF : TEC. EL
+ <br>Nombre : Reinaldo Alfonso
+ <br>Apellido : Escobar Monsalve
+ <br>Cargo : Tecnico Electronico
+ <br>Direccion : El Sauce 1320
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 22 6246 4007
+ <br>Email : reinaldoalfonso0985@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola Buenas Tardes
+
+Espero esten bien les escribo porque estoy bastante interesado en la vacante que ofrecen como Tecnico Electronico ya que tengo conocimientos en lo que estan requiriendo. Espero obtener respuesta sea afirmativa o negativa.
+Gracias de antemano
+
+Saludos
+ <br>Security_code : r2sp5
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.9<br>
+ <br>Nombre : Elio
+ <br>Apellido : Ulloa 
+ <br>Cargo : Camionero chofer
+ <br>Direccion : Calle Luffi s/n
+ <br>Ciudad : Mendoza
+ <br>Telefono : 2622362116
+ <br>Email : hracioulloa@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Espero su respuesta
+ <br>Security_code : q3wtv
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.29<br>
+ <br>Nombre : Daniel
+ <br>Apellido : Luna
+ <br>Cargo : Maquinista extrusion
+ <br>Direccion : Tinogasta 6461
+ <br>Ciudad : González Catán
+ <br>Telefono : 1162198228
+ <br>Email : Lunaalbertodaniel39@gmail.com 
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola . Ando en busqueda de un trabajo .. ya la cual tengo experiensa en fabrica de plastico .. 6 años . Fabrica industrial .. como maquinista de extrusion . .. de tuberia pvc. Pp .. desde ya gracias 
+ <br>Security_code : Sp6fn
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.28<br>
+ <br>Nombre : Daniel
+ <br>Apellido : Luna
+ <br>Cargo : Maquinista extrusion
+ <br>Direccion : Tinogasta 6461
+ <br>Ciudad : González Catán
+ <br>Telefono : 1162198228
+ <br>Email : Lunaalbertodaniel39@gmail.com 
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola . Ando en busqueda de un trabajo .. ya la cual tengo experiensa en fabrica de plastico .. 6 años . Fabrica industrial .. como maquinista de extrusion . .. de tuberia pvc. Pp .. desde ya gracias 
+ <br>Security_code : Sp6fn
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.231.84.126<br>
+ <br>Nombre : Gabriela
+ <br>Apellido : Muchiut
+ <br>Cargo : Atencion al cliente
+ <br>Direccion : Alonso3950
+ <br>Ciudad : Neuquen
+ <br>Telefono : 299 5300130
+ <br>Email : muchiutviviana@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Necesito unirme al grupo de trabajo, desde ya muchas gracias
+ <br>Security_code : 3nwhn
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.177.165.175<br>
+ <br>Nombre : Santiago Gabriel
+ <br>Apellido : castillo
+ <br>Cargo : Mantenimiento
+ <br>Direccion : Calle Varvarco Dx13 Bº Muten
+ <br>Ciudad : Neuquén
+ <br>Telefono : 0299 155682246
+ <br>Email : santy22xt1988@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados Sres. De Recursos Humanos
+
+Tengo el agrado de dirigirme a Ud/s con el objetivo de participar en búsquedas acordes a mi perfil en su empresa. Adjunto mi Curriculum Vitae buscando ser incluido en su base de datos por si se produjera alguna vacante.
+ <br>Security_code : 2drbc
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.167.3.89<br>
+ <br>Nombre : juan carlos maximiliano
+ <br>Apellido : miguel
+ <br>Cargo : turno noche 
+ <br>Direccion : vidal 1671 , caba
+ <br>Ciudad : belgrano
+ <br>Telefono : 1550371327
+ <br>Email : jucamaxi@outlook.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : disponibilidad de 21 a 06am
+ <br>Security_code : 848p9
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.141.225.224<br>
+ <br>Nombre : Mailen Estefanía 
+ <br>Apellido : Nuñez 
+ <br>Cargo : Atención al público/cajero
+ <br>Direccion : Av Rioja 969 sur 
+ <br>Ciudad : San Juan 
+ <br>Telefono : 265463967
+ <br>Email : maylen277@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas tardes, me gustaría formar parte de su equipo de trabajo. Quisiera que coordinemos una entrevista asunto me conicen. Saludos 
+ <br>Security_code : 2583d
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.11<br>
+ <br>Nombre : Fabrizio eduardo
+ <br>Apellido : Villalba
+ <br>Cargo : Seguridad
+ <br>Direccion : Moquehua 799
+ <br>Ciudad : Grand bourg
+ <br>Telefono : 1133813752
+ <br>Email : 1133813752
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Necesito trabajo de seguridad en hospitales o supermercados.
+ <br>Security_code : 55p5x
+ <br>Send : Enviar
+ <br>
+---------------
+

@@ -1,0 +1,79 @@
+Address : 201.212.40.103
+Nombre : franco
+Apellido : ilich
+Cargo : técnico en reparación de pc
+Direccion : viña del mar 
+Ciudad : cordoba
+Telefono : 3512070413
+Email : franco.ilich@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : quisiera trabajar part-time para poder continuar con mis estudios
+Security_code : 6mhxg
+Send : Enviar
+
+---------------
+
+Address : 186.124.58.249
+Nombre : alexis david
+Apellido : sanchez
+Cargo : administrativo
+Direccion : los amancay 91
+Ciudad : salta
+Telefono : 0387-4759555
+Email : alexi_22_3@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : quiero trabajar para poder crecer como persona soy muy capaz en la actividades q me toque realizar
+Security_code : gnw2m
+Send : Enviar
+
+---------------
+
+Address : 186.124.58.249
+Nombre : alexis david
+Apellido : sanchez
+Cargo : administrativo
+Direccion : los amancay 91
+Ciudad : salta
+Telefono : 0387-4759555
+Email : alexi_22_3@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : quiero trabajar para poder crecer como persona soy muy capaz en la actividades q me toque realizar
+Security_code : gnw2m
+Send : Enviar
+
+---------------
+
+Address : 186.124.58.249
+Nombre : alexis david
+Apellido : sanchez
+Cargo : administrativo
+Direccion : los amancay 91
+Ciudad : salta
+Telefono : 0387-4759555
+Email : alexi_22_3@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : quiero trabajar para poder crecer como persona soy muy capaz en la actividades q me toque realizar
+Security_code : h7s3h
+Send : Enviar
+
+---------------
+
+Address : 186.182.105.25
+Nombre : soledad
+Apellido : uribe
+Cargo : Administracion/ recursos humanos
+Direccion : Jose ingenieros 616
+Ciudad : Buenos aires
+Telefono : 1534601555
+Email : soledaduribe@hotmail.es
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados, 
+les adjunto mi curriculum  vitae, en caso que mi perfil se adapte a alguna de sus busquedas. estaria encantada en asistir a una entrevista con ustedes.
+desde ya muchas gracias por su tiempo
+
+saludos
+Security_code : s47sb
+Send : Enviar
+
+---------------
+

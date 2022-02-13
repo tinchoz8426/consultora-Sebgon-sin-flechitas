@@ -1,0 +1,87 @@
+Address : 179.39.25.220
+Nombre : jorge
+Apellido : merlo
+Cargo : cableador
+Direccion : armesti 2894
+Ciudad : Banfield
+Telefono : 1167224509
+Email : jorge.merlo10@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Tengo mucha experiencia soy muy responsable
+Security_code : 275hg
+Send : Enviar
+
+---------------
+
+Address : 190.51.165.120
+Nombre : Daniel
+Apellido : Moreyra
+Cargo : oficial calderero +soldador
+Direccion : husares 597
+Ciudad : lavallol lomas de zamora
+Telefono : 42986407
+Email : danielcapo07@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : hola mi nombre es Daniel me postulo para su búsqueda de canñista mas soldador .cuento con los conocimientos requeridos .hace 13 años trabajo en el rubro soy oficial calderero y soldador.muchas gracias  
+Security_code : vywj4
+Send : Enviar
+
+---------------
+
+Address : 190.51.165.120
+Nombre : Daniel
+Apellido : Moreyra
+Cargo : oficial calderero +soldador
+Direccion : husares 597
+Ciudad : lavallol lomas de zamora
+Telefono : 42986407
+Email : danielcapo07@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : hola mi nombre es Daniel me postulo para su búsqueda de canñista mas soldador .cuento con los conocimientos requeridos .hace 13 años trabajo en el rubro soy oficial calderero y soldador.muchas gracias  
+Security_code : twfbn
+Send : Enviar
+
+---------------
+
+Address : 190.51.165.120
+Nombre : Daniel
+Apellido : Moreyra
+Cargo : oficial calderero +soldador
+Direccion : husares 597
+Ciudad : lavallol lomas de zamora
+Telefono : 42986407
+Email : danielcapo07@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : hola mi nombre es Daniel me postulo para su búsqueda de canñista mas soldador .cuento con los conocimientos requeridos .hace 13 años trabajo en el rubro soy oficial calderero y soldador.muchas gracias  
+Security_code : wm4jk
+Send : Enviar
+
+---------------
+
+Address : 186.62.80.10
+REF : JPL
+Nombre : Jorge Alberto
+Apellido : Teijeira
+Cargo : JPL - Jefe de Planta
+Direccion : Montevideo 1204
+Ciudad : Quilmes
+Telefono : 1564103807
+Email : jateijeira@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados Señores,
+Mi nombre es Jorge Teijeira Soy Ingeniero Químico Especialista en Ingeniería Ambiental y deseo hacerle llegar por éste medio mi CV resumido colocando a su disposición formatos mas detallados.
+Mis Skills Incluyen: Formación de Pre-grado en Ciencia y tecnología de los Alimentos, Especialista en Ingeniería Ambiental, y actualmente me encuentro especializándome en Docencia Universitaria, y en Seguridad e Higiene Industrial, Experiencia en manejo de personal como Jefe de Planta de pequeña a mediana envergadura (120 personas), Experiencia operativa en las áreas Planificación General de la Producción, Seguridad e Higiene y Medioambiente y Calidad total (gestionando ISO 9000 y trabajando adjunto al área) Experiencia en Agroindustrias y de la Alimentación y químicas, por mi formación de postgrado poseo también experiencia en acciones tendientes a reducir el scrap de planta. Docente Universitario en Medio ambiente y Seguridad.
+Espero tengan a bien contactarse con mi persona a fin de entrevistarme para que puedan tener una idea mas cabal de mis aptitudes.- 
+Referencias a su disposición.-
+Saludos cordiales,
+ 
+Ing. Jorge A. Teijeira
+Cel: 1564103807
+Tel: 42528574
+
+
+Security_code : n4fmf
+Send : Enviar
+
+---------------
+

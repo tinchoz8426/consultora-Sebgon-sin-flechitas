@@ -1,0 +1,12 @@
+Address : 190.49.105.45
+Nombre : Rodrigo
+Apellido : Colella
+Empresa : jobtime
+Telefono : 02293-15341207
+Email : comercial@jobtime.com.ar
+Mensaje : JOBTIME es una nueva plataforma de Currículums y publicación de avisos de empleo. Más de 70 empresas y consultoras ya confían en nosotros. Si es de su interés formar parte de las empresas y consultoras que publican en www.jobtime.com.ar los invito a ponerse en contacto con nosotros. Podrán, en esta etapa de lanzamiento, publicar todos los avisos de empleo que quieran en forma gratuita, publicar su logo en pantalla principal y los CV aplicados ingresaran automáticamente en la casilla de email por ustedes elegida. Es una gran oportunidad para recibir excelentes perfiles por los avisos publicados. Disponemos de perfiles de todos los seniorities y operativos o de oficio.
+Security_code : kfvmw
+Send : Enviar
+
+---------------
+

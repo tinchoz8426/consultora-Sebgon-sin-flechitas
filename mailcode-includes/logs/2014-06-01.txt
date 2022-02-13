@@ -1,0 +1,28 @@
+Address : 190.196.235.76
+Nombre : Analia
+Apellido : Mc Cormack
+Empresa : busco empleo
+Telefono : 0222715618091
+Email : analiamccormack@hotmail.com
+Mensaje : Tengo el agrado de dirigirme a Consultora Sebgon a fin de solicitar información sobre ofertas de trabajo. Soy Lic en T.Social. Vivo en Roque Pérez y me interesan dos publicaciones. Espero recibir respuesta. Desde ya muchas gracias.
+Security_code : qvxw4
+Send : Enviar
+
+---------------
+
+Address : 186.57.189.196
+Nombre : Luciana
+Apellido : Aldana
+Empresa : Selectora Free Lance
+Telefono : 15-5176-3544
+Email : luciana.aldana@gmail.com
+Mensaje : Estimada Andrea Tambascio,
+Mi nombre es Luciana Aldana, soy Lic en Psicología. Envié mi postulación según el mail de Computrabajo, pero el mismo vino rebotado.
+Quedo atenta a la dirección alternativa de mail.
+Saludos cordiales,
+Lic. Luciana Aldana
+Security_code : x9dsy
+Send : Enviar
+
+---------------
+

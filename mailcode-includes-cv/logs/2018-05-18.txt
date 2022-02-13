@@ -1,0 +1,111 @@
+Address : 190.245.113.156<br>
+ <br>Nombre : Guido Nicolas
+ <br>Apellido : Crocitto
+ <br>Cargo : Empleado
+ <br>Direccion : Planes 1180   CABA
+ <br>Ciudad : buenos aires
+ <br>Telefono : 1549749624
+ <br>Email : guido.crocitto@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados,
+
+ 
+
+Me es grato adjuntarles mi curriculum vitae, para que tenga un conocimiento de mis aptitudes y experiencias laborales.
+
+ 
+
+Espero recibir noticias suyas, con el fin de concretar una entrevista personal.
+
+ 
+
+Reciba un cordial saludo. Atentamente.
+
+ 
+
+Guido Nicolas Crocitto.
+
+
+ <br>Security_code : 2dsrs
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.191.190.95<br>
+ <br>Nombre : MARIA FERNANDA
+ <br>Apellido : VILLALBA
+ <br>Cargo : ADMINISTRATIVA TAREAS GENERALES ASISTENTE
+ <br>Direccion : Uruguay 1938
+ <br>Ciudad : BUENOS AIRES - BURZACO
+ <br>Telefono : 1535610863
+ <br>Email : mfernanda_villalba@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados
+Adjunto CV,hay una búsqueda de Administrativa para zona sur-Burzaco.
+Aún esta vigente?.
+De ser así espero sea viable mi CV. 
+
+Saludos 
+
+MF
+ <br>Security_code : f2gn6
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.46.98.192<br>
+ <br>Nombre : veronica
+ <br>Apellido : loguercio
+ <br>Cargo : asesorabcomercial
+ <br>Direccion : murature 1456
+ <br>Ciudad : adrogue
+ <br>Telefono : 1525866571
+ <br>Email : veronica_loguercio@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : busco asesora comercial o atencion al cliente
+ <br>Security_code : s2ymb
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.51.139.50<br>
+ <br>Nombre : María Celestina
+ <br>Apellido : Soriano
+ <br>Cargo : Administrativa tareas generales
+ <br>Direccion : Hipólito Yrigoyen 15083
+ <br>Ciudad : Burzaco
+ <br>Telefono : 1565138396
+ <br>Email : mariceledicion1@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenos Aires, 18 de mayo de 2018
+
+A quien corresponda,
+
+     mi nombre es María Celestina Soriano. Soy soltera, sin hijos,vivo en Burzaco y me enteré de esta búsqueda a través de la página Indeed.
+     Tengo experiencia administrativa y de  atención al cliente. Me interesaría mucho poder formar parte de su equipo de trabajo.
+     Adjunto mi CV con foto y quedo a la espera de una entrevista que me permita ampliar estos datos.
+
+Atte.
+
+María Celestina Soriano
+
+ <br>Security_code : k6n4b
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.133.235.30<br>
+ <br>Nombre : mauricio damian
+ <br>Apellido : cargemel
+ <br>Cargo : supervisor ehs
+ <br>Direccion : pedraza  402
+ <br>Ciudad : las heras-mendoza
+ <br>Telefono : 261-5730221
+ <br>Email : seguridadehigiene1982@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : a disposicion
+ <br>Security_code : 6p3th
+ <br>Send : Enviar
+ <br>
+---------------
+

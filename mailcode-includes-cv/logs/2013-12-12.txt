@@ -1,0 +1,153 @@
+Address : 201.231.232.58
+Nombre : Sergio 
+Apellido : Ledda
+Cargo : Administrativo
+Direccion : Yrigoyen 1131 2Bq
+Ciudad : Bahía Blanca
+Telefono : 0291-154137273
+Email : sergioledda@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados, les hago llegar mi CV y quedo a su disposición para lo que necesiten.
+Desde ya muchas gracias.
+Saludos cordiales.
+Security_code : vqvbz
+Send : Enviar
+
+---------------
+
+Address : 201.231.232.58
+Nombre : Sergio
+Apellido : Ledda
+Cargo : Administrativo
+Direccion : Yrigoyen 1131 2 B
+Ciudad : Bahía Blanca
+Telefono : 0291-154137273
+Email : sergioledda@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados,
+Les hago llegar por este medio mi CV, a fin de que me tengan en cuenta para futuras búsquedas de personal.
+Desde ya muchas gracias.
+
+Saludos cordiales
+Security_code : n5tff
+Send : Enviar
+
+---------------
+
+Address : 201.231.232.58
+Nombre : Sergio
+Apellido : Ledda
+Cargo : Administrativo
+Direccion : Yrigoyen 1131 2B
+Ciudad : Bahía Blanca
+Telefono : 0291 154137273
+Email : sergioleda@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados,
+Les hago llegar por este medio mi CV, a fin de que me tengan en cuenta para futuras búsquedas de personal.
+Desde ya muchas gracias.
+
+Saludos cordiales
+Security_code : jfmgd
+Send : Enviar
+
+---------------
+
+Address : 201.231.232.58
+Nombre : Sergio 
+Apellido : Ledda
+Cargo : Administrativo
+Direccion : Hpólito Yrigoyen 1131 2B
+Ciudad : Bahía Blanca
+Telefono : 0291 154137273
+Email : sergioledda@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados,
+Les hago llegar mi CV por este medio a fin de que me tengan en cuenta para futuras búsquedas laborales.
+Desde ya muchas gracias.
+Saludos cordiales
+Security_code : 6v66f
+Send : Enviar
+
+---------------
+
+Address : 201.231.232.58
+Nombre : Sergio 
+Apellido : Ledda
+Cargo : Administrativo
+Direccion : Hipólito Yrigoyen 1131 2B
+Ciudad : Bahía Blanca
+Telefono : 0291 154137273
+Email : sergioledda@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados,
+Les hago llegar mi CV por este medio a fin de que me tengan en cuenta para futuras búsquedas laborales.
+Desde ya muchas gracias.
+Saludos cordiales
+Security_code : gkyx9
+Send : Enviar
+
+---------------
+
+Address : 181.95.250.145
+Nombre : julio fabian
+Apellido : gonzalez
+Cargo : chofer
+Direccion : liniers 4495
+Ciudad : santa fe
+Telefono : 342-154461169
+Email : juliogonzalez@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : soy muy responsable y aparte de ser chofer puedo realizar cualquier  tarea de mantenimiento
+Security_code : h6tq5
+Send : Enviar
+
+---------------
+
+Address : 190.194.113.130
+Nombre : ALEJANDRA INES
+Apellido : BO
+Cargo : ADMINISTRACION, FACTURACION, RECEPCION.
+Direccion : JUJUY 2211
+Ciudad : MAR DEL PLATA
+Telefono : 0223 155234317
+Email : alejandraines@hotmail.es
+MAX_FILE_SIZE : 2097152
+Mensaje : HOLA VIVO EN MDQ, PERO ME ESTOY MUDANDO A CAPITAL.GRACIAS
+Security_code : d59bv
+Send : Enviar
+
+---------------
+
+Address : 181.198.20.188
+Nombre : Freddy
+Apellido : Aviles
+Cargo : Asistente de Recursos Humanos
+Direccion : Km 14.5 via a la costa
+Ciudad : Guayaquil
+Telefono : 0990819364
+Email : f_junior085@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Saludos espero que mi hoja de vida pueda ingresar en algun proceso de seleccion.
+Gracias.
+Security_code : Xnnyc
+Send : Enviar
+
+---------------
+
+Address : 181.198.20.188
+Nombre : Freddy
+Apellido : Aviles
+Cargo : Asistente de Recursos Humanos
+Direccion : Km 14.5 via a la costa
+Ciudad : Guayaquil
+Telefono : 0990819364
+Email : f_junior085@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Saludos, soy de Guayaquil-Ecuador me gustaria que mi hoja de vida pueda ingresar en alguno de sus procesos de seleccion.
+Gracias
+Security_code : tpf53
+Send : Enviar
+
+---------------
+

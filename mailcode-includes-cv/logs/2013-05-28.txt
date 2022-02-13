@@ -1,0 +1,64 @@
+Address : 190.31.14.38
+Nombre : Maximiliano Emanuel 
+Apellido : Garro
+Cargo : HIGIENE Y SEGURIDAD
+Direccion : Avenida Márquez 2521, Manzana 38 Casa 24 (Altos de
+Ciudad : Pablo Podestá
+Telefono : 45197616/1564922391
+Email : max_garro@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenos días, mi nombre es Maximiliano Garro y soy Licenciado en Higiene y Seguridad, les  hago llegar mi CV para una futura búsqueda laboral, acorde a mi perfil.
+
+
+Muchas gracias. Saludos cordiales.
+Security_code : 6jq9r
+Send : Enviar
+
+---------------
+
+Address : 190.190.139.184
+Nombre : Constanza
+Apellido : Maccio
+Cargo : Profesora de Sociología
+Direccion : Enquén 6059
+Ciudad : Córdoba- Capital
+Telefono : 0351 153903870
+Email : cotimaccio@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me considero una persona activa, capaz y responsable; que puede adaptarse a un ambiente laboral acorde a mis conocimientos y habilidades.
+Security_code : nhxkt
+Send : Enviar
+
+---------------
+
+Address : 190.188.12.234
+REF : jefe-de-operaciones
+Nombre : claudio martin
+Apellido : fernandez
+Cargo : jefe de operciones
+Direccion : asuncion 2119
+Ciudad : martinez
+Telefono : 47663949
+Email : aldy2207@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : cumpliré sus expectativas responsablemente
+Security_code : f5dtm
+Send : Enviar
+
+---------------
+
+Address : 190.192.217.237
+Nombre : Carlos Daniel
+Apellido : Castillo
+Cargo : Recursos Humanos
+Direccion : Victorica 2325 2 d
+Ciudad : Capiltal Federal
+Telefono : 1564987119
+Email : carloscastillo374@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Quisiera enviar mi cv,desde ya muchas gracias.
+Security_code : 85g6s
+Send : Enviar
+
+---------------
+

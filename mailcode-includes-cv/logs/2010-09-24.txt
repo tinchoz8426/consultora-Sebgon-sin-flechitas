@@ -1,0 +1,64 @@
+Address : 190.136.101.102
+Nombre : Alejo 
+Apellido : Nabias
+Cargo : Gerente
+Direccion : Echeverría 1623 Ing. Maschwitz
+Ciudad : Pcia. Buenos Aires
+Telefono : 1168083080
+Email : anabias@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estoy tratando de enviar mi CV a través de Execuzone y me llega rebotado, por tal motivo recurro a este método de envío.
+Muchas Gracias por considerar mi CV 
+Security_code : 4bqxc
+Send : Enviar
+
+---------------
+
+Address : 186.56.133.209
+Nombre : Martha Rosario
+Apellido : Candia
+Cargo : Administrativa
+Direccion : Coronel Suarez 2041
+Ciudad : Jose C Paz
+Telefono : 02320422640
+Email : martha_candia@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Les envio mi CV para que lo tengan e cuenta en futuros puestos adm, ya que veo que publican por la zona de Hurlingham en la pag de de jobomas.com,Gracias
+Security_code : fgfsb
+Send : Enviar
+
+---------------
+
+Address : 190.173.51.157
+Nombre : Cecilia Pamela
+Apellido : Napoli
+Cargo : Administracion, contabilidad, finanzas
+Direccion : Av. del Libertador 260 18° D
+Ciudad : Capital Federal
+Telefono : 4328-4451
+Email : ceciliapnapoli@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados,
+ 
+Me dirijo a ustedes para acercarles mi CV para búsquedas acordes a mi perfil. 
+Cuento con una valiosa experiencia en el área de Administración y finanzas de Empresas Multinacionales. Puedo citar como realizaciones destacadas: 
+
+
+
+Coordinación regional del área administrativa, contable y financiera.
+Revisión y reorganización de procesos administrativos. 
+ 
+Me oriento a ocupar posiciones de responsabilidad en el Área de Administración y Finanzas. Estimo que una entrevista será el marco adecuado para profundizar aspectos de mi perfil que puedan resultar de su interés. 
+ 
+
+Cordialmente,
+Cecilia P. Nápoli
+Tel. 4328-4451
+Cel. 15-5591-2678
+ceciliapnapoli@hotmail.com
+
+Security_code : kq4wh
+Send : Enviar
+
+---------------
+

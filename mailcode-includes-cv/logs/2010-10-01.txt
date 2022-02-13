@@ -1,0 +1,35 @@
+Address : 201.231.190.54
+Nombre : Jaime Laureano
+Apellido : Hernandez
+Cargo : Licenciado en Higiene y Seguridad
+Direccion : Rivadavia 2057
+Ciudad : Salta
+Telefono : 0387-154041234
+Email : jlhsalta@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Por el pressente adjunto CV e indico mis intenciones de postularme a vacante posteada. A la espera de una respuesta favorable, me despido atte y quedo a disposicion
+Security_code : 3k65d
+Send : Enviar
+
+---------------
+
+Address : 190.136.29.16
+REF : gerente-de-operaciones
+Nombre : leonardo javier
+Apellido : sanchez
+Cargo : cargo para mantenimientos industriales y vehiculos
+Direccion : ----
+Ciudad : merlo
+Telefono : 0111534726245
+Email : electronicnova09@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : estimado grupo de rrhh aqui le envio mi curriculum para poder ser analizado ante cualquier posible eventual empleo que uds crean ideal para mi perfil laboral.
+
+saludos
+atte
+leonardo sanchez
+Security_code : 5r2nz
+Send : Enviar
+
+---------------
+

@@ -1,0 +1,48 @@
+Address : 152.168.255.124<br>
+ <br>Nombre : Jose
+ <br>Apellido : Rosales
+ <br>Cargo : Atenciòn al Cliente
+ <br>Direccion : Vidt 2075
+ <br>Ciudad : Capital Federal
+ <br>Telefono : 1123906758
+ <br>Email : joseperniavz@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Ante todo un cordial saludo, estoy en búsqueda laboral orientada al área comercial - atención al cliente. 
+Adjunto mi CV en caso de alguna vacante disponible. 
+Muchas gracias.
+
+ <br>Security_code : mgy6m
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.137.152.109<br>
+ <br>Nombre : Luciano
+ <br>Apellido : Enrico
+ <br>Cargo : Administrativo
+ <br>Direccion : Gregorio Pomar 4152
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 1132124891
+ <br>Email : lucianonicolas16@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buen día! Acá dejo mi CV. Muchísimas gracias!!
+ <br>Security_code : cktpy
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.137.152.109<br>
+ <br>Nombre : Luciano
+ <br>Apellido : Enrico
+ <br>Cargo : Administrativo
+ <br>Direccion : Gregorio Pomar 4152
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 1132124891
+ <br>Email : lucianonicolas16@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buen día! Acá dejo mi CV. Muchísimas gracias!!
+ <br>Security_code : cktpy
+ <br>Send : Enviar
+ <br>
+---------------
+

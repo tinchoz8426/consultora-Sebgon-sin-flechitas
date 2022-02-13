@@ -1,0 +1,32 @@
+Address : 181.164.174.68
+Nombre : Patricio
+Apellido : Hernandez
+Cargo : Técnico en suelos y aguas
+Direccion : Lammadrid 57
+Ciudad : Bahía Blanca
+Telefono : 0291156449528
+Email : Patricio_139@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Con posibilidad de radicarme en cualquier parte del país
+Security_code : 5f4z9
+Send : Enviar
+
+---------------
+
+Address : 181.29.54.33
+Nombre : Vanina
+Apellido : Ruiz
+Cargo : Administrativa
+Direccion : Buenos Aires 4264
+Ciudad : Ciudadela
+Telefono : 1559375166
+Email : ruizvanina81@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Por medio del presente adjunto mi CV encontrándome a la espera de poder concretar una entrevista. 
+Muchas Gracias
+Vanina Ruiz 
+Security_code : Kzx4g
+Send : Enviar
+
+---------------
+

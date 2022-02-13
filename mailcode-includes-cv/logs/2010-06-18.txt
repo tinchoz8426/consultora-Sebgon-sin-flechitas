@@ -1,0 +1,99 @@
+Address : 190.137.253.100
+Nombre : david
+Apellido : bembo
+Cargo : tecnico en seguridad e higiene industrial
+Direccion : magallanes 1757
+Ciudad : rosario
+Telefono : 0341-156134713
+Email : davidbembo@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : necesito trabajar con urgencia gracias
+Security_code : ngwg2
+Send : Enviar
+
+---------------
+
+Address : 190.191.167.204
+Nombre : MARTIN
+Apellido : SUAREZ ERICES
+Cargo : COMERCIAL
+Direccion : 62  7entre 11 y 12
+Ciudad : LA PLATA
+Telefono : 221 5657546
+Email : martinsuarezerices2yahoo.es
+MAX_FILE_SIZE : 2097152
+Mensaje : -------------------
+Security_code : 9vrvs
+Send : Enviar
+
+---------------
+
+Address : 190.245.101.175
+Nombre : GUSTAVO FERNANDO
+Apellido : TORRES
+Cargo : SEGURIDAD
+Direccion : AV.AVELLANEDA 1919
+Ciudad : CAPITAL
+Telefono : 1530404770
+Email : gustavofernando13@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Mi Objetivo es ingresar a una empresa para insertarme en el mercado laboral,
+respondiendo con mi Aporte personal,  expresando la  voluntad de
+desempeñarme con  dedicación para acceder a un  desarrollo
+profesional y laboral.Poseo excelente  predisposición para el
+trabajo en equipo,  para asumir  responsabilidades  crecientes y
+capacidad para  aprender y aplicar nuevos conocimientos.
+
+Security_code : sprby
+Send : Enviar
+
+---------------
+
+Address : 190.189.114.161
+Nombre : Jorge Emanuel
+Apellido : Rodriguez
+Cargo : Seguridad e Higiene
+Direccion : Humaita 6859
+Ciudad : Capital
+Telefono : 4641 - 8198
+Email : jer_emanuel@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me dirijo a uds para hacerles llegar mi c.v. ya que quisiera formar parte de su empresa. Soy estudiante de la tecnicatura de Seguridad e Higiene en el Trabajo. Desde ya gracias por su atencion.
+Security_code : w8g3z
+Send : Enviar
+
+---------------
+
+Address : 190.173.160.1
+Nombre : Sabrina Estela
+Apellido : Almirón
+Cargo : Administrativa, recepcionista, telefonista, atención al cliente y similares.
+Direccion : Luis María Drago 2133
+Ciudad : Rafael Castillo.
+Telefono : 46905803
+Email : saalmiron2@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : BUenos días, me contacto con ustedes a fin de hacerles llegar mi cv. 
+Agradeciendo desde ya, el tomarme en cuenta para busquedas actuales ó futuras.
+Sin otro particular.
+Saludo a ustedes muy atentamente.
+Security_code : 87bnn
+Send : Enviar
+
+---------------
+
+Address : 190.1.42.42
+Nombre : Mayra Lorena
+Apellido : Schulz
+Cargo : Secretaria Administrativa
+Direccion : Cnel. Falcón 280
+Ciudad : Bahía Blanca
+Telefono : 0291/154318262
+Email : mayraschulz@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola mi nombre es Mayra,adjunto mi curriculum por si surge alguna vacante como secretaria administrativa.
+Security_code : 9m7p7
+Send : Enviar
+
+---------------
+

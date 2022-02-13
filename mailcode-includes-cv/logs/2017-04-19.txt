@@ -1,0 +1,301 @@
+Address : 200.125.106.91<br>
+ <br>Nombre : Ariel
+ <br>Apellido : Rojas
+ <br>Cargo : chofer de camion
+ <br>Direccion : isidro casanova
+ <br>Ciudad : la matanza
+ <br>Telefono : 1159716102
+ <br>Email : pilo66@hotmail.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me gustaría formar parte de su equipo de trabajo Desde ya muchas gracias.
+ <br>Security_code : w9fmm
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.31.115.26<br>
+ <br>REF : Tectron
+ <br>Nombre : David
+ <br>Apellido : Murcia
+ <br>Cargo : Tecnico Electronico
+ <br>Direccion : Cafferata 4349 PH2
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 1134449952
+ <br>Email : davidborgia@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola, adjunto mi cv desean que mi experiencia sea de alguna utilidad en su busqueda. Gracias.
+ <br>Security_code : ngq2z
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.7<br>
+ <br>REF : Tectron
+ <br>Nombre : yair 
+ <br>Apellido : fuertes
+ <br>Cargo : Tecnico electronico
+ <br>Direccion : Bombero celiz 683
+ <br>Ciudad : Hurligham
+ <br>Telefono : 1532636361
+ <br>Email : y.fuertes.97@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola me postulo porque creo que puedo ser util y tener un buen desempeño
+ <br>Security_code : Kpgrm
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.11<br>
+ <br>REF : Tectron
+ <br>Nombre : yair 
+ <br>Apellido : fuertes
+ <br>Cargo : Tecnico electronico
+ <br>Direccion : Bombero celiz 683
+ <br>Ciudad : Hurligham
+ <br>Telefono : 1532636361
+ <br>Email : y.fuertes.97@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola me postulo porque creo que puedo ser util y tener un buen desempeño
+ <br>Security_code : Kpgrm
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.178.102.22<br>
+ <br>REF : chr
+ <br>Nombre : Ricardo 
+ <br>Apellido : Comerci
+ <br>Cargo : chofer
+ <br>Direccion : Chorroarin 2079
+ <br>Ciudad : Lanus
+ <br>Telefono : 1554720216
+ <br>Email : racomerci@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : He trabajado como chofer de reparto anteriormente. Soy responsable. Me adapto con facilidad a cualquier ambientede trabajo
+ <br>Security_code : m8537
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.11<br>
+ <br>Nombre : yair 
+ <br>Apellido : fuertes
+ <br>Cargo : Tecnico electronico
+ <br>Direccion : Bombero celiz 683
+ <br>Ciudad : Hurligham
+ <br>Telefono : 1532636361
+ <br>Email : Y.fuertes.97@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me postulo porque creo que puedo ser util y tener un buen desempeño.
+ <br>Security_code : hnfcc
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.11<br>
+ <br>Nombre : yair 
+ <br>Apellido : fuertes
+ <br>Cargo : Tecnico electronico
+ <br>Direccion : Bombero celiz 683
+ <br>Ciudad : Hurligham
+ <br>Telefono : 1532636361
+ <br>Email : Y.fuertes.97@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me postulo porque creo que puedo ser util y tener un buen desempeño.
+ <br>Security_code : hnfcc
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 200.125.105.87<br>
+ <br>Nombre : maria florencia
+ <br>Apellido : Di Bella
+ <br>Cargo : recursos humanos
+ <br>Direccion : Paul Groussac 2130
+ <br>Ciudad : Ituzaingo
+ <br>Telefono : 1155936352
+ <br>Email : flordibella@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Deseo ser considerada para busquedas acordes con mi perfil
+ <br>Security_code : h2nc4
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.158.140.26<br>
+ <br>Nombre : Leonardo 
+ <br>Apellido : Zanora
+ <br>Cargo : At cliente
+ <br>Direccion : El paso 320
+ <br>Ciudad : Santa clara del mar
+ <br>Telefono : 1165444673
+ <br>Email : zleonardoa@gmail.com 
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Busco trabajo en Mar del plata, por cambio de localidad.
+Amplio conocimiento en redes, informática, soporte It.
+ <br>Security_code : y5g39
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.190.125.91<br>
+ <br>Nombre : diego
+ <br>Apellido : cabrera
+ <br>Cargo : operario,soldador
+ <br>Direccion : 280 De la Peña
+ <br>Ciudad : Villa Dominico
+ <br>Telefono : 1127281228
+ <br>Email : digoarielcebrera73@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : necesito trabajar gracias de lo que sea
+ <br>Security_code : 353w5
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.19.88.239<br>
+ <br>Nombre : Marianela
+ <br>Apellido : Risolia
+ <br>Cargo : administrativa cultura arte
+ <br>Direccion : azcuenaga 950
+ <br>Ciudad : CABA
+ <br>Telefono : 15 37672010
+ <br>Email : marianela.grisolia@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : agradezco su atencion!!
+ <br>Security_code : sqmkp
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.13.7.6<br>
+ <br>REF : chr
+ <br>Nombre : Marcelo eliceo
+ <br>Apellido : Diaz
+ <br>Cargo : Chofer
+ <br>Direccion : Las flores 10894 loma hermosa 
+ <br>Ciudad : Bs as 
+ <br>Telefono : 1527121575
+ <br>Email : marceloeliceodiaz@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me siento capasitado para el desorrollo las teras de trabajo gracias 
+ <br>Security_code : Jnkqf
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.13.7.6<br>
+ <br>REF : chr
+ <br>Nombre : Marcelo eliceo
+ <br>Apellido : Diaz
+ <br>Cargo : Chofer
+ <br>Direccion : Las flores 10894 loma hermosa 
+ <br>Ciudad : Bs as 
+ <br>Telefono : 1527121575
+ <br>Email : marceloeliceodiaz@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me siento capasitado para el desorrollo las teras de trabajo gracias 
+ <br>Security_code : Jnkqf
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.13.7.6<br>
+ <br>REF : chr
+ <br>Nombre : Marcelo eliceo
+ <br>Apellido : Diaz
+ <br>Cargo : Chofer
+ <br>Direccion : Las flores 10894 loma hermosa 
+ <br>Ciudad : Bs as 
+ <br>Telefono : 1527121575
+ <br>Email : marceloeliceodiaz@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me siento capasitado para el desorrollo las teras de trabajo gracias 
+ <br>Security_code : 3m97h
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.29.79.51<br>
+ <br>Nombre : Vanessa Paola
+ <br>Apellido : Depatta
+ <br>Cargo : Administracion de Ventas
+ <br>Direccion : Lobos 1747
+ <br>Ciudad : Castelar
+ <br>Telefono : +5491149913247
+ <br>Email : vanedepatta@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Sres.
+SEBGON Consultora
+Atte.
+
+Buenos días. Envío adjunto mi Curriculum Vitae a considerar en posibles búsquedas laborales. 
+Poseo basta experiencia en administración de ventas, logística, facturación y administración de documentación tanto de vehículos, personal, unidades y proveedores.
+Espero que mi perfil profesional sea de su agrado y quedo a la espera de una pronta respuesta.
+Saludo a Uds. atte.
+
+Vanessa Depatta
+ <br>Security_code : frtwr
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 138.117.200.185<br>
+ <br>REF : Ing. quim
+ <br>Nombre : javier
+ <br>Apellido : Rostagno
+ <br>Cargo : ingeniero químico
+ <br>Direccion : medrano 1650, 2 E , Palermo, CABA
+ <br>Ciudad : CABA
+ <br>Telefono : 3425117582
+ <br>Email : javier.rostagno@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Recientemente eh finalizado mis estudios universitarios en la Universidad Nacional del Litoral, recibiendo el título de Ingeniero Químico. Tengo un nivel de inglés avanzado sobre todo en lo oral.
+Considero que no tendría problemas de integrarme adecuadamente a su organización, soy una persona proactiva con capacidad de trabajo en equipo, con ganas de comprometerme, aprender y formarme como profesional y ayudar en el crecimiento de la empresa.
+Quedo a su entera disposición ante una eventual entrevista personal con el objetivo de profundizar aspectos de mi perfil que resulten de su interés.
+Saludos cordiales.
+
+ <br>Security_code : 536vy
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.44.44.79<br>
+ <br>REF : ROT-1
+ <br>Nombre : Nicolás
+ <br>Apellido : Bruno
+ <br>Cargo : Responsable de oficina técnica
+ <br>Direccion : Boedo, 313
+ <br>Ciudad : Ramos Mejía
+ <br>Telefono : 1530048009
+ <br>Email : dinicolasbruno@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados, adjunto mi CV para ser tenido en cuenta en la búsqueda laboral que están realizando.
+
+A la espera de su respuesta, los saludo atentamente
+ <br>Security_code : vh7q3
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.170.254.192<br>
+ <br>REF : ROT-1
+ <br>Nombre : Jeremias
+ <br>Apellido : Escobar Negri
+ <br>Cargo : Arquitecto jr
+ <br>Direccion : Fray justo santa maria oro 2563 2b
+ <br>Ciudad : CABA
+ <br>Telefono : 1165560550
+ <br>Email : escobarjeremias@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenos días, me presento, soy arquitecto recibido en 2011 de la UBA, me desarrolle en muchos estudios como cadista, proyectista y en dirección de obra.
+Actualmente estoy trabajando en el Ministerio de salud de la ciudad de Buenos Aires realizando proyectos licitatorios de los hospitales y centros de salud de la ciudad. 
+He trabajado en una fabrica de muebles los ultimos 3 años donde hice desde la atención al publico, asesoramiento, diseño de muebles, planos de construcción y seguimiento de las fabricación. 
+También estuve a cargo de la ampliación de la fabrica donde hice proyecto y dirección, presupuestos y evaluación de contrataciones.
+Les adjunto un cv con mi datos y trayectoria laboral asi como algunas imágenes de maquetas 3d que salieron en la revista ARQ de Clarin.
+
+ <br>Security_code : 588wh
+ <br>Send : Enviar
+ <br>
+---------------
+

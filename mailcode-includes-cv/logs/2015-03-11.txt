@@ -1,0 +1,103 @@
+Address : 186.19.154.109
+Nombre : yamila
+Apellido : guerra
+Cargo : encargado/supervisor
+Direccion : Carhue 957
+Ciudad : cap fed
+Telefono : 1162872742
+Email : yamilaguerra@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Les dejo mi Curriculum actualizado, esperando que sea de suma utilidad para futuras búsquedas, cuento con una amplia experiencia en retail,locales gastronómicos, atención al cliente, coaching, liderazgo, manejo operativo y administrativo de personal, soy una persona comprometida que se aboca a los resultados y al éxito del negocio. 
+Me postuló para formar parte de su staff de ventas por que sé que tengo el conocimiento para poder analizar, resolver y desarrollarme con éxito en el puesto.
+Soy una persona sumamente capaz que lidera con el ejemplo y eso es fundamental para la productividad de un equipo de trabajo.
+
+Security_code : dnkg6
+Send : Enviar
+
+---------------
+
+Address : 200.126.248.181
+Nombre : Romina Andrea
+Apellido : Alonso
+Cargo : Atención al Cliente
+Direccion : Santa Fe 5235 14 - 91
+Ciudad : Ciudad Autónoma de Buenos Aires
+Telefono : 1526743371
+Email : romina.alonso.1983@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados RRHH.:
+ 
+
+Me dirijo a ustedes para hacerles llegar mi Curriculum Vitae y que el mismo forme parte de su base de datos en futuras búsquedas laborales.
+
+Cuento con amplia experiencia en el campo laboral de Atención al Cliente. Considero que soy una persona proactiva, responsable y con aptitud de servicio; con capacidad de trabajo en equipo y buenas relaciones interpersonales.
+Solicito a Ud. evalúe la posibilidad de mantener una entrevista para ampliar aspectos de mi perfil. 
+
+
+Desde ya muchas gracias, les saluda muy atentamente,
+Romina A. Alonso
+Security_code : qnmsf
+Send : Enviar
+
+---------------
+
+Address : 186.153.110.186
+Nombre : Mercedes Patricia
+Apellido : VEGA
+Cargo : Lic.Trabajo Social
+Direccion : Congreso 1865 7 E
+Ciudad : CABA
+Telefono : 156-892-3457
+Email : mechivega@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Envío CV. Atte, Lic.Mercedes Vega.
+Security_code : fz6fm
+Send : Enviar
+
+---------------
+
+Address : 201.252.29.163
+Nombre : Daniela
+Apellido : Suarez
+Cargo : Camarera- Vendedora- Recepcionista
+Direccion : Chingolo 235
+Ciudad : Tigre
+Telefono : 47314992
+Email : danielasuarez89@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Quedo a entera disponibilidad a cualquier trabajo que me ayude a progresar y a incorporar nuevos conocimientos.
+Security_code : cvbvd
+Send : Enviar
+
+---------------
+
+Address : 186.19.228.255
+Nombre : Aylen Eugenia
+Apellido : Cerbia
+Cargo : Atención al cliente
+Direccion : Boedo 192
+Ciudad : Capital Federal
+Telefono : 11-6939-0102
+Email : aylen.eugenia@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Busco trabajo
+Security_code : nv7xd
+Send : Enviar
+
+---------------
+
+Address : 179.37.157.71
+Nombre : Marcelo
+Apellido : Gonzalez
+Cargo : IT Analyst
+Direccion : 2 de Abril 1879
+Ciudad : Burzaco
+Telefono : 5491130501333
+Email : marceloxgonzalez@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Presntacion Espontanea
+Security_code : 3r6dg
+Send : Enviar
+
+---------------
+

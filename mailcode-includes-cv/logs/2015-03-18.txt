@@ -1,0 +1,75 @@
+Address : 181.168.231.195
+Nombre : Silvana Lorena
+Apellido : Dilosa
+Cargo : Administrativa
+Direccion : Francia 1943 Dto 1
+Ciudad : Mar del Plata
+Telefono : 0223-4757089
+Email : lorena_13_06@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : buenos dias: adjunto cv
+Security_code : 8ck57
+Send : Enviar
+
+---------------
+
+Address : 190.113.162.231
+Nombre : Leonel, Exequiel
+Apellido : Iglesias
+Cargo : ayudante
+Direccion : B°Los Olivos MF C3
+Ciudad : Mendoza
+Telefono : 4981340
+Email : lelitot@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Aqui les dejo mi curriculum vitae, espero recibir una pronta y satisfactoria respuesta. Saludos!
+Security_code : 4pfq5
+Send : Enviar
+
+---------------
+
+Address : 190.191.177.146
+Nombre : Agustina
+Apellido : Martinez
+Cargo : cualquier
+Direccion : 530 n° 12 
+Ciudad : La Plata
+Telefono : 2214226806
+Email : agusmcavuoti@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Estoy buscando trabajo, independientemente de mi formación profesional.
+Security_code : 38t42
+Send : Enviar
+
+---------------
+
+Address : 190.191.177.146
+Nombre : Agustina
+Apellido : Martinez
+Cargo : cualquier
+Direccion : 530 n° 12 
+Ciudad : La Plata
+Telefono : 2214226806
+Email : agusmcavuoti@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Estoy buscando trabajo, independientemente de mi formación profesional.
+Security_code : 38t42
+Send : Enviar
+
+---------------
+
+Address : 181.31.186.81
+Nombre : Florencia Belen
+Apellido : Briñoccoli
+Cargo : licenciada en nutricion
+Direccion : corriente 2565
+Ciudad : posadas, Misiones
+Telefono : 0374315489044
+Email : lic-brinoccoli@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : soy una persona con iniciativa, organizada, buscando ampliar mi experiencia profesional
+Security_code : 2pm82
+Send : Enviar
+
+---------------
+

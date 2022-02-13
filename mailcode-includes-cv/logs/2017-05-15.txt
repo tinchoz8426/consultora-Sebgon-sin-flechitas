@@ -1,0 +1,104 @@
+Address : 181.228.204.85<br>
+ <br>Nombre : Fabrizio
+ <br>Apellido : Zecchin Chiaia
+ <br>Cargo : Diseñador industrial
+ <br>Direccion : Pi y margall 683
+ <br>Ciudad : CABA
+ <br>Telefono : 541158747053
+ <br>Email : fabriziozecchin@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Poseo una formación secundaria técnica con título de MMO, he vivido en el extranjero, poseo ciudadanía y pasaporte Italiano, finalice la cursada de Licenciatura en Diseño Industrial y poseo experiencias en distintas areas del diseño. Desde diseño web hasta prototopos de fibra de carbono. 
+ <br>Security_code : t82zh
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.195.129.53<br>
+ <br>REF : JPER-1
+ <br>Nombre : Ayari Dubraska
+ <br>Apellido : Contreras
+ <br>Cargo : Jefe de Personal
+ <br>Direccion : Av Independencia 2105
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 1168407471
+ <br>Email : ayaridubraska@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Gusto en saludarles
+
+Adjunto remito mi CV para su revisión.  A la orden para realizar entrevista y detallar mi experiencia y los motivos por los cuales considero puedo aportar valor agregado a la empresa.
+ <br>Security_code : tdv9k
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.9<br>
+ <br>REF : chr
+ <br>Nombre : Jorge omar
+ <br>Apellido : Gatica
+ <br>Cargo : Chofer gral.
+ <br>Direccion : Colpayo 55 3 piso dio 10
+ <br>Ciudad : Capital federal
+ <br>Telefono : 1156419903
+ <br>Email : Dgatica101@Gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Donde puedo llevar el cv personalmente ?
+ <br>Security_code : Xytsf
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.9<br>
+ <br>REF : chr
+ <br>Nombre : lucas dario
+ <br>Apellido : heredia
+ <br>Cargo :  chofer 
+ <br>Direccion : directorio 3468 
+ <br>Ciudad : C.A.B.A
+ <br>Telefono : 1528179301
+ <br>Email : heredialucas183@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : necesito trabajar 
+ <br>Security_code : ftvyw
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.188.43.244<br>
+ <br>Nombre : Luciana
+ <br>Apellido : Burrieza
+ <br>Cargo : Diseñador industrial
+ <br>Direccion : Chacabuco 191
+ <br>Ciudad : bernal
+ <br>Telefono : 1536267440
+ <br>Email : lu.burrieza@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Adjunto Curriculum para diseñador industrial full time. Muchas gracias
+ <br>Security_code : 69b44
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.194.157.59<br>
+ <br>REF : ACO
+ <br>Nombre : Montserrat
+ <br>Apellido : Aportela
+ <br>Cargo : Asistente Comercial
+ <br>Direccion : Capital Federal
+ <br>Ciudad : Capital Federal
+ <br>Telefono : +5491127307536
+ <br>Email : montserrat.aportela@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : ¡Hola!
+
+Mi nombre es Montserrat, me interesa mucho el puesto de trabajo que ofrecen para Asistente comercial.
+Actualmente estoy trabajando para una empresa americana en el area de ventas y logística, completamente en ingles así que manejo el idioma profesionalmente.
+Tuve experiencia en el pasado como asistente administrativa y estudie la carrera de Publicidad, todo esto me hace candidata para el puesto de trabajo.
+
+Adjunto mi CV y espero tu respuesta
+
+¡Saludos!
+ <br>Security_code : dd5rn
+ <br>Send : Enviar
+ <br>
+---------------
+

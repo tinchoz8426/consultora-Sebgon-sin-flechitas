@@ -1,0 +1,90 @@
+Address : 186.108.187.252
+Nombre : julieta solange
+Apellido : paez hashiguchi
+Cargo : sin eleccion ..
+Direccion : barrio policial 3 .
+Ciudad : tucuman-argentina
+Telefono : 4348626
+Email : yuliet_09@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : aki les dejo el curriculum. y espero respuesta. .muchas gracias.. 
+Security_code : XRVK3
+Send : Enviar
+
+---------------
+
+Address : 200.43.242.95
+Nombre : Bozzolo Demaria
+Apellido : Ornella
+Cargo : Atencion al cliente
+Direccion : Santa Fe 451 4B
+Ciudad : CORDOBA CAPITAL
+Telefono : 3517506711
+Email : or_45_b@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenas tardes, envío mi curriculum vitae adjunto. Quisiera ocupar un puesto de trabajo relacionado a la atención al cliente, tengo experiencia en el área así como también en ventas. Poseo conocimiento avanzado de inglés en cuanto a lectura, escritura y habla. El sueldo pretendido es a convenir. Muchas gracias.
+Security_code : dvksp
+Send : Enviar
+
+---------------
+
+Address : 200.43.242.95
+Nombre : Bozzolo Demaria
+Apellido : Ornella
+Cargo : Atencion al cliente
+Direccion : Santa Fe 451 4B
+Ciudad : CORDOBA CAPITAL
+Telefono : 3517506711
+Email : or_45_b@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenas tardes, envío mi curriculum vitae adjunto. Quisiera ocupar un puesto de trabajo relacionado a la atención al cliente, tengo experiencia en el área así como también en ventas. Poseo conocimiento avanzado de inglés en cuanto a lectura, escritura y habla. El sueldo pretendido es a convenir. Muchas gracias.
+Security_code : dvksp
+Send : Enviar
+
+---------------
+
+Address : 200.43.242.95
+Nombre : Bozzolo Demaria
+Apellido : Ornella
+Cargo : Atencion al cliente
+Direccion : Santa Fe 451 4B
+Ciudad : CORDOBA CAPITAL
+Telefono : 3517506711
+Email : or_45_b@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenas tardes, envío mi curriculum vitae adjunto. Quisiera ocupar un puesto de trabajo relacionado a la atención al cliente, tengo experiencia en el área así como también en ventas. Poseo conocimiento avanzado de inglés en cuanto a lectura, escritura y habla. El sueldo pretendido es a convenir. Muchas gracias.
+Security_code : 5xjq5
+Send : Enviar
+
+---------------
+
+Address : 190.31.209.18
+Nombre : roxana maricel
+Apellido : llorca
+Cargo : cobranzas_atencion al cliente
+Direccion : molleyaco   8051 barrio cerro norte
+Ciudad : arguello cordoba
+Telefono : 0351155518845
+Email : roxyllorca@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : buenos dias..de mi mayor consideracion me  dirijo a quien sea correspondiente para emviarle mi cv para poder foprmar parte de su equipo
+Security_code : mwbxw
+Send : Enviar
+
+---------------
+
+Address : 181.11.31.230
+Nombre : juan andres
+Apellido : brevis
+Cargo : tecnico en seguridad e hiene
+Direccion : B°las dalias, M:D, Casa:25, godoy cruz
+Ciudad : mendoza
+Telefono : 0261-155945608
+Email : juanbrevis@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estoy en busca de progresar en lo profesional y personal, por eso la iniciativa de enviar mi curriculum a su pagina
+Security_code : t6q37
+Send : Enviar
+
+---------------
+

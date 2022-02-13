@@ -1,0 +1,65 @@
+Address : 186.58.53.169
+Nombre : Exequiel Pablo
+Apellido : Domingues Ali
+Cargo : Repositor Externo
+Direccion : Concepcion Arenal 2887
+Ciudad : Villa Tesei
+Telefono : 1564469011
+Email : exequiel_06_100@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Siempre me relacione con la gente .Me He Graduado En El Area De Humanidades y Ciencias Sociales,tanto mi conocimiento como mi capacidad me han fortalecido en el campo laboral .Mi experiencia me ha permitido programar,planificar y manejar varios sectores a la vez Puedo trabajar en grupo
+Aguardo la oportunidad de reunirme para una entrevista con ustedes 
+
+Atentamente,
+
+Exequiel Domingues 
+Security_code : qp6r2
+Send : Enviar
+
+---------------
+
+Address : 190.113.132.76
+Nombre : Magali
+Apellido : Rubia
+Cargo : Recursos Humanos
+Direccion : Puerto Madryn 811
+Ciudad : Mendoza
+Telefono : 261-156669554
+Email : magarubia@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Envío mi CV porque estoy muy interesada en trabajar en el área de Recursos Humanos. 
+Security_code : h59vs
+Send : Enviar
+
+---------------
+
+Address : 200.82.56.81
+Nombre : Elizabeth Maria de Lujan
+Apellido : Joya
+Cargo : Atención al público, cajera, limpieza o producción.
+Direccion : Ameghino 3658
+Ciudad : Rosario
+Telefono : 03412520455
+Email : tu_luliitah@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola me gustaría poder llegar a una entrevista con ustedes. Si les interesa les dejo mi numero pasa que se puedan contactar con migo. Soy una chica muy responsable, y tengo movilidad. Muchas gracias.
+Security_code : 7d63q
+Send : Enviar
+
+---------------
+
+Address : 190.48.230.183
+Nombre : malena
+Apellido : nacimento
+Cargo : -
+Direccion : carabobo 1584
+Ciudad : ituzaingó
+Telefono : 46246942
+Email : male.n_@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : -
+Security_code : zdg9n
+Send : Enviar
+
+---------------
+

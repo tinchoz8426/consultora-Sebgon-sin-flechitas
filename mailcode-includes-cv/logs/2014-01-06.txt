@@ -1,0 +1,45 @@
+Address : 190.30.149.154
+Nombre : Rodrigo Hernan
+Apellido : Cosentino
+Cargo : administrativo
+Direccion : Sucre 1355 piso 2 "A"
+Ciudad : Cap.Fed.
+Telefono : 15-4195-6791
+Email : rodrigohernancosentino@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Es de mi sumo interès sumarme a una empresa como la de ustedes, donde el trato hacia la persona y la eficacia administrativa es de suma importancia.
+Security_code : zyt3z
+Send : Enviar
+
+---------------
+
+Address : 190.172.206.208
+Nombre : Gabriel
+Apellido : Roger
+Cargo : Tecnico Electronico
+Direccion : Natal 2370
+Ciudad : Ituzaingo
+Telefono : 15-3138-6005
+Email : gabyroger@rocketmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Tengo una vasta experiencia en electronica en general tanto en el plano nacional como asi tambien internacional.
+Security_code : dg7j9
+Send : Enviar
+
+---------------
+
+Address : 186.56.158.162
+Nombre : Leonardo
+Apellido : Berardo
+Cargo : Multiple
+Direccion : Cantón 2291
+Ciudad : Libertad
+Telefono : 0220 494 8692
+Email : leonardogberardo@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me presento ante ustedes por medio de esta pagina para solicitar cualquier tipo de empleo que se apegue a mis conocimientos,dejo adjunto mi curriculum vitae detallando mis estudios y mi experiencia laboral.
+Security_code : njjdy
+Send : Enviar
+
+---------------
+

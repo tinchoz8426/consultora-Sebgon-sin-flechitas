@@ -1,0 +1,456 @@
+Address : 201.213.50.232<br>
+ <br>REF : EM
+ <br>Nombre : Diego Daniel Enrique
+ <br>Apellido : Rivas
+ <br>Cargo : Técnico Electromecánico
+ <br>Direccion : Larrea 3321
+ <br>Ciudad : Quilmes Oeste
+ <br>Telefono : 1157209495
+ <br>Email : diego_daniel_rivas@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Sres. de RRHH les dejo mi CV, desde ya mil gracias. Lo saludo muy atentamente.
+ <br>Security_code : ss7vg
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.183.120.181<br>
+ <br>REF : SP-1
+ <br>Nombre : Hector
+ <br>Apellido : Montenegro
+ <br>Cargo : Supervisor
+ <br>Direccion : Gral Martin Rodriguez 3264 
+ <br>Ciudad : San Miguel
+ <br>Telefono : 15 5830 0291
+ <br>Email : ha_montenegro@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenos días me postulo para supervisor de Producción
+ <br>Security_code : cxbpx
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.128.86.212<br>
+ <br>Nombre : Agustina Evelyn
+ <br>Apellido : Olave
+ <br>Cargo : Seguridad-Cajera
+ <br>Direccion : B°Melipal,Mzn B casa 2,av.huillen casi novela
+ <br>Ciudad : Neuquén
+ <br>Telefono : 2994241019
+ <br>Email : olaveagustina0@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Espero una pronta y favorable respuesta, estaria agradecida al prestar servicio para ustedes y ne serviria mucho para poder pagar mis estudios
+ <br>Security_code : s3kf9
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.55.105.38<br>
+ <br>REF : EP-1
+ <br>Nombre : Brenda
+ <br>Apellido : Chiaia
+ <br>Cargo : Encargado de Producción
+ <br>Direccion : Río Piedras 255 
+ <br>Ciudad : Morón
+ <br>Telefono : 02224 15465491
+ <br>Email : brenda.mchiaia@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Adjunto mi CV para la posición de Encargado de Producción.
+
+Saludos cordiales,
+Brenda Chiaia.
+ <br>Security_code : ddjyz
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.176.200.34<br>
+ <br>Nombre : Pedro 
+ <br>Apellido : Martinez
+ <br>Cargo : Depositario
+ <br>Direccion : Calle Chile 2500 con toneles 2590 edif los toneles 6 mendoza
+ <br>Ciudad : Mendoza
+ <br>Telefono : 02617216833
+ <br>Email : pemimar8@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Experiencia en administracion, control de depositos, almacen, inventario, mercancia
+ <br>Security_code : mkb3x
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.11<br>
+ <br>Nombre : Gladys Vanina 
+ <br>Apellido : Quiroga
+ <br>Cargo : Operaria de laboratorio 
+ <br>Direccion : Las violetas 2015
+ <br>Ciudad : El talar
+ <br>Telefono : 1534599916
+ <br>Email : vanina.quiroga2006@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me interesa trabajar para ustedes . Espero me tengan en cuenta . Desde ya muchas gracias 
+ <br>Security_code : Yrmcq
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 170.150.44.2<br>
+ <br>REF : ROT-1
+ <br>Nombre : Juan
+ <br>Apellido : Arteaga
+ <br>Cargo : RESPONSABLE DE OFICINA TECNICA
+ <br>Direccion : calle 25 de Mayo, 148
+ <br>Ciudad : Charata
+ <br>Telefono : +5493731548956
+ <br>Email : juanarteagaucv@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buen día, estaría dispuesto a trasladarme de ciudad en caso de una oferta laboral.
+ <br>Security_code : gr3dv
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.182.165.115<br>
+ <br>REF : SP-1
+ <br>Nombre : Santiago
+ <br>Apellido : MLac
+ <br>Cargo : Supervisor de Producción
+ <br>Direccion : San Martín 375 3ro C
+ <br>Ciudad : Morón
+ <br>Telefono : 15-5509-2853
+ <br>Email : santiagomlac@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenos días, Soy Técnico Químico, tengo mucha experiencia como Supervisor de Producción, en varios rubros industriales (Alimenticio, Salud, Petroquímico y Autopartista)
+Tengo conocimientos de gestión, normas GMP, inocuidad alimentaria, trabajo bajo atmósfera controlada, normas ISO 9000-14000-18000, 5S, kaizen, kanban, FIFO, liberación de líneas de trabajo, completar paquetes técnicos y notificaciones de producción por sistema SAP. 
+
+Considero que es un buen combo de herramientas para desempeñar con habilidad ésta postulación.
+
+Dispuesto a tener una entrevista personal donde le ampliaré los datos que necesite.
+
+Saludos cordiales
+ 
+Santiago Mlac 
+15-5509-2853
+santiagomlac@yahoo.com.ar
+
+ <br>Security_code : gr8dc
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.23.67.213<br>
+ <br>REF : EM
+ <br>Nombre : Francisco
+ <br>Apellido : Ferreira
+ <br>Cargo : Electromecanico Mantenimiento
+ <br>Direccion : Erezcano 1851
+ <br>Ciudad : Calzada
+ <br>Telefono : 01123776227 / 21041064
+ <br>Email : construcionesfran@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Soy de Rafael calzada zona sur muy cerca del parque industrial de Burzaco; soy gasista plomero oficial, albañil oficial se de mecanica de maquinas , neumatica, electricidad industrial se sodadura electrica y mig.
+Desde ya muchas gracias y me pongo a su disposicion para pruevas o entrevistas.
+Saludos Atte .
+ <br>Security_code : g7pdd
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.23.67.213<br>
+ <br>REF : EM
+ <br>Nombre : Francisco
+ <br>Apellido : Ferreira
+ <br>Cargo : Electromecanico Mantenimiento
+ <br>Direccion : Erezcano 1851
+ <br>Ciudad : Calzada
+ <br>Telefono : 01123776227 / 21041064
+ <br>Email : construcionesfran@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Soy de Rafael calzada zona sur muy cerca del parque industrial de Burzaco; soy gasista plomero oficial, albañil oficial se de mecanica de maquinas , neumatica, electricidad industrial se sodadura electrica y mig.
+Desde ya muchas gracias y me pongo a su disposicion para pruevas o entrevistas.
+Saludos Atte .
+ <br>Security_code : g7pdd
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.23.67.213<br>
+ <br>REF : EM
+ <br>Nombre : Francisco
+ <br>Apellido : Ferreira
+ <br>Cargo : Electromecanico Mantenimiento
+ <br>Direccion : Erezcano 1851
+ <br>Ciudad : Calzada
+ <br>Telefono : 01123776227 / 21041064
+ <br>Email : construcionesfran@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Soy de Rafael calzada zona sur muy cerca del parque industrial de Burzaco; soy gasista plomero oficial, albañil oficial se de mecanica de maquinas , neumatica, electricidad industrial se sodadura electrica y mig.
+Desde ya muchas gracias y me pongo a su disposicion para pruevas o entrevistas.
+Saludos Atte .
+ <br>Security_code : ZtKX8
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.23.67.213<br>
+ <br>REF : EM
+ <br>Nombre : Francisco
+ <br>Apellido : Ferreira
+ <br>Cargo : Electromecanico Mantenimiento
+ <br>Direccion : Erezcano 1851
+ <br>Ciudad : Calzada
+ <br>Telefono : 01123776227 / 21041064
+ <br>Email : construcionesfran@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Soy de Rafael calzada zona sur muy cerca del parque industrial de Burzaco; soy gasista plomero oficial, albañil oficial se de mecanica de maquinas , neumatica, electricidad industrial se sodadura electrica y mig.
+Desde ya muchas gracias y me pongo a su disposicion para pruevas o entrevistas.
+Saludos Atte .
+ <br>Security_code : 3tymv
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.23.67.213<br>
+ <br>REF : EM
+ <br>Nombre : Francisco
+ <br>Apellido : Ferreira
+ <br>Cargo : Electromecanico Mantenimiento
+ <br>Direccion : Erezcano 1851
+ <br>Ciudad : Calzada
+ <br>Telefono : 01123776227 / 21041064
+ <br>Email : construcionesfran@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Soy de Rafael calzada zona sur muy cerca del parque industrial de Burzaco; soy gasista plomero oficial, albañil oficial se de mecanica de maquinas , neumatica, electricidad industrial se sodadura electrica y mig.
+Desde ya muchas gracias y me pongo a su disposicion para pruevas o entrevistas.
+Saludos Atte .
+ <br>Security_code : 3tymv
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.23.67.213<br>
+ <br>REF : EM
+ <br>Nombre : Francisco
+ <br>Apellido : Ferreira
+ <br>Cargo : Electromecanico Mantenimiento
+ <br>Direccion : Erezcano 1851
+ <br>Ciudad : Calzada
+ <br>Telefono : 01123776227 / 21041064
+ <br>Email : construcionesfran@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Soy de Rafael calzada zona sur muy cerca del parque industrial de Burzaco; soy gasista plomero oficial, albañil oficial se de mecanica de maquinas , neumatica, electricidad industrial se sodadura electrica y mig.
+Desde ya muchas gracias y me pongo a su disposicion para pruevas o entrevistas.
+Saludos Atte .
+ <br>Security_code : Kzzy9
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.23.67.213<br>
+ <br>REF : EM
+ <br>Nombre : Francisco
+ <br>Apellido : Ferreira
+ <br>Cargo : Electromecanico Mantenimiento
+ <br>Direccion : Erezcano 1851
+ <br>Ciudad : Calzada
+ <br>Telefono : 01123776227 / 21041064
+ <br>Email : construcionesfran@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Soy de Rafael calzada zona sur muy cerca del parque industrial de Burzaco; soy gasista plomero oficial, albañil oficial se de mecanica de maquinas , neumatica, electricidad industrial se sodadura electrica y mig.
+Desde ya muchas gracias y me pongo a su disposicion para pruevas o entrevistas.
+Saludos Atte .
+ <br>Security_code : Kzzy9
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.23.67.213<br>
+ <br>REF : EM
+ <br>Nombre : Francisco
+ <br>Apellido : Ferreira
+ <br>Cargo : Electromecanico Mantenimiento
+ <br>Direccion : Erezcano 1851
+ <br>Ciudad : Calzada
+ <br>Telefono : 01123776227 / 21041064
+ <br>Email : construcionesfran@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Soy de Rafael calzada zona sur muy cerca del parque industrial de Burzaco; soy gasista plomero oficial, albañil oficial se de mecanica de maquinas , neumatica, electricidad industrial se sodadura electrica y mig.
+Desde ya muchas gracias y me pongo a su disposicion para pruevas o entrevistas.
+Saludos Atte .
+ <br>Security_code : gryyn
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.23.67.213<br>
+ <br>REF : EM
+ <br>Nombre : Francisco
+ <br>Apellido : Ferreira
+ <br>Cargo : Electromecanico Mantenimiento
+ <br>Direccion : Erezcano 1851
+ <br>Ciudad : Calzada
+ <br>Telefono : 01123776227 / 21041064
+ <br>Email : construcionesfran@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Soy de Rafael calzada zona sur muy cerca del parque industrial de Burzaco; soy gasista plomero oficial, albañil oficial se de mecanica de maquinas , neumatica, electricidad industrial se sodadura electrica y mig.
+Desde ya muchas gracias y me pongo a su disposicion para pruevas o entrevistas.
+Saludos Atte .
+ <br>Security_code : 9rYYn
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.23.67.213<br>
+ <br>REF : EM
+ <br>Nombre : Francisco
+ <br>Apellido : Ferreira
+ <br>Cargo : Electromecanico Mantenimiento
+ <br>Direccion : Erezcano 1851
+ <br>Ciudad : Calzada
+ <br>Telefono : 01123776227 / 21041064
+ <br>Email : construcionesfran@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Soy de Rafael calzada zona sur muy cerca del parque industrial de Burzaco; soy gasista plomero oficial, albañil oficial se de mecanica de maquinas , neumatica, electricidad industrial se sodadura electrica y mig.
+Desde ya muchas gracias y me pongo a su disposicion para pruevas o entrevistas.
+Saludos Atte .
+ <br>Security_code : 9ryyn
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.23.67.213<br>
+ <br>REF : EM
+ <br>Nombre : Francisco
+ <br>Apellido : Ferreira
+ <br>Cargo : Electromecanico Mantenimiento
+ <br>Direccion : Erezcano 1851
+ <br>Ciudad : Calzada
+ <br>Telefono : 01123776227 / 21041064
+ <br>Email : construcionesfran@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Soy de Rafael calzada zona sur muy cerca del parque industrial de Burzaco; soy gasista plomero oficial, albañil oficial se de mecanica de maquinas , neumatica, electricidad industrial se sodadura electrica y mig.
+Desde ya muchas gracias y me pongo a su disposicion para pruevas o entrevistas.
+Saludos Atte .
+ <br>Security_code : 4cdy2
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.23.67.213<br>
+ <br>REF : EM
+ <br>Nombre : Francisco
+ <br>Apellido : Ferreira
+ <br>Cargo : Electromecanico Mantenimiento
+ <br>Direccion : Erezcano 1851
+ <br>Ciudad : Calzada
+ <br>Telefono : 01123776227 / 21041064
+ <br>Email : construcionesfran@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Soy de Rafael calzada zona sur muy cerca del parque industrial de Burzaco; soy gasista plomero oficial, albañil oficial se de mecanica de maquinas , neumatica, electricidad industrial se sodadura electrica y mig.
+Desde ya muchas gracias y me pongo a su disposicion para pruevas o entrevistas.
+Saludos Atte .
+ <br>Security_code : mzhy3
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.23.67.213<br>
+ <br>REF : EM
+ <br>Nombre : Francisco
+ <br>Apellido : Ferreira
+ <br>Cargo : Electromecanico Mantenimiento
+ <br>Direccion : Erezcano 1851
+ <br>Ciudad : Calzada
+ <br>Telefono : 01123776227 / 21041064
+ <br>Email : construcionesfran@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Soy de Rafael calzada zona sur muy cerca del parque industrial de Burzaco; soy gasista plomero oficial, albañil oficial se de mecanica de maquinas , neumatica, electricidad industrial se sodadura electrica y mig.
+Desde ya muchas gracias y me pongo a su disposicion para pruevas o entrevistas.
+Saludos Atte .
+ <br>Security_code : jjnzn
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.23.67.213<br>
+ <br>REF : EM
+ <br>Nombre : Francisco
+ <br>Apellido : Ferreira
+ <br>Cargo : Electromecanico Mantenimiento
+ <br>Direccion : Erezcano 1851
+ <br>Ciudad : Calzada
+ <br>Telefono : 01123776227 / 21041064
+ <br>Email : construcionesfran@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Soy de Rafael calzada zona sur muy cerca del parque industrial de Burzaco; soy gasista plomero oficial, albañil oficial se de mecanica de maquinas , neumatica, electricidad industrial se sodadura electrica y mig.
+Desde ya muchas gracias y me pongo a su disposicion para pruevas o entrevistas.
+Saludos Atte .
+ <br>Security_code : Xb84g
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.46.37.177<br>
+ <br>Nombre : Facundo Ricardo 
+ <br>Apellido : Vera
+ <br>Cargo : Operario en produccion
+ <br>Direccion : Psj. Cosentino 2138
+ <br>Ciudad : Bs AS 
+ <br>Telefono : 1166526987
+ <br>Email : Facundoricardovera@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me gustaría poder trabajar con ustedes.
+ <br>Security_code : HH8p2
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.46.37.177<br>
+ <br>Nombre : Facundo Ricardo 
+ <br>Apellido : Vera
+ <br>Cargo : Operario en produccion
+ <br>Direccion : Psj. Cosentino 2138
+ <br>Ciudad : Bs AS 
+ <br>Telefono : 1166526987
+ <br>Email : Facundoricardovera@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me gustaría poder trabajar con ustedes.
+ <br>Security_code :  hh8p2
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.46.37.177<br>
+ <br>Nombre : Facundo Ricardo 
+ <br>Apellido : Vera
+ <br>Cargo : Operario en produccion
+ <br>Direccion : Psj. Cosentino 2138
+ <br>Ciudad : Bs AS 
+ <br>Telefono : 1166526987
+ <br>Email : Facundoricardovera@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me gustaría poder trabajar con ustedes.
+ <br>Security_code : S94qq
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.17.73.19<br>
+ <br>REF : EM
+ <br>Nombre : prospero jesus
+ <br>Apellido : marcano
+ <br>Cargo : ingeniero electromecanico
+ <br>Direccion : baradero 56 floresta
+ <br>Ciudad : buenos aires
+ <br>Telefono : 1127046970
+ <br>Email : prosmarcano@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me gustaría que me incluyeran en el proceso de selección para dicha oferta de trabajo ya que considero que mi perfil se adapta al puesto que necesitan cubrir.
+Soy Ingeniero Mantenimiento Industrial por la Universidad Gran Mariscal de Ayacucho con Diplomado en Gerencia para Ingenieros en Venezuela, cuento con más de 4 año experiencia de en el ámbito petrolero con conocimiento en Gestión de mantenimiento (preventivo, predictivo y correctivo) en Bombas Multifásica y Centrifugas, Sello Mecánico, Brida, Válvulas Hidráulicas y Rodamientos. Para mejoras de producción, Capacidad de trabajo en equipo, Manejo de personal, Habilidad Comunicativa y Negociación, Transmito Confianza, Actitud de escuchar, Receptividad, Facilidad de aprendizaje, Persona Proactiva, Buenas relaciones personales y liderazgo. Como empleado e llevado a cabo programas de mantenimiento preventivo y predictivo, así como atacar los correctivos para no detener la producción, de esta manera minimizar costos por fallas presentadas, aumentar la vida útil por más tiempo a equipos y maquinarias del procesos productivos, disminuir costos a la empresa, aumenta su rentabilidad a mediano y largo plazo.
+Todos estos aspectos y algunos más que creo que le pueden resultar de interés, podrán verlo en el C.V. que les adjunto.
+Actualmente me encuentro en situación de desempleo por lo que no tengo restricciones de horario para fijar una entrevista personal si mi perfil fuera de su interés.
+ <br>Security_code : ptz5x
+ <br>Send : Enviar
+ <br>
+---------------
+

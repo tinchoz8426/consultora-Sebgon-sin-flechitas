@@ -1,0 +1,169 @@
+Address : 181.47.225.214<br>
+ <br>Nombre : Marina
+ <br>Apellido : Gimenez
+ <br>Cargo : Analists
+ <br>Direccion : Lavalleja, CF
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 1132595553
+ <br>Email : marinaligorria@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Adjunto CV
+ <br>Security_code : w9bnz
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.178.68.101<br>
+ <br>REF : SP-1
+ <br>Nombre : Pablo Gabriel
+ <br>Apellido : Montenegro
+ <br>Cargo : Supervisor de producciòn
+ <br>Direccion : Mamberti 1453 Dto "A"
+ <br>Ciudad : Lanus
+ <br>Telefono : 1551477170
+ <br>Email : montenegropg@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : En respuesta a su anuncio publicado, me dirijo a ustedes con el fin de remitirles mi Curriculum Vitae.
+Reciban un cordial saludo
+Pablo Montenegro
+ <br>Security_code : czt87
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.17.140.10<br>
+ <br>Nombre : Diana
+ <br>Apellido : Benavidez
+ <br>Cargo : Maestranza
+ <br>Direccion : Leandro N Alem 1118
+ <br>Ciudad : Morón
+ <br>Telefono : 1531949680
+ <br>Email : diana_benavidez@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados, les envío mi cv. Cordialmente: Diana Benavidez.
+ <br>Security_code : w3gz4
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.254.162.237<br>
+ <br>Nombre : manuel esteban
+ <br>Apellido : rodriguez
+ <br>Cargo : encargado 
+ <br>Direccion : luis maria drago 
+ <br>Ciudad : pilar
+ <br>Telefono : 0111544095386
+ <br>Email : esteban270480@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me encuentro en la búsqueda laboral.espero tener la oportunidad de entrevista para puestos de producción y manufactura
+ <br>Security_code : Zqtdv
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.254.162.237<br>
+ <br>Nombre : manuel esteban
+ <br>Apellido : rodriguez
+ <br>Cargo : encargado 
+ <br>Direccion : luis maria drago 1850
+ <br>Ciudad : pilar
+ <br>Telefono : 0111544095386
+ <br>Email : esteban270480@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me encuentro en la búsqueda laboral, espero tener oportunidad de empleo para puestos en producción y manufactura
+ <br>Security_code : tcd5f
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.44.76.48<br>
+ <br>REF : ROT-1
+ <br>Nombre : Luis
+ <br>Apellido : Stivanello
+ <br>Cargo : Dibujante proyectista en aplicaciones CAD
+ <br>Direccion : Quiroz 2285
+ <br>Ciudad : Ituzaingo
+ <br>Telefono : 1554982792
+ <br>Email : luisstiv@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Interés por conseguir empleo Urgente, Gracias..!!!
+ <br>Security_code : qnrqn
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.11<br>
+ <br>Nombre : Jesica Daniela
+ <br>Apellido : Rodriguez
+ <br>Cargo : Administracion/ vendedora
+ <br>Direccion : Cuzco, 2877
+ <br>Ciudad : Hurlingham
+ <br>Telefono : 1561856205
+ <br>Email : daje88@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Cargo mi curriculum para postularme en ofertas de administración,  recepcion, y/o vendedora
+ <br>Security_code : Fgpwv
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.11<br>
+ <br>Nombre : Jesica Daniela
+ <br>Apellido : Rodriguez
+ <br>Cargo : Administracion/ vendedora
+ <br>Direccion : Cuzco, 2877
+ <br>Ciudad : Hurlingham
+ <br>Telefono : 1561856205
+ <br>Email : daje88@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Cargo mi curriculum para postularme en ofertas de administración,  recepcion, y/o vendedora
+ <br>Security_code : 9w69k
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.11<br>
+ <br>Nombre : Jesica Daniela
+ <br>Apellido : Rodriguez
+ <br>Cargo : Administracion/ vendedora
+ <br>Direccion : Cuzco, 2877
+ <br>Ciudad : Hurlingham
+ <br>Telefono : 1561856205
+ <br>Email : daje88@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Cargo mi curriculum para postularme en ofertas de administración,  recepcion, y/o vendedora
+ <br>Security_code : 9w69k
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.11<br>
+ <br>Nombre : Jesica Daniela
+ <br>Apellido : Rodriguez
+ <br>Cargo : Administracion/ vendedora
+ <br>Direccion : Cuzco, 2877
+ <br>Ciudad : Hurlingham
+ <br>Telefono : 1561856205
+ <br>Email : daje88@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Cargo mi curriculum para postularme en ofertas de administración,  recepcion, y/o vendedora
+ <br>Security_code : 5f2mt
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.118.66.113<br>
+ <br>Nombre : Facundo Agustin
+ <br>Apellido : Espejo
+ <br>Cargo : Administrativo
+ <br>Direccion : C. Las Palmeras 440 s B* Natania XVII Rivadavia
+ <br>Ciudad : San Juan
+ <br>Telefono : 2644174660
+ <br>Email : aguespejo@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados, deseo postularme a algún puesto laboral acorde a mi perfil.
+ <br>Security_code : y4p92
+ <br>Send : Enviar
+ <br>
+---------------
+

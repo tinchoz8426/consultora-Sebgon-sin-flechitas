@@ -1,0 +1,95 @@
+Address : 190.122.8.81
+Nombre : denise lia tamara
+Apellido : iribarren
+Cargo : enfermera
+Direccion : 17 de agosto nº3651
+Ciudad : marcos paz
+Telefono : 1136022468
+Email : deniseiri@live.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola, tengo 30 años. enfermera profesional, hace 10 años trabajo en hemodialisis. Deseo ampliar mis conocimientos y tomar nuevos desafios. 
+
+Actualmente realizo pasantias en htal municipal de marcos paz en partos,neo y guardia. Estoy cursando primer año de la licenciatura de enfermeria los dias sabado DE 8 A 13HS.
+
+Ad honorem pertenezco a una organizacion sin fines de lucro (ACAPS)compuesta x profesionales de la salud de distintas especialidades q viajamos ayudar a distintos sectores aislados y carenciados del pais. Agradeceria la oportunidad de formar parte de su equipo de salud y seguir creciendo profesionalmente.Remuneracion pretendida: 10mil pesos.  Muchas gracias!
+
+ 
+Security_code : qcvrk
+Send : Enviar
+
+---------------
+
+Address : 186.39.197.11
+Nombre : Tania Valeria
+Apellido : Tapia
+Cargo : cajera
+Direccion : magallanes 2105
+Ciudad : mendoza
+Telefono : 2614317312
+Email : matijere@outlook.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : desde ya muchas gracias
+Security_code : vvmx7
+Send : Enviar
+
+---------------
+
+Address : 190.195.174.180
+Nombre : Andres 
+Apellido : Perez
+Cargo : Empleado
+Direccion : Pilar 74
+Ciudad : Lomas De Zamora
+Telefono : 1158771942
+Email : draenei310@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Luego de leer la pagina de http://trabajo.gob.ar/index.asp , por recomendacion, decidi enviar mi curriculum a esta direccion. Busco empleo de lo que sea. 
+Security_code : 994hq
+Send : Enviar
+
+---------------
+
+Address : 64.76.13.4
+Nombre : Marcos Antonio
+Apellido : Do Santos
+Cargo : Soporte Tecnico de Pc
+Direccion : Calle 619 numero 2070
+Ciudad : El Pato-Berazategui
+Telefono : 0111556529967
+Email : mdosanto@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola,por la presente envio mi Cv.Gracias.Saludos.
+Security_code : wxc9c
+Send : Enviar
+
+---------------
+
+Address : 186.57.206.238
+REF : GT PL
+Nombre : Juan Miguel
+Apellido : Paredes
+Cargo : Gerente de Planta
+Direccion : Alonso de Ercilla 2891
+Ciudad : ITUZAINGO
+Telefono : +5491153285341
+Email : juan.miguel.paredes@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me postulo a esta búsqueda debido a que me atrae la propuesta y la misma se alinea como mi búsqueda de desarrollo y crecimiento profesional. Esto se suma y complementa con un proceso de evaluación de cambio de trabajo que estoy desarrollando.
+
+	Busco una posición atractiva donde la experiencia, el conocimiento tecnológico y la creatividad innovadora sean condiciones imprescindibles para liderar profesionales de diversas disciplinas, dentro de un ambiente profesional que permita crecimiento personal y profesional.
+
+Dentro de mis fortalezas para ocupar la posición puedo destacar:
+	Autonomía y capacidad de trabajo para conducir una Planta Industrial en forma integral, conduciendo, liderando y formando grupos de profesionales de diferentes disciplinas en función a mi expertise y background laboral.
+	Vasta experiencia en conducción de planta industriales, administrando recursos humanos, técnicos y económicos conforme a objetivos preestablecidos, manteniendo y desarrollando objetivos de calidad, de seguridad laboral y medio ambiental.
+	Habilidad para identificar, dirigir y coordinar múltiples proyectos con los diferentes responsables de departamentos, comprometido con la planificación, ejecución y cumplimiento de las metas de cada proyecto en tiempo y forma. 
+	Conocimiento y formación técnica, con experiencia en evaluar, modificar y mejorar procesos de toda índole detectando oportunidades de mejora y de reducción de costos.
+	Experiencia en desarrollo, evaluación y coordinación de proyectos de inversión determinando su justificación, técnica y económica en función de las necesidades y objetivos de la compañía.
+	Amplia capacidad y experiencia en manejo de situaciones conflictivas y de negociación sindical.
+	Adjunto mi CV  donde se detalla mi experiencia profesional y estoy a vuestra disposición para concretar una pronta entrevista.
+	
+	Sin otro particular,  y reiterando mi gran interés por esta propuesta, me despido de Ud. muy atentamente,
+Security_code : nnbnh
+Send : Enviar
+
+---------------
+

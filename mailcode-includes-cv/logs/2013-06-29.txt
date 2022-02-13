@@ -1,0 +1,31 @@
+Address : 186.123.135.234
+REF : jefe-de-operaciones
+Nombre : Ivan Mauricio
+Apellido : Abud
+Cargo : operario
+Direccion : pergamino 8391
+Ciudad : Mendoza
+Telefono : 155115325
+Email : ivanmauricioabud@hotmail.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Megustaria trabajar con ustedes desde ya muchas gracias
+Security_code : 257kq
+Send : Enviar
+
+---------------
+
+Address : 186.123.135.234
+Nombre : Patricia Lorena
+Apellido : Romero
+Cargo : Licenciada en seguridad e higiene
+Direccion : pergamino 8391
+Ciudad : Mendoza
+Telefono : 0261-153616973
+Email : pattulyr@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Busco comenzar mi carrera profesional, para poder seguir aprendiendo en la práctica el desarrollo de mi profesión.
+Security_code : 8jgkg
+Send : Enviar
+
+---------------
+

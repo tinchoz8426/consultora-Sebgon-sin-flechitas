@@ -1,0 +1,73 @@
+Address : 181.95.197.144
+Nombre : Camila Belén
+Apellido : Grunavas
+Cargo : Administrativo
+Direccion : Hudson 1535
+Ciudad : General San Martín 
+Telefono : (011) 1569986254
+Email : camilabelengrunavas@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenas Tardes,
+ 
+ 
+                            Envió mi cv como archivo adjunto. Me encuentro a disposición ante cualquier consulta.
+                            Desde ya muchísimas gracias
+                            atte.
+                            Grunavas, Camila Belén
+Security_code : qbkgy
+Send : Enviar
+
+---------------
+
+Address : 190.178.152.225
+Nombre : solange georgina
+Apellido : Lopez
+Cargo : administrativa
+Direccion : cabrera 2805
+Ciudad : mar del plata
+Telefono : 2235168216
+Email : sohlopez42@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola, buenas tardes, me estoy postulando para el puesto de administrativa, pero busco de trabajo de cualquier cosa. Agradeco se me tenga en cuenta.Desde ya, muchas gracias.
+Security_code : 7gy7v
+Send : Enviar
+
+---------------
+
+Address : 186.22.150.247
+REF : TES
+Nombre : LEONARDO VICTOR
+Apellido : LUNA
+Cargo : TESORERO
+Direccion : 15 DE NOVIEMBRE 1407 8 C
+Ciudad : CAPITAL FEDERAL
+Telefono : 3965-7019
+Email : leonardovluna@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Busco una actividad laboral con posibilidades de progreso y desarrollo, para incrementar mis conocimientos y asumir mayores responsabilidades. Me gustan los desafíos, soy organizado y busco metas a alcanzar que me permitan crecer cada día.
+
+Los sectores que más me interesan son Tesorería, Administración, Pagos a Proveedores y Comercio Exterior.
+
+Security_code : yndwy
+Send : Enviar
+
+---------------
+
+Address : 186.22.150.247
+Nombre : LEONARDO VICTOR
+Apellido : LUNA
+Cargo : TESORERO
+Direccion : 15 DE NOVIEMBRE 1407 8 C
+Ciudad : CAPITAL FEDERAL
+Telefono : 3965-7019
+Email : leonardovluna@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Busco una actividad laboral con posibilidades de progreso y desarrollo, para incrementar mis conocimientos y asumir mayores responsabilidades. Me gustan los desafíos, soy organizado y busco metas a alcanzar que me permitan crecer cada día.
+
+Los sectores que más me interesan son Tesorería, Administración y Comercio Exterior.
+
+Security_code : f9mxv
+Send : Enviar
+
+---------------
+

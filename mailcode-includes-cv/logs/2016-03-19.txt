@@ -1,0 +1,74 @@
+Address : 181.166.101.188
+Nombre : Stephanie Nair
+Apellido : Leffler
+Cargo : Cajera-Vendedora
+Direccion : Pasaje Holanda 20
+Ciudad : Martin Coronado
+Telefono : 1161015201
+Email : stephanie.leffler@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Soy una persona eficaz y perseverante. Me destaco por mi responsabilidad y puntualidad.
+Security_code : xnn7g
+Send : Enviar
+
+---------------
+
+Address : 181.167.98.220
+REF : GTEP
+Nombre : Aníbal
+Apellido : Favale
+Cargo : Gerente de Planta
+Direccion : Pedro Rivera 2571
+Ciudad : CABA
+Telefono : 15-5582-7449
+Email : anibalfavale@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto mi Cv para el puesto de referencia.
+
+Gracias
+Security_code : nj4pn
+Send : Enviar
+
+---------------
+
+Address : 190.19.103.146
+REF : JP
+Nombre : Alejandro
+Apellido : Georgòpulos 
+Cargo : Jefe de RRHH
+Direccion : Lautaro 430 -  5to C
+Ciudad : CABA
+Telefono : 15 41631396
+Email : georgopulos@fibertel.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto mis datos personales y experiencia laboral en función del aviso solicitando Jefe de RRHH. Sin otro particular y esperando verme favorecido con una entrevista les saludo muy atte.
+
+Alejandro
+
+Security_code : 9898j
+Send : Enviar
+
+---------------
+
+Address : 181.199.157.87
+Nombre : Ana Gabriela
+Apellido : Leon
+Cargo : Psicopedagoga
+Direccion : Bº San Carlos
+Ciudad : Salta
+Telefono : 3874061638
+Email : anagabriela--leon@hotmail.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : buenas tardes:
+             envio mi curriculum, mi titulo se encuentra en tramite, aun asi puedo ocupar puesto de mi formacion o bien atencion al cliente, administracion, tuve experiencia y me desempeño favorablemente a lo que me ofrezcan. desde ya muchas gracias.
+saludos.
+
+----------
+ANA GABRIELA LEON
+3874061638
+Salta- Capital.-
+Security_code : 3569K
+Send : Enviar
+
+---------------
+

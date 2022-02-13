@@ -1,0 +1,45 @@
+Address : 186.138.50.10
+Nombre : Melania Maricel
+Apellido : Pelagaggi
+Cargo : Junior
+Direccion : Manuel acevedo 5117 
+Ciudad : Córdoba 
+Telefono : 0351-4977123/0351-2535742
+Email : Melpelagaggi@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola estoy interesada en conseguir trabajo y por la web encontré esta página y probé. Desde ya muchas gracias. 
+Security_code : wck3k
+Send : Enviar
+
+---------------
+
+Address : 181.24.35.70
+Nombre : Mauro Ezequiel
+Apellido : Orellano
+Cargo : Empleado
+Direccion : French 3662
+Ciudad : Mar del Plara
+Telefono : 2494466644
+Email : mauroeorellano@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Envío mi curriculum para su consideración. Soy una persona joven con actitud proactiva y deseos de aprender y progresar, agradezco la oportunidad. 
+Security_code : ftgrp
+Send : Enviar
+
+---------------
+
+Address : 186.62.179.67
+Nombre : noelia belen
+Apellido : tasillo
+Cargo : atencion al publico
+Direccion : lisandro de la torre 751
+Ciudad : mar del plata
+Telefono : 155021557
+Email : noeliatasillo59@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : tengo experiencia en atencion al cliente/ cajera/
+Security_code : 2Yrn7
+Send : Enviar
+
+---------------
+

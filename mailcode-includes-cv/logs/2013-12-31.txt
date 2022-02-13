@@ -1,0 +1,30 @@
+Address : 190.120.184.59
+Nombre : Gastón Victor
+Apellido : Moreno
+Cargo : administrativo
+Direccion : calle 165n°2419
+Ciudad : Berazategui
+Telefono : 1158401753
+Email : notsaggaston@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Trabajar de manera eficaz por los objetivos de la institución o empresa en la cual labore, cumpliendo de manera puntual con las metas trazadas. Así mismo mi solida formación profesional y personal servirá a la misma en el cumplimiento de su visión y misión.
+Security_code : 8qgxb
+Send : Enviar
+
+---------------
+
+Address : 186.57.184.72
+Nombre : Anahi 
+Apellido : Loustalot
+Cargo : Actividad turística
+Direccion : Echague 44
+Ciudad : Morón
+Telefono : (0221) 155704710
+Email : anyloustalot@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Envío mi CV para futuras búsquedas orientadas al turismo y la hoteleria.
+Security_code : w3kj5
+Send : Enviar
+
+---------------
+

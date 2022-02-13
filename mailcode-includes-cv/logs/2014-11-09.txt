@@ -1,0 +1,31 @@
+Address : 181.95.155.246
+Nombre : Mariano José
+Apellido : Chiavetto
+Cargo : Recursos Humanos/Seguros
+Direccion : Ozanam 2864
+Ciudad : Buenos Aires
+Telefono : 0348715617163
+Email : marianochiavetto@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Muchas gracias por esta oportunidad.
+Security_code : ks3kf
+Send : Enviar
+
+---------------
+
+Address : 200.73.155.15
+Nombre : Claudia Alejandra
+Apellido : Palópolo
+Cargo : Produccion de informes prelaborales
+Direccion : Bongiovanni 2003
+Ciudad : Buenos Aires
+Telefono : 011 15 4449 2630
+Email : claudiapalopolo@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola: Mi nombre es Claudia Palópolo, soy trabajadora social, vivo en zona oeste, mas precisamente en moreno, me desenvuelvo muy bien en el campo, a diario realizo entrevistas, ya que me desempeño en el área de psicología comunitaria, en educación.
+A continuación adjunto mi Curriculum para mayores detalles sobre mi formación profesional y datos personales.
+Security_code : xfdzb
+Send : Enviar
+
+---------------
+

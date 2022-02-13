@@ -1,0 +1,39 @@
+Address : 201.252.32.223<br>
+ <br>Nombre : Guillermo
+ <br>Apellido : Vildosoloa
+ <br>Cargo : Operario
+ <br>Direccion : Jorge Newery 1334
+ <br>Ciudad : Rosario
+ <br>Telefono : 03413202964
+ <br>Email : caioyguille2@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola Me Interesaría Poder Independizarme y Brindar mi apoyo! Ojala me den Una Oportunidad de poder trabajar con Ustedes! Desde ya muchas gracias! 
+ <br>Security_code : 92gmv
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.23.118.244<br>
+ <br>Nombre : Andres Manuel
+ <br>Apellido : Schrooh
+ <br>Cargo : Administrativo
+ <br>Direccion : Soldado Sosa 3817
+ <br>Ciudad : Laferrere
+ <br>Telefono : 15-6453 9318
+ <br>Email : manuelschrooh@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Responsabilidades actuales: Atención  al cliente vía  telefónica , email, fax y radio.
+Control de la mercadería  que  ingresa, control en sus ventas y las que se encuentran en stock.
+Control de facturación.
+Logística  y distribución  en distintas zonas de CABA  y Gran Buenos Aires.
+Teniendo actualmente a mi cargo 3 (tres)  empleados para la realización de las tareas  pertinentes a la empresa.
+
+Logros: Haber alcanzado una reorganización  y planificación a la cual aspiraba  la empresa.
+Permitir al resto del personal que pudieran acudir a mi persona frente a las distintas eventualidades que pudieran suscitarse dentro de la actividad laboral, con el fin de lograr un clima de trabajo en equipo,  generando de esta manera tranquilidad a mi empleador , que me a contratado para tal fin.
+Asimismo, diseñe un programa de logística que me facilito obtener un  control total de  la mercadería que ingresa y así obtener mejores ventas.
+
+ <br>Security_code : tzdx9
+ <br>Send : Enviar
+ <br>
+---------------
+

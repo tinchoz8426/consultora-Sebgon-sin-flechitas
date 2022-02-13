@@ -1,0 +1,30 @@
+Address : 190.174.26.61
+Nombre : Exequiel
+Apellido : Galleguillo
+Cargo : cualquier cargo
+Direccion : villegas 2620
+Ciudad : buenos aires zona oeste ituzaingo
+Telefono : 46922883
+Email : exequiel_monumental@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Busco trabajo de lo que sea urgente
+Security_code : 8w9xp
+Send : Enviar
+
+---------------
+
+Address : 181.170.54.254
+Nombre : ezequiel
+Apellido : barilli
+Cargo : presentacion espontanea
+Direccion : 17 1740
+Ciudad : la plata
+Telefono : 2215691974
+Email : ezequielbarilli@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estoy en busqueda activa
+Security_code : qhq3b
+Send : Enviar
+
+---------------
+

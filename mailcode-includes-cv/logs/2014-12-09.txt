@@ -1,0 +1,30 @@
+Address : 190.105.5.27
+Nombre : Néstor Adrián
+Apellido : Morales
+Cargo : TÉCNICO EN ARMADO Y REPARACIÓN DE PC y CADETE - ATENCIÓN AL CLIENTE 
+Direccion : ameghino 2247
+Ciudad : Moreno
+Telefono : 02374056789
+Email : nestor_adrian_morales@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Mis aspiraciones laborales apuntan a desempeñarme de manera eficiente, poder contribuir al buen funcionamiento de la empresa y escalar en la misma. Me encuentro con mucho entusiasmo para comenzar a trabajar. Destaco mi compromiso y responsabilidad.
+Security_code : jggbs
+Send : Enviar
+
+---------------
+
+Address : 190.16.215.219
+Nombre : Maria Fernanda 
+Apellido : Buforn
+Cargo : Lic. en Psicologia
+Direccion : Rio Negro 1315
+Ciudad : Gral Pacheco
+Telefono : 1556588760
+Email : mfernandabuforn@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados envio adjunto mi cv esperando cumplir con los requisitos de su búsqueda laboral. Desde ya muchas gracias.
+Security_code : fny89
+Send : Enviar
+
+---------------
+

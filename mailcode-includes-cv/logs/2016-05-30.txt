@@ -1,0 +1,507 @@
+Address : 186.158.224.123<br>
+ <br>Nombre : Ricardo Rafael 
+ <br>Apellido : Porta
+ <br>Cargo : vigilador
+ <br>Direccion : juan de garay 4825
+ <br>Ciudad : Caseros
+ <br>Telefono : 1564152731
+ <br>Email : lohangold@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Poseo curso de vigilador ley 12297 y amplia experiencia en diferentes tipos de objetivos
+ <br>Security_code : 7qcf7
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.158.224.123<br>
+ <br>Nombre : Ricardo Rafael 
+ <br>Apellido : Porta
+ <br>Cargo : vigilador
+ <br>Direccion : juan de garay 4825
+ <br>Ciudad : Caseros
+ <br>Telefono : 1564152731
+ <br>Email : lohangold@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Poseo curso de vigilador ley 12297 y amplia experiencia en diferentes tipos de objetivos
+ <br>Security_code : 3qncz
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.166.182.242<br>
+ <br>Nombre : Alan
+ <br>Apellido : Figueroa
+ <br>Cargo : soldador
+ <br>Direccion : SIxto fernandez 1172 lomas de zamora
+ <br>Ciudad : buenos aires
+ <br>Telefono : 1131274057
+ <br>Email : df8229403@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : 5 anos de experiencia en una empresa de metalurgica
+ <br>Security_code : hkm7p
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.130.72.146<br>
+ <br>Nombre : victor david 
+ <br>Apellido : godoy
+ <br>Cargo : oficial cañista
+ <br>Direccion : gabriel miro 3760
+ <br>Ciudad : castelar
+ <br>Telefono : 46920637
+ <br>Email : victordavidgodoy78@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : hola soy cañista soldador,hago tambien herreria ,pintura ,plomeria , albañileria,etc.buena interpretacion de planos.tengo experiencia en maquinarias autmaticas y computarizadas.
+ <br>Security_code : qf7g7
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.115.57.197<br>
+ <br>REF : tecm
+ <br>Nombre : Ariel
+ <br>Apellido : Gobbato
+ <br>Cargo : Técnicos Mecánicos para Mantenimiento
+ <br>Direccion : Pescadores 1464
+ <br>Ciudad : Las Heras Mendoza
+ <br>Telefono : 2616186205
+ <br>Email : arielgobbato@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Técnicos Mecánicos para Mantenimiento
+ <br>Security_code : k6y6x
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.245.225.203<br>
+ <br>REF : SuP
+ <br>Nombre : Hector
+ <br>Apellido : Larreal
+ <br>Cargo : Supervisor de Produccion
+ <br>Direccion : Colegiales, Delgado 826
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 1164051568
+ <br>Email : hj.larreal@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola buenos dias, estaba chequeando anuncios y me tope con el suyo, soy ingeniero mecanico con experiencia en el rugro y me gustaria ser tomado en cuenta para esta vacante, para ello les dejo una copia de mi resumen curricular
+ <br>Security_code : f9qy2
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.50.250.58<br>
+ <br>REF : OEL
+ <br>Nombre : Javier alejandro
+ <br>Apellido : Pintos
+ <br>Cargo : Oficial electricista
+ <br>Direccion : 124 berazategui
+ <br>Ciudad : Buenos aires
+ <br>Telefono : 1138162501
+ <br>Email : javy.pintos@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me gustaría formar parte de su equipo soy muy responsable
+ <br>Security_code : Y para 
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.50.250.58<br>
+ <br>REF : OEL
+ <br>Nombre : Javier alejandro
+ <br>Apellido : Pintos
+ <br>Cargo : Oficial electricista
+ <br>Direccion : 124 berazategui
+ <br>Ciudad : Buenos aires
+ <br>Telefono : 1138162501
+ <br>Email : javy.pintos@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me gustaría formar parte de su equipo soy muy responsable
+ <br>Security_code : Yp9h9
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.50.250.58<br>
+ <br>REF : OEL
+ <br>Nombre : Javier alejandro
+ <br>Apellido : Pintos
+ <br>Cargo : Oficial electricista
+ <br>Direccion : 124 berazategui
+ <br>Ciudad : Buenos aires
+ <br>Telefono : 1138162501
+ <br>Email : javy.pintos@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me gustaría formar parte de su equipo soy muy responsable
+ <br>Security_code :  yp9h9
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.122.203.184<br>
+ <br>Nombre : Miguel
+ <br>Apellido : Córdoba
+ <br>Cargo : Soldador Cañista
+ <br>Direccion : Violetas 78
+ <br>Ciudad : Merlo
+ <br>Telefono : 1538080811
+ <br>Email : valeriapanessi@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : A quien corresponda: Soy oficial soldador calificado, cuento con disponibilidad horaria y movilidad propia. Adjunto C.V y quedo a su disposición. Atte
+ <br>Security_code : jt6yr
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.122.203.184<br>
+ <br>Nombre : Miguel
+ <br>Apellido : Córdoba
+ <br>Cargo : Soldador Cañista
+ <br>Direccion : Violetas 78
+ <br>Ciudad : Merlo
+ <br>Telefono : 1538080811
+ <br>Email : valeriapanessi@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : A quien corresponda: Soy oficial soldador calificado, cuento con disponibilidad horaria y movilidad propia. Adjunto C.V y quedo a su disposición. Atte
+ <br>Security_code : 4mvvf
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.122.203.184<br>
+ <br>Nombre : Miguel
+ <br>Apellido : Córdoba
+ <br>Cargo : Soldador Cañista
+ <br>Direccion : Violetas 78
+ <br>Ciudad : Merlo
+ <br>Telefono : 1538080811
+ <br>Email : valeriapanessi@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : A quien corresponda: Soy oficial soldador calificado, cuento con disponibilidad horaria y movilidad propia. Adjunto C.V y quedo a su disposición. Atte
+APELLIDO Y NOMBRE: CORDOBA MIGUEL ANDRES
+DOCUMENTO: DNI 24867182
+DIRECCION: LAS VIOLETAS 78
+LOCALIDAD: MERLO
+TELEFONO: 0111532651048 - 0111538080811 –
+PROFESION: OFICIAL SOLDADOR CERTIFICADO CUÑO N° 18
+* SOLDADURA ELECTRICA
+* SOLDADURA AUTOMATICA Y SEMIAUTOMATICA
+* SOLDADURA AUTOGENA
+* SOLDADURA EN ALUMINIO, BRONCE, ACERO Y ACERO INOXIDABLE
+* SOLDADURA DE SEGURIDAD, DE ALTA PRESION EN CAÑOS Y PISTONES
+* SOLDADURA EN ARCO SUMERGIDO
+* PROGRAMACION DE ROBOT SOLDADOR
+* SOLDADURA TIG - MIG
+TIPOS DE GASES EN SOLDADURA
+* ATHAL
+* ARGON
+* CARBONICO 
+* ACETILENO
+ESPECIALIDADES:
+* ARMADO Y ENSAMBLE DE TODO TIPO DE ACOPLADOS Y CAJAS VOLCADORAS, GRUAS, VOLQUETES Y COMPACTADORAS.
+*OFICIAL PLEGADORAS NEUMATICAS Y CONTROL NUMERICO CMC
+*GUILLOTINAS NEUMATICAS Y CONTROL NUMERICO
+* BALANCIN Y PRENSAS HIDRAULICAS
+* ORGANIZADOR DE DEPOSITO, MANEJO DE CLARK , ELEVADOR Y ZORRA
+* PINTOR CON SOPLETE EN SILOR
+EXPERIENCIA LABORAL: 
+2015-2016: Rapiestan – Soldador Armador
+2014-2015: Carrocerías Cora.: Soldador Armador de carrocerías - Reparaciones
+1998-2012: Pedro Petinari e Hijo S.A : Oficial armador soldador – Plegador – Guillotinero - Balancinero
+1996-1998:  Silor S.A:  Soldador- Plegador- Balancinero- Prensista – Pintor con soplete
+
+
+ <br>Security_code : 4mvvf
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.122.203.184<br>
+ <br>Nombre : Miguel
+ <br>Apellido : Córdoba
+ <br>Cargo : Soldador Cañista
+ <br>Direccion : Violetas 78
+ <br>Ciudad : Merlo
+ <br>Telefono : 1538080811
+ <br>Email : valeriapanessi@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : A quien corresponda: Soy oficial soldador calificado, cuento con disponibilidad horaria y movilidad propia. Adjunto C.V y quedo a su disposición. Atte
+APELLIDO Y NOMBRE: CORDOBA MIGUEL ANDRES
+DOCUMENTO: DNI 24867182
+DIRECCION: LAS VIOLETAS 78
+LOCALIDAD: MERLO
+TELEFONO: 0111532651048 - 0111538080811 –
+PROFESION: OFICIAL SOLDADOR CERTIFICADO CUÑO N° 18
+* SOLDADURA ELECTRICA
+* SOLDADURA AUTOMATICA Y SEMIAUTOMATICA
+* SOLDADURA AUTOGENA
+* SOLDADURA EN ALUMINIO, BRONCE, ACERO Y ACERO INOXIDABLE
+* SOLDADURA DE SEGURIDAD, DE ALTA PRESION EN CAÑOS Y PISTONES
+* SOLDADURA EN ARCO SUMERGIDO
+* PROGRAMACION DE ROBOT SOLDADOR
+* SOLDADURA TIG - MIG
+TIPOS DE GASES EN SOLDADURA
+* ATHAL
+* ARGON
+* CARBONICO 
+* ACETILENO
+ESPECIALIDADES:
+* ARMADO Y ENSAMBLE DE TODO TIPO DE ACOPLADOS Y CAJAS VOLCADORAS, GRUAS, VOLQUETES Y COMPACTADORAS.
+*OFICIAL PLEGADORAS NEUMATICAS Y CONTROL NUMERICO CMC
+*GUILLOTINAS NEUMATICAS Y CONTROL NUMERICO
+* BALANCIN Y PRENSAS HIDRAULICAS
+* ORGANIZADOR DE DEPOSITO, MANEJO DE CLARK , ELEVADOR Y ZORRA
+* PINTOR CON SOPLETE EN SILOR
+EXPERIENCIA LABORAL: 
+2015-2016: Rapiestan – Soldador Armador
+2014-2015: Carrocerías Cora.: Soldador Armador de carrocerías - Reparaciones
+1998-2012: Pedro Petinari e Hijo S.A : Oficial armador soldador – Plegador – Guillotinero - Balancinero
+1996-1998:  Silor S.A:  Soldador- Plegador- Balancinero- Prensista – Pintor con soplete
+
+
+ <br>Security_code : smvyw
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.122.203.184<br>
+ <br>Nombre : Miguel
+ <br>Apellido : Córdoba
+ <br>Cargo : Soldador Cañista
+ <br>Direccion : Violetas 78
+ <br>Ciudad : Merlo
+ <br>Telefono : 1538080811
+ <br>Email : valeriapanessi@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : A quien corresponda: Soy oficial soldador calificado, cuento con disponibilidad horaria y movilidad propia. Adjunto C.V y quedo a su disposición. Atte
+APELLIDO Y NOMBRE: CORDOBA MIGUEL ANDRES
+DOCUMENTO: DNI 24867182
+DIRECCION: LAS VIOLETAS 78
+LOCALIDAD: MERLO
+TELEFONO: 0111532651048 - 0111538080811 –
+PROFESION: OFICIAL SOLDADOR CERTIFICADO CUÑO N° 18
+* SOLDADURA ELECTRICA
+* SOLDADURA AUTOMATICA Y SEMIAUTOMATICA
+* SOLDADURA AUTOGENA
+* SOLDADURA EN ALUMINIO, BRONCE, ACERO Y ACERO INOXIDABLE
+* SOLDADURA DE SEGURIDAD, DE ALTA PRESION EN CAÑOS Y PISTONES
+* SOLDADURA EN ARCO SUMERGIDO
+* PROGRAMACION DE ROBOT SOLDADOR
+* SOLDADURA TIG - MIG
+TIPOS DE GASES EN SOLDADURA
+* ATHAL
+* ARGON
+* CARBONICO 
+* ACETILENO
+ESPECIALIDADES:
+* ARMADO Y ENSAMBLE DE TODO TIPO DE ACOPLADOS Y CAJAS VOLCADORAS, GRUAS, VOLQUETES Y COMPACTADORAS.
+*OFICIAL PLEGADORAS NEUMATICAS Y CONTROL NUMERICO CMC
+*GUILLOTINAS NEUMATICAS Y CONTROL NUMERICO
+* BALANCIN Y PRENSAS HIDRAULICAS
+* ORGANIZADOR DE DEPOSITO, MANEJO DE CLARK , ELEVADOR Y ZORRA
+* PINTOR CON SOPLETE EN SILOR
+EXPERIENCIA LABORAL: 
+2015-2016: Rapiestan – Soldador Armador
+2014-2015: Carrocerías Cora.: Soldador Armador de carrocerías - Reparaciones
+1998-2012: Pedro Petinari e Hijo S.A : Oficial armador soldador – Plegador – Guillotinero - Balancinero
+1996-1998:  Silor S.A:  Soldador- Plegador- Balancinero- Prensista – Pintor con soplete
+
+
+ <br>Security_code : 2y8jq
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.22.157.126<br>
+ <br>Nombre : Maribel 
+ <br>Apellido : Angulo
+ <br>Cargo : Ingeniero
+ <br>Direccion : Alsina 2234
+ <br>Ciudad : Mar del Plata
+ <br>Telefono : 223155794690
+ <br>Email : mpks.87ve@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenos dias,
+Soy Ingeniero Electronico especialista en mantenimiento de equipos medicos. Poseo 4 años de experiencia en el area. Espero poder ingresar en su base de datos y pueda postular a alguna de sus vacantes.
+ <br>Security_code : vdnwq
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.135.131.56<br>
+ <br>Nombre : Julieta
+ <br>Apellido : Penna
+ <br>Cargo : secretaria/atencion al publico/rrhh/
+ <br>Direccion : ancon 5224
+ <br>Ciudad : capital federal
+ <br>Telefono : 1140477578
+ <br>Email : julietapenna90@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas tardes, me comunico con ustedes par acercarles mi cv, con expectativas de aplicar a posibles busquedas laborales, relacionadas con la atencion al publico. Cualquier consulta tienen mi celular personal y mail. saludos.
+ <br>Security_code : pvxqh
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 24.232.144.16<br>
+ <br>Nombre : Magali del Cielo
+ <br>Apellido : Fernandez
+ <br>Cargo : Sin preferencia
+ <br>Direccion : Falucho 2120 1° A
+ <br>Ciudad : Mar del Plata
+ <br>Telefono : 0223155222809
+ <br>Email : delcielochamuel@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola. Estoy buscando empleo. Muchas gracias. 
+ <br>Security_code : dw99b
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 24.232.144.16<br>
+ <br>Nombre : Magali del Cielo
+ <br>Apellido : Fernandez
+ <br>Cargo : Sin preferencia
+ <br>Direccion : Falucho 2120 1° A
+ <br>Ciudad : Mar del Plata
+ <br>Telefono : 0223155222809
+ <br>Email : delcielochamuel@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola. Estoy buscando empleo. Muchas gracias. 
+ <br>Security_code : dw99b
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.48.136.176<br>
+ <br>Nombre : Juan Carlos
+ <br>Apellido : Montenegro
+ <br>Cargo : Oficial Soldador
+ <br>Direccion : Bach 3179
+ <br>Ciudad : Merlo
+ <br>Telefono : 02204872619 / 1124900196
+ <br>Email : montenegro.juanc@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Por medio del presente me permito enviaeles mi curriculum vitae
+ <br>Security_code : pk9t4
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.90.30.95<br>
+ <br>Nombre : Laura
+ <br>Apellido : Zabara Zarate
+ <br>Cargo : Camarera/Org de Eventos
+ <br>Direccion : Navarra 1815- Pb Dto B- B Maipu 1 Secc
+ <br>Ciudad : Cordoba Capital
+ <br>Telefono : (0351) 156-522306
+ <br>Email : mariazzarate@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Atte
+Ante quien corresponda
+
+Tengo el agrado de dirigirme a Uds. para enviarles mi CV. En este momento me encuentro en la búsqueda laboral. Cuento con conocimientos y experiencia laboral en el área gastronómica desde hace 16 años.
+Desde ya quedo a la espera de una respuesta favorable.
+Los saludo muy cordialmente.
+
+Laura Zabara Zarate.
+ <br>Security_code : 58q4p
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.61.177.115<br>
+ <br>REF : JPL
+ <br>Nombre : Hector
+ <br>Apellido : Chiariglione
+ <br>Cargo : Jefe de planta alimenticia
+ <br>Direccion : Solis 1397
+ <br>Ciudad : Hurlingham
+ <br>Telefono : 4 452 7393
+ <br>Email : hectorchiariglione@live.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Experiencia de 35 Años en empresas alimenticias de alta exigencia en Europa y USA
+ <br>Security_code : sqf2c
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.61.177.115<br>
+ <br>REF : JPL
+ <br>Nombre : Hector
+ <br>Apellido : Chiariglione
+ <br>Cargo : Jefe de planta alimenticia
+ <br>Direccion : Solis 1397
+ <br>Ciudad : Hurlingham
+ <br>Telefono : 4 452 7393
+ <br>Email : hectorchiariglione@live.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Experiencia de 35 Años en empresas alimenticias de alta exigencia en Europa y USA
+ <br>Security_code : sqf2c
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.57.201.171<br>
+ <br>REF : tecm
+ <br>Nombre : CARLOS ALBERTO
+ <br>Apellido : ABREGU
+ <br>Cargo : tecnico mecanico
+ <br>Direccion : batalla de san nicolas 313
+ <br>Ciudad : del viso
+ <br>Telefono : 0111568568268
+ <br>Email : carlos.a.abregu@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : adjunto cv
+ <br>Security_code : t7x8d
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.57.201.171<br>
+ <br>REF : TECME
+ <br>Nombre : CARLOS ALBERTO
+ <br>Apellido : ABREGU
+ <br>Cargo : MECANICO
+ <br>Direccion : batalla de san nicolas 313
+ <br>Ciudad : del viso
+ <br>Telefono : 0111568568268
+ <br>Email : carlos.a.abregu@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : ADJUNTO CV
+ <br>Security_code : jspp9
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.176.22.2<br>
+ <br>REF : SuP
+ <br>Nombre : Ariel
+ <br>Apellido : Hryhorasz
+ <br>Cargo : Supervisor de Producción
+ <br>Direccion : Montgolfier 511 casa 141
+ <br>Ciudad : Isidro Casanova
+ <br>Telefono : 1155960391
+ <br>Email : arielfernandoriorach@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Quiero pertenecer a su empresa
+ <br>Security_code : t53m4
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.1.168.129<br>
+ <br>Nombre : Alejandro Gaston
+ <br>Apellido : Lescano
+ <br>Cargo : soldador calificado
+ <br>Direccion : 25 de mayo 527 barrio Urquiza
+ <br>Ciudad : san nicolas de los arroyo
+ <br>Telefono : 336 154647964
+ <br>Email : l.escano.alejandro@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : hola soy soldador calificado en procesos smaw y gtaw . 
+ <br>Security_code : h83rf
+ <br>Send : Enviar
+ <br>
+---------------
+

@@ -1,0 +1,115 @@
+Address : 186.39.148.116
+Nombre : macarena
+Apellido : Fusco
+Cargo : Administrativo
+Direccion : 3er barrio cec
+Ciudad : mendoza
+Telefono : 2615464199
+Email : bailamelectroo@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Espero poder recibir lo mas antes posible una respuesta favorable.
+Security_code : 39nk7
+Send : Enviar
+
+---------------
+
+Address : 200.70.5.158
+Nombre : Maria angélica
+Apellido : Maruso
+Cargo : Trabajo Social, realizar informes socio-ambientales
+Direccion : Castro Barros 142
+Ciudad : Buenos Aires
+Telefono : 1135018324
+Email : angiemaruso_2007@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me quiero postular para el puesto de realizar informes socioambientales. 
+Mis objetivos son profesionales y personales. Soy una persona responsable a la hora de realizar las tareas que me asignan. 
+Tengo interes en conocer y trabajar en su empresa.
+
+Security_code : cfxzz
+Send : Enviar
+
+---------------
+
+Address : 201.254.69.196
+Nombre : Carla Sofia
+Apellido : Arroqui
+Cargo : Administración
+Direccion : Ferre 4828
+Ciudad : Mar del Plata
+Telefono : 0223156131656
+Email : chofi_black@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Para cualquier consulta mandarme un msj o llamar a mi celular
+Security_code : mn7b9
+Send : Enviar
+
+---------------
+
+Address : 201.254.69.196
+Nombre : Carla Sofia
+Apellido : Arroqui
+Cargo : Administración
+Direccion : Ferre 4828
+Ciudad : Mar del Plata
+Telefono : 0223156131656
+Email : chofi_black@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Para cualquier consulta mandarme un msj o llamar a mi celular
+Security_code : mn7b9
+Send : Enviar
+
+---------------
+
+Address : 190.176.17.3
+REF : jefe-de-operaciones
+Nombre : Fernando
+Apellido : Bastán
+Cargo : Gerencia
+Direccion : Manuel Moreno 498
+Ciudad : Mendoza 
+Telefono : 261-4243079
+Email : ferbastan1@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Envio mi curriculum 
+
+gracias 
+Fernando Bastán
+Security_code : d2z6r
+Send : Enviar
+
+---------------
+
+Address : 190.173.169.223
+REF : supervisor-seguridad
+Nombre : Gerardo Sebastian
+Apellido : Aquino
+Cargo : SUPERVISOR DE SEGURIDAD
+Direccion : mendoza 2367
+Ciudad : san miguel
+Telefono : 1166730784
+Email : corrientesseba@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola, aca les dejo mi curriculum.
+Los saludo atentamente.
+Security_code : jp4j2
+Send : Enviar
+
+---------------
+
+Address : 190.173.169.223
+REF : administrativo-logistica
+Nombre : Gerardo Sebastian
+Apellido : Aquino
+Cargo : ADMINISTRATIVO DE LOGÍSTICA
+Direccion : mendoza 2367
+Ciudad : san miguel
+Telefono : 1166730784
+Email : corrientesseba@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Los saludo atentamente
+Security_code : 6pq64
+Send : Enviar
+
+---------------
+

@@ -1,0 +1,69 @@
+Address : 201.250.57.52
+Nombre : johanna
+Apellido : rodriguez
+Cargo : vendedora
+Direccion : santa maria del buen aire 469
+Ciudad : buenos aires
+Telefono : 43024233
+Email : lacolo_barracas@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : tengo muchas ganas de trabajar ya que hace casi 1 año y medio que fui mama y todavia no tube suerte de encontrar ningun trabajo... 
+Security_code : m5jyt
+Send : Enviar
+
+---------------
+
+Address : 190.16.25.191
+Nombre : Sergio Alejandro
+Apellido : Mira
+Cargo : Jefe de Planificación de Abastecimiento y Producción
+Direccion : Corona 2542 Barrio Priv Galapagos Lote 176
+Ciudad : Del Viso
+Telefono : 15-4536-3638
+Email : sermir@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimado Sr. / Sra.
+
+De mi mayor consideración,
+
+Tengo el agrado de dirigirme a Ud. para hacerle llegar mi curriculum vitae, con el fin de que pueda considerarlo en sus futuras búsquedas de personal, especialmente en áreas de Supply Chain / Logística / Operaciones / Abastecimiento.
+
+Me gradué como Licenciado en Informática en la Universidad Argentina de la Empresa y me he capacitado en técnicas de planificación en el ITBA.
+
+Como podrá observar en mi curriculum, mi última experiencia laboral la he desempeñado como Jefe de Planificación de Abastecimiento y Producción en la empresa National Adhesives (multinacional de adhesivos industriales del grupo ICI), contando con una amplia experiencia en dicha posición. 
+Anteriormente trabajé en empresas de primera línea tales como National Starch & Chemical (multinacional del grupo Unilever) y he tenido también experiencias enriquecedoras en empresas nacionales.
+
+Como parte de mi objetivo laboral quisiera poner en su conocimiento que el mismo es aportar el máximo valor a la organización, lograr un ambiente de trabajo óptimo para las tareas a realizar, capacitar a subordinados y capacitarme en todas las actividades pertinentes al grupo de trabajo, aportar todo mi empeño, conocimientos y compromiso con las tareas bajo mi responsabilidad.
+
+Entre mis puntos fuertes quisiera destacar:
+Compromiso y automotivación / excelentes habilidades de liderazgo / dedicación / excelente comunicación y relaciones interpersonales / iniciativa / orientación a resultados / análisis y resolución de problemas.
+
+Destacándole mi alto interés en cualquier oportunidad de crecimiento profesional, quedo a su total disposición para proveerle más información o para concertar una entrevista personal, si Ud. lo considera apropiado.
+
+Atentamente,
+Lic. Sergio Alejandro Mira.
+Cel: 15-4536-3638
+sermir@hotmail.com
+
+
+Security_code : sp24h
+Send : Enviar
+
+---------------
+
+Address : 200.125.67.41
+REF : adper
+Nombre : Silvana Elisabeth
+Apellido : Jurevicius
+Cargo : Administrativa de personal
+Direccion : Cuenca 3456
+Ciudad : CABA
+Telefono : 1562644819
+Email : silvanajurevicius@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me postulo para el puesto de administrativa de personal.
+Security_code : 9tkpr
+Send : Enviar
+
+---------------
+

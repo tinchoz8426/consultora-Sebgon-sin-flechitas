@@ -1,0 +1,30 @@
+Address : 186.111.10.251
+Nombre : Mario Daniel
+Apellido : Veron
+Cargo : ENCARGADO O SUPERVISOR
+Direccion : Cespedes 4593
+Ciudad : Gonzalez Catan
+Telefono : 1136558043
+Email : danielunlz@hotmail.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : buscando nuevas experiencias laborales con relacion a la carrera que estoy cursando 
+Security_code : 26vsd
+Send : Enviar
+
+---------------
+
+Address : 186.111.10.251
+Nombre : Mario Daniel
+Apellido : Veron
+Cargo : ENCARGADO O SUPERVISOR
+Direccion : Cespedes 4593
+Ciudad : Gonzalez Catan
+Telefono : 1136558043
+Email : danielunlz@hotmail.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : buscando nuevas experiencias laborales con relacion a la carrera que estoy cursando 
+Security_code : 26vsd
+Send : Enviar
+
+---------------
+

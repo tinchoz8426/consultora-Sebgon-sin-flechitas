@@ -1,0 +1,45 @@
+Address : 190.192.197.233
+Nombre : Andrea
+Apellido : Hurtado
+Cargo : Disponible
+Direccion : Av. Triunvirato 4429
+Ciudad : Capital Federal
+Telefono : 1533346791
+Email : Nany-87@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola mi nombre es Andrea, espero que mi curricum me abra las puertas a un nuevo trabajo. Muchas gracias
+Security_code : rh64d
+Send : Enviar
+
+---------------
+
+Address : 186.142.151.64
+Nombre : Natalia
+Apellido : Montenegro
+Cargo : Vendedora
+Direccion : Callle Vergara 4122
+Ciudad : mendoza
+Telefono : (0261) 153903747
+Email : natymontenegro_17@hotmail.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Estoy en búsqueda de un trabajo con un puesto que este relacionado al cargo de vendedora. Dispongo de responsabilidad total y predisposicion.
+Security_code : qx8cv
+Send : Enviar
+
+---------------
+
+Address : 186.142.151.64
+Nombre : Natalia
+Apellido : Montenegro
+Cargo : Vendedora
+Direccion : Callle Vergara 4122
+Ciudad : mendoza
+Telefono : (0261) 153903747
+Email : natymontenegro_17@hotmail.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Estoy en búsqueda de un puesto que este relacionado al cargo de vendedora. Dispongo de responsabilidad total y predisposición. 
+Security_code : 4pht4
+Send : Enviar
+
+---------------
+

@@ -1,0 +1,165 @@
+Address : 186.22.100.76
+Nombre : MARINA
+Apellido : RUBIO
+Cargo : ADMINISTRATIVA
+Direccion : 2 DE MAYO 3030
+Ciudad : BUENOS AIRES
+Telefono : 42097563
+Email : marina_r87@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : .
+Security_code : DXXSD
+Send : Enviar
+
+---------------
+
+Address : 186.59.8.160
+Nombre : maria paula
+Apellido : crescitelli
+Cargo : recursos humanos
+Direccion : w. nuñez 320
+Ciudad : rivadavia, mendoza
+Telefono : 0263- 154513192
+Email : paulic94@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : buso empleo en el area de rrhh o puesto similar. 
+Security_code : yfqzy
+Send : Enviar
+
+---------------
+
+Address : 181.25.215.59
+Nombre : rocio soledad
+Apellido : benitez
+Cargo : secretaria-procuradora
+Direccion : e arana 831- monte grande
+Ciudad : Buenos Aires
+Telefono : 42901706
+Email : rocio-benitez@live.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Deseo postularme a un trabajo para crecer laboralmente y obtener experiencia. Desde ya muchas gracias. atte. Rocio Benitez
+Security_code : 9wv2z
+Send : Enviar
+
+---------------
+
+Address : 181.239.5.45
+Nombre : roberto
+Apellido : flores
+Cargo : tecnico en higiene y seguridad laboral
+Direccion : ruben mariel 5837 Bº camus rivadavia
+Ciudad : san juan
+Telefono : 0264 4331171
+Email : robertooscar@live.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : busco trabajo mis datos adjuntos Graciass.
+Security_code : 2cs7n
+Send : Enviar
+
+---------------
+
+Address : 201.212.107.25
+Nombre : Carina Samanta
+Apellido : Torres
+Cargo : Atención al público
+Direccion : Richieri 852 1 a
+Ciudad : Rosario
+Telefono : 3412750989
+Email : carinatorres_366@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Mensaje
+Security_code : 7596w
+Send : Enviar
+
+---------------
+
+Address : 201.212.107.25
+Nombre : Carina Samanta
+Apellido : Torres
+Cargo : Atención al público
+Direccion : Richieri 852 1 a
+Ciudad : Rosario
+Telefono : 3412750989
+Email : carinatorres_366@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Mensaje
+Security_code : 7596w
+Send : Enviar
+
+---------------
+
+Address : 201.212.107.25
+Nombre : Carina Samanta
+Apellido : Torres
+Cargo : Atención al público
+Direccion : Richieri 852 1 a
+Ciudad : Rosario
+Telefono : 3412750989
+Email : carinatorres_366@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Mensaje
+Security_code : 7596w
+Send : Enviar
+
+---------------
+
+Address : 201.212.107.25
+Nombre : Carina Samanta
+Apellido : Torres
+Cargo : Atención al público
+Direccion : Richieri 852 1 a
+Ciudad : Rosario
+Telefono : 3412750989
+Email : carinatorres_366@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Mensaje
+Security_code : cz3bb
+Send : Enviar
+
+---------------
+
+Address : 186.152.64.117
+Nombre : pamela
+Apellido : maldonado
+Cargo : cajera, vendedora
+Direccion : juan rodrigues 2432
+Ciudad : cordoba
+Telefono : 4577506
+Email : pamelamaldonado2007@hotmail.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : necesito un nuevo trabajo con urgencia
+Security_code : vk2k8
+Send : Enviar
+
+---------------
+
+Address : 186.58.33.20
+Nombre : brenda
+Apellido : bobadilla
+Cargo : atencion al cliente
+Direccion : conde 4270
+Ciudad : gonzalez catan
+Telefono : 01146461148
+Email : brem_05@outlook.es
+MAX_FILE_SIZE : 2097152
+Mensaje : estare dispuesta al cargo que me sea asignado y me desempeñare con profecionalidad
+Security_code : 7ssvq
+Send : Enviar
+
+---------------
+
+Address : 186.58.33.20
+Nombre : brenda
+Apellido : bobadilla
+Cargo : atencion al cliente
+Direccion : conde 4270
+Ciudad : gonzalez catan
+Telefono : 01146461148
+Email : brem_05@outlook.es
+MAX_FILE_SIZE : 2097152
+Mensaje : estare dispuesta al cargo que me sea asignado y me desempeñare con profecionalidad
+Security_code : 7ssvq
+Send : Enviar
+
+---------------
+

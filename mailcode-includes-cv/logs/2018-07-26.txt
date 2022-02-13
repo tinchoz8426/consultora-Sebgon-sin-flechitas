@@ -1,0 +1,91 @@
+Address : 107.167.108.238<br>
+ <br>Nombre : Lucia 
+ <br>Apellido : Enrique
+ <br>Cargo : Cuidado de niños o adultos mayores y servicio domestico
+ <br>Direccion : estrada 2547
+ <br>Ciudad : Santa fe
+ <br>Telefono : 3424050930
+ <br>Email : le5357629@gmail.com 
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Agredeceria mucho que me tengan al tanto de cualquier tipo de trabajo, ya que lo estoy necesitando.. Puedo aprender si es un area ajena a mi.. No tengo problemas con los horarios y dias!! Desde ya muchas gracias!!!!
+ <br>Security_code : ssqrs
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.174.194.159<br>
+ <br>Nombre : Leonardo
+ <br>Apellido : Gerini
+ <br>Cargo : Técnico en Higiene y Seguridad
+ <br>Direccion : España 845
+ <br>Ciudad : Villa Madero
+ <br>Telefono : 1533475563
+ <br>Email : leonardonahuelgerini@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenos días, soy Técnico en Higiene y Seguridad, me resta la tesis para recibirme de Licenciado.
+ <br>Security_code : 4b99r
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.174.194.159<br>
+ <br>Nombre : Leonardo
+ <br>Apellido : Gerini
+ <br>Cargo : Técnico en Higiene y Seguridad
+ <br>Direccion : España 845
+ <br>Ciudad : Villa Madero
+ <br>Telefono : 1533475563
+ <br>Email : leonardonahuelgerini@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenos días, soy Técnico en Higiene y Seguridad, me resta la tesis para recibirme de Licenciado.
+ <br>Security_code : tn22v
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.252.4.6<br>
+ <br>Nombre : Graciela
+ <br>Apellido : Juarez
+ <br>Cargo : Trabajadora Social
+ <br>Direccion : Avenida Esclada 748
+ <br>Ciudad : Tigre
+ <br>Telefono : 1562144127
+ <br>Email : juarezgraciela73@yahoo.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : ffj28
+ <br>Security_code : ffj28
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.212.120.170<br>
+ <br>Nombre : Jesús Manuel
+ <br>Apellido : Ruiz Bastidas
+ <br>Cargo : Ing Electricista
+ <br>Direccion : Av. Belgrano 1185
+ <br>Ciudad : Buenos aires
+ <br>Telefono : 911 27499275
+ <br>Email : jesus.ruizb23@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buen día. Hago formalmente la postulación de mi CV para búsqueda de un puesto de trabajo.
+ <br>Security_code : tf6sh
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.177.103.190<br>
+ <br>REF : TEC. EL
+ <br>Nombre : Jose Gabriel
+ <br>Apellido : Torres Fernandez
+ <br>Cargo : 1837
+ <br>Direccion : banfield estrada 1427
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 1132865466
+ <br>Email : jgtf908@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : buenas, me gustaria forma de su equipo de trabajo y aumenta mi experiencia laboral junto con el desarrollo de la empresa soy pro activo, emprendedor trabajo muy bien en grupo.
+ <br>Security_code : vc7w4
+ <br>Send : Enviar
+ <br>
+---------------
+

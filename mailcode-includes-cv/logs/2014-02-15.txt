@@ -1,0 +1,17 @@
+Address : 190.55.111.202
+Nombre : Ángeles
+Apellido : Godoy
+Cargo : Selectora Freelance
+Direccion : Guemes 428 2 C, Palermo
+Ciudad : Capital Federal
+Telefono : 16980431
+Email : mangiegodoy@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Envío mi CV a los fines de ser tenida en cuenta para el puesto de Selectora de Personal Freelance.
+
+Muchas gracias.
+Security_code : 97yxm
+Send : Enviar
+
+---------------
+

@@ -1,0 +1,16 @@
+Address : 190.57.241.211<br>
+ <br>REF : EP-1
+ <br>Nombre : Mariano Manuel
+ <br>Apellido : López
+ <br>Cargo : Encargado de Producción
+ <br>Direccion : Urquiza 3447, dto 2F
+ <br>Ciudad : Santa Fe
+ <br>Telefono : 0342156983882
+ <br>Email : marianomanuellopez@outlook.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados señores de Consultora Sebgon: Me llamo Mariano y me encuentro interesado en la vacante laboral. Adjunto mi CV y ante cualquier inquietud, me encuentro disponible para una entrevista. Gracias. Saludos.
+ <br>Security_code : d6b7j
+ <br>Send : Enviar
+ <br>
+---------------
+

@@ -1,0 +1,152 @@
+<?php 
+include "modulos/login/control-sesion.php";
+require 'funciones/funciones_comunes.php';
+require 'clases/formularios.php';
+//ini_set('display_errors', 1);
+//ini_set('display_startup_errors', 1);
+//error_reporting(E_ALL);
+$modulo="modulos/".var_url($_GET['modulo'],0).".php";
+
+?>
+<!doctype html>
+<html lang="zxx">
+	<head>
+		<!-- Required meta tags -->
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+		<!-- Bootstrap CSS -->
+        <link rel="stylesheet" href="../assets/css/bootstrap.min.css">
+        <!-- Font Awesome Min CSS -->
+        <link rel="stylesheet" href="../assets/css/fontawesome.min.css">
+		<!-- Classy Nav CSS -->
+		<link rel="stylesheet" href="../assets/css/classy-nav.min.css">
+		<!-- Nice Select Min CSS -->
+		<link rel="stylesheet" href="../assets/css/nice-select.css">
+		<!-- Animate CSS -->
+		<link rel="stylesheet" href="../assets/css/animate.css">
+		<!-- Owl Carousel CSS -->
+		<link rel="stylesheet" href="../assets/css/owl.carousel.css">
+		<!-- Owl Theme Default CSS -->
+		<link rel="stylesheet" href="../assets/css/owl.theme.default.min.css">
+		<!-- Style CSS -->
+        <link rel="stylesheet" href="../assets/css/style.css?ver=91">
+        <!-- Responsive CSS -->
+        <link rel="stylesheet" href="../assets/css/responsive.css">
+        <!-- Default Color CSS -->
+        <link rel="stylesheet" href="../assets/css/color/color-default.css">
+		<!-- DataTables -->
+		 <script src="../assets/js/jquery.min.js"></script>
+		<script type="text/javascript" src="bootstrap2/jquery.min.jsllll"></script>
+		<link rel="stylesheet" type="text/css" href="datatables/datatables.min.css?ver=<?php echo pass(10);?>"> 
+		<link rel="stylesheet" type="text/css" href="datatables/ctn.css"> 
+		<script type="text/javascript" src="datatables/datatables.min.js?ver=0012" ></script> 
+
+		<style type="text/css">
+		#dataTables_filter
+		{
+		align:right;
+		}
+		</style>
+
+        <title>WexWeClasificados Panel de Control</title>
+		
+		<link rel="icon" type="../image/png" href="../assets/img/favicon.png">
+    </head>
+    <body>
+        <!-- Start Preloader Area -->
+       
+        <!-- End Preloader Area -->
+
+        <!-- Start Main Menu Area -->
+        <div class="main-header-area header-sticky">
+            <div class="container">
+                <div class="classy-nav-container breakpoint-off">
+                    <!-- Classy Menu -->
+                    <nav class="classy-navbar justify-content-between" id="listingNav">
+
+                        <!-- Logo -->
+                        <a class="nav-brand" href="index.html"><img src="../assets/img/logo.png" alt="logo"></a>
+
+                        <!-- Navbar Toggler -->
+                        <div class="classy-navbar-toggler">
+                            <span class="navbarToggler"><span></span><span></span><span></span></span>
+                        </div>
+
+                        <!-- Menu -->
+                        <div class="classy-menu">
+
+                            <!-- close btn -->
+                            <div class="classycloseIcon">
+                                <div class="cross-wrap"><span class="top"></span><span class="bottom"></span></div>
+                            </div>
+
+							<?php 
+							$modulo_7="usuarios/usuarios_del_sistema";
+							$modulo_8="log/log";
+							$modulo_9="estadistica/avisos_activos";
+							$usuarios="panel.php?modulo=".enrosca($modulo_7,$_SESSION["clave"]);
+							$log="panel.php?modulo=".enrosca($modulo_8,$_SESSION["clave"]);
+							$activos="panel.php?modulo=".enrosca($modulo_9,$_SESSION["clave"]);
+							
+							?>
+                            <!-- Nav Start -->
+                            <div class="classynav">
+                                <ul>
+                                   <li><a href="#">Opciones</a>
+										<ul class="dropdown">
+                                            <li><a href="<?php echo $usuarios;?>">Usuarios</a></li>
+                                            <li><a href="<?php echo $log; ?>">Log</a></li>
+											
+											<li><a href="<?php echo $activos;?>">Avisos Activos</a></li>
+											<li><a href="<?php echo $renovados;?>">Avisos Renovados</a></li>
+											<li><a href="<?php echo $pausados;?>">Avisos Pausados</a></li>
+											<li><a href="<?php echo $norenovados;?>">Avisos no renovados</a></li>
+											<li><a href="<?php echo $cobranzas;?>">Resumen de Cobranzas</a></li>
+											
+                                            
+										</ul>
+									</li> 
+
+
+                                    <li class="right-side">
+                                        <ul>
+                                            
+
+                                            <li><a href="logout.php" class="btn btn-primary"> Salir</a></li>
+                                        </ul>
+                                    </li>
+                                </ul>
+                            </div>
+                            <!-- Nav End -->
+                        </div>
+                    </nav>
+                </div>
+            </div>
+        </div>
+
+        <section class="dashboard-area ptb-100">
+            <div class="container">
+                <div class="row">
+								<?php include 'modulos/usuarios/perfil.php';?> 
+                    <div class="col-lg-9 col-md-9">
+                        <div class="dashboard">
+								<?php 
+								//echo $modulo;
+								include $modulo;?>
+						</div>	
+					</div>
+				</div>
+			</div>
+        </section>
+
+        <?php //include "include/foot.php"; ?>
+
+        <div class="go-top"><i class="fas fa-angle-up"></i></div>
+<script type="text/javascript">
+  $(document).ready(function(){
+    $(".datatable").DataTable();
+  })
+</script>
+        <?php include "include/js_alpie.php"; ?>
+    </body>
+</html>

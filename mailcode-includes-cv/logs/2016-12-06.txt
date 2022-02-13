@@ -1,0 +1,18 @@
+Address : 181.45.211.71<br>
+ <br>REF : ROT-1
+ <br>Nombre : Nicolás
+ <br>Apellido : Bruno
+ <br>Cargo : ROT-1
+ <br>Direccion : Boedo 313
+ <br>Ciudad : Ramos Mejía
+ <br>Telefono : 1530048009
+ <br>Email : dinicolasbruno@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buen día, quería postularme para el puesto con referencia ROT-1, si aún están en la búsqueda. Adjunto mi CV.
+
+saludos cordiales
+ <br>Security_code : 9k5t7
+ <br>Send : Enviar
+ <br>
+---------------
+

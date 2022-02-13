@@ -1,0 +1,207 @@
+Address : 190.177.218.35
+Nombre : analia paola
+Apellido : ALMADA
+Cargo : recepcionista
+Direccion : bartolome mitre 4437 dpto 4"d"
+Ciudad : CAPITAL FEDERAL
+Telefono : 49817846
+Email : almadanalia15@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : vi el aviso en la pagina zonajobs que decia que el puesto de recepcionista era en la zona de retiro.
+Security_code : ht6ws
+Send : Enviar
+
+---------------
+
+Address : 190.137.76.28
+Nombre : Edgardo
+Apellido : Pereyra
+Cargo : tecnico en higiene y seguridad laboral
+Direccion : B° 25 vivienda casa n° 7
+Ciudad : Graneros Tucuman 
+Telefono : 03865-15562995
+Email : higysegpereyra@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : De mi mayor consideración: 
+
+Tengo el agrado de dirigirme a Uds. con el fin de transmitirles mi deseo en firme de incorporarme a su organización. A tal efecto adjunto, junto a la presente, mi CV. 
+
+Me presento como una persona activa, responsable, creativa, flexible, orientada al logro de resultados y a la resolución y evolución constante en las tareas asignadas. 
+
+El objetivo que me he impuesto, es el de formar parte del personal de una empresa prestigiosa, confiable y con proyectos futuros. 
+ 
+Pongo, además, en su conocimiento que estoy en condiciones de asumir la responsabilidad de este empleo en forma inmediata, y con amplia disponibilidad de horarios. 
+
+Quedando a la espera de su respuesta. 
+
+Me despido atte.
+
+Pereyra Edgardo 
+
+Security_code : qj6zz
+Send : Enviar
+
+---------------
+
+Address : 190.16.103.151
+Nombre : carla maria lujan
+Apellido : cassano
+Cargo : recepcionista
+Direccion : san juan 3050 
+Ciudad : cap.fed
+Telefono : 155-486-8098
+Email : kuki_89_16@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Espero estar a la espectativas de lo que estan buscando.espero una pronta respuesta.desde ya muchisimas gracais.saluda atte cassano carla
+Security_code : eqj4t
+Send : Enviar
+
+---------------
+
+Address : 190.16.103.151
+Nombre : carla maria lujan
+Apellido : cassano
+Cargo : recepcionista
+Direccion : san juan 3050 
+Ciudad : cap.fed
+Telefono : 155-486-8098
+Email : kuki_89_16@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : espero estar a las espectativas de lo que estan buscando.desde ya muchas gracias.espero una pronta respuesta.
+Security_code : t4chx
+Send : Enviar
+
+---------------
+
+Address : 190.173.75.64
+REF : gerente-financiero
+Nombre : Estefania
+Apellido : Nicolella
+Cargo : junior
+Direccion : yapeyu
+Ciudad : haedo
+Telefono : 1554027453
+Email : estefanianicolella@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : .
+Security_code : n8qr2
+Send : Enviar
+
+---------------
+
+Address : 186.124.3.251
+Nombre : vanesa
+Apellido : Gomez Torres
+Cargo : Tecnico en Higiene y Seguridad Laboral
+Direccion : 12 de Octubre 800
+Ciudad : Tucuman
+Telefono : (0381) 154180236 / (0381) 4518533
+Email : vanesatorres_24@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Envío mi C.V porque estoy interesada en brindarles mis servicios.
+Security_code : y4m94
+Send : Enviar
+
+---------------
+
+Address : 190.19.151.117
+Nombre : priscila
+Apellido : navarro
+Cargo : cobranzas o administrativa
+Direccion : rio de janeiro 88
+Ciudad : capital federal
+Telefono : 49028619
+Email : priscilanavarro89@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : busco trabajo en el area administrativa o cobranzas dentro de la empresa,si consideran mi cv pueden llamarme al numero fijo a a mi celular que es 1538709561 gracias
+Security_code : qzyc3
+Send : Enviar
+
+---------------
+
+Address : 190.225.37.127
+Nombre : cristian andres 
+Apellido : perez
+Cargo : operario
+Direccion : jose marmol 4815
+Ciudad : cordoba
+Telefono : 0351 152042406
+Email : cap_todoliso@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : trabajo en una rectificadora en tapas de cilindro, soldadura de aluminio,electrica,autogena,torneria,y mediciones de presicion,micrometro,alesometro.
+Security_code : gpjzh
+Send : Enviar
+
+---------------
+
+Address : 190.172.94.31
+Nombre : Javier Armando
+Apellido : Lobo
+Cargo : Empleado
+Direccion : Perez Jose Julian 639 PB1
+Ciudad : Ciudad Autonoma De Buenos Aires
+Telefono : 4932-9688
+Email : javierlobo3@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Desde ya muchas gracias
+Security_code : g8jf6
+Send : Enviar
+
+---------------
+
+Address : 186.141.10.38
+Nombre : Maira
+Apellido : Reynoso
+Cargo : APM (Visitador Medico)
+Direccion : 131 entre 506 y 507
+Ciudad : La Plata
+Telefono : 0221155569935
+Email : mairal840@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me encantaria pertenecer a su grupo de trabajo
+Security_code : 55hk4
+Send : Enviar
+
+---------------
+
+Address : 190.2.28.61
+Nombre : María Elizabeth 
+Apellido : Mitchell
+Cargo : Secretaria
+Direccion : Tucumán 3310
+Ciudad : Capital Federal
+Telefono : 153-1333-185
+Email : elimitchell86@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : -
+Security_code : nt4y8
+Send : Enviar
+
+---------------
+
+Address : 190.189.186.147
+Nombre : Valeria
+Apellido : Agliano
+Cargo : Varios
+Direccion : Independencia 1131
+Ciudad : Mar del Plata 
+Telefono : 223 155936012
+Email : valeriaagliano@hotmail.com
+
+---------------
+
+Address : 190.189.186.147
+Nombre : Valeria
+Apellido : Agliano
+Cargo : Varios
+Direccion : Independencia 1131
+Ciudad : Mar del Plata 
+Telefono : 223 155936012
+Email : valeriaagliano@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Envio mi curriculum, esperando una pronta respuesta.
+Security_code : 6cv6c
+Send : Enviar
+
+---------------
+

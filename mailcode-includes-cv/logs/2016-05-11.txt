@@ -1,0 +1,244 @@
+Address : 181.117.7.22<br>
+ <br>REF : tecm
+ <br>Nombre : Jorge Jurado
+ <br>Apellido : Jurado
+ <br>Cargo : Mantenimiento
+ <br>Direccion : Ibarrola
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 1131822497
+ <br>Email : jorge_cjem@hotmail.es
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola ¿Que Tal? aca les dejo mi CV para que se informen sobre toda mi experiencia, toda es comprobable desde ya me seinto calificado con la experiencia que piden Muchas Gracias disculpen las molestias
+ <br>Security_code : r73jh
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.117.7.22<br>
+ <br>REF : tecm
+ <br>Nombre : Jorge 
+ <br>Apellido : Jurado
+ <br>Cargo : Mantenimiento
+ <br>Direccion : Ibarrola
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 1131822497
+ <br>Email : jorge_cjem@hotmail.es
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola ¿QUE Tal? aca les dejo mi CV para que se informen de mi experiencia Laboral ante cualquier consulta toda mi experiencia es comprobable desde ya me gustaria formar parte de un grupo de trabajo desde ya muchas gracias y disculpen las molestias
+ <br>Security_code : mkb6x
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.117.7.22<br>
+ <br>Nombre : Jorge
+ <br>Apellido : Jurado
+ <br>Cargo : Mantenimiento
+ <br>Direccion : Ibarrola
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 1131822497
+ <br>Email : jorge_cjem@hotmail.es
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola que tal aca les dejo mi CV para presentarme ante ustedes desde ya toda mi experiencia es comprobable muchas gracias 
+ <br>Security_code : df2r2
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.137.133.123<br>
+ <br>Nombre : Aldana Abigail
+ <br>Apellido : CORREA
+ <br>Cargo : Auxiliar De Farmacia  Farmacia
+ <br>Direccion : aldicorrea@live.com
+ <br>Ciudad : Quilmes
+ <br>Telefono : 1164131899/42782434
+ <br>Email : aldicorrea@live.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Aqui adjunto mi curriculum .MUCHAS GRACIAS
+ <br>Security_code : srsfk
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.137.133.123<br>
+ <br>Nombre : Aldana Abigail
+ <br>Apellido : CORREA
+ <br>Cargo : Auxiliar De Farmacia  Farmacia
+ <br>Direccion : aldicorrea@live.com
+ <br>Ciudad : Quilmes
+ <br>Telefono : 1164131899/42782434
+ <br>Email : aldicorrea@live.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Aqui adjunto mi curriculum .MUCHAS GRACIAS
+ <br>Security_code : srsfk
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.137.133.123<br>
+ <br>Nombre : Aldana Abigail
+ <br>Apellido : CORREA
+ <br>Cargo : Auxiliar De Farmacia  Farmacia
+ <br>Direccion : aldicorrea@live.com
+ <br>Ciudad : Quilmes
+ <br>Telefono : 1164131899/42782434
+ <br>Email : aldicorrea@live.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Aqui adjunto mi curriculum .MUCHAS GRACIAS
+ <br>Security_code : srsfk
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.177.69.112<br>
+ <br>Nombre : david197642@hotmail.com
+ <br>Apellido : Ingrassia
+ <br>Cargo : chofer
+ <br>Direccion : hernandarias 220
+ <br>Ciudad : caba
+ <br>Telefono : 15-37852901
+ <br>Email : david197642@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buen dia.Le pido tenga a bien recibir en curriculo que aqui adjunto con motivo de mi busqueda laboral.Gracias.
+ <br>Security_code : f3rkf
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.55.26.34<br>
+ <br>Nombre : Harrinson Gabriel 
+ <br>Apellido : MORA ARIAS
+ <br>Cargo : Legales
+ <br>Direccion : Avenida Callao 650
+ <br>Ciudad : Ciudad de Buenos Aires
+ <br>Telefono : 1132997039
+ <br>Email : harrymora@uees.edu.ec
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados favor considerar mi cv, tengo disponibilidad inmediata para laborar.
+ <br>Security_code : 749gd
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.189.228.119<br>
+ <br>Nombre : Omar Ricardo
+ <br>Apellido : Bravo
+ <br>Cargo : Gerencia Comercial
+ <br>Direccion : G Spano 989
+ <br>Ciudad : Temperley
+ <br>Telefono : 01142318851
+ <br>Email : obravo2007@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Soy una persona responsable, honesta y trabajadora
+ <br>Security_code : 6gzkh
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.189.228.119<br>
+ <br>Nombre : Omar Ricardo
+ <br>Apellido : Bravo
+ <br>Cargo : Gerencia Comercial
+ <br>Direccion : G Spano 989
+ <br>Ciudad : Temperley
+ <br>Telefono : 01142318851
+ <br>Email : obravo2007@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Soy una persona trabajadora, honesta y responsable
+ <br>Security_code : vc6sn
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 179.39.71.123<br>
+ <br>Nombre : Alan
+ <br>Apellido : Colman
+ <br>Cargo : Administrativo
+ <br>Direccion : Teodoro fels 1914
+ <br>Ciudad : Florencio varela
+ <br>Telefono : 1161925952
+ <br>Email : alaancolman94@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola, les dejo adjuntado mi CV. Mi disponibilidad horaria es de mañana-tarde hasta las 15 hrs por razones de estudio. Espero cumplir con los requisitos y estar dentro de su consideración . Saludos
+ <br>Security_code : bqp4s
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 179.39.71.123<br>
+ <br>Nombre : Alan
+ <br>Apellido : Colman
+ <br>Cargo : Administrativo
+ <br>Direccion : Teodoro fels 1914
+ <br>Ciudad : Florencio varela
+ <br>Telefono : 1161925952
+ <br>Email : alaancolman94@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola, les dejo adjuntado mi CV. Mi disponibilidad horaria es de mañana-tarde hasta las 15 hrs por razones de estudio. Espero cumplir con los requisitos y estar dentro de su consideración . Saludos
+ <br>Security_code : bqp4s
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 179.39.71.123<br>
+ <br>Nombre : Alan
+ <br>Apellido : Colman
+ <br>Cargo : Administrativo
+ <br>Direccion : Teodoro fels 1914
+ <br>Ciudad : Florencio varela
+ <br>Telefono : 1161925952
+ <br>Email : alaancolman94@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola, les dejo adjuntado mi CV. Mi disponibilidad horaria es de mañana-tarde hasta las 15 hrs por razones de estudio. Espero cumplir con los requisitos y estar dentro de su consideración . Saludos
+ <br>Security_code : bqp4s
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 179.39.71.123<br>
+ <br>Nombre : Alan
+ <br>Apellido : Colman
+ <br>Cargo : Administrativo
+ <br>Direccion : Teodoro fels 1914
+ <br>Ciudad : Florencio varela
+ <br>Telefono : 1161925952
+ <br>Email : alaancolman94@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola, les dejo adjuntado mi CV. Mi disponibilidad horaria es de mañana-tarde hasta las 15 hrs por razones de estudio. Espero cumplir con los requisitos y estar dentro de su consideración . Saludos
+ <br>Security_code : bdghz
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.44.18.7<br>
+ <br>Nombre : Macarena
+ <br>Apellido : Miranda
+ <br>Cargo : empleado
+ <br>Direccion : Juan de Herrera
+ <br>Ciudad : Malvinas Argentinas
+ <br>Telefono : 1148460927
+ <br>Email : mirandamacarenaf@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Escribo este mensaje en atención a una oferta laboral. Tengo experiencia en manejo de archivo, control de gastos, agenda de citas, atención al cliente, registro de datos y conocimientos avanzados en ventas.  Adjunto mi CV en este correo.
+Estoy muy interesada en agendar una entrevista para conversar sobre cómo podría contribuir de manera positiva a la empresa.
+De antemano gracias y excelente día.
+ <br>Security_code : ghjt9
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 188.143.232.26<br>
+ <br>Nombre : Mark
+ <br>Apellido : 13759
+ <br>Cargo : zRHJxLiCfBKRVXxNNPt
+ <br>Direccion : JNMXeBtHqZsHtEFooM
+ <br>Ciudad : NY
+ <br>Telefono : 68085084704
+ <br>Email : mark3qf527@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : 9ZLuLi http://www.y7YwKx7Pm6OnyJvolbcwrWdoEnRF29pb.com
+ <br>Security_code : ZOfiq
+ <br>Send : Enviar
+ <br>
+---------------
+

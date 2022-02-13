@@ -1,0 +1,123 @@
+Address : 200.45.20.173
+Nombre : Marcelo
+Apellido : Apostolico
+Cargo : Responsable de RRHH
+Direccion : Ing. White 1351 2 A
+Ciudad : Victoria
+Telefono : 011 6909 8996
+Email : mdapostolico@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados, 
+
+Me resulta de interés dejarles mi CV para alguna busqueda que pudiese surgir acorde a mi perfil 
+Security_code : 9xszn
+Send : Enviar
+
+---------------
+
+Address : 190.174.146.192
+Nombre : isabel 
+Apellido : candal
+Cargo : atencion al cliente
+Direccion : Simbron 4840
+Ciudad : capital federal
+Telefono : 1566698496
+Email : isabelcsoto36@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : A quien corresponda:
+Busco un empleo en el cual pueda progresar, con buen clima laboral, actitudes humanas y remuneración acorde a las responsabilidades del puesto.
+Soy una persona que tiene buen manejo de relaciones interpersonales, que valora el trabajo en equipo.
+Mantengo presente siempre el respeto, la lealtad, el compromiso, la puntualidad, simpatía y la responsabilidad.
+Atentamente
+Isabel Candal
+
+Security_code : 5gvvq
+Send : Enviar
+
+---------------
+
+Address : 186.23.0.83
+Nombre : sebastian
+Apellido : Baragiotta
+Cargo : empleado
+Direccion : venezuela
+Ciudad : san justo
+Telefono : ********
+Email : sebaragiotta@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : me dirijo a usted por medio del presente enviando mi cv, debido a que requiero un empleo, con preferencia a la mañana debido a que durante la tarde me encuentro realizando un bachillerato para poder finalizar mis estudios. desde ya muchas gracias
+Security_code : wdxfx
+Send : Enviar
+
+---------------
+
+Address : 190.229.10.186
+REF : trilingue
+Nombre : ayelen
+Apellido : rivadeneira
+Cargo : recepcion
+Direccion : asturia al 4900
+Ciudad : cordoba
+Telefono : (0351)4567345
+Email : ayelen_cba_2003@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : soy una chica que tiene muchas ganas de trabajar y de aprender  dispuesta a superarme 
+Security_code : 4kqys
+Send : Enviar
+
+---------------
+
+Address : 190.138.200.231
+Nombre : CECILIA
+Apellido : BARRIO
+Cargo : Pasante en psicología 
+Direccion : AVALOS 1690
+Ciudad : CAPITAL FEDERAL
+Telefono : 1531557798
+Email : ceciliabarrio87@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Soy Licenciada en Psicología. 
+Envío mi C.V. 
+Gracias
+Security_code : rwnjx
+Send : Enviar
+
+---------------
+
+Address : 186.137.0.8
+Nombre : Maria Sofia
+Apellido : Lutz
+Cargo : Lic. en Psicologia - Profesional Independiente
+Direccion : COLONIA ALEMANA
+Ciudad : NEUQUEN
+Telefono : 0299 155704464
+Email : mariasofia.lutz@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados
+Buenas tardes, 
+
+He visto un aviso en Computrabajo, donde solicitan personal para realizar tareas en Pehuajo. 
+Dado que la direccion de correo rebota los mails, me remito a este medio para poder enviarles mi CV. 
+Muchas gracias
+Saludos cordiales, 
+Security_code : 292hs
+Send : Enviar
+
+---------------
+
+Address : 190.17.40.96
+REF : jefe-de-operaciones
+Nombre : Roxana Mariannen 
+Apellido : Correa
+Cargo : cajera
+Direccion : Urquiza 351 1 B centro
+Ciudad : Cordoba
+Telefono : 351156828408
+Email : correa_marianne@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : hola
+Security_code : 3zgvv2
+Send : Enviar
+
+---------------
+

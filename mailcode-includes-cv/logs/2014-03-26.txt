@@ -1,0 +1,115 @@
+Address : 181.164.222.206
+Nombre : NOELIA 
+Apellido : RUBINI
+Cargo : LIC. EN TRABAJO SOCIAL
+Direccion : AVDA SAN JUAN 4362
+Ciudad : BUENOS AIRES
+Telefono : 011-155-9443419
+Email : nav_noelia@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : busco trabajo de asistente social en el area de educacion, salud, judicial, obra social, ong etc.
+Security_code : whc9r
+Send : Enviar
+
+---------------
+
+Address : 200.123.181.197
+Nombre : Oleksandra
+Apellido : Stefanyuk
+Cargo : Administrativo - Operaciones - Turismo
+Direccion : Florida, 686, dep.7B
+Ciudad : CABA
+Telefono : 1562153986
+Email : stefanyukoleksandra@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Mi objetivo es crecer profesionalmente, incorporarme en un ambiente laboral activo y en constante desarrollo. Tengo 5 años de experiencia en el puesto de venta, armado, reserva y cotización de paquetes turísticos para pasajeros individuales y grupos, acompañamiento de grupos de agentes de viajes.
+Security_code : kh3s7
+Send : Enviar
+
+---------------
+
+Address : 181.118.81.163
+Nombre : Roberto Gustavo 
+Apellido : Jofre
+Cargo : Lider de Proyectos / Consultor SAP FI-CO
+Direccion : Beltran 2020
+Ciudad : Mendoza
+Telefono : 261-212-2029
+Email : jofreroberto@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Project Managment especializado en análisis de procesos financieros para desarrollar actividades de coordinación y gestión dentro del área de servicios de la información.
+
+A cargo del proceso de diseño, configuración, capacitación, planificación y seguimiento de las actividades funcionales, y soporte post-implementación.
+
+Especialidades: Consultoría funcional SAP en Finanzas y Controling (FI - CO)
+
+Estoy convencido que la clave del éxito son las personas. Soy optimista y trabajador incansable. Me gusta afrontar nuevos retos
+Security_code : nppbx
+Send : Enviar
+
+---------------
+
+Address : 181.118.81.163
+REF : Gerente-de-Administracion-y-Finanzas
+Nombre : Roberto Gustavo 
+Apellido : Jofre
+Cargo : Lider de Proyectos 
+Direccion : Beltran 2020
+Ciudad : Mendoza
+Telefono : 261-212-2029
+Email : jofreroberto@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estoy convencido que la clave del éxito son las personas. Soy optimista y trabajador incansable. Me gusta afrontar nuevos retos
+Security_code : 6hg4t
+Send : Enviar
+
+---------------
+
+Address : 181.118.81.163
+REF : Gerente-de-Administracion-y-Finanzas
+Nombre : Roberto Gustavo 
+Apellido : Jofre
+Cargo : Lider de Proyectos 
+Direccion : Beltran 2020
+Ciudad : Mendoza
+Telefono : 261-212-2029
+Email : jofreroberto@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estoy convencido que la clave del éxito son las personas. Soy optimista y trabajador incansable. Me gusta afrontar nuevos retos
+Security_code : 6hg4t
+Send : Enviar
+
+---------------
+
+Address : 181.118.81.163
+REF : Gerente-de-Administracion-y-Finanzas
+Nombre : Roberto Gustavo 
+Apellido : Jofre
+Cargo : Lider de Proyectos 
+Direccion : Beltran 2020
+Ciudad : Mendoza
+Telefono : 261-212-2029
+Email : jofreroberto@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estoy convencido que la clave del éxito son las personas. Soy optimista y trabajador incansable. Me gusta afrontar nuevos retos
+Security_code : 263yt
+Send : Enviar
+
+---------------
+
+Address : 181.118.81.163
+REF : Gerente-de-Administracion-y-Finanzas
+Nombre : Roberto Gustavo 
+Apellido : Jofre
+Cargo : Lider de Proyectos 
+Direccion : Beltran 2020
+Ciudad : Mendoza
+Telefono : 261-212-2029
+Email : jofreroberto@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estoy convencido que la clave del éxito son las personas. Soy optimista y trabajador incansable. Me gusta afrontar nuevos retos
+Security_code : kd4rz
+Send : Enviar
+
+---------------
+

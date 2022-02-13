@@ -1,0 +1,16 @@
+Address : 181.44.102.68<br>
+ <br>REF : TEC. EL
+ <br>Nombre : Andres
+ <br>Apellido : Viva
+ <br>Cargo : Tecnico electronico
+ <br>Direccion : Bahia Blanca, 780
+ <br>Ciudad : Wilde
+ <br>Telefono : 1160438448
+ <br>Email : andres_viva2002@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me interesa el empleo. Desde ya, muchas gracias
+ <br>Security_code : 2trq7
+ <br>Send : Enviar
+ <br>
+---------------
+

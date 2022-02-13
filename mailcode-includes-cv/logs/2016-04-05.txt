@@ -1,0 +1,133 @@
+Address : 186.18.216.106
+Nombre : Braian
+Apellido : Blanco
+Cargo : Arquitecto, Sobrestante
+Direccion : Av. Olazabal 4575
+Ciudad : Ciudad de Buenos Aires
+Telefono : 1536273666
+Email : braian.g.blanco@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Soy una persona proactiva, con facilidad para aprendizaje, capacidad para la toma de decisiones y para la resolución de problemas.
+Actualmente me encuentro en búsqueda de un empleo donde pueda aplicar mis conocimientos adquiridos y poder nutrirme de nuevos, relacionados a mi carrera profesional.
+Security_code : 8sj7d
+Send : Enviar
+
+---------------
+
+Address : 200.49.219.89
+REF : JP
+Nombre : KARINA LAURA UGONE
+Apellido : UGONE
+Cargo : JEFE DE PERSONAL
+Direccion : ituzaingo 1232
+Ciudad : LANUS ESTE
+Telefono : 1569524957
+Email : karinaugone@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados: Envio mi CV a fin de ser evaluado para el puesto vacante de Referencia. A la espera de una respuesta favorable, los saludo cordialmente. 
+Security_code : pbsrf
+Send : Enviar
+
+---------------
+
+Address : 190.51.158.15
+REF : TEQ
+Nombre : Cynthia
+Apellido : Bustos
+Cargo : Tecnica Quimica
+Direccion : Pilar 1123
+Ciudad : Burzaco
+Telefono : 1535997048
+Email : cynbustos0@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados les adjunto mi CV y me postulo para la vacante ya que considero que cumplo con los requisitos solicitados por el aviso, espero con muchas ansias su respuesta.Saludos 
+Security_code : rpvsf
+Send : Enviar
+
+---------------
+
+Address : 181.168.1.40
+REF : SuP
+Nombre : Marcelo
+Apellido : Aranguez
+Cargo : Supervisor
+Direccion : Alfonsina Storni 2327
+Ciudad : Campana
+Telefono : 0348915498414
+Email : m.aranguez@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Proactivo y Responsable. Predisposicion para trabajar en equipo. Experiencia en procesos productivos, calidad y mejoras de productividad y costos.
+Security_code : jsnwv
+Send : Enviar
+
+---------------
+
+Address : 190.244.20.114
+Nombre : Shirley Ann
+Apellido : Jaroslavsky
+Cargo : Recepcionista, Secretaria, Comunicadora Institucional, Publicista, Docente
+Direccion : Blas Parera 252
+Ciudad : Quilmes
+Telefono : 02804685572
+Email : sjaroslavsky@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola. Mi nombre es Shirley Jaroslavsky. Soy Lic. en Comunicación Social y Profesora de Comunicación Social (ambos títulos completos)
+Security_code : yfbff
+Send : Enviar
+
+---------------
+
+Address : 181.170.84.147
+Nombre : VANESA ANDREA
+Apellido : ROSSI
+Cargo : ATENCIÓN AL CLIENTE, RECEPCIONISTA, ADMINISTRATIVA, ENCARGADA, VENTAS‏
+Direccion : CALLE 3 NRO 1310.5
+Ciudad : LA PLATA
+Telefono : 2974005370
+Email : andrea_rossi17@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Les envío en archivo adjunto mi cv, espero se comuniquen conmigo si poseen algún puesto acorde a mi perfil, saludos
+Security_code : 3yt8r
+Send : Enviar
+
+---------------
+
+Address : 181.14.230.208
+Nombre : Wanda Nazarena
+Apellido : Bottega
+Cargo : Indistinto
+Direccion : Colombia 1466
+Ciudad : Rosario
+Telefono : 3416100635
+Email : wandi.b@live.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Busco empleo de ingreso inmediato a contrato fijo.
+Security_code : f2gt6
+Send : Enviar
+
+---------------
+
+Address : 181.29.186.242
+Nombre : Nicolás
+Apellido : Barontini 
+Cargo : Generalista de RRHH
+Direccion : Soler 6063
+Ciudad : Capital Federal
+Telefono : 1153493531
+Email : nbarontini@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : A quien corresponda,
+
+Adjunto mi Currículum Vitae, con la intención de ofrecerles mis servicios ante una búsqueda para un puesto generalista de Recursos Humanos.    
+
+Soy Licenciado en Administración de Recursos Humanos de la Universidad del Salvador y tengo experiencia laboral comprobable en diferentes posiciones e industrias. Soy bilingüe en idioma inglés, manejo software de gestión de Recursos Humanos como SAP y tuve asignaciones internacionales donde desarrollé un interés por los puestos generalistas de RRHH.
+
+Quedo a su entera disposición ante una eventual entrevista personal con el objetivo de profundizar aspectos de mi perfil que resulten de su interés
+
+Un cordial saludo.
+Nicolás Barontini
+Security_code : 29myv
+Send : Enviar
+
+---------------
+

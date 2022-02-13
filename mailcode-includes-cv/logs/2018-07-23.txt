@@ -1,0 +1,62 @@
+Address : 186.111.163.124<br>
+ <br>Nombre : Ilan 
+ <br>Apellido : Guerrero
+ <br>Cargo : Empleado
+ <br>Direccion : Lola Mora 1883
+ <br>Ciudad : Cordoba
+ <br>Telefono : 3514089132
+ <br>Email : Ilan.talleres.g@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola tengo 20 años y tengo muchas ganas y necesidad de trabajar de lo que sea desde ya muchísimas gracias
+ <br>Security_code : 85kqr
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.111.163.124<br>
+ <br>Nombre : Ilan 
+ <br>Apellido : Guerrero
+ <br>Cargo : Empleado
+ <br>Direccion : Lola Mora 1883
+ <br>Ciudad : Cordoba
+ <br>Telefono : 3514089132
+ <br>Email : Ilan.talleres.g@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola tengo 20 años y tengo muchas ganas y necesidad de trabajar de lo que sea desde ya muchísimas gracias
+ <br>Security_code : 85kqr
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.111.163.124<br>
+ <br>Nombre : Ilan 
+ <br>Apellido : Guerrero
+ <br>Cargo : Empleado
+ <br>Direccion : Lola Mora 1883
+ <br>Ciudad : Cordoba
+ <br>Telefono : 3514089132
+ <br>Email : Ilan.talleres.g@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola tengo 20 años y tengo muchas ganas y necesidad de trabajar de lo que sea desde ya muchísimas gracias
+ <br>Security_code : 85kqr
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.17.150.240<br>
+ <br>Nombre : SEBASTIAN
+ <br>Apellido : GARONE
+ <br>Cargo : RESPONSABLE
+ <br>Direccion : MARIANO ESCALADA 1026
+ <br>Ciudad : EL PALOMAR
+ <br>Telefono : 1562416667
+ <br>Email : s_garone@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Contador Público, con más de ocho años de experiencia en el área de finanzas, en busca de nuevo desafíos profesionales.
+Pretendo dar soluciones sencillas a problemas difíciles aplicando toda mi experiencia laboral y conocimientos adquiridos, logrando de esta manera un crecimiento personal y profesional.
+
+ <br>Security_code : d596w
+ <br>Send : Enviar
+ <br>
+---------------
+

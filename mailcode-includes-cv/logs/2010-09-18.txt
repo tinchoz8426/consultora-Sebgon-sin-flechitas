@@ -1,0 +1,16 @@
+Address : 186.140.193.128
+Nombre : maximiliano 
+Apellido : piris 
+Cargo : segurida e higiene
+Direccion : olazabal 3168 3º "14"
+Ciudad : C.A.B.A.
+Telefono : 011-1569203971
+Email : maximilianopris@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : buenos dias queria hacerles una consulta por un puesto de trabajo como seguridad e higien en la municipalidad de san miguel de tucuman, si el  mismo ya fue ocupada es vacante porque aun veo que esta publicado y la verdad que me interesa ya que me gustaria radicarme en mi provincia mi CV fue enviado a este aviso el 11/08/2010. 
+sin otro particular saludos a ustedes atte. maxmiliano piris
+Security_code : P3HNY
+Send : Enviar
+
+---------------
+

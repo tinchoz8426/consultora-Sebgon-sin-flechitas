@@ -1,0 +1,62 @@
+Address : 186.56.235.183
+Nombre : Maria Sol
+Apellido : Sarratea
+Cargo : Varios
+Direccion : Juan B. Alberdi 567
+Ciudad : Caba
+Telefono : 1562448127
+Email : solsarratea@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenos dias, me interesaria participar en algun trabajo con ustedes. Tengo amplia experiencia, referencias comprobables, disponibilidad horaria y posibilidad de trabajar en el interior. Agradezco su tiempo. Saludos cordiales.
+Security_code : hrh6m
+Send : Enviar
+
+---------------
+
+Address : 201.231.131.226
+Nombre : Marcela
+Apellido : Donnet
+Cargo : Recepcion
+Direccion : Avenida belgrano 3354
+Ciudad : Capital federal
+Telefono : 1550962412
+Email : marilyn07marcela87@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : envio mi cv para puesto de recepcion en capital federal
+Security_code : 9jwzd
+Send : Enviar
+
+---------------
+
+Address : 190.175.239.160
+REF : trilingue
+Nombre : Jorge Hernán 
+Apellido : Acevedo
+Cargo : trilingue
+Direccion : 117 N° 1772
+Ciudad : Berazategui
+Telefono : 42613081
+Email : jheicevedo@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Viví tres años en China. Estudié mandarín en una universidad de ese país.Hablo un muy alto nivel de inglés. Tengo disponibilidad horaria full-time. Estoy muy interesado en el trabajo.
+Security_code : 9bk6y
+Send : Enviar
+
+---------------
+
+Address : 190.18.153.101
+Nombre : Heidy Vanessa
+Apellido : Quintana Alvarez
+Cargo : Secretaria / Recepcionista / Administrativa
+Direccion : Gurruchaga 2259 Departamento 48
+Ciudad : Capital Federal
+Telefono : 1121748435
+Email : heidy182@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Envío mi currículum porque me gustaría vincularme a alguna empresa por medio de ustedes.
+Agradezco la atención prestada.
+Security_code : zj86q
+Send : Enviar
+
+---------------
+

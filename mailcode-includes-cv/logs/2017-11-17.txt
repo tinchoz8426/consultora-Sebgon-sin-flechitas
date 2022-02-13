@@ -1,0 +1,109 @@
+Address : 66.249.85.11<br>
+ <br>REF : ACO-1
+ <br>Nombre : Agustina Yamila
+ <br>Apellido : Da Costa Pinto
+ <br>Cargo : Analista
+ <br>Direccion : Witcomb 1659
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 1169829873
+ <br>Email : agustinadcp@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados, Envío adjunto mi curriculum vitae para lo que consideren. Desde ya muchas gracias.
+ <br>Security_code : Zdfhd
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.7<br>
+ <br>Nombre : Agustina Yamila
+ <br>Apellido : Da Costa Pinto
+ <br>Cargo : Analista Comercio Exterior
+ <br>Direccion : Witcomb 1659
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 1169829873
+ <br>Email : agustinadcp@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Envio mu curriculum vitae para el puesto que consideren. Desde ya muchas gracias.
+ <br>Security_code : F4fbm
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.11<br>
+ <br>Nombre : Agustina Yamila
+ <br>Apellido : Da Costa Pinto
+ <br>Cargo : Analista Comercio Exterior
+ <br>Direccion : Intendente Witcomb 1659
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 1169829873
+ <br>Email : agustinadcp@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Envio mu curriculum vitae para el puesto que consideren. Desde ya muchas gracias.
+ <br>Security_code : F4fbm
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.191.60.149<br>
+ <br>REF : SP-1
+ <br>Nombre : Victor
+ <br>Apellido : Luna
+ <br>Cargo : Supervisor de Produccion.
+ <br>Direccion : Lynch 81
+ <br>Ciudad : Avellaneda
+ <br>Telefono : 01135896195
+ <br>Email : kingsanti@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados adjunto mi Cv a fin de aplicar alguna busqueda activa.
+ <br>Security_code : km3g8
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 152.169.156.5<br>
+ <br>Nombre : Sofia
+ <br>Apellido : Canavese
+ <br>Cargo : Nutricionista
+ <br>Direccion : Italia, 265
+ <br>Ciudad : Avellaneda
+ <br>Telefono : 1544975968
+ <br>Email : soficanavese@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : De mi consideración:
+ 
+Tengo el agrado de dirigirme a Ud. con el objeto de participar en búsquedas acordes a mi perfil.
+En cuanto a mi formación, soy Licenciada en nutrición graduada de la UBA. Cuento con un avanzado nivel de inglés y manejo de herramientas informáticas. Soy una persona responsable y trabajadora con capacidad para el trabajo en equipo, trato cordial, buena presencia y actitud profesional. 
+Dada la profesionalidad y atractivo de su empresa le solicito consideren, a la vista del Curriculum Vitae que les adjunto, la posibilidad de seleccionarme para un puesto de trabajo de Nutricionista requerido por alguno de sus clientes. 
+Asimismo solicito a Ud. evalúe la posibilidad de mantener una entrevista para ampliar aspectos de mi perfil.
+Aprovecho esta oportunidad para saludarlo/a cordialmente.
+
+
+SOFÍA CANAVESE
+ 
+Licenciada en Nutrición UBA.
+M.N 8551 M.P 3955 
+ <br>Security_code : tz65b
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.7.236.237<br>
+ <br>REF : TE-1
+ <br>Nombre : Carlos
+ <br>Apellido : Molina
+ <br>Cargo : Ingeniero Electronico
+ <br>Direccion : 30BIS
+ <br>Ciudad : Mercedes
+ <br>Telefono : 1126792266
+ <br>Email : carlos_molin@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buen dia, 
+
+Un gusto saludarles, mi nombre es Carlos Molina, Soy Ingeniero Electronico mencion automatizacion y control. Mi experiencia laboral ha sido en empresas de ingenieria de proyectos en la parte de instrumentación, trabajando como training. Tambien tengo experiencia en el area petrolera donde trabaje 2 años y 4 meses, como ingeniero de medicion y registro, asi como tambien ingeniero de mantenimiento en herramientas de perforación direccional en la empresa PDVSA. Actualmente trabajo en una empresa de telecomunicaciones en Mercedes, Buenos Aires, llamada IPNext desempeñandome como Torrista. Añadiendo a esto poseo conocimientos de PLC, instalaciones electricas, instrumentación, áreas en las cuales quisiera desarrollarme pero tambien estoy dispuesto a aprender otras áreas que necesite la empresa. 
+
+Agradeceria la oportunidad, Saludos
+ <br>Security_code : 9nrnv
+ <br>Send : Enviar
+ <br>
+---------------
+

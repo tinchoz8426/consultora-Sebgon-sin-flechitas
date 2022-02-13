@@ -1,0 +1,210 @@
+Address : 66.249.85.29<br>
+ <br>Nombre : Analia
+ <br>Apellido : Chanienko
+ <br>Cargo : Limpieza/Mantenimiento en hoteles/oficinas
+ <br>Direccion : Sarmiento 200
+ <br>Ciudad : General Las Heras (Prov.Buenos Aires)
+ <br>Telefono : 02227-582794
+ <br>Email : analia_chani78@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Cuento con currículum vitae que enviare a la brevedad.
+ <br>Security_code : 5kkxt
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.18.196.153<br>
+ <br>Nombre : Florencia
+ <br>Apellido : Cardozo
+ <br>Cargo : recepcionista
+ <br>Direccion : Soler 4627
+ <br>Ciudad : Capital Federal
+ <br>Telefono : 1167232559
+ <br>Email : cardozo_1993@live.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola, buenos días.
+Tengo experiencia en atención al cliente, en call center y manejo de personal. Estudio periodismo en Isec, estoy terminando el primer año de la carrera.
+ <br>Security_code : 05v8j
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.18.196.153<br>
+ <br>Nombre : Florencia
+ <br>Apellido : Cardozo
+ <br>Cargo : recepcionista
+ <br>Direccion : Soler 4627
+ <br>Ciudad : Capital Federal
+ <br>Telefono : 1167232559
+ <br>Email : cardozo_1993@live.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola, buenos días.
+Tengo experiencia en atención al cliente, en call center y manejo de personal. Estudio periodismo en Isec, estoy terminando el primer año de la carrera.
+ <br>Security_code : 9hfrs
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.210.251.55<br>
+ <br>REF : JPER-1
+ <br>Nombre : LUIS RICARDO
+ <br>Apellido : CARDUCCI
+ <br>Cargo : Jefe de Personal
+ <br>Direccion : velazquez 2343
+ <br>Ciudad : LOS POLVORINES
+ <br>Telefono : 01141842847
+ <br>Email : carducciluis@speedy.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Adjunto mi CV a fin de postularme a la vacacnte de Jefe de Personal. Para ello cuento con vasta experiencia en el manejo del sector de RRHH.
+A la espera de una respuesta favorable, saludo muy atte.
+
+
+ <br>Security_code : yb8pw
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.19.91.212<br>
+ <br>Nombre : Francisco
+ <br>Apellido : Caceres
+ <br>Cargo : Control de Gestión y/o Compras
+ <br>Direccion : Av. Medrano
+ <br>Ciudad : CABA
+ <br>Telefono : 1126910901
+ <br>Email : fjcd14@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas Tardes,
+
+Por medio de la presente adjunto mi Resumen Curricular, para su consideración en posibles vacantes.
+
+Experiencia en empresas que prestan servicios al sector Petrolero, Construcción y Transporte Pesado. Me considero  responsable, proactivo, resolutivo, organizado, motivado al logro, facilidad de aprendizaje, con orientación a dar respuesta inmediata y vocación de servicio, capacidad para trabajar en equipo, bajo presión y con buenas relaciones interpersonales.
+
+Espero que mi perfil sea de su agrado, agradeciendo de antemano por cualquier oportunidad; 
+
+Saludos; 
+
+Ing. Francisco Cáceres
+Cel. 11 26910901
+ <br>Security_code : swrgb
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.190.237.46<br>
+ <br>Nombre : Hugo Horacio
+ <br>Apellido : Torres
+ <br>Cargo : Supervision y Gerencia
+ <br>Direccion : Independencia 2041
+ <br>Ciudad : Merlo
+ <br>Telefono : 40284154
+ <br>Email : hugotorres295@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Ante todo agradezco la recepción del presente CV ya que estoy en proceso de búsqueda de trabajo.
+
+Dentro de mi trayectoria profesional se destaca:
+
+-Amplio conocimiento y experiencia en Retail.
+-Control de Stock, metodología FEFO y control de inventarios, 
+-Manejo de equipos y capacidad de trabajo bajo presión.
+-Orientación a resultados.
+Mi experiencia puede ser corroborada por las personas de referencia, y si se encuentran en los parámetros de alguna búsqueda que se este desarrollando, espero sea a bien tomada en cuenta para la misma.
+
+Desde ya muchísimas gracias
+
+Saludos Cordiales.
+ <br>Security_code : zrhzf
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.192.62.93<br>
+ <br>REF : SP-1
+ <br>Nombre : Jesus Paucides
+ <br>Apellido : Ortiz Gimenez
+ <br>Cargo : supervisor de produccion 
+ <br>Direccion : Calle Pampa 1318, Piso 2, apartamento 3
+ <br>Ciudad : PILAR
+ <br>Telefono : 0111551546418
+ <br>Email : ortizg.jesusp@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Profesional disponible
+ <br>Security_code : 3mm86
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.192.62.93<br>
+ <br>Nombre : Jesus Paucides
+ <br>Apellido : Ortiz Gimenez
+ <br>Cargo : supervisor de produccion 
+ <br>Direccion : Calle Pampa 1318, Piso 2, apartamento 3
+ <br>Ciudad : Pilar
+ <br>Telefono : 0111551546418
+ <br>Email : ortizg.jesusp@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Disponible
+ <br>Security_code : w924n
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.192.62.93<br>
+ <br>Nombre : Jesus Paucides
+ <br>Apellido : Ortiz Gimenez
+ <br>Cargo : supervisor de produccion 
+ <br>Direccion : Calle Pampa 1318, Piso 2, apartamento 3
+ <br>Ciudad : Pilar
+ <br>Telefono : 0111551546418
+ <br>Email : ortizg.jesusp@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Disponible
+ <br>Security_code : w924n
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.192.62.93<br>
+ <br>Nombre : Jesus Paucides
+ <br>Apellido : Ortiz Gimenez
+ <br>Cargo : supervisor de produccion 
+ <br>Direccion : Calle Pampa 1318, Piso 2, apartamento 3
+ <br>Ciudad : Pilar
+ <br>Telefono : 0111551546418
+ <br>Email : ortizg.jesusp@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Disponible
+ <br>Security_code : b6cwz
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.19.121.99<br>
+ <br>Nombre : Romina Vanesa
+ <br>Apellido : Acevedo
+ <br>Cargo : empleada domestica o cajera
+ <br>Direccion : calle 5 1279 Pacheco
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 4740 9564
+ <br>Email : romii.1234@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : nesecito trabajar muchas gracias!!
+ <br>Security_code : d64vs
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.2.118.46<br>
+ <br>Nombre : Mónica El va 
+ <br>Apellido : Nuñez
+ <br>Cargo : Cualquier cargo
+ <br>Direccion : Eucalipto casa 21
+ <br>Ciudad : Salta
+ <br>Telefono : 3875005423
+ <br>Email : galvnnatalia@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Responsable honesta trabajadora y con referencias
+ <br>Security_code : Sw8vf
+ <br>Send : Enviar
+ <br>
+---------------
+

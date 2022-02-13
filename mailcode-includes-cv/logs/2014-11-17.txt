@@ -1,0 +1,62 @@
+Address : 186.63.37.62
+Nombre : karen
+Apellido : oviedo
+Cargo : recepcionista 
+Direccion : 829 n 1784 san fco solano 
+Ciudad : quilmes 
+Telefono : 42129286
+Email : karenceloviedo@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje :  Desempeñarme, ofrecer y desarrollar todas mis capacidades innatas, consiguiendo un excelente resultado en la labor y el área asignada; además, adquirir a través de la responsabilidad y confianza en mí depositada, una experiencia inigualable, con la cual conseguiré un paso importante en mi superación personal, junto con el orgullo de hacer parte de su equipo de trabajo.
+Security_code : gtrtr
+Send : Enviar
+
+---------------
+
+Address : 190.231.139.134
+Nombre : Lautaro
+Apellido : Olivera
+Cargo : Algo acorde a mi perfil
+Direccion : Bicentenario 6180
+Ciudad : General San martín
+Telefono : 1567456359
+Email : lautarofc@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : .
+Security_code : k4yvf
+Send : Enviar
+
+---------------
+
+Address : 190.231.139.134
+Nombre : Lautaro
+Apellido : Olivera
+Cargo : Acorde a mi perfil
+Direccion : Bicentenario 6180
+Ciudad : General San martín
+Telefono : 1567456359
+Email : lautarofc@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : -
+Security_code : 84jmh
+Send : Enviar
+
+---------------
+
+Address : 201.234.37.17
+Nombre : Carina Veronica
+Apellido : Garrone
+Cargo : EMPLEADA
+Direccion : Ramon Falcon 39098
+Ciudad : C.A.B.A
+Telefono : 35344686
+Email : carinagarroneldd@gmail.com,
+MAX_FILE_SIZE : 2097152
+Mensaje : Me pongo en contacto con usted para hacerle llegar mi currículum vitae por si necesita cubrir, ahora o en el futuro, un puesto en el según detallo en el mismo.
+Slds
+Carina Garrone
+Security_code : fnw62
+Send : Enviar
+
+---------------
+

@@ -1,0 +1,33 @@
+Address : 201.250.177.219
+Nombre : Huerta
+Apellido : DAvid Alejandro
+Cargo : Administrativo
+Direccion : Villarino 4427
+Ciudad : Jose C. Paz
+Telefono : (011)15 54787227
+Email : davidhuert@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto mi Curriculum vitae. Soy estudiante de Licenciatura en Administración y tengo experiencia en planificacion de producciones y trabajos administrativos
+Security_code : j74wr
+Send : Enviar
+
+---------------
+
+Address : 186.110.218.13
+Nombre : CAROLINA
+Apellido : PIERINI
+Cargo : DIRECCIÓN Y GERENCIA
+Direccion : CASADO 1435
+Ciudad : CASILDA
+Telefono : 03464422117
+Email : carolinapierini76@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Tengo como objetivo desarrollar mi actividad en empresas que permitan a su personal evolucionar profesional y económicamente.
+Busco desempeñarme en cargos que impliquen liderazgo, adaptación a los cambios, manejo de personal, relaciones con clientes, gestión, planificación y control de empresa.
+Manifiesto motivación propia, predisposición al trabajo en equipo y adaptación a los puestos, lugares, días y horarios de trabajo. Me interesan los desafíos laborales.
+
+Security_code : hh6vf
+Send : Enviar
+
+---------------
+

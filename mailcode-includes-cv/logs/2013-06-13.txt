@@ -1,0 +1,19 @@
+Address : 190.188.49.161
+Nombre : Malvina
+Apellido : Flores
+Cargo : Recepcionista
+Direccion : Charcas 1361
+Ciudad : Buenos Aires
+Telefono : 1146963990
+Email : malvina_flores@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto, remito mi Curriculum Vitae.
+
+Muchas gracias,
+
+Malvina Flores
+Security_code : c8nyt
+Send : Enviar
+
+---------------
+

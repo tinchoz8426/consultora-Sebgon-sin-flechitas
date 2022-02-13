@@ -1,0 +1,31 @@
+Address : 190.176.224.157
+Nombre : Mariano Ezequiel
+Apellido : Palacios Lusarreta
+Cargo : Joven Profesional
+Direccion : Bravard 174
+Ciudad : Bahía Blanca
+Telefono : 0291-154651188
+Email : marianopalacios83@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Soy una persona con ganas de desarrollarme profesionalmente, con iniciativa, responsable, ético, con buena predisposición y adaptación para el trabajo en equipo, facilidad para coordinar grupos de trabajo, buena oralidad y exposición de conceptos. A su vez, dispongo de absoluta disponibilidad para el traslado hacia otras localidades, ya sean de la Provincia de Buenos Aires o del resto del País.
+Security_code : 2fpqg
+Send : Enviar
+
+---------------
+
+Address : 190.183.24.50
+REF : gerente-de-operaciones
+Nombre : Fernanda
+Apellido : Zuazaga Cocco
+Cargo : Secretaria
+Direccion : Roberto Satler 2095
+Ciudad : Parana
+Telefono : 0343-4072029
+Email : laferchita1981@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Le dejo mi Curriculum, espero tener suerte, ya que hace mucho que estoy buscando trabajo, muchas gracias.-
+Security_code : 7tggj
+Send : Enviar
+
+---------------
+

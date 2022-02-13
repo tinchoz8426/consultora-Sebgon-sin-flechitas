@@ -1,0 +1,19 @@
+Address : 181.49.188.12
+ <br>Nombre : Carlos
+ <br>Apellido : Castrillon
+ <br>Empresa : tecnología en rines y llantas
+ <br>Telefono : 352489548
+ <br>Email : jccometa10@misena.edu.co
+ <br>Mensaje : Buenos dias
+
+Me podría dar una cotización para capacitacion
+
+Precio
+Duraccion capacitacion
+Horario
+Recursos
+ <br>Security_code : wp4tb
+ <br>Send : Enviar
+ <br>
+---------------
+

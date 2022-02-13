@@ -1,0 +1,17 @@
+Address : 186.58.190.226
+REF : jefe-de-garantia-de-calidad
+Nombre : Ariel Roberto
+Apellido : Vicente
+Cargo : Jefe de Garantía de Calidad
+Direccion : O Higgins 991
+Ciudad : Avellaneda
+Telefono : 42040963 / 1558094259
+Email : avicente@speedy.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenas noches, envío CV para ser considerado en sus búsquedas laborales.
+
+Security_code : 3px2Z
+Send : Enviar
+
+---------------
+

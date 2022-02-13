@@ -1,0 +1,79 @@
+Address : 190.245.226.230
+REF : maquina-inyectora
+Nombre : daniel
+Apellido : alvarez
+Cargo : operario calificado
+Direccion : malabia 2475
+Ciudad : cap fed
+Telefono : 48316536
+Email : daniel_alvarez_68@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : quisiera postularme al puesto de trabajo
+Security_code : vxgc4
+Send : Enviar
+
+---------------
+
+Address : 200.63.162.154
+Nombre : Martin 
+Apellido : Martino
+Cargo : Administrativo
+Direccion : Los pozos 281
+Ciudad : Ituzaingo 
+Telefono : 15-6666-2947
+Email : martinm1811@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados quedo a su disposicion para una futura entrevista y un mejor conocimiento de mi persona. 
+Saludos cordiales 
+Martin A. Martino
+Security_code : xyqdy
+Send : Enviar
+
+---------------
+
+Address : 190.139.238.144
+REF : tecnico-electornico
+Nombre : Jose Maria
+Apellido : Sack
+Cargo : TÉCNICO ELECTRÓNICO
+Direccion : Aldea Sta. Maria
+Ciudad : Aldea Sta. Maria
+Telefono : 0343 154612300
+Email : josemariasack@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estudiante de Ingeniería en Electrónica.(Finalizacion del cursado,falta proyecto final).Tecnico Universitario en Electronica
+Security_code : 6jkdk
+Send : Enviar
+
+---------------
+
+Address : 201.250.111.61
+Nombre : Maria Fernanda
+Apellido : Cittadino
+Cargo : asistente de rr hh
+Direccion : Calcena 189
+Ciudad : Capital Federal
+Telefono : 46333985
+Email : recipe.for.hate@hotmail.es
+MAX_FILE_SIZE : 2097152
+Mensaje : Envío mi CV con el fin de ser tenida en cuenta en futuras búsquedas acordes a mis conocimientos como estudiante de psicología, orientandome hacia el área de psicología laboral o recursos humanos. Muchas gracias.
+Security_code : jwdr8
+Send : Enviar
+
+---------------
+
+Address : 200.123.158.197
+Nombre : Antonela
+Apellido : Cuomo
+Cargo : Lic. en psicología
+Direccion : Joaquin V. Gonzalez 300
+Ciudad : Quilmes
+Telefono : 1563755977
+Email : antonelacuomo@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Lic. en psicologia busca incorporarse a centro terapeutico.
+Security_code : vystr
+Send : Enviar
+
+---------------
+

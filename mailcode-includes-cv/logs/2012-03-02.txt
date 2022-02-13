@@ -1,0 +1,16 @@
+Address : 190.179.95.54
+Nombre : Marcos Adrian
+Apellido : Passarelli
+Cargo : Dibujante proyectista
+Direccion : Amaranto Suarez 1340
+Ciudad : Neuquen Capital
+Telefono : 0299155047611
+Email : markuspassa@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me interesaria solamente trabajos en la ciudad de Neuquen.
+Gracias
+Security_code : v5sj2
+Send : Enviar
+
+---------------
+

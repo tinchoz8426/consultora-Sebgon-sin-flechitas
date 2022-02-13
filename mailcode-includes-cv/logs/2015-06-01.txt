@@ -1,0 +1,63 @@
+Address : 191.184.223.240
+REF : GT PL
+Nombre : Flavio Ivan
+Apellido : Alexeeff
+Cargo : Gerente de Planta (GT PL)
+Direccion : Cerro Leon Negro 347
+Ciudad : Mendoza
+Telefono : 0261-5078-217
+Email : falexeeff@yahoo.com
+MAX_FILE_SIZE : 2097152
+Mensaje : De mi mayor consideración,
+Actualmente estoy planeando mi retronó para Argentina luego de 3 años trabajando en Brasil y estoy buscando un proyecto que sea 
+En relación al nivel salarial y considerando el grado de expertis solicitado por Uds., considero que un salario en la faja de los R$ 75.000 seria lo adecuado.
+Adjunto mi CV para que verifiquen mi experiencia que está completamente en línea con lo que están solicitando.
+
+Att
+
+Flavio Alexeeff
+Security_code : t8zyr
+Send : Enviar
+
+---------------
+
+Address : 191.184.223.240
+REF : GT PL
+Nombre : Flavio Ivan
+Apellido : Alexeeff
+Cargo : Gerente de Planta (GP PL)
+Direccion : Cerro Leon Negro 347
+Ciudad : Mendoza
+Telefono : 0261-5078217
+Email : falexeeff@yahoo.com
+MAX_FILE_SIZE : 2097152
+Mensaje : De mi mayor consideración,
+Actualmente estoy planeando mi retronó para Argentina luego de 3 años trabajando en Brasil como parte de mi desarrollo profesional. 
+En relación al nivel salarial y considerando el grado de expertis solicitado por Uds., considero que un salario en la faja de los R$ 75.000 seria lo adecuado.
+Adjunto mi CV para que verifiquen mi experiencia que está completamente en línea con lo que están solicitando.
+
+Att
+
+Flavio Alexeeff
+Security_code : w73gr
+Send : Enviar
+
+---------------
+
+Address : 190.189.215.18
+Nombre : Gabriela Estefania
+Apellido : Dohmen
+Cargo : Recepcion 
+Direccion : Limay 33
+Ciudad : Lomas de Zamora 
+Telefono : 1141871047
+Email : estefania_dohmen@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Por la presente tengo el agrado de dirigirme a Usted a los efectos de hacer llegar mi cv.Sin otro particular, me despido ATTE
+Gabriela Estefania Dohmen
+ 
+Security_code : cvftd
+Send : Enviar
+
+---------------
+

@@ -1,0 +1,35 @@
+Address : 190.16.57.137
+Nombre : CARLOS
+Apellido : LOCARNINI
+Cargo : Presentación espontánea
+Direccion : yatay 120 15A
+Ciudad : CABA
+Telefono : 1150224203
+Email : locarnini@uol.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados, adjunto encontrarán un archivo conteniendo cover letter y antecedentes laborales de mi persona a fin de ser tenidos en cuenta en una probable selección de personal en la cual pudieran corresponder.
+Atentos saludos,
+Carlos Locarnini.
+Security_code : dsx4t
+Send : Enviar
+
+---------------
+
+Address : 190.16.57.137
+REF : GERENTE-DE-PRODUCCION
+Nombre : CARLOS
+Apellido : LOCARNINI
+Cargo : Gerente de Producción
+Direccion : yatay 120 15A
+Ciudad : CABA
+Telefono : 1150224203
+Email : locarnini@uol.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados, Adjunto encontrarán un archivo conteniendo cover letter y resumen de antecedentes laborales aplicando a la posición de la referencia.
+Atentos saludos,
+Carlos Locarnini
+Security_code : ztyxq
+Send : Enviar
+
+---------------
+

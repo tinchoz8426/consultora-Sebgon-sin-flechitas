@@ -1,0 +1,94 @@
+Address : 186.141.200.59<br>
+ <br>Nombre : Ruben Alejandro
+ <br>Apellido : Muñoz
+ <br>Cargo : Técnico electrónico
+ <br>Direccion : Itapirú 1840
+ <br>Ciudad : Avellaneda
+ <br>Telefono : 1522378251
+ <br>Email : munozrubenalejandro@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados:
+ Tengo el agrado de dirigirme a ustedes con el objetivo de participar en búsquedas acordes a mi perfil. Adjunto mi Curriculum Vitae buscando ser tenido en cuenta por si se produjera alguna vacante.
+ Estoy buscando insertarme en el ámbito laboral referente a mis estudios. Soy egresado de la Escuela de Enseñanza Superior Técnica N° 5 "Dr. Salvador Debenedetti" con título de Técnico Electrónico; actualmente me encuentro en el primer año de la carrera de Técnico Superior en Programación, en la Universidad Tecnológica Nacional.
+ Agradezco la gentileza de su atención y estoy a la espera de su respuesta. Sin otro particular, los saludo cordialmente.
+ <br>Security_code : 4q6xg
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.46.39.223<br>
+ <br>Nombre : Néstor Omar
+ <br>Apellido : Ledesma
+ <br>Cargo : Abogado
+ <br>Direccion : Laprida 1898 11° "K"
+ <br>Ciudad : CABA
+ <br>Telefono : 01148033124
+ <br>Email : ledesmanes@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me presento en búsqueda de trabajo y adjunto mi C.V.
+ <br>Security_code : dnn2n
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.46.39.223<br>
+ <br>Nombre : Néstor Omar
+ <br>Apellido : Ledesma
+ <br>Cargo : Abogado
+ <br>Direccion : Laprida 1898 11° "K"
+ <br>Ciudad : CABA
+ <br>Telefono : 01148033124
+ <br>Email : ledesmanes@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me presento en búsqueda de trabajo y adjunto mi C.V.
+ <br>Security_code : vzdmt
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.46.39.223<br>
+ <br>Nombre : Néstor Omar
+ <br>Apellido : Ledesma
+ <br>Cargo : Abogado
+ <br>Direccion : Laprida 1898 11° "K"
+ <br>Ciudad : CABA
+ <br>Telefono : 01148033124
+ <br>Email : ledesmanes@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me presento en búsqueda de trabajo y adjunto mi C.V.
+ <br>Security_code : 6ks5z
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.29.1.28<br>
+ <br>REF : Ing. quim
+ <br>Nombre : Genesis
+ <br>Apellido : Marcano
+ <br>Cargo : Jefa de producción
+ <br>Direccion : Av. Córdoba 2429
+ <br>Ciudad : Buenos aires
+ <br>Telefono : 1127628560
+ <br>Email : genesismarcano1102@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Ingeniera química con 5 años de experiencia en procesos petroquímicos
+ <br>Security_code : 3662z
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 179.38.66.75<br>
+ <br>Nombre : Cecilia
+ <br>Apellido : Arancibia Roffler
+ <br>Cargo : Secretaria Ejecutiva/ Asistente
+ <br>Direccion : Tacuari 1089 2D
+ <br>Ciudad : Capital Federal
+ <br>Telefono : 1565397197
+ <br>Email : ce_arancibia@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me interesa desempeñarme como Secretaria Ejecutiva o Asistente en Jornada Reducida/ Part Time dentro de los Sectores de Administración, Recursos Humanos o Comunicación en Empresas e Instituciones Privadas, Públicas u Organismos No Gubernamentales en el Área del Microcentro de la Capital Federal. Cuento con más de 10 años de Experiencia asistiendo a Altos y Medios Mandos en Multinacionales y Pymes de relevancia. Me considero una persona Creativa, Dinámica, Enérgica y con capacidades de Liderazgo.
+ <br>Security_code : jjrzq
+ <br>Send : Enviar
+ <br>
+---------------
+

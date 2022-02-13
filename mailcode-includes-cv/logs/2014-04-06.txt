@@ -1,0 +1,80 @@
+Address : 186.135.14.213
+REF : GTE COM
+Nombre : Diego
+Apellido : Marchese
+Cargo : Gerente Comercial
+Direccion : Barrio La Pradera lote 2053
+Ciudad : Pilar
+Telefono : 0230 4458588
+Email : dlrmarchese@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Sres.
+Envio mi Cv para participar del proceso de búsqueda.
+Considero cumplir con el perfil y puedo aportar mayor know how a la posición debido a mi trayectoria profesional.
+Desde ya muchas gracias.
+Diego Marchese
+Security_code : fv695
+Send : Enviar
+
+---------------
+
+Address : 190.55.170.157
+Nombre : christian
+Apellido : aloise
+Cargo : administrativo
+Direccion : montiel 5330
+Ciudad : capital
+Telefono : 1566102742
+Email : chdaloi@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : De mi mayor consideracion,me dirijo a uds a fin de hacerles llegar mi C.Viate para su incorporacion a la base de datos.
+Security_code : 9jcp6
+Send : Enviar
+
+---------------
+
+Address : 200.43.125.244
+Nombre : Raul Anibal
+Apellido : Lopez
+Cargo : Operario
+Direccion : Palpa 2238
+Ciudad : Grand Bourg
+Telefono : 011-1533625424
+Email : lopez_87@hotmail.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Desearia formar parte de una empresa para poder desarrollar mis conocimientos, tengo deseos de aprender y adaptarme a demandas laborales de diversas indoles ya que soy muy emprendedor y me gusta perfeccionarme cada vez mas, con posibilidades de crecimiento profesional en un buen ambiente laboral. Tengo conocimientos de inglés Basico, buen manejo de PC, office, internet, outlook express y diversas herramientas informáticas. Dispongo de amplia disponibilidad horaria, full time, y no tengo problemas en hacer horas extras o turnos rotativos. Les comunico que tengo estoy terminando mis estudios secundario y que tengo tatuajes en los antebrazos.
+Security_code : hwkdf
+Send : Enviar
+
+---------------
+
+Address : 181.118.201.139
+Nombre : Carlos Alberto
+Apellido : Zubieta
+Cargo : Chofer
+Direccion : Eva Peron 343
+Ciudad : Caleta Olivia
+Telefono : 0297154295728
+Email : vascolet2000@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Deceo preogresar laboralmente y personalmente
+Security_code : wbtkd
+Send : Enviar
+
+---------------
+
+Address : 190.193.146.149
+Nombre : María Camila
+Apellido : Stocovaz
+Cargo : Arquitecta
+Direccion : Flores
+Ciudad : CABA
+Telefono : 1533241779
+Email : arq.stocovaz@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenas tardes, envío mi CV para ser tenida en cuenta en futuras búsquedas laborales. Soy arquitecta graduada de UBA y actualmente estoy estudiando ingeniería civil en UTN y trabajando en un estudio por la mañana y en otro por la tarde. Me interesan ambos trabajos, pero me gustaría cambiarme a alguna empresa en la que pueda desempeñarme en un turno completo y encontrar mayores posibilidades de crecimiento, tanto por el lado profesional, como salarial. Desde ya muchas gracias.
+Security_code : vjf6r
+Send : Enviar
+
+---------------
+

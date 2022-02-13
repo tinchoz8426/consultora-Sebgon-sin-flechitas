@@ -1,0 +1,31 @@
+Address : 190.18.148.173
+REF : gerente-de-operaciones
+Nombre : Angela Patricia
+Apellido : Guerrero
+Cargo : ninguno en especial
+Direccion : J.L.Borges 2252
+Ciudad : capital federal
+Telefono : 4777-9495
+Email : pato2252@hotmail
+MAX_FILE_SIZE : 2097152
+Mensaje : me postulo al puesto al que de mi perfil,pero cambir mi trabajo donde no maneje con tanta gente
+Security_code : 94g2w
+Send : Enviar
+
+---------------
+
+Address : 190.51.108.236
+Nombre : Mariana
+Apellido : risari
+Cargo : vendedora,administrativa.
+Direccion : marques de loreto 2695
+Ciudad : castelar
+Telefono : 011-44584684
+Email : ma_ria_ni_ta@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : me gustaria Integrar un equipo de primer nivel aportando mis conocimientos y trabajo en pos de un objetivo comùn.
+Security_code : cjby7
+Send : Enviar
+
+---------------
+

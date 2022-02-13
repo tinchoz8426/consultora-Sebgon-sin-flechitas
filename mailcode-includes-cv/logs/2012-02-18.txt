@@ -1,0 +1,38 @@
+Address : 201.213.29.112
+Nombre : Florencia Susana
+Apellido : Copoletti
+Cargo : ADMINISTRATIVO U ORGANIZACIÓN DE EVENTOS
+Direccion : San Pedro Nº 170 T6 P 2º B
+Ciudad : Sarandi - Avellaneda
+Telefono : 42651951/1555055875
+Email : Florcopo@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Mi nombre es Florencia Copoletti,soy organizadora de eventos y wedding planner.
+El motivo por el cual actualmente los contacto es porque estoy buscando trabajo y quisiera postularme para actuales y futuras búsquedas laborales de parte de la empresa.
+
+Quedo a entera disposición de  ustedes.
+
+Atte.
+
+Florencia S. Copoletti
+
+Security_code : tgz85
+Send : Enviar
+
+---------------
+
+Address : 186.191.127.66
+Nombre : Laura
+Apellido : lopez
+Cargo : Administrativa
+Direccion : Bv San Juan 636 3F
+Ciudad : Cordoba
+Telefono : 03543-15612893
+Email : llmleb@live.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Estoy interesada en un puesto administrativo o de recepcion o en su defecto de atencion al cl segun mi experiencia. Soy una persona honesta, responsable y muy dinamica capaz de ejercer muy muy bien cualquiera de estas actividades.
+Security_code : chp9y
+Send : Enviar
+
+---------------
+

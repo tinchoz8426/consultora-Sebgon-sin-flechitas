@@ -1,0 +1,58 @@
+Address : 201.254.19.43
+Nombre : Natalia
+Apellido : Fialá
+Cargo : Psicóloga
+Direccion : Darwin 260
+Ciudad : Lomas del Mirador
+Telefono : 44549207
+Email : nati_b_f@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimado/a,
+Me encuentro en búsqueda de un puesto que me permita desarrollarme y capacitarme dentro del área de RRHH.
+Muchas gracias por su atención,
+saluda atentamente.
+Nata Fialá
+Security_code : fhxwr
+Send : Enviar
+
+---------------
+
+Address : 190.17.138.89
+Nombre : Cecilia
+Apellido : Demadonna
+Cargo : Selectora/Asistente de Selección
+Direccion : Sargento Cabral 207
+Ciudad : Ramos Mejía
+Telefono : 1567547982
+Email : ceciliademadonna@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados,
+
+Soy Cecilia Demadonna y estoy finalizando la Lic. en Psicología en la Universidad de Buenos Aires. 
+Actualmente me desempeño como Asistente de Reclutamiento en la consultora G&G Recursos Humanos. Mi zona de residencia es Ramos Mejía. Estoy en búsqueda de un cambio laboral, dentro del área de RRHH y preferentemente dentro de barrios aledaños a Zona Oeste. 
+Quedo al aguardo de sus comentarios y/o respuesta,
+
+Muchas gracias,
+Saludos,
+
+Cecilia Demadonna
+Security_code : htknd
+Send : Enviar
+
+---------------
+
+Address : 190.108.81.194
+Nombre : juan carlos
+Apellido : timana
+Cargo : jefe RRHH
+Direccion : ILO
+Ciudad : ILO
+Telefono : 969330277
+Email : timanajuancarlos@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : adjunto mi cv
+Security_code : 24bdb
+Send : Enviar
+
+---------------
+

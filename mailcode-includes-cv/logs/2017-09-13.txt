@@ -1,0 +1,63 @@
+Address : 190.205.0.149<br>
+ <br>Nombre : Luis Eugenio
+ <br>Apellido : Hernandez Lara
+ <br>Cargo : Mantenimiento de Planta
+ <br>Direccion : Microcentro
+ <br>Ciudad : CABA
+ <br>Telefono : +58 424 7501216
+ <br>Email : luishernandezlara@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : mi nombre es Luis Hernandez, soy Ing Electronico con 12 años de labor en el medio de Oil & Gas. Durante estos años he acumulado experiencia en diversas áreas: Automatizacion e Instrumentacion Industrial; Sistemas de Respaldo de Energia Electrica; Sistemas de generacion alterna de energia (motogeneradores, redes electricas residenciales e industriales, sistemas fotovoltaicos); sistemas de puesta a tierra a estructuras mecanicas, electricas y electronicas; sistemas de telecomunicaciones (radios ptp, pmp, trunkig); redes LAN, WAN, WMAN; instalacion y mantenimiento a sistemas informaticos en windows y linux; revision, ensamblaje y reparacion de sistemas de computacion tipo laptop, desktop, workstation, servers;  revision, configuracion y reparacion de equipos de impresion de matriz de punto, inyeccion de tinta y laser, residenciales, profesionales e industriales;  sistemas de fiscalización de crudo y gas; sistemas de gestión de mantenimiento; manejo de sistemas integrados de gestion empresarial; vocacion para la seguridad industrial; supervision y control de equipos multidisciplinarios; manejo de presupuestos; gerencia de proyectos; resolucion de conflictos; manejo de situaciones bajo extrema presión, entre otras.
+ <br>Security_code : cw6df
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.173.225.63<br>
+ <br>Nombre : Matias
+ <br>Apellido : Arreche
+ <br>Cargo : Ingeniero Electromecanico
+ <br>Direccion : casalins 436
+ <br>Ciudad : Chascomus
+ <br>Telefono : 2216267565
+ <br>Email : matiasarreche@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Deseo btener un puesto en donde pueda contribuir con mis conocimientos y las habilidades adquiridas durante mi formación, tener oportunidad de continuar desarrollándome personal y profesionalmente.
+
+ <br>Security_code : 58w79
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.174.66.131<br>
+ <br>REF : JPER-1
+ <br>Nombre : Mario Fabian
+ <br>Apellido : Lange
+ <br>Cargo : Jefe de personal
+ <br>Direccion : calle 28 n 967 city bell
+ <br>Ciudad : city bell
+ <br>Telefono : 01166806637
+ <br>Email : mariofabianlange@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Adjunto Cv para ser considerado en el proceso de seleccion, tengo mucha experiencia en Plantas Pymes y Multinacionales.
+ <br>Security_code : r2rqg
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.138.60.169<br>
+ <br>REF : chr
+ <br>Nombre : alan matias
+ <br>Apellido : gracia
+ <br>Cargo : Chofer
+ <br>Direccion : bolivia 3563
+ <br>Ciudad : caseros
+ <br>Telefono : 1534117403
+ <br>Email : alanmatiasdecaseros@hotmail.es
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados Sres/as de Recursos Humanos: tengo el agrado de dirigirme a ud/s con el objetivo de participar en busquedas acorde a mi perfil en su empresa .Adjunto mi curriculum vitae buscando ser incluido en su base de datos por si se produjera alguna vacante . en relacion a esto cuento con la experiencia y los conocimientos necesarios para desarollar actividades en el rubro de su empresa. considero que podria integrarme adecuadamente a la organizacion ya que soy una persona proactiva y con capacidad para formar parte de un equipo de trabajo . agradezco su atencion,
+ <br>Security_code : pb3fw
+ <br>Send : Enviar
+ <br>
+---------------
+

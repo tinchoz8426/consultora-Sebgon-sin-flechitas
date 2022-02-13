@@ -1,0 +1,82 @@
+Address : 190.55.110.82<br>
+ <br>REF : TE-1
+ <br>Nombre : Oscar Andrés
+ <br>Apellido : Tournoud
+ <br>Cargo : TE-1 Técnico eléctrico
+ <br>Direccion : Deseado 5437
+ <br>Ciudad : Isidro Casanova
+ <br>Telefono : 15 2192-2457
+ <br>Email : otournoud@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Técnico eléctrico para multinacional zona oeste
+ <br>Security_code : v5s72
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.188.48.51<br>
+ <br>REF : JPER-1
+ <br>Nombre : Carolina Fabiana
+ <br>Apellido : Berti
+ <br>Cargo : jefe RR.HH
+ <br>Direccion : Vte. Casares 670
+ <br>Ciudad : Ramos Mejia
+ <br>Telefono : 46584861
+ <br>Email : berticarolina@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados,
+He visto la Oferta Laboral publicada y la misma me resultó de gran interés. Por este motivo, les hago llegar mi Currículum Vitae, a fin de ser tenido en cuenta como candidato.
+Quedo a su disposición para ampliar cualquier información necesaria.
+Cordialmente,
+
+Lic.Carolina Fabiana Berti
+
+ <br>Security_code : XQBJ4
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.188.48.51<br>
+ <br>REF : JPER-1
+ <br>Nombre : Carolina Fabiana
+ <br>Apellido : Berti
+ <br>Cargo : jefe RR.HH
+ <br>Direccion : Vte. Casares 670
+ <br>Ciudad : Ramos Mejia
+ <br>Telefono : 46584861
+ <br>Email : berticarolina@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados,
+He visto la Oferta Laboral publicada y la misma me resultó de gran interés. Por este motivo, les hago llegar mi Currículum Vitae, a fin de ser tenido en cuenta como candidato.
+Quedo a su disposición para ampliar cualquier información necesaria.
+Cordialmente,
+
+Lic.Carolina Fabiana Berti
+
+ <br>Security_code : xqbj4
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.188.48.51<br>
+ <br>REF : JPER-1
+ <br>Nombre : Carolina Fabiana
+ <br>Apellido : Berti
+ <br>Cargo : jefe RR.HH
+ <br>Direccion : Vte. Casares 670
+ <br>Ciudad : Ramos Mejia
+ <br>Telefono : 46584861
+ <br>Email : berticarolina@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados,
+He visto la Oferta Laboral publicada y la misma me resultó de gran interés. Por este motivo, les hago llegar mi Currículum Vitae, a fin de ser tenido en cuenta como candidato.
+Quedo a su disposición para ampliar cualquier información necesaria.
+Cordialmente,
+
+Lic.Carolina Fabiana Berti
+
+ <br>Security_code : 6syvh
+ <br>Send : Enviar
+ <br>
+---------------
+

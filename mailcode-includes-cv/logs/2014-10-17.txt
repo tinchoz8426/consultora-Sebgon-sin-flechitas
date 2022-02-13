@@ -1,0 +1,106 @@
+Address : 190.229.120.117
+Nombre : Elisa Lourdes 
+Apellido : Mazacoti Parra
+Cargo : Analista Financiera
+Direccion : Blanco Encalada
+Ciudad : Belgrano
+Telefono : 1131681216
+Email : lourdesmazacoti@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Envio CV para BD
+Security_code : jp4nh
+Send : Enviar
+
+---------------
+
+Address : 190.57.238.43
+REF : GETECOM
+Nombre : Juan Francisco  
+Apellido : Echeto 
+Cargo : Gerente de Compra
+Direccion : Jujuy 2826
+Ciudad : Santa Fe
+Telefono : 01136970931  o 03462668397
+Email : juanfecheto@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados sres de : Consultora SEBGON. Adjunto mi cv para el puesto en referencia. Tengo como objetivo de vida, instalarme en el Sur de Argentina.- Cordialmente. Juan Francisco Echeto.-
+Security_code : 79xxh
+Send : Enviar
+
+---------------
+
+Address : 200.123.175.45
+Nombre : JAVIER
+Apellido : SARMIENTO
+Cargo : AUDITOR
+Direccion : VENEZUELA 3849
+Ciudad : SAN JUSTO
+Telefono : 1553416900
+Email : javierblanco777@hotmail.com.
+MAX_FILE_SIZE : 2097152
+Mensaje : De mi mayor consideración:
+                                       Por medio de la presente, tengo el agrado de dirigirme a usted con motivo 
+de hacerle llegar mis Antecedentes Personales para ser evaluado en caso de existir una vacante en su empresa.
+
+ 
+
+                                       Agradecido por su tiempo, me despido quedando a la espera de una respuesta favorable.
+
+ 
+
+Saludos Cordiales,
+
+ 
+
+Javier Sarmiento
+Security_code : 3qxmz
+Send : Enviar
+
+---------------
+
+Address : 190.244.190.32
+Nombre : Sabrina
+Apellido : Recalde
+Cargo : Vendedora/ administrativa
+Direccion : 24 de noviembre 1612
+Ciudad : Capital Federal
+Telefono : 1560123265
+Email : recaldesabrina@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Les envío mi CV con motivo de poder tener la oportunidad de encontrar un trabajo segun mi perfil, ya sea Ventas, Administracion o Atencion al Cliente.
+
+Saludos Cordiales
+
+Recalde Sabrina.-
+Security_code : pncmz
+Send : Enviar
+
+---------------
+
+Address : 190.179.49.81
+REF : GETECOM
+Nombre : Leandro
+Apellido : Martinetti
+Cargo : Gerente de compras
+Direccion : Alberdi
+Ciudad : Florencio Varela
+Telefono : 1559250510
+Email : leandro.martinetti@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados,
+
+Vista la Oferta Laboral, les hago llegar mis datos personales y académicos en Currículum Vitae a fin de ser tenido en cuenta como candidato.
+
+ Con la convicción de poseer el perfil requerido para un muy buen desempeño en el cargo a cubrir, quedo a entera disposición para hacerle llegar, sea en una entrevista personal o por el medio que se me indique, las ampliaciones y/o la documentación probatoria correspondiente.
+ 
+Esperando una respuesta positiva lo saluda atentamente,
+
+
+
+    Leandro Martinetti
+
+Security_code : ykn7h
+Send : Enviar
+
+---------------
+

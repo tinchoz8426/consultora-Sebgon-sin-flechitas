@@ -1,0 +1,51 @@
+Address : 200.89.153.3
+Nombre : RODOLFO
+Apellido : DAVICINO
+Cargo : TECNICO ELECTRONICO INDUSTRIAL
+Direccion : PJE  ESTOCOLMO 3360
+Ciudad : CAPITAL FEDERAL
+Telefono : 4521 0806
+Email : redarge2001@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : De mi consideracion :
+
+     Tengo el gusto de dirigirme a Uds con el proposito de ofrecer mis servicios como tecnico electronico industrial .
+    Por tal motivo les adjunto una copia en doc word de mi C.V.
+    Asimismo deseo indicar que un motivo fundamental de esta postulacion es la circunstancia de no poseer al momento ningun empleo sumado a la dificultad que surge de mi edad ( 61 años )lo que constituye para mi una cuestion de gran preocupacion personal.
+  De modo similar quiero expresar mi disposicion para  una entrvista personal en cualquier momento.
+    Sin otro particular me despido de Uds con mi mas cordial saludo.
+
+  Rodolfo Davicino
+
+Security_code : wbyh6
+Send : Enviar
+
+---------------
+
+Address : 186.137.194.151
+Nombre : JOSE AITOR
+Apellido : ESCALADA
+Cargo : TECNICO EN SEH
+Direccion : TROLE 254
+Ciudad : CABA
+Telefono : 15-58913097
+Email : aitorescalada@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimado/a,
+
+Me dirijo a ustedes con el fin de enviarles mi CV porque deseo desarrollarme profesionalmente en el ámbito de la Seguridad e Higiene laboral.
+
+Busco una empresa que me ofrezca la oportunidad de aportar los conocimientos y experiencia adquiridos, así como la motivación, entusiasmo y ganas de trabajar que el ámbito de la prevención me generan.
+
+Por las razones anteriormente expuestas me encuentro dispuesto a distintos tipos de contratación / colaboración.
+
+Quedo a su disposición para la concertación de una entrevista personal, en la que podré ampliar la información contenida en mi CV.
+
+Atentamente,
+
+Jose Aitor Escalada
+Security_code : 8ycvj
+Send : Enviar
+
+---------------
+

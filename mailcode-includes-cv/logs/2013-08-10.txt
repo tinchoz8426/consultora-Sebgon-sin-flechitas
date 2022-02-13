@@ -1,0 +1,30 @@
+Address : 186.59.45.2
+Nombre : Sandra Elizabeth
+Apellido : Torres
+Cargo : Administrativo
+Direccion : Alpatacal 493-Villa Nuava
+Ciudad : Mendoza
+Telefono : (0261) 156356403
+Email : sandry_tana@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me dirijo a Ustedes con motivo de presentación: Mi nombre es Sandra Elizabeth Torres, 26 años, egresada 2011 del Instituto Tecnológico Universitario-CPPE. (Técnico universitario en Gestión de empresas). También con motivo de solicitar una entrevista laboral para cargos ofrecidos, preferentemente en Áreas Administrativas, con ubicación en Ciudad de Mendoza. Desde ya muchas gracias y a la espera de una respuesta favorable, saludo atentamente.
+Security_code : 55t9t
+Send : Enviar
+
+---------------
+
+Address : 190.193.98.131
+Nombre : Edit
+Apellido : Samalloa
+Cargo : Asistente Social
+Direccion : Pedro Ferré 3277
+Ciudad : Santa Fe
+Telefono : 0342-156144861
+Email : editsamalloa@outlook.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Ofrezco seriedad, tesón y responsabilidad en el trabajo
+Security_code : dszpz
+Send : Enviar
+
+---------------
+

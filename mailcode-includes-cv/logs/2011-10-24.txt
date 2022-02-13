@@ -1,0 +1,15 @@
+Address : 190.139.14.166
+Nombre : Rodolfo Ismael
+Apellido : Ruiz
+Cargo : De acuerdo al perfil
+Direccion : Pasaje Chazarreta 1660
+Ciudad : San Miguel de Tucumán
+Telefono : 0381-4275626 cel:0381156736753
+Email : rodolfo_ruiz8@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto Curriculum. Muchas gracias.
+Security_code : wh5hv
+Send : Enviar
+
+---------------
+

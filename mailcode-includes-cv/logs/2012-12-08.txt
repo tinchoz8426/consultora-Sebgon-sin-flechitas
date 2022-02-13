@@ -1,0 +1,30 @@
+Address : 201.235.43.190
+Nombre : Agustina Florencia 
+Apellido : Genzano
+Cargo : Atencion al Clientes Ventas y Promotora
+Direccion : Ocampo(119)4697,San Martín
+Ciudad : Buenos Aires
+Telefono : 1556404255
+Email : genzanoagustina@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje :   Soy una persona responsable al cargo que me asignen y buena relacion con la comonicacion con gentes. Gracias. 
+Security_code : jxr9h
+Send : Enviar
+
+---------------
+
+Address : 190.225.211.209
+Nombre : cristian
+Apellido : loureiro
+Cargo : vario 
+Direccion : g.gilardo 1166
+Ciudad : cordoba
+Telefono : 3517180742
+Email : eldiablitodenewells_22@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : me gustaria formar parte   de ustedes muchas gracias
+Security_code : phr6v
+Send : Enviar
+
+---------------
+

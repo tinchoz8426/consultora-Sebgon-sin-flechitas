@@ -1,0 +1,34 @@
+Address : 190.229.139.218
+Nombre : Juan Ignacio
+Apellido : Herlein
+Cargo : Tecnico en Seguridad e Higiene
+Direccion : San Martin 1170
+Ciudad : C. del Uruguay - Entre Rios
+Telefono : (03442)-15621659
+Email : juanignacioherlein@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados,
+Envió mi curriculum con el fin de que me tengan cuenta en caso de alguna vacante en lo referido a H&S.
+
+Desde ya muchas gracias.
+Herlein Juan Ignacio. 
+Security_code : 2n9yh
+Send : Enviar
+
+---------------
+
+Address : 190.30.0.237
+Nombre : Magali
+Apellido : Larrea
+Cargo : Administrativo
+Direccion : Los narcisos 1068
+Ciudad : Concepcion del Uruguay
+Telefono : 03442430280
+Email : magui.larrea@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola.. queria saber si se podria conseguir aca en Entre Rios. 
+Security_code : 9j7fg
+Send : Enviar
+
+---------------
+

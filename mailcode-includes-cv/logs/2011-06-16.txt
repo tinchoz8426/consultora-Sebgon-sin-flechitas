@@ -1,0 +1,63 @@
+Address : 190.176.253.185
+REF : proyectista-electronico
+Nombre : DAMIAN
+Apellido : LOUREIRO
+Cargo : EMPLEADO
+Direccion : AZOPARDO 1272
+Ciudad : TRELEW
+Telefono : 02965 15597437
+Email : peladamian@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : BUENOS DIAS LES DEJO MI CURRICULUM PARA QUE ME TENGAN EN CUENTA PARA LOS TRABAJOS PUBLICADOS EN LA ZONA QUE COMPRENDE, TRELEW, PUERTO MADRYN, RAWSON Y COMODORO RIVADAVIA EN LA PROVINCIA DE CHUBUT
+DESDE YA MUCHAS GRACIAS
+Security_code : cf6dh
+Send : Enviar
+
+---------------
+
+Address : 190.174.32.122
+Nombre : Eliana
+Apellido : Pinasco
+Cargo : Administrativo
+Direccion : Lopez Bpuchardo 4587
+Ciudad : Ituzaingo
+Telefono : 46217452
+Email : eliana_pinasco@hotmail.com                        
+MAX_FILE_SIZE : 2097152
+Mensaje : Me considero una persona con un marcado perfil empresarial, proactiva, con capacidad para trabajar en equipo. Me interesan las áreas de administración. Actualmente me encuentro en búsqueda de nuevos desafíos dentro del área. 
+Security_code : xyjnq
+Send : Enviar
+
+---------------
+
+Address : 190.174.32.122
+Nombre : Eliana
+Apellido : Pinasco
+Cargo : Administrativo
+Direccion : Lopez Bpuchardo 4587
+Ciudad : Ituzaingo
+Telefono : 46217452
+Email : eliana_pinasco@hotmail.com                        
+MAX_FILE_SIZE : 2097152
+Mensaje : Me considero una persona con un marcado perfil empresarial, proactiva, con capacidad para trabajar en equipo. Me interesan las áreas de administración. Actualmente me encuentro en búsqueda de nuevos desafíos dentro del área. 
+Security_code : xyjnq
+Send : Enviar
+
+---------------
+
+Address : 190.174.32.122
+Nombre : Eliana
+Apellido : Pinasco
+Cargo : Administrativo
+Direccion : Lopez Bouchardo 4587
+Ciudad : Ituzaingo
+Telefono : 46217452
+Email : eliana_pinasco@hotmail.com                        
+MAX_FILE_SIZE : 2097152
+Mensaje : Me considero una persona con un marcado perfil empresarial, proactiva, con capacidad para trabajar en equipo. Me interesan las áreas de administración. Actualmente me encuentro en búsqueda de nuevos desafíos dentro del área. 
+
+Security_code : 75pgq
+Send : Enviar
+
+---------------
+

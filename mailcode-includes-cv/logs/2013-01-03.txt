@@ -1,0 +1,46 @@
+Address : 200.47.116.91
+Nombre : luis alberto
+Apellido : aldana
+Cargo : tec. electronico
+Direccion : santa maria de oro 1210
+Ciudad : moron
+Telefono : 1553311137
+Email : aldanaluis11@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : para tec. electronico 
+Security_code : gkbwg
+Send : Enviar
+
+---------------
+
+Address : 190.174.135.90
+REF : supervisor-de-elaboracion
+Nombre : BEATRIZ
+Apellido : BAÑASCO
+Cargo : OPERAIA DE PRODUCCION
+Direccion : Maestra González de Hecht 1250  Depto. 4 
+Ciudad : HURLINGHAM
+Telefono : 44506187
+Email : beatrizbanasco@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : ME GUSTARIA Q ME TENGAN EN CUANTA POR SI SURGE ALGUN PUESTO DE TRABAJO .. DE : AYUDANTE DE COCINA,OPERARIA DE PRODUCCION,OPERARIA DE LIMPIEZA
+Security_code : qfsx9
+Send : Enviar
+
+---------------
+
+Address : 190.174.135.90
+Nombre : BEATRIZ
+Apellido : BAÑASCO
+Cargo : OPERAIA DE PRODUCCION
+Direccion : Maestra González de Hecht 1250  Depto. 4
+Ciudad : HURLINGHAM
+Telefono : 44506187
+Email : beatrizbanasco@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : me gustaia q me tengan en cuenta por si surgue algun puesto de ayudante de cocina.operaria de produccion o operaria de limpieza
+Security_code : gvvb7
+Send : Enviar
+
+---------------
+

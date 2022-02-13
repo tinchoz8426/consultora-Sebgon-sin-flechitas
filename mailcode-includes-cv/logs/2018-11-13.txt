@@ -1,0 +1,267 @@
+Address : 181.9.152.214<br>
+ <br>Nombre : Nora,Noemí
+ <br>Apellido : Barrozo
+ <br>Cargo : Cejera, administración, reoositora
+ <br>Direccion : B° Bancario block k2 3°piso dpto «c»
+ <br>Ciudad : Salta capital
+ <br>Telefono : 3874880158
+ <br>Email :  norabarrozo@outlook.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : m
+ <br>Security_code : m9d3f
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.17.90.216<br>
+ <br>REF : TEC. EL
+ <br>Nombre : Leandro 
+ <br>Apellido : Godoy
+ <br>Cargo : Tecnico Informático
+ <br>Direccion : David Magdalena 3266
+ <br>Ciudad : Caseros
+ <br>Telefono : 4750-9660
+ <br>Email : leandrogodoy@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Se solicita vacante para Soporte Técnico en función de disposición de amplios conocimientos en el area de informática y tecnología desempeñando tareas de soporte remoto telefónico y onsite a clientes nacionales e internacionales
+
+ <br>Security_code : 3st4v
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 138.97.176.151<br>
+ <br>Nombre : LUIS
+ <br>Apellido : FERREYRA
+ <br>Cargo : INGENIERO EN PROCESO
+ <br>Direccion : Tiburcio Benegas 2726
+ <br>Ciudad : SAN RAFAEL
+ <br>Telefono : 02604024517
+ <br>Email : luisferreyra@hotmail.es
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : BUENOS DIAS 
+ESTOY EN BUSCA DE TRABAJO. SOY INGENIERO EN PROCESO CUENTO CON EXPERIENCIA LABORAL 
+DESDE YA MUCHAS GRACIAS 
+ <br>Security_code : zpssf
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 152.170.178.93<br>
+ <br>Nombre : Cecilia
+ <br>Apellido : Flecha
+ <br>Cargo : Entrevistas socioambientales / administrativa 
+ <br>Direccion : Billingurts CABA
+ <br>Ciudad : Buenos Aires 
+ <br>Telefono : 1532551804
+ <br>Email : ceciliapsicologasocial@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola mi nombre es Cecilia y tengo experiencia en visitas socioambientales ,, adjunto mi CV por si precisan refuerzos en CABA 
+ <br>Security_code : v6vr8
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.139.89.195<br>
+ <br>REF : JPER-1
+ <br>Nombre : Daniel Alberto
+ <br>Apellido : Uncal
+ <br>Cargo : Jefe de Personal
+ <br>Direccion : Diego de Carbajal, 771
+ <br>Ciudad : HURLINGHAM (CP=1686)
+ <br>Telefono : 11 32626228 - 11 46654715
+ <br>Email : dauncal@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenos días,
+Quedo a disposición para ampliar mi perfil en una entrevista personal.
+Muchas gracias.
+ <br>Security_code : mzmd8
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.55.155.240<br>
+ <br>REF : JPER-1
+ <br>Nombre : Antonio Delfor
+ <br>Apellido : Ledesma
+ <br>Cargo : Jefe de Personal
+ <br>Direccion : Gregorio Marañon 4073
+ <br>Ciudad : Villa De Mayo
+ <br>Telefono : 1562936801
+ <br>Email : ledesma_antonio@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados:
+
+Me permito enviarles esta carta de presentación adjunta a mi currículum vitae porque quisiera postular a la vacante  y compartir con ustedes un poco más acerca de mi perfil.
+En la búsqueda de nuevas oportunidades laborales quisiera complementar mi carrera con una nueva experiencia en el  área de recursos humanos,  que me permita poner en práctica todo lo aprendido y continuar evolucionando en la administración de personal.
+Mis experiencias en el sector, me han permitido acumular y  desarrollar conocimientos  los cuales considero útiles para llevar a cabo esta misión.
+Por ello, quisiera poner estos conocimientos, mi motivación, mi mejor voluntad a vuestra disposición para poder involucrarme en el crecimiento de nuevos proyectos dentro de la organización, y poder trabajar junto a un nuevo equipo.
+Responsable, dinámico, riguroso, proactivo, me gustaría poder unirme a vuestro grupo en este reto.
+Estaré gustoso de poner al servicio de su organización mis habilidades y experiencias en el área de recursos humanos.
+Si consideran que mi perfil puede ser útil para esta posición, no duden en ponerse en contacto conmigo. Será todo un placer poder intercambiar con ustedes  acerca de la empresa, la misión y las posibles oportunidades que puedan surgir, así como también será para mí una excelente oportunidad que me conozcan.
+ 
+Saludo a ustedes con distinguida consideración.-
+
+
+
+Antonio Delfor Ledesma
+
+ <br>Security_code : xn9pn
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.21.213.180<br>
+ <br>REF : EM
+ <br>Nombre : Walter
+ <br>Apellido : Retamozo 
+ <br>Cargo : Técnico electromecanico 
+ <br>Direccion : Mendoza Nro. 45
+ <br>Ciudad : Buenos aires
+ <br>Telefono : 02224433813
+ <br>Email : Walter.retamozo@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Técnico electromecanico recibido. Con experiencia en distintos fábricas. 
+ <br>Security_code : Xnkbz
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.44.126.162<br>
+ <br>REF : TEC. EL
+ <br>Nombre : Silvio
+ <br>Apellido : Martínez
+ <br>Cargo : Técnico electrónico
+ <br>Direccion : San lorenzo 248
+ <br>Ciudad : villa dominico
+ <br>Telefono : 1166143348
+ <br>Email : silviogmartinez@outlook.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Tengo el agrado de dirigirme ante usted con el objeto de participar en búsquedas acordes a mi perfil en su empresa, por lo que adjunto mi cv junto con el mail.
+
+Cuento con fluido manejo de inglés y poseo carnet de conducir. Me considero pro activo y con capacidad para formar parte de un equipo de trabajo. En estos momentos me encuentro disponible para atender llamados las 24 hs.
+
+Saludos cordiales,
+
+Silvio Martínez.
+
+ <br>Security_code : pjb8k
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.44.126.162<br>
+ <br>REF : TEC. EL
+ <br>Nombre : Silvio
+ <br>Apellido : Martínez
+ <br>Cargo : Técnico electrónico
+ <br>Direccion : San lorenzo 248
+ <br>Ciudad : villa dominico
+ <br>Telefono : 1166143348
+ <br>Email : silviogmartinez@outlook.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Tengo el agrado de dirigirme ante usted con el objeto de participar en búsquedas acordes a mi perfil en su empresa, por lo que adjunto mi cv junto con el mail.
+
+Cuento con fluido manejo de inglés y poseo carnet de conducir. Me considero pro activo y con capacidad para formar parte de un equipo de trabajo. En estos momentos me encuentro disponible para atender llamados las 24 hs.
+
+Saludos cordiales,
+
+Silvio Martínez.
+
+ <br>Security_code : r46wf
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.44.126.162<br>
+ <br>REF : TEC. EL
+ <br>Nombre : Silvio
+ <br>Apellido : Martínez
+ <br>Cargo : Técnico electrónico
+ <br>Direccion : San lorenzo 248
+ <br>Ciudad : villa dominico
+ <br>Telefono : 1166143348
+ <br>Email : silviogmartinez@outlook.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Tengo el agrado de dirigirme ante usted con el objeto de participar en búsquedas acordes a mi perfil en su empresa, por lo que adjunto mi cv junto con el mail.
+
+Cuento con fluido manejo de inglés y poseo carnet de conducir. Me considero pro activo y con capacidad para formar parte de un equipo de trabajo. En estos momentos me encuentro disponible para atender llamados las 24 hs.
+
+Saludos cordiales,
+
+Silvio Martínez.
+
+ <br>Security_code : r46wf
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.44.126.162<br>
+ <br>REF : TEC. EL
+ <br>Nombre : Silvio
+ <br>Apellido : Martínez
+ <br>Cargo : Técnico electrónico
+ <br>Direccion : San lorenzo 248
+ <br>Ciudad : villa dominico
+ <br>Telefono : 1166143348
+ <br>Email : silviogmartinez@outlook.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Tengo el agrado de dirigirme ante usted con el objeto de participar en búsquedas acordes a mi perfil en su empresa, por lo que adjunto mi cv junto con el mail.
+
+Cuento con fluido manejo de inglés y poseo carnet de conducir. Me considero pro activo y con capacidad para formar parte de un equipo de trabajo. En estos momentos me encuentro disponible para atender llamados las 24 hs.
+
+Saludos cordiales,
+
+Silvio Martínez.
+
+ <br>Security_code : 5qbv3
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.12.60.177<br>
+ <br>Nombre : Javier Norberto 
+ <br>Apellido : Velazquez
+ <br>Cargo : Operarios ventas carcas descargas
+ <br>Direccion : Medel 2461
+ <br>Ciudad : Buenos Aires 
+ <br>Telefono : 1137934528
+ <br>Email : jnvvelazquez@gmail 
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Busco trabajo en ventas o de operarios de lo que sea tengo un nene y estoy sin trabajar hace meces por favor nevesito el trabajo me pueden provar 15 dias sin pagarme para ver mi estilo de trabajo 
+ <br>Security_code : 32nyv
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.183.110.214<br>
+ <br>Nombre : Rocio Micaela 
+ <br>Apellido : Busto 
+ <br>Cargo : Atención al público 
+ <br>Direccion : Cipoletti 2241 barrio cabildo 
+ <br>Ciudad : Córdoba Capital 
+ <br>Telefono : 3516538834
+ <br>Email : Rociobusto340@gmail.com 
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estoy en busca de trabajo les dejo mi cv 
+ <br>Security_code : Yntcn
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.245.179.221<br>
+ <br>REF : TEC. EL
+ <br>Nombre : Ezequiel
+ <br>Apellido : Pirela
+ <br>Cargo : Técnico electrónico especializado
+ <br>Direccion : Cuzco 277
+ <br>Ciudad : Ciudad autónoma de buenos aires
+ <br>Telefono : 1133354069
+ <br>Email : Ezepirela@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buen día, me gustaría ser tomado en cuenta, aunque no cumpla con todos los requisitos, conozco de muchos puntos debido a mis clases universitarias y  tengo muchas ganas de aprender y trabajar, siendo una magnífica oportunidad desempeñarme con ustedes
+ <br>Security_code : 65f7j
+ <br>Send : Enviar
+ <br>
+---------------
+

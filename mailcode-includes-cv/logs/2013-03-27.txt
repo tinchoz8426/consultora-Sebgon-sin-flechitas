@@ -1,0 +1,63 @@
+Address : 190.19.207.159
+REF : jefe-de-operaciones
+Nombre : Anabella
+Apellido : Galeano
+Cargo : Atención al cliente-recepción-ventas.
+Direccion : Caviahue 224 6 to B
+Ciudad : Neuquén capital
+Telefono : (0299)4588100/(011)1550488411
+Email : galeana_56@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimado Licenciado le agradezco leer y considerar mi curriculum, estoy a su disposición ante cualquier consulta y esperando se contacte conmigo para una entrevista laboral.Me postulo a esta búsqueda y a otras que se ajusten con mi perfil de atención al cliente-recepción y ventas.Nuevamente muchísimas gracias.
+Saluda atte.
+Anabella Galeano.
+Security_code : c72zp
+Send : Enviar
+
+---------------
+
+Address : 200.126.167.143
+Nombre : Diego Martín
+Apellido : Garcier
+Cargo : Cadete - Repositor
+Direccion : Virrey del pino 2300
+Ciudad : Buenos Aires
+Telefono : 0221 - 156164473
+Email : diego_garcier@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenas tardes, aquí le dejo mi currículum vítae para que lo evalúen. Desde ya muchas gracias. Atte: Diego Garcier.
+Security_code : dj78m
+Send : Enviar
+
+---------------
+
+Address : 200.126.167.143
+Nombre : Diego Martín
+Apellido : Garcier
+Cargo : Cadete - Repositor
+Direccion : Virrey del pino 2300
+Ciudad : Buenos Aires
+Telefono : 0221 - 156164473
+Email : diego_garcier@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenas tardes, aquí le dejo mi currículum vítae para que lo evalúen. Desde ya muchas gracias. Atte: Diego Garcier.
+Security_code : dj78m
+Send : Enviar
+
+---------------
+
+Address : 186.182.122.104
+Nombre : matias
+Apellido : khan
+Cargo : indistinto
+Direccion : tres arroyos 1146
+Ciudad : haedo
+Telefono : 1532476444
+Email : matiaskhan@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : hola. estoy en busca de un empleo. agradezco mucho su ayuda.soy una persona activa con iniciativa y buena predisposición para el trabajo. 
+Security_code : kqkhc
+Send : Enviar
+
+---------------
+

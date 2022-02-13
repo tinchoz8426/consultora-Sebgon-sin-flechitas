@@ -1,0 +1,92 @@
+Address : 24.232.75.32
+Nombre : Claudio Fernando
+Apellido : Vera Santana
+Cargo : Administrador de Emrpesas
+Direccion : Monseñor Larumbe 304
+Ciudad : San Isidro
+Telefono : 54-11 47980456
+Email : vera_claudio@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Señores 
+adjunto mis antecedentes para quedar en base de datos en caso de alguna oferta laboral se lo agradeceré.
+slds claudio vera 
+Security_code : psrtm
+Send : Enviar
+
+---------------
+
+Address : 186.59.28.78
+Nombre : federico santos
+Apellido : giordano
+Cargo : admonistrativo-jefe de depositos
+Direccion : pedro vargas
+Ciudad : san rafael
+Telefono : 2627 436179
+Email : fechy14@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : no tengo incomvenientes en traslado, por el momento desempeño cargo en clinica medica
+Security_code : zkyhr
+Send : Enviar
+
+---------------
+
+Address : 24.232.75.32
+Nombre : Claudio Fernando
+Apellido : Vera Santana
+Cargo : Jefe de Administracion, Contralor
+Direccion : Monseñor Larumbe 304
+Ciudad : San Isidro
+Telefono : 54-11 47980456
+Email : vera_claudio@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Mi nombre es Claudio Vera, y adjunto mis antecedentes para alguna busquedad laboral, tengo una experiencia de 15 años y cro que mi experiencia puede ser un aporte para la organización interesada en mis antecedentes.
+Security_code : 4v8bt
+Send : Enviar
+
+---------------
+
+Address : 190.173.20.205
+Nombre : barbara
+Apellido : knuttsen
+Cargo : cualquier puesto ,o limpieza
+Direccion : tucuman 436
+Ciudad : argentina
+Telefono : 1567198552/1531749836/42192500/42190460
+Email : bar.isela@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : hola mi nonbre es barbara necesito trabajar 
+Security_code : 3p2mp
+Send : Enviar
+
+---------------
+
+Address : 190.174.0.15
+Nombre : Romina
+Apellido : Hildebrandt
+Cargo : Capacitadora
+Direccion : Medina 1648
+Ciudad : Ituzaingó
+Telefono : 1548890195/46612224
+Email : romihildebrandt@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimado consultor, me gustaría compartir con usted mi curriculum. Recorrí su sitio y me gustaría formar parte de su equipo. Saludos. Romina
+Security_code : ctpcs
+Send : Enviar
+
+---------------
+
+Address : 190.123.111.122
+Nombre : Ignacio
+Apellido : Papa
+Cargo : Administración/Contabilidad
+Direccion : Florida 98 bis
+Ciudad : Capitán bermúdez
+Telefono : 0341 155622196
+Email : ignacio-papa@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me presento como una persona activa, responsable, creativa, flexible, orientada al logro de resultados y a la resolución y evolución constante en las tareas asignadas. 
+Security_code : tmtrm
+Send : Enviar
+
+---------------
+

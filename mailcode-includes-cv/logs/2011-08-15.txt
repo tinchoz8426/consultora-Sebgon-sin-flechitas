@@ -1,0 +1,15 @@
+Address : 190.195.68.168
+Nombre : Jose Emilio
+Apellido : Piussi
+Cargo : indistinto
+Direccion : Barrientos 1554 P4 "D"
+Ciudad : Recoleta Capital Federal
+Telefono : 011-48061451
+Email : jpiussi@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Acabo de mudarme a la ciudad y estoy en la busqueda de un trabajo estable y con espectativas de crecimiento.
+Security_code : nkybh
+Send : Enviar
+
+---------------
+

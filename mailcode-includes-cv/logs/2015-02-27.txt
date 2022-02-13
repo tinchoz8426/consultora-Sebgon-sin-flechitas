@@ -1,0 +1,69 @@
+Address : 190.55.53.114
+Nombre : Claudia Silvia 
+Apellido : Stefanetti
+Cargo : Administrativa 
+Direccion : Albarellos 3153
+Ciudad : capital federal
+Telefono : 1564184528
+Email : claudiastefanetti@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : les envío mi cv para que lo puedan tener en cuenta en futuras búsquedas laborales
+Security_code : tzyn3
+Send : Enviar
+
+---------------
+
+Address : 186.57.182.85
+Nombre : Yanina
+Apellido : Giardinieri
+Cargo : Atencion al cliente,Recepcion
+Direccion : Pichincha 1053
+Ciudad : 1053
+Telefono : 1557031695
+Email : giardinieri@hotmail.com.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estoy en la busqueda laboral para atencion al cliente/recepcion.Soy una joven capacitada, con ganas de trabajar y sumamente responsable.
+Security_code : dfmv5
+Send : Enviar
+
+---------------
+
+Address : 186.57.182.85
+Nombre : Yanina
+Apellido : Giardinieri
+Cargo : Atencion al cliente,Recepcion
+Direccion : Pichincha 1053
+Ciudad : 1053
+Telefono : 1557031695
+Email : giardinieri@hotmail.com.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estoy en la busqueda laboral para atencion al cliente/recepcion.Soy una joven capacitada, con ganas de trabajar y sumamente responsable.
+Security_code : dfmv5
+Send : Enviar
+
+---------------
+
+Address : 186.130.80.221
+Nombre : Nora
+Apellido : Adámoli
+Cargo : Comunicación
+Direccion : Chenaut 723
+Ciudad : Villa Luzuriaga
+Telefono : 1567876779
+Email : nadamoliperiodista@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados:
+
+Mi nombre es Nora Adámoli y soy periodista, con casi siete años de experiencia en diversos medios gráficos y radiales. Además, me encuentro a dos materias de graduarme como Licenciada en Comunicación Social. Paralelamente, soy maquilladora social y profesional. Con expectativas a conseguir un nuevo empleo, les envío mi CV.
+
+Muchas gracias.
+
+Un cariño,
+
+Nora Adámoli
+15-6787-6779
+Security_code : tvvkb
+Send : Enviar
+
+---------------
+

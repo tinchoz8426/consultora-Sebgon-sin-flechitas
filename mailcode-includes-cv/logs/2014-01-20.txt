@@ -1,0 +1,75 @@
+Address : 186.109.98.234
+Nombre : Flavia
+Apellido : Irusta
+Cargo : Médica Veterinaria
+Direccion : Buteler 951
+Ciudad : Río Cuarto
+Telefono : 0358-154018978
+Email : flaviajaqueton@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Busco empleo en área de clínica de pequeños animales, educación, comercio, ventas. Preferentemente, en la provincia de Chubut 
+Security_code : ywnj9
+Send : Enviar
+
+---------------
+
+Address : 190.15.201.157
+Nombre : Matías
+Apellido : Moyano
+Cargo : Técnico en Seguridad e Higiene
+Direccion : Bº 21 de Julio M-H C-7
+Ciudad : Mendoza
+Telefono : 0261-152021403
+Email : matismoyano@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Quedo a disposición de vuestra empresa para ofertas laborales acordes a mi perfil.
+Security_code : d6fyy
+Send : Enviar
+
+---------------
+
+Address : 190.183.83.49
+Nombre : Hector Anibal 
+Apellido : Galeano
+Cargo : Asesor en sistemas de seguridad
+Direccion : Concepción del Bermejo 457
+Ciudad : Reistencia
+Telefono : 3624239553
+Email : hectoranibal2000@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Me interesaría trabajar con ustedes
+Security_code : y5h8r
+Send : Enviar
+
+---------------
+
+Address : 200.117.104.214
+Nombre : Martin 
+Apellido : Romero
+Cargo : balancin
+Direccion : Madariaga 2173
+Ciudad : Buenos Aires
+Telefono : 1567672236
+Email : rmeromero@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola le envio,mi cv para los puestos de empresa metalurgica,zona palomar.Gracias atte
+Security_code : vqs6n
+Send : Enviar
+
+---------------
+
+Address : 190.51.71.247
+Nombre : Ayelén
+Apellido : Dominguez
+Cargo : empleada
+Direccion : Carapachay 4075
+Ciudad : Morón
+Telefono : 1133449816
+Email : Aye.dominguez@live.com
+MAX_FILE_SIZE : 2097152
+Mensaje : cv 
+Security_code : rzzk9
+Send : Enviar
+
+---------------
+

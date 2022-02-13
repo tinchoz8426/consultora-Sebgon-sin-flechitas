@@ -1,0 +1,4 @@
+[17-Jun-2010 11:36:18] PHP Warning:  fopen(logs/2010-06-17.txt) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: Permission denied in /home/sebgon/public_html/mailcode-includes/mailer.php on line 42
+[17-Jun-2010 11:39:32] PHP Warning:  fopen(logs/2010-06-17.txt) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: Permission denied in /home/sebgon/public_html/mailcode-includes/mailer.php on line 42
+[17-Jun-2010 11:39:37] PHP Warning:  fopen(logs/2010-06-17.txt) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: Permission denied in /home/sebgon/public_html/mailcode-includes/mailer.php on line 42
+[16-Mar-2012 10:24:33] PHP Fatal error:  Call to undefined function session_start() in /home/sebgon/public_html/mailcode-includes/txt2png.php on line 2

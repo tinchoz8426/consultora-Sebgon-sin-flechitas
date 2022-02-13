@@ -1,0 +1,93 @@
+Address : 186.108.147.2
+Nombre : Andrea
+Apellido : Vega Lopez
+Cargo : administrativo 
+Direccion : av aguirre
+Ciudad : Santiago del estero
+Telefono : 0385154964699
+Email : andreavegalopez@live.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Saludos!
+Security_code : t52yz
+Send : Enviar
+
+---------------
+
+Address : 190.173.176.2
+Nombre : Franco Emmanuel
+Apellido : Torres
+Cargo : Cortador de Cuero a Maquina
+Direccion : Eduardo Cogliati 3852
+Ciudad : Castelar
+Telefono : 1522282367
+Email : franco299.ft@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola! Estoy buscando empleo de Cortador de cuero a Maquina para fabrica de calzado.
+Tengo Amplia experiencia en el rubro, mi padre era fabricante y crecí en este rubro.
+Trabajé casi 8 años de Cortador de Cuero a Maquina de calzado fino de dama, en una marca muy conocida (PARUOLO). Tengo titulo de "diseñador y Modelista de Calzado". Luego quise independizarme para fabricar por mi cuenta, pero no me fue muy bien. Hoy quiero regresar a una fabrica de calzado.
+
+Security_code : 4n7cy
+Send : Enviar
+
+---------------
+
+Address : 190.193.52.46
+Nombre : Gonzalo
+Apellido : Varela
+Cargo : Diseñador Industrial
+Direccion : Entrerios 2586
+Ciudad : Rosario
+Telefono : 0341-153525165
+Email : gonzalo.varela7@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buena experiencia en diseño de piezas plasticas,perfileria de aluminio,maquinas,dibujos 3d,planos, renderizados.
+Security_code : 477vc
+Send : Enviar
+
+---------------
+
+Address : 190.193.52.46
+Nombre : Gonzalo
+Apellido : Varela
+Cargo : Diseñador Industrial
+Direccion : Entrerios 2586
+Ciudad : Rosario
+Telefono : 0341-153525165
+Email : gonzalo.varela7@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buena experiencia en diseño de piezas plasticas,perfileria de aluminio,maquinas,dibujos 3d,planos, renderizados.
+Security_code : 477vc
+Send : Enviar
+
+---------------
+
+Address : 201.250.138.135
+Nombre : Estefanía 
+Apellido : Mac Mullen 
+Cargo : administrativo, secretaria
+Direccion : Rivadavia 3959
+Ciudad : caba
+Telefono : 1534327366
+Email : estefa_89@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Soy una persona responsable y con muchas ganas de trabajar.
+Security_code : nhkkz
+Send : Enviar
+
+---------------
+
+Address : 200.127.233.212
+Nombre : Ezequiel 
+Apellido : Gait
+Cargo : Estudiante de Derecho
+Direccion : San Antonio 993
+Ciudad : Córdoba 
+Telefono : 0351-156800503
+Email : ezequiel.gait@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me siento muy preparado para ganarme un espacio en el área legales de cualquier empresa o institución de cualquier rubro. Con experiencia. 
+Security_code : jqdaj
+Send : Enviar
+
+---------------
+

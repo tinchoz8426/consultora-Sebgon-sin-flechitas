@@ -1,0 +1,48 @@
+Address : 190.192.101.18
+REF : tecnico-electornico
+Nombre : Carlos
+Apellido : Britos
+Cargo : tecnico-electornico
+Direccion : Pergamino 750 - Dto. 2
+Ciudad : Castelar
+Telefono : 15 6369 5159
+Email : caeduard@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Poseo mucha experiencia en electrónica industrial. Les dejo mi CV. y pueden tenerlo en cuenta para otros puestos.
+Saludos.
+Security_code : yyjcm
+Send : Enviar
+
+---------------
+
+Address : 190.17.118.3
+Nombre : agustin
+Apellido : garrido
+Cargo : transportista o conductor
+Direccion : m de guemez s/n bouwer
+Ciudad : cordoba
+Telefono : 03516003466
+Email : agus_bj_17@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : con interes de ocupar un puesto de trabajo en el aria de su cargo . ago a llegar a Ud. el detalle de mis datosy valore que sin duda conformaran el marco adecuado,para el perfil de contratacion esperada .
+Security_code : xf6gg
+Send : Enviar
+
+---------------
+
+Address : 186.59.42.120
+REF : tecnico-quimico
+Nombre : Ricardo Andrés
+Apellido : Gimenez
+Cargo : técnico químico
+Direccion : general  acha 101 villanueva, guaymallén
+Ciudad : Mendoza
+Telefono : 2615530243
+Email : ricardogimenez19984@hotmail.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Acá envío mi CV, agradeceré respuesta. Hasta luego
+Security_code : f367w
+Send : Enviar
+
+---------------
+

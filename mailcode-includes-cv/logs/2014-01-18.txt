@@ -1,0 +1,46 @@
+Address : 190.174.36.110
+Nombre : Facundo
+Apellido : Suarez
+Cargo : Junior
+Direccion : Chañar 4867
+Ciudad : La Matanza
+Telefono : 44664754
+Email : fakccu_008@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto CV para base de datos, soy estudiante de Bioquímica, y me interesaria un puesto en laboratorios o área de la salud. Gracias.
+Security_code : g6gvh
+Send : Enviar
+
+---------------
+
+Address : 190.31.128.39
+Nombre : franco ariel
+Apellido : zapata
+Cargo : operario
+Direccion : calle 503 nº 843
+Ciudad : rosario
+Telefono : 03414629453
+Email : franco_Zapata92@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : muchas gracias por tomarse el tiempo de leer mi cv . 
+Security_code : rwqjg
+Send : Enviar
+
+---------------
+
+Address : 181.46.84.195
+REF : SUPERVISOR-DE-SEGURIDAD
+Nombre : Jorge Oscar
+Apellido : Angerami
+Cargo : Supervisor de Seguridad
+Direccion : Ricardo Rojas
+Ciudad : Claypole
+Telefono : 4219-0507
+Email : Jorge_angeramihotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Soy un profesional en Seguridad y procesos de control 
+Security_code : dq2cw
+Send : Enviar
+
+---------------
+

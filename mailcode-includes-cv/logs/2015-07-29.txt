@@ -1,0 +1,249 @@
+Address : 200.117.22.167
+Nombre : Francis Yoel
+Apellido : Galiano
+Cargo : Atencion al Cliente - Vendedor - Operativo
+Direccion : francisgaliano16@hotmail.com
+Ciudad : Córdoba Capital
+Telefono : 351-2441396
+Email : francisgaliano16@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Quiero trabajar
+Security_code : pgtxs
+Send : Enviar
+
+---------------
+
+Address : 190.19.86.234
+Nombre : stephanie
+Apellido : colasurdo
+Cargo : Atención al cliente, recepción, administrativa 
+Direccion : jose bonifacion 2292
+Ciudad : buenos aires
+Telefono : 1534683817
+Email : stefania_lpa@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me gustaría poder formar parte de su staff para futuras búsquedas que ustedes consideren acordes a mi perfil.
+Security_code : rzxxr
+Send : Enviar
+
+---------------
+
+Address : 190.2.121.49
+Nombre : gisela
+Apellido : soraire
+Cargo : diseño grafico 
+Direccion : la nueva provincia 2038
+Ciudad : salta
+Telefono : 4712954
+Email : shiselsoraire@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : teengo muchas ganas de trabajar y de verdad tengo anas d aprender y poder salir adelante
+Security_code : rjz24
+Send : Enviar
+
+---------------
+
+Address : 190.17.49.35
+Nombre : Sebastian
+Apellido : conforti
+Cargo : soporte tecnico
+Direccion : sarmiento 438
+Ciudad : rosario
+Telefono : 0341-153049297
+Email : conforti_75@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Les dejo un curriculum para su base de datos, saludos sebastian
+Security_code : wx7fs
+Send : Enviar
+
+---------------
+
+Address : 186.61.80.87
+Nombre : Flavio 
+Apellido : Alegre
+Cargo : Periodismo/Prensa/Consultoría/Comunicaciones
+Direccion : Tinogasta 2707
+Ciudad : Florencio Varela
+Telefono : 42558540
+Email : flavio_04_27@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Soy Periodista, egresado de la Universidad Nacional del Nordeste (UNNE, Corrientes). Actualmente en proceso de tesis para la Licenciatura en Comunicación Social. También soy Técnico en Informática. Con experiencia en producción y edición de contenidos audiovisuales. Además trabajé en una consultora de monitoreo (Sigob: Sistema de información para la gobernación) en Resistencia Chaco. Fui columnista en un programa radial con audiencia juvenil. Realicé notas periodísticas para algunos portales de noticias para publicitar negocios de empresarios.
+Security_code : xp6jp
+Send : Enviar
+
+---------------
+
+Address : 186.61.80.87
+Nombre : Flavio 
+Apellido : Alegre
+Cargo : Periodismo/Prensa/Consultoría/Comunicaciones
+Direccion : Tinogasta 2707
+Ciudad : Florencio Varela
+Telefono : 42558540
+Email : flavio_04_27@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Soy Periodista, egresado de la Universidad Nacional del Nordeste (UNNE, Corrientes). Actualmente en proceso de tesis para la Licenciatura en Comunicación Social. También soy Técnico en Informática. Con experiencia en producción y edición de contenidos audiovisuales. Además trabajé en una consultora de monitoreo (Sigob: Sistema de información para la gobernación) en Resistencia Chaco. Fui columnista en un programa radial con audiencia juvenil. Realicé notas periodísticas para algunos portales de noticias para publicitar negocios de empresarios.
+Security_code : xp6jp
+Send : Enviar
+
+---------------
+
+Address : 186.61.80.87
+Nombre : Flavio 
+Apellido : Alegre
+Cargo : Periodismo/Prensa/Consultoría/Comunicaciones
+Direccion : Tinogasta 2707
+Ciudad : Florencio Varela
+Telefono : 42558540
+Email : flavio_04_27@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Soy Periodista, egresado de la Universidad Nacional del Nordeste (UNNE, Corrientes). Actualmente en proceso de tesis para la Licenciatura en Comunicación Social. También soy Técnico en Informática. Con experiencia en producción y edición de contenidos audiovisuales. Además trabajé en una consultora de monitoreo (Sigob: Sistema de información para la gobernación) en Resistencia Chaco. Fui columnista en un programa radial con audiencia juvenil. Realicé notas periodísticas para algunos portales de noticias para publicitar negocios de empresarios.
+Security_code : xp6jg
+Send : Enviar
+
+---------------
+
+Address : 186.61.80.87
+Nombre : Flavio
+Apellido : Alegre
+Cargo : Periodismo/Prensa/Consultoría/Comunicaciones
+Direccion : Tinogasta 2707
+Ciudad : Florencio Varela
+Telefono : 42558540
+Email : flavio_04_27@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Soy Periodista, egresado de la Universidad Nacional del Nordeste (UNNE, Corrientes). Actualmente en proceso de tesis para la Licenciatura en Comunicación Social. También soy Técnico en Informática. Con experiencia en producción y edición de contenidos audiovisuales. Además trabajé en una consultora de monitoreo (Sigob: Sistema de información para la gobernación) en Resistencia Chaco. Fui columnista en un programa radial con audiencia juvenil. Realicé notas periodísticas para algunos portales de noticias para publicitar negocios de empresarios.
+Security_code : xp6jg
+Send : Enviar
+
+---------------
+
+Address : 186.61.80.87
+Nombre : Flavio
+Apellido : Alegre
+Cargo : Periodismo/Prensa/Consultoría/Comunicaciones
+Direccion : Tinogasta 2707
+Ciudad : Florencio Varela
+Telefono : 42558540
+Email : flavio_04_27@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Soy Periodista, egresado de la Universidad Nacional del Nordeste (UNNE, Corrientes). Actualmente en proceso de tesis para la Licenciatura en Comunicación Social. También soy Técnico en Informática. Con experiencia en producción y edición de contenidos audiovisuales. Además trabajé en una consultora de monitoreo (Sigob: Sistema de información para la gobernación) en Resistencia Chaco. Fui columnista en un programa radial con audiencia juvenil. Realicé notas periodísticas para algunos portales de noticias para publicitar negocios de empresarios.
+Security_code : 7s35b
+Send : Enviar
+
+---------------
+
+Address : 186.61.80.87
+Nombre : Flavio
+Apellido : Alegre
+Cargo : Periodismo/Prensa/Consultoría/Comunicaciones
+Direccion : Tinogasta 2707
+Ciudad : Florencio Varela
+Telefono : 42558540
+Email : flavio_04_27@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Soy Periodista, egresado de la Universidad Nacional del Nordeste (UNNE, Corrientes). Actualmente en proceso de tesis para la Licenciatura en Comunicación Social. También soy Técnico en Informática. Con experiencia en producción y edición de contenidos audiovisuales. Además trabajé en una consultora de monitoreo (Sigob: Sistema de información para la gobernación) en Resistencia Chaco. Fui columnista en un programa radial con audiencia juvenil. Realicé notas periodísticas para algunos portales de noticias para publicitar negocios de empresarios.
+Security_code : 7s35b
+Send : Enviar
+
+---------------
+
+Address : 186.61.80.87
+Nombre : Flavio
+Apellido : Alegre
+Cargo : Periodismo/Prensa/Consultoría/Comunicaciones
+Direccion : Tinogasta 2707
+Ciudad : Florencio Varela
+Telefono : 42558540
+Email : flavio_04_27@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Soy Periodista, egresado de la Universidad Nacional del Nordeste (UNNE, Corrientes). Actualmente en proceso de tesis para la Licenciatura en Comunicación Social. También soy Técnico en Informática. Con experiencia en producción y edición de contenidos audiovisuales. Además trabajé en una consultora de monitoreo (Sigob: Sistema de información para la gobernación) en Resistencia Chaco. Fui columnista en un programa radial con audiencia juvenil. Realicé notas periodísticas para algunos portales de noticias para publicitar negocios de empresarios.
+Security_code : q7s6v
+Send : Enviar
+
+---------------
+
+Address : 190.17.127.33
+REF : ACO
+Nombre : Brenda
+Apellido : Balzaretti
+Cargo : administración
+Direccion : Pasaje Monte Carmelo 25
+Ciudad : Córdoba
+Telefono : 3516480778
+Email : brenbalzaretti@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola, soy Brenda .. hace un tiempo estoy buscando trabajo! la verdad es que lo necesito para poder terminar mis estudios, tengo muy buena predisposición y muchas ganas de aprender! cualquier cosa estoy a su entera disposición. Muchas gracias!
+Security_code : cfbzj
+Send : Enviar
+
+---------------
+
+Address : 200.126.231.56
+Nombre : Melisa
+Apellido : Sarach
+Cargo : Nutricionista
+Direccion : Av. Colón 4933
+Ciudad : Córdoba
+Telefono : 3513558138
+Email : melisarach@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me postulo para e cargo de Lic. en Nutrición.
+Security_code : 23836
+Send : Enviar
+
+---------------
+
+Address : 200.126.231.56
+Nombre : Melisa
+Apellido : Sarach
+Cargo : Nutricionista
+Direccion : Av. Colón 4933
+Ciudad : Córdoba
+Telefono : 3513558138
+Email : melisarach@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me postulo para e cargo de Lic. en Nutrición.
+Security_code : 23836
+Send : Enviar
+
+---------------
+
+Address : 200.126.231.56
+Nombre : Melisa
+Apellido : Sarach
+Cargo : Nutricionista
+Direccion : Av. Colón 4933
+Ciudad : Córdoba
+Telefono : 3513558138
+Email : melisarach@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me postulo para e cargo de Lic. en Nutrición.
+Security_code : 23836
+Send : Enviar
+
+---------------
+
+Address : 201.252.111.143
+Nombre : jimena
+Apellido : murua
+Cargo : atencion al publico,secretaria, recepcion
+Direccion : juan caferatta668 alto alberdi
+Ciudad : cordoba
+Telefono : 3512417956
+Email : jimena_ok@hotmail.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimado señor o señora:
+Desearía formar parte de su organización por tal motivo  tengo el gusto de remitirles mi Currículo Vital.
+Para poder desarrollar mis conocimientos los  cuales  podrán servirme de gran ayuda y aporte para colaborar en el crecimiento de su compañía.
+Ya que Tengo experiencia en atención al cliente y optimo manejo de PC.
+ Me considero una persona muy emprendedora, adaptable para trabajo en equipo o individual a fin de cumplir con las metas y orientaciones que se me asignen. Buen manejo de relaciones interpersonales y comunicación, con ganas de trabajar y dispuesta a aprender. Por lo que he decidido a contactar con ustedes y enviar mi currículo vital por si es de su interés en el momento de incorporar personal.
+Quedo a la espera de una grata  respuesta. 
+Gracias por su tiempo. 
+cordialmente
+Jimena Murua
+Security_code : fysz4
+Send : Enviar
+
+---------------
+

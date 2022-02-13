@@ -1,0 +1,76 @@
+Address : 186.60.160.17<br>
+ <br>REF : OEL
+ <br>Nombre : alejandro jose
+ <br>Apellido : quiroga
+ <br>Cargo : oficial electricista
+ <br>Direccion : weiss de rossi 3482
+ <br>Ciudad : glew
+ <br>Telefono : 1136842239
+ <br>Email : luliale20@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : hola soy oficial electricista y tengo muchos años de experiencia tanto en obra como también en mantenimiento, cuento con tarjeta ieric y curso aprobado de automatismo oficial calificado, ojala pueda ser útil para alguna bacante, desde ya muchas gracias
+ <br>Security_code : jr445
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.28.74.106<br>
+ <br>Nombre : Rocío Evangelina
+ <br>Apellido : Verón
+ <br>Cargo : abogada
+ <br>Direccion : avenida santa fe 1838 2c
+ <br>Ciudad : capital federal
+ <br>Telefono : 0336154213392
+ <br>Email : roveron7@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : .
+ <br>Security_code : 6ns6b
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.28.74.106<br>
+ <br>Nombre : Rocío Evangelina
+ <br>Apellido : Verón
+ <br>Cargo : abogada
+ <br>Direccion : avenida santa fe 1838 2c
+ <br>Ciudad : capital federal
+ <br>Telefono : 0336154213392
+ <br>Email : roveron7@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : .
+ <br>Security_code : xyxv3
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.28.74.106<br>
+ <br>Nombre : Rocío Evangelina
+ <br>Apellido : Verón
+ <br>Cargo : abogada
+ <br>Direccion : avenida santa fe 1838 2c
+ <br>Ciudad : capital federal
+ <br>Telefono : 0336154213392
+ <br>Email : roveron7@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : .
+ <br>Security_code : xyxv3
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.90.246.181<br>
+ <br>Nombre : Victor Omar
+ <br>Apellido : Hernandez
+ <br>Cargo : of calderero cañista
+ <br>Direccion : Seledonio Escalada  3061
+ <br>Ciudad : San Lorenzo     Santa Fe
+ <br>Telefono : 03476 453657
+ <br>Email : gallego230375@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola tengo mas de 10 años de experiencia en el rubro 
+ <br>Security_code : zz7mk
+ <br>Send : Enviar
+ <br>
+---------------
+

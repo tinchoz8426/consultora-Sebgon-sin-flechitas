@@ -1,0 +1,111 @@
+Address : 181.164.37.48
+Nombre : Fernanda
+Apellido : Vazquez
+Cargo : Administrativa
+Direccion : MIRO 2690
+Ciudad : Buenos Aires, San Justo
+Telefono : 1536774083
+Email : fernandavazquezd@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados, envío CV para posibles búsquedas laborales.
+Cargo: Administrativa - Administrativa Comercial - Administrativa de ventas - 
+Cel. 1536774083
+Mail: fernandavazquezd@gmail.com
+Saludos cordiales,
+Fernanda Vazquez 
+Security_code : s9xv2
+Send : Enviar
+
+---------------
+
+Address : 186.137.8.19
+Nombre : Tatiana
+Apellido : Boyadzian
+Cargo : Secretaria/Recepcionista/Telefonista
+Direccion : av Ricardo Balbin 
+Ciudad : capital federal
+Telefono : 1565951994- 4541 2390
+Email : tatianaboyadzian@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados:a continuación les envió mi cv donde podran ver mis conocimientos. Muchas Gracias
+Security_code : dgm7w
+Send : Enviar
+
+---------------
+
+Address : 181.28.6.176
+Nombre : Matias Ezequiel
+Apellido : Fasciglione
+Cargo : Atencion al cliente
+Direccion : Fleming 335
+Ciudad : Mar del Plata
+Telefono : 2235397038
+Email : matias.fasciglione@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Necesito trabajo de lo que sea, gracias.
+Security_code : 5gbn3
+Send : Enviar
+
+---------------
+
+Address : 181.28.6.176
+Nombre : Matias Ezequiel
+Apellido : Fasciglione
+Cargo : Atencion al cliente
+Direccion : Fleming 335
+Ciudad : Mar del Plata
+Telefono : 2235397038
+Email : matias.fasciglione@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Necesito trabajo de lo que sea, gracias.
+Security_code : 5gvn3
+Send : Enviar
+
+---------------
+
+Address : 181.28.6.176
+Nombre : Matias Ezequiel
+Apellido : Fasciglione
+Cargo : Atencion al cliente
+Direccion : Fleming 335
+Ciudad : Mar del Plata
+Telefono : 2235397038
+Email : matias.fasciglione@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Necesito trabajo de lo que sea, gracias.
+Security_code : 5gvn3
+Send : Enviar
+
+---------------
+
+Address : 181.28.6.176
+Nombre : Matias Ezequiel
+Apellido : Fasciglione
+Cargo : Atencion al cliente
+Direccion : Fleming 335
+Ciudad : Mar del Plata
+Telefono : 2235397038
+Email : matias.fasciglione@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Necesito trabajo de lo que sea, gracias.
+Security_code : khgmq
+Send : Enviar
+
+---------------
+
+Address : 190.49.221.169
+Nombre : Alejandra Vanesa
+Apellido : Carreras
+Cargo : Administrativa, secretaria,,asistente,recepcion
+Direccion : yrigoyen 1315
+Ciudad : Cañuelas (Cañuelas - Buenos Aires) 
+Telefono : 02226 15481153/433335
+Email : vanecarreras18@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : A quien corresponda quisiera me tengan en cuenta para los empleos para los cargosen que me postule , desde ya muchas gracias , saluda atte.
+Vanesa Carreras
+Security_code : 2j97b
+Send : Enviar
+
+---------------
+

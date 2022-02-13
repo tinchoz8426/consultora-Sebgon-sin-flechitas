@@ -1,0 +1,56 @@
+Address : 170.51.35.222<br>
+ <br>Nombre : Natalia Isabel
+ <br>Apellido : Achar Bogado
+ <br>Cargo : Atención al cliente
+ <br>Direccion : Coronel Lucero
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 1526587927
+ <br>Email : natalia.isabel.achar@outlook.es
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : ¡ Buenos días !
+Estoy buscando trabajo para fin de semanas.
+Gracias.
+ <br>Security_code : vnggq
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 24.232.22.127<br>
+ <br>Nombre : Nicolas Leandro
+ <br>Apellido : Nuñez
+ <br>Cargo : Técnico/Atención al cliente/Administración
+ <br>Direccion : 27 de abril 835
+ <br>Ciudad : Cordoba Capital
+ <br>Telefono : 2966497279
+ <br>Email : nicolasxnx@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Honestidad y la mejor voluntad para empezar a trabajar.
+ <br>Security_code : dkn5y
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.190.39.138<br>
+ <br>REF : ROT-1
+ <br>Nombre : Fernando 
+ <br>Apellido : Claros
+ <br>Cargo : Responsable de oficina tecnica
+ <br>Direccion : Berutti 281
+ <br>Ciudad : Merlo
+ <br>Telefono : 01169734249
+ <br>Email : fernando.adrian.claros@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas Tardes, mi nombre es Fernando Claros, soy diseñador industrial egresado de la uba. 
+Estoy interesado en la propuesta laboral.
+Actualmente desarrollo tareas en oficina técnica en una empresa de cartelería y revestimientos en aluminio compuesto. Algunas de las tareas que desarrollo en el día a día son, presupuestos, relevamientos en obra, confección de planos para fabricación de piezas y montaje, archivos para fabricación de piezas en diferentes tecnologías, compras de materiales, seguimiento de producción, control de calidad, etc. 
+Quedo a la espera de un contacto.
+
+Saludos 
+
+
+
+ <br>Security_code : crtwq
+ <br>Send : Enviar
+ <br>
+---------------
+

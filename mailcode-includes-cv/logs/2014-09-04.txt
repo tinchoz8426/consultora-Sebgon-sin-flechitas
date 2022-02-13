@@ -1,0 +1,211 @@
+Address : 37.228.104.222
+Nombre : isaias yoel
+Apellido : fernández
+Cargo : operario
+Direccion : san nicolás 2391
+Ciudad : buenos aires
+Telefono : 1169745146
+Email : isak_186@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : soy una persona responsable con iniciativa que busca un crecimiento tanto como persona y económico.
+Security_code : n7jpy
+Send : Enviar
+
+---------------
+
+Address : 37.228.104.222
+Nombre : isaias yoel
+Apellido : fernández
+Cargo : operario
+Direccion : san nicolás 2391
+Ciudad : buenos aires
+Telefono : 1169745146
+Email : isak_186@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : soy una persona responsable con iniciativa que busca un crecimiento tanto como persona y económico.
+Security_code : rpdkf
+Send : Enviar
+
+---------------
+
+Address : 37.228.104.222
+Nombre : isaias yoel
+Apellido : fernández
+Cargo : operario
+Direccion : san nicolás 2391
+Ciudad : buenos aires
+Telefono : 1169745146
+Email : isak_186@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : soy una persona responsable con iniciativa que busca un crecimiento tanto como persona y económico.
+Security_code : rpdkf
+Send : Enviar
+
+---------------
+
+Address : 181.165.178.213
+Nombre : franco elias
+Apellido : avaca
+Cargo : aprendiz
+Direccion : mza 37 casa 13 coop. los andes
+Ciudad : cordoba
+Telefono : 4583348
+Email : elias.avaca@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : hola,soy joven tengo ganas de crecer laboral mente y en la vida misma. tengo rápido aprendizaje y ganas de aprender.
+desde ya muchas gracias. adiós. 
+Security_code : tmb5b
+Send : Enviar
+
+---------------
+
+Address : 37.228.104.222
+Nombre : isaias yoel
+Apellido : fernandez
+Cargo : operario
+Direccion : san nicolás 2391
+Ciudad : buenos aires
+Telefono : 11-69745146
+Email : isak_186@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Soy una persona responsable con iniciativa q busca un crecimiento tanto económico como personal.
+Security_code : dvr5d
+Send : Enviar
+
+---------------
+
+Address : 186.22.215.131
+Nombre : Rodrigo
+Apellido : del Castillo
+Cargo : +Arquitecto +Proyectista +Diseñador +Director de obra
+Direccion : Virrey del Pino 2765 
+Ciudad : CABA
+Telefono : 0351152309471
+Email : rodrigodelcas@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados: 
+Soy un Joven Arquitecto con 4 años de experiencia. Estudié en la Universidad Nacional de Córdoba y desde hace poco tiempo me traslade a Bs. As. para crecer profesionalmente. Vivo en el barrio de Belgrano y actualmente me encuentro buscando trabajo. 
+Adjunto mi Cv. en conjunto con una síntesis para que me tengan en su base de datos, en dichos documentos están todos mis datos para que puedan contactarse con migo y de este modo ampliar cualquier tipo de información.
+Desde ya, agradezco su atención y saludo cordialmente. 
+Security_code : 6JSKV
+Send : Enviar
+
+---------------
+
+Address : 186.22.215.131
+Nombre : Rodrigo
+Apellido : del Castillo
+Cargo : +Arquitecto +Proyectista +Diseñador +Director de obra
+Direccion : Virrey del Pino 2765 
+Ciudad : CABA
+Telefono : 0351152309471
+Email : rodrigodelcas@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados: 
+Soy un Joven Arquitecto con 4 años de experiencia. Estudié en la Universidad Nacional de Córdoba y desde hace poco tiempo me traslade a Bs. As. para crecer profesionalmente. Vivo en el barrio de Belgrano y actualmente me encuentro buscando trabajo. 
+Adjunto mi Cv. en conjunto con una síntesis para que me tengan en su base de datos, en dichos documentos están todos mis datos para que puedan contactarse con migo y de este modo ampliar cualquier tipo de información.
+Desde ya, agradezco su atención y saludo cordialmente. 
+Security_code : 6jskv
+Send : Enviar
+
+---------------
+
+Address : 186.22.215.131
+Nombre : Rodrigo
+Apellido : del Castillo
+Cargo : Arquitecto Proyectista Diseñador Director de obra
+Direccion : Virrey del Pino 2765 
+Ciudad : CABA
+Telefono : 0351152309471
+Email : rodrigodelcas@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados: 
+Soy un Joven Arquitecto con 4 años de experiencia. Estudié en la Universidad Nacional de Córdoba y desde hace poco tiempo me traslade a Bs. As. para crecer profesionalmente. Vivo en el barrio de Belgrano y actualmente me encuentro buscando trabajo. 
+Adjunto mi Cv. en conjunto con una síntesis para que me tengan en su base de datos, en dichos documentos están todos mis datos para que puedan contactarse con migo y de este modo ampliar cualquier tipo de información.
+Desde ya, agradezco su atención y saludo cordialmente. 
+Security_code : vz2kx
+Send : Enviar
+
+---------------
+
+Address : 186.22.215.131
+Nombre : Rodrigo
+Apellido : del Castillo
+Cargo : Arquitecto Proyectista Diseñador Director de obra
+Direccion : Virrey del Pino 2765 
+Ciudad : CABA
+Telefono : 0351152309471
+Email : rodrigodelcas@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados: 
+Soy un Joven Arquitecto con 4 años de experiencia. Estudié en la Universidad Nacional de Córdoba y desde hace poco tiempo me traslade a Bs. As. para crecer profesionalmente. Vivo en el barrio de Belgrano y actualmente me encuentro buscando trabajo. 
+Adjunto mi Cv. para que me tengan en su base de datos, en dichos documentos están todos mis datos para que puedan contactarse con migo y de este modo ampliar cualquier tipo de información.
+Desde ya, agradezco su atención y saludo cordialmente. 
+Security_code : vz2kx
+Send : Enviar
+
+---------------
+
+Address : 186.22.215.131
+Nombre : Rodrigo
+Apellido : del Castillo
+Cargo : Arquitecto Proyectista Diseñador Director de obra
+Direccion : Virrey del Pino 2765 
+Ciudad : CABA
+Telefono : 0351152309471
+Email : rodrigodelcas@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados: 
+Soy un Joven Arquitecto con 4 años de experiencia. Estudié en la Universidad Nacional de Córdoba y desde hace poco tiempo me traslade a Bs. As. para crecer profesionalmente. Vivo en el barrio de Belgrano y actualmente me encuentro buscando trabajo. 
+Adjunto mi Cv. para que me tengan en su base de datos, en dichos documentos están todos mis datos para que puedan contactarse con migo y de este modo ampliar cualquier tipo de información.
+Desde ya, agradezco su atención y saludo cordialmente. 
+Security_code : fdgr6
+Send : Enviar
+
+---------------
+
+Address : 190.55.96.216
+Nombre : cynthia viviana
+Apellido : Bulaievsky
+Cargo : administrativo en ventas de seguros
+Direccion : Vidal 2421
+Ciudad : CAPITAL FEDERAL
+Telefono : 011-1541710823
+Email : cynvivi@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Trabajar en una compañía de Seguros/ Brokers, Productores,  en relación de dependencia.
+Security_code : n3rfp
+Send : Enviar
+
+---------------
+
+Address : 24.232.101.69
+Nombre : Facundo
+Apellido : Stella
+Cargo : Junior
+Direccion : Rodriguez Peña 1142
+Ciudad : Martinez
+Telefono : 1561661995
+Email : stella.facundo@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estoy en busqueda de un trabajo.
+Security_code : 8dyzm
+Send : Enviar
+
+---------------
+
+Address : 181.168.74.73
+Nombre : Celia Monica
+Apellido : Ramirez
+Cargo : limpieza
+Direccion : chopin 1035
+Ciudad : buenos aires
+Telefono : 1533889606
+Email : sontodosvarones@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : secundario fanalizado ,manejo de pc .,experiencia en limpieza
+Security_code : fhv65
+Send : Enviar
+
+---------------
+

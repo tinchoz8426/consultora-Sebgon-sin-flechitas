@@ -1,0 +1,172 @@
+Address : 186.13.71.195<br>
+ <br>REF : TEC. EL
+ <br>Nombre : Matáis
+ <br>Apellido : Ruggeri
+ <br>Cargo : Técnico electrónico especializado
+ <br>Direccion : Carlos Casares 2240
+ <br>Ciudad : Castelar
+ <br>Telefono : 1162898672
+ <br>Email : mdruggeri@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenos días, quería postularme para el empleo de técnico electrónico especializado. Gracias.
+ <br>Security_code : jccsb
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.15.201.53<br>
+ <br>Nombre : Maria Soledad
+ <br>Apellido : Daziano
+ <br>Cargo : Administrativo, Atencion al publico
+ <br>Direccion : derqui 1049
+ <br>Ciudad : Godoy Cruz
+ <br>Telefono : 2615551519
+ <br>Email : maria_da88@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Movilidad propia y buena predispocision. 
+ <br>Security_code : fg2xj
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.183.122.29<br>
+ <br>REF : TEC. EL
+ <br>Nombre : jore
+ <br>Apellido : vallejo
+ <br>Cargo : técnico especializado 
+ <br>Direccion : carlo encina 4911
+ <br>Ciudad : laferrere
+ <br>Telefono : 1126708379
+ <br>Email : vallejoselectronic@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola , me gutara formar parte  de u equipo de trabajo...
+ <br>Security_code : 2rqs3
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.183.122.29<br>
+ <br>REF : TEC. EL
+ <br>Nombre : jore
+ <br>Apellido : vallejo
+ <br>Cargo : técnico especializado 
+ <br>Direccion : carlo encina 4911
+ <br>Ciudad : laferrere
+ <br>Telefono : 1126708379
+ <br>Email : vallejoselectronic@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola , me gutara formar parte  de u equipo de trabajo...
+ <br>Security_code : w86pn
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.7<br>
+ <br>REF : TEC. EL
+ <br>Nombre : Christian 
+ <br>Apellido : Yensen
+ <br>Cargo : Técnico electrónico 
+ <br>Direccion : Paunero 848
+ <br>Ciudad : San miguel
+ <br>Telefono : 011 6140 7684
+ <br>Email : yensen16@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Christian Alejandro Yensen 
+43 años 
+Técnico electrónico 25 años de experiencia en desarrollo y mantenimiento electrónico- eléctrico  e informático 
+Soltero 
+1 hijo
+Cursando las últimas materias de la tecnicatura superior en energía eléctrica. 
+Resido en san Miguel 
+
+ <br>Security_code : jfbms
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.9<br>
+ <br>REF : TEC. EL
+ <br>Nombre : Christian 
+ <br>Apellido : Yensen
+ <br>Cargo : Técnico electrónico 
+ <br>Direccion : Paunero 848
+ <br>Ciudad : San miguel
+ <br>Telefono : 011 6140 7684
+ <br>Email : yensen16@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Christian Alejandro Yensen 
+43 años 
+Técnico electrónico 25 años de experiencia en desarrollo y mantenimiento electrónico- eléctrico  e informático 
+Soltero 
+1 hijo
+Cursando las últimas materias de la tecnicatura superior en energía eléctrica. 
+Resido en san Miguel 
+
+ <br>Security_code : jfbms
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.143.199.114<br>
+ <br>Nombre : Edith ruth
+ <br>Apellido : Angulo
+ <br>Cargo : Cajera administracion 
+ <br>Direccion : Kuanip 2110
+ <br>Ciudad : Ushuaia
+ <br>Telefono : 0290115418683
+ <br>Email : edithdirectv@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Con disponibilidad de horario y predisposición para aprender .
+ <br>Security_code : g5m8k
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.210.251.55<br>
+ <br>REF : JPER-1
+ <br>Nombre : LUIS RICARDO
+ <br>Apellido : CARDUCCI
+ <br>Cargo : Jefe de Personal
+ <br>Direccion : Velazquez 2343
+ <br>Ciudad : Los Polvorines
+ <br>Telefono : 01144560141
+ <br>Email : carducciluis@speedy.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Adjunto CV para postularme a la vacante de Jefe de RRHH
+ <br>Security_code : 4jcdy
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 45.7.97.227<br>
+ <br>REF : Ing. quim
+ <br>Nombre : Julia
+ <br>Apellido : Oggero
+ <br>Cargo : Jefa de procesos industriales
+ <br>Direccion : Hipólito Irigoyen 2669
+ <br>Ciudad : Santa Fe
+ <br>Telefono : 3425481067
+ <br>Email : oggerojulia@gmail.om
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Con posibilidad de cambio de residencia. 
+ <br>Security_code : 53xv9
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.9<br>
+ <br>REF : Ing. quim
+ <br>Nombre : Debora Elizabeth
+ <br>Apellido : Vergara
+ <br>Cargo : Personal a cargo de depósito 
+ <br>Direccion : Guatiperi y fariñas
+ <br>Ciudad : Monte grande
+ <br>Telefono : 1132809968
+ <br>Email : deboraelizabethv@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Tengo tecnicatura de ingeniería industrial realiza
+ <br>Security_code : Jgcz8
+ <br>Send : Enviar
+ <br>
+---------------
+

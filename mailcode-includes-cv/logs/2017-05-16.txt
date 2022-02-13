@@ -1,0 +1,84 @@
+Address : 190.138.218.44<br>
+ <br>REF : EP-1
+ <br>Nombre : Dario Gustavo
+ <br>Apellido : Molina
+ <br>Cargo : Encargado de produccion
+ <br>Direccion : Franklin 950. 6ºB. 
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 011-1524631436
+ <br>Email : dachi_004@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : De mi mayor consideración:
+Por la presente, tengo el agrado de dirigirme a Uds. con el fin de postularme formalmente al puesto de referencia. 
+Con tal motivo, pongo a vuestra disposición mis antecedentes personales, académicos y laborales.
+Con la seguridad de encontrarme absolutamente calificado, para satisfacer la presente   necesidad, y a la espera de un próximo contacto, los saludo muy atentamente.
+
+Lic. Darío Molina
+
+ <br>Security_code : 3zqts
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.171.182.59<br>
+ <br>Nombre : Franco
+ <br>Apellido : Fernandez
+ <br>Cargo : Repositor/Operario/Chofer
+ <br>Direccion : Larea 754
+ <br>Ciudad : capital federal
+ <br>Telefono : 1123270644
+ <br>Email : franco.fernandez1@outlook.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buen dia quisiera dejarle a su dispocicion mi cv para poder ser parte de su empresa
+ <br>Security_code : xtdnb
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.171.182.59<br>
+ <br>Nombre : Franco
+ <br>Apellido : Fernandez
+ <br>Cargo : Repositor/Operario/Chofer
+ <br>Direccion : Larea 754
+ <br>Ciudad : capital federal
+ <br>Telefono : 1123270644
+ <br>Email : franco.fernandez1@outlook.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buen dia quisiera dejarles mi cv a su dispocion para pdoer formar parte de su empresa
+ <br>Security_code : dfqtg
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.231.197.15<br>
+ <br>REF : ROT-1
+ <br>Nombre : Daniel
+ <br>Apellido : Canton
+ <br>Cargo : Responsable Oficina Técnica
+ <br>Direccion : Gascon 21
+ <br>Ciudad : CABA
+ <br>Telefono : 1154799806
+ <br>Email : daniel.ctoribio@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Adjunto mi CV para que me consideren para el puesto. Gracias de antemano
+ <br>Security_code : tpmrg
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 200.82.40.90<br>
+ <br>REF : SP-1
+ <br>Nombre : LUIS ALBERTO
+ <br>Apellido : SILVA
+ <br>Cargo : Supervisor de Produccion- SP-1
+ <br>Direccion : A Storni 2842
+ <br>Ciudad : Garin
+ <br>Telefono : 011 15 23074065
+ <br>Email : luissilva2012@arnet.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me postula a esta importante búsqueda, quedo a sus ordenes.
+ <br>Security_code : 8vwzp
+ <br>Send : Enviar
+ <br>
+---------------
+

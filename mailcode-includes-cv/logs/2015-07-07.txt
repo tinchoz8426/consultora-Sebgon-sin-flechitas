@@ -1,0 +1,57 @@
+Address : 201.253.106.162
+REF : GT PL
+Nombre : Alejandrro
+Apellido : Parada
+Cargo : Gerente de Planta
+Direccion : Calle 489 N° 2188
+Ciudad : La PLata
+Telefono : 2214598783
+Email : alejandroeparada@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados buen día,
+Me dirijo a usted a fin de hacerle llegar esta carta de presentación junto con mi CV, en versión simplificada y ampliada, con motivo del aviso publicado para el puesto de “Gerente de Planta”, al que he leído en la Web y me postulo mediante este mail, ya que los requisitos solicitados coinciden con mi perfil profesional. 
+Soy un Ingeniero Químico, con un MBA y dominio del idioma ingles que ha desarrollado una extensa carrera gerencial en empresas químicas, petroquímicas, y petroleras, multinacionales y PYME con diferentes localizaciones geográficas dentro del país. 
+Cabe también destacar que la diversidad de puestos gerenciales en los que me ha tocado desempeñarme es una muestra de mi capacidad de gestión para organizar y planificar con visión estrategia las diferentes áreas de una empresa, y demostradas cualidades de  liderazgo para conducir grupos con diferentes culturas de trabajo y lo mismo alcanzar objetivos desafiantes.
+Mi lugar de residencia actual es la ciudad de La Plata, y el hecho de poder unirme al proyecto de dicha empresa implica un desafío profesional al cual puedo aportarle mi conocimiento global del negocio y ayudar a consolidar los resultados de la empresa.
+Desde ya agradezco la atención dispensada, y me encantaría ampliar en una entrevista personal información referente a la oferta laboral, como muchos aspectos de mi curriculum vitae en caso que tengan la amabilidad de convocarme.
+Sin otro particular, aprovecho la oportunidad para saludarlos muy atentamente.
+
+Alejandro E. Parada
+
+
+Security_code : b53sm
+Send : Enviar
+
+---------------
+
+Address : 190.193.19.238
+Nombre : Guadalupe
+Apellido : Garavano
+Cargo : asistente legal 
+Direccion : el ceibo 579
+Ciudad : Buenos Aires
+Telefono : 1555126108
+Email : guadalupe-garavano@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenas tardes, les dejo mi CV a su disposición. Soy estudiante de Abogacia y me encuentro buscando trabajo sobre este área teniendo experiencia amplia en la misma. Muchas gracias. 
+Security_code : v9rhb
+Send : Enviar
+
+---------------
+
+Address : 190.247.47.156
+Nombre : Melisa 
+Apellido : Dagliano
+Cargo : estudiante de derecho presentacion espontanea
+Direccion : ambrosetti 560 3C
+Ciudad : caba
+Telefono : 1139221803
+Email : mel.bdagliano@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : A quien corresponda, soy estudiante de derecho, estoy cursando los últimos año de la carrera. Estoy buscando empleo, para poder establecerme en el mercado laboral. Si les interesa mi cv me  agradaría contar con una entrevista. Muchas gracias, atte 
+Melisa Dagliano
+Security_code : pttfs
+Send : Enviar
+
+---------------
+

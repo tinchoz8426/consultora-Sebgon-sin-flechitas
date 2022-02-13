@@ -1,0 +1,259 @@
+Address : 181.25.216.6<br>
+ <br>REF : chr
+ <br>Nombre : Javier Horacio
+ <br>Apellido : Pierandrey
+ <br>Cargo : Chofer
+ <br>Direccion : Rene Favaloro 703
+ <br>Ciudad : Luis Guillon
+ <br>Telefono : 1164065401
+ <br>Email : javier.pierandrey@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : me siento capacitado para ocupara el puesto.
+ <br>Security_code : rzd68
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 191.82.109.125<br>
+ <br>REF : TE-1
+ <br>Nombre : LUCAS NAHUEL
+ <br>Apellido : KLOBERDANZ
+ <br>Cargo : TE-1
+ <br>Direccion : Alvear 1456
+ <br>Ciudad : San Antonio de Padua
+ <br>Telefono : 2235641118
+ <br>Email : klobermdq@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : AGRADECERIA ME TENGAN EN CUENTA EN ESTA Y CUALQUIER OTRA POSTULACION PARA CUAL MI PERFIL LES SEA FAVORABLE. ME HE MUDADO DESDE LA CIUDAD DE MAR DEL PLATA RECIENTEMENTE Y ME URGE CONSEGUIR UN TRABAJO ESTABLE QUE ME PERMITA CONTAR CON UN INGRESO QUE SATISFAGA LAS EROGACIONES PROPIAS DE MANUTENCIÓN DIARIA. MUCHÍSIMAS GRACIAS. LUCAS NAHUEL KLOBERDANZ
+ <br>Security_code : 9K6YP
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 191.82.109.125<br>
+ <br>REF : Tectron
+ <br>Nombre : LUCAS NAHUEL
+ <br>Apellido : KLOBERDANZ
+ <br>Cargo : TECTRON
+ <br>Direccion : Alvear 1456
+ <br>Ciudad : San Antonio de Padua
+ <br>Telefono : 2235641118
+ <br>Email : klobermdq@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : AGRADECERIA ME TENGAN EN CUENTA EN ESTA Y CUALQUIER OTRA POSTULACION PARA CUAL MI PERFIL LES SEA FAVORABLE. ME HE MUDADO DESDE LA CIUDAD DE MAR DEL PLATA RECIENTEMENTE Y ME URGE CONSEGUIR UN TRABAJO ESTABLE QUE ME PERMITA CONTAR CON UN INGRESO QUE SATISFAGA LAS EROGACIONES PROPIAS DE MANUTENCIÓN DIARIA. MUCHÍSIMAS GRACIAS. LUCAS NAHUEL KLOBERDANZ
+ <br>Security_code : WDCVX
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.193.16.229<br>
+ <br>REF : chr
+ <br>Nombre : Roberto adrian
+ <br>Apellido : Garcia
+ <br>Cargo : Chofer
+ <br>Direccion : Lagomarsino 1185
+ <br>Ciudad : Merlo 
+ <br>Telefono : 1131824582
+ <br>Email : adrian.garcia05@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Emprendedor.con ganas de seguir aprendiendo y superar nuevos obstáculos en nuevos trabajos
+ <br>Security_code : Dqy9g
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.193.16.229<br>
+ <br>REF : chr
+ <br>Nombre : Roberto adrian
+ <br>Apellido : Garcia
+ <br>Cargo : Chofer
+ <br>Direccion : Lagomarsino 1185
+ <br>Ciudad : Merlo 
+ <br>Telefono : 1131824582
+ <br>Email : adrian.garcia05@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Emprendedor.con ganas de seguir aprendiendo y superar nuevos obstáculos en nuevos trabajos
+ <br>Security_code : Dqy9g
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.193.16.229<br>
+ <br>REF : chr
+ <br>Nombre : Roberto adrian
+ <br>Apellido : Garcia
+ <br>Cargo : Chofer
+ <br>Direccion : Lagomarsino 1185
+ <br>Ciudad : Merlo 
+ <br>Telefono : 1131824582
+ <br>Email : adrian.garcia05@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Emprendedor.con ganas de seguir aprendiendo y superar nuevos obstáculos en nuevos trabajos
+ <br>Security_code : dqy9g
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 170.51.96.179<br>
+ <br>REF : chr
+ <br>Nombre : Guillermo 
+ <br>Apellido : Maidana
+ <br>Cargo : Chofer
+ <br>Direccion : Tellier 2916
+ <br>Ciudad : Buenos aires
+ <br>Telefono : 1130936367
+ <br>Email : guilleseductor@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Espero que me den una posibilidad laboral
+ <br>Security_code : t4r56
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.44.67.14<br>
+ <br>REF : chr
+ <br>Nombre : Julio Rafael 
+ <br>Apellido : Gonzalez
+ <br>Cargo : Chófer de reparto o ayudante de carga y descarga
+ <br>Direccion : Córdoba 1187
+ <br>Ciudad : Burzaco
+ <br>Telefono : 42388776
+ <br>Email : Julio270384@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola quería postularme a su puesto de trabajo 
+ <br>Security_code : 35hn4
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.137.74.208<br>
+ <br>Nombre : Kevin
+ <br>Apellido : Charrondiere
+ <br>Cargo : Supply chain
+ <br>Direccion : Dorrego 2377
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 01134619255
+ <br>Email : kevincharrondiere@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Busco un desafío profesional en el sector de supply chain y distribución
+ <br>Security_code : 44xcq
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 200.125.113.194<br>
+ <br>REF : chr
+ <br>Nombre : Anibal
+ <br>Apellido : Koleff
+ <br>Cargo : chofer de reparto
+ <br>Direccion : La Rabida 6171
+ <br>Ciudad : 9 de abril
+ <br>Telefono : 1532794039
+ <br>Email : moeskao@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados,
+He visto la Oferta Laboral publicada en Indeed y la misma me resultó de gran interés. Por este motivo, les hago llegar mi Currículum Vitae, a fin de ser tenido en cuenta como candidato.
+Quedo a su disposición para ampliar cualquier información necesaria.
+Cordialmente,
+Anibal Koleff
+
+ <br>Security_code : 2y467
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 200.125.113.194<br>
+ <br>REF : chr
+ <br>Nombre : Gabriel 
+ <br>Apellido : Hardt
+ <br>Cargo : Chofer de raparto
+ <br>Direccion : Solis 1625
+ <br>Ciudad : 9 de abril
+ <br>Telefono : 1521607851
+ <br>Email : ghardt76@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados,
+He visto la Oferta Laboral publicada en Indeed y la misma me resultó de gran interés. Por este motivo, les hago llegar mi Currículum Vitae, a fin de ser tenido en cuenta como candidato.
+Quedo a su disposición para ampliar cualquier información necesaria.
+Cordialmente,
+Gabriel Hardt
+ <br>Security_code : rjz44
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 191.82.179.36<br>
+ <br>Nombre : Eliana Antonela
+ <br>Apellido : Sotomayor
+ <br>Cargo : Psicología
+ <br>Direccion : Quintana 4161, Villa Nueva, Guaymallen
+ <br>Ciudad : Mendoza
+ <br>Telefono : 2616309797
+ <br>Email : elianasotomayor@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Soy estudiante avanzado en psicología actualmente me encuentro realizando la tesis y me interesaría trabajar en relación a mi carrera
+ <br>Security_code : xbpqy
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 191.82.179.36<br>
+ <br>Nombre : Eliana Antonela
+ <br>Apellido : Sotomayor
+ <br>Cargo : Psicología
+ <br>Direccion : Quintana 4161, Villa Nueva, Guaymallen
+ <br>Ciudad : Mendoza
+ <br>Telefono : 2616309797
+ <br>Email : elianasotomayor@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Soy estudiante avanzado en psicología actualmente me encuentro realizando la tesis y me interesaría trabajar en relación a mi carrera
+ <br>Security_code : xbpqy
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 191.82.179.36<br>
+ <br>Nombre : Eliana Antonela
+ <br>Apellido : Sotomayor
+ <br>Cargo : Psicología
+ <br>Direccion : Quintana 4161, Villa Nueva, Guaymallen
+ <br>Ciudad : Mendoza
+ <br>Telefono : 2616309797
+ <br>Email : elianasotomayor@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Soy estudiante avanzado en psicología actualmente me encuentro realizando la tesis y me interesaría trabajar en relación a mi carrera
+ <br>Security_code : xbpqy
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 191.82.179.36<br>
+ <br>Nombre : Eliana Antonela
+ <br>Apellido : Sotomayor
+ <br>Cargo : Psicología
+ <br>Direccion : Quintana 4161, Villa Nueva, Guaymallen
+ <br>Ciudad : Mendoza
+ <br>Telefono : 2616309797
+ <br>Email : elianasotomayor@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Soy estudiante avanzado en psicología actualmente me encuentro realizando la tesis y me interesaría trabajar en relación a mi carrera
+ <br>Security_code : vywrx
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 170.51.92.92<br>
+ <br>Nombre : Maira
+ <br>Apellido : Montes
+ <br>Cargo : Limpieza 
+ <br>Direccion : 180 bis 2074
+ <br>Ciudad : Mar del plata
+ <br>Telefono : 2236569146
+ <br>Email : Montesmaira709@gmail. Com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me encuentro en la búsque de un puesto laboral soy muy responsable eficaz ala hora de desempeñarme en Londres 
+ <br>Security_code : 79gn7
+ <br>Send : Enviar
+ <br>
+---------------
+

@@ -1,0 +1,140 @@
+Address : 186.59.52.138
+Nombre : María Pía
+Apellido : Coppedé Novelli
+Cargo : Varios
+Direccion : Avenida Belgrano
+Ciudad : Tupungato - Mendoza
+Telefono : 2622646645
+Email : pia.coppede@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Busco trabajo en zona Valle de Uco, habilidades varias.
+Security_code : 5xvnf
+Send : Enviar
+
+---------------
+
+Address : 186.57.156.121
+Nombre : Agustin
+Apellido : Gimenez
+Cargo : tecnico
+Direccion : Ecuador 3404 Ituzaingo
+Ciudad : Buenos Aires
+Telefono : (011)4621-7022
+Email : agus_mat@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola , quería postularme para cualquier puesto en que necesiten un técnico electromecánico . Saludos
+Security_code : 76rbd
+Send : Enviar
+
+---------------
+
+Address : 186.57.156.121
+Nombre : Agustin
+Apellido : Gimenez
+Cargo : Tecnico Electromecanico
+Direccion : Ecuador 3404 . Ituzaingo
+Ciudad : Buenos Aires
+Telefono : (=11)4621-7022
+Email : agus_mat@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola quiero postularme para cualquier puesto de técnico electromecánico. Saludos
+Security_code : byxvv
+Send : Enviar
+
+---------------
+
+Address : 201.176.41.14
+REF : JPL
+Nombre : Gustavo
+Apellido : Curras
+Cargo : Jefe de planta
+Direccion : General Rivas 1597 dto. 2
+Ciudad : Bella Vista
+Telefono : 1524255465
+Email : currasgustavo@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Quisiera postularme y lograr una entrevista laboral.
+Security_code : ngs5v
+Send : Enviar
+
+---------------
+
+Address : 201.176.41.14
+Nombre : Gustavo
+Apellido : Curras
+Cargo : Jefe de planta
+Direccion : General Rivas 1597 dto. 2
+Ciudad : Bella Vista
+Telefono : 1524255465
+Email : currasgustavo@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Quisiera ingresar mi curriculum.
+Security_code : pxhxs
+Send : Enviar
+
+---------------
+
+Address : 186.22.21.209
+REF : TLP
+Nombre : marcelo
+Apellido : giordano
+Cargo : Referencia : TLP Técnico para laboratorio de electrónica y sistemas de planta
+Direccion : unanue 6758
+Ciudad : capital federal
+Telefono : fijo 011-20706523  celular (02966) 15631455  
+Email : marcelojaviergiordano1975@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : adjunto CV
+Security_code : zss5n
+Send : Enviar
+
+---------------
+
+Address : 186.22.21.209
+REF : TLP
+Nombre : marcelo
+Apellido : giordano
+Cargo : Referencia : TLP Técnico para laboratorio de electrónica y sistemas de planta
+Direccion : unanue 6758
+Ciudad : capital federal
+Telefono : fijo 011-20706523  celular (02966) 15631455  
+Email : marcelojaviergiordano1975@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : adjunto CV
+Security_code : zss5n
+Send : Enviar
+
+---------------
+
+Address : 186.22.21.209
+REF : TLP
+Nombre : marcelo
+Apellido : giordano
+Cargo : Referencia : TLP Técnico para laboratorio de electrónica y sistemas de planta
+Direccion : unanue 6758
+Ciudad : capital federal
+Telefono : fijo 011-20706523  celular (02966) 15631455  
+Email : marcelojaviergiordano1975@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : adjunto CV
+Security_code : zhs6c
+Send : Enviar
+
+---------------
+
+Address : 186.22.21.209
+REF : TLP
+Nombre : marcelo
+Apellido : giordano
+Cargo : Referencia : TLP Técnico para laboratorio de electrónica y sistemas de planta
+Direccion : unanue 6758
+Ciudad : capital federal
+Telefono : fijo 011-20706523  celular (02966) 15631455  
+Email : marcelojaviergiordano1975@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : adjunto CV
+Security_code : 93s4q
+Send : Enviar
+
+---------------
+

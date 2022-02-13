@@ -1,0 +1,135 @@
+Address : 190.195.26.151<br>
+ <br>REF : ROT-1
+ <br>Nombre : Rainier Enrique
+ <br>Apellido : Suarez Salazar
+ <br>Cargo : RESPONSABLE DE OFICINA TECNICA
+ <br>Direccion : Sanchez de Bustamante 1644,Capital Federal
+ <br>Ciudad : Buenos Aire
+ <br>Telefono : 1162141814
+ <br>Email : Rainier_suarez@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me considero una persona responsable, trabajadora y de retos, estoy en la disponibilidad de atender cualquier oportunidad que se me pueda presentar, ya que voy con intensiones de asumir cualquier reto que se presente.
+
+ <br>Security_code : hxj5h
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.182.117.198<br>
+ <br>Nombre : Ayelen
+ <br>Apellido : Caminos
+ <br>Cargo : Asistente comercial 
+ <br>Direccion : Avellaneda 1947
+ <br>Ciudad : Castelar 
+ <br>Telefono : 1521675086
+ <br>Email : ayelenmcaminos@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados: 
+
+Me encuentro interesada en su oferta laboral y además, me considero capacitada  para el puesto.
+
+Desde ya muchas gracias por su atención. 
+ <br>Security_code : 8pbrn
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.19.159.203<br>
+ <br>REF : JPER-1
+ <br>Nombre : Gustavo
+ <br>Apellido : Pecorelli
+ <br>Cargo : Jefe Personal
+ <br>Direccion : Manuel Porcel de Peralta 950
+ <br>Ciudad : Ciudad Aut. Bs. As.
+ <br>Telefono : 1161552143
+ <br>Email : guspeco@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buen dia. Adjunto mi CV para aplicar a la busqueda de referencia. 
+Saludos cordiales.
+ <br>Security_code : 626j4
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.247.66.148<br>
+ <br>REF : Ing. quim
+ <br>Nombre : María Victoria
+ <br>Apellido : Blanco
+ <br>Cargo : Jefa de producción/ Ingeniera Química
+ <br>Direccion : 121 num 2578
+ <br>Ciudad : La Plata
+ <br>Telefono : 2215761367
+ <br>Email : victoria.blanco19@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados,
+He visto la Oferta Laboral y la misma me resultó de gran interés. Por este motivo, les hago llegar mi Currículum Vitae, a fin de ser tenido en cuenta como candidato.
+Quedo a su disposición para ampliar cualquier información necesaria.
+Cordialmente,
+Maria Victoria 
+ <br>Security_code : 28syt
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.216.192.153<br>
+ <br>REF : ACO-1
+ <br>Nombre : Jonnathan
+ <br>Apellido : Veloz
+ <br>Cargo : ANALISTA DE COMERCIO INTERNACIONAL/EXTERIOR
+ <br>Direccion : Av del libertador
+ <br>Ciudad : Buenos aires
+ <br>Telefono : 1124023813
+ <br>Email : jonathangabriel2805@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me dirijo a ustedes para hacerles conocer mi interés en el cargo que ofrecen destacando que soy una persona Responsable, Honesta, Humilde, Pro-Activa, Puntual, Organizada, Dinámico, Sociable, Alegre, con muchas ganas de superación, trabajo en equipo, rápido aprendizaje, me gusta seguir aprendiendo de otras áreas con la ayuda de ustedes, no tiene que ser obligatorio de mi profesión, soy una persona abierta para asumir nuevos retos y responsabilidades.
+ <br>Security_code : 2qrvn
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.225.197.188<br>
+ <br>Nombre : Emiliano
+ <br>Apellido : Cuscueta
+ <br>Cargo : Tecnico
+ <br>Direccion : Cralos Tejedor 1570
+ <br>Ciudad : Merlo
+ <br>Telefono : 1161178011
+ <br>Email : emilianocuscueta@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : me ofresco para  trabajar en empresas ,fabricas y puestos dodne se necesite un tecnico en electronica con amplios conocimientos de  mecanica, soldadura y afines
+ <br>Security_code : 8dvtz
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.173.137.51<br>
+ <br>REF : TM-2
+ <br>Nombre : Lautaro
+ <br>Apellido : Ceballos Pardo
+ <br>Cargo : Tecnico Mecanico
+ <br>Direccion : Consejal Bracco
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 02224493622
+ <br>Email : cebilauti@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : me interesa mucho el empleo.Con muchas ganas de trabajar y con altas capacidades de aprendizaje.
+ <br>Security_code : hpwpz
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.173.137.51<br>
+ <br>Nombre : Lautaro
+ <br>Apellido : Ceballos Pardo
+ <br>Cargo : Mantenimiento, Operarios, Cajero, Repositor
+ <br>Direccion : Consejal Bracco 930
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 02224493622
+ <br>Email : cebilauti@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Con muchas ganas de trabajar, mejorarme en cuanto a capacidad de todo tipo de trabajo.
+ <br>Security_code : gj846
+ <br>Send : Enviar
+ <br>
+---------------
+

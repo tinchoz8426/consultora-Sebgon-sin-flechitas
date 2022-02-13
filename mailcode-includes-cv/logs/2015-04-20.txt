@@ -1,0 +1,75 @@
+Address : 181.228.129.158
+Nombre : Diego Francisco 
+Apellido : Gargano
+Cargo : sin postulación
+Direccion : León de Iraeta 1345
+Ciudad : Bahía Blanca
+Telefono : 00542914533530
+Email : garganopus@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Cuento con 12 años de experiencia en bases de datos, GIS, QAQC y project management.
+Security_code : xnzr4
+Send : Enviar
+
+---------------
+
+Address : 181.228.129.158
+Nombre : Diego Francisco 
+Apellido : Gargano
+Cargo : sin postulación
+Direccion : León de Iraeta 1345
+Ciudad : Bahía Blanca
+Telefono : 00542914533530
+Email : garganopus@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Cuento con 12 años de experiencia en bases de datos, GIS, QAQC y project management.
+Security_code : xnzr4
+Send : Enviar
+
+---------------
+
+Address : 181.228.129.158
+Nombre : Diego Francisco 
+Apellido : Gargano
+Cargo : sin postulación
+Direccion : León de Iraeta 1345
+Ciudad : Bahía Blanca
+Telefono : 00542914533530
+Email : garganopus@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Cuento con 12 años de experiencia en bases de datos, GIS, QAQC y project management.
+Security_code : g5d72
+Send : Enviar
+
+---------------
+
+Address : 181.47.68.215
+Nombre : Maria Florencia
+Apellido : Montesinos
+Cargo : Abogada
+Direccion : Bolivia 585 piso 1 dpto B
+Ciudad : Cap Fed
+Telefono : 20727315
+Email : florencia_montesinos@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Presentaciòn Espontànea
+Security_code : 2qxwn
+Send : Enviar
+
+---------------
+
+Address : 186.18.141.146
+Nombre : Georgina
+Apellido : Fiorentino
+Cargo : Atencion al cliente
+Direccion : Fitz Roy 3723
+Ciudad : San Justo
+Telefono : 1558012659
+Email : georgina.fiorentino@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Presentación espontánea
+Security_code : kd3fv
+Send : Enviar
+
+---------------
+

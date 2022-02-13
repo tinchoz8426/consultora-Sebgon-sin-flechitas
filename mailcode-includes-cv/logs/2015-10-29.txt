@@ -1,0 +1,67 @@
+Address : 181.117.0.98
+Nombre : jonathan maximiliano
+Apellido : fernandez
+Cargo : soldador
+Direccion : williams 153
+Ciudad : ing.maschwitz
+Telefono : 01131384031
+Email : maxifernandez2831@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Montaje
+Soldador
+Herrero
+Interpretación de planos
+
+
+Security_code : jd8q3
+Send : Enviar
+
+---------------
+
+Address : 186.56.155.221
+Nombre : Jesica
+Apellido : Pavon
+Cargo : Indistinto
+Direccion : Catamarca 266
+Ciudad : Capital Federal
+Telefono : 1138669271
+Email : jesica_bostera_06@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Soy una persona muy activa y estrictamente responsable. Estoy en la búsqueda activa de empleo. Tengo disponibilidad horaria.
+Security_code : jzshr
+Send : Enviar
+
+---------------
+
+Address : 201.255.93.192
+Nombre : Marisol
+Apellido : Salvador
+Cargo : administracion
+Direccion : 450 y 29
+Ciudad : city bell
+Telefono : 221155770928
+Email : msol2000@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto a la presente mi C.V para vuestra evaluación. Saludos atte.
+salvador Marisol
+Security_code : vjzf2
+Send : Enviar
+
+---------------
+
+Address : 201.255.93.192
+Nombre : Marisol
+Apellido : Salvador
+Cargo : administracion
+Direccion : 450 y 29
+Ciudad : city bell
+Telefono : 221155770928
+Email : msol2000@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto a la presente mi C.V para vuestra evaluación. Saludos atte.
+salvador Marisol
+Security_code : vjzf2
+Send : Enviar
+
+---------------
+

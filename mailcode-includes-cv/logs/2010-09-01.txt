@@ -1,0 +1,63 @@
+Address : 200.115.196.222
+Nombre : Sabrina
+Apellido : Bagnati
+Cargo : Administrativa
+Direccion : Castro 1046 Pb 5
+Ciudad : Buenos Aires
+Telefono : 35283749
+Email : sabrinabagnati@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : De mi consideracion:
+                                   Tengo el agrado de dirigirme a Uds. con el fin de transmitirles mi deseo en firme de incorporarme a su organizacion. 
+                                  Me presento como una persona activa, responsable, creativa, flexible, orientada al logro de resultados y a la resolucion y evolucion constante en las tareas asignadas. El objetivo que me he puesto, es el de formar parte del personal de una empresa prestigiosa, confiable y con proyectos ambiciosos.
+                                   Pongo ademas, en su conocimiento que estoy en condiciones de asumir la responsabilidad de este empleo en forma inmediata y con amplia disponibilidad de horarios.
+
+Quedo a la espera de su pronta respuesta
+
+Me despido atte.
+
+Security_code : vgkgr
+Send : Enviar
+
+---------------
+
+Address : 190.3.1.11
+REF : adper
+Nombre : Gerardo Oscar
+Apellido : Fagioli
+Cargo : Administrativo de Personal
+Direccion : Paraguay 555 planta baja 17
+Ciudad : Bahia Blanca
+Telefono : 0291-156439924
+Email : gfagioli09@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Vista la Oferta Laboral les hago llegar mis datos personales y profesionales en Currículum Vitae a fin de ser tenido en cuenta como candidato.
+
+Por el titulo obtenido me encuentro capacitado para desarrollar diferentes tareas en las distintas áreas que posee una organización de este tipo, realizando mis actividades de forma responsable y con buena predisposición al trabajo en equipo.
+
+Con la convicción de poseer el perfil requerido para un muy buen desempeño, quedo a entera disposición para hacerle llegar, sea en una entrevista personal o por el medio que se me indique, las ampliaciones y/o la documentación probatoria correspondiente.
+
+Esperando una respuesta positiva lo saluda atentamente,
+Lic. Gerardo Oscar Fagioli
+
+Security_code : jjgvk
+Send : Enviar
+
+---------------
+
+Address : 190.179.87.126
+Nombre : Juan Gabriel
+Apellido : Jara
+Cargo : Empleado
+Direccion : Manuel Estrada 1346
+Ciudad : Cipolletti
+Telefono : 2994243889
+Email : juanchi_76_290@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Por la presente me dirijo a ustedes a fin de poder acceder a un mercado laboral mas amplio y con mas mejoras.
+Desde ya muchas gracias Juan
+Security_code : akbmk
+Send : Enviar
+
+---------------
+

@@ -1,0 +1,62 @@
+Address : 45.238.54.105<br>
+ <br>Nombre : Hernan 
+ <br>Apellido : Cordoba 
+ <br>Cargo : Comunicación Corporativa
+ <br>Direccion : 42 Nº 698
+ <br>Ciudad : La Plata
+ <br>Telefono : 0221156263945
+ <br>Email : hernan8@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Soy Licenciado en Comunicación Social con Orientación en Periodismo y Profesor en Comunicación Social.  Tengo más de 8 años de experiencia en el rubro de la Comunicación Corporativa.
+ <br>Security_code : fk3jw
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.176.215.75<br>
+ <br>Nombre : andrea gabriela
+ <br>Apellido : VARGAS GONZALEZ
+ <br>Cargo : ARQUITECTO
+ <br>Direccion : CECILIO AVILA 
+ <br>Ciudad : SAN JUAN
+ <br>Telefono : 5492644108508
+ <br>Email : arquiestudio2@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : BUEN DIA! SOY ENVIO CURRICULUM PARA POSTULARME. SOY DE ARGENTINA SIN NINGUN PROBLEMA EN RADICARME EN CHILE
+ <br>Security_code : 7WF7V
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 200.69.195.36<br>
+ <br>REF : JPER-1
+ <br>Nombre : Ronny
+ <br>Apellido : Reyes
+ <br>Cargo : Gerente de Recursos Humanos
+ <br>Direccion : Juan Agustin Garcia 3160
+ <br>Ciudad : Argentina
+ <br>Telefono : 1124821431
+ <br>Email : mastergerenciareyes@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Le anexo mi CV espero pueda ser de su interes y pueda ayudar.estoy a su orden
+ <br>Security_code : 3g49z
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.105.33.38<br>
+ <br>REF : EP-1
+ <br>Nombre : Yusmely
+ <br>Apellido : Chirino
+ <br>Cargo : EP-1
+ <br>Direccion : bernardo de irigoyen 219 belen de escobar
+ <br>Ciudad : Escobar
+ <br>Telefono : 01122535132
+ <br>Email : ychirino77@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Disponibilidad Inmediata y sueldo a convenir
+ <br>Security_code : dr54w
+ <br>Send : Enviar
+ <br>
+---------------
+

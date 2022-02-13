@@ -1,0 +1,259 @@
+Address : 186.141.137.249<br>
+ <br>REF : TEC. EL
+ <br>Nombre : Jean Carlos
+ <br>Apellido : Villamizar
+ <br>Cargo : técnico electrónico
+ <br>Direccion : flores calle bacacay 2532
+ <br>Ciudad : Flores
+ <br>Telefono : 1122527888
+ <br>Email : jeancarlosvillamizarjcv@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola les escribo para enviar mi postulación a técnico electrónico . 
+ <br>Security_code : p3y7w
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.244.72.87<br>
+ <br>REF : TEC. EL
+ <br>Nombre : Pedro
+ <br>Apellido : Lezama
+ <br>Cargo : Tecnico electricista
+ <br>Direccion : CORACEROS 3364
+ <br>Ciudad : HURLINGHAM
+ <br>Telefono : 01132043220
+ <br>Email : pedrolezamalg@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Saludos,he visto una oferta de trabajo que es de mi interés (TEC.EL), les envio mis papeles para posibles oportunidades de empleo, gracias...
+ <br>Security_code : q8phf
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.55.155.81<br>
+ <br>Nombre : Alan
+ <br>Apellido : Zalazar
+ <br>Cargo : cadete
+ <br>Direccion : san benito de palermo 1625
+ <br>Ciudad : CABA
+ <br>Telefono : 01132330677
+ <br>Email : gotosida@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : quiero entrar al que este disponible
+ <br>Security_code : 35vg4
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.16.88.174<br>
+ <br>REF : JPER-1
+ <br>Nombre : Mariana
+ <br>Apellido : Rodriguez
+ <br>Cargo : JPER!
+ <br>Direccion : Calle 18 1075
+ <br>Ciudad : Mercedes
+ <br>Telefono : 2324479031
+ <br>Email : marianarodriguezclaverie@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Ante quien corresponda,
+adjunto cv para su evaluación.
+Atte
+MAriana Rodriguez
+ <br>Security_code : 4f9xk
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.16.88.174<br>
+ <br>REF : JPER-1
+ <br>Nombre : Mariana
+ <br>Apellido : Rodriguez
+ <br>Cargo : JPER!
+ <br>Direccion : Calle 18 1075
+ <br>Ciudad : Mercedes
+ <br>Telefono : 2324479031
+ <br>Email : marianarodriguezclaverie@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Ante quien corresponda,
+adjunto cv para su evaluación.
+Atte
+MAriana Rodriguez
+ <br>Security_code : wtm69
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.47.73.115<br>
+ <br>REF : TEC. EL
+ <br>Nombre : Pablo Andres
+ <br>Apellido : Quiroga Espinosa
+ <br>Cargo : Tecnico electronico
+ <br>Direccion : Moreloa 689
+ <br>Ciudad : Ciudad Autónoma de Buenos Aires
+ <br>Telefono : 01167472714
+ <br>Email : quirogaespinosa@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Tengo el agrado de dirigirme a UD. a fin de presentarle mi currículo para cubrir alguna vacante que se pudiera producir.
+
+Mis pretensiones son mínimas. Estoy dispuesto a realizar cualquier tipo de tarea que se me encomiende.
+
+Además poseo muy buenos conocimientos en el área informática, programación  y administrativa.
+
+Quedo a su disposición para rendir las pruebas de suficiencia que estime necesarias.
+ <br>Security_code : d4n4c
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.47.73.115<br>
+ <br>REF : TEC. EL
+ <br>Nombre : Pablo Andres
+ <br>Apellido : Quiroga Espinosa
+ <br>Cargo : Tecnico electronico
+ <br>Direccion : Moreloa 689
+ <br>Ciudad : Ciudad Autónoma de Buenos Aires
+ <br>Telefono : 01167472714
+ <br>Email : quirogaespinosa@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Tengo el agrado de dirigirme a UD. a fin de presentarle mi currículo para cubrir alguna vacante que se pudiera producir.
+
+Mis pretensiones son mínimas. Estoy dispuesto a realizar cualquier tipo de tarea que se me encomiende.
+
+Además poseo muy buenos conocimientos en el área informática, programación  y administrativa.
+
+Quedo a su disposición para rendir las pruebas de suficiencia que estime necesarias.
+ <br>Security_code : xwxzy
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.47.125.124<br>
+ <br>Nombre : Diego Gabriel
+ <br>Apellido : Molina
+ <br>Cargo : Seguridad e Higiene
+ <br>Direccion : Tres Cruces
+ <br>Ciudad : RAFAEL CASTILLO (CP=1755)
+ <br>Telefono : 1133083681
+ <br>Email : diegogabrielmolina@hotmail.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola soy Diego Molina, tengo 24 años y estoy estudiando la carrera de Seguridad e Higiene , tengo experiencia de mas de 1 año en el area de seguridad e higiene , tuve contacto constantemente con trabajadores, reuniones periodicas gerenciales, gestion de EPP , tambien trabajo de administración con Excel y Outlook. Espero que les interese.
+ <br>Security_code : 24z92
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.47.125.124<br>
+ <br>Nombre : Diego Gabriel
+ <br>Apellido : Molina
+ <br>Cargo : Seguridad e Higiene
+ <br>Direccion : Tres Cruces
+ <br>Ciudad : RAFAEL CASTILLO (CP=1755)
+ <br>Telefono : 1133083681
+ <br>Email : diegogabrielmolina@hotmail.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola soy Diego Molina, tengo 24 años y estoy estudiando la carrera de Seguridad e Higiene , tengo experiencia de mas de 1 año en el area de seguridad e higiene , tuve contacto constantemente con trabajadores, reuniones periodicas gerenciales, gestion de EPP , tambien trabajo de administración con Excel y Outlook. Espero que les interese.
+ <br>Security_code : 8b5wr
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.47.125.124<br>
+ <br>Nombre : Diego Gabriel
+ <br>Apellido : Molina
+ <br>Cargo : Seguridad e Higiene
+ <br>Direccion : Tres Cruces
+ <br>Ciudad : RAFAEL CASTILLO (CP=1755)
+ <br>Telefono : 1133083681
+ <br>Email : diegogabrielmolina@hotmail.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola soy Diego Molina, tengo 24 años y estoy estudiando la carrera de Seguridad e Higiene , tengo experiencia de mas de 1 año en el area de seguridad e higiene , tuve contacto constantemente con trabajadores, reuniones periodicas gerenciales, gestion de EPP , tambien trabajo de administración con Excel y Outlook. Espero que les interese.
+ <br>Security_code : 8b5wr
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.47.125.124<br>
+ <br>Nombre : Diego Gabriel
+ <br>Apellido : Molina
+ <br>Cargo : Seguridad e Higiene
+ <br>Direccion : Tres Cruces
+ <br>Ciudad : RAFAEL CASTILLO 
+ <br>Telefono : 1133083681
+ <br>Email : diegogabrielmolina@hotmail.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola soy Diego Molina,tengo 24 años y estoy estudiando la carrera de Seguridad e Higiene , tengo experiencia de mas de 1 año en el area de seguridad e higiene , tuve contacto constantemente con trabajadores, reuniones periodicas, gestion de EPP , tambien trabajo de administración con Excel y Outlook. Espero que les interese, adjunto mi CV.
+ <br>Security_code : 978dz
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.47.125.124<br>
+ <br>Nombre : Diego Gabriel
+ <br>Apellido : Molina
+ <br>Cargo : Seguridad e Higiene
+ <br>Direccion : Tres Cruces
+ <br>Ciudad : RAFAEL CASTILLO 
+ <br>Telefono : 1133083681
+ <br>Email : diegogabrielmolina@hotmail.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola soy Diego Molina,tengo 24 años y estoy estudiando la carrera de Seguridad e Higiene , tengo experiencia de mas de 1 año en el area de seguridad e higiene , tuve contacto constantemente con trabajadores, reuniones periodicas, gestion de EPP , tambien trabajo de administración con Excel y Outlook. Espero que les interese, adjunto mi CV.
+ <br>Security_code : dbzc3
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.28<br>
+ <br>Nombre : Diego
+ <br>Apellido : Molina
+ <br>Cargo : Seguridad e higiene
+ <br>Direccion : Tres cruces 650
+ <br>Ciudad : Rafael Castillo
+ <br>Telefono : 1133083681
+ <br>Email : diegogabrielmolina@hotmail.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Actualmente me encuentro sin trabajo, tengo experiencia en el área de seguridad e higiene, tengo 24 años y muchas ganas trabajar, me gusta el trabajo en equipo y doy lo mejor de mí en cada trabajo
+ <br>Security_code : y3qrh
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 191.85.133.35<br>
+ <br>Nombre : Laura
+ <br>Apellido : Malak
+ <br>Cargo : Gestión de proyectos, comunicación, administración 
+ <br>Direccion : Avenida belgrano 1322
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 1140572302
+ <br>Email : laura.malak91@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buen día,
+
+Estoy actualmente buscando un empleo en la gestión de proyectos, la comunicación o la administración en Capital Federal, Buenos Aires, Argentina. Si llega a saber de alguna oferta o empleo similar, le agradecería me hiciera saber. Le adjunto mi CV.
+
+Gracias por su atención,
+
+Atentos saludos,
+
+Laura
+
+ <br>Security_code : 4nyjn
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.18.34.35<br>
+ <br>Nombre : Pablo Ezequiel
+ <br>Apellido : Britos
+ <br>Cargo : Técnico Electrónico
+ <br>Direccion : Navarro 2600
+ <br>Ciudad : Castelar
+ <br>Telefono : 1551633557
+ <br>Email : pabloezequielbritos@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Técnico Electrónico recibido, con experiencia en 'Acindar, Arcelormittal' (2012 - 2016) realizando mantenimiento eléctrico y electrónico. Tengo una carta de recomendación para presentar y gran necesidad de volver a trabajar. Puedo cumplir cualquier turno horario.
+Saludo atento.
+ <br>Security_code : vv7fy
+ <br>Send : Enviar
+ <br>
+---------------
+

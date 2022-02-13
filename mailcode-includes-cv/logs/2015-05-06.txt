@@ -1,0 +1,263 @@
+Address : 24.232.83.40
+Nombre : Nicolás Axel
+Apellido : Re
+Cargo : Ingeniero mecánico junior
+Direccion : Simbron 5053
+Ciudad : CABA
+Telefono : (0223) 155041580
+Email : nicolas.re1@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenos días,
+
+mi nombre es Nicolás Re, tengo 26 años y soy ingeniero mecánico, recibido a mediados del 2014, en la Universidad Nacional de Mar del Plata. Estoy muy interesado en participar en búsquedas laborales del sector de ingeniería, en cualquier área, ya sea diseño, investigación y desarrollo, producción, energía, oil & gas, industria, consultoría, auditorías, etc. Tengo excelente nivel de ingles y manejos de MS Office, además de otros tantos programas que indico en el CV. Tengo muchas ganas de crecer profesionalmente, capacitarme, relacionarme con colegas y aprender de sus experiencias, trabajar en ambientes dinámicos, con desafíos y equipos multidisciplinarios, y aportar todo mi talento, conocimientos y aptitudes. 
+
+Saludos.
+Security_code : tcgh6
+Send : Enviar
+
+---------------
+
+Address : 190.31.94.246
+REF : OPM
+Nombre : cristian gonzalo
+Apellido : romero
+Cargo : operario
+Direccion : la roca 2066
+Ciudad : garin
+Telefono : 1123369706
+Email : romerocristiangonzalo@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Aca dejo mi cv . Espero Formar parte de su entorno laboral , ansio trabajar !!
+
+Security_code : 43qtj
+Send : Enviar
+
+---------------
+
+Address : 186.23.0.82
+Nombre : javier alejandro
+Apellido : gonzalez
+Cargo : tecnico mecanico
+Direccion : alvaro barros 804
+Ciudad : buenos aires
+Telefono : 1100277265
+Email : javieralejandrogonzalez@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : hola ojala pudiera conceguir trabajo con ustedes y tener mas suerte que con otras consultoras.gracias desde ya
+Security_code : bp36b
+Send : Enviar
+
+---------------
+
+Address : 186.22.170.194
+Nombre : Paola Eliana
+Apellido : Imbriale
+Cargo : Abogada/Procuradora/Joven profesional
+Direccion : Convencion 761
+Ciudad : Tablada
+Telefono : 44544565
+Email : pao.2.i@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Envio CV, en caso de surgir alguna oferta laboral que coincida con mi perfil, ya que me encuentro sin empleo y necesitando contar con un puesto laboral de manera urgente. Desde ya muchas gracias.
+Security_code : mtckr
+Send : Enviar
+
+---------------
+
+Address : 186.22.170.194
+Nombre : Gonzalo Maximiliano
+Apellido : Ferraro
+Cargo : Mantenimiento/Cadeteria/Operario/Administrativo
+Direccion : Callao 1354
+Ciudad : Ciudad Madero
+Telefono : 44421496
+Email : gonferraro@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Envio cv en caso de surgir alguna oferta laboral acorde a mi perfil, muchas gracias.
+Security_code : tx4s6
+Send : Enviar
+
+---------------
+
+Address : 190.5.222.130
+Nombre : Linda Angie
+Apellido : Chamorro
+Cargo : vendedora/encargada/administrativo
+Direccion : Arocena 4777
+Ciudad : Canning
+Telefono : 1530702088
+Email : angie.chamorro@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Les envío mi con la expectativa de recibir ofertas laborales.Quedo aa su disposición.
+Muchas Gracias
+Security_code : r3nx7
+Send : Enviar
+
+---------------
+
+Address : 190.244.232.37
+Nombre : Natalia
+Apellido : Brando
+Cargo : Tca. Rx-Mx-TAC-RMN-DMO
+Direccion : Brown 982 7°A
+Ciudad : quilmes
+Telefono : 1162749107
+Email : nataliabrando@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me gustaria desarrollarme en el area de diagnostico aportando idoneidad y responsabilidad.
+Security_code : r48c8
+Send : Enviar
+
+---------------
+
+Address : 190.244.232.37
+Nombre : Natalia
+Apellido : Brando
+Cargo : Tca. Rx-Mx-TAC-RMN-DMO
+Direccion : Brown 982 7°A
+Ciudad : quilmes
+Telefono : 1162749107
+Email : nataliabrando@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me gustaria desarrollarme en el area de diagnostico aportando idoneidad y responsabilidad.
+Security_code : r48c8
+Send : Enviar
+
+---------------
+
+Address : 201.255.161.109
+Nombre : roberta marianela 
+Apellido : sanchez
+Cargo : administrativa
+Direccion : carlos casares
+Ciudad : florencio varela
+Telefono : 42752589
+Email : roby_m_s@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : hola estoy en la busqueda de empleo no solo para el puesto de administrativa sino de cualquier puesto que sea desde ya muchas gracias
+Security_code : wcryw
+Send : Enviar
+
+---------------
+
+Address : 201.255.161.109
+Nombre : roberta marianela 
+Apellido : sanchez
+Cargo : administrativa
+Direccion : carlos casares
+Ciudad : florencio varela
+Telefono : 42752589
+Email : roby_m_s@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : hola estoy en la busqueda de empleo no solo para el puesto de administrativa sino de cualquier puesto que sea desde ya muchas gracias
+Security_code : wcryw
+Send : Enviar
+
+---------------
+
+Address : 201.255.161.109
+Nombre : roberta marianela 
+Apellido : sanchez
+Cargo : administrativa
+Direccion : carlos casares 2128
+Ciudad : florencio varela
+Telefono : 42752589
+Email : roby_m_s@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : hola estoy en la busqueda de empleo no solo para el puesto de administrativa sino de cualquier puesto que sea desde ya muchas gracias
+Security_code : wcryw
+Send : Enviar
+
+---------------
+
+Address : 181.95.107.16
+Nombre : tomas
+Apellido : jackson
+Cargo : asistente administrativo
+Direccion : col pan ramal pilar km 32.5
+Ciudad : buenos aires
+Telefono : 45870135
+Email : tomasjuanjackson@yahoo.com
+MAX_FILE_SIZE : 2097152
+Mensaje : busco trabajo como ayudante administrativo
+Security_code : f8sv5
+Send : Enviar
+
+---------------
+
+Address : 181.95.107.16
+Nombre : tomas
+Apellido : jackson
+Cargo : asistente administrativo
+Direccion : col pan ramal pilar km 32.5
+Ciudad : buenos aires
+Telefono : 45870135
+Email : tomasjuanjackson@yahoo.com
+MAX_FILE_SIZE : 2097152
+Mensaje : busco trabajo como ayudante administrativo
+Security_code : f8sv5
+Send : Enviar
+
+---------------
+
+Address : 181.95.107.16
+Nombre : tomas
+Apellido : jackson
+Cargo : asistente administrativo
+Direccion : col pan ramal pilar km 32.5
+Ciudad : buenos aires
+Telefono : 45870135
+Email : tomasjuanjackson@yahoo.com
+MAX_FILE_SIZE : 2097152
+Mensaje : busco trabajo como ayudante administrativo
+Security_code : F8sv5
+Send : Enviar
+
+---------------
+
+Address : 181.95.107.16
+Nombre : tomas
+Apellido : jackson
+Cargo : asistente administrativo
+Direccion : col pan ramal pilar km 32.5
+Ciudad : buenos aires
+Telefono : 45870135
+Email : tomasjuanjackson@yahoo.com
+MAX_FILE_SIZE : 2097152
+Mensaje : busco trabajo como ayudante administrativo
+Security_code : qcxcq
+Send : Enviar
+
+---------------
+
+Address : 181.95.107.16
+Nombre : tomas
+Apellido : jackson
+Cargo : asistente administrativo
+Direccion : col pan ramal pilar km 32.5
+Ciudad : buenos aires
+Telefono : 45870135
+Email : tomasjuanjackson@yahoo.com
+MAX_FILE_SIZE : 2097152
+Mensaje : busco trabajo como ayudante administrativo
+Security_code : fp7b9
+Send : Enviar
+
+---------------
+
+Address : 186.135.86.149
+REF : JP
+Nombre : patricio
+Apellido : silva
+Cargo : jefe de planta
+Direccion : 25 de mayo 4109
+Ciudad : merlo bs as
+Telefono : 1166302141
+Email : patriciomartinsilva@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : estimada/o, me interesa la propuesta, actualmente me encuentro sin trabajo y con disponibilidad full time.
+Security_code : 8nnp9
+Send : Enviar
+
+---------------
+

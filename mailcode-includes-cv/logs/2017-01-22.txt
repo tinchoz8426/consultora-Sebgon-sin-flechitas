@@ -1,0 +1,93 @@
+Address : 186.59.57.138<br>
+ <br>REF : EP-1
+ <br>Nombre : Paula Carolina
+ <br>Apellido : Frontera
+ <br>Cargo : calidad
+ <br>Direccion : Sargento Baigorria
+ <br>Ciudad : Villa Mercedes
+ <br>Telefono : 2657425698
+ <br>Email : pau_c21@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : bromatologa recien recibida.Dispuesta a radicarme en otro lugar.
+ <br>Security_code : qbbbn
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.47.145.197<br>
+ <br>REF : ACO-1
+ <br>Nombre : Néstor Facundo
+ <br>Apellido : Lagos
+ <br>Cargo : Analista de Comercio Internacional/Exterior
+ <br>Direccion : Bulnes 1331, 9B
+ <br>Ciudad : CABA
+ <br>Telefono : +5492994515938
+ <br>Email : facunlagos@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados buenas tardes,
+
+Luego de haber leído las tareas correspondientes al puesto y considerándome apto para realizarlas, me postulo a la busqueda en referencia.
+
+Desde ya, muchas gracias.
+
+Saludos cordiales
+ <br>Security_code : 85jvr
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.47.145.197<br>
+ <br>REF : ACO-1
+ <br>Nombre : Néstor Facundo
+ <br>Apellido : Lagos
+ <br>Cargo : Analista de Comercio Internacional/Exterior
+ <br>Direccion : Bulnes 1331, 9B
+ <br>Ciudad : CABA
+ <br>Telefono : 2994515938
+ <br>Email : facunlagos@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas tardes estimados,
+
+Humildemente me postulo al puesto en referencia, luego de haber leído las tareas y obligaciones correspondientes y considerándome apto para realizarlas.
+
+A su disposición,
+Saludos cordiales
+ <br>Security_code : 9n7pz
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.211.90.113<br>
+ <br>Nombre : Heidi O´hara
+ <br>Apellido : Nuñez Carrero
+ <br>Cargo : Analista de Recursos Humanos
+ <br>Direccion :  Dirección: Tienda Honda a Mercedes Residencias  Alce, piso 6, apt 64. Parroquia Altagracia. Caracas - Venezuela
+ <br>Ciudad : Caracas
+ <br>Telefono : +58 04166260840
+ <br>Email : heidiohara@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Reciban un cordial saludo, adjunto mi hoja de vida, a fin de postularme a cualquier vacante o oportunidad de empleo que pueda existir en su organización en el área de Recursos Humanos 
+ <br>Security_code : 56khr
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.31.11.128<br>
+ <br>Nombre : Paula
+ <br>Apellido : Moreno
+ <br>Cargo : Administrativa Contable
+ <br>Direccion : Av Marquez 2521, Mza 79 Casa 25
+ <br>Ciudad : Pablo Podesta
+ <br>Telefono : 1134412501
+ <br>Email : morenopaula2501@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Les presento mi candidatura considerándome capacitada para desarrollar cualquier labor
+ solicitada en el área administrativa. 
+Me presento como una persona proactiva, flexible, responsable y ordenada con muy buena
+ organización administrativa y fluidez en las
+relaciones interpersonales.
+ <br>Security_code : 7wbr8
+ <br>Send : Enviar
+ <br>
+---------------
+

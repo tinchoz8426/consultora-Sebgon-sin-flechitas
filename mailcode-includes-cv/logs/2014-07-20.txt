@@ -1,0 +1,18 @@
+Address : 186.122.44.197
+Nombre : Marcos
+Apellido : Oviedo
+Cargo : Gestor en Organización de Eventos
+Direccion : Calle 855 N°1572
+Ciudad : Quilmes
+Telefono : 1532759784
+Email : yomas15@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados:
+
+Adjunto mi currículum vitae para futuras búsquedas en el ámbito de la organización de eventos y espectáculos.
+Saludos Cordiales
+Security_code : yffb5
+Send : Enviar
+
+---------------
+

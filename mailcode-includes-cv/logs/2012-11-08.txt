@@ -1,0 +1,30 @@
+Address : 201.253.253.141
+Nombre : María Pía
+Apellido : Strada
+Cargo :  CV
+Direccion : Ciudad de la Paz 2945
+Ciudad : CABA
+Telefono : 15 5831 6511
+Email : piastrada@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto CV para su consideración.
+Security_code : xx6jz
+Send : Enviar
+
+---------------
+
+Address : 190.176.170.240
+Nombre : Maria Antonella
+Apellido : Dinnocenzo
+Cargo : Administrativo
+Direccion : Norton 97- Lujan de Cuyo
+Ciudad : Mendoza
+Telefono : (0261)155063623
+Email : antodinnocenzo@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimado/a: me dirijo a Ud. para hacerle saber que ando buscando trabajo ya sea de pasante, joven profesional o bien cualquier cargo administrativo. Desde ya gracias y en espera de una respuesta, me despido atte.
+Security_code : nz9qz
+Send : Enviar
+
+---------------
+

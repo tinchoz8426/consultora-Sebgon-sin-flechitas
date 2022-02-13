@@ -1,0 +1,61 @@
+Address : 190.138.12.228
+REF : jefe-de-operaciones
+Nombre : Leonel Exequiel
+Apellido : Palacios
+Cargo : empleado
+Direccion : barrio santa rosa calle tumbes 5478
+Ciudad : cordoba
+Telefono : (0351) 157461653
+Email : lolo_0814@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : soy rapido onesto puntual respetoso educado me adapto rapido.
+Security_code : x489n
+Send : Enviar
+
+---------------
+
+Address : 190.55.69.231
+Nombre : Lisimar 
+Apellido : Ponte Rodríguez
+Cargo : Administrativa / Telemarketing
+Direccion : Av. Santa Fe 3014, 3/3C 
+Ciudad : CABA
+Telefono : 1150608927
+Email : lisimargabriela@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estoy interesada en pertenecer a su base de datos a fin de poder mejorar mis capacidades y empredenderme en nuevas actividades. Disponibilidad horaria y de viaje.
+Security_code : fmpf6
+Send : Enviar
+
+---------------
+
+Address : 186.22.131.135
+Nombre : Ileana
+Apellido : Agostinis
+Cargo : area legales
+Direccion : Billinghurst 2279 6to B
+Ciudad : capital federal
+Telefono : 48055720
+Email : ileana-agostinis1@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Busco empleo en estudio juridico o empresa
+Security_code : s6n4s
+Send : Enviar
+
+---------------
+
+Address : 186.125.168.180
+Nombre : GUSTAVO 
+Apellido : LLEOPAR
+Cargo : Operario de Producción
+Direccion : tomas lebreton 3871
+Ciudad : Hurlingham
+Telefono : 15-60251947
+Email : glleopar@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estoy en la busqueda de empleo sin un rubro especifico,cuento con bastante experiencia en industria autopartista,cuento con disponibilidad horaria, desde ya muchas gracias.
+Security_code : kkxtn
+Send : Enviar
+
+---------------
+

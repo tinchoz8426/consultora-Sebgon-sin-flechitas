@@ -1,0 +1,226 @@
+Address : 66.249.85.27<br>
+ <br>Nombre : Sofia
+ <br>Apellido : Ponsone
+ <br>Cargo : Secretaria
+ <br>Direccion : Mitre 2361
+ <br>Ciudad : Rosario
+ <br>Telefono : 3413084955
+ <br>Email : sofiponsone@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Gracias por recibir mi cv
+ <br>Security_code : V3c6z
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.169.146.105<br>
+ <br>Nombre : Alejandra
+ <br>Apellido : Pellegrino
+ <br>Cargo : Administrativo - Comercial
+ <br>Direccion : Av del Libertasdor 2741 1ro A
+ <br>Ciudad : Olivos
+ <br>Telefono : 1567487778
+ <br>Email : alepell@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : 
+Olivos, octubre  de 2018
+
+
+Sres. SEGBON
+At. rr/hh
+Ref.: Visitadora Médica/Recepción/Atención al cliente/Administración
+ 
+ 
+ 
+ Estimados señores:
+      Es mi intención contactarme con ustedes y hacerles llegar mi currÍculum vitae, para que de esta forma pueda ser evaluado ante posibles ofertas laborales. Cabe destacar que mi formación profesional abarca el área Administrativo-comercial, atención al cliente, Dpto. de ventas, Dpto. de compras.
+          En cuanto a mis habilidades profesionales, poseo capacidad de adaptación constante y flexibilidad ante las diferentes tareas laborales; Creo en la necesidad de interactuar dentro del ámbito laboral, trabajo en equipo, cooperación y transmisión de conocimientos adquiridos, trabajo con objetivos reales a corto, mediano y largo plazo, hecho que fomenta tanto el progreso de la empresa  como el personal.   Agradezco vuestro tiempo y  posibilidad de contacto, esperando  poder llegar a concretar una entrevista laboral con Uds., me despido atentamente,
+ 
+ 
+ 
+Alejandra Pellegrino
+DNI: 22503322
+ 
+
+ <br>Security_code : sj63h
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.166.163.31<br>
+ <br>REF : TEC. EL
+ <br>Nombre : Leandro 
+ <br>Apellido : Godoy
+ <br>Cargo : TÉCNICOS ELECTRÓNICOS ESPECIALIZADOS
+ <br>Direccion : David Magdalena 3266
+ <br>Ciudad : Caseros
+ <br>Telefono : 1555036840
+ <br>Email : leandrogodoy@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Disposición de amplios conocimientos en el área de informática y tecnología desempeñando tareas de soporte remoto telefónico y onsite 
+a clientes nacionales e internacionales
+
+ <br>Security_code : 2hyrw
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.18.34.35<br>
+ <br>REF : TEC. EL
+ <br>Nombre : Pablo Ezequiel
+ <br>Apellido : Britos
+ <br>Cargo : Técnico Electrónico
+ <br>Direccion : Navarro 2600
+ <br>Ciudad : Morón
+ <br>Telefono : 1551633557
+ <br>Email : pabloezequielbritos@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Técnico Electrónico recibido en 2011.
+Con experiencia en Acindar, Arcelormittal. Adjunto mí CV y una carta de recomendación.
+ <br>Security_code : mzctp
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.18.34.35<br>
+ <br>Nombre : Pablo Ezequiel
+ <br>Apellido : Britos
+ <br>Cargo : Técnico Electrónico
+ <br>Direccion : Navarro
+ <br>Ciudad : Castelar
+ <br>Telefono : 1551633557
+ <br>Email : pabloezequielbritos@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Técnico Electrónico recibido en el año 2011. Trabajé en la metalúrgica 'Acindar, Grupo Arcelormittal' y tengo una carta de recomendación para presentar.
+ <br>Security_code : 7z37c
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.252.145.183<br>
+ <br>REF : EP-1
+ <br>Nombre : Javier
+ <br>Apellido : Sayous
+ <br>Cargo : Encargado de produccion
+ <br>Direccion : Maturin 2365
+ <br>Ciudad : C.A.B.A
+ <br>Telefono : 1535979428
+ <br>Email : javier_1962@hotmail.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Los años de experiencia en la industria almenticia y los cargos que he ocupadome avalan para cubrir el puesto
+ <br>Security_code : gkb7h
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 168.194.234.80<br>
+ <br>REF : TM-2
+ <br>Nombre : Daniel
+ <br>Apellido : Daniel
+ <br>Cargo : tecnico
+ <br>Direccion : Einstein 1090
+ <br>Ciudad : José c. paz
+ <br>Telefono : 0111566005323
+ <br>Email : danielf-2@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : De mi mayor consideración: 
+
+Tengo el agrado de dirigirme a Uds. con el fin de transmitirles mi deseo de incorporarme a su organización. A tal efecto adjunto, junto a la presente, mi CV. 
+Atte.  Daniel O. Fernandes
+ <br>Security_code : 5bqdp
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.13.71.195<br>
+ <br>REF : TEC. EL
+ <br>Nombre : Matías
+ <br>Apellido : Ruggeri
+ <br>Cargo : técnico electrónico especializado
+ <br>Direccion : carlos casares 2240
+ <br>Ciudad : castelar
+ <br>Telefono : 1162898672
+ <br>Email : mdruggeri@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Ingeniero en electrónica con experiencia en mantenimiento preventivo y correctivo de equipamiento médico, diseño electrónico y programación.
+ <br>Security_code : h6n6h
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.112.187.154<br>
+ <br>Nombre : Omar
+ <br>Apellido : Ortega
+ <br>Cargo : Operario maestranza
+ <br>Direccion : Paso y devicenzi t46 dto77 p2
+ <br>Ciudad : Ciudadela
+ <br>Telefono : 1151062419
+ <br>Email : ortegaomar037@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Cualquier propuesta sera bienvenida tengo antecedente penales y libreta sanitaria nacional gracias
+ <br>Security_code : 9q5gj
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.112.187.154<br>
+ <br>Nombre : Omar
+ <br>Apellido : Ortega
+ <br>Cargo : Operario maestranza
+ <br>Direccion : Paso y devicenzi t46 dto77 p2
+ <br>Ciudad : Ciudadela
+ <br>Telefono : 1151062419
+ <br>Email : ortegaomar037@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Cualquier propuesta sera bienvenida tengo antecedente penales y libreta sanitaria nacional gracias
+ <br>Security_code : 9q5gj
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.112.187.154<br>
+ <br>Nombre : Omar
+ <br>Apellido : Ortega
+ <br>Cargo : Operario maestranza
+ <br>Direccion : Paso y devicenzi t46 dto77 p2
+ <br>Ciudad : Ciudadela
+ <br>Telefono : 1151062419
+ <br>Email : ortegaomar037@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Cualquier propuesta sera bienvenida tengo antecedente penales y libreta sanitaria nacional gracias
+ <br>Security_code : 9q5gj
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.112.187.154<br>
+ <br>Nombre : Omar
+ <br>Apellido : Ortega
+ <br>Cargo : Operario maestranza
+ <br>Direccion : Paso y devicenzi t46 dto77 p2
+ <br>Ciudad : Ciudadela
+ <br>Telefono : 1151062419
+ <br>Email : ortegaomar037@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Cualquier propuesta sera bienvenida tengo antecedente penales y libreta sanitaria nacional gracias
+ <br>Security_code : 9q5gj
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.93.192.135<br>
+ <br>Nombre : Hugo Gabriel 
+ <br>Apellido : Catala
+ <br>Cargo : Cajero 
+ <br>Direccion : Ceballos 4765
+ <br>Ciudad : Neuquén 
+ <br>Telefono : 2996052603
+ <br>Email : catalahugosjo@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buen dia/tarde/noches me gustaría entrar en su empresa para crearse como profesional y experiencia gracias.
+
+ <br>Security_code : C6k4n
+ <br>Send : Enviar
+ <br>
+---------------
+

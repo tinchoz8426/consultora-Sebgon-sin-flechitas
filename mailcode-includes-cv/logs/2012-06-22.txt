@@ -1,0 +1,78 @@
+Address : 190.136.58.200
+Nombre : hector fabian
+Apellido : DUARTE
+Cargo : OPERARIO
+Direccion : SOLARES 1943 B° SAN VICENTE
+Ciudad : CORDOBA
+Telefono : 152511513
+Email : goody_666_sv@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : estoy interesado en trabajos en metalúrgicas
+Security_code : mnw64
+Send : Enviar
+
+---------------
+
+Address : 186.57.173.221
+Nombre : Yanina Laura
+Apellido : Giardinieri
+Cargo : Puericultora,Secretaria
+Direccion : Pasteur 3049
+Ciudad : Castelar
+Telefono : 15-68092888
+Email : yanulaura@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Soy Puericultora especialista en lactancia y crianza.
+Estoy buscando trabajo de lo que estudie.
+En su defecto de secretaria y a fines.
+Gracias
+Security_code : 7jt9y
+Send : Enviar
+
+---------------
+
+Address : 190.179.180.152
+Nombre : Gimena
+Apellido : Aracena
+Cargo : Repositor
+Direccion : Maza 759 Godoy cruz
+Ciudad : Mendoza
+Telefono : 4-352312 /  156848991
+Email : Gigime24@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Soy una persona responsable y siempre esperando capacitacion para dar lo mejor de mi lugar. Gracias
+Security_code : ctb2y
+Send : Enviar
+
+---------------
+
+Address : 186.128.50.48
+Nombre : Ubaldo Ariel
+Apellido : Vargas
+Cargo : Compras,Pañol,Abastecimiento
+Direccion : Bº Paula a. Sarmiento MG C24
+Ciudad : Mendoza
+Telefono : 2614880830
+Email : ar-yel@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenas tardes les envio mi curriculum en espera de respuesta favorable.sldos. atte.
+Security_code : gr7ng
+Send : Enviar
+
+---------------
+
+Address : 190.49.196.155
+Nombre : Paula
+Apellido : Trillo Saralegui
+Cargo : Administración /Ventas/ Atención al público/ Recepcionista / Comercial
+Direccion : Piedras 1019 
+Ciudad : Ciudad Autónoma de Buenos Aires
+Telefono : 4300-3861
+Email : trillopaula@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados, adjunto mi curriculum vitae a fin de que sea tenida en cuenta para futuras búsquedas laborales
+Security_code : tnxpt
+Send : Enviar
+
+---------------
+

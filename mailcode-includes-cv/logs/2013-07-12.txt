@@ -1,0 +1,32 @@
+Address : 190.177.169.114
+Nombre : CYNTHIA
+Apellido : CRUSE
+Cargo : ABOGADA
+Direccion : CAPITAN KRAUSE CASA Nº 25
+Ciudad : COMODORO RIVADAVIA
+Telefono : 0351-152304338
+Email : crusecynthia@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : CARTA DE PRESENTACIÓN:
+
+
+Estimados:
+
+                Mi nombre es Cynthia Cruse, Soy abogada egresada de la Facultad de Derecho y Ciencias Sociales de la Universidad Nacional de Córdoba.  
+
+                Cursé un Posgrado de especialización en Derecho Laboral, y me encuentro realizando la tesis para obtener el diploma de abogada especialista en Derecho Laboral, avalado por la C.O.N.E.A.U.
+
+                 Soy oriunda de General San Martín (La Pampa) donde crecí y cursé  mis estudios primarios y secundarios.
+
+               Con la presente carta de presentación, acompaño mi currículum vitae a los fines de que me conozcan y puedan tenerme en cuenta ya sea en el presente o en el futuro, cuando tengan una vacante o necesiten a una persona para ayudarlos en sus tareas. Estoy a su disposición.
+
+              A la espera de su respuesta, los saluda con cariño,
+
+                                                                                                  .-Cruse Cynthia.-
+
+
+Security_code : kryjr
+Send : Enviar
+
+---------------
+

@@ -1,0 +1,16 @@
+Address : 181.1.31.35
+Nombre : Walter
+Apellido : Perez
+Empresa : Nucleoelectrica Argentina
+Telefono : 03487-482000
+Email : wperez@na-sa.com.ar
+Mensaje : Necesito información sobre los cursos de trabajo en equipo y conflicto laboral.
+
+La intención es seleccionar un grupo de personas a mi cargo para recibir capacitación dentro de nuestra empresa.
+Espero respuesta.
+
+Security_code : 2f96w
+Send : Enviar
+
+---------------
+

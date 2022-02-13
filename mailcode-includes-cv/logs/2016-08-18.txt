@@ -1,0 +1,253 @@
+Address : 190.246.249.102<br>
+ <br>REF : E.DIS
+ <br>Nombre : Estefania
+ <br>Apellido : Robledo
+ <br>Cargo : junnior
+ <br>Direccion : Gallo 164
+ <br>Ciudad : Capital Federal
+ <br>Telefono : 0336154653344
+ <br>Email : robledo.e@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados/as:
+He visto la oferta laboral publicada para la vacante en el área de ingenieria y la misma me resultó interesante. Por este motivo, les hago llegar mi CV a fin de ser tenido en cuenta como candidato. 
+Me encuentro en búsqueda activa de un empleo que me permita crecer y desarrollarme como profesional. 
+Quedo a su plena disponibilidad
+
+Saludos
+ <br>Security_code : zhwrp
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.177.36.163<br>
+ <br>REF : TEQ
+ <br>Nombre : Karina
+ <br>Apellido : Cabanas
+ <br>Cargo : Tecnica Quimica 
+ <br>Direccion : Presidente Quintana 2241
+ <br>Ciudad : Glew, Buenos Aires
+ <br>Telefono : 02224-433310
+ <br>Email : karinacabanas30@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola soy técnica química me gradué el año pasado y estoy en busca de oportunidades laborales en los cuales pueda desempeñarme del titulo del cual me gradué y poder aplicar mis conocimientos, soy un persona atenta, responsable y con muchas ganas de demostrar el 100% en cualquier ámbito laboral.
+ <br>Security_code : xnbv4
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.177.36.163<br>
+ <br>Nombre : Karina
+ <br>Apellido : Cabanas
+ <br>Cargo : Tecnica Quimica 
+ <br>Direccion : Presidente Quintana 2241
+ <br>Ciudad : Glew, Buenos Aires
+ <br>Telefono : 02224-433310
+ <br>Email : karinacabanas30@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola soy técnica química me gradué el año pasado y estoy en busca de oportunidades laborales en los cuales pueda desempeñarme del titulo del cual me gradué y poder aplicar mis conocimientos, soy un persona atenta, responsable y con muchas ganas de demostrar el 100% en cualquier ámbito laboral.
+ <br>Security_code : k48p5
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.177.36.163<br>
+ <br>Nombre : Karina
+ <br>Apellido : Cabanas
+ <br>Cargo : Tecnica Quimica 
+ <br>Direccion : Presidente Quintana 2241
+ <br>Ciudad : Glew, Buenos Aires
+ <br>Telefono : 02224-433310
+ <br>Email : karinacabanas30@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola soy técnica química me gradué el año pasado y estoy en busca de oportunidades laborales en los cuales pueda desempeñarme del titulo del cual me gradué y poder aplicar mis conocimientos, soy un persona atenta, responsable y con muchas ganas de demostrar el 100% en cualquier ámbito laboral.
+ <br>Security_code : k48p5
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.39.1.150<br>
+ <br>REF : SuP
+ <br>Nombre : Fabian
+ <br>Apellido : Picasso
+ <br>Cargo : sup
+ <br>Direccion : monroe 2083
+ <br>Ciudad : capital federal
+ <br>Telefono : 2346481396
+ <br>Email : fapy40@live.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : CV para su consideracion
+ <br>Security_code : mv7mw
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.225.205.42<br>
+ <br>Nombre : Silvina Solange
+ <br>Apellido : Martucci
+ <br>Cargo : Administracion
+ <br>Direccion : Martin Rodriguez 3142
+ <br>Ciudad : Ituzaingo
+ <br>Telefono : 1544128330
+ <br>Email : silvimartu@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas Tardes! Les dejo mi curriculum para que me tengan en consideración para algún puesto de administración, mis horarios disponibles son de 8 a 18 hs.
+ <br>Security_code : dtqjh
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.143.198.81<br>
+ <br>Nombre : Evelyn Gabriela 
+ <br>Apellido : Cardozo 
+ <br>Cargo : Atención al cliente 
+ <br>Direccion : Alsina 3941
+ <br>Ciudad : Rosario 
+ <br>Telefono : 3416666065
+ <br>Email : evecardozo4@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola,me gustaría que tengan en cuenta mi experiencia,necesito trabajar,sin problemas de horarios .. gracias.
+ <br>Security_code : 23s2j
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 200.70.47.178<br>
+ <br>Nombre : Pablo Mauro
+ <br>Apellido : Flores
+ <br>Cargo : Gte de Compras / Ingeniería / Calidad
+ <br>Direccion : Corrientes 1907
+ <br>Ciudad : Martinez
+ <br>Telefono : 1165484687
+ <br>Email : pablomauroflores@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados Sres, adjunto mi CV para búsquedas actuales o potenciales. Saludos Cordiales
+ <br>Security_code : ztrnc
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.105.35.176<br>
+ <br>Nombre : Myriam Yanet
+ <br>Apellido : Hereñu
+ <br>Cargo : Entrevistadora domiciliaria
+ <br>Direccion : Mansilla 768
+ <br>Ciudad : Escobar
+ <br>Telefono : 3484378873
+ <br>Email : y-ani-h@live.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas tardes,
+Deseo insertarme a su equipo de trabajo. Soy entrevistadora domiciliaria, realizo informes socioambientales en las zonas aledañas a Escobar.
+Saludos atte. Myriam Hereñu
+ <br>Security_code : nx5q4
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.78.64.115<br>
+ <br>REF : RTC
+ <br>Nombre : JOSE RAFAEL
+ <br>Apellido : Moron Moreno
+ <br>Cargo : Representante tecnico de venta
+ <br>Direccion : Maracay-Venezuela
+ <br>Ciudad : Maracay-Venezuela
+ <br>Telefono : 00584141449059
+ <br>Email : joserafaelmoron@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Tengo interes de emigrar para La Argentina
+ <br>Security_code : 3zjc7
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.78.64.115<br>
+ <br>REF : RTC
+ <br>Nombre : JOSE RAFAEL
+ <br>Apellido : Moron Moreno
+ <br>Cargo : Representante tecnico de venta
+ <br>Direccion : Maracay-Venezuela
+ <br>Ciudad : Maracay-Venezuela
+ <br>Telefono : 00584141449059
+ <br>Email : joserafaelmoron@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Tengo interes de emigrar para La Argentina
+ <br>Security_code : 3zjc7
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.78.64.115<br>
+ <br>Nombre : JOSE RAFAEL
+ <br>Apellido : Moron Moreno
+ <br>Cargo : rEPRESENTANTE TECNICO DE VENTAS
+ <br>Direccion : Maracay-Venezuela
+ <br>Ciudad : Maracay-Venezuela
+ <br>Telefono : 00584141449059
+ <br>Email : joserafaelmoron@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Tengo interes de emigrar para La Argentina
+ <br>Security_code : f978p
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.168.57.189<br>
+ <br>REF : OEL
+ <br>Nombre : Fernando Antonio
+ <br>Apellido : Corvettiero
+ <br>Cargo : Of. Electricista
+ <br>Direccion : Cachimayo 1323
+ <br>Ciudad : CABA
+ <br>Telefono : 49245337
+ <br>Email : fernandocorvettiero@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenos dias, me interesa el trabajo, y les mando adjunto mi curriculum
+ <br>Security_code : ttsvx
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.137.60.70<br>
+ <br>Nombre : Jorgelina
+ <br>Apellido : Ortega
+ <br>Cargo : administrativa
+ <br>Direccion : av. gral Savio 679
+ <br>Ciudad : San Francisco
+ <br>Telefono : 03564-15608162
+ <br>Email : jorgelinaortega_07@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : 
+
+A quien corresponda:
+
+Escribo este mensaje para postularme a puestos de Auxiliar Administrativa. Tengo experiencia en manejo de archivo, control de gastos, agenda de citas, atención al cliente , central telefónica, facturación y conocimientos de computación. Adjunto mi CV en este correo.
+
+Estoy muy interesada en agendar entrevistas para conversar sobre cómo podría contribuir de manera positiva a las diferentes empresas.
+
+Desde ya muchas gracias.
+
+Jorgelina Ortega
+ <br>Security_code : n6dt5
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.19.184.47<br>
+ <br>REF : GTEP
+ <br>Nombre : Ezequiel
+ <br>Apellido : Pierucci
+ <br>Cargo : Gerente de Planta
+ <br>Direccion : Escribano Francisco Vazquez 3550 Canning
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 0111569434643
+ <br>Email : pierucci80@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimado/a,
+Por el presente adjunto mi CV
+Atte
+Ezequiel Pierucci
+
+ <br>Security_code : 8pjdj
+ <br>Send : Enviar
+ <br>
+---------------
+

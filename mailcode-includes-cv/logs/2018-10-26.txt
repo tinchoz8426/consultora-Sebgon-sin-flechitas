@@ -1,0 +1,222 @@
+Address : 66.249.85.7<br>
+ <br>Nombre : Maria Del Rosario
+ <br>Apellido : Garcia
+ <br>Cargo : Armar cajas en casa 
+ <br>Direccion : Av. Dellepiane sur 4790
+ <br>Ciudad : Capital federal
+ <br>Telefono : 1158936422
+ <br>Email : Charomrg@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Necesito tranajar
+ <br>Security_code : VgK7q
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.12.20.137<br>
+ <br>Nombre : Sebastian de los Angeles
+ <br>Apellido : Argañaraz
+ <br>Cargo : seguridad
+ <br>Direccion : metan 1163
+ <br>Ciudad : Neuquén
+ <br>Telefono : 3873520429
+ <br>Email : Sebastian-201093@live.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola,buen día. 
+ <br>Security_code : rwd47
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 168.196.246.208<br>
+ <br>Nombre : Facundo nelson 
+ <br>Apellido : Vaquell 
+ <br>Cargo : Operario
+ <br>Direccion :  La tradicion 2155 
+ <br>Ciudad : Moreno bs.as 
+ <br>Telefono : 1162981223
+ <br>Email : Vaquellfacundo@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola me interesa postularme desde ya muchas gracias 
+ <br>Security_code : Vd47f
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.9<br>
+ <br>REF : EM
+ <br>Nombre : Marcos
+ <br>Apellido : Morfil
+ <br>Cargo : Técnico electromecánico
+ <br>Direccion : Policastro 2006
+ <br>Ciudad : Adrogue
+ <br>Telefono : 1131979291
+ <br>Email : marcosdavid.mdm1991@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Experiencias laborales:
+
+*Ropal s.a (2009-2011)
+Tareas: balancinero (colocación de matrices y puesta a Punto) ; Cortadora de caños a medida ( equipo: cierra neumática).
+* Coinplast s.r.l (2011-2012)
+Tareas: operador en máquinas inyectoras plásticas, control de calidad bajo planos, uso de calibre cómo herramienta de medición.
+*Actualmente Exultt s.a (2012 hasta la actualidad)
+Tareas: capacitador del sector de balancinado y referente de calidad. (Colocacion de matrices y puesta a Punto en balancines de 18,25,30 y 50 toneladas, marcas:keorge y Mach) alimentación del equipo neumático (marcas: Festo, f.v d y petreniuk) regulación de puesta a Punto con PLC.
+
+
+Edad: 27 años.
+Secundario completo: E.E.T N°5 TEMPERLEY ( TITULO TÉCNICO ELECTROMECANICO)
+
+OTROS ESTUDIOS: PROFESOR DE ARTISTICA (FORMACION DOCENTE).
+
+ESTOY EN LA BUSQUEDA DE UN TRABAJO EN EL CUAL PUEDA SUMARLE A LA EMPRESA CON MI EXPERIENCIA ,GANAS DE APRENDER , COMPROMISO Y RESPONSABILIDAD.
+
+MUCHAS GRACIAS!
+ <br>Security_code : Kt8cy
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.11<br>
+ <br>REF : EM
+ <br>Nombre : Marcos
+ <br>Apellido : Morfil
+ <br>Cargo : Técnico electromecánico
+ <br>Direccion : Policastro 2006
+ <br>Ciudad : Adrogue
+ <br>Telefono : 1131979291
+ <br>Email : marcosdavid.mdm1991@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Experiencias laborales:
+
+*Ropal s.a (2009-2011)
+Tareas: balancinero (colocación de matrices y puesta a Punto) ; Cortadora de caños a medida ( equipo: cierra neumática).
+* Coinplast s.r.l (2011-2012)
+Tareas: operador en máquinas inyectoras plásticas, control de calidad bajo planos, uso de calibre cómo herramienta de medición.
+*Actualmente Exultt s.a (2012 hasta la actualidad)
+Tareas: capacitador del sector de balancinado y referente de calidad. (Colocacion de matrices y puesta a Punto en balancines de 18,25,30 y 50 toneladas, marcas:keorge y Mach) alimentación del equipo neumático (marcas: Festo, f.v d y petreniuk) regulación de puesta a Punto con PLC.
+
+
+Edad: 27 años.
+Secundario completo: E.E.T N°5 TEMPERLEY ( TITULO TÉCNICO ELECTROMECANICO)
+
+OTROS ESTUDIOS: PROFESOR DE ARTISTICA (FORMACION DOCENTE).
+
+ESTOY EN LA BUSQUEDA DE UN TRABAJO EN EL CUAL PUEDA SUMARLE A LA EMPRESA CON MI EXPERIENCIA ,GANAS DE APRENDER , COMPROMISO Y RESPONSABILIDAD.
+
+MUCHAS GRACIAS!
+ <br>Security_code : wqpmw
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.44.17.48<br>
+ <br>REF : TEC. EL
+ <br>Nombre : Tomás
+ <br>Apellido : OSullivan
+ <br>Cargo : Tecnicos Electrónicos Especializados
+ <br>Direccion : Dr. Eguia 1561
+ <br>Ciudad : Pilar
+ <br>Telefono : 0111536199537
+ <br>Email : tomiosullivan@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Envío mi CV para su consideración.
+Mi pretensión salarial es de 100000$ brutos mensuales.
+Desde ya muchas gracias
+ <br>Security_code : tggzk
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 191.85.140.215<br>
+ <br>Nombre : daniel gonzalo
+ <br>Apellido : castro
+ <br>Cargo : cajero / administrativo
+ <br>Direccion : calle 214 A nº 1558
+ <br>Ciudad : florencio varela
+ <br>Telefono : 1550263668
+ <br>Email : castrodaniel1983@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me dirijo a ustedes con el fin de remitirles mi Curriculum Vitae para ser considerado ante posibles  procesos selectivos en relación con mi perfil académico  y experiencia laboral.
+
+Me Considero una persona con gran potencial, puntual, ordena, proactiva y responsable. 
+Desarrolle mis capacidades de trabajo en equipo destacándome en la gestión de proyectos con dedicación y esfuerzo en búsqueda de resultados exitosos.
+Mi objetivo laboral es tener oportunidades de crecimiento mediante retos y reconocimientos por logros alcanzados.
+En el C.V.  Se detallan mis titulaciones académicas, así como mi experiencia laboral en diferente ámbito los cuales me han dejado una invaluable experiencia.
+Estoy a su disposición, ante una eventual entrevista.
+
+Los saludo Cordialmente.
+
+ <br>Security_code : 84bjh
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 191.85.140.215<br>
+ <br>Nombre : daniel gonzalo
+ <br>Apellido : castro
+ <br>Cargo : cajero / administrativo
+ <br>Direccion : calle 214 A nº 1558
+ <br>Ciudad : florencio varela
+ <br>Telefono : 1550263668
+ <br>Email : castrodaniel1983@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me dirijo a ustedes con el fin de remitirles mi Curriculum Vitae para ser considerado ante posibles  procesos selectivos en relación con mi perfil académico  y experiencia laboral.
+
+Me Considero una persona con gran potencial, puntual, ordena, proactiva y responsable. 
+Desarrolle mis capacidades de trabajo en equipo destacándome en la gestión de proyectos con dedicación y esfuerzo en búsqueda de resultados exitosos.
+
+Mi objetivo laboral es tener oportunidades de crecimiento mediante retos y reconocimientos por logros alcanzados.
+
+En el C.V.  Se detallan mis titulaciones académicas, así como mi experiencia laboral en diferente ámbito los cuales me han dejado una invaluable experiencia.
+
+Estoy a su disposición, ante una eventual entrevista.
+
+Los saludo Cordialmente.
+
+ <br>Security_code : 7xhvd
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.225.41.129<br>
+ <br>Nombre : Carlos
+ <br>Apellido : Guerra
+ <br>Cargo : Analista/consultor SAP Basis
+ <br>Direccion : Buenos Aires
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 04163906667
+ <br>Email : carlosguerrasanchezve@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : En cuanto a mi presentación actual: soy profesional Venezolano, erradicado en Argentina, en búsqueda de oportunidad de trabajo, que me permita seguir desarrollándome profesionalmente y a la vez poder demostrar mis competencias y mis valores: ética, responsabilidad, lealtad, honestidad y solidaridad, para mí los retos y desafíos van de mi mano, siempre dispuesto para asumirlos, a su vez que el trabajo en equipo con un fin común, buscar la excelencia tanto en la relación con el cliente como en el entorno de la oficina. ya que como es sabido, debido a la difícil situación en mi país de origen, se me dificulta poder desempeñarla, pero queriendo aportar mi granito de arena en este hermoso y emprendedor país.
+
+En cuanto a mis habilidades: Profesional de la informática, especialista SAP Basis Administrator con certificación internacional por SAP con mas de 10 años de experiencia, participación en proyecto de upgrade y/o migración de sistemas SAP R/3 4.7 a ECC 6.0 y Base de Datos (homogenea/hetrogenea), con un plus de no solo administrar las tareas cotidianas de un SAP Basis Certified, adicionalmente me considero integral, debido a mi experiencia por mas de 15 años llevando a cabo actividades de TI(Tecnología de Ia Información), como especialista de soporte Técnico.
+
+Gracias por la oportunidad.
+Reciba un cordial saludo,
+ Atentamente
+
+Carlos Guerra   
+SAP Netweaver(Basis) certified consultant - OS/DB Administrator 
+ <br>Security_code : 2tbdf
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.11<br>
+ <br>REF : TEC. EL
+ <br>Nombre : Gustavo lucas
+ <br>Apellido : Seitz
+ <br>Cargo : Técnico de mantenimiento electrico electronico.
+ <br>Direccion : Fels Teodoro 5937
+ <br>Ciudad : Moreno
+ <br>Telefono : 1131513830
+ <br>Email : gustavolucasseitz@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Actualmente trabajando en mantenimiento electrico electronico en ILVA S.A,
+Y la remunurecion pretendida es de 70000 pesos netos.
+Saludos...
+ <br>Security_code : gcwtp
+ <br>Send : Enviar
+ <br>
+---------------
+

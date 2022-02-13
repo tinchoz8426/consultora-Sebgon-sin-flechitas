@@ -1,0 +1,129 @@
+Address : 190.19.52.92
+Nombre : Antonella
+Apellido : Rocca
+Cargo : Asistente de Diseño o productora de modas
+Direccion : Larrazabal 679
+Ciudad : Capital Federal
+Telefono : 46412191
+Email : ann.rocca@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados Sres. de Recursos Humanos,
+Tengo el agrado de dirigirme a usted con el objeto de participar en búsquedas acordes a mi perfil profesional en su empresa.
+En cuanto a mi formación, tengo la experiencia y los conocimientos técnicos en empresas dedicadas en el área del Diseño y la Moda.
+Cuento con conocimiento de inglés y herramientas informáticas. Me considero de personalidad proactiva y con creatividad.
+Adjunto mi currículum vitae. Una entrevista personal será el marco adecuado donde pueda profundizar aspectos de mi perfil que resulten de su interés.
+
+Sin otro particular, aprovecho esta oportunidad para saludarlo/a cordialmente.
+Antonella Rocca
+
+Security_code : rcjxt
+Send : Enviar
+
+---------------
+
+Address : 190.17.162.130
+REF : gerente-de-operaciones
+Nombre : ROSAURA LIS
+Apellido : DEPETRIS
+Cargo : Psicologa
+Direccion : Corrientes 665
+Ciudad : Salta
+Telefono : 0387154578278
+Email : rosauradepetris@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Deseo postularme no solo a cualquier cargo del area psicologia sino tambien dentro del area de psicopedagogia, ya que  tengo dos titulos habilitantes para trabajar dentro de las mencionadas areas.
+Security_code : 8ghzr
+Send : Enviar
+
+---------------
+
+Address : 186.129.193.142
+Nombre : Dario
+Apellido : Dominguez
+Cargo : tecnico 
+Direccion : oslo 921
+Ciudad : Lomas de zamora
+Telefono : 5411 42313276
+Email : dh.dominguez@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : De mi consideración:
+Tengo el agrado de dirigirme a Ud con el objeto de participar en búsquedas acordes a mi perfil en su empresa. Adjunto le remito mi Curriculum Vitae para que me incluyeran en su base de datos por si se produjera alguna vacante o si tuvieran intención de ampliar su personal.
+
+Quedo a su entera disposición ante una eventual entrevista personal con el objetivo de profundizar aspectos de mi perfil que resulten de su interés. 
+
+Sin otro particular, aprovecho esta oportunidad para saludarlo cordialmente.
+
+
+Darío Domínguez
+
+Security_code : tq2x5
+Send : Enviar
+
+---------------
+
+Address : 190.18.1.122
+Nombre : NATALIA VANESA
+Apellido : PIACENTINO
+Cargo : asistente-abogada jr.
+Direccion : CHARLONE 2082
+Ciudad : CAPITAL FEDERAL
+Telefono : 01145512571 1556679251
+Email : naty_piacentino@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : A quien corresponda:
+Envío mi CV para una posible entrevista laboral. 
+Desde ya, muchas gracias
+Saludo a Ud. muy atte.
+
+Natalia Piacentino
+Security_code : XS28R
+Send : Enviar
+
+---------------
+
+Address : 190.105.16.117
+REF : gerente-de-operaciones
+Nombre : Lucas
+Apellido : Miquelarena
+Cargo : Recursos Humanos
+Direccion : Ruta 25 y Caamaño (Country Pilar del Este)
+Ciudad : Pilar
+Telefono : 011-156-713-6767
+Email : lucas.miquelarena@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Les adjunto mi CV.  Soy un profesional del area de Recursos Humanos con 21 años de experiencia en compañias multinacionales líderes en el mercado tanto a nivel local como internacional. Cuento con una amplia experiencia en los diferentes procesos de HR liderando equipos de trabajo en las distintas posiciones a lo largo de mi carrera
+Security_code : 7mn3w
+Send : Enviar
+
+---------------
+
+Address : 190.230.55.139
+Nombre : Luciano
+Apellido : Pellandino
+Cargo : comunicador social
+Direccion : Sarmiento 2309
+Ciudad : Capital federal
+Telefono : 011-1566203929
+Email : lcn29@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : sin dificultades en trabajar en sucursales del interior del pais
+Security_code : 5myyj
+Send : Enviar
+
+---------------
+
+Address : 190.230.55.139
+Nombre : Luciano
+Apellido : Pellandino
+Cargo : comunicador social
+Direccion : Sarmiento 2309
+Ciudad : Capital federal
+Telefono : 011-1566203929
+Email : lcn29@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Pretensión salarial: $3500, sin dificultades en trabajar en sucursales del interior del pais
+Security_code : 5myyj
+Send : Enviar
+
+---------------
+

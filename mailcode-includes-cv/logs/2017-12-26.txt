@@ -1,0 +1,26 @@
+Address : 200.68.103.253<br>
+ <br>Nombre : María Noel
+ <br>Apellido : Manzi 
+ <br>Cargo : Marketing
+ <br>Direccion : Av Las Heras 2861
+ <br>Ciudad : Capital Federal
+ <br>Telefono : 1565821568
+ <br>Email : marianoelmanzi@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados,
+
+Les acerco mi Currículum Vitae para que puedan ingresarlo en su base de datos de la consultora.
+Espero tengan a  bien analizar mi experiencia laboral para futuras búsquedas de personal.
+
+Actualmente me encuentro trabajando en el Departamento de Marketing de Multiled S.A., aunque mi objetivo es migrar a otro empleo para crecer profesionalmente.
+
+Muchas gracias,
+
+Saludos cordiales,
+
+María Noel Manzi
+ <br>Security_code : vvmn2
+ <br>Send : Enviar
+ <br>
+---------------
+

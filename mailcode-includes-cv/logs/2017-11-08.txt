@@ -1,0 +1,416 @@
+Address : 186.183.120.252<br>
+ <br>Nombre : Jonathan alexis
+ <br>Apellido : Melara
+ <br>Cargo : Vigilador repositor
+ <br>Direccion : Maestra gachet
+ <br>Ciudad : Castelar sur
+ <br>Telefono : 1164370088
+ <br>Email : Emilunahiarabri@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Busco un empleo fijo con un sueldo mensual
+ <br>Security_code : Xbgkk
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.183.120.252<br>
+ <br>Nombre : Jonathan alexis
+ <br>Apellido : Melara
+ <br>Cargo : Vigilador repositor
+ <br>Direccion : Maestra gachet
+ <br>Ciudad : Castelar sur
+ <br>Telefono : 1164370088
+ <br>Email : Emilunahiarabri@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Busco un empleo fijo con un sueldo mensual
+ <br>Security_code : xbgkk
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.183.120.252<br>
+ <br>Nombre : Jonathan alexis
+ <br>Apellido : Melara
+ <br>Cargo : Vigilador repositor
+ <br>Direccion : Maestra gachet 3536
+ <br>Ciudad : Castelar sur
+ <br>Telefono : 1164370088
+ <br>Email : Emilunahiarabri@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Busco un empleo fijo con un sueldo mensual
+ <br>Security_code : 6wx4q
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.7<br>
+ <br>REF : ACO
+ <br>Nombre : Rocio Elizabeth 
+ <br>Apellido : Duran
+ <br>Cargo : Asistente comercial 
+ <br>Direccion : Yapeyu 624,almagro.caba
+ <br>Ciudad : Capital federal. Bueno aires
+ <br>Telefono : 1127075469
+ <br>Email : roduran12@outlook.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : .
+ <br>Security_code : Ygfgk
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.11<br>
+ <br>REF : ACO
+ <br>Nombre : Rocio Elizabeth 
+ <br>Apellido : Duran
+ <br>Cargo : Asistente comercial 
+ <br>Direccion : Yapeyu 624,almagro.caba
+ <br>Ciudad : Capital federal. Bueno aires
+ <br>Telefono : 1127075469
+ <br>Email : roduran12@outlook.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : .
+ <br>Security_code : Ygfqk
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.176.187.167<br>
+ <br>Nombre : César 
+ <br>Apellido : Villalba 
+ <br>Cargo : operario 
+ <br>Direccion : Ricardo Gutiérrez 8060
+ <br>Ciudad : Moreno 
+ <br>Telefono : 1158493227
+ <br>Email : cavillalba@hotmail.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : me complace dirigirme autedes para portularme  para un puesto de operario.
+ <br>Security_code : 7yqcn
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.176.187.167<br>
+ <br>Nombre : César 
+ <br>Apellido : Villalba 
+ <br>Cargo : operario 
+ <br>Direccion : Ricardo Gutiérrez 8060
+ <br>Ciudad : moreno
+ <br>Telefono : 1158493227
+ <br>Email : cavillalba@hotmail.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : me complace dirigirme autedes para portularme  para un puesto de operario.
+ <br>Security_code : 7yqcn
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.176.187.167<br>
+ <br>Nombre : César 
+ <br>Apellido : Villalba 
+ <br>Cargo : operario 
+ <br>Direccion : Ricardo Gutiérrez 8060
+ <br>Ciudad : moreno
+ <br>Telefono : 1158493227
+ <br>Email : cavillalba@hotmail.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : me complace dirigirme autedes para portularme  para un puesto de operario.
+ <br>Security_code : 7yqcn
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.176.187.167<br>
+ <br>Nombre : César 
+ <br>Apellido : Villalba 
+ <br>Cargo : operario 
+ <br>Direccion : Ricardo Gutiérrez 8060
+ <br>Ciudad : moreno
+ <br>Telefono : 1158493227
+ <br>Email : cavillalba@hotmail.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : me complace dirigirme autedes para portularme  para un puesto de operario.
+ <br>Security_code : y2vjv
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.91.68.196<br>
+ <br>REF : TM-2
+ <br>Nombre : Fernando
+ <br>Apellido : De la cruz
+ <br>Cargo : Mecanico
+ <br>Direccion : Pedro martini 1795
+ <br>Ciudad : Zarate
+ <br>Telefono : 0348715662674
+ <br>Email : Fernandodc720@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Mantenimiento mecanico conoceiento en bombas y motores electrico como tambien en reductores y compresores manejo de torno y alineciones de equipos
+ <br>Security_code : 9qdqm
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.141.202.119<br>
+ <br>Nombre : Jessica Daniela
+ <br>Apellido : Rosales
+ <br>Cargo : Laboratorista-recepcionista 
+ <br>Direccion : Saegento cabral 961
+ <br>Ciudad : Comodoro rivadavia
+ <br>Telefono : 02975366390
+ <br>Email : Jessiro9169@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Cv
+ <br>Security_code : X93tq
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.141.202.119<br>
+ <br>Nombre : Jessica Daniela
+ <br>Apellido : Rosales
+ <br>Cargo : Laboratorista-recepcionista 
+ <br>Direccion : Saegento cabral 961
+ <br>Ciudad : Comodoro rivadavia
+ <br>Telefono : 02975366390
+ <br>Email : Jessiro9169@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Cv
+ <br>Security_code : x93tq
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.172.212.167<br>
+ <br>REF : ROT-1
+ <br>Nombre : EDUARDO
+ <br>Apellido : PEREZ
+ <br>Cargo : PROYECTISTA SENIO CARPINTERIA METALICA DE ALUMINIO Y VIDRIO
+ <br>Direccion : SIRITTO 787
+ <br>Ciudad : LOMAS DE ZAMORA
+ <br>Telefono : (011)4231-3544
+ <br>Email : eduardoap345@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : ENVIO CV
+SDO ATTE
+
+EAP
+ <br>Security_code : 4vtpv
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.172.212.167<br>
+ <br>REF : ROT-1
+ <br>Nombre : EDUARDO
+ <br>Apellido : PEREZ
+ <br>Cargo : PROYECTISTA SENIO CARPINTERIA METALICA DE ALUMINIO Y VIDRIO
+ <br>Direccion : SIRITTO 787
+ <br>Ciudad : LOMAS DE ZAMORA
+ <br>Telefono : (011)4231-3544
+ <br>Email : eduardoap345@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : ENVIO CV
+SDO ATTE
+
+EAP
+ <br>Security_code : 4vtpv
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.172.212.167<br>
+ <br>REF : ROT-1
+ <br>Nombre : EDUARDO
+ <br>Apellido : PEREZ
+ <br>Cargo : PROYECTISTA SENIO CARPINTERIA METALICA DE ALUMINIO Y VIDRIO
+ <br>Direccion : SIRITTO 787
+ <br>Ciudad : LOMAS DE ZAMORA
+ <br>Telefono : (011)4231-3544
+ <br>Email : eduardoap345@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : ENVIO CV
+SDO ATTE
+
+EAP
+ <br>Security_code : 8x7br
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.13.75.202<br>
+ <br>REF : EP-1
+ <br>Nombre : Héctor
+ <br>Apellido : Cardozo
+ <br>Cargo : Encargado de producción
+ <br>Direccion : Calle 150 Número 52
+ <br>Ciudad : Berazategui
+ <br>Telefono : 1150566502
+ <br>Email : hector.cardozo@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Disponibilidad full time
+ <br>Security_code : S57b8
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.13.75.202<br>
+ <br>REF : EP-1
+ <br>Nombre : Héctor
+ <br>Apellido : Cardozo
+ <br>Cargo : Encargado de producción
+ <br>Direccion : Calle 150 Número 52
+ <br>Ciudad : Berazategui
+ <br>Telefono : 1150566502
+ <br>Email : hector.cardozo@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Disponibilidad full time
+ <br>Security_code : 952m3
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.13.75.202<br>
+ <br>REF : EP-1
+ <br>Nombre : Héctor
+ <br>Apellido : Cardozo
+ <br>Cargo : Encargado de producción
+ <br>Direccion : Calle 150 Número 52
+ <br>Ciudad : Berazategui
+ <br>Telefono : 1150566502
+ <br>Email : hector.cardozo@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Disponibilidad full time
+ <br>Security_code : 952m3
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.57.218.212<br>
+ <br>Nombre : Francisco
+ <br>Apellido : Sebastian
+ <br>Cargo : Psicólogo o Productor musical
+ <br>Direccion : Av Garcia del rio 2693
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 1169089766
+ <br>Email : lic.sebastian1@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas tardes,
+
+Mi nombre es Francisco Sebastian, les escribo porque encontré su empresa en internet y estoy buscando trabajo, les envío adjunto mi curriculum. Soy psicólogo y productor musical.
+
+Saludos cordiales
+Francisco
+ <br>Security_code : sch28
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.179.71.67<br>
+ <br>REF : VT
+ <br>Nombre : Miguel Alejandro
+ <br>Apellido : Salas
+ <br>Cargo : Vendedor Técnico
+ <br>Direccion : Mariano Santamaria 4274
+ <br>Ciudad : San Justo
+ <br>Telefono : 01144821403
+ <br>Email : miguel_buenosaires@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados Señores
+Si bien mi currículum es Técnico, dispongo de un completo conocimiento de marketing y experiencia comercial   además de una buena relación interpersonal.
+Quedando a vuestra disposición para ampliar detalles, los saludo muy atte.
+Miguel Alejandro Salas
+ <br>Security_code : nbrnw
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.31.42.228<br>
+ <br>REF : TE-1
+ <br>Nombre : ARIEL
+ <br>Apellido : GARCIA
+ <br>Cargo : TECNICO ELECTRICO
+ <br>Direccion : Necochea 325
+ <br>Ciudad : Bahía Blanca
+ <br>Telefono : 2914358848
+ <br>Email : garciariel@outlook.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : ESTOY DISPUESTO A RADICARME EN ZONA OESTE
+ <br>Security_code : 77h4n
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.31.42.228<br>
+ <br>Nombre : ARIEL
+ <br>Apellido : GARCIA
+ <br>Cargo : TECNICO ELECTROMECANICO
+ <br>Direccion : Necochea 325
+ <br>Ciudad : Bahía Blanca
+ <br>Telefono : 2914358848
+ <br>Email : garciariel@outlook.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Soy tecnico electromecanico dispuesto a radicarme en zona oeste
+ <br>Security_code : 9fc7k
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.31.42.228<br>
+ <br>REF : TE-1
+ <br>Nombre : ARIEL
+ <br>Apellido : GARCIA
+ <br>Cargo : TECNICO ELECTRICO
+ <br>Direccion : Necochea 325
+ <br>Ciudad : Bahía Blanca
+ <br>Telefono : 2914358848
+ <br>Email : garciariel@outlook.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Dispuesto a radicarme en zona oeste
+ <br>Security_code : pp528
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 152.171.125.64<br>
+ <br>REF : EP-1
+ <br>Nombre : Abrahana
+ <br>Apellido : Mendoza
+ <br>Cargo : Encargado de Producción.
+ <br>Direccion : Lomas de Zamora
+ <br>Ciudad : Banfield
+ <br>Telefono : 1134545173/1122368819
+ <br>Email : abrahanamendoza@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buen dia reciba mis saludos, adjunto mi cv ya que estoy interesada en esta oferta laboral y tengo la disponibilidad para cambiar de residencia. Muchas gracias.
+ <br>Security_code : c5j7h
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.91.125.111<br>
+ <br>REF : ROT-1
+ <br>Nombre : Jose Ignacio
+ <br>Apellido : Ibañez Cordero
+ <br>Cargo : Responsable Oficina Técnica
+ <br>Direccion : AV. CONGRESO 2273
+ <br>Ciudad : Ciudad Autónoma de Buenos Aires
+ <br>Telefono : 1559122233
+ <br>Email : arq.jibanez@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola buen día. Es un grato placer saludarles. Por medio del presente email les hago llegar mi currículum vitae. 
+
+De antemano agradezco la oportunidad, quedando de Uds. para cualquier otro asunto y siempre a la espera de su respuesta. 
+
+Saludos cordiales.
+
+CV. Arquitecto José Ignacio Ibáñez
+
+
+Sueldo bruto pretendido: 
+AR$25000
+ <br>Security_code : w2fcc
+ <br>Send : Enviar
+ <br>
+---------------
+

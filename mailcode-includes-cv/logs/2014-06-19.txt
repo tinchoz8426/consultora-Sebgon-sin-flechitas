@@ -1,0 +1,65 @@
+Address : 190.111.251.132
+Nombre : William
+Apellido : Arias
+Cargo : Tecnico Superior en Seguridad e Higiene y Control Ambiental Industrial
+Direccion : Mallea 270
+Ciudad : Bahia Blanca
+Telefono : 291- 1 54 23 64 80
+Email : zayke_@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Técnico Superior en Seguridad e Higiene y Control Ambiental Industrial - Graduado
+
+Licenciado en Seguridad e Higiene Laboral - En curso (A DISTANCIA)
+Security_code : njzzk
+Send : Enviar
+
+---------------
+
+Address : 190.175.13.188
+Nombre : maria
+Apellido : gagnebien
+Cargo : cajera
+Direccion : directorio 2386 4 19
+Ciudad : CAPITAL FEDERAL
+Telefono : 46315187
+Email : gagnebien@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : hola, envio mi cv, vivo en capital, necesito trabajar, solicito una entrevista, gracias
+Security_code : 3z4mq
+Send : Enviar
+
+---------------
+
+Address : 190.175.107.84
+REF : ADMINISTRATIVA-DE-COMPRAS
+Nombre : Natalia
+Apellido : Gonzalez
+Cargo : Administrativa de compras
+Direccion : Paso de los libres 366
+Ciudad : Ituzaingo
+Telefono : 1563099450
+Email : naty781@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenas tardes, estoy buscando cualquier trabajo por lo cual les dejo mi CV, desde ya muchas gracias.
+Security_code : vs5wc
+Send : Enviar
+
+---------------
+
+Address : 190.51.122.46
+Nombre : Lautaro Damian
+Apellido : Barraza
+Cargo : Cualquiera que no requiera titulo de grado
+Direccion : Bartolome Mitre 320
+Ciudad : Moron
+Telefono : 46291538 / 1133501676
+Email : lautarobarraza@outlook.es
+MAX_FILE_SIZE : 2097152
+Mensaje : Busco empleo.
+Amplia disponibilidad horaria.
+Ganas de trabajar, aprener
+Security_code : w63pv
+Send : Enviar
+
+---------------
+

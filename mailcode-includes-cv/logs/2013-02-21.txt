@@ -1,0 +1,135 @@
+Address : 186.130.180.10
+REF : tecnico-electornico
+Nombre : Fabian
+Apellido : Frattini
+Cargo : tecnico electronico
+Direccion : Altolaguirre
+Ciudad : Merlo
+Telefono : 02204823432
+Email : fabian.frattini@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Saludos cordiales, es un gusto hacer contacto con usted y poder tener una oportunidad de trabajo. Desde ya, muchas gracias.
+Security_code : fnjvm
+Send : Enviar
+
+---------------
+
+Address : 186.128.12.222
+Nombre : Santiago
+Apellido : Pitrella
+Cargo : Administrativo
+Direccion : Juan Guillermo Molina 1051, Dpto 1 - PB, Coronel Dorrego, Guaymallén
+Ciudad : Mendoza
+Telefono : 0261 - 155395215
+Email : pitre228@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Les mando mi CV para que me tengan en cuenta para algún empleo en la provincia de Mendoza. Este año 2013 empiezo a cursar el 4° año de Lic. en Administración de empresa por lo que me gustaria empezar a trabajar sobre algo relacionado a la carrera. Espero me tengan en cuenta. Saluda atte. Santiago Pitrella
+Security_code : pcrnp
+Send : Enviar
+
+---------------
+
+Address : 186.128.12.222
+Nombre : Santiago
+Apellido : Pitrella
+Cargo : Administrativo
+Direccion : Juan Guillermo Molina 1051, Dpto 1 - PB, Coronel Dorrego, Guaymallén
+Ciudad : Mendoza
+Telefono : 0261 - 155395215
+Email : pitre228@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Les mando mi CV para que me tengan en cuenta en el momento de disponer de un empleo. Este año comienzo el 4° año de la LIC EN ADMINISTRACION DE EMPRESAS por lo que me gustaria algo referido a la carrera a la cual estoy dedicando mis estudios. Desde ya muchas gracias. Saluda atte. Santiago Pitrella.
+Security_code : 3dq4y
+Send : Enviar
+
+---------------
+
+Address : 190.97.55.38
+Nombre : Eliana Beatriz 
+Apellido : Gaggino
+Cargo : secretaria/recepcionista/atención al publico/ administrativa
+Direccion : Martina Cespédes 1845
+Ciudad : Bahía Blanca
+Telefono : 2914318047
+Email : eli_gaggin@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buen dia, mi mensaje es para que ustedes ma ayuden a encontrar un empleo permanente. mi disponibilidad horaria es full time. garcias
+Security_code : 9yxjm
+Send : Enviar
+
+---------------
+
+Address : 190.97.55.38
+Nombre : eliana beatriz
+Apellido : gaggino
+Cargo : secretaria/recepcionista/atencion al publico/ administartiva
+Direccion : martina cespédes 1845
+Ciudad : bahía blanca
+Telefono : 2914318047
+Email : eli_gaggino@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : buen dia, me contacto con ustedes para poder encontrar un trabajo de manera permanente, mi disponibilidad es full time
+Security_code : 6zyv5
+Send : Enviar
+
+---------------
+
+Address : 186.18.81.82
+Nombre : Victoria
+Apellido : Zeoli
+Cargo : Selectora de personal - RRHH
+Direccion : Boedo 543
+Ciudad : Lomas de Zamora
+Telefono : 1557495988
+Email : victoriazeoli@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenos días,busco empleo en el área de RRHH
+Poseo experiencia en reclutamiento y selección.
+
+Muchas gracias
+Saludos, 
+Security_code : hnxb4
+Send : Enviar
+
+---------------
+
+Address : 186.22.66.120
+Nombre : Daniela Grisel
+Apellido : Toro
+Cargo : Asistente/ Analista de Selección
+Direccion : Nazca 3177 
+Ciudad : CABA
+Telefono : 4504-1650
+Email : lic.torodaniela@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados
+
+Mi nombre es Daniela Toro y recientemente me he recibido de Lic. en Psicología en la Universidad de Morón.
+
+Poseo experiencia en el área de Capacitación y Desarrollo en una reconocida consultora (Ver CV) y deseo continuar mi desempeño laboral en el área de Selección de Personal
+
+Agradeceré que tengan en cuenta mi CV para futuras búsquedas acordes a mi perfil.
+
+Desde ya muchas gracias por su atención
+
+Saludos cordiales
+Security_code : tg2vb
+Send : Enviar
+
+---------------
+
+Address : 186.123.135.244
+Nombre : noelia paola
+Apellido : arnedo
+Cargo : secretaria administrativa/recepcionista
+Direccion : pablo saravia
+Ciudad : salta
+Telefono : o387155329077
+Email : noelia_arnedo@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : hola espero una respuesta favorable .gracias
+Security_code : kyw6m
+Send : Enviar
+
+---------------
+

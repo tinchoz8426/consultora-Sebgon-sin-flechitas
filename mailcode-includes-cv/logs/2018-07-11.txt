@@ -1,0 +1,70 @@
+Address : 190.18.147.142<br>
+ <br>Nombre : Roberto Daniel
+ <br>Apellido : Chacón Tse Kwan
+ <br>Cargo : Ingeniero Civil o Oficina técnica
+ <br>Direccion : Humboldt, Villa Crespo
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 1127466020
+ <br>Email : robertodaniel1991@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje :   Buenos días. 
+
+  Mi nombre es Roberto Chacón, soy ingeniero civil y estoy en búsqueda de trabajo en mi área profesional, les adjunto mi CV por si les pueda interesar.
+
+  Espero su pronta respuesta.
+
+  Gracias.
+ <br>Security_code : swdxb
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.83.214<br>
+ <br>Nombre : Laura Verónica
+ <br>Apellido : Chávez
+ <br>Cargo : Trabajo social entrevista domiciliaria
+ <br>Direccion : Velazquez
+ <br>Ciudad : Polvorines
+ <br>Telefono : 1136748717
+ <br>Email : laurachavez470@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Postularme para trabajadora social
+ <br>Security_code : 34c74
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.83.212<br>
+ <br>Nombre : Laura Verónica
+ <br>Apellido : Chávez
+ <br>Cargo : Trabajo social entrevista domiciliaria
+ <br>Direccion : Velazquez
+ <br>Ciudad : Polvorines
+ <br>Telefono : 1136748717
+ <br>Email : laurachavez470@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Postularme para trabajadora social
+ <br>Security_code : 34c74
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.141.167.121<br>
+ <br>Nombre : Mirian Lourdes 
+ <br>Apellido : Blanco
+ <br>Cargo : Telemarketer, telefonista, atención al público, camarera 
+ <br>Direccion : Vignolo 1985
+ <br>Ciudad : Mar del plata
+ <br>Telefono : 2236191781
+ <br>Email : Mirianblanco1998@gmail.com 
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Aptitudes:
+Puntualidad 
+Responsabilidad
+Dispuesta a aprender nuevas actividades
+
+ <br>Security_code : 7b5pw
+ <br>Send : Enviar
+ <br>
+---------------
+

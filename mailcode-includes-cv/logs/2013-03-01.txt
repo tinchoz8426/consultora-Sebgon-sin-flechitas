@@ -1,0 +1,79 @@
+Address : 186.59.200.254
+Nombre : María Noelia
+Apellido : Rupcic
+Cargo : Contador
+Direccion : Calle 43 734 e/ 9 y 10
+Ciudad : La Plata
+Telefono : 0221 4219149
+Email : noerupcic@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados,
+
+Envío mi CV pidiéndoles lo tengan en cuenta en búsquedas laborales en La Plata.
+
+Saludos cordiales.
+
+María Noelia Rupcic
+Security_code : 7s8ms
+Send : Enviar
+
+---------------
+
+Address : 190.19.189.30
+Nombre : Ignacio Agustin
+Apellido : Acosta Martinez
+Cargo : Otro
+Direccion : Franklin 932 PB C
+Ciudad : Capital Federal
+Telefono : 45818799
+Email : acostamartinezignacio@hotmail.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Tengo el agrado de dirigirme a ustedes con el fin de transmitirles mi deseo en firme de incorporarme a su organización. A tal efecto adjunto, junto a la presente, mi CV. 
+
+Me presento como una persona activa, responsable, creativa, flexible, orientada al logro de resultados y a la resolución y evolución constante en las tareas asignadas.
+
+El objetivo que me he impuesto, es el de formar parte del personal de una empresa prestigiosa, confiable y con proyectos ambiciosos.
+
+Si fuera necesario podría acercarme personalmente para cualquier consulta adicional o entrevista personal. Solo tiene que comunicarse al teléfono: 4581-8799 (Casa) o 15-3260-2622 ( Teléfono Celular)
+
+Pongo, además, en su conocimiento que estoy en condiciones de asumir la responsabilidad de este empleo en forma inmediata, y con amplia disponibilidad de horarios.
+
+Quedando a la espera
+
+Me despido atentamente
+                                        Acosta Martinez Ignacio.
+Security_code : vfhjz
+Send : Enviar
+
+---------------
+
+Address : 186.129.212.79
+Nombre : Florencia
+Apellido : Arias
+Cargo : Recepcionista
+Direccion : Bonorino 250
+Ciudad : Hurlingham
+Telefono : 4450-0425
+Email : flor.arias057@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : De acuerdo a mi experiencia me postulo para Recepcionista o cualquier otro puesto de acuerdo a mi perfil. Muchas Gracias
+Security_code : 9phcy
+Send : Enviar
+
+---------------
+
+Address : 181.164.237.30
+Nombre : josefina
+Apellido : gramajo
+Cargo : ventas
+Direccion : alfonsina storni 946
+Ciudad : quilmes
+Telefono : 42571547
+Email : josefina_gramajo@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : necesito trabajar.
+Security_code : yfvr2
+Send : Enviar
+
+---------------
+

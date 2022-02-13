@@ -1,0 +1,72 @@
+Address : 181.1.230.80<br>
+ <br>REF : JPER-1
+ <br>Nombre : ALVARO GUSTAVO
+ <br>Apellido : BUSTELO MENENDEZ
+ <br>Cargo : RR HH
+ <br>Direccion : CERRITO 2944
+ <br>Ciudad : MUNRO , VTE LOPEZ
+ <br>Telefono : 1144165453
+ <br>Email : bustelo343@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : cuento con carta de recomendacion
+ <br>Security_code : 5wyzz4
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.229.125.245<br>
+ <br>REF : JPER-1
+ <br>Nombre : Luis
+ <br>Apellido : Araujo
+ <br>Cargo : Jefe de Personal
+ <br>Direccion : Antezana 37 PB C
+ <br>Ciudad : Capital Federal
+ <br>Telefono : 1157259939
+ <br>Email : relaclabor@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas tardes.
+Habiéndome notificado la posibilidad de una vacante como Jefe de Personal, les informo que me interesaria formar parte del proceso de selección. Aguardo su comunicación para precisar detalles de su interés.
+
+Saludos cordiales,
+Lic. Luis Araujo
+ <br>Security_code : xnzf8
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.91.65.4<br>
+ <br>REF : EP-1
+ <br>Nombre : Dario Gustavo
+ <br>Apellido : Molina
+ <br>Cargo : Encargado de Producción
+ <br>Direccion : Franklin 950. 6°B. 
+ <br>Ciudad : Capital Federal
+ <br>Telefono : 011-45862699
+ <br>Email : dachi_004@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : De mi mayor consideración:
+Por la presente, tengo el agrado de dirigirme a Uds. con el fin de postularme formalmente al puesto de referencia. 
+Con tal motivo, pongo a vuestra disposición mis antecedentes personales, académicos y laborales.
+Con la seguridad de encontrarme absolutamente calificado, para satisfacer la presente   necesidad, y a la espera de un próximo contacto, los saludo muy atentamente.
+Lic. Darío Molina
+ <br>Security_code : 2x7gs
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.45.159.188<br>
+ <br>REF : SP-1
+ <br>Nombre : Maria Laura 
+ <br>Apellido : Iturralde
+ <br>Cargo : j
+ <br>Direccion : 25 de mayo 422
+ <br>Ciudad : quilmes
+ <br>Telefono : 011 40885457
+ <br>Email : mliturralde@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : h
+ <br>Security_code : 6q5sh
+ <br>Send : Enviar
+ <br>
+---------------
+

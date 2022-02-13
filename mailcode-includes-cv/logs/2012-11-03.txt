@@ -1,0 +1,15 @@
+Address : 190.16.90.12
+Nombre : Silvana Patricia
+Apellido : Jauregui
+Cargo : Cadista
+Direccion : 33 orientales 886
+Ciudad : C.A.B.A
+Telefono : 4-924-4954
+Email : silvana.jauregui.86@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me gustaria conseguir algo referido a Arquitectura o urbanismo, diseñar, investigacion, calcular y presupuestar, el sueldo no es un inconveniente, podria ser una pasantia tambien, quiero ganar experiencia y tengo voluntad de aprender y hacer. Muchas Gracias. 
+Security_code : ymwqf
+Send : Enviar
+
+---------------
+

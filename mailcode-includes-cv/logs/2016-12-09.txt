@@ -1,0 +1,22 @@
+Address : 190.19.1.153<br>
+ <br>REF : ROT-1
+ <br>Nombre : Marcelo
+ <br>Apellido : Fangano
+ <br>Cargo : Jefe Of. Técnica
+ <br>Direccion : E. Bonorino 32  Piso 6°  "B"
+ <br>Ciudad : C.A.B.A
+ <br>Telefono : 46331924
+ <br>Email : mf1475@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados Sres.
+
+Tengo el agrado de dirigirme a Uds., con motivo de postularme al cargo de Jefe de Of. Técnica.
+Esperando su amable respuesta, quedo a disposición por cualquier consulta que desearan efectuar.
+Sin otro particular, los saludo muy atte.
+
+Marcelo Fangano
+ <br>Security_code : tmwb3
+ <br>Send : Enviar
+ <br>
+---------------
+

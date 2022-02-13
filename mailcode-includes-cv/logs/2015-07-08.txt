@@ -1,0 +1,45 @@
+Address : 190.49.202.211
+Nombre : amilcar alfonso
+Apellido : monte
+Cargo : cajero
+Direccion : camino real 460 berazategui
+Ciudad : buenos aires
+Telefono : 1551381548
+Email : montealfonso@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados ME POSTULO PARA CAJERO  Y AQUELLOS PUESTOS QUE DAN CON EL PERFIL DEL CURRICULUM QUE LES MANDE. SALUDOS
+Security_code : vjmb5
+Send : Enviar
+
+---------------
+
+Address : 186.137.35.127
+Nombre : Daniel
+Apellido : Flagel
+Cargo : Administrativo
+Direccion : 10 n°2311
+Ciudad : La Plata
+Telefono : 2215930284
+Email : daflagel@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estaría buscando cualquier trabajo que se ajuste a mi curriculum
+Security_code : 6bwwd
+Send : Enviar
+
+---------------
+
+Address : 186.158.141.231
+Nombre : agustina magali
+Apellido : lopez
+Cargo : operario de maquinaria. 
+Direccion : l.c.morales 142
+Ciudad : glew
+Telefono : 1554084780
+Email : cuca1193@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estoy dispuesta a aprender cualquier sector de la empresa. Soy una persona muy docil y eficas. Gracias por su atencion
+Security_code : d6yfc
+Send : Enviar
+
+---------------
+

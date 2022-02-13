@@ -1,0 +1,64 @@
+Address : 190.49.62.90
+Nombre : Carlos Marcos G 
+Apellido : Rocha
+Cargo : Analista de Compras-Comprador Sr
+Direccion : Velez Sarfield 1488
+Ciudad : cipolletti
+Telefono : 0299-154181492
+Email : marcosoil@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Sres
+ Buen dia, por el presente me presento como Analista de compras y/o Comprador Sr. Me interesaria intergrar su base de datos para futuras busquedas acorde a mi perfil.-
+Muchas gracias.-
+Saludos cordiales.-
+Security_code : yjggv
+Send : Enviar
+
+---------------
+
+Address : 186.63.17.143
+REF : jefe-de-operaciones
+Nombre : adolfina
+Apellido : valiente
+Cargo : supervisor
+Direccion : ayolas 3023
+Ciudad : ituzaingo
+Telefono : 1530710155
+Email : val_ien_te@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : me contato con ustedes con para postularme a un puesto de supervisor
+Security_code : gksfp
+Send : Enviar
+
+---------------
+
+Address : 186.19.83.2
+Nombre : Valentina
+Apellido : Massa
+Cargo : Responsabilidad Social Empresaria
+Direccion : Scalabrini Ortiz 1611 1º A
+Ciudad : Capital
+Telefono : 011 35340814
+Email : valentinamassa82@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Amo el servicio y brindar asistencia. Mi interes es crecer personal y profesionalmente en un rubro distinto al de Lìneas Aèreas.
+Security_code : kbd84
+Send : Enviar
+
+---------------
+
+Address : 190.231.14.73
+Nombre : vanessa daniela
+Apellido : robles
+Cargo : cajera,atencion al cliente
+Direccion : sarmiento y quiroga 2001
+Ciudad : jose leon suarez
+Telefono : 0351-156279767
+Email : vanerobles1@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : ofertas de trabajo en buenos aires
+Security_code : 5ngwp
+Send : Enviar
+
+---------------
+

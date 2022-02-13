@@ -1,0 +1,116 @@
+Address : 186.62.218.5
+Nombre : daiana elizabeth
+Apellido : allasia
+Cargo : comercio atencion al publico ventas
+Direccion : quinquela martin 1588
+Ciudad : mardelplata
+Telefono : 2236922865
+Email : daii_ro_teamo@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Curriculum Vitae
+
+Datos Personales:
+
+Apellido: Allasia
+Nombre: Daiana Elizabeth
+Lugar de Nacimiento: Mar del Plata
+Fecha de Nacimiento: 7 de agosto 1991
+Edad: 23 años  Argentina
+DNI: 36.386.397              Estado Civil: Soltera
+Dirección: Q. Martín 1588
+Localidad: Mar del Plata -Buenos Aires cp 7600
+Teléfonos: 2236922865
+E-mail: daii_ro_teamo@hotmail.com
+
+Estudios:
+
+Primario: Completos en Colegio Don Bosco
+Secundario: Cursando último año de secundario. Plan fines Cens 451
+
+Experiencia Laboral:
+
+Limpieza Profesional SA. SIL Servicios
+Dirección: Salta 2963
+Tel. 476 4798
+Tareas realizadas: Limpieza en Clínica Santa Lucia
+Periodo: Junio 2012 hasta Agosto 2013
+Restaurante Café “La Barca”
+Dirección: Don Bosco 1864
+Security_code : zvdsk
+Send : Enviar
+
+---------------
+
+Address : 190.97.121.49
+Nombre : Maite
+Apellido : Blasco
+Cargo : ADMINISTRATIVO
+Direccion : PARAGUAY 4175
+Ciudad : BUENOS AIRES
+Telefono : 0222615553428
+Email : maite_blasco@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola estoy muy interesada en formar parte de esta empresa. Espero poder cumplir con sus exigencias.
+Security_code : w5tfb
+Send : Enviar
+
+---------------
+
+Address : 190.246.99.115
+Nombre : MARIA CARLA
+Apellido : MUCKLOWE
+Cargo : Lic Trabajo Social
+Direccion : LOpez Osornio 1145
+Ciudad : Tandil
+Telefono : 0249154477240
+Email : carla21972@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Solicito me informen en relacion a informe sociales para realizar en la Zona de Coronel Suarez y Tandil. Cuento con movilidad propia
+Security_code : dwt2y
+Send : Enviar
+
+---------------
+
+Address : 190.174.91.61
+Nombre : Roxana ines
+Apellido : Argañaraz
+Cargo : Recepcionista, Secretaria
+Direccion : calle 29
+Ciudad : Berazategui
+Telefono : 43951678
+Email : galvez-roxana@hotmail.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Les envio mi curriculum vitae, espero tener los conocimientos que requiera su empresa.
+Security_code : d9p99
+Send : Enviar
+
+---------------
+
+Address : 181.26.8.237
+Nombre : Diego
+Apellido : Garcia
+Cargo : créditos y cobranzas
+Direccion : Godoy Cruz 915
+Ciudad : Banfield
+Telefono : 1558655958
+Email : garciadf@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimado Sr / Sra
+ 
+De mi mayor consideración:
+ 
+Me pongo en contacto con Ud. para hacerle llegar mi curriculum vitae.
+ 
+Tengo un vasto conocimiento de la gestión de cobranzas, tanto en el sector financiero como en cadena de retail con conducción de grandes grupos de personas. Mi  experiencia auditando agencias de cobranzas y gestionando carteras de créditos me brinda un profundo know how de políticas de cobro aplicadas a tramos de mora, tipo cliente / producto.
+Me destaco por ser una persona proactiva, orientado a resultados y con muy buenas relaciones interpersonales. Tengo un excelente manejo de las herramientas informáticas, como así también, en el análisis de distintos escenarios complejos (matemáticos y estadísticos).
+ Si lo considera oportuno, tendría mucho gusto en proporcionarle más detalles sobre mi currículum vitae durante una entrevista.
+
+Saludo a Ud. muy atte.
+  
+Diego F. Garcia
+
+Security_code : 5zgm7
+Send : Enviar
+
+---------------
+

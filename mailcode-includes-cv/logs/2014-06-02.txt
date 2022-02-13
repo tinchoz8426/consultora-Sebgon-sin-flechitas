@@ -1,0 +1,55 @@
+Address : 186.137.44.184
+Nombre : Alejandro Eugenio
+Apellido : Parada
+Cargo : GERENTE
+Direccion : Calle 489 N° 2188
+Ciudad : La Plata
+Telefono : 02214710399
+Email : alejandroeparada@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados, 
+Luego haber recibido la recomendación de contactarme con ustedes y de haber visitado su página web en internet, me contacto con su consultora para detectar nuevas oportunidades laborales acordes a mi perfil. A tal efecto adjunto a este mail envió mi CV y espero tener la oportunidad de ampliar mis referencias en una entrevista personal.
+Soy un Ingeniero Químico, con un MBA que ha desarrollado una extensa carrera gerencial en empresas multinacionales, nacionales y pymes orientado al manejo global del negocio industrial.
+Como podrá ver en mi CV las empresas en las que he trabajo lo hacen bajo el Modelo Iberoamericano de Gestión, bajo las normas ISO 9.000, 14.000 y 18.000 buscando tener los mejores índices de gestión comparados con los estándares internacionales.
+Cabe también destacar que la diversidad de puestos gerenciales en los que me ha tocado desempeñarme es una muestra de mi capacidad de gestión para organizar y planificar con visión estrategia las diferentes áreas de una empresa, y demostradas cualidades de  liderazgo para conducir grupos con diferentes culturas de trabajo y lo mismo alcanzar objetivos desafiantes.
+Con seguridad ustedes contaran con oportunidades para alguien con habilidades de liderazgo, buenas relaciones interpersonales y que sepa construir equipos de trabajo de excelencia.
+Quedo a la espera de una pronta oportunidad para una entrevista personal para alguna postulación que se presente en vuestra consultora.
+Aprovecho la oportunidad para saludarlos muy atentamente.
+
+Alejandro E. Parada
+
+Security_code : jb3gx
+Send : Enviar
+
+---------------
+
+Address : 190.229.13.155
+Nombre : Florencia 
+Apellido : Huerga
+Cargo : rrhh
+Direccion : pasaje cuchi leguizamon 684
+Ciudad : salta 
+Telefono : 0387615514778
+Email : florenciahuerga@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : busco empleo, puede ser para el area de RRHH, tambien para atencion al cliente y secretaria
+Security_code : fmbxx
+Send : Enviar
+
+---------------
+
+Address : 181.15.142.194
+Nombre : Cynthia Elizabeth
+Apellido : Monge
+Cargo : Trabajo
+Direccion : 25 de Mayo 607
+Ciudad : Diamante
+Telefono : 0343 154166179
+Email : mongecynthia@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto CV oara futuras búsquedas laborales.
+Security_code : sdgkp
+Send : Enviar
+
+---------------
+

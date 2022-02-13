@@ -1,0 +1,15 @@
+Address : 190.192.161.98
+Nombre : Adriana 
+Apellido : Augello Ortiz
+Cargo : Cualquiera
+Direccion : Mariano Acha 3273
+Ciudad : CABA
+Telefono : 45435352
+Email : adriana_augello@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Muchas gracias por recibir mi CV.
+Security_code : pdj74
+Send : Enviar
+
+---------------
+

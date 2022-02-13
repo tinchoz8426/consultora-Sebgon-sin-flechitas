@@ -1,0 +1,31 @@
+Address : 186.122.17.120<br>
+ <br>REF : TEC. EL
+ <br>Nombre : DANIEL LEONARDO
+ <br>Apellido : NERI
+ <br>Cargo : TECNICO ELECTRONICO
+ <br>Direccion : MITRE 492
+ <br>Ciudad : MORON
+ <br>Telefono : 1568936188
+ <br>Email : danyel_107023@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Deseo postularme ala oferta laboral de tecnico ELECTRONICO ZONA OESTE.
+ <br>Security_code : f7vpk
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.122.17.120<br>
+ <br>Nombre : DANIEL LEONARDO
+ <br>Apellido : NERI
+ <br>Cargo : TECNICO ELECTRONICO
+ <br>Direccion : MITRE 492
+ <br>Ciudad : MORON
+ <br>Telefono : 1568936188
+ <br>Email : danyel_107023@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : postularme como tecnico electronico a la propuesta de TECNICO ELECTRONICO OESTE.
+ <br>Security_code : hgb64
+ <br>Send : Enviar
+ <br>
+---------------
+

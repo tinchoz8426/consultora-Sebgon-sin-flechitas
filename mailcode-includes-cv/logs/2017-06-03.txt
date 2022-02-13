@@ -1,0 +1,32 @@
+Address : 201.216.217.109<br>
+ <br>REF : ROT-1
+ <br>Nombre : ROBBERTO
+ <br>Apellido : PESARINI
+ <br>Cargo : Resp. Oficina Técnica
+ <br>Direccion : Silvano Manini 56 - Saldán 
+ <br>Ciudad : Córdoba
+ <br>Telefono : 03543-494139
+ <br>Email : robpesarini@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : De prosperar la búsqueda me radicaré en Zona aledaña del trabajo
+ <br>Security_code : bxmz9
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.29.125.58<br>
+ <br>REF : TM-2
+ <br>Nombre : Julio
+ <br>Apellido : Bolivar
+ <br>Cargo : Tecnico Mecanico
+ <br>Direccion : lavalle 477 piso 1
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 1161362592
+ <br>Email : julio_bolivar40@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buen dia amigos de Sebgon. Le escribo con la presente para que pueda observar mi Cv, a pesar de no tener una amplia experiencia en el mundo de la instrumentación Adquirí un importante conocimiento en el proceso de mis pasantias en PDVSA GAS la mayor industria Petrolera en Venezuela. Como profesional, quiero centrar mi carrera en el área de la instrumentación y control de procesos industriales, mantenimiento mecánico en industrias, siempre ha sido mi meta obtener mi crecimiento profesional en una planta industrial asumiendo retos. Ante cualquier vacante o interés estoy a la orden. Saludos.
+ <br>Security_code : msdnj
+ <br>Send : Enviar
+ <br>
+---------------
+

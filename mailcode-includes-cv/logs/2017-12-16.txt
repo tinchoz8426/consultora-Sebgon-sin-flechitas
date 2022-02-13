@@ -1,0 +1,116 @@
+Address : 66.249.85.7<br>
+ <br>REF : TM-2
+ <br>Nombre : Ezequiel
+ <br>Apellido : Toloza
+ <br>Cargo : Oficial multiple electromecanico
+ <br>Direccion : Paso 18
+ <br>Ciudad : Quilmes
+ <br>Telefono : 1137009023
+ <br>Email : mariaqac3@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenos dias quisiera postularme y presentar mi curriculum con titulo personalmente 
+Desde ya muchas gracias
+ <br>Security_code : Xjykx
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.9<br>
+ <br>REF : TM-2
+ <br>Nombre : Ezequiel
+ <br>Apellido : Toloza
+ <br>Cargo : Oficial multiple electromecanico
+ <br>Direccion : Paso 18
+ <br>Ciudad : Quilmes
+ <br>Telefono : 1137009023
+ <br>Email : mariaqac3@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenos dias quisiera postularme y presentar mi curriculum con titulo personalmente 
+Desde ya muchas gracias
+ <br>Security_code : Srjzc
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.231.174.50<br>
+ <br>REF : JPER-1
+ <br>Nombre : Julian
+ <br>Apellido : Sobol
+ <br>Cargo : Jefe de personal
+ <br>Direccion : Boedo 137
+ <br>Ciudad : CABA
+ <br>Telefono : (011)1566872185
+ <br>Email : juliansobol@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : A quien corresponda,
+Soy Julián Sobol y estoy realmente interesado en el trabajo. Cuento con basta experiencia para realizarlo de la manera más eficaz.
+ <br>Security_code : 8gn9n
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.231.174.50<br>
+ <br>REF : JPER-1
+ <br>Nombre : Julian
+ <br>Apellido : Sobol
+ <br>Cargo : Jefe de personal
+ <br>Direccion : Boedo 137
+ <br>Ciudad : CABA
+ <br>Telefono : (011)1566872185
+ <br>Email : juliansobol@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : A quien corresponda,
+Soy Julián Sobol y estoy realmente interesado en el trabajo. Cuento con basta experiencia para realizarlo de la manera más eficaz.
+ <br>Security_code : kjxbs
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.201.22.150<br>
+ <br>REF : TM-2
+ <br>Nombre : BERNARDO
+ <br>Apellido : MARCHENA
+ <br>Cargo : TM-2
+ <br>Direccion : ANACO
+ <br>Ciudad : ANACO
+ <br>Telefono : 58 4128779355
+ <br>Email : marchena230779@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : ESTOY DISPUESTO A RECIDENCIARME EN CUALQUIER PARTE DEL PAIS Y ME ADAPTO FACILMENTE A CUALQUIER AMBIENTE DE TRABAJO
+ <br>Security_code : tdw4f
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.11<br>
+ <br>REF : ACO-1
+ <br>Nombre : Edelwis Alfonso
+ <br>Apellido : Subero Rojas
+ <br>Cargo : Analista comercio internacional
+ <br>Direccion : José inagcio Gorriti 3552
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 1127116681
+ <br>Email : edelwis.subero@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Disponible ya para trabajar con ganas de compartir mis conocimientos a la orden de la empresa
+ <br>Security_code : yqvyk
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.9<br>
+ <br>REF : ACO-1
+ <br>Nombre : Edelwis Alfonso
+ <br>Apellido : Subero Rojas
+ <br>Cargo : Analista comercio internacional
+ <br>Direccion : José inagcio Gorriti 3552
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 1127116681
+ <br>Email : edelwis.subero@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Disponible ya para trabajar con ganas de compartir mis conocimientos a la orden de la empresa
+ <br>Security_code : Xqvyk
+ <br>Send : Enviar
+ <br>
+---------------
+

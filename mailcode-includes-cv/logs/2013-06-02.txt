@@ -1,0 +1,17 @@
+Address : 190.179.182.36
+Nombre : veronica
+Apellido : salanitro
+Cargo : planificacion turistica
+Direccion : buenos aires 98 godoy cruz
+Ciudad : mendoza
+Telefono : 0261-156128338
+Email : veronika.salanitro@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Busco trabajo con buena remuneración. Tengo estudios, realizados en Isteec, hablo Español, Ingles y Portugués. Busco contrato fijo o a termino indefinido. Con disponibilidad de horarios y movilidad propia. Comunicarse a veronika.salanitro@hotmail.com. 
+Muchas gracias
+Saludos
+Security_code : nmkz9
+Send : Enviar
+
+---------------
+

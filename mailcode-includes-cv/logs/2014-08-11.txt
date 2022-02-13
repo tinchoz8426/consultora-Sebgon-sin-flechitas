@@ -1,0 +1,169 @@
+Address : 200.13.45.175
+REF : GERENTE-DE-PRODUCCION
+Nombre : Claudio
+Apellido : Antunez
+Cargo : gerente de producción
+Direccion : Mendoza 1222
+Ciudad : San Jorge- Santa Fe
+Telefono : 0340615415950
+Email : antunezclaudio@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : He visto la Oferta Laboral publicada en su pagina WEB y la misma me resultó de gran interés. Por este motivo, les hago llegar mi Currículum Vitae, a fin de ser tenido en cuenta como candidato.
+Quedo a su disposición para ampliar cualquier información necesaria.
+Cordialmente,
+
+Claudio Antunez
+San Jorge, Santa Fe
+
+Security_code : w8z3z
+Send : Enviar
+
+---------------
+
+Address : 190.172.219.59
+Nombre : Miguel
+Apellido : LAGORIO
+Cargo : COMPRADOR DE HACIENDA / JEFE DE VTAS
+Direccion : GARCIA LORCA 4548
+Ciudad : ITUZAINGO / LELOIR
+Telefono : 4-6215618
+Email : agro-campos1@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : comp de hacienda .superv  de ventas o jefe de ventas de prod. de consumo masivo.
+Security_code : 29ryw
+Send : Enviar
+
+---------------
+
+Address : 200.123.162.101
+Nombre : Maria Lila
+Apellido : de la Riva
+Cargo : Asistente/Recepcionista/Administrativa/At Clientes
+Direccion : América 209 3º B
+Ciudad : Haedo
+Telefono : 1130468335
+Email : liladlriva78@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : 11 Agosto 2014
+
+
+Estimados Sres.:
+ 
+ 
+Tengo el agrado de dirigirme a Uds. a fin de hacerles llegar mi curriculum vitae (en formato DOC y PDF), donde detallo datos personales, educativos y laborales.
+ 
+He sido empleada administrativa y asistente por más de 10 años y actualmente deseo alcanzar un empleo motivador, cercano a mi domicilio, donde pueda aportar mis conocimientos y adquirir otros mediante mi actitud proactiva y dinámica, además de ser parte de un grupo humano donde prevalezcan por sobre todo el respeto y la armonía.
+
+Desde ya les agradezco me tengan en cuenta para futuras búsquedas laborales.
+ 
+Saluda atentamente,
+ 
+ 
+Ma. Lila de la Riva
+Security_code : gxc96
+Send : Enviar
+
+---------------
+
+Address : 181.166.126.172
+Nombre : Lorena
+Apellido : Boyano
+Cargo : Arquitecta Comercial
+Direccion : Belgrano 4506 7b.
+Ciudad : Buenos Aires
+Telefono : 1565144936
+Email : arq_lboyano@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Les envio mi curriculum, ya que realmente necesito trabajar.
+Saludo atte.
+Lorena Boyano
+Security_code : xp73w
+Send : Enviar
+
+---------------
+
+Address : 181.29.79.40
+REF : ADMINISTRATIVA-DE-COMPRAS
+Nombre : Pilar
+Apellido : Sánchez Caparròs
+Cargo : Marketing; Comercial; Ejecutiva; Atención : administrativa
+Direccion : Zapiola
+Ciudad : Castelar
+Telefono : 1565353758
+Email : pil77_sc@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Poder desempeñarme en el área o en las tareas tanto para crecimiento y desarrollo de la empresa como en lo personal.
+Security_code : 3rsrf
+Send : Enviar
+
+---------------
+
+Address : 190.55.90.195
+Nombre : GERARDO
+Apellido : ORTIGUEIRA
+Cargo : INDISTINTO
+Direccion : AV. CORDOBA 2910 7 A
+Ciudad : C.A.B.A.
+Telefono : 1562589033
+Email : g.ortigueira@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados:
+Adjunto una copia de mi currículum vitae, en donde encontrarán mis antecedentes laborales y datos personales. Realmente no estoy en la búsqueda de un puesto determinado, sino que solo deseo trabajar. 
+Por cualquier consulta que  crean necesaria, me encuentro a v/disposición.
+ 
+Muchas gracias.-
+ 
+ 
+Gerardo A. Ortigueira
+ 
+
+Security_code : fwhm9
+Send : Enviar
+
+---------------
+
+Address : 190.138.149.80
+Nombre : diego emmanuel
+Apellido : ferreyre
+Cargo : atencion al cliente 
+Direccion : pje savio 1816 p2 dto3
+Ciudad : rosario
+Telefono : 0341-156853434
+Email : diego88ferreyra@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : muchas gracias
+Security_code : gmjb7
+Send : Enviar
+
+---------------
+
+Address : 200.43.138.246
+Nombre : Patricia Gisela
+Apellido : Fernandez
+Cargo : Ingeniero Agronomo
+Direccion : Belgrano s/n
+Ciudad : Tostado
+Telefono : 0349115691306
+Email : patriciafernandez_18@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Les envío mi curriculum vitae para poder formar parte de su base de datos.
+Security_code : pnh53
+Send : Enviar
+
+---------------
+
+Address : 190.104.37.51
+Nombre : Walter
+Apellido : Sanchez
+Cargo : A definir
+Direccion : Azamor 1784
+Ciudad : Lomas de zsamora
+Telefono : 1157735235
+Email : walterd.sanchez@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : curriculum
+Security_code : fmskc
+Send : Enviar
+
+---------------
+

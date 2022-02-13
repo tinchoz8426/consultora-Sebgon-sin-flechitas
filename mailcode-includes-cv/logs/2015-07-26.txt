@@ -1,0 +1,79 @@
+Address : 181.90.66.82
+Nombre : david
+Apellido : savia
+Cargo : operario
+Direccion : sancho panza 2563
+Ciudad : rosario
+Telefono : 3412522434
+Email : saviadavid@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : hola estoy en la búsqueda de un  empleo que me asegure  estabilidad económica , me encuentro trabajando para una empresa de seguridad y no estoy para nada conforme , espero ustedes puedan encontrar algo para mi , soy responsable puntual y me gusta trabajar de manera grupal. 
+Security_code : xpydn
+Send : Enviar
+
+---------------
+
+Address : 181.90.79.201
+Nombre : LOURDES ELIANA CELESTE
+Apellido : TOTH
+Cargo : CONTADOR PUBLICO
+Direccion : LIBERTAD 1426
+Ciudad : APOSTOLES- MISIONES
+Telefono : 376-4292507
+Email : cpthlourdes@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenos dias:
+Me dirijo a ustedes con el objetivo de que tengan en cuenta mi curriculum para algun puesto acorde a mi perfil que se este buscando en la Cuidad de Iguazu- Misiones.
+Como tambien en Posadas-Misiones.
+Saludos
+Cra. Toth Lourdes
+Security_code : 79dg4
+Send : Enviar
+
+---------------
+
+Address : 186.22.21.36
+Nombre : Rodrigo Cesar
+Apellido : Ponce
+Cargo : Tecnico Higiene y Seguridad
+Direccion : Zuviria 5153
+Ciudad : C.A.B.A
+Telefono : 1130482512
+Email : rodrigocesarponce@outlook.es
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola, soy Rodrigo y estoy interesado en ingresar a su empresa. No estoy recibido pero estoy estudiando la carrera de Técnico en Higiene y Seguridad en el trabajo. Mis objetivos son: aprender mas sobre esta profesion y crecer laboralmente. Desde ya muchas gracias.
+Security_code : V2VBV
+Send : Enviar
+
+---------------
+
+Address : 186.22.21.36
+Nombre : Rodrigo Cesar
+Apellido : Ponce
+Cargo : Tecnico Higiene y Seguridad
+Direccion : Zuviria 5153
+Ciudad : C.A.B.A
+Telefono : 1130482512
+Email : rodrigocesarponce@outlook.es
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola, soy Rodrigo y estoy interesado en ingresar a su empresa. No estoy recibido pero estoy estudiando la carrera de Técnico en Higiene y Seguridad en el trabajo. Mis objetivos son: aprender mas sobre esta profesion y crecer laboralmente. Desde ya muchas gracias.
+Security_code : v2vbv
+Send : Enviar
+
+---------------
+
+Address : 186.22.21.36
+Nombre : Rodrigo Cesar
+Apellido : Ponce
+Cargo : Tecnico Higiene y Seguridad
+Direccion : Zuviria 5153
+Ciudad : C.A.B.A
+Telefono : 1130482512
+Email : rodrigocesarponce@outlook.es
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola, soy Rodrigo y estoy interesado en ingresar a su empresa. No estoy recibido pero estoy estudiando la carrera de Técnico en Higiene y Seguridad en el trabajo. Mis objetivos son: aprender mas sobre esta profesion y crecer laboralmente. Desde ya muchas gracias.
+Security_code : h3fth
+Send : Enviar
+
+---------------
+

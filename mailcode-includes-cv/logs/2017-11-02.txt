@@ -1,0 +1,560 @@
+Address : 186.22.23.230<br>
+ <br>Nombre : Gabriel Alejandro
+ <br>Apellido : Montuati
+ <br>Cargo : administracion
+ <br>Direccion : jose e rodo 5583
+ <br>Ciudad : capital federal
+ <br>Telefono : 1121838892 / 1555153592
+ <br>Email : gmontauti@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Sres Sebgon ; 
+Les envio por este medio mi cv actualizado para tenerme en cuenta para futuras busquedas laborales.
+Muchas Gracias 
+
+Gabriel Montauti
+ <br>Security_code : TPX4P
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.165.174.151<br>
+ <br>REF : JPER-1
+ <br>Nombre : Roberto
+ <br>Apellido : Quirico
+ <br>Cargo : Jefe de personal
+ <br>Direccion : Guardia Nacional, 225    4 C
+ <br>Ciudad : argentina
+ <br>Telefono : 1133774874
+ <br>Email : robertoquirico.rq@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Tengo muchisima experiencia
+ <br>Security_code : Zv535
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.47.187.102<br>
+ <br>REF : chr
+ <br>Nombre : braulio ramon 
+ <br>Apellido : dominguez ayala
+ <br>Cargo : chofer 
+ <br>Direccion : san martin 2420
+ <br>Ciudad : Quilmes
+ <br>Telefono : 1161352920 
+ <br>Email : braulio.ayala2372@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : estoy en busca de un empleo estable tengo esperiensia con 20 años de esperiensia en el rubro 
+ <br>Security_code : 7h5f
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.179.106.134<br>
+ <br>REF : VT
+ <br>Nombre : Miguel Alejandro
+ <br>Apellido : Salas
+ <br>Cargo : Vendedor T,ecnico
+ <br>Direccion : Mariano Santamaria 4274
+ <br>Ciudad : San Justo
+ <br>Telefono : 01144821403
+ <br>Email : miguel_buenosaires@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados Señores, si bien mí currículum es técnico, dispongo de amplios conocimientos y experiencia en comercialización, desarrollo de producto, generación de negocios.
+Me encuentro a vuestra disposición para ampliar información.
+Atentos saludos
+Miguel Alejandro Salas
+ <br>Security_code : hsvxz
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.23.193.248<br>
+ <br>REF : chr
+ <br>Nombre : DIEGO
+ <br>Apellido : BOISEN KRUSE
+ <br>Cargo : chofer de reparto
+ <br>Direccion : Arozarena 635
+ <br>Ciudad : Aldo Bonzi
+ <br>Telefono : 1562055388
+ <br>Email : diebkruse@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Envío  mi CV dispuesto a una entrevista personal cuando así lo requieran, gracias
+ <br>Security_code : fpzrs
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.23.193.248<br>
+ <br>REF : chr
+ <br>Nombre : DIEGO
+ <br>Apellido : BOISEN KRUSE
+ <br>Cargo : chofer de reparto
+ <br>Direccion : Arozarena 635
+ <br>Ciudad : Aldo Bonzi
+ <br>Telefono : 1562055388
+ <br>Email : diebkruse@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Envío  mi CV dispuesto a una entrevista personal cuando así lo requieran, gracias
+ <br>Security_code : fpzrs
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.22.125.106<br>
+ <br>REF : ACO-1
+ <br>Nombre : Federico
+ <br>Apellido : Ojeda
+ <br>Cargo : NALISTA DE COMERCIO INTERNACIONAL/EXTERIOR
+ <br>Direccion : Tte. Gral. J. D, Perón
+ <br>Ciudad : CABA
+ <br>Telefono : 91123153110
+ <br>Email : dfede182@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Adjunto CV para la busqueda de referencia. Gracias. saludos
+ <br>Security_code : s5mfy
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.47.136.48<br>
+ <br>REF : SP-1
+ <br>Nombre : Marcelo Daniel 
+ <br>Apellido : FLORES
+ <br>Cargo : SUPERVISOR DE PRODUCCION
+ <br>Direccion : CAVOUR  3006 piso 2 dto. b
+ <br>Ciudad : Lanús
+ <br>Telefono : 20837279
+ <br>Email : marcelodanielf512@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Solicito entrevista para el puesto requerido , me despido de usted atentamente .
+ <br>Security_code : mc2ny
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.129.185.27<br>
+ <br>REF : JPER-1
+ <br>Nombre : Pablo Matías
+ <br>Apellido : Frúmboli
+ <br>Cargo : Jefe de personal
+ <br>Direccion : Guevara 1137
+ <br>Ciudad : Capital Federal
+ <br>Telefono : 0249154667479
+ <br>Email : m.frumboli@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Soy Licenciado en Relaciones Internacionales y tengo experiencia laboral en el campo.
+ <br>Security_code : 5jmz3
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.141.198.69<br>
+ <br>REF : ACO
+ <br>Nombre : Eduardo German Ramiro
+ <br>Apellido : PACE
+ <br>Cargo : Administrativo
+ <br>Direccion : Sarmiento3865 planta baja A
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 1563771591
+ <br>Email : vinci75@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Adunto CV
+ <br>Security_code : 6jgxy
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.30.56.250<br>
+ <br>REF : ACO-1
+ <br>Nombre : Damian
+ <br>Apellido : Montes
+ <br>Cargo : Analista de comercio exterior
+ <br>Direccion : bolivar 2960
+ <br>Ciudad : Longchamps
+ <br>Telefono : 1561995864
+ <br>Email : damontes@rchozas.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Espero tener suerte.
+Saludos
+ <br>Security_code : t5xcw
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.141.200.206<br>
+ <br>REF : ACO
+ <br>Nombre : Gustavo
+ <br>Apellido : Acosta
+ <br>Cargo : Asistente de ventas
+ <br>Direccion : Mocoreta 4463
+ <br>Ciudad : San justo
+ <br>Telefono : 1141408034
+ <br>Email : Cupgus007@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas tardes envio a Ud mi curriculum para el puesto que figura
+ <br>Security_code : Pywpq
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.141.200.206<br>
+ <br>REF : ACO
+ <br>Nombre : Gustavo
+ <br>Apellido : Acosta
+ <br>Cargo : Asistente de ventas
+ <br>Direccion : Mocoreta 4463
+ <br>Ciudad : San justo
+ <br>Telefono : 1141408034
+ <br>Email : Cupgus007@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas tardes envio a Ud mi curriculum para el puesto que figura
+ <br>Security_code : pywpq
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.178.108.105<br>
+ <br>REF : ACO
+ <br>Nombre : Rosana Maria
+ <br>Apellido : Aguirre
+ <br>Cargo : Asistente comercial
+ <br>Direccion : 12 de agosto, 1040
+ <br>Ciudad : lomas de zamora
+ <br>Telefono : 42706061
+ <br>Email : roxana-aguirre@live.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me interesa formar parte de la empresa.
+ <br>Security_code : 7bxcn
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.195.13.134<br>
+ <br>REF : ACO
+ <br>Nombre : Lucia
+ <br>Apellido : Siquiroff
+ <br>Cargo : Asistente Comercial
+ <br>Direccion : Charcas 2926
+ <br>Ciudad : Ciudad Autónoma de Buenos Aires 
+ <br>Telefono : 1123010498
+ <br>Email : lusiquiroff@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : .
+ <br>Security_code : n6gp3
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.135.130.78<br>
+ <br>REF : ACO
+ <br>Nombre : Ana
+ <br>Apellido : ARDUINI
+ <br>Cargo : Asistente comercial
+ <br>Direccion : GUARANI 755
+ <br>Ciudad : EL PALOMAR
+ <br>Telefono : 1136151647
+ <br>Email : italiaapa@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados,
+
+He visto la Oferta Laboral publicada y la misma me resultó de gran interés. 
+Por este motivo, les hago llegar mi Currículum Vitae, a fin de ser tenido en cuenta como candidata.
+Quedo a su disposición para ampliar cualquier información necesaria.
+
+Cordialmente,
+Ana Arduini
+ <br>Security_code : swd89
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.16.12.171<br>
+ <br>Nombre : Laura Marcela
+ <br>Apellido : Grimoldi
+ <br>Cargo : Jefe de Finanzas
+ <br>Direccion : Olazabal 5226 1a
+ <br>Ciudad : capital federal
+ <br>Telefono : 1567187674
+ <br>Email : laura.grimoldi@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Adjunto CV para ser tenido en cuenta en las búsquedas afines a mi perfil
+ <br>Security_code : rvq53
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.95.145.100<br>
+ <br>REF : ACO-1
+ <br>Nombre : Deborah
+ <br>Apellido : Villagra
+ <br>Cargo : ANALISTA DE COMERCIO INTERNACIONAL/EXTERIOR
+ <br>Direccion : Mansilla y Scalabrini
+ <br>Ciudad : Capital federal
+ <br>Telefono : 91161123612
+ <br>Email : deborahnvillagra@gmail.com 
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Recursos Humanos:
+
+
+Mi nombre es Deborah Villagra, soy licenciada en Comercio Internacional y vivo en la Cuidad de Buenos Aires. Actuamente me encuentro buscando un
+
+Actuamente me encuentro buscando una nueva relación laboral de largo plazo. Estoy convencida que este es el momento de comenzar una nueva etapa de mi carrera en una empresa que me permita afrontar nuevos desafíos y me proveea posiblilidades de crecimiento personal y profesional.
+
+Durante los últimos años me focalicé en el área de Comercio Internacional con clientes regionales y globales en la industria IT y Siderúrgica. Como resultado de esto he logrado un destacado balance entre aspectos comerciales y de COMEX.
+
+Durante el último año he trabajado en Expand como Ejectiva Comercial para clientes regionales y locales dentro de la industrias industrias de consumo masivo. Desde el comienzo he logrado promover el éxito a través de expandir la cartera de clientes de la empresa.
+
+Anteriormente, trabajé para Batory Productos Metalúrgicos S.R.L como Analista de Comercio Exterior. Mi principal responsabilidad fue la de asegurar todas las etapas del proceso de importación de productos metalúrgicos para clientes globales. Este desafío me permitió consolidar mi carrera dentro del área de comercio internacional y fortalecer mis habilidades de comunicación en ambientes multiculturales.
+
+Me gustaría solicitar una entrevista ampliatoria a fin de discutir mi interés en su compañía. En caso de necesitar más información, por favor no dude en contactarse conmigo. 
+
+Gracias por su tiempo y una afectuosa consideración. 
+
+
+Atentamente, 
+
+Deborah Villagra
+
+ <br>Security_code : kfbmn
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.104.239.26<br>
+ <br>REF : SP-1
+ <br>Nombre : Rilso
+ <br>Apellido : Rojas
+ <br>Cargo : Supervisor de produccion
+ <br>Direccion : moreno 786
+ <br>Ciudad : capital federal
+ <br>Telefono : 1157637475
+ <br>Email : rilsof@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : postulacion para empleo
+ <br>Security_code : 89z6g
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.45.90.79<br>
+ <br>REF : SP-1
+ <br>Nombre : Pablo Ezequiel
+ <br>Apellido : Mega
+ <br>Cargo : Supervisor de Producción
+ <br>Direccion : General Mosconi 3536
+ <br>Ciudad : Merlo
+ <br>Telefono : 1123321564
+ <br>Email : ezemega5@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados:
+                De mi consideración con relación a la búsqueda laboral, es mi intención brindarles mis servicios; por tal motivo adjunto a la presente mis datos personales y antecedentes laborales.
+
+Aprovecho para saludarles muy atentamente. 
+ 
+Ezequiel Mega
+Teléfono Celular: 112332-1564
+ <br>Security_code : 3dnds
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.22.77.237<br>
+ <br>REF : ACO-1
+ <br>Nombre : Julián
+ <br>Apellido : Danura
+ <br>Cargo : ANALISTA DE COMERCIO INTERNACIONAL/EXTERIOR
+ <br>Direccion : Sánchez de Bustamante 1989
+ <br>Ciudad : CABA
+ <br>Telefono : 02474-15688392
+ <br>Email : juliandanura@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Teléfono fijo: 011-3971-8093
+Celular: 02474-15688392
+ <br>Security_code : 5brc2
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.49.200.38<br>
+ <br>REF : Tectron
+ <br>Nombre : Aguirre
+ <br>Apellido : Julian
+ <br>Cargo : Tecnico en mantenimiento
+ <br>Direccion : aguirre__julian@hotmail.com
+ <br>Ciudad : Longchamps
+ <br>Telefono : 1530903562
+ <br>Email : aguirre__julian@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me interesa la propuesta ..tengo un año de experiencia en mantenimiento como ayudante electrico en planta volkswagem
+ <br>Security_code : 9cb5t
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.49.200.38<br>
+ <br>REF : Tectron
+ <br>Nombre : Aguirre
+ <br>Apellido : Julian
+ <br>Cargo : Tecnico en mantenimiento
+ <br>Direccion : aguirre__julian@hotmail.com
+ <br>Ciudad : Longchamps
+ <br>Telefono : 1530903562
+ <br>Email : aguirre__julian@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me interesa la propuesta ..tengo un año de experiencia en mantenimiento como ayudante electrico en planta volkswagem
+ <br>Security_code : 9cb5t
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.119.52.162<br>
+ <br>REF : VT
+ <br>Nombre : Ariel
+ <br>Apellido : Caccia
+ <br>Cargo : Vendedor Técnico
+ <br>Direccion : Ruiz de Los Llanos 1447, Depto 5
+ <br>Ciudad : Capital Federal
+ <br>Telefono : 15 42646680
+ <br>Email : arielcaccia@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : .
+ <br>Security_code : rk5cd
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.49.200.38<br>
+ <br>Nombre : Aguirre
+ <br>Apellido : Julian
+ <br>Cargo : Tecnico en mantenimiento
+ <br>Direccion : Belgrano 1726
+ <br>Ciudad : Longchamps
+ <br>Telefono : 1530903562
+ <br>Email : aguirre__julian@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : .
+ <br>Security_code : Sq45q
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 24.232.42.181<br>
+ <br>REF : ACO
+ <br>Nombre : LILIANA
+ <br>Apellido : GIACOBBE
+ <br>Cargo : Asistente Comercial
+ <br>Direccion : Arce 807
+ <br>Ciudad : Caba
+ <br>Telefono : 15 5044 5044
+ <br>Email : liliana.giacobbe@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados,
+
+Vista la Oferta Laboral Asistente Comercial, les hago llegar mis datos personales y profesionales en Currículum Vitae a fin de ser tenido en cuenta como candidato.
+
+Con la convicción de poseer el perfil requerido para un muy buen desempeño en el cargo a cubrir, quedo a entera disposición para hacerle llegar, sea en una entrevista personal o por el medio que se me indique, las ampliaciones y/o la documentación probatoria correspondiente.
+
+Esperando una respuesta positiva, los saluda atentamente,
+
+LILIANA GIACOBBE        
+ <br>Security_code : ptr28
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.122.17.188<br>
+ <br>Nombre : rrg
+ <br>Apellido : regerg
+ <br>Cargo : gegeg
+ <br>Direccion : eeerg
+ <br>Ciudad : ererg
+ <br>Telefono : 5727527
+ <br>Email : ewrrew@dfd.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : rtwqrtwerq
+ <br>Security_code : ztb2c
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.18.139.162<br>
+ <br>REF : JPER-1
+ <br>Nombre : Kiril
+ <br>Apellido : Fernandez Mendizabal
+ <br>Cargo : Jefe de Personal
+ <br>Direccion : Rivadavia 2986
+ <br>Ciudad : Capital Federal
+ <br>Telefono : 1131118180
+ <br>Email : kabelfermen@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Adjunto CV para su revision.Gracias
+ <br>Security_code : 663pp
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.208.11.105<br>
+ <br>REF : EP-1
+ <br>Nombre : lewis
+ <br>Apellido : Rodriguez
+ <br>Cargo : ENCARGADO DE PRODUCCIÓN EP1
+ <br>Direccion : Av Callao 341
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : +54 911 3400 6715
+ <br>Email : lewispaul1994@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : remuneracion pretendida 20.000 a 24.000 pesos
+ <br>Security_code : ndb8h
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.176.181.144<br>
+ <br>REF : VT
+ <br>Nombre : Jeremias
+ <br>Apellido : di Pasquo Gal
+ <br>Cargo : Vendedor tecnico
+ <br>Direccion : sarmiento 475
+ <br>Ciudad : merlo 
+ <br>Telefono : 1566213066
+ <br>Email : jere77vks@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Les queria dejar mi CV para esta busqueda, desde ya muchas gracias
+ <br>Security_code : yxwb3
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 179.41.189.83<br>
+ <br>Nombre : Alejandro 
+ <br>Apellido : Caballero
+ <br>Cargo : Supervisor / Programador ( electrónica)
+ <br>Direccion : La Fraternidad 770
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : (011)15-3519-1359
+ <br>Email : caballeroalejandro85@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Tanto la experiencia paralela a mi carrera, como licenciado en el rubro electrónico, como asi tambien el esfuerzo por superarme, han hecho de mi un gran profesional, con mucha fuerza de voluntad para continuar mejorando y aprendiendo cosas nuevas.
+Soy una persona que se auto supera continuamente, ya que no soy conformista.
+Se interpretar lo que desea el cliente, como así también las necesidades de la empresa.
+ <br>Security_code : km87x
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.195.35.142<br>
+ <br>REF : ACO
+ <br>Nombre : vanessa
+ <br>Apellido : gotopo
+ <br>Cargo : asistente comercial
+ <br>Direccion : guatemala
+ <br>Ciudad : buenos aires
+ <br>Telefono : 1532011303
+ <br>Email : vanessagotopo@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola, me gustaria postularme para la vacante de asesor comercial.
+ <br>Security_code : p4ftx
+ <br>Send : Enviar
+ <br>
+---------------
+

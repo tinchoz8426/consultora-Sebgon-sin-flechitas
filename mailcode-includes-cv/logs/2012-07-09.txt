@@ -1,0 +1,59 @@
+Address : 190.174.144.130
+REF : supervisor-seguridad
+Nombre : nicolas 
+Apellido : serrano
+Cargo : supervisor de seguridad
+Direccion : solis 945
+Ciudad : hurlingham
+Telefono : 1544784642
+Email : serrano_nico@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Por el presente me comunico con ustedes a fin de hacerles llegar mi cv.
+ Para estar en su base de datos y ser tenido en cuenta en futuras búsquedas de personal desde ya muchas gracias.
+Atte. Lic. Nicolás Serrano
+
+Security_code : ry3j8
+Send : Enviar
+
+---------------
+
+Address : 190.174.144.130
+Nombre : nicolas
+Apellido : serrano
+Cargo : turismo
+Direccion : solis 945
+Ciudad : hurlingham
+Telefono : 1544784642
+Email : serrano_nico@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Por el presente me comunico con ustedes a fin de hacerles llegar mi cv.
+ Para estar en su base de datos y ser tenido en cuenta en futuras búsquedas de personal desde ya muchas gracias.
+Atte. Lic. Nicolás Serrano
+
+Security_code : r43sy
+Send : Enviar
+
+---------------
+
+Address : 186.18.177.75
+Nombre : Hernan Alejandro
+Apellido : Neira
+Cargo : Administrativo, vendedor, cadete
+Direccion : miramar 4367
+Ciudad : Capital Federal
+Telefono : 1564958337
+Email : hernanneira@live.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : At. Recursos Humanos:
+Mi nombre es Hernan, tengo 19 años.
+Estoy recibido de la secundaria con el título de Perito Mercantil con Orientación en Computación.
+Estoy buscando trabajo para poder dedicar tiempo al ámbito laboral y poder desarrollar mis estudios universitarios.  
+Me gusta el trato con la gente, tengo buena presencia y buena dicción. En cuanto al inglés, cuento con 5 años de estudios, lo que sería un inglés intermedio/avanzado.
+Cuento con experiencia laboral, la cual desarrollo en el curriculum que les adjunto.
+Muchas gracias. 
+
+Security_code : djxnt
+Send : Enviar
+
+---------------
+

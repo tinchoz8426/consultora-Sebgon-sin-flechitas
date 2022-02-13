@@ -1,0 +1,96 @@
+Address : 201.252.74.80<br>
+ <br>REF : SP-1
+ <br>Nombre : LUIS ALBERTO
+ <br>Apellido : Silva
+ <br>Cargo : Supervisor de Produccion- SP-1
+ <br>Direccion : A Storni 2842
+ <br>Ciudad : Garin
+ <br>Telefono : 011 15 23074065
+ <br>Email : luissilva2012@arnet.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : lUIS SILVA, Técnico Electromecanico, 55 años, Supervisor de producción en Industrias Plasticas por veinte años. Asus ordenes.
+DNI:14487926
+ <br>Security_code : gbjw5
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.252.74.80<br>
+ <br>REF : SP-1
+ <br>Nombre : LUIS ALBERTO
+ <br>Apellido : Silva
+ <br>Cargo : Supervisor de Produccion- SP-1
+ <br>Direccion : A Storni 2842
+ <br>Ciudad : Garin
+ <br>Telefono : 011 15 23074065
+ <br>Email : luissilva2012@arnet.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me postulo a la búsqueda de referencia, estoy a sus ordenes.
+DNI:14487926
+ <br>Security_code : n44v5
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.103.55.164<br>
+ <br>REF : JPER-1
+ <br>Nombre : Fernando
+ <br>Apellido : Artioli
+ <br>Cargo : Jefe de personal
+ <br>Direccion : Tucumán 861
+ <br>Ciudad : Las Rosas
+ <br>Telefono : 03471 15341528
+ <br>Email : fartioli@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Tengo disponibilidad para trasladarme, espero se me tenga en cuenta
+ <br>Security_code : Xqdgn
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 191.81.6.168<br>
+ <br>Nombre : nicolas americo
+ <br>Apellido : capellaro
+ <br>Cargo : soporte tecnico,maestranza
+ <br>Direccion : lagos 2127
+ <br>Ciudad : longchamps
+ <br>Telefono : 42336463
+ <br>Email : capellaro_Nicolas_2016@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : cv capellaro nicolas
+ <br>Security_code : gwrrd
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 191.85.156.251<br>
+ <br>REF : EP-1
+ <br>Nombre : Eugenia del Valle
+ <br>Apellido : Rojas Enez
+ <br>Cargo : EP-1
+ <br>Direccion : Presidente Luis Saenz Peña
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 1127231147
+ <br>Email : eu_rojas@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas tardes, adjunto CV para su vacante de empleo. Saludos
+ <br>Security_code : 3rrx5
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.44.76.48<br>
+ <br>Nombre : Luis
+ <br>Apellido : Stivanello
+ <br>Cargo : responsable de oficina tecnica
+ <br>Direccion : Quiroz 2285
+ <br>Ciudad : Ituzaingo
+ <br>Telefono : 1554982792
+ <br>Email : luisstiv@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Interés por el empleo, adjunto mi CV, Gracias.!!
+ <br>Security_code : 9rq7d
+ <br>Send : Enviar
+ <br>
+---------------
+

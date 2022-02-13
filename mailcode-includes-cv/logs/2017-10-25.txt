@@ -1,0 +1,414 @@
+Address : 190.191.164.112<br>
+ <br>REF : ACO
+ <br>Nombre : Maria Luisa
+ <br>Apellido : Curto
+ <br>Cargo : Asistente comercial
+ <br>Direccion : 44 N°829
+ <br>Ciudad : La Plata
+ <br>Telefono : (221) 616-4438
+ <br>Email : mluisacurto@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Quisiera ser tomada en cuenta para el puesto de Asistente Comercial. 
+ <br>Security_code : Wrbws
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.191.164.112<br>
+ <br>REF : ACO
+ <br>Nombre : Maria Luisa
+ <br>Apellido : Curto
+ <br>Cargo : Asistente comercial
+ <br>Direccion : 44 N°829
+ <br>Ciudad : La Plata
+ <br>Telefono : (221) 616-4438
+ <br>Email : mluisacurto@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Quisiera ser tomada en cuenta para el puesto de Asistente Comercial. 
+ <br>Security_code : wrbws
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.191.164.112<br>
+ <br>REF : ACO
+ <br>Nombre : Maria Luisa
+ <br>Apellido : Curto
+ <br>Cargo : Asistente comercial
+ <br>Direccion : 44 N°829
+ <br>Ciudad : La Plata
+ <br>Telefono : (221) 616-4438
+ <br>Email : mluisacurto@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Quisiera ser tomada en cuenta para el puesto de Asistente Comercial. 
+ <br>Security_code : wrbws
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.191.164.112<br>
+ <br>REF : ACO
+ <br>Nombre : Maria Luisa
+ <br>Apellido : Curto
+ <br>Cargo : ACO
+ <br>Direccion : 44 N°829
+ <br>Ciudad : La Plata
+ <br>Telefono : (221) 616-4438
+ <br>Email : mluisacurto@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Quisiera ser tomada en cuenta para el puesto de Asistente Comercial. 
+ <br>Security_code : wrbws
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.191.164.112<br>
+ <br>REF : ACO
+ <br>Nombre : Maria Luisa
+ <br>Apellido : Curto
+ <br>Cargo : ACO
+ <br>Direccion : 44 N°829
+ <br>Ciudad : La Plata
+ <br>Telefono : (221) 616-4438
+ <br>Email : mluisacurto@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Quisiera ser tomada en cuenta para el puesto de Asistente Comercial. 
+ <br>Security_code : hrck5
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.29<br>
+ <br>Nombre : Juan 
+ <br>Apellido : Ledesma 
+ <br>Cargo : Técnico electricista 
+ <br>Direccion : Juan jose passo 1455
+ <br>Ciudad : San miguel de tucuman
+ <br>Telefono : 3815531410
+ <br>Email : Ledesmajuanjose17@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Vi el anuncio de técnico electricista y estoy interesado
+ <br>Security_code : qzw7v
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.29<br>
+ <br>Nombre : Juan 
+ <br>Apellido : Ledesma 
+ <br>Cargo : Técnico electricista 
+ <br>Direccion : Juan jose passo 1455
+ <br>Ciudad : San miguel de tucuman
+ <br>Telefono : 3815531410
+ <br>Email : Ledesmajuanjose17@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Vi el anuncio de técnico electricista y estoy interesado
+ <br>Security_code : qzw7v
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.27<br>
+ <br>Nombre : Juan 
+ <br>Apellido : Ledesma 
+ <br>Cargo : Técnico electricista 
+ <br>Direccion : Juan jose passo 1455
+ <br>Ciudad : San miguel de tucuman
+ <br>Telefono : 3815531410
+ <br>Email : Ledesmajuanjose17@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Vi el anuncio de técnico electricista y estoy interesado
+ <br>Security_code : qZW7v
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.28<br>
+ <br>Nombre : Juan 
+ <br>Apellido : Ledesma 
+ <br>Cargo : Técnico electricista 
+ <br>Direccion : Juan jose passo 1455
+ <br>Ciudad : San miguel de tucuman
+ <br>Telefono : 3815531410
+ <br>Email : Ledesmajuanjose17@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estoy interesado por el anuncio de técnico electricista
+ <br>Security_code : 3qdc4
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.178.134.163<br>
+ <br>REF : chr
+ <br>Nombre : claudio
+ <br>Apellido : romano
+ <br>Cargo : chofer
+ <br>Direccion : defensa 1578
+ <br>Ciudad : aldo bonzi 
+ <br>Telefono : 1565043878
+ <br>Email : claudioromano89@outlook.es
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : hola buenos dias soy de aldo bonzi me queda serca tablada, tengo registros y se trabajar en deposito
+ <br>Security_code : v5dy4
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.178.134.163<br>
+ <br>REF : chr
+ <br>Nombre : claudio
+ <br>Apellido : romano
+ <br>Cargo : chofer
+ <br>Direccion : defensa 1578
+ <br>Ciudad : aldo bonzi 
+ <br>Telefono : 1565043878
+ <br>Email : claudioromano89@outlook.es
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : hola buenos dias soy de aldo bonzi me queda serca tablada, tengo registros y se trabajar en deposito
+ <br>Security_code : v5dy4
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.178.134.163<br>
+ <br>REF : chr
+ <br>Nombre : claudio
+ <br>Apellido : romano
+ <br>Cargo : chofer
+ <br>Direccion : defensa 1578
+ <br>Ciudad : aldo bonzi 
+ <br>Telefono : 1565043878
+ <br>Email : claudioromano89@outlook.es
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : hola buenos dias soy de aldo bonzi me queda serca tablada, tengo registros y se trabajar en deposito
+ <br>Security_code : wyrm8
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.178.134.163<br>
+ <br>REF : chr
+ <br>Nombre : claudio
+ <br>Apellido : romano
+ <br>Cargo : chofer
+ <br>Direccion : defensa 1578
+ <br>Ciudad : aldo bonzi 
+ <br>Telefono : 1565043878
+ <br>Email : claudioromano89@outlook.es
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : hola buenos dias soy de aldo bonzi me queda serca tablada, tengo registros y se trabajar en deposito
+ <br>Security_code : bcwj5
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.22.85.215<br>
+ <br>REF : chr
+ <br>Nombre : fernando ariel
+ <br>Apellido : montenegro
+ <br>Cargo : chofer
+ <br>Direccion : ferraroty 437
+ <br>Ciudad : monte grande
+ <br>Telefono : 20861664
+ <br>Email : guadalupe18lu@hotmail.coml
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : hola me interesa el puesto ya que cuento con documentación al dia
+ <br>Security_code : 872x2
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.255.1.197<br>
+ <br>Nombre : soledad
+ <br>Apellido : acuña
+ <br>Cargo : comercial. administración, marketing 
+ <br>Direccion : Las heras 1424
+ <br>Ciudad : Ituzaingo
+ <br>Telefono : 011-1562690031
+ <br>Email : soledadacuna150@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenos días. Me encuentro buscando trabajo. Los últimos 12 años estuve en distintos sectores de la empresa Telecom Personal. Atención al cliente, marketing y  ventas. Adjunto mi CV donde figura con detalle las tareas especificas que realizaba. 
+Gracias y espero que mis conocimientos les sirvan para cubrir alguna necesidad presentada. 
+ <br>Security_code : dt7hx
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 200.10.161.5<br>
+ <br>REF : chr
+ <br>Nombre : Claudio Gaston
+ <br>Apellido : Ruiz
+ <br>Cargo : chofer de Reparto
+ <br>Direccion : Scalabrini Ortiz 1288
+ <br>Ciudad : Merlo
+ <br>Telefono : 1551635573
+ <br>Email : gastonchapy@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados,
+Vista la Oferta Laboral Chofer les hago llegar mis datos personales y profesionales en Currículum Vitae a fin de ser tenido en cuenta como candidato.
+Con la convicción de poseer el perfil requerido para un muy buen desempeño en el cargo a cubrir, quedo a entera disposición para hacerle llegar, sea en una entrevista personal o por el medio que se me indique, las ampliaciones y/o la documentación probatoria correspondiente.
+Esperando una respuesta positiva lo saluda atentamente,
+ Claudio Gastón Ruiz
+
+
+ <br>Security_code : s3hc8
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.143.136.240<br>
+ <br>Nombre : Micaela
+ <br>Apellido : Ibañez
+ <br>Cargo : Todos
+ <br>Direccion : Martínez Melo 1969
+ <br>Ciudad : Moreno
+ <br>Telefono : 1132196744
+ <br>Email : Mica06ibanez@live.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Busco un trabajo proactivo y dinamico, que pueda desarrollar mis conocimientos como a si también seguir avanzando cada día en lo laboral.
+ <br>Security_code : q86zb
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.143.136.240<br>
+ <br>Nombre : Micaela
+ <br>Apellido : Ibañez
+ <br>Cargo : Todos
+ <br>Direccion : Martínez Melo 1969
+ <br>Ciudad : Moreno
+ <br>Telefono : 1132196744
+ <br>Email : Mica06ibanez@live.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Busco un trabajo proactivo y dinamico, que pueda desarrollar mis conocimientos como a si también seguir avanzando cada día en lo laboral.
+ <br>Security_code : q86zb
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.143.136.240<br>
+ <br>Nombre : Micaela
+ <br>Apellido : Ibañez
+ <br>Cargo : Todos
+ <br>Direccion : Martínez Melo 1969
+ <br>Ciudad : Moreno
+ <br>Telefono : 1132196744
+ <br>Email : Mica06ibanez@live.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Busco un trabajo proactivo y dinamico, que pueda desarrollar mis conocimientos como a si también seguir avanzando cada día en lo laboral.
+ <br>Security_code : dwq2v
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.143.136.240<br>
+ <br>Nombre : Micaela
+ <br>Apellido : Ibañez
+ <br>Cargo : Todos
+ <br>Direccion : Martínez Melo 1969
+ <br>Ciudad : Moreno
+ <br>Telefono : 1132196744
+ <br>Email : Mica06ibanez@live.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Busco un trabajo proactivo y dinamico, que pueda desarrollar mis conocimientos como a si también seguir avanzando cada día en lo laboral.
+ <br>Security_code : 3spch
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.143.136.240<br>
+ <br>Nombre : Micaela
+ <br>Apellido : Ibañez
+ <br>Cargo : Todos
+ <br>Direccion : Martínez Melo 1969
+ <br>Ciudad : Moreno
+ <br>Telefono : 1132196744
+ <br>Email : Mica06ibanez@live.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Busco un trabajo proactivo y dinamico, que pueda desarrollar mis conocimientos como a si también seguir avanzando cada día en lo laboral.
+ <br>Security_code : Vw7vk
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.143.136.240<br>
+ <br>Nombre : Micaela
+ <br>Apellido : Ibañez
+ <br>Cargo : Todos
+ <br>Direccion : Martínez Melo 1969
+ <br>Ciudad : Moreno
+ <br>Telefono : 1132196744
+ <br>Email : Mica06ibanez@live.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Busco un trabajo proactivo y dinamico, que pueda desarrollar mis conocimientos como a si también seguir avanzando cada día en lo laboral.
+ <br>Security_code : Z6mzz
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.143.136.240<br>
+ <br>Nombre : Micaela
+ <br>Apellido : Ibañez
+ <br>Cargo : Todos
+ <br>Direccion : Martínez Melo 1969
+ <br>Ciudad : Moreno
+ <br>Telefono : 1132196744
+ <br>Email : Mica06ibanez@live.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Busco un trabajo proactivo y dinamico, que pueda desarrollar mis conocimientos como a si también seguir avanzando cada día en lo laboral.
+ <br>Security_code : v836n
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.95.249.174<br>
+ <br>Nombre : Julián 
+ <br>Apellido : Pilot
+ <br>Cargo : Técnico en higiene y seguridad
+ <br>Direccion : Pasaje Melián 4516 "C" 
+ <br>Ciudad : Rosario
+ <br>Telefono : 153166754
+ <br>Email : julianpilot@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados, me encuentro recién recibido en la carrera de técnico superior en: bioseguridad, higiene y seguridad laboral.
+Ofrezco mi dedicación y conocimiento a fin de desarrollar con la máxima idoneidad posible las tareas que se me encomienden.
+Saludo a usted atentamente.
+      Julián Pilot.
+
+ <br>Security_code : sKxpy
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 200.5.65.242<br>
+ <br>REF : JPER-1
+ <br>Nombre : Alejandro Javier
+ <br>Apellido : Junik
+ <br>Cargo : Jefe de Personal
+ <br>Direccion : Los Nardos 237
+ <br>Ciudad : Escobar
+ <br>Telefono : 03484-488749
+ <br>Email : alejandrojunik@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Envio CV a fin de ser tenido en cuenta para la busqueda de Jefe de Personal.
+ <br>Security_code : g4zjb
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.55.112.89<br>
+ <br>REF : ROT-1
+ <br>Nombre : NORBERTO ADRIAN
+ <br>Apellido : ESPOSITO
+ <br>Cargo : RESPONSABLE DE OFICINA TECNICA
+ <br>Direccion : BOGADO 3291
+ <br>Ciudad : CASTELAR
+ <br>Telefono : 1557001301
+ <br>Email : naeesposito@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas tardes soy Ing Mecánico y considero que reuno todos los conocimientos que solicitan y puedo aportar toda mi experiencia ya que trabajo con punzonadoras, plegadoras, etc
+ <br>Security_code : 6c3cw
+ <br>Send : Enviar
+ <br>
+---------------
+

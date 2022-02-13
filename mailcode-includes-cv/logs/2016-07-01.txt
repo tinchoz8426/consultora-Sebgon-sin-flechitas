@@ -1,0 +1,207 @@
+Address : 190.192.154.140<br>
+ <br>REF : OEL
+ <br>Nombre : CARLOS OSVALDO 
+ <br>Apellido : BRIZUELA
+ <br>Cargo : ELECTRISISTA
+ <br>Direccion : AV DE LOS INCAS 4381  1B
+ <br>Ciudad : CABA
+ <br>Telefono : 15-4-158-8179 cel  , 4-523-2595 part.
+ <br>Email : carlos.brizuela@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Tengo el agrado de dirigirme a udes a fin de postularme al puesto de referencia,sin mas saludo atte.-
+ <br>Security_code : 5jx5h
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.110.179.168<br>
+ <br>Nombre : Carlos Damian 
+ <br>Apellido : Sander
+ <br>Cargo : Encargado/operario/mozo
+ <br>Direccion : Madre Teresa de Calcuta 2416
+ <br>Ciudad : Cañuelas
+ <br>Telefono : 11 6192 2837
+ <br>Email : carlosdsander@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : En mis comienzos me desempeñé como mozo, responsable de barra llegando a puestos de responsabilidades mayores como encargado de salón y metre. En gastronomía tengo experiencia de 12 años. Busqué nuevos desafíos, por lo que cambié de rubro. También, por mi desempeño, responsabilidad y compromiso, me han puesto a cargo de puestos importantes y he tenido personal a cargo.  Hoy me encuentro en la búsqueda de un empleo que me permita crecer en lo profesional y personal, permitiendo además, una mejora significativa en la economía familiar.
+ <br>Security_code : vf5v8
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.170.200.136<br>
+ <br>REF : GTEP
+ <br>Nombre : Patricio Martín
+ <br>Apellido : Proasi
+ <br>Cargo : Gerente de Planta
+ <br>Direccion : Nuñez 3649 piso 9 depto. A
+ <br>Ciudad : CABA
+ <br>Telefono : 03364674665
+ <br>Email : pproasi@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : De una amplia trayectoria, liderazgo, capacidad de gestión y conocimientos técnicos en el área industrial y logística; en el desarrollo, montaje, reconversión y start up de nuevos proyectos operativos de diferentes rubros, en distintas locaciones geográficas, y bajo distintos contextos y objetivos de negocios.
+Bajo un permanente escenario de alta proactividad, compromiso y perseverancia que me caracteriza, he formado equipos de trabajo profesionales de un alto grado rendimiento y compromiso con sus objetivos. He alcanzado resultados de productividad, costos, cumplimiento presupuestario, seguridad y calidad por encima de las metas planteadas y bajo la implementación de diferentes sistemas de gestión corporativos.
+Estos logros obtenidos dentro de procesos de profundas transformaciones y cambios culturales, de climas internos de alta complejidad derivados de contextos de fusiones, adquisiciones y ventas de Empresas. Involucrando, negociando y logrando el acompañamiento sindical, evitando conflictos que pudieran poner en riesgo el cumplimiento de los resultados del negocio.   
+
+ <br>Security_code : qqdxs
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.117.5.76<br>
+ <br>REF : OEL
+ <br>Nombre : Marcelino jorge eduardo
+ <br>Apellido : Molina
+ <br>Cargo : Electricista 
+ <br>Direccion : Ojo del Salado 122
+ <br>Ciudad : Villa celina
+ <br>Telefono : 1134579790
+ <br>Email : marcejormol@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Remuneración pretendida $15000 mensuales 
+ <br>Security_code : m9gnw
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.244.234.247<br>
+ <br>Nombre : María Macarena 
+ <br>Apellido : Navarré
+ <br>Cargo : Administrativa
+ <br>Direccion : 25 de Mayo 337 4° B
+ <br>Ciudad : Quilmes
+ <br>Telefono : 1149471640
+ <br>Email : macarenanavarre@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : De mi consideración:
+ 
+Tengo el agrado de dirigirme a Usted a fin de enviarle mi curriculum vitae.
+Cuento con experiencia laboral en el área administrativa, desarrollando tareas generales en Kinetical SRL (Fábrica de implantes e insumos médicos), Establecimiento Las Marías y Laboratorios Bagó.
+Quedo a su disposición en caso que desee concretar una entrevista y así indagar aspectos de mi perfil que le resulten acordes a alguna de las búsquedas en curso.
+ 
+Atentamente,
+María Macarena Navarré
+ <br>Security_code : b4tnt
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.192.147.97<br>
+ <br>Nombre : Giuliana
+ <br>Apellido : Lopers
+ <br>Cargo : secretaria
+ <br>Direccion : bolivia
+ <br>Ciudad : capital federal
+ <br>Telefono : 1565367766
+ <br>Email : giuliana.lopera@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : h
+ <br>Security_code : 5n7s6
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.192.147.97<br>
+ <br>Nombre : Giuliana
+ <br>Apellido : Lopers
+ <br>Cargo : secretaria
+ <br>Direccion : Bolivia 4694
+ <br>Ciudad : capital federal
+ <br>Telefono : 1565367766
+ <br>Email : giuliana.lopera@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : h
+ <br>Security_code : 5n7s6
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 200.126.188.45<br>
+ <br>Nombre : Agustin
+ <br>Apellido : del Campo Bettella
+ <br>Cargo : Administracion
+ <br>Direccion : Av. Las Heras 1964
+ <br>Ciudad : Capital Federal
+ <br>Telefono : 011 1540969945
+ <br>Email : agustindelcampo@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas tardes.
+Les envío mi CV para estar en su base de datos y ser tenido en cuenta ante una oportunidad de trabajo.
+Desde ya, muy agradecido.
+Saludos
+
+ <br>Security_code : 6xpff
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.29.141.99<br>
+ <br>Nombre : juan ignacio
+ <br>Apellido : ruiz
+ <br>Cargo : Tecnico en higiene y seguridad
+ <br>Direccion : SUIPACHA
+ <br>Ciudad : san nicolas
+ <br>Telefono : 3874469830
+ <br>Email : licjruiz14@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimado/a, me comunico para enviar adjunto mi cv con el fin de encontrar una empresa que requiera de mi servicios. Muchas gracias y disculpen las molestias. Saludos
+ <br>Security_code : 83sw6
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.29.141.99<br>
+ <br>Nombre : juan ignacio
+ <br>Apellido : ruiz
+ <br>Cargo : Tecnico en higiene y seguridad
+ <br>Direccion : SUIPACHA
+ <br>Ciudad : san nicolas
+ <br>Telefono : 3874469830
+ <br>Email : licjruiz14@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimado/a, me comunico para enviar adjunto mi cv con el fin de encontrar una empresa que requiera de mi servicios. Muchas gracias y disculpen las molestias. Saludos
+ <br>Security_code : 83sw6
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.104.67.159<br>
+ <br>Nombre : Carina
+ <br>Apellido : Miqueo
+ <br>Cargo : Enfermera Laboral
+ <br>Direccion : Torres
+ <br>Ciudad : LOS CARDALES (CP=2814)
+ <br>Telefono : 230154558838
+ <br>Email : c_miqueo@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : A quien corresponda,
+Adjunto le remito mi Curriculum Vitae para su consideración, y le manifiesto mi interés en participar en los procesos de selección que requieran de una profesional de mis características.
+Soy licenciada en Enfermería, con  especialidad en Laboral.
+A mis 37 años, aporto una amplia experiencia como enfermera en fábrica y asistencial lo que en conjunto me da idoneidad en el manejo de prestaciones en cuidados integrales al paciente tanto sano como enfermo y emergencias.
+Acostumbrada a trabajar en equipo, me considero una persona dinámica, con iniciativa y capacidad de organización y gestión.
+Le agradezco de antemano su atención y quedo a su disposición para mantener una entrevista personalmente para ampliar mi hoja de vida.
+Resido en Los Cardales. Con movilidad propia.
+Atentamente,
+Carina Miqueo
+
+ <br>Security_code : WVF8c
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 152.170.229.4<br>
+ <br>REF : COM
+ <br>Nombre : Tomas
+ <br>Apellido : Arena Vergez
+ <br>Cargo : Vendedor de calle
+ <br>Direccion : Boyaca 205
+ <br>Ciudad : Capital Federal
+ <br>Telefono : 1550418921
+ <br>Email : tomasarenavergez@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Necesito trabajo
+ <br>Security_code : 6hmzn
+ <br>Send : Enviar
+ <br>
+---------------
+

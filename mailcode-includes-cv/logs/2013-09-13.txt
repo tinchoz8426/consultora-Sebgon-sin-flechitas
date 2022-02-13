@@ -1,0 +1,34 @@
+Address : 181.31.43.239
+Nombre : gaston 
+Apellido : roson
+Cargo : operario-vendedor-promotor
+Direccion : Estrada 1407
+Ciudad : Buenos Aires
+Telefono : 1534454444
+Email : gaston.r@outlook.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenas noches,
+Queria ver la posibilidad de ver si pueden encontrar o brindarme alguna oferta de empleo,
+Desde ya muchisimas gracias,
+Saludos,
+Gaston Roson
+Security_code : k4qnn
+Send : Enviar
+
+---------------
+
+Address : 186.22.103.19
+Nombre : jonatan alejandro
+Apellido : Colina
+Cargo : operario
+Direccion : tucuman 1954
+Ciudad : lanus
+Telefono : 1567578311
+Email : jonycolina@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : te envio mi cv para algun puesto de trabajo,tengo experiencia en fabricas metalurgicas
+Security_code : 7yw9w
+Send : Enviar
+
+---------------
+

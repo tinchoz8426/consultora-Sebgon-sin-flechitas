@@ -1,0 +1,45 @@
+Address : 190.230.215.56
+Nombre : laura valeria
+Apellido : niemiz
+Cargo : secretaria
+Direccion : sarmiento 1189
+Ciudad : malabrigo
+Telefono : 3482-647747
+Email : lauranie14@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : puedo radicarme en cualquier ciudad y trabajar en cualquier hambito.. necesito trabajar
+Security_code : wk2tr
+Send : Enviar
+
+---------------
+
+Address : 190.230.215.56
+Nombre : laura valeria
+Apellido : niemiz
+Cargo : secretaria
+Direccion : sarmiento 1189
+Ciudad : malabrigo
+Telefono : 3482-647747
+Email : lauranie14@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : puedo radicarme en cualquier ciudad y trabajar en cualquier hambito.. necesito trabajar
+Security_code : wk2tr
+Send : Enviar
+
+---------------
+
+Address : 181.23.155.4
+Nombre : Carlos
+Apellido : Hollman
+Cargo : Ingenieria
+Direccion : Bº UDAP IV Mz B casa Nº3
+Ciudad : San Juan
+Telefono : 0264154985284
+Email : c_hollman@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Ingeniero Electromecanico con posgrado en Ingenieria Gerencial. 
+Security_code : 6wkrs
+Send : Enviar
+
+---------------
+

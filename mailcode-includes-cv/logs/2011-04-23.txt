@@ -1,0 +1,15 @@
+Address : 186.56.155.196
+Nombre : Noelia
+Apellido : Pereira
+Cargo : cajera/vendedora/atención al cliente/promotora
+Direccion : 25 de mayo 4022
+Ciudad : Merlo
+Telefono : (0220)4802970
+Email : la_noe017@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Aqui les envio mi cv con la posibilidad de que encuentren un empleo con mis caracteristicas..desde ya muchas gracias y espero una respuesta.
+Security_code : m757f
+Send : Enviar
+
+---------------
+

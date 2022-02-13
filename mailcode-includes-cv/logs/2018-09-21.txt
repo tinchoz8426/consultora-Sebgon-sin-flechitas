@@ -1,0 +1,60 @@
+Address : 186.18.29.48<br>
+ <br>Nombre : Giselle
+ <br>Apellido : Testa
+ <br>Cargo : Capacitador/Tallerista
+ <br>Direccion : Maipú 727
+ <br>Ciudad : Banfield
+ <br>Telefono : 1567084139
+ <br>Email : giselletesta@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas tardes. Les alcanzo mi CV, ya que me gustaría sumarme al dictado de capacitaciones o talleres. Actualmente dicto clases. Espero que puedan tenerme en cuenta. Saludos.
+ <br>Security_code : r352d
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 152.169.96.15<br>
+ <br>Nombre : René antonio
+ <br>Apellido : Salamanca 
+ <br>Cargo : Boca de poso 
+ <br>Direccion : Villa ceferino  encina y denis 
+ <br>Ciudad : Neuquen
+ <br>Telefono : 2995114234
+ <br>Email : René-0704@hotmail 
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola tengo muchas ganas de trabajar soy muy responsable y le agradecería si me dan la oportunidad desde ya muchas gracias x su tiempo.bendiciones
+ <br>Security_code : g9tvb
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 152.169.96.15<br>
+ <br>Nombre : René antonio
+ <br>Apellido : Salamanca 
+ <br>Cargo : Boca de poso 
+ <br>Direccion : Villa ceferino  encina y denis 
+ <br>Ciudad : Neuquen
+ <br>Telefono : 2995114234
+ <br>Email : René-0704@hotmail 
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola tengo muchas ganas de trabajar soy muy responsable y le agradecería si me dan la oportunidad desde ya muchas gracias x su tiempo.bendiciones
+ <br>Security_code : g9tvb
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.139.122.187<br>
+ <br>Nombre : Roberto
+ <br>Apellido : Baspiñeiro
+ <br>Cargo : Chofer 
+ <br>Direccion : Arturo Escudero 346
+ <br>Ciudad : Salta cerrillos
+ <br>Telefono : 3876363040
+ <br>Email : 4444444
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Desde ya muchas gracias
+ <br>Security_code : Xkzmw
+ <br>Send : Enviar
+ <br>
+---------------
+

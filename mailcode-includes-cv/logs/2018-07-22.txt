@@ -1,0 +1,17 @@
+Address : 181.169.181.54<br>
+ <br>REF : TEC. EL
+ <br>Nombre : Valerio
+ <br>Apellido : Kochelev
+ <br>Cargo : tecnico electronico
+ <br>Direccion : Azcuenaga 1496
+ <br>Ciudad : Vte Lopez
+ <br>Telefono : 47972579
+ <br>Email : dronnot@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Tecnico electronico,electrico
+https://www.linkedin.com/in/valeriy-kochelev-526627a6
+ <br>Security_code : ktdjr
+ <br>Send : Enviar
+ <br>
+---------------
+

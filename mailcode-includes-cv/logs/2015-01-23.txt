@@ -1,0 +1,68 @@
+Address : 190.104.218.178
+Nombre : Romina
+Apellido : Palmioli
+Cargo : Cobranzas y Administración
+Direccion : Antonio Saenz 2355
+Ciudad : Boulogne - San Isidro
+Telefono : 1167210183
+Email : romina1982@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buen Día! 
+Adjunto mi Curriculum Vitae para ser tenido en cuenta en la búsqueda laboral en el sector de Cobranzas y Administración en GBA Norte.
+Quedo a su entera disposición.
+Saludos.
+Security_code : jpzqk
+Send : Enviar
+
+---------------
+
+Address : 190.50.178.21
+Nombre : Romina
+Apellido : Iervasi
+Cargo : Administrativa rececepcionista recursos humanos
+Direccion : Carlos Pellegrini 3437
+Ciudad : Ciudadela
+Telefono : 1565683512
+Email : rominaiervasi@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Formar parte de su organización, poder desarrollar mis conocimientos profesionales, contando con un desempeño personal en un cálido ambiente laboral.
+Security_code : 8sdxc
+Send : Enviar
+
+---------------
+
+Address : 181.110.34.128
+Nombre : Jorge Gustavo
+Apellido : Silva
+Cargo : Gerente/Jefe
+Direccion : B° Pujol - Mz. 12 - Casa 14
+Ciudad : Corrientes Capital
+Telefono : 379154586110
+Email : gusilva70@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenos días, me complace comunicarme con Uds. con el objeto de enviarles mi CV para que lo tengan en cuenta en sus búsquedas laborales vigentes o futuras acordes a mi perfil.
+Me encuentro trabajando actualmente, pero me gustaría escuchar otras propuestas superadoras. Saludos
+Security_code : gbf8x
+Send : Enviar
+
+---------------
+
+Address : 186.56.169.21
+Nombre : Micaela Soledad
+Apellido : Funes
+Cargo : Legales/ comercial
+Direccion : Azara 1142 
+Ciudad : Merlo 
+Telefono : 1151199447
+Email : funesmicaelasoledad@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Mi nombre es Micaela Soledad Funes, abogada (titulo en tramite) recibida en la Universidad de Buenos Aires habiendo finalizado la orientación de Derecho Empresarial/Comercial y Derecho Tributario.
+Cuento con conocimiento en el ámbito de la procuración de expedientes judiciales, seguimiento de los mismos, confección de escritos judiciales y asistencia a audiencias. En cuanto a la competencia y habilidades de carácter humano, soy una persona pro-activa, comprometida, responsable y con disponibilidad horaria.Desde ya, adjunto a éste mail mi CV, con la esperanza de que mi perfil sea acorde a sus necesidades. 
+ 
+A su disposición,
+Atte. Micaela Soledad Funes
+Security_code : rn626
+Send : Enviar
+
+---------------
+

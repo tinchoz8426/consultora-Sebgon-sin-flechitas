@@ -1,0 +1,95 @@
+Address : 191.80.228.188<br>
+ <br>Nombre : César
+ <br>Apellido : Gauto
+ <br>Cargo : Oficial.electricista
+ <br>Direccion : Rafael de sanzio
+ <br>Ciudad : Monte grande
+ <br>Telefono : 1169879625
+ <br>Email : Cgservicioselecticos@hotmail.Com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Ver currículum 
+ <br>Security_code : P7by5
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 191.80.228.188<br>
+ <br>Nombre : César
+ <br>Apellido : Gauto
+ <br>Cargo : Oficial.electricista
+ <br>Direccion : Rafael de sanzio
+ <br>Ciudad : Monte grande
+ <br>Telefono : 1169879625
+ <br>Email : Cgservicioselecticos@hotmail.Com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Ver currículum 
+ <br>Security_code : P7by5
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.213.147.34<br>
+ <br>REF : OEL
+ <br>Nombre : Javier Ignacio
+ <br>Apellido : Fortunato
+ <br>Cargo : tecnico electricista
+ <br>Direccion : payro 
+ <br>Ciudad : lomas de zamora
+ <br>Telefono : 1564126249
+ <br>Email : empalmador.fortunato@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados les envio mi cv para la postulacion de tecnico electricista 
+
+ <br>Security_code : 7yn2x
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.105.82.187<br>
+ <br>REF : GTEP
+ <br>Nombre : Ignacio
+ <br>Apellido : Lustau
+ <br>Cargo : Gerente de planta
+ <br>Direccion : Sourdeaux 1929|
+ <br>Ciudad : Bella Vista
+ <br>Telefono : 11 4043 1336
+ <br>Email : ilustau@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me interesa conocer más de la propuesta que publican, adjunto mi CV. Gracias
+ <br>Security_code : mgryh
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.105.82.187<br>
+ <br>REF : GTEP
+ <br>Nombre : Ignacio
+ <br>Apellido : Lustau
+ <br>Cargo : Gerente de planta
+ <br>Direccion : Sourdeaux 1929|
+ <br>Ciudad : Bella Vista
+ <br>Telefono : 11 4043 1336
+ <br>Email : ilustau@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me interesa conocer más de la propuesta que publican, adjunto mi CV. Gracias
+ <br>Security_code : mgryh
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.105.82.187<br>
+ <br>REF : GTEP
+ <br>Nombre : Ignacio
+ <br>Apellido : Lustau
+ <br>Cargo : Gerente de planta
+ <br>Direccion : Sourdeaux 1929|
+ <br>Ciudad : Bella Vista
+ <br>Telefono : 11 4043 1336
+ <br>Email : ilustau@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me interesa conocer más de la propuesta que publican, adjunto mi CV. Gracias
+ <br>Security_code : 4p34k
+ <br>Send : Enviar
+ <br>
+---------------
+

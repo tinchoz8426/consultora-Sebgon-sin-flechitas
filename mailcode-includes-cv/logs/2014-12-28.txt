@@ -1,0 +1,32 @@
+Address : 186.19.214.248
+Nombre : Daniel Omar
+Apellido : Cassani
+Cargo : Seguridad
+Direccion : San Juan 350
+Ciudad : Ezeiza
+Telefono : (011) 43892551
+Email : dan.cassani@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : 	Me dirijo a ustedes con el objetivo de presentarme y conseguir una entrevista laboral. He trabajado muchos años en el rubro de seguridad y en este momento me encuentro desocupado. Tengo en mi poder el CLU (Uso civil condicional) número 5459617, también cuento con diponibilidad FULL TIME y ganas de participar activamente aprendiendo cosas nuevas.
+Desde ya, muchas gracias.
+Security_code : ncjw7
+Send : Enviar
+
+---------------
+
+Address : 186.19.214.248
+Nombre : Daniel Omar
+Apellido : Cassani
+Cargo : Seguridad
+Direccion : San Juan 350
+Ciudad : Ezeiza
+Telefono : (011) 43892551
+Email : dan.cassani@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : 	Me dirijo a ustedes con el objetivo de presentarme y conseguir una entrevista laboral. He trabajado muchos años en el rubro de seguridad y en este momento me encuentro desocupado. Tengo en mi poder el CLU (Uso civil condicional) número 5459617, también cuento con diponibilidad FULL TIME y ganas de participar activamente aprendiendo cosas nuevas.
+Desde ya, muchas gracias.
+Security_code : mgy68
+Send : Enviar
+
+---------------
+

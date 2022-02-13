@@ -1,0 +1,33 @@
+Address : 186.19.6.14
+Nombre : Osvaldo Miguel 
+Apellido : Arevalo
+Cargo : logistica/deposito/encargado deposito
+Direccion : carrasco 2477 b
+Ciudad : san justo
+Telefono : 011-20541203 - 1536915171
+Email : osvaldo196636@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : envio mi curriculum para puesto laboral - actualmente disponibilidad total
+Security_code : 722rm
+Send : Enviar
+
+---------------
+
+Address : 190.192.75.129
+Nombre : Ana Carolina
+Apellido : Graneros
+Cargo : Comunicador Social
+Direccion : Caracas 5462
+Ciudad : Capital Federal
+Telefono : 4574-2035
+Email : ana.graneros@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buen día.En función de mi interés en el cargo especificado en la postulación, les envìo mi C.V.
+Estoy a su disposición, en caso de ser convocada para una entrevista.
+
+Saludos.
+Security_code : 39fjx
+Send : Enviar
+
+---------------
+

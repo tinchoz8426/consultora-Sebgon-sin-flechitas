@@ -1,0 +1,31 @@
+Address : 186.57.152.7
+Nombre : gustavo andres
+Apellido : bogado
+Cargo : chofer
+Direccion : soldado sosa 576
+Ciudad : rafael castillo
+Telefono : 46907108
+Email : guustavo.bogado@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : estoy buscando trabajo como chofer disponibilidad y full time
+Security_code : qyhym
+Send : Enviar
+
+---------------
+
+Address : 186.182.3.214
+REF : SuP
+Nombre : Juan Jose 
+Apellido : Castelli
+Cargo : Supervisor de Produccion
+Direccion : Matanza 1746
+Ciudad : Avellaneda
+Telefono : 15-35897513
+Email : jj_castelli@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto mi curriculum vitae. para ser considerado en la selección de Supervisor de Producción.
+Security_code : hyyxz
+Send : Enviar
+
+---------------
+

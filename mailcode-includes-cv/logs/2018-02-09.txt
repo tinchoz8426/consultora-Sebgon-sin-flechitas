@@ -1,0 +1,30 @@
+Address : 186.182.226.246<br>
+ <br>Nombre : Cesar
+ <br>Apellido : Olmedo
+ <br>Cargo : Tecnico
+ <br>Direccion : Avdr. Carosella 777, Edificio 4-F
+ <br>Ciudad : El Palomar
+ <br>Telefono : 1134635693
+ <br>Email : cesar_olmedo_96@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Soy técnico aeronáutico y busco trabajo en el ámbito técnico, mi especialidad se relaciona mucho a la parte mecánica
+ <br>Security_code : jjs8y
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.192.37.157<br>
+ <br>Nombre : Agustín
+ <br>Apellido : Marcocci
+ <br>Cargo : Administrativo
+ <br>Direccion : Atahualpa 001
+ <br>Ciudad : Moreno
+ <br>Telefono : 1161314726
+ <br>Email : cochiam@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Sería un placer para mí ampliar la información sobre mi formación académica y mis estudios complementarios tal y como se presenta en mi hoja de vida (CV) a través de una entrevista personal, por ello no dude en contactar conmigo.
+ <br>Security_code : 7h7z7
+ <br>Send : Enviar
+ <br>
+---------------
+

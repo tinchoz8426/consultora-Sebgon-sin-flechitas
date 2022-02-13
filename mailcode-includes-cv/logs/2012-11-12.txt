@@ -1,0 +1,43 @@
+Address : 190.173.222.51
+Nombre : Daniela
+Apellido : Diego
+Cargo : Diseñadora gráfica
+Direccion : Rosales 2894
+Ciudad : José Mármol
+Telefono : (011) 15-6750-6384
+Email : daniela.diego88@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : A quien corresponda:
+
+
+
+Me encuentro en la búsqueda de un nuevo empleo en el que pueda seguir creciendo en el rubro del diseño. Soy una persona proactiva, responsable y ambiociosa por aprehender siempre más.
+
+Adjunto CV y link de descarga en alta definición:
+https://dl.dropbox.com/u/62591414/CV_alta.pdf
+
+
+Desde ya, muchas gracias.
+Saluda atte.
+
+DANIELA N. DIEGO
+Security_code : vhc7d
+Send : Enviar
+
+---------------
+
+Address : 181.46.42.155
+Nombre : Verónica
+Apellido : Varela
+Cargo : Atencion al cliente,caja.
+Direccion : Italia 2145
+Ciudad : buenos aires
+Telefono : 42935831
+Email : vero.bruno@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me dirijo al responsable en recusos humanos,con el fin de que pueda evaluar y considerar mi busqueda. Dejo constancia de mi curriculum y doy cuenta de se una persona responsable y con muchas ganas, necesidad de un empleo. desde ya muchas gracias.
+Security_code : m34sb
+Send : Enviar
+
+---------------
+

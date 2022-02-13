@@ -1,0 +1,36 @@
+Address : 190.177.235.39
+Nombre : Eliana
+Apellido : Quintin
+Cargo : Docente Ingles 
+Direccion : venezuela 4163
+Ciudad : Capital Federal
+Telefono : 1169479367
+Email : elianaquintin@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Cordial Saludo,
+
+Soy Eliana Quintin, soy colombiana y estoy cursando la Maestría en Tecnología Informática Aplicada en la Educación en la Universidad de la Plata de manera virtual. Soy docente de inglés graduada de la Universidad Pedagógica Nacional de Colombia, con cuatro años de experiencia en institutos y empresas. Trabajé en Estados Unidos como counselor en un campamento de verano. Y visité por un tiempo Trinidad y Tobago para practicar mi inglés. Disfruto trabajar con gente de diversas culturas porque me permite descubrir nuevas formas de ver y pensar el mundo, lo que me ayuda a posicionarme en diferentes contextos internacionales con facilidad. . Actualmente estoy buscando trabajo de tiempo completo como secretaria bilingüe, docente de inglés, recepcionista bilingüe, o similares. Por lo cual en archivo adjunto se encuentra mi curriculum vitae en español e inglés. 
+De antemano agradezco cualquier información que me puedan brindar.
+Pretensión Salarial: Desde 3.000 pesos 
+
+Security_code : rpnpp
+Send : Enviar
+
+---------------
+
+Address : 190.104.171.13
+REF : tecnico-electornico
+Nombre : dionicia 
+Apellido : correa@hotmail.com
+Cargo : auxiliar de recursos humanos
+Direccion : artigas /casi primer presidente
+Ciudad : asuncion
+Telefono : 0986535268
+Email : nochacorrea@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : muy buenas noches: aqui les envio mi cv. viajo muy pronto en buenos aire y quiesiera formar parte de su equipo de trabajo,y esperando una respuesta favorable les saludo dionicia correa
+Security_code : tz7nx
+Send : Enviar
+
+---------------
+

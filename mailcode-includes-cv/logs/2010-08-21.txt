@@ -1,0 +1,47 @@
+Address : 190.19.252.174
+Nombre : María Laura
+Apellido : Lage
+Cargo : Secretaria, recepcionista, atención al cliente, telefonista, cajera, administrativa 
+Direccion : Ricardo Gutierez 4685
+Ciudad : Capital Federal (Villa Devoto)
+Telefono : 01145038467
+Email : marialauralage@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Mi objetivo es formar parte de una empresa en la que pueda desarrollarme y ser valorada por mi nivel de trabajo. Tengo muchas ganas de trabajar y se que puedo cumplir al cien por ciento con la tarea que me asignen. Tengo gran capacidad de asimilación para incorporar nuevos conocimientos y ponerlos en práctica. Poseo los valores que se necesitan para lograr cualquier objetivo: determinación, predisposición, perseverancia, deseos de autosuperación y sentido de la responsabilidad. 
+
+Security_code : 6g8w5
+Send : Enviar
+
+---------------
+
+Address : 201.255.247.159
+Nombre : Julieta
+Apellido : Oberti
+Cargo : area de recursos humanos
+Direccion : santiago del estero 164
+Ciudad : Capital Federal
+Telefono : 15-3470-3825
+Email : juliet_oberti@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Aqui mando mi cv, espero les sirva.
+Muchas gracias.
+Security_code : t34d5
+Send : Enviar
+
+---------------
+
+Address : 190.176.11.108
+Nombre : LUCIA
+Apellido : JAURRIETA
+Cargo : TEC. SUP. EN HIGIENE Y SEGURIDAD 
+Direccion : BENAVENTE 484
+Ciudad : LAS HERAS
+Telefono : 155529417
+Email : lucyjaurrieta@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : ESTOY BUSCANDO LA POSIBILIDAD DE INGRESARME PROFESIONALMENTE AL MUNDO LABORAL. TAMBIEN ESTOY ABIERTA A OTRAS PROPUESTAS MAS ALLA DE MI TITULO. MUCHAS GRACIAS. SALUDA ATTE.
+Security_code : dx6fd
+Send : Enviar
+
+---------------
+

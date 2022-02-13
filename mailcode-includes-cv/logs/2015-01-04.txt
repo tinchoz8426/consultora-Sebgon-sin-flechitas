@@ -1,0 +1,62 @@
+Address : 190.246.70.170
+Nombre : Juan Ignacio
+Apellido : zanet
+Cargo : abogado
+Direccion : Las casas 206
+Ciudad : haedo
+Telefono : 1562542425
+Email : ignaciozanet@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me gustaría tomar experiencia en el mundo laboral del Derecho ya sea en empresas como en Instituciones publicas o privadas además de estudios particulares.
+Security_code : hgw4r
+Send : Enviar
+
+---------------
+
+Address : 190.190.182.151
+Nombre : martin
+Apellido : contino
+Cargo : aprendiz seguridad e higiene
+Direccion : hidalgo 835
+Ciudad : capital
+Telefono : 49829158
+Email : martinrtcontino@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : dejo my cv a vuestra consideracion
+Security_code : tr54h
+Send : Enviar
+
+---------------
+
+Address : 190.18.121.198
+Nombre : Agueda
+Apellido : Soriano
+Cargo : recespcionista
+Direccion : Bolivia 1868
+Ciudad : CABA
+Telefono : 1550616107
+Email : soriano.agueda@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola, soy Agueda Soriano, tengo 25 años, envió mi CV
+
+Muchas gracias
+Security_code : f982x
+Send : Enviar
+
+---------------
+
+Address : 190.190.23.177
+Nombre : CRISTINA
+Apellido : LOVAGNINI
+Cargo : AGENTE DE PROPAGANDA MEDICA
+Direccion : Valparaiso 844 
+Ciudad : BS AS 
+Telefono : (011) 155 111 6493
+Email : cristinalovagnini@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Mi deseo es poder ingresar en un laboratorio como Agente de Propaganda Medica, que se me de la oportunidad y prometiendo  cumplir de manera eficaz y eficiente los objetivos de la firma.
+Security_code : 9g27t
+Send : Enviar
+
+---------------
+

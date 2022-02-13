@@ -1,0 +1,86 @@
+Address : 200.122.102.48<br>
+ <br>REF : GTEP
+ <br>Nombre : Ricardo
+ <br>Apellido : Vicente
+ <br>Cargo : Gerente de Planta
+ <br>Direccion : Yerbal 1978
+ <br>Ciudad : Villa Adelina
+ <br>Telefono : 01147008068
+ <br>Email : ricardoernestovicente@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimado Director,
+
+Por intermedio de la presente, adjunto mi CV, para que sea tenido en cuenta vuestra búsqueda de referencia GTEP.
+Saludos a Ud. atte.
+
+Ricardo Vicente
+ <br>Security_code : rhbc2
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.49.205.101<br>
+ <br>REF : OEL
+ <br>Nombre : HORACIO
+ <br>Apellido : ROJAS
+ <br>Cargo : mantenimiento
+ <br>Direccion : IRALA 46
+ <br>Ciudad : CABA
+ <br>Telefono : 43071257
+ <br>Email : tecnicoelectristayaa@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : mantenimiento
+ <br>Security_code : 6yjr4
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.49.205.101<br>
+ <br>REF : OEL
+ <br>Nombre : HORACIO
+ <br>Apellido : ROJAS
+ <br>Cargo : mantenimiento
+ <br>Direccion : IRALA 46
+ <br>Ciudad : CABA
+ <br>Telefono : 43071257
+ <br>Email : tecnicoelectristayaa@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : mantenimiento
+ <br>Security_code : 6yjr4
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.136.123.81<br>
+ <br>REF : T.ELE
+ <br>Nombre : Daniel
+ <br>Apellido : Gonzalez
+ <br>Cargo : Electrónicos para dpto de Producción y Desarrollo
+ <br>Direccion : Recoleta
+ <br>Ciudad : CABA
+ <br>Telefono : 5491148052249
+ <br>Email : danielgonzalezdk@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Muy Buenos Días, les escribo en la oportunidad de enviarle mi CV. Soy Ingeniero Electricista Opción Electrónica y Control, cuento con cursos de programación de microcontroladores, diseño de circuitos impresos, desarrollo en Visual Studio, estudios en sistemas de control distribuido.
+
+Quedo atento a sus comentarios, saludos, Feliz Día
+ <br>Security_code : 47k4z
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 64.76.13.16<br>
+ <br>Nombre : Olga Marisa 
+ <br>Apellido : Sosa
+ <br>Cargo : Mucama asistente
+ <br>Direccion : 632a e 532 y 533 n 3221 manzana 21 
+ <br>Ciudad : Berazategui 
+ <br>Telefono : 1161604558 
+ <br>Email : marisasosa12@gmail.com 
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Trabaje 5años en el hospital churruca visca y un año en una clínica de rehabilitación 
+ <br>Security_code : X2rh8
+ <br>Send : Enviar
+ <br>
+---------------
+

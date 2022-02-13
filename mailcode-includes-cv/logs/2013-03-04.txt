@@ -1,0 +1,81 @@
+Address : 190.230.76.64
+Nombre : Claudio
+Apellido : Malacalza
+Cargo : Arquitecto
+Direccion : Biarritz 2606
+Ciudad : CABA
+Telefono : 4585-0879
+Email : arqclaudiomalacalza@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenos días,
+
+Mi nombre es Claudio Malacalza y estoy interesado en postularme en sus búsquedas laborales.
+
+Soy arquitecto matriculado recibido en la UBA, desde ya me encuentro a disposición para realizar una eventual entrevista en donde pueda ampliar y detallar mi formación y experiencia profesional, como así también mis objetivos personales y laborales.
+
+Muchas gracias.
+Security_code : KKj4h
+Send : Enviar
+
+---------------
+
+Address : 190.12.187.114
+Nombre : flavia
+Apellido : gonzalez
+Cargo : cajero
+Direccion : ameguino 152
+Ciudad : cuarta seccion
+Telefono : 4305917
+Email : flaviagonzalez892009@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : celular 155987535 full time o part time.
+Security_code : 3mhmr
+Send : Enviar
+
+---------------
+
+Address : 190.50.198.187
+Nombre : Mariana Soledad
+Apellido : Careri
+Cargo : Recepcionita
+Direccion : Bombero Celiz 327
+Ciudad : Hurlingham
+Telefono : 44503837
+Email : maru_074@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Deseo adquirir nuevas experiencias y prestar servicio y responsabilidad al empleador.
+Security_code : 7k3zv
+Send : Enviar
+
+---------------
+
+Address : 181.0.17.90
+Nombre : emiliano alejandro
+Apellido : surracco solda
+Cargo : administracion
+Direccion : zona rural
+Ciudad : genernador mansilla
+Telefono : 03445-15416060
+Email : emilianoalejandro_2005@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : mi cv
+Security_code : 328vc
+Send : Enviar
+
+---------------
+
+Address : 181.0.17.90
+Nombre : emiliano alejandro
+Apellido : surracco solda
+Cargo : administracion
+Direccion : zona rural
+Ciudad : genernador mansilla
+Telefono : 03445-15416060
+Email : emilianoalejandro_2005@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : mi cv
+Security_code : jvmwd
+Send : Enviar
+
+---------------
+

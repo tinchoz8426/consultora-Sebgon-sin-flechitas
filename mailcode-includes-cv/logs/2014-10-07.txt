@@ -1,0 +1,110 @@
+Address : 190.55.216.50
+Nombre : Victor Andres
+Apellido : Merlano
+Cargo : Operativo
+Direccion : Garcia del rio 3470
+Ciudad : Ciudad Autonoma de Buenos Aires
+Telefono : 1151164879
+Email : merlano.v.andres@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Busco empleo
+
+Security_code : 4dn6b
+Send : Enviar
+
+---------------
+
+Address : 190.55.216.50
+Nombre : Victor Andres
+Apellido : Merlano
+Cargo : Operativo
+Direccion : Garcia del rio 3470
+Ciudad : Ciudad Autonoma de Buenos Aires
+Telefono : 1151164879
+Email : merlano.v.andres@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Busco empleo
+
+Security_code : 4dn6b
+Send : Enviar
+
+---------------
+
+Address : 190.55.216.50
+Nombre : Victor Andres
+Apellido : Merlano
+Cargo : Operativo
+Direccion : Garcia del rio 3470
+Ciudad : Ciudad Autonoma de Buenos Aires
+Telefono : 1151164879
+Email : merlano.v.andres@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Busco empleo
+
+Security_code : 4dn6b
+Send : Enviar
+
+---------------
+
+Address : 200.117.170.245
+Nombre : Mariel Soledad
+Apellido : Maidana
+Cargo : Recepcion telrfonista caja administrativo 
+Direccion : calle 182 N° 1450
+Ciudad : Buenos Aires
+Telefono : 47295783
+Email : maru87_23_337@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Les agradezco formar parte de su base de datos.
+Security_code : 3bnr9
+Send : Enviar
+
+---------------
+
+Address : 190.174.131.118
+Nombre : carlos
+Apellido : alzamora
+Cargo : operario caucho
+Direccion : nazarre 5268
+Ciudad : devoto
+Telefono : 1524244240
+Email : alzamoracarlos@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : BUSCO TRABAJO
+Security_code : 4K6K9
+Send : Enviar
+
+---------------
+
+Address : 24.232.233.238
+Nombre : Nair paula
+Apellido : Bañuls
+Cargo : Vendedora
+Direccion : cruz chica 3791
+Ciudad : rosario
+Telefono : 3416287935
+Email : nairpaulabanuls@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimado Sr/Sra:
+Quiero postularme como vendedora o cualquier puesto vacante. Abierta al continuo aprendizaje y capacitación.
+Desde ya, muchas gracias y que tenga muy buenos dias.
+Security_code : q5sr7
+Send : Enviar
+
+---------------
+
+Address : 186.62.55.86
+Nombre : Tatiana Lis
+Apellido : Sosa
+Cargo : Atencion al cliente/Recepcion/Administrativa
+Direccion : Av. Otamendi 1238
+Ciudad : Quilmes
+Telefono : 42574014
+Email : tatyana.liz@live.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Empleo.
+Security_code : hhcs6
+Send : Enviar
+
+---------------
+

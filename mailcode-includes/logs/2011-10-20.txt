@@ -1,0 +1,16 @@
+Address : 186.191.146.90
+Nombre : LUIS
+Apellido : MUÑOZ
+Empresa : CONSULTORIO ODONTOLOGICO
+Telefono : 0261-154712933
+Email : luismu48@yahoo.com.ar
+Mensaje : Buenos días.
+Me contacto con Uds. para ofrecer mi servicios de Odontólogo asesor, auditor, especialista en gestiòn de recursos de salud. Avalan mi solicitud antecedentes académicos (UADE) y laborales (17 años) de experiencia en OSDE filial Mendoza.
+muchas gracias.
+Atte.
+Luis F. Muñoz
+Security_code : cjhgc
+Send : Enviar
+
+---------------
+

@@ -1,0 +1,52 @@
+div#consultora-en-recursos-humanos-sebgon-cuerpo{
+	background-image: url(consultora-en-recursos-humanos-sebgon-bck2.gif);
+	background-repeat: repeat-y;
+	background-position: center top;
+	position: absolute;
+	top: 200px;
+	width: 770px;
+	left: 0px;
+	height: 670px;
+}
+div#consultora-en-recursos-humanos-sebgon-titulo{
+	position: absolute;
+	font-size: 14px;
+	width: 510px;
+	top: 37px;
+	left: 45px;
+}
+div#consultora-en-recursos-humanos-sebgon-col-uno{
+	position: absolute;
+	top: 90px;
+	left: 45px;
+	width: 480px;
+}
+div#consultora-en-recursos-humanos-sebgon-pie{
+	position: absolute;
+	top: 670px;
+	font-size: 10px;
+	width: 770px;
+	height: 22px;
+	text-align: center;
+	padding-top: 3px;
+	background-color: #C7663C;
+	color: #444444;
+}
+div#consultora-en-recursos-humanos-sebgon-pie-dos{
+	position: absolute;
+	top: 690px;
+	font-size: 10px;
+	width: 770px;
+	height: 16px;
+	text-align: center;
+	background-color: #444444;
+	color: #444444;
+}
+div#consultora-en-recursos-humanos-sebgon-ext{
+	position: absolute;
+	left: 0px;
+	width: 770px;
+	top: 920px;
+	height: 25px;
+	color: #DEDBD4;
+}

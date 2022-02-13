@@ -1,0 +1,15 @@
+Address : 190.51.85.189
+Nombre : Rocio
+Apellido : Gagliardo
+Cargo : Recepcionista, Editorial, otros.
+Direccion : Italia 1117
+Ciudad : Buenos Aires
+Telefono : 01146241356
+Email : rochita15_89@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Tengo muchas ganas de trabajar y aprendo rápido. Mucha voluntad y predisposición.
+Security_code : xwkfj
+Send : Enviar
+
+---------------
+

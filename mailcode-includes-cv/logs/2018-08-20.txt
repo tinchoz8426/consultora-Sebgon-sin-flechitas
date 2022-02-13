@@ -1,0 +1,16 @@
+Address : 170.51.93.181<br>
+ <br>REF : EP-1
+ <br>Nombre : Ariel Mauricio 
+ <br>Apellido : Luna Leopold 
+ <br>Cargo : Encargado 
+ <br>Direccion : Richieri 356
+ <br>Ciudad : Villa Martelli 
+ <br>Telefono : 1537431019
+ <br>Email : ariel.mauricio.luna.leopold@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me interesa el puesto ofrecido, me siento convencido de poder ocupar el mismo con la más alta profesionalidad y compromiso que me caracteriza.
+ <br>Security_code : pp7cs
+ <br>Send : Enviar
+ <br>
+---------------
+

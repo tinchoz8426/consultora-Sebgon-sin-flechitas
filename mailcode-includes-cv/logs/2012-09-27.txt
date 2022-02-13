@@ -1,0 +1,51 @@
+Address : 190.221.51.138
+Nombre : Rosana
+Apellido : Valega
+Cargo : Lic. Servicio Social
+Direccion : paso 971
+Ciudad : Buenos Aires
+Telefono : 1562848119
+Email : ro_valeg@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estoy en la búsqueda de trabajos que tengan que ver con mi carrera o a fines.
+Security_code : 2h6pk
+Send : Enviar
+
+---------------
+
+Address : 190.193.137.147
+REF : supervisor-de-elaboracion
+Nombre : Maria de lo Angeles
+Apellido : Pino
+Cargo : supervisor de elboración
+Direccion : Espora 355
+Ciudad : Ramos Mejia
+Telefono : 15-6720-4224
+Email : pinoangeles@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Por medio de la presente me dirijo a Ud. a efectos de poner a su consideración mis datos personales y antecedentes laborales, para que los mismos sean tenidos en cuenta en una actual o futura selección de personal. 
+Como datos complementarios puedo agregar que cuento con una excelente presencia, marcado perfil comercial, sólidos conocimientos en el área administrativa, muy buen manejo de las distintas herramientas informáticas y muy buen manejo de inglés. Mi disponibilidad horaria es full time y de incorporación inmediata; proponiendo un cordial trato con clientes internos y externos de la empresa, comprometiéndome sobre todo a brindar un trabajo de excelente calidad, ya que poseo una actitud pro-activa y de un espíritu emprendedor, beneficiando el crecimiento de la empresa. 
+Si bien no cuento con los estudios requeridos, me comprometo a cumplimentarlos en el menor tiempo posible, si se me otorga la oportunidad de desarrollarme en una nueva experiencia.
+Security_code : mq97k
+Send : Enviar
+
+---------------
+
+Address : 190.177.216.144
+Nombre : Agustina
+Apellido : Ledda
+Cargo : Recepcionista/Secretaria
+Direccion : Planes 846 1 C
+Ciudad : Capital Federal
+Telefono : 1531470973
+Email : agusledda@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Me dirijo a ustedes con la intención de ofrecerles mis servicios tanto ahora como en un futuro. Me interesaría trabajar en la empresa ya que se trata de una oportunidad en la cual podría crecer tanto personal como profesionalmente. Actualmente curso segundo año del Traductorado Técnico-Científico-Literario en Inglés en el instituto ENS en Lenguas Vivas Sofía E. Broquen de Spangenberg.
+Pueden ponerse en contacto conmigo mediante teléfono celular o e-mail las 24 hs. Espero recibir noticias sobre la posibilidad de trabajar en su empresa.
+Saludos cordiales.
+Agustina Ledda.
+Security_code : tpqm5
+Send : Enviar
+
+---------------
+

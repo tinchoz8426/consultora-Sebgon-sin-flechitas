@@ -1,0 +1,30 @@
+Address : 186.63.33.55
+Nombre : Camila Luciana
+Apellido : Trucido Garcia
+Cargo : cajero bancario 
+Direccion : pasaje las lomas 4351
+Ciudad : BUENOS AIRES 
+Telefono : 01142673432
+Email : camilaltrucido@live.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : por favor confirmar si llego como corresponde mi cv , estoy en la busqueda de una oportunidad .. MUCHAS GRACIAS 
+Security_code : b5tmp
+Send : Enviar
+
+---------------
+
+Address : 186.128.54.191
+Nombre : Pamela
+Apellido : Canto
+Cargo : Secretaria administrativa
+Direccion : Barrio malcayaes MB C3
+Ciudad : Mendoza
+Telefono : 4811561
+Email : pamu25@hotmail.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : mis espectativas es conseguir un trabajo para poder crecer como persona y profecionalmente, espero tengan en consideracion mi curriculum.
+Security_code : 6vgdg
+Send : Enviar
+
+---------------
+

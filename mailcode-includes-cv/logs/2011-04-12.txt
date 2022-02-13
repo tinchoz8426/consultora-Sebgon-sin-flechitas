@@ -1,0 +1,83 @@
+Address : 190.174.65.180
+Nombre : Alejandra
+Apellido : Flores
+Cargo : Ejecutiva de Cuenta
+Direccion : Viejo Bueno 937 dto 2
+Ciudad : Bernal
+Telefono : 4251-8714
+Email : apflores2002@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Señores:
+Tengo el placer de adjuntarles mi Cv, desde ya me encantria tener una entrevista.
+Saludos
+Alejandra Flores
+Security_code : m2zbr
+Send : Enviar
+
+---------------
+
+Address : 190.30.2.207
+Nombre : Laura
+Apellido : 
+Cargo : 
+Direccion : 
+Ciudad : 
+Telefono : 
+Email : 
+MAX_FILE_SIZE : 2097152
+Mensaje : 
+Security_code : 
+Send : Enviar
+
+---------------
+
+Address : 190.30.2.207
+Nombre : Laura
+Apellido : Linares
+Cargo : Al que de mi perfil
+Direccion : Laprida 1335 
+Ciudad : Ciudad de Buenos Aires
+Telefono : 15 61 756541
+Email : linareslau@yahoo.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Les hago llegar mi CV para que lo tengan en cuenta en busquedas laborales, gracias.
+Security_code : cpxpn
+Send : Enviar
+
+---------------
+
+Address : 201.255.235.58
+Nombre : Mariana Andrea
+Apellido : Cataldi
+Cargo : Trabajadora Social
+Direccion : Mariano Moreno 1360, piso 4
+Ciudad : Capital
+Telefono : 4383-2245
+Email : marianacataldi@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me dirijo a Uds. a fin de ofrecer la realización de informes socioambientales prelaborales.
+Adjunto mi CV y quedo a la espera de una citación que me permita ampliar los datos vertidos.
+Atte.
+Mariana Cataldi
+Security_code : h4ch3
+Send : Enviar
+
+---------------
+
+Address : 190.245.238.12
+REF : gerente-de-operaciones
+Nombre : Gisela Sabrina
+Apellido : Schirripa
+Cargo : RRHH
+Direccion : Helguera 4460
+Ciudad : Capital Federal
+Telefono : 1559523415
+Email : paragi@live.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Me comunico con el fin de enviar mi CV para ser tenido en cuenta en futuras busquedas relacionadas al area de Recursos Humanos.
+Muchas gracias.
+Security_code : 58j9c
+Send : Enviar
+
+---------------
+

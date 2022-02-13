@@ -1,0 +1,79 @@
+Address : 190.55.238.167
+Nombre : Romina
+Apellido : Zayat
+Cargo : Recepcionista / Secretaria 
+Direccion : Caracas 1564
+Ciudad : Flores
+Telefono : 155-837-3319
+Email : rominazayat@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto mi cv.
+Security_code : 6m2fs
+Send : Enviar
+
+---------------
+
+Address : 181.169.35.4
+REF : GTEP
+Nombre : Diego 
+Apellido : Spina
+Cargo : Gerente de Planta
+Direccion : 515/2465
+Ciudad : Ringuelet
+Telefono : 0111531639112
+Email : diegorspina@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto mi cv.
+Atte.
+Ing. Spina
+Security_code : hrf7k
+Send : Enviar
+
+---------------
+
+Address : 181.14.134.169
+Nombre : Alba Soledad
+Apellido : Ruiz
+Cargo : Cajera/vendedora/recepcionista/cadete
+Direccion : Felix de Alzaga
+Ciudad : LanusEste
+Telefono : 42499070
+Email : ruiz.alba@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me encuentro en la búsqueda de un empleo Part-time ya que el año entrante comienzo la facultad, tengo muchas ganas de trabajar y desarrollarme profesionalmente.
+Security_code : j87n8
+Send : Enviar
+
+---------------
+
+Address : 190.190.203.166
+Nombre : Iara Florencia 
+Apellido : Vila
+Cargo : promocion/ atencion al publico
+Direccion : A.korn 1841
+Ciudad : mar del plata
+Telefono : 223 5379863
+Email : iara.mdp@outlook.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola! solo queria agregar que tengo muchas ganas de trabajar, soy una chica responsable,
+que disfruta de trabajar en un ambiente donde haya compañerismo y buena onda. estoy buscando algo estable para poder desarrollar metas personales
+Security_code : grkh9
+Send : Enviar
+
+---------------
+
+Address : 190.18.128.238
+Nombre : Carolina
+Apellido : Farias Collini
+Cargo : Empleada administrativa
+Direccion : Cramer 381
+Ciudad : Caba
+Telefono : 4553-0840
+Email : carofarias@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Envio de cv para tener en cuenta.
+Security_code : v3xmh
+Send : Enviar
+
+---------------
+

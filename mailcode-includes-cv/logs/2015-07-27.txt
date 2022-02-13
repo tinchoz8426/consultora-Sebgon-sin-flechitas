@@ -1,0 +1,138 @@
+Address : 181.104.124.139
+Nombre : Tomas
+Apellido : Merino
+Cargo : Empleado Administrativo
+Direccion : Valentin Gomez 1865
+Ciudad : Rosario
+Telefono : 3425358906
+Email : tomasmerino58@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Disponibilidad horaria
+Security_code : r2b2s
+Send : Enviar
+
+---------------
+
+Address : 181.104.124.139
+Nombre : Tomas
+Apellido : Merino
+Cargo : Empleado Administrativo
+Direccion : Valentin Gomez 1865
+Ciudad : Rosario
+Telefono : 3425358906
+Email : tomasmerino58@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Disponibilidad horaria
+Security_code : r2b2s
+Send : Enviar
+
+---------------
+
+Address : 181.104.124.139
+Nombre : Tomas
+Apellido : Merino
+Cargo : Empleado Administrativo
+Direccion : Valentin Gomez 1865
+Ciudad : Rosario
+Telefono : 3425358906
+Email : tomasmerino58@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Disponibilidad horaria
+Security_code : x8h58
+Send : Enviar
+
+---------------
+
+Address : 190.178.80.57
+Nombre : Esteban
+Apellido : Poza
+Cargo : Consultor
+Direccion : Julia Dufour 180
+Ciudad : Cmte. Luis Piedra Buena - Santa Cruz
+Telefono : 02966 15404741
+Email : esteban.poza@rimolo-poza.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Me interesaria poder prestar mis servicios en busquedas laborales que realicen en la Provincia de Santa Cruz
+
+
+Security_code : 6zhs4
+Send : Enviar
+
+---------------
+
+Address : 186.134.65.201
+Nombre : paula
+Apellido : urquiza
+Cargo : asistente de selección de personal
+Direccion : moldes 5792
+Ciudad : Buenos aires
+Telefono : 34070890
+Email : paula_urk@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : buenas tardes! adjunto mi cv para que pueda considerarse en futuras búsquedas laborales. muchas gracias.
+Security_code : 85ydv
+Send : Enviar
+
+---------------
+
+Address : 190.172.108.167
+Nombre : Gonzalo
+Apellido : Escudero
+Cargo : Recursos Humanos
+Direccion : Raulet 219
+Ciudad : Buenos Aires
+Telefono : 1165672002
+Email : elnuevopascua@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenas tardes,acá les dejo mi CV.
+Gracias y saludos.
+Security_code : khv52
+Send : Enviar
+
+---------------
+
+Address : 186.138.231.224
+Nombre : Debora
+Apellido : Romaniello
+Cargo : Junior
+Direccion : Gral Munilla 2410
+Ciudad : Castelar
+Telefono : 1557716069
+Email : deboraromanielo@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenas tardes: Envío Curriculum para que sera tenido en cuenta en la búsquedas activas. preferentemente en la zona Oeste. Gracias. Saludos Cordiales.
+Security_code : 6ytr8
+Send : Enviar
+
+---------------
+
+Address : 200.114.181.207
+Nombre : Ariel 
+Apellido : Clusman
+Cargo : Comprador
+Direccion : Rivadavia 64 pisi 1 depto 1
+Ciudad : Buenos aires
+Telefono : 4 747 9072
+Email : aclusman@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenas tardes,envio mi curriculum vitae a ser tenido en cuenta en futuras búsquedas.
+Security_code : t8m3y
+Send : Enviar
+
+---------------
+
+Address : 181.31.152.188
+Nombre : Gabriela
+Apellido : Giordano 
+Cargo : Aplicaciones 
+Direccion : obispo Trejo 
+Ciudad : Cordoba
+Telefono : 3516171340
+Email : gaby.gior88@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Envío mi CV 
+Security_code : kc724
+Send : Enviar
+
+---------------
+

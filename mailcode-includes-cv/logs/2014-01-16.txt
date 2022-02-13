@@ -1,0 +1,317 @@
+Address : 186.143.33.114
+Nombre : Daniel Adrian
+Apellido : Alvarez
+Cargo : operario produccion
+Direccion : alvarez jonte 4055
+Ciudad : merlo
+Telefono : 0220-4980754
+Email : danielvf_1@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Srs consultores les acerco mi CV para el puesto de operario metalurgico en zona oeste, les agradecere que me tengan en cuenta
+Security_code : 8gybc
+Send : Enviar
+
+---------------
+
+Address : 190.193.144.5
+REF : Asistente-Comercial
+Nombre : Gisela Aldana
+Apellido : Caputo
+Cargo : Asistente Comercial
+Direccion : Belen 90 4B
+Ciudad : Buenos Aires
+Telefono : 1169739001
+Email : giselaacaputo@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje :  Soy Licenciada en Comercialización de la UADE, y durante el último año trabajé para Starcom Mediavest, una de las principales agencias de publicidad y marketing digital donde me desarrollé en principio como Optimizadora de SEM y luego como Analista tanto de SEM como social media y display. 
+Durante ese período tuve a mi cargo las cuentas Head & Shoulders, Herbal Essences, Olay, Braun y Ariel para el cliente Procter&Gamble. Allí adquirí experiencia en relación al análisis de briefs, estrategia de comunicación, branding y análisis de performance. 
+ Asimismo, durante el 2011 me encontré trabajando en el mercado b2b, donde adquirí conocimientos tanto de negociación de precio, como de ventas a grandes cadenas de Retail y operaciones de compra venta de comercio exterior. 
+ Actualmente me encuentro desocupada, buscando desarrollarme en Marketing principalmente en las áreas de Comunicación o de Marketing Interno. Tengo por objetivo completar cursos de posgrado relacionados al Liderazgo, Motivación y Coaching durante el presente año.
+
+En caso de considerar mi CV acorde al puesto en cuestión me encuentro disponible para concretar una entrevista personal.
+
+Muchas Gracias
+Security_code : hvx4k
+Send : Enviar
+
+---------------
+
+Address : 190.247.141.9
+Nombre : Analía Beatriz
+Apellido : Rico
+Cargo : Asistente de Legales. Procuracion
+Direccion : Av. Forest 1155 P. 5 
+Ciudad : Capital Federal
+Telefono : 1541627561
+Email : anibrico@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Envio Curriculum Vitae, objeto de informarles acerca de mi formación académica a fin de ser tenida en vuestra consideración ante una búsqueda laboral. Ofrezco dedicación y empeño, aspirando a satisfacer vuestras necesidades, estando dispuesta a afrontar desafíos. Estoy segura de que podré realizar un trabajo muy satisfactorio, aprendiendo mucho con entusiasmo, desarrollando mis habilidades y conocimientos y obtener una mayor experiencia en el ambiente laboral. 
+Security_code : GXCQN
+Send : Enviar
+
+---------------
+
+Address : 190.247.141.9
+Nombre : Analía Beatriz
+Apellido : Rico
+Cargo : Asistente de Legales. Procuracion
+Direccion : Av. Forest 1155 P. 5 
+Ciudad : Capital Federal
+Telefono : 1541627561
+Email : anibrico@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Envio Curriculum Vitae, objeto de informarles acerca de mi formación académica a fin de ser tenida en vuestra consideración ante una búsqueda laboral. Ofrezco dedicación y empeño, aspirando a satisfacer vuestras necesidades, estando dispuesta a afrontar desafíos. Estoy segura de que podré realizar un trabajo muy satisfactorio, aprendiendo mucho con entusiasmo, desarrollando mis habilidades y conocimientos y obtener una mayor experiencia en el ambiente laboral. 
+Security_code : st4vc
+Send : Enviar
+
+---------------
+
+Address : 190.176.16.49
+Nombre : Maria Viviana
+Apellido : Fernandez Montiel
+Cargo : Vendedora-Cajera
+Direccion : Saavedra 568(o) Chimbas
+Ciudad : San Juan
+Telefono : 0264-4311132
+Email : magi_08_0611@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Tengo el agrado de dirijirme a uds. con el fin de trasmitirles mi firme deseo de incorporarme a su empresa. a tal efecto adjunto a la presente mi C.V.
+Me presento como una persona activa, flexible, orientada al logro de resultados, resolución y evolución de las tareas, en el puesto que se me asigne. de ser necesario me presentaría personalente para cualquier consulta.
+Ademas estoy segura de asumir de este empleo en forma inmediata, y con amplia disponibilidad horaria.   
+
+Security_code : Security Code
+Send : Enviar
+
+---------------
+
+Address : 190.176.16.49
+Nombre : Maria Viviana
+Apellido : Fernandez Montiel
+Cargo : Vendedora-Cajera
+Direccion : Saavedra 568(o) Chimbas
+Ciudad : San Juan
+Telefono : 0264-4311132
+Email : magi_08_0611@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Tengo el agrado de dirijirme a uds. con el fin de trasmitirles mi firme deseo de incorporarme a su empresa. a tal efecto adjunto a la presente mi C.V.
+Me presento como una persona activa, flexible, orientada al logro de resultados, resolución y evolución de las tareas, en el puesto que se me asigne. de ser necesario me presentaría personalente para cualquier consulta.
+Ademas estoy segura de asumir de este empleo en forma inmediata, y con amplia disponibilidad horaria.   
+
+Security_code : Security Code
+Send : Enviar
+
+---------------
+
+Address : 190.176.16.49
+Nombre : Maria Viviana
+Apellido : Fernandez Montiel
+Cargo : Vendedora-Cajera
+Direccion : Saavedra 568(o) Chimbas
+Ciudad : San Juan
+Telefono : 0264-4311132
+Email : magi_08_0611@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Tengo el agrado de dirijirme a uds. con el fin de trasmitirles mi firme deseo de incorporarme a su empresa. a tal efecto adjunto a la presente mi C.V.
+Me presento como una persona activa, flexible, orientada al logro de resultados, resolución y evolución de las tareas, en el puesto que se me asigne. de ser necesario me presentaría personalente para cualquier consulta.
+Ademas estoy segura de asumir de este empleo en forma inmediata, y con amplia disponibilidad horaria.   
+
+Security_code : Security Code
+Send : Enviar
+
+---------------
+
+Address : 190.176.16.49
+Nombre : Maria Viviana
+Apellido : Fernandez Montiel
+Cargo : Vendedora-Cajera
+Direccion : Saavedra 568(o) Chimbas
+Ciudad : San Juan
+Telefono : 0264-4311132
+Email : magi_08_0611@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Tengo el agrado de dirijirme a uds. con el fin de trasmitirles mi firme deseo de incorporarme a su empresa. a tal efecto adjunto a la presente mi C.V.
+Me presento como una persona activa, flexible, orientada al logro de resultados, resolución y evolución de las tareas, en el puesto que se me asigne. de ser necesario me presentaría personalente para cualquier consulta.
+Ademas estoy segura de asumir de este empleo en forma inmediata, y con amplia disponibilidad horaria.   
+
+Security_code : Security Code
+Send : Enviar
+
+---------------
+
+Address : 190.176.16.49
+Nombre : Maria Viviana
+Apellido : Fernandez Montiel
+Cargo : Vendedora-Cajera
+Direccion : Saavedra 568(o) Chimbas
+Ciudad : San Juan
+Telefono : 0264-4311132
+Email : magi_08_0611@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Tengo el agrado de dirijirme a uds. con el fin de trasmitirles mi firme deseo de incorporarme a su empresa. a tal efecto adjunto a la presente mi C.V.
+Me presento como una persona activa, flexible, orientada al logro de resultados, resolución y evolución de las tareas, en el puesto que se me asigne. de ser necesario me presentaría personalente para cualquier consulta.
+Ademas estoy segura de asumir de este empleo en forma inmediata, y con amplia disponibilidad horaria.   
+
+Security_code : Security Code
+Send : Enviar
+
+---------------
+
+Address : 190.176.16.49
+Nombre : Maria Viviana
+Apellido : Fernandez Montiel
+Cargo : Vendedora-Cajera
+Direccion : Saavedra 568(o) Chimbas
+Ciudad : San Juan
+Telefono : 0264-4311132
+Email : magi_08_0611@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Tengo el agrado de dirijirme a uds. con el fin de trasmitirles mi firme deseo de incorporarme a su empresa. a tal efecto adjunto a la presente mi C.V.
+Me presento como una persona activa, flexible, orientada al logro de resultados, resolución y evolución de las tareas, en el puesto que se me asigne. de ser necesario me presentaría personalente para cualquier consulta.
+Ademas estoy segura de asumir de este empleo en forma inmediata, y con amplia disponibilidad horaria.   
+
+Security_code : Security Code
+Send : Enviar
+
+---------------
+
+Address : 190.176.16.49
+Nombre : Maria Viviana
+Apellido : Fernandez Montiel
+Cargo : Vendedora-Cajera
+Direccion : Saavedra 568(o) Chimbas
+Ciudad : San Juan
+Telefono : 0264-4311132
+Email : magi_08_0611@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Tengo el agrado de dirijirme a uds. con el fin de trasmitirles mi firme deseo de incorporarme a su empresa. a tal efecto adjunto a la presente mi C.V.
+Me presento como una persona activa, flexible, orientada al logro de resultados, resolución y evolución de las tareas, en el puesto que se me asigne. de ser necesario me presentaría personalente para cualquier consulta.
+Ademas estoy segura de asumir de este empleo en forma inmediata, y con amplia disponibilidad horaria.   
+
+Security_code : Security Code
+Send : Enviar
+
+---------------
+
+Address : 190.176.16.49
+Nombre : Maria Viviana
+Apellido : Fernandez Montiel
+Cargo : Vendedora-Cajera
+Direccion : Saavedra 568(o) Chimbas
+Ciudad : San Juan
+Telefono : 0264-4311132
+Email : magi_08_0611@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Tengo el agrado de dirijirme a uds. con el fin de trasmitirles mi firme deseo de incorporarme a su empresa. a tal efecto adjunto a la presente mi C.V.
+Me presento como una persona activa, flexible, orientada al logro de resultados, resolución y evolución de las tareas, en el puesto que se me asigne. de ser necesario me presentaría personalente para cualquier consulta.
+Ademas estoy segura de asumir de este empleo en forma inmediata, y con amplia disponibilidad horaria.   
+
+Security_code : 9jzs3
+Send : Enviar
+
+---------------
+
+Address : 190.176.16.49
+Nombre : Maria Viviana
+Apellido : Fernandez Montiel
+Cargo : Vendedora-Cajera
+Direccion : Saavedra 568(o) Chimbas
+Ciudad : San Juan
+Telefono : 0264-4311132
+Email : magi_08_0611@hotmail.com
+
+---------------
+
+Address : 190.176.16.49
+Nombre : Maria Viviana
+Apellido : Fernandez Montiel
+Cargo : Vendedora-Cajera
+Direccion : Saavedra 568(o) Chimbas
+Ciudad : San Juan
+Telefono : 0264-4311132
+Email : magi_08_0611@hotmail.com
+
+---------------
+
+Address : 190.176.16.49
+Nombre : Maria Viviana
+Apellido : Fernandez Montiel
+Cargo : Vendedora-Cajera
+Direccion : Saavedra 568(o) Chimbas
+Ciudad : San Juan
+Telefono : 0264-4311132
+Email : magi_08_0611@hotmail.com
+
+---------------
+
+Address : 190.176.16.49
+Nombre : Maria Viviana
+Apellido : Fernandez Montiel
+Cargo : Vendedora-Cajera
+Direccion : Saavedra 568(o) Chimbas
+Ciudad : San Juan
+Telefono : 0264-4311132
+Email : magi_08_0611@hotmail.com
+
+---------------
+
+Address : 190.176.16.49
+Nombre : Maria Viviana
+Apellido : Fernandez Montiel
+Cargo : Vendedora-Cajera
+Direccion : Saavedra 568(o) Chimbas
+Ciudad : San Juan
+Telefono : 0264-4311132
+Email : magi_08_0611@hotmail.com
+
+---------------
+
+Address : 190.176.16.49
+Nombre : Maria Viviana
+Apellido : Fernandez Montiel
+Cargo : Vendedora-Cajera
+Direccion : Saavedra 568(o) Chimbas
+Ciudad : San Juan
+Telefono : 0264-4311132
+Email : magi_08_0611@hotmail.com
+
+---------------
+
+Address : 190.176.16.49
+Nombre : Maria Viviana
+Apellido : Fernandez Montiel
+Cargo : Vendedora-Cajera
+Direccion : Saavedra 568(o) Chimbas
+Ciudad : San Juan
+Telefono : 0264-4311132
+Email : magi_08_0611@hotmail.com
+
+---------------
+
+Address : 190.176.16.49
+Nombre : Maria Viviana
+Apellido : Fernandez Montiel
+Cargo : Vendedora-Cajera
+Direccion : Saavedra 568(o) Chimbas
+Ciudad : San Juan
+Telefono : 0264-4311132
+Email : magi_08_0611@hotmail.com
+
+---------------
+
+Address : 190.138.93.214
+REF : ADMINISTRATIVO-DE-LOGISTICA
+Nombre : Sergio 
+Apellido : Micolini
+Cargo : Administrativo de Logistica
+Direccion : Salta 548 PA
+Ciudad : Jesus Maria
+Telefono : 03525-15641686
+Email : sergiomicolini@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola
+Envío CV para la oferta de administrativo de logística. 
+Security_code : g2pg9
+Send : Enviar
+
+---------------
+

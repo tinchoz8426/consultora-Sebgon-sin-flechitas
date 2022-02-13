@@ -1,0 +1,22 @@
+Address : 170.51.93.3<br>
+ <br>REF : Ing. quim
+ <br>Nombre : Erica
+ <br>Apellido : Gonzalez
+ <br>Cargo : Ingeniería química de calidad
+ <br>Direccion : Echeverria 1575
+ <br>Ciudad : Campana
+ <br>Telefono : 03489628195
+ <br>Email : erica.n-gonzalez@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenos días 
+Adjunto cv.
+
+ATTE
+
+Erica
+
+ <br>Security_code : dyjqt
+ <br>Send : Enviar
+ <br>
+---------------
+

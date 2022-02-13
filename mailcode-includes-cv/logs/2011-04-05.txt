@@ -1,0 +1,49 @@
+Address : 190.55.174.57
+REF : tecnico-de-mantenimiento
+Nombre : francisco daniel
+Apellido : ALBANO
+Cargo : mantenimiento
+Direccion : av directorio 2496 
+Ciudad : cap fed
+Telefono : 1531760918
+Email : d_pescador1@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : ESTOY BUSCANDO TRABAJO EN EL AREA DE MANTENIMIENTO O VENTAS
+Security_code : W48FF
+Send : Enviar
+
+---------------
+
+Address : 190.105.2.204
+Nombre : Natalia Soledad
+Apellido : Mercuriali
+Cargo : Recepcionista/Telefonista/Secretaria
+Direccion : Zeballos 120
+Ciudad : Moreno. Prov. Buenos Aires.
+Telefono : 0111536856577
+Email : na_1080@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenos Días: hace una semana me quede sin trabajo después de 8 años de trabajar en Cosméticos Avon. 
+Busco un trabajo cuanto antes para no quedar fuera del mercado laboral.
+Muchas gracias por su tiempo. 
+Mercuriali de Diaz
+Security_code : 8vcbf
+Send : Enviar
+
+---------------
+
+Address : 186.108.229.100
+Nombre : romina
+Apellido : hipolito 
+Cargo : Relacionado con rrhh
+Direccion : jujuy 4100
+Ciudad : san miguel de tucuman 
+Telefono : 0381-154027344
+Email : romy_promo33@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Ver cv.
+Security_code : 9w4yy
+Send : Enviar
+
+---------------
+

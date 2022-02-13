@@ -1,0 +1,34 @@
+Address : 181.29.140.62
+Nombre : Nicole
+Apellido : Guerra
+Cargo : Recepcionista/Secretaria Administrativa
+Direccion : Carlos Pellegrini 983
+Ciudad : Capital Federal
+Telefono : 1139470058
+Email : nicoleguerra89@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados, buenas tardes.
+Envío mi CV, postulandome a búsquedas de Secretaria Administrativa, Recepcionista o Asistente.
+Desde ya muchas gracias.
+Saludos cordiales, 
+Nicole Guerra
+Security_code : qgt73
+Send : Enviar
+
+---------------
+
+Address : 186.134.28.207
+Nombre : VANESA SILVINA
+Apellido : zubiri
+Cargo : recepcinista/ promotora/ anfitriona/administrativa-etc.
+Direccion : Paraná 697
+Ciudad : Buenos Aires Morón
+Telefono : 1537597115
+Email : zubirivanesa@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : buenas tardes aquí adjunto mi CV, tenga a bien considerarlo, me carácteriza mi buen trato y responsabilidad, me gusta trabajar en equipo y aprendo con rápidez, muchas gracias. atte zubiri vanesa
+Security_code : 575t4
+Send : Enviar
+
+---------------
+

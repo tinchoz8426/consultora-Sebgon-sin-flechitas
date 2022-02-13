@@ -1,0 +1,211 @@
+Address : 190.194.193.43<br>
+ <br>REF : JPER-1
+ <br>Nombre : Luciano Damian
+ <br>Apellido : Gonzalez Posca
+ <br>Cargo : Jefe de Personal
+ <br>Direccion : Arenales 2832
+ <br>Ciudad : Ciudad Autonoma Buenos Aires
+ <br>Telefono : 0111558268011
+ <br>Email : lucianoposca@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje :   
+ <br>Security_code : g8sxv
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.1.30.136<br>
+ <br>REF : Ing. quim
+ <br>Nombre : Gabriel Eduardo
+ <br>Apellido : Román
+ <br>Cargo : Jefa de producción/ Ingeniera Qui­mica 
+ <br>Direccion : San Lorenzo 2058
+ <br>Ciudad : Bahia Blanca
+ <br>Telefono : 02914633428
+ <br>Email : gabriel_edroman@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola.
+Soy Ingeniero Químico.
+Saludos.
+Gabriel.
+ <br>Security_code : bbyxf
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.226.211.205<br>
+ <br>REF : SP-1
+ <br>Nombre : Luis 
+ <br>Apellido : Daneri
+ <br>Cargo : Operaciones
+ <br>Direccion : Olauer y feliu 5100
+ <br>Ciudad : Munro
+ <br>Telefono : 39567817
+ <br>Email : daneriluisalberto@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola me interesa la vacante
+ <br>Security_code : 5kgmz
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.185.31.11<br>
+ <br>REF : Ing. quim
+ <br>Nombre : CESAR
+ <br>Apellido : GODOY
+ <br>Cargo : Jefe de Procesos Industriales
+ <br>Direccion : Calle Cazadores entre Echeverria y Sucre. Belgrano
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : +54 9 11 30615548
+ <br>Email : cagzkk@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Ingeniero químico con más de 12 años de experiencia procesos de producción de combustibles derivados del petróleo. Dispuestoa demostrar mis habilidades y conocimientos para el logro de los objetivos de la empresa.
+ <br>Security_code : yf69j
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.47.138.252<br>
+ <br>REF : EP-1
+ <br>Nombre : RAMON ANTONIO 
+ <br>Apellido : NUÑEZ
+ <br>Cargo : ENCARGADO DE PRODUCCIÓN
+ <br>Direccion : 113 Nº 884
+ <br>Ciudad : BERAZATEGUI
+ <br>Telefono : 2974706477
+ <br>Email : n.ramonantonio@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : disponibilidad inmediata
+ <br>Security_code : qc27x
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.47.138.252<br>
+ <br>REF : SP-1
+ <br>Nombre : RAMON ANTONIO 
+ <br>Apellido : NUÑEZ
+ <br>Cargo : SUPERVISOR DE PRODUCCION 
+ <br>Direccion : 113 Nº 884
+ <br>Ciudad : BERAZATEGUI
+ <br>Telefono : 2974706477
+ <br>Email : n.ramonantonio@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : disponibilidad inmediata
+ <br>Security_code : g9cp9
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.224.177.15<br>
+ <br>REF : Ing. quim
+ <br>Nombre : Anneris
+ <br>Apellido : Dietrich
+ <br>Cargo : Ingeniera
+ <br>Direccion : 25 de mayo 626
+ <br>Ciudad : Darregueira
+ <br>Telefono : 2923465648
+ <br>Email : annerisd@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimado/a,
+Me dirijo a usted con el fin de remitirle mi Curriculum Vitae para ser considerado en su búsqueda laboral.
+
+Soy Ingeniera Química graduada de la Universidad de Buenos Aires.
+Busco desarrollarme profesionalmente en la industria aplicando los conocimientos adquiridos en mis años de estudio, en un ambiente de continuo aprendizaje y superación.
+
+Espero tener la oportunidad de conversar en una próxima entrevista para exponerle mis conocimientos y mi deseo de formar parte de su equipo de trabajo.
+
+Reciba un cordial saludo,
+
+Anneris Dietrich.-
+CEL: (+54) 2923465648
+ <br>Security_code : 3z2t8
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.136.22.99<br>
+ <br>REF : ROT-1
+ <br>Nombre : natalia
+ <br>Apellido : barrientos gomez
+ <br>Cargo : arquitecto
+ <br>Direccion : Sanchez de Bustamante 811
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 01141461299
+ <br>Email : natamani08@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : buenas estoy interesado en el puesto dejo adjunto mi cv.
+gracias
+ <br>Security_code : 8t4m4
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.50.17.52<br>
+ <br>REF : JPER-1
+ <br>Nombre : Julio César
+ <br>Apellido : Barbosa Vera
+ <br>Cargo : Jefe de Recursos Humanos
+ <br>Direccion : Oruro 395. Temperley
+ <br>Ciudad : Lomas de Zamora
+ <br>Telefono : 1136507920
+ <br>Email : jcbarbosavera@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Profesional con extensa trayectoria en Recursos Humanos. Relevante desempeño en negociaciones gremiales desarrolladas en Empresas de primer nivel. Amplio dominio de los procesos hard & soft del área contribuyendo al desarrollo y la gestión de las personas.
+ <br>Security_code : r428j
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.124.14.148<br>
+ <br>REF : TM-2
+ <br>Nombre : sergio
+ <br>Apellido : Mangiantini
+ <br>Cargo : tecnico mecanico tm-2
+ <br>Direccion : Laprida, 2521
+ <br>Ciudad : Zarate
+ <br>Telefono : 03487425034
+ <br>Email : sergiolmangiantini@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : tengo experiencia en mantenimiento mecanico de planta y en taller
+ <br>Security_code : bvykh
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.103.85.3<br>
+ <br>REF : EP-1
+ <br>Nombre : Yoana Sofía
+ <br>Apellido : Gobbi
+ <br>Cargo : Encargado de producción
+ <br>Direccion : Lavalle 1250
+ <br>Ciudad : Rosario
+ <br>Telefono : 03476-15525003
+ <br>Email : yoanagobbi_91@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Soy ingeniera química recién recibida, tengo 26 años y experiencia de 14 meses como encargada de planta en una empresa de agroalimentos.
+
+Quedo a disposición para concertar una entrevista,
+
+Saludos cordiales.
+ <br>Security_code : ys5mj
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 170.51.32.102<br>
+ <br>REF : ROT-1
+ <br>Nombre : Martin 
+ <br>Apellido : Almiron 
+ <br>Cargo : Técnico para planta metalúrgica 
+ <br>Direccion : De la peña 147 
+ <br>Ciudad : Wilde 
+ <br>Telefono : 011 1523491100
+ <br>Email : martinalmironsae@hotmail.com 
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados, espero les agrade la experiencia que adquirí a lo largo de 20 años de trabajo en el rubro electrónica. Atte Martin Almiron 
+ <br>Security_code : Stg58
+ <br>Send : Enviar
+ <br>
+---------------
+

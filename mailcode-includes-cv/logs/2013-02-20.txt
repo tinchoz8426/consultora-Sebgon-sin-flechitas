@@ -1,0 +1,46 @@
+Address : 186.134.10.111
+Nombre : bruno
+Apellido : mateos
+Cargo : varios
+Direccion : republica de chile 190
+Ciudad : villa luzuriaga
+Telefono : 44601654
+Email : brunomdmateos@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estoy Buscando trabajo , Tengo 23 Años y Resido en zona oeste . 
+Security_code : rnrpd
+Send : Enviar
+
+---------------
+
+Address : 190.173.106.31
+REF : jefe-de-operaciones
+Nombre : David
+Apellido : Contreras
+Cargo : Jefe de Operaciones
+Direccion : Luis Viale 648
+Ciudad : I Casanova
+Telefono : 44671964
+Email : davidrcontreras@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : soy tecnico superior en seguridad privada tengo experencia en manejo de personal y contactos con el cliente y 10 años de experienca en el area de seguridad y movilidad propia
+Security_code : jzhnt
+Send : Enviar
+
+---------------
+
+Address : 190.173.109.52
+Nombre : FERNANDO VICTOR
+Apellido : JUAREZ
+Cargo : Operario
+Direccion : Benito Machado 8209
+Ciudad : Loma Hermosa
+Telefono : 1562766466
+Email : fer_aye_roman@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me dirijo a Usted, con el motivo de enviarle mi curriculum vitae.  Desde ya muchas Gracias!
+Security_code : npyj5
+Send : Enviar
+
+---------------
+

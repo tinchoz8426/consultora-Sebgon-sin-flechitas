@@ -1,0 +1,83 @@
+Address : 190.174.144.104
+Nombre : ayelen
+Apellido : guerrero
+Cargo : empleada
+Direccion : alvear 5842
+Ciudad : la matanza
+Telefono : 46523998
+Email : ayelen761@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : espero su llamado
+Security_code : p6r9j
+Send : Enviar
+
+---------------
+
+Address : 186.108.218.108
+Nombre : Carla Luciana
+Apellido : Aban
+Cargo : Biotecnologo
+Direccion : Junin 452
+Ciudad : Salta Capital
+Telefono : 3875044858
+Email : carla_387@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto mi CV para la sucursal de la región NOA
+Security_code : w5x7v
+Send : Enviar
+
+---------------
+
+Address : 190.230.75.114
+Nombre : jonatan alejandro
+Apellido : esposito
+Cargo : operario
+Direccion : arias 2056
+Ciudad : garin
+Telefono : 03484 15365812
+Email : jonatanesposito@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : adjunto mi cv para postularme a la primer oferta laboral que se encuentre disponible poseo disponibilidad horaria y movilidad propia 
+Security_code : fxxxs
+Send : Enviar
+
+---------------
+
+Address : 190.104.198.199
+Nombre : Evelyn
+Apellido : Campiño
+Cargo : A convenir
+Direccion : Bourdet 1216
+Ciudad : Garin
+Telefono : 1164874710
+Email : yoeve15@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Disposicion de trabajo: Full Time. 
+Ingresos: a disposicion de la empresa.
+Security_code : tjwyd
+Send : Enviar
+
+---------------
+
+Address : 190.191.138.163
+Nombre : Gabiela Isabel
+Apellido : Perez
+Cargo : Administrativo
+Direccion : 45 N° 531
+Ciudad : La Plata
+Telefono : 02923- 15416148
+Email : perezgabrielaisabel@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimado/s:
+Adjunto curriculum vitae a tener en cuenta en las búsquedas laborales que estén realizando.
+
+Muchas gracias
+
+Saludo atte.
+
+Gabriela Pérez
+Security_code : dtjtq
+Send : Enviar
+
+---------------
+

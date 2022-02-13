@@ -1,0 +1,77 @@
+Address : 179.36.75.48<br>
+ <br>Nombre : Gabriel
+ <br>Apellido : Nani
+ <br>Cargo : Microbiologia
+ <br>Direccion : Mom 2527
+ <br>Ciudad : CABA
+ <br>Telefono : 1538314904
+ <br>Email : nani.gabriel@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Poseo una gran exoeriencia gran predisposicion y necesidad de trabajar
+ <br>Security_code : chjh5
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.192.156.164<br>
+ <br>Nombre : Alan Jesus
+ <br>Apellido : Castro
+ <br>Cargo : Indistinto
+ <br>Direccion : Av. Corrientes 753 Piso 16 Dto C
+ <br>Ciudad : Ciudad de Buenos Aires
+ <br>Telefono : 1133268004
+ <br>Email : alan.international.trade@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenos días: Le envío mi CV para su base de datos. Muchas gracias por su atención. Atte. Alan Castro
+ <br>Security_code : ww9wg
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.174.138.1<br>
+ <br>Nombre : Carla Elizaberh
+ <br>Apellido : Gutierrez
+ <br>Cargo : Secretaria, atencion al publico, cajera, repositora,etc.
+ <br>Direccion : San juan 1936
+ <br>Ciudad : General Roca 
+ <br>Telefono : 2984326551
+ <br>Email : Karlitaa4348@gmail.com 
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas tarde bueno quiero comentarles q ando en busca de trabajo soy responsable y no tengo problemas en hacer cursos o lo que tenga que hacer para aportar al trabajo bueno desde ya muchas gracias x su atención 
+ <br>Security_code : Yxp35
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.39.225.166<br>
+ <br>Nombre : Maximiliano
+ <br>Apellido : Acosta
+ <br>Cargo : arquitecto
+ <br>Direccion : Almafuerte
+ <br>Ciudad : Mar del Plata
+ <br>Telefono : 2235114659
+ <br>Email : acostamaximiliano.91@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas tardes, me encuentro en la búsqueda de un trabajo estable en el área de la construcción. Tengo experiencia trabajando para dos estudios de arquitectura de la ciudad de Mar del Plata y un aserradero orientado a la fabricación de carpintería y amoblamiento para grandes obras.
+Gracias por su consideración, saludos
+ <br>Security_code : 96mzh
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.39.225.166<br>
+ <br>Nombre : Maximiliano
+ <br>Apellido : Acosta
+ <br>Cargo : Masajista
+ <br>Direccion : Almafuerte
+ <br>Ciudad : Mar del Plata
+ <br>Telefono : 2235114659
+ <br>Email : maxi04_mdp91@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas tardes, me encuentro en la búsqueda de un trabajo temporario en el área de la hotelería, spa o promociones, como masajista. Tengo experiencia trabajando para dos agencias de promociones de la ciudad de Mar del Plata, con más de 4 temporadas trabajando para marcas como YPF Serviclub y BNA.
+Gracias por su consideración, saludos
+ <br>Security_code : hff2z
+ <br>Send : Enviar
+ <br>
+---------------
+

@@ -1,0 +1,76 @@
+Address : 181.29.252.216<br>
+ <br>Nombre : Leonela Angelina 
+ <br>Apellido : Osurak
+ <br>Cargo : Administración, atención al cliente, cajera
+ <br>Direccion : Peñaloza 8319
+ <br>Ciudad : Santa Fe
+ <br>Telefono : 3425031647
+ <br>Email : angelina.osurak@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola mi nombre es Leonela Angelina Osurak. Me dirijo a ud con el fin de hacer llegar mi CV esperando sea de su agrado. Sinceramente estoy buscando un puesto laboral urgente. Se adaptarme a cualquier puesto rápidamente.  Desde ya muchas gracias. 
+ <br>Security_code : rvwb6
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.120.128.203<br>
+ <br>Nombre : Yoiris 
+ <br>Apellido : Gonzalez
+ <br>Cargo : Director Comercial
+ <br>Direccion : Villa española 3 
+ <br>Ciudad : Maracaibo, Venezuela
+ <br>Telefono : +584242353297
+ <br>Email : gonzalezyoiris3@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Actualmente me encuentro laborando  en Venezuela en la empresa Optica Líder en el mercado, manejando la empresa en la región occidental, zona de gran potencialidad, sin embargo por la complejidad de vida actual en nuestro país, tengo planes a corto plazo de migrar hacia Argentina, BS donde me  pueda expandir  y proporcionarles mi experiencia en cualquiera de las áreas que describo a continuación.
+ <br>Security_code : gmssm
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.29.72.160<br>
+ <br>Nombre : Andres Osvaldo
+ <br>Apellido : Carta
+ <br>Cargo : chofer
+ <br>Direccion : emperanza 910
+ <br>Ciudad : ITUZAINGO (CP=1714)
+ <br>Telefono : 1165903897
+ <br>Email : raysen.22@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : hola buenas tardes 
+
+ <br>Security_code : cmgsm
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.183.48.207<br>
+ <br>Nombre : Guillermo
+ <br>Apellido : Almada
+ <br>Cargo : Chofer
+ <br>Direccion : Stevenson 1972
+ <br>Ciudad : Castelar
+ <br>Telefono : 1566635894
+ <br>Email : almada232@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas les mando mi cv para que me tengan en cuenta para alguna ocacion gracias
+ <br>Security_code : Zg8fx
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.169.73.216<br>
+ <br>Nombre : javier alejandro
+ <br>Apellido : ramirez mazzello
+ <br>Cargo : gerente comercial de seguros
+ <br>Direccion : valle 724  caballito
+ <br>Ciudad : capital federal
+ <br>Telefono : 011 26899714
+ <br>Email : javier.mazzello@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : CV:https://www.linkedin.com/in/javier-alejandro-ramirez-mazzello-47184bb/
+ <br>Security_code : g26zk
+ <br>Send : Enviar
+ <br>
+---------------
+

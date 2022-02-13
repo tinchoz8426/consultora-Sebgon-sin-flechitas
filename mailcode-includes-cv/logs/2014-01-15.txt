@@ -1,0 +1,206 @@
+Address : 190.51.159.146
+Nombre : Yesica Lorena
+Apellido : Caricato
+Cargo : Empleada Administrativa
+Direccion : Silva 385
+Ciudad : Buenos Aires
+Telefono : 42986183
+Email : ycaricato@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Espero una respuesta favorable para poder concretar una entrevista personal y ampliar los datos incluídos en mi currículum.
+Security_code : 8mytb
+Send : Enviar
+
+---------------
+
+Address : 186.18.137.16
+Nombre : Florencia
+Apellido : Aguirre
+Cargo : extraccionista-recepcionista-administrativa
+Direccion : jose ingenieros 4118
+Ciudad : buenos aires
+Telefono : 1162926671
+Email : florenciaaguirrejf@hotmail.es
+MAX_FILE_SIZE : 2097152
+Mensaje : Tengo urgente necesidad de trabajar!
+Security_code : ryf4h
+Send : Enviar
+
+---------------
+
+Address : 190.183.253.146
+REF : Asistente-Contable
+Nombre : Nelson Joaquin
+Apellido : Pérez
+Cargo : Asistente-Contable
+Direccion : Sargento Garcia 2019
+Ciudad : Paraná
+Telefono : 0343154728986
+Email : joaquinperez_83@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Pretención salarial acorde al trabajo a desarrollar. Flexible.
+Security_code : xx9b8
+Send : Enviar
+
+---------------
+
+Address : 190.183.253.146
+REF : Asistente-Comercial
+Nombre : Nelson Joaquin
+Apellido : Pérez
+Cargo : Asistente-Comercial
+Direccion : Sargento Garcia 2019
+Ciudad : Paraná
+Telefono : 0343154728986
+Email : joaquinperez_83@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Pretención Salarial acorde al trabajo a realizar. Flexible. 
+Security_code : rbjn
+Send : Enviar
+
+---------------
+
+Address : 190.183.253.146
+REF : ADMINISTRATIVA-DE-COMPRAS
+Nombre : Nelson Joaquin
+Apellido : Pérez
+Cargo : ADMINISTRATIVO-DE-COMPRAS
+Direccion : Sargento Garcia 2019
+Ciudad : Paraná
+Telefono : 0343154728986
+Email : joaquinperez_83@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Pretención salarial acorde al trabajo a desarrollar. Flexible.
+Security_code : 5j3qf
+Send : Enviar
+
+---------------
+
+Address : 190.189.54.102
+Nombre : sabrina ayelen
+Apellido : tsuchida
+Cargo : administrativo contable
+Direccion : 461 engre 15 y 15 a nº636
+Ciudad : la plata
+Telefono : 2216751724
+Email : sabrina.a.tsuchida@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : muchas ganas de trabajar y poder desarrollarme sobre todo en los conocimientos adquiridos   en la carrera de contador publico.
+Security_code : 979pk
+Send : Enviar
+
+---------------
+
+Address : 190.189.54.102
+REF : Asistente-Contable
+Nombre : sabrina ayelen
+Apellido : tsuchida
+Cargo : administrativo contable
+Direccion : 461 engre 15 y 15 a nº636
+Ciudad : la plata
+Telefono : 2216751724
+Email : sabrina.a.tsuchida@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : ganas de trabajar y desarrollarme en el ambito de mis estudios.super responsable.
+Security_code : xzckg
+Send : Enviar
+
+---------------
+
+Address : 190.244.183.114
+REF : TECNICO-MECANICO
+Nombre : Marcelo Fabian
+Apellido : Calello
+Cargo : Tecnico Mecanico
+Direccion : angaco 4070
+Ciudad : caba
+Telefono : 15 5185 0315
+Email : emece666@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Por la presente envio a Ud mi Cv, quedo a su disposicion para cualquier consulta y lo saludo muy atte
+
+Marcelo Calello
+Security_code : nkqhz
+Send : Enviar
+
+---------------
+
+Address : 186.18.147.75
+REF : Asistente-Contable
+Nombre : Paula Fátima
+Apellido : Carbone Correa
+Cargo : Asistente Contable
+Direccion : 2 de Mayo 3897 
+Ciudad : Lanús Oeste
+Telefono : 1138859683
+Email : meby_87@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Sin inconveniente en viajar a la zona Oeste.
+Security_code : sksk7
+Send : Enviar
+
+---------------
+
+Address : 190.174.20.73
+REF : Asistente-Comercial
+Nombre : NATALIA
+Apellido : GONZALEZ
+Cargo : ASISTENTE COMERCIAL
+Direccion : Olavarria 236
+Ciudad : Ituzaingo
+Telefono : 1563099450
+Email : naty781@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Envio adjunto mi CV,gracias.
+Security_code : pzdm4
+Send : Enviar
+
+---------------
+
+Address : 190.174.20.73
+REF : Asistente-Comercial
+Nombre : NATALIA
+Apellido : GONZALEZ
+Cargo : ASISTENTE COMERCIAL
+Direccion : Olavarria 236
+Ciudad : Ituzaingo
+Telefono : 1563099450
+Email : naty781@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Envio adjunto mi CV,gracias.
+Security_code : pzdm4
+Send : Enviar
+
+---------------
+
+Address : 190.174.20.73
+REF : Asistente-Comercial
+Nombre : NATALIA
+Apellido : GONZALEZ
+Cargo : ASISTENTE COMERCIAL
+Direccion : Olavarria 236
+Ciudad : Ituzaingo
+Telefono : 1563099450
+Email : naty781@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Envio adjunto mi CV,gracias.
+Security_code : 5vtbn
+Send : Enviar
+
+---------------
+
+Address : 186.39.196.110
+Nombre : florencia
+Apellido : bertolino
+Cargo : recursos humanos
+Direccion : calle san luis 809 
+Ciudad : rivadavia-mendoza
+Telefono : 02634694767
+Email : florencia_b14@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : HOLA; AQUI ENVIO MI CV CON EL PROPOSITO DE OBTENER ENTREVISTA LABORAL Y/O POSIBILAD DE EMPLEO. DESDE YA MUCHAS GRACIAS. SALUDO ATTE: BERTOLINO ERICA FLORENCIA
+Security_code : vkx43
+Send : Enviar
+
+---------------
+

@@ -1,0 +1,17 @@
+Address : 201.254.123.46
+Nombre : Caterina
+Apellido : Galanzino
+Empresa : Punto Rojo
+Telefono : +541143252790
+Email : cgalanzino@puntorojomarketing.com
+Mensaje : Buenas tardes, 
+Somos una empresa en Buenos Aires, Argentina.
+Estamos en la búsqueda de una agencia de recursos humanos en Santiago de Chile especializada en la industria digital, y que trabajen bajo modalidad de resultados, donde solo pagamos cuando el postulante finalmente ingresa en la empresa.
+Cuál es su modalidad de trabajo?
+Espero su respuesta.
+Desde ya, muchas gracias!
+Security_code : yq4zs
+Send : Enviar
+
+---------------
+

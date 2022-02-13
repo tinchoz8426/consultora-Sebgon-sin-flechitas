@@ -1,0 +1,49 @@
+Address : 168.121.209.243<br>
+ <br>Nombre : guillermo
+ <br>Apellido : cerdan
+ <br>Cargo : operario
+ <br>Direccion : campana, 2839
+ <br>Ciudad : lomas de zamora
+ <br>Telefono : 1133474586
+ <br>Email : cerdanguillermo5@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : estoy dispuesto a trabajar full time. 
+ <br>Security_code : phhbn
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.247.139.110<br>
+ <br>REF : JPER-1
+ <br>Nombre : Carlos Enrique
+ <br>Apellido : Naredo
+ <br>Cargo : Jefe de RRHH
+ <br>Direccion : Domingo Olivera 2271
+ <br>Ciudad : Ituzaingo
+ <br>Telefono : 15 7034 5477
+ <br>Email : enrique_naredo@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : A quien Corresponda, les Adjunto mi CV con el fin de postularme a la posición de Jefe de RRHH publicada. 
+Un cordial Saludo
+Enrique
+ <br>Security_code : mcb5g
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.48.42.68<br>
+ <br>REF : chr
+ <br>Nombre : diego
+ <br>Apellido : mantovani
+ <br>Cargo : chofer
+ <br>Direccion : venezuela6654
+ <br>Ciudad : avellaneda
+ <br>Telefono : 1534244415
+ <br>Email : lele-22@live.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : les envio mi cv para el puesto de chofer gracias
+ <br>Security_code : wjm4s
+ <br>Send : Enviar
+ <br>
+---------------
+

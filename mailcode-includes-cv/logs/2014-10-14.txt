@@ -1,0 +1,64 @@
+Address : 190.245.34.217
+Nombre : Luis Alberto
+Apellido : Garcia
+Cargo : Tecnico en Seguridad e Higiene
+Direccion : viel 1093
+Ciudad : Capital Federal
+Telefono : 49247074
+Email : donluisgarcia@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : De mi mayor consideración:
+
+Tengo el agrado de dirigirme a Usted, con el fin de transmitirle mi deseo de incorporarme a su organización, es por ello, que adjunto a la presente mi Curriculum Vitae.
+Me presento como una persona activa, responsable, creativa, flexible orientado al logro de resultados y a la resolución y evolución constante de las tareas asignadas.
+Si fuera necesario para cualquier consulta adicional o entrevista personal, solo tiene que comunicarse a través de mail donluisgarcia@gmail.com o por teléfono al 4924-7074.
+
+Quedando a la espera de su respuesta, lo saludo muy atentamente. 
+
+Luis A. Garcia
+Teléfono: (011) 4924-7074
+donluisgarcia@gmail.com
+
+
+
+
+
+Security_code : cymyy
+Send : Enviar
+
+---------------
+
+Address : 186.23.26.78
+Nombre : Damian
+Apellido : Chittolini
+Cargo : Operario 
+Direccion : Basualdo 761
+Ciudad : Isidro Casanova
+Telefono : 46695575
+Email : damian.chitto1@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenos días.
+
+Aquí dejo mi CV, estoy buscando cambiar de trabajo y me sería de gran ayuda que me den una mano. 
+
+Desde ya muchas gracias.
+Security_code : fhv8d
+Send : Enviar
+
+---------------
+
+Address : 181.46.68.103
+Nombre : Patricia
+Apellido : Goyochea
+Cargo : administrativo
+Direccion : Laprida 1355
+Ciudad : Buenos Aires
+Telefono : 1559464549
+Email : goyocheapatricia@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Busco un trabajo part-time que me permita seguir estudiando. Soy muy responsable y organizada. Estuve trabajando como gestora en En-causar Psi hasta hace unos meses.
+Security_code : 7wys6
+Send : Enviar
+
+---------------
+

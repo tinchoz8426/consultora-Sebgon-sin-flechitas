@@ -1,0 +1,71 @@
+Address : 190.50.97.235<br>
+ <br>REF : chr
+ <br>Nombre : Javier Horacio
+ <br>Apellido : Pierandrey
+ <br>Cargo : Chofer
+ <br>Direccion : Rene Favaloro 703, Belgrano y Moreno
+ <br>Ciudad : Luis Guillon
+ <br>Telefono : 1164065401
+ <br>Email : javier.pierandrey@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estoy buscando trabajo y estoy capacitado para ocupar el puesto de chofer.
+Saludos cordiales
+ <br>Security_code : rd4cp
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.181.67.50<br>
+ <br>REF : chr
+ <br>Nombre : jonathan manuel
+ <br>Apellido : chaves
+ <br>Cargo : chofer
+ <br>Direccion : dominguez 3130
+ <br>Ciudad : castelar
+ <br>Telefono : 1556162630
+ <br>Email : yonhychaves9@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : cnrt,mercancias peligrosas y por ahora municipal hasta 3500 kg.experiencia 10 años en CABA y GBA
+ <br>Security_code : dzczx
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.182.165.68<br>
+ <br>Nombre : Natalia
+ <br>Apellido : Mangone
+ <br>Cargo : administración/liquidación de sueldo 
+ <br>Direccion : Azopardo  1942
+ <br>Ciudad : Morón
+ <br>Telefono : 1527328065
+ <br>Email : natalianieves1981@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : De mi mayor consideración: 
+                                                       Me dirijo a Ustedes, para  brindar mis servicios, cuentos con  10 años de experiencia en administración general, liquidación de sueldos, atención a clientes-proveedores - acreedores - público,  mi perfil como competencias  es ser pro-activa, prolija, responsable, con buena presencia, atenta a la función, aplico los recursos necesarios para lograr los objetivos planteados, trabajo en forma individual o en grupo. Mis conocimientos fueron adqueridos con la experiencia y estudios de diferentes niveles. (terciarios y Universitarios)
+Desde ya gracias.
+Natalia Mangone 
+29238602	
+
+
+
+ <br>Security_code : fk3yt
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.9<br>
+ <br>REF : EP-1
+ <br>Nombre : Daniel 
+ <br>Apellido : Barrionuevo 
+ <br>Cargo : Encargado de producción Alimenticia 
+ <br>Direccion : Jose león cabezón 3100 
+ <br>Ciudad : Capital federal 
+ <br>Telefono : 1564707006 
+ <br>Email : barrionuevodan@yahoo.com.ar 
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Disponibilidad horaria
+ <br>Security_code : f8jtq
+ <br>Send : Enviar
+ <br>
+---------------
+

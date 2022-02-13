@@ -1,0 +1,90 @@
+Address : 190.188.244.57
+Nombre : Julia 
+Apellido : Villegas Santoro
+Cargo : Técnico Superior en Seguridad, Higiene y Control Ambiental Industrial
+Direccion : 528 bis nº 1106 
+Ciudad : La Plata 
+Telefono : 0221 15 503 3795 (móvil) 
+Email : juliavictoriavillegas@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola, mi nombre es Julia Villegas Santoro, Técnico Sup. en Seguridad, Higiene y Control Ambiental Industrial. Realizo capacitaciones a establecimientos varios en la ciudad de  La Plata como trabajadora independiente (tengo monotributo y matrícula). Para concretar alguna entrevista o contactarnos les dejo mi número de teléfono móvil y mi dirección de correo electrónico. Saludos Cordiales.
+Security_code : zfx43
+Send : Enviar
+
+---------------
+
+Address : 190.230.225.182
+Nombre : Daiana
+Apellido : Aguirre
+Cargo : Vendedor, cajero, moza
+Direccion : Barrio El Pozo, manzana 1, vivienda 20
+Ciudad : Santa Fe
+Telefono : 4981616
+Email : day_07_01@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Espero prontas respuestas, necesito mucho trabajar. Gracias
+Security_code : 575fq
+Send : Enviar
+
+---------------
+
+Address : 190.226.21.152
+Nombre : florencia cecilia
+Apellido : SANCHEZ
+Cargo : psicologo-rrhh
+Direccion : 25de mayo 1612
+Ciudad : sanlorenzo
+Telefono : 0347615591145
+Email : floresanz@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : busco trabajo de mi profesión lic. en psicología..o de selección de personal-rr.hh
+Security_code : 9h5jk
+Send : Enviar
+
+---------------
+
+Address : 186.13.3.138
+Nombre : Estefania
+Apellido : Sueldo
+Cargo : auxiliar contable
+Direccion : 94 2725
+Ciudad : Necochea
+Telefono : (02262)15350275
+Email : estefysu@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Busco empleo en el área contable de una empresa o como auxiliar administrativo en un estudio contable. Disponibilidad para re ubicarme en otra localidad. 
+Security_code : 3hs7k
+Send : Enviar
+
+---------------
+
+Address : 201.254.121.80
+Nombre : diego 
+Apellido : testone
+Cargo : programador
+Direccion : cordoba y callao
+Ciudad : buenos aires
+Telefono : 1521759389
+Email : diegotestone@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : como cargo me gustaria programador, en el area de sistema. pero estoy dispuesto a trabajar en cualquier otro cargo 
+Security_code : b424g
+Send : Enviar
+
+---------------
+
+Address : 186.153.38.214
+Nombre : gerardo
+Apellido : chemin
+Cargo : tecnico
+Direccion : esteban echeverria 8044
+Ciudad : buenos aires
+Telefono : 48400979
+Email : gerardo_federico@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : envío mi cv soy técnico electrónico
+Security_code : jwg4s
+Send : Enviar
+
+---------------
+

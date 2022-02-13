@@ -1,0 +1,45 @@
+Address : 181.118.247.183
+Nombre : ANDREA PAULA
+Apellido : GASPARETTI
+Cargo : Psicologa
+Direccion : Complejos Las Recovas, Depto 17
+Ciudad : Pilar, Buenos Aires
+Telefono : 011-156464-4626
+Email : andrea.gasparetti@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados, 
+Adjunto mi curriculum vitae a fin de postularme a las vacantes que esten alineadas a mi perfil y experiencia laboral.
+Sin más, los saludo atentamente.
+Lic. Andrea Gasparetti
+Security_code : hwmgs
+Send : Enviar
+
+---------------
+
+Address : 181.31.67.232
+REF : VEN
+Nombre : Maria de los Angeles
+Apellido : Picchi
+Cargo : Secretaria
+Direccion : Francia 1830
+Ciudad : Buenos Aires
+Telefono : 1569000987
+Email : anyuu.picchi@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Asunto: Presentación
+Estimado,
+Por medio de la presente me tomo el atrevimiento de adjuntar junto a la misma mi curriculum.
+Mi nombre es Ángeles Picchi y tengo 21 años (8/07/1993).Soy una persona proactiva, responsable y puntual, que tiene como principal objetivo comenzar a trabajar para poder independizarse de los padres, aprender y crecer. 
+Soy estudiante del último año de la carrera de fotografía creativa en la escuela de Andy Goldstein. También estoy realizando la carrera de organización de eventos en Ott College.
+Por ultimo estoy terminando un curso de secretariado ejecutivo que se dicta en la Universidad de Buenos Aires (Económicas, Capacitarte). 
+Cuento con un nivel de ingles intermedio.
+	En cuanto a mi desempeño laboral estoy casi sin experiencia porque en un primer momento me evoque principalmente a adelantar mis estudios. Realice unos meses trabajo como recepcionista en un salón de belleza femenina como recepcionista, atención de turnos y cobro de caja y actualmente me encuentro al cuidado de un niño de 1 años y medio.
+Espero tengan en cuenta mi curriculum para sus posibles y futuras búsquedas.
+Desde ya muchas gracias,
+			Los saluda atentamente María de los Ángeles picchi
+
+Security_code : bbtwc
+Send : Enviar
+
+---------------
+

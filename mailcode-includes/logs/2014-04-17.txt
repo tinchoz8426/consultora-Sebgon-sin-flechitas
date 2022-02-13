@@ -1,0 +1,17 @@
+Address : 186.136.1.168
+Nombre : Hernan 
+Apellido : Schinocca
+Empresa : Kraftfoods
+Telefono : 15 66289495
+Email : hschinocca@yahoo.com.ar
+Mensaje : Gerente Comercial/ Ventas
+Estimados me gustaría aplicar a la busqueda cuyo ID es: 	11941024
+me podran enviar una direccion de mail donde enviar mis antecedentes
+gracias
+Hernan
+
+Security_code : cqrx2
+Send : Enviar
+
+---------------
+

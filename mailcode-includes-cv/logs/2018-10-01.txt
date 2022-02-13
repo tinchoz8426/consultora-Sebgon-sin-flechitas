@@ -1,0 +1,373 @@
+Address : 181.230.21.66<br>
+ <br>Nombre : Daiana
+ <br>Apellido : Llopiz, Frasca
+ <br>Cargo : ADMINISTRATIVO
+ <br>Direccion : PARAGUAY 1850
+ <br>Ciudad : Rosario
+ <br>Telefono : 3462612946
+ <br>Email : daiafrasca@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buen día, adjunto mi Curriculum Vitae para su consideración y manifiesto mi alto interés para participar en los procesos de selección que se adapten a mi perfil.
+Quedo a su entera disposición ante una eventual entrevista personal.
+Saludos.
+Daiana Frasca 
+36.832.105
+
+ <br>Security_code : tvm78
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 200.85.189.97<br>
+ <br>Nombre : Jonatan
+ <br>Apellido : Ramírez 
+ <br>Cargo : Mantenimiento 
+ <br>Direccion : Patricios 364
+ <br>Ciudad : Monte grande
+ <br>Telefono : 1554885746
+ <br>Email : Jhonyramirez858@gmail.com 
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Ando en la búsqueda de trabajo en la cual soy muy responsable..  y me doy mucha mania para lo que fuese me desarrollo y aprendo rápido ala hora de alguna oportunidad laboral... soy y seré muy sincero hoy como esta la situación cualquier trabajo me viene bien .. sólo pido ina oportunidad y una semana de demostración sin paga.. para demostrar que puedo trabajar gracias y Saludos 
+ <br>Security_code : sq6yj
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.47.73.115<br>
+ <br>REF : TEC. EL
+ <br>Nombre : Pablo Andres
+ <br>Apellido : Quiroga Espinosa
+ <br>Cargo : Tecnico electronico
+ <br>Direccion : Moreloa 689
+ <br>Ciudad : Ciudad Autónoma de Buenos Aires
+ <br>Telefono : 01167472714
+ <br>Email : quirogaespinosa@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenos días les adjunto mi CV para la vacante de técnico electrónico o alguna vacante que les surja. Gracias 
+ <br>Security_code : pj2tz
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.14.141.159<br>
+ <br>Nombre : ESTEFANIA EGLE
+ <br>Apellido : BOTTASSO
+ <br>Cargo : ADMINISTRATIVO
+ <br>Direccion : OMBU 49 DPTO 9
+ <br>Ciudad : BELL VILLE
+ <br>Telefono : 3537581422
+ <br>Email : estefi_bottaso@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : me postulo para cualquier tipo de trabajo en la pcia de cordoba. gracias
+ <br>Security_code : 53ypv
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.153.236.182<br>
+ <br>Nombre : analia 
+ <br>Apellido : Anghileri
+ <br>Cargo : docente de fotografia o musica
+ <br>Direccion : mendoza 1839
+ <br>Ciudad : rosario
+ <br>Telefono : 3415767367
+ <br>Email : otrosojos@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : buenos dias. Soy Fotografa y profesora de musica. Estoy sin trabajo, necesito trabajar ya de los que sea, gracias
+ <br>Security_code : 75h9z
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.153.236.182<br>
+ <br>Nombre : analia 
+ <br>Apellido : Anghileri
+ <br>Cargo : docente de fotografia o musica
+ <br>Direccion : mendoza 1839
+ <br>Ciudad : rosario
+ <br>Telefono : 3415767367
+ <br>Email : otrosojos@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : buenos dias. Soy Fotografa y profesora de musica. Estoy sin trabajo, necesito trabajar ya de los que sea, gracias
+ <br>Security_code : 75h9z
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.210.251.55<br>
+ <br>REF : JPER-1
+ <br>Nombre : LUIS RICARDO
+ <br>Apellido : CARDUCCI
+ <br>Cargo : Jefe de Personal
+ <br>Direccion : velazquez 2343
+ <br>Ciudad : LOS POLVORINES
+ <br>Telefono : 01141842847
+ <br>Email : carducciluis@speedy.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Adjunto mi CV a fin de concursar para la vacante de Jede de Personal.
+
+Saludos
+ <br>Security_code : h6v84
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.11<br>
+ <br>REF : TM-2
+ <br>Nombre : Rodolfo
+ <br>Apellido : Lizarraga
+ <br>Cargo : Tecnico electromecánico 
+ <br>Direccion : Tomas valle 4841
+ <br>Ciudad : GONZALEZ CATAN (CP=1759)
+ <br>Telefono : 1133332504
+ <br>Email : daniellizarraga81@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Trabaje en el sector de mantenimiento conosimineto de trabajó neumáticos hidráulicos tareas relisadas mantenimiento preventivo correctivo en motores reductores conpresores 
+ <br>Security_code : 8ryg6
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.188.172.254<br>
+ <br>Nombre : franco 
+ <br>Apellido : lefuizamon
+ <br>Cargo : operario
+ <br>Direccion : bertole 8279
+ <br>Ciudad : rosaio 
+ <br>Telefono : 3412170696
+ <br>Email : francomatias476@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : aqui les dejo mi cv 
+ <br>Security_code : r2pvv
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.105.125.168<br>
+ <br>Nombre : Mariela
+ <br>Apellido : Garcia
+ <br>Cargo : Lo q sea
+ <br>Direccion : Barrio 64 viviendas casa b6
+ <br>Ciudad : La paz
+ <br>Telefono : 3437410850
+ <br>Email : Mariela vivianaarcia @ yahoo.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Necesito urgente trabajr
+ <br>Security_code : 68sng
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.170.120.61<br>
+ <br>Nombre : Romina
+ <br>Apellido : Sotelo
+ <br>Cargo : Recepcionista
+ <br>Direccion : Carlos peregrini 412
+ <br>Ciudad : Lujan
+ <br>Telefono : 2323328251
+ <br>Email : Rominasotelo_98@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas tardes adjunto mi cv para alguna vacante de empleo. Desde ya muchas gracias. 
+ <br>Security_code : Vq49z
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 35.211.141.114<br>
+ <br>Nombre : Marco Ronaldo
+ <br>Apellido : Damián Alanya 
+ <br>Cargo : Atención al público 
+ <br>Direccion : Av. Hipólito Yrigoyen 2255
+ <br>Ciudad : Buenos Aires 
+ <br>Telefono : 1157058672
+ <br>Email : marco10ronaldo@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola necesito un empleo acorde a mis habilidades
+ <br>Security_code : W5k9m
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 35.211.141.114<br>
+ <br>Nombre : Marco Ronaldo
+ <br>Apellido : Damián Alanya 
+ <br>Cargo : Atención al público 
+ <br>Direccion : Av. Hipólito Yrigoyen 2255
+ <br>Ciudad : Buenos Aires 
+ <br>Telefono : 1157058672
+ <br>Email : marco10ronaldo@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola necesito un empleo acorde a mis habilidades
+ <br>Security_code : W5k9m
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 35.211.141.114<br>
+ <br>Nombre : Marco Ronaldo
+ <br>Apellido : Damián Alanya 
+ <br>Cargo : Atención al público 
+ <br>Direccion : Av. Hipólito Yrigoyen 2255
+ <br>Ciudad : Buenos Aires 
+ <br>Telefono : 1157058672
+ <br>Email : marco10ronaldo@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola necesito un empleo acorde a mis habilidades
+ <br>Security_code : W5kgm
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 35.211.141.114<br>
+ <br>Nombre : Marco Ronaldo
+ <br>Apellido : Damián Alanya 
+ <br>Cargo : Atención al público 
+ <br>Direccion : Av. Hipólito Yrigoyen 2255
+ <br>Ciudad : Buenos Aires 
+ <br>Telefono : 1157058672
+ <br>Email : marco10ronaldo@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola necesito un empleo acorde a mis habilidades
+ <br>Security_code : W5kgm
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 35.207.29.212<br>
+ <br>Nombre : Marco Ronaldo
+ <br>Apellido : Damián Alanya 
+ <br>Cargo : Atención al público 
+ <br>Direccion : Av. Hipólito Yrigoyen 2255
+ <br>Ciudad : Buenos Aires 
+ <br>Telefono : 1157058672
+ <br>Email : marco10ronaldo@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola necesito un empleo acorde a mis habilidades
+ <br>Security_code : 2n958
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.9<br>
+ <br>Nombre : Lourdes
+ <br>Apellido : Leguizamon
+ <br>Cargo : Limpieza
+ <br>Direccion : Quintana 6725
+ <br>Ciudad : Buenos aires
+ <br>Telefono : 1135874245
+ <br>Email : Lourdesleguizamon_50@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola me gustaria conseguir trabajo
+ <br>Security_code : Hqbmq
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.9<br>
+ <br>Nombre : Lourdes
+ <br>Apellido : Leguizamon
+ <br>Cargo : Limpieza
+ <br>Direccion : Quintana 6725
+ <br>Ciudad : Buenos aires
+ <br>Telefono : 1135874245
+ <br>Email : Lourdesleguizamon_50@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola me gustaria conseguir trabajo
+ <br>Security_code : hqbmq
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.11<br>
+ <br>Nombre : Lourdes
+ <br>Apellido : Leguizamon
+ <br>Cargo : Limpieza
+ <br>Direccion : Quintana 6725
+ <br>Ciudad : Buenos aires
+ <br>Telefono : 1135874245
+ <br>Email : Lourdesleguizamon_50@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola me gustaria conseguir trabajo
+ <br>Security_code : Tt5nxn
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.7<br>
+ <br>Nombre : Lourdes
+ <br>Apellido : Leguizamon
+ <br>Cargo : Limpieza
+ <br>Direccion : Quintana 6725
+ <br>Ciudad : Buenos aires
+ <br>Telefono : 1135874245
+ <br>Email : Lourdesleguizamon_50@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola me gustaria conseguir trabajo
+ <br>Security_code : gSWpm
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.11<br>
+ <br>Nombre : Lourdes
+ <br>Apellido : Leguizamon
+ <br>Cargo : Limpieza
+ <br>Direccion : Quintana 6725
+ <br>Ciudad : Buenos aires
+ <br>Telefono : 1135874245
+ <br>Email : Lourdesleguizamon_50@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola me gustaria conseguir trabajo
+ <br>Security_code : 4WV2z
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.9<br>
+ <br>Nombre : Lourdes
+ <br>Apellido : Leguizamon
+ <br>Cargo : Limpieza
+ <br>Direccion : Quintana 6725
+ <br>Ciudad : Buenos aires
+ <br>Telefono : 1135874245
+ <br>Email : Lourdesleguizamon_50@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola me gustaria conseguir trabajo
+ <br>Security_code : 4WV2z
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.7<br>
+ <br>Nombre : Lourdes
+ <br>Apellido : Leguizamon
+ <br>Cargo : Limpieza
+ <br>Direccion : Quintana 6725
+ <br>Ciudad : Buenos aires
+ <br>Telefono : 1135874245
+ <br>Email : Lourdesleguizamon_50@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola me gustaria conseguir trabajo
+ <br>Security_code : hqbmq
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.192.133.73<br>
+ <br>REF : EP-1
+ <br>Nombre : Ybet Roxana
+ <br>Apellido : Oropeza Gonzalez
+ <br>Cargo : Coordinador de Produccion
+ <br>Direccion : Pacheco 1928
+ <br>Ciudad : Capital Federal
+ <br>Telefono : 1126735904
+ <br>Email : yoropeza77@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buen dia
+
+El presente es para postularme al cargo
+ <br>Security_code : 7chxf
+ <br>Send : Enviar
+ <br>
+---------------
+

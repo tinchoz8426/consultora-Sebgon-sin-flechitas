@@ -1,0 +1,45 @@
+Address : 190.174.23.198
+Nombre : Maria Sol
+Apellido : Medina
+Cargo : Administrativo
+Direccion : Larraya 74
+Ciudad : Buenos Aires
+Telefono : 1564852604
+Email : medina.mariasol@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Mi objetivo es establecerme y consolidarme en una empresa que me otorgue estabilidad laboral para poder aplicar mis experiencias y conocimientos en las áreas administrativas y operativas de la empresa, y desarrollarme profesionalmente para el buen desempeño de las funciones asignadas.
+Security_code : vs7rd
+Send : Enviar
+
+---------------
+
+Address : 66.249.83.169
+Nombre : marisa
+Apellido : Clementoni Ayala
+Cargo : empleada..telemarketing
+Direccion : watt 2459
+Ciudad : laferrere
+Telefono : 1533304942
+Email : clementoni47@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola me gustaríaque me tomen en cuenta en algún puesto para telemarketer...atención al cliente o para alguna fabrica como operaria.
+Security_code : c9zjp
+Send : Enviar
+
+---------------
+
+Address : 201.176.141.197
+Nombre : mariano
+Apellido : cejas
+Cargo : cadete 
+Direccion : lascano 5239 pb b
+Ciudad : cap. fed.
+Telefono : 1565133656
+Email : cejas_mariano@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Le envio mi CV para que lo puedan ver y tener en su base de datos y asi lograr mi objetivo que es conseguir trabajo.
+Security_code : wf4r2
+Send : Enviar
+
+---------------
+

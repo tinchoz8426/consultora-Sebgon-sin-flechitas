@@ -1,0 +1,30 @@
+Address : 190.55.42.195
+Nombre : Betina
+Apellido : Bertagni Gallo
+Cargo : Selectora de Personal
+Direccion : Tomas Le Breton 4990
+Ciudad : Buenos Aires
+Telefono : 15-5988-3629
+Email : betinabertagni@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto mi CV para puestos de Selección de Personal, RRHH.
+Security_code : 96ZM3
+Send : Enviar
+
+---------------
+
+Address : 186.23.1.240
+Nombre : Ana Belen 
+Apellido : Ferreira
+Cargo : Recursos Humanos Junior
+Direccion : 9 de Abril 2842
+Ciudad : Monte Grande
+Telefono : 1125521804
+Email : ana_rr.ll@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me gustaría poder desarrollar mi carrera profesional, ya que poseo los conocimientos necesarios y muchas ganas de crecer y aprender día a día.
+Security_code : 4c9h8
+Send : Enviar
+
+---------------
+

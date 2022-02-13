@@ -1,0 +1,30 @@
+Address : 190.31.158.117
+Nombre : Silvana Soledad
+Apellido : Miranda
+Cargo : Cajera , Moza, Atencion al cliente
+Direccion : Bº San Fernando manz 6 Lote 14
+Ciudad : La Banda -Santiago del Estero
+Telefono : 0379-154519687
+Email : silvanasol_85@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenos Dias me gustaria trabajar por que soy una mujer muy activa.Me siento capasitada para aprender la activadad que la empresa requiera.
+Security_code : v3hdq
+Send : Enviar
+
+---------------
+
+Address : 186.153.112.128
+Nombre : Virginia
+Apellido : Ruiz
+Cargo : Empleada Administrativa
+Direccion : Salta 4825
+Ciudad : San Martin
+Telefono : 4847-0846
+Email : virgini73@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estoy en la busqueda de un trabajo de media jornada, puede ser por la mañana o tarde. Muchas gracias
+Security_code : d2dvm
+Send : Enviar
+
+---------------
+

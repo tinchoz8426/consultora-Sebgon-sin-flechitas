@@ -1,0 +1,34 @@
+Address : 186.18.231.70
+Nombre : Veronica
+Apellido : Guerchicoff
+Cargo : Lic en Trabajo Social p/Informes Sociambientales 
+Direccion : Dr Nicolas Repetto 1178
+Ciudad : Cap Fed
+Telefono : 011-35344963
+Email : veronicaguerchic@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Por la presente me dirijo a Uds para hacerles lllegar mi interes de postularme como Lic en Trabajo Social para elaboracion de Informes sociambientales y/o seleccion de pesonal.
+
+Sin mas saluda atte
+Lic Veronica Guerchcioff
+Security_code : 6734g
+Send : Enviar
+
+---------------
+
+Address : 201.253.48.228
+Nombre : NATALIA 
+Apellido : LAGRUTTA
+Cargo : ADMINISTRACION
+Direccion : GRANDOLI 4795
+Ciudad : ROSARIO
+Telefono : 4644388
+Email : natalialagrutta@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : DEJO A SU DISPOSICION MI CURRICULUM 
+DESDE YA GRACIAS 
+Security_code : d3wsd
+Send : Enviar
+
+---------------
+

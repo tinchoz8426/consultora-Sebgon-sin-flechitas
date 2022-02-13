@@ -1,0 +1,81 @@
+Address : 190.192.58.135
+Nombre : Julia Lucia
+Apellido : Maceda
+Cargo : .
+Direccion : Italia 515
+Ciudad : Rosario
+Telefono : 3412520027
+Email : julialuciamaceda@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Les adjunto mi cv. Cualquier consulta estoy a su disposición.
+Saludos Cordiales,
+
+Security_code : 67sp8
+Send : Enviar
+
+---------------
+
+Address : 181.46.175.182
+Nombre : Fabian
+Apellido : Burgos
+Cargo : Customer Care / Administrativo / Back Office
+Direccion : Villafañe 318
+Ciudad : CABA
+Telefono : 15 66667259
+Email : nicker7@yahoo.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados, espero tengan a bien considerar mi CV.
+Security_code : bp2cg
+Send : Enviar
+
+---------------
+
+Address : 190.30.65.175
+Nombre : Marcia
+Apellido : Hauschid
+Cargo : recepcionista
+Direccion : uspallata 980
+Ciudad : capital federal
+Telefono : 59418325
+Email : marchu_plm@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me dirijo a Uds. por el aviso publicado en el cual solicitan recepcionista.
+En el CV que adjunto detallo mi experiencia, no poseo experiencia en esa área pero me gustaría aprender, capacitarme y seguir creciendo tanto en lo laboral como en lo personal.  
+Me gustaría ser parte de su empresa. Considero que mis aptitudes, motivación y creatividad pueden contribuir al crecimiento del sector donde me encuentre. Dejo a su criterio la posibilidad de mantener una entrevista.
+
+
+Security_code : 5md8p
+Send : Enviar
+
+---------------
+
+Address : 201.254.108.104
+Nombre : Andrea Elizabeth
+Apellido : Galarza Gamarra
+Cargo : Recepcionista
+Direccion : Juan Hernandez 412
+Ciudad : El Jaguel
+Telefono : 1561083335
+Email : andreagalarza@live.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Me postulo a cualquier puesto que este a mi alcance.
+Security_code : 9hvcb
+Send : Enviar
+
+---------------
+
+Address : 201.254.108.104
+Nombre : Andrea Elizabeth
+Apellido : Galarza Gamarra
+Cargo : Recepcionista
+Direccion : Juan Hernandez 412
+Ciudad : El Jaguel
+Telefono : 1561083335
+Email : andreagalarza@live.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Me postulo a cualquier puesto que este a mi alcance.
+Security_code : 9hvcb
+Send : Enviar
+
+---------------
+

@@ -1,0 +1,97 @@
+Address : 201.252.138.54
+Nombre : Adolfo Rafael
+Apellido : Rollano
+Cargo : DISEÑADOR INDUSTRIAL
+Direccion : J. M. LANZA 30709
+Ciudad : Bº SAN SALVADOR
+Telefono : 0351-4806674
+Email : arollano555@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : ENVIÓ MIS DATOS Y PARA POSTULAR ME COMO DISEÑADOR INDUSTRIAL- PARA GENERAL RODRIGUES.
+
+SALUDOS CORDIALES
+
+ADOLFO ROLLANO
+Security_code : hbqsb
+Send : Enviar
+
+---------------
+
+Address : 190.105.39.183
+Nombre : Marco
+Apellido : Battistini
+Cargo : Ventas - Compras
+Direccion : Bolivar 3077
+Ciudad : Lomas de mirador
+Telefono : 44411726
+Email : marcobattistini_elca@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenos días, estoy interesado en conseguir trabajo en el cargo de Comprador o Vendedor 
+Security_code : by7wh
+Send : Enviar
+
+---------------
+
+Address : 186.22.4.154
+Nombre : adrian
+Apellido : ganin
+Cargo : jefe de planta /produccion
+Direccion : pola 255
+Ciudad : caba
+Telefono : 1540247848
+Email : aganin2007@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Me presento expontanmeente por alguna busqueda d jfe d planta y/o produccion tniendo mas de10 años de experiencia en la industria metalmecanica
+Security_code : xt5hr
+Send : Enviar
+
+---------------
+
+Address : 190.174.131.16
+REF : TLP
+Nombre : Lucas
+Apellido : Chomiuk
+Cargo : Técnico Electrónico Industrial
+Direccion : Beccar 846
+Ciudad : Heado
+Telefono : 4450-8168
+Email : lucas_chomiuk@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Espero ser tomado en consideracion esta propuesta de trabaj
+Security_code : 8rm2p
+Send : Enviar
+
+---------------
+
+Address : 190.174.131.16
+REF : TEI
+Nombre : Lucas
+Apellido : Chomiuk
+Cargo : Tecnico
+Direccion : Beccar 846
+Ciudad : Heado Buenos Aires
+Telefono : 1134193332
+Email : lucas_chomiuk@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Busco Trabajo En Forma Urgente Pretendo como minimo 10.000$ 
+Security_code : w4n56
+Send : Enviar
+
+---------------
+
+Address : 190.174.131.16
+REF : TECELEC
+Nombre : Lucas
+Apellido : Chomiuk
+Cargo : Tecnico Electronico
+Direccion : Beccar 846
+Ciudad : Buenos Aires Heado
+Telefono : 1134193332
+Email : lucas_chomiuk@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Busco Trabajo URGENTE
+Security_code : cjcjy
+Send : Enviar
+
+---------------
+

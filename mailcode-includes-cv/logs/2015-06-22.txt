@@ -1,0 +1,250 @@
+Address : 181.228.19.163
+Nombre : Maria Lorena
+Apellido : Fabro
+Cargo : Administrativa/Recepcionista/Cajera/Atención al público
+Direccion : 3 de febrero 1770
+Ciudad : PARANA
+Telefono : 3434382323
+Email : lorefa19@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Departamento RRHH:
+Me dirijo a ustedes a los efectos de hacerles llegar mi CV para que me tengan en cuenta en futuras vacantes que surjan en la ciudad de Paraná (Entre Ríos).
+Espero su pronta respuesta. 
+Atte.
+Lorena Fabro
+Security_code : 6h66m
+Send : Enviar
+
+---------------
+
+Address : 181.228.19.163
+Nombre : Maria Lorena
+Apellido : Fabro
+Cargo : Administrativa/Recepcionista/Cajera/Atención al público
+Direccion : 3 de febrero 1770
+Ciudad : Paraná
+Telefono : 3434382323
+Email : lorefa19@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Espero me tengan en cuenta para futuras vacantes. Atte.
+Security_code : g2yn3
+Send : Enviar
+
+---------------
+
+Address : 181.228.19.163
+Nombre : Maria Lorena
+Apellido : Fabro
+Cargo : Administrativa/Recepcionista/Cajera/Atención al público
+Direccion : 3 de febrero 1770
+Ciudad : Paraná
+Telefono : 3434382323
+Email : lorefa19@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Espero me tengan en cuenta para futuras vacantes. Atte.
+Security_code : g2yn3
+Send : Enviar
+
+---------------
+
+Address : 181.111.31.189
+Nombre : carolina anabel 
+Apellido : pons
+Cargo : atencion al cliente
+Direccion : SERAPIO OVEGERO 3524
+Ciudad : cordoba
+Telefono : 3512015997
+Email : carolina-pons@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : A quién corresponda: 
+              Buenas tardes, me contacto con ustedes a fin de enviarles mi Curriculum vitae.
+Espero les interese mi propuesta, quedo a la espera de su respuesta.
+Saludos cordiales.
+
+Carolina A. Pons
+DNI: 33.534.381
+Cel: 0351-152015997
+Security_code : 7mnwk
+Send : Enviar
+
+---------------
+
+Address : 181.111.31.189
+Nombre : carolina anabel 
+Apellido : pons
+Cargo : atencion al cliente
+Direccion : SERAPIO OVEGERO 3524
+Ciudad : cordoba
+Telefono : 3512015997
+Email : carolina-pons@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : A quién corresponda: 
+              Buenas tardes, me contacto con ustedes a fin de enviarles mi Curriculum vitae.
+Espero les interese mi propuesta, quedo a la espera de su respuesta.
+Saludos cordiales.
+
+Carolina A. Pons
+DNI: 33.534.381
+Cel: 0351-152015997
+Security_code : 7mnwk
+Send : Enviar
+
+---------------
+
+Address : 181.111.31.189
+Nombre : carolina anabel 
+Apellido : pons
+Cargo : atencion al cliente
+Direccion : SERAPIO OVEGERO 3524
+Ciudad : cordoba
+Telefono : 3512015997
+Email : carolina-pons@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : A quién corresponda: 
+              Buenas tardes, me contacto con ustedes a fin de enviarles mi Curriculum vitae.
+Espero les interese mi propuesta, quedo a la espera de su respuesta.
+Saludos cordiales.
+
+Carolina A. Pons
+DNI: 33.534.381
+Cel: 0351-152015997
+Security_code : 7mnwk
+Send : Enviar
+
+---------------
+
+Address : 190.192.118.202
+Nombre : Gustavo 
+Apellido : Puig 
+Cargo : Analista Ssr. / Sr. Costos y Presupuestos
+Direccion : URIBURU 92 3RO 8
+Ciudad : CABA
+Telefono : 15-3479-2706
+Email : puig.gustavo@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenas tardes,
+Adjunto mi CV en caso de que alguna búsqueda coincida con mi perfil.
+
+Atte,
+
+Gustavo Puig
+Security_code : tsqpf
+Send : Enviar
+
+---------------
+
+Address : 190.192.118.202
+Nombre : Gustavo 
+Apellido : Puig 
+Cargo : Analista Ssr. / Sr. Costos y Presupuestos
+Direccion : URIBURU 92 3RO 8
+Ciudad : CABA
+Telefono : 15-3479-2706
+Email : puig.gustavo@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenas tardes,
+Adjunto mi CV en caso de que alguna búsqueda coincida con mi perfil.
+
+Atte,
+
+Gustavo Puig
+Security_code : tsqpf
+Send : Enviar
+
+---------------
+
+Address : 190.192.118.202
+Nombre : Gustavo 
+Apellido : Puig 
+Cargo : Analista Ssr. / Sr. Costos y Presupuestos
+Direccion : URIBURU 92 3RO 8
+Ciudad : CABA
+Telefono : 15-3479-2706
+Email : puig.gustavo@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenas tardes,
+Adjunto mi CV en caso de que alguna búsqueda coincida con mi perfil.
+
+Atte,
+
+Gustavo Puig
+Security_code : 243sq
+Send : Enviar
+
+---------------
+
+Address : 190.230.66.12
+Nombre : Ana Milena
+Apellido : Comas
+Cargo : Psicologa Free Lance/ Responsable de Sector
+Direccion : Av San Juan 2452 13 E
+Ciudad : CABA
+Telefono : 1569838500
+Email : milenacomas@live.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados, Buenas Tardes
+A quien corresponda
+Les acerco mi CV para que puedan considerarlo.
+Posee experiencia en administración de Psicotecnicos y Psicodiagnostico (Batería completa, incluyendo el Z).
+Monotributo al día. Seguro de Mala praxis. Movilidad y disposición para viajar.
+
+Espero puedan tenerme en cuenta para una entrevista. 
+
+Security_code : sh57c
+Send : Enviar
+
+---------------
+
+Address : 190.57.235.189
+Nombre : Marco
+Apellido : Guarda
+Cargo : Administrativo
+Direccion : Caseros 472
+Ciudad : Villaguay
+Telefono : 0342-154635115
+Email : mguarda@vialagro.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : e mi mayor consideración:
+
+                                                         Me Dirijo a Usted con el Objeto de Manifestarle mi interés por trabajar en su empresa. A tal efecto, le adjunto mis datos personales y mis antecedentes laborales.
+Sin Otro Particular, me despido de usted, quedando a la espera de una respuesta satisfactoria.
+
+Atte.
+
+Security_code : kp3k4
+Send : Enviar
+
+---------------
+
+Address : 181.23.47.211
+Nombre : Roberto
+Apellido : Cavia
+Cargo : Operaro
+Direccion : Lagomrsino  1147
+Ciudad : Merlo
+Telefono : 0220_4803565
+Email : emanuelcavia_09@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Espero que mi cv sea de beneficio para que pueda emplear algunos de sus postulaciones,si no es en el area de operario puede ser de cualquiera que coisida con las experiencias de mi cv.
+Security_code : 66rpt
+Send : Enviar
+
+---------------
+
+Address : 186.22.4.135
+Nombre : Gastón Raúl
+Apellido : Biglié
+Cargo : Administrativo
+Direccion : Remedios 3360 pb c
+Ciudad : Capital Federal
+Telefono : 1562949519
+Email : gastonbiglie@live.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados, les envío mi CV en vistas de poder ingresar en su base de datos para ser considerado en las búsquedas laborales.
+Desde ya, muchas gracias.
+Saludos cordiales.
+Security_code : kh8yz
+Send : Enviar
+
+---------------
+

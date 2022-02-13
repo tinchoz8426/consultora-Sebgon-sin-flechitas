@@ -1,0 +1,18 @@
+Address : 201.176.12.182<br>
+ <br>REF : ROT-1
+ <br>Nombre : Walter Horacio
+ <br>Apellido : Sauco
+ <br>Cargo : RESPONSABLE DE OFICINA TECNICA
+ <br>Direccion : ASIA 5668
+ <br>Ciudad : isidro casanova
+ <br>Telefono : +541167996741
+ <br>Email : whsauco@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : A QUIEN CORRESPONDA:
+
+ADJUNTO CV A EFECTOS DE SER ENTREVISTADO. ATTE.:  WALTER SAUCO
+ <br>Security_code : fnvsy
+ <br>Send : Enviar
+ <br>
+---------------
+

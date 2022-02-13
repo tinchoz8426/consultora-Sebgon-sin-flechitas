@@ -1,0 +1,101 @@
+Address : 181.167.171.232
+REF : GETECOM
+Nombre : Matias
+Apellido : dOliveira
+Cargo : GETECOM
+Direccion : Arcos 3433 - 1° B
+Ciudad : Nuñez, CABA
+Telefono : 1163662471
+Email : matias@gifttolive.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados
+
+Por medio del presente adjunto mi CV (con remuneración pretendida) a fin de ser considerado en la presente búsqueda.  Me resulta muy interesante la oferta laboral y si bien actualmente resido en Capital Federal, mi objetivo es radicarme en el interior y El Bolsón es un área que está dentro de mis planes.
+
+Desde ya quedo a su disposición para conversar sobre mi CV.
+
+Saludos cordiales,
+
+Security_code : hd4zy
+Send : Enviar
+
+---------------
+
+Address : 190.230.29.190
+Nombre : VANESA LUCIA
+Apellido : VISSANI
+Cargo : ADMINISTRACION
+Direccion : PARANA 550
+Ciudad : CORDOBA
+Telefono : 03571-15566900
+Email : vanesavissani@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto curriculum vitae. quedo a la espera de una entrevista laboral.Tengo disponibilidad para radicarme en Córdoba y alrededores.
+Saludos cordiales.
+VISSANI, Vanesa.
+Security_code : nn2z3
+Send : Enviar
+
+---------------
+
+Address : 190.174.90.101
+Nombre : Florencia
+Apellido : Vitale
+Cargo : Empleada administrativa o recepcionista
+Direccion : Avenida Eva Peron 7099
+Ciudad : Florencio Varela
+Telefono : 42742560
+Email : florencia_vitale2013@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Busco empleo, soy una persona activa y responsable.
+Security_code : swwgk
+Send : Enviar
+
+---------------
+
+Address : 190.49.28.24
+Nombre : Margarita Maria
+Apellido : Amaya
+Cargo : administrativa 
+Direccion : NAMUNCURA 348
+Ciudad : san carlos de bariloche 
+Telefono : 294-429224
+Email : margaritasmaria@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : adj. cv para su consideracion 
+gracias 
+Security_code : x73f5
+Send : Enviar
+
+---------------
+
+Address : 186.13.4.164
+Nombre : jose miguel
+Apellido : castillo
+Cargo : Boca de pozo/perforacion
+Direccion : Windhausen 241
+Ciudad : Comodoro Rivadavia
+Telefono : 03835412376
+Email : miguelcastillo87@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Busco empleo soy tecnico mecanicp y tengo experiencia en operacion de plantas compresoras y mantenimientos de equipos motocompresores quedo a disposicion de las necesidades de la empresa
+Security_code : zvzhv
+Send : Enviar
+
+---------------
+
+Address : 186.138.144.24
+Nombre : María Verónica
+Apellido : Argolo
+Cargo : Recursos Humanos/Atención al Cliente/Asistente Gerencia
+Direccion : Carmen de Avellaneda 399
+Ciudad : Ituzaingó
+Telefono : 15 40286305
+Email : veroargolo@yahoo.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto mi curriculum vitae. 
+Security_code : 9n5wk
+Send : Enviar
+
+---------------
+

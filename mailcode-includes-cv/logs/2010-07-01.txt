@@ -1,0 +1,173 @@
+Address : 190.50.170.201
+REF : electromecanico
+Nombre : Jonatan Mariano 
+Apellido : Ruggirello
+Cargo : Cadete/Asistente de marketing-publicidad-diseño/Administrativo
+Direccion : Rep. de Chile 3206
+Ciudad : Buenos Aires (San Justo)
+Telefono : 011-4484-4998/1567524330
+Email : jonatan_ruggirello@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : De mi mayor consideración:
+Me dirijo a Uds. con el fin de hacerle llegar mi curriculum vitae. 
+Tengo el desagrado de comentarle que tengo 24 años, con 28 materias aprobadas de la carrera de publicidad, en la Universidad Abierta Interamericana y no logro conseguir empleo hace 8 meses.
+Me presento como una persona activa, responsable, creativa, flexible, orientada al logro de resultados y a la resolución y evolución constante en las tareas asignadas. 
+Si fuera necesario podría acercarme personalmente para cualquier consulta adicional o entrevista personal. Solo tiene que comunicarse al teléfono: 011 4484-4998, 011 1567524330 o por e-mail jonatan_ruggirello@yahoo.com.ar.
+Pongo, además, en su conocimiento que estoy en condiciones de asumir la responsabilidad de cualquier empleo en forma inmediata.
+
+Quedando a la espera de su respuesta.
+
+Me despido atte.
+
+Jonatan Mariano Ruggirello
+
+Security_code : p68mg
+Send : Enviar
+
+---------------
+
+Address : 190.139.111.98
+Nombre : Cesar Luis
+Apellido : Keim
+Cargo : Trabajador social
+Direccion : Laguna Blanca
+Ciudad : Laguna Blanca
+Telefono : 03718 15553037
+Email : cesarluiskeim@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Sres. Consultoras Sebgon
+
+Se envía a Uds. mi curriculum vitae para alguna oportunidad laboral que se presente.
+
+Gracias
+
+Cordiales Saludos
+
+Cesar Luis Keim
+Security_code : ccw9k
+Send : Enviar
+
+---------------
+
+Address : 190.220.152.90
+Nombre : Diana
+Apellido : Di Giorgio
+Cargo : Jefe de Ventas
+Direccion : M Ugarte 2350
+Ciudad : Buenos Aires
+Telefono : 011-47834137
+Email : pitchon46@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados Señores adjunto mi CV para v/consideración.
+Saludos cordiales,
+Diana Di Giorgio
+Security_code : fbq4b
+Send : Enviar
+
+---------------
+
+Address : 190.179.47.146
+Nombre : Claudia Beatriz
+Apellido : Bruno
+Cargo : Administrativa Secretaria Recepcionista
+Direccion : Av San Martín 1921 Dto2
+Ciudad : Lanús Oeste
+Telefono : 4-262-9987
+Email : claudia.di@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Nesesito encontrar un trabajo en Zona sur;ej, Lanús,Lomas de Zamora,Avellaneda, o Capital Federal por zona o de Microcentro Congreso 
+Security_code : s2szx
+Send : Enviar
+
+---------------
+
+Address : 190.50.197.196
+Nombre : Debora Valeria
+Apellido : Prette
+Cargo : Administrativo
+Direccion : Rondeau 699
+Ciudad : Ramos Mejia
+Telefono : 44641918
+Email : deboraprette@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : CARGA DE CV
+Security_code : mz4kw
+Send : Enviar
+
+---------------
+
+Address : 190.136.90.216
+Nombre : Paola Grabriela
+Apellido : Hurtado
+Cargo : Tec. En Seguridad e Higiene
+Direccion : -
+Ciudad : Tartagal (Salta), disponibilidad Salta capital
+Telefono : 03875-15586362
+Email : hpg.gabriela@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Le adjunto mi CV, por interes al puesto de Tec. en Seguridad e higiene free lance para realizar servicios para clientes ubicados en el NOA. 
+Security_code : tf4ms
+Send : Enviar
+
+---------------
+
+Address : 190.227.97.206
+Nombre : Alnerto
+Apellido : Pallares
+Cargo : Técnico
+Direccion : hipolito irihoyen  2434
+Ciudad : Resistencia
+Telefono : 03722 15515698
+Email : capalla301070@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto mi cv Para postularme y colaborar el lo que pueda en esta empresa desde ya muchisimas gracias
+Security_code : x2yhg
+Send : Enviar
+
+---------------
+
+Address : 186.136.135.230
+Nombre : Agustina
+Apellido : Torres
+Cargo : Area de Recursos Humanos
+Direccion : R. Arabe Siria 3262 
+Ciudad : Capital
+Telefono : 15-5-657-8835
+Email : agustorres@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Envío mi CV para ser tendido en cuenta en el área soft de RRHH
+Security_code : wcq78
+Send : Enviar
+
+---------------
+
+Address : 200.122.85.126
+Nombre : Micaela Valeria
+Apellido : López
+Cargo : Asistente social
+Direccion : Edison 373
+Ciudad : Junín (Bs. As)
+Telefono : 02362-15579385
+Email : micaval6@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : adjunto datos personales y antecedentes laborales, a los efectos de que los mismos sean tenidos en cuenta para la búsqueda de profesionales de servicio social, para realizar informes socioambientales.
+Security_code : v8qkv
+Send : Enviar
+
+---------------
+
+Address : 190.173.103.25
+Nombre : juan cruz
+Apellido : di giuseppe
+Cargo : produccion
+Direccion : virgilio 1635
+Ciudad : capital federal
+Telefono : 4566 6612 o 116688806
+Email : jd_82@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Aqui les dejo mi cv espero su respuesta muchas gracias
+Security_code : nvxng
+Send : Enviar
+
+---------------
+

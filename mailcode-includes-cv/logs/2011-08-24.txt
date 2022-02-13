@@ -1,0 +1,52 @@
+Address : 190.245.150.128
+Nombre : Pablo
+Apellido : Pallero
+Cargo : Responsable de RR.HH en Palomar
+Direccion : san nicolas 275 1º
+Ciudad : Capital Federal, Floresta
+Telefono : 011 4637 3395
+Email : pablopallero@yahoo.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Por medio de la presente le hago llegar mis datos basicos en el cv adjunto para ser considerado como firme postulante al puesto vacante anunciado en el sitio web de computrabajo
+Cuento con experiencia laboral en el area de recursos humanos en distintos niveles de responsabilidad y en diversas industrias, ademas de formacion academica en la Universidad de Moron egresado de la Facultad de Ciencias Economicas como licenciado en recursos humanos.
+Actualmente estoy dedicado a la docencia en temas de recursos humanos en diversos establecimientos terciarios y universitarios. Cuento con disponibilidad de horarios y traslado.
+Desde ya quedo a sus ordenes para ampliar cualquier informacion que estime necesaria.
+atte Pablo PAllero
+Security_code : 4yvh3
+Send : Enviar
+
+---------------
+
+Address : 190.55.163.52
+Nombre : florencia
+Apellido : quinteiro
+Cargo : de lo que tenga
+Direccion : gral paz 13629
+Ciudad : Bs.As
+Telefono : 1563544140
+Email : florencia.quinteiro@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : No tengo un sector fijo de trabajo creo que el que tengan en este momento me vendria muy bien.
+Security_code : wv5cg
+Send : Enviar
+
+---------------
+
+Address : 190.136.102.9
+Nombre : Marianela
+Apellido : Angarano
+Cargo : Analista
+Direccion : La Pampa 1220
+Ciudad : Capital Federal
+Telefono : 1564552294
+Email : ml.angarano@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me dirijo a ud. con el fin de hacerle llegar mi curriculum vitae para tener en cuenta en futuras búsquedas en el área de Marketing.
+
+Desde ya muchas gracias,
+Marianela Angarano
+Security_code : hny23
+Send : Enviar
+
+---------------
+

@@ -1,0 +1,25 @@
+Address : 190.30.173.147
+Nombre : Horacio
+Apellido : Armella
+Cargo : Gerencia
+Direccion : Cabo 1º Carrizo 564
+Ciudad : S. S. de Jujuy
+Telefono : 0388-155071337
+Email : horacio3006@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados Sres:
+De manera espontánea les presento mi CV para presentes o futuras búsquedas donde mi perfil pueda serles de utilidad y les resalto los aspectos más significativos de mi experiencia profesional:
+
+    * Experiencia de más de 10 años en puestos de gerencia de unidades de negocios.
+    * Amplios conocimientos de administración y control de negocios.
+    * Experiencia en empresas nacionales e internacionales de primera línea.
+    * Experiencia en capacitación de distintos niveles.
+    * Orientación a resultados.
+    * Personalidad dinámica y proactiva.
+
+Atentamente, Horacio Armella
+Security_code : zgrj9
+Send : Enviar
+
+---------------
+

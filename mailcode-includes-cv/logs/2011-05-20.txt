@@ -1,0 +1,60 @@
+Address : 190.55.215.12
+Nombre : Laura 
+Apellido : Gavensky
+Cargo : Seleccion Recursos humanos
+Direccion : Sarmiento 4075 7 c
+Ciudad : Capital federal
+Telefono : 48613355
+Email : liclauragavensky@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Seguir creciendo profesionalmente y como persona dentro de un buen clima laboral, permitiéndome transmitir y adquirir conocimientos en forma simultánea para ir superándome día a día, cumpliendo tanto con los objetivos de la empresa, como los propios, en forma conjunta
+Security_code : vp22k
+Send : Enviar
+
+---------------
+
+Address : 200.114.245.235
+REF : tecnico-de-mantenimiento
+Nombre : Daniel
+Apellido : Valero Iglesias
+Cargo : Gerente de Ventas 
+Direccion : Quevedo 3712
+Ciudad : CABA
+Telefono : 541154691033
+Email : valerodaniel@fibertel.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : 
+
+
+
+Estimados Sres Segbon:
+
+Estoy en la búsqueda de una oportunidad  laboral desafiante y con ilusión de formar parte de un proyecto de futuro .
+
+Cuento con una valiosa experiencia en empresas Multinacionales de Electrdomésticos, consumo masivo /bienes durables . 
+
+Puedo citar como realizaciones destacadas: 
+
+· Lideré equipos de venta con excelentes resultados 
+
+· Desarrollé e implementé estrategias comerciales exitosas 
+
+. Generé alianzas con terceros que permitió el desarrollo de negocios a largo plazo . 
+
+De surgir alguna oportunidad , le  solicto me incluya en su base de datos .
+
+Quedo a su disposición , ante cualquier inquietud .
+
+
+Cordialmente, 
+
+Daniel Valero Iglesias 
+Cel. 155 469 1033
+
+
+
+Security_code : zknwh
+Send : Enviar
+
+---------------
+

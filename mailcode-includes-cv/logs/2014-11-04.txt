@@ -1,0 +1,143 @@
+Address : 190.51.65.145
+Nombre : Luciano
+Apellido : Valesella
+Cargo : cadete/administrativo/operario 
+Direccion : fatima 3739
+Ciudad : Castelar
+Telefono : 1530446162
+Email : luciano.valesella@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : estoy en busqueda de mi primer empleo, espero poder tener suerte, desde ya muchas gracias.
+Security_code : v8b2b
+Send : Enviar
+
+---------------
+
+Address : 201.251.156.105
+Nombre : leonel 
+Apellido : rodriguez
+Cargo : asesor / representante comercial
+Direccion : avda campomar 2219
+Ciudad : ranchos
+Telefono : 0224115557373 / 0224115554797
+Email : leito_ush@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados: mi nombre es Leonel Rodriguez y resido en la localidad de Ranchos (bs as zona zur) soy oriundo de Ushuaia y por motivos personales me traslade a Bs.As. hace dos años , mi experiencia laboral siempre fue en la industria automotriz en la parte comercial , soy una presona dinamica , proactiva y con mucha facilidad para aprender nuevas tareas , espero me tenga en cuenta para algun puesto relacionado con mi perfil, adjunto CV .
+saludos cordiales
+Leonel Rodriguez
+Security_code : 5ydyd
+Send : Enviar
+
+---------------
+
+Address : 190.230.50.179
+Nombre : ARNALDO DANIEL 
+Apellido : TORALES 
+Cargo : TRABAJADOR SOCIAL 
+Direccion : DON BOSCO 5150
+Ciudad : FORMOSA 
+Telefono : 0370-154361930
+Email : dat_74@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : aspiro a un trabajo como trabajador social.
+Security_code : m7v4c
+Send : Enviar
+
+---------------
+
+Address : 190.230.50.179
+Nombre : ARNALDO DANIEL 
+Apellido : TORALES 
+Cargo : TRABAJADOR SOCIAL 
+Direccion : DON BOSCO 5150
+Ciudad : FORMOSA 
+Telefono : 0370-154361930
+Email : dat_74@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : aspiro a un trabajo como trabajador social.
+Security_code : m7v4c
+Send : Enviar
+
+---------------
+
+Address : 190.230.50.179
+Nombre : ARNALDO DANIEL 
+Apellido : TORALES 
+Cargo : TRABAJADOR SOCIAL 
+Direccion : DON BOSCO 5150
+Ciudad : FORMOSA 
+Telefono : 0370-154361930
+Email : dat_74@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : aspiro a un trabajo como trabajador social.
+Security_code : 2qpj3
+Send : Enviar
+
+---------------
+
+Address : 190.230.50.179
+Nombre : ARNALDO DANIEL 
+Apellido : TORALES 
+Cargo : TRABAJADOR SOCIAL 
+Direccion : DON BOSCO 5150
+Ciudad : FORMOSA 
+Telefono : 0370-154361930
+Email : dat_74@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : aspiro a un trabajo como trabajador social.
+Security_code : 2qpj3
+Send : Enviar
+
+---------------
+
+Address : 190.230.50.179
+Nombre : ARNALDO DANIEL 
+Apellido : TORALES 
+Cargo : TRABAJADOR SOCIAL 
+Direccion : DON BOSCO 5150
+Ciudad : FORMOSA 
+Telefono : 0370-154361930
+Email : dat_74@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : aspiro a un trabajo como trabajador social.
+Security_code : nt6r9
+Send : Enviar
+
+---------------
+
+Address : 186.23.199.133
+Nombre : Tamara Marlene
+Apellido : Ramirez
+Cargo : Recepcionista
+Direccion : Conscripto cardozo 1387
+Ciudad : Almirante Brown
+Telefono : 011-6055-7618
+Email : taramirez25@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje :          Me dirijo a usted con el objetivo de hacerle llegar mi currículum vital y poder aspirar a un puesto en su empresa.
+Estaré dispuesta a incorporarme inmediatamente a su empresa para desarrollar cualquier puesto de trabajo con relación a mis especialidades, teniendo disponibilidad full time.
+Me caracterizo por mi buen trato con la gente y el contacto directo con la misma.
+Estoy a su entera disposición para realizar las pruebas profesionales que estime oportunas y tener la posibilidad de ampliarle esta información en una entrevista personal.
+A la expectativa de que tenga en cuenta mi solicitud y a la espera de una respuesta favorable, los saluda atentamente.
+
+Tamara Ramirez
+Security_code : HKWS6
+Send : Enviar
+
+---------------
+
+Address : 190.174.229.38
+Nombre : Nerina
+Apellido : Fernandez
+Cargo : Vendedora/cajera
+Direccion : Calle 880 Núm 4868
+Ciudad : Buenos Aires
+Telefono : 42508012
+Email : fernandez.nerina@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Dejo mi cv, para recibir ofertas o estar siendo contactada. Gracias
+Security_code : 8g7jp
+Send : Enviar
+
+---------------
+

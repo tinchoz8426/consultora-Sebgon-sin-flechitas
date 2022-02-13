@@ -1,0 +1,75 @@
+Address : 181.170.153.148<br>
+ <br>Nombre : Facundo
+ <br>Apellido : Murguia
+ <br>Cargo : Técnico en Seguridad e Higiene
+ <br>Direccion : Giribone 336
+ <br>Ciudad : Ezeiza
+ <br>Telefono : 1136949586
+ <br>Email : faacumurguia@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me dirijo hacia ustedes para poder formar parte de la empresa, brindando mis conocimientos y aptitudes.
+ <br>Security_code : jp4vg
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.47.154.214<br>
+ <br>REF : EP-1
+ <br>Nombre : omar
+ <br>Apellido : correa
+ <br>Cargo : ENCARGADO DE PRODUCCIÃN
+ <br>Direccion : Camacua 1734
+ <br>Ciudad : Don Torcuato
+ <br>Telefono : 1567453817
+ <br>Email : omarcorrea_06@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Mi experiencia profesional la desarrolle dentro del ámbito de CDC, Auditoria, Activación de O/C y Seguimiento de obras; en el rubro Industria (Minería, Petróleo y Gas).
+A su vez, he tenido la posibilidad de transitar en el rubro Servicios con personal a cargo.
+En todos los ámbitos busco lograr los objetivos encomendados en tiempo y forma. Adaptándome a diferentes desafíos por mi perseverancia y ansiedad de incorporar conocimientos.
+Soy una persona proactiva, motivada y motivadora. Procurando en mi grupo de tareas lograr ambientes de cordialidad, camaradería y orden a fin de lograr las tareas encomendadas.
+
+
+ <br>Security_code : h272m
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.182.164.49<br>
+ <br>REF : ROT-1
+ <br>Nombre : Samanta
+ <br>Apellido : Volgin
+ <br>Cargo : Responsable de Oficina Técnica
+ <br>Direccion : santa rosa, 1108
+ <br>Ciudad : castelar
+ <br>Telefono : 1567605890
+ <br>Email : saaam_21@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buen dia. Adjunto mi CV mi Currículum Vitae, a fin de ser tenido en cuenta.
+Soy arquitecta y estoy en busca de un nuevo empleo. Tengo experiencia con planos de instalaciones eléctricas; cómputo y presupuesto; confección, revisión y arreglo de planos de aire acondicionado y planos electromecánicos; medios de escape; revelamientos en obra; tramites municipales; seguimiento de avance de obra y ventas inmobiliarias. 
+Tengo disponibilidad horaria.
+Agradeceré que me permitan tener una entrevista laboral.
+Desde ya muchas gracias.
+
+Tel:1567605890
+ <br>Security_code : 7cfcg
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.44.137.52<br>
+ <br>Nombre : FABRICIO DAVID
+ <br>Apellido : MONZON
+ <br>Cargo : SUPERVISOR
+ <br>Direccion : Las heras
+ <br>Ciudad : LOMAS DEL MIRADOR (CP=1752)
+ <br>Telefono : 0111532975417
+ <br>Email : fabry75@hotmail.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Busco un puesto que me brinde estabilidad, capacitación constante y
+posibilidades de crecimiento.
+
+ <br>Security_code : 62rnp
+ <br>Send : Enviar
+ <br>
+---------------
+

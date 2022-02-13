@@ -1,0 +1,26 @@
+Address : 186.18.189.164
+REF : gerente-de-operaciones
+Nombre : Mariela Xoana
+Apellido : Martin
+Cargo : Recepcionosta Administrativo
+Direccion : Belgrano 367 1 D
+Ciudad : Ramos Mejia
+Telefono : 1561332477
+Email : mxmartin19@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : 03 de Diciembre del 2010
+
+A quien Corresponda:
+
+Me pongo en contacto con ustedes para ofrecerle mi currículum con mis datos personales,  profesionales y otros datos de interés, por si necesita cubrir, ahora o en un futuro próximo, el puesto de Recepcion.
+Tras leer su anuncio ofertando un empleo, me dirijo a Ud. con el fin de enviarle mi Curriculo Vitae.
+
+Como puede usted comprobar en el mismo, tengo una amplia experiencia en el mundo de la administraccion, ya que estuve desempeñando un trabajo similar durante los últimos 3 años.
+
+Saluda Cordial.
+Mariela Xoana Martin
+Security_code : tyjgn
+Send : Enviar
+
+---------------
+

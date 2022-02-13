@@ -1,0 +1,71 @@
+Address : 200.125.105.192<br>
+ <br>REF : EP-1
+ <br>Nombre : Guillermo, Martin
+ <br>Apellido : Challinor
+ <br>Cargo : encargado -supervisor
+ <br>Direccion : Valentin Alsina, 45
+ <br>Ciudad : Monte Grande
+ <br>Telefono : 1157197793
+ <br>Email : gabaperalta72@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : me dirijo a ud con el motivo de solicitar el puesto a designar y desarrollar mi expriencia ,logrando los objetivos de la empresa ,disponibilidad full time
+ <br>Security_code : g3nv8
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.29.48.11<br>
+ <br>REF : EP-1
+ <br>Nombre : Luciana
+ <br>Apellido : Fernandez
+ <br>Cargo : EP-1 Encargado de produccion
+ <br>Direccion : Av Callado 1066
+ <br>Ciudad : CABA
+ <br>Telefono : 1137802891
+ <br>Email : luci-sep1@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me interesa formar parte de su equipo de trabajo
+ <br>Security_code : nj2fd
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.29.48.11<br>
+ <br>REF : EP-1
+ <br>Nombre : Luciana
+ <br>Apellido : Fernandez
+ <br>Cargo : EP-1 Encargado de produccion
+ <br>Direccion : Av Callado 1066
+ <br>Ciudad : CABA
+ <br>Telefono : 1137802891
+ <br>Email : luci-sep1@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me gustaría formar parte de su equipo de trabajo
+
+ <br>Security_code : ws5gt
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.141.199.173<br>
+ <br>Nombre : Maria Antonella
+ <br>Apellido : Clavello
+ <br>Cargo : tecnico en Seguridad e Higiene Industrial
+ <br>Direccion : Sarmiento 563
+ <br>Ciudad : Ensenada 
+ <br>Telefono : 0221 15 3193462
+ <br>Email : clavellom.antonella@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me presento, mi nombre es Clavello Maria Antonella, soy técnica en seguridad, higiene y control ambiental industrial. Actualmente me encuentro en búsqueda laboral, por cual el motivo de este correo es adjuntarles mi curriculum, con el fin de que sea visado y tenido en cuenta para alguna futura oportunidad.
+
+Sin más, los saludo muy atentamente quedando a su disposición para cualquier tipo de información.
+
+
+Clavello, Maria Antonella.
+TÉCNICO SUPERIOR EN SEGURIDAD, HIGIENE Y CONTROL  AMBIENTAL INDUSTRIAL.
+
+ <br>Security_code : g36j9
+ <br>Send : Enviar
+ <br>
+---------------
+

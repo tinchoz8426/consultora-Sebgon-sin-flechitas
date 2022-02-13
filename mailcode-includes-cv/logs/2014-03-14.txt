@@ -1,0 +1,108 @@
+Address : 190.230.116.154
+Nombre : Pablo
+Apellido : Ramonda
+Cargo : Administrtivo - telefonista
+Direccion : Lopez y planes 2892
+Ciudad : Santa Fe de la Vera Cruz
+Telefono : 0342-154680883
+Email : pablor_87@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Quisira conseguir un empleo para poder independizarme y poder terminar mis estudios a la vez.
+Security_code : wnwyy
+Send : Enviar
+
+---------------
+
+Address : 190.230.116.154
+Nombre : Pablo
+Apellido : Ramonda
+Cargo : Administrtivo - telefonista
+Direccion : Lopez y planes 2892
+Ciudad : Santa Fe de la Vera Cruz
+Telefono : 0342-154680883
+Email : pablor_87@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Quisiera conseguir un empleo para poder independizarme y poder terminar mis estudios a la vez.
+Security_code : wnwyy
+Send : Enviar
+
+---------------
+
+Address : 190.183.59.68
+Nombre : German Dario
+Apellido : Taparello Muredda
+Cargo : Comercial - Agronomo - Asesor
+Direccion : Richeri 1145
+Ciudad : Gessler
+Telefono : 03404 15514429
+Email : gtaparello@arcanetsa.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados :
+             A continuacion les adjunto mi Cv para que me tengan en su base de datos para alguna vacante acorde a mi perfil.
+Atte.
+Agronomo German Taparello 
+Security_code : b22x9
+Send : Enviar
+
+---------------
+
+Address : 186.128.30.60
+Nombre : alejandro
+Apellido : gil
+Cargo : administrativo
+Direccion : videla castillo 2775
+Ciudad : mendoza
+Telefono : 0260-153470545
+Email : alejandrogil_634@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : me encuentro cursando la carrera de contador publico en la facultad de ciencias economicas de la universidad nacional de cuyo, donde ya tengo aprobadas la mitad de las materias de cuarto año.
+Security_code : 989p2
+Send : Enviar
+
+---------------
+
+Address : 201.235.155.148
+Nombre : jorge ernesto
+Apellido : castro
+Cargo : mecanico de campo
+Direccion : san patricio del chañiar
+Ciudad : neuquen
+Telefono : 299155306794
+Email : jecastro1@hotmail.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : quisiera dejar mi cv gracias
+Security_code : p363y
+Send : Enviar
+
+---------------
+
+Address : 190.245.214.102
+Nombre : MARIELA 
+Apellido : GANÓN
+Cargo : DISEÑO DE INDUMENTARIA
+Direccion : caseros 261 10 c
+Ciudad : cordoba
+Telefono : (0351)3374177
+Email : marieganon@hotmail.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : busco empleo con urgencia, soy responsable 
+Security_code : y6mf8
+Send : Enviar
+
+---------------
+
+Address : 190.245.214.102
+Nombre : MARIELA 
+Apellido : GANÓN
+Cargo : DISEÑO DE INDUMENTARIA
+Direccion : caseros 261 10 c
+Ciudad : cordoba
+Telefono : (0351)3374177
+Email : marieganon@hotmail.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : busco empleo con urgencia, soy responsable 
+Security_code : y6mf8
+Send : Enviar
+
+---------------
+

@@ -1,0 +1,180 @@
+Address : 181.44.138.129<br>
+ <br>REF : TE-1
+ <br>Nombre : Luvis Ramón 
+ <br>Apellido : Corzo Soto
+ <br>Cargo : Técnico eléctrico 
+ <br>Direccion : Tucuman 2065
+ <br>Ciudad : Virreyes
+ <br>Telefono : 1150447203
+ <br>Email : Corzoluvis@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Amplia experiencia y en operación y control en sub estación eléctrica AT, MT Y BT así como el matenimiento eléctrico. 
+ <br>Security_code : 8nzhy
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 179.222.20.32<br>
+ <br>Nombre : francisco das chagas nunes de sousa
+ <br>Apellido : nunes
+ <br>Cargo : tecnico eletrico
+ <br>Direccion : manutencine
+ <br>Ciudad : manaus AM
+ <br>Telefono : 9299146-0569/98169-6905
+ <br>Email : francisco.nunes2007@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : projetos montagem e manutenção de quadros eletricos
+	Leitura e interpretação de dezenho tecnico eletrico, pneumático, e hidraúlico
+	Automação e instalação de NR-12 em maquinas
+	-conhecimento  em CNC fanuc, bhotter e outras, máquinas injetoras de alumínio toyo, toshiba  injetoras de Plastico tipo semeraro, sinitron, comtrol Master, ROMI, CLF, PIC, oriente e outras
+	 todos os tipo de maq. de solda ex: solda costura, s.ponto, rotativa e outros.
+	-estalações prediais, leitura e interpretações de esquemas eletricos, conhecimento em equipamentos eletrônicos,
+	-PLC  tipo telemecanique, conhecimento em  inversor de frequencia prog. e modificação
+	Informatica completo a nivel avançado, conhecimento em motores de todos os tipos e rebobinamento. 
+
+ <br>Security_code : rW75r
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.213.198.188<br>
+ <br>REF : EP-1
+ <br>Nombre : Hector
+ <br>Apellido : Piña
+ <br>Cargo : Encargado de producción 
+ <br>Direccion : Av.salvador María del carril 2129
+ <br>Ciudad : Capital federal CABA
+ <br>Telefono : 1123647233
+ <br>Email : hector.241277@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Ingeniero Industrial con experiencia en el sector alimentos y bebidas Venezolano con DNI y Cuil , cargos desempeñados Supervisor de Elaboración y Producción orientado a la mejora continua y buenas prácticas de manufactura.
+ <br>Security_code : 99gmq
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.213.198.188<br>
+ <br>REF : EP-1
+ <br>Nombre : Hector
+ <br>Apellido : Piña
+ <br>Cargo : Encargado de producción 
+ <br>Direccion : Av.salvador María del carril 2129
+ <br>Ciudad : Capital federal CABA
+ <br>Telefono : 1123647233
+ <br>Email : hector.241277@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Ingeniero Industrial con experiencia en el sector alimentos y bebidas Venezolano con DNI y Cuil , cargos desempeñados Supervisor de Elaboración y Producción orientado a la mejora continua y buenas prácticas de manufactura.
+ <br>Security_code : 99gmq
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.213.198.188<br>
+ <br>REF : EP-1
+ <br>Nombre : Hector
+ <br>Apellido : Piña
+ <br>Cargo : Encargado de producción 
+ <br>Direccion : Av.salvador María del carril 2129
+ <br>Ciudad : Capital federal CABA
+ <br>Telefono : 1123647233
+ <br>Email : hector.241277@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Ingeniero Industrial con experiencia en el sector alimentos y bebidas Venezolano con DNI y Cuil , cargos desempeñados Supervisor de Elaboración y Producción orientado a la mejora continua y buenas prácticas de manufactura.
+ <br>Security_code : 99gmq
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.213.198.188<br>
+ <br>Nombre : Hector
+ <br>Apellido : Piña
+ <br>Cargo : Encargado de producción 
+ <br>Direccion : Avenida Salvador María Del Carril 2129
+ <br>Ciudad : CABA
+ <br>Telefono : 1123647233
+ <br>Email : hector.241277@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Ingeniero Industrial con experiencia en empresas del sector alimentos y bebidas con BPM y Mejora Continúa orienta a los Procesos promoviendo el trabajo en equipo como líder , encargado o supervisor de área trabajando por turnos rotativos.pp
+ <br>Security_code : q8zph
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.239.44.154<br>
+ <br>Nombre : Lorena Yudith
+ <br>Apellido : Montenegro
+ <br>Cargo : Atencion al cliente, recepcion, secretaria
+ <br>Direccion : Pedro Martinez, 142
+ <br>Ciudad : Hurlimghan
+ <br>Telefono : 1168446565
+ <br>Email : yudith23@outlook.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Busco empleo, cuento con amplia disponibilidad de horarios. 
+ <br>Security_code : 42b7d
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.230.124.167<br>
+ <br>Nombre : MARIANO DANIEL 
+ <br>Apellido : AGUIRRE 
+ <br>Cargo : JEFE DE SEGURIDAD O PRINCIPAL
+ <br>Direccion : NICARAGUA 4478
+ <br>Ciudad : PILAR BUENOS AIRES 
+ <br>Telefono : 01134122616
+ <br>Email : danielo2847.da@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : buenos dias .tengo muy buena predisposicion para el trabajo .tengo experiencia en seguridad .me gusta el trabajo  
+ <br>Security_code : mpjuw8
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.139.29.46<br>
+ <br>REF : EP-1
+ <br>Nombre : Ali
+ <br>Apellido : Sucre
+ <br>Cargo : Ingeniero
+ <br>Direccion : Suipacha
+ <br>Ciudad : Ciudad Capital
+ <br>Telefono : 1127547085
+ <br>Email : acsg1974@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Interesado en esta postulacion.
+
+Saludos
+ <br>Security_code : w5w9y
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.193.139.91<br>
+ <br>Nombre : MAYERLIN
+ <br>Apellido : AGUANA
+ <br>Cargo : RECEPCION
+ <br>Direccion : CALLE MEXICO - MONSERRAT
+ <br>Ciudad : CABA
+ <br>Telefono : 1126827012
+ <br>Email : mayeaguana@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas tardes, soy Mayerlin Aguana, he visitado el sitio web de su empresa y parece un lugar muy interesante profesionalmente, soy asistente administrativo con años de experiencia y como recepcionista. Poseo manejo avanzado del paquete office, nociones de sistema de archivo y dominio de internet y redes sociales, diseño de presentaciones y publicidades en el programa power point, dominio intermedio del idioma ingles. 
+ <br>Security_code : gpkr5
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.141.198.119<br>
+ <br>Nombre : Fernando
+ <br>Apellido : Veliz
+ <br>Cargo : Operario de produccion/Tareas Operativas/Control de calidad/Fraccionador 
+ <br>Direccion : Juan Peña 2873
+ <br>Ciudad : Laferrere
+ <br>Telefono : 1141594165
+ <br>Email : fa_veliz80@yahoo.com.ar 
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Envío CV para ofertas laborales. Gracias
+ <br>Security_code : 3bxpj
+ <br>Send : Enviar
+ <br>
+---------------
+

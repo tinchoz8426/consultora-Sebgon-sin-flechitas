@@ -1,0 +1,47 @@
+Address : 181.46.138.23<br>
+ <br>REF : ENPRO
+ <br>Nombre : Jose Gabriel
+ <br>Apellido : Etcheverry
+ <br>Cargo : ENPRO
+ <br>Direccion : Guido Spano, 1145
+ <br>Ciudad : Burzaco
+ <br>Telefono : 91165513639
+ <br>Email : gabrieletcheverry@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola. Estoy interesado en la búsqueda laboral. Envío mi CV para que evalúen mi perfil. Remuneración pretendida: $50.000 
+ <br>Security_code : k8rvb
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.176.164.62<br>
+ <br>REF : RTC
+ <br>Nombre : mario alberto
+ <br>Apellido : junger
+ <br>Cargo : Ing. Desarrollo de Negocios, Ventas
+ <br>Direccion : Pje. M. Pescador  2334
+ <br>Ciudad : Cap. Fed.
+ <br>Telefono : 1165092945
+ <br>Email : mjunger@conylec.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Gran experiencia en Busqueda y Desarrollo Corporativo, Nuevos Negocios, y Cierre Ventas
+ <br>Security_code : f4ht5
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.31.173.112<br>
+ <br>Nombre : Valeria Alejandra 
+ <br>Apellido : Gutierrez
+ <br>Cargo : recepcionista 
+ <br>Direccion : Bahamas 4580 B cabo farina
+ <br>Ciudad : cordoba 
+ <br>Telefono : 351-158087745
+ <br>Email : vale_cba44@live.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : tengo disponibilidad de horarios 
+ <br>Security_code : 95fg2
+ <br>Send : Enviar
+ <br>
+---------------
+

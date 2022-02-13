@@ -1,0 +1,46 @@
+Address : 181.166.126.22<br>
+ <br>Nombre : Priscila
+ <br>Apellido : Rumbolo
+ <br>Cargo : Recepcionista
+ <br>Direccion : Lope de Vega 452
+ <br>Ciudad : CABA
+ <br>Telefono : 1167147114
+ <br>Email : prumbolo822@mail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola , me llamo Priscila  Rumbolo estoy estudiando RRHH y estoy buscando trabajo referido a mi carrera, administración o recepcionista.Muchas gracias
+ <br>Security_code : cp7gr
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 200.1.118.115<br>
+ <br>Nombre : Osvaldo Ismael
+ <br>Apellido : Viñales
+ <br>Cargo : chofer
+ <br>Direccion : pizarro n°4775
+ <br>Ciudad : Neuquen
+ <br>Telefono : 2942650992
+ <br>Email : osvaldo17@live.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : buenos días me postulo a chofer o traslados de pasajeros tengo como cualidades ser responsable y cumplidor de lo que se me encomiende como tarea laboral con disponibilidad full time
+ <br>Security_code : 7chxh
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.88.177.3<br>
+ <br>REF : TE-1
+ <br>Nombre : JEAN CARLOS
+ <br>Apellido : MAZA RUIZ
+ <br>Cargo : TÉCNICO ELÉCTRICO
+ <br>Direccion : BUENOS AIRES
+ <br>Ciudad : BUENOS AIRES
+ <br>Telefono : +584265829367
+ <br>Email : jeancarlos2100@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : BUENOS DIAS
+ <br>Security_code : xg92x
+ <br>Send : Enviar
+ <br>
+---------------
+

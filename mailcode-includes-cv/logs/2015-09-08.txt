@@ -1,0 +1,119 @@
+Address : 190.193.16.176
+Nombre : Maria ROsa 
+Apellido : Dalla Fontana
+Cargo : jefe rrhh
+Direccion : Necochea 437
+Ciudad : Ramos Mejia
+Telefono : 011-154-1495654
+Email : mariarosadallafontana032@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenos días!
+Estoy buscando trabajo en el partido de la costa atlantica.
+Informo que tengo vivienda propia en san Bernardo.
+Gracias.
+Security_code : xmnqk
+Send : Enviar
+
+---------------
+
+Address : 181.164.190.251
+Nombre : Rodrigo
+Apellido : Brauer
+Cargo : Varios
+Direccion : Lestani 4375
+Ciudad : Barranqueras
+Telefono : 362 154621402
+Email : rodrigobrauer1991@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me considero una persona proactiva, que tiene buen desempeño en el trabajo en equipo, responsable y comprometido con lo que hace, que sabe adaptarse a los cambios. 
+Security_code : 6jprh
+Send : Enviar
+
+---------------
+
+Address : 181.164.190.251
+Nombre : Rodrigo
+Apellido : Brauer
+Cargo : Varios
+Direccion : Lestani 4375
+Ciudad : Barranqueras
+Telefono : 362 154621402
+Email : rodrigobrauer1991@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me considero una persona proactiva, que tiene buen desempeño en el trabajo en equipo, responsable y comprometido con lo que hace, que sabe adaptarse a los cambios. 
+Security_code : 6jprh
+Send : Enviar
+
+---------------
+
+Address : 181.164.190.251
+Nombre : Rodrigo
+Apellido : Brauer
+Cargo : Varios
+Direccion : Lestani 4375
+Ciudad : Barranqueras
+Telefono : 362 154621402
+Email : rodrigobrauer1991@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me considero una persona proactiva, que tiene buen desempeño en el trabajo en equipo, responsable y comprometido con lo que hace, que sabe adaptarse a los cambios. 
+Security_code : 6jprh
+Send : Enviar
+
+---------------
+
+Address : 181.164.190.251
+Nombre : Rodrigo
+Apellido : Brauer
+Cargo : Varios
+Direccion : Lestani 4375
+Ciudad : Barranqueras
+Telefono : 362 154621402
+Email : rodrigobrauer1991@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me considero una persona proactiva, que tiene buen desempeño en el trabajo en equipo, responsable y comprometido con lo que hace, que sabe adaptarse a los cambios. 
+Security_code : kn5pn
+Send : Enviar
+
+---------------
+
+Address : 136.1.1.103
+Nombre : Laura Verónica
+Apellido : Candelise
+Cargo : Administrativa/Secretaria/Asistente
+Direccion : General Lavalle 51
+Ciudad : San Fernando
+Telefono : 1536492628
+Email : lvcandelise@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenos días,
+Adjunto mi CV. Me encuentro en la búsqueda laboral de un empleo donde poder desarrollarme, aplicar mi experiencia de más de 10 años en una importante industria, y seguir capacitándome, dentro de un buen ambiente laboral.
+Security_code : 94xt6
+Send : Enviar
+
+---------------
+
+Address : 186.23.252.26
+Nombre : Mariela Alejandra  
+Apellido : Vaccaro
+Cargo : Supervisor / Lider / Coordinador
+Direccion : Rincon 2464 
+Ciudad : Ramos Mejia- Buenos Aires
+Telefono : 15-37939828
+Email : mariela_vaccaro@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados:
+
+Me dirijo a ustedes con el fin de remitirles mi cv para ser considerado ante posibles futuras selecciones que se ajusten a mi perfil. 
+
+Como podrán observar en el CV adjunto, me encuentro cursando la ultima materia de la carrera de Bioquímica y actualmente me encuentro trabajando en un laboratorio relacionado a la industria farmacéutica, orientado a validaciones analítica, estabilidades de producto, entre otros.
+
+Si lo consideran oportuno, tendría mucho gusto en proporcionarle más detalles sobre mi currículum vitae durante una entrevista.
+
+Sin otro particular, saludo atentamente.
+
+Mariela Vaccaro
+Security_code : xzr2b
+Send : Enviar
+
+---------------
+

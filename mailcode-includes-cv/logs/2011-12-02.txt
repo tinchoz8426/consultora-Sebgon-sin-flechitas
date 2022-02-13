@@ -1,0 +1,76 @@
+Address : 186.63.227.133
+Nombre : CARLOS MARTIN
+Apellido : PEREZ
+Cargo : LOGISTICA Y TRANSPORTE
+Direccion : Sarmiento 2952
+Ciudad : Castelar
+Telefono : 6247817
+Email : jzangirolami@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : SALUDO A USTEDES CORDIALMENTE. POSEO 11 AÑOS DE EXPERIENCIA EN CARREFOUR, MORENO. QUE ME HACEN APTO PARA DESEMPEÑAR LA TAREA  COMO JEFE O ENCARGADO DE LOGISTICA Y TRANSPORTE. SALUDO A UDS. ATTE. CARLOS MARTIN PEREZ  
+Security_code : 8kp9h
+Send : Enviar
+
+---------------
+
+Address : 186.63.227.133
+Nombre : CARLOS MARTIN
+Apellido : PEREZ
+Cargo : LOGISTICA Y TRANSPORTE
+Direccion : Sarmiento 2952
+Ciudad : Castelar
+Telefono : 6247817
+Email : jzangirolami@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : SALUDO A USTEDES CORDIALMENTE. POSEO 11 AÑOS DE EXPERIENCIA EN CARREFOUR, MORENO. QUE ME HACEN APTO PARA DESEMPEÑAR LA TAREA  COMO JEFE O ENCARGADO DE LOGISTICA Y TRANSPORTE. SALUDO A UDS. ATTE. CARLOS MARTIN PEREZ  
+Security_code : 8kp9h
+Send : Enviar
+
+---------------
+
+Address : 186.63.227.133
+Nombre : CARLOS MARTIN
+Apellido : PEREZ
+Cargo : LOGISTICA Y TRANSPORTE
+Direccion : Sarmiento 2952
+Ciudad : Castelar
+Telefono : 6247817
+Email : jzangirolami@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : SALUDO A USTEDES CORDIALMENTE. POSEO 11 AÑOS DE EXPERIENCIA EN CARREFOUR, MORENO. QUE ME HACEN APTO PARA DESEMPEÑAR LA TAREA  COMO JEFE O ENCARGADO DE LOGISTICA Y TRANSPORTE. SALUDO A UDS. ATTE. CARLOS MARTIN PEREZ  
+Security_code : 8kp9h
+Send : Enviar
+
+---------------
+
+Address : 181.1.176.190
+Nombre : Silvia
+Apellido : Periotti
+Cargo : Arquitecta
+Direccion : Manuel Solares 402
+Ciudad : Alta Gracia
+Telefono : (0351)153582431
+Email : silviaperiotti@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenos Dias, aqui les adjunto mi cv,estoy buscando empleo en culaquier rama de la arquitectura o la construccion. desde ya muchas gracias
+Security_code : kz8dw
+Send : Enviar
+
+---------------
+
+Address : 186.19.11.106
+Nombre : mariana
+Apellido : della bianca
+Cargo : apm
+Direccion : castelli 1270
+Ciudad : ramos mejia
+Telefono : 1532646102
+Email : marianadebianca@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : envio mi cv 
+gracias
+Security_code : fgwm5
+Send : Enviar
+
+---------------
+

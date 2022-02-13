@@ -1,0 +1,75 @@
+Address : 201.252.46.166
+Nombre : Jessica
+Apellido : Pico Estrada
+Cargo : Trabajo Social
+Direccion : Paraguay 5501
+Ciudad : Capital Federal
+Telefono : 4772 6956
+Email : jessicapicoestrada@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje :  A continuación adjunto mi CV, desde ya muchas gracias. Jessica.
+Security_code : smtfq
+Send : Enviar
+
+---------------
+
+Address : 181.5.154.127
+Nombre : Melina
+Apellido : Ponce
+Cargo : Administrativa
+Direccion : Bartolome Mitre 554
+Ciudad : Buenos Aires
+Telefono : 15-4087-5570
+Email : melinaponce67@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Envío Curriculum Vitae para postularme al puesto de Administrativa de la Empresa.
+Security_code : sns9x
+Send : Enviar
+
+---------------
+
+Address : 181.5.154.127
+Nombre : Melina
+Apellido : Ponce
+Cargo : Administrativa
+Direccion : Bartolome Mitre 554
+Ciudad : Moron
+Telefono : 15-4087-5570
+Email : melinaponce67@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Envío Curriculum Vitae para postularme al puesto de Administrativa de la Empresa
+Security_code : 6q7b5
+Send : Enviar
+
+---------------
+
+Address : 190.183.68.50
+Nombre : Arturo soler
+Apellido : soler
+Cargo : control o auxiliar
+Direccion : higieneyseguridad1@hotmail.com
+Ciudad : CORRIENTES
+Telefono : 15613217
+Email : higieneyseguridad1@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : .-------
+Security_code : 93s9rr
+Send : Enviar
+
+---------------
+
+Address : 190.183.68.50
+Nombre : Arturo soler
+Apellido : soler
+Cargo : control o auxiliar
+Direccion : higieneyseguridad1@hotmail.com
+Ciudad : CORRIENTES
+Telefono : 15613217
+Email : higieneyseguridad1@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : .-------
+Security_code : 93s9rr
+Send : Enviar
+
+---------------
+

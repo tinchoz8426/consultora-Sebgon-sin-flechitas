@@ -1,0 +1,105 @@
+Address : 24.232.252.183
+Nombre : Soledad
+Apellido : Gopar
+Cargo : Comunicación / Producción de contenidos
+Direccion : Hilarión de la Quintana 1611
+Ciudad : Olivos
+Telefono : 15 3460 1974
+Email : sgopar_letras@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados, mi nombre es Soledad Gopar, soy Lic. en Letras UBA.
+Pueden ver un extracto de mi experiencia profesional y ejemplos de trabajos realizados en http://www.soledadgopar.blogspot.com/
+
+Muchas gracias.
+
+Cordialmente,
+Soledad.
+Security_code : hbck3
+Send : Enviar
+
+---------------
+
+Address : 201.254.53.18
+Nombre : Leandro Gabriel
+Apellido : Rondinella
+Cargo : Administrativo
+Direccion : San Pedro 1433
+Ciudad : La Tablada
+Telefono : 1556984362
+Email : cartu.-@live.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Envio por este medio mi CV. Desde ya muchas gracias!
+Security_code : 45c4z
+Send : Enviar
+
+---------------
+
+Address : 190.19.39.215
+Nombre : Pablo
+Apellido : Vargas
+Cargo : seguridad / Vigilancia
+Direccion : Zuviria 825 - Caballito
+Ciudad : Bs As Capital federal
+Telefono : 1551271980 / 155 747 0481
+Email : pablomartinvargas@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me encuentro en búsqueda de un empleo de Seguridad / Vigilancia o afines dentro de Capital Federal 
+Security_code : tm4kb
+Send : Enviar
+
+---------------
+
+Address : 190.174.155.240
+Nombre : oscar luis
+Apellido : repetto
+Cargo : supervisor
+Direccion : larrea 2431
+Ciudad : pcia  de Buenos aires
+Telefono : 46577074
+Email : repetto.oscar@yahoo.com
+MAX_FILE_SIZE : 2097152
+Mensaje : 7f8tf
+Security_code : 7f8tf
+Send : Enviar
+
+---------------
+
+Address : 190.225.153.180
+Nombre : Verónica Patricia
+Apellido : Cozza
+Cargo : área social
+Direccion : Cordoba 3429
+Ciudad : San Andres
+Telefono : 15-6465-4716
+Email : veronicacozza@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : A quien corresponda:
+
+	Soy Verónica Cozza, estudiante de Lic. Trabajo Social en U.B.A.
+Les envío mi CV a fin de que me tengan en cuenta para futuras búsquedas y podamos concertar una entrevista. 
+
+Sin más me despido quedando a la espera de una pronta comunicación...
+
+Saluda Atte.
+
+Verónica.C  
+Security_code : bt8nm
+Send : Enviar
+
+---------------
+
+Address : 190.174.2.114
+Nombre : yamila
+Apellido : alvarez
+Cargo : informes socio ambientales
+Direccion : darwin 2582
+Ciudad : Ituzaingó
+Telefono : 01146214067
+Email : yamila_noelia_alvarez@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : me postula para futuras busquedas en informes socio ambientales para la consultora
+Security_code : xks8c
+Send : Enviar
+
+---------------
+

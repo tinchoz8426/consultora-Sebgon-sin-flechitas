@@ -1,0 +1,249 @@
+Address : 186.143.135.188<br>
+ <br>REF : TE-1
+ <br>Nombre : Carlos 
+ <br>Apellido : Rivera
+ <br>Cargo : Tecnico Electrico
+ <br>Direccion : Pasaje Ciudadela 1281
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 1122538954
+ <br>Email : carlose_123@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me encuentro interesado en la propuesta de trabajo 
+ <br>Security_code : tydg4
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.219.104.253<br>
+ <br>REF : ACO-1
+ <br>Nombre : Laurent
+ <br>Apellido : Martinez
+ <br>Cargo : Analista comercio internacional
+ <br>Direccion : Olleros 333O
+ <br>Ciudad : CABA
+ <br>Telefono : +5492644590045
+ <br>Email : laurent_martinez7@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados:
+
+ 
+
+Tengo el agrado de dirigirme a Uds. a los efectos de remitirles mi Curriculum Vitae, el cual se encuentra adjunto en este coreo. 
+
+ 
+
+Actualmente adeudo la tesis de la licenciatura en comercio internacional.
+
+ 
+
+En cuanto a mis aspiraciones saláriales. Las mismas serán acordes a la responsabilidad del cargo y a la política de la empresa.
+
+ 
+
+Agradeciendo la atención y el carácter confidencial de esta solicitud, quedo a la espera de una futura entrevista personal.
+
+ 
+
+Saludos cordiales,
+
+ Laurent
+ <br>Security_code : 25gxd
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.108.159.10<br>
+ <br>Nombre : Franco
+ <br>Apellido : Martinelli
+ <br>Cargo : Otro|
+ <br>Direccion : schweitzer 8032
+ <br>Ciudad : Rosario
+ <br>Telefono : 3413110179
+ <br>Email : francomartinelli@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : .
+ <br>Security_code : rvhdb
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 64.215.22.85<br>
+ <br>REF : EP-1
+ <br>Nombre : Cristian
+ <br>Apellido : Galindo
+ <br>Cargo : ENCARGADO DE PRODUCCIÓN
+ <br>Direccion : Arcos 3651
+ <br>Ciudad : CABA
+ <br>Telefono : 1163710543
+ <br>Email : cristiangalindo317@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Postulación para la busqueda de referencia
+ <br>Security_code : g67mc
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 69.174.87.156<br>
+ <br>REF : ACO-1
+ <br>Nombre : Patricio 
+ <br>Apellido : Carceller
+ <br>Cargo : ANALISTA DE COMERCIO INTERNACIONAL/EXTERIOR
+ <br>Direccion : Boedo 543
+ <br>Ciudad : Lomas de Zamora
+ <br>Telefono : 1540557053
+ <br>Email : patriciocarceller@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados
+Envio mi CV para la busqueda de referencia. Queria informarles que estoy dispuesto a cambiar mi domicilio ya que esta por vencer mi contrato de alquiler.
+Desde ya muchas gracias!
+ <br>Security_code : jyg8f
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 69.174.87.156<br>
+ <br>REF : ACO-1
+ <br>Nombre : Patricio 
+ <br>Apellido : Carceller
+ <br>Cargo : ANALISTA DE COMERCIO INTERNACIONAL/EXTERIOR
+ <br>Direccion : Boedo 543
+ <br>Ciudad : Lomas de Zamora
+ <br>Telefono : 1540557053
+ <br>Email : patriciocarceller@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados
+Envio mi CV para la busqueda de referencia. Queria informarles que estoy dispuesto a cambiar mi domicilio ya que esta por vencer mi contrato de alquiler.
+Desde ya muchas gracias!
+ <br>Security_code : 6cjyf
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 69.174.87.156<br>
+ <br>REF : ACO-1
+ <br>Nombre : Patricio 
+ <br>Apellido : Carceller
+ <br>Cargo : ANALISTA DE COMERCIO INTERNACIONAL/EXTERIOR
+ <br>Direccion : Boedo 543
+ <br>Ciudad : Lomas de Zamora
+ <br>Telefono : 1540557053
+ <br>Email : patriciocarceller@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados
+Envio mi CV para la busqueda de referencia. Queria informarles que estoy dispuesto a cambiar mi domicilio ya que esta por vencer mi contrato de alquiler.
+Desde ya muchas gracias!
+ <br>Security_code : 6cjyf
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 69.174.87.156<br>
+ <br>REF : ACO-1
+ <br>Nombre : Patricio 
+ <br>Apellido : Carceller
+ <br>Cargo : ANALISTA DE COMERCIO INTERNACIONAL/EXTERIOR
+ <br>Direccion : Boedo 543
+ <br>Ciudad : Lomas de Zamora
+ <br>Telefono : 1540557053
+ <br>Email : patriciocarceller@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados
+Envío mi CV para oferta laboral de referencia. Quería informar que mi domicilio no seria un inconveniente ya que mi contrato de alquiler esta próximo a vencer y puedo cambiar de domicilio de ser necesario
+Muchas gracias!
+ <br>Security_code : 6cjyf
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.212.251.248<br>
+ <br>REF : TE-1
+ <br>Nombre : Marianny
+ <br>Apellido : Trujillo
+ <br>Cargo : TE-1
+ <br>Direccion : Fray Justo Santa habilidad para negociar, trabajar bajo presión, con calidad y excelencia,
+ <br>Ciudad : buenos aires
+ <br>Telefono : 1131932945
+ <br>Email : mariannytrujillo@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Ingeniero en Electrónica, Mención: Automatización y Control. Con competencias sólidas en diseño, planificación y control de sistemas de mantenimiento, gerencia, coordinación y supervisión de ejecución de las diferentes fases de Ingeniería, estimación de costos y presupuestos de Inversión, Contratación de empresas Contratistas, evaluación de proveedores y gestión comercial.
+Programación PLC (Allen Bradley y Siemens), Diseño e Implemento de sistemas SCADA, planos eléctricos e instrumentados, y lógica de algoritmos. Conocimientos de Instrumentación y calibración de instrumentos.
+Motivada y orientada al logro, comunicación efectiva, proactiva, dinámica, habilidad para negociar, trabajar bajo presión, con calidad y excelencia, con un alto nivel de profesionalismo, honestidad y dedicación asumiendo con integridad los nuevos retos de las organizaciones y empresas que se encuentren en la constante búsqueda de lograr altos niveles de productividad, desempeño y competitividad.
+ <br>Security_code : yfgp4
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.47.138.44<br>
+ <br>REF : EP-1
+ <br>Nombre : Carlos
+ <br>Apellido : Galeano
+ <br>Cargo : Encargado de Prod.
+ <br>Direccion : Fray Mamerto Esquiú 912 gral pacheco cp 1617
+ <br>Ciudad : Tigre
+ <br>Telefono : 0111531387823
+ <br>Email : carlosgaleano6@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados,
+Me interesa la oferta lamentablemente por mi rotación no me están convocando a entrevista, cuento con mucha experiencia en el rubro y tengo buenas referencias.
+Agradeciendo de antemano su respuesta,
+Atte
+CG
+1131387823
+ <br>Security_code : 5nq2d
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.47.138.44<br>
+ <br>REF : EP-1
+ <br>Nombre : Carlos
+ <br>Apellido : Galeano
+ <br>Cargo : Encargado de Prod.
+ <br>Direccion : Fray Mamerto Esquiú 912 gral pacheco cp 1617
+ <br>Ciudad : Tigre
+ <br>Telefono : 0111531387823
+ <br>Email : carlosgaleano6@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados,
+Me interesa la oferta lamentablemente por mi rotación no me están convocando a entrevista, cuento con mucha experiencia en el rubro y tengo buenas referencias.
+Agradeciendo de antemano su respuesta,
+Atte
+CG
+1131387823
+ <br>Security_code : 5nq2d
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.15.160.106<br>
+ <br>REF : ROT-1
+ <br>Nombre : Emiliano
+ <br>Apellido : Barba
+ <br>Cargo : RESPONSABLE DE OFICINA TECNICA
+ <br>Direccion : Vergara 4526
+ <br>Ciudad : Florida
+ <br>Telefono : 1560553142
+ <br>Email : emilianobarba@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas tardes, adjunto mi CV para la búsqueda de responsable de Oficina Técnica. Muchas gracias
+ <br>Security_code : jtwjr
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 200.127.202.117<br>
+ <br>REF : ROT-1
+ <br>Nombre : AGUSTIN 
+ <br>Apellido : HUBRICH
+ <br>Cargo : Responsable de oficina tecnica
+ <br>Direccion : ayacucho 267
+ <br>Ciudad : AZUL
+ <br>Telefono : 1128883801
+ <br>Email : hubrichagustin8@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estoy interesado en integrar su equipo de trabajo
+ <br>Security_code : xs5bs
+ <br>Send : Enviar
+ <br>
+---------------
+

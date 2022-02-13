@@ -1,0 +1,66 @@
+Address : 186.109.142.135
+Nombre : Diana
+Apellido : vera
+Cargo : Recepcionista
+Direccion : Juan Agustín García 3082 
+Ciudad : Capital.
+Telefono : 1555052936
+Email : veradian@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Señores: Paternal  RRHH.
+Presente.
+
+De mi mayor consideración:
+ 
+  Habiendo leído su aviso en Computrabajo, me es grato ofrecerle mis servicios para desempeñarme como Recepcionista.-
+Para tal fin adjunto curriculum vitae, con mis datos personales y experiencia laboral.- 
+Mi disponibilidad es inmediata.-
+
+  A la espera de una respuesta favorable, los saludo muy atentamente. 
+
+DIANA VERA.
+
+Security_code : zmr3s
+Send : Enviar
+
+---------------
+
+Address : 190.17.62.252
+Nombre : Emiliano
+Apellido : Bernal
+Cargo : Comerciales
+Direccion : Condarco 1666 6º D
+Ciudad : Ciudad de Buenos Aires
+Telefono : 15-5757-1248
+Email : emilianobernal@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados,
+ 
+Buenas tardes, adjunto mi CV para ser analizado en futuras búsquedas.
+ 
+Muchas gracias.
+ 
+Cordialmente,
+ 
+Emiliano Bernal
+
+Security_code : 9wvxf
+Send : Enviar
+
+---------------
+
+Address : 186.57.145.26
+Nombre : Nadia Romina
+Apellido : Carriso
+Cargo : operaria
+Direccion : Balcarce 3182
+Ciudad : Morón
+Telefono : 46971275
+Email : nadia_ro_78@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : quisiera trabajar en la multinacional avon de Moreno.
+Security_code : q22cy
+Send : Enviar
+
+---------------
+

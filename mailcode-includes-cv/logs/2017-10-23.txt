@@ -1,0 +1,200 @@
+Address : 186.125.8.233<br>
+ <br>Nombre : andrea marisol florencia
+ <br>Apellido : garcia
+ <br>Cargo : cajera
+ <br>Direccion : solano vera 199
+ <br>Ciudad : tucuman 
+ <br>Telefono : 3815039368
+ <br>Email : andreamarisolgarcia@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenos dias con el inicio de i buqueda laboral es que dejo a su disposición mis datos laborales desde ya muchas gracias.
+
+ <br>Security_code : jmg4s
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.181.67.50<br>
+ <br>REF : chr
+ <br>Nombre : jonathan
+ <br>Apellido : chaves
+ <br>Cargo : chofer,cobrador,carga y descarga
+ <br>Direccion : dominguez 3130
+ <br>Ciudad : castelar
+ <br>Telefono : 1556162630
+ <br>Email : yonhychaves17@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : hola estoy desocupado y con muchas ganas de trabajar.tengo cnrt y peligrosas vigente,10 años de experiencia en reparto caba y gba.buena presencia y trato al cliente
+ <br>Security_code : fs3hf
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.181.67.50<br>
+ <br>REF : chr
+ <br>Nombre : jonathan
+ <br>Apellido : chaves
+ <br>Cargo : chofer cnrt
+ <br>Direccion : dominguez 3130
+ <br>Ciudad : castelar
+ <br>Telefono : 1556162630
+ <br>Email : yonhychaves17@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : poseo cnrt vigente y cargas peligrosas
+ <br>Security_code : mtv8g
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.108.100.195<br>
+ <br>Nombre : Alvaro Mariano Szabo
+ <br>Apellido : Szabo
+ <br>Cargo : Técnico Superior en Higiene y Seguridad en el Trabajo
+ <br>Direccion : Entre Rios 868
+ <br>Ciudad : San Miguel de Tucumán
+ <br>Telefono : 3814132309
+ <br>Email : alvaroszaboo@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Adjunto Curriculum Vitae
+ <br>Security_code : 4hk4m
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.108.100.195<br>
+ <br>Nombre : Alvaro Mariano
+ <br>Apellido : Szabo
+ <br>Cargo : Técnico Superior en Higiene y Seguridad en el Trabajo
+ <br>Direccion : Entre Rios 868
+ <br>Ciudad : San Miguel de Tucumán
+ <br>Telefono : 3814132309
+ <br>Email : alvaroszaboo@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Adjunto Curriculum Vitae
+ <br>Security_code : k6v7x
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.4.116.185<br>
+ <br>REF : chr
+ <br>Nombre : diego martin 
+ <br>Apellido : santoianni
+ <br>Cargo : chofer
+ <br>Direccion : viamonte 4025
+ <br>Ciudad : lanus
+ <br>Telefono : 1526375601
+ <br>Email : santoiannidiego@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : en el cv no se encuentra; pero antes de mi formacion academica, me desempeñe siempre en el manejo de carga pesada y liviana como chofer
+ <br>Security_code : z6wc2
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 152.168.152.186<br>
+ <br>REF : ACO-1
+ <br>Nombre : Marco
+ <br>Apellido : Agudelo
+ <br>Cargo : ANALISTA DE COMERCIO INTERNACIONAL/EXTERIOR
+ <br>Direccion : gorriti 3991
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 1155163599
+ <br>Email : marcoagudelo@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buen dia.
+
+Espero mi cv sea de su agrado, ejecutivo comercial 100% bilingue, con amplia experiencia en comercio exterior.
+ <br>Security_code : kszg5
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 152.168.152.186<br>
+ <br>REF : ACO-1
+ <br>Nombre : Marco
+ <br>Apellido : Agudelo
+ <br>Cargo : ANALISTA DE COMERCIO INTERNACIONAL/EXTERIOR
+ <br>Direccion : gorriti 3991
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 1155163599
+ <br>Email : marcoagudelo@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buen dia.
+
+Espero mi cv sea de su agrado, ejecutivo comercial 100% bilingue, con amplia experiencia en comercio exterior.
+ <br>Security_code : kszg5
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 152.168.152.186<br>
+ <br>REF : ACO-1
+ <br>Nombre : Marco
+ <br>Apellido : Agudelo
+ <br>Cargo : ANALISTA DE COMERCIO INTERNACIONAL/EXTERIOR
+ <br>Direccion : gorriti 3991
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 1155163599
+ <br>Email : marcoagudelo@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buen dia.
+
+Espero mi cv sea de su agrado, ejecutivo comercial 100% bilingue, con amplia experiencia en comercio exterior.
+ <br>Security_code : kszg5
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 152.168.152.186<br>
+ <br>REF : ACO-1
+ <br>Nombre : Marco
+ <br>Apellido : Agudelo
+ <br>Cargo : ANALISTA DE COMERCIO INTERNACIONAL/EXTERIOR
+ <br>Direccion : gorriti 3991
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 1155163599
+ <br>Email : marcoagudelo@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buen dia.
+
+Espero mi cv sea de su agrado, ejecutivo comercial 100% bilingue, con amplia experiencia en comercio exterior.
+ <br>Security_code : tyw5b
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 152.168.152.186<br>
+ <br>REF : ACO-1
+ <br>Nombre : Marco
+ <br>Apellido : Agudelo
+ <br>Cargo : ANALISTA DE COMERCIO INTERNACIONAL/EXTERIOR
+ <br>Direccion : gorriti 3991
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 1155163599
+ <br>Email : marcoagudelo@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buen dia.
+
+Espero mi cv sea de su agrado, ejecutivo comercial 100% bilingue, con amplia experiencia en comercio exterior.
+ <br>Security_code : mh585
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.47.187.102<br>
+ <br>REF : chr
+ <br>Nombre : braulio ramon 
+ <br>Apellido : dominguez ayala
+ <br>Cargo : chofer 
+ <br>Direccion : san martin 2420
+ <br>Ciudad : BERNAL OESTE 
+ <br>Telefono : 1161352920 
+ <br>Email : braulio.ayala2372@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : estoy en busca de una buena oportunidad de trabajo soy condutor con mas de 20 años de esperiencia 
+ <br>Security_code : xrxzk
+ <br>Send : Enviar
+ <br>
+---------------
+

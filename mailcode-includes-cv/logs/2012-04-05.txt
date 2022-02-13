@@ -1,0 +1,25 @@
+Address : 190.136.43.241
+Nombre : Laura Valeria
+Apellido : Fossat
+Cargo : adminitracion
+Direccion : san martin 504
+Ciudad : Pozo del Molle, Cordoba
+Telefono : 0351 155436381
+Email : valeriafossat@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados 
+                 Me dirijo a ustedes con el fin de poder acercarles mis datos, conocimientos y experiencia laboral, para que puedan tomarlo en cuenta para una entrevista.
+Por mi parte Considero que mi candidatura les puede resultar interesante para puestos de administrativa, recepcionista, telefonista, secretaria, atención al cliente, cajera y otros.
+Como pueden comprobar en mi Curriculum Vitae adjunto a este mail, poseo una importante experiencia laboral, en diferentes lugares y puestos de trabajo.
+Soy una persona predispuesta, proactiva, dinámica, con iniciativa, responsable, capaz para aprender, segura y con una disponibilidad horaria full time.
+Tengo posibilidades de radicarme en otra provincia.
+Espero que consideren mi Curriculum Vitae y concierten una entrevista próximamente. 
+En espera de una respuesta positiva, los saludo Atentamente
+ 
+VALERIA FOSSAT
+
+Security_code : 6gbdf
+Send : Enviar
+
+---------------
+

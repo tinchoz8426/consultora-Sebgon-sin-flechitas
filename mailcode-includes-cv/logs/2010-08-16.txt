@@ -1,0 +1,49 @@
+Address : 190.190.109.21
+Nombre : Carlos Alberto
+Apellido : Penatti
+Cargo : Cualquiera
+Direccion : Av. Diaz Velez 860
+Ciudad : Autonoma de Buenos Aires
+Telefono : 46536004 / 1564888804
+Email : carlospenatti@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola mi nombre es Carlos , y me dirijo a ustedes para hacerles llegar mi curriculum, para su base de datos, desde ya muchas gracias.
+Security_code : nx7g9
+Send : Enviar
+
+---------------
+
+Address : 190.3.153.189
+Nombre : Gaston
+Apellido : Gonzalez
+Cargo : Gerente Marketing - Comercial - Comunicaciones
+Direccion : Las Calendulas 3773
+Ciudad : Del Viso
+Telefono : 011 4142 6885
+Email : tukygonzalez@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Es mi deseo presentar mi CV para posibles búsquedas que estén realizando en el área de Marketing, Comercial o de Comunicación.
+Muchas gracias
+Gastón
+
+Security_code : fnv9s
+Send : Enviar
+
+---------------
+
+Address : 190.137.217.11
+REF : gerente-financiero
+Nombre : Ernesto F. Iramain
+Apellido : Iramain
+Cargo : Tecnico en Higiene y Seguridad Laboral
+Direccion : Matienzo 917
+Ciudad : Concepcion
+Telefono : 03865-15410808
+Email : paco_iramain@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Espero formar parte de una gran empresa
+Security_code : vcnvh
+Send : Enviar
+
+---------------
+

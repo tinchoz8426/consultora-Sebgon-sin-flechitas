@@ -1,0 +1,16 @@
+Address : 200.8.160.87
+REF : proyectista-electronico
+Nombre : ronald jose
+Apellido : guevara bucce
+Cargo : comunicación social
+Direccion :  ( VENEZUELA ),Res Palma Dorada torre 4 piso 10-a     
+Ciudad : BARCELONA
+Telefono : 04148325978
+Email : guevararonald82@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : soy de venezuela , pero estoy dispuesto a viajar para argentina por el puesto de trabajo, estoy sumamente interesado, a mediados de agosto estoy viajando a buenos aires.
+Security_code : 6ssnf
+Send : Enviar
+
+---------------
+

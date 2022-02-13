@@ -1,0 +1,199 @@
+Address : 186.137.130.120
+Nombre : Patricia Noemi
+Apellido : Maza
+Cargo : operaria
+Direccion : calle 162 Nro 2869
+Ciudad : Berazategui
+Telefono : (5411) 67607527
+Email : pato_ypunto_@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : deseo valoren mi experiencia y consideren tenerme en cuenta para otros que amplien mas mis conocimietos
+Security_code : z4kpb
+Send : Enviar
+
+---------------
+
+Address : 181.27.133.57
+Nombre : Agsutina
+Apellido : Zajac
+Cargo : Administracion, Recepcion, Caja, Atencion al cliente
+Direccion : Las Heras 2959
+Ciudad : Monte Grande
+Telefono : 42640804
+Email : agustinazajac@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : estoy dispuesta a aprender nuevos empleos
+Security_code : tt2p2
+Send : Enviar
+
+---------------
+
+Address : 190.17.75.113
+Nombre : Giovanna
+Apellido : Papini
+Cargo : Junior
+Direccion : Pergamino 126
+Ciudad : Capital Federal
+Telefono : 15 65 07 46 32
+Email : giovanna.p249@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estoy buscando algún empleo por el lado administrativo o recepción, desde ya muchas gracias.
+Security_code : cs86v
+Send : Enviar
+
+---------------
+
+Address : 190.195.224.54
+Nombre : Nadia Eleonora 
+Apellido : Portillo 
+Cargo : Asistente en Farmacia 
+Direccion : Corrientes 
+Ciudad : Rosario 
+Telefono : 3413139450
+Email : nadiaeportillo@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Currículum vitae
+ 
+
+Datos personales 
+Nombre: Portillo Nadia Eleonora 
+DNI: 31.082.933
+Domicilio: Corrientes 2326
+Localidad y Código postal: Rosario 2000
+Nacionalidad: Argentina 
+Número de teléfono: 0341-153139450
+Edad: 29 Años
+Fecha de nacimiento: 5 de octubre de 1984 
+Estado civil: Concubinato
+Número de Hijos: 1 (uno)
+Mail: nadiaeportillo@gmail.com 
+Cuil/Cuit: 27-31082933/7
+
+Objetivos laborales
+Insértame en su farmacia para desempeñar tareas de asistente farmacéutico, con los conocimientos teóricos, en dicha área. 
+
+
+
+
+
+Experiencia laboral 
+Peluquería 
+Fecha de: 2011 a 2013
+Posición Ocupada: Peluquera   
+
+Nombre de la empresa: Modas Tungas
+Fecha de: 2006 a 2009
+Posición Ocupada: Empleada, Atención al Publico, Cobro y Reposición de Mercadería
+Referencia: Rosa Nidia Andreoli (03435)422745
+
+
+Formación Académica
+Título: Perito Mercantil (secundario) 
+Institución: Instituto Nogoyá de Enseñanza Comercial
+Dirección: 25 de Mayo 639 - Nogoyá (Entre Ríos) 
+Año de Egreso: 17 de diciembre de 2008  
+
+Otros Cursos y Capacitaciones 
+Título: Curso Básico Peluquería Profesional
+Institución: Federación Entrerriana de Peluqueros y Peinados 
+Dirección: Avenida Independencia 1718 - Crespo (Entre Ríos) 
+Año de Finalización: 1 de Abril de 2012 
+ 
+Título: Asistente Farmacéutico
+Institución: Centro Integral de Enseñanza y Capacitación
+Dirección: Santa Fe 1590  (0341) 4450257
+Año de Finalización: 2014   
+
+Datos de interés 
+Disponibilidad horaria: Part  time 
+Disponibilidad para viajar: Si, volver en el día 
+Carnet de conducir: Si
+ 
+
+Security_code : v3kdv
+Send : Enviar
+
+---------------
+
+Address : 190.195.62.177
+REF : GTE COM.EXT
+Nombre : Daniel
+Apellido : Dal Bo
+Cargo : Gerente de Comercio Exterior
+Direccion : Capdevila 3353 1B
+Ciudad : Capital Federal
+Telefono : 011-4545-1345
+Email : danieldalbo@fibertel.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : De mi mayor consideración: 
+Remito a Ud, mi CV a efectos de ser analizado, Ya que cumplo con con las condiciones solicitadas para el puesto de Gerente de Comercio Exterior
+Security_code : d2dc6
+Send : Enviar
+
+---------------
+
+Address : 190.17.76.41
+REF : ADMINISTRATIVO-DE-LOGISTICA
+Nombre : José 
+Apellido : Cardigonte
+Cargo : ADMINISTRATIVO-DE-LOGISTICA
+Direccion : Portela 393
+Ciudad : Capital Federal
+Telefono : 15-5948-0151
+Email : josecardigonte@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Mi experiencia laboral fue adquirida en el área operativa y en la mayoría de sus facetas, he transitado también diversas responsabilidades como operario, supervisor y Jefe, siendo una de mis características, el ser expeditivo para el logro de objetivos trazados, trabajando bajo presión en consecuencia y compromiso; agregando a esto, la posibilidad de relacionarme con las distintas estructuras empresariales ya sea de base como gerenciales.
+No ajeno a la situación y más haya de mi pretensiones, estoy en condiciones de realizar tareas administrativas, de supervisión, control  de gestión y atención al público. Esto de ninguna manera compromete mi compromiso con las tareas.
+Mi búsqueda está enfocada a un lugar estable donde pueda desarrollar todo mi potencial, dedicación, compromiso  agregando la posibilidad de progreso y proyección.
+
+Security_code : csm73
+Send : Enviar
+
+---------------
+
+Address : 201.252.22.185
+Nombre : Mauricio Alberto 
+Apellido : Verocay Guell 
+Cargo : Vendedor 
+Direccion : Estados Unidos 3661
+Ciudad : Cordoba
+Telefono : 3516502545 - 4562339
+Email : mauri_1671@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estoy en la búsqueda de empleo , soy una persona pro-activa y de muy buen carácter , me desempeño muy bien en la atención al publico , trabajando hace un año como pre-ventista 
+Security_code : nq7rh
+Send : Enviar
+
+---------------
+
+Address : 190.104.73.77
+Nombre : Bernardo
+Apellido : Poblete
+Cargo : Mantenimiento
+Direccion : B° Brentana Colon N°96
+Ciudad : Cutral - Có
+Telefono : 155751216
+Email : berelio@outlook.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Celular de Contacto 
+2995751216
+Security_code : nq7rh
+Send : Enviar
+
+---------------
+
+Address : 186.134.7.113
+Nombre : Claudio
+Apellido : Hefner
+Cargo : Gerente de sucursal ventas
+Direccion : Gral nazar 1574
+Ciudad : la matanza 
+Telefono : 11 15 56358282
+Email : hefnerclaudio@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : me interesa el puesto en el Bolson 
+Security_code : gzvwr
+Send : Enviar
+
+---------------
+

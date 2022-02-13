@@ -1,0 +1,21 @@
+Address : 190.247.92.153
+Nombre : Facundo
+Apellido : Ullmann
+Cargo : Marketing
+Direccion : Pedro I. Rivera 4785 2°E
+Ciudad : CABA
+Telefono : 1541988743
+Email : facundo_ullmann@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : De mi mayor consideración,
+Me dirijo a usted a los efectos de hacerle llegar mi CV para que el mismo pueda ser considerado en futuras búsquedas de personal que realice la consultora.
+En la información adjunta podrá tomar detalle de mis datos personales, mi formación académica y mi perfil profesional. Tengo estudios completos en Comunicación Social y poseo amplia experiencia en la planificación de proyectos y el desarrollo de procesos estratégicos. En mis últimos años estuve enfocado en la gestión institucional, el management empresarial y el diseño de planes de Marketing & Comunicación. Además cuento con certificaciones especializadas en las áreas de PM, Couching y Publicidad, y también un buen manejo de herramientas informáticas así como dominio del idioma inglés.
+Espero una respuesta favorable para poder concertar una entrevista ante una eventual oportunidad que se ajuste adecuadamente a mi perfil y asimismo ampliar los datos incluidos en mi Curriculum.
+
+Agradeciendo su atención, saludo a usted muy atentamente.
+Facundo Ullmann 
+Security_code : nk9n4
+Send : Enviar
+
+---------------
+

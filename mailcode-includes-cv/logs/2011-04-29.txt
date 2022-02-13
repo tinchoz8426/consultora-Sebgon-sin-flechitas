@@ -1,0 +1,31 @@
+Address : 190.231.210.47
+Nombre : Rodrigo
+Apellido : Fanti
+Cargo : Joven Profesional - Abogado Jr.
+Direccion : Santiago del Estero 351
+Ciudad : Salta
+Telefono : 4318069
+Email : rofanti@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Envio CV personal para que sea tenido en futuras busquedas orientadas a mi perfil profesional. Desde ya muchas gracias.
+Security_code : q28zv
+Send : Enviar
+
+---------------
+
+Address : 201.254.230.43
+Nombre : vanesa
+Apellido : sabino
+Cargo : selectora de personal o puesto afin
+Direccion : wagner
+Ciudad : buenos aires
+Telefono : 1555851699
+Email : vanesa.sabino@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Envio mi curriculum por si en alguna circunstancia necesitan una psicopedagoga.
+Muchas gracias.
+Security_code : g77h7
+Send : Enviar
+
+---------------
+

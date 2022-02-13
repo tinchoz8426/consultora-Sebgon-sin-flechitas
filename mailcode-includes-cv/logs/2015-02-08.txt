@@ -1,0 +1,65 @@
+Address : 190.190.250.39
+Nombre : Noelia
+Apellido : Obregón
+Cargo : A definir
+Direccion : Lafayette 3051
+Ciudad : Villa Ballester
+Telefono : 1562172929
+Email : noeliaobregon@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola, les hago llegar mi CV para que puedan considerarlo. Entiendo que mi perfil se ajusta a varios de los servicios que brinda su empresa. Aguardo su contacto para ampliar cualquier consulta. Saludos cordiales.
+Security_code : qyd7h
+Send : Enviar
+
+---------------
+
+Address : 190.221.214.8
+Nombre : Maria Jimena
+Apellido : Garcia
+Cargo : áreas comerciales
+Direccion : Lobos 1747
+Ciudad : Lobos
+Telefono : 11 3418 2303
+Email : jimenagarcia83@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buen día, 
+Les envio mi CV a fin de que sea tenido en cuenta cuando surjan búsquedas acordes a mi perfil en zona oeste.
+Muchas gracias,
+Saludos.
+Security_code : 4pdk7
+Send : Enviar
+
+---------------
+
+Address : 181.167.8.238
+Nombre : Norberto
+Apellido : Ciafardini
+Cargo : Marketing
+Direccion : Ciudad de la Paz 1972
+Ciudad : CABA
+Telefono : 1567254414
+Email : mrnor@outlook.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Les envió mis datos curriculares y personales para poder realizar una postulación acorde a mi perfil laboral.
+cualquier consulta, estoy a su disposición
+saludos
+Security_code : whnt9
+Send : Enviar
+
+---------------
+
+Address : 190.195.48.184
+Nombre : Natalia Belén
+Apellido : Prada
+Cargo : Publicista - Marketing
+Direccion : J. Salguero 1657 4B
+Ciudad : Capital Federal
+Telefono : +5491131093289
+Email : nataliabprada@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me encuentro en condiciones para cualquier puesto, soy una persona abierta y que se adapta a diferentes propuestas o grupos de trabajos. 
+Security_code : cz9r2
+Send : Enviar
+
+---------------
+

@@ -1,0 +1,16 @@
+Address : 190.16.147.97
+ <br>Nombre : Santiago
+ <br>Apellido : Sportelli
+ <br>Empresa : Deposito
+ <br>Telefono : 1111111
+ <br>Email : ssportelli@hotmail.com
+ <br>Mensaje : Hola, 
+Necesito servicio de higiene y seguridad para un depósito de bebidas y alimentos.
+superficie de 650m2. Somos un total de 12 personas.7 operarios y 5 administrativos. 
+Estamos en la localidad de Munro.
+Aguardo  presupuesto, saludos.
+ <br>Security_code : 3qx74
+ <br>Send : Enviar
+ <br>
+---------------
+

@@ -1,0 +1,212 @@
+Address : 200.45.81.75
+REF : SUPERVISOR-DE-SEGURIDAD
+Nombre : Jorge Pablo
+Apellido : Cardetti
+Cargo : Supervisor Seguridad (+)
+Direccion : Los Lapachos 495
+Ciudad : Alta Gracia
+Telefono : 0351-157671949
+Email : kokicardetti@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Resido en alta Gracia, Còrdoba, de cualquier manera si tuvieran relaciòn con empresas de seguridad de la zona, les agradecerìa me incluyan en vuestra base de datos al respecto, Gracias.
+Security_code : g97wk
+Send : Enviar
+
+---------------
+
+Address : 190.57.224.106
+Nombre : Ramon Oscar
+Apellido : Sagania
+Cargo : operario de produccion
+Direccion : puerto tirol 
+Ciudad : chaco
+Telefono : 3624 774620
+Email : tanero_09@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : necesito trabajar soy de chaco puerto tirol
+Security_code : n6dmx
+Send : Enviar
+
+---------------
+
+Address : 190.57.225.50
+Nombre : Ramon Oscar
+Apellido : Sagania
+Cargo : operario de produccion
+Direccion : puerto tirol 
+Ciudad : chaco
+Telefono : 3624 774620
+Email : tanero_09@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : necesito trabajar soy de chaco puerto tirol
+Security_code : n6dmx
+Send : Enviar
+
+---------------
+
+Address : 190.57.225.50
+Nombre : Ramon Oscar
+Apellido : Sagania
+Cargo : operario de produccion
+Direccion : puerto tirol 
+Ciudad : chaco
+Telefono : 3624 774620
+Email : tanero_09@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : necesito trabajar soy de chaco puerto tirol
+Security_code : n6dmx
+Send : Enviar
+
+---------------
+
+Address : 190.57.224.106
+Nombre : Ramon Oscar
+Apellido : Sagania
+Cargo : operario de produccion
+Direccion : puerto tirol 
+Ciudad : chaco
+Telefono : 3624 774620
+Email : tanero_09@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : necesito trabajar soy de chaco puerto tirol
+Security_code : k2pfp
+Send : Enviar
+
+---------------
+
+Address : 186.22.218.155
+Nombre : Santiago
+Apellido : Sanchez Benz
+Cargo : Empleado.
+Direccion : Gran Canaria 479
+Ciudad : Quilmes Oeste.
+Telefono : 20664325- 1535116025
+Email : santiagosanchezbenz@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Me dirijo a usted con el fin de transmitirle mi deseo de poder desempeñarme en un empleo formal capaz de fortalecer mis aptitudes laborales. Acrtualmente me encuentro realizando mis estudios Universitarios en el horario nocturno y es por ellos que busco un empleo durante el horario de la mañana.
+Security_code : W5C63
+Send : Enviar
+
+---------------
+
+Address : 186.56.156.230
+Nombre : Celia Edith
+Apellido : Vallejos
+Cargo : Sociológa
+Direccion : Pasapontti 1442
+Ciudad : Moreno, Buenos Aires
+Telefono : 1130625738
+Email : cedithvallejos.86@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados:
+Me dirijo a Ud. a los fines de postularme como aspirante  para incorporarme a su equipo de trabajo, si existiera la oportunidad, ya que considero que tengo el perfil requerido para incorporarme.
+ 
+  Adjunto mi cv.
+ 
+  Espero sea de su agrado y a la espera de una respuesta favorable para ambas partes, sin otro motivo particular.   
+cordialmente, 
+Vallejos, C. Edith
+ Lic. en Sociología 
+   
+Security_code : 3zhr5
+Send : Enviar
+
+---------------
+
+Address : 190.210.165.123
+Nombre : Hugo Agustin
+Apellido : Albarenque
+Cargo : Vigilancia/Operario de limpieza
+Direccion : Calle 2 e/ 112 y 113 
+Ciudad : Berazategui, Buenos Aires
+Telefono : 43874506/ 1530321204
+Email : todounpalo18@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Persona dinámica, responsable, adaptable a cualquier ambiente de trabajo. Con capacidad para crecer en el mismo mediante esfuerzo y buena conducta.
+Security_code : 97hcq
+Send : Enviar
+
+---------------
+
+Address : 190.210.165.123
+Nombre : Hugo Agustin
+Apellido : Albarenque
+Cargo : Vigilancia/Operario de limpieza
+Direccion : Calle 2 e/ 112 y 113 
+Ciudad : Berazategui, Buenos Aires
+Telefono : 43874506/ 1530321204
+Email : todounpalo18@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Persona dinámica, responsable, adaptable a cualquier ambiente de trabajo. Con capacidad para crecer en el mismo mediante esfuerzo y buena conducta.
+Security_code : ww4tn
+Send : Enviar
+
+---------------
+
+Address : 186.12.226.152
+Nombre : David Emmanuel
+Apellido : Paz Daneri
+Cargo : Operario de Limpieza, bachero
+Direccion : La Matanza - Isidro Casanova
+Ciudad : Buenos Aires
+Telefono : 1539560798
+Email : david_paz_daneri@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Detallista, creativo y ordenado.
+Security_code : 6xdqw
+Send : Enviar
+
+---------------
+
+Address : 190.174.233.125
+Nombre : julian
+Apellido : iturria
+Cargo : vendedor, cajero, administrativo
+Direccion : calle 348 Nº 3931
+Ciudad : quilmes
+Telefono : 1559224942
+Email : julian-iturria@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados,
+Soy Julián Iturria, adjunto mi CV interesado en la propuesta laboral.
+Aguardo a ser llamado para una próxima entrevista.
+Desde ya, muchas gracias.
+Julián.
+Security_code : h3rzv
+Send : Enviar
+
+---------------
+
+Address : 181.28.91.158
+Nombre : Maria Jose
+Apellido : Mujia
+Cargo : Asistente comercial
+Direccion : Juncal 2254
+Ciudad : capital federal
+Telefono : 155 460 1082
+Email : majomujia@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Durante 13 años me formé en producción de televisión y publicidad, donde me especialicé en la coordinación de personas y la resolución de situaciones dinámicas e inmediatas, como productora. 
+En esta industria, pude desarrollar capacidades como: manejar temas en paralelo, adelantarme a posibles inconvenientes, habilidad para improvisar soluciones y seguimiento de cada tarea hasta el final.
+De esta manera, mi experiencia laboral me permite plantarme frente a una gran variedad de trabajos, que requieren de planeamiento, coordinación y ejecución.
+Mi objetivo es pertenecer a una empresa o pyme donde pueda proyectarme, me presente desafios y me genere ganas de crecer cada vez mas
+Security_code : micasa
+Send : Enviar
+
+---------------
+
+Address : 181.239.32.107
+Nombre : Evelyn Yamila
+Apellido : Suarez
+Cargo : indistinto
+Direccion : Dardo Rocha y 16
+Ciudad : Berazategui
+Telefono : 54374943
+Email : evelynyamilasuarez@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : curriculum vitae
+Security_code : yqmyy
+Send : Enviar
+
+---------------
+

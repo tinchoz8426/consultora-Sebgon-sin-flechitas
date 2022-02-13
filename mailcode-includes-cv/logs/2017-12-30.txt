@@ -1,0 +1,15 @@
+Address : 190.225.29.187<br>
+ <br>Nombre : Hugo Hector
+ <br>Apellido : Maidana
+ <br>Cargo : pintura.herreria,mantenimiento.operario
+ <br>Direccion : Erwin schorodinger mza 45 lote 3
+ <br>Ciudad : Cordoba
+ <br>Telefono : 0351-152944238_ 4979368
+ <br>Email : oscar-deasis@outlook.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : me postulo para cualquier puesto disponible.. tengo didponibilidad horaria
+ <br>Security_code : 2gzbp
+ <br>Send : Enviar
+ <br>
+---------------
+

@@ -1,0 +1,244 @@
+Address : 50.99.212.113<br>
+ <br>Nombre : ROBERTO
+ <br>Apellido : BUSTOS
+ <br>Cargo : INGENIERO
+ <br>Direccion : 198 cranford way se
+ <br>Ciudad : CALGARY
+ <br>Telefono : 4036195960
+ <br>Email : bustosrobertomail@yahoo.ca
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola Buenos Dias
+
+Tengo el agrado de dirigirme a Ud. para presentarle mi CV de Ingeniero Mecánico.
+
+Vivo y trabajo actualmente en Canada, como ingeniero de proyectos para la fabricación de skids de compresores para la industria del oil & Gas.
+
+Poseo gran experiencia en administración de Proyectos, manejo de contratistas, y seguimiento de obras.
+
+Manejo excelente del ingles y francés (aparte del español nativo Argentino). Poseo inclinación para trabajar en el sector de las energías (renovables o no), y estoy a punto de iniciar un Master de Energías Renovables en España.
+
+Esperando mi mensaje sea de su interés, quedo atento a toda duda que pueda tener
+
+Saludas Cordiales
+
+Roberto Bustos
+
+Calgary, Canada.
+
+ <br>Security_code : 3kg9g
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.30.82.197<br>
+ <br>Nombre : Fabián David
+ <br>Apellido : Nonis
+ <br>Cargo : Biotecnología, farmacia, salud, alimenticia, etc
+ <br>Direccion : Córdoba
+ <br>Ciudad : Córdoba
+ <br>Telefono : 03515230850
+ <br>Email : davidnonis@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Profesional con extensos conocimientos en bioquímica, biología celular y molecular. Demostrada experiencia en el manejo de múltiples proyectos y organización de laboratorio. Eficiencia en la toma decisiones y acciones en el cumplimiento de objetivos en plazos determinados. Personalidad proactiva. Adaptabilidad trabajando en ambientes de altos estándares internacionales. Habilidades para trabajar en equipo. Buscando posición afín.
+ <br>Security_code : 7xsxv
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.47.138.87<br>
+ <br>REF : ROT-1
+ <br>Nombre : Ignacio
+ <br>Apellido : RAITER
+ <br>Cargo : ROT-1
+ <br>Direccion : Monroe 3668
+ <br>Ciudad : Buenos aires
+ <br>Telefono : 1539394988
+ <br>Email : iraiter@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : De mi mayor consideración:
+
+Por medio de la presente, le hago saber mi interés para que me tenga en cuenta para la búsqueda laboral de la referencia.
+
+Soy Licenciado en Administración y Licenciado en Sistemas de la UBA y cuento con 15 años de experiencia laboral en el área de Sistemas, trabajando como Project Manager, Líder de proyecto, Analista funcional, participando en implementaciones, mejoras de tecnologías/procesos. En distintas empresas como Consultorìa, Seguros, Salud, Real State, Alimenticia, Logística.
+
+
+Adjunto mi Curiculum vitae, quedo a su disposición, 
+
+Saludo cordial, 
+
+Ignacio Raiter
+ <br>Security_code : m2465
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 168.90.86.80<br>
+ <br>Nombre : Jonatan
+ <br>Apellido : Arroyo
+ <br>Cargo : Técnico en Seguridad e Higiene
+ <br>Direccion : velazquez y gutierrez
+ <br>Ciudad : Los Polvorines
+ <br>Telefono : 1567854006
+ <br>Email : jonatanulisesarroyo@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas les hago llegar mi cv desde ya muchas gracias
+ <br>Security_code : ht9bg
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 152.168.144.64<br>
+ <br>Nombre : Cintia
+ <br>Apellido : Perri
+ <br>Cargo : Analista Senior
+ <br>Direccion : Arenales 3800
+ <br>Ciudad : Capital Federal
+ <br>Telefono : 1162250168
+ <br>Email : cimaper@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Tengo el agrado de dirigirme a Ud., con el fin de hacerle llegar mi CV. Como podrá observar en él,  puedo ofrecer una amplia experiencia laboral en diferentes áreas administrativas y puedo asegurarle responsabilidad, honestidad, cumplimiento, ambición de capacitación y progreso.
+
+
+                                                                Atte
+
+                                                          Cintia Perri
+ <br>Security_code : X9S23
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.11<br>
+ <br>Nombre : Nicolas Mariano
+ <br>Apellido : Farina
+ <br>Cargo : Operario mantenimiento en Burzaco
+ <br>Direccion : Finochietto 1167
+ <br>Ciudad : Burzaco
+ <br>Telefono : 1133432905
+ <br>Email : Elmeca_nico@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas tardes, adjunto mi CV y quedo a la espera de una respuesta favorable. Desde ya, muchas gracias
+ <br>Security_code : yg4d8
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.11<br>
+ <br>Nombre : Nicolas Mariano
+ <br>Apellido : Farina
+ <br>Cargo : Operario mantenimiento en Burzaco
+ <br>Direccion : Finochietto 1167
+ <br>Ciudad : Burzaco
+ <br>Telefono : 1133432905
+ <br>Email : Elmeca_nico@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas tardes, adjunto mi CV y quedo a la espera de una respuesta favorable. Desde ya, muchas gracias
+ <br>Security_code : yg4d8
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.11<br>
+ <br>Nombre : Nicolas Mariano
+ <br>Apellido : Farina
+ <br>Cargo : Operario mantenimiento en Burzaco
+ <br>Direccion : Finochietto 1167
+ <br>Ciudad : Burzaco
+ <br>Telefono : 1133432905
+ <br>Email : Elmeca_nico@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas tardes, adjunto mi CV y quedo a la espera de una respuesta favorable. Desde ya, muchas gracias
+ <br>Security_code : cpz2m
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.89.64.148<br>
+ <br>REF : SP-1
+ <br>Nombre : Enmanuel
+ <br>Apellido : Quintero
+ <br>Cargo : Supervisor de Producción
+ <br>Direccion : Angel J. Carranza 2385
+ <br>Ciudad : CABA
+ <br>Telefono : +5491126482660
+ <br>Email : q.enmanuel@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Agradeciendo desde ya la oportunidad. saludos
+ <br>Security_code : m8bdw
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.179.59.163<br>
+ <br>REF : TEC. EL
+ <br>Nombre : francisco
+ <br>Apellido : gonzalez
+ <br>Cargo : electricista
+ <br>Direccion : francisco acuña figueroa 236
+ <br>Ciudad : Almagro
+ <br>Telefono : 1161672095
+ <br>Email : cicofran18@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : buenas escribo por la oferta de empleo
+ <br>Security_code : pnq2w
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.21.69.152<br>
+ <br>Nombre : Mayra Ayelén
+ <br>Apellido : Aquino
+ <br>Cargo : Técnico Químico
+ <br>Direccion : Federico Leloir 1292
+ <br>Ciudad : Ituzaingó
+ <br>Telefono : 44817922
+ <br>Email : mayraaquino95@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Quedo a su disposición para ampliar cualquier información.
+
+ <br>Security_code : 7jjm2
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.120.190.69<br>
+ <br>Nombre : pablo daniel
+ <br>Apellido : herrera
+ <br>Cargo : mantenimiento
+ <br>Direccion : turquia 231
+ <br>Ciudad : Florencio Varela
+ <br>Telefono : 1162637812
+ <br>Email : herrerap.908@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : mantenimiento de todo tipo
+-electricidad
+-plomeria
+-albañileria
+-sanitarista
+-durlock
+
+ <br>Security_code : b9ndg
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.120.190.69<br>
+ <br>Nombre : pablo daniel
+ <br>Apellido : herrera
+ <br>Cargo : mantenimiento
+ <br>Direccion : turquia 231
+ <br>Ciudad : Florencio Varela
+ <br>Telefono : 1162637812
+ <br>Email : herrerap.908@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : mantenimiento de todo tipo
+-electricidad
+-plomeria
+-albañileria
+-sanitarista
+-durlock
+
+ <br>Security_code : b9ndg
+ <br>Send : Enviar
+ <br>
+---------------
+

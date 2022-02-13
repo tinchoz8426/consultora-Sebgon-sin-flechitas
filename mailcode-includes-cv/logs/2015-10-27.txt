@@ -1,0 +1,30 @@
+Address : 186.62.213.45
+Nombre : Mariana
+Apellido : Spiousas
+Cargo : Atencion al público- Vendedora de mostrador- Cajera- Auxiliar de farmacia
+Direccion : San Lorenzo 1646
+Ciudad : Mar del Plata
+Telefono : 223-156340975
+Email : marianaspiousas@live.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Trabajé en el área de ventas en distintas empresas durante más de 15 años. Poseo la capacidad y los conocimientos adquiridos para cubrir un puesto en dicha área en una nueva empresa, la cual me provea un ámbito propicio para desarrollar al máximo mis capacidades.
+Security_code : zqt7s
+Send : Enviar
+
+---------------
+
+Address : 190.228.234.39
+Nombre : Julieta
+Apellido : Delponti
+Cargo : Diseñador Industrial
+Direccion : san nicolas
+Ciudad : La Rioja
+Telefono : 0351153412900
+Email : julietadelponti@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenos dias, Soy Diseñadora Industrial. Envío adjunto mi curriculum vitae ya que estoy interesada en participar en la base de datos de profesionales. Podría erradicarme en otra ciudad de ser necesario. Muchas gracias, saludo atentamente. 
+Security_code : hw6t3
+Send : Enviar
+
+---------------
+

@@ -1,0 +1,106 @@
+Address : 186.129.9.100
+Nombre : Esteban
+Apellido : Skopyj
+Cargo : Cualquiera
+Direccion : Barrio Autopista Torre 8 7º D
+Ciudad : Tapiales
+Telefono : 4442-8121
+Email : vorochilov@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Busco trabajo con perspectivas de crecimiento.
+Security_code : 949tt
+Send : Enviar
+
+---------------
+
+Address : 190.172.154.73
+Nombre : myriam deolinda
+Apellido : diaz
+Cargo : cajera administrativa asesora de credito
+Direccion : chaneton 1294
+Ciudad : neuquen
+Telefono : 2994476887
+Email : soiimir29.t@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Espero tener suerte ya que me encuentro sin trabajo
+Security_code : jfs8g
+Send : Enviar
+
+---------------
+
+Address : 181.26.139.96
+Nombre : Damian
+Apellido : Sobrino
+Cargo : comercial/administrativo
+Direccion : Coronel Mendez 3566
+Ciudad : Lanus
+Telefono : 1540886388
+Email : damiansobrino29@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Buen dia,envio mi cv,gracias.
+Security_code : 8bq6b
+Send : Enviar
+
+---------------
+
+Address : 181.26.139.96
+Nombre : Damian
+Apellido : Sobrino
+Cargo : Administrativo/ventas 
+Direccion : Mendez 3566
+Ciudad : Lanus
+Telefono : 1540886388
+Email : damiansobrino29@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Buen dia,les envio mi cv,gracias.
+Security_code : jmbs8
+Send : Enviar
+
+---------------
+
+Address : 201.253.13.168
+Nombre : Gonzalo
+Apellido : Quevedo
+Cargo : Administrativo
+Direccion : Pasaje Iberia 24 bis
+Ciudad : Rosario
+Telefono : 3415475112
+Email : gonzalogabriel67@yahoo.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Les dejo mi cv, a disposición por cualquier duda. 
+Atte: Quevedo Gonzalo
+Security_code : 6m4jg
+Send : Enviar
+
+---------------
+
+Address : 190.191.40.58
+Nombre : Jimena
+Apellido : Tardivo
+Cargo : -
+Direccion : Aguero 1600, 1d, Barrio Norte
+Ciudad : Buenos Aires
+Telefono : 0358 154834112
+Email : jimetardivo@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Les envío mi CV con el fin de incorporarme a su bolsa de trabajo, ya que la considero una empresa prestigiosa y seria. Me interesa el área de recursos humanos, psicología, educación y salud. Muchas gracias.
+Security_code : 2pmqt
+Send : Enviar
+
+---------------
+
+Address : 190.245.17.21
+Nombre : IGNACIO ANDRES
+Apellido : PANE
+Cargo : ADMINISTRATIVO,ANALISTA,ASISTENTE DE COMERCIO INTERNACIONAL
+Direccion : HORTIGUERA 516 OIS 6 DPTO. A
+Ciudad : CABA
+Telefono : 44328567
+Email : pane.ies@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenas tardes, adjunto mi cv para que puedan tenerlo en cuenta en sus futuras búsquedas que se adecúen a mi perfil. Saludos Ignacio A. Pane
+Security_code : 7RYQN
+Send : Enviar
+
+---------------
+

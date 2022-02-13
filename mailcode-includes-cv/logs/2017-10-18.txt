@@ -1,0 +1,128 @@
+Address : 181.26.96.19<br>
+ <br>Nombre : Nelida Mabel 
+ <br>Apellido : DAmico
+ <br>Cargo : Telemarketing
+ <br>Direccion : Yatay 24
+ <br>Ciudad : Capital Federal
+ <br>Telefono : 152053954
+ <br>Email : mabeldamico1@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Adjunto CV
+ <br>Security_code : snwpj
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.47.74.26<br>
+ <br>REF : Tectron
+ <br>Nombre : Hector Guillermo 
+ <br>Apellido : Martinez
+ <br>Cargo : Tecnico electronico
+ <br>Direccion : Fray Cayetano Rodríguez 850 1" c
+ <br>Ciudad : CAPITAL FEDERAL (CP=)
+ <br>Telefono : 1534988379
+ <br>Email : guillermartins1@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : A quien corresponda:
+Espero les resulte conveniente mi currículum ya que he trabajado en industria bastante tiempo y creo corresponder con el perfil de su busqueda.
+Así mismo tengo facililidad para el aprendizaje .
+Desde ya los saluda arte.
+Héctor Guillermo Martínez .
+ <br>Security_code : 82gjc
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.48.25.6<br>
+ <br>REF : ROT-1
+ <br>Nombre : Abel Fabain
+ <br>Apellido : Ojeda
+ <br>Cargo : RESPONSABLE DE OFICINA TECNICA 
+ <br>Direccion : lisandro de la torre 3670
+ <br>Ciudad : quilmes
+ <br>Telefono : 1562931559
+ <br>Email : afosoft@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : me encuentro en una busqueda laboral y cuento con las condiciones que se requieren atte Abel Fabian Ojeda
+ <br>Security_code : jhz99
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.14.136.129<br>
+ <br>REF : ROT-1
+ <br>Nombre : Sebastian
+ <br>Apellido : Salassa
+ <br>Cargo : RESPONSABLE DE OFICINA TECNICA
+ <br>Direccion : Italia 553
+ <br>Ciudad : Sunchales
+ <br>Telefono : 03493 15448333
+ <br>Email : sebastian.salassa@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Soy Técnico Electromecánico con estudios universitarios, especializado en sistemas de representación con SolidWorks y AutoCad. Como podrán comprobar en mi currículum vitae adjunto, tengo experiencia previa en las áreas de ingeniería de distintas empresas ya que he trabajado con anterioridad en los rubros del sector metal mecánico y desarrollo. Entre mis tareas se encontraban en diseñar los proyectos en cuanto a su ingeniería conceptual y básica, y en proyectos chicos también ing. de detalle, seguimiento de proyectos y cronogramas de tareas, buscando la mejor relación costo beneficio. 
+Cálculo y diseño de recipientes sometidos a presión. 
+Optimizar los equipos, realizar simulaciones con SolidWorks Simulation a recipientes sometidos a presión y estructuras metálicas. Realizar simulación en cañerías SolidWorks Flow Simulation, para análisis turbulencias y pérdidas de cargas. 
+Gestionar los cambios de diseño de equipos y organizar todos los recursos para dicha tarea. 
+Capacitar al grupo de proyectistas indicando cuales son las herramientas más rápidas para el diseño y solución a sus problemas. 
+Relevamiento de instalaciones y equipos. 
+También me desempeño como supervisor de obras y de la construcción de recipientes a presión y métodos de soldadura. 
+ <br>Security_code : wmv2t
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.202.213.41<br>
+ <br>REF : ACO-1
+ <br>Nombre : Katherine
+ <br>Apellido : Diaz Macias
+ <br>Cargo : Analista de Comercio Internacional/Exterior
+ <br>Direccion : Calle Páez El Trigo
+ <br>Ciudad : Los Teques
+ <br>Telefono : 5804162361559
+ <br>Email : ksdm0519@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Gran capacidad de trabajo, compromiso con los objetivos de la organización, dedicación para representar un valor agregado para la empresa y grandes expectativas de crecimiento con juntamente con la organización.
+ <br>Security_code : 87vj4
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.202.213.41<br>
+ <br>REF : ACO-1
+ <br>Nombre : Katherine
+ <br>Apellido : Diaz Macias
+ <br>Cargo : Analista de Comercio Internacional/Exterior
+ <br>Direccion : Calle Páez El Trigo
+ <br>Ciudad : Los Teques
+ <br>Telefono : 5804162361559
+ <br>Email : ksdm0519@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Gran capacidad de trabajo, compromiso con los objetivos de la organización, dedicación para representar un valor agregado para la empresa y grandes expectativas de crecimiento con juntamente con la organización.
+ <br>Security_code : mw95g
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.194.225.66<br>
+ <br>REF : ACO-1
+ <br>Nombre : Lucas
+ <br>Apellido : Favre
+ <br>Cargo : Analista de comercio internacional/exterior
+ <br>Direccion : 3269 Avenida Las Heras
+ <br>Ciudad : CABA
+ <br>Telefono : 1125956496
+ <br>Email : lucasfavre2@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimada, estimado,
+
+le mando mi postulación para la posición de Analista de comercio exterior.
+Espero que mi perfil multilingüe e internacional, con una formación amplia y una gran capacidad de adaptación, les interese.
+
+Saludos cordiales,
+
+Lucas Favre
+ <br>Security_code : wryhn
+ <br>Send : Enviar
+ <br>
+---------------
+

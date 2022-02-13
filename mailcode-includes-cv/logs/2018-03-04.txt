@@ -1,0 +1,79 @@
+Address : 172.58.137.85<br>
+ <br>REF : TE-1
+ <br>Nombre : Jorge
+ <br>Apellido : Ricardo
+ <br>Cargo : Tec.electrico
+ <br>Direccion : 805 bradyville pike. Murfreesboro tn
+ <br>Ciudad : Tennessee
+ <br>Telefono : +18653854803
+ <br>Email : Jorge.Ricardo573@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : https://www.linkedin.com/in/jorge-ricardo-2a6398b9
+ <br>Security_code : W6y7m
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.225.204.81<br>
+ <br>REF : EP-1
+ <br>Nombre : Joel Marcial
+ <br>Apellido : Orellana Zúñiga
+ <br>Cargo : Encargado de Producción
+ <br>Direccion : Mendoza 2572
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 011-4762-3857
+ <br>Email : joelorellana@hotmail.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Mi nombre es Joel Orellana y me postulo para este puesto e trabajo por que me siento capacitado ya que he trabajado en una empresa del Grupo Clarín en donde eran 200 personas por turno.
+ <br>Security_code : 34d99
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 152.171.125.22<br>
+ <br>REF : JPER-1
+ <br>Nombre : Claudio
+ <br>Apellido : LANZILOTTI
+ <br>Cargo : Jefe RRHH
+ <br>Direccion : Alsina
+ <br>Ciudad : Banfield
+ <br>Telefono : 1558672160
+ <br>Email : clanzilotti@consejo.org.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Cuento con las habilidades solicitadas para este puesto
+ <br>Security_code : g3dgz
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.19.230.90<br>
+ <br>Nombre : esteban
+ <br>Apellido : fleitas
+ <br>Cargo : chofer con cnrt al dia de cargas generales
+ <br>Direccion : Cuba 2737
+ <br>Ciudad : pontevedra
+ <br>Telefono : 1134887126
+ <br>Email : maximo_163@live.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : cnrt al dia de cargas generales. LNH al dia necesito un empleo de chofer lo antes posibles
+ <br>Security_code : sr5c4
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 200.115.242.108<br>
+ <br>REF : ACO-1
+ <br>Nombre : Marcelo Hernán
+ <br>Apellido : Arboniés
+ <br>Cargo : ANALISTA DE COMERCIO INTERNACIONAL/EXTERIOR
+ <br>Direccion : Paso 532
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 15-6356-5347
+ <br>Email : mararbix@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estoy en la búsqueda de un trabajo que me permita ampliar mi desarrollo tanto laboral como personal, donde me dé la posibilidad de enfrentar nuevos desafíos aprovechando mis más de 13 años de experiencia en Comercio Exterior. Me gustaría pertenecer a una empresa dinámica que se oriente al trabajo en equipo y me permita seguir creciendo en sus distintas áreas.
+ <br>Security_code : k6bjy
+ <br>Send : Enviar
+ <br>
+---------------
+

@@ -1,0 +1,110 @@
+Address : 190.49.50.104
+Nombre : Carlos Alberto
+Apellido : Quiroga
+Cargo : ADMINISTRATIVO / ENCARGADO / DIRECTOR
+Direccion : Sargento cabral Nº 1877
+Ciudad : Neuquen
+Telefono : 0299-155466944
+Email : faruck25@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : CV para futuras busquedas en Neuquen
+Security_code : 988gj
+Send : Enviar
+
+---------------
+
+Address : 190.192.22.7
+Nombre : Romina
+Apellido : Román
+Cargo : Secretaria, Recepcionista, Administrativa
+Direccion : Colombia 5340 Isidro Casanova
+Ciudad : Buenos Aires
+Telefono : 1158727086
+Email : ro_romn@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Me dirijo a uds, con el propósito de postularme para un puesto de trabajo.
+Sin otro particular y a la espera de una respuesta favorable me despido de uds mut atte.
+Security_code : x2z99
+Send : Enviar
+
+---------------
+
+Address : 190.174.169.58
+Nombre : Darío
+Apellido : Posadas
+Cargo : Informática-Programación
+Direccion : Castagna 4844
+Ciudad : Villa Tesei (hurlingham)
+Telefono : 4459-9078
+Email : dhposadas@yahoo.com
+MAX_FILE_SIZE : 2097152
+Mensaje : A quien corresponda.
+Les adjunto cmi curriculum vitae con el propósito de ser tenido en cuenta para un puesto que corresponda a mi perfil.
+Atentamente.
+
+Lic. Darío Posadas
+Security_code : 4hcsf
+Send : Enviar
+
+---------------
+
+Address : 201.254.27.125
+Nombre : Alejandra Alcira
+Apellido : Batiatto
+Cargo : REPRESENTANTE DE ATENCION AL CLIENTE
+Direccion : PERU 1160
+Ciudad : Buenos Aires
+Telefono : 4441-0463//1565698105
+Email : ale_batiatto@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Busco la posibilidad de desenvolverme en áreas donde pueda llevar a la práctica los conocimientos adquiridos a través de mi experiencia laboral. Poder crecer profesionalmente dentro de la empresa.
+Security_code : 47qtb
+Send : Enviar
+
+---------------
+
+Address : 170.155.6.13
+Nombre : Silvia
+Apellido : Villalba
+Cargo : sociologa
+Direccion : Lomas de Zamora 642
+Ciudad : Avellaneda
+Telefono : 011 15 6640 2343
+Email : silviarvillalba@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : me interesa realizar tareas de asistencia tecnica free lance.  Soy sociologa y resido en Avellaneda, prov. de Buenos Aires.
+Security_code : cbdfp
+Send : Enviar
+
+---------------
+
+Address : 190.48.85.166
+Nombre : christian javier
+Apellido : antunez
+Cargo : chofer
+Direccion : richieri 3568
+Ciudad : ciudadela
+Telefono : 1531271123-44889503
+Email : thiafac03@hotmail.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : desde ya muchas gracias atte christian antunez
+Security_code : 8zj33
+Send : Enviar
+
+---------------
+
+Address : 190.172.76.11
+Nombre : Natalia Soledad
+Apellido : Cantero
+Cargo :  Atencion al Cliente / Area Comercial
+Direccion : Guamini 2357
+Ciudad : Capital Federal
+Telefono : 4687-1764
+Email : natalia.cantero@hotmail.es
+MAX_FILE_SIZE : 2097152
+Mensaje : Destaco mi interes por la constante satisfaccion al cliente y buen perfil comercial.
+Security_code : xtgj7
+Send : Enviar
+
+---------------
+

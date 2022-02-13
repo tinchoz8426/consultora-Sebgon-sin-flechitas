@@ -1,0 +1,235 @@
+Address : 190.51.76.106
+Nombre : Carolina
+Apellido : Rodriguez
+Cargo : Personal para entrevistas domiciliarias
+Direccion : Barcala 1716
+Ciudad : Ituzaingo
+Telefono : 1568057744
+Email : caroandrearodriguez22@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola, me interesa mucho el puesto para entrevistas domiciliarias, Free Lance. Si bien no tengo experiencia en el puesto, me siento una persona, capaz de llevar a cabo, cualquier tarea que me sea asignada. Soy responsable, sociable, y con muchas ganas de trabajar. Desde ya quedo a su disposición.
+
+Carolina Rodríguez.
+
+Security_code : 52wmm
+Send : Enviar
+
+---------------
+
+Address : 190.17.42.176
+Nombre : Facundo
+Apellido : Collino
+Cargo : Enfermero
+Direccion : Mariano Moreno
+Ciudad : Cordoba
+Telefono : 03513864087
+Email : famaco001@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje :                                              Me dirijo a usted por medio del presente y por su digno intermedio ante quien corresponda a los efectos de ofrecer mis servicios a la entidad que corresponda.
+Adjunto está mi currículum vital; si mis conocimientos son acordes con sus requerimientos, desearía que se comunique para concertar una entrevista personal.
+Sin otro particular y agradeciendo su atención, saludo muy atentamente.
+
+Security_code : 6db4f
+Send : Enviar
+
+---------------
+
+Address : 190.49.178.45
+Nombre : Fabian Alan Yamil
+Apellido : Sanchez
+Cargo : operario- administrativo-auxiliar
+Direccion : lituani 715
+Ciudad : temperley
+Telefono : 42141518
+Email : alansanchez241114@outlook.com
+MAX_FILE_SIZE : 2097152
+Mensaje : curriculum vitae
+Security_code : kt7hk
+Send : Enviar
+
+---------------
+
+Address : 190.31.37.100
+Nombre : Florencia
+Apellido : Bosso
+Cargo : Administrativa, Secretaria, Recepcionista
+Direccion : Jose Leon Suarez
+Ciudad : San Martin
+Telefono : 47208961
+Email : florencia.bosso@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Mi nombre es Florencia Bosso, tengo 19 años. Me considero una persona responsable sobre todo en el horario, eficaz en la medida del aprendizaje, dinámica,  rápida al tener que buscar soluciones y ordenada. Actualmente me encuentro en la búsqueda de un trabajo que brinde la posibilidad de una capacitación y aprendizaje constante, como así también poder enriquecerme de experiencia laboral. 
+Security_code : rjcz2
+Send : Enviar
+
+---------------
+
+Address : 190.31.37.100
+Nombre : Florencia
+Apellido : Bosso
+Cargo : Administrativa, Secretaria, Recepcionista
+Direccion : Jose Leon Suarez
+Ciudad : San Martin
+Telefono : 47208961
+Email : florencia.bosso@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Mi nombre es Florencia Bosso, tengo 19 años. Me considero una persona responsable sobre todo en el horario, eficaz en la medida del aprendizaje, dinámica,  rápida al tener que buscar soluciones y ordenada. Actualmente me encuentro en la búsqueda de un trabajo que brinde la posibilidad de una capacitación y aprendizaje constante, como así también poder enriquecerme de experiencia laboral. 
+Security_code : rjcz2
+Send : Enviar
+
+---------------
+
+Address : 190.31.37.100
+Nombre : Florencia
+Apellido : Bosso
+Cargo : Administrativa, Secretaria, Recepcionista
+Direccion : Jose Leon Suarez
+Ciudad : San Martin
+Telefono : 47208961
+Email : florencia.bosso@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Mi nombre es Florencia Bosso, tengo 19 años. Me considero una persona responsable sobre todo en el horario, eficaz en la medida del aprendizaje, dinámica,  rápida al tener que buscar soluciones y ordenada. Actualmente me encuentro en la búsqueda de un trabajo que brinde la posibilidad de una capacitación y aprendizaje constante, como así también poder enriquecerme de experiencia laboral. 
+Security_code : rjcz2
+Send : Enviar
+
+---------------
+
+Address : 190.31.37.100
+Nombre : Florencia
+Apellido : Bosso
+Cargo : Administrativa, Secretaria, Recepcionista
+Direccion : Jose Leon Suarez
+Ciudad : San Martin
+Telefono : 47208961
+Email : florencia.bosso@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Mi nombre es Florencia Bosso, tengo 19 años. Me considero una persona responsable sobre todo en el horario, eficaz en la medida del aprendizaje, dinámica,  rápida al tener que buscar soluciones y ordenada. Actualmente me encuentro en la búsqueda de un trabajo que brinde la posibilidad de una capacitación y aprendizaje constante, como así también poder enriquecerme de experiencia laboral. 
+Security_code : mpynj
+Send : Enviar
+
+---------------
+
+Address : 190.31.37.100
+Nombre : Florencia
+Apellido : Bosso
+Cargo : Administrativa, Secretaria, Recepcionista
+Direccion : Jose Leon Suarez
+Ciudad : San Martin
+Telefono : 47208961
+Email : florencia.bosso@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Mi nombre es Florencia Bosso, tengo 19 años. Me considero una persona responsable sobre todo en el horario, eficaz en la medida del aprendizaje, dinámica,  rápida al tener que buscar soluciones y ordenada. Actualmente me encuentro en la búsqueda de un trabajo que brinde la posibilidad de una capacitación y aprendizaje constante, como así también poder enriquecerme de experiencia laboral. 
+Security_code : 9s8g7
+Send : Enviar
+
+---------------
+
+Address : 200.80.227.250
+Nombre : Rocío Ayelen
+Apellido : Soria
+Cargo : Administrativa,Marketing, etc
+Direccion : Av. Dellepiane 4222 4 2
+Ciudad : CABA
+Telefono : 1549279841
+Email : soria.rocioa@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimado/a:
+
+En respuesta a la búsqueda actual les entrego mi CV. 
+
+Soy estudiante de Comercialización en 2do año en UADE. He trabajado en atención al cliente, ventas, administrativa de ventas entre otras cosas. 
+
+Desde ya muchas gracias. 
+
+Saludos, 
+
+Rocío Soria. 
+Security_code : jg2vr
+Send : Enviar
+
+---------------
+
+Address : 190.137.23.226
+Nombre : Lucila
+Apellido : Carelli
+Cargo : Encargado
+Direccion : Monaco 168
+Ciudad : buenos aires
+Telefono : 1552608783
+Email : carellilucila@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estoy en busca de un trabajo part time.
+Security_code : tmh3x
+Send : Enviar
+
+---------------
+
+Address : 190.188.196.199
+Nombre : Belen
+Apellido : Esperon
+Cargo : Atención al cliente
+Direccion : Vieytes 1450
+Ciudad : Mar del Plata
+Telefono : 2235753846
+Email : beluu.mdq@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Experiencia en atención al público. Ventas en salón para importante Jugueteria marplatense. Contratada durante 3 temporadas y semanas de refuerzo
+Security_code : 8z3xg
+Send : Enviar
+
+---------------
+
+Address : 190.188.196.199
+Nombre : Belen
+Apellido : Esperon
+Cargo : Atención al cliente
+Direccion : Vieytes 1450
+Ciudad : Mar del Plata
+Telefono : 2235753846
+Email : beluu.mdq@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Experiencia en atención al público. Ventas en salón para importante Jugueteria marplatense. Contratada durante 3 temporadas y semanas de refuerzo
+Security_code : 8z3xg
+Send : Enviar
+
+---------------
+
+Address : 141.0.9.76
+Nombre : Yanel Cintia
+Apellido : Mannoliti
+Cargo : Secretaria Ejecutiva
+Direccion : Calle 887 N° 4367
+Ciudad : Quilmes
+Telefono : 1557512520
+Email : yanelmannoliti@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : A quien corresponda,
+
+Adjunto mi currículum vitae con el fin de manifestarle mi interés en participar en el proceso de selección de las búsquedas laborales.
+Por mi formación y experiencia me considero capacitada para desempeñar las funciones y tareas que me asignen. Realicé distintos trabajos relacionados con mi carrera profesional, tal como se describe en el curriculum que adjunto y además, concluí mis estudios universitarios realizados en la Universidad Nacional de Quilmes (UNQ), y cursos complementarios a mi formación académica.
+Me agradaría mantener una entrevista laboral con usted a su mejor conveniencia para ampliar personalmente la información que le remito.
+En espera de su respuesta, saludo atentamente. 
+
+Lic. Comunicación Social Yanel Mannoliti
+
+
+Security_code : jyt72
+Send : Enviar
+
+---------------
+
+Address : 190.190.5.213
+Nombre : Lucas
+Apellido : Cappella
+Cargo : cadete/ administrativo
+Direccion : itapiru 658
+Ciudad : Valentin Alsina, Lanus
+Telefono : 1561601732
+Email : lucase.cappella@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : me presento en la busqueda de empleo tanto de cadeteria como administracion
+Security_code : 77wtb
+Send : Enviar
+
+---------------
+

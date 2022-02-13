@@ -1,0 +1,138 @@
+Address : 181.166.148.187
+REF : ADM
+Nombre : NADIA
+Apellido : MAÑANI
+Cargo : RECEPCIONISTA
+Direccion : SUIPACHA 1301
+Ciudad : BUENOS AIRES
+Telefono : 48400876
+Email : nadiaadenisse@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me postulo para el puesto de trabajo ofrecido
+Security_code : bkm27
+Send : Enviar
+
+---------------
+
+Address : 181.166.148.187
+REF : ADM
+Nombre : NADIA
+Apellido : MAÑANI
+Cargo : RECEPCIONISTA
+Direccion : SUIPACHA 1301
+Ciudad : BUENOS AIRES
+Telefono : 48400876
+Email : nadiaadenisse@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me postulo para el puesto de trabajo ofrecido
+Security_code : bkm27
+Send : Enviar
+
+---------------
+
+Address : 207.248.127.10
+Nombre : ADRIANA
+Apellido : Guimenez
+Cargo : Tecnico en Higiene y Seguridad Alimentaria
+Direccion : Malargüe
+Ciudad : Malargüe
+Telefono : 2604827734
+Email : alg_24004@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : mi objetivo es ampliar mis conocimientos teóricos adquiridos en la Universidad, y llevarlos a la practica
+Security_code : krdcw
+Send : Enviar
+
+---------------
+
+Address : 200.49.193.194
+Nombre : jessica
+Apellido : Flores
+Cargo : ventas y atención al cliente telefónica o personalizada
+Direccion : gaboto 565
+Ciudad : chaco
+Telefono : 0362154942011
+Email : jessicaflores833@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Tengo experiencia en ventas y atención al público
+Security_code : qdv3m
+Send : Enviar
+
+---------------
+
+Address : 201.251.0.245
+Nombre : celeste abigail
+Apellido : moya
+Cargo : cualquiera
+Direccion : fray luis beltran
+Ciudad : grand bourg
+Telefono : 0111541771348
+Email : a9505celeste@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola, mi nombre es Celeste Abigail Moya y estoy en busca de un empleo.Me gustaría que lean mi cv, de modo que lo evalúen para ver si tengo una oportunidad de trabajo. desde ya muchas gracias
+Security_code : 5cb9q
+Send : Enviar
+
+---------------
+
+Address : 190.138.24.68
+Nombre : Yenifer
+Apellido : Viedma
+Cargo : Secretaria, asistente
+Direccion : Amenabar 660
+Ciudad : Capital Federal
+Telefono : 1153434079
+Email : yeniferviedma@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Disponibilidad Inmediata
+Security_code : pmfnp
+Send : Enviar
+
+---------------
+
+Address : 190.138.24.68
+REF : ADM
+Nombre : Yenifer
+Apellido : Viedma
+Cargo : Administrativo
+Direccion : Amenabar 660
+Ciudad : Capital Federal
+Telefono : 1153434079
+Email : yeniferviedma@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Disponibilidad inmediata
+Security_code : dqgyf
+Send : Enviar
+
+---------------
+
+Address : 66.249.88.242
+Nombre : Maria Luz
+Apellido : Cabrera
+Cargo : Atención al cliente
+Direccion : Mitre 3789.
+Ciudad : Mar del plata
+Telefono : 022156342279
+Email : Luzmaipu@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Ando en busca de un trabajo en el cual cumpla con vuestros objetivos. Muchas gracias
+Security_code : Zqv8v
+Send : Enviar
+
+---------------
+
+Address : 186.22.60.181
+Nombre : evaristo 
+Apellido : fernandez
+Cargo : enfermero
+Direccion : virrey liniers 238 8 
+Ciudad : caba 
+Telefono : 1565862923
+Email : fernandezmiranda@yahoo.es
+MAX_FILE_SIZE : 2097152
+Mensaje : En archivo adjunto envío C.V. con antecedentes personales y formación profesional para su evaluación.
+Security_code : pgfvq
+Send : Enviar
+
+---------------
+

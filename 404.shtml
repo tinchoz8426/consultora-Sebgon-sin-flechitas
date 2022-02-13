@@ -1,0 +1,73 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title></title>
+<meta name="keywords" content="" />
+<meta name="description" content="" />
+<link href="default.css" rel="stylesheet" type="text/css" media="all" />
+<!--[if IE 6]><link href="ie6fix.css" rel="stylesheet" type="text/css" /><![endif]-->
+<!--[if IE 7]><link href="ie6fix.css" rel="stylesheet" type="text/css" /><![endif]-->
+</head>
+<body class="homepage">
+<div id="wrapper">
+	<div id="wrapper-bgbtm">
+		<div id="header-wrapper">
+			<div id="header" class="container">
+				<div id="menu">
+					<ul>
+						<li><a href="consultora-de-rrhh-consultores-de-rrhh.php" accesskey="1" title="consultora de rrhh">NOSOTROS</a></li>
+						<li><a href="busqueda-y-seleccion-de-personal.php" accesskey="2" title="busqueda-y-seleccion-de-personal">RRHH</a></li>
+						<li><a href="busquedas-vigentes.php" accesskey="2" title="busquedas laborales, seleccion de recursos humanos, busqueda laboral">BUSQUEDAS VIGENTES</a></li>
+						<li><a href="servicio-de-auditoria-de-seguridad-auditorias-externas-de-seguridad.php" accesskey="3" title="servicio de auditoria de seguridad auditorias externas de seguridad">SEGURIDAD<br />
+				CORPORATIVA </a></li>
+						<li><a href="capacitacion-corporativa.php" accesskey="4" title="capacitacion corporativa">CAPACITACION<br />
+				CORPORATIVA</a></li>
+						<li><a href="empresas-consultoras-de-rrhh-recursos-humanos.php" accesskey="5" title="empresas consultoras de rrhh recursos-humanos">CONTACTO</a></li>
+						<li></li>
+					</ul>
+				</div>
+			</div>
+			<div class="container"> <a href="index.php"><img src="images/homepage01.jpg" width="460" height="98" alt="" /></a> </div>
+		</div>
+		<div id="bg6">
+			<div id="bg7">
+				<div id="page" class="container">
+					<div id="splash">
+						<div class="content box-style1">
+							<h2 class="title"><span>Nuestras disculpas.</span></h2>
+							<p>La p&#225;gina que ha solicitado no se ha podido encontrar.</strong></p>
+							<p style="font-size:11px">Como continuar:</p>
+							<p style="font-size:11px">&#187; Si ha intentado acceder tipeando la direcci&#243;n, cerci&#243;rese de haber escrito correctamente la direcci&#243;n url.<br />
+							<em>Nota</em>: Las direcciones son sensibles a may&#250;sculas y min&#250;sculas.  Ingrese la direcci&#243;n siempre en min&#250;sculas.</p>
+							<p style="font-size:11px">&#187; Si ha hecho click en un link es probable que haya un problema con este link.</p>
+							<p style="font-size:11px">Si lo desea puede contactarse con nosotros y obtener ayuda para encontrar lo que busca.<br />
+							Email de contacto: <a href="mailto:consultora@consultorasebgon.com" target="_self">consultora@consultorasebgon.com</a></p>
+							<p style="font-size:11px"><a href="http://www.consultorasebgon.com/" target="_self" title="consultora de recursos humanos, consultora sebgon, consultora de recursos humanos sebgon">&#187; Ir a la p&#225;gina principal</a></p>
+
+						</div>
+					</div>
+					<div id="content">
+						
+					</div>
+					<div id="sidebar">
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<div id="bg4">
+	<div id="bg5">
+		<div id="two-columns" class="container">
+			
+		</div>
+	</div>
+</div>
+<div id="footer-wrapper">
+	<div id="footer" class="container">
+		<p>Copyright (c) 2011 Corpname. All rights reserved. <a href="#">Terms of use</a> | <a href="#">Privacy policy</a></p>
+	</div>
+</div>
+</body>
+</html>

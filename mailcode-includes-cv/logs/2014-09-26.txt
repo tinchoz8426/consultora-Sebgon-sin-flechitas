@@ -1,0 +1,35 @@
+Address : 201.252.85.42
+REF : ADMINISTRATIVO-DE-LOGISTICA
+Nombre : Santiago 
+Apellido : Frachia 
+Cargo : Administrativo de logistica
+Direccion : Av. de los Incas 3959 pb 3 
+Ciudad : Ciudad Autonoma de Buenos Aires
+Telefono : 1565257944
+Email : santiagofrachia@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Mi nombre es Santiago Frachia estoy cursando el 4to año de ing. quimica en la U.T.N, para conocer mas sobre mis anteriores trabajos y estuidos les dejo mi curriculum vitae.
+Security_code : smvnv
+Send : Enviar
+
+---------------
+
+Address : 186.130.235.91
+Nombre : Agustina
+Apellido : Diana
+Cargo : Administrativa
+Direccion : Salta 530
+Ciudad : Merlo
+Telefono : 0232315211882
+Email : agustinadiana@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : A quien corresponda:
+Me dirijo a Ud. con el fin de remitir mi Curriculum Vitae adjunto por alguna oportunidad de trabajo. 
+En espera de sus noticias, saluda atentamente.
+Agustina Diana.
+
+Security_code : 4xfg7
+Send : Enviar
+
+---------------
+

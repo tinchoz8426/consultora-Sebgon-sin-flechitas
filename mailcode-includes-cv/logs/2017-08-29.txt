@@ -1,0 +1,77 @@
+Address : 200.125.74.98<br>
+ <br>REF : ROT-1
+ <br>Nombre : andres
+ <br>Apellido : albenque
+ <br>Cargo : encargador oficina tecnica
+ <br>Direccion : guayaquil 722
+ <br>Ciudad : capital federal
+ <br>Telefono : 1164817640
+ <br>Email : aalbenque@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas tardes, ya me dijeron que el puesto para la empresa metalurgica estaba ocupado. Igualmente les envio mi CV porq cumple con todos los requisitos de esa empresa. Gracias
+ <br>Security_code : z3j3q
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.167.220.11<br>
+ <br>Nombre : Juan Ignacio
+ <br>Apellido : Ovies
+ <br>Cargo : Alguno de mi interes
+ <br>Direccion : Libres del sud 637
+ <br>Ciudad : Mar del Plata
+ <br>Telefono : 2235929016
+ <br>Email : juani_9130@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Adjunto mi CV para cualquier puesto laboral que surja. Muchas Gracias
+ <br>Security_code : 7crd2
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.167.220.11<br>
+ <br>Nombre : Juan Ignacio
+ <br>Apellido : Ovies
+ <br>Cargo : Alguno de mi interes
+ <br>Direccion : Libres del sud 637
+ <br>Ciudad : Mar del Plata
+ <br>Telefono : 2235929016
+ <br>Email : juani_9130@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Adjunto mi CV para cualquier puesto laboral que surja. Muchas Gracias
+ <br>Security_code : 7crd2
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.167.220.11<br>
+ <br>Nombre : Juan Ignacio
+ <br>Apellido : Ovies
+ <br>Cargo : Alguno de mi interes
+ <br>Direccion : Libres del sud 637
+ <br>Ciudad : Mar del Plata
+ <br>Telefono : 2235929016
+ <br>Email : juani_9130@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Adjunto mi CV para cualquier puesto laboral que surja. Muchas Gracias
+ <br>Security_code : s8ct6
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 191.80.108.103<br>
+ <br>REF : chr
+ <br>Nombre : Ricardo Sebastian
+ <br>Apellido : caceres
+ <br>Cargo : operario chofer de reparto
+ <br>Direccion : formosa 1111
+ <br>Ciudad : san anrtonio de padua 
+ <br>Telefono : 1120080175
+ <br>Email : sebastiancaceres273@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : soy proactivo me gusta colaborar con el grupoo de trabajo al que pertenezca soy de aprender rapido soy muy respetuoso 
+ <br>Security_code : 3pdns
+ <br>Send : Enviar
+ <br>
+---------------
+

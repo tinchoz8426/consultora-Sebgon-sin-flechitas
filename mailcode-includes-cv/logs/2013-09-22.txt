@@ -1,0 +1,30 @@
+Address : 190.16.13.180
+Nombre : María Magdalena
+Apellido : Nallar Issa
+Cargo : recursos humanos
+Direccion : trejo 828 12 d
+Ciudad : cordoba
+Telefono : 3515951499
+Email : mmni@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenas tardes, me gustaría que me tuvieran en cuenta para posiciones de analistas senior o jefatura de rrhh para la ciudad de cba o salta, ya que tengo la posibilidad de vivir en ambos lugares sin problemas. muchas gracias
+Security_code : 8kh9z
+Send : Enviar
+
+---------------
+
+Address : 186.123.135.22
+Nombre : Vanina
+Apellido : Vattimo
+Cargo : Abogado 
+Direccion : Av. Cnel. Roca 6573
+Ciudad : Ciudad de Buenos Aires
+Telefono : 1146058459
+Email : vaninavattimo@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : quiero postularme para los puestos de gerencia de legales, compliance y/o Prevención lavado de dinero
+Security_code : 56dr6
+Send : Enviar
+
+---------------
+

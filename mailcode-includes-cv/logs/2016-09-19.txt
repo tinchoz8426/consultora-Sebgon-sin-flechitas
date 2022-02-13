@@ -1,0 +1,125 @@
+Address : 186.183.9.75<br>
+ <br>Nombre : Yesica Soledad
+ <br>Apellido : Cepeda
+ <br>Cargo : Atención al Cliente
+ <br>Direccion : Justo Paez Molina
+ <br>Ciudad : Cordoba
+ <br>Telefono : 3517584004
+ <br>Email : yesicacepeda938@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Busco trabajo urgente, me adapto a todo trabajo
+ <br>Security_code : pnfcg
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.109.241.240<br>
+ <br>Nombre : Augusto
+ <br>Apellido : Aragon
+ <br>Cargo : Tecnico en higiene y seguridad
+ <br>Direccion : Pj brasil 429 - Tucuman
+ <br>Ciudad : San Miguel de Tcucuman
+ <br>Telefono : 3815096100
+ <br>Email : 18_augusto@live.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimado señor/a
+Les envio los datos de mi C.V por estar convencidos de poder reunir las capacidades que ustedes requieren para el cargo . teniendo en cuenta que mis intereses abocan en esta misma dirección , les agradeseria que considerase, la posibilidad de que mantengamos una entrevista 
+ <br>Security_code : 536hv
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.138.64.35<br>
+ <br>Nombre : Alejandro
+ <br>Apellido : Irusta
+ <br>Cargo : Responsable de oficina técnica 
+ <br>Direccion : Caseros 554 Depto "B"
+ <br>Ciudad : Haedo - Buenos Aires
+ <br>Telefono : 11-4162-4230
+ <br>Email : alejandro_irusta@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Responsable de oficina técnica 
+ <br>Security_code : q6mn5
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.138.64.35<br>
+ <br>Nombre : Alejandro
+ <br>Apellido : Irusta
+ <br>Cargo : Responsable de oficina técnica 
+ <br>Direccion : Caseros 554 Depto "B"
+ <br>Ciudad : Haedo - Buenos Aires
+ <br>Telefono : 11-4162-4230
+ <br>Email : alejandro_irusta@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Responsable de oficina técnica 
+ <br>Security_code : q6mn5
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.138.64.35<br>
+ <br>Nombre : Alejandro
+ <br>Apellido : Irusta
+ <br>Cargo : Responsable de oficina técnica 
+ <br>Direccion : Caseros 554 Depto "B"
+ <br>Ciudad : Haedo - Buenos Aires
+ <br>Telefono : 11-4162-4230
+ <br>Email : alejandro_irusta@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Responsable de oficina técnica 
+ <br>Security_code : 9stgx
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.231.253.34<br>
+ <br>Nombre : francisca
+ <br>Apellido : balsalobre
+ <br>Cargo : trabajadora social
+ <br>Direccion : avda.larrazabal 1918
+ <br>Ciudad : autonoma de buenos aires
+ <br>Telefono : 1531575301
+ <br>Email : franciscabalsalobre@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Espero me tengan en cuenta Gracias Francisca
+ <br>Security_code : vq95n
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.231.253.34<br>
+ <br>Nombre : francisca
+ <br>Apellido : balsalobre
+ <br>Cargo : trabajadora social
+ <br>Direccion : avda.larrazabal 1918
+ <br>Ciudad : autonoma de buenos aires
+ <br>Telefono : 1531575301
+ <br>Email : franciscabalsalobre@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Espero me tengan en cuenta Gracias Francisca
+ <br>Security_code : vq95n
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.59.151.220<br>
+ <br>Nombre : Fiamma Magalí
+ <br>Apellido : España
+ <br>Cargo : cajera, recepcionista, azafata
+ <br>Direccion : 216 N° 6095 L.Olmos
+ <br>Ciudad : La Plata
+ <br>Telefono : 0221)  15 – 655 9667
+ <br>Email : fiammaespana@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados,
+
+Les envío mi C.V. con la ilusión de que consideren la posibilidad de incorporarme laboralmente a su distinguida empresa; agradezco la atención dispensada y los saludo cordialmente.
+
+Fiamma M. España
+ <br>Security_code : bfsp7
+ <br>Send : Enviar
+ <br>
+---------------
+

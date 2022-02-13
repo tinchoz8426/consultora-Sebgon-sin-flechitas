@@ -1,0 +1,65 @@
+Address : 190.176.156.172
+Nombre : Ivana
+Apellido : Quintavalla
+Cargo : Licenciada/Técnico/Analista/Asesor Higiene y Seguridad
+Direccion : Lavalle 1460
+Ciudad : San José - Guaymallén
+Telefono : 0261 155683704
+Email : ivanaquintavalla22@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Con el deseo de ser considerada en posibles oportunidades laborales, adjunto a este mensaje, mi CV.
+Security_code : gt7gs
+Send : Enviar
+
+---------------
+
+Address : 190.231.132.66
+Nombre : Ricardo Angel
+Apellido : Amestoy
+Cargo : Acordes a mi perfil
+Direccion : Catamarca 655
+Ciudad : San Miguel de Tucumán-Pcia. de Tucumán
+Telefono : 011 154 577-6723
+Email : ramestoy@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me permito enviarle mi CV para vuestra evaluación y a efectos que dispongan del mismo por búsquedas que puedan tener en curso o bien futuras, acordes a mi perfil.
+ 
+Desde ya, quedo agradecido por vuestra atención y a disposición para lo que consideren necesario.
+Atentos saludos,
+CPN Ricardo A. Amestoy
+Cel: 011 154 577-6723 ; 0381 156 782 261
+
+Security_code : rt3cg
+Send : Enviar
+
+---------------
+
+Address : 186.18.0.127
+Nombre : Agostina Lucia
+Apellido : Malvitano
+Cargo : Comercio Exterior
+Direccion : Olga cosettini 1170
+Ciudad : Buenos Aires
+Telefono : 1554850680
+Email : amalvita@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Sres. Departamento de Recursos humanos
+ 
+De mi consideración:
+                              Tengo el agrado de dirigirme a Uds. a fin de acercarles mi CV, para eventuales búsquedas acordes a mi perfil.
+ 
+                              Me considero proactiva, responsable, con capacidad de liderazgo, gran aptitud para el trabajo en equipo, como así también para el manejo de personal y trato con el cliente.
+ 
+                              Ofrezco desde ya todo el caudal de conocimiento adquirido con mis estudios y mi experiencia laboral, muchas ganas de trabajar, aprender y emprender nuevos desafíos que me permitan desarrollar más aún mis competencias tanto personales como profesionales.
+                                   
+                              Adjunto mi currículum. Estimo que una entrevista será el marco adecuado para profundizar aspectos de mi perfil que puedan resultar de su interés.
+ 
+                       Sin otro particular, aprovecho esta oportunidad para saludarlos cordialmente.
+ 
+Agostina Lucia Malvitano
+1554850680
+Security_code : tg3zf
+Send : Enviar
+
+---------------
+

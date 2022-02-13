@@ -1,0 +1,70 @@
+Address : 190.229.199.185
+Nombre : Carla
+Apellido : López
+Cargo : Secretaria, recepción, tareas de oficina
+Direccion : Thames 716
+Ciudad : Ciudad Autónoma de Buenos Aires
+Telefono : 1534448040
+Email : carlamagelalopez@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola mi nombre es Carla López, tengo 34 años y resido en el barrio de Villa Crespo, Ciudad Autónoma de Buenos Aires.
+Estoy buscando un puesto de trabajo en el área de administración, secretariado, recepción, atención al cliente o bien desempeñándome en tareas de oficina.
+Tengo disponibilidad horaria pero me gustaría que sea un trabajo de Lunes a Viernes y en horario comercial.
+
+          Soy muy rápida para aprender y desenvolverme, tengo facilidad y practicidad para resolver cualquier situación de improvisto, soy muy pro activa y de buenas costumbres.
+No fumo, soy muy educada y cordial en el trato hacia los demás y por sobre todo le tengo mucha paciencia a la gente.
+
+
+Muy cordialmente,
+Carla López.
+
+Security_code : 3z5pr
+Send : Enviar
+
+---------------
+
+Address : 190.188.190.200
+Nombre : Diego Manuel
+Apellido : Frandolich
+Cargo : Administrativo/ventas
+Direccion : Suipacha 1626
+Ciudad : Lanus
+Telefono : 42209370
+Email : diegofrandolich@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Soy una persona orientada hacia las metas y objetivos de la organización, aplicando mis conocimientos para lograr así un trabajo coordinado que permita el crecimiento de la empresa así como el mío personal y profesional.
+Security_code : stqcd
+Send : Enviar
+
+---------------
+
+Address : 190.188.190.200
+Nombre : Diego Manuel
+Apellido : Frandolich
+Cargo : Administrativo/ventas
+Direccion : Suipacha 1626
+Ciudad : Lanus
+Telefono : 42209370
+Email : diegofrandolich@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Soy una persona orientada hacia las metas y objetivos de la organización, aplicando mis conocimientos para lograr así un trabajo coordinado que permita el crecimiento de la empresa así como el mío personal y profesional.
+Security_code : stqcd
+Send : Enviar
+
+---------------
+
+Address : 190.188.190.200
+Nombre : Diego Manuel
+Apellido : Frandolich
+Cargo : Administrativo/ventas
+Direccion : Suipacha 1626
+Ciudad : Lanus
+Telefono : 42209370
+Email : diegofrandolich@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Soy una persona orientada hacia las metas y objetivos de la organización, aplicando mis conocimientos para lograr así un trabajo coordinado que permita el crecimiento de la empresa así como el mío personal y profesional.
+Security_code : q4fgj
+Send : Enviar
+
+---------------
+

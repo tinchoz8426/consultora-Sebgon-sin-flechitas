@@ -1,0 +1,46 @@
+Address : 190.244.59.201<br>
+ <br>REF : TEC. EL
+ <br>Nombre : carlos
+ <br>Apellido : monico
+ <br>Cargo : tecnico electronico
+ <br>Direccion : thorne 927
+ <br>Ciudad : ituzaingo
+ <br>Telefono : 01153840857
+ <br>Email : monicocd@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : soy tecnico electrónico mi mayor experiencia la tengo en automatización
+ <br>Security_code : v798n
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.166.226.113<br>
+ <br>Nombre : Agustina Paula
+ <br>Apellido : Sierra
+ <br>Cargo : Administrativo
+ <br>Direccion : Carlos Casares 2058
+ <br>Ciudad : castelar
+ <br>Telefono : 1141680346
+ <br>Email : agupausie@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas tardes. mi nombre es Agustina Paula Sierra, tengo 23 años, me considero una persona proactiva y responsable, con ganas de poder insertarme en el mercado laboral de forma fija. Dada la experiencia laboral anterior, me considero con un buen trato con el publico, con empatía con las personas mayores, niños y personas con capacidades diferentes. 
+ <br>Security_code : hgb6n
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.166.226.113<br>
+ <br>Nombre : Agustina Paula
+ <br>Apellido : Sierra
+ <br>Cargo : Administrativo
+ <br>Direccion : Carlos Casares 2058
+ <br>Ciudad : castelar
+ <br>Telefono : 1141680346
+ <br>Email : agupausie@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas tardes. Mi nombre es Agustina Sierra, tengo 23 años, me considero una persona proactiva, con ganas de insertarme en el mercado laboral de manera fija, me considero con buena presencia, buen trato con el cliente, dada mi experiencia anterior. Tengo afinidad con el trato con personas mayores, niños y personas con capacidades especiales.
+ <br>Security_code : xcc38
+ <br>Send : Enviar
+ <br>
+---------------
+

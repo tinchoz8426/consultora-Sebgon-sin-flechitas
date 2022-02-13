@@ -1,0 +1,65 @@
+Address : 190.193.242.79
+Nombre : Ivan Leonel
+Apellido : Galarza
+Cargo : Personal Administrativo Contable
+Direccion : Calle 47 nº9849 - Campus
+Ciudad : Posadas
+Telefono : 3764154047
+Email : ivan2756@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto mi Curriculum Vitae para su consideración, y le manifiesto mi interés en participar en los procesos de selección que requieran de un personal con mis características.
+Acostumbrado a trabajar en equipo, me considero una persona dinámica, con iniciativa y capacidad de organización y gestión.
+Le agradezco de antemano su atención y quedo a su disposición para mantener una entrevista cuando surja una posición que considere idóneo con mi perfil.
+
+Atentamente.
+
+Security_code : bwhr4
+Send : Enviar
+
+---------------
+
+Address : 181.31.87.181
+Nombre : cristian
+Apellido : prado
+Cargo : logistica ,operario
+Direccion : acampis 1168
+Ciudad : crodoba capital
+Telefono : 3516191562
+Email : tavocba08@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : cualquie empleo q se me de la posibilidad estoy dispuesto a poner todo de mi! gracias!!! 
+Security_code : j8zbn
+Send : Enviar
+
+---------------
+
+Address : 181.31.87.181
+Nombre : cristian
+Apellido : prado
+Cargo : logistica ,operario
+Direccion : acampis 1168
+Ciudad : crodoba capital
+Telefono : 3516191562
+Email : tavocba08@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : agradezco cualquier postulacion y estoy decidido a dar lo mejor de mi en cualquier puesto! gracias!!
+Security_code : t2xy8
+Send : Enviar
+
+---------------
+
+Address : 190.51.86.170
+Nombre : Micaela
+Apellido : Toranza
+Cargo : Administrativo- Contable
+Direccion : Brandsen 3202
+Ciudad : Ituzaingo
+Telefono : 15-3060-7665
+Email : micaelatoranza@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me interesaría contactarme con ustedes para poder desarrollarme como profesional
+Security_code : m7zhk
+Send : Enviar
+
+---------------
+

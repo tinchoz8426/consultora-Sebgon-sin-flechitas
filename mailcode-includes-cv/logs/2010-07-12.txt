@@ -1,0 +1,140 @@
+Address : 186.122.93.6
+Nombre : Andrea Viviana
+Apellido : Ghisoni
+Cargo : Trabajo Social
+Direccion : Mario Bravo 828 7º C
+Ciudad : Capital Federal
+Telefono : 011-4865-0010
+Email : andreaviviana_2000@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Les envío mi CV para ser tenido en cuenta ante la necesidad de contar con un profesional en Trabajo Social.
+Security_code : 8tyh6
+Send : Enviar
+
+---------------
+
+Address : 190.48.142.157
+Nombre : Alejandra
+Apellido : Sanchez
+Cargo : textil u otros
+Direccion : mazza 
+Ciudad : argentina
+Telefono : 0111559172810
+Email : alejandra.l.sanchez@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : estoy en la busqueda de un empleo, mas alla que mis conocimientos sean textiles me interesaria aprender otro oficio, muchas gracias.
+Security_code : qh3xn
+Send : Enviar
+
+---------------
+
+Address : 190.190.101.214
+Nombre : viviana elena
+Apellido : Block
+Cargo : administrativa de cobranzas
+Direccion : gelly y obes 1041
+Ciudad : ramos mejia
+Telefono : 1160939431
+Email : vivianablock@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : tengan a bien de tenerme en cuenta 
+Security_code : fmrhq
+Send : Enviar
+
+---------------
+
+Address : 190.247.87.89
+Nombre : Mariana
+Apellido : Blanco
+Cargo : empleada
+Direccion : 11 de septiembre 3367 3º54º
+Ciudad : caba
+Telefono : 1568331300
+Email : marianblanco73@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : De mi mayor consideración:
+
+Tengo el agrado de dirigirme a Uds. con el fin de transmitirles mi deseo de incorporarme a su empresa. A tal efecto adjunto, a la presente, mi CV. 
+
+Me presento como una persona activa, responsable, creativa, La experiencia laboral me ha enseñado a priorizar las tareas en función de la urgencia o importancia que tienen, además de saber trabajar en equipo y ayudar a los demás en su trabajo.
+
+Pongo, además, en su conocimiento que estoy en condiciones de asumir la responsabilidad de este empleo en forma inmediata, y con amplia disponibilidad de horarios.
+
+Quedando a la espera de su respuesta.
+
+Me despido atte. 
+Mariana Blanco
+
+Security_code : 7fd77
+Send : Enviar
+
+---------------
+
+Address : 190.172.209.120
+Nombre : Gonzalo Sebastian
+Apellido : MARTINEZ
+Cargo : auxiliar
+Direccion : laprida 616
+Ciudad : ituzaingo
+Telefono : 011-4623-0677
+Email : gonzalomartinez1978@hotmail.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Me interesa conseguir un trabajo full time, y poder desarrollar mis aptitudes y actitudes 
+Security_code : w3v5y
+Send : Enviar
+
+---------------
+
+Address : 190.244.116.122
+Nombre : Corina
+Apellido : Schvindlerman
+Cargo : Evaluaciones Psicotécnicas
+Direccion : Nuñez 2442
+Ciudad : Cap fed
+Telefono : 15 5494 1585 o 4704 7974
+Email : corishummi@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenos días.
+Estoy interesada en hacerles llegar mi CV, para que tengan en cuenta mi disposición a trabajar como psicóloga en tareas de Evaluaciones Psicotécnicas free lance.
+Adjunto mis datos curriculares y una carta de presentación.
+Muchas gracias,
+Saluda,
+Lic. Corina Schvindlerman
+
+Security_code : qg9g2
+Send : Enviar
+
+---------------
+
+Address : 190.16.104.124
+Nombre : Etcheverry
+Apellido : Mariano
+Cargo : Tecnico Seguridad e Higiene
+Direccion : Bme Mitre 3276
+Ciudad : Capital Federal
+Telefono : 11-3560-4797
+Email : marianoe1999@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : envio mi CV
+Security_code : f8dzc
+Send : Enviar
+
+---------------
+
+Address : 186.58.159.247
+Nombre : Analía
+Apellido : Graziano
+Cargo : Selector de personal
+Direccion : Boyacá 341.8C.
+Ciudad : Buenos Aires
+Telefono : 1559230761
+Email : analiactg@hotmail.es
+MAX_FILE_SIZE : 2097152
+Mensaje : Estoy interesada en empezar a desarrollarme en el area de selección de personal. 
+Atentamente 
+Analía Graziano
+Security_code : rbb6g
+Send : Enviar
+
+---------------
+

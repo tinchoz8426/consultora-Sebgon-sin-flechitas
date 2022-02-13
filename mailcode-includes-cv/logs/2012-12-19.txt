@@ -1,0 +1,17 @@
+Address : 190.176.2.97
+Nombre : Emilio
+Apellido : Hemmingsen
+Cargo : trabajos rurales
+Direccion : zapiola 802
+Ciudad : mendoza
+Telefono : 0261- 156230951
+Email : emiliohemmingsen@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Envío celular de Mendoza  en donde se podrán contactar, de ser necesario, de manera segura. El celular que figura en el CV es mas difícil de contactar, dado que trabajo en zona rural y no simpre tengo señal.
+Muchas gracias desde ya.
+Emilio
+Security_code : p29x3
+Send : Enviar
+
+---------------
+

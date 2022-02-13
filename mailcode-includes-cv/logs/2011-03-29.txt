@@ -1,0 +1,31 @@
+Address : 190.55.203.240
+Nombre : ale
+Apellido : mertens
+Cargo : prueba
+Direccion : direccio
+Ciudad : bsas
+Telefono : 455
+Email : core@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : dasdasdas
+Security_code : smcx8
+Send : Enviar
+
+---------------
+
+Address : 186.130.184.205
+Nombre : Samanta
+Apellido : Sánchez
+Cargo : Relacionista Pública
+Direccion : Brasil 2096
+Ciudad : Merlo
+Telefono : 011-1560168391
+Email : samanta-cba@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Tengo el agrado de dirigirme a Uds a fin de acercarles mi CV, para eventuales búsquedas acordes a mi perfil.Quedo a su disposición para ampliar la información que estimen necesaria.
+Samanta Sanchez
+Security_code : 5myvk
+Send : Enviar
+
+---------------
+

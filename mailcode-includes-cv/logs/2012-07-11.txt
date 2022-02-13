@@ -1,0 +1,47 @@
+Address : 190.174.234.157
+Nombre : Martin Santiago
+Apellido : Hanlon
+Cargo : Indistinto
+Direccion : Aconcagua 170
+Ciudad : Llavallol
+Telefono : 1567122888
+Email : martinshanlon@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Les mando mi cv para el puesto que ustedes crean apropiado.
+ 
+Muchas gracias
+Security_code : 392x8
+Send : Enviar
+
+---------------
+
+Address : 190.48.33.32
+Nombre : Franco Maximiliano
+Apellido : Vargas Cairó
+Cargo : Trabajo Social
+Direccion : 32 N°1827
+Ciudad : 25 de Mayo
+Telefono : 02345-15431694
+Email : frankvargas32@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Les envio mi curriculum me interes el trabajo de informes sociales para la zona de saladillo-25 de mayo- etc
+Security_code : 5drkw
+Send : Enviar
+
+---------------
+
+Address : 186.19.22.72
+Nombre : Marisa
+Apellido : Alvarez
+Cargo : Recursos Humanos
+Direccion : Ohiggins 2151 -Lanus Este
+Ciudad : Bs As
+Telefono : 1553415453
+Email : marisa2alvarez@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Muchas gracias!
+Security_code : sfs66
+Send : Enviar
+
+---------------
+

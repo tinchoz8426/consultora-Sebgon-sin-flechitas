@@ -1,0 +1,63 @@
+Address : 186.126.175.193
+Nombre : mariella 
+Apellido : calderara
+Cargo : trabajadora social
+Direccion : colombo 102
+Ciudad : santos tessei
+Telefono : 0343 155015686
+Email : morochia._@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : estimados: me he comunicado en varias oportunidades a su empresa con la finalidad de solicitar la evaluacion de mi cv como medio para la postulacion a cualquier oportunidad laboral que surgiera. contando con disponibilidad horaria y de traslado ademas de movilidad propia. monotributo y experiencia en trabajo de campo. quedo a total disposicion para contacto. 
+Security_code : hs9cs
+Send : Enviar
+
+---------------
+
+Address : 186.58.97.130
+Nombre : María Amalia Lourdes
+Apellido : Da Fonseca
+Cargo : Al que la empresa considere 
+Direccion : Lynch 4075
+Ciudad : Buenos Aires
+Telefono : 46911081
+Email : maridafonscea84@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Departamento de Recursos  Humanos                                                                       
+                                                                                                                 
+
+
+De mi consideración:
+
+Tengo el agrado de dirigirme a ustedes en relación a mi búsqueda de trabajo, con el anhelo de participar en la selección de personal acorde a mi perfil en su Empresa.
+
+Durante mi período de formación he realizado varias prácticas en diferentes ámbitos, tal como se refleja en el Currículum Vitae que adjunto a la presente.
+
+En cuanto a la remuneración pretendida, considero que debe ser acorde a las condiciones del trabajo a realizar.
+
+Cuento con amplia disponibilidad tanto geográfica como horaria. Además me considero una persona trabajadora, responsable y dinámica. 
+
+
+Me agradaría poder ampliar la información que resulte de su interés en una entrevista personal, para lo que quedo a su entera disposición.
+
+Sin otro particular, aprovecho esta oportunidad para saludarlos cordialmente.
+
+Security_code : 62z22
+Send : Enviar
+
+---------------
+
+Address : 201.250.159.119
+Nombre : Marcia
+Apellido : Illana
+Cargo : Cajas, Tareas Administrativas, Recepcionista
+Direccion : Coronel Pedro Andres Garcia 5682 Edif. 4 Piso 14 Dpto C
+Ciudad : Villa Lugano
+Telefono : 46058431 / 1565700004
+Email : mramill_91@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me postulo para cualquier empleo
+Security_code : 3vhwn
+Send : Enviar
+
+---------------
+

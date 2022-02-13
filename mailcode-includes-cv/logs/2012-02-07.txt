@@ -1,0 +1,62 @@
+Address : 201.250.109.229
+Nombre : Maria Florencia
+Apellido : Balmaceda
+Cargo : empleada -cajera
+Direccion : av directorio 2386 7 32
+Ciudad : cap fed
+Telefono : 46336043/1151067784
+Email : florbalma22@yahoo.com
+MAX_FILE_SIZE : 2097152
+Mensaje : me gustaria recibir informacion de algun trabajo.
+muchas gracias
+Security_code : pk5vb
+Send : Enviar
+
+---------------
+
+Address : 190.30.224.192
+REF : tecnico-quimico
+Nombre : Yazmin
+Apellido : Herrera
+Cargo : Técnico químico
+Direccion : Garibaldi 141, PB, Dpto.: A
+Ciudad : San Nicolás
+Telefono : (3461) 15- 335729
+Email : yas89_4@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Espero dar con el perfil que buscan. Desde ya muchas gracias.
+Security_code : 8cwrb
+Send : Enviar
+
+---------------
+
+Address : 190.174.13.15
+Nombre : Miguel Angel 
+Apellido : Chambi
+Cargo : Operario de produccion
+Direccion : Del Carmen 2331
+Ciudad : Moron
+Telefono : 46908893 / 1535217810
+Email : chambizubieta@live.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Incluirme en su empresa para brindar mi conocimiento y adquirir experiencia con el trabajo a realiza
+Security_code : drjg5
+Send : Enviar
+
+---------------
+
+Address : 190.174.13.15
+Nombre : Miguel Angel 
+Apellido : Chambi
+Cargo : Operario de produccion
+Direccion : Del Carmen 2331
+Ciudad : Moron
+Telefono : 46908893 / 1535217810
+Email : chambizubieta@live.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Incluirme en su empresa para brindar miconocimiento y adquirir experiencia
+Security_code : kqcjf
+Send : Enviar
+
+---------------
+

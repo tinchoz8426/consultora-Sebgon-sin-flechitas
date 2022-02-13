@@ -1,0 +1,180 @@
+Address : 216.52.185.76
+Nombre : Ignacio
+Apellido : Rey
+Cargo : Responsable Comercial
+Direccion : Av. Del Libertador 8440 
+Ciudad : Capital Federal
+Telefono : (011) (15) 52473296
+Email : ignaciorey1404@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buen Día,
+
+Me contacto con ustedes ya que estoy en la búsqueda laboral, les envío mi CV.
+
+Muchas Gracias
+Security_code : gtvg6
+Send : Enviar
+
+---------------
+
+Address : 190.15.219.124
+Nombre : Gabriela Alejandra
+Apellido : Bustos
+Cargo : Licenciada en Trabajo Social
+Direccion : Calle Rioja  6711 Ing. Giagnoni
+Ciudad : San Martín Mendoza
+Telefono : 2634-555742
+Email : licgabrielabustos@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola me informaron que necesitaban Trabajadores sociales para relizar encuestas en la provincia de Mendoza, queria saber si es asi y que necesitan
+Security_code : fpzkj
+Send : Enviar
+
+---------------
+
+Address : 190.15.219.124
+Nombre : Gabriela Alejandra
+Apellido : Bustos
+Cargo : Licenciada en Trabajo Social
+Direccion : Calle Rioja  6711 Ing. Giagnoni
+Ciudad : San Martín Mendoza
+Telefono : 2634-555742
+Email : licgabrielabustos@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola me informaron que necesitaban Trabajadores sociales para relizar encuestas en la provincia de Mendoza, queria saber si es asi y que necesitan
+Security_code : fpzkj
+Send : Enviar
+
+---------------
+
+Address : 190.3.122.171
+Nombre : Yanil
+Apellido : Mariani
+Cargo : administrativa Comercio Exterior
+Direccion : Sarandí 519
+Ciudad : Merlo
+Telefono : 1562343660
+Email : yoyan20@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Termine mis estudios en Comercio Internacional y estoy en busqueda de mi primera experiencia laboral en el sector.
+Security_code : 52Vj4
+Send : Enviar
+
+---------------
+
+Address : 190.16.178.115
+Nombre : Jeremías
+Apellido : Zimmermann
+Cargo : oportunas búsquedas
+Direccion : Castelli 2757
+Ciudad : Esperanza
+Telefono : 5493496543935
+Email : jeremias_zimmermann@outlook.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados, escribo con el objeto de participar en búsquedas laborales acordes a mi perfil. Adjunto le remito mi Currículum Vitae para que me incluyeran en su base de datos por si se produjera alguna vacante.
+Quedo a su entera disposición ante una eventual entrevista personal con el objetivo de profundizar aspectos de mi perfil que resulten de su interés
+
+Saludos cordiales
+
+Ing. Jeremías Zimmermann
+Security_code : dmkyn
+Send : Enviar
+
+---------------
+
+Address : 186.57.227.64
+Nombre : Florencia Natalia
+Apellido : Moreno
+Cargo : Analista/Asistente/Investigador
+Direccion : Paracas 3816
+Ciudad : Buenos Aires
+Telefono : 46605951
+Email : florencianataliamoreno@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados:
+Soy Licenciada en Comunicación con experiencia en investigación cualitativa exploratoria y descriptiva. Deseo integrarme al trabajo en consultoras. Por tal motivo envío mi CV   .
+Saludos cordiales. 
+Lic. Florencia Moreno.
+Security_code : wdmpy
+Send : Enviar
+
+---------------
+
+Address : 186.57.170.234
+Nombre : Vanina Noelia
+Apellido : Gencarelli
+Cargo : rrhh o atención al cliente
+Direccion : Paris 2479
+Ciudad : Isidro Casanova
+Telefono : 15-55857044
+Email : vanilaborales@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Busco empleo, gracias.
+Security_code : j9rpw
+Send : Enviar
+
+---------------
+
+Address : 201.254.9.128
+REF : administrativa-compras
+Nombre : Marìa Cristina
+Apellido : Kardel
+Cargo : Administrativa de Compras
+Direccion : Gral. Bosch 555 dpto. 9
+Ciudad : Villa Sarmiento
+Telefono : 155-7179989
+Email : kardelcristina@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Envío CV para puesto de referencia, agradecería la posibilidad de una entrevista personal.
+Atte. 
+Kardel Cristina
+Security_code : xvpds
+Send : Enviar
+
+---------------
+
+Address : 201.254.9.128
+REF : administrativa-compras
+Nombre : Marìa Cristina
+Apellido : Kardel
+Cargo : Administrativa de Compras
+Direccion : Gral. Bosch 555 dpto. 9
+Ciudad : Villa Sarmiento
+Telefono : 155-7179989
+Email : kardelcristina@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Envío CV para puesto de referencia, agradecería la posibilidad de una entrevista personal.
+Atte. 
+Kardel Cristina
+Security_code : k76mv
+Send : Enviar
+
+---------------
+
+Address : 190.55.73.188
+Nombre : Ivan Leonardo
+Apellido : Paredes
+Cargo : Futuras busquedas
+Direccion : Jose Neglia 650
+Ciudad : Temperley
+Telefono : 1569615962
+Email : aivan1978@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : De mi mayor consideración:
+
+Tengo el agrado de dirigirme a usted con el fin de transmitirle mi deseo de encontrar empleo. A tal efecto adjunto a la presente mi Cv para ser considerado como candidato en la búsqueda de Ingeniero Industrial .
+
+Actualmente he terminado la cursada de Ingeniería Industrial en la Universidad Nacional de Lomas de Zamora (UNLZ) restándome dar los últimos finales de dicha carrera, con lo cual cuento con amplia disponibilidad horaria. Me considero una persona proactiva, ordenada, perseverante y responsable.
+
+Mi periodo de actividad laboral lo he realizado en Oficina Técnica en la cual colabore en el desarrollo de nuevos productos y como Analista de Ingeniería en una Consultora de Empresas.   
+
+Desde ya muchas gracias, quedo a su entera disposición para una posible y eventual entrevista personal.
+
+Saluda atentamente 
+
+Paredes Iván
+Security_code : pkcgr
+Send : Enviar
+
+---------------
+

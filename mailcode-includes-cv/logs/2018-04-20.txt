@@ -1,0 +1,46 @@
+Address : 190.111.198.226<br>
+ <br>Nombre : Leonardo
+ <br>Apellido : Jukic
+ <br>Cargo : Contador Publico
+ <br>Direccion : Av. Mitre 6592
+ <br>Ciudad : Avellaneda
+ <br>Telefono : 1534492587
+ <br>Email : leonardoejukic@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Adjunto CV 
+ <br>Security_code : kbf92
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.165.166.156<br>
+ <br>REF : SP-1
+ <br>Nombre : José  Euribiades
+ <br>Apellido : López Morales
+ <br>Cargo : supervisor de produccion 
+ <br>Direccion : caba maipu 556
+ <br>Ciudad : Buenos Aires 
+ <br>Telefono : +543757552042
+ <br>Email : cheoury10@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Soy un profesional ético y técnicamente preparado para asumir nuevos retos, solo necesito el apoyo y la disposición se ustedes.
+ <br>Security_code : bzmv3
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.167.206.181<br>
+ <br>Nombre : Nicolás
+ <br>Apellido : Del Cin
+ <br>Cargo : Administrativo/Contable
+ <br>Direccion : MANUELA PEDRAZA 1715
+ <br>Ciudad : capital federal
+ <br>Telefono : 2284522124
+ <br>Email : nicolas.delcin@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Quiero conseguir trabajo lo antes posible en capital federal para poder vivir mejor y adquirir pronta experiencia a mi edad. Apto para nuevos desafíos. 
+ <br>Security_code : dfnh5
+ <br>Send : Enviar
+ <br>
+---------------
+

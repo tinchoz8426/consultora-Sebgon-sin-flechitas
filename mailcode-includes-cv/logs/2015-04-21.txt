@@ -1,0 +1,77 @@
+Address : 186.57.197.23
+Nombre : Nicole Eliana
+Apellido : Cuello
+Cargo : Recepcionista
+Direccion : Virgilio 4390
+Ciudad : Morón
+Telefono : 1133991342
+Email : nicolee.cuello@yahoo.com
+MAX_FILE_SIZE : 2097152
+Mensaje : A quien corresponda, buenas noches. Soy estudiante de Publicidad y me encuentro en la búsqueda de un trabajo part-time, de preferencia turno mañana. Uno de mis objetivos es la independencia económica para poder sustentar mis estudios, entre otras cosas.
+Security_code : nb793
+Send : Enviar
+
+---------------
+
+Address : 201.212.245.219
+Nombre : Camila Antonela
+Apellido : Villaverde
+Cargo : Atencion al publico
+Direccion : Santa Fe 2450
+Ciudad : Mar del Plata
+Telefono : (02262)15679145
+Email : camila.villaverde@hotmail.es
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola mi nombre es Camila, estudiante de la carrera Lic. en Psicologia, con disponibilidad horaria, y me gustaria que me ayuden a encontrar trabajo, lo necesito para poder continuar con mis estudios.
+Security_code : 3nqkm
+Send : Enviar
+
+---------------
+
+Address : 201.212.245.219
+Nombre : Camila Antonela
+Apellido : Villaverde
+Cargo : Atencion al publico
+Direccion : Santa Fe 2450
+Ciudad : Mar del Plata
+Telefono : (02262)15679145
+Email : camila.villaverde@hotmail.es
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola mi nombre es Camila, estudiante de la carrera Lic. en Psicologia, con disponibilidad horaria, y me gustaria que me ayuden a encontrar trabajo, lo necesito para poder continuar con mis estudios.
+Security_code : 3nqkm
+Send : Enviar
+
+---------------
+
+Address : 201.212.245.219
+Nombre : Camila Antonela
+Apellido : Villaverde
+Cargo : Atencion al publico
+Direccion : Santa Fe 2450
+Ciudad : Mar del Plata
+Telefono : (02262)15679145
+Email : camila.villaverde@hotmail.es
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola mi nombre es Camila, estudiante de la carrera Lic. en Psicologia, con disponibilidad horaria, y me gustaria que me ayuden a encontrar trabajo, lo necesito para poder continuar con mis estudios.
+Security_code : zmxwn
+Send : Enviar
+
+---------------
+
+Address : 186.22.200.43
+Nombre : Maira Sofia
+Apellido : villagra
+Cargo : Administrativa
+Direccion : 1º de mayo 1781
+Ciudad : Lanus
+Telefono : 1534782660
+Email : maii.villagra@live.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : De mi mayor consideración; envió a ustedes mi curriculum vitae.
+Muchas Gracias
+Sdos.
+Security_code : 7gf3q
+Send : Enviar
+
+---------------
+

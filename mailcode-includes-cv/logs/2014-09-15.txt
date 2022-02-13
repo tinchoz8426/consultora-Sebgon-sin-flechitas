@@ -1,0 +1,353 @@
+Address : 190.190.36.30
+Nombre : Jimena
+Apellido : Vicens
+Cargo : Administrativo-Bancario
+Direccion : Joaquín Ferro 1639
+Ciudad : Santa Rosa
+Telefono : 02954-15692141
+Email : jime_120@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Curriculum Vitae
+Security_code : G65JB
+Send : Enviar
+
+---------------
+
+Address : 181.47.30.206
+Nombre : Jesica Paola
+Apellido : Godoy
+Cargo : telemarketer
+Direccion : fray galletano rodriguez 448
+Ciudad : flores
+Telefono : 20738273/ 1132812446
+Email : j.paola.godoy@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : A quien corresponda le adjunto mi Cv para su consideración.
+Desde ya muchas gracias.
+Paola Godoy 
+Security_code : 6t53q
+Send : Enviar
+
+---------------
+
+Address : 201.250.119.68
+Nombre : Alejandra
+Apellido : Fuentes
+Cargo : diseñadora gráfica
+Direccion : Vernet
+Ciudad : CABA
+Telefono : 1530938877
+Email : agiusol@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto mi Cv a fin de poder concretar una entrevista para algún puesto laboral vigente.
+Security_code : wtdws
+Send : Enviar
+
+---------------
+
+Address : 190.245.83.14
+REF : GTE COM.EXT
+Nombre : Emmanuel
+Apellido : de Ortuzar
+Cargo : gerente de Comercio exterior
+Direccion : V.S. Liniers 681
+Ciudad : Buenos Aires
+Telefono : 47910506
+Email : deortuzar.emmanuel@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me gustaria ser cosniderado para dicha posicion.
+Security_code : 498md
+Send : Enviar
+
+---------------
+
+Address : 190.17.76.41
+REF : GTE MAN
+Nombre : Jose
+Apellido : Cardigonte
+Cargo : Gerente de Mantenimiento
+Direccion : Portela 393
+Ciudad : CAPITAL
+Telefono : 15-5948-0151
+Email : josecardigonte@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Si bien mi experiencia laboral fue adquirida en el área operativa y en la mayoría de sus facetas, he transitado también diversas responsabilidades como operario, supervisor y Jefe, siendo una de mis características, el ser expeditivo para el logro de objetivos trazados, trabajando bajo presión en consecuencia y compromiso; agregando a esto, la posibilidad de relacionarme con las distintas estructuras empresariales ya sea de base como gerenciales.
+No ajeno a la situación y más haya de mi pretensiones, estoy en condiciones de realizar tareas administrativas, de supervisión, control  de gestión y atención al público. Esto de ninguna manera compromete mi compromiso con las tareas.
+Mi búsqueda está enfocada a un lugar estable donde pueda desarrollar todo mi potencial, dedicación, compromiso  agregando la posibilidad de progreso y proyección.
+ 
+Desde ya muchas gracias. 
+
+Security_code : gcsdb
+Send : Enviar
+
+---------------
+
+Address : 190.55.67.43
+Nombre : vera natalia
+Apellido : ricapito
+Cargo : secretaria ejecutiva bilingue
+Direccion : jose verdi 652
+Ciudad : lomas de zamora
+Telefono : 1569702065
+Email : veranataliaricapito@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto cv para posibles búsquedas de empleados
+Security_code : 9kfz8
+Send : Enviar
+
+---------------
+
+Address : 190.17.76.41
+REF : ADMINISTRATIVO-DE-LOGISTICA
+Nombre : Jose
+Apellido : Cardigonte
+Cargo : Administrativo de Logística
+Direccion : Portela 393
+Ciudad : Capital Federal
+Telefono : 15-5948-0151
+Email : josecardigonte@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me presento como José Cardigonte. 
+Hombre de 53 años.
+Técnico Electrónico con Analíticos en mano.
+Medio de Movilidad y Licencia de Conducir Profesional.
+Soltero.
+Vivo en Capital Federal y mi CV está absolutamente actualizado y a disposición.
+Mi correo electrónico es josecardigonte@hotmail.com.
+Si bien mi experiencia laboral fue adquirida en el área operativa y en la mayoría de sus facetas, he transitado también diversas responsabilidades como operario, supervisor y Jefe, siendo una de mis características, el ser expeditivo para el logro de objetivos trazados, trabajando bajo presión en consecuencia y compromiso; agregando a esto, la posibilidad de relacionarme con las distintas estructuras empresariales ya sea de base como gerenciales.
+No ajeno a la situación y más haya de mi pretensiones, estoy en condiciones de realizar tareas administrativas, de supervisión, control  de gestión y atención al público. Esto de ninguna manera compromete mi compromiso con las tareas.
+Mi búsqueda está enfocada a un lugar estable donde pueda desarrollar todo mi potencial, dedicación, compromiso  agregando la posibilidad de progreso y proyección.
+ 
+Desde ya muchas gracias. 
+
+
+José Cardigonte
+
+Security_code : x2nnr
+Send : Enviar
+
+---------------
+
+Address : 190.245.153.33
+Nombre : Lucia
+Apellido : Beltran
+Cargo : Administrativa
+Direccion : Marcos Paz 2636
+Ciudad : Capital Federal
+Telefono : 1534354679
+Email : lucia-beltran@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenas tardes, les envío mi curriculum porque estoy interesada en el área de salud ya sea como  administrativa o facturista.
+Muchas Gracias.
+Security_code : vn6ng
+Send : Enviar
+
+---------------
+
+Address : 190.245.153.33
+Nombre : Lucia
+Apellido : Beltran
+Cargo : Administrativa
+Direccion : Marcos Paz 2636
+Ciudad : Capital Federal
+Telefono : 1534354679
+Email : lucia-beltran@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenas tardes, les envío mi curriculum porque estoy interesada en el área de salud ya sea como  administrativa o facturista.
+Muchas Gracias.
+Security_code : vn6ng
+Send : Enviar
+
+---------------
+
+Address : 186.23.182.106
+Nombre : Danilo Eduardo
+Apellido : Acevedo
+Cargo :  Gerente de Compras Localidad: El Bolsón - Río Negro
+Direccion : Celestino Vidal 3527
+Ciudad : Capital Federal
+Telefono : 1153435280
+Email : ecobaires@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me postulo para esta responsabilidad por haber adquirido experiencia en años de inmobiliaria constructora. Compra Venta refacciones, construcciones de propiedades.
+Porque conozco la zona viajo todos los años a visitar a familiares y amigos que tengo en el Bolson. 
+Security_code : zbr4s
+Send : Enviar
+
+---------------
+
+Address : 190.230.40.105
+Nombre : ADRIANA GRACIELA
+Apellido : SCLIPPA
+Cargo : Contable-Administrativo
+Direccion : San Martin 120
+Ciudad : San Nicolas de los Arroyos
+Telefono : 336-154311980
+Email : adriana@sclippa.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Envío mi CV para próximas oportunidades.
+Gracias.
+Slds cordiales.
+Sclippa, Adriana.-
+
+Security_code : 3ccwg
+Send : Enviar
+
+---------------
+
+Address : 190.230.40.105
+Nombre : ADRIANA GRACIELA
+Apellido : SCLIPPA
+Cargo : Contable-Administrativo
+Direccion : San Martin 120
+Ciudad : San Nicolas de los Arroyos
+Telefono : 336-154311980
+Email : adriana@sclippa.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Envío mi CV para próximas oportunidades.
+Gracias.
+Slds cordiales.
+Sclippa, Adriana.-
+
+Security_code : 3ccwg
+Send : Enviar
+
+---------------
+
+Address : 186.134.167.102
+Nombre : sofia soledad
+Apellido : soto
+Cargo : empleada
+Direccion : senillosa 88
+Ciudad : teperley
+Telefono : 42643195
+Email : sofiasoto.164@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : estoy interesada en un empleo part time de turno mañana,desde ya muchas gracias.
+Security_code : t7hy7
+Send : Enviar
+
+---------------
+
+Address : 186.134.167.102
+Nombre : sofia soledad
+Apellido : soto
+Cargo : empleada
+Direccion : senillosa 88
+Ciudad : teperley
+Telefono : 42643195
+Email : sofiasoto.164@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : estoy interesada en un empleo part time de turno mañana,desde ya muchas gracias.
+Security_code : t7hy7
+Send : Enviar
+
+---------------
+
+Address : 186.134.167.102
+Nombre : sofia soledad
+Apellido : soto
+Cargo : empleada
+Direccion : senillosa 88
+Ciudad : teperley
+Telefono : 42643195
+Email : sofiasoto.164@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : estoy interesada en un empleo part time de turno mañana,desde ya muchas gracias.
+Security_code : 4xjpw
+Send : Enviar
+
+---------------
+
+Address : 186.134.167.102
+Nombre : sofia soledad
+Apellido : soto
+Cargo : empleada
+Direccion : senillosa 88
+Ciudad : teperley
+Telefono : 42643195
+Email : sofiasoto.164@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : estoy interesada en un empleo part time de turno mañana,desde ya muchas gracias.
+Security_code : 4xjpw
+Send : Enviar
+
+---------------
+
+Address : 186.134.167.102
+Nombre : sofia soledad
+Apellido : soto
+Cargo : empleada
+Direccion : senillosa 88
+Ciudad : teperley
+Telefono : 42643195
+Email : sofiasoto.164@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : estoy interesada en un empleo part time de turno mañana,desde ya muchas gracias.
+Security_code : 62dzc
+Send : Enviar
+
+---------------
+
+Address : 186.134.167.102
+REF : TELE
+Nombre : sofia soledad
+Apellido : soto
+Cargo : empleada
+Direccion : senillosa 88
+Ciudad : temperley
+Telefono : 42643195
+Email : sofiasoto.164@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : estoy interesada en un empleo part time turno mañana
+
+Security_code : 6nz4b
+Send : Enviar
+
+---------------
+
+Address : 186.130.188.80
+Nombre : laura veronica
+Apellido : ARIAS
+Cargo : empleada
+Direccion : cañada de gomez 4735
+Ciudad : Capital Federal
+Telefono : 541168714758
+Email : lauralacolo2009@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : quiero ser parte del sistema para crecer personalmente y aportar mis conocimiento
+Security_code : c4dbs
+Send : Enviar
+
+---------------
+
+Address : 186.59.240.100
+Nombre : mariano
+Apellido : rosenthal
+Cargo : licenciado o tecnico en seh
+Direccion : s
+Ciudad : bs as
+Telefono : 0221155067955
+Email : mariano_rosenthal85@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : busco empleo
+Security_code : 9fxyf
+Send : Enviar
+
+---------------
+
+Address : 181.88.207.125
+Nombre : Angie
+Apellido : Torres Grey
+Cargo : Analista de RRHH
+Direccion : Monroe 5388 10º B
+Ciudad : CABA
+Telefono : 45235879
+Email : angietorresgrey@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : POSTULACIÓN ESPONTANEA.
+Security_code : WGSZS
+Send : Enviar
+
+---------------
+

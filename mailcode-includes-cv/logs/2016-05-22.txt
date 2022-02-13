@@ -1,0 +1,46 @@
+Address : 181.177.198.52<br>
+ <br>Nombre : Franco Nicolas
+ <br>Apellido : Acosta
+ <br>Cargo : Trabajo
+ <br>Direccion : Los Jazmines 948
+ <br>Ciudad : Merlo; Buenos Aires
+ <br>Telefono : 02204981336
+ <br>Email : francopadodm@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola Buenas Noches,soy Franco Acosta te mando mi cv. Espero su respuesta! Gracias
+ <br>Security_code : 8rpb5
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.192.248.45<br>
+ <br>Nombre : Gustavo 
+ <br>Apellido : Guillaume 
+ <br>Cargo : Jefe de Producción o Calidad 
+ <br>Direccion : Santa Fe 433
+ <br>Ciudad : Chacabuco 
+ <br>Telefono : 0261-154703938
+ <br>Email : gusguillon@yahoo.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Experiencia en producción y Calidad en Industrias alimenticias
+ <br>Security_code : d7nhn
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.192.189.58<br>
+ <br>REF : TLP
+ <br>Nombre : Luis Alberto 
+ <br>Apellido : Aldana
+ <br>Cargo : tec electronico
+ <br>Direccion : sta Maria de Oro 1210 
+ <br>Ciudad : moron
+ <br>Telefono : 1553311137
+ <br>Email : aldanaluis11@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : por favor comunicarse por mail en lo posible.atte Luis
+ <br>Security_code : y6dqt
+ <br>Send : Enviar
+ <br>
+---------------
+

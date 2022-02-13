@@ -1,0 +1,16 @@
+Address : 200.125.73.194<br>
+ <br>REF : EP-1
+ <br>Nombre : Guillermo, Martin
+ <br>Apellido : Challinor
+ <br>Cargo : supervisor produccion
+ <br>Direccion : Valentin Alsina, 45
+ <br>Ciudad : Monte Grande
+ <br>Telefono : 1157197793
+ <br>Email : gabaperalta72@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : me dirijo a uds solicitando el puesto desarrollar mis 25 años de experiencia en la industria y lograr los objetivos de la empresa
+ <br>Security_code : 42p36
+ <br>Send : Enviar
+ <br>
+---------------
+

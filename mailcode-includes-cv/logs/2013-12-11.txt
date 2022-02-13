@@ -1,0 +1,30 @@
+Address : 186.158.231.171
+Nombre : fb
+Apellido : bx
+Cargo : bxbx
+Direccion : x
+Ciudad : xbxx
+Telefono : bxx
+Email : afa@dsfsd.com
+MAX_FILE_SIZE : 2097152
+Mensaje : dvdvdv
+Security_code : tghsh
+Send : Enviar
+
+---------------
+
+Address : 181.225.2.86
+Nombre : carina teresa
+Apellido : amiano
+Cargo : gestoria
+Direccion : nazca 95
+Ciudad : comodoro rivadavia
+Telefono : 0297154680077
+Email : ro_fio_ju@yahoo.com
+MAX_FILE_SIZE : 2097152
+Mensaje : necesito buscar trabajo de gestora medio dia por la mañana cuento con mobilidad y carnet de conducir
+Security_code : qtg9q
+Send : Enviar
+
+---------------
+

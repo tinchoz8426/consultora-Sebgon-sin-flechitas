@@ -1,0 +1,243 @@
+Address : 181.31.173.194
+Nombre : Gianfranco Alexander
+Apellido : Turri
+Cargo : Operario
+Direccion : Monterroso 4656
+Ciudad : Cordoba
+Telefono : 351-156089653
+Email : soledaad.5@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto mi curriculum con mis datos personales. Muchas Gracias.
+Security_code : mjjvd
+Send : Enviar
+
+---------------
+
+Address : 181.44.208.187
+REF : E.DIS
+Nombre : Lautaro
+Apellido : Roldán
+Cargo : Asistente
+Direccion : King 
+Ciudad : Almirante Brown
+Telefono : 1538015404
+Email : lautar96@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenos días, les envío mi CV, considero que puedo realizar las tareas requeridas en el aviso, saludos.
+Security_code : k6prr
+Send : Enviar
+
+---------------
+
+Address : 181.44.208.187
+REF : E.DIS
+Nombre : Lautaro
+Apellido : Roldán
+Cargo : Asistente de diseño
+Direccion : King 
+Ciudad : Almirante Brown
+Telefono : 1538015404
+Email : lautar96@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenos días, les envío mi CV, considero que puedo realizar las tareas requeridas en el aviso, saludos.
+Security_code : k6prr
+Send : Enviar
+
+---------------
+
+Address : 181.44.208.187
+REF : E.DIS
+Nombre : Lautaro
+Apellido : Roldán
+Cargo : Asistente de diseño
+Direccion : King 
+Ciudad : Almirante Brown
+Telefono : 1538015404
+Email : lautar96@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenos días, les envío mi CV, considero que puedo realizar las tareas requeridas en el aviso, saludos.
+Security_code : st6pj
+Send : Enviar
+
+---------------
+
+Address : 190.105.66.75
+Nombre : juan
+Apellido : wilichosky
+Cargo : cajero,repositor,control de mercaderias
+Direccion : 20 de junio 317
+Ciudad : bella vista
+Telefono : 46680597
+Email : juanwilichosky@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : solicito empleo, para el puesto que ustedes vean conveniente.
+gracias
+Security_code : qwjmv
+Send : Enviar
+
+---------------
+
+Address : 181.169.164.47
+Nombre : Ángeles Belén
+Apellido : Zorrilla
+Cargo : Secretaria
+Direccion : España 80, Florida, Vicente López
+Ciudad : Buenos Aires
+Telefono : 1568254801
+Email : belenzorrilla94@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola, mi nombre en Ángeles Belén y estoy interesada en encontrar un trabajo. Estoy en busca de un empleo que me permita tener un ingreso y una independencia económica, y también que me permita seguir con mis estudios.
+Actualmente me encuentro viviendo en Vicénte López, a diez cuadras de Puente Saavedra. 
+Tengo muchas ganas de trabajar y aprender de mis tareas, y de llevar una buena convivencia con mis pares. 
+Muchas gracias.
+Security_code : f6xb6
+Send : Enviar
+
+---------------
+
+Address : 190.19.62.36
+REF : JP
+Nombre : Ignacio
+Apellido : Magurno
+Cargo : Jefe de Personal
+Direccion : Franco 3140 UF 6
+Ciudad : Capital Federal
+Telefono : 1544795515
+Email : ignaciomagurno@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : A disposición para ampliar detalles de forma personal. 
+Saludos
+Security_code : jzvsv
+Send : Enviar
+
+---------------
+
+Address : 190.19.62.36
+REF : JP
+Nombre : Ignacio
+Apellido : Magurno
+Cargo : Jefe de Personal
+Direccion : Franco 3140 UF 6
+Ciudad : Capital Federal
+Telefono : 1544795515
+Email : ignaciomagurno@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : A disposición para ampliar detalles de forma personal. 
+Saludos
+Security_code : jzvsv
+Send : Enviar
+
+---------------
+
+Address : 190.19.62.36
+REF : JP
+Nombre : Ignacio
+Apellido : Magurno
+Cargo : Jefe de Personal
+Direccion : Franco 3140 UF 6
+Ciudad : Capital Federal
+Telefono : 1544795515
+Email : ignaciomagurno@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : A disposición para ampliar detalles de forma personal. 
+Saludos
+Security_code : jzvsv
+Send : Enviar
+
+---------------
+
+Address : 190.19.62.36
+REF : JP
+Nombre : Ignacio
+Apellido : Magurno
+Cargo : Jefe de Personal
+Direccion : Franco 3140 UF 6
+Ciudad : Capital Federal
+Telefono : 1544795515
+Email : ignaciomagurno@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : A disposición para ampliar detalles de forma personal o para lo que estimen conveniente. 
+Saludos cordiales
+Security_code : gprn5
+Send : Enviar
+
+---------------
+
+Address : 186.108.217.43
+REF : OEL
+Nombre : walter
+Apellido : carrion
+Cargo : tecnico electricista,oficial especializado
+Direccion : alexis carrel 2762
+Ciudad : el talar
+Telefono : 011 1522551598
+Email : walterhoracioc@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Soy electricista industrial y obra con mucha experiencia en automatismo y montajes.
+Security_code : 4qgpj
+Send : Enviar
+
+---------------
+
+Address : 186.108.217.43
+REF : OEL
+Nombre : walter
+Apellido : carrkon
+Cargo : tecnico electricista, oficial especializado
+Direccion : Alexis Carrel2762
+Ciudad : el talar
+Telefono : 011 1522551598
+Email : walterhoracioc@
+MAX_FILE_SIZE : 2097152
+Mensaje : Soy electricista  on concimientos industriales y de obra y montaje con mucha experiencia
+Security_code : 22s3j
+Send : Enviar
+
+---------------
+
+Address : 190.231.156.34
+Nombre : Cintia 
+Apellido : Torres 
+Cargo : Coordinadora / dirección 
+Direccion : Jacinto Benavente 863 
+Ciudad : Salta
+Telefono : 387 154414856 
+Email : cintiatorrespeluso@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenas tardes envío currículum vitae para su considercion atentamente Cintia Torres 
+Security_code : Ck8gy
+Send : Enviar
+
+---------------
+
+Address : 190.190.57.247
+Nombre : jorge daniel
+Apellido : felker
+Cargo : soldador
+Direccion : gob castro 281 dto J
+Ciudad : buenos aires
+Telefono : 1155976212
+Email : fear_diary@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : urgente
+Security_code : 7ytbx
+Send : Enviar
+
+---------------
+
+Address : 186.23.28.251
+REF : OEL
+Nombre : JOSE ARIEL
+Apellido : ROLDAN
+Cargo : OFICIAL ELECTRICISTA
+Direccion : JOSE HERNANDEZ 3406 CLAYPOLE
+Ciudad : BUENOS AIRES
+Telefono : 1133463216
+Email : arieljose@outlook.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : busco trabajo de oficial electricista
+Security_code : 533y5
+Send : Enviar
+
+---------------
+

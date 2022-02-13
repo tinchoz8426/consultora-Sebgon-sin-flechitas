@@ -1,0 +1,15 @@
+Address : 190.172.254.210
+Nombre : Vanesa
+Apellido : Sforzín
+Cargo : Investigación y desarrollo.
+Direccion : Intendente Rafael Amato 1540
+Ciudad : Haedo
+Telefono : 44601344
+Email : sforzinvanesa@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Envío mi cv a fin de formar parte de vuestra base de datos y ser tenida en cuenta para futuras búsquedas. Muchas gracias.
+Security_code : 4wmq6
+Send : Enviar
+
+---------------
+

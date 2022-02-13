@@ -1,0 +1,67 @@
+Address : 190.195.12.177
+Nombre : Barbara
+Apellido : DANGELIS
+Cargo : administrativa/ recepcionista
+Direccion : av cordoba 4489
+Ciudad : CAPITAL FEDERAL
+Telefono : 1567077039
+Email : barbaradangelis@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : adjunto cv para que sea tenido en cuentas en puestos acordes a mi perfil
+Security_code : yhjk6k
+Send : Enviar
+
+---------------
+
+Address : 190.188.189.199
+Nombre : Leandro Alberto 
+Apellido : Chioccariello
+Cargo : Administrativo; Seguros; Extrajudiciales
+Direccion : Juan Farrel 3285
+Ciudad : Lanús
+Telefono : 1135863200
+Email : leanchoca@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buen día,
+                      Me llamo Leandro, soy una persona dinámica, responsable, eficiente, positiva con muchas ansias de crecimiento tanto en lo personal como en lo laboral. 
+   Tengo experiencia en tareas administrativas en Estudio notarial y en alquileres temporales de inmuebles, en atención al público y como presentador. Mi última experiencia laboral fue en un estudio jurídico en recupero extrajudicial, liderando el grupo de trabajo con el cliente más importante de la firma. Estoy completamente dispuesto a nuevos desafíos, tanto en el área administrativa en general, seguros, extrajudiciales entre otros. 
+
+Adjunto mi curriculim, espero tengan en cuenta mi perfil para eventuales búsquedas que realizaren. 
+
+Cordialmente. 
+                     Leandro A Chioccariello
+Security_code : bw6pg
+Send : Enviar
+
+---------------
+
+Address : 190.2.103.16
+Nombre : carolina
+Apellido : batet
+Cargo : administrativo
+Direccion : gutemberg 967
+Ciudad : rosario 
+Telefono : 3416442845
+Email : batet80@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : adjunto cv y espero estar calificada para algún trabajo , espero respuesta , desde ya gracias .
+Security_code : 5b4jp
+Send : Enviar
+
+---------------
+
+Address : 190.137.234.228
+Nombre : hernan ezequiel
+Apellido : Messina
+Cargo : EMPLEADO
+Direccion : wernicke 814
+Ciudad : san isidro
+Telefono : 1534047171
+Email : pupysmile@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : BUSCO TRABAJO
+Security_code : 6wdph
+Send : Enviar
+
+---------------
+

@@ -1,0 +1,108 @@
+Address : 190.173.166.84<br>
+ <br>REF : EP-1
+ <br>Nombre : MYRIAM YADIRA
+ <br>Apellido : GOMEZ CASTAÑEDA
+ <br>Cargo : ENCARGADO DE PRODUCCION
+ <br>Direccion : chacabuco 942, Piso 1, apto 2, San telmo. CABA
+ <br>Ciudad : San Telmo - CABA
+ <br>Telefono : 1541591439
+ <br>Email : mygc.13@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Saludo Cordial,
+Profesional con más de 10 años de experiencia en Industrias Alimenticias. Disponibilidad Inmediata.
+ <br>Security_code : 5t2tq
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.24.49.178<br>
+ <br>Nombre :  anabella soledad
+ <br>Apellido : rizzardi
+ <br>Cargo : telemarketer
+ <br>Direccion : falucho 5000
+ <br>Ciudad : mar del plata 
+ <br>Telefono : 011-1538684582
+ <br>Email : rizzardianabella@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me gustaria trabajar para alguna empresa de la ciudad
+ <br>Security_code : 3ygzc
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.27<br>
+ <br>Nombre : Adrián Gerardo
+ <br>Apellido : Martínez
+ <br>Cargo : Operario de producción
+ <br>Direccion : Av. Ingeniero Arturo Acevedo 2884
+ <br>Ciudad : Rosario
+ <br>Telefono : 3415056078
+ <br>Email : adriangmartinez@hotmail.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hago llegar mí curriculum vitae con el fin de ser tenido en cuenta para futuras vacantes.
+ <br>Security_code : 5fdd5
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.27<br>
+ <br>Nombre : Adrián Gerardo
+ <br>Apellido : Martínez
+ <br>Cargo : Operario de producción
+ <br>Direccion : Av. Ingeniero Arturo Acevedo 2884
+ <br>Ciudad : Rosario
+ <br>Telefono : 3415056078
+ <br>Email : adriangmartinez@hotmail.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hago llegar mí curriculum vitae con el fin de ser tenido en cuenta para futuras vacantes.
+ <br>Security_code : y5n4z
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.26.148.72<br>
+ <br>REF : chr
+ <br>Nombre : jose emanuel
+ <br>Apellido : caliva
+ <br>Cargo : chofer
+ <br>Direccion : molinedo, 1705
+ <br>Ciudad : buenos aires
+ <br>Telefono : 1155110408
+ <br>Email : jo_nuova_vita@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : estoy interesado en el puesto y con muchas ganas de trabajar.
+ <br>Security_code : nv23f
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.16.239.184<br>
+ <br>Nombre : Shadi 
+ <br>Apellido : Alzein 
+ <br>Cargo : arquitectura
+ <br>Direccion : moreno 2975
+ <br>Ciudad : Buenos Aires 
+ <br>Telefono : 1134865732
+ <br>Email : valeriaarriet@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : poseo más conocimiento además de autocad, 3 Dmax y Photoshop.
+ <br>Security_code : y2zkp 
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.16.239.184<br>
+ <br>Nombre : Shadi 
+ <br>Apellido : Alzein 
+ <br>Cargo : arquitectura
+ <br>Direccion : moreno 2975
+ <br>Ciudad : Buenos Aires 
+ <br>Telefono : 1134865732
+ <br>Email : valeriaarriet@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : poseo más conocimiento además de autocad, 3 Dmax y Photoshop.
+ <br>Security_code : 5zbwn
+ <br>Send : Enviar
+ <br>
+---------------
+

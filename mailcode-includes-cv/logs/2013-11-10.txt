@@ -1,0 +1,54 @@
+Address : 
+Nombre : celeste
+Apellido : prezioso
+Cargo : Fotógrafo
+Direccion : Alsina 2474
+Ciudad : Buenos Aires
+Telefono : 1536860457
+Email : celesteprezioso@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : mi portfolio es 
+http://cpfotografia.wix.com/fotografia
+Security_code : h5yn8
+Send : Enviar
+
+---------------
+
+Address : 
+Nombre : gonzalo
+Apellido : vecchio
+Cargo : ayudante de cocina, diferente areas gastronomicas
+Direccion : pedernera 744
+Ciudad : buenos aires
+Telefono : 42447087
+Email : gonzalo.vecchio@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : me presento como gonzalo vecchio estoy muy interezado en trabajar en dichas areas 
+Security_code : rb5wb
+Send : Enviar
+
+---------------
+
+Address : 
+Nombre : Mariela
+Apellido : Klein
+Cargo : Administrativa en zona oeste
+Direccion : Mendoza 1942
+Ciudad : San Miguel
+Telefono : 1562698393
+Email : marielaklein21@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola, me llamo Mariela Klein, tengo 19 años y estoy en búsqueda de un puesto administrativo por zona oeste.
+Cuento con su gran experiencia y recomendaciones
+Estoy a su disposición, con dedicación y responsabilidad
+
+
+Les adjunto mi curriculum vitae
+
+Saludos cordiales
+
+Security_code : b6798
+Send : Enviar
+
+---------------
+

@@ -1,0 +1,106 @@
+Address : 190.17.153.46
+Nombre : Florencia
+Apellido : Iacoboni
+Cargo : Secretaria - Recepcionista
+Direccion : El Rodeo 2686
+Ciudad : El Palomar, Moron
+Telefono : (011) 4443-9867
+Email : Florenciaiacoboni@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Mi objetivo laboral es poder desarrollarme en un ambiente de trabajo que me lleve a nuevas fronteras de conocimiento y aprendizaje para un mejor desarrollo en mi vida laboral.
+Security_code : 8fnxg
+Send : Enviar
+
+---------------
+
+Address : 181.44.12.13
+Nombre : Emilio Alejandro
+Apellido : Pujalka
+Cargo : soporte tecnico
+Direccion : Olavarria 2282
+Ciudad : Ciudad Madero
+Telefono : 01124385223
+Email : emilio.pujalka@yahoo.com
+MAX_FILE_SIZE : 2097152
+Mensaje : adjunto mi cv para futuras busquedas
+Security_code : wv78h
+Send : Enviar
+
+---------------
+
+Address : 179.37.192.41
+Nombre : Nicolas
+Apellido : Solis
+Cargo : operador de maquinas 
+Direccion : powell 15
+Ciudad : vlaypole
+Telefono : 1161798807
+Email : elianabaguero@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Currículum vitae 
+
+•Apellido: Solís
+•Nombre: Nicolás Roberto
+•Fecha de Nacimiento: 16-12-1985
+•DNI: 32121402
+•C.U.I.L:  27-32121402-4
+•Estado civil: Soltero
+•Dirección: Powell 15
+•Localidad: Claypole
+•Nacionalidad: Argentina
+•Celular: 1161798807
+•Teléfono: 42996529
+
+
+  formación académica:
+
+•Primario: Puerto Argentino  (Claypole)
+•Secundario: Escuela media numero 12 (Adrogue)
+
+Cursos Realizados: 
+
+•Operador de Aplicaciones Office.
+(Windows-Word-Excel-Access-Power Point-Internet)
+
+experiencia laboral :
+
+•Operador de Maquinas Empresa de Plástico Roker S.A (tiempo desarrollado 6 años)
+•operador de maquinas Empresa de Plasticos Paher S.A 
+•Empresa de limpieza Gamad (tiempo desarrollado 2 años)
+
+
+Security_code : zwvrc
+Send : Enviar
+
+---------------
+
+Address : 187.184.158.129
+Nombre : Victor Armando
+Apellido : Torres Cervantes
+Cargo : Paramedico / seguridad e higiene
+Direccion : Porticos del lago 2, guitarron no 47
+Ciudad : Tijuana, Baja california
+Telefono : 664 3383897
+Email : victorarmandotorres31@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : .
+Security_code : dw6qp
+Send : Enviar
+
+---------------
+
+Address : 190.0.184.238
+Nombre : damian
+Apellido : musumeci
+Cargo : operario tecnico
+Direccion : planes 2487
+Ciudad : hurlingham
+Telefono : 4452-3805
+Email : elmusu2004@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : me postulo para   operario tecnico  o vendedor tecnico
+Security_code : ztrcr
+Send : Enviar
+
+---------------
+

@@ -1,0 +1,239 @@
+Address : 66.249.85.11<br>
+ <br>Nombre : Pablo 
+ <br>Apellido : González 
+ <br>Cargo : Peón boca de pozo
+ <br>Direccion : B 25 viviendas c 4 calle Manuel Muñoz 
+ <br>Ciudad : Senillosa
+ <br>Telefono : 02994583266
+ <br>Email : Peg11_90@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buen día se. Empleador envió mis datos personales, con la intención de pertenecer a su equipo de trabajo. Desde ya muchas gracias.
+ <br>Security_code : Tx5xs
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.7<br>
+ <br>Nombre : Pablo 
+ <br>Apellido : González 
+ <br>Cargo : Peón boca de pozo
+ <br>Direccion : B 25 viviendas c 4 calle Manuel Muñoz 
+ <br>Ciudad : Senillosa
+ <br>Telefono : 02994583266
+ <br>Email : Peg11_90@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buen día se. Empleador envió mis datos personales, con la intención de pertenecer a su equipo de trabajo. Desde ya muchas gracias.
+ <br>Security_code : P2jz2
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.9<br>
+ <br>Nombre : Pablo 
+ <br>Apellido : González 
+ <br>Cargo : Peón boca de pozo
+ <br>Direccion : B 25 viviendas c 4 calle Manuel Muñoz 
+ <br>Ciudad : Senillosa
+ <br>Telefono : 02994583266
+ <br>Email : Peg11_90@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buen día sr. Empleador envió mis datos personales, con la intención de pertenecer a su equipo de trabajo. Desde ya muchas gracias.
+ <br>Security_code : 3dq66
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.189.248.47<br>
+ <br>Nombre : Gustavo David
+ <br>Apellido : Godoy
+ <br>Cargo : apiladorista,clarckista,operario de linea
+ <br>Direccion : Mosconi 76
+ <br>Ciudad : Gral Pacheco
+ <br>Telefono : 1151074474
+ <br>Email : gustygodoy318@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Busco trabajo en todo lo que sea expedicion y logística!!
+ <br>Security_code : 97ggm
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.189.248.47<br>
+ <br>Nombre : Gustavo David
+ <br>Apellido : Godoy
+ <br>Cargo : apiladorista,clarckista,operario de linea
+ <br>Direccion : Mosconi 76
+ <br>Ciudad : Gral Pacheco
+ <br>Telefono : 1151074474
+ <br>Email : gustygodoy318@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Busco trabajo en todo lo que sea expedicion y logística!!
+ <br>Security_code : 97ggm
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 24.232.248.133<br>
+ <br>Nombre : Gustavo David
+ <br>Apellido : Godoy
+ <br>Cargo : apiladorista,clarckista,operario de linea
+ <br>Direccion : Mosconi 76
+ <br>Ciudad : Gral Pacheco
+ <br>Telefono : 1151074474
+ <br>Email : gustygodoy318@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Busco trabajo en todo lo que sea expedicion y logística!!
+ <br>Security_code : bv6q4
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 170.51.108.76<br>
+ <br>Nombre : Tamara Agostina
+ <br>Apellido : Aboli
+ <br>Cargo : 3000
+ <br>Direccion : Risso3545
+ <br>Ciudad : Santa fe
+ <br>Telefono : 3425437270
+ <br>Email : tamaraagostinaaboli@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : 
+                                                         Me dirijo a ustedes con la solicitud  de un puesto de trabajo en el cual me pueda desempeñar con eficacia y demostrar mi dedicación cubriendo las expectativas y necesidades acordes de la empresa
+
+                                           
+                                           Desde ya muchas gracias 
+
+                                                              Saluda atte. 
+
+                                                                                      Tamara.A.Aboli
+
+ <br>Security_code : gv8vk
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.244.101.203<br>
+ <br>REF : TEC. EL
+ <br>Nombre : carlos
+ <br>Apellido : monico
+ <br>Cargo : tecnico especializado
+ <br>Direccion : thorne 927, ituzaingo
+ <br>Ciudad : ITUZAINGO (CP=1714)
+ <br>Telefono : 01153840857
+ <br>Email : monicocd@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados,
+He visto la Oferta Laboral publicada y la misma me resultó de gran interés. Por este motivo, les hago llegar mi Currículum Vitae, a fin de ser tenido en cuenta como candidato.
+Quedo a su disposición para ampliar cualquier información necesaria.
+Cordialmente,
+Carlos Monico
+ <br>Security_code : h7zb8
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.19.120.245<br>
+ <br>Nombre : Mario
+ <br>Apellido : Rodas
+ <br>Cargo : Operario
+ <br>Direccion : El puesto N°85
+ <br>Ciudad : Marcos paz
+ <br>Telefono : 1154143368
+ <br>Email : Mariorodas00@yahoo.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola acá les dejo mi currículum gracias y saludos
+ <br>Security_code : 8cv62
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.19.120.245<br>
+ <br>Nombre : Mario
+ <br>Apellido : Rodas
+ <br>Cargo : Operario
+ <br>Direccion : El puesto N°85
+ <br>Ciudad : Marcos paz
+ <br>Telefono : 1154143368
+ <br>Email : Mariorodas00@yahoo.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola acá les dejo mi currículum gracias y saludos
+ <br>Security_code : 8cv62
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.19.120.245<br>
+ <br>Nombre : Mario
+ <br>Apellido : Rodas
+ <br>Cargo : Operario
+ <br>Direccion : El puesto N°85
+ <br>Ciudad : Marcos paz
+ <br>Telefono : 1154143368
+ <br>Email : Mariorodas00@yahoo.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola acá les dejo mi currículum gracias y saludos
+ <br>Security_code : 8cv62
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.19.120.245<br>
+ <br>Nombre : Mario
+ <br>Apellido : Rodas
+ <br>Cargo : Operario
+ <br>Direccion : El puesto N°85
+ <br>Ciudad : Marcos paz
+ <br>Telefono : 1154143368
+ <br>Email : Mariorodas00@yahoo.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola acá les dejo mi currículum gracias y saludos
+ <br>Security_code : gynf3
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.19.120.245<br>
+ <br>Nombre : Mario
+ <br>Apellido : Rodas
+ <br>Cargo : Operario
+ <br>Direccion : El puesto N°85
+ <br>Ciudad : Marcos paz
+ <br>Telefono : 1154143368
+ <br>Email : Mariorodas00@yahoo.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola acá les dejo mi currículum gracias y saludos
+ <br>Security_code : gynf3
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.19.120.245<br>
+ <br>Nombre : Mario
+ <br>Apellido : Rodas
+ <br>Cargo : Operario
+ <br>Direccion : El puesto N°85
+ <br>Ciudad : Marcos paz
+ <br>Telefono : 1154143368
+ <br>Email : Mariorodas00@yahoo.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola acá les dejo mi currículum gracias y saludos
+ <br>Security_code : gynf3
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.19.120.245<br>
+ <br>Nombre : Mario
+ <br>Apellido : Rodas
+ <br>Cargo : Operario
+ <br>Direccion : El puesto N°85
+ <br>Ciudad : Marcos paz
+ <br>Telefono : 1154143368
+ <br>Email : Mariorodas00@yahoo.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola acá les dejo mi currículum gracias y saludos
+ <br>Security_code : j2dcj
+ <br>Send : Enviar
+ <br>
+---------------
+

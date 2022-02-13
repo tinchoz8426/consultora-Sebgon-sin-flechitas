@@ -1,0 +1,157 @@
+Address : 170.51.35.68<br>
+ <br>Nombre : Carlos Daniel 
+ <br>Apellido : Díaz 
+ <br>Cargo : Chofer 
+ <br>Direccion : Álvarez Thomas 1114
+ <br>Ciudad : Buenos Aires 
+ <br>Telefono : 01167639399
+ <br>Email : eldanydiaz.dd@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Quisiera postularse para chofer. Tengo experiencia en logística 
+ <br>Security_code : zxkf7
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 200.42.143.186<br>
+ <br>REF : EP-1
+ <br>Nombre : Alberto Osvaldo
+ <br>Apellido : Roy
+ <br>Cargo : Responsable de Producción
+ <br>Direccion : Av. San Juan 2870 piso 9 Dpto. B
+ <br>Ciudad : CAPITAL FEDERAL
+ <br>Telefono : 1562693179
+ <br>Email : albertoroy2@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimadas/os:
+De mi mayor consideración:
+
+Actualmente cumplo funciones de Staff en el Sector de Tecnología Editorial  de AGEA S.A. (Diario Clarín), Logros obtenidos en el transcurso de estos 8 años son los siguientes:
+. Administración Asura, software utilizado para la estandarización acorde la Preprensa, Avisos, Páginas, Web. 
+. Administración Amendo software utilizado para la estandarización de los Avisos, Fotografías, etc.
+. Administración GMG, software de ahorro de Tintas 
+. Análisis de nuevas Tecnologías.
+. Capacitación sobre Gestión de Color para el Sector de Avisos
+. Consultoría Técnica.
+. Control de las Impresión Plantas Digitales, en su momento ubicadas en Bariloche, Mendoza, Ushuaia,             actual en Tucumán. 
+. Estudio de factibilidad Técnica.
+. Gestión de Renovación de Contratos y Presupuestos con proveedores.
+. Gestión de Renovación de Licencias de las aplicaciones utilizadas en la Producción.
+. Implementación en toda la Producción del Perfil Internacional de Color ISOnewspaper26v4.icc, actualizado al WAN-IFRAnewspaper26v5.icc para (AGEA, AGL, AGR)
+. Implementación en toda la Producción de los Perfiles de Color de (AGR)
+. Optimización, automatización y estandarización de procesos
+. Reducción de costos. (Ahorro de tintas en US$ 2.000.000)
+. Reducción de los errores de los Avisos en Producción de un 20% a menos del 0,5%)
+. Reducción de 500 procesos automáticos a 100 (Análisis de Avisos, . Normalización y Estandarización acorde a toda la prepensa de Clarín)
+. Creación de Circulares Institucionales, con parámetros técnicos en función del tipo de impresión de los Productos,
+. Asesoramiento aproximadamente más de 700 Agencias de Publicidad para la confección de los Avisos a publicarse en los distintos medios que conforman el Grupo Clarín (Gestión de Color)
+Trabajo anterior Diario LA NACION:
+A lo largo de mi trayectoria en el Diario La Nación (22 años) gestioné las áreas de toda la Producción, (Diario, Suplementos, Productos de Terceros, ej. Carrefour, Cablevisión, Corriere de la Sera, etc).
+Activa participación en los frentes del negocio habiendo gestionado, entre muchos otros, el desarrollo e implementación de los siguientes sistemas:
+. Capacitador de Capacitadores (Área de Sistemas y Editorial)
+. Análisis y resolución de situaciones críticas
+. Optimización de procesos, procedimientos, cambios culturales 
+. Implementación de diversos Software corporativos 
+. Sistema Editorial Solstice (1986-1994)
+. Implementación del Sistema Editorial con QuarkXpress (1995-2000)
+. Implementación Sistema Editorial DTI (2000 a la actualidad)
+
+Anexo mi currículum esperando poder acceder a una entrevista y ampliar cualquier duda o consulta que deseen efectuar, con la intensión de poner toda la experiencia adquirida en los objetivos de su grupo de empresas.
+Agradezco su tiempo y consideración.
+Atte.
+Alberto Osvaldo Roy
+
+ <br>Security_code : 348dm
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.94.66.102<br>
+ <br>REF : EP-1
+ <br>Nombre : HILDER CLAUDIO
+ <br>Apellido : ADUM
+ <br>Cargo : ENCARGADO DE PRODUCCION
+ <br>Direccion : QUIROGA 54
+ <br>Ciudad : CAMPANA
+ <br>Telefono : 03489512614
+ <br>Email : hilder.claudio.adum@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Mi pretensión salarial es $55000
+ <br>Security_code : h37j9
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.23.238.102<br>
+ <br>REF : JPER-1
+ <br>Nombre : Claudio
+ <br>Apellido : Barreda
+ <br>Cargo : Jefe de Personal
+ <br>Direccion : Asamblea 1542
+ <br>Ciudad : CABA
+ <br>Telefono : 1531837606
+ <br>Email : barreda.claudio@hotmail.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Adjunto CV quedando a disposicion para cualquier consulta
+ <br>Security_code : r3f4r
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.9<br>
+ <br>Nombre : Natalia
+ <br>Apellido : Trotta
+ <br>Cargo : Atención al cliente
+ <br>Direccion : Triunvirato 689
+ <br>Ciudad : Libertad
+ <br>Telefono : 1141910869
+ <br>Email : nataliaatrotta@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola, buenas tardes, adjunto envío mi CV. Desde ya muchas gracias
+ <br>Security_code : Ycchv
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.179.167.140<br>
+ <br>Nombre : Adrian
+ <br>Apellido : Cordero
+ <br>Cargo : vendedor
+ <br>Direccion : Oliden 1684, Capital Federal, Buenos Aires, Argentina
+ <br>Ciudad : Oliden 1684, Capital Federal, Buenos Aires, Argentina
+ <br>Telefono : 1153471171
+ <br>Email : laboralcordero@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados Señores:
+Mi nombre es Adrian Fernando Cordero y le escribo porque he visto que están realizando un proceso de selección para una vacante en dicho puesto.
+Es un placer para mí hacerle llegar mi  currículum, el cual adjunto en este correo electrónico. Me gustaría decirle que estoy realmente interesado en este puesto y considero que puedo desempeñarlo a la perfección.
+Por otro lado, estoy totalmente identificado con la cultura empresarial y creo que es una magnífica opción para desarrollarme, por lo que me gustaría aprovechar la oportunidad de participar en el proceso de selección de este puesto.
+Espero que mi perfil sea de su agrado y quedo a su entera disposición para el caso de que estime oportuno mantener una entrevista. Si me da la oportunidad, será para mí un placer ampliarle información sobre cualquier información que usted considere conveniente
+Muchas gracias de antemano por su atención. 
+Reciba un cordial saludo
+
+Adrian Fernando Cordero.
+Teléfono: 1153471171
+Email: laboralcordero@hotmail.com
+Linkedin: Adrian Fernando Cordero
+
+ <br>Security_code : 33cny
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.11<br>
+ <br>Nombre : Luciana
+ <br>Apellido : Vacchetto
+ <br>Cargo : Vendedora/Cajera
+ <br>Direccion : Italia 4144
+ <br>Ciudad : Mar del plata
+ <br>Telefono : 2234546545
+ <br>Email : lulavacchetto@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buen día! Me dirijo a ustedes con motivo de enviarles mí currículum vitae ya que me encuentro en búsqueda de empleo. Mi búsqueda se inclina en puestos tales como cajera o ventas, ya que cuento con experiencia en atención al público y manejo de caja, o cualquier cargo en el que pueda desarrollarme. Tengo excelente trato con el cliente y muy buenas capacidades resolutivas tanto individualmente como en equipo. Desde ya, muchas gracias.
+ <br>Security_code : xgkfb
+ <br>Send : Enviar
+ <br>
+---------------
+

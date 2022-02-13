@@ -1,0 +1,76 @@
+Address : 186.128.59.163
+Nombre : alejandro ismael
+Apellido : veliz
+Cargo : soldador, oficial metalurgico
+Direccion : lamadrid 175 
+Ciudad : lujan de cuyo mendoza
+Telefono : 0261-156156953
+Email : aleiveliz@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : hola que tal les agradeceria que me tuvieran en cuenta!! muchas gracias
+Security_code : dttdr
+Send : Enviar
+
+---------------
+
+Address : 186.123.135.12
+Nombre : maria emilia
+Apellido : verna
+Cargo : odontologa
+Direccion : zona rural
+Ciudad : villa mercedes
+Telefono : 2302-15624660
+Email : emiliaverna@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : SOY ODONTOLOGA, RECIBIDA EN BS AS, VIVO EN GRAL.PICO Y ME ESTARE RADICANDO PROXIMAMENTE EN LA CIUDAD DE VILLA MERCEDES.
+Security_code : PFH8J
+Send : Enviar
+
+---------------
+
+Address : 95.23.195.147
+REF : gerente-produccion
+Nombre : Jose
+Apellido : Hernández Gómez 
+Cargo : C.V. Ingeniero_España
+Direccion : C/ Lope de Vega 47
+Ciudad : Murcia España
+Telefono : 630624325
+Email : ingenieros@jomarprevencion.es
+MAX_FILE_SIZE : 2097152
+Mensaje : 
+
+Estimado  Sr.: 
+
+
+
+Me complace remitirle mi currículum vitae,  con la solicitud de que lo incluya en aquellos procesos de selección en los que consideren que mi perfil sea adecuado a sus necesidades.
+
+
+
+Mi candidatura le puede resultar de interés por mi gran experiencia profesional y formación continuada. Lo que me permite ofrecer una intervención  profesional, técnicamente correcta y un asesoramiento actualizado. 
+
+
+Disponibilidad inmediata para cambio de residencia en otro país.
+
+
+
+Le agradezco de antemano su atención y, en espera de su respuesta, le saludo atentamente. 
+
+
+
+
+
+                   
+
+                       José Hernández Gómez 
+                       Contacto:
+                      ;Móvil: 630 624 326 
+                       Correo Electrónico: ingenieros@jomarprevencion.es
+Despacho: C/ Lope de Vega, 47. 30150 La Alberca  –  Murcia - España
+
+Security_code : pqbtx
+Send : Enviar
+
+---------------
+

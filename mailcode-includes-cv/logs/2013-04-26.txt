@@ -1,0 +1,78 @@
+Address : 186.59.201.63
+Nombre : Maria Micaela
+Apellido : Horn
+Cargo : -
+Direccion : 74 N° 1198
+Ciudad : La Plata
+Telefono : 221-5953422
+Email : micaela.horn@hotmail.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Estoy buscando trabajo en la cuidad de La Plata, en lo posible medio tiempo.
+Security_code : gb9ff
+Send : Enviar
+
+---------------
+
+Address : 186.58.89.31
+Nombre : adriana
+Apellido : morales
+Cargo : cualquiera
+Direccion : monteagudo 3472
+Ciudad : buenos aires
+Telefono : 44652973
+Email : adriana-dic5@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : HOLA SOY ADRIANA MORALES ACTUALMENTE ME ENCUENTRO SIN EMPLEO Y MI OBJETIVO PRINCIPAL ES AFIANZARME LABORALMENTE, A CONTINUACION LES ENVIO MIS DATOS LOS CUALES QUISIERA QUE FUERAN EVALUADOS Y TOMADOS ENCUENTA PARA UNA ACTUAL INCORPORACION DE PERSONAL O PARA FUTURAS INCORPORACIONES
+Security_code : hdw7v
+Send : Enviar
+
+---------------
+
+Address : 201.213.188.141
+REF : jefe-de-operaciones
+Nombre : Roberto Enrique
+Apellido : Gago
+Cargo : Jefe de Operaciones
+Direccion : chassaing 636 
+Ciudad : HAEDO BUENOS AIRES
+Telefono : 1531868494
+Email : quiqueacdc@hotmail.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Me encuentro a disposicion para el cargo, la renumeraciòn queda a criterio vuestro, no tengo pretensiones concretas al respecto
+Security_code : bpqnb
+Send : Enviar
+
+---------------
+
+Address : 201.213.188.141
+REF : jefe-de-operaciones
+Nombre : Roberto Enrique
+Apellido : Gago
+Cargo : Jefe de Operaciones
+Direccion : chassaing 636 
+Ciudad : HAEDO BUENOS AIRES
+Telefono : 1531868494
+Email : quiqueacdc@hotmail.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Me encuentro a su disposicion pra el cargo ofrecido.
+Security_code : yb8d5
+Send : Enviar
+
+---------------
+
+Address : 201.213.188.141
+REF : jefe-de-operaciones
+Nombre : Roberto Enrique
+Apellido : Gago
+Cargo : Jefe de Operaciones
+Direccion : chassaing 636 
+Ciudad : haedo
+Telefono : 1531868494
+Email : quiqueacdc@hotmail.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : me encuentro a vuestra disposicion para el cargo ofrecido en la creencia de poder cumplimentar con lo requerido.
+Security_code : kqjy2
+Send : Enviar
+
+---------------
+

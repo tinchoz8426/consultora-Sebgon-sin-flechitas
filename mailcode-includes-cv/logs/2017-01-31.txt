@@ -1,0 +1,356 @@
+Address : 191.85.189.244<br>
+ <br>REF : EP-1
+ <br>Nombre : Eugenia
+ <br>Apellido : Rojas
+ <br>Cargo : Encargado de Producción
+ <br>Direccion : Presidente Luis Saenz Peña 342
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 1127231147
+ <br>Email : eu_rojas@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenos días,
+   Adjunto curriculum vitae, para postulare a su vacante de empleo. Saludos,feliz tarde
+ <br>Security_code : 9vf9w
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.198.122.62<br>
+ <br>REF : TE-1
+ <br>Nombre : edgar jesús
+ <br>Apellido : Toyo González
+ <br>Cargo : Técnico Instrumentista
+ <br>Direccion : calle las flores #65, las delicias
+ <br>Ciudad : Cabimas, Zulia
+ <br>Telefono : 04263612793
+ <br>Email : toyogonzalez@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje :   Hola, amigos. Soy venezolano, nacido en Punto Fijo, Estado Falcón en el año 1949, pero con muchas ganas, salud y voluntad para seguir trabajando en la industria que me requiera. Les estoy anexando mi currículo vitae, con el propósito de obtener de ustedes un apoyo en la búsqueda de un empleo que me permita transmitir mis conocimientos de instrumentación en alguna empresa que requiera un instrumentista con más de 20 años de experiencia, con conocimientos sólidos en la instalación, calibración y puesta en servicio de instrumentos de medición y control, y válvulas de control de todas las variables.
+Además, me hice de buenos conocimientos en la parte de ingeniería y consulta, en
+ las actividades de levantamiento de información de campo para la elaboración de productos de ingeniería en las diferentes fases: conceptual, básica y de detalles. Elaboración DTI, Diagramas de Lazo, Rutas de Cables y Canalizaciones, Listas de Instrumentos, Lista de Materiales.
+Entre mis trabajos, estuve en la industria cervecera durante 12 años, desempeñando el cargo de Supervisor del departamento de instrumentación.
+ Para más información ver CV.
+
+ <br>Security_code : zkrm6
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 152.171.1.228<br>
+ <br>REF : JPER-1
+ <br>Nombre : Fernando
+ <br>Apellido : Virgilio
+ <br>Cargo : Jefe de RRHH
+ <br>Direccion : josé hernnadez 554
+ <br>Ciudad : rafaela
+ <br>Telefono : 0349215601571
+ <br>Email : fernandomvirgilio@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimado, 
+Me es grato hacerle llegar mi CV. 
+Saludos Cordiales, 
+Lic. Fernando M Virgilio
+ <br>Security_code : v4xcm
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.226.108.38<br>
+ <br>REF : JPER-1
+ <br>Nombre : Carolina Fernanda
+ <br>Apellido : Carso
+ <br>Cargo : Jefe de RRHH
+ <br>Direccion : Av de los Constituyentes 2245 - Lote D29
+ <br>Ciudad : General Pacheco
+ <br>Telefono : 4843-7761
+ <br>Email : carolina_caruso@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados,
+
+Agradeceré la consideración de mi perfil para la posición de referencia.
+ 
+Desde ya, muchas gracias y saludos cordiales,
+
+Carolina
+ <br>Security_code : 9r93g
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.226.108.38<br>
+ <br>REF : JPER-1
+ <br>Nombre : Carolina Fernanda
+ <br>Apellido : Carso
+ <br>Cargo : Jefe de RRHH
+ <br>Direccion : Av de los Constituyentes 2245 - Lote D29
+ <br>Ciudad : General Pacheco
+ <br>Telefono : 4843-7761
+ <br>Email : carolina_caruso@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados,
+
+Agradeceré la consideración de mi perfil para la posición de referencia.
+ 
+Desde ya, muchas gracias y saludos cordiales,
+
+Carolina
+ <br>Security_code : 9r93g
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.226.108.38<br>
+ <br>REF : JPER-1
+ <br>Nombre : Carolina Fernanda
+ <br>Apellido : Carso
+ <br>Cargo : Jefe de RRHH
+ <br>Direccion : Av de los Constituyentes 2245 - Lote D29
+ <br>Ciudad : General Pacheco
+ <br>Telefono : 4843-7761
+ <br>Email : carolina_caruso@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados,
+
+Agradeceré la consideración de mi perfil para la posición de referencia.
+ 
+Desde ya, muchas gracias y saludos cordiales,
+
+Carolina
+ <br>Security_code : kysy8
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.235.248.34<br>
+ <br>REF : Tectron
+ <br>Nombre : Ronald
+ <br>Apellido : Calzadilla
+ <br>Cargo : TECNICO ELECTRONICO
+ <br>Direccion : valention virasoro 1986, villa crespo
+ <br>Ciudad : capital federal
+ <br>Telefono : 1123461055
+ <br>Email : dlanor1030@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : experiencia en industrias, sistemas eléctricos, electrónicos,plc, servomotores, entre otros
+ <br>Security_code : g3xz8
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.17.146.71<br>
+ <br>REF : EP-1
+ <br>Nombre : Gustavo Javier
+ <br>Apellido : Haase
+ <br>Cargo : Encargado de producción
+ <br>Direccion : Bouchard 3885 San Andrés
+ <br>Ciudad : San Martín
+ <br>Telefono : 15 3701 5896
+ <br>Email : gustavohaase@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Sres. Sebgon.
+Por favor tener en cuenta mi perfil para otras búsquedas similares.
+Muchas gracias.
+ <br>Security_code : sww3p
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.27.156.69<br>
+ <br>REF : JPER-1
+ <br>Nombre : JORGE
+ <br>Apellido : NUÑEZ
+ <br>Cargo : JEFE
+ <br>Direccion : Calle 3 B 17
+ <br>Ciudad : Claypole
+ <br>Telefono : 42683028
+ <br>Email : jorgeomarnunez@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Adjunto mi se CV para vuestra base de datos, atte
+ <br>Security_code : 32wqg
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.168.10.11<br>
+ <br>Nombre : Macarena 
+ <br>Apellido : Carrera
+ <br>Cargo : Administrativo
+ <br>Direccion : Lamadrid 200
+ <br>Ciudad : Tres Arroyos
+ <br>Telefono : 2983-15602897
+ <br>Email : maqii.17@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me postulo para otro tipo de puesto( descarte para niñera, limpieza domestica y atencion al publico)
+ <br>Security_code : c9s5n
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.0.140.130<br>
+ <br>REF : EP-1
+ <br>Nombre : daniel
+ <br>Apellido : vilca
+ <br>Cargo : encargado
+ <br>Direccion : avellaneda 666
+ <br>Ciudad : merlo
+ <br>Telefono : 1122979411
+ <br>Email : vdanielroberto@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : amplia experiencia en alimentos
+ <br>Security_code : ydthk
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.95.183.92<br>
+ <br>REF : EP-1
+ <br>Nombre : Sebastian
+ <br>Apellido : Tokashiki
+ <br>Cargo : ENCARGADO DE PRODUCCIÓN
+ <br>Direccion : Av ader 150
+ <br>Ciudad : Boulogne
+ <br>Telefono : 1538080410
+ <br>Email : sebas_toka@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas tardes. Me interesa el puesto de  ENCARGADO DE PRODUCCIÓN. 
+Mi experiencia laboral está relacionada con el ámbito comercial y gastronómico donde llevé a cabo posiciones de gestión de locales: En principio un restaurante dónde, luego de unos años, cubría el puesto de mi jefa encargándome de la caja, proveedores y organización del salón así como la supervisión de otros dos camareros y la coordinación con la cocina; luego una clienta me ofreció un puesto de encargado de un local que estaba inaugurando en un shopping de pilar (Paseo Champagnat) donde participé activamente en el desarrollo del emprendimiento desde las ventas cotidianas hasta la implementación de técnicas, propuestas y variantes en cuanto a proveedores, modalidad de las clases de cocina que dictábamos junto a una chef y técnicas de ventas. 
+Además estoy terminando la carrera de Ciencias y Tecnología de los Alimentos en la UBA donde tenemos un amplio desarrollo en la parte práctica de la carrera con muchas horas de trabajo en laboratorio así como en aspectos de gestión y calidad. Creo que la combinación de estas experiencias van a permitirme tener un buen desempeño. Soy dedicado y muy activo a la hora de trabajar, me encanta aprender y los desafíos por sobre todo. 
+ <br>Security_code : phmfc
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.166.184.90<br>
+ <br>Nombre : ivana palmira 
+ <br>Apellido : loza
+ <br>Cargo : operaria de limpieza
+ <br>Direccion : miguel cane 947
+ <br>Ciudad : banfield
+ <br>Telefono : 42445289
+ <br>Email : ivana.loza09@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : hola que tal estoy en buscas de trabajo tengo 36 años soy muy responsable y puntual
+ <br>Security_code : 5g69d
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.224.149.228<br>
+ <br>REF : JPER-1
+ <br>Nombre : Anibal
+ <br>Apellido : Aballe
+ <br>Cargo : Jefe de RRHH
+ <br>Direccion : Fitz Roy 2489
+ <br>Ciudad : Cap Fed.
+ <br>Telefono : 47754877
+ <br>Email : anibalaballe@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Adjunto CV para ser evaluado en la búsqueda de Jede de RRHH.
+DE considerar que la información contenida en el mismo, se corresponde a los requerimientos de la posicición, me encuentro a su disposición para ampliar la información que acompaño.
+
+Atte
+ <br>Security_code : jhtyc
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.125.85.39<br>
+ <br>REF : EP-1
+ <br>Nombre : José Luis
+ <br>Apellido : GUIDI
+ <br>Cargo : Encargado de Producción
+ <br>Direccion : Neuquén 3165
+ <br>Ciudad : Sáenz Pea
+ <br>Telefono : 154 557 5438
+ <br>Email : jlguidi1@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Quedo a completa disposición. Muy atte. SLDS.
+ <br>Security_code : zhyf9
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.125.85.39<br>
+ <br>REF : TE-1
+ <br>Nombre : José Luis
+ <br>Apellido : GUIDI
+ <br>Cargo : Técnico Eléctrico
+ <br>Direccion : Neuquén 3165
+ <br>Ciudad : Sáenz Pena
+ <br>Telefono : 154 557 5438
+ <br>Email : jlguidi1@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Quedo a completa disposición. Muy atte. SLDS.
+ <br>Security_code : x4wqj
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.23.66.12<br>
+ <br>REF : EP-1
+ <br>Nombre : Bárbara
+ <br>Apellido : Luque
+ <br>Cargo : Encargado de producción
+ <br>Direccion : Ratti 248
+ <br>Ciudad : Burzaco
+ <br>Telefono : 155771800/ 20766423
+ <br>Email : barbara.anabel@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Adjunto CV quedando a completa disposición para coordinar una pronta entrevista.
+
+Saludos y gracias.
+
+Bárbara Luque
+ <br>Security_code : rb9jv
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.26.45.144<br>
+ <br>REF : SP-1
+ <br>Nombre : Carlos Alberto
+ <br>Apellido : Garay
+ <br>Cargo : Supervisor demproduccion
+ <br>Direccion : Torquinst 1720
+ <br>Ciudad : Longchamps
+ <br>Telefono : 42970861
+ <br>Email : carlosgaraya@outlook.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buen dia, estoy interesado en la busqueda
+ <br>Security_code : Zf2s3
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.57.171.224<br>
+ <br>REF : JPER-1
+ <br>Nombre : JORGE DANIEL
+ <br>Apellido : GIMÉNEZ
+ <br>Cargo : JEFE DE PERSONAL
+ <br>Direccion : RIO DIAMANTE 1690
+ <br>Ciudad : BELLA VISTA
+ <br>Telefono : 1123012991
+ <br>Email : dgimenezar@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me gustaria poder entrevistarme para explicarles mi experiencia. A pesar de mi edad tengo empatia con los jovenesy las personas no tan jovenes.
+ <br>Security_code : czscq
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.46.192.60<br>
+ <br>REF : EP-1
+ <br>Nombre : Hilda 
+ <br>Apellido : Ramirez
+ <br>Cargo : Encargado de produccion
+ <br>Direccion : Muñiz 379
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 1140384625
+ <br>Email : vacpoll@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Cuento con amplia experiencia en producción y calidad. Disponibilidad inmediata
+ <br>Security_code : pcj8n
+ <br>Send : Enviar
+ <br>
+---------------
+

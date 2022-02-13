@@ -1,0 +1,228 @@
+Address : 168.90.86.63<br>
+ <br>Nombre : GABRIEL
+ <br>Apellido : BERALDI
+ <br>Cargo : CARTERO
+ <br>Direccion : Ruiz Hidobro 4735
+ <br>Ciudad : CAPITAL
+ <br>Telefono : 112 737 8006
+ <br>Email : gabrielmb1977@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola . Tengo 10 años de experiencia en correo como caminante y un certificado de trabajo que lo abala. Tengo 41 años pero buen estado de salud. Soy soltero sin hijos. Me avisan si hay alguna vacante para correo? gracias. Gabriel
+
+ <br>Security_code : drsn6
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.195.25.101<br>
+ <br>REF : JPER-1
+ <br>Nombre : Mariano
+ <br>Apellido : Renovales
+ <br>Cargo : Jefe Personal
+ <br>Direccion : austria 2163 3 d
+ <br>Ciudad : buenos aires
+ <br>Telefono : 1560465586
+ <br>Email : mo_renovales@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados, buenos días.
+Adjunto mi cv a fin de ser tenido en cuenta en presentes o futuras búsquedas.
+Saludos y gracias desde ya.
+ <br>Security_code : 7ty92
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.46.235.180<br>
+ <br>REF : JPER-1
+ <br>Nombre : Pablo
+ <br>Apellido : Palma
+ <br>Cargo : Jefe de Personal
+ <br>Direccion : Camargo 555
+ <br>Ciudad : C.A.B.A.
+ <br>Telefono : 0111535813962
+ <br>Email : pvpalma@outlook.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : A quien corresponda:
+
+Me dirijo en relación a la búsqueda de JEFE DE PERSONAL. 
+
+Soy Lic. en Relaciones del Trabajo, actualmente estoy gerenciando el área de Recursos Humanos, de una destacada Empresa de Retail. Poseo un perfil generalista, con sólida experiencia adquirida en la definición e implementación de procesos Hard y Soft del área.
+
+Respecto a mis pretensiones salariales, las mismas se encuentran en el rango bruto de $80.000 - $95.000.
+
+Quedo a su total disposición para proveerle más información o para concretar una entrevista personal, si lo considera apropiado.
+
+Desde ya, muchas gracias.
+
+Saludos.
+
+Lic. Pablo V. Palma
+ <br>Security_code : kymbd
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.111.232.225<br>
+ <br>REF : ROT-1
+ <br>Nombre : Juan Manuel
+ <br>Apellido : Cabo de Vila
+ <br>Cargo : Responsable de Oficina Técnica
+ <br>Direccion : Buenos Aires 5105
+ <br>Ciudad : Villa Ballester
+ <br>Telefono : 1531654837
+ <br>Email : juanmacabodevila@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buen día estimados,
+Espero tengan a bien mi postulación para el trabajo ofrecido.
+Desde ya muchas gracias y quedo a disposición ante cualquier inquietud.
+Saludos cordiales.
+
+Juan Manuel Cabo de Vila
+ <br>Security_code : b7ktp
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 170.51.92.46<br>
+ <br>Nombre : pablo
+ <br>Apellido : guevara
+ <br>Cargo : empleado
+ <br>Direccion : piedrabuena 2587
+ <br>Ciudad : mar del plata
+ <br>Telefono : 2235353086
+ <br>Email : pablo.guevara96@hotmail.com 
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estoy en busca de trabajo, soy de la ciudad de Mar del Plata, poseo experiencia en atención al publico y disponibilidad horaria, desde ya muchas gracias! Pablo Guevara
+ <br>Security_code : hyfys
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 170.51.92.46<br>
+ <br>Nombre : pablo
+ <br>Apellido : guevara
+ <br>Cargo : empleado
+ <br>Direccion : piedrabuena 2587
+ <br>Ciudad : mar del plata
+ <br>Telefono : 2235353086
+ <br>Email : pablo.guevara96@hotmail.com 
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estoy en busca de trabajo, soy de la ciudad de Mar del Plata, poseo experiencia en atención al publico y disponibilidad horaria, desde ya muchas gracias! Pablo Guevara
+ <br>Security_code : hyfys
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 170.51.92.46<br>
+ <br>Nombre : pablo
+ <br>Apellido : guevara
+ <br>Cargo : empleado
+ <br>Direccion : piedrabuena 2587
+ <br>Ciudad : mar del plata
+ <br>Telefono : 2235353086
+ <br>Email : pablo.guevara96@hotmail.com 
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estoy en busca de trabajo, soy de la ciudad de Mar del Plata, poseo experiencia en atención al publico y disponibilidad horaria, desde ya muchas gracias! Pablo Guevara
+ <br>Security_code : twhhf
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.254.34.198<br>
+ <br>Nombre : Maria Belen 
+ <br>Apellido : Montemagno
+ <br>Cargo : Tecnico en Seguridad e Higiene 
+ <br>Direccion : Alsina 2706
+ <br>Ciudad : Hurlingham
+ <br>Telefono : 1521612263
+ <br>Email : mariabelenmontemagno@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buen dia.
+
+Adjunto mi cv.
+
+Saludos Cordiales.
+ <br>Security_code : g8bqx
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 24.232.120.8<br>
+ <br>REF : TEC. EL
+ <br>Nombre : Alexander
+ <br>Apellido : Mendoza
+ <br>Cargo : técnico electrónico especializados
+ <br>Direccion : Av. Belgrano 3617
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 01154032406
+ <br>Email : alexandermendoza71@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : A continuación envió mi CV para ser tomada en consideración para su vacante de TÉCNICOS ELECTRÓNICOS ESPECIALIZADOS
+ <br>Security_code : 9r7qf
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.45.91.31<br>
+ <br>Nombre : Sebastián
+ <br>Apellido : Mattiauda
+ <br>Cargo : Asesor en Higiene y Seguridad
+ <br>Direccion : Alfredo Palacio, 59
+ <br>Ciudad : Ramos Mejía
+ <br>Telefono : 1144793897
+ <br>Email : sebastian.mattiauda@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados, buenas noches.
+
+Con el fin de que puedan contarme en su base de datos, adjunto mi CV para futuras búsquedas .
+
+En Diciembre de este año me recibo de Técnico. A solo 5 materias me encuentro, sumando 13 más para la Licenciatura.
+
+De coincidir con mi perfil, no poseo inconvenientes de coordinar una entrevista.
+
+Desde ya muchas gracias
+Saludos,
+
+ <br>Security_code : kqh3t
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.45.57.40<br>
+ <br>Nombre : Jesus David
+ <br>Apellido : Nuñez Flores
+ <br>Cargo : Jefe/Responsable de Seguridad e Higiene
+ <br>Direccion : Talcahuano 2206
+ <br>Ciudad : El Talar 
+ <br>Telefono : 1150954516
+ <br>Email : davijnf@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Adjunto mi CV para que lo evaluen, estoy en busqueda de un empleo en zona norte de provincia de Buenos Aires.
+ <br>Security_code : vf7mh
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 200.125.72.150<br>
+ <br>Nombre : Eleonora 
+ <br>Apellido : Diez Posterivo
+ <br>Cargo : Administrativo
+ <br>Direccion : Lugones 2241 1° B
+ <br>Ciudad : Villa Urquiza, C.A.B.A.
+ <br>Telefono : (011) 15-4025-7581
+ <br>Email : eleonora.diez@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados,
+
+Tengo el agrado de dirigirme a Uds. a fin de acercarles mi CV., para eventuales búsquedas.
+Cuento con una valiosa experiencia en Comercio Exterior, y en distintas áreas administrativas, de organización, comunicación y atención al cliente. 
+
+Saludo a ustedes muy cordialmente,
+
+Eleonora Diez Posterivo.
+
+ <br>Security_code : 7wvdj
+ <br>Send : Enviar
+ <br>
+---------------
+

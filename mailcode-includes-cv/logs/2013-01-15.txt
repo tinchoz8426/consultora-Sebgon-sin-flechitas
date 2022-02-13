@@ -1,0 +1,45 @@
+Address : 186.56.145.106
+Nombre : Jose Matias 
+Apellido : Piedrabuena
+Cargo : Técnico Electromecanico
+Direccion : Kennedy 1681
+Ciudad : Merlo- Pcia Bs As
+Telefono : 0220 40933029
+Email : bumpiclista@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : SOlicitud de empleo de acuerdo al pedido que solicitaron en Empleos Clarin. Técnico Electromecanico.
+Security_code : fsrkq
+Send : Enviar
+
+---------------
+
+Address : 186.56.145.106
+Nombre : Jose Matias
+Apellido : Piedrabuena
+Cargo : Técnico Electromecanico
+Direccion : Kennedy 1681
+Ciudad : Merlo- Pcia de Bs As|
+Telefono : 0220 4933029
+Email : bumpiclista@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Solicitud de empleo de acuerdo a lo publicado en Empleos clarin. Técnico Electromecanico
+Security_code : kp97p
+Send : Enviar
+
+---------------
+
+Address : 190.175.1.86
+Nombre : Pablo Leon
+Apellido : Roberts
+Cargo : Comercial , Ventas
+Direccion : Av mitre 2045 1 d
+Ciudad : Buenos Aires
+Telefono : 1531756249
+Email : paultrick88@hotmail.co.uk
+MAX_FILE_SIZE : 2097152
+Mensaje : Les hago llegar mi curriculum para futuras postulaciones laborales que se ajusten a mi perfil.Muchas gracias.
+Security_code : 7x4wj
+Send : Enviar
+
+---------------
+

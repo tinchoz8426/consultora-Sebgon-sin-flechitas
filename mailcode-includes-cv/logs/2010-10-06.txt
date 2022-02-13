@@ -1,0 +1,61 @@
+Address : 186.58.35.134
+Nombre : Daiana
+Apellido : Quiroga
+Cargo : Atencion al publico
+Direccion : Jufre 452
+Ciudad : Hurlingham
+Telefono : 1567588679/ 44598714
+Email : daialen@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Sr. Gerente de Recursos Humanos
+
+De mi consideracion:
+
+Tengo el agrado de dirigirme a ud con el fin de transmitirles mi deseo firme de incorporarme en su organizaciòn. A tal efecto, adjunto a la presente mi Curriculum Vitae.
+
+Me presento como una persona activa, responsable, creativa, flexible, orientada al logro de resultados y a la resoluciòn y evolociòn constante en las tareas asignadas.
+
+El objetivo q me ha impuesto, es el de formar parte del personal de una empresa prestigiosa, confiable y con proyectos ambisiosos.
+
+Si fuera necesario podria acercarme personalmente para cualquier consulta adicional o entrevista personal. Solo tiene que comunicarse al telefono 4459 8714 / 4662 9927 o via mail daialen@hotmail.com .
+
+Pongo, ademàs, en su conocimiento que estoy en condiciones de asumir la responsabilidad de este empleo en forma inmediata, y con amplia disponibilidad horaria.
+
+Quedando a la espera de su respuesta.
+
+Me despido atte.
+Security_code : wpjm6
+Send : Enviar
+
+---------------
+
+Address : 200.117.150.51
+Nombre : Javier
+Apellido : Godino
+Cargo : Operario
+Direccion : Colon 5000
+Ciudad : Cordoba
+Telefono : 155521278
+Email : colorgodino@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estoy en Argentina desde hace unos meses, haciendo algunas cosas de manera informal, busco trabajar como operario. Desde ya muchas gracias
+Security_code : X24Wq
+Send : Enviar
+
+---------------
+
+Address : 190.48.249.168
+Nombre : juan francisco
+Apellido : varcasia
+Cargo : empleado administrativo
+Direccion : pueyrredon 1581 dto 2
+Ciudad : moron
+Telefono : 44604742
+Email : jfvarcasia@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : busco empleo en la parte administrativa o en otros campos
+Security_code : rrgwj
+Send : Enviar
+
+---------------
+

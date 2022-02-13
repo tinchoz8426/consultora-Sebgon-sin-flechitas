@@ -1,0 +1,37 @@
+Address : 190.245.192.169
+Nombre : JUDITH
+Apellido : GORNITZ
+Cargo : ADMINISTR.CONTABLE
+Direccion : 9 DE JULIO 630
+Ciudad : CORDOBA
+Telefono : 0351 153467145
+Email : judithgor@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimado Gerente
+le adjunto a la presente mi cv, con el fin de concretar una entrevista personal en el momento que surja un puesto laboral segun mi perfil
+
+Atte Judith Gornitz
+Security_code : 3zfvk
+Send : Enviar
+
+---------------
+
+Address : 190.245.192.169
+Nombre : JUDITH
+Apellido : GORNITZ
+Cargo : ADMINISTR.CONTABLE
+Direccion : 9 DE JULIO 630
+Ciudad : CORDOBA
+Telefono : 0351 153467145
+Email : judithgor@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimado Gerente
+le adjunto mi cv para concretar una entrevista personal cuando surja un puesto laboral segun mi perfil laboral
+Lo saluda a ust 
+
+Cra Judith Gornitz
+Security_code : kc5qf
+Send : Enviar
+
+---------------
+

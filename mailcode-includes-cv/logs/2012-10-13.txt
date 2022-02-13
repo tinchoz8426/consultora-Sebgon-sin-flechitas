@@ -1,0 +1,15 @@
+Address : 190.224.204.4
+Nombre : juan pedro 
+Apellido : cordoba
+Cargo : trabajar en la mina soy tecnico minero
+Direccion : catamarca
+Ciudad : belen
+Telefono : 03835-462354
+Email : juandelacurva@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : hola soy tecnico profesional en mineria  me podrian dar la oportunidad de conseguir trabajo en alguna empresa minera
+Security_code : x 7wv6
+Send : Enviar
+
+---------------
+

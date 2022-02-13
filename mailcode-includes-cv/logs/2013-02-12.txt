@@ -1,0 +1,30 @@
+Address : 200.114.163.143
+Nombre : Adrian
+Apellido : Iuzzolino
+Cargo : Cadete administrativo
+Direccion : Melincue
+Ciudad : Ciudad autonoma de Buenos Aires
+Telefono : 1554525758
+Email : adrianiuzzolino@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola, mi nombre es Adrian Iuzzolino, adjunto mi cv y carta de presentacion, de mi mayor consideracion para que tengan en consideracion.
+Security_code : y9wvf
+Send : Enviar
+
+---------------
+
+Address : 190.17.14.175
+Nombre : santiago javier
+Apellido : raspa
+Cargo : todos
+Direccion : obispo salguero 635 2a
+Ciudad : cordoba
+Telefono : 0351-155290564
+Email : sanraspa@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : hola necesito trabajo urgente ya que me despidieron y en estos momentos estoy con muchos gastos
+Security_code : nkvrv
+Send : Enviar
+
+---------------
+

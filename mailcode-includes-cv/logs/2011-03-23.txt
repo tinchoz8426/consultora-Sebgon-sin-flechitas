@@ -1,0 +1,66 @@
+Address : 190.137.39.134
+Nombre : MANUEL ALEJANDRO
+Apellido : FERREIRA
+Cargo : LIC EN HIGIENE Y SEGURIDAD
+Direccion : AV. VIVANCO Nº2345
+Ciudad : POSADAS
+Telefono : 03752-469718
+Email : alfahsyma@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : ME DIRIJO A UD PARA PRESENTAR MI CV A CONSIDERACION 
+Security_code : jdrz9
+Send : Enviar
+
+---------------
+
+Address : 190.48.239.21
+Nombre : carlos sebastian
+Apellido : carrizo
+Cargo : logistica / 
+Direccion : olivieri 5154
+Ciudad : laferrere buenos aires
+Telefono : 46982630
+Email : master2683@hotmail.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : mi postulacion es para logistica deposito administrativo tesoreria
+Security_code : 64vtg
+Send : Enviar
+
+---------------
+
+Address : 186.63.16.192
+Nombre : Alejandro
+Apellido : Areces
+Cargo : Help Desk
+Direccion : Camacua 1138
+Ciudad : Ituzaingo
+Telefono : 46237255
+Email : alejandroareces@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenos Aires, 23 Marzo de 2011
+
+Sres. Sebgon 
+
+De mi mayor consideración:
+			 
+Me dirijo a Uds. Con el motivo de enviar mi curriculum para postularme como empleado Técnico  para el área de Informática. 
+
+Desde los veinte años me desempeño en sectores de administración. En el CV que adjunto detallo mi experiencia en las distintas empresas, donde adquirí sólidos conocimientos sobre sistemas informáticos para instalación y administración de redes.
+
+También realicé cursos orientados a perfeccionar mis conocimientos de Informática. Tengo amplios conocimientos de Español Neutro.
+
+Me gustaría ser parte de su empresa. Considero que mis aptitudes, motivación y creatividad pueden contribuir al crecimiento del sector donde me encuentre. Dejo a su criterio la posibilidad de mantener una entrevista para ampliar aspectos de mi perfil.
+
+
+Saludo muy atentamente.
+
+Alejandro Areces
+Tel: (011) 4623-7255
+Celular: 1551379623
+alejandroareces@hotmail.com
+
+Security_code : y4dj8
+Send : Enviar
+
+---------------
+

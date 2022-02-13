@@ -1,0 +1,138 @@
+Address : 200.115.250.181<br>
+ <br>Nombre : Ramón Alejandro
+ <br>Apellido : Suarez
+ <br>Cargo : Operario - Chofer
+ <br>Direccion : Berisso 417
+ <br>Ciudad : Claypole
+ <br>Telefono : 1125352137
+ <br>Email : alekurepa@outlook.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Desempeñar un puesto como chofer profesional, desempeñar tareas como Operario en logística, deposito, en línea de producción... desempeñar un puesto como chofer con utilitario propio para la entrega, retiro y o reparto de productos (correspondencia, mercancía, mercadería, medicamentos, todo tipo de artículos para el hogar, librerías, etc.) con manejo de factura/remito/hoja de ruta y un servicio que respete el tiempo y la forma.
+ <br>Security_code : 2qsmp
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 200.61.32.195<br>
+ <br>REF : ACO-1
+ <br>Nombre : Diego
+ <br>Apellido : Testaº
+ <br>Cargo : ANALISTA DE COMERCIO INTERNACIONAL/EXTERIOR
+ <br>Direccion : Virrey Liniers
+ <br>Ciudad : CABA
+ <br>Telefono : 5491157217898
+ <br>Email : diegohtesta@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Solicito a ustedes ser tenido en cuenta para la presente posición.
+Cordiales saludos,
+
+Diego Testa
+ <br>Security_code : 64scm
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.166.100.78<br>
+ <br>REF : ACO-1
+ <br>Nombre : Martin Nicolas
+ <br>Apellido : Manzi
+ <br>Cargo : Analista Comercio Exterior
+ <br>Direccion : Santo Tome 3120
+ <br>Ciudad : Ciudad Autónoma de Buenos Aires
+ <br>Telefono : 1122855199
+ <br>Email : mn_manzi@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Adjunto encontrarán mi CV para la posición de Analista en Comex.
+ <br>Security_code : fm7jg
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.166.100.78<br>
+ <br>REF : ACO-1
+ <br>Nombre : Martin Nicolas
+ <br>Apellido : Manzi
+ <br>Cargo : Analista Comercio Exterior
+ <br>Direccion : Santo Tome 3120
+ <br>Ciudad : Ciudad Autónoma de Buenos Aires
+ <br>Telefono : 1122855199
+ <br>Email : mn_manzi@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Adjunto encontrarán mi CV para la posición de Analista en Comex.
+ <br>Security_code : fm7jg
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.166.100.78<br>
+ <br>REF : ACO-1
+ <br>Nombre : Martin
+ <br>Apellido : Manzi
+ <br>Cargo : Analista Comercio Exterior
+ <br>Direccion : Santo Tome 3120
+ <br>Ciudad : Ciudad Autónoma de Buenos Aires
+ <br>Telefono : 1122855199
+ <br>Email : mn_manzi@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Adjunto encontrarán mi CV para la posición de Analista Comex.
+ <br>Security_code : fm7jg
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.194.198.141<br>
+ <br>Nombre : Mario José
+ <br>Apellido : Besednjak Ramírez
+ <br>Cargo : Arquitecto, diseñador, Planificador, dibujante, cordinador
+ <br>Direccion : Gascón Esteban Agustín 1.786, Palermo, C.A.B.A. Código postal C 1414 DWD. 
+ <br>Ciudad : Buenos Aires, Capital Federal
+ <br>Telefono : 1127096744
+ <br>Email : arq_mario_besednjak@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Soy Venezolano, Arquitecto de profesión con más de 21 año de experiencia, he trabajado simultanea mente en forma paralela como independiente libre ejercicio de la profesión y de forma relación de dependencia, participe en múltiples proyectos arquitectónicos desde su planificación, diseño, gestión, coordinación y ejecución de obra, ocupando diferentes cargos.
+En estos momentos estoy interesado en insertarme dentro del campo laboral Argentino ya que vengo de Venezuela por razones personales, buscando una mejor condición y calidad de vida para mi familia, busco buenas condiciones y entorno de trabajo, considero dentro de la contratación del trabajo: Seguro de Hospitalización y Cirugía para mí y familia, comisiones, capacitación y crecimiento profesional, políticas de vehículo con viáticos y mi aspiración salarial es a partir de 2.000,00 dólares libres (lo equivalente en pesos) en adelante o a convenir por ambas partes. 
+
+ <br>Security_code : yhsq6
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.230.226.168<br>
+ <br>REF : ACO-1
+ <br>Nombre : Ignacio
+ <br>Apellido : Dato Arena
+ <br>Cargo : Analista Comercio Exterior
+ <br>Direccion : Dean Funes 3701, Barrio Santa Teresa
+ <br>Ciudad : Benavidez
+ <br>Telefono : 011-6214-0406
+ <br>Email : ignaciodato@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados,
+
+Adjunto CV para vuestra evaluación y quedo a la espera de un futuro contacto para conocernos personalmente.
+
+Atentos saludos,
+
+
+Ignacio Dato
+ <br>Security_code : 5g8hq
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.18.97.3<br>
+ <br>REF : ACO-1
+ <br>Nombre : Federico
+ <br>Apellido : Ojeda
+ <br>Cargo : ANALISTA DE COMERCIO INTERNACIONAL/EXTERIOR
+ <br>Direccion : Tte Gral J D Peron
+ <br>Ciudad : CABA
+ <br>Telefono : 15 2315 3110
+ <br>Email : dfede182@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : CV adjunto
+ <br>Security_code : 83h34
+ <br>Send : Enviar
+ <br>
+---------------
+

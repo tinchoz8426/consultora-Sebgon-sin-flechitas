@@ -1,0 +1,299 @@
+Address : 190.188.51.168
+Nombre : Carla Sol
+Apellido : Antonelli
+Cargo : administrativo 
+Direccion : libres del sur 896
+Ciudad : villa sarmiento, haedo, moron
+Telefono : 1540973776
+Email : antonelli.carla@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estaria necesitando un empleo, ya sea en parte administrativa o en legales, ya que soy estudiante de abogacía, estoy cursando el tercer año de la carrera. 
+ Desde ya muchas gracias
+Security_code : byzmf
+Send : Enviar
+
+---------------
+
+Address : 181.167.99.131
+Nombre : Ezequiel
+Apellido : Montalenti
+Cargo : Administración de Venta
+Direccion : Cramer 2430
+Ciudad : CABA
+Telefono : 158612059
+Email : emontalenti@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estoy en búsqueda de nuevas oportunidades laborales
+Security_code : mbyig
+Send : Enviar
+
+---------------
+
+Address : 190.245.99.165
+Nombre : julian pablo
+Apellido : sagrera devincentis
+Cargo : operario
+Direccion : schiavoni 2582
+Ciudad : rosario
+Telefono : 152471062
+Email : julicabu@gmail.com.es
+MAX_FILE_SIZE : 2097152
+Mensaje : Les hago llegar mi curriculum vitae con el fin de conseguir un trabajo estable preferentemente en fabricas.
+Security_code : 9xxy5
+Send : Enviar
+
+---------------
+
+Address : 190.245.99.165
+Nombre : julian pablo
+Apellido : sagrera devincentis
+Cargo : operario
+Direccion : schiavoni 2582
+Ciudad : rosario
+Telefono : 152471062
+Email : julicabu@gmail.com.es
+MAX_FILE_SIZE : 2097152
+Mensaje : Les hago llegar mi curriculum vitae con el fin de conseguir un trabajo estable preferentemente en fabricas.
+Security_code : 9xyy5
+Send : Enviar
+
+---------------
+
+Address : 190.245.99.165
+Nombre : julian pablo
+Apellido : sagrera devincentis
+Cargo : operario
+Direccion : schiavoni 2582
+Ciudad : rosario
+Telefono : 152471062
+Email : julicabu@gmail.com.es
+MAX_FILE_SIZE : 2097152
+Mensaje : Les hago llegar mi curriculum vitae con el fin de conseguir un trabajo estable preferentemente en fabricas.
+Security_code : zk85r
+Send : Enviar
+
+---------------
+
+Address : 190.245.99.165
+Nombre : julian pablo
+Apellido : sagrera devincentis
+Cargo : operario
+Direccion : schiavoni 2582
+Ciudad : rosario
+Telefono : 152471062
+Email : julicabu@gmail.com.es
+MAX_FILE_SIZE : 2097152
+Mensaje : Les hago llegar mi curriculum vitae con el fin de conseguir un trabajo estable preferentemente en fabricas.
+Security_code : zk85r
+Send : Enviar
+
+---------------
+
+Address : 190.245.99.165
+Nombre : julian pablo
+Apellido : sagrera devincentis
+Cargo : operario
+Direccion : schiavoni 2582
+Ciudad : rosario
+Telefono : 152471062
+Email : julicabu@gmail.com.es
+MAX_FILE_SIZE : 2097152
+Mensaje : Les hago llegar mi curriculum vitae con el fin de conseguir un trabajo estable preferentemente en fabricas.
+Security_code : 938pp
+Send : Enviar
+
+---------------
+
+Address : 190.245.99.165
+Nombre : julian pablo
+Apellido : sagrera devincentis
+Cargo : operario
+Direccion : schiavoni 2582
+Ciudad : rosario
+Telefono : 152471062
+Email : julicabu@gmail.com.es
+MAX_FILE_SIZE : 2097152
+Mensaje : Les hago llegar mi curriculum vitae con el fin de conseguir un trabajo estable preferentemente en fabricas.
+Security_code : jf5nj
+Send : Enviar
+
+---------------
+
+Address : 24.232.94.175
+Nombre : Silvina
+Apellido : Solari Moro
+Cargo : Consultoria HR
+Direccion : Buenos Aires
+Ciudad : Buenos Aires
+Telefono : 011-4522-7850
+Email : ssolarimoro@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Quiero hacerles llegar mi cv por este medio. Estoy en la busqueda de un cambio laboral dentro del área de Recursos Humanos. Llevo casi 20 años de experiencia profesional, de los cuales 14 estuve trabajando y especializandome en Recursos Humanos, tanto en el área de Talento (Recruiting, Selección, Programa de Jóvenes Profesionales, IT Recruiting, Management Recruitment) como también en el área de Desarrollo Profesional (Desarrollo técnico especializado, formación por profesiones, formación de líderes, evaluación de altos potenciales, performance Management) como también en distintas áreas de Servicios de RRHH (Encuestas de Clima, Gestión del Cambio, Retención de altos potenciales, Compensaciones y Beneficios, etc).
+
+Espero mi experiencia pueda serles de utilidad para los servicios que ustedes brindan. Cualquier consulta, estoy a disposición.
+
+GRACIAS!
+
+Security_code : 9rqhw
+Send : Enviar
+
+---------------
+
+Address : 200.49.6.99
+Nombre : Fernanda Janet
+Apellido : Suarez
+Cargo : Secretaria/ Asistente
+Direccion : Calle 20 Nº 37
+Ciudad : Rio Cuarto
+Telefono : 0358155136128
+Email : fsuarez7889@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Busco trabajo en Río Cuarto o zona
+Security_code : tbfgz
+Send : Enviar
+
+---------------
+
+Address : 190.151.168.173
+Nombre : josefina
+Apellido : Billoch
+Cargo : Dibujante arquitectura
+Direccion : Zeballos 967 6b
+Ciudad : Rosario
+Telefono : 03329-15603015
+Email : josebi21@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me interesaría trabajar en estudios de arquitectura, constructoras o inmobiliarias. Gracias 
+Security_code : 9q2sd
+Send : Enviar
+
+---------------
+
+Address : 186.122.44.166
+REF : Asistente-Contable
+Nombre : Yanina
+Apellido : Gomez
+Cargo : asistente, administracion, etc
+Direccion : ayolas 565
+Ciudad : lomas de zamora
+Telefono : 1539185342
+Email : yaninagomez444@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Necesito trabajar , soy muy responsables, activa y con muchas ganas de aprender seguir superándome día a día  
+Security_code : dds8v
+Send : Enviar
+
+---------------
+
+Address : 186.122.44.166
+REF : Asistente-Contable
+Nombre : Yanina
+Apellido : Gomez
+Cargo : asistente, administracion, etc
+Direccion : ayolas 565
+Ciudad : lomas de zamora
+Telefono : 1539185342
+Email : yaninagomez444@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Necesito trabajar , soy muy responsables, activa y con muchas ganas de aprender seguir superándome día a día  
+Security_code : 35xvm
+Send : Enviar
+
+---------------
+
+Address : 186.122.44.166
+REF : Asistente-Contable
+Nombre : Yanina
+Apellido : Gomez
+Cargo : asistente, administracion, etc
+Direccion : ayolas 565
+Ciudad : lomas de zamora
+Telefono : 1539185342
+Email : yaninagomez444@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Necesito trabajar , soy muy responsables, activa y con muchas ganas de aprender seguir superándome día a día  
+Security_code : 35xvm
+Send : Enviar
+
+---------------
+
+Address : 200.69.147.219
+Nombre : jose osvaldo barrionuevo
+Apellido : barrionuevo
+Cargo : Licenciado en seguridad eh higiene
+Direccion : pumacahua 873 2i
+Ciudad : capital federal
+Telefono : 1558822102
+Email : jbarrionuevo76@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados buenas tardes, tengo el atrevimiento de enviarles mis datos personales me encuentro en la busquedad de trabajo, si bien en la actualidad me encuentro empleado busco crecer dia a dia para poder desarrollarme profesionalmente, espero puedan llegarles de la mejor manera y me tengan en cuenta para alguna posible busquedad.
+ 
+
+saluda atte: Jose Barrionuevo
+Security_code : c6z6b
+Send : Enviar
+
+---------------
+
+Address : 190.50.215.219
+Nombre : Brenda Victoria 
+Apellido : Luque
+Cargo : indistinto
+Direccion : zufriategui 1720
+Ciudad : laferrere
+Telefono : 44578729
+Email : bredaluque123@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Tengo muchas ganas de empezar a trabajar en algo relacionado a mi carrera.
+Security_code : m7tk3
+Send : Enviar
+
+---------------
+
+Address : 190.225.5.195
+Nombre : Nadia Belén
+Apellido : Acosra
+Cargo : Ayudante de laboratorio
+Direccion : Uruguay 2950
+Ciudad : Santa Fe
+Telefono : 0342-155520652
+Email : nanu_aco17@hotmail.com
+
+---------------
+
+Address : 190.225.5.195
+Nombre : Nadia Belén
+Apellido : Acosra
+Cargo : Ayudante de laboratorio
+Direccion : Uruguay 2950
+Ciudad : Santa Fe
+Telefono : 0342-155520652
+Email : nanu_aco17@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me pongo a su disposición. Muchas gracias!
+Security_code : 5cgbm
+Send : Enviar
+
+---------------
+
+Address : 186.56.250.148
+Nombre : Blanca
+Apellido : Signorelli
+Cargo : Tecnico Superior Seguridad e Higiene
+Direccion : Goya 2761
+Ciudad : Merlo Norte
+Telefono : 1140394347
+Email : blaisig@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenos días:
+ 
+Tengo el agrado de  dirigirme  ustedes con el objeto de participar en las búsquedas de personal en su empresa.
+Adjunto  mi Curriculum Vitae y así puedan incluirme en su base de datos. 
+Cursé  la carrera de   Tecnico en Higiene y Seguridad en el Trabajo en el Instituto Argentino de Seguridad y poseo matricula habilitante.
+Me considero una proactiva y con capacidad de formar  parte de  un equipo de  trabajo. Quedo a su entera disposición para una eventual entrevista personal.
+Sin otro particular, aprovecho para saludar cordialmente.
+Security_code : d6j6m
+Send : Enviar
+
+---------------
+

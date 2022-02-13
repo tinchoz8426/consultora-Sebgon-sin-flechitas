@@ -1,0 +1,50 @@
+Address : 190.49.163.126
+Nombre : Nelson Ariel
+Apellido : D´Loreto
+Cargo : empleado
+Direccion : Alzaga 181
+Ciudad : Temperley
+Telefono : 011 15 6412 3844
+Email : callvuleovu@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados adjunto mis datos, cualquier consulta a vuestra disposición. Muchas gracias.-
+Security_code : kryf9
+Send : Enviar
+
+---------------
+
+Address : 186.122.46.43
+Nombre : mariana denise
+Apellido : Opar
+Cargo : limpieza
+Direccion : 837 n 3668 solano
+Ciudad : qulmes solano
+Telefono : 1132736304
+Email : marian_yordy@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola busco trabajo sin limite de edad a cualquier horario
+Security_code : 63g9r
+Send : Enviar
+
+---------------
+
+Address : 190.245.225.154
+Nombre : Pablo
+Apellido : Mazzieri
+Cargo : Recursos Humanos
+Direccion : Güemes 4547 1 D
+Ciudad : Capital Federal
+Telefono : 0111524507770
+Email : mazzieri.pablo@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados, envío mi CV para ser considerado en búsquedas de personal acordes a mi perfil profesional. 
+
+Agradezco su tiempo.
+Cordial Saludo
+
+Pablo MAzzieri
+Security_code : c4h5b
+Send : Enviar
+
+---------------
+

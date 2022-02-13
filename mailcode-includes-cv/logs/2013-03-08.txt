@@ -1,0 +1,15 @@
+Address : 186.134.13.211
+Nombre : Claudia Milena
+Apellido : Cardenas Jaramillo
+Cargo : recepcionista, telefonista, atencion al cliente, asesora
+Direccion : Ventura Bustos
+Ciudad : Castelar
+Telefono : 4628-6450  11-37879408
+Email : claudiamilena001@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : dejo mi curriculum para cualquier oportunidad de trabajo. Gracias
+Security_code : g3crj
+Send : Enviar
+
+---------------
+

@@ -1,0 +1,60 @@
+Address : 181.24.15.249
+Nombre : Ruth
+Apellido : D'Ambruoso
+Cargo : Ventas-Atención al público
+Direccion : o'higgins 1865
+Ciudad : Mar del Plata
+Telefono : 2392-15530312
+Email : dambruosor@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola! Desde Mar del Plata; con experiencia en ventas y atención al público! Saludos!!!
+Security_code : vsskc
+Send : Enviar
+
+---------------
+
+Address : 186.22.200.178
+Nombre : Yael
+Apellido : Einhorn
+Cargo : administracion
+Direccion : pasaje las provicias 3157
+Ciudad : capital federal
+Telefono : 1150550372
+Email : yachi.einhorn@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Quisiera pertenecer a su empresa.
+Security_code : qycjm
+Send : Enviar
+
+---------------
+
+Address : 190.173.7.93
+Nombre : Maria Esther
+Apellido : Aguinagalde
+Cargo : licenciada en Trabajo Social
+Direccion : Chorroarin 3254
+Ciudad : Lanus
+Telefono : 1167667125
+Email : esther_3015@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : se adjunta archivo con cv por posibilidad de ofertas laborales acordes a mi perfil profesional
+Security_code : x733r
+Send : Enviar
+
+---------------
+
+Address : 190.173.7.93
+Nombre : Maria Esther
+Apellido : Aguinagalde
+Cargo : licenciada en Trabajo Social
+Direccion : Chorroarin 3254
+Ciudad : Lanus
+Telefono : 1167667125
+Email : esther_3015@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : se adjunta archivo con cv por posibilidad de ofertas laborales acordes a mi perfil profesional
+Security_code : xkvw5
+Send : Enviar
+
+---------------
+

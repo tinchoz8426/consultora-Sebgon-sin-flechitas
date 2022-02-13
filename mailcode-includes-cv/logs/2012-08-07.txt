@@ -1,0 +1,82 @@
+Address : 190.177.209.213
+Nombre : laura
+Apellido : herrera
+Cargo : varios
+Direccion : gral rivera
+Ciudad : paso del rey
+Telefono : 15 68790608
+Email : laurilamasgenia@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : estoy en la busqueda de un empleos estable y solicito a ustedes me puedan ayudar a conseguir este empleos. gracias
+Security_code : xwqy4
+Send : Enviar
+
+---------------
+
+Address : 186.122.24.53
+Nombre : Carlo Fabrizio
+Apellido : Bertoldi
+Cargo : Gerente
+Direccion : Progreso 2086
+Ciudad : Villa allende
+Telefono : 0351-157691338
+Email : bertoldicarlo@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me acabo de recibir de Lic. Publicitario y en este momento me encuentro en búsqueda de un trabajo que pueda aplicarse la publicidad como una herramienta indispensable de la comunicación empresarial. Poseo también conocimientos sobre ventas y marketing.     
+Security_code : fq5hq
+Send : Enviar
+
+---------------
+
+Address : 186.182.109.3
+Nombre : Raul Eduardo
+Apellido : Marcovich
+Cargo : oficial pastero-pizzero-sandwichero
+Direccion : v lopez 980
+Ciudad : moron
+Telefono : 54313359---- cel 1139446630
+Email : raulo_3004@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : hola estoy en busca de trabajo y espero que me puedan ubicar en algun empleo desde ya muchas gracias 
+
+            atte_ raul
+Security_code : j6ntd
+Send : Enviar
+
+---------------
+
+Address : 186.130.24.231
+Nombre : Erica
+Apellido : Mendez
+Cargo : empleada
+Direccion : damian hudson 2162 guaymallen
+Ciudad : mendoza
+Telefono : 4327643
+Email : kechucita_2010@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : urgente por favor 
+Security_code : 8wd9n
+Send : Enviar
+
+---------------
+
+Address : 190.247.233.233
+REF : administrativo-logistica
+Nombre : Roberto
+Apellido : Lohidoy
+Cargo : Administrativo-Logística
+Direccion : Vte.Lopez 654 PB Dto.3
+Ciudad : Tandil
+Telefono : (0249)154492160
+Email : robertovela2007@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : A lo largo de mi carrera en Gestión, Administración, Logìstica y Ventas he conseguido cumplir con los objetivos de la empresa, además de haber formado excelentes equipos de trabajo. Me gusta trabajar con la gente, demostrarles la utilidad y calidad de los productos y también entrenar y educar a otros. Estoy seguro de que puedo desempeñar con éxito este puesto en el sector porque lo considero una meta y una renovación de mi carrera, con la confianza de que mi experiencia me capacita para entender y explicar mejor los productos que voy a representar.
+Quedando a la espera de su respuesta. 
+Gracias por su tiempo.
+Cordialmente
+Roberto Lohidoy      
+Security_code : mysmq
+Send : Enviar
+
+---------------
+

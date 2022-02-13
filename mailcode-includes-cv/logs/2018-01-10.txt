@@ -1,0 +1,30 @@
+Address : 190.231.144.10<br>
+ <br>Nombre : Leandro Ezequiel
+ <br>Apellido : Ortega Castro
+ <br>Cargo : operario 
+ <br>Direccion : calle 2 casa 8 mza 47 B° Matienzo
+ <br>Ciudad : Cordoba
+ <br>Telefono : 3518088070
+ <br>Email : leaaneze@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Espero atentamente su respuesta desde ya muchas gracias. 
+ <br>Security_code : 375c6
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.231.144.10<br>
+ <br>Nombre : Leandro Ezequiel
+ <br>Apellido : Ortega Castro
+ <br>Cargo : operario 
+ <br>Direccion : calle 2 casa 8 mza 47 B° Matienzo
+ <br>Ciudad : Cordoba
+ <br>Telefono : 3518088070
+ <br>Email : leaaneze@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Espero su grata respuesta , desde ya muchas gracias.
+ <br>Security_code : k4c38
+ <br>Send : Enviar
+ <br>
+---------------
+

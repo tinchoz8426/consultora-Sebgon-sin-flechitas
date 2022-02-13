@@ -1,0 +1,34 @@
+Address : 190.177.193.238
+Nombre : Gustavo
+Apellido : Sante
+Cargo : webmaster / programador Jr
+Direccion : Ramos Mejia 2075
+Ciudad : Libertad
+Telefono : 0220 497 6854
+Email : gustavosante@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Les agradecería me tengan en cuenta y estoy a su disposición para una reunión
+personal si fuera necesaria. 
+Cordialmente Gustavo Sante. 
+
+Security_code : d3ww5
+Send : Enviar
+
+---------------
+
+Address : 190.137.83.203
+REF : gerente-de-operaciones
+Nombre : Liliana Mabel
+Apellido : Bejarano
+Cargo : Administrativo, Secretaria, Asistente
+Direccion : España 95
+Ciudad : Salta
+Telefono : 0387-4229736
+Email : lilib2207@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Dejo asu disposicion mi CV
+Security_code : j945r
+Send : Enviar
+
+---------------
+

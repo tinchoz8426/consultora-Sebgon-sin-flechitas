@@ -1,0 +1,48 @@
+Address : 200.45.52.36
+Nombre : Natalia Sabrina
+Apellido : Simon
+Cargo : Adminisracion
+Direccion : Avenida Argentina
+Ciudad : Villa Santa Cruz del Lago, Empalme a Tanti
+Telefono : 3541670736
+Email : nataliassimon@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Pretendo conseguir un trabajo que cubra mis espectativas de aprendizaje y monetarias. Solo con horario d corrido hasta 8 hs como maximo. Tengo un hijo de 6 años.
+Security_code : bsfz7
+Send : Enviar
+
+---------------
+
+Address : 190.113.176.15
+Nombre : JUAN PABLO
+Apellido : ABDALA
+Cargo : COMERCIO EXTERIOR Y ADUANA
+Direccion : Condominios Dalvian, Duplex C-34 (Puerta 6), Las Heras
+Ciudad : MENDOZA
+Telefono : 2613 03 03 21
+Email : emsetexsa@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buan Día! Adjunto mi Currículum. Busco trabajo relacionado con el Comercio Exterior y Aduana.
+Espero Respuesta.
+Saludos
+Juan Pablo
+Security_code : yq7b2
+Send : Enviar
+
+---------------
+
+Address : 190.138.42.200
+Nombre : Jorge Bernardo
+Apellido : Diaz
+Cargo : Recursos Humanos
+Direccion : Peru 549 Yerba Buena
+Ciudad : Tucuman
+Telefono : 3815124134
+Email : bernardo_diaz@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Necesito obtener experiencia laboral.Tengo muchas ganas de trabajar y avanzar profesionalmente
+Security_code : yyzsd
+Send : Enviar
+
+---------------
+

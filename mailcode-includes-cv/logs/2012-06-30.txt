@@ -1,0 +1,16 @@
+Address : 190.231.27.243
+Nombre : Giuliana
+Apellido : Granillo
+Cargo : repositora
+Direccion : huillapima b.españa casa 20
+Ciudad : catamarca
+Telefono : 3834-548808 4496207
+Email : giu_giu@hotmail.es
+MAX_FILE_SIZE : 2097152
+Mensaje : GRACIAS POR RECIBIR MI CV .
+MI OBJETIVO ES ALCANZAR EL BIENESTAR GENERAL,LOGRADO CON MI TRABAJO APORTANDO DEDICACION,PUNTUALIDAD Y ESMERO GRACIAS
+Security_code : sh9m9
+Send : Enviar
+
+---------------
+

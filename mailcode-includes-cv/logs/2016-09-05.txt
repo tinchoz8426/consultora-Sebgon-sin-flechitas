@@ -1,0 +1,295 @@
+Address : 186.18.86.108<br>
+ <br>REF : JPL
+ <br>Nombre : Oscar Aurelio
+ <br>Apellido : Pace
+ <br>Cargo : Jefe de Planta
+ <br>Direccion : Rio de Janeiro 2634 
+ <br>Ciudad : Lanus, Bs. As.
+ <br>Telefono : 011-6939-8955
+ <br>Email : oscarpace06@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Tengo el agrado de dirigirme a uds. con motivo de la búsqueda de un Jefe de Planta, a tal efecto adjunto mi cv.
+Quedo a disposición para evacuar la consultas que consideren oportunas.
+Cordialmente.
+Oscar Aurelio Pace
+ <br>Security_code : 5bkfm
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.104.251.16<br>
+ <br>REF : SuP
+ <br>Nombre : jorge andres
+ <br>Apellido : aylagas
+ <br>Cargo : Supervisor de producción
+ <br>Direccion : padre ustarroz 3541, entre miguel cane y teniente arricau
+ <br>Ciudad : san miguel
+ <br>Telefono : 1154723382
+ <br>Email : jaaylagas@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buen día, adjunto mi CV para algún puesto de trabajo que tengan. Desde yá, muchas gracias
+ <br>Security_code : 5thfb
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.130.30.47<br>
+ <br>REF : SuP
+ <br>Nombre : lucio demetrio
+ <br>Apellido : gomez
+ <br>Cargo : supervisor
+ <br>Direccion : isabel de pardo 3019
+ <br>Ciudad : moron
+ <br>Telefono : 49621036
+ <br>Email : luciogomezd@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : busco cambiar de trabajo debido a incumplimientos en el pago de sueldo.
+saludos
+ <br>Security_code : 4fdz8
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 191.82.43.125<br>
+ <br>REF : OEL
+ <br>Nombre : gabriel
+ <br>Apellido : stumpfs
+ <br>Cargo : mantenimiento, electricidad
+ <br>Direccion : Fray Luis Beltran, 1991
+ <br>Ciudad : MERLO 
+ <br>Telefono : 1150164077
+ <br>Email : gabyrey92@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : A quien corresponda... dejo a disposicion mis datos para bser tenido en cuenta para algun puesto de trabajo. Gracias. saludo atte.
+ <br>Security_code : s56h8
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 191.82.43.125<br>
+ <br>REF : OEL
+ <br>Nombre : gabriel
+ <br>Apellido : stumpfs
+ <br>Cargo : mantenimiento, electricidad
+ <br>Direccion : Fray Luis Beltran, 1991
+ <br>Ciudad : MERLO 
+ <br>Telefono : 1150164077
+ <br>Email : gabyrey92@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : A quien corresponda... dejo a disposicion mis datos para bser tenido en cuenta para algun puesto de trabajo. Gracias. saludo atte.
+ <br>Security_code : s56h8
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 191.82.43.125<br>
+ <br>REF : OEL
+ <br>Nombre : gabriel
+ <br>Apellido : Stumpfs
+ <br>Cargo : mantenimiento, electricidad
+ <br>Direccion : Fray Luis Beltran, 1991
+ <br>Ciudad : MERLO
+ <br>Telefono : 1150164077
+ <br>Email : gabyrey92@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : A quien corresponda, dejo  mi CV para ser tenido en cuenta para algun puesto de trabajo. Gracias.
+ <br>Security_code : 5j59h
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.16.132.200<br>
+ <br>REF : E.DIS
+ <br>Nombre : gonzalo
+ <br>Apellido : rodriguez
+ <br>Cargo : diseño industrial
+ <br>Direccion : calle 13 n 2732
+ <br>Ciudad : berazategui
+ <br>Telefono : 1553197276
+ <br>Email : bgonzalorodriguez@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : dispongo de tiempo completo 
+ <br>Security_code : wp6zf
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.61.46.201<br>
+ <br>REF : OEL
+ <br>Nombre : Enzo Martín 
+ <br>Apellido : Ibañez
+ <br>Cargo : montaje y tendido eléctrico 
+ <br>Direccion : Catamarca 3383
+ <br>Ciudad : Lanús Oeste
+ <br>Telefono : 1526858975
+ <br>Email : enzomartin824 @gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Adjunto mi cv, para que me tengan en cuenta para el puesto solicitado.
+ <br>Security_code : g4kyh
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.16.132.200<br>
+ <br>REF : E.DIS
+ <br>Nombre : gonzalo
+ <br>Apellido : rodriguez
+ <br>Cargo : diseño industrial
+ <br>Direccion : calle 13 n 2732
+ <br>Ciudad : berazategui
+ <br>Telefono : 1553197276
+ <br>Email : bgonzalorodriguez@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : dispongo de tiempo completo 
+ <br>Security_code : wp6zf
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.16.132.200<br>
+ <br>REF : E.DIS
+ <br>Nombre : gonzalo
+ <br>Apellido : rodriguez
+ <br>Cargo : diseño industrial
+ <br>Direccion : calle 13 n 2732
+ <br>Ciudad : berazategui
+ <br>Telefono : 1553197276
+ <br>Email : bgonzalorodriguez@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : dispongo de tiempo completo 
+ <br>Security_code : wp6zf
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.124.38.106<br>
+ <br>Nombre : Jose Luis
+ <br>Apellido : Averastain
+ <br>Cargo : Cañista soldador
+ <br>Direccion : Murguiondo 1241
+ <br>Ciudad : Los polvorines
+ <br>Telefono : 2932468997
+ <br>Email : joseluisaverastain@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Deceo concretar una entrevista
+ <br>Security_code : Xk5r9
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.16.132.200<br>
+ <br>REF : E.DIS
+ <br>Nombre : gonzalo
+ <br>Apellido : rodriguez
+ <br>Cargo : diseño industrial
+ <br>Direccion : calle 13 n 2732
+ <br>Ciudad : berazategui
+ <br>Telefono : 1553197276
+ <br>Email : bgonzalorodriguez@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : dispongo de tiempo completo 
+ <br>Security_code : NCV2Q
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.16.132.200<br>
+ <br>REF : E.DIS
+ <br>Nombre : gonzalo
+ <br>Apellido : rodriguez
+ <br>Cargo : diseño industrial
+ <br>Direccion : calle 13 n 2732
+ <br>Ciudad : berazategui
+ <br>Telefono : 1553197276
+ <br>Email : bgonzalorodriguez@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : dispongo de tiempo completo 
+ <br>Security_code : wp6zf
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.124.38.106<br>
+ <br>Nombre : Jose Luis
+ <br>Apellido : Averastain
+ <br>Cargo : Cañista soldador
+ <br>Direccion : Murguiondo 1241
+ <br>Ciudad : Los polvorines
+ <br>Telefono : 2932468997
+ <br>Email : joseluisaverastain@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Deceo una entrevista
+ <br>Security_code : Pwrc9
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.124.38.106<br>
+ <br>Nombre : Jose Luis
+ <br>Apellido : Averastain
+ <br>Cargo : Cañista soldador
+ <br>Direccion : Murguiondo 1241
+ <br>Ciudad : Los polvorines
+ <br>Telefono : 2932468997
+ <br>Email : joseluisaverastain@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Deceo una entrevista
+ <br>Security_code : pwrc9
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.124.38.106<br>
+ <br>Nombre : Jose Luis
+ <br>Apellido : Averastain
+ <br>Cargo : Cañista soldador
+ <br>Direccion : Murguiondo 1241
+ <br>Ciudad : Los polvorines
+ <br>Telefono : 2932468997
+ <br>Email : joseluisaverastain@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Deceo una entrevista
+ <br>Security_code : vbnsv
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.109.150.5<br>
+ <br>REF : SE.BIL
+ <br>Nombre : Lucrecia
+ <br>Apellido : Illa
+ <br>Cargo : Secretaria Bilinüe
+ <br>Direccion : San Lorenzo 970
+ <br>Ciudad : Acassuso
+ <br>Telefono : 1544241510
+ <br>Email : lucreilla@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Envío mi cv para postularme para la posición de secretaria bilinüe. Remunareacion Pretendida 20mil bruto, aprox.  saludos!
+ <br>Security_code : tywkm
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.171.233.135<br>
+ <br>Nombre : Carmen 
+ <br>Apellido : Mayorga
+ <br>Cargo : Relaciones públicas
+ <br>Direccion : Cuba 2440, 4A
+ <br>Ciudad : CABA
+ <br>Telefono : 1147818469
+ <br>Email : clmayorga@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas tardes, 
+
+Pongo a su disposición mi resumen curricular esperando poder contar con su asistencia para la obtención de un empleo al que mi perfil se adapte. 
+
+De antemano, mil gracias por sus gestiones. 
+
+Saludos cordiales, 
+
+Carmen Mayorga
+ <br>Security_code : 6nbhp
+ <br>Send : Enviar
+ <br>
+---------------
+

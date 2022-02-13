@@ -1,0 +1,80 @@
+Address : 190.99.113.250<br>
+ <br>REF : TEC. EL
+ <br>Nombre : Alejandro Daniel
+ <br>Apellido : Calandra
+ <br>Cargo : Tecnico electromecanico
+ <br>Direccion : Newton 2480
+ <br>Ciudad : moreno
+ <br>Telefono : 01141756007
+ <br>Email : a.d.calandra@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : tec elect.
+ <br>Security_code : hxc3z
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.138.139.125<br>
+ <br>Nombre : MARCELO ALFREDO
+ <br>Apellido : SAZATORNIL
+ <br>Cargo : VENTAS - ATENCION AL PUBLICO
+ <br>Direccion : MZA 50 LOTE 6 PH1 Bº PQUE PROCREAR LICEO
+ <br>Ciudad : CORDOBA CAPITAL
+ <br>Telefono : 3512753665
+ <br>Email : marcesaza173@hotmail.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Mi experiencia personal y profesional me permite desarrollar eficientemente las tareas que me sean designadas. Me baso en el respeto hacia el otro, la responsabilidad, puntualidad, y dar el 100% para mejorar personalmente y laboralmente.
+ <br>Security_code : 35x35
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 200.117.47.35<br>
+ <br>Nombre : MARCOS JOSE 
+ <br>Apellido : SANDRIA
+ <br>Cargo : CONDUCTOR PROFECIONAL
+ <br>Direccion : DR  PUCCIO 6240  MONTE VERA  SANTA FE
+ <br>Ciudad : MONTE VERA
+ <br>Telefono : 0342-155456787
+ <br>Email : sandriamarcos17@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : hola buenos dias cuento con licencia D1-D2 MAS CNRT
+ <br>Security_code : 6qd3q
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.9<br>
+ <br>REF : EM
+ <br>Nombre : Alien
+ <br>Apellido : Rios Cancañon
+ <br>Cargo : Electromecanico
+ <br>Direccion : Dean funes
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 1127313940
+ <br>Email : alienrios@yahoo.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola,soy una persona responsable antes durante y despues de mi jornada loboral,soy meticuloso, detallista, flexible, organizado, eficiente me gusta trabajar en equipo, cumplidor.  
+ <br>Security_code : 95x9q
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.22.185.49<br>
+ <br>Nombre : María Alejandra
+ <br>Apellido : Coltro
+ <br>Cargo : Selección - Evaluaciones psicotécnicas
+ <br>Direccion : Córdova 1138, Depto 13
+ <br>Ciudad : Villa Sarmiento
+ <br>Telefono : 1536205853
+ <br>Email : alejandracoltro@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas tardes. Mi nombre es Alejandra Coltro, soy psicóloga egresada de la UBA y me encuentro en búsqueda laboral. Estoy interesada en puestos en selección y/o realización de evaluaciones psicotécnicas. Ya sea de forma freelance o en relación de dependencia. Cuento con consultorio ubicado en Ramos Mejía.
+
+Desde ya, muchas gracias por su tiempo.
+Saludos,
+ <br>Security_code : kbxjx
+ <br>Send : Enviar
+ <br>
+---------------
+

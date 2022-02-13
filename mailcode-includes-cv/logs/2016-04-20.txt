@@ -1,0 +1,144 @@
+Address : 190.226.22.123
+Nombre : SERGIO
+Apellido : ROBERTONE
+Cargo : VENTAS; ATENCION AL CLIENTE
+Direccion : 25 DE MAYO 990
+Ciudad : CONCORDIA
+Telefono : 03454222680
+Email : serobertone@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola, buen dia. Les envio mi CV para postulaciones en mi zona de residencia o bien no tengo problemas de trasladarme de ciudad. Gracias
+Security_code : 22dhz
+Send : Enviar
+
+---------------
+
+Address : 190.226.213.154
+Nombre : hernan andres 
+Apellido : almiron
+Cargo : operario repositor externos otros
+Direccion : ecuador 1742
+Ciudad : rosario
+Telefono : 341-4591042
+Email : healmi28@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : me gustaría un trabajo de jornada completa gracias 
+Security_code : 8sgvg
+Send : Enviar
+
+---------------
+
+Address : 190.226.213.154
+Nombre : hernan andres 
+Apellido : almiron
+Cargo : operario repositor externos otros
+Direccion : ecuador 1742
+Ciudad : rosario
+Telefono : 341-4591042
+Email : healmi28@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : me gustaría un trabajo de jornada completa gracias
+Security_code : f6jj5
+Send : Enviar
+
+---------------
+
+Address : 186.182.0.116
+Nombre : Soledad
+Apellido : Carril
+Cargo : Técnica Química / Técnica Laboratorio
+Direccion : Las Flores 1600
+Ciudad : Avellaneda
+Telefono : 1161930983
+Email : carrilsoledad@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados,
+Les hago llegar mi Currículum Vitae, a fin de ser tenida en cuenta como candidata.
+Quedo a su disposición para ampliar cualquier información necesaria.
+Cordialmente,
+Soledad Carril
+Security_code : kv58n
+Send : Enviar
+
+---------------
+
+Address : 190.18.162.124
+Nombre : Lucas
+Apellido : Demarque
+Cargo : Medio Ambiente
+Direccion : Cespedes 2646
+Ciudad : CABA
+Telefono : 2615523277
+Email : lucsdemarque33@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto mi cv a disposición. Esperando respuesta positiva, envío saludos cordiales.
+Security_code : 6837j
+Send : Enviar
+
+---------------
+
+Address : 190.221.84.59
+Nombre : ssfgd
+Apellido : sds
+Cargo : ss
+Direccion : sss
+Ciudad : ssss
+Telefono : ss
+Email : scsecurityconsulting@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : dfsdsgsgs
+Security_code : ysp6j
+Send : Enviar
+
+---------------
+
+Address : 190.1.98.180
+Nombre : Florencia 
+Apellido : Gimeno
+Cargo : Asistente administrativa
+Direccion : Hualfin 1062 5to
+Ciudad : Caba
+Telefono : 011 1533153220
+Email : florencia_gimeno@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Envío mi cv para posibles ofertas laborales acordes a mi perfil.
+Desde ya muchas gracias.
+Cordialmente,
+Gimeno Florencia 
+Security_code : b388y
+Send : Enviar
+
+---------------
+
+Address : 190.1.98.180
+Nombre : Florencia 
+Apellido : Gimeno
+Cargo : Asistente administrativa
+Direccion : Hualfin 1062 5to
+Ciudad : CABA
+Telefono : 011 1533153220
+Email : florencia_gimeno@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Envío mi cv para formar parte de su base de datos y asi participar de las búsquedas laborales acordes a mi  perfil.
+Desde ya muchas gracias.
+Gimeno Florencia 
+Security_code : nzxm7
+Send : Enviar
+
+---------------
+
+Address : 186.137.164.57
+Nombre : Juan Carlos
+Apellido : Ridolfi
+Cargo : Comercial / Ventas
+Direccion : Virrey Cevallos 1864
+Ciudad : CABA
+Telefono : 11 4479 9322
+Email : juancarlosridolfi@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto mi CV a los efectos de ser tenido en cuenta en sus búsquedas. Muchas Gracias.
+Security_code : ms783
+Send : Enviar
+
+---------------
+

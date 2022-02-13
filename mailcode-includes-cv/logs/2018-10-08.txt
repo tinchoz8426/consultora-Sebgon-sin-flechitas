@@ -1,0 +1,158 @@
+Address : 186.108.234.5<br>
+ <br>Nombre : Francisco
+ <br>Apellido : Pacenti
+ <br>Cargo : Disponible
+ <br>Direccion : Juan Larrea 503 Bis
+ <br>Ciudad : Rosario
+ <br>Telefono : 3412573654
+ <br>Email : franpacenti01@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : gracias por su atención
+ <br>Security_code : 2v7nc
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.59.219.154<br>
+ <br>REF : TEC. EL
+ <br>Nombre : Daniel
+ <br>Apellido : Rovella
+ <br>Cargo : TEcnico electronico
+ <br>Direccion : Pallares 1937
+ <br>Ciudad : Lanus Oeste
+ <br>Telefono : 1557938088
+ <br>Email : danielrovella@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : A quien corresponde
+les adjunto mi CV para postularme en el puesto  de Tecnico electronico.
+desde ya muchas gracias
+ <br>Security_code : ygdhw
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.192.40.94<br>
+ <br>Nombre : Guillermo Esteban
+ <br>Apellido : Servidio
+ <br>Cargo : Mantenimiento electrico
+ <br>Direccion : Murature, 981
+ <br>Ciudad : Del Viso
+ <br>Telefono : 0111538443747
+ <br>Email : geservidio@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Soy Tecnico electronico de formacion secuntaria ENET y en mi experiencia he realizado tareas requeridas por mis superiores sea en forma individual o en equipo, óptimamente. A mi formación principal como técnico, he sumado capacitación especializada( programación y detección de fallas De PLC, automatización hidráulica y neumática),y dominio del idioma ingles medio/técnico. Atentamente,
+Guillermo E. Servidio
+
+ <br>Security_code : v8xj4
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.226.193.203<br>
+ <br>Nombre : Javier Rubén
+ <br>Apellido : Regini
+ <br>Cargo : Operario 
+ <br>Direccion : Ricardo roja 1572
+ <br>Ciudad : Campana 
+ <br>Telefono : 011 1533810715
+ <br>Email : reginijavier@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola busco trabajo ,
+ <br>Security_code : Fp955
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.226.193.203<br>
+ <br>Nombre : Javier Rubén
+ <br>Apellido : Regini
+ <br>Cargo : Operario 
+ <br>Direccion : Ricardo roja 1572
+ <br>Ciudad : Campana 
+ <br>Telefono : 011 1533810715
+ <br>Email : reginijavier@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola busco trabajo ,
+ <br>Security_code : Fp955
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 152.171.161.177<br>
+ <br>Nombre : Nadia Milagros 
+ <br>Apellido : Villaola 
+ <br>Cargo : Atención al público 
+ <br>Direccion : Vernet 2737
+ <br>Ciudad : Mar del plata 
+ <br>Telefono : 2235524751
+ <br>Email : Nadiavillaola@gmail.com 
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Ojalá me tengan en cuenta, muchas gracias 
+ <br>Security_code : kp8vf
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.44.229.84<br>
+ <br>REF : TEC. EL
+ <br>Nombre : Gustavo Ruben
+ <br>Apellido : Tarantino
+ <br>Cargo : tecnico
+ <br>Direccion : Villarino 475
+ <br>Ciudad : Remedios de Escalada
+ <br>Telefono : 01123212105
+ <br>Email : g.tarantino@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : envio mi CV
+ <br>Security_code : 849c5
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.229.115.197<br>
+ <br>REF : TEC. EL
+ <br>Nombre : Patricio
+ <br>Apellido : Siguenza
+ <br>Cargo : TÉCNICOS ELECTRÓNICOS ESPECIALIZADOS
+ <br>Direccion : San Telmo
+ <br>Ciudad : CABA
+ <br>Telefono : 1166137557
+ <br>Email : patrohell@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me postulo para el cargo de TÉCNICOS ELECTRÓNICOS ESPECIALIZADOS
+ <br>Security_code : 5hrkk
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.94.161.185<br>
+ <br>Nombre : Bárbara Denise
+ <br>Apellido : Nowosad
+ <br>Cargo : Selección de personal
+ <br>Direccion : Humboldt 381 
+ <br>Ciudad : Ciudad Autónoma de Buenos Aires 
+ <br>Telefono : 1131871388
+ <br>Email : bd.nowosad@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Soy Licenciada en Psicología, egresada en la Universidad del Salvador en el mes de agosto. Estoy buscando un trabajo donde pueda ganar experiencia, desarrollar herramientas de trabajo y crecer profesional y personalmente.
+ <br>Security_code : cnn77
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.44.229.84<br>
+ <br>REF : TEC. EL
+ <br>Nombre : Gustavo Ruben
+ <br>Apellido : Tarantino
+ <br>Cargo : tecnico
+ <br>Direccion : Villarino 475
+ <br>Ciudad : Remedios de Escalada
+ <br>Telefono : 01123212105
+ <br>Email : g.tarantino@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : TRabajo
+ <br>Security_code : dd2kw
+ <br>Send : Enviar
+ <br>
+---------------
+

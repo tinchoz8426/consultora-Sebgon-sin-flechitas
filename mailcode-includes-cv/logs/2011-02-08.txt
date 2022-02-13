@@ -1,0 +1,30 @@
+Address : 190.177.201.124
+Nombre : Diego
+Apellido : Belmonte
+Cargo : Administracion
+Direccion : Pedro Benoit 330
+Ciudad : Merlo
+Telefono : 011 65014915
+Email : dbelmonte.-@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Curriculum Vitae
+Security_code : hnjjj
+Send : Enviar
+
+---------------
+
+Address : 190.48.181.115
+Nombre : Andrea 
+Apellido : Soria
+Cargo : administrativa o  cualquiera similar
+Direccion : Lebenshon 1268
+Ciudad : Paso del rey
+Telefono : 0237-4622031
+Email : soriaandrea@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me dijeron que en esta consultora estaban necesitando gente para realizar entrevistas ambientales y estaba interesada en ese puesto o en alguno para el que crean que pueda rendir...desde ya muchas gracias!!!
+Security_code : smr82
+Send : Enviar
+
+---------------
+

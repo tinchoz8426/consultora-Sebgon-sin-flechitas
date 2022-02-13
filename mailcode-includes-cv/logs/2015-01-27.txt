@@ -1,0 +1,99 @@
+Address : 190.51.75.71
+Nombre : Julieta
+Apellido : Bonanno
+Cargo : Administrativa/Legales
+Direccion : Emperanza 1746
+Ciudad : Ituzaingó
+Telefono : 1558927470
+Email : jeb2811@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto mi cv para poder desempeñarme en algún puesto administrativo o bien, del área legales.-
+Security_code : nxm4y
+Send : Enviar
+
+---------------
+
+Address : 181.165.20.177
+Nombre : PAOLA
+Apellido : FERREYRA
+Cargo : TELEFONISTA, ADMINISTRATIVA
+Direccion : GORRITI 390
+Ciudad : ROSARIO
+Telefono : 0341 - 153003677
+Email : paopipi32@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : buenas tardes les adjunto mi cc.vv para una pronta entrevista .muchas gracias
+Security_code : t5df4
+Send : Enviar
+
+---------------
+
+Address : 190.188.148.236
+Nombre : sofia
+Apellido : lopez
+Cargo : Vendedora
+Direccion : tejedor 28
+Ciudad : mar del plata
+Telefono : 4727349
+Email : sofi-lopez96@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola le adjunto mi CV a los efectos de ver la posibilidad de ser tenida en cuenta,en una próxima entrevista laboral,  para el cargo propuesto.
+Agradecida por su atención, Saludo muy atentamente.
+
+SOFIA ELIZABETH LOPEZ
+Security_code : rfg3b
+Send : Enviar
+
+---------------
+
+Address : 190.225.101.65
+Nombre : Marina
+Apellido : Berti
+Cargo : Asistente Bilingue
+Direccion : Blas Parera 1550
+Ciudad : Martin Coronado
+Telefono : 15-6408-3239
+Email : marina.i.berti@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Poseo sólida experiencia en posiciones de Asistente Bilingüe Inglés en empresas nacionales y multinacionales.
+Nivel avanzado de Inglés (TOEFL y 4 años de residencia en USA). Formación Terciaria: Consultoría Psicológica. Muy buen manejo de herramientas informáticas.
+Muchas gracias
+Security_code : ndcvh
+Send : Enviar
+
+---------------
+
+Address : 190.225.101.65
+Nombre : Marina
+Apellido : Berti
+Cargo : Asistente Bilingue
+Direccion : Blas Parera 1550
+Ciudad : Martin Coronado
+Telefono : 15-6408-3239
+Email : marina.i.berti@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Poseo sólida experiencia en posiciones de Asistente Bilingüe Inglés en empresas nacionales y multinacionales.
+Nivel avanzado de Inglés (TOEFL y 4 años de residencia en USA). Formación Terciaria: Consultoría Psicológica. Muy buen manejo de herramientas informáticas.
+Muchas gracias
+Security_code : ndcvh
+Send : Enviar
+
+---------------
+
+Address : 190.225.101.65
+Nombre : Marina
+Apellido : Berti
+Cargo : Asistente Bilingue
+Direccion : Blas Parera 1550
+Ciudad : Martin Coronado
+Telefono : 15-6408-3239
+Email : marina.i.berti@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Poseo sólida experiencia en posiciones de Asistente Bilingüe Inglés en empresas nacionales y multinacionales.
+Nivel avanzado de Inglés (TOEFL y 4 años de residencia en USA). Formación Terciaria: Consultoría Psicológica. Muy buen manejo de herramientas informáticas.
+Muchas gracias
+Security_code : 5s7s6
+Send : Enviar
+
+---------------
+

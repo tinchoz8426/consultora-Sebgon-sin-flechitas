@@ -1,0 +1,86 @@
+Address : 181.168.72.14
+REF : GT PL
+Nombre : Fernando Enrique
+Apellido : Orio
+Cargo : Gerente
+Direccion : Benito Lynch 2664 4to B
+Ciudad : saenz peña
+Telefono : 1162260370
+Email : fernandoenrique.orio@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Gracias por considerar mi postulacion cuento con mas de 20 años dentro del area industrial en contacto con todas sus areas de servicio
+Security_code : rt5gb
+Send : Enviar
+
+---------------
+
+Address : 181.168.72.14
+REF : JP
+Nombre : Fernando Enrique
+Apellido : Orio
+Cargo : jefe de planta
+Direccion : Benito Lynch 2664 4to B
+Ciudad : saenz peña
+Telefono : 1162260370
+Email : fernandoenrique.orio@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Gracias por considerar mi postulacion, es mi intencion aportar toda mi experiencia adquirida a lo largo de mas de 20 años dentro de todas las areas de proceso, pasando por todos los niveles de trabajo y gestion
+Security_code : 8g6zy
+Send : Enviar
+
+---------------
+
+Address : 181.168.72.126
+Nombre : Claudio Alejandro
+Apellido : Parise
+Cargo : Arquitecto
+Direccion : Manuel Estrada 1538
+Ciudad : Buenos Aires
+Telefono : 11 5384-0263
+Email : arquitectox@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : De mi consideración:
+
+Tengo el agrado de dirigirme a Ud. con el objeto de participar en búsquedas acorde a mi perfil.
+Como Profesional, cuento con una vasta experiencia en empresas de servicios y en el campo autónomo.
+Profesionalmente dedicado a la tarea de planificar y supervisar la implantación de la imagen corporativa de diferentes empresas. Como así también el proyecto y dirección de obras privadas. Intendencia de clubes y mantenimientos de áreas deportivas en countries y barrios cerrados.
+Con marcada predisposición y vocación de servicio a los socios y consorcistas, cubriendo todas las áreas de los mismos, tanto administrativas, deportivas, culturales, recreativas, sociales, solidarias, eventos de todo tipo, sin olvidar la infraestructura, gerenciamiento administrativo y del personal, relaciones con los Municipios sus Áreas de Servicios, seguridad, y todo lo que atañe al normal desenvolvimiento y evolución de la urbanización, en búsqueda permanente de mejoras e innovaciones para los emprendimientos que lidero.
+
+En cuanto a mi formación, soy Arquitecto (UBA). Cuento con un fluido manejo de herramientas informáticas. Me considero proactivo y con capacidad de liderazgo.
+Adjunto mi curriculum vitae.
+
+Sin otro particular, aprovecho esta oportunidad para saludarlo cordialmente.
+Arq. Claudio Parise
+
+Security_code : bxv59
+Send : Enviar
+
+---------------
+
+Address : 181.168.72.126
+Nombre : Claudio Alejandro
+Apellido : Parise
+Cargo : Arquitecto
+Direccion : Manuel Estrada 1538
+Ciudad : Buenos Aires
+Telefono : 11 5384-0263
+Email : arquitectox@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : De mi consideración:
+
+Tengo el agrado de dirigirme a Ud. con el objeto de participar en búsquedas acorde a mi perfil.
+Como Profesional, cuento con una vasta experiencia en empresas de servicios y en el campo autónomo.
+Profesionalmente dedicado a la tarea de planificar y supervisar la implantación de la imagen corporativa de diferentes empresas. Como así también el proyecto y dirección de obras privadas. Intendencia de clubes y mantenimientos de áreas deportivas en countries y barrios cerrados.
+Con marcada predisposición y vocación de servicio a los socios y consorcistas, cubriendo todas las áreas de los mismos, tanto administrativas, deportivas, culturales, recreativas, sociales, solidarias, eventos de todo tipo, sin olvidar la infraestructura, gerenciamiento administrativo y del personal, relaciones con los Municipios sus Áreas de Servicios, seguridad, y todo lo que atañe al normal desenvolvimiento y evolución de la urbanización, en búsqueda permanente de mejoras e innovaciones para los emprendimientos que lidero.
+
+En cuanto a mi formación, soy Arquitecto (UBA). Cuento con un fluido manejo de herramientas informáticas. Me considero proactivo y con capacidad de liderazgo.
+Adjunto mi curriculum vitae.
+
+Sin otro particular, aprovecho esta oportunidad para saludarlo cordialmente.
+Arq. Claudio Parise
+
+Security_code : bxv59
+Send : Enviar
+
+---------------
+

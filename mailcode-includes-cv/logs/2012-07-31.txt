@@ -1,0 +1,134 @@
+Address : 190.195.199.109
+Nombre : Juan Manuel 
+Apellido : Sanchez Ledesma
+Cargo : Tecnico en Seguridad e Higiene
+Direccion : Adrian Veres 1122
+Ciudad : Bahia Blanca
+Telefono : (0291) 154-42-67-49
+Email : juan_manuel_ledesma@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : CV Juan Manuel
+Security_code : x29vm
+Send : Enviar
+
+---------------
+
+Address : 201.253.89.69
+REF : administrativo-logistica
+Nombre : GABRIEL MARTIN
+Apellido : Diaz
+Cargo : control de stock y de mas.
+Direccion : ahiti casa 23 barrio vicor
+Ciudad : cordoba capital
+Telefono : 3512013153
+Email : gabriel_elsiglo@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : es caso q me soliciten les dejo mi numero 3512013153
+Security_code : 72f27
+Send : Enviar
+
+---------------
+
+Address : 190.172.83.130
+REF : jefe-de-operaciones
+Nombre : Nicolas Rubén
+Apellido : Atalla
+Cargo : Jefe de Operaciones
+Direccion : La Rioja 1555 6º A
+Ciudad : CABA
+Telefono : 43084417
+Email : nico_atalla@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : De mi consideración
+Tengo el agrado de dirigirme a usted con el fin de trasmitirles mi deseo en firme de incorporarme a su organización, A tal efecto, adjunto, junto a la presente, mi Curriculum Vitae.
+Me presento como una persona activa, responsable, creativa, flexible, orientada al logro de resultados y a la resolución y evolución constante en las tareas asignadas.
+Además de los datos que surgen en CV, quiero hacerle saber de mi total lealtad y honestidad.
+El objetivo que me he impuesto, es de formar parte del personal de una empresa prestigiosa, confiable y con proyectos ambiciosos.
+Si fuera necesario podría acercarme personalmente para cualquier consulta adicional o entrevista personal. Solo tiene que comunicarse al teléfono 4308-4417 o 1567077709, por mail nico_atalla@yahoo.com.ar .
+Pongo en conocimiento, que estoy en condiciones de asumir la responsabilidad de un empleo, en forma inmediata y con amplia disponibilidad de horarios.
+Quedando a la espera de su respuesta.
+Me despido atte.
+
+Security_code : 563f7
+Send : Enviar
+
+---------------
+
+Address : 190.172.83.130
+REF : jefe-de-operaciones
+Nombre : Nicolás Rubén
+Apellido : Atalla
+Cargo : Jefe de Operaciones
+Direccion : La Rioja 1555  6  A
+Ciudad : CABA
+Telefono : 43084417
+Email : nico_atalla@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Me gustaria trabajar en esta empresa
+Security_code : jnhs8
+Send : Enviar
+
+---------------
+
+Address : 190.172.83.130
+REF : jefe-de-operaciones
+Nombre : Nicolas Ruben
+Apellido : Atalla
+Cargo : Jefe de Operaciones
+Direccion : La Rioja 1555
+Ciudad : Ciudad Autónoma de Buenos Aires
+Telefono : 43084417
+Email : nico_atalla@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Me gustaria mucho el trabajo
+Security_code : v4bwz
+Send : Enviar
+
+---------------
+
+Address : 186.60.188.7
+Nombre : romina ayelen
+Apellido : frias
+Cargo : vendedor-admistracion
+Direccion : juan de garay
+Ciudad : glew
+Telefono : 02224423375
+Email : romi-frias@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : muchas gracias
+Security_code : c6cn8
+Send : Enviar
+
+---------------
+
+Address : 201.252.41.42
+Nombre : Micaela
+Apellido : Mir
+Cargo : Vendedora
+Direccion : Paris 1750. Pablo Podesta
+Ciudad : Buenos Aires
+Telefono : 47393599
+Email : micaelamir@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Les adjunto mi curriculum, por alguna oferta de trabajo, desde  ya muchas gracias.
+Atte Micaela Mir
+Security_code : 2wt6k
+Send : Enviar
+
+---------------
+
+Address : 190.51.168.248
+Nombre : Gabriela Sabrina Lourdes 
+Apellido : González 
+Cargo : Administrativa
+Direccion : Fray Luis Beltran 1260
+Ciudad : Buenos Aires
+Telefono : 42988987
+Email : gabriela.sl.gonzalez@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Envío mi CV completo en datos adjuntos, espero una respuesta. Saludos cordiales. 
+Security_code : d63x5
+Send : Enviar
+
+---------------
+

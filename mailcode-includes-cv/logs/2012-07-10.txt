@@ -1,0 +1,30 @@
+Address : 200.3.222.45
+Nombre : MATIAS 
+Apellido : LACOMBE
+Cargo : ATENCION AL PUBLICO
+Direccion : Sarmiento1779
+Ciudad : Rosario
+Telefono : 034115372018
+Email : matiaslacombe@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados; los puestos que me postulo son, atención al cliente, administrativo, y roles a fines . Atte.. Matias Lacombe. 
+Security_code : 8hcch 
+Send : Enviar
+
+---------------
+
+Address : 200.3.222.45
+Nombre : MATIAS 
+Apellido : LACOMBE
+Cargo : ATENCION AL PUBLICO
+Direccion : Sarmiento1779
+Ciudad : Rosario
+Telefono : 034115372018
+Email : matiaslacombe@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados; los puestos que me postulo son, atención al cliente, administrativo, y roles a fines . Atte.. Matias Lacombe. 
+Security_code : 8hcch 
+Send : Enviar
+
+---------------
+

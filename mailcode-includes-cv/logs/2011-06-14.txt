@@ -1,0 +1,15 @@
+Address : 200.117.87.91
+Nombre : ARIEL
+Apellido : ALOISIO
+Cargo : SOLDADOR
+Direccion : TERRADA 2488
+Ciudad : CAPITAL FEDERAL
+Telefono : 45014097
+Email : aloiar@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : busco trabajo de soldador operario o peon
+Security_code : 5fkj9
+Send : Enviar
+
+---------------
+

@@ -1,0 +1,43 @@
+Address : 
+REF : Asistente-Contable
+Nombre : Natali Gisel
+Apellido : Pelaez Noguera
+Cargo : Asistente Contable, Administrativa
+Direccion : Barrio J. P. Catro 2 mza/E casa/2
+Ciudad : San Juan Caucete
+Telefono : 0264-154859981
+Email : naty_pelaez@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me dirijo a Usted, con el fin de solicitarle el puesto que están buscando. Cuento con conocimientos básicos en PC, tengo curso de Tango Gestión, y soy Técnica en Administración Contable, (Titulo y Certificado en Tramite). En mis experiencias laborales   mis puestos han sido de administrativa, atención al cliente, cajera, encargada. Desde ya muchas gracias y me despido muy atentamente.
+Security_code : g9dy8
+Send : Enviar
+
+---------------
+
+Address : 
+Nombre : Federico
+Apellido : vargas
+Cargo : Responsable/Jefe Recursos Humanos
+Direccion : boulevard san martin 2728
+Ciudad : Buenos Aires. Palomar
+Telefono : 4751-3072
+Email : vargasfederico@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Por intermedio del presente tengo el agrado de dirigirme a ustedes para extenderles mi Curriculum Vitae, con información relacionada a mi desarrollo académico, conocimientos y experiencia laboral, vinculada a posiciones de responsabilidad en el área de Recursos Humanos.
+
+ 
+
+Soy una persona con un alto nivel de compromiso, que cuenta con un muy buen manejo de relaciones interpersonales, comportamiento social, y profesional.  
+
+ 
+
+Quedo a su entera disposición para una posible y eventual entrevista personal, en la cual pueda profundizar mi perfil personal y profesional. 
+
+Cordialmente
+ 
+Federico Vargas
+Security_code : 28mms
+Send : Enviar
+
+---------------
+

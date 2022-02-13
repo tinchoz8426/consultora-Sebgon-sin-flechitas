@@ -1,0 +1,45 @@
+Address : 190.247.94.217
+Nombre : yasmin
+Apellido : hassan
+Cargo : logistica, Administrativo,eventos, medios graficos
+Direccion : av cabildo
+Ciudad : capital federal
+Telefono : 1561374573
+Email : yasht22@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : puedo postularme para cargos de docencia, eventos, administrativos, logistica, seguimiento de medios, entre otros
+Security_code : 7ygz4
+Send : Enviar
+
+---------------
+
+Address : 190.173.67.207
+Nombre : Matías Adrián
+Apellido : Domínguez
+Cargo : Administrativo
+Direccion : Luzuriaga 1791
+Ciudad : Hurlingham
+Telefono : 44520362
+Email : cyber_pinguin-oh@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : En busca de un trabajo administrativo en Moron y aledaños.
+Security_code : msjrb
+Send : Enviar
+
+---------------
+
+Address : 190.174.213.97
+Nombre : LAURA ALEJANDRA
+Apellido : DE MARCO
+Cargo : ASISTENTE DE GERENCIA-DIRECTORIO
+Direccion : RCA DEL LÌBANO 654
+Ciudad : GRAN BS AS SUR
+Telefono : 011-4240-3346
+Email : laurademarcorrpp@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Deseo desarrollarme con una actitud proactiva en el ámbito que se me asigne y crecer profesionalmente, haciendo de la “ buena comunicación”, el pilar fundamental para este desarrollo y progreso
+Security_code : sjbss
+Send : Enviar
+
+---------------
+

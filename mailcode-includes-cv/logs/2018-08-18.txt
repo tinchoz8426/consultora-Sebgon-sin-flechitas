@@ -1,0 +1,47 @@
+Address : 181.25.166.38<br>
+ <br>Nombre : Gabriel
+ <br>Apellido : Avila
+ <br>Cargo : Operario
+ <br>Direccion : Marchena 1575
+ <br>Ciudad : San miguel
+ <br>Telefono : 1150975973
+ <br>Email : Gabrielalcidesavila44554869@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola aqui les dejo mi cv gracias
+ <br>Security_code : Fq7yn
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.245.26.49<br>
+ <br>REF : Ing. quim
+ <br>Nombre : Gisela
+ <br>Apellido : Quintero
+ <br>Cargo : Jefa de Produccion
+ <br>Direccion : Almagro
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 1133776263
+ <br>Email : gijoquilan@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me gustaria formar parte de su equipo de trabajo. Anexo mi CV para su revisión. Cualquier información adicional, no dude en contactarme.
+ <br>Security_code : kb4wq
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.9<br>
+ <br>REF : TM-2
+ <br>Nombre : David 
+ <br>Apellido : Vega
+ <br>Cargo : Mantenimiento mecanico
+ <br>Direccion : Bernardo de Irigoyen 909
+ <br>Ciudad : Zárate 
+ <br>Telefono : 9348715667823
+ <br>Email : ruben_vega_22@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Busco trabajo, responsable y capacitado
+ <br>Security_code : Qskm2
+ <br>Send : Enviar
+ <br>
+---------------
+

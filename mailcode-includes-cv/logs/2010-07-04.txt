@@ -1,0 +1,65 @@
+Address : 209.13.47.254
+Nombre : Maria Florencia
+Apellido : Colangelo
+Cargo : Recepcionista/ Administrativa
+Direccion : Del Barco Centenera 334 7 B
+Ciudad : Ciudad Autonoma de Buenos Aires
+Telefono : 4902-3682
+Email : mflorencia_colangelo@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Remuneración pretendida:: $2.500
+Security_code : k9cpq
+Send : Enviar
+
+---------------
+
+Address : 186.56.139.200
+Nombre : Silvina Ayelén
+Apellido : Amén
+Cargo : Recepcionista
+Direccion : Bolivia 4965
+Ciudad : Moreno
+Telefono : 15-34699636
+Email : silvinaa_a@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : A continuación adjunto mi cv para ser evaluado.
+Desde ya muchas gracias.
+Atte. Amén Silvina.
+Security_code : nvkxk
+Send : Enviar
+
+---------------
+
+Address : 186.56.155.147
+Nombre : Nicolás Angel
+Apellido : Dominguez
+Cargo : Admin. de Sistemas de Expedición
+Direccion : Santiago del Estero 1960
+Ciudad : Merlo
+Telefono : 011-15-6167-6535
+Email : nicolas_dominguez8@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto mi Cv para la actual o futuras busquedas. Muchas gracias
+Security_code : w56x3
+Send : Enviar
+
+---------------
+
+Address : 200.126.162.219
+Nombre : Camila
+Apellido : Romano
+Cargo : Recepcionista
+Direccion : Av. San Martin 6618
+Ciudad : Capital federal
+Telefono : 15 6120 5177
+Email : camilafromano@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Tengo el agrado de dirigirme a usted con el fin de enviarle, una copia de mi currículum vitae en respuesta al aviso clasificado publicado en bumeran.com.ar.
+
+A la espera de sus noticias, se despide atentamente,  
+                      Camila Florencia Romano  
+Security_code : dkw5p
+Send : Enviar
+
+---------------
+

@@ -1,0 +1,15 @@
+Address : 190.19.57.70
+Nombre : victor 
+Apellido : cerrella
+Cargo : supervisor
+Direccion : echenagucia
+Ciudad : capital 
+Telefono : 46428189
+Email : vcerrella@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : busco trabajo y tengo movilidad propia
+Security_code : rv8dh
+Send : Enviar
+
+---------------
+

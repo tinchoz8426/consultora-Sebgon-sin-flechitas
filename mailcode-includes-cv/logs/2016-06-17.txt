@@ -1,0 +1,83 @@
+Address : 186.62.146.214<br>
+ <br>Nombre : Sonia Mercedes
+ <br>Apellido : Monteros
+ <br>Cargo : limpieza
+ <br>Direccion : los naranjos 4115
+ <br>Ciudad : mar del plata
+ <br>Telefono : 4697704
+ <br>Email : evelinbrunoruben@hotmail,com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : necesito trabajo
+ <br>Security_code : 43q2g
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.47.134.92<br>
+ <br>REF : RTC
+ <br>Nombre : Ricardo
+ <br>Apellido : Sanchez
+ <br>Cargo : Representante Tecnico Comercial
+ <br>Direccion : Avenida Corrientes 3339
+ <br>Ciudad : Capital Federal
+ <br>Telefono : 91122537075
+ <br>Email : sanchezricardo1387@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola, soy un profesional dinámico y comprometido, con mucha facilidad de adaptación a diferentes entornos de trabajo.
+
+Con habilidades autodidactas motivado a enfrentarse a un medio globalizado y competitivo en la búsqueda del mejoramiento continúo.
+La remuneración pretendida será la acorde con mi aporte al crecimiento de la empresa y las responsabilidades adquiridas
+ <br>Security_code : 5t89j
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.13.2.68<br>
+ <br>Nombre : romina
+ <br>Apellido : Zacarías 
+ <br>Cargo : atención al público 
+ <br>Direccion : chaco654
+ <br>Ciudad : mar del plata
+ <br>Telefono : 223 155031888
+ <br>Email : rominaesteticista@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Gracias por su tiempo 
+ <br>Security_code : 9bwkk
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.60.202.105<br>
+ <br>REF : ENPRO
+ <br>Nombre : Jorge Horacio
+ <br>Apellido : Navarro
+ <br>Cargo : SUPERVISOR PRODUCCION
+ <br>Direccion : 3 DE FEBRERO 343
+ <br>Ciudad : CARLOS SPEGAZZINI
+ <br>Telefono : 1135801946//02274430791
+ <br>Email : jorge.navarro46@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje :                     Mando medio con más de 30 años de experiencia en las áreas de programación, manufactura, producción,auditorias de material procesados  y sin procesar control de stock, mantenimiento, arranque de planta y   líneas de producción. Capacitación de personal a cargo, gran capacidad para desarrollar soluciones operativas a problemas inmediatos y áreas de oportunidad, Habilidad para establecer buena relación con equipos de trabajo y mandos Directivos.office Word exel 
+compromiso, responsabilidad, capacidad de desempeño en producción de distintos rubros y secciones.
+
+
+ <br>Security_code : nfqmd
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.166.105.145<br>
+ <br>Nombre : Micaela Alejandra
+ <br>Apellido : Lartigau
+ <br>Cargo : Atencion al Cliente
+ <br>Direccion : Misiones 6532
+ <br>Ciudad : Tres de Febrero
+ <br>Telefono : 1554606117
+ <br>Email : micaelalejandralartigau@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : .
+ <br>Security_code : g7y4v
+ <br>Send : Enviar
+ <br>
+---------------
+

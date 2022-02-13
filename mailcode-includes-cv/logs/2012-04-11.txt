@@ -1,0 +1,53 @@
+Address : 190.192.123.137
+Nombre : Federico
+Apellido : Arnsdorf
+Cargo : cajero/empleado administrativo/otros
+Direccion : Juan Domingo Peron 1605
+Ciudad : CABA
+Telefono : 4371-4667
+Email : arnsdorf.federico@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buen dia me pongo a su disposicion para actuales o futuras busquedas laborales que se adecuen a mi perfil.
+Desde ya muchas gracias.
+Federico Arnsdorf
+Security_code : jg7bw
+Send : Enviar
+
+---------------
+
+Address : 190.190.81.3
+Nombre : Fernando Ivan
+Apellido : Suarez
+Cargo : Consultor/ Analista
+Direccion : Belisario Roldan 3621
+Ciudad : Carapachay
+Telefono : 15-31222238
+Email : fers.989@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : A quien corresponda:
+
+Estoy en la búsqueda de mi primer empleo por lo que les estoy enviando mi CV por si encuentran algún perfil de jovén profesional.
+
+Saludos cordiales.
+Fernando Suarez
+Security_code : xmj9w
+Send : Enviar
+
+---------------
+
+Address : 186.136.127.110
+Nombre : Denise
+Apellido : Woslavsky
+Cargo : Secretaria/recepcionista
+Direccion : Demaria 4550
+Ciudad : Buenos Aires
+Telefono : 155 094 8888
+Email : denwos@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : ENVIO CV,
+DENISE WOSLAVSKY.
+Security_code : gkgj3
+Send : Enviar
+
+---------------
+

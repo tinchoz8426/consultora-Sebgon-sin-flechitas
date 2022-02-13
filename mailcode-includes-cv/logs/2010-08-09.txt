@@ -1,0 +1,94 @@
+Address : 200.82.123.135
+Nombre : Ariel Jesus
+Apellido : Andrada
+Cargo : tecnico en SeH
+Direccion : victor hugo 5246 - dto 1- 
+Ciudad : Villa Bosch - buenos aires
+Telefono : 011-48442702 / 1568766000
+Email : ajandrada@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : me encuentro finalizando muis estudios de tecnico superior en seguridad e higiene industrial, en el instituto argentino de seguridad. no adeudo materias y obtengo el titulo a fines de este año. poseo conocimentos en procedimientos, gestion ambiental, capacitacion y mediciones ambientales.
+ desde ya agradeciendo su atencion: 
+Ariel Jesus Andrada
+Security_code : ziphf
+Send : Enviar
+
+---------------
+
+Address : 190.230.179.165
+Nombre : Natacha
+Apellido : Levin
+Cargo : Asistente Bilingue
+Direccion : Moldes 2556
+Ciudad : Capital Federal
+Telefono : 45452761
+Email : natacha_levin@yahoo.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Muchas gracias
+Security_code : 6h854
+Send : Enviar
+
+---------------
+
+Address : 190.178.80.204
+Nombre : manuel
+Apellido : parada
+Cargo : chofer cargas generales
+Direccion : ramon y cajal 2426
+Ciudad : rio gallegos
+Telefono : 0296615406243
+Email : manuel_parada@live.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : nesecito trabajo y hasi poder tener mas experiencia en esa empresa
+Security_code : vb5hb
+Send : Enviar
+
+---------------
+
+Address : 201.250.187.26
+Nombre : Alen
+Apellido : Flores Rielo
+Cargo : Recepcionista/ Telemarketer
+Direccion : Guido Spaño 1087
+Ciudad : San Antonio de Padua
+Telefono : 011-1569785040
+Email : flores.alen@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Estoy segura de que podré realizar un trabajo muy satisfactorio, aprendiendo mucho con entusiasmo, y desarrollando mis habilidades y conocimientos.
+Security_code : htrjw
+Send : Enviar
+
+---------------
+
+Address : 170.155.6.11
+Nombre : jorge
+Apellido : curcio
+Cargo : Analista de Inteligencia Criminal 
+Direccion : 8 N° 3162
+Ciudad : Berisso
+Telefono : 0221-4617579
+Email : curciojorge@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estoy interesado en trabajar en asesoramiento con horario no estable mi tutulo es de Tecnico Superior en Analisis Delictual manual e Informatico certificado por el Misniterio de Educacion de la Provincia 
+Security_code : j7d6v
+Send : Enviar
+
+---------------
+
+Address : 190.50.159.14
+Nombre : Maria de los Angeles
+Apellido : Tineo
+Cargo : indistinto
+Direccion : Cisneros 4473
+Ciudad : san justo, Bs As
+Telefono : 44822487
+Email : maky_281@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Espero poder formar parte del staff, me i8nteresa mucho trabajar con ustedes.
+espero alcanzar las expectativas.
+saludos cordiale.
+Security_code : 4dzxd
+Send : Enviar
+
+---------------
+

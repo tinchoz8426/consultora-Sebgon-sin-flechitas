@@ -1,0 +1,115 @@
+Address : 181.95.101.214
+Nombre : Eduardo
+Apellido : Gomez
+Cargo : arquitecto-lider de proyecto-director de obra
+Direccion : Ayacucho 3149
+Ciudad : Vicente Lopez
+Telefono : 01134945005
+Email : eduardogomez.arq@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : De mi mayor consideración:
+Les envío mi CV para que el mismo pueda ser considerado en futuras búsquedas de personal que realice su organización. 
+Soy graduado en la carrera de Arquitectura en la Facultad de Diseño y Urbanismo de la Universidad de Buenos Aires.
+En mi último empleo me he desempeñado como profesional de la construcción dirigiendo tareas de dirección de obra, análisis de costos, supervisión de contratistas y coordinación de tareas entre distintos gremios de obra. Además, poseo buen manejo de herramientas informáticas y tengo buen dominio del idioma inglés. 
+En referencia a la remuneración pretendida, la misma sería a convenir, ajustable según las características de contratación.
+Esperando una respuesta favorable para poder concertar una entrevista personal y ampliar los datos incluidos en mi CV, los saludo cordialmente.
+
+Security_code : whyxw
+Send : Enviar
+
+---------------
+
+Address : 186.19.56.116
+Nombre : Maria Fernanda
+Apellido : Wolowien
+Cargo : Personal para socioambientales
+Direccion : Matanza 76
+Ciudad : Avellaneda
+Telefono : 1567574607
+Email : mfernan2004@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Buen Dia! les envio Curriculum Vitae para su consideracion. Muchas Gracias!
+Security_code : w9h2h
+Send : Enviar
+
+---------------
+
+Address : 186.57.215.89
+Nombre : ELSA 
+Apellido : VERON 
+Cargo : TRABAJADORA SOCIAL 
+Direccion : GABRIELA MISTRAL  824
+Ciudad : ITUZAINGO
+Telefono : 11 33 39 90 40
+Email : elsitaver@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Envio cv 
+Security_code : qttmz
+Send : Enviar
+
+---------------
+
+Address : 186.57.215.89
+Nombre : ELSA 
+Apellido : VERON 
+Cargo : TRABAJADORA SOCIAL 
+Direccion : GABRIELA MISTRAL  824
+Ciudad : ITUZAINGO
+Telefono : 11 33 39 90 40
+Email : elsitaver@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Envio cv 
+Security_code : qttmz
+Send : Enviar
+
+---------------
+
+Address : 186.57.215.89
+Nombre : ELSA 
+Apellido : VERON 
+Cargo : TRABAJADORA SOCIAL 
+Direccion : GABRIELA MISTRAL  824
+Ciudad : ITUZAINGO
+Telefono : 11 33 39 90 40
+Email : elsitaver@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Envio cv 
+Security_code : qttmz
+Send : Enviar
+
+---------------
+
+Address : 186.22.228.16
+Nombre : Florencia
+Apellido : Grazzi
+Cargo : Lic. en Trabajo Social
+Direccion : E. Zeballos 6099
+Ciudad : Wilde, Avellaneda
+Telefono : 20571464
+Email : floreciagrazzi@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Encargado de RRHH: envío en archivo adjunto mi curriculum vitae para ser tenida en cuenta para la búsqueda que llevan a acabo para la realización de informes socioambientales. Cuento con matrícula profesional al día y posibilidad de emitir factura, así como también disponibilidad y flexibilidad horaria.
+Me pongo a su disposición para ser convocada a una entrevista personal y aportar la documentación que estimen necesaria.
+Espero una respuesta favorable. Saludos
+Security_code : 5vy5z
+Send : Enviar
+
+---------------
+
+Address : 201.255.227.254
+Nombre : Jesica Analia
+Apellido : Losano
+Cargo : camarera
+Direccion : Av. de Mayo 1360 4°B
+Ciudad : CABA
+Telefono : 1534643265
+Email : losanojesica@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : buenos dias. me gustaria postularme para trabajar como camarera, tengo experiencia e el area.
+en este momento me encuentro desempleada.
+espero su respuesta. desde ya muchas gracias.
+Security_code : tyzw3
+Send : Enviar
+
+---------------
+

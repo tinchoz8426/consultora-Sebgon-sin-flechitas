@@ -1,0 +1,865 @@
+Address : 181.1.139.1<br>
+ <br>REF : ACO-1
+ <br>Nombre : Sebastian
+ <br>Apellido : Caputo
+ <br>Cargo : Administrativo
+ <br>Direccion : Campo de mayo
+ <br>Ciudad : Tres de Febrero
+ <br>Telefono : 1169527122
+ <br>Email : sebastian.caputo@outlook.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estoy interesado en formar arte de su empresa. Poder crecer a nivel profesional, brindar mis conocimientos y aprender lo que aún me falte.
+ <br>Security_code : t7mw3
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.55.38.174<br>
+ <br>REF : ACO
+ <br>Nombre : marcela
+ <br>Apellido : ibarra
+ <br>Cargo : Asistente comercial
+ <br>Direccion : De Cuba 1722
+ <br>Ciudad : pontevedra
+ <br>Telefono : 1150586086
+ <br>Email : imarcelasolange486@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Asistente comercial
+ <br>Security_code : 7hnyx
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.24.176.128<br>
+ <br>REF : EP-1
+ <br>Nombre : Juan Ignacio
+ <br>Apellido : Pagani
+ <br>Cargo : Encargado de Produccion
+ <br>Direccion : calle 15 n°286
+ <br>Ciudad : Mercedes Bs As
+ <br>Telefono : 02324-15471531
+ <br>Email : juanignaciopagani@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buen dia, mi nombre es Juan Ignacio, me postulo para la vacante de Encargado de Producción. Me considero una persona pro-activa, capaz de liderar y coordinar un grupo para ser los efectivo posible en el proceso productivo.
+Referencia: Jorge Alfredo Volpe. Gerente de Inelec Srl. Celular: 02324-15649895 
+ <br>Security_code : mc48j
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.24.176.128<br>
+ <br>REF : EP-1
+ <br>Nombre : Juan Ignacio
+ <br>Apellido : Pagani
+ <br>Cargo : Encargado de Produccion
+ <br>Direccion : calle 15 n°286
+ <br>Ciudad : Mercedes Bs As
+ <br>Telefono : 02324-15471531
+ <br>Email : juanignaciopagani@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buen dia, mi nombre es Juan Ignacio, me postulo para la vacante de Encargado de Producción. Me considero una persona pro-activa, capaz de liderar y coordinar un grupo para ser los efectivo posible en el proceso productivo.
+Referencia: Jorge Alfredo Volpe. Gerente de Inelec Srl. Celular: 02324-15649895 
+ <br>Security_code : mc48j
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.24.176.128<br>
+ <br>REF : EP-1
+ <br>Nombre : Juan Ignacio
+ <br>Apellido : Pagani
+ <br>Cargo : Encargado de Produccion
+ <br>Direccion : calle 15 n°286
+ <br>Ciudad : Mercedes Bs As
+ <br>Telefono : 02324-15471531
+ <br>Email : juanignaciopagani@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buen dia, mi nombre es Juan Ignacio, me postulo para la vacante de Encargado de Producción. Me considero una persona pro-activa, capaz de liderar y coordinar un grupo para ser los efectivo posible en el proceso productivo.
+Referencia: Jorge Alfredo Volpe. Gerente de Inelec Srl. Celular: 02324-15649895 
+ <br>Security_code : mc48j
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 179.39.131.70<br>
+ <br>REF : ACO
+ <br>Nombre : Daniela Fabiana
+ <br>Apellido : Garis
+ <br>Cargo : Asistente Comercial
+ <br>Direccion : Posadas 754
+ <br>Ciudad : Ramos Mejia
+ <br>Telefono : 46473006
+ <br>Email : daniela_g37@hotmail.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : De mi mayor consideración:
+Tengo el agrado de dirigirme a Ud. Con el fin de transmitirles mi deseo en firme de incorporarme a su organización. A tal efecto adjunto, mi Curriculum Vitae.
+Me presento como una persona activa, responsable, creativa, flexible, orientada al logro de resultados y a la resolución y evolución constante en las tareas asignadas.
+El objeto que me he impuesto, es el de formar parte del personal de una empresa prestigiosa y confiable.
+Si fuera necesario podría acercarme personalmente para cualquier consulta adicional o entrevista personal.
+Solo tiene que comunicarse al tel Part 4647-3006 o Cel 15 3246-3315 o por mail daniela_g37@hotmail.com.ar
+Pongo, además, en su conocimiento que estoy en condiciones de asumir la responsabilidad de este empleo en forma inmediata, con amplia disponibilidad de horarios.
+Me despido Atte
+Daniela F Garis
+ <br>Security_code : sngb5
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.0.189.44<br>
+ <br>Nombre : walter
+ <br>Apellido : carrizo
+ <br>Cargo : deposito-produccion
+ <br>Direccion : carlos ortiz 1719
+ <br>Ciudad : buenos aires
+ <br>Telefono : 1559432349
+ <br>Email : ivanwcarrizo@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Mi objetivo es trabajar de manera responsable,organizada y en equipo,desempeñandome en funciones que me permitan aumentar mi experiencia y acercarme a mi futura area profecional.
+ <br>Security_code : q29zq
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.138.9.69<br>
+ <br>REF : JPER-1
+ <br>Nombre : Anabel
+ <br>Apellido : Rojas
+ <br>Cargo : JPER-1
+ <br>Direccion : Santa Nicolás
+ <br>Ciudad : 50
+ <br>Telefono : 1127190645
+ <br>Email : anabelrojas283@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Adjunto mi CV de Abogado, fonde se evidencia mi experiencia en el cargo
+ <br>Security_code : h4hdn
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 104.129.204.49<br>
+ <br>REF : ROT-1
+ <br>Nombre : Luciano MArtin
+ <br>Apellido : Ceñal
+ <br>Cargo : Oficina Tecnica
+ <br>Direccion : Juan B Justo
+ <br>Ciudad : Pilar
+ <br>Telefono : 0249154683424
+ <br>Email : luciano_tandilarg@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : .
+ <br>Security_code : 538bd
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.188.105.195<br>
+ <br>REF : EP-1
+ <br>Nombre : Cesar
+ <br>Apellido : Henao
+ <br>Cargo : EP-1
+ <br>Direccion : Maipu 26 Piso 7 Depto E
+ <br>Ciudad : Capital Federal
+ <br>Telefono : 1134974025
+ <br>Email : cesarh26@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Como podrán  ver,  poseo una amplia experiencia en empresas productoras; con conocimientos y experiencias en Administración de compras, warehouse, bill of materials, supply chain; manejo de proveedores, facturación y supervisión entre otros. Además  manejo, mejora y control de procesos; planificación de la producción, insumos, materias primas y producto terminado. Controles de mermas, de costos y desperdicios; ajuste de formulaciones, mejoras en la productividad. Asimismo implementación, desarrollo y puesta en marcha de sistemas de calidad para la industria de los alimentos, GMP, POES, HACCP, ISO 22000.
+
+No obstante a la experiencia ya adquirida, deseo poder incorporar nuevos conocimientos; tener nuevos desafíos y responsabilidades. Adicionalmente a lo ya escrito, considero que mi pro-actividad, mis ganas de aprender y mí formación actualizada, aportarían elementos importantes a su empresa.
+
+ <br>Security_code : 9ph6x
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.188.105.195<br>
+ <br>REF : EP-1
+ <br>Nombre : Cesar
+ <br>Apellido : Henao
+ <br>Cargo : EP-1
+ <br>Direccion : Maipu 26 Piso 7 Depto E
+ <br>Ciudad : Capital Federal
+ <br>Telefono : 1134974025
+ <br>Email : cesarh26@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : CESAR AUGUSTO HENAO PEREZ                                                                                   
+DNI No. 94.414.025
+Residencia Actual: Argentina
+Dirección: Maipú 26 Piso 7º Depto. E Capital Federal - Buenos Aires - Argentina 
+Código Postal: 1084  Teléfono: 15 3497-4025    Email: cesarh26@hotmail.com
+
+PERFIL OCUPACIONAL:
+Tecnología de Alimentos y Técnico en Control de Calidad de Alimentos con experiencias y destrezas adquiridas en la planificación de la producción, control y mejora de procesos; mejoras en la productividad; control de mermas, costos, desperdicios y ajuste de formulaciones. 
+Experiencia en administración de compras, warehouse, bill of materials y supply chain; compras (órdenes de compra), generación de pedidos; revisión y control de remitos, recepción de proveedores e inspección de mercaderías; abastecimiento; control de inventarios, niveles de stock y actualización en sistema; conformación y revisión de facturas; manejo de documentación y archivos.
+Manejo de equipos, materias primas, productos en proceso, subproductos y producto terminado para su manipulación, procesamiento y conservación, dentro de los parámetros de calidad y sanidad exigidos. Implementación, desarrollo y puesta en marcha de sistemas de calidad para la industria de los alimentos, GMP, POES, HACCP, ISO 22000. Además, aplicación de métodos de muestreo y técnicas para el análisis de laboratorio tanto físicos, químicos, microbiológicos y sensoriales en productos alimenticios que garantizan el proceso de gestión de la calidad. 
+
+FORMACION ACADEMICA:
+12/2015                      Administración de Compras y materiales, Nivel Avanzado – UTN
+En curso                    Lic. Administración de Empresas – UBA
+09/2003                      Tecnólogo en Alimentos. Universidad del Valle - Colombia
+06/2003                      Técnico Profesional Control y Calidad de Alimentos. Sena - Colombia
+02/2007                      Técnico Profesional en Gastronomía. Sena  - Colombia
+
+
+EXPERIENCIA PROFESIONAL:
+05.2016 – 12.2016| ARRIBOS S.A., Argentina.  
+Sénior / Jefe de Deposito. Responsable de garantizar la operación diaria del depósito; gestionando los recursos disponibles, la optimización del espacio del almacén y asegurando los niveles de aprovisionamiento de mercaderías en tiempo y forma de acuerdo a los criterios definidos por la empresa. Dirigir y determinar los procedimientos, las operaciones de entrada y salida de los materiales. Manejo y rotación del Stock; manejo de los inventarios, los conteos cíclicos, las transferencias de las mercaderías, picking de productos. Supervisar, controlar y administrar los insumos, equipos y recursos asignados al área (manejo del personal de logística), además el movimiento y traslado de mercaderías. Analizar los desvíos del área y generación de informes.
+Coordinar todas las actividades del depósito (logística interna, el almacenamiento de las materias primas, productos en proceso y productos terminados).
+Realizar el control físico periódico del inventario, llevar el registro y controlar los indicadores establecidos (índices de rotación de la mercancía y su obsolescencia).
+01.2016 – 04.2016 ANAMILO S.R.L. -  GRUPO BLEND, Argentina.  
+Sénior / Supervisor de Producción. Alimentos. Responsable por el correcto funcionamiento de la planta productiva.  Organizar y distribuir las tareas diarias del personal de planta de acuerdo a la planificación de la producción, cumpliendo los objetivos de producción programados.
+Liderar y dirigir el equipo de trabajo, midiendo el desempeño del personal de planta, mejorando los niveles de productividad. Cumplir con los procedimientos de registro y carga de información al sistema de gestión de la empresa. Controlar y minimizar las mermas de insumos y de materias primas. Realizar las solicitudes de requerimientos a depósito, entrega de materias primas a las líneas de producción y entrega de producto terminado. 
+Asegurar que se cumplan los procedimientos estandarizados de producción; además cumplir con los más altos niveles  de limpieza y orden del centro de producción; y normas de seguridad e higiene alimentaria (BPM, POES). Control de calidad de materias primas y producto terminado y el buen uso y cuidado de equipos.
+
+07.2011–09.2015 | MARRIOTT - PLAZA HOTEL, Argentina. Hotelería. 
+Sénior. Gastronomía. Responsable por el armado, control y despacho del desayuno tipo Americano y almuerzo tipo Buffet. Organización, control y manejo de mercadería según el sistema F.I.F.O. Controles y registro de temperaturas, manejo de buenas prácticas de manufactura. Entrenamiento, inducción y capacitación de personal nuevo del área. Cross training en el área de Compras, Depósito e Inventarios. Generación de órdenes de compra, revisión y control de remitos. Carga de stock y actualización en sistema. Conformación y revisión de facturas. Recepción e inspección de mercaderías.
+
+
+06.2010-06.2011 | ADECCO-ARGENTINA, Argentina. 	Servicios. 
+Sénior. Gastronomía. Organización y producción de la cocina caliente y la cocina fría; en el Hotel Sheraton de Retiro, Hotel Four Seasons (Buenos Aires); entre otros. Responsable por la realización de las preparaciones para eventos sociales (banquetes), preparación de platos para la recepción (entradas y platos principales); establecer estándares de producción, estimar requerimientos de alimentos y provisiones, administrar y manejar recursos (materiales, equipos y materias primas); gestionar y asegurar la calidad de los productos, los procesos y que los alimentos cumplan las normas de seguridad y estándares de calidad exigidos.
+
+
+11.2008 - 07.2009 | DIVI HOTEL, Aruba- Holland	Antilles. Hotelería.
+Sénior / Jefe de Partida. Recepción de las compras de insumos y materias primas para la producción. Organización, control, coordinación y distribución de los recursos humanos (brigadas de cocina) en función del volumen de trabajo (banquetes, restaurantes, room service, lobby bar). Responsable de materiales, equipos; responsable de armado, control y despacho asociados a la producción gastronómica. Control de aprovisionamientos (elaboración y generación de informes), conservación y almacenamiento de mercaderías. 
+Aplicar normas de higiene, seguridad alimentaria, prevención de riesgos por accidentes laborales y ejecución de sistemas de calidad; buenas prácticas de manufactura GMP, sistema de trazabilidad y manejo de residuos sólidos.
+
+
+01.2008 - 10.2008 | NOBUSHI N.V. Aruba - Holland Antilles. Alimentos y Bebidas. 
+Sénior / Jefe de Cocina. Apertura e inauguración del restaurante, planeación del menú, diseño de la carta y organización de la cocina. Responsable de planear y dirigir las actividades diarias, administrar los recursos, determinar estándares de producción y supervisar al personal de cocina. Cálculo de costos y requerimientos de alimentos y provisiones; control de stock de mercadería. Diseñar y aplicar registros de calidad, registro de temperaturas y estándares de calidad, manejo de buenas prácticas de manufactura. Entrenamiento, inducción y capacitación de personal en las preparaciones y presentación de los alimentos.
+
+
+02.2008 - 06.2008 | TASTE OF BELGIUM CATERING AND BISTRO - Aruba, Holland Antilles.
+Sénior / Gastronomía. Organización de la producción de preparaciones frías y  calientes. Responsable por el armado, despacho y transporte de la producción gastronómica del catering para las empresas de turismo Red Sail Sport y De Palm Tour. Control de aprovisionamientos (elaboración y generación de informes), conservación y almacenamiento de mercaderías. Además asegurar la calidad de los productos, los procesos,  las normas de seguridad y estándares de calidad.
+
+
+07.2005 - 02.2007 | HOTEL INTERNACIONAL CASA MORALES, Colombia. Hotelería. 
+Sénior / Jefe de Partida. Administración, supervisión y control de equipos, recursos y materias primas. Responsable por el desarrollo de los sectores de la cocina;  realización de los procesos para la prestación del servicio, actividades de alistamiento previo de equipos, planificación y organización de la producción, control de procesos; control de costos, control de desperdicios, cálculo de costos y requerimientos de alimentos y provisiones; control de stock de mercaderías. Diseño de formulaciones y manuales de procedimiento. Implementación de normas de seguridad y estándares de calidad (GMP, ISO 22000).
+
+
+06.2005 - 08.2005 | ALITER S.A, Colombia.
+Sénior / Supervisor de producción, Diseño e implementación de formulaciones, registros de producción y manuales de procedimientos. Optimización de procesos, recursos y materiales; control de costos, control de mermas y mejoramiento de la productividad. Desarrollo y manejo de nuevos proveedores,  líneas de productos y materias primas. . Diseño, desarrollo y puesta en marcha del Plan de saneamiento (programa de limpieza y desinfección); programa de desechos sólidos y programa de trazabilidad. Inducción y capacitación al personal en los programas de calidad.
+
+
+06.2004-01.2005 | CORPOGINEBRA, Colombia. 	Agroindustria. 
+Sénior / Comercializador. Logística y Distribución. Responsable por la negociación con productores de la uva Isabella de la región y con Hipermercados de la zona de Cali, (Comfandi  y La Galería); responsable de cosecha, transporte, acopio, fragmentación, empaque y negociación de la fruta.  Manejo en la logística de cosecha de la uva Isabella, aplicando criterios dentro del marco de las buenas prácticas agrícolas (GAMP) y buenas prácticas de manufactura (GMP). Continuidad en las implementaciones realizadas según el proyecto de agro-negocios de la uva Isabella, (BID - FOMIN), en cultivos, centros de acopio e hipermercados.
+
+10.2003 - 06.2004 | FUNDACIÓN CARVAJAL - BANCO INTERAMERICANO DE DESARROLLO, Colombia.Consultoría/Auditoría.
+Sénior / Técnico Control de Calidad. Investigación y Desarrollo. PROYECTO DE AGRONEGOCIOS DE LA UVA ISABELLA - Colombia. Técnico en control y calidad de alimentos desarrollando e implementando el sistema de aseguramiento de la inocuidad (GAMP) en el cultivo de la uva. Implementación de métodos de muestreo y técnicas para el análisis de laboratorio tanto físicos, químicos, microbiológicos y sensoriales en el cultivo de la uva Isabella, que garantizan el proceso de gestión de la calidad. Desarrollo del manual (planes y programas) según las Buenas Prácticas Agrícolas y Buenas Prácticas Manufactura, en los cultivos con productores y en centros de acopio. Conocimiento, desarrollo y puesta en marcha; en conformidad con estándares nacionales e internacionales en el cultivo de la uva Isabella.
+
+
+01.2003-09.2003 | MOLINO FLOR HUILA S.A., Colombia. Agroindustria.
+Junior / Técnico de Calidad – Supervisor de producción. Responsable de los controles de proceso del molino. Recibo del grano y manejo del laboratorio de paddy  para el análisis de trilla y determinación del porcentaje de humedad que determinan los controles de temperaturas en las baterías y torres de secado y desviación estándar del grano. Supervisar y controlar el almacenamiento del grano seco en los silos del molino. Control del proceso de trilla, controles de proceso y de equipos de pre-limpieza (tamizado). Determinación del porcentaje de descascarado y determinación de grano partido. Supervisión y control del pulido del grano primer paso (VTA), segundo paso VBF, tercer paso KB40. Clasificación por tamaño y color; envió del grano a las cajas de grano entero y grano partido, dosificación del grano y empaque. Manejo de formatos de proceso, planillas de producción, calculo y definición de los tiempos y movimientos, supervisión y control de operarios y maquinaria.
+
+ACTUALIZACIONES:
+02/2017 Excel Avanzado. Facultad de Ciencias Económicas - Universidad de Buenos Aires. 
+07/2011 Curso de Emprendimientos Gastronómicos, Facultad de Ciencias Económicas - Universidad de Buenos Aires. 
+03/2011 Laboratorio de Idiomas. Ingles Nivel II. Universidad de Buenos Aires,
+03/2006 Sistema de gestión de la calidad Norma ISO 9001-2000. Servicio Nacional de Aprendizaje -Colombia.
+08/2005 Metodologías para el Diseño y  Elaboración de Manuales de Procedimiento. Universidad Nacional de Colombia - Bogotá, Colombia.
+02/2005 Formación para el Trabajo con Productores Rurales en Proyectos de cadena Productiva. Fundación Carvajal – Banco Interamericano de desarrollo BID- FOMIN, Colombia. 
+12/2003  Office Word, Power Point, Excel. Sena Centro de Comercio y Servicios, Colombia.
+02/2001 Curso – Taller de Aseguramiento en Calidad al Sector Agroalimentario (ASE-CALIDAD) HACCP. Universidad del Tolima, Colombia.
+08/2000 Seminario – Taller de Buenas Prácticas de Manufactura en la Industria Alimenticia. Universidad del Tolima, Colombia.
+
+ <br>Security_code : jj6ft
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.9<br>
+ <br>REF : ACO
+ <br>Nombre : En a Jocelyn 
+ <br>Apellido : Franco 
+ <br>Cargo : Asistente Comercial
+ <br>Direccion : Paris 1315, Loma Hermosa
+ <br>Ciudad : Loma Hermosa
+ <br>Telefono : 20892882
+ <br>Email : Jocelynfrancog@Outlook.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados señores
+Adjunto mi Currículum Vitae a fin de aplicar a vacante e n
+en referencia.
+Atentamente
+Jocelyn Franco
+ <br>Security_code : gpccw
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.9<br>
+ <br>Nombre : Ena Jocelyn 
+ <br>Apellido : Franco 
+ <br>Cargo : Asistente : De Gerencia, Comercial, Comercio Exterior,  Administradora , Administrativo
+ <br>Direccion : Paris 1315, Loma Hermosa
+ <br>Ciudad : Loma Hermosa
+ <br>Telefono : 20892882
+ <br>Email : Jocelynfrancog@outlook.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados señores
+Es grato saludarlos y adjuntar mi Currículum Vitae.
+Soy profesional, con experiencia en las áreas administrativas, y me encuentro en búsqueda de oportunidad laboral, por lo que agradeceré considerar mi CV en los ofrecimientos laborales q manejen.
+En caso requerir los documentos , certificaciones, u otro dato adicional , no duden en contactarme n
+Atentamente
+Jocelyn Franco
+
+ <br>Security_code : Q6k7r
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.133.202.92<br>
+ <br>REF : EP-1
+ <br>Nombre : Imanol
+ <br>Apellido : Olguín
+ <br>Cargo : Encargado de Produción
+ <br>Direccion : Francisco Alvarez 1071
+ <br>Ciudad : Mendoza
+ <br>Telefono : 0261-156464355
+ <br>Email : ima.olguin@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados señores/as de Recursos Humanos 
+          En función  con la oferta publicada en Indeed tengo el gusto de remitirles mi currículum vitae con el objetivo de participar en el proceso de selección.
+
+En relación  a esto, soy un Joven Profesional graduado de Ingeniería Química con sólidos conocimientos técnicos y amplia disponibilidad para radicarme en zonas aledañas a Villa Mercedes. Además poseo conocimientos de normas de calidad ,análisis HACCP , HAZOP, curso de transferencia de calor, herramientas graficas, un nivel de ingles intermedio, buen dominio de herramientas informáticas, manejo de simuladores de procesos y mucho interés en seguir capacitándome.
+
+Considero que podría integrarme adecuadamente a la organización ya que soy una persona responsable, proactiva y con capacidad para formar grupos de trabajo en los que se busque la optimización continua de las tareas.
+
+Agradezco la gentileza de su atención y quedo a la espera de sus comentarios. Sin otro particular lo saludo cordialmente. 
+
+ <br>Security_code : s7sxh
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.231.205.68<br>
+ <br>REF : ROT-1
+ <br>Nombre : Sebastian
+ <br>Apellido : Salassa
+ <br>Cargo : Proyectista
+ <br>Direccion : Italia 553
+ <br>Ciudad : Sunchales
+ <br>Telefono : 0349315448333
+ <br>Email : sebastian.salassa@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenos días, les dejo mi CV para que lo tengan presente no solo para esta búsqueda, si no, que para futuras que de con mi perfil.
+ <br>Security_code : m29xt
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.18.51.79<br>
+ <br>REF : ROT-1
+ <br>Nombre : Maria Belen
+ <br>Apellido : Winschel
+ <br>Cargo : Responsable de Oficina Tecnica
+ <br>Direccion : Gral. Güemes 511
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 1165762402
+ <br>Email : belenwinschel@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados, vista la oferta laboral adjunto mis datos personales y profesionales por medio de mi CV para ser tenida en cuenta como candidata.
+Desde ya muchas gracias,
+M. Belén Winschel
+ <br>Security_code : qq6rx
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.173.245.19<br>
+ <br>REF : SP-1
+ <br>Nombre : Juan Carlos
+ <br>Apellido : Gonzales Montero
+ <br>Cargo : Supervisor
+ <br>Direccion : Av. Almirante Brown 555 - La Boca
+ <br>Ciudad : La boca
+ <br>Telefono : 43073107
+ <br>Email : carlosgonzalesmontero@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : De amplia experiencia, innovador, motivado, orientado a producir resultados, dinámico, de probada experiencia, colaborador y trabajo en equipo, rápido, con habilidad para resolver problemas, muy emprendedor. Grandes deseos de superación y con proyección de trabajo en equipo, cumpliendo los objetivos asignados aun bajo presión. Considero que de acuerdo a mi experiencia laboral poseo la capacidad suficiente para realizar un complejo trabajo profesional.
+ <br>Security_code : wp999
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.138.147.103<br>
+ <br>REF : EP-1
+ <br>Nombre : Favio
+ <br>Apellido : Martínez
+ <br>Cargo : Supervisor de produccion
+ <br>Direccion : Deheza 2351 Ituzaingo
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 1563357859
+ <br>Email : favioantmartinez@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Tengo 28 años de experiencia en mantenimiento y producción,manejo de grupos de trabajo ,programación de tareas ,planificacion de paradas anuales ,normas de seguridad y ambiente,iso 9000,iso 14000,5s ,lean,seguimiento y análisis de fallas ,atención a proveedores,conocimientos de hidráulica y neumática 
+ <br>Security_code : gzgc7
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.189.237.115<br>
+ <br>REF : ROT-1
+ <br>Nombre : Marcos
+ <br>Apellido : Reyes
+ <br>Cargo : Responsable de oficina técnica
+ <br>Direccion : pasaje juan f. bateman 2895
+ <br>Ciudad : capital federal
+ <br>Telefono : 1124727222
+ <br>Email : marcosr.11@hotmnail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenos dias a través de esta postulación les hago llevar mi c.v. con el objetivo de que lo tengan en cuenta para sus requerimientos. Me gustaria conocer su empresa y detalladamente el puesto vacante que ofrecen. Muchas gracias, saludos atte.
+ <br>Security_code : fnyqt
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.191.243.21<br>
+ <br>REF : SP-1
+ <br>Nombre : Gabriel 
+ <br>Apellido : Peña
+ <br>Cargo : Supervisor de Producción
+ <br>Direccion : Antonio Machado 690
+ <br>Ciudad : Capitañ Federañ
+ <br>Telefono : 1126583643
+ <br>Email : gapc1391@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas tardes, mi nombre es Gabriel Peña, Ingeniero Químico, me encuentro bastante interesado en su oferta de trabajo. Adjunto mi Curriculum Vitae, espero sea de su gran interes. Gracias de antemano.
+ <br>Security_code : d579w
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.7<br>
+ <br>REF : TE-1
+ <br>Nombre : Hector javier
+ <br>Apellido : Orellana
+ <br>Cargo : Electricista industrial profesional y plc
+ <br>Direccion : Altolaguirre 880 
+ <br>Ciudad : Aldo bonzi
+ <br>Telefono : 44627314
+ <br>Email : Hjorellana805@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola que tal como les va ? Buenas tardes . Les cuento soi tecnico electricista industrial calificado . Y tambien soi practico en automatizacion logica programada (plc). Tengo conocimiento en neumatica y electroneumatica tambien . Y sobre electricidad industrial te hago lo circuitos que quieras con sus contactor tanto la parte fuerza (tension al motot) como la parte de mando ( que es la bobina y sus pulsadores como tambien en el circuito estrella triangulo lleva su temporizador   . Emm bueno se bastante tengo 21 años y me gustaria aportar todo mi estudio y experiencia a ustedes un abrazo . Si me necesitan aqui les dejo mi gmail es hjorellana805@gmail.com un abrazo . 
+ <br>Security_code : Yg3vy
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 216.244.251.51<br>
+ <br>REF : chr
+ <br>Nombre : Marcos Javier
+ <br>Apellido : Martin Socca
+ <br>Cargo : Chofer Repartidor
+ <br>Direccion : Sitio Montevideo 2810
+ <br>Ciudad : Lanús Este
+ <br>Telefono : 0261-219-3353
+ <br>Email : marcosjaviermartin@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Sin trabajo en este momento
+ <br>Security_code : z46t7
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 216.244.251.51<br>
+ <br>REF : chr
+ <br>Nombre : Marcos Javier
+ <br>Apellido : Martin Socca
+ <br>Cargo : Chofer Repartidor
+ <br>Direccion : Sitio Montevideo 2810
+ <br>Ciudad : Lanús Este
+ <br>Telefono : 0261-219-3353
+ <br>Email : marcosjaviermartin@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Sin Trabajo en Este Momento
+ <br>Security_code : 8yqpx
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.9<br>
+ <br>REF : TE-1
+ <br>Nombre : Hector javier
+ <br>Apellido : Orellana
+ <br>Cargo : Electricista industrial profesional y plc
+ <br>Direccion : Altolaguirre 880 
+ <br>Ciudad : Aldo bonzi
+ <br>Telefono : 44627314
+ <br>Email : Hjorellana805@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola que tal como les va ? Buenas tardes . Les cuento soi tecnico electricista industrial calificado . Y tambien soi practico en automatizacion logica programada (plc). Tengo conocimiento en neumatica y electroneumatica tambien . Y sobre electricidad industrial te hago lo circuitos que quieras con sus contactor tanto la parte fuerza (tension al motot) como la parte de mando ( que es la bobina y sus pulsadores como tambien en el circuito estrella triangulo lleva su temporizador   . Emm bueno se bastante tengo 21 años y me gustaria aportar todo mi estudio y experiencia a ustedes un abrazo . Si me necesitan aqui les dejo mi gmail es hjorellana805@gmail.com un abrazo . 
+ <br>Security_code : Wp2sv
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.9<br>
+ <br>REF : TE-1
+ <br>Nombre : Hector javier
+ <br>Apellido : Orellana
+ <br>Cargo : Electricista industrial profesional y plc
+ <br>Direccion : Altolaguirre 880 
+ <br>Ciudad : Aldo bonzi
+ <br>Telefono : 44627314
+ <br>Email : Hjorellana805@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola que tal como les va ? Buenas tardes . Les cuento soi tecnico electricista industrial calificado . Y tambien soi practico en automatizacion logica programada (plc). Tengo conocimiento en neumatica y electroneumatica tambien . Y sobre electricidad industrial te hago lo circuitos que quieras con sus contactor tanto la parte fuerza (tension al motot) como la parte de mando ( que es la bobina y sus pulsadores como tambien en el circuito estrella triangulo lleva su temporizador   . Emm bueno se bastante tengo 21 años y me gustaria aportar todo mi estudio y experiencia a ustedes un abrazo . Si me necesitan aqui les dejo mi gmail es hjorellana805@gmail.com un abrazo . 
+ <br>Security_code : gzkdh
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 191.82.114.125<br>
+ <br>REF : chr
+ <br>Nombre : Luis Maximiliano
+ <br>Apellido : Almaras
+ <br>Cargo : chofer
+ <br>Direccion : pio gana 4746
+ <br>Ciudad : gonzalez catan
+ <br>Telefono : 1169041062
+ <br>Email : maxi_j20@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : chofer
+ <br>Security_code : z64v6
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.19.40.129<br>
+ <br>REF : EP-1
+ <br>Nombre : Cristian 
+ <br>Apellido : Caravello
+ <br>Cargo : Encargado de producción
+ <br>Direccion : Ecuador 850
+ <br>Ciudad : Ituzaingó
+ <br>Telefono : 1134121584
+ <br>Email : criscaravello@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Amplia experiencia como Jefe de Planta en industrias melatúrgica y textil, esta última de consumo masivo.
+
+ <br>Security_code : pnwzn
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.244.122.236<br>
+ <br>REF : JPER-1
+ <br>Nombre : Daniela
+ <br>Apellido : Dellacasa
+ <br>Cargo : Jefe de personal
+ <br>Direccion : Lavalleja 376
+ <br>Ciudad : Ituzaingó
+ <br>Telefono : 1153382515
+ <br>Email : danielafdellacasa@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas tardes,
+Adjunto mi cv ya que me encuentro interesada en participar del proceso de selección del puesto "Jefe de personal". Quedo atenta a su contacto en caso que pueda acceder a una entrevista. 
+Desde ya, muchas gracias
+ <br>Security_code : 7g8ys
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 152.169.165.36<br>
+ <br>REF : TE-1
+ <br>Nombre : Omar
+ <br>Apellido : Kazar
+ <br>Cargo : Técnico Eléctrico
+ <br>Direccion : TAFI 2763 
+ <br>Ciudad : SARANDI
+ <br>Telefono : 01142047031
+ <br>Email : okazar@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buen día, adjunto mi CV para postularme al empleo de referencia u otros acordes a mis experiencias. Gracias.
+ <br>Security_code : 84p7k
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.182.189.51<br>
+ <br>REF : SP-1
+ <br>Nombre : Pablo Miguel
+ <br>Apellido : Sanmartin
+ <br>Cargo : Supervisor de Producción
+ <br>Direccion : Monteagudo 860
+ <br>Ciudad : Villa Bosch, Buenos Aires
+ <br>Telefono : 1158543223
+ <br>Email : psanmart01@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Mi experiencia es en el rubro de las Telecomunicaciones (Telefonía Celular), en la cual he tenido excelentes resultados enfocados a proyectos. Tengo buen manejo de personal, de grupos de trabajos  con informes de gestión.
+ <br>Security_code : wnm2f
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.45.159.188<br>
+ <br>REF : SP-1
+ <br>Nombre : Maria Laura
+ <br>Apellido : Iturralde
+ <br>Cargo : Supervisor de Produccion
+ <br>Direccion : 25 de mayo 422
+ <br>Ciudad : Quilmes
+ <br>Telefono : (011)15-4088-5457
+ <br>Email : mliturralde@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : M
+ <br>Security_code : hgcq9
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.45.159.188<br>
+ <br>REF : SP-1
+ <br>Nombre : Maria Laura
+ <br>Apellido : Iturralde
+ <br>Cargo : Supervisor de Produccion
+ <br>Direccion : 25 de mayo 422
+ <br>Ciudad : Quilmes
+ <br>Telefono : (011)15-4088-5457
+ <br>Email : mliturralde@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : M
+ <br>Security_code : hgcq9
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.45.159.188<br>
+ <br>REF : SP-1
+ <br>Nombre : Maria Laura
+ <br>Apellido : Iturralde
+ <br>Cargo : Supervisor de Produccion
+ <br>Direccion : 25 de mayo 422
+ <br>Ciudad : Quilmes
+ <br>Telefono : (011)15-4088-5457
+ <br>Email : mliturralde@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : M
+ <br>Security_code : hgcq9
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.45.159.188<br>
+ <br>REF : SP-1
+ <br>Nombre : Maria Laura
+ <br>Apellido : Iturralde
+ <br>Cargo : Supervisor de Produccion
+ <br>Direccion : 25 de mayo 422
+ <br>Ciudad : Quilmes
+ <br>Telefono : (011)15-4088-5457
+ <br>Email : mliturralde@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : M
+ <br>Security_code : hgcq9
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.45.159.188<br>
+ <br>REF : SP-1
+ <br>Nombre : Maria Laura
+ <br>Apellido : Iturralde
+ <br>Cargo : Supervisor de Produccion
+ <br>Direccion : 25 de mayo 422
+ <br>Ciudad : Quilmes
+ <br>Telefono : (011)15-4088-5457
+ <br>Email : mliturralde@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : M
+ <br>Security_code : hgcq9
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.45.159.188<br>
+ <br>Nombre : Maria Laura
+ <br>Apellido : Iturralde
+ <br>Cargo : Supervisor de Produccion
+ <br>Direccion : 25 de mayo 422
+ <br>Ciudad : Quilmes
+ <br>Telefono : (011)15-4088-5457
+ <br>Email : mliturralde@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : M
+ <br>Security_code : tp9zr
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.27.255.5<br>
+ <br>REF : EP-1
+ <br>Nombre : Paula Alejandra
+ <br>Apellido : Albarracin
+ <br>Cargo : Encargado de Producción
+ <br>Direccion : Guardia Nacional 1569
+ <br>Ciudad : CABA
+ <br>Telefono : 1132494241
+ <br>Email : albarracin.paula@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Envío mi CV para su consideración en este puesto o en otro que consideren adecuado. 
+Saluda atte.
+Albarracin Paula
+ <br>Security_code : qj82m
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.179.198.26<br>
+ <br>REF : TE-1
+ <br>Nombre : Eric
+ <br>Apellido : Alcon
+ <br>Cargo : Tecnico Electromecanico.
+ <br>Direccion : Villa Soldaty
+ <br>Ciudad : CABA
+ <br>Telefono : 01149397900
+ <br>Email : ealcon94@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola.
+    Me interesa poder aprender mas en el campo tecnologico.
+ <br>Security_code : k5wwt
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 191.80.120.97<br>
+ <br>Nombre : Edgar Gastón 
+ <br>Apellido : Mena
+ <br>Cargo : Auxiliar de farmacia
+ <br>Direccion : Triunvirato
+ <br>Ciudad : Libertad
+ <br>Telefono : 1167987178
+ <br>Email : gastonmena@outlook.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Envío la presente para informar a usted que estoy interesado en colaborar con mi experiencia, habilidades, conocimiento y competencias personales en el logro de los objetivos del trabajo que usted dirige, por lo que me gustaría ser tomado en cuenta para el puesto que este buscando.
+ <br>Security_code : 9nw5x
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 191.80.120.97<br>
+ <br>Nombre : Edgar Gastón 
+ <br>Apellido : Mena
+ <br>Cargo : Auxiliar de farmacia
+ <br>Direccion : Triunvirato
+ <br>Ciudad : Libertad
+ <br>Telefono : 1167987178
+ <br>Email : gastonmena@outlook.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Envío la presente para informar a usted que estoy interesado en colaborar con mi experiencia, habilidades, conocimiento y competencias personales en el logro de los objetivos del trabajo que usted dirige, por lo que me gustaría ser tomado en cuenta para el puesto que este buscando.
+ <br>Security_code : 9nw5x
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 191.80.120.97<br>
+ <br>Nombre : Edgar Gastón 
+ <br>Apellido : Mena
+ <br>Cargo : Auxiliar de farmacia
+ <br>Direccion : Triunvirato
+ <br>Ciudad : Libertad
+ <br>Telefono : 1167987178
+ <br>Email : gastonmena@outlook.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Envío la presente para informar a usted que estoy interesado en colaborar con mi experiencia, habilidades, conocimiento y competencias personales en el logro de los objetivos del trabajo que usted dirige, por lo que me gustaría ser tomado en cuenta para el puesto que este buscando.
+ <br>Security_code : mcd9v
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.57.241.211<br>
+ <br>REF : SP-1
+ <br>Nombre : Mariano Manuel
+ <br>Apellido : López
+ <br>Cargo : Supervisor de Producción (Turnos Rotativos)
+ <br>Direccion : Urquiza 3447, dto 2F
+ <br>Ciudad : Santa Fe
+ <br>Telefono : 0342156983882
+ <br>Email : marianomanuellopez@outlook.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola: Soy Mariano y me encuentro interesado en la propuesta laboral. Adjunto mi curriculum para que me tengan en consideración.
+ <br>Security_code : z7tvt
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.168.189.3<br>
+ <br>REF : chr
+ <br>Nombre : FEDERICO DAMIAN
+ <br>Apellido : CABELLO
+ <br>Cargo : Chofer
+ <br>Direccion : Dehez2810 
+ <br>Ciudad : Capital federal
+ <br>Telefono : 11-5492-8013
+ <br>Email : federicocabello20@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenos días, 
+
+Mi nombre es Federico Damian Cabello y estoy en búsqueda de un empleo.
+
+Tengo 15 años de experiencia en logística & distribución.
+
+Cuento con licencia de conducir vigente y vehículo propio (FIORINO)
+
+Teléfono: 15-5492-8013 / 15-2383-6896
+
+Saludos cordiales
+ <br>Security_code : qgyv8
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.117.4.150<br>
+ <br>REF : TE-1
+ <br>Nombre : Naudys 
+ <br>Apellido : ortega
+ <br>Cargo : tecnico electricista
+ <br>Direccion : fray justo santa maria oro2200
+ <br>Ciudad : buenos aires
+ <br>Telefono : 1127478184
+ <br>Email : naudysortega01@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Salario pretendido 16000
+ <br>Security_code : 6p583
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 108.171.138.164<br>
+ <br>Nombre : Erica Roxana
+ <br>Apellido : Moyano Cichero
+ <br>Cargo : Administrativa de ventas
+ <br>Direccion : M y L De La Vega 2255
+ <br>Ciudad : Moreno
+ <br>Telefono : 011 15 64741530
+ <br>Email : ericarmoyanoc@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola, Me contactaron por una postulación que hice desde Computrabajo,dejaron un mensaje al teléfono fijo de mi casa y desde entonces no logro comunicarme con Andrea quien dejo el mensaje. por favor si se pueden comunicar a mi teléfono móvil estaré muy agradecida.
+15 64741530.
+desde ya muchas gracias!
+Saludos
+ <br>Security_code : zd258
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 200.125.106.164<br>
+ <br>REF : EP-1
+ <br>Nombre : Alberto Miguel
+ <br>Apellido : Solonyczeys
+ <br>Cargo : Encargado de producción
+ <br>Direccion : Unanue 700 edif 8 dpto 3 pb
+ <br>Ciudad : Villa Celina  La Matanza
+ <br>Telefono : 1127041103
+ <br>Email : albertosolonyczeys@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados,
+He visto la Oferta Laboral publicada  y la misma me resultó de gran interés. Por este motivo, les hago llegar mi Currículum Vitae, a fin de ser tenido en cuenta como candidato.
+Quedo a su disposición para ampliar cualquier información necesaria.
+Cordialmente,
+Alberto Miguel Solonyczeys
+
+ <br>Security_code : rjr56
+ <br>Send : Enviar
+ <br>
+---------------
+

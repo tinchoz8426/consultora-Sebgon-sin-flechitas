@@ -1,0 +1,326 @@
+Address : 201.231.8.62<br>
+ <br>REF : E.DIS
+ <br>Nombre : Osvaldo
+ <br>Apellido : Istillart
+ <br>Cargo : Diseño Industrial
+ <br>Direccion : Hidalgo 231 1 F
+ <br>Ciudad : Caballito
+ <br>Telefono : 11-35628484
+ <br>Email : istillart.o@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estudiante de Diseño Industrial, pronto a graduarse. 
+En busca de empleo como diseñador.
+ <br>Security_code : mftgb
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 200.16.80.9<br>
+ <br>REF : GTEP
+ <br>Nombre : Pablo
+ <br>Apellido : Quintela
+ <br>Cargo : Gerente de Planta
+ <br>Direccion : Monte 5739
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 4635-0934
+ <br>Email : quintelap@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buen día, considero que mi perfil con fuerte desempeño en la industria y especialmente gestionando proyectos de mejora puede ser útil para esta búsqueda.
+Agradezco lo consideren.
+Cordialmente,
+Pablo QUINTELA
+ <br>Security_code : vxt8w
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.104.209.114<br>
+ <br>Nombre : Valeria
+ <br>Apellido : Pastorini
+ <br>Cargo : Asistente de Recursos Humanos, Administrativa
+ <br>Direccion : Av Manuel Ricardo Trelles 2460 3B
+ <br>Ciudad : CABA
+ <br>Telefono : 1536026057
+ <br>Email : val.pastorini@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estoy cursando el último año de la Tecnicatura de Recursos Humanos y me gustaría seguir adquiriendo experiencia en el área.
+ <br>Security_code : 5wbf4
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.15.183.240<br>
+ <br>REF : JEOTEC
+ <br>Nombre : Norberto
+ <br>Apellido : Perez
+ <br>Cargo : Jefe de oficina tecnica
+ <br>Direccion : La Florida 3377
+ <br>Ciudad : Bariloche
+ <br>Telefono : 0294 154539346
+ <br>Email : norbertoperez.ar@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados,
+
+He visto la Oferta Laboral publicada en INDEED y la misma me resultó de gran interés. Por este motivo, les hago llegar mi Currículum Vitae, a fin de ser tenido en cuenta como candidato.
+Quedo a su disposición para ampliar cualquier información necesaria.
+Cordialmente,
+
+Norberto Omar Perez
+Cel. 0294 154539346
+ <br>Security_code : j8mg6
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.22.251.207<br>
+ <br>REF : ENPRO
+ <br>Nombre : Claudio
+ <br>Apellido : Viera
+ <br>Cargo : Encargado de produccion
+ <br>Direccion : Calle 879 Nº4927
+ <br>Ciudad : Quilmes 
+ <br>Telefono : 1539073910
+ <br>Email : cmv.comunitaria@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buen dia.
+
+Mi nombre es Claudio Viera,les envió mi curriculum personal,tengo 22 años de experiencia en la industria plástica,conocimientos de normas ISO 9001 /14001/22000,manejo un grupo de personas en planta ,mi tarea  actual corresponde al desempeño como responsable de la gestión y control de calidad de una conocida empresa plástica (inyección y soplado)  .
+Creo en mis condiciones y experiencia para afrontar un nuevo desafió laboral con el fin de lograr objetivos positivos en común.
+ <br>Security_code : dw8b6
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.51.2.211<br>
+ <br>Nombre : Hector Alejandro
+ <br>Apellido : Samaniego
+ <br>Cargo : Administracion, Atencion al cliente
+ <br>Direccion : Las flores 1600
+ <br>Ciudad : Avellaneda
+ <br>Telefono : 1541428103
+ <br>Email : samaniegohectoralejandro@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : 14 años de experiencia de atencion al cliente. Responsable y disciplinado.
+ <br>Security_code : z7zps
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.210.27.194<br>
+ <br>REF : JP
+ <br>Nombre : SEBASTIAN PABLO
+ <br>Apellido : PAPI
+ <br>Cargo : JP
+ <br>Direccion : Arias, 2524
+ <br>Ciudad : Lanus
+ <br>Telefono : 1558700880
+ <br>Email : sebapapi@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : La remuneración es negociable y no es un impedimento para un futuro cambio
+ <br>Security_code : 96365
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.111.174.10<br>
+ <br>REF : GTEP
+ <br>Nombre : Dario Gustavo
+ <br>Apellido : Molina
+ <br>Cargo : Gerente de Planta
+ <br>Direccion : Mendoza 1162
+ <br>Ciudad : San Jorge-Santa Fe
+ <br>Telefono : 0264-155803693/03406-15642890
+ <br>Email : dachi_004@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : De mi mayor consideración:
+Por la presente, tengo el agrado de dirigirme a Uds. con el fin de postularme formalmente al puesto de referencia. 
+Con tal motivo, pongo a vuestra disposición mis antecedentes personales, académicos y laborales.
+Con la seguridad de encontrarme absolutamente calificado, para satisfacer la presente   necesidad, y a la espera de un próximo contacto, los saludo muy atentamente.
+
+Lic. Darío Molina
+
+ <br>Security_code : pvw85
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.22.2.93<br>
+ <br>Nombre : Luis
+ <br>Apellido : Stivanello
+ <br>Cargo : Supervisor tecnico
+ <br>Direccion : ituzaingo
+ <br>Ciudad : Ituzaingo
+ <br>Telefono : 1554982792
+ <br>Email : luisstiv@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estoy interesado en conseguir empleo urgente., gracias..!!!
+ <br>Security_code : s2msw
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.153.210.69<br>
+ <br>Nombre : Camila Lourdes
+ <br>Apellido : Martinez Badra
+ <br>Cargo : Administrativa o atencion al cliente
+ <br>Direccion : bv los granaderos 2791
+ <br>Ciudad : Córdoba
+ <br>Telefono : 93513715053
+ <br>Email : cami_m2_089@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Tengo el agrado de dirigirme a usted a los fines de solicitar ser considerada postulante para la vacante  en el ámbito de esta prestigiosa empresa. He finalizado el colegio secundario, actualmente estoy en tercer año de la carrera de abogacía con todas las materias al día y trabaje de encargada/cajera/administrativa  en “majamorena”  siendo las funciones de manejo de la caja, la computadora, realización de facturas, atención al publico satisfactoria tanto personalmente como telefónicamente entre otras ( EXPERIENCIAS COMPROBABLES TEL referencias 0351-156801319 Mariana)
+Poseo gran capacidad de integración y a la hora de aprender cosas nuevas, me responsabilizo con el trabajo respetando a mis pares y superiores. Quedo a su entera disposición, a la espera de una entrevista, para ampliar cualquier información que me sea solicitada, Desde ya muchas gracias saludo atte Camila Badra
+
+ <br>Security_code : k93wd
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.177.192.204<br>
+ <br>REF : SuP
+ <br>Nombre : cristian
+ <br>Apellido : zapata
+ <br>Cargo : supervisor de produccion
+ <br>Direccion : h.bouchard 1806
+ <br>Ciudad : grand bourg
+ <br>Telefono : 15 54915893
+ <br>Email : cristiancandelaria@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : con muchas ganas de liderar un grupo de trabajo. dinamico y con muchas herramientas de manufactura.
+ <br>Security_code : mmxjj
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.176.12.240<br>
+ <br>REF : SEP
+ <br>Nombre : DANIEL
+ <br>Apellido : HERRERA
+ <br>Cargo : OPERARIO DE DEPOSITO
+ <br>Direccion : TERRERO 1990
+ <br>Ciudad : RAFAEL CASTILLO
+ <br>Telefono : (011)46908826
+ <br>Email : herreraD74@GMAIL.COM
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Soy un trabajador proactivo, siempre estoy buscando la manera mas rápida y simple de hacer las cosas.
+Disfruto trabajar, pero no me gusta el trabajo extra, por eso hago mi trabajo de forma efectiva, para no tener que repetirlo.
+Quiero aplicar todo el conocimiento obtenido en mas de 8 años de expecias laborales
+
+ <br>Security_code : rfjkh
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.176.12.240<br>
+ <br>Nombre : HECTOR DANIEL
+ <br>Apellido : HERRERA
+ <br>Cargo : OFFICIAL CABLEADOR
+ <br>Direccion : TERRERO1990
+ <br>Ciudad : RAFAEL CASTILLO
+ <br>Telefono : (011)46908826
+ <br>Email : herrerad74@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Soy un trabajador proactivo, siempre estoy buscando la manera mas rápida y simple de hacer las cosas.
+Disfruto trabajar, pero no me gusta el trabajo extra, por eso hago mi trabajo de forma efectiva, para no tener que repetirlo.
+Quiero aplicar todo el conocimiento obtenido en mas de 8 años de expecias laborales
+
+ <br>Security_code : ymcwq
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.15.183.240<br>
+ <br>REF : JEOTEC
+ <br>Nombre : Norberto
+ <br>Apellido : Perez
+ <br>Cargo : Jefe de oficina tecnica
+ <br>Direccion : La Florida 3377
+ <br>Ciudad : Bariloche
+ <br>Telefono : 0294 154539346
+ <br>Email : norbertoperez.ar@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados,
+
+He visto la Oferta Laboral publicada en INDEED y la misma me resultó de gran interés. Por este motivo, les hago llegar mi Currículum Vitae, a fin de ser tenido en cuenta como candidato.
+Quedo a su disposición para ampliar cualquier información necesaria.
+Cordialmente,
+
+Norberto Omar Perez
+Cel. 0294 154539346
+ <br>Security_code : j8mg6
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.15.183.240<br>
+ <br>REF : JEOTEC
+ <br>Nombre : Norberto
+ <br>Apellido : Perez
+ <br>Cargo : Jefe de oficina tecnica
+ <br>Direccion : La Florida 3377
+ <br>Ciudad : Bariloche
+ <br>Telefono : 0294 154539346
+ <br>Email : norbertoperez.ar@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados,
+
+He visto la Oferta Laboral publicada en INDEED y la misma me resultó de gran interés. Por este motivo, les hago llegar mi Currículum Vitae, a fin de ser tenido en cuenta como candidato.
+Quedo a su disposición para ampliar cualquier información necesaria.
+Cordialmente,
+
+Norberto Omar Perez
+Cel. 0294 154539346
+ <br>Security_code : j9zyv
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.183.40.55<br>
+ <br>Nombre : Claudio Fernando
+ <br>Apellido : Ayala
+ <br>Cargo : Supervisor. Lider de produccion
+ <br>Direccion : Patagones 
+ <br>Ciudad : Tristan Suarez
+ <br>Telefono : 1155944603
+ <br>Email : aquiles74_31@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : adjunto c.v
+ <br>Security_code : 6tdbs
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.157.217.182<br>
+ <br>REF : TES
+ <br>Nombre : Joaquin
+ <br>Apellido : Fernandez
+ <br>Cargo : Tesorero
+ <br>Direccion : Olaguer y Feliu 3271
+ <br>Ciudad : Olivos_-Vte. Lopez
+ <br>Telefono : 1560202082
+ <br>Email : jrfer0447@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Adjunto Cv. 
+Cordialmente
+
+Joaquin
+ <br>Security_code : 5dkfx
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.166.230.126<br>
+ <br>Nombre : Maria Florencia
+ <br>Apellido : Gonzalez
+ <br>Cargo : empleada
+ <br>Direccion : Manuel Ugarte 3867
+ <br>Ciudad : CABA
+ <br>Telefono : 1133710628
+ <br>Email : flor_fatemo@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Busco empleo en limpieza, atencion al cliente, o lo que sea.
+ <br>Security_code : 7by53
+ <br>Send : Enviar
+ <br>
+---------------
+

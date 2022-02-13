@@ -1,0 +1,679 @@
+Address : 132.255.200.1
+Nombre : David Ezequiel
+Apellido : Romero
+Cargo : oficial
+Direccion : 42 entre 173 y 174
+Ciudad : la plata 
+Telefono : 221-6414765
+Email : dezequielromero@outlook.com
+MAX_FILE_SIZE : 2097152
+Mensaje : solicitud de empleo
+Security_code : vz9py
+Send : Enviar
+
+---------------
+
+Address : 132.255.200.1
+Nombre : David Ezequiel
+Apellido : Romero
+Cargo : oficial
+Direccion : 42 entre 173 y 174
+Ciudad : la plata 
+Telefono : 221-6414765
+Email : dezequielromero@outlook.com
+MAX_FILE_SIZE : 2097152
+Mensaje : solicitud de empleo
+Security_code : vz9py
+Send : Enviar
+
+---------------
+
+Address : 181.119.120.50
+REF : OEL
+Nombre : sergio
+Apellido : zalazar
+Cargo : oficial electricista
+Direccion : sapaleri 2409
+Ciudad : buenos aires
+Telefono : 1161056690
+Email : tec-ser2011@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : me postulo al empleo de oficial electricista
+Security_code : 9snjb
+Send : Enviar
+
+---------------
+
+Address : 179.38.228.103
+REF : OEL
+Nombre : Ricardo Antonio
+Apellido : Cenatiempo
+Cargo : Electricista
+Direccion : calle 13 N* 1815
+Ciudad : Berazategui 
+Telefono : 1538517372
+Email : racenatiempo@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Tengo muchos años de experiencia y son demostrables sobre todo en el puesto de trabajo
+Security_code : j4xfv
+Send : Enviar
+
+---------------
+
+Address : 181.37.29.164
+Nombre : neyton
+Apellido : de oleo
+Cargo : chofer
+Direccion : avenida v centenrio, edif.10 apto4-D. villa juna
+Ciudad : santo doingo
+Telefono : 8296742528
+Email : deoleo.01@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : quisiera ser parte de esta maravillosa empresa
+Security_code : 353wq
+Send : Enviar
+
+---------------
+
+Address : 190.224.168.63
+Nombre : Miguel Esteban
+Apellido : Jimenez
+Cargo : Operario
+Direccion : B° C.G.T - Mza J Casa 21 Psje. Isauro Arancibia
+Ciudad : Alderetes - Tucumán
+Telefono : 381-155550601
+Email : miguelestebanjimenez10@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Desde ya estare muy agradecido en poder recibir alguna respuesta viniendo de ustedes.
+Security_code : hgmff
+Send : Enviar
+
+---------------
+
+Address : 190.224.168.63
+Nombre : Miguel Esteban
+Apellido : Jimenez
+Cargo : Operario
+Direccion : B° C.G.T - Mza J Casa 21 Psje. Isauro Arancibia
+Ciudad : Alderetes - Tucumán
+Telefono : 381-155550601
+Email : miguelestebanjimenez10@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Desde ya estare muy agradecido en poder recibir alguna respuesta viniendo de ustedes.
+Security_code : pwrnr
+Send : Enviar
+
+---------------
+
+Address : 181.45.91.49
+REF : OEL
+Nombre : marcelo ariel
+Apellido : tribinsky
+Cargo : electricista
+Direccion : pavon 2086
+Ciudad : capital federal
+Telefono : 1532478038
+Email : marceloarieltribinsky@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : adjunto mi curriculum para el puesto. soy electricista matriculado
+Security_code : d2cdt
+Send : Enviar
+
+---------------
+
+Address : 186.58.136.56
+REF : OEL
+Nombre : pedro
+Apellido : ledesma
+Cargo : oficial electricista
+Direccion : calle 1335 Nº 505
+Ciudad : Fcio Varela
+Telefono : 42741038
+Email : pedroledesma00@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola me comunico con Uds por el empleo de oficial electricista 
+MUCHAS GRACIAS
+Security_code : FQ9PS
+Send : Enviar
+
+---------------
+
+Address : 186.58.136.56
+REF : OEL
+Nombre : pedro
+Apellido : ledesma
+Cargo : oficial electricista
+Direccion : calle 1335 Nº 505
+Ciudad : Fcio Varela
+Telefono : 42741038
+Email : pedroledesma00@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola me comunico con Uds por el empleo de oficial electricista
+MUCHAS GRACIAS
+Security_code : 5c9df
+Send : Enviar
+
+---------------
+
+Address : 186.58.136.56
+REF : OEL
+Nombre : pedro
+Apellido : ledesma
+Cargo : oficial electricista
+Direccion : calle 1335 Nº 505
+Ciudad : Fcio Varela
+Telefono : 42741038
+Email : pedroledesma00@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola me comunico con Uds por el empleo de oficial electricista
+MUCHAS GRACIAS
+Security_code : 5c9df
+Send : Enviar
+
+---------------
+
+Address : 186.58.136.56
+REF : OEL
+Nombre : pedro
+Apellido : ledesma
+Cargo : oficial electricista
+Direccion : calle 1335 Nº 505
+Ciudad : Fcio Varela
+Telefono : 42741038
+Email : pedroledesma00@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola me comunico con Uds por el empleo de oficial electricista
+MUCHAS GRACIAS
+Security_code : 2sd2y
+Send : Enviar
+
+---------------
+
+Address : 190.192.195.38
+REF : JPL
+Nombre : carlos  osvaldo
+Apellido : montanari
+Cargo : jefe de fabrica 
+Direccion : mariano moreno 5536
+Ciudad : caseros
+Telefono : 1555960945
+Email : carlos.montanari@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : amplios conocimientos y experiencia
+Security_code : 69b56
+Send : Enviar
+
+---------------
+
+Address : 190.192.195.38
+REF : JPL
+Nombre : carlos  osvaldo
+Apellido : montanari
+Cargo : jefe de planta
+Direccion : mariano moreno 5536
+Ciudad : caseros
+Telefono : 1555960945
+Email : carlos.montanari@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : amplia experiencia y buena predisposición en
+implementacion de nuevos sistemas de trabajo
+Security_code : 57tfg
+Send : Enviar
+
+---------------
+
+Address : 190.192.195.38
+REF : JPL
+Nombre : carlos  osvaldo
+Apellido : montanari
+Cargo : jefe de planta
+Direccion : mariano moreno 5536
+Ciudad : caseros
+Telefono : 1555960945
+Email : carlos.montanari@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : amplia experiencia y buena predisposición en
+implementacion de nuevos sistemas de trabajo
+Security_code : 57tfg
+Send : Enviar
+
+---------------
+
+Address : 200.49.206.195
+REF : OEL
+Nombre : Eduardo gustavi
+Apellido : Bordon
+Cargo : Oficial electricista
+Direccion : Remedios de escalada de san Martín 1055
+Ciudad : Claypole
+Telefono : 011 4219-1240
+Email : edugus71@live.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Reuno las condiciones solicitadas para este aviso
+Security_code : 6p24j
+Send : Enviar
+
+---------------
+
+Address : 200.49.206.194
+Nombre : Eduardo gustavo
+Apellido : Bordon
+Cargo : Oficial Electricista
+Direccion : Remedios de escalada de san Martín 1055
+Ciudad : Claypole
+Telefono : 011 4219-1240
+Email : edugus71@live.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Poseo amplia experiencia para el puesto que solicitan Oficial electricista
+Security_code : 39p3c
+Send : Enviar
+
+---------------
+
+Address : 200.49.206.194
+Nombre : Eduardo gustavo
+Apellido : Bordon
+Cargo : Oficial Electricista
+Direccion : Remedios de escalada de san Martín 1055
+Ciudad : Claypole
+Telefono : 011 4219-1240
+Email : edugus71@live.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Poseo amplia experiencia para el puesto que solicitan Oficial electricista
+Security_code : 39p3c
+Send : Enviar
+
+---------------
+
+Address : 186.23.28.251
+REF : OEL
+Nombre : JOSE ARIEL
+Apellido : ROLDAN
+Cargo : OFICIAL ELECTRICISTA
+Direccion : JOSE HERNANDEZ 3406 CLAYPOLE
+Ciudad : BUENOS AIRES
+Telefono : 1133463216
+Email : arieljose@outlook.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : busco trabajo en zona sur para oficial electricista 20 años de experiencia
+Security_code : sfbfr
+Send : Enviar
+
+---------------
+
+Address : 181.228.239.222
+REF : OEL
+Nombre : Julio Osvaldo
+Apellido : Ferreyra
+Cargo : Oficial Eléctrisista
+Direccion : Pintos 2990
+Ciudad : Burzaco
+Telefono : 011-45627359
+Email : julioosvaldoferreyra@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados: 
+                              Me pongo en contacto con ustedes para ofrecerle  mi Curriculum Vitae con mis datos personales, profesionales y otros datos de interés,  poseo un poco más de 20 años de experiencia en el ramo de la Energía y Telecomunicaciones y he trabajado para varias Instituciones de Argentina, tales como Edesur, Edenor, Telecentro, Cablevisión, Telmex (ahora llamado CLARO), Tesur y Elektra de Argentina, donde he sido responsable por la dirección y cumplimiento de la ejecución de varios proyectos. Mi objetivo principal es el aprendizaje y crecimiento continuo, aplicando todos los conocimientos adquiridos a lo largo de mi carrera profesional. 
+Poseo movilidad propia y  soy una persona pro-activa, curiosa, comprometida con mi trabajo, dinámica y que busca el desarrollo constante de nuevas tareas. 
+ Espero que consideren mi Curriculum Vitae que adjunto y concierten una entrevista próximamente.
+Poseo movilidad propia y quedo a la espera de una respuesta positiva, les saludo cordialmente.
+ 
+                                                                                                                     Julio Osvaldo Ferreyra
+
+Security_code : kh3sy
+Send : Enviar
+
+---------------
+
+Address : 186.60.138.123
+Nombre : juan felix
+Apellido : villalba
+Cargo : soldador
+Direccion : calle 122 n° 2250
+Ciudad : guernica
+Telefono : 011 1533039795
+Email : fexvill@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : solicitud de empleo; soldador
+Security_code : wg7vd
+Send : Enviar
+
+---------------
+
+Address : 186.60.178.20
+Nombre : juan felix
+Apellido : villalba
+Cargo : soldador
+Direccion : calle 122 n° 2250
+Ciudad : guernica
+Telefono : 011 1533039795
+Email : fexvill@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : solicitud de empleo; soldador
+Security_code : wztnj
+Send : Enviar
+
+---------------
+
+Address : 201.241.211.96
+REF : RTC
+Nombre : DANIELA ALEJANDRA
+Apellido : PEREZ MUÑOZ
+Cargo : REPRESENTANTE TECNICO COMERCIAL
+Direccion : Camino del valle alto 1482, Las Condes
+Ciudad : SANTIAGO
+Telefono : 78704320
+Email : danperezm@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados Señores
+
+Mi nombre es Daniela Pérez, Licenciada en Arquitectura, llevo mas de 5 años trabajando en el área comercial. Estoy casada con un argentino y actualmente estamos en proceso de cambio para Buenos Aires.
+
+Espero tener una buena acogida, 
+
+Saludos Cordiales, 
+Security_code : nx8rf
+Send : Enviar
+
+---------------
+
+Address : 201.241.211.96
+REF : RTC
+Nombre : DANIELA ALEJANDRA
+Apellido : PEREZ MUÑOZ
+Cargo : REPRESENTANTE TECNICO COMERCIAL
+Direccion : Camino del valle alto 1482, Las Condes
+Ciudad : SANTIAGO
+Telefono : 78704320
+Email : danperezm@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados Señores
+
+Mi nombre es Daniela Pérez, Licenciada en Arquitectura, llevo mas de 5 años trabajando en el área comercial. Estoy casada con un argentino y actualmente estamos en proceso de cambio para Buenos Aires.
+
+Espero tener una buena acogida, 
+
+Saludos Cordiales, 
+Security_code : nx8rf
+Send : Enviar
+
+---------------
+
+Address : 186.13.3.75
+Nombre : pedro mariano
+Apellido : leguizamon
+Cargo : soldador, cañista
+Direccion : sta monica 40
+Ciudad : lomas de zamora
+Telefono : 1164936178
+Email : metalmig_servicios@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : 13 años de experiencia, argonista, inertizados , ace inox, acer carbono, bronce, diversas soldaduras, cañista de primer nivel, 4 años en tecnisud, 5 por cuenta, y actualmente hace 4 años trabajando en felfort,  interpretacion de planos, experiencia con montaje y manejo del personal. 35 años, certificacion vencida de argonista. Actualmente ganando 8500. Por quincena, sin paritarias actuales
+Security_code : 794kv
+Send : Enviar
+
+---------------
+
+Address : 181.117.4.187
+REF : OEL
+Nombre : Matias
+Apellido : Coronel
+Cargo : Oficial electricista 
+Direccion : 836 n 2697 
+Ciudad : San Francisco Solano 
+Telefono : 1130133082
+Email : Maty_coronel08@hotmail.com x
+MAX_FILE_SIZE : 2097152
+Mensaje : Me gustaría poder formar parte de su equipo con el fin de  poder brindar mis servicios y conocimientos. Desde ya muchísimas gracias. Atentamente Matias coronel. 
+Security_code : X4pjq
+Send : Enviar
+
+---------------
+
+Address : 181.117.4.187
+REF : OEL
+Nombre : Matias
+Apellido : Coronel
+Cargo : Oficial electricista 
+Direccion : 836 n 2697 
+Ciudad : San Francisco Solano 
+Telefono : 1130133082
+Email : Maty_coronel08@hotmail.com x
+MAX_FILE_SIZE : 2097152
+Mensaje : Me gustaría poder formar parte de su equipo con el fin de  poder brindar mis servicios y conocimientos. Desde ya muchísimas gracias. Atentamente Matias coronel. 
+Security_code : x4pjq
+Send : Enviar
+
+---------------
+
+Address : 66.102.8.148
+REF : OEL
+Nombre : David Edward
+Apellido : Narcizo
+Cargo : Oficial Electricista
+Direccion : Santiago del Estero
+Ciudad : Autónoma de Buenos Aires
+Telefono : 1545300894
+Email : nardaed@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : 
+
+CURRICULUM VITAE
+Datos Personales:
+Nombre: David Edward
+Apellido: Narcizo G.
+Dirección: Santiago del Estero 1926, CABA
+Edad: 29 años
+Estado Civil: Soltero
+D.N.I: 94056174
+Cuil: 20-94056174-5
+Nacionalidad: Peruana
+Cel.: 1545300894
+E-mail: nardaed@hotmail.com
+Estudios Realizados:
+Educación secundaria completa - Graduado
+Especialidad: Electricidad
+Instalación domiciliaria /armado de tableros /montaje industrial.
+Conexionado e instalaciones / puesta a tierra /mantenimiento industrial y general.
+Especialidad: Operados de PC
+Windows7 /Microsoft Word-Office /excel/power point/ internet
+Especialidad: Aire Acondicionado Individual y Comercial (IARAA)
+instalación - consideraciones generales sobre ubicación de unidades condensadoras y evaporadoras - cañerías de refrigerante - cableado de interconexión eléctrica - trampas de aceite - aislaciones - puesta a tierra - puesta en marcha y ajuste de la carga de refrigerante - alimentación de energía eléctrica - desagües.
+Principales Habilidades:
+Excelente trabajo en equipo.
+Rapidez en aprendizaje y clara comunicación.
+Buenas relaciones interpersonales.
+Experiencia  Laboral:
+Ayudante de electricista: Riva s.a (16/03/2007 hasta 07/08/2007)
+Medio oficial electricista: Riva s.a (10/08/2007 hasta 22/12/2008)
+Oficial electricista: Esuco s.a.-Riva s.a UTE (16/09/2009 hasta 08/07/2010)
+Oficial electricista: Riva s.a. (24/09/2010 hasta 10/05/2012)
+Oficial electricista: Indaltec s.a. (16/07/2012 hasta 09/04/2013)
+Oficial electricista: Riva s.a. (02/05/2013 hasta 12/09/2013)
+Oficial electricista: Techint s.a- Dycasa s.a UTE (21/03/2014 hasta 27/02/2015)
+Referencias Laborales:
+Riva s.a. oficina de personal 43129229 (Metro bus 9 de Julio)
+Indaltec s.a. oficina de personal 47062345 (Hospital Francisco Muñiz)
+Techint s.a.- Dycasa s.a oficina de personal 40181680 (Ampliación Subte Línea H)
+
+Remuneración pretendida:
+
+ Por convenio sindical UOCRA – Oficial – 45.39 hora /15% de especialidad
+Inmediata
+Security_code : 894q5
+Send : Enviar
+
+---------------
+
+Address : 186.134.171.233
+REF : ENPRO
+Nombre : claudio
+Apellido : capitni
+Cargo : encargado
+Direccion : magallanes  3508
+Ciudad : buenos aires
+Telefono : 42765121
+Email : claudioalbertocapitani@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : estoy interesdo  
+Security_code : 5qmwm
+Send : Enviar
+
+---------------
+
+Address : 181.45.0.202
+REF : OEL
+Nombre : carlos damian
+Apellido : cassal
+Cargo : oficial electricista
+Direccion : asamblea 1124
+Ciudad : buezaco
+Telefono : 1569512662/3531-4077
+Email : carloscassal28@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : gracias por recivir mi curriculum vitae soy oficial electricista en lineas aereas de media y baja tencion,oficial electr.en montaje y mantenimiento de alumbrado publico,tableros,instalaciones electricas de obras y domiciliarias,conocimientos en soldaduras con electrica autojena y mig,registro de conducir profecional al dia categoria E2 por cualquier comunicado desde ya muchas gracias.
+Security_code : 8zgs4
+Send : Enviar
+
+---------------
+
+Address : 181.45.0.202
+REF : OEL
+Nombre : carlos damian
+Apellido : cassal
+Cargo : oficial electricista
+Direccion : asamblea 1124
+Ciudad : buezaco
+Telefono : 1569512662/3531-4077
+Email : carloscassal28@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : gracias por recivir mi curriculum vitae soy oficial electricista en lineas aereas de media y baja tencion,oficial electr.en montaje y mantenimiento de alumbrado publico,tableros,instalaciones electricas de obras y domiciliarias,conocimientos en soldaduras con electrica autojena y mig,registro de conducir profecional al dia categoria E2 por cualquier comunicado desde ya muchas gracias.
+Security_code : 5gthk
+Send : Enviar
+
+---------------
+
+Address : 186.0.138.35
+REF : OEL
+Nombre : Carlos Ysmael
+Apellido : Fretes
+Cargo : Electricista
+Direccion : Rio de la Plata 7130
+Ciudad : Jose C Paz
+Telefono : 1557633685
+Email : axeldamianfretes@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Les mado mi CV en formato PDF,en la oferta
+de electricista,gracias.
+Security_code : x9ycm
+Send : Enviar
+
+---------------
+
+Address : 181.169.34.23
+Nombre : Martin
+Apellido : Pardo
+Cargo : Oficial electricista y cableador
+Direccion : Feval 590
+Ciudad : Merlo
+Telefono : 1162255760
+Email : pardomartinjavier@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : A quien corresponda envi atte,. mi CV
+Security_code : 6f7hq
+Send : Enviar
+
+---------------
+
+Address : 190.172.92.188
+Nombre : Josè
+Apellido : Lenarcic
+Cargo : Manager Engineering / Process and Technology
+Direccion : Murguiondo 3969
+Ciudad : CABA
+Telefono : +541146021859
+Email : jose.lenarcic@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Sólida experiencia en equipos de trabajo, procesos, normas de calidad, asistencia al cliente
+Security_code : dhfq2
+Send : Enviar
+
+---------------
+
+Address : 190.105.53.168
+Nombre : Natalia
+Apellido : Torres
+Cargo : encuestadora
+Direccion : Pampa 58
+Ciudad : Bella Vista
+Telefono : 1540869304
+Email : natigtorresd@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola mi nombre es Natalia, estudio trabajo social,les envìo mi C.V.
+Saludos
+Security_code : gkfpp
+Send : Enviar
+
+---------------
+
+Address : 179.24.216.251
+Nombre : carlos
+Apellido : navarro
+Cargo : soldador cañista
+Direccion : obelisco
+Ciudad : las piedras
+Telefono : 093911042
+Email : carlosalvertonavarrolarzabal@gotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : grasias por tener en cuenta
+Security_code : rys63
+Send : Enviar
+
+---------------
+
+Address : 190.105.53.168
+Nombre : Natalia
+Apellido : Torres
+Cargo : encuestadora
+Direccion : Pampa 58
+Ciudad : Bella Vista
+Telefono : 1540869304
+Email : natigtorresd@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola, les envìo mi c.v
+Saludos.
+Security_code : 9f6rc
+Send : Enviar
+
+---------------
+
+Address : 181.45.44.97
+Nombre : andres ernesto
+Apellido : garcia
+Cargo : asesor en seguridad
+Direccion : french 2040
+Ciudad : rafael calzada
+Telefono : 20561231
+Email : garcia_ernesto_andres@outlook.com
+MAX_FILE_SIZE : 2097152
+Mensaje : me desempeño en el aria de la seguridad hace 16 años
+Security_code : 35m34
+Send : Enviar
+
+---------------
+
+Address : 186.13.3.197
+REF : OEL
+Nombre : Matias
+Apellido : Coronel
+Cargo : Oficial electricista 
+Direccion : 836 n 2697
+Ciudad : San Francisco Solano 
+Telefono : 1130133082
+Email : maty_coronel08@hoymail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Desde ya muchas gracias por su tiempo,espero poder tener una entrevista y que me puedan conocer con el fin de poder llegar a ser parte de su equipo. Atentamente coronel Matias . 
+Security_code : h54tf
+Send : Enviar
+
+---------------
+

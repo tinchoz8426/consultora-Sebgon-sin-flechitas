@@ -1,0 +1,40 @@
+Address : 190.174.77.227
+Nombre : Emanuel
+Apellido : Villalaba Morante
+Cargo : Profesor de educación física 
+Direccion : darwin 538
+Ciudad : Avellaneda
+Telefono : 42276500
+Email : emanuelvil@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Tengo el agrado de dirigirme a Uds. con el fin de transmitirles mi deseo en firme de incorporarme a una  organización educativa o empresa.
+Me presento como una persona activa, responsable, creativa, flexible, orientada al logro de resultados y a la resolución y evolución constante en las tareas asignadas.
+El objetivo que me he impuesto, es el de formar parte del personal de una entidad   prestigiosa, confiable y con proyectos ambiciosos.
+Si fuera necesario podría acercarme personalmente para cualquier consulta adicional o entrevista personal.
+Pongo, además, en su conocimiento que estoy en condiciones de asumir la responsabilidad en forma inmediata 
+
+Quedando a la espera de su respuesta. 
+
+Me despido atte.
+                 Emanuel Villalba Morante 
+                                                        
+Security_code : 3ngj4
+Send : Enviar
+
+---------------
+
+Address : 201.255.17.117
+Nombre : Mariel Andrea
+Apellido : Onnainty
+Cargo : Selección de personal
+Direccion : La Plata 792
+Ciudad : Moreno
+Telefono : 02374686027
+Email : onna_y_richi@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Deseo brindar mis conocimientos relacionados al campo de la educación, especificamente de adultos a la empresa que lo requiera.
+Security_code : trysw
+Send : Enviar
+
+---------------
+

@@ -1,0 +1,15 @@
+Address : 190.245.151.135
+Nombre : Samanta Brenda
+Apellido : Klubok Belimlinski
+Cargo : Seleccion de Personal
+Direccion : Mercedes 407
+Ciudad : Buenos Aires
+Telefono : 155-322-1009
+Email : samantabkb@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Por el momento mi disponibilidad es Part-Time.
+Security_code : 3hztq
+Send : Enviar
+
+---------------
+

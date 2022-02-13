@@ -1,0 +1,119 @@
+Address : 
+Nombre : yair ruben
+Apellido : casco
+Cargo : inyector  plastico/personal de limpieza/otros
+Direccion : jose bonifacio 3858
+Ciudad : moron
+Telefono : 4692-6698/ 1163553237
+Email : yair_6698@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : para postularme
+Security_code : px3bd
+Send : Enviar
+
+---------------
+
+Address : 
+Nombre : Jorge Humberto
+Apellido : Argentini
+Cargo : Presentación
+Direccion : Migueletes 881 Piso 6 Dto. A
+Ciudad : Autónoma de Buenos Aires
+Telefono : (011) 47722187
+Email : jorge.argentini@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Soy una persona proactiva, preparada y muy bien educada para liderar y motivar grupos de trabajo.
+Por más de 25 años he ocupado Gerencias Generales y cargos de gerenciamiento directo en áreas como Compras y Contrataciones, Comercio Exterior, Seguridad, Logística, Comercialización y Marketing en industrias de variadas actividades y con distintos tipos de organización y estructura.
+Como resultado de ello, he logrado formar una visión holística de los negocios y desarrollado destrezas de negociación que también moldearon mi capacidad de relación interpersonal.
+He liderado proyectos y lanzamientos que me han valido premios y reconocimientos por su ejecución y manejado operaciones de envergadura en forma cotidiana por largos años.
+Viajar ha sido una constante en mis actividades y nunca me ha resultado un impedimento para lo cual han sido de utilidad mis conocimientos de idioma en el extranjero permitiéndome obtener significativos logros y cerrar importantes acuerdos y negocios.
+Mi objetivo es incorporarme a una organización que valore a su capital humano como la pieza clave y estratégica para lograr y sostener el liderazgo en su mercado, poniendo a disposición de ella mi capacidad y esfuerzo cotidiano para desarrollarme no solo profesionalmente sino a nivel personal.
+Si ustedes consideran mi perfil aplicable a alguna búsqueda, por favor no duden en contactarme para una entrevista personal que, no dudo, será de beneficio mutuo.
+
+Reciban mis atentos y respetuosos saludos
+
+
+Security_code : wgcwf
+Send : Enviar
+
+---------------
+
+Address : 
+REF : GERENTE-DE-SUPPLY-CHAIN
+Nombre : Jorge Humberto
+Apellido : Argentini
+Cargo : GERENTE-DE-SUPPLY-CHAIN
+Direccion : Migueletes 881 Piso 6 Dto. A
+Ciudad : Autónoma de Buenos Aires
+Telefono : (011) 47722187
+Email : jorge.argentini@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Soy una persona proactiva, preparada y muy bien educada para liderar y motivar grupos de trabajo.
+Por más de 25 años he ocupado Gerencias Generales y cargos de gerenciamiento directo en áreas como Compras y Contrataciones, Comercio Exterior, Seguridad, Logística, Comercialización y Marketing en industrias de variadas actividades y con distintos tipos de organización y estructura.
+Como resultado de ello, he logrado formar una visión holística de los negocios y desarrollado destrezas de negociación que también moldearon mi capacidad de relación interpersonal.
+He liderado proyectos y lanzamientos que me han valido premios y reconocimientos por su ejecución y manejado operaciones de envergadura en forma cotidiana por largos años.
+Viajar ha sido una constante en mis actividades y nunca me ha resultado un impedimento para lo cual han sido de utilidad mis conocimientos de idioma en el extranjero permitiéndome obtener significativos logros y cerrar importantes acuerdos y negocios.
+Mi objetivo es incorporarme a una organización que valore a su capital humano como la pieza clave y estratégica para lograr y sostener el liderazgo en su mercado, poniendo a disposición de ella mi capacidad y esfuerzo cotidiano para desarrollarme no solo profesionalmente sino a nivel personal.
+Si ustedes consideran mi perfil aplicable a su búsqueda, por favor no duden en contactarme para una entrevista personal que, no dudo, será de beneficio mutuo.
+
+Reciban mis atentos y respetuosos saludos
+
+
+Security_code : hfh76
+Send : Enviar
+
+---------------
+
+Address : 
+Nombre : Valeria
+Apellido : Wulff
+Cargo : Administratica/RRHH
+Direccion : José Hernandez 2195 6°B
+Ciudad : Capital Federal
+Telefono : 1555080354 / 47825231
+Email : valewulff@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados:
+Adjunto mi CV para que me tengan en cuenta.
+Desde ya muchas gracias.
+Saludos,
+Valeria Wulff
+Security_code : nqt8s
+Send : Enviar
+
+---------------
+
+Address : 
+Nombre : Valeria
+Apellido : Wulff
+Cargo : Administrativa/RRHH
+Direccion : José Hernandez 2195 6°B
+Ciudad : Capital Federal
+Telefono : 1555080354 / 47825231
+Email : valewulff@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados:
+Adjunto mi CV para que me tengan en cuenta.
+Desde ya muchas gracias.
+Saludos,
+Valeria Wulff
+Security_code : 7fw6b
+Send : Enviar
+
+---------------
+
+Address : 
+Nombre : Jorge Augusto
+Apellido : Soria
+Cargo : Administrativo o área legal
+Direccion : Int. L. E. Ferrere (Ex Necochea) 790
+Ciudad : San Vicente - Pcia. Buenos Aires
+Telefono : (02225) 482065
+Email : jasoria@mail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Interesado en desmempeñarme en el área legal, adminstrativa o afín , acorde a mi preparación académica.
+Security_code : tdf92
+Send : Enviar
+
+---------------
+

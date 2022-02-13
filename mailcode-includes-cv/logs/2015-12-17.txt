@@ -1,0 +1,131 @@
+Address : 190.190.101.185
+Nombre : esteban
+Apellido : ortega
+Cargo : Representante Tecnico Comercial
+Direccion : Portela 969 Haedo
+Ciudad : Buenos Aires
+Telefono : 15-4053.4110
+Email : esteb.ortega@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenas tardes  envío 
+mi Curriculum 
+Gracias.
+EO
+Security_code : s959c
+Send : Enviar
+
+---------------
+
+Address : 186.33.231.166
+Nombre : Mariela
+Apellido : Alvarez Boan
+Cargo : Selector de personal
+Direccion : coronel niceto vega 4929
+Ciudad : CABA
+Telefono : 1557413741
+Email : mariela.alvarez.boan@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados, mi nombre es Mariela Alvarez, soy psicologa. Estoy interesada en incorporarme al staff de la consultora. Por tal motivo, adjunto mi cv para que sea considerado frente a dicha posibilidad.
+Desde ya muchas gracias
+Lic. Mariela Alvarez
+Security_code : 287xk
+Send : Enviar
+
+---------------
+
+Address : 201.253.158.166
+REF : SE.BIL
+Nombre : Sandra Daniela 
+Apellido : Previtera 
+Cargo : Secretaria Bilibgue
+Direccion : Lavalle 2676 9 B
+Ciudad : San Martin
+Telefono : 011 5567 5816
+Email : previterasandra@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto mi CV con el proposito de postularme para la posicion de secretaria bilingue
+Security_code : qmbhw
+Send : Enviar
+
+---------------
+
+Address : 201.253.158.166
+REF : SE.BIL
+Nombre : Sandra Daniela 
+Apellido : Previtera 
+Cargo : Secretaria Bilibgue
+Direccion : Lavalle 2676 9 B
+Ciudad : San Martin
+Telefono : 011 5567 5816
+Email : previterasandra@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto mi CV con el proposito de postularme para la posicion de secretaria bilingue
+Security_code : qmbhw
+Send : Enviar
+
+---------------
+
+Address : 201.253.158.166
+REF : SE.BIL
+Nombre : Sandra Daniela 
+Apellido : Previtera 
+Cargo : Secretaria Bilibgue
+Direccion : Lavalle 2676 9 B
+Ciudad : San Martin
+Telefono : 011 5567 5816
+Email : previterasandra@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto mi CV con el proposito de postularme para la posicion de secretaria bilingue
+Security_code : qmhbw
+Send : Enviar
+
+---------------
+
+Address : 201.253.158.166
+REF : SE.BIL
+Nombre : Sandra Daniela 
+Apellido : Previtera 
+Cargo : Secretaria Bilibgue
+Direccion : Lavalle 2676 9 B
+Ciudad : San Martin
+Telefono : 011 5567 5816
+Email : previterasandra@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto mi CV con el proposito de postularme para la posicion de secretaria bilingue
+Security_code : zxc4g
+Send : Enviar
+
+---------------
+
+Address : 201.253.158.166
+REF : SE.BIL
+Nombre : Sandra Daniela 
+Apellido : Previtera 
+Cargo : Secretaria Bilibgue
+Direccion : Lavalle 2676 9 B
+Ciudad : San Martin
+Telefono : 011 5567 5816
+Email : previterasandra@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto mi CV con el proposito de postularme para la posicion de secretaria bilingue
+Security_code : zxc4g
+Send : Enviar
+
+---------------
+
+Address : 201.253.158.166
+REF : SE.BIL
+Nombre : Sandra Daniela 
+Apellido : Previtera 
+Cargo : Secretaria Bilibgue
+Direccion : Lavalle 2676 9 B
+Ciudad : San Martin
+Telefono : 011 5567 5816
+Email : previterasandra@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto mi CV con el proposito de postularme para la posicion de secretaria bilingue
+Security_code : z3yjn
+Send : Enviar
+
+---------------
+

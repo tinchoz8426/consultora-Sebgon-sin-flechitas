@@ -1,0 +1,45 @@
+Address : 190.183.88.183
+Nombre : rocio
+Apellido : rivero
+Cargo : atencion al publico
+Direccion : ingeniero foussal 965
+Ciudad : resistencia
+Telefono : 3624-688342
+Email : riv_rocio@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : estoy en busqueda de empleo,disponibilidad horaria full time.cuento con experiencia comprobable.
+Security_code : xrn82
+Send : Enviar
+
+---------------
+
+Address : 186.57.213.166
+Nombre : adrian angel
+Apellido : azame
+Cargo : operario calificado
+Direccion : juan jofre
+Ciudad : rafael castillo
+Telefono : 46908671
+Email : azameadrian@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : hola soy balancinero ando en busca de empleo muchas gracias
+Security_code : sp4n8
+Send : Enviar
+
+---------------
+
+Address : 190.211.204.226
+Nombre : javier 
+Apellido : espinazo
+Cargo : operador
+Direccion : ing.white 
+Ciudad : Bahía Blanca
+Telefono : 291-154122469
+Email : javi_eszo@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : hola mis expectativas es trabajar como operador de grúa o como técnico mecánico
+Security_code : jnby6
+Send : Enviar
+
+---------------
+

@@ -1,0 +1,82 @@
+Address : 186.57.167.26
+Nombre : pablo javier 
+Apellido : gauna
+Cargo : operario frigorifico
+Direccion : bermudez 153
+Ciudad : moron
+Telefono : 4476 1294
+Email : gaunapablo@rocketmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : hola te dejo mi curriculum muchas gracias
+Security_code : Kdt25
+Send : Enviar
+
+---------------
+
+Address : 186.57.167.26
+Nombre : pablo javier 
+Apellido : gauna
+Cargo : operario frigorifico
+Direccion : bermudez 153
+Ciudad : moron
+Telefono : 4476 1294
+Email : gaunapablo@rocketmail.com
+
+---------------
+
+Address : 186.57.167.26
+Nombre : pablo javier 
+Apellido : gauna
+Cargo : operario frigorifico
+Direccion : bermudez 153
+Ciudad : moron
+Telefono : 4476 1294
+Email : gaunapablo@rocketmail.com
+
+---------------
+
+Address : 186.57.167.26
+Nombre : pablo javier 
+Apellido : gauna
+Cargo : operario frigorifico
+Direccion : bermudez 153
+Ciudad : moron
+Telefono : 4476 1294
+Email : gaunapablo@rocketmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : hola te dejo mi curriculum muchas gracias
+Security_code : Kdt25
+Send : Enviar
+
+---------------
+
+Address : 181.7.76.92
+Nombre : Ana Rosalia
+Apellido : Silva
+Cargo : cajera- atencion al cliente- recepcionista
+Direccion : calle 45 n· 89 villa. mariano. moreno
+Ciudad : las talitas
+Telefono : 381-156599285
+Email : ana-rosalia-silva@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : hola, me gustaria por favor a que me ayudaran a conseguir algun trabajo relacionado a los cargos que tengo de experiencia. muchas gracias
+Security_code : dhwy3
+Send : Enviar
+
+---------------
+
+Address : 186.60.134.173
+Nombre : Marcela Beatriz
+Apellido : Cervera
+Cargo : Vendedora , Cajera
+Direccion : Entre Rios 498
+Ciudad : Longchamps
+Telefono : 541155750533
+Email : vanesaterrone@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Tengo disponibilidad horaria. Me desempeño perfectamente en el trato con el público. 
+Security_code : 2rz9x
+Send : Enviar
+
+---------------
+

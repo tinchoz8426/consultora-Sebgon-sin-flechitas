@@ -1,0 +1,126 @@
+Address : 190.138.1.1
+Nombre : ivan
+Apellido : bustos
+Cargo : logistica
+Direccion : marcos del pont 3980
+Ciudad : córdoba
+Telefono : 3513431799
+Email : bustosivandiego@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : hola les envio mi curriculum con el fin de que me puedan ayudar a conseguir un empleo ..muchisimas gracias
+Security_code : yjr44
+Send : Enviar
+
+---------------
+
+Address : 190.111.205.67
+Nombre : Marcela
+Apellido : Roldan
+Cargo : repositora
+Direccion : Diego Palma 3110
+Ciudad : El Talar
+Telefono : 3516202215
+Email : marcela-aroldan@hotmail.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : m
+Security_code : gkpc4
+Send : Enviar
+
+---------------
+
+Address : 186.61.74.148
+Nombre : Omar Ernesto
+Apellido : Brañeiro
+Cargo : Supervisor, Coordinador
+Direccion : E.Fernandez 1724
+Ciudad : Lanus Oeste
+Telefono : 1142621447
+Email : omarbra@outlook.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Sup Adm, Corrd. Logistico Exp. en vba excel
+Security_code : 8n7wx
+Send : Enviar
+
+---------------
+
+Address : 186.61.74.148
+Nombre : Omar Ernesto
+Apellido : Brañeiro
+Cargo : Supervisor, Coordinador
+Direccion : E.Fernandez 1724
+Ciudad : Lanus Oeste
+Telefono : 1142621447
+Email : omarbra@outlook.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Sup Adm, Coord. Logistico Exp. en vba excel
+Security_code : 8n7wx
+Send : Enviar
+
+---------------
+
+Address : 186.61.74.148
+Nombre : Omar Ernesto
+Apellido : Brañeiro
+Cargo : Supervisor, Coordinador
+Direccion : E.Fernandez 1724
+Ciudad : Lanus Oeste
+Telefono : 1142621447
+Email : omarbra@outlook.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Sup Adm, Coord. Logistico Exp. en vba excel
+Security_code : 374yc
+Send : Enviar
+
+---------------
+
+Address : 186.61.74.148
+Nombre : Omar Ernesto
+Apellido : Brañeiro
+Cargo : Supervisor, Coordinador
+Direccion : E.Fernandez 1724
+Ciudad : Lanus Oeste
+Telefono : 1142621447
+Email : omarbra@outlook.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Sup Adm, Coord. Logistico Exp. en vba excel
+Security_code : 8n7wx
+Send : Enviar
+
+---------------
+
+Address : 190.15.195.121
+REF : GETECOM
+Nombre : Gustavo Andrés
+Apellido : León
+Cargo : GETECOM
+Direccion : Bowen 2143- Godoy cruz
+Ciudad : Mendoza
+Telefono : 0261-156329151
+Email : gustavo.leon@osep.mendoza.gov.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto archivo con cv para puesto solicitado.
+saluda atte.
+Gustavo León
+Security_code : ktzd8
+Send : Enviar
+
+---------------
+
+Address : 190.15.195.121
+REF : GETECOM
+Nombre : Gustavo Andrés
+Apellido : León
+Cargo : GETECOM
+Direccion : Bown 2143- Godoy Cruz
+Ciudad : Mendoza
+Telefono : 0261-156329151
+Email : gustavo.leon@osep.mendoza.gov.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto archivo con cv para puesto solicitado.
+saluda atte.
+Gustavo León
+Security_code : s4844
+Send : Enviar
+
+---------------
+

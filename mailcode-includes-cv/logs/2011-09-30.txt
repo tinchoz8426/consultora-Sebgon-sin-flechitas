@@ -1,0 +1,15 @@
+Address : 190.226.133.51
+Nombre : Perla Marisa
+Apellido : Méndez
+Cargo : Diseñadora
+Direccion : Sucre 25
+Ciudad : Cordoba
+Telefono : (0381)155536709
+Email : ella_disenya@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Mi busqueda de trabajo se orienta al Diseño de mobiliario y/o de interiores, asi como tambien trabajos que tengan que ver con el manejo de Autocad y 3D studio.
+Security_code : dyn3d
+Send : Enviar
+
+---------------
+

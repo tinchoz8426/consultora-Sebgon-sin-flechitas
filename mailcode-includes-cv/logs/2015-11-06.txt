@@ -1,0 +1,89 @@
+Address : 181.166.228.189
+REF : JPL
+Nombre : César
+Apellido : Tresierra
+Cargo : Jefe de Fabrica
+Direccion : Rubén Dario 4910
+Ciudad : Buenos Aires
+Telefono : 47622520
+Email : tresierracesar@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : "Contribuir a los logros de la Empresa,colaborando en la Mejora Continua de todoslos procesostivos " produc
+Security_code : 5ts6m
+Send : Enviar
+
+---------------
+
+Address : 191.84.28.124
+REF : JPL
+Nombre : Sergio Hugo
+Apellido : Maldonado
+Cargo : Jefe de Planta
+Direccion : Campana 4639
+Ciudad : CABA
+Telefono : 155 148 4804
+Email : sergioh_10@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados, buenos dias, creyendo reunir las condiciones para el puesto les envio mi CV.La remuneracion pretendida 39000 pesos netos
+Security_code : 3ff7n
+Send : Enviar
+
+---------------
+
+Address : 181.29.72.167
+Nombre : Hernan
+Apellido : vazquez
+Cargo : empleado administrativo
+Direccion : venezuela 2838
+Ciudad : Ituzaingo
+Telefono : 46613286
+Email : vazquez.hernan@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje :  Soy una persona con valores y principios morales como responsabilidad, dedicación, perseverancia, puntualidad, entusiasmo y sinceridad, con buena actitud para el trabajo en equipo y con facilidad para relacionarme en grupo. Tengo experiencia en atención al cliente.
+  Dispuesto a cumplir con las distintas funciones, obligaciones y normas laborales que tengan establecidas. Les dejo mi Curriculum junto a este mensaje.
+Atentamente
+Hernan Vazquez.
+Security_code : mv49b
+Send : Enviar
+
+---------------
+
+Address : 179.38.244.230
+Nombre : Melanie
+Apellido : Fandiño
+Cargo : Empleada de comercio
+Direccion : Gral. Smith 183
+Ciudad : Quilmes
+Telefono : 42592974
+Email : melanie.giuliana@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : me encuentro en la búsqueda activa de empleo ya que estoy desempleada. Disponible full time
+Security_code : jbp7r
+Send : Enviar
+
+---------------
+
+Address : 190.220.167.4
+REF : GTEP
+Nombre : Alejandro
+Apellido : Kessler
+Cargo : Gerente de Planta
+Direccion : Brasil 2745 oeste
+Ciudad : San Juan
+Telefono : 0228415664561
+Email : alejandrokessler@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : De mi mayor consideración,
+
+Envío mi CV para búsqueda que están realizando de Gerente de Planta.
+
+Respecto a la remuneración pretendida es negociable, acorde a las propuestas de la compañía.
+En principio no menor a 50000 pesos brutos mensuales.
+
+Saludos cordiales,
+Alejandro Kessler
+Security_code : k84jq
+Send : Enviar
+
+---------------
+

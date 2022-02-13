@@ -1,0 +1,96 @@
+Address : 181.166.113.183
+REF : JPL
+Nombre : Italo Tancredo Victorio
+Apellido : DallO
+Cargo : Jefe de planta
+Direccion : Aviador Franco  6968
+Ciudad : ciudad Jardin Palomar
+Telefono : 1549747295
+Email : italodallo@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje :                                                                        Palomar, 7 de Noviembre de 2015
+Sr. GERENTE
+
+Referencia:Jefe de planta 
+Me dirijo a Ud. con el fin de postularme a su búsqueda de referencia.
+Soy Ingeniero Químico e Ingeniero Laboral con una experiencia de más de 10 años supervisando unidades operativas en la industria química y 5 en la industria alimenticia. Poseo experiencia en el rubro solicitado ( manejo integral de planta fabril, supervisión), conocimientos de inglés intermedios, sistemas informáticos de gestión (entorno Windows), conocimientos de GMP, normas ISO, normativa de Seguridad e higiene en el trabajo.
+Sin otro particular saludo a Ud., agradeciéndole desde ya la atención dispensada.
+
+Ing. Italo DallO
+
+Security_code : jp9hy
+Send : Enviar
+
+---------------
+
+Address : 181.166.113.183
+REF : JPL
+Nombre : Italo Tancredo Victorio
+Apellido : DallO
+Cargo : Jefe de Planta
+Direccion : Aviador Franco  6968
+Ciudad : ciudad Jardin Palomar
+Telefono : 1549747295
+Email : italodallo@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje :                                                                        Palomar, 7 de Noviembre de 2015
+Sr. GERENTE
+
+Referencia:Jefe de Planta 
+Me dirijo a Ud. con el fin de postularme a su búsqueda de referencia.
+Soy Ingeniero Químico e Ingeniero Laboral con una experiencia de más de 10 años supervisando unidades operativas en la industria química y5 en la industria alimenticia. Poseo experiencia en el rubro solicitado (manejo integral de planta, supervisión), conocimientos de inglés intermedios, sistemas informáticos de gestión (entorno Windows), conocimientos de GMP, normas ISO, normativa de Seguridad e higiene en el trabajo.
+Sin otro particular saludo a Ud., agradeciéndole desde ya la atención dispensada.
+
+Ing. Italo DallO
+
+Security_code : f4vjf
+Send : Enviar
+
+---------------
+
+Address : 190.189.30.244
+REF : GTEP
+Nombre : César Augusto
+Apellido : González
+Cargo : Gerente de Planta
+Direccion : España 2262
+Ciudad : MAR DEL PLATA
+Telefono : 02234930010
+Email : csr.a.gonzalez.2@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me postulo para el cargo.
+Security_code : p6p44
+Send : Enviar
+
+---------------
+
+Address : 179.36.147.141
+Nombre : cecilia
+Apellido : lucero
+Cargo : administrativa
+Direccion : sucre 2209
+Ciudad : libertad- merlo
+Telefono : 4947601
+Email : cbl_93@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : trabajo full time.
+Security_code : 5zqqt
+Send : Enviar
+
+---------------
+
+Address : 179.36.147.141
+Nombre : cecilia
+Apellido : lucero
+Cargo : administrativa
+Direccion : sucre 2209
+Ciudad : libertad- merlo
+Telefono : 4947601
+Email : cbl_93@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : trabajo full time.
+Security_code : 5zqqt
+Send : Enviar
+
+---------------
+

@@ -1,0 +1,92 @@
+Address : 152.171.57.247<br>
+ <br>REF : EP-1
+ <br>Nombre : Sebastian
+ <br>Apellido : Stringhetti
+ <br>Cargo : Encargado de producción
+ <br>Direccion : Neuquen 1769 .
+ <br>Ciudad : PERGAMINO - PERGAMINO
+ <br>Telefono : 0346215410097
+ <br>Email : sebastringhetti@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Cuento con las aptitudes personales, experiencia y capacidades que me califican para desempeñarme eficientemente y con éxito en las tareas que me asignen y los objetivos que me propongan.
+ <br>Security_code : nyjpj
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.183.78.131<br>
+ <br>Nombre : SILVANA VANESA
+ <br>Apellido : NILVA
+ <br>Cargo : SIN ESPECIFICAR
+ <br>Direccion : posadas 2243
+ <br>Ciudad : ITUZAINGO
+ <br>Telefono : 2323-15301130
+ <br>Email : vane_172003@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola soy estudiante avanzada de la carrera licenciatura en alimentos, estoy en la busqueda de trabajo de ser posible de lo que estudie, pero estoy abierta a diferentes ofertas. Gracias
+ <br>Security_code : q5cz3
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.183.78.131<br>
+ <br>REF : EP-1
+ <br>Nombre : SILVANA VANESA
+ <br>Apellido : NILVA
+ <br>Cargo : Encargado de produccion
+ <br>Direccion : posadas 2243
+ <br>Ciudad : ITUZAINGO
+ <br>Telefono : (2323) 15301130
+ <br>Email : vane_172003@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola acá adjunto mi CV para aspirar al puesto de encargada de producción. Tengo cursada la carrera de licenciatura en alimentos, solo me falta presentar la tesis para obtener el titulo y estoy desempleada. Tengo poca experiencia trabajando en industrias alimentaria,pero aprendo rápido y me gustan los desafíos, les agradecería poder tener una oportunidad.
+ <br>Security_code : vkg4h
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.138.74.195<br>
+ <br>Nombre : Edmundo Miguel
+ <br>Apellido : Fuster
+ <br>Cargo : Gerente Técnico
+ <br>Direccion : Gral Artigas 1612
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 15 5124 4705
+ <br>Email : naon825@hotmail.coml
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : En función de formación, antecedentes y experiencias me encuentro capacitado para actuar en la industria de la construcción ocupando posicióes desde Jefaturas hasta Gerencias
+ <br>Security_code : y2mps
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.138.74.195<br>
+ <br>Nombre : Edmundo Miguel
+ <br>Apellido : Fuster
+ <br>Cargo : Gerencia
+ <br>Direccion : Gral Artigas 1612
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 15 5124 4705
+ <br>Email : naon825@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : De acuerdo a mi formación y antecedentes estoy capacitado para actuar en la Industria de la Construcción ocupando posiciones desde Jefaturas hasta Gerencias.
+ <br>Security_code : 87873
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 188.143.232.37<br>
+ <br>Nombre : Barnypok
+ <br>Apellido : 78392
+ <br>Cargo : rVsTFXwjgxhnPzP
+ <br>Direccion : nfFZEzeNMJEsq
+ <br>Ciudad : NY
+ <br>Telefono : 11115616028
+ <br>Email : jfvynms4281rt@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Ex3SDm http://www.FyLitCl7Pf7ojQdDUOLQOuaxTXbj5iNG.com
+ <br>Security_code : JnUYoM
+ <br>Send : Enviar
+ <br>
+---------------
+

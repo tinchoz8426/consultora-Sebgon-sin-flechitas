@@ -1,0 +1,236 @@
+Address : 181.26.11.11<br>
+ <br>REF : EP-1
+ <br>Nombre : Julian David
+ <br>Apellido : Barrionuevo
+ <br>Cargo : Encargado de Produccion
+ <br>Direccion : Gualeguaychu 1654
+ <br>Ciudad : CABA
+ <br>Telefono : 1534116604
+ <br>Email : jbarrionuevo77@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : ME COMUNICO CON UD. PARA SOLICITAR EMPLEO EN LA EMPRESA.
+	ADJUNTO A LA PRESENTE MI CURRICULUM VITAE A LOS EFECTOS DE QUE SE INFORME SOBRE MI EXPERIENCIA LABORAL.
+	PARA CONCLUIR SIN OTRO PARTICULAR, ME DESPIDO A LA ESPERA DE UNA PRONTA Y FAVORABLE RESPUESTA.
+
+	ATTE. JULIAN DAVID BARRIONUEVO
+
+ <br>Security_code : wph78
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.216.245.237<br>
+ <br>REF : ACO
+ <br>Nombre : Marlyn
+ <br>Apellido : Gomez
+ <br>Cargo : Asistente Comercial
+ <br>Direccion : Suipacha al 771
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 1127233832
+ <br>Email : marlyngomez32@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Interesada en la postulación de Asistente Comercial
+ <br>Security_code : g5mtr
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.47.136.42<br>
+ <br>Nombre : alberto martin
+ <br>Apellido : molina
+ <br>Cargo : chofer
+ <br>Direccion : spiro
+ <br>Ciudad : buenos aires
+ <br>Telefono : 1523706718
+ <br>Email : elmartu83@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : registro provincial y c.n.r.t al dia
+ <br>Security_code : vcmjv
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.195.112.97<br>
+ <br>Nombre : lautaro
+ <br>Apellido : severio eder
+ <br>Cargo : ventas
+ <br>Direccion : alvear 2241 
+ <br>Ciudad : mar del plata
+ <br>Telefono : 2235014206
+ <br>Email : lautaro.severio@hotmail.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Con ganas de trabajar y conseguir logros.
+ <br>Security_code : nbyhj
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.176.211.96<br>
+ <br>REF : chr
+ <br>Nombre : Gaston  
+ <br>Apellido : Boggian
+ <br>Cargo : Chófer
+ <br>Direccion : Las talitas 447
+ <br>Ciudad : Buenos aires
+ <br>Telefono : 1167860355
+ <br>Email : Arielboggian36@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me postulo al puesto
+ <br>Security_code : 7td4g
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.176.211.96<br>
+ <br>REF : chr
+ <br>Nombre : Gaston  
+ <br>Apellido : Boggian
+ <br>Cargo : Chófer
+ <br>Direccion : Las talitas 447
+ <br>Ciudad : Buenos aires
+ <br>Telefono : 1167860355
+ <br>Email : Arielboggian36@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me postulo al puesto
+ <br>Security_code : 7td4g
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.93.226.102<br>
+ <br>Nombre : Jannette  
+ <br>Apellido : Rojas 
+ <br>Cargo : Inherente a la profesión 
+ <br>Direccion : Zamudio 4939 Villa Pueyrredon 
+ <br>Ciudad : Buenos Aires 
+ <br>Telefono : 1163029769 
+ <br>Email : jrojasg01@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Tengo el agrado de dirigirme a ustedes con el objetivo de participar en búsquedas acordes a mi perfil en su empresa. Adjunto mi Curriculum Vitae buscando ser incluida en su base de datos por si se produjera alguna vacante.
+ <br>Security_code : w7zq3
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.55.145.12<br>
+ <br>REF : TM-2
+ <br>Nombre : Carlos
+ <br>Apellido : Aguirre
+ <br>Cargo : tecnico mecanico
+ <br>Direccion : Los pinos
+ <br>Ciudad : Longchamps
+ <br>Telefono : 1553311985
+ <br>Email : carua19ca@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : me postulo a la vacante de tecnico mecanico
+ <br>Security_code : b3t34
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.129.214.201<br>
+ <br>Nombre : Franco
+ <br>Apellido : Retrivi
+ <br>Cargo : Transportista, distribución, logística.
+ <br>Direccion : Alberti 6380 m3 1 A
+ <br>Ciudad : Mar del Plata
+ <br>Telefono : 2233049248
+ <br>Email : retrivifranco@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : -
+ <br>Security_code : xb7y4
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.129.214.201<br>
+ <br>Nombre : Franco
+ <br>Apellido : Retrivi
+ <br>Cargo : Transportista, distribución, logística.
+ <br>Direccion : Alberti 6380 m3 1 A
+ <br>Ciudad : Mar del Plata
+ <br>Telefono : 2233049248
+ <br>Email : retrivifranco@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : -
+ <br>Security_code : xb7y4
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.129.214.201<br>
+ <br>Nombre : Franco
+ <br>Apellido : Retrivi
+ <br>Cargo : Transportista, distribución, logística.
+ <br>Direccion : Alberti 6380 m3 1 A
+ <br>Ciudad : Mar del Plata
+ <br>Telefono : 2233049248
+ <br>Email : retrivifranco@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : -
+ <br>Security_code : XB7Y4
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.129.214.201<br>
+ <br>Nombre : Franco
+ <br>Apellido : Retrivi
+ <br>Cargo : Transportista, distribución, logística.
+ <br>Direccion : Alberti 6380 m3 1 A
+ <br>Ciudad : Mar del Plata
+ <br>Telefono : 2233049248
+ <br>Email : retrivifranco@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : -
+ <br>Security_code : FF8G2
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.129.214.201<br>
+ <br>Nombre : Franco
+ <br>Apellido : Retrivi
+ <br>Cargo : Transportista, distribución, logística.
+ <br>Direccion : Alberti 6380 m3 1 A
+ <br>Ciudad : Mar del Plata
+ <br>Telefono : 2233049248
+ <br>Email : retrivifranco@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : -
+ <br>Security_code : ccpk8
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.1.236.253<br>
+ <br>Nombre : julieta
+ <br>Apellido : folguerona
+ <br>Cargo : administrativo
+ <br>Direccion : alberto casares
+ <br>Ciudad : buenos aires
+ <br>Telefono : 1537985382
+ <br>Email : jeacas98@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : tambien me postulo para la atencion al publico. ya que soy interprete de lengua de señas
+ <br>Security_code : 3zkjt
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.194.14.186<br>
+ <br>REF : SP-1
+ <br>Nombre : Eduardo José
+ <br>Apellido : Medina Colon
+ <br>Cargo : SP-1
+ <br>Direccion : Patricios 265 Torre 4 Piso 7 Dpto 1
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 1124503682
+ <br>Email : medinaing19@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Anexo mi curriculum donde pueden evaluar mis competencias, conocimientos y habilidades en relación al cargo
+ <br>Security_code : 7m7z9
+ <br>Send : Enviar
+ <br>
+---------------
+

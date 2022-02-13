@@ -1,0 +1,118 @@
+Address : 179.40.66.200<br>
+ <br>Nombre : Andres Ignacio
+ <br>Apellido : Gandolfo
+ <br>Cargo : Gerente
+ <br>Direccion : Florentino Ameghino 28
+ <br>Ciudad : Chivilcoy
+ <br>Telefono : 0234615540244
+ <br>Email : aigandolfoc@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados, buenos días,
+Mi nombre es Ignacio Gandolfo y me estoy poniendo en contacto con Uds. en relación a las búsquedas que pudieran llegar a surgir.
+Mi formación es en ciencias económicas con sólida experiencia en al área administrativa-financiera y control de gestión.
+Actualmente me encuentro residiendo en la Ciudad de Chivilcoy pero con disponibilidad para viajar / relocalizarme con mi familia.
+Les envío mi CV para mayor detalle e información acerca de mi formación y perfil personal y profesional.
+Estoy disponible para conversar con Uds. cuando así lo requieran.
+saludos cordiales,
+Ignacio Gandolfo
+ <br>Security_code : mdvvg
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.13.66.192<br>
+ <br>REF : chr
+ <br>Nombre : Sergio Daniel
+ <br>Apellido : Silva
+ <br>Cargo : Chofer
+ <br>Direccion : Arata 2550 del Viso 
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 1567473075
+ <br>Email : elysergio2015@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Con referencia. Buena atención con clientes
+ <br>Security_code : 7ftc3
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.61.152.187<br>
+ <br>REF : Tectron
+ <br>Nombre : Fernando
+ <br>Apellido : Blanco
+ <br>Cargo : Técnico electrónico
+ <br>Direccion : Saavedra 637
+ <br>Ciudad : Ramos Mejía
+ <br>Telefono : 4656 8426
+ <br>Email : blanco-fernando@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : POSTULACIÓN
+ <br>Security_code : WXK6X
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.61.152.187<br>
+ <br>REF : Tectron
+ <br>Nombre : Fernando
+ <br>Apellido : Blanco
+ <br>Cargo : Técnico electrónico
+ <br>Direccion : Saavedra 637
+ <br>Ciudad : Ramos Mejía
+ <br>Telefono : 4656 8426
+ <br>Email : blanco-fernando@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : POSTULACIÓN
+ <br>Security_code : krwhr
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.61.152.187<br>
+ <br>REF : Tectron
+ <br>Nombre : Fernando
+ <br>Apellido : Blanco
+ <br>Cargo : Técnico electrónico
+ <br>Direccion : Saavedra 637
+ <br>Ciudad : Ramos Mejía
+ <br>Telefono : 4656 8426
+ <br>Email : blanco-fernando@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : postulación
+ <br>Security_code : 8jszf
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.61.152.187<br>
+ <br>REF : Tectron
+ <br>Nombre : Fernando
+ <br>Apellido : Blanco
+ <br>Cargo : Técnico electrónico
+ <br>Direccion : Saavedra 637
+ <br>Ciudad : Ramos Mejía
+ <br>Telefono : 4656 8426
+ <br>Email : blanco-fernando@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : postulación
+ <br>Security_code : 2nk8p
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.47.136.41<br>
+ <br>REF : chr
+ <br>Nombre : ruben
+ <br>Apellido : aranda
+ <br>Cargo : chofer y clarkista
+ <br>Direccion : chofer con categoria profecional
+ <br>Ciudad : g.catan
+ <br>Telefono : 1168110220 casa 21030471
+ <br>Email : cachocamp@hotmail,com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : hola soy chofer con todos los registros y clarkista con registro tengo experencia en logistica y distribucion
+ <br>Security_code : ygg2t
+ <br>Send : Enviar
+ <br>
+---------------
+

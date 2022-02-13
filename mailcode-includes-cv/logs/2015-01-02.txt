@@ -1,0 +1,290 @@
+Address : 190.190.118.135
+Nombre : Erica
+Apellido : Castro
+Cargo : Recepcionista/Administrativa/Cajera
+Direccion : Juan Pasaje Esnaola 981
+Ciudad : Moron
+Telefono : 1568222672
+Email : ericacastro2@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenas tardes, Adjunto CV. En este momento tengo disponibilidad inmediata. Muchas gracias, Erica Castro
+Security_code : hyrfd
+Send : Enviar
+
+---------------
+
+Address : 190.190.118.135
+Nombre : Erica
+Apellido : Castro
+Cargo : Recepcionista/Administrativa/Cajera
+Direccion : Juan Pasaje Esnaola 981
+Ciudad : Moron
+Telefono : 1568222672
+Email : ericacastro2@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenas tardes, Adjunto CV. En este momento tengo disponibilidad inmediata. Muchas gracias, Erica Castro
+Security_code : hyrfd
+Send : Enviar
+
+---------------
+
+Address : 190.190.118.135
+Nombre : Erica
+Apellido : Castro
+Cargo : Recepcionista/Administrativa/Cajera
+Direccion : Juan Pasaje Esnaola 981
+Ciudad : Moron
+Telefono : 1568222672
+Email : ericacastro2@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenas tardes, Adjunto CV. En este momento tengo disponibilidad inmediata. Muchas gracias, Erica Castro
+Security_code : 9K4fh
+Send : Enviar
+
+---------------
+
+Address : 190.190.118.135
+Nombre : Erica
+Apellido : Castro
+Cargo : Recepcionista/Administrativa/Cajera
+Direccion : Juan Pasaje Esnaola 981
+Ciudad : Moron
+Telefono : 1568222672
+Email : ericacastro2@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenas tardes, Adjunto CV. En este momento tengo disponibilidad inmediata. Muchas gracias, Erica Castro
+Security_code : hYrfd
+Send : Enviar
+
+---------------
+
+Address : 190.190.118.135
+Nombre : Erica
+Apellido : Castro
+Cargo : Recepcionista/Administrativa/Cajera
+Direccion : Pasaje Juan Esnaola 981
+Ciudad : Moron
+Telefono : 1568222672
+Email : ericacastro2@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenas tardes,
+Adjunto CV. En este momento tengo disponibilidad inmediata. Muchas gracias, Saludos. Erica Castro
+Security_code : 59qvb
+Send : Enviar
+
+---------------
+
+Address : 190.190.118.135
+Nombre : Erica
+Apellido : Castro
+Cargo : Recepcionista/Administrativa/Cajera
+Direccion : Pasaje Juan Esnaola 981
+Ciudad : Moron
+Telefono : 1568222672
+Email : ericacastro2@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenas tardes,
+Adjunto CV. En este momento tengo disponibilidad inmediata. Muchas gracias, Saludos. Erica Castro
+Security_code : 59qvb
+Send : Enviar
+
+---------------
+
+Address : 190.220.145.83
+Nombre : Maricel
+Apellido : Kuhm
+Cargo : Disponible
+Direccion : Florencio Sanchez
+Ciudad : Paraná
+Telefono : 3434253175
+Email : mari_kuhm@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola: les dejo mi cv para actuales o futuras búsquedas laborales.
+Security_code : tzd6r
+Send : Enviar
+
+---------------
+
+Address : 190.220.145.83
+Nombre : Maricel
+Apellido : Kuhm
+Cargo : Disponible
+Direccion : Florencio Sanchez
+Ciudad : Paraná
+Telefono : 3434253175
+Email : mari_kuhm@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola: les dejo mi cv para actuales o futuras búsquedas laborales.
+Security_code : tzd6r
+Send : Enviar
+
+---------------
+
+Address : 190.220.145.83
+Nombre : Maricel
+Apellido : Kuhm
+Cargo : Disponible
+Direccion : Florencio Sanchez
+Ciudad : Paraná
+Telefono : 3434253175
+Email : mari_kuhm@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola: les dejo mi cv para actuales o futuras búsquedas laborales.
+Security_code : tzd6r
+Send : Enviar
+
+---------------
+
+Address : 190.138.74.200
+Nombre : NATALIA
+Apellido : DISANO
+Cargo : SECRETARIA, EJECUTIVA DE CTA, ADMINISTRATIVA
+Direccion : andres lamas 2113
+Ciudad : capital federal
+Telefono : 1533512850
+Email : ndisano@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto mi cv para una posible seleccion.
+Security_code : 9rj3q
+Send : Enviar
+
+---------------
+
+Address : 200.125.116.27
+Nombre : Lady
+Apellido : Velasquez Espinoza
+Cargo : administrativo
+Direccion : Av. Pueyrredon 380
+Ciudad : Balvanera
+Telefono : 15-24976847
+Email : lady_di_15@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Soy una persona responsable y activa, capaz de realizar cualquier tipo de trabajo. 
+Adjunto mi CV para sus fines .
+Security_code : dkngw
+Send : Enviar
+
+---------------
+
+Address : 201.253.236.233
+Nombre : Jennifer 
+Apellido : Ledesma
+Cargo : Recepcionista, secretaria, atención al cliente
+Direccion : Ayacucho 4276
+Ciudad : Buenos Aires
+Telefono : 1534701137
+Email : jenniferledesma@outlook.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : A quien corresponda
+
+ Me dirijo a usted para dejarles en su base de datos mi curriculum.
+Actualmente me encuentro trabajando con mi padre en su relojería atendiendo a los clientes. 
+Soy una persona pro activa, responsable, organizada, y con muchas ganas de trabajar. 
+Espero podamos coordinar una entrevista personal.
+Security_code : d5j79
+Send : Enviar
+
+---------------
+
+Address : 201.253.236.233
+Nombre : Jennifer 
+Apellido : Ledesma
+Cargo : Recepcionista, secretaria, atención al cliente
+Direccion : Ayacucho 4276
+Ciudad : Buenos Aires
+Telefono : 1534701137
+Email : jenniferledesma@outlook.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : A quien corresponda
+
+ Me dirijo a usted para dejarles en su base de datos mi curriculum.
+Actualmente me encuentro trabajando con mi padre en su relojería atendiendo a los clientes. 
+Soy una persona pro activa, responsable, organizada, y con muchas ganas de trabajar. 
+Espero podamos coordinar una entrevista personal.
+Security_code : d5j79
+Send : Enviar
+
+---------------
+
+Address : 201.253.236.233
+Nombre : Jennifer 
+Apellido : Ledesma
+Cargo : Recepcionista, secretaria, atención al cliente
+Direccion : Ayacucho 4276
+Ciudad : Buenos Aires
+Telefono : 1534701137
+Email : jenniferledesma@outlook.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : A quien corresponda
+
+ Me dirijo a usted para dejarles en su base de datos mi curriculum.
+Actualmente me encuentro trabajando con mi padre en su relojería atendiendo a los clientes. 
+Soy una persona pro activa, responsable, organizada, y con muchas ganas de trabajar. 
+Espero podamos coordinar una entrevista personal.
+Security_code : d5j79
+Send : Enviar
+
+---------------
+
+Address : 201.253.236.233
+Nombre : Jennifer 
+Apellido : Ledesma
+Cargo : Recepcionista, secretaria, atención al cliente
+Direccion : Ayacucho 4276
+Ciudad : Buenos Aires
+Telefono : 1534701137
+Email : jenniferledesma@outlook.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : A quien corresponda
+
+ Me dirijo a usted para dejarles en su base de datos mi curriculum.
+Actualmente me encuentro trabajando con mi padre en su relojería atendiendo a los clientes. 
+Soy una persona pro activa, responsable, organizada, y con muchas ganas de trabajar. 
+Espero podamos coordinar una entrevista personal.
+Security_code : d5j79
+Send : Enviar
+
+---------------
+
+Address : 201.253.236.233
+Nombre : Jennifer 
+Apellido : Ledesma
+Cargo : Recepcionista, secretaria, atención al cliente
+Direccion : Ayacucho 4276
+Ciudad : Buenos Aires
+Telefono : 1534701137
+Email : jenniferledesma@outlook.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : A quien corresponda
+
+ Me dirijo a usted para dejarles en su base de datos mi curriculum.
+Actualmente me encuentro trabajando con mi padre en su relojería atendiendo a los clientes. 
+Soy una persona pro activa, responsable, organizada, y con muchas ganas de trabajar. 
+Espero podamos coordinar una entrevista personal.
+Security_code : d5j79
+Send : Enviar
+
+---------------
+
+Address : 201.253.236.233
+Nombre : Jennifer Ana
+Apellido : Ledesma
+Cargo : Recepcionista, secretaria, atención al cliente
+Direccion : Ayacucho 4276
+Ciudad : Buenos Aires
+Telefono : 1534701137
+Email : jenniferledesma@outlook.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : A quien corresponda
+
+ Me dirijo a usted para dejarles en su base de datos mi curriculum.
+Actualmente me encuentro trabajando con mi padre en su relojería atendiendo a los clientes. 
+Soy una persona pro activa, responsable, organizada, y con muchas ganas de trabajar. 
+Espero podamos coordinar una entrevista personal.
+
+Saludos atte.
+Security_code : 2hz7v
+Send : Enviar
+
+---------------
+

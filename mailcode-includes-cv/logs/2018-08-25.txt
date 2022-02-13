@@ -1,0 +1,136 @@
+Address : 170.51.35.81<br>
+ <br>Nombre : Carmen Alejandra 
+ <br>Apellido : Cuellar 
+ <br>Cargo : Cajera, repositor, o vendedor de mostrador 
+ <br>Direccion : Barrió José fuchs salta al 38
+ <br>Ciudad : Comodoro Rivadavia 
+ <br>Telefono : 297 154337097
+ <br>Email : Cuellaralejandra97@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas, me gustaría ser parte de la empresa, ya que necesito el trabajo  con suma urgencias. Gracias saludos a ustedes cordialmente 
+ <br>Security_code : 3pkf8
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.9<br>
+ <br>Nombre : Lisbeth coromoto
+ <br>Apellido : Herrera flores
+ <br>Cargo : Cualquier adkikidtrativo secretariado ejecutivo cuentas
+ <br>Direccion : Av cordoba 3621
+ <br>Ciudad : Buenos aires
+ <br>Telefono : 1121856031
+ <br>Email : lisbeth.coromoto74@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Tengo experiencia en secretariado, atencion al cliente, Ejecutiva de atencion al cliente
+ <br>Security_code : 66td9
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 170.51.96.104<br>
+ <br>Nombre : Romina Beatriz
+ <br>Apellido : Retamar
+ <br>Cargo : Limpieza
+ <br>Direccion : San Felipe 6967
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 1154551418
+ <br>Email : Rominaretamar1418@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola estoy buscando empleo urgente necesito trabajar y estoy dispuesta para cualquier tipo de puesto tengo experiencia en limpieza pero también en cualquier otro puesto con muchas ganas de trabajar y muy buen trato para con la gente también tengo experiencia en ventas
+ <br>Security_code :  bb887
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 170.51.96.104<br>
+ <br>Nombre : Romina Beatriz
+ <br>Apellido : Retamar
+ <br>Cargo : Limpieza
+ <br>Direccion : San Felipe 6967
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 1154551418
+ <br>Email : Rominaretamar1418@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola estoy buscando empleo urgente necesito trabajar y estoy dispuesta para cualquier tipo de puesto tengo experiencia en limpieza pero también en cualquier otro puesto con muchas ganas de trabajar y muy buen trato para con la gente también tengo experiencia en ventas
+ <br>Security_code : Bb887
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 170.51.96.104<br>
+ <br>Nombre : Romina Beatriz
+ <br>Apellido : Retamar
+ <br>Cargo : Limpieza
+ <br>Direccion : San Felipe 6967
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 1154551418
+ <br>Email : rominaretamar1418@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola estoy buscando empleo urgente necesito trabajar tengo experiencia en limpieza pero también ESTOY dispuesta a desempeñarme en cualquier otro puesto. Muy buen trato para con la gente y también tengo experiencia en ventas
+ <br>Security_code : ssb5Y
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 170.51.96.104<br>
+ <br>Nombre : Romina Beatriz
+ <br>Apellido : Retamar
+ <br>Cargo : Limpieza
+ <br>Direccion : San Felipe 6967
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 1154551418
+ <br>Email : rominaretamar1418@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola estoy buscando empleo urgente necesito trabajar tengo experiencia en limpieza pero también ESTOY dispuesta a desempeñarme en cualquier otro puesto. Muy buen trato para con la gente y también tengo experiencia en ventas
+ <br>Security_code : n45z3
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 170.51.96.104<br>
+ <br>Nombre : Romina Beatriz
+ <br>Apellido : Retamar
+ <br>Cargo : Limpieza
+ <br>Direccion : San Felipe 6967
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 1154551418
+ <br>Email : rominaretamar1418@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola estoy buscando empleo urgente necesito trabajar tengo experiencia en limpieza pero estoy dispuesto para desempeñarme en cualquier tipo de puesto. Muy buen trato para con la gente y también tengo experiencia en ventas
+ <br>Security_code : wgtg8
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.182.106.197<br>
+ <br>REF : TEC. EL
+ <br>Nombre : Matías
+ <br>Apellido : Ruggeri
+ <br>Cargo : técnico elctrónico especializado
+ <br>Direccion : carlos casares 2240
+ <br>Ciudad : buenos aires
+ <br>Telefono : 62898672
+ <br>Email : mdruggeri@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me encuentro interesado en el empleo. Si bien soy ingeniero en electrónica y teóricamente me encuentro sobrecalificado para el empleo, hace casi 5 meses que estoy sin trabajar.
+ <br>Security_code : 8xfsz
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.180.138.92<br>
+ <br>Nombre : Mónica noemi 
+ <br>Apellido : Sisat
+ <br>Cargo : Cajera , vendedora, administración 
+ <br>Direccion : Ohiggins 239
+ <br>Ciudad : General Rodríguez 
+ <br>Telefono : 0111560108478
+ <br>Email : Mony_77@hotmail.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me gustaría trabajar en la empresa 
+ <br>Security_code : Z6y4f
+ <br>Send : Enviar
+ <br>
+---------------
+

@@ -1,0 +1,125 @@
+Address : 186.109.248.237<br>
+ <br>REF : JPER-1
+ <br>Nombre : Luis
+ <br>Apellido : Araujo
+ <br>Cargo : Jefe de Personal
+ <br>Direccion : Antezana 37 PB C
+ <br>Ciudad : Capital Federal
+ <br>Telefono : 1157259939
+ <br>Email : relaclabor@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenos dias.
+Habiéndome notificado la posibilidad de cubrir la vacante de referencia, les remito mi CV.
+Me encantaria tener la oportunidad de conversar más sobre como mis habilidades podrian contribuir con el éxito del negocio. Creo que es una oportunidad de alcanzar grandes resultados en el área de acuerdo a la posición. 
+
+Aguardo tu contacto para precisar detalles de tu interés.
+
+Saludos cordiales,
+
+Luis Araujo
+relaclabor@gmail.com
+1557259939
+
+ <br>Security_code : bm8dw
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.11<br>
+ <br>REF : ACO
+ <br>Nombre : Estela myriam
+ <br>Apellido : Cocucci
+ <br>Cargo : Asistente mercial
+ <br>Direccion : Las heras 1643
+ <br>Ciudad : Ramos mejia
+ <br>Telefono : 1567905307
+ <br>Email : estelabomberos@hotmail.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Mis trabajos siempre se relacionaron con administracion y ventas tanto telefonicas como personales esperon cumplir sus espectativas saludos
+ <br>Security_code : 3sd9s
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.254.54.13<br>
+ <br>Nombre : Fernando
+ <br>Apellido : Méndez
+ <br>Cargo : Chofer
+ <br>Direccion : Cabo Vacca 424
+ <br>Ciudad : Lomas del mirador
+ <br>Telefono : 1122459837
+ <br>Email : Fergunners@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas tardes adjunto CV
+ <br>Security_code : W5tc9
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.109.132.87<br>
+ <br>REF : Tectron
+ <br>Nombre : Anibal 
+ <br>Apellido : Osiadach
+ <br>Cargo : Tecncino 
+ <br>Direccion : Cordoba 1641
+ <br>Ciudad : Ing. Maschwitz
+ <br>Telefono : 0111561876987
+ <br>Email : anibalosiadach@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados Sres. SEBGON por el presente les hago llegar mi CV de técnico en electrónica con experiencia en operacion y mantenimiento de plantas.
+Saludos cordiales.
+Anibal Osiadach
+ <br>Security_code : sxh9s
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.0.233.121<br>
+ <br>Nombre : Joel 
+ <br>Apellido : Pereira
+ <br>Cargo : Atencion al público
+ <br>Direccion : España 2464 
+ <br>Ciudad : Mar del Plata 
+ <br>Telefono : 0223-156014340
+ <br>Email : joe_pereira95@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas tardes, mi nombre es Joel Pereira y tengo 22 años. Estoy buscando empleo acorde a mis experiencias. He trabajo en lugares de ventas y de atencion al público, tambien de sereno/recepcionista. Estoy predispuesto y con muchas ganas de seguir aprendiendo y adquiriendo mas experiencia. 
+ <br>Security_code : 9qh82
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.247.198.62<br>
+ <br>REF : ROT-1
+ <br>Nombre : Axel
+ <br>Apellido : Mazzeo
+ <br>Cargo : Responsable oficina técnica
+ <br>Direccion : Muñiz 336
+ <br>Ciudad : CABA
+ <br>Telefono : 1540338215
+ <br>Email : axelmazzeo91@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : ​Buenos días, mi nombre es Axel Mazzeo. Estoy graduado de la carrera de Diseño Industrial, me enteré que están realizando una búsqueda de personal. Me interesa el trabajo que describen en la publicación y creo que tengo las características para poder desarrollarme en el puesto. Adjunto en el mail mi CV con remuneración pretendida  datos personales y portfolio con algunos trabajos realizados. Aguardo su respuesta.
+
+Saludos, Axel​​
+​
+ <br>Security_code : 6445s
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 200.125.74.174<br>
+ <br>Nombre : Edgardo Javier 
+ <br>Apellido : Orsino
+ <br>Cargo : Empleado
+ <br>Direccion : Av. San Martín 4202  
+ <br>Ciudad : CABA
+ <br>Telefono : 1130040079
+ <br>Email : eorsino@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Full time
+ <br>Security_code : 8ghhs
+ <br>Send : Enviar
+ <br>
+---------------
+

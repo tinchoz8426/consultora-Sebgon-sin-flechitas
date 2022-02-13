@@ -1,0 +1,85 @@
+Address : 190.225.88.154
+REF : gerente-de-operaciones
+Nombre : Micaela Johanna 
+Apellido : Bustos
+Cargo : Tecnica Electronica
+Direccion : Santiago del Estero
+Ciudad : Loma Hermosa
+Telefono : 1566932911
+Email : mikaelabustos@gmail.com
+
+---------------
+
+Address : 190.225.88.154
+REF : gerente-de-operaciones
+Nombre : Micaela Johanna 
+Apellido : Bustos
+Cargo : Tecnica Electronica
+Direccion : Santiago del Estero
+Ciudad : Loma Hermosa
+Telefono : 1566932911
+Email : mikaelabustos@gmail.com
+
+---------------
+
+Address : 190.225.88.154
+REF : gerente-de-operaciones
+Nombre : Micaela Johanna 
+Apellido : Bustos
+Cargo : Tecnica Electronica
+Direccion : Santiago del Estero
+Ciudad : Loma Hermosa
+Telefono : 1566932911
+Email : mikaelabustos@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Busco urgente trabajo técnica electrónico
+Security_code : td375
+Send : Enviar
+
+---------------
+
+Address : 190.225.88.154
+REF : gerente-de-operaciones
+Nombre : Micaela Johanna 
+Apellido : Bustos
+Cargo : Técnica Electrónica
+Direccion : Santiago del Estero
+Ciudad : Loma Hermosa
+Telefono : 1566932911
+Email : mikaelabustos@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Busco urgente trabajo técnica electrónico
+Security_code : td375
+Send : Enviar
+
+---------------
+
+Address : 200.117.94.83
+REF : gerente-de-operaciones
+Nombre : Micaela Johanna 
+Apellido : Bustos
+Cargo : Tecnica Electronica
+Direccion : Santiago del Estero
+Ciudad : Loma Hermosa
+Telefono : 47694934
+Email : mikaelabustos@gmail.com
+
+---------------
+
+Address : 157.92.44.72
+Nombre : Ariel
+Apellido : Raidan
+Cargo : Capacitación de RRHH
+Direccion : Migueletes 863
+Ciudad : Ciudad de Buenos Aires
+Telefono : 1544169904
+Email : produccionacademica@yahoo.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados
+
+Cuento con experiencia y formación en el area de capacitación de RRHH. También tengo experiencia en la formación a través de tutorìas virtuales.
+Security_code : 6rb7n
+Send : Enviar
+
+---------------
+

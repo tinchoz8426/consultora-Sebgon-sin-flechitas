@@ -1,0 +1,62 @@
+Address : 181.165.11.207<br>
+ <br>Nombre : Maximiliano Alejandro 
+ <br>Apellido : Pumar
+ <br>Cargo : Tecnico Informatico,atencion al cliente,atencion al publico,operario,cadete,gestor,repositor,administrativo,seguridad,ventas y etc.
+ <br>Direccion : Uriburu 1624 
+ <br>Ciudad : Quilmes
+ <br>Telefono : 42546076
+ <br>Email : maxi_quilmes_1990@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola le mando el curriculum vitae adjunto,solo nesesito trabajar ya que mi papa trabaja para el same emergencias en capital federal tuvo un acv y lo quieren jubilar por invalidez porque tiene medio cuerpo paralizado,por esa razon debi dejar el colegio en 4to año de la secundaria busco un trabajo para poder sustentar mis estudios,le aseguro que no quiero dar lastima solo quiero trabajar para asi ganar mi sueldo y poder ayudar en mi casa desde ya muchas gracias de todos modos por mirar mi cv.
+
+ <br>Security_code : CWRKB
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.165.11.207<br>
+ <br>Nombre : Maximiliano Alejandro
+ <br>Apellido : Pumar
+ <br>Cargo : Tecnico Informatico,atencion al cliente,atencion al publico,operario,cadete,gestor,repositor,administrativo,seguridad,ventas y etc.
+ <br>Direccion : Uriburu 1624
+ <br>Ciudad : Quilmes
+ <br>Telefono : 42546076
+ <br>Email : maxi_quilmes_1990@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola le mando el curriculum vitae adjunto,solo nesesito trabajar ya que mi papa trabaja para el same emergencias en capital federal tuvo un acv y lo quieren jubilar por invalidez porque tiene medio cuerpo paralizado,por esa razon debi dejar el colegio en 4to año de la secundaria busco un trabajo para poder sustentar mis estudios,le aseguro que no quiero dar lastima solo quiero trabajar para asi ganar mi sueldo y poder ayudar en mi casa desde ya muchas gracias de todos modos por mirar mi cv.
+
+ <br>Security_code : wh5jk
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.29.138.161<br>
+ <br>Nombre : Jorge
+ <br>Apellido : Núñez
+ <br>Cargo : Soporte Técnico / Help Desk
+ <br>Direccion : Av. Suipacha 771, 11-i
+ <br>Ciudad : Capital Federal
+ <br>Telefono : 1144933157
+ <br>Email : nunez.joorge@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buscando empleo para el área de soporte técnico o cargos sobre el área de Informática. 
+ <br>Security_code : dxymk
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.0.183.11<br>
+ <br>Nombre : Gustavo
+ <br>Apellido : Bautista
+ <br>Cargo : Supervisor/Tecnico en calidad
+ <br>Direccion : B.Mitre 2127 
+ <br>Ciudad : Moreno
+ <br>Telefono : 1131824172
+ <br>Email : tomy2792@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me encuentro en búsqueda laboral
+ <br>Security_code : 8stms
+ <br>Send : Enviar
+ <br>
+---------------
+

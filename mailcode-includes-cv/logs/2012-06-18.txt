@@ -1,0 +1,56 @@
+Address : 190.17.236.224
+Nombre : Ricardo
+Apellido : Schiariti
+Cargo : RRHH Junior
+Direccion : Juan A. Garcia
+Ciudad : Villa del Parque
+Telefono : 47530864
+Email : Ricardo.Schiariti@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados,
+
+Me gustaría dejar a su consideración mi cv, dado que estimo soy un candidato idóneo para cualquier posición de “Entry Level” en el área de RRHH, ya que cuento con conocimientos y sobresaliente motivación para poder afrontar el desafío.
+
+Es por eso que me gustaría tener la oportunidad de una entrevista donde poder ampliar cualquier información o detalle de mi perfil, para la que quedo a su disposición.
+
+Saludos Cordiales.
+
+Ricardo Schiariti
+1567905963
+Ricardo.Schiariti@gmail.com
+
+Security_code : jx6pk
+Send : Enviar
+
+---------------
+
+Address : 186.23.169.57
+Nombre : Mariana Elisa
+Apellido : Secchi
+Cargo : Cajera-Atencion al cliente-Secretaria-Operaria- Encargada
+Direccion : Beron de Astrada 4262
+Ciudad : San Justo
+Telefono : 1534581176
+Email : mariana_secchi@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Mi nombre es Mariana Secchi, resido en la ciudad de San Justo, y basicamente elegí enviar mi CV a su empresa, con previa recomendacion de una amiga. Mi objetivo es encontrar un trabajo que me permita costear mi  estudio en la carrera de Magisterio. Desde ya agradezco su respuesta.
+Security_code : jc6kx
+Send : Enviar
+
+---------------
+
+Address : 190.175.207.13
+Nombre : Julieta
+Apellido : Garcia
+Cargo : Recursos Humanos
+Direccion : Boedo 1559
+Ciudad : Buenos Aires, Lomas de Zamora
+Telefono : 1551117864 o 42824628
+Email : garciajulieta.psi@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenas noches, me contacto con ustedes porque soy estudiante de psicologia en UBA, y en el proximo mes me recibo. Estoy interesada en ingresar a la consultora en el area de recursos humanos, y llevar a cabo tareas pertienetes a mis estudios. Agradezco su tiempo y espero tener noticias pronto.
+Security_code : tbsmz
+Send : Enviar
+
+---------------
+

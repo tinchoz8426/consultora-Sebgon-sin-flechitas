@@ -1,0 +1,30 @@
+Address : 190.8.51.37
+Nombre : NANCY EDITH
+Apellido : VALDINAZZI
+Cargo : REPCECIONISTA
+Direccion : AV. JUAN DE GARAY
+Ciudad : C.A.B.A.
+Telefono : 022615682845
+Email : nancy_ventas05@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : TENGO MUCHA EXPERIENCIA PERO TAMBIEN EN LA PARTE CONTABLE
+Security_code : 6ccfs
+Send : Enviar
+
+---------------
+
+Address : 190.220.163.92
+Nombre : Patricia Segovia
+Apellido : Segovia Ricarte
+Cargo : enfermera administrativa
+Direccion : santa teresa 3326
+Ciudad : moron
+Telefono : 155343299
+Email : kitty_07_moron@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buen día, mi nombre es Patricia soy enfermera, tengo experiencia en recepción y administración. Envió mi cv adjunto. Saludos
+Security_code : rqx7c
+Send : Enviar
+
+---------------
+

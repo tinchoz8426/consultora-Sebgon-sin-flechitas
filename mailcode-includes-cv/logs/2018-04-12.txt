@@ -1,0 +1,53 @@
+Address : 200.125.107.240<br>
+ <br>Nombre : vanesa
+ <br>Apellido : caballero
+ <br>Cargo : recepcionista, cajera, administrativa, otros
+ <br>Direccion : fragio 832
+ <br>Ciudad : ituzaingo bs as 
+ <br>Telefono : 1156588285
+ <br>Email : vanesacaballero80@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenos dias , espero tener la oportunidad de trabajar con ustedes, ya que tengo muchas ganas de desempeñarme, muchas gracias
+ <br>Security_code : 3c5fd
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 138.117.9.209<br>
+ <br>Nombre : Matias Adrian
+ <br>Apellido : Cantero
+ <br>Cargo : tecnico de seguridad e higiene
+ <br>Direccion : grito de asencio 3641
+ <br>Ciudad : jose c paz
+ <br>Telefono : 1121931149
+ <br>Email : mattias.cantero222@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola srs de sebgon consultora, me contacto con uds. con la intención de hacerles llegar mi curriculum. Soy un técnico en la carrera de seguridad e higiene, estoy en busca de mi primer empleo. Ya poseo matricula habilitante otorgada por el copime, también estoy apto para inscribirme al monotributo si es necesario. Agradecería muchísimo la oportunidad, y puede contar conmigo para lo que necesiten. Muchas gracias.
+
+ <br>Security_code : jfj68
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.167.134.190<br>
+ <br>REF : Ing. quim
+ <br>Nombre : MARIA
+ <br>Apellido : ARRIETA
+ <br>Cargo : JEFA DE PRODUCCION
+ <br>Direccion : Monrone 2569 1er piso A
+ <br>Ciudad : CABA
+ <br>Telefono : +5491126362716
+ <br>Email : mariabeatriz88@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenos días, 
+
+Me gustaria postularme al puesto de jefa de produccion tengo 29 años pero tengo 6 años de experiencia como ingeniero de procesos en una empresas de produccion de polietilenos
+
+Saludos, 
+
+María Beatriz Arrieta
+ <br>Security_code : 7xpp6
+ <br>Send : Enviar
+ <br>
+---------------
+

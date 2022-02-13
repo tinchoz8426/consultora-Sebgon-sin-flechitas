@@ -1,0 +1,83 @@
+Address : 152.168.246.60<br>
+ <br>Nombre : Oscar
+ <br>Apellido : Delgado
+ <br>Cargo : Ingeniero
+ <br>Direccion : Jean Jaures 1075 Depto 2
+ <br>Ciudad : Campana
+ <br>Telefono : 3489530888
+ <br>Email : osmaudel@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Saludo atento y respetuoso:
+
+Mi nombre es Oscar Delgado Amaya y soy Ingeniero de Materiales, cuento con experiencia laboral la cual he desarrollado principalmente en las áreas de producción, procesos, control y aseguramiento de la calidad y planificación, cuento además con experiencia en el manejo de personal convencionado (dotaciones de más de 25 personas, gremio SMATA), coordinación y liderazgo de grupos de trabajo. Mi última experiencia laboral tuvo lugar en una empresa del rubro autopartista ubicada en la localidad de Zárate. Actualmente me encuentro en búsqueda laboral activa, razón por la cual pongo a su apreciable consideración mi CV esperando que el mismo sea tenido en cuenta dentro de algún proceso de búsqueda laboral afín a mi perfil profesional y experiencia laboral. 
+
+Puedo relocalizarme, de proceder, en cercanías al lugar de trabajo. 
+
+Gracias.
+
+ <br>Security_code : 83bc7
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 170.51.34.186<br>
+ <br>Nombre : Mailen
+ <br>Apellido : Morinico
+ <br>Cargo : atencion al publico,cajera
+ <br>Direccion : ruta 226,km 10
+ <br>Ciudad : Mar del plata
+ <br>Telefono : 2236324791
+ <br>Email : mai98morinico@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Muchas ganas de trabajar,secundario completo,disponibilidad full time.Entusiasmo y adaptación a todo!
+ <br>Security_code : 5VcmW
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 170.51.34.186<br>
+ <br>Nombre : mailen
+ <br>Apellido : morinico
+ <br>Cargo : atencion al cliente,cajera
+ <br>Direccion : ruta 226 km 10
+ <br>Ciudad : Mar del plata 
+ <br>Telefono : 2236324791
+ <br>Email : mai98morinico@hotmail.comm
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Muchas ganas de trabajar,entusiasmo y dedicación,adaptación a cualquier rubro! Disponibilidad full time.
+ <br>Security_code : z8tc7
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.45.1.180<br>
+ <br>REF : chr
+ <br>Nombre : maximiliano
+ <br>Apellido : canosa
+ <br>Cargo : chofer
+ <br>Direccion : dicio464
+ <br>Ciudad : monte grande
+ <br>Telefono : 1122110260-806+2062-20584578
+ <br>Email : maxicanosa@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : hola me gustaria perteneser a su empresa
+ <br>Security_code : syh8v
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.48.234.161<br>
+ <br>Nombre : micaela del carmen
+ <br>Apellido : maidana
+ <br>Cargo : atención al cliente, vendedora, cajera
+ <br>Direccion : de los franceses 3867
+ <br>Ciudad : pontevedra, merlo
+ <br>Telefono : 0111538883070
+ <br>Email : micaelamaidana@hotmail.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : estoy en la búsqueda de empleo. Tengo 23 años, soy una persona responsable, me adecuo a las tareas a realizar, aprendo rápido las tareas a realizar 
+ <br>Security_code : wq64t
+ <br>Send : Enviar
+ <br>
+---------------
+

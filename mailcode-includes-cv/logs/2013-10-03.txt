@@ -1,0 +1,30 @@
+Address : 190.174.131.235
+Nombre : Romina Gisela
+Apellido : Sanchez
+Cargo : Atención al cliente
+Direccion : Charrúas 1019 Dto. 8
+Ciudad : Villa Tesei- Hurlingham
+Telefono : 44594944/1569593499
+Email : romi_.lola@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Quiero conseguir un tabajo de atención al cliente, call center, administrativo. Tengo experiencia de niñera únicamente. Desde ya, muchas gracias. 
+Security_code : tqk6p
+Send : Enviar
+
+---------------
+
+Address : 190.174.131.235
+Nombre : Marta Marina
+Apellido : Margaruccio
+Cargo : Ventas
+Direccion : Charrúas 1019 Dto. 8
+Ciudad : Villa Tesei- Hurlingham
+Telefono : 44594944/1533896782
+Email : mar_margart@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Quiero conseguir un trabajo de vendedora, empleada. Tengo experiencia. Desde ya, muchas gracias.
+Security_code : 3yjfk
+Send : Enviar
+
+---------------
+

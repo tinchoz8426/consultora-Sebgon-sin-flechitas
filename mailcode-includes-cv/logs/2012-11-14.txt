@@ -1,0 +1,81 @@
+Address : 181.1.197.17
+Nombre : Lucia
+Apellido : Lavezzari
+Cargo : trabajo administrativo, atención al público , supervisión de personal y manejo de caja
+Direccion : General Bustos 750 
+Ciudad : Córdoba
+Telefono : 0351157679852
+Email : luchilavezzari@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : BUSCO EMPLEO...
+Security_code : vyfzb
+Send : Enviar
+
+---------------
+
+Address : 200.7.179.126
+Nombre : Facundo
+Apellido : Botto
+Cargo : Chofer de camion
+Direccion : Guadalupe 2725
+Ciudad : Cordoba
+Telefono : 346715446995
+Email : sebastianbotto@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Necesito trabajar y esa es el area en que trabaje en los ultimos años.Gracias
+Security_code : v9692
+Send : Enviar
+
+---------------
+
+Address : 24.232.81.82
+REF : jefe-de-operaciones
+Nombre : lucrecia
+Apellido : Ramos
+Cargo : AMINISTRATIVA
+Direccion : Ubaldo fernandez nº 1247
+Ciudad : ZARATE
+Telefono : 011-15-59716082
+Email : lucreciaramos95@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Brnas Tardes, me encantaría participar de futuras búsquedas , dado que me encuentro el interés de un cambio laboral , que me permita crecer laboral y personalmente.
+
+Gracias
+Security_code : czzx3
+Send : Enviar
+
+---------------
+
+Address : 24.232.81.82
+REF : jefe-de-operaciones
+Nombre : lucrecia
+Apellido : Ramos
+Cargo : AMINISTRATIVA
+Direccion : Ubaldo fernandez nº 1247
+Ciudad : ZARATE
+Telefono : 011-15-59716082
+Email : lucreciaramos95@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Brnas Tardes, me encantaría participar de futuras búsquedas , dado que me encuentro el interés de un cambio laboral , que me permita crecer laboral y personalmente.
+
+Gracias
+Security_code : czzx3
+Send : Enviar
+
+---------------
+
+Address : 186.136.60.28
+Nombre : José María
+Apellido : Muslera
+Cargo : ventas/atencion al cliente
+Direccion : Olazabal 2117
+Ciudad : Ciudad aútonoma de Buenos Aires
+Telefono : 154-407-2901
+Email : Josemariamuslera@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Les envió mi C.V. para que me tengan en cuenta en futuras selecciones de personal que crean conveniente
+Security_code : s9q38
+Send : Enviar
+
+---------------
+

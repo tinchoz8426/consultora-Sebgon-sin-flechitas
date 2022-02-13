@@ -1,0 +1,140 @@
+Address : 200.24.255.125
+Nombre : Alejandro
+Apellido : Bielecki
+Cargo : Jefe de obra 
+Direccion : Amancay 652
+Ciudad : EL Bolson
+Telefono : 0221 155418107
+Email : alejandrobielecki@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados, envío mi CV para vuestra base de datos a la espera de ser tenido en cuenta para futuras búsquedas laborales que requieran un perfil como el que poseo. Cordiales saludos. 
+Security_code : fb7kb
+Send : Enviar
+
+---------------
+
+Address : 200.24.255.125
+Nombre : Alejandro
+Apellido : Bielecki
+Cargo : Jefe de obra
+Direccion : Amancay 652
+Ciudad : El Bolson
+Telefono : 0221 155418107
+Email : alejandrobielecki@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto mi CV para vuestra consideración para futuras búsquedas. Saludos cordiales.
+Security_code : m2phd
+Send : Enviar
+
+---------------
+
+Address : 190.220.35.92
+Nombre : PABLO MARCELO
+Apellido : MORALES
+Cargo : VENTAS
+Direccion : MEXICO 2245
+Ciudad : MENDOZA
+Telefono : 261 153736718
+Email : pablotransfer@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : A quien corresponda:
+envio mi CV adjunto.
+
+   
+Security_code : 85wbb
+Send : Enviar
+
+---------------
+
+Address : 190.220.35.92
+Nombre : PABLO MARCELO
+Apellido : MORALES
+Cargo : VENTAS
+Direccion : MEXICO 2245
+Ciudad : MENDOZA
+Telefono : 261 153736718
+Email : pablotransfer@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : envio mi CV adjunto para su cosideracion.
+ATTE
+pablo morales
+Security_code : vnxsf
+Send : Enviar
+
+---------------
+
+Address : 200.127.30.243
+Nombre : María Sol
+Apellido : Pérez
+Cargo : Psicologo
+Direccion : Mariano Moreno 6193
+Ciudad : Buenos Aires
+Telefono : 1165919894
+Email : masolperez25@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Envio adjunto mi Curriculum Vitae a fin de ser considerada en actuales y futuras búsquedas laborales que se ajusten a mi perfil profesional.
+Security_code : sm7zx
+Send : Enviar
+
+---------------
+
+Address : 200.127.30.243
+Nombre : María Sol
+Apellido : Pérez
+Cargo : Psicologo
+Direccion : Mariano Moreno 6193
+Ciudad : Buenos Aires
+Telefono : 1165919894
+Email : masolperez25@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Envio adjunto mi Curriculum Vitae a fin de ser considerada en actuales y futuras búsquedas laborales que se ajusten a mi perfil profesional.
+Security_code : sm7zx
+Send : Enviar
+
+---------------
+
+Address : 190.247.192.171
+Nombre : virna alexandra
+Apellido : castrellon
+Cargo : senior
+Direccion : ava cordoba 4390 depto 23
+Ciudad : capital federal
+Telefono : 47756074
+Email : virna53@yahoo.com
+MAX_FILE_SIZE : 2097152
+Mensaje : me interesan las ofertas para proyectos de desarrollo social
+Security_code : rkrjn
+Send : Enviar
+
+---------------
+
+Address : 190.247.192.171
+Nombre : virna alexandra
+Apellido : castrellon
+Cargo : senior
+Direccion : ava cordoba 4390 depto 23
+Ciudad : capital federal
+Telefono : 47756074
+Email : virna53@yahoo.com
+MAX_FILE_SIZE : 2097152
+Mensaje : me interesan las ofertas para proyectos de desarrollo social
+Security_code : rkrjn
+Send : Enviar
+
+---------------
+
+Address : 190.247.192.171
+Nombre : virna alexandra
+Apellido : castrellon
+Cargo : senior
+Direccion : ava cordoba 4390 depto 23
+Ciudad : capital federal
+Telefono : 47756074
+Email : virna53@yahoo.com
+MAX_FILE_SIZE : 2097152
+Mensaje : me interesan las ofertas para proyectos de desarrollo social
+Security_code : rkrjn
+Send : Enviar
+
+---------------
+

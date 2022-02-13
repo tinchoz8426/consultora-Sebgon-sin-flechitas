@@ -1,0 +1,31 @@
+Address : 186.182.164.182<br>
+ <br>Nombre : Maia 
+ <br>Apellido : Goldenberg
+ <br>Cargo : Recepcionista/ Secretaria
+ <br>Direccion : Marques de Loreto 2027
+ <br>Ciudad : MORON - CASTELAR
+ <br>Telefono : 01155990043
+ <br>Email : maia.goldenberg@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Soy una persona con ganas de trabajar, muy responsable y cumplidora. 
+Busco poder crecer en lo personal y laboral.
+ <br>Security_code : c8t3s
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.125.3.199<br>
+ <br>Nombre : María Valeria
+ <br>Apellido : Massochi
+ <br>Cargo : Recepcionista, atención al cliente en call center
+ <br>Direccion : Gurruchaga 2266
+ <br>Ciudad : Palermo
+ <br>Telefono : 1550534128
+ <br>Email : mvm.valma@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Soy Licenciada en Administración Hotelera. Cuento con experiencia en recepción, reservas, atención al cliente, venta de tours y manejo de caja, mensajería y conmutador. Me interesaría ser parte de un ambiente agradable de trabajo que me permita tener estabilidad y crecimiento laboral en el rubro hotelería y afines, atención al cliente, call center. Me considero una persona agradable, respetuosa y responsable.
+ <br>Security_code : r5s7n
+ <br>Send : Enviar
+ <br>
+---------------
+

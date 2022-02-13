@@ -1,0 +1,60 @@
+Address : 181.16.57.208
+Nombre : Carlos Nicolás
+Apellido : Dieb
+Cargo : Operario
+Direccion : Manzana 38 Casa 35. B°Bicentenario
+Ciudad : General Rodriguez
+Telefono : 1168647308
+Email : nicodieb@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenas tardes, adjunto mi Curriculum vitae para postularme a las ofertas laborales. Atte.Dieb Carlos Nicolas.
+Security_code : gwzd5
+Send : Enviar
+
+---------------
+
+Address : 190.173.74.11
+Nombre : Karina
+Apellido : Españadero
+Cargo : Lic. en Ciencias Ambientales
+Direccion : Maipu 255
+Ciudad : Ramos Mejía
+Telefono : 1549728892
+Email : kespanadero@agro.uba.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Me encuentro en la búsqueda de un empleo donde pueda desenvolverme profesionalmente y poder creer.
+Security_code : r9dw3
+Send : Enviar
+
+---------------
+
+Address : 190.51.71.140
+Nombre : erika lourdes
+Apellido : becker
+Cargo : administrativa, recepcionista, data entry
+Direccion : miro 2692
+Ciudad : villa luzuriaga
+Telefono : 44610981
+Email : erlubeck@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Les envio mi C.V para los puestos de administrativa, recepcionista, data entry. Muchas gracias.
+Security_code : 3n6qq
+Send : Enviar
+
+---------------
+
+Address : 186.22.158.104
+Nombre : Natalia
+Apellido : Rodríguez Durán 
+Cargo : Investigación de mercado 
+Direccion : Ugarte 2151 
+Ciudad : Capital federal 
+Telefono : 20752606
+Email : nataliard@me.com 
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenas tardes, adjunto mi CV para futuras búsquedas laborales vinculadas al área de investigación de mercado cualitativa. 
+Security_code : yqn5p
+Send : Enviar
+
+---------------
+

@@ -1,0 +1,15 @@
+Address : 190.137.123.158
+Nombre : Iván Nicolás
+Apellido : Furrer
+Cargo : area de calidad
+Direccion : Ucrania 242
+Ciudad : Pcia. Roque Saenz Peña
+Telefono : (03735)-15412747
+Email : nicofurrer31@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola,tengo el agrado de dirigirme a ustedes para formar parte de su base de datos,estoy a su disposición para cualquier duda.A continuación adjunto mi CV desde ya muchas gracias.
+Security_code : xv9fx
+Send : Enviar
+
+---------------
+

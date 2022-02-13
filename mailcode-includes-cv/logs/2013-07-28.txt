@@ -1,0 +1,15 @@
+Address : 201.253.222.20
+Nombre : Cintia
+Apellido : Perri
+Cargo : Analista Semi Senior en Compras
+Direccion : Paraguay 3745
+Ciudad : Cap Fed
+Telefono : 1562250168
+Email : cimaper@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Envío mi CV para futuras búsquedas laborales acordes a mi perfil.
+Security_code : 7b3n6
+Send : Enviar
+
+---------------
+

@@ -1,0 +1,52 @@
+Address : 
+Nombre : olga 
+Apellido : alexandrova
+Cargo : ventas
+Direccion : brasil 3942
+Ciudad : san justo
+Telefono : 1549980237
+Email : olga.alexandrova.85@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : hola, queria dejar mis datos desde ya muchas gracias.
+Security_code : jwfyx
+Send : Enviar
+
+---------------
+
+Address : 
+Nombre : Dimitri
+Apellido : Chachun
+Cargo : Oficial de Negocios/Cajero/Administrativo
+Direccion : Tandil 2540
+Ciudad : Buenos Aires, CABA
+Telefono : 15-5470-5013
+Email : dimitri_mog@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Sres. responsables de Recursos Humanos, 
+De mi mayor consideración,
+
+Deseo postularme para formar parte de su prestigiosa empresa. Es mi interés desarrollarme profesionalmente y aportar los conocimientos y habilidades obtenidos en mi formación universitaria en Facultad de Cs. Económicas en curso.
+Por lo expuesto espero se considere mi aplicación y se me otorgue la posibilidad de una futura entrevista. 
+Desde ya muchas gracias. 
+Saluda muy atte. 
+
+Security_code : kt42s
+Send : Enviar
+
+---------------
+
+Address : 
+Nombre : Noelia
+Apellido : Gargiulo
+Cargo : Asistente
+Direccion : Schcolnik 237
+Ciudad : GBA Zona Oeste
+Telefono : 1532823705
+Email : noeliagargiulo@live.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me encuentro en la búsqueda de un marco laboral confortable y con posibilidades de progreso en el cual pueda demostrar mi capacidad y profundizar conocimientos. Dejo manifestado mi interés en una entrevista. Quedando a su entera disposición, Saluda muy atentamente Noelia Gargiulo.-
+Security_code : c8tfb
+Send : Enviar
+
+---------------
+

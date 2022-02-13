@@ -1,0 +1,130 @@
+Address : 181.108.113.57
+Nombre : Mauro
+Apellido : suegro
+Cargo : para todo tipo de trabajo
+Direccion : horacio quiriga n1663
+Ciudad : bahía blanca
+Telefono : 154474205
+Email : maursueyro@,hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Soy responsable soy puntuable y de rápido aprendizaje
+Security_code : pzytd
+Send : Enviar
+
+---------------
+
+Address : 190.179.107.164
+Nombre : Carina
+Apellido : Almaza
+Cargo : Administracion
+Direccion : Lamarque 1150
+Ciudad : Neuquen
+Telefono : 0299-154024007
+Email : carialmaza1@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Mi objetivo es sumar mis experiencias, habilidades y conocimientos a un equipo de trabajo para lograr resultados concretos, cumplir con los objetivos y crecer personal y profesionalmente, generando siempre valor agregado a todas y cada una de las tareas a desempeñar.
+Security_code : x6d86
+Send : Enviar
+
+---------------
+
+Address : 201.213.46.175
+Nombre : SABRINA ELISABET
+Apellido : RODRIGUEZ
+Cargo : VENDEDORA
+Direccion : CALLE 8 ENTRE 133 Y 134
+Ciudad : berazategui
+Telefono : 1535845620
+Email : sabrinarodriguez207@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : hola que tal me llamo rodriguez sabrina soy estudiante de administracion hotelera, necesito conseguir un trabajo urgente!!
+Security_code : cpf5k
+Send : Enviar
+
+---------------
+
+Address : 186.39.195.196
+Nombre : alberto
+Apellido : gomez
+Cargo : ingeniero
+Direccion : calle angaco 1277
+Ciudad : mendoza
+Telefono : 542615668774
+Email : b84_19@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenos días. 
+
+Soy Alberto Gómez, recientemente graduado de Ingeniero de Petróleos en la Universidad Nacional de Cuyo. En estos momentos estoy en búsqueda laboral.
+He escuchado la falta de profesionales ingenieros en el rubro y sin embargo no es nada fácil conseguir trabajo, a pesar de que la industria está en crecimiento.
+Adjunto en este mail mi CV para que me tengan en cuenta para oportunidades laborales.
+Tengo disponibilidad inmediata de traslado y radicación.
+Mis números de contacto son: 2615668774 y 2614221664
+Espero respuesta.
+
+Saludos cordiales
+
+Security_code : 3gkcr
+Send : Enviar
+
+---------------
+
+Address : 24.232.200.212
+Nombre : Ariel
+Apellido : Zagi
+Cargo : Brand Produc Manager
+Direccion : Nueva York 4657
+Ciudad : CABA
+Telefono : 15343666999
+Email : ariel.zagi@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : .
+Security_code : 7gpm4
+Send : Enviar
+
+---------------
+
+Address : 24.232.200.212
+Nombre : Ariel
+Apellido : Zagi
+Cargo : Brand Produc Manager
+Direccion : Nueva York 4657
+Ciudad : CABA
+Telefono : 15343666999
+Email : ariel.zagi@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : .
+Security_code : 7gpm4
+Send : Enviar
+
+---------------
+
+Address : 24.232.200.212
+Nombre : Ariel
+Apellido : Zagi
+Cargo : Brand Produc Manager
+Direccion : Nueva York 4657
+Ciudad : CABA
+Telefono : 15343666999
+Email : ariel.zagi@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : .
+Security_code : m6qw8
+Send : Enviar
+
+---------------
+
+Address : 190.191.169.185
+Nombre : MARCELO DARIO
+Apellido : PERRONI
+Cargo : ABOGADO LABORALISTA-EMPRESARIAL
+Direccion : 22 Nº 185
+Ciudad : LA PLATA
+Telefono : 0221-155418594
+Email : marceloperroni@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : mi interes es relacionarme con empresas que tengan la necesidad de emplear a un abogado especialista en derecho laboral y/o aduanero, desde ya mil gracias Marcelo
+Security_code : 35v7k
+Send : Enviar
+
+---------------
+

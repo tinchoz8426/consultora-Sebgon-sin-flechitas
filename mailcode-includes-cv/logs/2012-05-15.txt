@@ -1,0 +1,107 @@
+Address : 201.255.246.154
+Nombre : Ana Marcelina
+Apellido : Benitez
+Cargo : Secretaria
+Direccion : H Yrigoyen 1315
+Ciudad : C.A.B.A.
+Telefono : 01143826156
+Email : buscountrabajo@live.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Señor selector:
+Adjunto CV para ingresar en vuestra base de datos y aplicar a futuras búsquedas.
+Cordialmente
+Security_code : fhhwt
+Send : Enviar
+
+---------------
+
+Address : 186.109.28.119
+Nombre : Carlos Arnoldo
+Apellido : Cermelli
+Cargo : Lider de proyecto / Analista funcional
+Direccion : las heras 486
+Ciudad : ituzaingo
+Telefono : 11332073397
+Email : carlosarnoldo@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados les dejo mi cv a su disposición.
+
+
+ Mi nombre es Carlos Cermelli, soy Ingeniero en Informática con experiencia en liderazgo de proyectos de software y analista funcional Sr. tengo una reconocida experiencia laboral de más de 15 años en sistemas de los cuales los últimos 7 años me desempañe en la multinacional Bunge Argentina con el perfil detalladlo en mi cv, le hago llegar mi búsqueda laboral para que me tenga Ud en cuenta en vuestras solicitudes.
+
+
+Perfil (se detalla años en el puesto): Ingeniero en Informática, Proyect Leader, Analista Sr. 10 años
+Idioma (detallar nivel): Ingles, portugués intermedio
+Trabajo actual: Hasta Dic 2011 Bunge Argentina antigüedad 7 años
+Motivo del Cambio Laboral: Crecimiento profesional, nuevos desafíos, mejora salarial.
+Estado civil / Grupo Familiar:  Casado 4 hijos
+Prepaga: Se derivan aportes a "Medicus". Swiss Medical, plan global Familly
+Disponibilidad para comenzar a trabajar: Inmediata
+Remuneración pretendida: 15.000$ Sueldo Neto a convenir
+Vacaciones pactadas para 2012 :3 semanas
+ 
+Le envió mi CV con detalle de experiencia laboral, (preferentemente multinacionales).
+ 
+ 
+Desde ya muchas gracias. 
+Atte Ing. Carlos A Cermelli
+cel. 1132073397
+
+
+Security_code : 4xn6f
+Send : Enviar
+
+---------------
+
+Address : 186.57.163.160
+Nombre : Roberto David
+Apellido : González
+Cargo : Ingeniero Mecánico
+Direccion : jose maría paz 1959 
+Ciudad : San Miguel
+Telefono : 4451 2079
+Email : r_gonzalez@speedy.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Como puede ver en el Currículum que le adjunto, soy Ingeniero Mecánico egresado de  la Universidad Tecnológica Nacional Facultad Regional General Pacheco, cuento además con una importante base técnica producto del colegio industrial. 
+
+Mi evolución en el ámbito laboral se ha centrado en el área de Ingeniería de Procesos, Producto y Calidad, en empresas autopartistas como Dana, Trico Latinoamericana y Ferrosider Parts.
+
+Estas experiencias profesionales me han permitido adquirir amplios conocimientos en el ámbito industrial, tales como mejoramiento de procesos productivos y calidad del producto.
+Por todo ello, me agradaría mantener una entrevista con usted a su mejor conveniencia y poderle ampliar personalmente la información que le remito. Para ello podrá localizarme en el número de teléfono particular 011 4451 2079,  o a mi celular 011 15 3397 6326, o por correo electrónico:  r_gonzalez@speedy.com.ar
+A la espera de conocerlo personalmente, reciba mis más Cordiales Saludos.
+
+
+Atentamente,
+Roberto David González. 
+
+Security_code : 5h5pw
+Send : Enviar
+
+---------------
+
+Address : 186.57.163.160
+Nombre : Roberto David
+Apellido : González
+Cargo : Ingeniero Mecánico
+Direccion : jose maría paz 1959 
+Ciudad : San Miguel
+Telefono : 4451 2079
+Email : r_gonzalez@speedy.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Como puede ver en el Currículum que le adjunto, soy Ingeniero Mecánico egresado de  la Universidad Tecnológica Nacional Facultad Regional General Pacheco, cuento además con una importante base técnica producto del colegio industrial. 
+
+Mi evolución en el ámbito laboral se ha centrado en el área de Ingeniería de Procesos, Producto y Calidad, en empresas autopartistas como Dana, Trico Latinoamericana y Ferrosider Parts.
+
+Estas experiencias profesionales me han permitido adquirir amplios conocimientos en el ámbito industrial, tales como mejoramiento de procesos productivos y calidad del producto.
+Por todo ello, me agradaría mantener una entrevista con usted a su mejor conveniencia y poderle ampliar personalmente la información que le remito. Para ello podrá localizarme en el número de teléfono particular 011 4451 2079,  o a mi celular 011 15 3397 6326, o por correo electrónico:  r_gonzalez@speedy.com.ar
+A la espera de conocerlo personalmente, reciba mis más Cordiales Saludos.
+
+
+Atentamente,
+Roberto David González. 
+
+Security_code : 5h5pw
+Send : Enviar
+
+---------------
+

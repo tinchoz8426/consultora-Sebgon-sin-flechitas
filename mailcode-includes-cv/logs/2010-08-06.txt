@@ -1,0 +1,46 @@
+Address : 190.190.66.72
+Nombre : Anahí
+Apellido : Weber
+Cargo : Recepcionista
+Direccion : Alvear 1763
+Ciudad : Florida, Vicente López
+Telefono : 15-6710-8556
+Email : anahiweber@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto mi CV. por el puesto de Recepcionista publicado en la página Bumeran el dia 4/08
+Security_code : c3v5p
+Send : Enviar
+
+---------------
+
+Address : 200.12.203.246
+Nombre : Simon
+Apellido : Torres
+Cargo : Tecnico en Higiene y Seguridad
+Direccion : Alte Brown 884
+Ciudad : Puerto Deseado
+Telefono : 0297 - 155057772
+Email : cachamai4@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estoy buscando Trabajo para Radicarme en la provincia de Tucuman, en San Miguel.
+Security_code : KWJST
+Send : Enviar
+
+---------------
+
+Address : 190.174.132.138
+Nombre : Desirée 
+Apellido : Durand
+Cargo : Recepcionista
+Direccion : Alvarez Jonte 4131 dto. 3
+Ciudad : Capital Federal
+Telefono : 011-45672587
+Email : desy2003@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me gustaría postularme para el puesto de recepcionista publicado en bumeran, a tal efecto adjunto mi cv.
+Desde ya, Muchas gracias.
+Security_code : b9hcs
+Send : Enviar
+
+---------------
+

@@ -1,0 +1,41 @@
+Address : 186.143.41.200
+Nombre : Carlos Dario 
+Apellido : Fernandez
+Cargo : supervisor de producción
+Direccion : eva peron 7148 ( LOMA HERMOSA )
+Ciudad : san martin
+Telefono : 011- 47697805
+Email : dariofcab@hotmail.com
+
+---------------
+
+Address : 186.143.41.200
+Nombre : Carlos Dario 
+Apellido : Fernandez
+Cargo : supervisor de producción
+Direccion : eva peron 7148 ( LOMA HERMOSA )
+Ciudad : san martin
+Telefono : 011- 47697805
+Email : dariofcab@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : desde ya agradezco su tiempo brindado.
+Security_code : mjjqd
+Send : Enviar
+
+---------------
+
+Address : 186.129.8.52
+Nombre : Marcelo
+Apellido : Cestaro
+Cargo : Administrativo en Higiene y Seguridad 
+Direccion : Tuyuti 1525
+Ciudad : Tapiales
+Telefono : 4442 5359
+Email : marcelocestaro@hotmail.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Envio mi Cv en formato Word de Office. Gracias.
+Security_code : wjd85
+Send : Enviar
+
+---------------
+

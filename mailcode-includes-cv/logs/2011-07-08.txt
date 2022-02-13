@@ -1,0 +1,18 @@
+Address : 186.123.18.65
+Nombre : Camilo Matias
+Apellido : Colo
+Cargo : Supervisor en Seguridad e Higiene
+Direccion : Ameguino 2248
+Ciudad : Zarate
+Telefono : 011-1551345733
+Email : camilocmc@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados.
+Soy Licenciado en Seguridad e Higiene y me gustaria poder formar parte en su compañia.
+Por tal motivo les envio mi C.V ante una posible busqueda acorde a mi perfil.
+Gracias
+Security_code : rn5rn
+Send : Enviar
+
+---------------
+

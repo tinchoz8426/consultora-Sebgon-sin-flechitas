@@ -1,0 +1,178 @@
+Address : 186.59.90.113
+Nombre : Rosalia 
+Apellido : Contreras
+Cargo : Jefa Administración
+Direccion : BARRIO BERMEJO NORTE mza K
+Ciudad : MENDOZA
+Telefono : 261 5939424
+Email : rosaliapaolac@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenos días, espero poder sumarme a su grupo de profesionales. Gracias por su tiempo
+Security_code : 46sm4
+Send : Enviar
+
+---------------
+
+Address : 181.225.17.126
+Nombre : Renzo Ricardo
+Apellido : Miranda
+Cargo : Tecnico en seguridad e higiene
+Direccion : Victor Guerrero 2186 
+Ciudad : Neuquén capital
+Telefono : (0299) 156076051
+Email : miranda.renzo.hys@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estoy en la busqueda de un trabaja en la zona de Neuquen.
+Security_code : fhvph
+Send : Enviar
+
+---------------
+
+Address : 181.225.17.126
+Nombre : Renzo Ricardo
+Apellido : Miranda
+Cargo : Tecnico en seguridad e higiene
+Direccion : Victor Guerrero 2186 
+Ciudad : Neuquén capital
+Telefono : (0299) 156076051
+Email : miranda.renzo.hys@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estoy en la busqueda de un trabaja en la zona de Neuquen.
+Security_code : fhvph
+Send : Enviar
+
+---------------
+
+Address : 181.225.17.126
+Nombre : Renzo Ricardo
+Apellido : Miranda
+Cargo : Tecnico en seguridad e higiene
+Direccion : Victor Guerrero 2186 
+Ciudad : Neuquén capital
+Telefono : (0299) 156076051
+Email : miranda.renzo.hys@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estoy en la busqueda de un trabaja en la zona de Neuquen.
+Security_code : t43cf
+Send : Enviar
+
+---------------
+
+Address : 181.225.17.126
+Nombre : Renzo Ricardo
+Apellido : Miranda
+Cargo : Tecnico en seguridad e higiene
+Direccion : Victor Guerrero 2186 
+Ciudad : Neuquén capital
+Telefono : (0299) 156076051
+Email : miranda.renzo.hys@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estoy en la busqueda de un trabaja en la zona de Neuquen.
+Security_code : sdg6w
+Send : Enviar
+
+---------------
+
+Address : 181.225.17.126
+Nombre : Renzo Ricardo
+Apellido : Miranda
+Cargo : Tecnico en seguridad e higiene
+Direccion : Victor Guerrero 2186 
+Ciudad : Neuquén capital
+Telefono : (0299) 156076051
+Email : miranda.renzo.hys@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estoy en la busqueda de un trabaja en la zona de Neuquen.
+Security_code : vkc68
+Send : Enviar
+
+---------------
+
+Address : 66.60.51.228
+Nombre : Jesica Gisele
+Apellido : Ramos
+Cargo : enfermera auxiliar
+Direccion : alcalde loza 2252
+Ciudad : Ituzaingo
+Telefono : 1568916973
+Email : lanegri861@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : gracias....
+Security_code : tgcp9
+Send : Enviar
+
+---------------
+
+Address : 186.153.33.23
+Nombre : JUDITH
+Apellido : NICOLAEVSKY
+Cargo : Administrativo
+Direccion : Carlos Calvo 2115
+Ciudad : Munro
+Telefono : 15-3017-6005
+Email : nicojudi78@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto mi CV para sus búsquedas, espero sea de interés. 
+Security_code : 64t2d
+Send : Enviar
+
+---------------
+
+Address : 190.188.133.198
+Nombre : Sebastian
+Apellido : Simkin
+Cargo : Soporte Tecnico Informatico
+Direccion : Entre Rios 2131 7 2
+Ciudad : Mar del Plata
+Telefono : 542235437437
+Email : sebbas@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Soy un Analista de sistemas, Técnico  y Programador, altamente responsable y con mas de 15 años de experiencia en soporte técnico de hardware, software, redes informáticas y desarrollo de aplicaciones web y de escritorio en diferentes lenguajes.
+
+Security_code : 96yff
+Send : Enviar
+
+---------------
+
+Address : 200.114.250.237
+REF : GTE COM
+Nombre : Alejandro
+Apellido : Ursa
+Cargo : Gerente Comercial
+Direccion : Patricias Argentinas 4345
+Ciudad : Garin
+Telefono : 1534909090
+Email : alejandroursa@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estoy en la búsqueda de poder reinsertarme en alguna empresa de consumo masivo o industria tanto como Gerente Comercial o bien en Trade o también en Marketing.
+ 
+Tengo una larga experiencia comercial con orientación en ventas en mercados de máxima exigencia.
+Análisis y planificación son mis mayores fortalezas, plan comercial, desarrollo de clientes, precios y competencia.
+También manejo de fuerza de ventas con estructuras de más de 30 personas.
+ 
+Mi experiencia en Marketing y Trade Marketing me permite también ser muy ingenioso para la búsqueda de alternativas que generen crecimiento y rentabilidad.
+Me fui en 2008 de Heinz, y como veras en mi CV que adjunto, estuve en empresas pymes y consumo masivo lideres.
+Estuve en Bimbo-Fargo hasta el año 2012 que recibí una propuesta y me fui como Gte Comercial a Sagemuller. La verdad que el cambio no fue bueno y las cosas no fueron como me habían contado. La empresa esta en convocatoria y me vi forzado a irme.
+ 
+Me pude reinsertar por suerte rápidamente en una pyme autopartista muy pequeña de gente conocida de cuando trabaje en Rosario. Estoy dándoles una mano reorganizando su estructura comercial hasta conseguir nuevamente una posición acorde a mi perfil.
+Mi remuracion pretendida estaria en el orden de los 35.000
+Security_code : CSWS6
+Send : Enviar
+
+---------------
+
+Address : 186.57.231.253
+Nombre : Noelia
+Apellido : Sikora
+Cargo : vendedora
+Direccion : cordoba 666
+Ciudad : Moron
+Telefono : 1136663914
+Email : noelia.sk@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : .
+Security_code : 5qfh6
+Send : Enviar
+
+---------------
+

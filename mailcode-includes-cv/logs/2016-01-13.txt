@@ -1,0 +1,58 @@
+Address : 190.192.155.27
+REF : TLP
+Nombre : Luis Alberto 
+Apellido : Aldana
+Cargo : tec electronico
+Direccion : sta Maria de Oro 1210 
+Ciudad : moron
+Telefono : 1553311137
+Email : aldanaluis11@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : hola:estoy a disposicion.atte Luis
+Security_code : cg4mx
+Send : Enviar
+
+---------------
+
+Address : 190.0.177.191
+Nombre : Horacio Ramón 
+Apellido : Petryh
+Cargo : Lic. Higiene y Seguridad Laboral Medio Ambiente
+Direccion : La conquista 1063
+Ciudad : Versalles
+Telefono : 01158094153
+Email : horaciopetryh@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados,
+He visto la Oferta Laboral publicada en y la misma me resultó de gran interés. Por este motivo, les hago llegar mi Currículum Vitae, a fin de ser tenido en cuenta como candidato.
+Quedo a su disposición para ampliar cualquier información necesaria.
+Cordialmente,
+Horacio Ramon Petryh 
+
+Security_code : rjkbh
+Send : Enviar
+
+---------------
+
+Address : 181.28.84.22
+Nombre : Luis Ignacio
+Apellido : Diaz Bobillo
+Cargo : PRESUPUESTO Y CONTROL DE GESTION
+Direccion : Av. Rivadavia 8521 3 A
+Ciudad : Capital Federal
+Telefono : 15 3182-9250
+Email : sicpargentina@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : He recorrido vuestra página web, y aprovecho este medio para enviarles mis antecedentes personales y profesionales.
+En síntesis, podrán ver en él mi vasta experiencia en Planeamiento, Presupuesto y Control de Gestión desarrollada en importantes empresas en la Argentina (Shell, Banelco, Molinos Rio de la Plata, SOCMA, Grupo Telecom, Transener….) y el exterior.
+Podrán ver también referencias a partir de Linkedin (https://www.linkedin.com/in/luis-diaz-bobillo-4971b311) además de las que menciono en el documento adjunto.
+Creo que esto les será de interés para futuras búsquedas en vuestros clientes.
+Les agradeceré la confirmación de recepción de este mensaje y quedo a vuestra disposición para una futura comunicación.
+
+Atentamente,
+
+Security_code : np7p7
+Send : Enviar
+
+---------------
+

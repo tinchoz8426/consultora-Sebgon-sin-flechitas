@@ -1,0 +1,92 @@
+Address : 186.157.221.159<br>
+ <br>Nombre : Matias Ivan 
+ <br>Apellido : Herrera
+ <br>Cargo : Técnico 
+ <br>Direccion : Concepción Arenal 2261
+ <br>Ciudad : Hurlingham
+ <br>Telefono : 1156188500
+ <br>Email : Mati-__@live.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Adjunto currículum vitae, gracias 
+ <br>Security_code : pxq3z
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 191.81.167.191<br>
+ <br>Nombre : Maria Andrea
+ <br>Apellido : Girard
+ <br>Cargo : administrativa/atencion al cliente/recepcion
+ <br>Direccion : bordabhere 2929 
+ <br>Ciudad : mar del plata
+ <br>Telefono : 02235451871
+ <br>Email : andreagirard2009@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Adjunto CV para su base de datos.
+ <br>Security_code : cnj43
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.231.131.240<br>
+ <br>Nombre : Victoria
+ <br>Apellido : Lopez
+ <br>Cargo : Administracion
+ <br>Direccion : medrano 21
+ <br>Ciudad : caba
+ <br>Telefono : 1165007632
+ <br>Email : vic_star_1405@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : solicito una entrevista a fin de conseguir un empleo 
+ <br>Security_code : Bvz24
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.17.74.56<br>
+ <br>REF : ACO-1
+ <br>Nombre : Candelaria
+ <br>Apellido : Couselo
+ <br>Cargo : Analista de Comercio Exterior/Internacion
+ <br>Direccion : lisandro de la torre 4865
+ <br>Ciudad : villa lugano
+ <br>Telefono : 1562088232
+ <br>Email : Candelariacouselo@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estoy buscando obtener experiencia en el área de Comercio Internacional, para poder demostrar mi capacidad y conocimientos adquiridos. También busco capacitarme y aprender a través de la experiencia laboral las actividades diarias que implica el Comercio con otros países. Busco crecer día a día.
+ <br>Security_code : hdn2g
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.12.102.154<br>
+ <br>Nombre : manuel sebastian
+ <br>Apellido : arango
+ <br>Cargo : responsable comercial
+ <br>Direccion : mendoza 4535, 6 B
+ <br>Ciudad : buenos aires
+ <br>Telefono : 91131001980
+ <br>Email : arangomanuel@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : estoy en la busqueda de una cambio de trabajo y aunque me encuentro en actividad me interesaría alguna otra opción en donde pueda crecer laboralmente.
+ <br>Security_code : t3jqh
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.130.26.150<br>
+ <br>REF : ACO-1
+ <br>Nombre : Aldana Leonela
+ <br>Apellido : Fernandez
+ <br>Cargo : Comercio Exterior
+ <br>Direccion : Moldes 3828
+ <br>Ciudad : Nuñez
+ <br>Telefono : 1161544722
+ <br>Email : fernandezaldana2@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Adjunto CV para el puesto de referencia
+ <br>Security_code : z674g
+ <br>Send : Enviar
+ <br>
+---------------
+

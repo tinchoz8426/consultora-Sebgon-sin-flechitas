@@ -1,0 +1,94 @@
+Address : 201.255.151.32
+REF : jefe-de-operaciones
+Nombre : natalia
+Apellido : gonzalez
+Cargo : limpieza o cajera
+Direccion : bolivar 1231
+Ciudad : longchamps
+Telefono : 42335763
+Email : natachabian@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : experiencia en caja, recepcionista,limpieza
+Security_code : fscjj
+Send : Enviar
+
+---------------
+
+Address : 186.129.218.22
+REF : jefe-de-operaciones
+Nombre : WALTER ALBO
+Apellido : Techera Barcelò
+Cargo : JEFE DE OPERACIONES
+Direccion : HUMAHUACA 2582
+Ciudad : MORON
+Telefono : 1540783029
+Email : logisticamadres@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Vista la Oferta Laboral ,les hago llegar mis datos personales y profesionales en Curriculum Vitae a fin de ser tenido en cuenta como candidato.
+
+Con la convicciòn de poseer el perfil requerido para un muy buen desempeño en el cargo a cubrir, quedo a entera disposicion para hacerle llegar, sea en una entrevista personal o por el medio que se me indique, las ampliaciones y/o la documentaciòn probatoria correspondiente.
+
+Esperando una respuesta positiva lo saluda atentamente,
+
+    walter albo techera barcelo
+     154-0783029
+
+Security_code : ZJPZ3
+Send : Enviar
+
+---------------
+
+Address : 186.129.218.22
+REF : jefe-de-operaciones
+Nombre : WALTER ALBO
+Apellido : Techera Barcelò
+Cargo : JEFE DE OPERACIONES
+Direccion : HUMAHUACA 2582
+Ciudad : MORON
+Telefono : 1540783029
+Email : logisticamadres@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Vista la Oferta Laboral ,les hago llegar mis datos personales y profesionales en Curriculum Vitae a fin de ser tenido en cuenta como candidato.
+
+Con la convicciòn de poseer el perfil requerido para un muy buen desempeño en el cargo a cubrir, quedo a entera disposicion para hacerle llegar, sea en una entrevista personal o por el medio que se me indique, las ampliaciones y/o la documentaciòn probatoria correspondiente.
+
+Esperando una respuesta positiva lo saluda atentamente,
+
+    walter albo techera barcelo
+     154-0783029
+
+Security_code : ZJPZ3
+Send : Enviar
+
+---------------
+
+Address : 181.31.98.5
+Nombre : Celeste Victoria 
+Apellido : Laass
+Cargo : operario
+Direccion : Lola Mora 2447
+Ciudad : Córdoba
+Telefono : 4951922
+Email : celelaass.7@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : a
+Security_code : cjjyh
+Send : Enviar
+
+---------------
+
+Address : 190.48.237.94
+Nombre : Julieta
+Apellido : Ruiz
+Cargo : Vendedora/Cajera
+Direccion : Estanislao Lopez 1210
+Ciudad : Castelar Sur, Morón
+Telefono : 11-5696-0957
+Email : julietavruiz@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Les envio mi Cv con animos de incorporarme a su equipo de trabajo, muchas gracias.
+Security_code : dck6q
+Send : Enviar
+
+---------------
+

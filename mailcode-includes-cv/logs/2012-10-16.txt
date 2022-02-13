@@ -1,0 +1,45 @@
+Address : 181.46.90.41
+Nombre : MARIA ANGELICA
+Apellido : INDART
+Cargo : secretaria recepcionista atencion al cliente
+Direccion : Anchorena 984
+Ciudad : Ituzaingo
+Telefono : 1558747293
+Email : marigeli@yahoo.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Desarrollarme en un ambiente de trabajo que me oriente a nuevas fronteras de conocimiento y aprendizaje, donde mis competencias colaboren para alcanzar las metas y objetivos de la empresa, así como continuar con mi desarrollo profesional y aplicar los conocimientos adquiridos durante mi preparación académica.
+Security_code : 4q2cf
+Send : Enviar
+
+---------------
+
+Address : 190.193.62.77
+Nombre : Agustin
+Apellido : Stizzoli
+Cargo : ventas, atencion al cliente
+Direccion : zeballos 578 6to 2
+Ciudad : Rosario
+Telefono : (341)156831325
+Email : agustinstizzoli@live.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Espero mi cv sea de utilidad y pueda satisfacer los requerimientos necesarios para cualquier puesto q se me asigne
+Security_code : pmkdw
+Send : Enviar
+
+---------------
+
+Address : 190.16.31.198
+Nombre : Ariel Ignacio
+Apellido : Gattinoni
+Cargo : Supervisor / Jefe
+Direccion : Saenz Peña 947 
+Ciudad : Tigre
+Telefono : 1540769340
+Email : agattino-83@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Sres Sebgon : Les adjunt o mi Curriculum para futuras busquedas, sin mas los saludo Atte ,
+Security_code : bwtwc
+Send : Enviar
+
+---------------
+

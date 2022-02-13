@@ -1,0 +1,71 @@
+Address : 200.127.89.218
+Nombre : adrian gonzalo
+Apellido : hidalgo
+Cargo : cajero/vendedor
+Direccion : carlos pellegrini 165 2doa 
+Ciudad : lomas de zamora
+Telefono : 42434684
+Email : adriangh@live.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Por medio de la presente les hago entrega de mi CV para su puesto de trabajo solicitado, espero que el mismo le sea de gran utilidad, quedando de esta manera a su entera disposicion para una futura entrevista.
+
+Desde ya  muchas gracias por su tiempo.
+
+Sin otro particular saluda a usted atte.
+
+Security_code : 3 hsc
+Send : Enviar
+
+---------------
+
+Address : 200.127.89.218
+Nombre : adrian gonzalo
+Apellido : hidalgo
+Cargo : cajero/vendedor
+Direccion : carlos pellegrini 165 2doa 
+Ciudad : lomas de zamora
+Telefono : 42434684
+Email : adriangh@live.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Por medio de la presente les hago entrega de mi CV para su puesto de trabajo solicitado, espero que el mismo le sea de gran utilidad, quedando de esta manera a su entera disposicion para una futura entrevista.
+
+Desde ya  muchas gracias por su tiempo.
+
+Sin otro particular saluda a usted atte.
+
+Security_code : r5dv2
+Send : Enviar
+
+---------------
+
+Address : 200.80.220.154
+REF : electromecanico
+Nombre : Eduardo Javier
+Apellido : Tanco
+Cargo : Tecnico en higiene y seguridad
+Direccion : Coronel Rodriguez 848 
+Ciudad : Mendoza
+Telefono : 0261-4239931/155614561
+Email : javitanco@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Tecnico superior en higiene y seguridad laboral
+Security_code : kc7jd
+Send : Enviar
+
+---------------
+
+Address : 190.227.173.2
+Nombre : CLAUDIA ALICIA
+Apellido : FERNANDEZ
+Cargo : TECNICO EN HIGIENE Y SEGURIDAD
+Direccion : B° 250 VIV MZA L  CASA N° 6
+Ciudad : CORRIENTES
+Telefono : 037830-15892204
+Email : clalfe@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : A quien corresponda: agradecere notificacion del recibo del curriculum vitae, desde ya muchas gracias, Atte.
+Security_code : 2sygj
+Send : Enviar
+
+---------------
+

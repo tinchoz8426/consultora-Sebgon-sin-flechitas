@@ -1,0 +1,88 @@
+Address : 190.51.189.86
+Nombre : Alejandro
+Apellido : Cendra
+Cargo : operario
+Direccion : mz 21 e4 pb b
+Ciudad : BuenosAires claypole
+Telefono : 1532641514
+Email : ale_cendra@hotmail.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Le agradeceria que Me tuviesen en cuenta para propuestas laborales.
+Security_code : h6xbs
+Send : Enviar
+
+---------------
+
+Address : 186.56.228.7
+Nombre : Carolina
+Apellido : Sarria
+Cargo : personal para Socioambiental
+Direccion : S. Rueda 1523
+Ciudad : Moreno
+Telefono : 1562856039
+Email : carolinasarria272@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me dirijo a usted a fin de hacerle llegar mi curriculum. Me desempeño como Trabajadora Social y estoy interesada en la oferta publicada ayer para realizar socioambientales. Saludos.
+Carolina Sarria
+Security_code : 8rbkk
+Send : Enviar
+
+---------------
+
+Address : 186.57.33.13
+Nombre : Herminda Yesica
+Apellido : Avila
+Cargo : Psicologa Recursos Humanos
+Direccion : Asturias 255
+Ciudad : General Rodríguez
+Telefono : 011 15 3689 3182
+Email : yhavila@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : A quien corresponda:
+         
+
+   Mi nombre es Herminda Yesica Avila, tengo 31 años y soy Licenciada en Psicología, egresada de la Universidad de Buenos Aires.
+Estoy muy interesada en formar parte de un equipo de trabajo que necesite una persona responsable, emprendedora y entusiasta; que me permita desempeñar al 100 % mis capacidades y virtudes y en el que los desafíos constantes me obliguen a aprender todos los días. 
+
+            Desde ya muchísimas gracias y espero me tengan en cuenta.
+Saluda atte.
+       Lic. Avila Herminda Yesica.
+ 
+Cel: 011-15-3689-3182
+Mail: yhavila@hotmail.com
+
+Security_code : k7zqt
+Send : Enviar
+
+---------------
+
+Address : 201.254.26.251
+Nombre : patricia karina
+Apellido : sarmentero
+Cargo : personal para socioambiental
+Direccion : ordoñez 1225 v.tesei
+Ciudad : moron
+Telefono : 4459-8163 /15-51369798
+Email : patriciaksarmentero@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : HOLA,SOY UNA PERSONA MUY DINAMICA,QUE MANEJA PERFECTAMENTE LA RELACIONES SOCIALES EN EL CAMPO LABORAL,PROXIMA A RECIBIRME DE PSICOLOGA SOCIAL,ME GUSTARIA PODER TENER UNA ENTREVISTA CON USTEDES,DESDE YA MUCHAS GRACIAS.
+Security_code : 6MJ4Y
+Send : Enviar
+
+---------------
+
+Address : 190.16.250.36
+Nombre : Fernando Opromolla
+Apellido : Opromolla
+Cargo : Psicologo Laboral
+Direccion : Av Olazabal 4056
+Ciudad : Bs As Cap Fed
+Telefono : 1544443322
+Email : licferdaniel@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto CV como profesional Free Lance en RR.HH
+Security_code : 477md
+Send : Enviar
+
+---------------
+

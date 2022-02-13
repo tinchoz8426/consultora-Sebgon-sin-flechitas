@@ -1,0 +1,196 @@
+Address : 186.57.159.83
+REF : ADMINISTRATIVA-DE-COMPRAS
+Nombre : lucia
+Apellido : Fernandez Madero
+Cargo : Administracion
+Direccion : pujol 187
+Ciudad : san justo
+Telefono : 1534192894
+Email : luciafm@live.com
+MAX_FILE_SIZE : 2097152
+Mensaje : CV
+Security_code : 5253p
+Send : Enviar
+
+---------------
+
+Address : 190.231.96.230
+Nombre : gabriela viviana 
+Apellido : gonzalez
+Cargo :  cajera / atencion al cliente
+Direccion : monteagudo 652
+Ciudad : villa lynch
+Telefono : 01147130425
+Email : gabrielavgonzalez24@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : busco un trabajo en donde me de tiempo para poder empesar una carrera
+Security_code : 32rbd
+Send : Enviar
+
+---------------
+
+Address : 186.108.92.12
+REF : ADMINISTRATIVO-DE-LOGISTICA
+Nombre : Nicolas Alberto
+Apellido : Castellano
+Cargo : Administrativo de logistica
+Direccion : Guatemala 2556
+Ciudad : San Fernando
+Telefono : 45894460
+Email : niknac82@live.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : A quien corresponda
+   Soy una persona con buena voluntad, agilidad y eficacia para los trabajos que se me asignen, siempre estoy predispuesto a adquirir nuevos conocimientos con el fin de desarrollar una tarea más profesional, siempre en los trabajos anteriores que tuve di todo de mí intentando resolver problemas en situaciones que excedían mis obligaciones en beneficio de una meta en común. Cuando realizo una tarea hago todo lo posible que esté a mi alcance para terminar el proyecto de la más rápida y mejor manera. Cuento con más experiencia que los que certifican mis estudios o trabajos en los que estuve ya que en ocasiones anteriores trabaje en negro, pero si tengo una oportunidad para demostrar lo que sé, pueden comprobar que tipo de persona soy.
+   Mi deseo es encontrar un buen ambiente de trabajo donde pueda amplificar mis capacidades y así mismo me pueda perfeccionar para mejorar mi posición dentro de la misma.
+   Espero sean la empresa que yo busco así mismo sea yo la persona que ustedes necesitan, agradecería una oportunidad de demostrar lo que digo no desperdiciándola.
+ Desde ya muchas gracias
+Saluda atentamente Nicolás Castellano
+
+Security_code : ttss2
+Send : Enviar
+
+---------------
+
+Address : 186.108.92.12
+Nombre : Nicolas Alberto
+Apellido : Castellano
+Cargo : Operario
+Direccion : Guatemala 2556
+Ciudad : San Fernando
+Telefono : 45894460
+Email : niknac82@live.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : A quien corresponda
+   Soy una persona con buena voluntad, agilidad y eficacia para los trabajos que se me asignen, siempre estoy predispuesto a adquirir nuevos conocimientos con el fin de desarrollar una tarea más profesional, siempre en los trabajos anteriores que tuve di todo de mí intentando resolver problemas en situaciones que excedían mis obligaciones en beneficio de una meta en común. Cuando realizo una tarea hago todo lo posible que esté a mi alcance para terminar el proyecto de la más rápida y mejor manera. Cuento con más experiencia que los que certifican mis estudios o trabajos en los que estuve ya que en ocasiones anteriores trabaje en negro, pero si tengo una oportunidad para demostrar lo que sé, pueden comprobar que tipo de persona soy.
+   Mi deseo es encontrar un buen ambiente de trabajo donde pueda amplificar mis capacidades y así mismo me pueda perfeccionar para mejorar mi posición dentro de la misma.
+   Espero sean la empresa que yo busco así mismo sea yo la persona que ustedes necesitan, agradecería una oportunidad de demostrar lo que digo no desperdiciándola.
+ Desde ya muchas gracias
+Saluda atentamente Nicolás Castellano
+
+Security_code : 93y4n
+Send : Enviar
+
+---------------
+
+Address : 181.166.76.228
+Nombre : mariano
+Apellido : rosenthal
+Cargo : tecnico y licenciado seh
+Direccion : ,
+Ciudad : la plata
+Telefono : 0221155067955
+Email : mariano_rosenthal85@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : 1
+Security_code : wp5tp
+Send : Enviar
+
+---------------
+
+Address : 181.166.76.228
+Nombre : mariano
+Apellido : rosenthal
+Cargo : tecnico y licenciado seh
+Direccion : ,
+Ciudad : la plata
+Telefono : 0221155067955
+Email : mariano_rosenthal85@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : 1
+Security_code : wp5tp
+Send : Enviar
+
+---------------
+
+Address : 181.28.223.3
+Nombre : Guadalupe
+Apellido : Alvarez Mulleady 
+Cargo : RRHH
+Direccion : Libertad 960
+Ciudad : Ciudad Autónoma de Buenos Aires
+Telefono : 2804641549
+Email : guada.alvarezm@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estaria encantada de ser parte de la empresa o que consideraran mi cv para futuras busquedas.
+Gracias
+Security_code : nqgdp
+Send : Enviar
+
+---------------
+
+Address : 186.134.164.205
+Nombre : Maria Milena
+Apellido : Moscheni
+Cargo : Administrativa / Recursos Humanos
+Direccion : General Acha 1061
+Ciudad : Quilmes
+Telefono : 1549375060
+Email : mile.moscheni@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estoy buscando unpuesto en administrativa, secretaria, asistente o en recursos humanos
+Security_code : cghxv
+Send : Enviar
+
+---------------
+
+Address : 186.134.164.205
+Nombre : Maria Milena
+Apellido : Moscheni
+Cargo : Administrativa / Recursos Humanos
+Direccion : General Acha 1061
+Ciudad : Quilmes
+Telefono : 1549375060
+Email : mile.moscheni@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estoy buscando unpuesto en administrativa, secretaria, asistente o en recursos humanos
+Security_code : p3b7c
+Send : Enviar
+
+---------------
+
+Address : 186.134.164.205
+REF : TELE
+Nombre : Maria Milena
+Apellido : Moscheni
+Cargo : Tele
+Direccion : General Acha 1061
+Ciudad : Quilmes
+Telefono : 42800272
+Email : mile.moscheni@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : -
+Security_code : x7x6n
+Send : Enviar
+
+---------------
+
+Address : 190.247.131.75
+Nombre : Mariángeles
+Apellido : Fernández
+Cargo : Lic Psicología
+Direccion : charlone 987
+Ciudad : CABA
+Telefono : 1562556424
+Email : mariangelesfpsi@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Mediante el presente adjunto mi CV para ser evaluado en función a puestos acordes a mi perfil
+Security_code : f7z4c
+Send : Enviar
+
+---------------
+
+Address : 181.167.99.120
+Nombre : MARIELA
+Apellido : MARRON
+Cargo : ADMINIST. RECEPC. AT CLIENTE
+Direccion : AV. CABILDO 4160 - 7 D
+Ciudad : CAPITAL FEDERAL
+Telefono : 47014346
+Email : marielamarron@hotmail.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : EXPERIENCIA EN ADMINIST. RECEPC. Y AT. AL CLIENTE
+Security_code : 8v239
+Send : Enviar
+
+---------------
+

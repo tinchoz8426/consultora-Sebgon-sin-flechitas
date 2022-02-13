@@ -1,0 +1,47 @@
+Address : 201.231.6.97<br>
+ <br>Nombre : Silvina
+ <br>Apellido : Alvarez
+ <br>Cargo : Trabajador Social para entrevista Domiciliaria
+ <br>Direccion : Oncativo 1219
+ <br>Ciudad : Lanus
+ <br>Telefono : 1132369570
+ <br>Email : silvin.alvarezz@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Experiencia comprobable en entrevista domiciliaria. Elaboración de informes socio ambientales.
+ <br>Security_code : shv3h
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.231.116.14<br>
+ <br>Nombre : María uegenia
+ <br>Apellido : Beltran
+ <br>Cargo : Ventas
+ <br>Direccion : Independencia 2564
+ <br>Ciudad : Mar del plata
+ <br>Telefono : 2234399432
+ <br>Email : Euge.beltran@outlook.con
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Aquí adjunto mi cv. Espero prontas respuestas. Un saludo.
+ <br>Security_code : 682c7
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.30.99.249<br>
+ <br>REF : SP-1
+ <br>Nombre : José Luis
+ <br>Apellido : GUIDI
+ <br>Cargo : Supervisor de Producción
+ <br>Direccion : Neuquén 3165
+ <br>Ciudad : Sáenz Peña
+ <br>Telefono : 011 154 557 5438
+ <br>Email : jlguidi1@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : En respuesta al aviso publicado, elevo a su consideración mi CV, ya sea por esta propuesta ú otras que consideren adecuadas a mi perfil.
+Muy atte. SLDS.
+ <br>Security_code : vf7fs
+ <br>Send : Enviar
+ <br>
+---------------
+

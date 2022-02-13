@@ -1,0 +1,31 @@
+Address : 186.135.2.230
+REF : OEL
+Nombre : Claudio
+Apellido : Perez
+Cargo : electricista
+Direccion : brasil 1907
+Ciudad : Merlo
+Telefono : +541151068116
+Email : instalaciones_oeste@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : sssssssssssssss
+Security_code : 4t5mq
+Send : Enviar
+
+---------------
+
+Address : 190.194.116.71
+Nombre : valeria soledad
+Apellido : coria
+Cargo : administrativa-atención al cliente
+Direccion : 3 de febrero 7965
+Ciudad : mar del plata
+Telefono : 02235422235
+Email : valeria_s_coria@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Sr/sra: Espero el llamado para una entrevista y me puedan conocer personalmente.Saludos!!!
+Security_code : gtrmf
+Send : Enviar
+
+---------------
+

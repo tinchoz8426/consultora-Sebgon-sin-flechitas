@@ -1,0 +1,18 @@
+Address : 190.227.53.228<br>
+ <br>Nombre : Eduard
+ <br>Apellido : Beliaev
+ <br>Cargo : Programador. Analista.
+ <br>Direccion : Zapiola 3500
+ <br>Ciudad : Ciudad Autónoma de Buenos Aires.
+ <br>Telefono : 1562386501
+ <br>Email : eduard.beliaev@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : A quien corresponda:
+Le envio mi curriculum vitae.
+Atentamente,
+Eduard Beliaev
+ <br>Security_code : rjgkb
+ <br>Send : Enviar
+ <br>
+---------------
+

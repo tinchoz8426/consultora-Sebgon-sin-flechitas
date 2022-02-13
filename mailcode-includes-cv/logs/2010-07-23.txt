@@ -1,0 +1,108 @@
+Address : 200.31.2.68
+Nombre : Maía Florencia
+Apellido : Zuliani
+Cargo : Recepcionista/ Administrativa 
+Direccion : Av Cordoba 2586 7ºB
+Ciudad : Capital Federal
+Telefono : 49635242
+Email : florencia.zuliani@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados
+De mi mayor consideración:
+
+                                      Por la presente me permito molestar tu atención a los efectos de postularme  para el puesto de recepcionista administrativa. El motivo de la misma tan solo pretende ser tenida en cuenta para cuando las posibilidades de trabajo así lo permitan, para lo cual adjunto mi cv.
+Remuneración pretendida $3000
+ 
+
+                            Agradece desde ya su amabilidad a Ud.
+
+Muy Atte.
+
+María Florencia Zuliani
+
+Security_code : yq7v4
+Send : Enviar
+
+---------------
+
+Address : 190.244.162.54
+Nombre : Eliana 
+Apellido : Lemos
+Cargo : puestos para estudiantes de psicología
+Direccion : ramirez de velasco 1008
+Ciudad : capital federal
+Telefono : 0348715687369
+Email : jeza88@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : deseo postularme para puestos relacionados con la carrera que estudio.
+Security_code : ypydy
+Send : Enviar
+
+---------------
+
+Address : 186.58.35.112
+Nombre : santiago david
+Apellido : serrano
+Cargo : diseño tecnico y grafico.facturista,empleado de mayorista,
+Direccion : santa catalina 5136
+Ciudad : laferrere
+Telefono : 1569535785
+Email : santiago_david@live.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : encontrar un trabajo para poner en practica mis conocimientos.
+Security_code : pp3sr
+Send : Enviar
+
+---------------
+
+Address : 190.227.62.231
+Nombre : Natalia
+Apellido : Ratti
+Cargo : 1648
+Direccion : Av. Rocha 1035
+Ciudad : Tigre
+Telefono : 1559198423
+Email : nataliaratti-1985@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Preferencias laborales: recepción , RRHH, atención al publico
+Security_code : bkztc
+Send : Enviar
+
+---------------
+
+Address : 190.48.15.196
+Nombre : Gisela
+Apellido : Rementería
+Cargo : Trabajo Social
+Direccion : 14 y 5
+Ciudad : Mercedes
+Telefono : 02324-421042
+Email : yice_2220@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me interesa formar parte de su equipo Profesional, o ser considerada a la hora de contratar personal externo.
+Saludos.
+Security_code : nkc8t
+Send : Enviar
+
+---------------
+
+Address : 201.212.61.147
+Nombre : Julieta
+Apellido : Degleue
+Cargo : Cocinera
+Direccion : Monroe 918
+Ciudad : Buenos Aires
+Telefono : (02362)15-222829
+Email : julyde84@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola mi nombre es Julieta y soy Lic. en Adm Hotelera especializada en el area de alimentos y bebida.
+Me encuentro a su disposicion para realizar una entrevista personal.
+Desde ya muchas gracias y disculpe las molestias.
+Saludo muy atentamente.
+Julieta Degleue.
+
+Security_code : y2v45
+Send : Enviar
+
+---------------
+

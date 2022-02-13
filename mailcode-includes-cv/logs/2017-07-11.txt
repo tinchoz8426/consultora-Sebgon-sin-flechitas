@@ -1,0 +1,146 @@
+Address : 201.177.29.15<br>
+ <br>REF : chr
+ <br>Nombre : antonio carlos
+ <br>Apellido : santoliquido
+ <br>Cargo : chofer
+ <br>Direccion : magallanes 522
+ <br>Ciudad : spegazzini
+ <br>Telefono : 1136545884
+ <br>Email : tonyo1985.acs@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : chofer reparto
+ <br>Security_code : zs9d6
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 200.16.89.155<br>
+ <br>REF : EP-1
+ <br>Nombre : María Luz
+ <br>Apellido : Villambrosa
+ <br>Cargo : Encargado de producción
+ <br>Direccion : Parral
+ <br>Ciudad : CABA
+ <br>Telefono : 1522703008
+ <br>Email : luzvillambrosa@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenos días, estoy interesada en el puesto de Encargado de Producción que vi en la página web de indeed. También estaría muy agradecida si mi perfil quedara en su base de datos para futuras búsquedas. 
+Muchas gracias!
+Saludos
+ <br>Security_code : sfh23
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.216.238.95<br>
+ <br>REF : chr
+ <br>Nombre : Cristian jose 
+ <br>Apellido : Alvarez
+ <br>Cargo : Chofer 
+ <br>Direccion : roque saenz peña 4106 
+ <br>Ciudad : buenos aires 
+ <br>Telefono : 1540963860
+ <br>Email : cristian.j.alv@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : .
+ <br>Security_code : 3jr97
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 191.84.81.169<br>
+ <br>REF : ACO-1
+ <br>Nombre : Cristian Nicolás
+ <br>Apellido : Volpe Laura
+ <br>Cargo : ANALISTA DE COMERCIO INTERNACIONAL/EXTERIOR
+ <br>Direccion : Cnel. Lynch 3340
+ <br>Ciudad : San Justo, Buenos Aires
+ <br>Telefono : 1533732628
+ <br>Email : cristian.n.volpe@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Deseo formar parte de su prestigiosa organización para poder desarrollar mis conocimientos y aprender aún más, y así tener la posibilidad de un mayor crecimiento profesional en un buen ambiente laboral, para lograr juntos los objetivos de la empresa.
+ <br>Security_code : JMV4Q
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 191.84.81.169<br>
+ <br>REF : ACO-1
+ <br>Nombre : Cristian Nicolás
+ <br>Apellido : Volpe Laura
+ <br>Cargo : ANALISTA DE COMERCIO INTERNACIONAL/EXTERIOR
+ <br>Direccion : Cnel. Lynch 3340
+ <br>Ciudad : San Justo, Buenos Aires
+ <br>Telefono : 1533732628
+ <br>Email : cristian.n.volpe@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Deseo formar parte de su prestigiosa organización para poder desarrollar mis conocimientos y aprender aún más, y así tener la posibilidad de un mayor crecimiento profesional en un buen ambiente laboral, para lograr juntos los objetivos de la empresa.
+ <br>Security_code : w4cmn
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 191.84.81.169<br>
+ <br>REF : ACO-1
+ <br>Nombre : Cristian Nicolás
+ <br>Apellido : Volpe Laura
+ <br>Cargo : ANALISTA DE COMERCIO INTERNACIONAL/EXTERIOR
+ <br>Direccion : Cnel. Lynch 3340
+ <br>Ciudad : San Justo, Buenos Aires
+ <br>Telefono : 1533732628
+ <br>Email : cristian.n.volpe@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Deseo formar parte de su prestigiosa organización para poder desarrollar mis conocimientos y aprender aún más, y así tener la posibilidad de un mayor crecimiento profesional en un buen ambiente laboral, para lograr juntos los objetivos de la empresa.
+ <br>Security_code : 3bwn2
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.45.164.78<br>
+ <br>REF : chr
+ <br>Nombre : fernando ariel
+ <br>Apellido : montenegro
+ <br>Cargo : chofer
+ <br>Direccion : ferraroty 437
+ <br>Ciudad : monte grande
+ <br>Telefono : 20861664
+ <br>Email : guadalupe18lu@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : me iteresa el puesto 
+
+ <br>Security_code : nrqzt
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.229.168.48<br>
+ <br>REF : ROT-1
+ <br>Nombre : Adriana
+ <br>Apellido : Urdaneta
+ <br>Cargo : Responsable de ofic técnica 
+ <br>Direccion : avenida santa fe 3069, entre austria y sanchez de bustamente
+ <br>Ciudad : CABA
+ <br>Telefono : 91163691919
+ <br>Email : adrianaalejandraurdaneta@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Disponibilidad horaria y ganas de aprender. 
+ <br>Security_code : m7fk2
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.47.136.66<br>
+ <br>Nombre : Michael Steeven
+ <br>Apellido : Montoya
+ <br>Cargo : Dibujante industria
+ <br>Direccion : Ruiz de los llnos 1996
+ <br>Ciudad : Buenos aires
+ <br>Telefono : 1155296624
+ <br>Email : Montoya96_@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Es un placer enviarles mi curriculum ya que son un empresa muy bien organizada.
+ <br>Security_code : 73gdf
+ <br>Send : Enviar
+ <br>
+---------------
+

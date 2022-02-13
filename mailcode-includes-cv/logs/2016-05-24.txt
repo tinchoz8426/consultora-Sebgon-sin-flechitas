@@ -1,0 +1,33 @@
+Address : 186.153.95.80<br>
+ <br>REF : TLP
+ <br>Nombre : Antonio
+ <br>Apellido : Sessa
+ <br>Cargo : Tercnico para laboratorio de electronica y planta
+ <br>Direccion : Roberto Wernicke 1723
+ <br>Ciudad : Villa Adelina
+ <br>Telefono : 011 15 54141550
+ <br>Email : adsessa@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola, 
+me interesa su propuesta. quisiera saber mas ella.
+Saludos, Antonio.
+ <br>Security_code : 2w7js
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.177.175.191<br>
+ <br>Nombre : gustavo ramon
+ <br>Apellido : fernandez
+ <br>Cargo : of especializado cañista 
+ <br>Direccion : los patos 2048
+ <br>Ciudad : comodoro rivadavia 
+ <br>Telefono : 0297 154176475
+ <br>Email : quilmes_fernandez@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : mi puesto es oficial especializado cañista en área piping y montaje electro mecánico y en manejo de personal o cuadrillas completa
+ <br>Security_code : gyy9x
+ <br>Send : Enviar
+ <br>
+---------------
+

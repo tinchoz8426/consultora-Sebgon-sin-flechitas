@@ -1,0 +1,137 @@
+Address : 190.189.77.211<br>
+ <br>Nombre : José Luis
+ <br>Apellido : Piesco
+ <br>Cargo : Tesorero/Cajero
+ <br>Direccion : Fontela 210
+ <br>Ciudad : Temperley
+ <br>Telefono : 11 5926 0880
+ <br>Email : pepe_cele@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Ref. Tesorero/Cajero
+ <br>Security_code : nbg9s
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.95.30.237<br>
+ <br>REF : TES
+ <br>Nombre : marcelo
+ <br>Apellido : dein
+ <br>Cargo : Tesorero
+ <br>Direccion : marechal 1344
+ <br>Ciudad : capital
+ <br>Telefono : 48547045
+ <br>Email : f28e21@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Ref: Tesorero
+ <br>Security_code : 3jnbj
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.60.173.234<br>
+ <br>Nombre : Braian Emanuel
+ <br>Apellido : Pegoraro
+ <br>Cargo : Tec. en Higiene, Seguridad y Control Ambiental Industrial
+ <br>Direccion : Tucumán 2166 Piso 1 Dto 1
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 1132412219
+ <br>Email : Pegoraro.b.e@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Objetivos:
+
+Desempeñarme, ofrecer y desarrollar todas mis capacidades, adquirir a través de la responsabilidad y confianza depositada en mi una experiencia inigualable, adquirida dentro de su equipo de trabajo.
+
+ <br>Security_code : sqr9p
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.28.57.123<br>
+ <br>Nombre : Nini Marcela
+ <br>Apellido : Pulido Mora
+ <br>Cargo : Comercio Exterior
+ <br>Direccion : Marcelo T. de Alvear 1590 Piso 2
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 1566747940
+ <br>Email : ninimarcela@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas tardes, 
+Soy Marcela Pulido, economista en comercio exterior, he visitado el sitio web de su empresa y parece un lugar muy interesante para crecer profesionalmente, estoy interesada en trabajar con ustedes, por favor tengan en cuenta mi experiencia, me encantaría tener la oportunidad de demostrar mis capacidades y ser valor agregado a su empresa.
+
+Cordialmente,
+Marcela Pulido
+
+ <br>Security_code : f8h9x
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.254.53.94<br>
+ <br>Nombre : Carla Agustina
+ <br>Apellido : Chillino Leguizamon
+ <br>Cargo : atencion al cliente/recepcionista/secretaria
+ <br>Direccion : galileo
+ <br>Ciudad : Ciudadela
+ <br>Telefono : 1134254944
+ <br>Email : carla.chillino7@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estoy a disposicion de ustedes, me se desenvolver a la perfeccion en esas areas.
+Saludos.
+ <br>Security_code : g79sh
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.47.28.200<br>
+ <br>Nombre : carlos andres 
+ <br>Apellido : pasutti
+ <br>Cargo : atencion al cliente, cajero
+ <br>Direccion : yatay 223 4b
+ <br>Ciudad : CABA
+ <br>Telefono : 011 1535159424
+ <br>Email : carlinpasutti@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me considero una persona responsable,
+creativa, con iniciativa y puntualidad, asumo con agrado los retos y metas que su
+organización me pudiera plantear; con buen
+manejo de relaciones interpersonales,
+facilidad para trabajar en equipo y lograr las
+metas trazadas por la empresa y mi grupo
+de trabajo. Poseo un un gran sentido tanto
+ético como moral y de respeto.
+ <br>Security_code : qf64n
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.19.202.117<br>
+ <br>Nombre : Miguel Angel
+ <br>Apellido : Baez
+ <br>Cargo : Cañista
+ <br>Direccion : Parana 284
+ <br>Ciudad : San Nicolas
+ <br>Telefono : 0336 15403230
+ <br>Email : nazatorres12@hotmail.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : no puedo adjuntar curriculum porque no tengo a mano
+ <br>Security_code : g3m4n
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.246.254.85<br>
+ <br>Nombre : Nicolás
+ <br>Apellido : Marzuratti
+ <br>Cargo : Redactor Senior
+ <br>Direccion : charlone 2088
+ <br>Ciudad : Capital Federal
+ <br>Telefono : 1551234655
+ <br>Email : marzu20@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola equipo, aquí les adjunto mi CV. Muchas gracias.
+ <br>Security_code : dgpgv
+ <br>Send : Enviar
+ <br>
+---------------
+

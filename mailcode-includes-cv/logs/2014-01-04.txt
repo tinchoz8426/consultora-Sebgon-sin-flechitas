@@ -1,0 +1,151 @@
+Address : 186.18.122.83
+Nombre : Ayelen
+Apellido : Rodriguez
+Cargo : Asistente Recursos Humanos
+Direccion : La Vincha 993
+Ciudad : Buenos Aires
+Telefono : 1155642516
+Email : ayelenrodriguezli@live.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Mi nombre es Ayelen, tengo 23 años y estoy sin trabajo desde octubre. Me interesa trabajar en el sector de Recursos Humanos, pero también estoy en búsqueda de otras opciones como por ej.: cajera, atención al cliente, cobranza, secretaria, asistente, recepcionista. Desde ya muchas gracias. Saludos cordiales.
+Security_code : 4t26r
+Send : Enviar
+
+---------------
+
+Address : 186.18.122.83
+Nombre : Ayelen
+Apellido : Rodriguez
+Cargo : Asistente Recursos Humanos
+Direccion : La Vincha 993
+Ciudad : Buenos Aires
+Telefono : 1155642516
+Email : ayelenrodriguezli@live.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Mi nombre es Ayelen, tengo 23 años y estoy sin trabajo desde octubre. Me interesa trabajar en el sector de Recursos Humanos, pero también estoy en búsqueda de otras opciones como por ej.: cajera, atención al cliente, cobranza, secretaria, asistente, recepcionista. Desde ya muchas gracias. Saludos cordiales.
+Security_code : 4t26r
+Send : Enviar
+
+---------------
+
+Address : 190.103.246.33
+Nombre : maribel
+Apellido : ortiz
+Cargo : encargada
+Direccion : uruguay 
+Ciudad : corral de bustos
+Telefono : 0346815520912
+Email : maribelortiz548@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : me intereza conseguir trabajo en santa rosa de calamuchita cordoba
+Security_code : n5bym
+Send : Enviar
+
+---------------
+
+Address : 186.59.119.235
+Nombre : Romina Irene
+Apellido : Gebura
+Cargo : atendion al publico
+Direccion : 25 de mayo
+Ciudad : mendoza
+Telefono : 155320376
+Email : rominagebura@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : estoy buscando trabajo tengo disponibilidad horaria
+Security_code : vbw4d
+Send : Enviar
+
+---------------
+
+Address : 186.59.119.235
+Nombre : Romina Irene
+Apellido : Gebura
+Cargo : atendion al publico
+Direccion : 25 de mayo
+Ciudad : mendoza
+Telefono : 155320376
+Email : rominagebura@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : estoy buscando trabajo tengo disponibilidad horaria
+Security_code : vbw4d
+Send : Enviar
+
+---------------
+
+Address : 186.59.119.235
+Nombre : Romina Irene
+Apellido : Gebura
+Cargo : atendion al publico
+Direccion : 25 de mayo
+Ciudad : mendoza
+Telefono : 155320376
+Email : rominagebura@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : estoy buscando trabajo tengo disponibilidad horaria
+Security_code : vbw4d
+Send : Enviar
+
+---------------
+
+Address : 186.59.119.235
+Nombre : Romina Irene
+Apellido : Gebura
+Cargo : atendion al publico
+Direccion : 25 de mayo
+Ciudad : mendoza
+Telefono : 155320376
+Email : rominagebura@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : estoy buscando trabajo tengo disponibilidad horaria
+Security_code : vbw4d
+Send : Enviar
+
+---------------
+
+Address : 186.59.119.235
+Nombre : Romina Irene
+Apellido : Gebura
+Cargo : atendion al publico
+Direccion : 25 de mayo
+Ciudad : mendoza
+Telefono : 155320376
+Email : rominagebura@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : estoy buscando trabajo tengo disponibilidad horaria
+Security_code : 2nmry
+Send : Enviar
+
+---------------
+
+Address : 181.109.119.148
+Nombre : M. Florencia
+Apellido : Giacomini
+Cargo : Administracion
+Direccion : Misiones 224
+Ciudad : Parana
+Telefono : 0343 154643041
+Email : florenciagiacomini@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : deseo adquirir conocimientos practicos referidos a la adminnistracion y contabilidad. Quiero progresar y superarme
+Security_code : bhqk8
+Send : Enviar
+
+---------------
+
+Address : 181.109.119.148
+REF : Asistente-Contable
+Nombre : Ma. Florencia
+Apellido : Giacomini
+Cargo : asistente contable
+Direccion : misiones 224
+Ciudad : Parana
+Telefono : 0343 154643041
+Email : florenciagiacomini@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Tengo conocimientos contables y lo que no se lo aprendo rapido.
+Security_code : 2brdb
+Send : Enviar
+
+---------------
+

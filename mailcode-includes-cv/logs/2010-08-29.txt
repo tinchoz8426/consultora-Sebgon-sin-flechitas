@@ -1,0 +1,85 @@
+Address : 200.122.102.108
+REF : adper
+Nombre : Daniel
+Apellido : Nakamura
+Cargo : Administrativo de personal
+Direccion : Fernan Felix de Amador 3828
+Ciudad : Munro
+Telefono : 1556195652
+Email : nakamuradaniel85@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Remuneracion pretendida $5.500 bruto
+Security_code : 9z2pp
+Send : Enviar
+
+---------------
+
+Address : 200.43.189.225
+Nombre : Lorena Maria
+Apellido : Lombardi
+Cargo : empresas o venta
+Direccion : Guemes 3260
+Ciudad : Casilda
+Telefono : 03464-15581772
+Email : lorel@live.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Ante cualquier vacante de banco Santander Rio en Casilda y zona pido se me tenga en cuenta para algun puesto de trabajo desde ya muchas gracias 
+Security_code : gn8sp
+Send : Enviar
+
+---------------
+
+Address : 186.57.164.44
+REF : gerente-financiero
+Nombre : lorena
+Apellido : zemelka
+Cargo : empleada
+Direccion : 2da rivadavia 23019
+Ciudad : buenos aires
+Telefono : 1135902662
+Email : lorenazemelka@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : tel alternativo 46612698
+Security_code : jvchm
+Send : Enviar
+
+---------------
+
+Address : 190.190.84.175
+Nombre : Nadia 
+Apellido : Cejas
+Cargo : Grafóloga
+Direccion : Av Vélez Sarsfield 
+Ciudad : Munro
+Telefono : 011-47563460
+Email : 02246-15461693
+MAX_FILE_SIZE : 2097152
+Mensaje : Tengo experiencia en realizar Orientaciones Vocacionales, y deseo adquirir nueva experiencia en el campo de la Seleccion de Personal
+Security_code : ykjbw
+Send : Enviar
+
+---------------
+
+Address : 190.48.163.54
+Nombre : Eliana Anabel
+Apellido : Burgueño
+Cargo : Psicologa
+Direccion : 1° de Mayo 166
+Ciudad : Moreno
+Telefono : 011-15-65410843
+Email : eliana.burgueno@live.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : De mi mayor consideración
+
+Me dirijo a uds. con motivo de hacerles llegar mi Curriculum Vitae, considerando contar con los requisitos para desempeñarme en la función que estan solicitando.
+Esperando tener una pronta respuesta, saluda a uds atentamente...
+
+Eliana Anabel Burgueño
+Lic. en Psicología
+M.N: 46192
+M.P: 83420
+Security_code : vft4t
+Send : Enviar
+
+---------------
+

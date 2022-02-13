@@ -1,0 +1,173 @@
+Address : 190.113.142.250
+Nombre : adrian exequiel matias
+Apellido : mansilla
+Cargo : mecanico
+Direccion : barrio blanca esperanza mna. (F) CASA 13 BERMEJO
+Ciudad : GUAYMALLEN
+Telefono : 261-6187289
+Email : adrianmansilla1986@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : en cualquier puesto para empresas dedicadas en mi rubro
+Security_code : x75qq
+Send : Enviar
+
+---------------
+
+Address : 181.165.239.235
+Nombre : Federico 
+Apellido : Crispiani 
+Cargo : Ingeniero
+Direccion : 58 N°1779
+Ciudad : La Plata
+Telefono : 221 155891626
+Email : fede_2810@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buen día
+
+Le envío mi CV para que me tenga en cuenta en las búsquedas actuales
+
+Gracias
+
+Saludos
+Security_code : 9nt7f
+Send : Enviar
+
+---------------
+
+Address : 190.245.101.141
+Nombre : Rosa Laura
+Apellido : Roude
+Cargo : Administradora o Afines
+Direccion : AMBROSETTI 916 3A
+Ciudad : CAPITAL FEDERAL
+Telefono : 1137893357
+Email : laurinaroude@hotmail.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola dejo mi CV en su base de Datos esperando un puesto acorde a mis conocimientos adquiridos hasta hoy. Gracias y Exitos.
+Security_code : fvsh9
+Send : Enviar
+
+---------------
+
+Address : 190.190.158.85
+Nombre : Emiliano
+Apellido : Navarro
+Cargo : Administrativo/Ejecutivo
+Direccion : MOns Pablo Cabrera 4724
+Ciudad : Cordoba
+Telefono : 3515152656
+Email : diegoemiliano87@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Le envio mi CV para una busqueda laboral.
+Saludos
+Emiliano Navarro
+Security_code : 85x2z
+Send : Enviar
+
+---------------
+
+Address : 190.190.158.85
+Nombre : Emiliano
+Apellido : Navarro
+Cargo : Administrativo/Ejecutivo
+Direccion : MOns Pablo Cabrera 4724
+Ciudad : Cordoba
+Telefono : 3515152656
+Email : diegoemiliano87@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Le envio mi CV para una busqueda laboral.
+Saludos
+Emiliano Navarro
+Security_code : 85x2z
+Send : Enviar
+
+---------------
+
+Address : 190.190.158.85
+Nombre : Emiliano
+Apellido : Navarro
+Cargo : Administrativo/Ejecutivo
+Direccion : MOns Pablo Cabrera 4724
+Ciudad : Cordoba
+Telefono : 3515152656
+Email : diegoemiliano87@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Le envio mi CV para una busqueda laboral.
+Saludos
+Emiliano Navarro
+Security_code : kpqw7
+Send : Enviar
+
+---------------
+
+Address : 190.190.158.85
+Nombre : Emiliano
+Apellido : Navarro
+Cargo : Administrativo/Ejecutivo
+Direccion : MOns Pablo Cabrera 4724
+Ciudad : Cordoba
+Telefono : 3515152656
+Email : diegoemiliano87@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Le envio mi CV para una busqueda laboral.
+Saludos
+Emiliano Navarro
+Security_code : Kpqw7
+Send : Enviar
+
+---------------
+
+Address : 190.190.158.85
+Nombre : Emiliano
+Apellido : Navarro
+Cargo : Administrativo/Ejecutivo
+Direccion : MOns Pablo Cabrera 4724
+Ciudad : Cordoba
+Telefono : 3515152656
+Email : diegoemiliano87@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Le envio mi CV para una busqueda laboral.
+Saludos
+Emiliano Navarro
+Security_code : xxcbh
+Send : Enviar
+
+---------------
+
+Address : 186.109.163.21
+Nombre : PABLO NICOLAS
+Apellido : ISASMENDI MOLLINEDO
+Cargo : CAJERO, ATENCION AL CLIENTE, 
+Direccion : RIO QUINTO 683
+Ciudad : NEUQUEN
+Telefono : 0299 154166808
+Email : pabloisasmendi_84@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : busco la posibilidad de obtener un puesto que me permita desarrollar mis capacidades y obtener crecimiento laboral. 
+Security_code : snyr7
+Send : Enviar
+
+---------------
+
+Address : 186.109.163.21
+Nombre : PABLO NICOLAS
+Apellido : ISASMENDI MOLLINEDO
+Cargo : CAJERO, ATENCION AL CLIENTE, 
+Direccion : RIO QUINTO 683
+Ciudad : NEUQUEN
+Telefono : 0299 154166808
+Email : pabloisasmendi_84@hotmail.com
+
+---------------
+
+Address : 186.109.163.21
+Nombre : PABLO NICOLAS
+Apellido : ISASMENDI MOLLINEDO
+Cargo : CAJERO, ATENCION AL CLIENTE, 
+Direccion : RIO QUINTO 683
+Ciudad : NEUQUEN
+Telefono : 0299 154166808
+Email : pabloisasmendi_84@hotmail.com
+
+---------------
+

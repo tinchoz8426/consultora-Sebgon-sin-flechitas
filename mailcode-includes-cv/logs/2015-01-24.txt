@@ -1,0 +1,76 @@
+Address : 186.38.22.86
+Nombre : Florencia
+Apellido : Pilotto
+Cargo : Administrativa 
+Direccion : Saavedra 3333
+Ciudad : El Bolsón 
+Telefono : 294-4572609
+Email : flo_pilotto@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Disponibilidad para trabajar en El Bolsón o Lago Puelo
+Security_code : rbcpn
+Send : Enviar
+
+---------------
+
+Address : 186.38.22.86
+Nombre : Florencia
+Apellido : Pilotto
+Cargo : Administrativa 
+Direccion : Saavedra 3333
+Ciudad : El Bolsón 
+Telefono : 294-4572609
+Email : flo_pilotto@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Disponibilidad para trabajar en El Bolsón o Lago Puelo
+Security_code : f7cfs
+Send : Enviar
+
+---------------
+
+Address : 186.38.22.86
+Nombre : Florencia
+Apellido : Pilotto
+Cargo : Administración, recepcionista, otros
+Direccion : Saavedra 3333
+Ciudad : El Bolsón 
+Telefono : 0294-154572609
+Email : flo_pilotto@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Disponibilidad para El Bolsón o Lago Puelo
+Security_code : c2dmp
+Send : Enviar
+
+---------------
+
+Address : 190.174.32.245
+Nombre : MARCELO
+Apellido : GONZALEZ TELLO
+Cargo : Responsable de Cobranzas
+Direccion : PASO DE LOS LIBRES 366
+Ciudad : ITUZAINGO
+Telefono : 46230747/1531500007
+Email : MARCEG71@GOTMAIL.COM
+MAX_FILE_SIZE : 2097152
+Mensaje : BUSQUEDA LABORAL URG.
+Security_code : ZQNCG
+Send : Enviar
+
+---------------
+
+Address : 190.174.32.245
+REF : VENDSAL
+Nombre : MARCELO
+Apellido : GONZALEZ TELLO
+Cargo : GERENTE DE VENTAS 
+Direccion : paso de los libres 366
+Ciudad : ituzaingo
+Telefono : 4623-0747/1531500007
+Email : marceg71@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : disponibilidad para radicarse/ESCUCHO OFERTAS
+Security_code : 92Z9X
+Send : Enviar
+
+---------------
+

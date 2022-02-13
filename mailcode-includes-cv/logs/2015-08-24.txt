@@ -1,0 +1,144 @@
+Address : 190.12.105.98
+REF : GT PL
+Nombre : Alejandro
+Apellido : Parada
+Cargo : Gerente de Planta
+Direccion : Calle 489 N° 2188
+Ciudad : La PLata
+Telefono : 0221154598783
+Email : alejandroeparada@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados,
+Me comunico con motivo del aviso publicado por su consultora para el puesto de “Gerente de Planta”, a fin de hacerle llegar esta carta de presentación junto con mi CV, y solicitarle que tenga la amabilidad de hacérsela llegar a la persona de su empresa en cargada de la búsqueda.
+He leído la oferta laboral con atencion, y me postulo mediante este mail, con la convicción de que los requisitos solicitados coinciden con mi perfil profesional, alcanzado por todos estos años de experiencia en la industria. 
+Soy un Ingeniero Químico, con un MBA y dominio del idioma ingles que ha desarrollado una extensa carrera gerencial en empresas químicas, petroquímicas, y petroleras, nacionales y multinacionales con diferentes localizaciones geográficas dentro del país. 
+Cabe también destacar que la diversidad de puestos gerenciales en los que me ha tocado desempeñarme es una muestra de mi capacidad de gestión para organizar y planificar con visión estrategia las diferentes áreas de una empresa, y demostradas cualidades de  liderazgo para conducir grupos con diferentes culturas de trabajo y lo mismo alcanzar objetivos desafiantes.
+El hecho de poder unirme al proyecto de dicha empresa implica un desafío profesional al cual puedo aportarle mi conocimiento global del negocio y ayudar a consolidar los resultados de la empresa.
+Desde ya agradezco la atención dispensada, y me encantaría poder ampliar en una entrevista personal muchos aspectos de mi curriculum vitae en caso que tengan la amabilidad de convocarme.
+Sin otro particular, aprovecho la oportunidad para saludarlos muy atentamente y agradecería la confirmación de la recepción del mail.
+Gracias
+Alejandro Parada
+
+Security_code : t4yrw
+Send : Enviar
+
+---------------
+
+Address : 190.227.255.135
+Nombre : Cecilia
+Apellido : Villaverde
+Cargo : Atención al cliente, Secretaria bilingue, Recepcionista, Traductora
+Direccion : Poeta Lugones 208 3b
+Ciudad : Córdoba Capital
+Telefono : 03517632798
+Email : cecilia.villaverde14@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estoy interesada en encontrar un trabajo en el cual crecer profesionalmente, siempre transmitiendo los conocimientos que poseo y transmitiendo aquellos que poseo.
+Security_code : kkr45
+Send : Enviar
+
+---------------
+
+Address : 190.210.82.29
+REF : Sec
+Nombre : Celina 
+Apellido : Martínez Luna
+Cargo : Secretaria Bilingüe
+Direccion : Floresta 91
+Ciudad : Paso del Rey
+Telefono : 0249 154330074
+Email : celinamartinezluna@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados/as,
+Me dirijo a Uds. con el propósito de ser considerada para su búsqueda de secretaria bilingüe.
+Tengo mucha experiencia como secretaria, recepcionista y asistente. Actualmente estoy estoy trabajando como corresponsal bilingüe.
+Tengo un excelente manejo de Office, conmutador, redacción, dicción y trato formal.
+Les pido ser considerada ya que considero reunir los requisitos y el perfil que buscan.
+Remuneración pretendida: $10.000/11.000 brutos.
+Muchas gracias por la oportunidad.
+Atte.
+Celina Martínez Luna
+
+Security_code : dvj84
+Send : Enviar
+
+---------------
+
+Address : 190.216.38.113
+Nombre : Fernando Ariel
+Apellido : DIAZ
+Cargo : Arquitecto
+Direccion : Av. 24 de septiembre 1002
+Ciudad : Cordoba
+Telefono : 03543-15-553-112 
+Email : diazfernandoariel@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Como indica mi currículum vitae, soy ARQUITECTO, radicado en CORDOBA. Me encuentro preparando la Tesis para la Maestría en Diseño Arquitectónico Avanzado (MDAA), FADU-UBA. 
+Recientemente he concluido un curso práctico de Revit 2014 en la SCA y curso teórico – práctico 110 hs de especialización en técnicas constructivas de Steel-Framing dictado por ConsulSteel avalado por el Ministerio de Educación de la Pcia. De Bs As.
+
+Security_code : 9vfzj
+Send : Enviar
+
+---------------
+
+Address : 181.16.29.198
+Nombre : Jonathan
+Apellido : Huzio
+Cargo : operario
+Direccion : San Lorenzo 3082
+Ciudad : San Miguel
+Telefono : 1157530333
+Email : jonhuzio@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : estoy en busca de nuevos conocimientos. espero ser de su agrado.
+Security_code : rq5kn
+Send : Enviar
+
+---------------
+
+Address : 181.117.2.254
+Nombre : Jonathan Emanuel
+Apellido : Patiño
+Cargo : aprendiz
+Direccion : amenabar 1849 p/b g 
+Ciudad : capital federal
+Telefono : 3751 550793
+Email : yony_miriam@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola me interesaria conseguir un empleo que me permita crecer personalmente y desarrollarme en cualquier rubro soy misionero y aprendo rapido.
+Security_code : sk6rp
+Send : Enviar
+
+---------------
+
+Address : 190.50.188.148
+Nombre : Monica Belen
+Apellido : Alcazar
+Cargo : secretaria administrativa; cajera; atencion al cliente
+Direccion : cordoba 1272
+Ciudad : cosquin
+Telefono : 03541 15635536
+Email : belenalcazar22@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Les dejo mi cv para que me tengan en cuenta ven algun puesto de trabajo.
+Desde ya muchas gracias
+Security_code : 3kq5z
+Send : Enviar
+
+---------------
+
+Address : 201.254.165.28
+Nombre : Daniela
+Apellido : Agostinelli
+Cargo : TODOS SON DE MI INTERES
+Direccion : Juan B Justo, Nº 12
+Ciudad : Carlos Casares
+Telefono : 0239515424192
+Email : daniagostinelli@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Necesito trabajar de lo que sea.
+Security_code : b3gr3
+Send : Enviar
+
+---------------
+

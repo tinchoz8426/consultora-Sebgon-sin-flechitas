@@ -1,0 +1,364 @@
+Address : 186.0.204.226
+Nombre : Silvina Alicia
+Apellido : Montori
+Cargo : Administrativa
+Direccion : Baro 3.157
+Ciudad : Florencio Varela, Buenos Aires, Argentina
+Telefono : 011-1531465195
+Email : sil_m.17@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me dirijo a usted con el fin de poder conseguir un empleo adecuado a mis conocimientos. Espero su respuesta, desde ya muchas gracias.
+Att. Silvina Montori.
+Security_code : hrj93
+Send : Enviar
+
+---------------
+
+Address : 181.28.44.25
+Nombre : Camila
+Apellido : Romeo
+Cargo : Recepionista/Administrativa
+Direccion : Terrero 983
+Ciudad : CABA
+Telefono : 15-5581-1274
+Email : cammromeo@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje :     Me es grato adjuntarle mi CV, para que tenga un buen conocimiento tanto de mis aptitudes como de mi experiencia laboral.
+Me considero una persona dinámica, activa, muy responsable y estoy predispuesta a aprender cosas nuevas.
+Saluda Atte.
+Romeo Camila
+Security_code : 63mm4
+Send : Enviar
+
+---------------
+
+Address : 181.28.44.25
+Nombre : Camila
+Apellido : Romeo
+Cargo : Recepionista/Administrativa
+Direccion : Terrero 983
+Ciudad : CABA
+Telefono : 15-5581-1274
+Email : cammromeo@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje :     Me es grato adjuntarle mi CV, para que tenga un buen conocimiento tanto de mis aptitudes como de mi experiencia laboral.
+Me considero una persona dinámica, activa, muy responsable y estoy predispuesta a aprender cosas nuevas.
+Saluda Atte.
+Romeo Camila
+Security_code : t5gb4
+Send : Enviar
+
+---------------
+
+Address : 190.173.89.202
+Nombre : Li
+Apellido : Frojan
+Cargo : telemarketer
+Direccion : Mercedes 273
+Ciudad : CABA
+Telefono : 1544169660
+Email : lisandro_frojan@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buqueda laboral para ingresar en relacion de dependencia. Perfil proactivo, excelente nivel de ingles. Necesidad de empleo estable
+Security_code : f33b4
+Send : Enviar
+
+---------------
+
+Address : 179.37.151.111
+Nombre : Maria Fernanda 
+Apellido : Umpierrez
+Cargo : Empleda
+Direccion : Av Eva Peron y 10, manzana 32 edificio k2 Piso 1D
+Ciudad : Claypole
+Telefono : 1136362750
+Email : umpierrezmf@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buso empleo e radiologia, administracion, tareas varias, atencion al cliente, etc
+Security_code : sc9y4
+Send : Enviar
+
+---------------
+
+Address : 190.55.180.172
+Nombre : Juliana Belén
+Apellido : Alvarez
+Cargo : Atención al cliente - Cajera
+Direccion : Anatole France 2260
+Ciudad : Tablada
+Telefono : 20509932
+Email : alvarez.juliana.b@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje :  
+Security_code : 9t5sm
+Send : Enviar
+
+---------------
+
+Address : 201.250.126.243
+Nombre : Luca Emmanuel
+Apellido : Milo
+Cargo : Empleado
+Direccion : caaguazu 5879
+Ciudad : Buenos Aires
+Telefono : 011 46444121
+Email : lukitamilo@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje :               Desearía tener la oportunidad de contribuir con  su organización usando mis conocimientos adquiridos, así como mi capacidad de organización y responsabilidad.  
+              Formar parte de un equipo de trabajo y consolidarme en una empresa donde los logros  y el desempeño sean reconocidos, además de permitir oportunidades de desarrollo  laboral. Es mi mayor anhelo y sé que con ustedes puedo lograrlo.
+
+Security_code : w3ytz
+Send : Enviar
+
+---------------
+
+Address : 190.189.254.139
+Nombre : Florencia del Valle
+Apellido : Paez
+Cargo : Administración / Recepcion / Trabajo Social
+Direccion : Gregorio de Laferrere 1359
+Ciudad : Ciudad Autonoma de Buenos Aires
+Telefono : 15 6048 2212
+Email : florenciadvpaez@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Les adjunto el CV en formato pdf, mi experiencia mayormente tiene que ver con trabajos administrativos, o bien en salud tambien como administrativa o equipo operativo de saneamiento.
+Asimismo, soy estudiante de Trabajo Social, actualmente en tercer año.
+Quedo a disposición por cualquier novedad.
+Muchas Gracias.
+Florencia.
+Security_code : zm4d7
+Send : Enviar
+
+---------------
+
+Address : 190.189.254.139
+Nombre : Florencia del Valle
+Apellido : Paez
+Cargo : Administración / Recepcion / Trabajo Social
+Direccion : Gregorio de Laferrere 1359
+Ciudad : Ciudad Autonoma de Buenos Aires
+Telefono : 15 6048 2212
+Email : florenciadvpaez@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Les adjunto el CV en formato pdf, mi experiencia mayormente tiene que ver con trabajos administrativos, o bien en salud tambien como administrativa o equipo operativo de saneamiento.
+Asimismo, soy estudiante de Trabajo Social, actualmente en tercer año.
+Quedo a disposición por cualquier novedad.
+Muchas Gracias.
+Florencia.
+Security_code : zm4d7
+Send : Enviar
+
+---------------
+
+Address : 190.189.254.139
+Nombre : Florencia del Valle
+Apellido : Paez
+Cargo : Administración / Recepcion / Trabajo Social
+Direccion : Gregorio de Laferrere 1359
+Ciudad : Ciudad Autonoma de Buenos Aires
+Telefono : 15 6048 2212
+Email : florenciadvpaez@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Les adjunto el CV en formato pdf, mi experiencia mayormente tiene que ver con trabajos administrativos, o bien en salud tambien como administrativa o equipo operativo de saneamiento.
+Asimismo, soy estudiante de Trabajo Social, actualmente en tercer año.
+Quedo a disposición por cualquier novedad.
+Muchas Gracias.
+Florencia.
+Security_code : t76mc
+Send : Enviar
+
+---------------
+
+Address : 188.143.232.111
+Nombre : Aiden
+Apellido : 81566
+Cargo : NyFEJJEisKl
+Direccion : RiGUXIxF
+Ciudad : NY
+Telefono : 61695027593
+Email : eblanned@yahoo.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Have you read any good books lately? <a href=" http://bozearts.com/philosophy/ ">erythromycin 250 mg for acne</a>  Profession Code Three-digit code assigned by the New York State Education
+ <a href=" http://www.bettinaforget.com/aboutbettina/ ">propranolol inderal la 80 mg</a>  strength are not permitted. The quantity dispensed may be less than the quantity on the Sampling coupon; however, the balance
+ <a href=" http://haydenchisholm.net/bio ">propranolol 10 mg usage</a>  agreement and some may ask for a refundable housing deposit. While the AHECs are glad to offer
+ <a href=" http://www.nmlememorial.org/about.php ">buy inderal</a>  confidentiality and privacy. Rarely respects peers and privacy. Usually privacy. Always
+ 
+Security_code : zU9Pnp
+Send : Enviar
+
+---------------
+
+Address : 188.143.232.111
+Nombre : Isabella
+Apellido : 658503
+Cargo : NyFEJJEisKl
+Direccion : RiGUXIxF
+Ciudad : NY
+Telefono : 83023878978
+Email : eblanned@yahoo.com
+MAX_FILE_SIZE : 2097152
+Mensaje : This is the job description <a href=" http://www.amyleighstrickland.com/royergoldhawk/ ">propranolol 40 mg tablets</a>  For Americans, the experience affects their use of personal time and appears to
+ <a href=" http://youkali.com/?page_id=16 ">cost erythromycin topical</a>  discretion of the faculty.
+ <a href=" http://www.nmlememorial.org/about.php ">buy inderal</a>  â¢ Changes in responsibility
+ 
+Security_code : JKM5qC
+Send : Enviar
+
+---------------
+
+Address : 188.143.232.111
+Nombre : Avery
+Apellido : 1158
+Cargo : NyFEJJEisKl
+Direccion : RiGUXIxF
+Ciudad : NY
+Telefono : 55287163219
+Email : dogkill@yahoo.com
+MAX_FILE_SIZE : 2097152
+Mensaje : A staff restaurant <a href=" http://www.astrobrite.net/coupons.html ">propranolol buy online no prescription</a>  Menu Course: Drinks & Cocktails
+ <a href=" http://www.studiotoolz.net/mulab/ ">inderal mg</a>  Add Additional Destination button to enter information about those destinations.
+ <a href=" http://youkali.com/?page_id=16 ">erythromycin ointment order</a>  company is received to initiate the audit dispute process.
+ <a href=" http://www.cathyweber.net/work-for-sale/ ">erythromycin 500 mg obat apa</a>  of 2012 and beyond). APPEs must include 1 Advanced Community, 1 Advanced Hospital, 1 Adult acute care, 1 Ambulatory
+ 
+Security_code : 52UmK
+Send : Enviar
+
+---------------
+
+Address : 188.143.232.111
+Nombre : Steven
+Apellido : 69700
+Cargo : NyFEJJEisKl
+Direccion : RiGUXIxF
+Ciudad : NY
+Telefono : 40119201573
+Email : dogkill@yahoo.com
+MAX_FILE_SIZE : 2097152
+Mensaje : This is your employment contract <a href=" http://bozearts.com/philosophy/ ">erythromycin 250 mg used for</a>  Indication of Additional A ZZ in the Indication of Additional Coverage, returned
+ <a href=" http://haydenchisholm.net/bio ">10 mg inderal stage fright</a>  number, the last six positions of the
+ <a href=" http://www.thailandholidays.de/aboutus.shtml ">inderal 20 mg</a>  construct. Representative comments include:
+ 
+Security_code : BzfiFv
+Send : Enviar
+
+---------------
+
+Address : 188.143.232.111
+Nombre : Noah
+Apellido : 63016
+Cargo : NyFEJJEisKl
+Direccion : RiGUXIxF
+Ciudad : NY
+Telefono : 50140300803
+Email : gobiz@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : I like it a lot <a href=" http://haydenchisholm.net/bio ">inderalici 10 mg precio</a>  472.8 mls. bottle, is billed as a quantity of 472.8.).
+ <a href=" http://www.studiotoolz.net/mulab/ ">buy inderal</a>  their own card. Either card can be used to cover dependent children.
+ <a href=" http://www.cathyweber.net/work-for-sale/ ">erythromycin 500mg for throat infection</a>  lectures or additional service to the College is not required.
+ <a href=" http://www.nmlememorial.org/about.php ">buy cheap inderal</a>  a site in the Triangle Area. There are 10 available AHEC regions or zones for IPPE placement purposes:
+ 
+Security_code : banyRT
+Send : Enviar
+
+---------------
+
+Address : 190.175.43.205
+Nombre : Matias
+Apellido : Alba
+Cargo : Administrativo; Sobrestante; Asistente de obra
+Direccion : Escalada
+Ciudad : Capital Federal
+Telefono : 1132697500
+Email : matiasalba90@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : A quien corresponda,
+
+adjunto Curriculum Vitae para su consideración.
+
+Saludos
+
+Atte.
+
+Matias Alba
+Security_code : V6jr5
+Send : Enviar
+
+---------------
+
+Address : 201.231.162.250
+Nombre : María José
+Apellido : Piñeiro
+Cargo : Asistente
+Direccion : Av. rivadavia 3201
+Ciudad : Buenos Aires
+Telefono : 1562723014
+Email : majo2415@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto mi Cv para que me tengan en cuenta en caso de que surja una vacante.
+Security_code : kwbbh
+Send : Enviar
+
+---------------
+
+Address : 186.134.208.231
+Nombre : rocio belen
+Apellido : acuña
+Cargo : telemarketing , cajera 
+Direccion : ceferino namucura 4231
+Ciudad : Buenos aires
+Telefono : 1133644089
+Email : luanateamo.26.01.12@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje :   
+Security_code : 8tqhs
+Send : Enviar
+
+---------------
+
+Address : 186.19.71.97
+Nombre : Damián
+Apellido : Jaime Ferretti
+Cargo : Administrativo 
+Direccion : Tucumán 3163
+Ciudad : Buenos Aires
+Telefono : 4962-8009
+Email : damian_ferretti_96@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estudiante de Cs económicas - 18 años - CABA
+Security_code : xrnnv
+Send : Enviar
+
+---------------
+
+Address : 186.0.178.151
+REF : GETECOM
+Nombre : Dario
+Apellido : Cometto
+Cargo : Gerente comercial- ID 16437340
+Direccion : Barrio los Cohiues 26
+Ciudad : Rio Turbio
+Telefono : 02966 317398 o 02966 593322
+Email : dacometto@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Mi objetivo es poder volcar mi experiencia y adquirir nuevos conocimientos a fin de dar lo mejor de mi en cada tarea a desempeñar.  
+Security_code : t6qz3
+Send : Enviar
+
+---------------
+
+Address : 186.0.178.151
+Nombre : Gisela
+Apellido : Toddere
+Cargo : Administrativa
+Direccion : Barrio los Cohiues 26
+Ciudad : Rio Turbio
+Telefono : 02966 593322 o 02966 317398
+Email : gitoddere@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me postulo como empleada administrativa y con disponibilidad para radicarme en la provincia de Río Negro o Neuquen.
+Atentamente, Gisela
+Security_code : khxg8
+Send : Enviar
+
+---------------
+

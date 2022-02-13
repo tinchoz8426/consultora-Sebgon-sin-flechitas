@@ -1,0 +1,252 @@
+Address : 186.18.5.183<br>
+ <br>Nombre : JUAN BAUTISTA
+ <br>Apellido : VALDIVIEZO
+ <br>Cargo : SOLDADOR
+ <br>Direccion : QUILMES y/o MORON
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 2007-1018
+ <br>Email : valdiviezo1971@outlook.es
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : zona de residencia Quilmes y/o Moron...disponibilidad horaria.turnos rotativos...
+ <br>Security_code : bzhxp
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.18.5.183<br>
+ <br>Nombre : JUAN BAUTISTA
+ <br>Apellido : VALDIVIEZO
+ <br>Cargo : SOLDADOR
+ <br>Direccion : QUILMES y/o MORON
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 2007-1018
+ <br>Email : valdiviezo1971@outlook.es
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : zona de residencia Quilmes y/o Moron...disponibilidad horaria.turnos rotativos...
+ <br>Security_code : bzhxp
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.47.250.179<br>
+ <br>REF : TLP
+ <br>Nombre : Kennet
+ <br>Apellido : Marley Arellano
+ <br>Cargo : Tecnico Electronico  
+ <br>Direccion : Fructuoso rivera 2583
+ <br>Ciudad : CABA
+ <br>Telefono : 1562657169
+ <br>Email : kenymarley@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola busco trabajo en el area laboratorio electronico u operario tecnico
+ <br>Security_code : 274jg
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 191.82.48.119<br>
+ <br>Nombre : Nicolas Cristian
+ <br>Apellido : Sanchez
+ <br>Cargo : Limpieza 
+ <br>Direccion : O`brien 803
+ <br>Ciudad : San Antonio de Padua
+ <br>Telefono : 01131381532
+ <br>Email : nicolascristiansanchez94@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Soy un chico muy responsable y con muchas ganas de trabajar y abanzar en esta vida
+ <br>Security_code : 6xbrz
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 191.82.48.119<br>
+ <br>Nombre : Nicolas Cristian
+ <br>Apellido : Sanchez
+ <br>Cargo : Limpieza 
+ <br>Direccion : O`brien 803
+ <br>Ciudad : San Antonio de Padua
+ <br>Telefono : 01131381532
+ <br>Email : nicolascristiansanchez94@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me considero una persona responsable y muy activa. 
+ <br>Security_code : sdq75
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 191.82.48.119<br>
+ <br>Nombre : Nicolas Cristian
+ <br>Apellido : Sanchez
+ <br>Cargo : Limpieza 
+ <br>Direccion : O`brien 803
+ <br>Ciudad : San Antonio de Padua
+ <br>Telefono : 01131381532
+ <br>Email : nicolascristiansanchez94@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me considero una persona responsable y muy activa. 
+ <br>Security_code : sdq75
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.172.159.237<br>
+ <br>Nombre : melina
+ <br>Apellido : Sila
+ <br>Cargo : Administracion
+ <br>Direccion : reconquita
+ <br>Ciudad : Villa REgina
+ <br>Telefono : 2984587789
+ <br>Email : melina_128@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados,
+He visto su pagina y tienen una gran cartera de clientes . Por este motivo, les hago llegar mi Currículum Vitae, a fin de ser tenida en cuenta como candidata.
+Quedo a su disposición para ampliar cualquier información necesaria.
+Cordialmente,
+Melina Sila
+ <br>Security_code : 9jpd3
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 200.4.59.195<br>
+ <br>REF : SE.BIL
+ <br>Nombre : Maria Vanina
+ <br>Apellido : Demianczuk
+ <br>Cargo : Secretaria bilingue
+ <br>Direccion : Eva Peron 990
+ <br>Ciudad : lanus
+ <br>Telefono : 1138296758
+ <br>Email : mvdemi@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Adjunto mi CV para la búsqueda de referencia.
+Atte
+Maria Vanina Demianczuk
+ <br>Security_code : nxg4m
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.235.242.44<br>
+ <br>REF : JPL
+ <br>Nombre : Nicolas
+ <br>Apellido : Quiroga
+ <br>Cargo : Jefe de Planta
+ <br>Direccion : AV MONROE 5382
+ <br>Ciudad : CAPITAL
+ <br>Telefono : 1556291729
+ <br>Email : n.quiroga@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola, Les adjunto mi CV para que me tengan en cuenta para búsquedas laborales.
+ <br>Security_code : q693x
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.235.242.44<br>
+ <br>Nombre : Nicolas
+ <br>Apellido : Quiroga 
+ <br>Cargo : Jefe de Planta
+ <br>Direccion : AV MONROE 5382
+ <br>Ciudad : CAPITAL
+ <br>Telefono : 1556291729
+ <br>Email : n.quiroga@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola, Les adjunto mi CV para las búsquedas laborales que esten a su cargo.
+ <br>Security_code : cnghg
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.28<br>
+ <br>REF : OEL
+ <br>Nombre : Sergio daniel
+ <br>Apellido : Romano
+ <br>Cargo : Electricista
+ <br>Direccion : Calle 815.  N 2245
+ <br>Ciudad : Quilmes
+ <br>Telefono : 1166156500
+ <br>Email : masquediez.bulldog@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Soy electricista oficial de obra actualment buscando trabajo amplio conocimiento y manejo de planos armado y coneccionado de TB tendido de bandejas canalizaciones en mamposterias tendido de cableado de baja y media tencion amplia dispocicion
+ <br>Security_code : V8khf
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.23<br>
+ <br>REF : OEL
+ <br>Nombre : Sergio daniel
+ <br>Apellido : Romano
+ <br>Cargo : Electricista
+ <br>Direccion : Calle 815.  N 2245
+ <br>Ciudad : Quilmes
+ <br>Telefono : 1166156500
+ <br>Email : masquediez.bulldog@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Soy electricista oficial de obra actualment buscando trabajo amplio conocimiento y manejo de planos armado y coneccionado de TB tendido de bandejas canalizaciones en mamposterias tendido de cableado de baja y media tencion amplia dispocicion
+ <br>Security_code : N4tw6
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.18<br>
+ <br>REF : OEL
+ <br>Nombre : Sergio daniel
+ <br>Apellido : Romano
+ <br>Cargo : Electricista
+ <br>Direccion : Calle 815.  N 2245
+ <br>Ciudad : Quilmes
+ <br>Telefono : 1166156500
+ <br>Email : masquediez.bulldog@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Soy electricista oficial de obra actualment buscando trabajo amplio conocimiento y manejo de planos armado y coneccionado de TB tendido de bandejas canalizaciones en mamposterias tendido de cableado de baja y media tencion amplia dispocicion
+ <br>Security_code : N4tw6
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.22.16.105<br>
+ <br>Nombre : LEANDRO
+ <br>Apellido : FLORENTIN
+ <br>Cargo : VENDEDOR/CAJERO/ REPOSITOR
+ <br>Direccion : MONTIEL 3912 8PISO DEPTO A
+ <br>Ciudad : CAP FED
+ <br>Telefono : 1569484946
+ <br>Email : inter_nados_blok@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : emprendedor con muchas ganas de aprender, de poder realizarme y superarme.
+ <br>Security_code : ph2mf
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 179.41.145.67<br>
+ <br>Nombre : Micaela Giannina
+ <br>Apellido : Alvarez
+ <br>Cargo : Asistente de Comunicación
+ <br>Direccion : Salcedo 999
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 44532463
+ <br>Email : alvarezmicaela14@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Adjunto mi CV a fin de que me tengan en cuenta para futuras búsquedas laborales. Saludos cordiales
+ <br>Security_code : jbjm3
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 179.41.145.67<br>
+ <br>Nombre : Micaela Giannina
+ <br>Apellido : Alvarez
+ <br>Cargo : Asistente de Comunicación
+ <br>Direccion : Salcedo 999
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 44532463
+ <br>Email : alvarezmicaela14@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Adjunto mi CV a fin de que me tengan en cuenta para futuras búsquedas laborales. Saludos cordiales
+ <br>Security_code : t48wc
+ <br>Send : Enviar
+ <br>
+---------------
+

@@ -1,0 +1,32 @@
+Address : 200.114.157.52
+Nombre : Pablo Sebastian
+Apellido : Castrovinci
+Cargo : Tecnico
+Direccion : allende 2137
+Ciudad : Capital Federal
+Telefono : 54111540923345
+Email : pablocastrovinci@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Quisiera insertarme laboralmente en una importante empresa,  adquirir experiencia laboral, aportar mis conocimientos al cargo con el fin de obtener buenos resultados y alcanzar un puesto de prestigio en la compañía.
+Security_code : pf2j8
+Send : Enviar
+
+---------------
+
+Address : 186.58.27.213
+REF : administrativo-logistica
+Nombre : Javier
+Apellido : Rocha
+Cargo : Administrativo-logistica
+Direccion : San Jose 5290
+Ciudad : San Miguel
+Telefono : 011-4455-8577
+Email : javierocha87@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Mi objetivo es enriquecer mi carrera laboral, desempeñándome de manera responsable, con actitud y fundamentalmente con eficiencia. Aportar mis conocimientos, experiencia y aptitudes en el desarrollo de la tarea profesional asignada, con una visión en progresar y trabajar en equipo.
+Hasta el momento he adquirido el conocimiento necesario para liderar equipos y diferentes proyectos, con interacción entre las distintas áreas de las empresas.
+Security_code : mx6y2
+Send : Enviar
+
+---------------
+

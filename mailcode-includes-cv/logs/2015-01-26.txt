@@ -1,0 +1,75 @@
+Address : 186.38.21.217
+Nombre : Maria Florencia
+Apellido : Pilotto
+Cargo : Administración/ Recepecion 
+Direccion : Saavedra 3333
+Ciudad : El Bolson
+Telefono : 0294-154572609
+Email : flo_pilotto@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Disponibilidad en El Bolson o Lago Puelo
+Security_code : yrcrv
+Send : Enviar
+
+---------------
+
+Address : 190.190.96.193
+Nombre : Leonardo Alberto
+Apellido : Tazedjian
+Cargo : empleado administrativo
+Direccion : Argentina 1739 3ro 22
+Ciudad : Bs As n(Ramos Mejia)
+Telefono : 155345-4606
+Email : leotazed@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Poseo amplia experiencia en el rubro textil,en areas como deposito,facturacion y exportaciones.
+Security_code : 6t9hf
+Send : Enviar
+
+---------------
+
+Address : 186.38.21.217
+Nombre : Maria Florencia
+Apellido : Pilotto
+Cargo : Administración/ Recepecion 
+Direccion : Saavedra 3333
+Ciudad : El Bolson
+Telefono : 294-154572609
+Email : flo_pilotto@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Disponibilidad en El Bolson o Lago Puelo
+Security_code : pxphf
+Send : Enviar
+
+---------------
+
+Address : 181.168.236.45
+Nombre : CYNTHIA SABRINA
+Apellido : FECHNER
+Cargo : VENTA
+Direccion :  ALMAFUERTE 3634
+Ciudad : MAR DEL PLATA
+Telefono : 02234729049
+Email : sabrina.198708@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : venta
+Security_code : jpz76
+Send : Enviar
+
+---------------
+
+Address : 186.125.154.109
+Nombre : Franco
+Apellido : Campertoni
+Cargo : cualquiera 
+Direccion : Roldan 1064
+Ciudad : Mar del Plata
+Telefono : 4799841
+Email : francampertoni@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estoy buscando un trabajo y agradecería su ayuda.Soy de Mar del Plata.
+Security_code : bn59n
+Send : Enviar
+
+---------------
+

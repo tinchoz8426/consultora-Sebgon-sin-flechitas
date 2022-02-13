@@ -1,0 +1,64 @@
+Address : 186.130.44.160<br>
+ <br>REF : ROT-1
+ <br>Nombre : DIEGO
+ <br>Apellido : LOMBARDIA
+ <br>Cargo : RESPONSABLE DE OFICINA TECNICA 
+ <br>Direccion : ARENALES 1745
+ <br>Ciudad : MORON
+ <br>Telefono : 1565990199
+ <br>Email : dalombardia@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Envio CV Diego Lombardia
+ <br>Security_code : xbv7t
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.139.63.13<br>
+ <br>Nombre : Florencia 
+ <br>Apellido : Orte
+ <br>Cargo : Secretaria, administrativa, cajera
+ <br>Direccion : ALSINA 2460
+ <br>Ciudad : Mar del Plata
+ <br>Telefono : 2262418758
+ <br>Email : florencia_orte@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola! les dejo mi CV, espero les sirva. Saludos
+Florencia
+ <br>Security_code : 9x9c6
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.139.63.13<br>
+ <br>Nombre : Florencia 
+ <br>Apellido : Orte
+ <br>Cargo : Secretaria, administrativa, cajera
+ <br>Direccion : ALSINA 2460
+ <br>Ciudad : Mar del Plata
+ <br>Telefono : 2262418758
+ <br>Email : florencia_orte@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola! les dejo mi CV, espero les sirva. Saludos
+Florencia
+ <br>Security_code : 9x9c6
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.193.17.109<br>
+ <br>Nombre : Daiana
+ <br>Apellido : Valenzuela
+ <br>Cargo : Administrativa-recepcionista
+ <br>Direccion : Joaquin V. Gonzales 872
+ <br>Ciudad : haedo
+ <br>Telefono : 1566055386
+ <br>Email : valenzuela.daiana89@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola! estoy en la busqueda de un trabajo donde pueda crecer y adquirir conocimientos nuevos,aprender y relacionarme con gente nueva como tmb poder brindar todos mis comcimientos! Desde ya.. Gracias!!!
+Saludos
+ <br>Security_code : k6gst
+ <br>Send : Enviar
+ <br>
+---------------
+

@@ -1,0 +1,101 @@
+Address : 190.55.203.240
+Nombre : a
+Apellido : a
+Cargo : a
+Direccion : a
+Ciudad : a
+Telefono : a
+Email : a
+MAX_FILE_SIZE : 2097152
+Mensaje : pruba
+Security_code : 3xhtn
+Send : Enviar
+
+---------------
+
+Address : 190.220.163.125
+Nombre : GHZDFGH
+Apellido : FDZGZFD
+Cargo : ZFDGBFDG
+Direccion : BZ
+Ciudad : BXCBVCB
+Telefono : 4444 5555
+Email : RGREAG@SDFEWDSFUJ.COM.AR
+MAX_FILE_SIZE : 2097152
+Mensaje : YJYHNGBFTVDC
+Security_code : 4gf78
+Send : Enviar
+
+---------------
+
+Address : 190.188.17.64
+Nombre : hernan
+Apellido : mogni
+Cargo : tecnico superior en seguridad e higiene
+Direccion : french 274
+Ciudad : tres arroyos
+Telefono : 02983 15583236
+Email : hernanm96@hotmail.com
+
+---------------
+
+Address : 190.188.17.64
+Nombre : hernan
+Apellido : mogni
+Cargo : tecnico superior en seguridad e higiene
+Direccion : french 274
+Ciudad : tres arroyos
+Telefono : 02983 15583236
+Email : hernanm96@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : estoy dispuesto a radicarme en cualquier provincia,no tengo problemas par viajar.
+muchas gracais
+Security_code : pmvfv
+Send : Enviar
+
+---------------
+
+Address : 186.58.29.136
+Nombre : Marina
+Apellido : Gladysz
+Cargo : Empleada Administrativa
+Direccion : salcedo 678
+Ciudad : La Matanza
+Telefono : 4454-2830
+Email : marinagladysz@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : 	Buenos Aires, 17 de Junio de 2010
+
+Responsable de RR HH.
+
+	De mi mayor consideración, les envió mi Curriculum Vitae para que el mismo pueda ser considerado en futuras búsquedas de personal que realice su Organización.
+
+	En mi último empleo me he desempeñado como empleada Administrativa realizando tareas de Facturación, Gestión de cobranzas, Ventas, Atención al Cliente. Además poseo buen manejo de paquete office, tango gestión, internet y correo electrónico.
+
+	Esperando una respuesta favorable para poder concretar una entrevista personal y ampliar los datos incluidos en mi Curriculum, lo saludo cordialmente.
+
+								Marina E. Gladysz
+								marinagladysz@hotmail.com
+								15-3645-7800
+                                                                                                                  4454-2830
+
+Security_code : 9mtws
+Send : Enviar
+
+---------------
+
+Address : 190.220.163.125
+Nombre : oiu
+Apellido : poi
+Cargo : iuy
+Direccion : iuy
+Ciudad : uyt
+Telefono : 4444 4444
+Email : gfd@gfds.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : oiuytgfrd
+Security_code : h76x4
+Send : Enviar
+
+---------------
+

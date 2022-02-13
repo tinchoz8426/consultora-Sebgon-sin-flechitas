@@ -1,0 +1,50 @@
+Address : 181.167.118.76
+Nombre : Alejandro
+Apellido : Quevedo
+Cargo : Calidad- Ing. Químico
+Direccion : AV CABILDO 4486 5 A
+Ciudad : CABA
+Telefono : 1533614561
+Email : alejandrojquevedo@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Debido a mi constante búsqueda de crecimiento, le envío mi currículum vitae para que lo evalúe y me tenga en cuenta en caso de necesitar una persona con mi perfil.
+Soy Ingeniero Químico, titulado y mi objetivo es incorporarme a una organización, donde pueda aportar mi iniciativa y determinación en el logro de sus objetivos.
+ 
+Agradezco la gentileza de su atención  y quedando a la espera por sus comentarios, me suscribo cordialmente
+
+Ing. Alejandro Quevedo
+Security_code : 6wxpp
+Send : Enviar
+
+---------------
+
+Address : 181.230.106.234
+Nombre : Carolina Marisa 
+Apellido : Conde Dominguez
+Cargo : Gerente de Tienda
+Direccion : Matheu 3643 2° B
+Ciudad : San Martin
+Telefono : 1161807437
+Email : carolinacd5@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Muchas Gracias
+Security_code : 9k22p
+Send : Enviar
+
+---------------
+
+Address : 190.226.153.24
+Nombre : cristian
+Apellido : Monaco
+Cargo : mantenimiento 
+Direccion : marina alfaro 1169
+Ciudad : tucuman
+Telefono : 381 420 78 59
+Email : cristiangmonaco@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : en busca de trabajo
+Security_code : y63hz
+Send : Enviar
+
+---------------
+

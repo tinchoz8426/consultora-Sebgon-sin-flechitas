@@ -1,0 +1,64 @@
+Address : 190.138.39.190<br>
+ <br>Nombre : Diego Marcelo
+ <br>Apellido : Caraballlo
+ <br>Cargo : Empleado
+ <br>Direccion : Guemes 4186 
+ <br>Ciudad : C.A.B.A
+ <br>Telefono : 1168024046
+ <br>Email : diegomarcelocaraballo@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : CV
+ <br>Security_code : tz9k2
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.244.253.143<br>
+ <br>REF : JPL
+ <br>Nombre : Oreste 
+ <br>Apellido : Pereyra
+ <br>Cargo : jefe de planta
+ <br>Direccion : Lavalle 3154 4 A
+ <br>Ciudad : Victoria
+ <br>Telefono : 1564596073
+ <br>Email : pereyra.oreste@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados: envío mi CV para la búsqueda de Jefe de planta.
+Saludos cordiales
+Oreste 
+ <br>Security_code : xj5xs
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.49.179.207<br>
+ <br>Nombre : jorge damian
+ <br>Apellido : ramfos
+ <br>Cargo : licenciado en higiene y seguridad
+ <br>Direccion : moldes 185
+ <br>Ciudad : llavallol
+ <br>Telefono : 42981951
+ <br>Email : jorgeramfos@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas Noches, envío mi CV para su base datos. saludos
+ <br>Security_code : 2mrsn
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.19.128.65<br>
+ <br>REF : OEL
+ <br>Nombre : HORACIO
+ <br>Apellido : ROJAS
+ <br>Cargo : mantenimiento
+ <br>Direccion : IRALA 46
+ <br>Ciudad : CABA
+ <br>Telefono : 43071257
+ <br>Email : TECNICOELECTRICISTAYAA@HOTMAIL.COM
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : cv
+ <br>Security_code : kchjs
+ <br>Send : Enviar
+ <br>
+---------------
+

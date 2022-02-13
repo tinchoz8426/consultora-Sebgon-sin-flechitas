@@ -1,0 +1,182 @@
+Address : 200.61.140.60
+Nombre : Pablo
+Apellido : Fernandez
+Cargo : Analista Programador
+Direccion : Corrales 3400
+Ciudad : Autónoma de Buenos Aires
+Telefono : 49181340
+Email : pablofernandez2020@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : CV
+Security_code : 9d6xx
+Send : Enviar
+
+---------------
+
+Address : 190.174.50.114
+Nombre : Magalí Johanna
+Apellido : Werro
+Cargo : Recepcionista/Administrativa
+Direccion : Espinosa 3408
+Ciudad : Buenos Aires
+Telefono : 46942105
+Email : magaliwerro@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estoy a la espera de una entrevista.
+Security_code : qw6nt
+Send : Enviar
+
+---------------
+
+Address : 190.174.50.114
+Nombre : Magalí Johanna
+Apellido : Werro
+Cargo : Recepcionista/Administrativa
+Direccion : Espinosa 3408
+Ciudad : Buenos Aires
+Telefono : 46942105
+Email : magaliwerro@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estoy a la espera de una entrevista.
+Security_code : qw6nt
+Send : Enviar
+
+---------------
+
+Address : 190.97.30.115
+Nombre : Fernando Angel
+Apellido : Calamante
+Cargo : atencion al publico-administrativo deposito-tecnico superior en manejo ambiental
+Direccion : Almafuerte 486 1 d
+Ciudad : Bahia Blanca 
+Telefono : 291-154229996
+Email : fercala08@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : aca les mando mi cv desde ya muchas graciass!!
+Security_code : d2dm9
+Send : Enviar
+
+---------------
+
+Address : 190.97.30.115
+Nombre : Fernando Angel 
+Apellido : Calamante
+Cargo : de los que  tengo experiencia laboral 
+Direccion : Almafuerte 486 1 d
+Ciudad : Bahia Blanca 
+Telefono : 291-154229996
+Email : fercala08@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : buenas tardes aca les dejo mi cv muchas gracias!!
+Security_code : 96nnf
+Send : Enviar
+
+---------------
+
+Address : 186.135.0.24
+Nombre : francisco
+Apellido : viera
+Cargo : tecnico
+Direccion : pasaje belgrano 652
+Ciudad : buenos aires
+Telefono : 1161479390
+Email : francisco.viera@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : puestos de mantenimiento,electricidad, mecanica, electronica,afines. 
+Security_code : ptyfv
+Send : Enviar
+
+---------------
+
+Address : 190.183.145.48
+Nombre : MAIRA
+Apellido : GONZALEZ
+Cargo : ADMINISTRATIVO
+Direccion : JOSE HERNANDEZ 840
+Ciudad : RESISTENCIA
+Telefono : 3624709939
+Email : mairita_g_2@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : BUSCO TRABAJO
+DISPONIBILIDAD HORARIA Y DE MOVILIDAD
+Security_code : tynww
+Send : Enviar
+
+---------------
+
+Address : 201.254.63.110
+Nombre : Yamila Nahir
+Apellido : Porciani
+Cargo : Secretaria- administración-atención al cliente
+Direccion : Alvear 3013
+Ciudad : Buenos Aires
+Telefono : 46515132
+Email : yami.porciani@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Necesito trabajar. Brindo mis conocimientos y servicios para satifacer los objetivos  y necesidades de la empresa.
+Security_code : 62m77
+Send : Enviar
+
+---------------
+
+Address : 201.254.63.110
+Nombre : Yamila Nahir
+Apellido : Porciani
+Cargo : Secretaria- administración-atención al cliente
+Direccion : Alvear 3013
+Ciudad : Buenos Aires
+Telefono : 46515132
+Email : yami.porciani@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Necesito trabajar. Brindo mis conocimientos y servicios para satifacer los objetivos  y necesidades de la empresa.
+Security_code : 62m77
+Send : Enviar
+
+---------------
+
+Address : 201.254.63.110
+Nombre : Yamila Nahir
+Apellido : Porciani
+Cargo : Secretaria- administración-atención al cliente
+Direccion : Alvear 3013
+Ciudad : Buenos Aires
+Telefono : 46515132
+Email : yami.porciani@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Necesito trabajar. Brindo mis conocimientos y servicios para satifacer los objetivos  y necesidades de la empresa.
+Security_code : 62m77
+Send : Enviar
+
+---------------
+
+Address : 201.254.63.110
+Nombre : Yamila Nahir
+Apellido : Porciani
+Cargo : Secretaria- administración-atención al cliente
+Direccion : Alvear 3013
+Ciudad : Buenos Aires
+Telefono : 46515132
+Email : yami.porciani@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Necesito trabajar. Brindo mis conocimientos y servicios para satifacer los objetivos  y necesidades de la empresa.
+Security_code : 62m77
+Send : Enviar
+
+---------------
+
+Address : 186.18.87.144
+REF : TELE
+Nombre : Nahuel Ezequiel
+Apellido : Bazar
+Cargo : Telemarketer
+Direccion : Pasaje Marini 721
+Ciudad : Lanus
+Telefono : 4225-7703
+Email : nahubazar@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Aca dejo mi cv,para cualquier propuesta laboral acorde a mi experiencia , desde ya muchas gracias
+Security_code : 65v2w
+Send : Enviar
+
+---------------
+

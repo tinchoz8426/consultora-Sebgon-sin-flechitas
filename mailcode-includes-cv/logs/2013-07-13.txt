@@ -1,0 +1,56 @@
+Address : 201.250.35.51
+REF : administrativo-logistica
+Nombre : Guillermo Federico
+Apellido : Rojas Sack
+Cargo : Administrativo de Logistica
+Direccion : Santa MAria del Buen Aire 822
+Ciudad : CABA
+Telefono : 15-67-87-15-04
+Email : guille5com@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados Staff Sebgon Consultores:
+
+ 
+
+Tengo el gusto de remitirle mi currículum vitae con el objetivo de participar en el proceso de selección.
+
+Como puede apreciar en el mismo, soy estudiante avanzado en Logística y Transportes, y he realizado además un cursos en: Mercancías Peligrosas, Medio ambiente y atención al cliente.
+
+Poseo amplia experiencia en áreas operativas, administrativas y de coordinación, adquirida en importante operador logístico, brindando servicio a Laboratorios veterinarios.
+
+Security_code : tf4k8
+Send : Enviar
+
+---------------
+
+Address : 190.174.66.71
+Nombre : Ezequiel
+Apellido : lopez
+Cargo : operario
+Direccion : Av.Eva peron 473
+Ciudad : Temperley
+Telefono : 11 69194994
+Email : kele_74@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Desde ya muchas gracias
+Security_code : 7yddf
+Send : Enviar
+
+---------------
+
+Address : 190.174.66.71
+Nombre : Ezequiel
+Apellido : lopez
+Cargo : operario
+Direccion : Av.Eva peron 473
+Ciudad : Temperley
+Telefono : 11 69194994
+Email : kele_74@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Desde ya muchas gracias
+PD:puse operario pero necesito trabajar 
+Security_code : 7yddf
+Send : Enviar
+
+---------------
+

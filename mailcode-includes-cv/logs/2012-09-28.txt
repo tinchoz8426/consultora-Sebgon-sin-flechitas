@@ -1,0 +1,30 @@
+Address : 186.123.133.236
+Nombre : veronica
+Apellido : Cruz
+Cargo : Informes socioamientales
+Direccion : Gral Lonardi 55
+Ciudad : Salta
+Telefono : 1137014219
+Email : fermicruz@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Soy Trabajadora Social realizo informes socioambientales
+Security_code : rv2j6
+Send : Enviar
+
+---------------
+
+Address : 190.172.230.111
+Nombre : ricardo andres 
+Apellido : velasquez
+Cargo : operario
+Direccion : monte egmont 1972
+Ciudad : buenos aires
+Telefono : 1536949526
+Email : ricardovlasquez@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : en busca de un empleo muy practico para uso de herramientas 
+Security_code : z2ntv
+Send : Enviar
+
+---------------
+

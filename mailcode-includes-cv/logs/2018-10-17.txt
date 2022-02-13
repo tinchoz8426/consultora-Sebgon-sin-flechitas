@@ -1,0 +1,126 @@
+Address : 190.97.126.62<br>
+ <br>REF : JPER-1
+ <br>Nombre : Osvaldo
+ <br>Apellido : Pesolano
+ <br>Cargo : JPER-1
+ <br>Direccion : Guardia del Monte, 488
+ <br>Ciudad : San Miguel del Monte
+ <br>Telefono : 02215406368
+ <br>Email : oapesolano@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Quiero ser tenido en cuenta para cubrir la vacante solicitada, tengo experiencia, compromiso, lealtad y sobre todo ganas de trabajar
+ <br>Security_code : 5rkrg
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.141.136.126<br>
+ <br>REF : EM
+ <br>Nombre : Jean Carlos
+ <br>Apellido : Villamizar
+ <br>Cargo : electromecanico
+ <br>Direccion : calle bacacay flores 2532
+ <br>Ciudad : buenos aires caba
+ <br>Telefono : 1122527888
+ <br>Email : jeancarlosvillamizarjcv@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola buenos dias,les escribo para hacerles llegar mi cv. para optar al puesto de electro mecánico, soy técnico superior instrumentista industrial, con mas de 10 años de experiencia en electricidad, electrónica y mecanica indistrial.
+ <br>Security_code : fgvkj
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.46.36.134<br>
+ <br>Nombre : Natasha Yheniber Diamora
+ <br>Apellido : Ríos Mujica
+ <br>Cargo : Recepcionista
+ <br>Direccion : Rosales 250 Ramos Mejía La Matanza
+ <br>Ciudad : Ramos Mejia
+ <br>Telefono : 1122514996
+ <br>Email : Yheniber01@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estoy en búsqueda de un trabajo que me permita darles a mis hijos una estabilidad 
+ <br>Security_code : 7sz4v
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.22.104.35<br>
+ <br>REF : TEC. EL
+ <br>Nombre : Omar
+ <br>Apellido : Ambesi
+ <br>Cargo : TÉCNICOS ELECTRÓNICOS ESPECIALIZADOS
+ <br>Direccion : H. Guidi 954
+ <br>Ciudad : Lanus
+ <br>Telefono : 0111550099528
+ <br>Email : oambesi@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Ante quien corresponda:
+
+Por la presente me dirijo a usted con el fin de proponerme como colaborador en 
+vuestra empresa, y a tal fin adjunto mi curriculum vitae.
+Como podrá observar en él, soy Técnico en Electrónica y cuento con varios años 
+de experiencia en ventas, capacitación, mantenimiento y reparación de 
+instrumental analítico y de control.	
+Estoy dispuesto a incorporarme a su organización en forma inmediata para 
+desarrollar cualquier tarea en relación a mi especialidad.
+Espero que mi oferta sea valorada positivamente y que me convoquen para una 
+entrevista, en la cual podré ampliar la exposición de mis capacidades.
+
+
+Hasta entonces, reciba un atento saludo.
+
+
+Omar Ambesi
+
+ <br>Security_code : 9hprd
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.169.128.243<br>
+ <br>Nombre : erika
+ <br>Apellido : molina
+ <br>Cargo : técnico en obra o sala tecnica 
+ <br>Direccion : Ave. maipu 1864. Florida. Vicente Lopez Buenos Aires
+ <br>Ciudad : Maipú
+ <br>Telefono : 1139378473
+ <br>Email : erikamolina2002@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas tardes, aun esta en proceso el DNI pero tengo precaria.
+ <br>Security_code : fwxdq
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.17.98.82<br>
+ <br>Nombre : Ramon Antonio
+ <br>Apellido : Briceño Azuaje
+ <br>Cargo : Administrativo - Contable
+ <br>Direccion : AGUILAR 2493
+ <br>Ciudad : Colegiales
+ <br>Telefono : 1150119058
+ <br>Email : ramonb70@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Tengo 20 años de experiencia en manejo de sistemas administrativos y contables, control de gastos,cxp,cxc,armaco de balances, conocimientos Excel.
+ <br>Security_code : fzff9
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.17.77.70<br>
+ <br>REF : EM
+ <br>Nombre : prospero
+ <br>Apellido : marcano
+ <br>Cargo : electromecánico
+ <br>Direccion : baradero 56, Floresta
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 1127046970
+ <br>Email : aquamundis@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola Buen Día, me encantaría que me incluyeran en el proceso de selección de dicho puesto aquí les dejo mi curriculum para mayor información
+ <br>Security_code : ckd66
+ <br>Send : Enviar
+ <br>
+---------------
+

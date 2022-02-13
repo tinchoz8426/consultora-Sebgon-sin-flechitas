@@ -1,0 +1,183 @@
+Address : 181.27.181.14
+Nombre : Lorena
+Apellido : Soria
+Cargo : Tecnica Radiologa
+Direccion : Asamblea 1467
+Ciudad : Burzaco
+Telefono : 1551577512
+Email : lorenaps122@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Deseo desempeñarme como Tecnica Radiologa o realizando tareas administrativas.
+Security_code : bsk5q
+Send : Enviar
+
+---------------
+
+Address : 186.39.180.188
+Nombre : Lucia 
+Apellido : Luza Regueiro
+Cargo : Técnico en Ambiente
+Direccion : Edecio Correa 156 D:8
+Ciudad : Godoy Cruz
+Telefono : 011-15-31701308
+Email : lucialuzaregueiro@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Licenciada en Información Ambiental de la Universidad Nacional de Luján, tareas en relevamiento y evaluación de impacto ambiental, educación ambiental, colaboración en instituciones privadas y estatales en Dirección de Ambiente, recopilación de datos y colaboración en tareas de relevamiento y restauración de áreas degradadas y en aquellas que requieran evaluaciones previas a la instalación de actividades de desarrollo humano, entre otras.
+Security_code : xf598
+Send : Enviar
+
+---------------
+
+Address : 186.153.108.158
+Nombre : Angela Maria
+Apellido : Orozco Garcia
+Cargo : Comercial
+Direccion : Juramento 2700
+Ciudad : Ciudad Autónoma de Buenos Aires
+Telefono : 11 5722 0920
+Email : angelamariaorozco@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenas tardes 
+
+Me permito presentar para su análisis mi hoja de vida, en ella se encuentra una corta descripción de mi desarrollo académico y experiencia laboral.  Con trayectoria en agencias creativas,  gestión y planificación de estrategias
+
+Aspiración Salarial: AR$ 10.000
+
+Cordial saludo.
+Security_code : 7k7n7
+Send : Enviar
+
+---------------
+
+Address : 186.153.108.158
+Nombre : Angela Maria
+Apellido : Orozco Garcia
+Cargo : Comercial
+Direccion : Juramento 2700
+Ciudad : Ciudad Autónoma de Buenos Aires
+Telefono : 11 5722 0920
+Email : angelamariaorozco@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenas tardes 
+
+Me permito presentar para su análisis mi hoja de vida, en ella se encuentra una corta descripción de mi desarrollo académico y experiencia laboral.  Con trayectoria en agencias creativas,  gestión y planificación de estrategias
+
+Aspiración Salarial: AR$ 10.000
+
+Cordial saludo.
+Security_code : 7k7n7
+Send : Enviar
+
+---------------
+
+Address : 190.191.154.89
+Nombre : Cristian Emmanuel
+Apellido : Millán
+Cargo : Asistente de legales o afín
+Direccion : Callao 964 5 C
+Ciudad : Caba
+Telefono : 1131222548
+Email : cris.millann@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Soy una persona responsable, dinámica y con grandes ambiciones de crecimiento profesional.
+Security_code : 6dm94
+Send : Enviar
+
+---------------
+
+Address : 181.110.37.237
+Nombre : Gabriel
+Apellido : kuyuk
+Cargo : Recursos Humanos
+Direccion : Humada Ramella 143
+Ciudad : Apostoles Misiones
+Telefono : 03758-422083
+Email : gabrielkuyuk@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Le envio mi CV muchas gracias
+Security_code : fp9mq
+Send : Enviar
+
+---------------
+
+Address : 190.31.3.143
+Nombre : Eugenia
+Apellido : Acosta
+Cargo : Archivista
+Direccion : Castillo 549 2º D
+Ciudad : Ciudad Autónoma de Buenos Aires
+Telefono : 15 57490199
+Email : eugenia_am@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Sres. Sebgon:
+adjunto mi CV, soy archivista y data entry. A la espera de que se contacten conmigo, los saluda atte. Eugenia Acosta
+Security_code : j84t2
+Send : Enviar
+
+---------------
+
+Address : 190.225.185.54
+Nombre : Adriana
+Apellido : Gattinoni
+Cargo : Recepcionista,Administrativa,telefonista
+Direccion : A. Bellocq 3694 2° 15
+Ciudad : Olivos
+Telefono : 45192153
+Email : adrigattinoni@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje :  Adjunto le remito mi Curriculum Vitae para su consideración, y le manifiesto mi interés en participar en los procesos de selección que requieran de una persona de mis características.
+Cuento con experiencias anteriores en recepción, administración y encargada de local.
+Mi búsqueda laboral se encuentra orientada tanto en puestos similares a mi experiencia como al que usted me considere capas ya que estoy acostumbrada a trabajar en equipo, me considero una persona dinámica, con iniciativa y capacidad de organización,y de enfrentar nuevos desafíos.
+Le agradezco de antemano su atención y quedo a su disposición para mantener una entrevista cuando surja una posición que considere puede encajar con mi perfil.
+
+Atentamente, Adriana Gattinoni
+Security_code : 5sqfr
+Send : Enviar
+
+---------------
+
+Address : 190.192.202.196
+Nombre : Victor Yvan
+Apellido : Mercado
+Cargo : Analista de Empleos y Capcitación
+Direccion : Alavarez Thomas 2070 3ro. E
+Ciudad : Capital Federal
+Telefono : 0297154340104
+Email : victoryvan79@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Envío adjunto mi CV para su consideración en su base de datos, muchas gracias.
+Security_code : 7wcft
+Send : Enviar
+
+---------------
+
+Address : 190.192.202.196
+Nombre : Victor Yvan
+Apellido : Mercado
+Cargo : Analista de Empleos y Capcitación
+Direccion : Alavarez Thomas 2070 3ro. E
+Ciudad : Capital Federal
+Telefono : 0297154340104
+Email : victoryvan79@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Envío adjunto mi CV para su consideración en su base de datos, muchas gracias.
+Security_code : 78hz5
+Send : Enviar
+
+---------------
+
+Address : 190.225.201.141
+Nombre : Walter
+Apellido : Gimenez
+Cargo : Encargado de deposito
+Direccion : Tinogasta 3895
+Ciudad : C.A.B.A.
+Telefono : 1562300231
+Email : wmgimenez@live.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola, me comunico con ustedes a fin de acercarles mi CV, desde ya muchas gracias, Saluda atte. Walter Gimenez
+Security_code : s8x85
+Send : Enviar
+
+---------------
+

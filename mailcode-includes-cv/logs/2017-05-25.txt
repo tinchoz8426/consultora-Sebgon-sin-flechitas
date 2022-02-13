@@ -1,0 +1,131 @@
+Address : 190.195.57.24<br>
+ <br>Nombre : Joseph
+ <br>Apellido : Chami
+ <br>Cargo : Ingeniero electricista
+ <br>Direccion : General Mansilla 2844
+ <br>Ciudad : C.A.B.A.
+ <br>Telefono : 1127301014
+ <br>Email : chamicastillo1@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Ingeniero electricista con experiencia en mantenimiento industrial actualmente en CABA pero dispuesto a radicarme en provincia.
+ <br>Security_code : 4639r
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.195.57.24<br>
+ <br>REF : TE-1
+ <br>Nombre : Joseph
+ <br>Apellido : Chami
+ <br>Cargo : Técnico electromecánico
+ <br>Direccion : General Mansilla 2844
+ <br>Ciudad : C.A.B.A.
+ <br>Telefono : 1127301014
+ <br>Email : chamicastillo1@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Ingeniero electricista con experiencia en mantenimiento industrial, ensayos a motores eléctricos, inspección de equipos rotativos, vibraciones mecánicas y termografía.
+ <br>Security_code : gc82w
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.9<br>
+ <br>Nombre : Yésica
+ <br>Apellido : Vázquez
+ <br>Cargo : Entrevistas Domiciliarias
+ <br>Direccion : Onofrio 2904
+ <br>Ciudad : Lomas de Zamora
+ <br>Telefono : 1567402722
+ <br>Email : Yesicavazquez1989@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados,
+
+Me encuentro actualmente en la búsqueda laboral. Por este motivo, les hago llegar mi Currículum Vitae, a fin de ser tenida en cuenta como candidata. 
+
+Me considero una persona dinámica y muy responsable, con vocación de servicio y empática. 
+
+Soy licenciada en Trabajo Social, poseo disponibilidad horaria full-time y movilidad propia.
+Quedo a su disposición para ampliar cualquier información necesaria.
+Cordialmente,
+
+Yésica Vázquez.
+ <br>Security_code : Shfbp
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.9<br>
+ <br>Nombre : Yésica
+ <br>Apellido : Vázquez
+ <br>Cargo : Entrevistas Domiciliarias
+ <br>Direccion : Onofrio 2904
+ <br>Ciudad : Lomas de Zamora
+ <br>Telefono : 1567402722
+ <br>Email : Yesicavazquez1989@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados,
+
+Me encuentro actualmente en la búsqueda laboral. Por este motivo, les hago llegar mi Currículum Vitae, a fin de ser tenida en cuenta como candidata. 
+
+Me considero una persona dinámica y muy responsable, con vocación de servicio y empática. 
+
+Soy licenciada en Trabajo Social, poseo disponibilidad horaria full-time y movilidad propia.
+Quedo a su disposición para ampliar cualquier información necesaria.
+Cordialmente,
+
+Yésica Vázquez.
+ <br>Security_code : shfbp
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.7<br>
+ <br>Nombre : Yésica
+ <br>Apellido : Vázquez
+ <br>Cargo : Entrevistas Domiciliarias
+ <br>Direccion : Onofrio 2904
+ <br>Ciudad : Lomas de Zamora
+ <br>Telefono : 1567402722
+ <br>Email : Yesicavazquez1989@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados,
+
+Me encuentro actualmente en la búsqueda laboral. Por este motivo, les hago llegar mi Currículum Vitae, a fin de ser tenida en cuenta como candidata. 
+
+Me considero una persona dinámica y muy responsable, con vocación de servicio y empática. 
+
+Soy licenciada en Trabajo Social, poseo disponibilidad horaria full-time y movilidad propia.
+Quedo a su disposición para ampliar cualquier información necesaria.
+Cordialmente,
+
+Yésica Vázquez.
+ <br>Security_code : hh4pw
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.11<br>
+ <br>Nombre : Yésica
+ <br>Apellido : Vázquez
+ <br>Cargo : Entrevistas Domiciliarias
+ <br>Direccion : Onofrio 2904
+ <br>Ciudad : Lomas de Zamora
+ <br>Telefono : 1567402722
+ <br>Email : Yesicavazquez1989@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados,
+
+Me encuentro actualmente en la búsqueda laboral. Por este motivo, les hago llegar mi Currículum Vitae, a fin de ser tenida en cuenta como candidata. 
+
+Me considero una persona dinámica y muy responsable, con vocación de servicio y empática. 
+
+Soy licenciada en Trabajo Social, poseo disponibilidad horaria full-time y movilidad propia.
+Quedo a su disposición para ampliar cualquier información necesaria.
+Cordialmente,
+
+Yésica Vázquez.
+ <br>Security_code : 7vz69
+ <br>Send : Enviar
+ <br>
+---------------
+

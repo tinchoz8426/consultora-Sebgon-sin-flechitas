@@ -1,0 +1,48 @@
+Address : 186.124.189.7
+REF : jefe-de-operaciones
+Nombre : Georgina
+Apellido : Videla
+Cargo : mantenimiento
+Direccion : Calle Publica S/N Mza 39 Lote 16 Bº Posta de vargas cod. postal 5016
+Ciudad : cordoba
+Telefono : 0351-153949687
+Email : georginavidela@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : le adjunto mi curiculum vitae con el fin de hacerle llegar mis datos para que usted pueda considerarme una postulante mas deacuerdo a mi pefil
+desde ya muchas gracias
+Georgina Videla
+Security_code : 32yc9
+Send : Enviar
+
+---------------
+
+Address : 190.176.142.188
+Nombre : KAREN DANIELA 
+Apellido : CARLETTO
+Cargo : cajera,repositora,venta de ropa
+Direccion : jose maria godoy 179
+Ciudad : las heras
+Telefono : 0261 4375626
+Email : pompina10@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : BUSCO TRABAJO PART TIME,PARA FINES DE SEMANA O MEDIO DIA YA QUE NECESITO PAGARME LOS ESTUDIOS TERCIARIOS.
+Security_code : tK5rf
+Send : Enviar
+
+---------------
+
+Address : 190.176.142.188
+Nombre : KAREN DANIELA 
+Apellido : CARLETTO
+Cargo : cajera,repositora,venta de ropa
+Direccion : jose maria godoy 179
+Ciudad : las heras,mendoza
+Telefono : 0261 4375626
+Email : pompina10@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : busco trabajo part time,ya que necesito pagar mis estudios terciarios.
+Security_code : yjtyj
+Send : Enviar
+
+---------------
+

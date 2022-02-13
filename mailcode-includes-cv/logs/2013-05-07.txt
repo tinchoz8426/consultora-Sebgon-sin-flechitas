@@ -1,0 +1,45 @@
+Address : 190.105.40.30
+Nombre : sabrina
+Apellido : fernandez del campo
+Cargo : cajera
+Direccion : aristobulo del valle
+Ciudad : moreno
+Telefono : 1134742009
+Email : sabry_1505@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : hola buenos dias disculpen las molestias me dirijo a ustds con el fin de encontrar trabajo les envió mi cv con mis experiencias y datos personales espero seguir en contacto y lograr mi objetivo desde ya muchas gracias sabrina
+Security_code : 62mnw
+Send : Enviar
+
+---------------
+
+Address : 190.138.89.198
+Nombre : Josue Oscar Alfredo
+Apellido : Betancur 
+Cargo : Tecnico en Higiene y Seguridad Laboral
+Direccion : Carlos Araoz 414
+Ciudad : Salta 
+Telefono : 0387 4999168 o 0387 155421100
+Email : josueoscarbetancur@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estoy a disposicion a la pronta insercion laboral
+Security_code : qh6s2
+Send : Enviar
+
+---------------
+
+Address : 190.48.150.70
+Nombre : julieta
+Apellido : cardone
+Cargo : administrativo
+Direccion : einstein 472
+Ciudad : buenos aires
+Telefono : 1161667028
+Email : julicardo_04@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenas tardes, me contacto con ustedes a fin de poder presentarles mi cv. Espero respuesta, mis saludos cordiales.
+Security_code : dtyvg
+Send : Enviar
+
+---------------
+

@@ -1,0 +1,139 @@
+Address : 181.46.98.21<br>
+ <br>Nombre : Yanina
+ <br>Apellido : Gonzalez
+ <br>Cargo : Trabajadora Social
+ <br>Direccion : República Argentina 310
+ <br>Ciudad : Ezeiza
+ <br>Telefono : 1151575607
+ <br>Email : yani_se84@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buen día.Adjunto mi curriculum vitae por oferta laboral de su consultora. Desde ya muchas gracias.
+ <br>Security_code : 9jw6p
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 170.247.143.227<br>
+ <br>REF : TE-1
+ <br>Nombre : José Wladimir
+ <br>Apellido : Zambrano Sánchez
+ <br>Cargo : Técnico Electricista (TE-1)
+ <br>Direccion : Alsina 2885
+ <br>Ciudad : Olavarria
+ <br>Telefono : 2616795139
+ <br>Email : megawlazams@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados,
+
+Técnico con disponibilidad de trabajar en cualquier parte del país, cualquier horario y de viajar
+ <br>Security_code : 6vtdt
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 170.247.143.227<br>
+ <br>Nombre : Carlos Lenin
+ <br>Apellido : Moncada Sanchez
+ <br>Cargo : Ingeniero Mecánico
+ <br>Direccion : Alsina 2885
+ <br>Ciudad : Olavarria
+ <br>Telefono : 2284609316
+ <br>Email : cmoncada2008@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Profesional con la capacidad de trabajar en cualquier parte del país, cualquier horario y de viajar
+ <br>Security_code : 2vkrd
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 179.36.201.176<br>
+ <br>REF : ROT-1
+ <br>Nombre : Ronald Alejandro 
+ <br>Apellido : Muñoz
+ <br>Cargo : ROT-1
+ <br>Direccion : Monseñor Bufano 4454
+ <br>Ciudad : La Tablada
+ <br>Telefono : 1138341237
+ <br>Email : ramgmec@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : me postulo a la oferta 
+ <br>Security_code : rcbky
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.104.239.26<br>
+ <br>Nombre : Juan carlos
+ <br>Apellido : Ascanio gonzalez
+ <br>Cargo : Analista
+ <br>Direccion : Juan Domingo Peron 1554
+ <br>Ciudad : Buenos aires 
+ <br>Telefono : 5491121612614
+ <br>Email : ascaniojca@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Licenciado en Administración y Técnico Superior Universitario En Comercio Exterior. 
+ <br>Security_code : Bjzwr
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.104.239.26<br>
+ <br>Nombre : Juan carlos
+ <br>Apellido : Ascanio gonzalez
+ <br>Cargo : Analista
+ <br>Direccion : Juan Domingo Peron 1554
+ <br>Ciudad : Buenos aires 
+ <br>Telefono : 5491121612614
+ <br>Email : ascaniojca@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Licenciado en Administración y Técnico Superior Universitario En Comercio Exterior. 
+ <br>Security_code : bjzwr
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.104.239.26<br>
+ <br>Nombre : Juan carlos
+ <br>Apellido : Ascanio gonzalez
+ <br>Cargo : Analista
+ <br>Direccion : Juan Domingo Peron 1554
+ <br>Ciudad : Buenos aires 
+ <br>Telefono : 5491121612614
+ <br>Email : ascaniojca@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Licenciado en Administración y Técnico Superior Universitario En Comercio Exterior. 
+ <br>Security_code : bjZWr
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.104.239.26<br>
+ <br>Nombre : Juan carlos
+ <br>Apellido : Ascanio gonzalez
+ <br>Cargo : Analista
+ <br>Direccion : Juan Domingo Peron 1554
+ <br>Ciudad : Buenos aires 
+ <br>Telefono : 5491121612614
+ <br>Email : ascaniojca@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Licenciado en Administración de Recursos Materiales y Financieros y Técnico Superior universitario en Comercio exterior
+ <br>Security_code : g5c3c
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.104.239.26<br>
+ <br>Nombre : Juan carlos
+ <br>Apellido : Ascanio gonzalez
+ <br>Cargo : Analista
+ <br>Direccion : Juan Domingo Peron 1554
+ <br>Ciudad : Buenos aires 
+ <br>Telefono : 5491121612614
+ <br>Email : ascaniojca@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Licenciado en Administración de Recursos Materiales y Financieros y Técnico Superior universitario en Comercio exterior
+ <br>Security_code : g5c3c
+ <br>Send : Enviar
+ <br>
+---------------
+

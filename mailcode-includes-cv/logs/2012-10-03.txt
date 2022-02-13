@@ -1,0 +1,118 @@
+Address : 190.17.154.207
+Nombre : María Clara
+Apellido : Perkins
+Cargo : Comunicación - Prensa - RR.PP.
+Direccion : Oncativo 159
+Ciudad : Ramos Mejía
+Telefono : 15-5937-6147
+Email : claraperkins@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Les escribo para enviarles mi curriculum vitae.
+Soy Licenciada en Comunicación Social y estoy buscando un nuevo desafío profesional en una empresa donde pueda plasmar todos mis conocimientos y en la cual pueda continuar adquiriendo mayor experiencia.
+
+Desde ya muchas gracias y espero tengan a bien considerar mi cv ante cualquier búsqueda para el área de Comunicación.
+
+Saludos cordiales,
+María Clara Perkins
+
+Security_code : z8qjv
+Send : Enviar
+
+---------------
+
+Address : 186.58.68.219
+Nombre : Camila Laura
+Apellido : Argañaras
+Cargo : Construccion
+Direccion : Malaspina 662
+Ciudad : Hurlingham
+Telefono : 44596304
+Email : camila.arganaras@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : De mi mayor consideración: 
+Tengo el agrado de dirigirme a Uds. con el fin de transmitirles mi deseo de incorporarme al ámbito laboral. A tal efecto, adjunto a la presente, mi CV.
+Security_code : 9k5mw
+Send : Enviar
+
+---------------
+
+Address : 186.56.225.161
+Nombre : Patricia
+Apellido : Díaz
+Cargo : Prof. para socio ambientales
+Direccion : Solís 1262
+Ciudad : Merlo
+Telefono : 0220 4821321/1566728694
+Email : patriciandiaz@yahoo.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me dirijo a ud. a fin de postularme  para el empleo publicado oportunamente por uds.
+en Computrabajo, solicitando profesionales para realizar entrevistas en la
+zona de Pilar o partidos aledaños de zona oeste.
+Pongo a su consideración el CV que adjunto.
+Sin otro particular, saludo a ud. cordialmente.
+
+Security_code : 2rq6m
+Send : Enviar
+
+---------------
+
+Address : 190.1.15.128
+Nombre : Angel
+Apellido : Villarreal
+Cargo : Tesnico - supervisor de seguridad e higiene
+Direccion : manuel molinda 1637
+Ciudad : bahia blanca
+Telefono : 291-154467961
+Email : nanito_mb@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estoy cursando la carrera de seguridad e higiene. Me gustaria cambiar de trabajo y encontrar uno que este relacinado con mi carrera
+Security_code : 8hvk2
+Send : Enviar
+
+---------------
+
+Address : 186.123.133.250
+Nombre : Maria Belen 
+Apellido : Angeli
+Cargo : administrativo, telefonista, secretaria, vendedora, cajera.
+Direccion : avellaneda 654
+Ciudad : cordoba
+Telefono : (0351) 155200971
+Email : mariabelenangeli@hotmail.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : estoy en la busqueda de un trabajo de secretaria, administrativa, telefonista, trabaje 3 años en una empresa en la ciudad de san fco cba, y actualmente estoy terminando de estudiar secretariado ejacutivo. desde ya les agradezco saludos atte Maria Belen Angeli.
+Security_code : 4tk4m
+Send : Enviar
+
+---------------
+
+Address : 186.123.133.250
+Nombre : maria belen 
+Apellido : angeli
+Cargo : administrativa,telefonista,secretara, vendedora,cajera
+Direccion : avellaneda 654
+Ciudad : cordoba
+Telefono : (0351)155200971
+Email : mariabelenangeli@hotmail.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : estoy en la busqueda de un trabajo administrativo, telefonsta, secretaria, trabaje 3 años en este puesto en una empresa de san fco cba, tambien he trabajado de vendedora, encargada, y cajera de un negoco de ropa en la ciudad de cba capital, 3 años.desde ya les agradezco por su tiempo saludos atte maria belen angeli.
+Security_code : j79zs
+Send : Enviar
+
+---------------
+
+Address : 190.195.23.123
+Nombre : santiago
+Apellido : guerrero
+Cargo : Analista, consultor, Supervisor
+Direccion : Coronel diaz 1875
+Ciudad : Buenos Aires
+Telefono : 48234514
+Email : santiago271279@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Tengo experiencia en consultoria, nomina, negociacion y todos los sub sistemas de RRHH.Soy de Venezuela y estoy en Blanco
+Security_code : pv7wd
+Send : Enviar
+
+---------------
+

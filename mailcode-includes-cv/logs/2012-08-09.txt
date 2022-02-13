@@ -1,0 +1,100 @@
+Address : 200.50.250.217
+Nombre : Jose Luis
+Apellido : Maldonado
+Cargo : tareas generales
+Direccion : Calle sargento martinez nº 725
+Ciudad : El Calafate Sta Cruz
+Telefono : 02902-495864
+Email : luisitoglaciar@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : les comento en estos momentos estoy desempleado y necesito trabajar, he trabajado en varias empresas como:Goty,Esuco,Rodamix,Esuco JCR UTE2 Y Eclesur.Desempeñandome en tareas de ayudante, y mis espectativas de trabajo son:poder desempeñarme con exito a la labor q se me decigne y dispuesto aprender día a día muchas gracias. mi celu:02966-15521136
+Security_code : 7ch57
+Send : Enviar
+
+---------------
+
+Address : 190.210.90.225
+Nombre : Lorena Laura
+Apellido : Santiago
+Cargo : Abogada
+Direccion : Av. Nazca 3177 4 47
+Ciudad : capital federal
+Telefono : 156-516-2413
+Email : lorena_l_santiago@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Les envío mi curriculum a fin de me tengan en cuenta en el caso de que surja algún puesto de trabajo que se adecue a mi perfil. Desde ya muchas gracias y esperando una respuesta favorable saluda a UD., muy Atte. Lorena Santiago.
+Security_code : d8dd2
+Send : Enviar
+
+---------------
+
+Address : 186.129.249.235
+REF : tecnico-quimico
+Nombre : Nicolas 
+Apellido : ceballos
+Cargo : tecnico-quimico
+Direccion : o´higgins
+Ciudad : san vicente
+Telefono : 1166670287
+Email : analiakc@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : soy tecnico quimico, tec en higiene, seg, calidad y gest ambiental, experiencia como supervisor, jefe de planta, etc
+Security_code : nkbxm
+Send : Enviar
+
+---------------
+
+Address : 190.31.73.127
+Nombre : Gonzalo Martin
+Apellido : Fernandez
+Cargo : cargo disponible
+Direccion : Gabriela Mistral 4665
+Ciudad : Cordoba
+Telefono : 3512140140
+Email : tincho_cba13@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Tengo el agrado de dirigirme a Ud con el objeto de participar en búsquedas acordes a mi perfil en su empresa. Adjunto le remito mi Curriculum Vitae para que me incluyeran en su base de datos por si se produjera alguna vacante o si tuvieran intención de ampliar su plantilla.
+
+Me considero proactivo y con capacidad para formar parte de un equipo de trabajo. En estos momentos me encuentro con absoluta disponibilidad horaria para realizar turnos o jornadas rotativas.
+
+Quedo a su entera disposición ante una eventual entrevista personal con el objetivo de profundizar aspectos de mi perfil que resulten de su interés.
+
+Sin otro particular, aprovecho esta oportunidad para saludarlo cordialmente.
+
+Security_code : snhs4
+Send : Enviar
+
+---------------
+
+Address : 190.231.130.44
+Nombre : Mónica Liliana
+Apellido : Aramayo
+Cargo : Técnico en laboratorio
+Direccion : Hipólito Irigoyen 920 - Rosario de Lerma
+Ciudad : Salta
+Telefono : 0387-4932076
+Email : mony_725_salta@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Mi objetivo laboral esta ligado específicamente a incorporarme a una empresa en la cual pueda desempeñarme.
+En tal sentido estoy convencida de que puedo realizar un gran aporte con mi trabajo, ya que, con mi experiencia y aptitudes me predispongo a ejecutarlo con gran responsabilidad y honestidad, procurando siempre la mejora continua del Servicio brindado. 
+Security_code : 3j5rw
+Send : Enviar
+
+---------------
+
+Address : 186.57.161.229
+REF : jefe-de-operaciones
+Nombre : edith
+Apellido : romano
+Cargo : administrativa contable
+Direccion : santa maria 1248
+Ciudad : moron
+Telefono : 46965609 / 1535976981
+Email : edithromano07@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Me gustaría postularme para administrativa, preferente para el área contable.
+Security_code : nj4p6
+Send : Enviar
+
+---------------
+

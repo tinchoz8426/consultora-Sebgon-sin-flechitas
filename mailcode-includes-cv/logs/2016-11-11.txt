@@ -1,0 +1,60 @@
+Address : 190.178.80.231<br>
+ <br>Nombre : Dario martin
+ <br>Apellido : Paredes
+ <br>Cargo : Técnico en seguridad e higiene; maestro mayor de obras 
+ <br>Direccion : Alfonsin 651 dto 3
+ <br>Ciudad : Rio gallegos 
+ <br>Telefono : 2966-332108
+ <br>Email : mmomartin@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola buen día me postuló para cualquier trabajo.  Gracias 
+ <br>Security_code : vxs9n
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.62.2.73<br>
+ <br>Nombre : Gema Grisel
+ <br>Apellido : Germsek
+ <br>Cargo : Licenciada en Trabajo Social
+ <br>Direccion : San vicente 590
+ <br>Ciudad : Avellaneda
+ <br>Telefono : 43531216
+ <br>Email : gergrisel@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me dirijo a ud en relación al requerimiento de esa empresa en la búsqueda de Lic. en Trabajo Social y retirado de la Fuerza , en virtud de que cuento con los dos requisito, ya que soy Lic. en Trabajo Social y personal retirada de la Policía Federal Argentina, y adema mis estudios secundarios los realice en el Liceo Naval Militar Don. Francisco de Gurruchaga (en la provincia de Salta). Trabajo con y para la comunidad desde hace más de 17 años, dentro de la Policía Federal. Trabajar con la sociedad desde adentro es lo que me llevo a estudiar es carrera. Mi intención es involucrarme para estudiar los problemas sociales  e individuales de la ciudadanía y desde allí establecer estrategia de trabajo que ayuden a mejorar la realidad. Con respecto al lugar laboral, si bien yo resido en la Pcia. De Bs. As., tengo posibilidad de trasladarme y ubicarme residencialmente en la Pcia. De Salta.
+ <br>Security_code : 8w8sx
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.7.251.186<br>
+ <br>Nombre : Maria celeste
+ <br>Apellido : Herrera
+ <br>Cargo : Lic. Trabajo social
+ <br>Direccion : 77 n71
+ <br>Ciudad : Mercedes bs.as.
+ <br>Telefono : 0232415539392
+ <br>Email : Mariacelesteherrera31@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas tardes adjunto mi CV, para la búsqueda de trabajadores sociales para la realización de informes ambientales. Muchas gracias!
+ <br>Security_code : SqjYj
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.7.251.186<br>
+ <br>Nombre : Maria celeste
+ <br>Apellido : Herrera
+ <br>Cargo : Lic. Trabajo social
+ <br>Direccion : 77 n71
+ <br>Ciudad : Mercedes bs.as.
+ <br>Telefono : 0232415539392
+ <br>Email : Mariacelesteherrera31@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas tardes adjunto mi CV, para la búsqueda de trabajadores sociales para la realización de informes ambientales. Muchas gracias!
+ <br>Security_code : Sqjyj
+ <br>Send : Enviar
+ <br>
+---------------
+

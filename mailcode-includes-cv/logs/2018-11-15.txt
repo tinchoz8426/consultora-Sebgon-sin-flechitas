@@ -1,0 +1,117 @@
+Address : 190.99.113.250<br>
+ <br>REF : EM
+ <br>Nombre : Alejandro Daniel
+ <br>Apellido : Calandra
+ <br>Cargo : Tecnico electromecanico
+ <br>Direccion : Newton 2480
+ <br>Ciudad : moreno
+ <br>Telefono : 01141756007
+ <br>Email : a.d.calandra@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Electricidad industrial
+Robótica
+Mecánica automotriz
+Mantenimiento edilicio
+
+ <br>Security_code : 57crg
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.183.58.188<br>
+ <br>Nombre : CARLA
+ <br>Apellido : GARAY
+ <br>Cargo : ADMINISTRATIVA
+ <br>Direccion : CARLOS PELLEGRINI194 10B
+ <br>Ciudad : PARANA
+ <br>Telefono : 0343- 155168616
+ <br>Email : carlagaray626@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buen dia me inscribo para incorporaciones.Gracias
+ <br>Security_code : cfwzn
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.229.80.164<br>
+ <br>REF : EM
+ <br>Nombre : Jose Gregorio
+ <br>Apellido : Mijares
+ <br>Cargo : Electromecanico
+ <br>Direccion : Baldomero Fernandez Moreno 1143
+ <br>Ciudad : Capital Federal
+ <br>Telefono : 01137670865
+ <br>Email : josemijaresgm1@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Soy Ingeniero Mecatronico con amplios conocimientos y experiencias en electronmecánica
+ <br>Security_code : v2xns
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.27<br>
+ <br>Nombre : Alexis Exequiel
+ <br>Apellido : Lambrecht Bordenabe
+ <br>Cargo : Operario
+ <br>Direccion : Uruguay 1480
+ <br>Ciudad : Pilar 
+ <br>Telefono : 1123695529
+ <br>Email : exequiel.selene@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenos días ando en la búsqueda de trabajo para poder mantener a mí familia 
+ <br>Security_code : Smwbw
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.139.233.98<br>
+ <br>REF : ROT-1
+ <br>Nombre : Emiliano
+ <br>Apellido : Barba
+ <br>Cargo : Responsable de Oficina Técnica
+ <br>Direccion : Valentín Vergara
+ <br>Ciudad : VICENTE LOPEZ (CP=1638)
+ <br>Telefono : 1560553142
+ <br>Email : emilianobarba@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas tardes
+
+Adjunto mi CV en respuesta a la búsqueda de Responsable de Of. Técnica.
+
+Muchas gracias
+ <br>Security_code : 52n2m
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.252.28.96<br>
+ <br>REF : EP-1
+ <br>Nombre : Javier
+ <br>Apellido : Sayous
+ <br>Cargo : Encargado de produccion
+ <br>Direccion : Maturin 2365
+ <br>Ciudad : C.A.B.A
+ <br>Telefono : 1535979428
+ <br>Email : javier_1962@hotmail.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me dirijo a ustedes para solicitar el puesto de encargado de producción. Poseo una vasta experiencia en la industria alimenticia tanto en el área de producción como de calidad
+ <br>Security_code : 975kq
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.190.136.174<br>
+ <br>Nombre : rolando jonatan
+ <br>Apellido : tintilay
+ <br>Cargo : al q crea conveniente
+ <br>Direccion : manuel corte 1275 b° alto comedero 
+ <br>Ciudad : san salvador de jujuy
+ <br>Telefono : 4272404
+ <br>Email : ro_jonise@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : hola quería postularme para la próxima selección de personal en la provincia de Jujuy , adjunto mi curriculum vitae . desde ya muchas gracias por su atención.
+ <br>Security_code : ksb36
+ <br>Send : Enviar
+ <br>
+---------------
+

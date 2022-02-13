@@ -1,0 +1,63 @@
+Address : 190.6.252.25
+REF : OEL
+Nombre : walter
+Apellido : guadia
+Cargo : oficial
+Direccion : buenos aires 230
+Ciudad : tortuguitas
+Telefono : 1139105906
+Email : walterguadia-@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : hola que tal,mi nombre walter, yo soy electricista oficial, tambien hago trabajos de a.acond., pintura, y albañil, les dejo ese dato por si hay trabajos de mantenimiento,edif, hoteles,fabricas. muchas gracias.saludos.
+Security_code : fyryf
+Send : Enviar
+
+---------------
+
+Address : 186.58.178.245
+REF : GTEP
+Nombre : Nestor Abel
+Apellido : Salomón
+Cargo : Gerente
+Direccion : Rivadavia 8509
+Ciudad : CABA
+Telefono : 1535655322
+Email : nestorsalomon2000@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados,
+Con el presente adjunto un CV, es respuesta a la propuesta.
+Security_code : 5975m
+Send : Enviar
+
+---------------
+
+Address : 190.55.135.60
+Nombre : Carolina
+Apellido : Marchesoli
+Cargo : Abogada
+Direccion : Catamarca 2114
+Ciudad : Lanus
+Telefono : 42621383
+Email : caromarche@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto Curriculum Vitae para su consideración.
+Security_code : gb6fy
+Send : Enviar
+
+---------------
+
+Address : 190.55.135.60
+Nombre : Carolina
+Apellido : Marchesoli
+Cargo : Abogada
+Direccion : Catamarca 2114
+Ciudad : Lanus
+Telefono : 42621383
+Email : caromarche@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto Curriculum Vitae para su consideración.
+Security_code : 4d9tw
+Send : Enviar
+
+---------------
+

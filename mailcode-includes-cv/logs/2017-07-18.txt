@@ -1,0 +1,116 @@
+Address : 200.59.140.241<br>
+ <br>Nombre : marcela
+ <br>Apellido : gimenez
+ <br>Cargo : Informatica
+ <br>Direccion : marquez de loreto 3385
+ <br>Ciudad : castelar
+ <br>Telefono : 1158559800
+ <br>Email : march3_0@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenos días me encuentro a la búsqueda de nuevos desafíos.
+
+ <br>Security_code : nwqbw
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 200.59.140.241<br>
+ <br>Nombre : marcela
+ <br>Apellido : gimenez
+ <br>Cargo : Informatica
+ <br>Direccion : marquez de loreto 3385
+ <br>Ciudad : castelar
+ <br>Telefono : 1158559800
+ <br>Email : march3_0@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenos días me encuentro a la búsqueda de nuevos desafíos.
+
+ <br>Security_code : nwqbw
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 200.59.140.241<br>
+ <br>Nombre : marcela
+ <br>Apellido : gimenez
+ <br>Cargo : Informatica
+ <br>Direccion : marquez de loreto 3385
+ <br>Ciudad : castelar
+ <br>Telefono : 1158559800
+ <br>Email : march3_0@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenos días me encuentro a la búsqueda de nuevos desafíos.
+
+ <br>Security_code : nvvqbvv
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 200.59.140.241<br>
+ <br>Nombre : marcela
+ <br>Apellido : gimenez
+ <br>Cargo : Informatica
+ <br>Direccion : marquez de loreto 3385
+ <br>Ciudad : castelar
+ <br>Telefono : 1158559800
+ <br>Email : march3_0@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenos días me encuentro a la búsqueda de nuevos desafíos.
+
+ <br>Security_code : bgd3vv
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.9<br>
+ <br>REF : ROT-1
+ <br>Nombre : Fernando
+ <br>Apellido : Alvarez
+ <br>Cargo : Responsable de oficina tecnica
+ <br>Direccion : Av Fair 1495 condominio los robles
+ <br>Ciudad : El jaguel
+ <br>Telefono : 1565886145
+ <br>Email : Fernandoarielalvarez@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Fernando alvarez
+Postulación puesto de responsable de oficina tecnica
+ <br>Security_code : jj5j3
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.231.186.52<br>
+ <br>REF : EP-1
+ <br>Nombre : JOSE ANTONIO
+ <br>Apellido : GONZALEZ CLEMENTE
+ <br>Cargo : ENCARGADO DE PRODUCCION
+ <br>Direccion : CALLE COLOMBRES 257, ENTRE AVENIDA RIVADAVIA Y BELGRANO. ALMAGRO
+ <br>Ciudad : BUENOS AIRES
+ <br>Telefono : 549 1121721236
+ <br>Email : jose.gonzalez.clemente@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Poseeo experiencia en el area
+ <br>Security_code : y4wzg
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.192.25.46<br>
+ <br>REF : ROT-1
+ <br>Nombre : Mauricio
+ <br>Apellido : Gonzales Quint
+ <br>Cargo : RESPONSABLE DE OFICINA TECNICA 
+ <br>Direccion : Pellegrini 1055
+ <br>Ciudad : Buenos Aires CABA
+ <br>Telefono : 1550281147
+ <br>Email : mauri_gq@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados,
+Adjunto mi CV para que puedan tomarme en cuenta para formar parte de su equipo.
+Saludos Cordiales,
+Mauricio Gonzales Quint
+ <br>Security_code : g3y2x
+ <br>Send : Enviar
+ <br>
+---------------
+

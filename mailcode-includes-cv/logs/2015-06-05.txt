@@ -1,0 +1,257 @@
+Address : 190.49.105.39
+Nombre : Rodrigo Josue
+Apellido : Gonzalez
+Cargo : repositor
+Direccion : rizzuto 91
+Ciudad : Mar Del Plata
+Telefono : 0223 4700948
+Email : ro_la12_mdq@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenos dias, me gustaria ser tenido en cuenta, para un puesto como repositor o cajero, no dispongo mucha experiencia en estos puestos, pero quiero aprender, tengo disponibilidad horaria, y muchas ganas de trabajar. Muchas gracias, espero ser tenido en cuenta. Saludos.
+Security_code : w28bs
+Send : Enviar
+
+---------------
+
+Address : 190.49.105.39
+Nombre : Rodrigo Josue
+Apellido : Gonzalez
+Cargo : repositor
+Direccion : rizzuto 91
+Ciudad : Mar Del Plata
+Telefono : 0223 4700948
+Email : ro_la12_mdq@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenos dias, me gustaria ser tenido en cuenta, para un puesto como repositor o cajero, no dispongo mucha experiencia en estos puestos, pero quiero aprender, tengo disponibilidad horaria, y muchas ganas de trabajar. Muchas gracias, espero ser tenido en cuenta. Saludos.
+Security_code : w28bs
+Send : Enviar
+
+---------------
+
+Address : 186.134.25.82
+Nombre : Yanina Laura
+Apellido : Giardinieri
+Cargo : Recepcion,Atencion al publico,Secretaria
+Direccion : Pichincha 1053
+Ciudad : Castelar
+Telefono : 1557031695
+Email : giardinieri@hotmail.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Soy una persona dinamica,responsable y con ganas de trabajar
+Security_code : rsr92
+Send : Enviar
+
+---------------
+
+Address : 186.134.25.82
+Nombre : Yanina Laura
+Apellido : Giardinieri
+Cargo : Recepcion,Atencion al publico,Secretaria
+Direccion : Pichincha 1053
+Ciudad : Castelar
+Telefono : 1557031695
+Email : giardinieri@hotmail.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Soy una persona dinamica,responsable y con ganas de trabajar
+Security_code : rsr92
+Send : Enviar
+
+---------------
+
+Address : 181.46.169.40
+REF : GT PL
+Nombre : Marcos Esteban
+Apellido : Fazio
+Cargo : Gerente de Planta
+Direccion : Emilio Mitre 1036
+Ciudad : Haedo
+Telefono : 155-489-5323
+Email : marcos.fazio@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : De mi consideración:
+ 
+Me dirijo a Ud. con el fin de presentarme y adjuntarle mi Currículum Vitae para ser tenido en cuenta en la bùsqueda de referencia.
+ 
+Soy especialista en procesos de Calidad y Manufactura con una visión integral de la Supply Chain. He liderado equipos multidisciplinarios bajo la filosofía T.P.M., promoviendo cambios culturales y la optimización de procesos. 
+Deseo continuar mi desarrollo profesional en una posición de responsabilidad en la que pueda aportar valor y poner en práctica la experiencia y conocimientos adquiridos durante mis veintitres años de experiencia en empresas de primera línea.
+ 
+Quedo a su disposición para concertar una entrevista personal y así poder ampliar todo detalle que considere necesario.
+            
+Me despido muy atte. y agradezco su atención.
+
+Marcos Fazio
+Security_code : hr74q
+Send : Enviar
+
+---------------
+
+Address : 181.31.49.3
+REF : GT PL
+Nombre : Eduardo
+Apellido : Del Médico
+Cargo : Gerente de Planta
+Direccion : Dean Funes 2001 - Barrio San Marco
+Ciudad : Ing. Maschwitz
+Telefono : 1551343262
+Email : edelmedico@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Mi nombre es Eduardo Del Médico,  soy Ingeniero Electromecánico egresado de la Universidad de Bs. As. 
+Poseo gran experiencia en el área de Manufactura de productos de consumo masivo, adquirida en las multinacionales Unilever Bestfoods S.A.  y  Godrej Argentina S.A.  
+Algunos de mis logros fueron:
+- Puesta en marcha  de una planta de productos asépticos. (Bestfood)
+- Coordinar el Proyecto de ampliación de capacidad de la Planta. (Bestfood)
+- Implementar el Mantenimiento Autónomo en Planta Pilar. (Bestfood)
+- Implementar el despacho directo a clientes en Planta AdeS Pilar
+- Reducir los costos operativos de la Planta,  mediante la mejora de eficiencia de líneas, mejora de productividad de mano de obra y reducción de desperdicios. (Bestfood, Godrej)
+- Liderar el proyecto de implementación y certificación de ISO 9001.( Bestfood España)
+- Implementar el proceso de Planificación de Operaciones y Ventas (S&OP) (Godrej Argentina)
+- Implementar SAP (módulo de Producción) en Unilever y Godrej Argentina.
+Mi objetivo es ocupar un puesto gerencial dentro del área de Operaciones Industriales en   una empresa sólida,  donde pueda aportar toda mi experiencia laboral.
+
+Cordiales saludos
+Eduardo Del Médico
+
+Security_code : z3kyx
+Send : Enviar
+
+---------------
+
+Address : 181.31.49.3
+REF : GT PL
+Nombre : Eduardo
+Apellido : Del Médico
+Cargo : Gerente de Planta
+Direccion : Dean Funes 2001 - Barrio San Marco
+Ciudad : Ing. Maschwitz
+Telefono : 1551343262
+Email : edelmedico@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Mi nombre es Eduardo Del Médico,  soy Ingeniero Electromecánico egresado de la Universidad de Bs. As. 
+Poseo gran experiencia en el área de Manufactura de productos de consumo masivo, adquirida en las multinacionales Unilever Bestfoods S.A.  y  Godrej Argentina S.A.  
+Algunos de mis logros fueron:
+- Puesta en marcha  de una planta de productos asépticos. (Bestfood)
+- Coordinar el Proyecto de ampliación de capacidad de la Planta. (Bestfood)
+- Implementar el Mantenimiento Autónomo en Planta Pilar. (Bestfood)
+- Implementar el despacho directo a clientes en Planta AdeS Pilar
+- Reducir los costos operativos de la Planta,  mediante la mejora de eficiencia de líneas, mejora de productividad de mano de obra y reducción de desperdicios. (Bestfood, Godrej)
+- Liderar el proyecto de implementación y certificación de ISO 9001.( Bestfood España)
+- Implementar el proceso de Planificación de Operaciones y Ventas (S&OP) (Godrej Argentina)
+- Implementar SAP (módulo de Producción) en Unilever y Godrej Argentina.
+Mi objetivo es ocupar un puesto gerencial dentro del área de Operaciones Industriales en   una empresa sólida,  donde pueda aportar toda mi experiencia laboral.
+
+Cordiales saludos
+Eduardo Del Médico
+
+Security_code : z3kyx
+Send : Enviar
+
+---------------
+
+Address : 181.46.169.40
+REF : GT PL
+Nombre : Marcos Esteban
+Apellido : Fazio
+Cargo : Gerente de Planta
+Direccion : Emilio Mitre 1036
+Ciudad : Haedo
+Telefono : 155-489-5323
+Email : marcos.fazio@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : De mi consideración:
+ 
+Me dirijo a Ud. con el fin de presentarme y adjuntarle mi Currículum Vitae para ser tenido en cuenta en la búsqueda de referencia.
+ 
+Soy especialista en procesos de Calidad y Manufactura con una visión integral de la Supply Chain. He liderado equipos multidisciplinarios bajo la filosofía T.P.M., promoviendo cambios culturales y la optimización de procesos. 
+Deseo continuar mi desarrollo profesional en una posición de responsabilidad en la que pueda aportar valor y poner en práctica la experiencia y conocimientos adquiridos durante mis veintitrés años de experiencia en empresas de primera línea.
+ 
+Quedo a su disposición para concertar una entrevista personal y así poder ampliar todo detalle que considere necesario.
+            
+Me despido muy atte. y agradezco su atención.
+
+Marcos Fazio
+Security_code : pnbzc
+Send : Enviar
+
+---------------
+
+Address : 181.46.169.40
+REF : GT PL
+Nombre : Marcos Esteban
+Apellido : Fazio
+Cargo : Gerente de Planta
+Direccion : Emilio Mitre 1036
+Ciudad : Haedo
+Telefono : 155-489-5323
+Email : marcos.fazio@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : De mi consideración:
+ 
+Me dirijo a Ud. con el fin de presentarme y adjuntarle mi Currículum Vitae para ser tenido en cuenta en la búsqueda de referencia.
+ 
+Soy especialista en procesos de Calidad y Manufactura con una visión integral de la Supply Chain. He liderado equipos multidisciplinarios bajo la filosofía T.P.M., promoviendo cambios culturales y la optimización de procesos. 
+Deseo continuar mi desarrollo profesional en una posición de responsabilidad en la que pueda aportar valor y poner en práctica la experiencia y conocimientos adquiridos durante mis veintitrés años de experiencia en empresas de primera línea.
+ 
+Quedo a su disposición para concertar una entrevista personal y así poder ampliar todo detalle que considere necesario.
+            
+Me despido muy atte. y agradezco su atención.
+
+Marcos Fazio
+Security_code : pnbzc
+Send : Enviar
+
+---------------
+
+Address : 181.46.169.40
+REF : GT PL
+Nombre : Marcos Esteban
+Apellido : Fazio
+Cargo : Gerente de Planta
+Direccion : Emilio Mitre 1036
+Ciudad : Haedo
+Telefono : 155-489-5323
+Email : marcos.fazio@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : De mi consideración:
+ 
+Me dirijo a Ud. con el fin de presentarme y adjuntarle mi Currículum Vitae para ser tenido en cuenta en la búsqueda de referencia.
+ 
+Soy especialista en procesos de Calidad y Manufactura con una visión integral de la Supply Chain. He liderado equipos multidisciplinarios bajo la filosofía T.P.M., promoviendo cambios culturales y la optimización de procesos. 
+Deseo continuar mi desarrollo profesional en una posición de responsabilidad en la que pueda aportar valor y poner en práctica la experiencia y conocimientos adquiridos durante mis veintitrés años de experiencia en empresas de primera línea.
+ 
+Quedo a su disposición para concertar una entrevista personal y así poder ampliar todo detalle que considere necesario.
+            
+Me despido muy atte. y agradezco su atención.
+
+Marcos Fazio
+Security_code : xbxrb
+Send : Enviar
+
+---------------
+
+Address : 181.46.169.40
+REF : GT PL
+Nombre : Marcos Esteban
+Apellido : Fazio
+Cargo : Gerente de Planta
+Direccion : Emilio Mitre 1036
+Ciudad : Haedo
+Telefono : 155-489-5323
+Email : marcos.fazio@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : De mi consideración:
+ 
+Me dirijo a Ud. con el fin de presentarme y adjuntarle mi Currículum Vitae para ser tenido en cuenta en la búsqueda de referencia.
+ 
+Soy especialista en procesos de Calidad y Manufactura con una visión integral de la Supply Chain. He liderado equipos multidisciplinarios bajo la filosofía T.P.M., promoviendo cambios culturales y la optimización de procesos. 
+Deseo continuar mi desarrollo profesional en una posición de responsabilidad en la que pueda aportar valor y poner en práctica la experiencia y conocimientos adquiridos durante mis veintitrés años de experiencia en empresas de primera línea.
+ 
+Quedo a su disposición para concertar una entrevista personal y así poder ampliar todo detalle que considere necesario.
+            
+Me despido muy atte. y agradezco su atención.
+
+Marcos Fazio
+Security_code : 5jk59
+Send : Enviar
+
+---------------
+

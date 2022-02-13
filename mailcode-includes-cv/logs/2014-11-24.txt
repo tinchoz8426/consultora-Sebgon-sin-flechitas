@@ -1,0 +1,31 @@
+Address : 190.105.80.62
+Nombre : Pablo
+Apellido : Masacesi
+Cargo : Administrativo de creditos y cobranzas
+Direccion : Zuviria 1615
+Ciudad : San Miguel
+Telefono : 1565940071
+Email : masacesi84@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Les adjuntos mi CV para futuras búsquedas acorde a mis conocimientos. Gracias
+Security_code : bwnbf
+Send : Enviar
+
+---------------
+
+Address : 181.109.47.23
+Nombre : Juan Diego
+Apellido : Ortiz Caram
+Cargo : Cajero; Auxiliar Contable
+Direccion : Barrio Parque Belgrano
+Ciudad : Salta
+Telefono : 3878644059
+Email : toco.09@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Disponibilidad full-time.
+Disponible a mudarme a cualquier ciudad.
+Security_code : 5v7wg
+Send : Enviar
+
+---------------
+

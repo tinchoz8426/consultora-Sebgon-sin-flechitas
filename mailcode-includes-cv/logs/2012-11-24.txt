@@ -1,0 +1,61 @@
+Address : 186.127.132.212
+REF : tecnico-electornico
+Nombre : DARIO
+Apellido : MORAIZ
+Cargo : operario de produccion
+Direccion : 24 de septiembre
+Ciudad : CORDOBA
+Telefono : 156776649
+Email : neila_florbibi@hotmail.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : no tengo problemas para viajar
+Security_code : p43th
+Send : Enviar
+
+---------------
+
+Address : 190.151.158.136
+Nombre : diego
+Apellido : terenzi
+Cargo : operario
+Direccion : calle 23
+Ciudad : lima
+Telefono : 3487664143
+Email : diego_taka18@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : escribo con el propósito de encontrar una fuente de trabajo..
+Security_code : fbkfx
+Send : Enviar
+
+---------------
+
+Address : 181.0.11.58
+Nombre : maximiliano federico
+Apellido : nuñez
+Cargo : adinistrativo
+Direccion : sarandi 760 
+Ciudad : capital federal 
+Telefono : 3489656973
+Email : maximiliano.nu@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : muchas gracias por su tiempo . saludos atentamente 
+Security_code : 9wgfr
+Send : Enviar
+
+---------------
+
+Address : 181.0.11.58
+Nombre : maximiliano federico
+Apellido : nuñez
+Cargo : adinistrativo
+Direccion : sarandi 760 
+Ciudad : capital federal 
+Telefono : 0348915656973
+Email : maximiliano.nu@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : muchas gracias por su tiempo . saludos atentamente 
+Security_code : 5kr2r
+Send : Enviar
+
+---------------
+

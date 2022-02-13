@@ -1,0 +1,177 @@
+Address : 
+Nombre : roberto
+Apellido : Villalba
+Cargo : cualquiera
+Direccion : los malvones 145
+Ciudad : ciudad evita
+Telefono : 1168099846
+Email : roberto.918@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : hola, envio mi cv con motivo de postularme a algun trabajo 
+Security_code : f2sf8
+Send : Enviar
+
+---------------
+
+Address : 
+Nombre : Carolina
+Apellido : Pocosgnich
+Cargo : Recepcionista
+Direccion : Demaria 1530
+Ciudad : Adrogué
+Telefono : 42943133
+Email : delidrel@argentina.com
+MAX_FILE_SIZE : 2097152
+Mensaje : A quien corresponda,
+
+Mi nombre es Carolina Pocosgnich, tengo 27 años y vivo en Adrogué. Soy soltera y sin hijos a cargo.
+Poseo conocimientos de computación (Office), Inglés básico, Italiano bilingüe. 
+Tengo experiencia como recepcionista, ventas y asistente de administración.
+Actualmente me encuentro trabajando en la educación, pero estoy disponible para incorporación inmediata y horario full time.
+Tengo buena presencia, buen trato, respeto por la autoridad, me adapto y aprendo rápido.
+Busco un trabajo efectivo y duradero y ofrezco mi responsabilidad, puntualidad y buena predisposición para el mejor desarrollo de y en la empresa.
+
+En espera de su respuesta, saludo atentamente,
+
+Carolina Pocosgnich
+Security_code : qqt3s
+Send : Enviar
+
+---------------
+
+Address : 
+Nombre : Jimena Soledad
+Apellido : Farias
+Cargo : administrativa,recepcionista,cajera
+Direccion : Espejo 1822
+Ciudad : Ituzaingo
+Telefono : 1133160677
+Email : jimenasol23@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me interesa postularme en trabajos administrativos,recepcion,cajera,atencion al cliente,operadora para call center
+Security_code : cmyj4
+Send : Enviar
+
+---------------
+
+Address : 
+Nombre : Roxana
+Apellido : Ortiz
+Cargo : --
+Direccion : --
+Ciudad : --
+Telefono : 1540609421
+Email : rooxanaortiiz.d@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Adquirir una primera experiencia laboral que me permita desarrollarme y crecer tanto profesional como personalmente.
+Security_code : 5xrk4
+Send : Enviar
+
+---------------
+
+Address : 
+Nombre : sergio saucedo
+Apellido : saucedo
+Cargo : operario
+Direccion : solanet 866
+Ciudad : merlo
+Telefono : (0220) 4868212
+Email : sergiodsaucedo@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Desarrollar las tareas disponibles con mayor voluntad. Progresar en el ámbito labora.
+Security_code : cpg88
+Send : Enviar
+
+---------------
+
+Address : 
+Nombre : sergio saucedo
+Apellido : saucedo
+Cargo : operario
+Direccion : solanet 866
+Ciudad : merlo
+Telefono : (0220) 4868212
+Email : sergiodsaucedo@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Desarrollar con empeño y progresar en el ámbito laboral.
+Security_code : w7b8z
+Send : Enviar
+
+---------------
+
+Address : 
+Nombre : sergio saucedo
+Apellido : saucedo
+Cargo : operario
+Direccion : solanet 866
+Ciudad : merlo
+Telefono : (0220) 4868212
+Email : sergiodsaucedo@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : desarrollar con empeño y progresar en el ámbito laboral.
+Security_code : 4jcx4
+Send : Enviar
+
+---------------
+
+Address : 
+Nombre : sergio saucedo
+Apellido : saucedo
+Cargo : operario
+Direccion : solanet 866
+Ciudad : merlo
+Telefono : (0220)4868212
+Email : sergiodsaucedo@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : desarrollar con empeño y progresar en el ámbito laboral.
+Security_code : 5wmny
+Send : Enviar
+
+---------------
+
+Address : 
+Nombre : sergio saucedo
+Apellido : saucedo
+Cargo : operario
+Direccion : solanet 866
+Ciudad : merlo
+Telefono : 4868212
+Email : sergiodsaucedo@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : desarrollar con empeño y progresar en el ámbito laboral.
+Security_code : 8rtwd
+Send : Enviar
+
+---------------
+
+Address : 
+Nombre : sergio daniel
+Apellido : saucedo
+Cargo : operario
+Direccion : solanet 866
+Ciudad : merlo
+Telefono : (0220) 4868212
+Email : sergiodsaucedo@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : desarrollarme con empeño y progresar en el ámbito laboral. 
+Security_code : jd8ds
+Send : Enviar
+
+---------------
+
+Address : 
+Nombre : Matìas Eduardo
+Apellido : Maristany
+Cargo : Chofer/endedor/cadete
+Direccion : Einstein nº 4035
+Ciudad : Quilmes
+Telefono : 1522217954
+Email : matiasmaristany@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estoy en busqueda de un trabajo que sea estable y continuo con una remuneraciòn mensual buena. Espero ansiosamente recibir muchas ofertas laborales. Desde ya muchas gracias.
+Atte: Maristany Matìas Eduardo
+Security_code : 9WbY6
+Send : Enviar
+
+---------------
+

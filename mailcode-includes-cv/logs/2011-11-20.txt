@@ -1,0 +1,41 @@
+Address : 190.225.104.88
+Nombre : estela
+Apellido : garcia
+Cargo : operaria
+Direccion : 9 de julio 959
+Ciudad : maquinista savio escobar
+Telefono : 0111561450315
+Email : estelagarcia234@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : nesesito trabajar 
+Security_code : 556qx
+Send : Enviar
+
+---------------
+
+Address : 190.192.220.200
+Nombre : Gerardo Marcelo
+Apellido : YAPUR
+Cargo : Jefe de Producción
+Direccion : Triunvirato 3840 - 1°A
+Ciudad : Capital Federal
+Telefono : 15 5932-8753
+Email : yapurger@fibertel.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimada Andrea Tambascio,
+ 
+Adjunto mi CV actualizado en el cual podrá observar mi vocación y trayectoria vinculada a la Gestión Industrial por más de 20 años en empresas de primera línea. El haber trabajado en fábricas proveedoras de la industria automotriz y de la electromedicina, me brindaron la oportunidad de mantenerme con desafíos constantes dado que son conocidas las altas exigencias respecto de la productividad y la calidad de estas industrias.
+ 
+Mis responsabilidades actuando en distintas áreas fabriles me permitieron administrar y ejecutar diversos proyectos de mejora y optimización de procesos, implementar distintas metodologías de fabricación y abastecimiento, armar y liderar equipos de trabajo interdisciplinarios, atender a clientes auditores automotrices y organismos de certificación, seleccionar y desarrollar a proveedores, conducir y capacitar los recursos humanos diversos en cuanto a edad y formación.
+ 
+Mayor detalle de mis Responsabilidades y Logros podrá verlos incorporados a mi CV considerando pueden ser aptos para la posición. Mis expectativas salariales son de $ 15.000.
+ 
+Saludos cordiales,
+Gerardo M. Yapur
+Cel. 15 5932-8753
+yapurger@fibertel.com.ar  
+Security_code : kdqc3
+Send : Enviar
+
+---------------
+

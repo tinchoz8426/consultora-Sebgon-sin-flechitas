@@ -1,0 +1,15 @@
+Address : 186.12.237.103<br>
+ <br>Nombre : Franco 
+ <br>Apellido : ibarra
+ <br>Cargo : repositor - Limpieza
+ <br>Direccion : Guillermo brown 2040
+ <br>Ciudad : cuidadela
+ <br>Telefono : 1151642086
+ <br>Email : francodamianibarra.2016@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Disculpen no pude subir mi cv no me da la apcion. 
+ <br>Security_code : 64b99
+ <br>Send : Enviar
+ <br>
+---------------
+

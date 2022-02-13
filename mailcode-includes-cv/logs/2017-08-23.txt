@@ -1,0 +1,214 @@
+Address : 191.80.248.242<br>
+ <br>REF : chr
+ <br>Nombre : Jules Percy 
+ <br>Apellido : Vilchez Lopez
+ <br>Cargo : Chofer
+ <br>Direccion : Emilio Zola 6720
+ <br>Ciudad : Esteban Echeverria
+ <br>Telefono : 1153437640
+ <br>Email : bruji1520@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Soy un hombre responsable, respetuoso y trabajador.
+ <br>Security_code : dths4
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.170.178.28<br>
+ <br>REF : ACO-1
+ <br>Nombre : samuel
+ <br>Apellido : urdaneta
+ <br>Cargo : ANALISTA DE COMERCIO INTERNACIONAL/EXTERIOR
+ <br>Direccion : Jose Hernandez 2268
+ <br>Ciudad : caba
+ <br>Telefono : 22514993
+ <br>Email : jimmyurdaneta@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados,
+
+Quedo atento a su respuesta.
+
+Saludos, 
+
+Samuel Urdaneta.
+ <br>Security_code : 7d3jx
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.170.178.28<br>
+ <br>REF : ACO-1
+ <br>Nombre : samuel
+ <br>Apellido : urdaneta
+ <br>Cargo : ANALISTA DE COMERCIO INTERNACIONAL/EXTERIOR
+ <br>Direccion : Jose Hernandez 2268
+ <br>Ciudad : caba
+ <br>Telefono : 22514993
+ <br>Email : jimmyurdaneta@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados,
+
+Quedo atento a su respuesta.
+
+Saludos, 
+
+Samuel Urdaneta.
+ <br>Security_code : 7d3jx
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.170.178.28<br>
+ <br>REF : ACO-1
+ <br>Nombre : samuel
+ <br>Apellido : urdaneta
+ <br>Cargo : ANALISTA DE COMERCIO INTERNACIONAL/EXTERIOR
+ <br>Direccion : Jose Hernandez 2268
+ <br>Ciudad : caba
+ <br>Telefono : 22514993
+ <br>Email : jimmyurdaneta@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados,
+
+Quedo atento a su respuesta.
+
+Saludos, 
+
+Samuel Urdaneta.
+ <br>Security_code : vrqd8
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.19.127.144<br>
+ <br>Nombre : Julia
+ <br>Apellido : Signoretti
+ <br>Cargo : Recursos Humanos
+ <br>Direccion : gelly y obes 613 - haedo
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 1539585064
+ <br>Email : signorettijulia@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola estoy muy interesada en las ofertas laborales como estudiante del ultimo año de psicología.
+ <br>Security_code : 53n6z
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.44.21.119<br>
+ <br>REF : ROT-1
+ <br>Nombre : Martin Horacio
+ <br>Apellido : Riquelme
+ <br>Cargo : Responsable de oficina tecnica
+ <br>Direccion : calle 141 Nro 2213
+ <br>Ciudad : Berazategui
+ <br>Telefono : 1536685459
+ <br>Email : mhr2212@live.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Deseo postularme como Encargado de oficina tecnica.
+ <br>Security_code : 6yzzk
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 170.51.99.164<br>
+ <br>REF : chr
+ <br>Nombre : Christian roberto Carlos 
+ <br>Apellido : Suárez 
+ <br>Cargo : Chr
+ <br>Direccion : Volta 851
+ <br>Ciudad : Virrey del pino
+ <br>Telefono : 1150394237
+ <br>Email : Christiansuarez140@gimail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : A quien corresponda:
+De mi mayor consideración, me dirijo  ustedes para postularme al puesto de Chofer,cuya referencia mencioné arriba.
+En mi cv encontrarán mis stos y demás detalles para analizar.
+
+Muchas gracias!
+ <br>Security_code : 6rnrb
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 170.51.99.164<br>
+ <br>REF : chr
+ <br>Nombre : Christian roberto Carlos 
+ <br>Apellido : Suárez 
+ <br>Cargo : Chr
+ <br>Direccion : Volta 851
+ <br>Ciudad : Virrey del pino
+ <br>Telefono : 1150394237
+ <br>Email : Christiansuarez140@gimail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : A quien corresponda:
+De mi mayor consideración, me dirijo  ustedes para postularme al puesto de Chofer,cuya referencia mencioné arriba.
+En mi cv encontrarán mis stos y demás detalles para analizar.
+
+Muchas gracias!
+ <br>Security_code : 6rnrb
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.138.170.247<br>
+ <br>Nombre : Federico Ivan
+ <br>Apellido : Szwec
+ <br>Cargo : Aministrativo, atención al cliente, asistente
+ <br>Direccion : bufano 3680
+ <br>Ciudad : castelar
+ <br>Telefono : 1131362016
+ <br>Email : federico.szwec@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Lic en Ciencia Política 
+ <br>Security_code : 6ssfp
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.138.170.247<br>
+ <br>Nombre : Federico Ivan
+ <br>Apellido : Szwec
+ <br>Cargo : Aministrativo, atención al cliente, asistente
+ <br>Direccion : bufano 3680
+ <br>Ciudad : castelar
+ <br>Telefono : 1131362016
+ <br>Email : federico.szwec@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Lic en Ciencia Política 
+ <br>Security_code : 6ssfp
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.138.170.247<br>
+ <br>Nombre : Federico Ivan
+ <br>Apellido : Szwec
+ <br>Cargo : Aministrativo, atención al cliente, asistente
+ <br>Direccion : bufano 3680
+ <br>Ciudad : castelar
+ <br>Telefono : 1131362016
+ <br>Email : federico.szwec@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Lic en Ciencia Política 
+ <br>Security_code : ctqjs
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.135.154.83<br>
+ <br>REF : Tectron
+ <br>Nombre : Mario
+ <br>Apellido : Vielma
+ <br>Cargo : Ingeniero Automatizacion
+ <br>Direccion : Capital Federal
+ <br>Ciudad : Capital Federal
+ <br>Telefono : 1162002711
+ <br>Email : mariovielma16@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Ver CV
+ <br>Security_code : 5fjxq
+ <br>Send : Enviar
+ <br>
+---------------
+

@@ -1,0 +1,41 @@
+Address : 190.225.108.154
+Nombre : Carolina Maria
+Apellido : Ferreyra
+Cargo : RRHH - Capacitador
+Direccion : Country Club YB
+Ciudad : Yerba Buena
+Telefono : Tucumán
+Email : carulaf@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados Señores 
+
+
+Gracias a ésta oportunidad que me brindan de comunicar mi interés en formar parte de su empresa podré hacerles saber mis intereses y motivaciones.
+ 
+Como Uds. pueden ver en mi CV, en el año 2008 me recibí de Psicóloga o Licenciada en Psicología. Desde el inicio de mi carrera universitaria he ido insertándome en diferentes ámbitos profesionales y laborales siempre buscando todo aquello relacionado a mejorar la calidad laboral de las personas.
+
+Me considero una persona activa, con una motivación constante,  con iniciativa para emprender y realizar proyectos nuevos, con gran apertura para el aprendizaje, con visión, con un fuerte compromiso con la ética y determinados valores entendiendo a éstos como el fundamento de las relaciones de las personas, y con una constante búsqueda en la transformación personal.  Considero que éstas actitudes y aptitudes son las me ayudarán a llevar adelante los desafíos y las nuevas situaciones que se me presenten. 
+
+Agradeciendo nuevamente por el espacio, me despido atentamente.
+
+Carolina Ferreyra
+Security_code : qbw8h
+Send : Enviar
+
+---------------
+
+Address : 186.22.58.141
+Nombre : Raúl 
+Apellido : Nelli
+Cargo : Jefe de Deposito
+Direccion : Av. Pueyrredon 820 2 b
+Ciudad : CABA
+Telefono : 1567530161
+Email : guille20029@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Area de losgistica y distribución.
+Security_code : qnfq4
+Send : Enviar
+
+---------------
+

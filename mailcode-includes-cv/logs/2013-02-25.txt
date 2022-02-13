@@ -1,0 +1,96 @@
+Address : 186.134.29.141
+Nombre : Nahuel 
+Apellido : Quiroga
+Cargo : Operario.repositor. de todo
+Direccion : Padre vanini 1720
+Ciudad : Haedo
+Telefono : 44606291
+Email : nagu_urban@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : No tengo problema de puesto de trabajo me adapto a cualquier circunstancia 
+Security_code : 9rn9v
+Send : Enviar
+
+---------------
+
+Address : 186.111.11.105
+Nombre : Zulema 
+Apellido : Orihuela Chambi
+Cargo : Administrativo junior en Recursos Humanos
+Direccion : Segundo sombra (4875)
+Ciudad : Isidro Casanova
+Telefono : 11-3116-9329
+Email : zulema_orihuela@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola buenos días!
+mi objetivo principal es conseguir un puesto en el área de RRHH en una institución publica o privada. Si bien no cuento con experiencia específicamente en las tareas que meramente se desarrollan en el área de la administración del personal, tengo muchas ganas de aprender y desarrollarme en la misma.
+Security_code : qh7tn
+Send : Enviar
+
+---------------
+
+Address : 186.111.11.105
+Nombre : Zulema 
+Apellido : Orihuela Chambi
+Cargo : Administrativo junior en Recursos Humanos
+Direccion : Segundo sombra (4875)
+Ciudad : Isidro Casanova
+Telefono : 11-3116-9329
+Email : zulema_orihuela@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola buenos días!
+mi objetivo principal es conseguir un puesto en el área de RRHH en una institución publica o privada. Si bien no cuento con experiencia específicamente en las tareas que meramente se desarrollan en el área de la administración del personal, tengo muchas ganas de aprender y desarrollarme en la misma.
+Security_code : qh7tn
+Send : Enviar
+
+---------------
+
+Address : 190.227.156.63
+REF : jefe-de-operaciones
+Nombre : Héctor Fabian
+Apellido : Rufino Fernandez
+Cargo : Atención a Clientes
+Direccion : Blanco Encalada 5041
+Ciudad : C.A.B.A.
+Telefono : 011525030045
+Email : fabianrufino@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Tengo el agrado de ofrecerles mi CV con el fin de calificar para alguna entrevista laboral. Soy de la provincia de Salta y estoy buscando un trabajo de Medio Tiempo.
+Security_code : bfjcn
+Send : Enviar
+
+---------------
+
+Address : 190.31.3.76
+Nombre : Javier F.
+Apellido : Vivero
+Cargo : Gerente Regional
+Direccion : Maestra Rueda 1426
+Ciudad : B° Santa Rita, Boulogne
+Telefono : 4737 7291
+Email : javier-ahi@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto mi CV
+Atte.
+Security_code : t8tvg
+Send : Enviar
+
+---------------
+
+Address : 186.134.6.22
+Nombre : LORENA
+Apellido : HOLMS
+Cargo : ADMINISTRATIVO
+Direccion : SOURDEAUX 1003
+Ciudad : BELLA VISTA
+Telefono : 1553740776
+Email : HOLMSLORENAG@HOTMAIL.COM
+MAX_FILE_SIZE : 2097152
+Mensaje : POR FAVOR DE TENER EN CUANTA MI CV PARA FUTURAS BUSQUEDAS, ACORDES A MI PERFIL.
+GRACIAS
+SALUDOS CORDIALES
+Security_code : 7q5r5
+Send : Enviar
+
+---------------
+

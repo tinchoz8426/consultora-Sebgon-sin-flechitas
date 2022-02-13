@@ -1,0 +1,16 @@
+Address : 181.92.115.36<br>
+ <br>REF : chr
+ <br>Nombre : Hugo Adolfo 
+ <br>Apellido : Idone 
+ <br>Cargo : Chofer y tareas en general 
+ <br>Direccion : Clemente oneli 2550
+ <br>Ciudad : Beccar 
+ <br>Telefono : 1134742715 y 47239295
+ <br>Email : hugoidone@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Nesecito trabajo
+ <br>Security_code : Rngdp
+ <br>Send : Enviar
+ <br>
+---------------
+

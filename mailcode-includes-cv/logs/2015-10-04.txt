@@ -1,0 +1,82 @@
+Address : 12.10.219.223
+Nombre : Melisa
+Apellido : Pardo
+Cargo : Analista de Reclutamiento y Seleccion
+Direccion : Monroe 3450 8 3 
+Ciudad : capital federal
+Telefono : 1160146523
+Email : melisa.p.pardo@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me encuentro en busqueda activa de trabajo, preferentamente para el area de Recursos Humanos ya que es lo que estudio y estoy a punto de recibirme de Lic. en RRHH.
+
+muchas gracias
+
+Melisa Pardo
+Security_code : sjpj3
+Send : Enviar
+
+---------------
+
+Address : 190.138.157.219
+Nombre : Edgardo
+Apellido : Fraile
+Cargo : metalurgico
+Direccion : fraire 1934
+Ciudad : rosario
+Telefono : 4544129
+Email : baby_fraile@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : necesito trabajar urgente por favor
+Security_code : zdnr3
+Send : Enviar
+
+---------------
+
+Address : 181.167.118.133
+REF : ADM
+Nombre : MARIELA HAYDEE
+Apellido : MARRON
+Cargo : ADMINISTRATIVA
+Direccion : AV. CABILDO 4160 - 7 " D "
+Ciudad : CAPITAL FEDERAL
+Telefono : 1562861310
+Email : marielamarron@hotmail.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : ADMINSITRATIVA-RECEPCIONISTA- ATENCION AL CLIENTE -
+Security_code : cy5jc
+Send : Enviar
+
+---------------
+
+Address : 181.167.118.133
+Nombre : MARIELA
+Apellido : MARRON
+Cargo : ADMINISTRATIVA
+Direccion : AV. CABILDO 4160 - 7 " D "
+Ciudad : CAPITAL FEDERAL
+Telefono : 1562861310
+Email : marielamarron@hotmail.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : ADMINISTRATIVA-RECEPCIONISTA- ATENCION AL CLIENTE -
+Security_code : 7gs5c
+Send : Enviar
+
+---------------
+
+Address : 196.32.66.18
+REF : ADM
+Nombre : Yesica
+Apellido : Ibarra
+Cargo : Administrativa
+Direccion : Garibaldi 4056
+Ciudad : San Justo
+Telefono : 011-1569283606
+Email : yesicaibarra@live.com
+MAX_FILE_SIZE : 2097152
+Mensaje : POr medio del presente mensaje le entrego mi Cv para la busqueda de Administrativa para tareas generalespara importante Industria Quimica.
+Desde ya muchas gracias y quedo a su disposición.
+Security_code : 3myqn
+Send : Enviar
+
+---------------
+

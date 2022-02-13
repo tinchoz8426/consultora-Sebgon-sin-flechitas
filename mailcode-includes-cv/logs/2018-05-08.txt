@@ -1,0 +1,68 @@
+Address : 181.46.63.59<br>
+ <br>REF : TE-1
+ <br>Nombre : Jorge Luis
+ <br>Apellido : Tiercin
+ <br>Cargo : Técnico eléctrico TE-1
+ <br>Direccion : Del Barco Centenera 345 Piso 21º B
+ <br>Ciudad : CABA
+ <br>Telefono : 1133759977
+ <br>Email : Jorge.tiercin@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados:
+Les envio mi CV para su consideración, poseo amplia experiencia en sistemas SCADA, operación de subestaciones, centros de control de distribución y generación (administración, desarrollo informático,  telecontrol, capacitación, supervisión) y despacho de energía.
+Mas de 15 años en modalidad de guardia rotativa turno continuado y retén.
+Atte jorge Tiercin
+ <br>Security_code : jcqnn
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.44.208.62<br>
+ <br>Nombre : Mariela 
+ <br>Apellido : Montoya
+ <br>Cargo : Auxiliar Contable/Tesorera
+ <br>Direccion : Allemandri 1284
+ <br>Ciudad : TEMPERLEY
+ <br>Telefono : 1569035323
+ <br>Email : mmontoyatauro@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : A quien corresponda; Les adjuntos mi C.V para su base de datos, me considero una persona responsable, con experiencia, polivalente, de excelentes relaciones interpersonales y trabajo en equipo.
+Mi disposición es full time e inmediata.
+Gracias
+Mariela Montoya
+ <br>Security_code : gk5zd
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 200.4.59.195<br>
+ <br>Nombre : Maria Florencia
+ <br>Apellido : Emiliozzi
+ <br>Cargo : Secretaria
+ <br>Direccion : Av. Galicia 86
+ <br>Ciudad : Avellaneda
+ <br>Telefono : 1540832228
+ <br>Email : memiliozzi@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenos días, me encuentro en la búsqueda de un puesto efectivo, ya que actualmente estoy realizando suplencias.
+ <br>Security_code : djjkm
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.167.111.82<br>
+ <br>REF : Ing. quim
+ <br>Nombre : Maria Beatriz
+ <br>Apellido : Arrieta Fernandez
+ <br>Cargo : Jefe de Procesos Industriales
+ <br>Direccion : Monroe 2569 1A
+ <br>Ciudad : CABA
+ <br>Telefono : +5491126362716
+ <br>Email : mariabeatriz88@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Soy ingeniero químico tengo experiencia como ingeniero de procesos y como supervisor de procesos con cinco ingenieros a cargo en una empresa productora de polietilenos de baja y alta densidad, polietilenos lineales y buteno. Mi objetivo es contribuir con mi experiencia el impulso del negocio y continuar mi crecimiento personal y profesionalmente.
+ <br>Security_code : jpt6h
+ <br>Send : Enviar
+ <br>
+---------------
+

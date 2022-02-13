@@ -1,0 +1,219 @@
+Address : 181.15.226.237
+Nombre : Marcelo
+Apellido : romera
+Cargo : vendedor
+Direccion : Pedro Mora 21, El Bolsón
+Ciudad : El Bolson
+Telefono : 0294-154922533
+Email : marceloromera_87@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : •	Me considero una persona muy sociable, constante y responsable en mi trabajo.
+•	Mi experiencia en PC, Reparaciones y armado basada en la lectura y puesta en práctica.
+•	Disponibilidad Horaria Completa
+
+Security_code : 4hy4p
+Send : Enviar
+
+---------------
+
+Address : 181.15.226.237
+Nombre : Marcelo
+Apellido : Romera
+Cargo : vendedor, ayudante
+Direccion : Pedro Mora 21, El Bolsón
+Ciudad : El Bolson
+Telefono : 0294-154922533
+Email : marceloromera_87@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me considero una persona muy sociable, constante y responsable en mi trabajo.
+Mi experiencia en PC, Reparaciones y armado basada en la lectura y puesta en práctica.
+Disponibilidad Horaria Completa
+
+Security_code : s57wv
+Send : Enviar
+
+---------------
+
+Address : 181.15.226.237
+Nombre : Angela
+Apellido : Romera
+Cargo : vendedora,administracion
+Direccion : combate del buceo 3815
+Ciudad : san carlos de bariloche
+Telefono : 2944154500487
+Email : aber_16@msn.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me considero una persona muy sociable, constante y responsable en mi trabajo
+Security_code : 9wzyw
+Send : Enviar
+
+---------------
+
+Address : 181.15.226.237
+REF : VENDSAL
+Nombre : Marcelo
+Apellido : Romera
+Cargo : vendedor
+Direccion : Pedro Mora 21, El Bolsón
+Ciudad : El Bolson
+Telefono : 0294-154922533
+Email : marceloromera_87@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Disponibilidad Horaria Completa, movilidad propia.
+Security_code : w9c72
+Send : Enviar
+
+---------------
+
+Address : 190.181.81.213
+Nombre : luis
+Apellido : gutierrez
+Cargo : operario
+Direccion : chascomus 2526
+Ciudad : buenos aires (merlo)
+Telefono : 02204974414
+Email : luisg3430@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : hola soy luis de merlo busco trabajo de operario de producción o tareas generales o lo que salga 
+Security_code : 3w7bp
+Send : Enviar
+
+---------------
+
+Address : 186.19.47.83
+Nombre : Noelia
+Apellido : Purulla
+Cargo : Recepcionista-Atencion al cliente-Asistente contable-Cajera
+Direccion : Mariano Acha 3229
+Ciudad : Capital Federal
+Telefono : 156481-9152
+Email : noe6635@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Obtener un puesto para contribuir con mi experiencia laboral y habilidad en el logro de las metas generales de la empresa y las responsabilidades a mi cargo, con la oportunidad de continuar desarrollándome.
+Security_code : vxbq6
+Send : Enviar
+
+---------------
+
+Address : 186.19.47.83
+Nombre : Noelia
+Apellido : Purulla
+Cargo : Recepcionista-Atencion al cliente-Asistente contable-Cajera
+Direccion : Mariano Acha 3229
+Ciudad : Capital Federal
+Telefono : 156481-9152
+Email : noe6635@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Obtener un puesto para contribuir con mi experiencia laboral y habilidad en el logro de las metas generales de la empresa y las responsabilidades a mi cargo, con la oportunidad de continuar desarrollándome.
+Security_code : vxbq6
+Send : Enviar
+
+---------------
+
+Address : 201.235.189.124
+Nombre : Francisco
+Apellido : Cortés
+Cargo : Gerente Comercial Outsourcing
+Direccion : Avda Scalabrini Ortiz
+Ciudad : CABA
+Telefono : 1123468846
+Email : fcortes54@yahoo.es
+MAX_FILE_SIZE : 2097152
+Mensaje : Buen día,
+ 
+Mi nombre es Francisco Cortés y soy psicólogo con especialidad en rr.hh. La mayor parte de mi carrera profesional ha sido dentro de la selección de profesionales en el ámbito tecnológico. Empecé trabajando en IECISA con proyectos de selección interna desde perfiles Jr   hasta Jefes de Proyecto, Jefes de departamentos de sistemas, Consultores ERP...
+
+En los últimos cinco años he realizado procesos de selección para terceros trabajando en consultoría (manpower).
+Tengo experiencia profesional en el mercado sudamericano seleccionado perfiles  ya que trabajé en Sao Paulo y Buenos Aires para las filiales de DTS Y SMS. 
+He dirigido procesos de selección masivos a nivel internacional. Hablo de forma fluida inglés, portugués nivel intermedio y soy bilingüe catalán.
+
+Estoy muy interesado en este proyecto y puedo dar referencias de mi última actividad laboral.
+
+
+Un saludo,
+Francisco
+Security_code : nn7yt
+Send : Enviar
+
+---------------
+
+Address : 200.5.96.42
+Nombre : ROSALIA
+Apellido : ACOSTA
+Cargo : Seguridad e Higiene
+Direccion : SAN IGNACIO 2449
+Ciudad : LONGCHAMPS
+Telefono : 1550399782
+Email : rosaliaacosta@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Envio adjunto datos, cualquier duda no dude en contactarse.
+Security_code : t5hgx
+Send : Enviar
+
+---------------
+
+Address : 200.24.255.125
+REF : GETECOM
+Nombre : Gabriel Ivan 
+Apellido : Ascencio
+Cargo : Gerente de Compras
+Direccion : Los Cipreses 1150
+Ciudad : Esquel
+Telefono : 0297-155130549
+Email : teclogistic@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenas Tardes, le envio mi curriculum vitae haciendo referencia a la solicitud para el puesto de Gerente de Compras.
+Security_code : rm6wy
+Send : Enviar
+
+---------------
+
+Address : 200.24.255.125
+REF : GETECOM
+Nombre : Gabriel Ivan 
+Apellido : Ascencio
+Cargo : Gerente de Compras
+Direccion : Los Cipreses 1150
+Ciudad : Esquel
+Telefono : 0297-155130549
+Email : teclogistic@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenas Tardes, le envio mi curriculum vitae haciendo referencia a la solicitud para el puesto de Gerente de Compras.
+Security_code : rm6wy
+Send : Enviar
+
+---------------
+
+Address : 200.24.255.125
+REF : GETECOM
+Nombre : Gabriel Ivan 
+Apellido : Ascencio
+Cargo : Gerente de Compras
+Direccion : Los Cipreses 1150
+Ciudad : Esquel
+Telefono : 0297-155130549
+Email : teclogistic@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenas Tardes, le envio mi curriculum vitae haciendo referencia a la solicitud para el puesto de Gerente de Compras.
+Security_code : jvpvr
+Send : Enviar
+
+---------------
+
+Address : 200.24.255.125
+REF : GETECOM
+Nombre : Gabriel Ivan 
+Apellido : Ascencio
+Cargo : Gerente de Compras
+Direccion : Los Cipreses 1150
+Ciudad : Esquel
+Telefono : 0297-155130549
+Email : teclogistic@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenas Tardes, le envio mi curriculum vitae haciendo referencia a la seleccion publicada para el puesto Gerente de Ventas.
+Saludos
+Security_code : f6d7s
+Send : Enviar
+
+---------------
+

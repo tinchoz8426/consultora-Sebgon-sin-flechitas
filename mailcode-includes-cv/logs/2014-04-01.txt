@@ -1,0 +1,239 @@
+Address : 186.153.252.152
+Nombre : Natalia Anabela
+Apellido : Vilán
+Cargo : Atención al cliente
+Direccion : Domingo Matheu 3528 Bº San Vicente
+Ciudad : Córdoba
+Telefono : 0351-154084072
+Email : nataliavilan25@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Mis expectativas laborales es la predisposición para aprender cualquier tarea y el mejor desempeño sobre la misma, demostrar mi capacidad para trabajar, tanto solo, como en quipo, tomar decisiones y aceptar responsabilidades. Me considero una persona dinámica, trabajadora y con gran voluntad para aprender.
+Security_code : npn94
+Send : Enviar
+
+---------------
+
+Address : 181.109.64.182
+Nombre : rene alberto
+Apellido : pereyra
+Cargo : operario carga y descarga
+Direccion : Kubar 361
+Ciudad : Buenos Aires
+Telefono : 0111524896591
+Email : renealbertopereyra99@yahoo.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Espero Poder resivir su llamado para entrevistarme. desde ya muchas gracias
+Security_code : yxq3g
+Send : Enviar
+
+---------------
+
+Address : 181.109.64.182
+Nombre : rene alberto
+Apellido : pereyra
+Cargo : operario carga y descarga
+Direccion : Kubar 361
+Ciudad : Buenos Aires
+Telefono : 0111524896591
+Email : renealbertopereyra99@yahoo.com
+MAX_FILE_SIZE : 2097152
+Mensaje : espero que les interese mi curriculum desde ya muchas gracias
+Security_code : 949xb
+Send : Enviar
+
+---------------
+
+Address : 95.20.118.5
+Nombre : Pablo
+Apellido : Canovas
+Cargo : Tecnico Computacion
+Direccion : 47 nº 2226 f
+Ciudad : La Plata
+Telefono : 4708466
+Email : p_canovas@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenos dias mi nombre es Pablo Canovas vivo en España y en breve me trasladare a Argentina les envio mi curriculum por si les pueda interesar.
+Gracias de antemano. 
+Security_code : sbzts
+Send : Enviar
+
+---------------
+
+Address : 95.20.118.5
+Nombre : Cristina
+Apellido : Calderon Alonso
+Cargo : ventas, atención al publico
+Direccion : avenida reina sofia 41 portal 12 2-b
+Ciudad : Estepona
+Telefono : 627076797
+Email : cristi_cal.al@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola buenos Dias.
+
+Soy Cristina Calderon, residente en España. Os escribo porque en breve me voy a trasladar a Argentina, a la zona de la plata y por eso os envío mi curriculum por si pueda interesar. Tengo experiencia previa en atención al publico y en tienda y tambien tengo buen nivel de inglés.
+
+Muchas gracias por adelantado y espero su respuesta.
+
+Saludos.
+
+Security_code : 8yj6s
+Send : Enviar
+
+---------------
+
+Address : 190.245.145.95
+Nombre : Ana Carolina
+Apellido : Musitani
+Cargo : Recursos Humanos- Psicóloga
+Direccion : Cuzco 318/
+Ciudad : CABA
+Telefono : 1558397142
+Email : caro_musitani@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenos días. Soy Licenciada en Psicología (UBA). Les envío mi currículum ya que entré a su página web y me interesaría saber más acerca de sus servicios. Tengo experiencia en el área de Selección de Personal y Psicotécnicos, y cuento con disponibilidad full time.
+Desde ya, muchas gracias.
+Un saludo.
+Security_code : wv5cy
+Send : Enviar
+
+---------------
+
+Address : 181.47.181.219
+Nombre : Gustavo
+Apellido : Aznarez Rivero
+Cargo : supervisor
+Direccion : Güemes 4147 1º "C"
+Ciudad : Capital Federal
+Telefono : 15 5333 5972
+Email : aznarezgustavo@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : No se que desean saber en este espacio.
+Security_code : cynrh
+Send : Enviar
+
+---------------
+
+Address : 186.57.237.35
+Nombre : pedro antonio
+Apellido : talavera
+Cargo : operario
+Direccion : mascardi 2031
+Ciudad : ituzaingo
+Telefono : 46233023
+Email : pat-18099@outlook.es
+MAX_FILE_SIZE : 2097152
+Mensaje : oferta de empleo
+Security_code : ksrp7
+Send : Enviar
+
+---------------
+
+Address : 200.47.32.134
+Nombre : Manuel
+Apellido : Ramirez
+Cargo : Supervisor 
+Direccion : Doblas 1366
+Ciudad : CABA
+Telefono : 49218327
+Email : vopmaram26@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Carga CV.
+Security_code : km2gk
+Send : Enviar
+
+---------------
+
+Address : 190.97.6.105
+Nombre : alfredo julian
+Apellido : garcia bambill
+Cargo : veterinario/ asesor tecnico comercial
+Direccion : portugal 541
+Ciudad : bahia blanca
+Telefono : 0291-154478500
+Email : jgarciabambill@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : medico veterinario especializado en nutrición y sanidad de grandes animales con 5 años de experiencia laboral en área comercial y asesoramiento de tambos y feed lot
+Security_code : bxz5q
+Send : Enviar
+
+---------------
+
+Address : 190.19.101.244
+Nombre : Keila
+Apellido : Ulfkelman
+Cargo : Junior/Semi Senior
+Direccion : Av. Directorio 2057 5ºB
+Ciudad : C.A.B.A
+Telefono : 1556997200
+Email : kei_ulfkelman@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados:
+ 
+Adjunto envío CV con foto y referencias actualizado para ser tenido en cuenta para futuras busquedas relacionadas a lo administratativo, recepcion, facturacion, atencion, atencion telefonica.
+ 
+Quedo a su disposición.
+ 
+Atentamente
+ 
+Keila Ulfkelman
+
+Security_code : 7zfps
+Send : Enviar
+
+---------------
+
+Address : 181.44.249.56
+Nombre : jorge gustavo
+Apellido : gonzalez
+Cargo : tecnico
+Direccion : solari 1820
+Ciudad : moron
+Telefono : 1551651038
+Email : gustavolorenz2009@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : hola.que tal? bueno quiero poder estar en su sistema de datos, por algún puesto disponible muchas gracias 
+Security_code : qz527
+Send : Enviar
+
+---------------
+
+Address : 181.44.249.56
+REF : OPERARIO-CALIFICADO-MAQUINA-INYECTORA
+Nombre : jorge gustavo
+Apellido : gonzalez
+Cargo : operario inyector
+Direccion : solari 1820
+Ciudad : moron
+Telefono : 1551651038
+Email : gustavolorenz2009@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : hola.. quiero por favor que me tengan en cuenta por algún puesto gracias...
+Security_code : 743rc
+Send : Enviar
+
+---------------
+
+Address : 201.255.116.193
+Nombre : Ivan Ezequiel
+Apellido : Sanchez
+Cargo : Consultor 
+Direccion : 120 nro 216
+Ciudad : La Plata
+Telefono : 0221156247303
+Email : ivan.sanchez@econo.unlp.edu.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenas tardes, mi nombre es Ivan Sanchez tengo 27 años y me recibí
+recientemente de Licenciado en Administración en la UNLP.
+Me encuentro en búsqueda laboral y por dicho motivo me tomo el
+atrevimiento de enviarles mi cv actualizado a la fecha.
+
+Desde ya muchas gracias por la atención.
+
+Atentamente.
+
+Lic Ivan Sanchez.
+Security_code : 7vbvg
+Send : Enviar
+
+---------------
+

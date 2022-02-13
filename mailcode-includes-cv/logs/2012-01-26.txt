@@ -1,0 +1,93 @@
+Address : 186.59.8.54
+Nombre : Marcia Tatiana
+Apellido : Gelfman
+Cargo : Psicologa
+Direccion : Tucuman 262 dpto6 mendoza
+Ciudad : mendoza
+Telefono : 0261155461170
+Email : gelfmantatiana@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Soy Marcia Gelfman lic en Psicología desde que me recibí trabajo en selección de personal y estoy interesada en continuar especializándome en el área: ágil, eficaz y buen manejo de las relaciones humanas esas son mis principales cualidades  
+Security_code : chvmx
+Send : Enviar
+
+---------------
+
+Address : 186.58.43.220
+Nombre : Yamila
+Apellido : Faur
+Cargo : vendedora de local, cajera
+Direccion : la matanza
+Ciudad : bs as
+Telefono : 44870512
+Email : yamila22_58@hotmail.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : hola yo les deje un cv en moron pero también les dejo por acá si sale algo gracias
+Security_code : m38c6
+Send : Enviar
+
+---------------
+
+Address : 190.173.13.60
+Nombre : Sabrina Ludmila
+Apellido : Catalano
+Cargo : Vendedora, Recepcionista,Cajero
+Direccion : curupayti 2105
+Ciudad : Florencio Varela
+Telefono : 42104959/ 1531831622
+Email : sabrinacatalano-@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me gustaria encontrar un buen empleo.
+
+Muchas gracias
+Security_code : nv7z6
+Send : Enviar
+
+---------------
+
+Address : 190.30.170.201
+Nombre : Héctor Oscar
+Apellido : Corbalán
+Cargo : Vendedor
+Direccion : B° Telefónico Mza K Casa 5
+Ciudad : Yerba Buena
+Telefono : 0381-4259206
+Email : oscar.corbalan@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Atte. Recursos Humanos
+Presente 
+
+Estimados Señores:
+
+Me gustaría presentar esta carta de solicitud junto con mi currículum vitae para su consideración.
+
+Estoy muy interesado en trabajar con una compañía que pueda proporcionar oportunidades de crecimiento y formación complementaria que me permita cumplir mis metas profesionales. 
+
+Gracias por la oportunidad de ser considerado.
+
+Saludos cordiales, 
+
+Héctor Oscar Corbalán
+
+Tel:0381-4259206
+oscar.corbalan@hotmail.com
+Security_code : qqyc8
+Send : Enviar
+
+---------------
+
+Address : 186.22.23.133
+Nombre : vanina
+Apellido : seoane
+Cargo : jefe
+Direccion : directorio 2680 3a
+Ciudad : capital federal
+Telefono : 20509181
+Email : vanina_seoane@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : deseo formar parte de su base de datos
+Security_code : kk89j
+Send : Enviar
+
+---------------
+

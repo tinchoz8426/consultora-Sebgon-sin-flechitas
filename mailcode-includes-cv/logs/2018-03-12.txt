@@ -1,0 +1,339 @@
+Address : 181.9.180.139<br>
+ <br>Nombre : Mariana
+ <br>Apellido : Ebel
+ <br>Cargo : Técnica 
+ <br>Direccion : Transiciones Agostini
+ <br>Ciudad : Margarita Belén 
+ <br>Telefono : 3624008852
+ <br>Email : Marianaebel@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Currículum vitae
+ <br>Security_code : 42x54
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.119.81.62<br>
+ <br>Nombre : oscaar
+ <br>Apellido : carrizo
+ <br>Cargo : cnc
+ <br>Direccion : peru 408
+ <br>Ciudad : la tablada
+ <br>Telefono : 1130687377
+ <br>Email : oocarrizo71@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : hola, tengo esperiencia en matriceria.como oficial superior de cnc.gracias
+ <br>Security_code : g5237
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.119.81.62<br>
+ <br>Nombre : oscaar
+ <br>Apellido : carrizo
+ <br>Cargo : cnc
+ <br>Direccion : peru 408
+ <br>Ciudad : la tablada
+ <br>Telefono : 1130687377
+ <br>Email : oocarrizo71@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : hola, tengo esperiencia en matriceria.como oficial superior de cnc.gracias
+ <br>Security_code : g5237
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.119.81.62<br>
+ <br>Nombre : oscaar
+ <br>Apellido : carrizo
+ <br>Cargo : cnc
+ <br>Direccion : peru 408
+ <br>Ciudad : la tablada
+ <br>Telefono : 1130687377
+ <br>Email : oocarrizo71@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : hola, tengo esperiencia en matriceria.como oficial superior de cnc.gracias
+ <br>Security_code : 44k47
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.19.25.151<br>
+ <br>REF : ROT-1
+ <br>Nombre : Victoria
+ <br>Apellido : Speroni
+ <br>Cargo : RESPONSABLE DE OFICINA TECNICA
+ <br>Direccion : Camacua 158
+ <br>Ciudad : CABA
+ <br>Telefono : 1135722608
+ <br>Email : victoriasperoni@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenos días, Me dirijo a ustedes en respuesta a su anuncio RESPONSABLE DE OFICINA TECNICA publicado en SU WEB. Mi nombre es Victoria Speroni, tengo 22 años, soy diseñadora industrial recién graduada. Estoy buscando un empleo relacionado al diseño y estoy interesada en su propuesta. Adjunto mi CV.
+Quedo a su disposición y espero su respuesta.
+Atentamente
+
+Victoria Speroni
+ <br>Security_code : TVPG6
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.22.173.68<br>
+ <br>REF : EP-1
+ <br>Nombre : Maximiliano
+ <br>Apellido : Grosso
+ <br>Cargo : Encargado de Produccion
+ <br>Direccion : Paysandu 1315
+ <br>Ciudad : Avellaneda
+ <br>Telefono : 1141727747
+ <br>Email : me_grosso@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados
+          En este momento me encuentro sin empleo, mi objetivo es obtener un puesto en la empresa donde poder contribuir con mi experiencia en prácticas laborales, en anteriores trabajos y con las habilidades adquiridas durante mi formación en el logro de metas generales de la empresa y del cargo que solicito, superarme a mí mismo en todos los aspectos de mi vida, brindando lo mejor de mí cada día, tanto a nivel laboral como en el ámbito personal.
+          Tengo amplia experiencia en control de calidad, análisis Físico Químicos y Microbiológicos,  Planificación de la producción y de turnos de trabajo, como así también manejo y Control de personal a cargo, asimismo poseo 10 años de experiencia en procesos continuos, tales como bebidas, pastas deshidratadas, embutidos, envases, refinería de aceite, síntesis química y AMS en industrias farmoquímica. 
+          Quedo a su disposición para ampliar cualquier información necesaria.
+ 
+                                                                                           Cordialmente,
+                                                                                      Maximiliano Grosso
+
+ <br>Security_code : gnrdg
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.166.231.146<br>
+ <br>REF : ACO-1
+ <br>Nombre : Florencia Daniela
+ <br>Apellido : Sanabria
+ <br>Cargo : Analista en Comercio Internacional
+ <br>Direccion : Bucarelli 1925 Piso 4 B
+ <br>Ciudad : Villa Urquiza - CABA
+ <br>Telefono : 1531768524
+ <br>Email : daniela_sanabria28@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenos días. Mediante la presente, dejo a disposición mi cv actualizado. Gracias
+ <br>Security_code : h8s3r
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.170.65.30<br>
+ <br>Nombre : Emiliano
+ <br>Apellido : Beracochea
+ <br>Cargo : Analista de comercio exterior
+ <br>Direccion : 44 N°507
+ <br>Ciudad : La Plata
+ <br>Telefono : 0221 5917997
+ <br>Email : emi.beracochea@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Mi objetivo es poder crecer profesionalmente de la mano de los objetivos de la empresa.
+ <br>Security_code : nht95
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.213.89.182<br>
+ <br>REF : EP-1
+ <br>Nombre : Andres Maria
+ <br>Apellido : Perez
+ <br>Cargo : Ingeniero Agrónomo
+ <br>Direccion : florida 785
+ <br>Ciudad : Henderson
+ <br>Telefono : 0231415473084
+ <br>Email : andresmariapz@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : 
+Estimados,
+
+En mi búsqueda laboral la empresa me resultó de gran interés. Por este motivo y a fin de ser tenido en cuenta como candidato les detallo mi perfil y adjunto mi curriculum vitae.
+
+Cuento con una sólida formación científica y tecnológica que me permite intervenir en las cadenas productivas de base agropecuaria, en el ambiente y en la preservación de los recursos naturales desde una visión integral y sustentable.
+
+ 
+
+Estoy dispuesto a radicarme en donde sea necesario y cuento con licencia de conducir completa.
+
+Quedo a su disposición para ampliar cualquier información necesaria.
+
+Cordialmente,
+
+ 
+
+Andrés María Pérez
+ <br>Security_code : v2t2n
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.139.77.53<br>
+ <br>REF : TE-1
+ <br>Nombre : Gerardo
+ <br>Apellido : Figueiras
+ <br>Cargo : Técnico Eléctrico
+ <br>Direccion : Remedios 2958
+ <br>Ciudad : CABA
+ <br>Telefono : +5491166430546
+ <br>Email : gerardo.figueira@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Disponibilidad inmediata. Dispuesto a reubicarme a zona de trabajo.
+ <br>Security_code : fcpyf
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.254.134.178<br>
+ <br>Nombre : Javier 
+ <br>Apellido : Sanchez
+ <br>Cargo : chofer 
+ <br>Direccion : Dardo rocha 1755
+ <br>Ciudad : Moreno (Buenos Aires)
+ <br>Telefono : 011-1558435980
+ <br>Email : javiersanchez-e@outlook.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Cuento con registro habilitante CNRT de cargas generales. Además de experiencia en manejo de chasis y acoplado. 
+ <br>Security_code : cyfyd
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 168.194.234.80<br>
+ <br>REF : EP-1
+ <br>Nombre : Daniel Oscar
+ <br>Apellido : Fernandes
+ <br>Cargo : SUPERVISOR DE PRODUCCIÓN
+ <br>Direccion : einstein 1090
+ <br>Ciudad : Jose C, Paz
+ <br>Telefono : 1166005323
+ <br>Email : danielf-2@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : De mi mayor consideración: 
+
+Tengo el agrado de dirigirme a Uds. con el fin de transmitirles mi deseo de incorporarme a su organización. A tal efecto adjunto, junto a la presente, mi CV. 
+Quedando a la espera de su respuesta. 
+Atte.  Daniel O. Fernandes
+
+ <br>Security_code : sc6mv
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.130.111.22<br>
+ <br>Nombre : humberto Ernesto
+ <br>Apellido : Di Ciccio
+ <br>Cargo : Tecnico 
+ <br>Direccion : Av P. F.Sarmiento, 1773
+ <br>Ciudad : Castelar
+ <br>Telefono : 46289344
+ <br>Email : humbertodiciccio@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola buenas tardes y mucho gusto ,les reenvio mi CV para sus busquedas .
+Atte.-
+ <br>Security_code : 8hfcn
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.108.116.235<br>
+ <br>REF : ACO-1
+ <br>Nombre : Ekaterina
+ <br>Apellido : Gopienko
+ <br>Cargo : Analista de Comercio Int/Ext
+ <br>Direccion : 1750 av. Libertador
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 1133033761
+ <br>Email : gopienko.ekaterina@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenos dias,
+
+Me interesa el trabajo de Analista de Comercio Int/Etx. En el adjunto puede encontrar mi CV para su consideración.
+
+Atentamente,
+Ekaterina Gopienko
++54-9-11-3303-3761
+
+ <br>Security_code : x73dk
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.130.111.22<br>
+ <br>Nombre : humberto Ernesto
+ <br>Apellido : Di Ciccio
+ <br>Cargo : inspeccion
+ <br>Direccion : Av P. F.Sarmiento, 1773
+ <br>Ciudad : Castelar
+ <br>Telefono : 01146289344
+ <br>Email : humbertodiciccio@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados señores :  
+Aquien corresponda RRHH 
+Buenos dia  y muchos gusto.
+En respuesta a su anuncio publicado me dirijo a ustedes con el fin de remitirles mi Currriculum-Vitae .
+No sólo cumplo y espero cubrir  los requisitos exigidos, ya que tengo una amplia experiencia en supervisión ,inspección de obras ,control y actualización del listado general de documentos ,control de (P.I.E)confeccion de Data Books final ,liberaciones en obra seguimiento control  de trazabilidad   ,control de procedimientos operativos ,tanto en control de grandes  montajes , construcción montaje y soldadura piping y de grandes espesores en todos los procesos TIG ,MIG ,GMAW ,SMAW y SAW ,en acero al carbono aleados e inoxidables ,tratamientos térmicos , isometrías ,welding maps ,montajes de tracing , amplia experiencia en  NDT -VT, PT, MT, UT, RT, PM&i , y PH (pruebas hidráulicas ) .Conocimientos de procesos P & id.-
+ Verificacion de esquemas de pintura ,controles de desprendimientos, control de rugosidades ,procesos de granallado y revestimientos Tricapa Polyguard y Epoxy  etc, trabaje en los últimos años para la Direccion de ingeniería y proyectos especiales de YPF.
+ Espero ser gran utilidad para cumplir con las necesidades requerimientos y responsabilidades que el puesto requiere  y de esta manera colaborar trabajando en equipo  al continuo desarrollo de vuestra empresa .
+
+Espero tener la oportunidad de conversar con ustedes en una entrevista para personalmente exponerles mis conocimientos y mi deseo de formar parte de su grupo de trabajo. 
+
+Quedo a su disposición para ampliar cuanta información estimen necesaria.
+Reciban un cordial saludo,
+
+Humberto Ernesto Di Ciccio 
+Inspeccion de obras QA / QC
+                                                
+
+
+ <br>Security_code : 7mvxw
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 200.115.250.19<br>
+ <br>Nombre : Aurinel
+ <br>Apellido : Vernaez
+ <br>Cargo : Capacitadora
+ <br>Direccion : Avenida Córdoba 1336
+ <br>Ciudad : CABA
+ <br>Telefono : 1132997493
+ <br>Email : aurinelrvernaezf010682@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Disponibilidad inmediata
+Experiencia en capacitación y supervisión de personal.
+ <br>Security_code : j9h8g
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.44.245.90<br>
+ <br>REF : TE-1
+ <br>Nombre : Rodrigo
+ <br>Apellido : Mionetto
+ <br>Cargo : TÉCNICO ELÉCTRICO
+ <br>Direccion : Tte. Cnel. Miguel Caxaraville 2287
+ <br>Ciudad : Ituzaingó, Buenos Aires
+ <br>Telefono : 11 58019443
+ <br>Email : rodrigo_mrm@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados en adjunto mi Curriculm Vitae para su consideración. Motivado por mi interés en participar en procesos de selección que requieran de un profesional de mis características. 
+Saludos att. Rodrigo Mionetto.
+ <br>Security_code : 8n5yw
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 200.63.162.221<br>
+ <br>REF : TE-1
+ <br>Nombre : Marcos Vinicio
+ <br>Apellido : Romero Gonzalez
+ <br>Cargo : Tecnico Electrico
+ <br>Direccion : Corrinetes 1965
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 11 38299125
+ <br>Email : marcosvromerog@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas noches, Ingeniero electricista, dedicado y comprometido con el buen manejo de la energía eléctrica, con sólidos conocimientos en diseño calculo y mantenimiento de instalaciones en baja y media tensión, facilidad para el desempeño en equipo, eficaz y creativo en la resolución de problemas
+ <br>Security_code : w3654
+ <br>Send : Enviar
+ <br>
+---------------
+

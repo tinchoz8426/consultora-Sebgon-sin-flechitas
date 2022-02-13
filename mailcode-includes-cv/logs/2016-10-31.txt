@@ -1,0 +1,54 @@
+Address : 181.192.50.236<br>
+ <br>REF : SP-1
+ <br>Nombre : Walter Esteban Lucas
+ <br>Apellido : Obregón 
+ <br>Cargo : Supervisor de Producción
+ <br>Direccion : Juan de Herrera 1171
+ <br>Ciudad : Malvinas argentinas, Buenos Aires
+ <br>Telefono : 1169020567
+ <br>Email : lucasobregon.lo@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados, me encuentro interesado en la búsqueda iniciada.
+
+Saludos
+
+Lucas Obregón
+ <br>Security_code : dymn3
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.18.59.249<br>
+ <br>Nombre : Exequiel Alejandro
+ <br>Apellido : Carrizo
+ <br>Cargo : administracion
+ <br>Direccion : Sequeira 2646
+ <br>Ciudad : Laferrere. la matanza
+ <br>Telefono : (011)46268524
+ <br>Email : exequielalejandrocarrizo@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Disposicion inmediata y conmuchas ganas de crecer
+ <br>Security_code : k8frb
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.179.223.131<br>
+ <br>Nombre : Juan Antonio 
+ <br>Apellido : Corona Trejo 
+ <br>Cargo : Ventas, Atención al cliente, Ventas especiales y corporativas, venta de vehículos pesados y camiones
+ <br>Direccion : Ramon Falcon 4441
+ <br>Ciudad : CABA
+ <br>Telefono : 1136090907
+ <br>Email : juanantonioccc@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Basado en mi amplia experiencia en atención al cliente, ventas especiales, vehículos y vehículos pesados, es que me dirijo a ustedes hallandome en disponibilidad inmediata para realizar tareas en dichas áreas. 
+
+Saludos y Muchas gracias
+
+JUAN ANTONIO CORONA TREJO
+ <br>Security_code : 7dbh2
+ <br>Send : Enviar
+ <br>
+---------------
+

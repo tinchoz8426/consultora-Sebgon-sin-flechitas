@@ -1,0 +1,30 @@
+Address : 186.57.197.10
+Nombre : Nicolás
+Apellido : Coronel
+Cargo : -
+Direccion : Pujol 2474
+Ciudad : San Justo
+Telefono : 46696481
+Email : fnc1001@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Busqueda orientada a un trabajo relacionado con los idiomas o carrera que estoy estudiando.
+Security_code : djf3p
+Send : Enviar
+
+---------------
+
+Address : 190.189.188.13
+Nombre : Jeronimo
+Apellido : Chiavon
+Cargo : Administrador
+Direccion : Estrada 7255
+Ciudad : Mar del plata
+Telefono : 0223-154213534
+Email : jeronimochiavon@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Les adjunto mu cv espero su respuesta rapidamente por que necesito el trabajo de inmediato. muchas gracias
+Security_code : kryz9
+Send : Enviar
+
+---------------
+

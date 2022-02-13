@@ -1,0 +1,138 @@
+Address : 186.134.51.43
+Nombre : Valeria Soledad
+Apellido : Espinosa
+Cargo : cajera
+Direccion : Luis maria campos 741. Moron
+Ciudad : Buenos Aires
+Telefono : 1538988597
+Email : valeriasoledad315@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : me interesaria un empleo en el area de ventas, o atencion al cliente, ya que me tengo muy buena presencia, y me resulta facil el trato con la gente.
+Security_code : xfgvp
+Send : Enviar
+
+---------------
+
+Address : 186.137.172.71
+Nombre : mariana
+Apellido : amaya
+Cargo : abogada
+Direccion : formosa 578
+Ciudad : caballito
+Telefono : 1536593064
+Email : mariana_amaya82@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : $ 9.000 bruto
+Security_code : x4h4g
+Send : Enviar
+
+---------------
+
+Address : 190.17.29.133
+Nombre : griselda 
+Apellido : arosio
+Cargo : administrativa senior
+Direccion : a, jujuy 522
+Ciudad : caba
+Telefono : 15-60165912
+Email : griseldaarosio@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : sus datos obtuve en la pagina del ministerio de trabajo.-
+Security_code : 6p3m3
+Send : Enviar
+
+---------------
+
+Address : 200.13.45.175
+Nombre : Claudio
+Apellido : Antunez
+Cargo : Supervisor
+Direccion : Mendoza 1222
+Ciudad : San Jorge
+Telefono : 0340615415950-03406409533
+Email : antunezclaudio@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : POr la presente le hago entrega de mi CV pra su banco de postulantes, sin mas comentarios que  agregar saludos coordiales
+
+Claudio Antunez
+Security_code : v2s3z
+Send : Enviar
+
+---------------
+
+Address : 200.13.45.175
+REF : GERENTE-DE-PRODUCCION
+Nombre : Claudio
+Apellido : Antunez
+Cargo : Gerente de  producción
+Direccion : Mendoza 1222
+Ciudad : San Jorge
+Telefono : 0340615415950-03406409533
+Email : antunezclaudio@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : He visto la Oferta Laboral publicada en su pagina web y la misma me resultó de gran interés. Por este motivo, les hago llegar mi Currículum Vitae, a fin de ser tenido en cuenta como candidato.
+Quedo a su disposición para ampliar cualquier información necesaria.
+Cordialmente,
+
+Claudio Antunez
+San Jorge, Santa Fe
+
+Security_code : vgrs7
+Send : Enviar
+
+---------------
+
+Address : 190.51.131.45
+Nombre : Elias Agustin 
+Apellido : Gomez 
+Cargo : empleado administrativo
+Direccion : la torcaza 2896
+Ciudad : almirante brown
+Telefono : (011) 42113289
+Email : el88agus@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimada agencia de reclutamiento de personal:
+Tengo el agrado de dirigirme a usted con la intención de formar parte de su amplia base de datos de candidatos. Confió en su capacidad, experiencia de años y el trabajo duro que lo han llevado a ser una consultora de renombre para acercarme a una pronta reinserción laboral.
+
+Estoy en la búsqueda de un empleo en empresas mediana o grande con posibilidades de crecimiento o ascenso, que resida en Capital Federal o en zona sur de Buenos Aires. De ser posible que ser en sectores en donde cuento con experiencia (administración y contabilidad, atención al cliente y vendedor, almacenes y deposito). Mi disponibilidad horaria es full-time con posibilidades de trabajar los fines de semana y en horarios rotativos
+
+Sin nada mas que decir, les adjunto mi CV.
+Estoy a su entera disposición y en espera de noticias.
+Un cordial saludo
+                                 Elias Gomez
+
+Security_code : 9xzxx
+Send : Enviar
+
+---------------
+
+Address : 62.210.167.213
+Nombre : horny
+Apellido : 2389
+Cargo : KMbuPRqHGwGVsXu
+Direccion : vWBwBEku
+Ciudad : NY
+Telefono : 19060118232
+Email : barny182@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : R2b34I http://www.QS3PE5ZGdxC9IoVKTAPT2DBYpPkMKqfz.com
+Security_code : rMWPM6
+Send : Enviar
+
+---------------
+
+Address : 186.19.59.218
+Nombre : Lorena
+Apellido : Ortiz
+Cargo : Abogada
+Direccion : Arredondo 5166
+Ciudad : Villa Domínico
+Telefono : 15-5951-4499
+Email : loregortiz08@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Les envio mi cv
+Security_code : 25m2k
+Send : Enviar
+
+---------------
+

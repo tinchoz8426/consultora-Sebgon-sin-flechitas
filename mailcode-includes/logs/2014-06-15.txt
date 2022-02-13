@@ -1,0 +1,12 @@
+Address : 186.13.5.59
+Nombre : Manuel
+Apellido : López
+Empresa : sin empresa
+Telefono : 1550044099
+Email : manu508@hotmail.com
+Mensaje : La consulta es la siguiente, si puedo enviar mi CV, a los fines de ser analizado para poder trabajar para su empresa. Soy miembro de una fuerza de seguridad, y pronto a recibirme de Lic en Seguridad Pública. En el CV puedo colocar mis expectativas, desde ya gracias. 
+Security_code : md4cm
+Send : Enviar
+
+---------------
+

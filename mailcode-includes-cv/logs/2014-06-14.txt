@@ -1,0 +1,15 @@
+Address : 190.228.1.138
+Nombre : Cristina
+Apellido : bordon
+Cargo : administrativo o atencion al cliente
+Direccion : san roman 185
+Ciudad : chilecito
+Telefono : 3825433549
+Email : crisbordon08@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenas tardes. Deseo ingresar mis datos para asi poder llegar a conseguir un empleo formal que permita mi crecimiento laboral.
+Security_code : rkx32
+Send : Enviar
+
+---------------
+

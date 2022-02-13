@@ -1,0 +1,91 @@
+Address : 200.55.30.133
+Nombre : Alfredo Nicolas
+Apellido : Andreola
+Cargo : Licenciado en <higiene y Seguridad
+Direccion : Calle 462 N°1236
+Ciudad : Berazategui
+Telefono : 1159512863
+Email : andreolanicolas@live.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Responsable de RRHH,
+
+Tengo el agrado de dirigirme a Ud. con el objetivo de participar en búsquedas acordes a mi perfil y mi experiencia. Adjunto mi Curriculum Vitae buscando ser incluido en su base de datos.
+ 
+Soy Licenciado en Higiene y Seguridad Laboral (matricula en trámite) y estudiante de Ing. Industrial. Además  soy Técnico Superior en Higiene, Seguridad y Control Ambiental Industrial y también soy Técnico Electromecánico. Me considero una persona emprendedora, proactiva, creativa, responsable y con capacidad para formar parte de un equipo de trabajo para poder lograr los objetivos propuestos.
+ 
+Mi educación y formación fue orientada a la Producción, Calidad, Higiene, Seguridad y Control Ambiental Industrial, además he realizado varios cursos de actualización y de Gestión de Calidad ISO 9001/ Medio Ambiente ISO 14001/ Higiene y Seguridad OHSAS 18001, y sumado a mi experiencia en fábrica y oficina técnica en tareas de supervision, control de personal y calidad de procesos y productos, me permite desenvolverme correctamente en el ámbito manufacturero y diferentes tipos de industrias. Cuento con un fluido manejo del inglés y herramientas informáticas.
+ 
+En particular, manifiesto mi interés por tener la posibilidad de concretar una entrevista en cuanto haya una vacante disponible para un puesto en donde mi experiencia profesional y laboral cumpla con los requerimientos. Mi objetivo es poder incorporarme a una empresa que me permita adquirir competencias para mi crecimiento profesional y laboral.
+
+Sin otro particular, aprovecho esta oportunidad para saludarlo cordialmente.
+ 
+Lic. Alfredo Nicolas  Andreola
+
+Security_code : zj392
+Send : Enviar
+
+---------------
+
+Address : 179.39.71.44
+Nombre : María Inés
+Apellido : Barboza
+Cargo : asesor de ventas / call center
+Direccion : Luis Braille nº 2419
+Ciudad : Florencio Varela 
+Telefono : 43553106
+Email : saludfv2015@outlook.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Responsable y proactiva. BUENA PRESENCIA
+Security_code : v2r7q
+Send : Enviar
+
+---------------
+
+Address : 179.39.71.44
+Nombre : María Inés
+Apellido : Barboza
+Cargo : asesor de ventas / call center
+Direccion : Luis Braille nº 2419
+Ciudad : Florencio Varela 
+Telefono : 43553106
+Email : saludfv2015@outlook.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Responsable y proactiva. BUENA PRESENCIA
+Security_code : v2r7q
+Send : Enviar
+
+---------------
+
+Address : 179.39.71.44
+Nombre : María Inés
+Apellido : Barboza
+Cargo : asesor de ventas / call center
+Direccion : Luis Braille nº 2419
+Ciudad : Florencio Varela 
+Telefono : 43553106
+Email : saludfv2015@outlook.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Responsable y proactiva. BUENA PRESENCIA
+Security_code : v2r7q
+Send : Enviar
+
+---------------
+
+Address : 186.18.93.172
+Nombre : Hernan Nicolas
+Apellido : Ovalle
+Cargo : Auxiliar de RRHH
+Direccion : Matienzo 1122
+Ciudad : Buenos Aires
+Telefono : 1560007094
+Email : Hernannovalle@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenas noches, les dejo adjunto a este mensaje mi CV con el fin de que lo tengan en su base de datos para posibles busquedas laborales, desde ya muchas gracias.
+
+Saludos cordiales
+Hernan Nicolas Ovalle
+Security_code : kn2g9
+Send : Enviar
+
+---------------
+

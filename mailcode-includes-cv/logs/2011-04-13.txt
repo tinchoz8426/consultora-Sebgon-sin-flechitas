@@ -1,0 +1,16 @@
+Address : 186.56.155.166
+REF : tecnico-de-mantenimiento
+Nombre : leonardo javier
+Apellido : gomez
+Cargo : TECNICO EN MANTENIMIENTO
+Direccion : INCLAN 1733 - MERLO-
+Ciudad : merlo
+Telefono : 02204896936
+Email : LAGOME17@GMAIL.COM
+MAX_FILE_SIZE : 2097152
+Mensaje : CUENTO CON MATRICULA COPITEC N°3026 CON INCUMBENCIAS EN INSTALACIONES ELECTRICAS HASTA 10KW
+Security_code : 93GYW
+Send : Enviar
+
+---------------
+

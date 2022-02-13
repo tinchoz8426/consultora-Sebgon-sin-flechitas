@@ -1,0 +1,173 @@
+Address : 181.21.69.152<br>
+ <br>Nombre : Mayra Ayelén
+ <br>Apellido : Aquino
+ <br>Cargo : Técnico Químico
+ <br>Direccion : Federico Leloir 1292
+ <br>Ciudad : BARRIO AERONAUTICO (CP=1714)
+ <br>Telefono : 44817922
+ <br>Email : mayraaquino1995@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Quedo a su disponibilidad para ampliar cualquier información.
+ <br>Security_code : Wcs26
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.21.69.152<br>
+ <br>Nombre : Mayra Ayelén
+ <br>Apellido : Aquino
+ <br>Cargo : Técnico Químico
+ <br>Direccion : Federico Leloir 1292
+ <br>Ciudad : BARRIO AERONAUTICO (CP=1714)
+ <br>Telefono : 44817922
+ <br>Email : mayraaquino1995@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Quedo a su disponibilidad para ampliar cualquier información.
+ <br>Security_code : wcs26
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 200.59.0.210<br>
+ <br>REF : Ing. quim
+ <br>Nombre : Pablo 
+ <br>Apellido : Pinto
+ <br>Cargo : Jefe de produccion
+ <br>Direccion : Palermo, Capital Federal
+ <br>Ciudad : BUENOS AIRES
+ <br>Telefono : 1169610548
+ <br>Email : pabloj17pinto@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Envio mi Curriculum vitae para popstularme a la vacante , cuento con la amyor disponibilidad de cambio de residencia y adaptabilidad.
+ <br>Security_code : j3r6x
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.44.122.159<br>
+ <br>Nombre : Jorge andres
+ <br>Apellido : Dominguez
+ <br>Cargo : Operario de produccion o mantenimiento
+ <br>Direccion : Los cipreces 3141
+ <br>Ciudad : Buenos aires
+ <br>Telefono : 1166242248
+ <br>Email : Jorgeadominguez@outlook.es
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me postulo para algun trabajo de operario de produccion o mantenimiento
+ <br>Security_code : Tsnnw
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.61.151.210<br>
+ <br>REF : TEC. EL
+ <br>Nombre : Mauro Javier
+ <br>Apellido : De Simone
+ <br>Cargo : Técnico Electrónico
+ <br>Direccion : Schcolnik 193
+ <br>Ciudad : Hurlingham
+ <br>Telefono : 1568009473
+ <br>Email : maurojads@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados Sres. Sebgon,
+Buenas noches
+Adjunto envío mi CV para postularme a la vacante de Técnico Electrónico.
+
+Saludos,
+
+Mauro De Simone
+ <br>Security_code : kk23r
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.19.32.123<br>
+ <br>Nombre : Mariana
+ <br>Apellido : Gonzalez
+ <br>Cargo : auxiliar administrativo
+ <br>Direccion : Bogota 77
+ <br>Ciudad : Capital federal
+ <br>Telefono : 1162308615
+ <br>Email : mariana.gonzalez91@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estoy en búsqueda laboral activa
+ <br>Security_code : q6kds
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 200.59.164.108<br>
+ <br>Nombre : Gastón Andrés
+ <br>Apellido : Leotta
+ <br>Cargo : Operrio de producción
+ <br>Direccion : Balcarce
+ <br>Ciudad : Morón
+ <br>Telefono : 46967145
+ <br>Email : gastonleotta@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Presentación espontánea. Deseo ingresar en la base de datos y ser tenido en cuenta en futuras búsquedas como operario de producción.
+ <br>Security_code : jx99q
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.25.193.35<br>
+ <br>Nombre : Gonzalo
+ <br>Apellido : Velozo
+ <br>Cargo : Técnico en Seguridad e Higiene en el trabajo
+ <br>Direccion : Rosario 6501
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 1134862427
+ <br>Email : gonza_darii@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Soy un joven de 22 años me recibí de Técnico en seguridad e Higiene en 2017 estoy matriculado en el COPIME. Desde ya muchas gracias saludos.
+ <br>Security_code : 4m8fm
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.25.193.35<br>
+ <br>Nombre : Gonzalo
+ <br>Apellido : Velozo
+ <br>Cargo : Técnico en Seguridad e Higiene en el trabajo
+ <br>Direccion : Rosario 6501
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 1134862427
+ <br>Email : gonza_darii@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Soy un joven de 22 años me recibí de Técnico en seguridad e Higiene en 2017 estoy matriculado en el COPIME. Desde ya muchas gracias saludos.
+ <br>Security_code : 4m8fm
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.25.193.35<br>
+ <br>Nombre : Gonzalo
+ <br>Apellido : Velozo
+ <br>Cargo : Técnico en Seguridad e Higiene en el trabajo
+ <br>Direccion : Rosario 6501
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 1134862427
+ <br>Email : gonza_darii@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Soy un joven de 22 años me recibí de Técnico en seguridad e Higiene en 2017 estoy matriculado en el COPIME. Desde ya muchas gracias saludos.
+ <br>Security_code : 4m8fm
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.25.193.35<br>
+ <br>Nombre : Gonzalo
+ <br>Apellido : Velozo
+ <br>Cargo : Técnico en Seguridad e Higiene en el trabajo
+ <br>Direccion : Rosario 6501
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 1134862427
+ <br>Email : gonza_darii@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Soy un joven de 22 años y estoy con muchas ganas de aprender y dar lo mejor de mi para que la consultora crezca. Desde ya muchas gracias saludos
+ <br>Security_code : 5ms4d
+ <br>Send : Enviar
+ <br>
+---------------
+

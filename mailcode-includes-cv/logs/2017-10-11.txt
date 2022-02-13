@@ -1,0 +1,80 @@
+Address : 181.192.62.58<br>
+ <br>REF : SP-1
+ <br>Nombre : Hernan
+ <br>Apellido : Gelay
+ <br>Cargo : Supervisor
+ <br>Direccion : Concejal Tribulato 2857
+ <br>Ciudad : San Miguel
+ <br>Telefono : 1164552930 - 02323597343
+ <br>Email : hernangelay@hotmail.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Desarrollar mi experiencia con capacidad y responsabilidad, satisfaciendo las necesidades de la empresa y propias, enriqueciendome de sabiduria y aprendizaje.
+ <br>Security_code : 95fwx
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.30.36.9<br>
+ <br>REF : JPER-1
+ <br>Nombre : Roberto
+ <br>Apellido : Quirico
+ <br>Cargo : Jefe de personal
+ <br>Direccion : Guardia Nacional, 225    4 C
+ <br>Ciudad : CABA
+ <br>Telefono : 1133774874
+ <br>Email : robertoquirico.rq@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Tengo mucho para aportar
+ <br>Security_code : 43jqtyhr2x
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.30.36.9<br>
+ <br>REF : JPER-1
+ <br>Nombre : Roberto
+ <br>Apellido : Quirico
+ <br>Cargo : Jefe de personal
+ <br>Direccion : Guardia Nacional, 225    4 C
+ <br>Ciudad : CABA
+ <br>Telefono : 1133774874
+ <br>Email : robertoquirico.rq@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Tengo mucho para aportar
+ <br>Security_code : Qw9x7
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.30.36.9<br>
+ <br>REF : JPER-1
+ <br>Nombre : Roberto
+ <br>Apellido : Quirico
+ <br>Cargo : Jefe de personal
+ <br>Direccion : Guardia Nacional, 225    4 C
+ <br>Ciudad : CABA
+ <br>Telefono : 1133774874
+ <br>Email : robertoquirico.rq@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Tengo mucho para aportar
+ <br>Security_code : qw9x7
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.30.36.9<br>
+ <br>REF : JPER-1
+ <br>Nombre : Roberto
+ <br>Apellido : Quirico
+ <br>Cargo : Jefe de personal
+ <br>Direccion : Guardia Nacional, 225    4 C
+ <br>Ciudad : CABA
+ <br>Telefono : 1133774874
+ <br>Email : robertoquirico.rq@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Tengo mucho para aportar
+ <br>Security_code : nmvxx
+ <br>Send : Enviar
+ <br>
+---------------
+

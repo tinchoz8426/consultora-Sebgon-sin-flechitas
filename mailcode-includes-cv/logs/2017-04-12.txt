@@ -1,0 +1,170 @@
+Address : 152.171.148.3<br>
+ <br>Nombre : Martin
+ <br>Apellido : Presta
+ <br>Cargo : operario
+ <br>Direccion : garay 4710
+ <br>Ciudad : Mar del Plata
+ <br>Telefono : 2235-555591
+ <br>Email : prestamartin4@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Excelente capacidad de adaptación; gran trabajo en equipo
+ <br>Security_code : wz8vq
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.17.5.16<br>
+ <br>REF : chr
+ <br>Nombre : Juan Manuel 
+ <br>Apellido : Navarro
+ <br>Cargo : Chofer de reparto
+ <br>Direccion : manuel artigas 5106
+ <br>Ciudad : CABA
+ <br>Telefono : 1123432897
+ <br>Email : jnm198331@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : muchas gracias por revisar mi CV,tengo amplia experiencia en repartos,vivo en la zona de mataderos,me adapto a cualquier formato de trabajo,por favor tenga a bien preseleccionarme ya que estoy sin trabajo y realmente lo necesito,gracias,tengo registro de camiones y CNRT vigente.sin mas,muchas gracias
+ <br>Security_code : yz43t
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.13.5.193<br>
+ <br>REF : chr
+ <br>Nombre : Eduardo
+ <br>Apellido : Orellana
+ <br>Cargo : Chofer
+ <br>Direccion : Arenales
+ <br>Ciudad : Florencio varela
+ <br>Telefono : 1135614700
+ <br>Email : eduardoorellana612@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Tengo esperiensia
+ <br>Security_code : Sg33m
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.13.4.88<br>
+ <br>REF : chr
+ <br>Nombre : Carlos
+ <br>Apellido : Gomez
+ <br>Cargo : Chofer de reparto
+ <br>Direccion : Luján 775
+ <br>Ciudad : Lavallol
+ <br>Telefono : 1160330339
+ <br>Email : carlostemperley84@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Con cnrt curso y psicofísico vencimiento 2018
+ <br>Security_code : g3wdj
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.178.152.19<br>
+ <br>Nombre : Franco
+ <br>Apellido : Canevari
+ <br>Cargo : Agente de Propaganda Médica/Representante de Ventas/Periodista Deportivo
+ <br>Direccion : Martín Rodríguez 396
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 1557452731
+ <br>Email : franco_canevari@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me pongo en contacto con ustedes a fin de hacerles llegar mi currículum vitae para su valoración y así poder formar parte del proceso de selección.
+
+Mi nombre es Franco Canevari, soy Agente de Propaganda Médica egresado del Instituto Dr. Ramón Carrillo en la promoción de 2015.                                                                                                                              
+
+Poseo una agradable presencia, buen trato y simpatía para las relaciones interpersonales con la gente, un nivel alto de inglés (con fluidez para hablarlo) y básico de francés e italiano. 
+
+Me considero una persona proactiva y responsable, con habilidades para llevar a cabo tareas en equipo. Mi objetivo es poder desarrollarme tanto personal como profesionalmente en una empresa que me brinde estabilidad laboral y me permita crecer en esos aspectos.
+
+Estoy interesado en unirme a su equipo de profesionales porque quiero formar parte de su estrategia de desarrollo y crecimiento.
+
+Sería un placer para mí poder ampliar la información sobre mi formación profesional tal y como se recogen en el currículum a través de una entrevista personal. Para ello, no dude en contactar conmigo.
+
+Reciba un cordial saludo,
+Atentamente
+Franco Canevari
+ <br>Security_code : tdrc2
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.188.100.248<br>
+ <br>REF : JPER-1
+ <br>Nombre : Cristian 
+ <br>Apellido : Guccione
+ <br>Cargo : Jefe de Recursos Humanos
+ <br>Direccion : Bme. Mitre 1131
+ <br>Ciudad : CABA
+ <br>Telefono : 1549985526
+ <br>Email : cristiangabrielguccione@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Adjunto mi CV para la búsqueda de Jefe de Personal. Considero cumplir con las competencias requeridas por el la posición
+ <br>Security_code : 387x6
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.138.237.90<br>
+ <br>Nombre : tatiana
+ <br>Apellido : pilelsky
+ <br>Cargo : administrativo
+ <br>Direccion : arminda galvez 3565
+ <br>Ciudad : MORON - CASTELAR
+ <br>Telefono : 1130075450
+ <br>Email : tatianapilelsky@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : estoy interesada en trabajar con ustedes,busco trabajo en varios puestos. desde ya muchas gracias
+ <br>Security_code : dkd7b
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.46.78.222<br>
+ <br>REF : ACO-1
+ <br>Nombre : SERGIO LUIS
+ <br>Apellido : FARIOLI
+ <br>Cargo : ANALISTA DE COMERCIO EXTERIOR
+ <br>Direccion : formosa 1834
+ <br>Ciudad : LANUS (CP=1824)
+ <br>Telefono : 39691160
+ <br>Email : sergiofarioli@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Adj. CV para postularme como Analista de Comercio Exterior
+Pretensiones 16000  neto
+ <br>Security_code : yt739
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 191.81.144.94<br>
+ <br>Nombre : Gustavo Daniel
+ <br>Apellido : Rapp
+ <br>Cargo : Seguridad privada
+ <br>Direccion : Sicilia 8225
+ <br>Ciudad : Mar del Plata
+ <br>Telefono : 2235451247
+ <br>Email : gusrapp1@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estoy en busca de un empleo preferentemente en el área de seguridad ya que poseo experiencia en el rubro, soy proactivo, se trabajar en grupo, me adapto con facilidad y trabajo con absoluta responsabilidad.
+ <br>Security_code : mmdsf
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 191.81.144.94<br>
+ <br>Nombre : Gustavo Daniel
+ <br>Apellido : Rapp
+ <br>Cargo : Seguridad privada
+ <br>Direccion : Sicilia 8225
+ <br>Ciudad : Mar del Plata
+ <br>Telefono : 2235451247
+ <br>Email : gusrapp1@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estoy en busca de un empleo preferentemente en el área de seguridad ya que poseo experiencia en el rubro, soy proactivo, se trabajar en grupo, me adapto con facilidad y trabajo con absoluta responsabilidad.
+ <br>Security_code : mmdsf
+ <br>Send : Enviar
+ <br>
+---------------
+

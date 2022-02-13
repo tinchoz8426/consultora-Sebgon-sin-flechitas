@@ -1,0 +1,17 @@
+Address : 181.164.137.108
+Nombre : Alejandra
+Apellido : Morales
+Cargo : Empleada Administrativa
+Direccion : Avenida Poeta Lugones 50 piso 7 D
+Ciudad : Còrdoba Capital
+Telefono : 0351-153902643
+Email : ale_ms21@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : OBJETIVO:
+TRABAJAR, PERFECCIONARME, DEMOSTRAR MI EFICIENCIA Y DEDICACIÓN AL TRABAJO, APORTANDO LOS CONOCIMIENTOS ADQUIRIDOS.
+
+Security_code : gyy3r
+Send : Enviar
+
+---------------
+

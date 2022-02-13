@@ -1,0 +1,85 @@
+Address : 200.125.73.210<br>
+ <br>REF : TM-2
+ <br>Nombre : Gustavo Alejandro
+ <br>Apellido : Terranova
+ <br>Cargo : Tecnico Mecánico
+ <br>Direccion : Av. Juan B. Alberdi 1539
+ <br>Ciudad : Ciudad Autónoma Buenos Aires
+ <br>Telefono : 1136552183
+ <br>Email : guterra17@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Envío CV 
+ <br>Security_code : kp5k3
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.7<br>
+ <br>Nombre : Paola Natalia
+ <br>Apellido : Foti
+ <br>Cargo : Jefe RRHH
+ <br>Direccion : Levene 326
+ <br>Ciudad : S. A. De Padua
+ <br>Telefono : 01167108700
+ <br>Email : Paofoti@yahoo.com.ar 
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Envio mi cv para me tengan en cuenta en sus busquedas. ATTE
+ <br>Security_code : 7vr73
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.7<br>
+ <br>REF : JPER-1
+ <br>Nombre : Paola Natalia
+ <br>Apellido : Foti
+ <br>Cargo : Jefe RRHH
+ <br>Direccion : Levene 326
+ <br>Ciudad : S. A. De Padua
+ <br>Telefono : 01167108700
+ <br>Email : paofoti@yahoo.com.ar 
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Attexx
+ <br>Security_code : xrjzy
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 200.127.2.153<br>
+ <br>REF : SP-1
+ <br>Nombre : ANTONIO JOSE
+ <br>Apellido : ORTIZ MARTINEZ
+ <br>Cargo : supervisor de produccion
+ <br>Direccion : sarmiento 2125
+ <br>Ciudad : Buenos aires
+ <br>Telefono : 1128422296
+ <br>Email : ortizantonio12@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : supervisor de produccion
+ <br>Security_code : r8dyk
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.230.215.196<br>
+ <br>REF : SP-1
+ <br>Nombre : emilio javier
+ <br>Apellido : pacheco
+ <br>Cargo : supervusor
+ <br>Direccion : Luis María Drago, 2214
+ <br>Ciudad : villa adelina
+ <br>Telefono : 54111565767096
+ <br>Email : emiliojavierpacheco@ymail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : De mi mayor consideración :
+			       Me encuentro en una instancia de cambio laboral  y cuento para ello con una sólida formación y muy buena trayectoria  .                                                                         Aspiro  a  incorporarme a una  organización moderna y seria ,seguir capacitándome,aportar  conocimientos ,siendo parte de un equipo que se encuentre a la altura de los desafíos que permanentemente se plantean en la actualidad .
+Mi desempeño se basa  fundamentalmente en las áreas productivas ,habiendo realizado además tareas de laboratorio e investigación.
+He trabajado en la industria farmoquímica  y farmaceútica  fabricando principios activos dirigidos  a mercados internacionales fuertemente regulados ,en la industria  de consumos masivos y  en la industria textil.                                            
+ He sido parte importante superando auditorías regulatorias externas e internas ,optimizando procesos y  gestionando recursos.                                                                                                                                Tengo  determinación ,compromiso ,adaptabilidad,altos valores y buenas relaciones interpersonales.                                                                                                                                           Quedando  a vuestra disposición y a la espera de  una respuesta positiva  con el fin de ampliarle mis antecedentes,les saludo cordialmente
+ Emilio Pacheco .
+
+ <br>Security_code : mbtsx
+ <br>Send : Enviar
+ <br>
+---------------
+

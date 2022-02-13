@@ -1,0 +1,30 @@
+Address : 186.109.159.40
+Nombre : Eliana
+Apellido : Frattoni
+Cargo : administrativo
+Direccion : Guatemala 1505
+Ciudad : Rosario
+Telefono : 0341-4561262
+Email : 0341-153804256
+MAX_FILE_SIZE : 2097152
+Mensaje : Me postulo para progresar y ser parte de alguna empresa importante.Para aprender  y capacitarme para un mejor desarrollo de mi actividad laboral.Mi Disponibilidad horaria es PART-TIME
+Security_code : cqjry
+Send : Enviar
+
+---------------
+
+Address : 186.109.159.40
+Nombre : Eliana
+Apellido : Frattoni
+Cargo : administrativo
+Direccion : Guatemala 1505
+Ciudad : Rosario
+Telefono : 0341-4561262
+Email : 0341-153804256
+MAX_FILE_SIZE : 2097152
+Mensaje : Me postulo para progresar y ser parte de alguna empresa importante.Para aprender  y capacitarme para un mejor desarrollo de mi actividad laboral.Mi Disponibilidad horaria es PART-TIME
+Security_code : cqjry
+Send : Enviar
+
+---------------
+

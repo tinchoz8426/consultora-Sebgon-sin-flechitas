@@ -1,0 +1,15 @@
+Address : 181.29.252.234
+Nombre : Eugenio
+Apellido : Cruz Brito
+Cargo : Ingeniero Civil
+Direccion : 1° de mayo 1157
+Ciudad : Santa Fe
+Telefono : 0342-154764776
+Email : eugcru@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Saludos, les mando mi CV, si necesitan un Ingeniero Civil. Desde ya gracias.
+Security_code : jd4wv
+Send : Enviar
+
+---------------
+

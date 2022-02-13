@@ -1,0 +1,14 @@
+Address : 181.95.114.231
+Nombre : Maximiliano
+Apellido : Dal canton
+Empresa : no tengo 
+Telefono : 15 36573321
+Email : maximilino.dalcanton@hotmail.com
+Mensaje : Saludos,
+
+Quisiera saber como puedo inscribirme para las capacitaciones de liderazgo y trabajo en equipo.
+Security_code : y2x25
+Send : Enviar
+
+---------------
+

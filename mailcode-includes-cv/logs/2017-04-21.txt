@@ -1,0 +1,48 @@
+Address : 181.119.74.73<br>
+ <br>REF : chr
+ <br>Nombre : Damian 
+ <br>Apellido : Quinteros 
+ <br>Cargo : Chófer 
+ <br>Direccion : Calle 713 sector gran casa 26
+ <br>Ciudad : Ciudad evita 
+ <br>Telefono : 1164315522
+ <br>Email : Robada_4@hotmail.com 
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Solicitud de empleo 
+ <br>Security_code : Rhg4d
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.131.118.20<br>
+ <br>REF : ACO-1
+ <br>Nombre : Gabriel Hernan
+ <br>Apellido : Gonzalez Rojas
+ <br>Cargo : Analista Importacion
+ <br>Direccion : 11 de septiembre 1050
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 43592199
+ <br>Email : gabrielgonzalezr.28@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Con muchas ganas de sumarme a su staff.
+ <br>Security_code : vg5z6
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.229.213.187<br>
+ <br>REF : ROT-1
+ <br>Nombre : Luca
+ <br>Apellido : Fondello
+ <br>Cargo : diseñador Industrial
+ <br>Direccion : Zuberbuhluer 1818
+ <br>Ciudad : CABA
+ <br>Telefono : 1560521612
+ <br>Email : lucafondello@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Diseñador técnico, pero con gran creatividad, con herramientas, digitales, y practicas sobre materiales y procesos industriales. Gran capacidad para absorber nuevos cocimientos y para trabajar en equipo.
+ <br>Security_code : cs6mv
+ <br>Send : Enviar
+ <br>
+---------------
+

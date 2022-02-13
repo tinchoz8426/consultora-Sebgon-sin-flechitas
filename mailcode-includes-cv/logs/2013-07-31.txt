@@ -1,0 +1,15 @@
+Address : 200.117.111.183
+Nombre : Rmon Alberto
+Apellido : Montero
+Cargo : operario
+Direccion : gelves
+Ciudad : escobar
+Telefono : 3484315757
+Email : albe_07@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Gracias por recibir mi curriculum
+Security_code : 8ds3q
+Send : Enviar
+
+---------------
+

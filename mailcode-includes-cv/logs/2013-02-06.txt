@@ -1,0 +1,45 @@
+Address : 190.220.12.194
+Nombre : Elizabeth
+Apellido : Alderete
+Cargo : Administrativa- Secretaria
+Direccion : José M. Moreno 1736 
+Ciudad : Capital Federal
+Telefono : 49224926
+Email : elizabethalderete@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Envio adjunto el archivo de mi CV, a la espera de una pronta y favorable respuesta. Saluda Elizabeth Alderete
+Security_code : y554q
+Send : Enviar
+
+---------------
+
+Address : 186.23.197.137
+Nombre : Romina
+Apellido : Soria
+Cargo : Periodista/Comunicador
+Direccion : Mantovani 27
+Ciudad : Burzaco
+Telefono : 42997505
+Email : romiabdm@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Soy periodista deportiva y estudiante de Comunicación Social en la UBA.
+Security_code : n2b7y
+Send : Enviar
+
+---------------
+
+Address : 200.61.242.113
+Nombre : Gaston Ezequiel
+Apellido : Gomez
+Cargo : Operario
+Direccion : Cerviño 2840
+Ciudad : Buenos Aires
+Telefono : 03327443726
+Email : pacheqiitho.starr@OUTLOOK.COM
+MAX_FILE_SIZE : 2097152
+Mensaje : Curriculum vitae
+Security_code : 36cpq
+Send : Enviar
+
+---------------
+

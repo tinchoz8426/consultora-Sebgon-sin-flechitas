@@ -1,0 +1,15 @@
+Address : 200.93.71.81<br>
+ <br>Nombre : Elio
+ <br>Apellido : Gonzalez
+ <br>Cargo : Tornero/Mecanico Industrial
+ <br>Direccion : Buenos Aires
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 00584269592960
+ <br>Email : eliojosegonzalez1@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : 17 años de experiencia como tornero fresador en tornos  paralelos, lectura de planos, fabricación y ajuste de moldes, usos de instrumentos de medición (calibrador, micrometro, alesometro, entre otros). Fabricación de piezas en diversos materiales. Certificado de Cursos Mecánico Automotriz, Mecánico Industrial y Tornero Industrial.
+ <br>Security_code : d86f4
+ <br>Send : Enviar
+ <br>
+---------------
+

@@ -1,0 +1,144 @@
+Address : 190.19.56.236<br>
+ <br>REF : EP-1
+ <br>Nombre : Felix
+ <br>Apellido : Vega
+ <br>Cargo : Encargado de la produccion
+ <br>Direccion : avenida corrientes 922 departamento 12 piso 3
+ <br>Ciudad : CABA
+ <br>Telefono : 1125646986
+ <br>Email : feva16@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Ingeniero con experiencia en procesos productivos y supervisor de producción.
+ <br>Security_code : nmgsz
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.19.56.236<br>
+ <br>Nombre : Felix Eduardo
+ <br>Apellido : Vega Armas
+ <br>Cargo : Producción y compras
+ <br>Direccion : avenida corrientes 922 departamento 12 piso 3
+ <br>Ciudad : CABA
+ <br>Telefono : 1125646986
+ <br>Email : feva16@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Experiencia como supervisor de lineas productivas y en compras de insumos productivos y no productivos.
+ <br>Security_code : 6mkyz
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.29.226.127<br>
+ <br>REF : ACO-1
+ <br>Nombre : Guido
+ <br>Apellido : Labonia
+ <br>Cargo : Analista de comex
+ <br>Direccion : Av. Trinvirato 3942
+ <br>Ciudad : CABA
+ <br>Telefono : 1525214400
+ <br>Email : Ge.labonia@live.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : CV
+ <br>Security_code : Jcgtn
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.29.226.127<br>
+ <br>REF : ACO-1
+ <br>Nombre : Guido
+ <br>Apellido : Labonia
+ <br>Cargo : Analista de comex
+ <br>Direccion : Av. Trinvirato 3942
+ <br>Ciudad : CABA
+ <br>Telefono : 1525214400
+ <br>Email : Ge.labonia@live.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : CV
+ <br>Security_code : jcgtn
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.29.226.127<br>
+ <br>REF : ACO-1
+ <br>Nombre : Guido
+ <br>Apellido : Labonia
+ <br>Cargo : Analista de comex
+ <br>Direccion : Av. Trinvirato 3942
+ <br>Ciudad : CABA
+ <br>Telefono : 1525214400
+ <br>Email : Ge.labonia@live.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : CV
+ <br>Security_code : b38f3
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.229.140.9<br>
+ <br>Nombre : yesica
+ <br>Apellido : yaneff
+ <br>Cargo : consultora psicosocial
+ <br>Direccion : 65 6 y 7
+ <br>Ciudad : la plata
+ <br>Telefono : 2216513606
+ <br>Email : yesicayaneff@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : ingresar como parte del personal
+ <br>Security_code : 7nmqs
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.143.200.201<br>
+ <br>Nombre : Jonathan
+ <br>Apellido : Fantino
+ <br>Cargo : Chofer de camiones
+ <br>Direccion : Dinamarca 890
+ <br>Ciudad : Merlo
+ <br>Telefono : 01140361661
+ <br>Email : Jonathanfantino90@gmail 
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me encantaría formar parte de su empresa y demostrar q soy un muy buen chofer 
+ <br>Security_code : Cchnb
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.143.200.201<br>
+ <br>Nombre : Jonathan Emmanuel 
+ <br>Apellido : Fantino
+ <br>Cargo : Chofer de camiones
+ <br>Direccion : Dinamarca 890
+ <br>Ciudad : Merlo
+ <br>Telefono : 01140361661
+ <br>Email : Jonathanfantino90@gmail 
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me encantaría desempañerme como chofer y demostrar mi experiencia 
+ <br>Security_code : 5fy45
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.230.106.227<br>
+ <br>REF : JPER-1
+ <br>Nombre : BETTINA
+ <br>Apellido : DESSEAUX
+ <br>Cargo : JEFE DE PERSONAL
+ <br>Direccion : PROF.F.AGUER, 6014
+ <br>Ciudad : VILLA BALLESTER
+ <br>Telefono : 15-2663-3114
+ <br>Email : bettina_de_la_merced@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados:
+Tengo el agrado de dirigirme a Uds. en respuesta a la búsqueda de Jefe de Personal.
+Para postular a la misma adjunto mi currículum vitae.
+Sin otro particular y en espera de una respuesta favorable, les saluda cordialmente;
+Bettina Desseaux
+ <br>Security_code : b8jt2
+ <br>Send : Enviar
+ <br>
+---------------
+

@@ -1,0 +1,64 @@
+Address : 200.127.113.122
+Nombre : Jorge
+Apellido : Tayar
+Cargo : Gerente
+Direccion : Libertad 254
+Ciudad : Paraná
+Telefono : 0343-4223478
+Email : jorgetayar@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Cualquier consulta estoy a disposición, puede ser para la ciudad de Paraná o Santa Fe.
+Muchas Gracias
+Security_code : h4n47
+Send : Enviar
+
+---------------
+
+Address : 190.17.169.229
+REF : tecnico-quimico
+Nombre : Pedro
+Apellido : Castillo
+Cargo : SUPERVISOR-TECNICO QUIMICO
+Direccion : BERUTTI 693
+Ciudad : CAMPANA
+Telefono : 03489-15-572920
+Email : apedrocastillo@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Amplia experiencia en laboratorio, conocimiento de idiomas ingles y portugues, manejo de personal.
+Security_code : bxbgq
+Send : Enviar
+
+---------------
+
+Address : 186.111.8.176
+REF : supervisor-de-elaboracion
+Nombre : JAVIER ORLANDO
+Apellido : SOPLAN
+Cargo : operario
+Direccion : salguero
+Ciudad : SAN MIGUEL
+Telefono : 11-5634-3935
+Email : javi_eltrueno22@hotmail.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados señores, si desean realizar otra consulta acerca de mi persona no duden en comunicarse. Lo saluda atte. Soplan Javier
+Security_code : m7wx2
+Send : Enviar
+
+---------------
+
+Address : 186.111.8.176
+REF : supervisor-de-elaboracion
+Nombre : JAVIER ORLANDO
+Apellido : SOPLAN
+Cargo : operario
+Direccion : salguero
+Ciudad : SAN MIGUEL
+Telefono : 11-5634-3935
+Email : javi_eltrueno22@hotmail.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados señores, si desean realizar otra consulta acerca de mi persona no duden en comunicarse. Lo saluda atte. Soplan Javier
+Security_code : m7wx2
+Send : Enviar
+
+---------------
+

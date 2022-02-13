@@ -1,0 +1,138 @@
+Address : 190.16.161.146
+Nombre : Valeria
+Apellido : Abrany Casado
+Cargo : nutricionista-supervisor
+Direccion : Santa Fe 3942
+Ciudad : Capital Federal
+Telefono : 48329397
+Email : vale_abrany5@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola, soy licenciada en nutricion y profesional gastronomico. Gracias.
+Security_code : ct68z
+Send : Enviar
+
+---------------
+
+Address : 190.17.182.208
+Nombre : Analia Noemi
+Apellido : Sosa
+Cargo : Administrativa / Atención al cliente
+Direccion : Stephenson 555
+Ciudad : Pablo Nogués
+Telefono : 15-4192-8756
+Email : analiasosa-call@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : A quien corresponda:
+Les adjunto mi CV y foto para cualquier tipo de puesto a desarrollar. Actualmente estoy cursando segundo año de la carrera Analista y Planificadora de Medios Publicitarios en APM.
+Desde ya muchas gracias,
+Cordiales saludos.
+
+Security_code : wrmym
+Send : Enviar
+
+---------------
+
+Address : 190.247.86.78
+Nombre : María Mercedes
+Apellido : Piaggio
+Cargo : Administrativo
+Direccion : Olavarría 594
+Ciudad : C.A.B.A.
+Telefono : 1532390067
+Email : mercepiaggio@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Agradeceré consideren mi CV para próximas búsquedas laborales.
+Security_code : 8vcsc
+Send : Enviar
+
+---------------
+
+Address : 190.48.206.47
+Nombre : Fernando Ariel
+Apellido : García
+Cargo : Administrativo
+Direccion : Entre Rios 1412
+Ciudad : San Justo
+Telefono : 44612077
+Email : garciafernandocv@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimado:
+Tengo el agrado de dirigirme a Ud. con el objeto de presentar y ofrecer mis servicios 
+para llegar a formar parte de su equipo de trabajo. 
+Adjunto mi Curriculum en el que podrá visualizar mis referencias laborales y/o 
+datos personales. 
+Le agradezco mucho su atención. 
+Saluda Atte 
+
+ 
+ 
+García Fernando Ariel 
+e-mail: garciafernandocv@yahoo.com.ar 
+Teléfono:(011) 44612077 
+Cel: (011) 1538873705
+
+Security_code : 84hxc
+Send : Enviar
+
+---------------
+
+Address : 186.110.4.188
+Nombre : Yanina Mariel
+Apellido : Juarez
+Cargo : empleada junior
+Direccion : Tinogasta 4965
+Ciudad : Cordoca Capital
+Telefono : 156212424
+Email : yanimar16@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me considero una persona simpatica,agradable servicial,amable,respetuosa,emprendedora,paciente,positiva y con la capacidad de escuchar y tratar de dar la mejor solucion o consejo, valoro mucho lo que aprendo de cada persona y experiencia asi como tambien el hecho de guiar o solucionar los problemas de los demas,con muchas ganas de trabajar, con mucho interes en progresar y mejorar cada dia y aprender de cada experiencia.Muchas Gracias por la oprtunidad. Les saluda atte Yanina Juarez
+Security_code : wqvkv
+Send : Enviar
+
+---------------
+
+Address : 186.19.127.70
+Nombre : STELLA MARIS
+Apellido : ARREDONDO
+Cargo : ASISTENTE SOCIAL
+Direccion : José G. de Artigas 592
+Ciudad : CABA
+Telefono : 46138750
+Email : GHNOGUERA@HOTMAIL.COM
+MAX_FILE_SIZE : 2097152
+Mensaje : Aca les envio mi curriculum x la postulacion de asistente social
+Security_code : nfmjz
+Send : Enviar
+
+---------------
+
+Address : 201.252.208.153
+Nombre : Leandro Martin
+Apellido : Fuentes
+Cargo : Repositor Externo-administrativo-operario
+Direccion : Laguna del desierto 3845
+Ciudad : Rosario
+Telefono : 0341-153210140-   0341-4644099
+Email : ciber_siglo21@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Les mando mi curriculum para que lo tengan en cuenta para un futuro puesto.
+Security_code : 3vnzh
+Send : Enviar
+
+---------------
+
+Address : 201.250.55.67
+Nombre : Maria Cecilia
+Apellido : Redin
+Cargo : Licenciada en Trabajo Social
+Direccion : roca 572
+Ciudad : Chascomús
+Telefono : 0224115552971
+Email : ceciliaredin@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Envio CV 
+Security_code : 32cwb
+Send : Enviar
+
+---------------
+

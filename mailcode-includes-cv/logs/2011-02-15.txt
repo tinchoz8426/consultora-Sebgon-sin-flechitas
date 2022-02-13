@@ -1,0 +1,30 @@
+Address : 190.231.122.155
+Nombre : maximiliano
+Apellido : jose
+Cargo : lo q venga
+Direccion : directorio 4068
+Ciudad : buenos aires
+Telefono : 47501983
+Email : el_millonario_25@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : necesito trabajar me adapto a cuando enprendimiento ,me gusta aprender....gracias
+Security_code : yxkpd
+Send : Enviar
+
+---------------
+
+Address : 186.109.250.1
+Nombre : Nelson Martín
+Apellido : Mildenberger
+Cargo : Ingeniero Químico
+Direccion : Irigoyen 868
+Ciudad : Victoria
+Telefono : 0341-155621561
+Email : tinomilden@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : envio mi cv para que lo tengan en su base de datos
+Security_code : hv95g
+Send : Enviar
+
+---------------
+

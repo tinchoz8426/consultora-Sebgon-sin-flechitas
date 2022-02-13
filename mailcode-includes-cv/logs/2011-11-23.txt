@@ -1,0 +1,17 @@
+Address : 190.55.207.60
+REF : administrativo-logistica
+Nombre : Fabian
+Apellido : Veiga
+Cargo : Operario
+Direccion : Asamblea 1904 Pb A
+Ciudad : Capital Federal
+Telefono : 1168033484
+Email : veigafabian@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Disponibilidad Horaria: Full Time
+Remuneracion pretendida: 3500
+Security_code : 8dzgd
+Send : Enviar
+
+---------------
+

@@ -1,0 +1,12 @@
+Address : 190.48.136.97
+Nombre : yanina
+Apellido : hidalgo
+Empresa : fund. ntra sra del hogar
+Telefono : 15-61664207
+Email : HIDALGO_YANINA@YAHOO.COM.AR
+Mensaje : Hola Quisiera me informen los precios de los servicios de informes prelaborales para realizarselos a 3 postulantes. Espero su respuesta.
+Security_code : p8zq8
+Send : Enviar
+
+---------------
+

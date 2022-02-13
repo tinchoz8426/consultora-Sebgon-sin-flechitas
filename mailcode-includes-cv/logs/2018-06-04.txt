@@ -1,0 +1,275 @@
+Address : 190.12.108.60<br>
+ <br>REF : ACO-1
+ <br>Nombre : Cecilia
+ <br>Apellido : Saffigna
+ <br>Cargo : ANALISTA DE COMERCIO INTERNACIONAL/EXTERIOR
+ <br>Direccion : CONCORDIA 2546
+ <br>Ciudad : CABA
+ <br>Telefono : 45027846
+ <br>Email : ceci_saff@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buen día,
+Adjunto mi cv para ser considerado en la búsqueda de referencia.
+Cordial saludo
+ <br>Security_code : hz69d
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.29<br>
+ <br>Nombre : Christian Andrés
+ <br>Apellido : Frega
+ <br>Cargo : Supervisor Técnico
+ <br>Direccion : Toscanini 1269
+ <br>Ciudad : Moreno
+ <br>Telefono : 11-6898-4141
+ <br>Email : Christian _frega@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Desearía ser tenido en cuenta para formar parte del plantel de una empresa con posibilidad de desarrollo
+ <br>Security_code : 2jwx8
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 200.126.149.37<br>
+ <br>REF : ROT-1
+ <br>Nombre : Jorge
+ <br>Apellido : Quintana
+ <br>Cargo : Responsable de Oficina Técnica
+ <br>Direccion : Olazabal 5124
+ <br>Ciudad : CABA
+ <br>Telefono : +54 911 56418731
+ <br>Email : jorgequintana20@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estoy en proceso de solicitud del DNI, en dos semanas tengo la cita en migraciones para obtener la precaria
+ <br>Security_code : s6j2q
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.137.174.211<br>
+ <br>REF : TEC. EL
+ <br>Nombre : jesus
+ <br>Apellido : salas
+ <br>Cargo : ingeniero electronico
+ <br>Direccion : bolivar 1356, san telmo
+ <br>Ciudad : buenos aires
+ <br>Telefono : 1130755611
+ <br>Email : barbarochus@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : soy Jesús Salas, Ingeniero Electrónico recién graduado, con diplomado en telecomunicaciones y redes, con experiencia en cableado estructurado y Fibra óptica, experiencia en pasantias con la empresa CANTV en Venezuela, en la cual estaba encargado en el área de transmisión en el cual se realizaba supervicion y arreglo de estados de tramos de fibra óptica como su instalación aproximadamente 1 año y medio en el área , Experiencia en arreglo de computadoras en el área de hardware y software.
+
+ 
+
+También se realizaron distintos cursos en base a AUTOCAD y Reparación de computadoras, mantenimiento de equipos de transmisión (en CANTV) y se tiene conocimientos de ingles intermedio conversacional.
+ <br>Security_code : sqwsx
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.47.137.49<br>
+ <br>REF : ROT-1
+ <br>Nombre : Oryana
+ <br>Apellido : Abreu
+ <br>Cargo : ROT-1
+ <br>Direccion : Mario Bravo 658
+ <br>Ciudad : CABA
+ <br>Telefono : 1133682367
+ <br>Email : Oryana1440@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola! Soy arquitecta, recibida de la UCV.
+
+Certificada por Autodesk Revit y Autodesk AutoCAD 2D. Con manejo avanzado de SketchUp  y Adobe Illustrator, Photoshop, InDesign y paquete Microsoft Office. Capacitada para el diseño de edificaciones, diseño de interiores, planos arquitectónicos, gráficos arquitectónicos , modelado 3D y post producción.  Cuento con experiencia en diseño gráfico creando el diseño de marcas personales y corporativas, logos, banners, flayers, manuales, dossiers, portafolios y otros.
+
+Siempre tuve personal a mi cargo. 
+
+Adjunto envio una especie de portafolio donde pueden visualizar unas cuantas cosas en las que he trabajado y CV. Esperaria una remuneración de no menor a 18.000$
+
+Actualmente busco empleo en el area de arquitectura de cualquier escalafón. Entrar a formar parte de una empresa donde se brinden oportunidades de superación y que aliente al desarrollo personal y profesional. 
+
+Agradecería cualquier contacto.
+
+Muchas gracias.
+ <br>Security_code : rzz46
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.183.121.14<br>
+ <br>Nombre : Saviel
+ <br>Apellido : Parada
+ <br>Cargo : Administracion
+ <br>Direccion : Río turbio 1220
+ <br>Ciudad : Ezeiza 
+ <br>Telefono : 1121875347
+ <br>Email : saviel444@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : soy una persona polivalente, con conocimientos técnicos en refrigeracion, aires acondicionados, calefacción, carmaras frigorificas, refrigerantes, compresores hasta 5 hp, equipos de doble circuito de climatización, sistema not frost, electrónica básica, de formacion académica en la rama administrativa, gestión de personal, finanzas, compra y venta de mercancía, stock y transito
+ <br>Security_code : w5f5s
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.183.121.14<br>
+ <br>Nombre : Saviel
+ <br>Apellido : Parada
+ <br>Cargo : Administracion
+ <br>Direccion : Río turbio 1220
+ <br>Ciudad : Ezeiza 
+ <br>Telefono : 1121875347
+ <br>Email : saviel444@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : soy una persona polivalente, con conocimientos técnicos en refrigeracion, aires acondicionados, calefacción, carmaras frigorificas, refrigerantes, compresores hasta 5 hp, equipos de doble circuito de climatización, sistema not frost, electrónica básica, de formacion académica en la rama administrativa, gestión de personal, finanzas, compra y venta de mercancía, stock y transito
+ <br>Security_code : w5f5s
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.9.124.26<br>
+ <br>Nombre : Jorge luis
+ <br>Apellido : Burgos
+ <br>Cargo : Tecnicos mecanico
+ <br>Direccion : Vuelta de obligado 4485 villa linch
+ <br>Ciudad : San martin
+ <br>Telefono : 1134561982
+ <br>Email : jorgeluisbrgs@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estoy en busca de trabajo.para poder superarme cada dia ..
+ <br>Security_code : q25xp
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.183.121.14<br>
+ <br>Nombre : Saviel
+ <br>Apellido : Parada
+ <br>Cargo : Administracion
+ <br>Direccion : Río turbio 1220
+ <br>Ciudad : Ezeiza 
+ <br>Telefono : 1121875347
+ <br>Email : saviel444@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : soy una persona polivalente, con conocimientos técnicos en refrigeracion, aires acondicionados, calefacción, carmaras frigorificas, refrigerantes, compresores hasta 5 hp, equipos de doble circuito de climatización, sistema not frost, electrónica básica, de formacion académica en la rama administrativa, gestión de personal, finanzas, compra y venta de mercancía, stock y transito
+ <br>Security_code : pfpds
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.44.122.96<br>
+ <br>REF : SP-1
+ <br>Nombre : Adrian 
+ <br>Apellido : Gorrasi
+ <br>Cargo : Supervisor Produccion
+ <br>Direccion : Asamblea 1846
+ <br>Ciudad : Buenos aires
+ <br>Telefono : 1569052159
+ <br>Email : gorrasiadrian@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Envio mis datos para ser considerado para el puesto
+ <br>Security_code : hq2hf
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.183.121.14<br>
+ <br>Nombre : Saviel
+ <br>Apellido : Parada
+ <br>Cargo : Administracion
+ <br>Direccion : Río turbio 1220
+ <br>Ciudad : Ezeiza 
+ <br>Telefono : 1121875347
+ <br>Email : saviel444@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : soy una persona polivalente, con conocimientos técnicos en refrigeracion, aires acondicionados, calefacción, carmaras frigorificas, refrigerantes, compresores hasta 5 hp, equipos de doble circuito de climatización, sistema not frost, electrónica básica, de formacion académica en la rama administrativa, gestión de personal, finanzas, compra y venta de mercancía, stock y transito
+ <br>Security_code : k3ykp
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.191.58.186<br>
+ <br>Nombre : Yarenis
+ <br>Apellido : Molero
+ <br>Cargo : Ingeniería Industrial
+ <br>Direccion : plaza 1087
+ <br>Ciudad : buenos aires
+ <br>Telefono : 1150132730
+ <br>Email : yarenism@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Soy Yarenis Molero, ingeniera industrial recibida en Venezuela, cuento con residencia temporaria, tengo experiencia en el área de seguridad e higiene, calidad y procesos administrativos relacionados al área de telecomunicaciones, cuento con capacidad de liderazgo, trabajo en equipo, proactividad, dinamismo. Quisiera la posibilidad de ser un valor agregado a la organización que me permita demostrar mis habilidades en operaciones laborales.
+ <br>Security_code : 47rv8
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.75.162.97<br>
+ <br>REF : TE-1
+ <br>Nombre : Jose
+ <br>Apellido : Mateo
+ <br>Cargo : Ingeniero Electricista
+ <br>Direccion : Av Bolivar 304
+ <br>Ciudad : Caracas
+ <br>Telefono : 00584126602746
+ <br>Email : jmmateoh@yahoo.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Gracias por la oportunidad, cualquier información adicional se las puedo hacer llegar.
+ <br>Security_code : 4qtnd
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.50.112.233<br>
+ <br>REF : EP-1
+ <br>Nombre : Abrahana
+ <br>Apellido : Mendoza
+ <br>Cargo : Encargado de producción.
+ <br>Direccion : Lomas de Zamora
+ <br>Ciudad : Lomas de Zamora
+ <br>Telefono : 1134545173
+ <br>Email : abrahanamendoza@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Disponibilidad para cambiar de residencia
+ <br>Security_code : pq4tp
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.7<br>
+ <br>REF : ROT-1
+ <br>Nombre : Ignacio Nicolás
+ <br>Apellido : Banchero
+ <br>Cargo : Responsable de Oficina Técnica
+ <br>Direccion : Güemes 3036
+ <br>Ciudad : Merlo, Zona Oeste GBA
+ <br>Telefono : 11-5630-2015
+ <br>Email : ibanchero.utnfra@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Adjunto mi CV para su evaluación.
+Desde ya, muchas gracias.
+Saludos.
+Atte.
+Ignacio Banchero.
+ <br>Security_code : skm2j
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.7<br>
+ <br>REF : ROT-1
+ <br>Nombre : Ignacio Nicolás
+ <br>Apellido : Banchero
+ <br>Cargo : Responsable de Oficina Técnica
+ <br>Direccion : Güemes 3036
+ <br>Ciudad : Merlo, Zona Oeste GBA
+ <br>Telefono : 11-5630-2015
+ <br>Email : ibanchero.utnfra@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Adjunto mi CV para su evaluación.
+Desde ya, muchas gracias.
+Saludos.
+Atte.
+Ignacio Banchero.
+ <br>Security_code : d2js4
+ <br>Send : Enviar
+ <br>
+---------------
+

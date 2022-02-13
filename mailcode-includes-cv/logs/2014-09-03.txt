@@ -1,0 +1,221 @@
+Address : 186.128.73.215
+Nombre : Cristian
+Apellido : Brunotti
+Cargo : Analista en Recursos Humanos
+Direccion : Entre Rios 1719 (s)
+Ciudad : San Juan
+Telefono : 264-4568262
+Email : cristbrunotti@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : hola! mi busqueda esta orienta a cualquier rama en la que pueda formarme laboralmente de acuerdo a mis estudios, lo cual fue lo q elegi para mi vida labora de acuerdo con mis habilidades y gustos
+Security_code : cqtyr
+Send : Enviar
+
+---------------
+
+Address : 190.245.83.14
+REF : GTE COM.EXT
+Nombre : Emmanuel
+Apellido : de Ortuzar
+Cargo : Gerente Comercio Exterior
+Direccion : V.S Liniers 681
+Ciudad : Buenos Aires
+Telefono : 15-6051-5722
+Email : deortuzar.emmanuel@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me gustaria ser considerado para la posicion de Gerente de comercio Exterior.
+Tengo experiencia en la industria mas de 18 anos. 
+Security_code : gdkts
+Send : Enviar
+
+---------------
+
+Address : 190.172.103.20
+Nombre : Cristina
+Apellido : Rivadeneyra
+Cargo : Cajera
+Direccion : Madero 212-Liniers/C.A.B.A
+Ciudad : Capital Federal
+Telefono : 1554146712
+Email : crsiti_1212@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Tengo experiencia en caja,volantera,atención al cliente,bachera
+Security_code : hc6n2
+Send : Enviar
+
+---------------
+
+Address : 186.109.103.176
+Nombre : Anabella 
+Apellido : Rolon
+Cargo : Administrativa- Abogada
+Direccion : Avda San Martin 1580
+Ciudad : Bqueras-chaco
+Telefono : 3624006400
+Email : anarove_03@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenos dias hago llegar a Ustedes mi curriculum profesional.
+Security_code : zwdkh
+Send : Enviar
+
+---------------
+
+Address : 186.22.251.134
+Nombre : Matias Raul
+Apellido : Muraca
+Cargo : Administrativo
+Direccion : cortejarena 2984
+Ciudad : Buenos Aires, Capital Federal
+Telefono : 1562785891
+Email : matiasmuraca@hotmail.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Mi nombre es Matias, tengo 22 años vivo en Parque Patricios, en este momento estoy desempleado y en la busqueda de algun empleo admnistrativo, mi disponibilidad para trabajar es Full- time.
+Desde ya les agradezco lo que puedan hacer por mi.
+Saludos,
+
+Matias Muraca
+Security_code : xq36q
+Send : Enviar
+
+---------------
+
+Address : 196.32.75.92
+Nombre : Cecilia Andrea
+Apellido : Pavon
+Cargo : cajera/atención al cliente
+Direccion : calle 556 nº1043
+Ciudad : Bs As
+Telefono : 1564171329
+Email : cecy130@outlook.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : correcta y responsable, así me considero.
+Security_code : 68d8q
+Send : Enviar
+
+---------------
+
+Address : 190.221.203.83
+Nombre : Juan Pablo
+Apellido : Benegas
+Cargo : Cualquier puesto
+Direccion : Rosa ferreyra de roca y publica -  Torre 2 dpto 3 "V"- Bario Cervevceros
+Ciudad : Cordoba
+Telefono : 3512646610
+Email : jpbenegas@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : muchas ganas de trabajar y aprender nuevas experiencias. Espero poder tener la posibilidad de demostrar mi disposición para el trabajo.
+Security_code : xj728
+Send : Enviar
+
+---------------
+
+Address : 201.231.170.114
+Nombre : GASTON HORACIO
+Apellido : CORONEL
+Cargo : CAJERO,VENDEDOR,ATENCION AL CLIENTE
+Direccion : MAZA 120 
+Ciudad : CAPITAL FEDERAL
+Telefono : 01150453812
+Email : gascoronel1984@hotmail.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : NECESITO AYUDA... NECESITO TRABAJO...
+Security_code : 5D8B3
+Send : Enviar
+
+---------------
+
+Address : 190.246.0.120
+Nombre : Alejandro Mauricio
+Apellido : García
+Cargo : Jefe/Gerente Recursos Humanos
+Direccion : Alberdi 735
+Ciudad : Monte Grande
+Telefono : 15-6381-4372
+Email : alejandro_garcia_villarino@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Profesional de área de Recursos Humanos con 20 años de experiencia. Perfil generalista y amplia experiencia en Relaciones Laborales adquirida en plantas industriales del rubro autopartista, construcción, plásticos, entre otras.
+Gracias
+Security_code : wwf46
+Send : Enviar
+
+---------------
+
+Address : 186.182.11.183
+Nombre : noelia
+Apellido : escobedo
+Cargo : maestranza
+Direccion : la blanqueada 4273
+Ciudad : buenos aires
+Telefono : 1557427422
+Email : noeliaescobedo75@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Deseo empeñarme en el area de maestranza o bien hoteleria. 
+Security_code : K895v
+Send : Enviar
+
+---------------
+
+Address : 181.29.77.30
+Nombre : Marianela
+Apellido : Rey Ferraro
+Cargo : Recepcionista
+Direccion : Munilla 2319
+Ciudad : Buenos Aires
+Telefono : 4627-0811
+Email : marirey_f@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Envío mi Curriculum Vitae con el objetivo de lograr la búsqueda de un empleo.
+Security_code : v4gkk
+Send : Enviar
+
+---------------
+
+Address : 186.137.233.211
+Nombre : malena
+Apellido : callegari
+Cargo : recepcionista,atencion al cliente
+Direccion : av mitre 5089
+Ciudad : caseros
+Telefono : 1155784715
+Email : malenacallegari@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenas tardes:
+                    Me encuentro interesada en poder formar parte de su equipo de trabajo.Soy ex estudiante de medicina asique cuento con conocimientos en el area de la salud;soy extraccionista de laboratorio y realice practicas en el hospital de clinicas,entre otras instituciones.
+Proximamente quiero estudiar la tecnicatura en laboratorio,pero por el momento me interesaria trabajar en el area de la salud,sin importar si el puesto es de recepcionista,administrativo,o en la central de turnos,mi prioridad es seguir dentro del ambito que elegi para desarrollarme.
+Espero me tengan en cuenta en caso de existir algun puesto.
+Atte Malena Callegari Castelli
+Security_code : q7k68
+Send : Enviar
+
+---------------
+
+Address : 186.135.69.240
+Nombre : Yésica  Maribel 
+Apellido : Fernández 
+Cargo : Asistente social 
+Direccion : Franz Liszt 1986
+Ciudad : Moreno 
+Telefono : 0111566085625
+Email : Yesyk_fernandez@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenas: me postulo  para trabajar en empresas,  en el área de recursos humanos, a fin de realizar y corroborar los informes socio ambientales necesarios. 
+Security_code : Kk9fc
+Send : Enviar
+
+---------------
+
+Address : 181.47.29.1
+Nombre : Romina
+Apellido : Cheda
+Cargo : vendedora, encargada, cajera 
+Direccion : Av San Martin 3700
+Ciudad : bs as capital federal
+Telefono : 1524749212
+Email : rominacheda1986@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me gustaria formar parte de un equipo de trabajo en el area de comercio de indumentaria.
+Security_code : jb9rh
+Send : Enviar
+
+---------------
+

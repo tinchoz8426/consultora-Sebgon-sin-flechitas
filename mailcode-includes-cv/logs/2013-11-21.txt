@@ -1,0 +1,135 @@
+Address : 
+Nombre : Sergio Alejandro
+Apellido : Gonzalez
+Cargo : Calidad, Supervisión, 
+Direccion : Vilela 2217 1° A
+Ciudad : Capital Federal
+Telefono : 15 5527 5899
+Email : gonzalez.sergioalejandro@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados, buenos día.
+Les adjunto copia de mi Curricum Vitae para que sea incorporado dentro de su base de datos.
+Me considero una persona emprendedora, carismática, dinámica y responsable; con ganas de asumir desafíos y con un excelente manejo de las relaciones interpersonales; tengo facilidad en el aprendizaje de tareas en general y me integro con facilidad en distintos equipos de trabajo. Cuento con experiencia en la gestión de equipos, planeamiento e implementación de procesos de mejora, con certificación en ITIL y sólidos conocimientos en norma COPC.
+Durante mis 10 años de experiencia he prestado servicios para empresas de los rubros salud, banca y finanzas, automotriz y help desk; con exposición a clientes internos y externos
+Desde ya muchas gracias.
+Saluda a Uds. Atte.
+
+Security_code : 4jthd
+Send : Enviar
+
+---------------
+
+Address : 
+Nombre : Cecilia
+Apellido : Gimenez
+Cargo : Administrativo: Atencion al cliente
+Direccion : 80 bis
+Ciudad : La Plata
+Telefono : 221-155770366
+Email : ceci_gimenez@hotmail.com
+
+---------------
+
+Address : 
+Nombre : Cecilia
+Apellido : Gimenez
+Cargo : Administrativo: Atencion al cliente
+Direccion : 80 bis
+Ciudad : La Plata
+Telefono : 221-155770366
+Email : ceci_gimenez@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me considero una persona con buena presencia, versátil, autodidacta y dispuesta a trabajar en grupo.
+Con ansias de un crecimiento personal y laboral
+Security_code : qvdqw
+Send : Enviar
+
+---------------
+
+Address : 
+Nombre : Daniela Andrea 
+Apellido : Dieguez
+Cargo : Asistente 
+Direccion : Moreno 864
+Ciudad : Rosario 
+Telefono : 341 153004963
+Email : daniabated@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : De mi mayor consideración:
+ 
+ 
+                                          Mi nombre es Daniela  Dieguez, el 03 de diciembre de 2010 rendí la última materia de  la carrera de Arquitectura en la Universidad Nacional de Rosario. Cuento con experiencia laboral, he trabajado con diversos estudios y profesionales de forma independiente en diferentes períodos pero mi intención es insertarme laboralmente por completo, con el fin de poder ampliar y demostrar mis conocimientos y aptitudes; dedicación, compromiso y ganas de progresar humana y profesionalmente. Adjunto curriculum vitae y quedo a la espera de una respuesta favorable.
+ 
+Atentamente.
+ 
+Daniela Andrea Dieguez
+daniabated@yahoo.com.ar
+cel. 0341-153 004963.
+Security_code : g9y2q
+Send : Enviar
+
+---------------
+
+Address : 
+Nombre : Marina Laura
+Apellido : Ferrandez
+Cargo : Asistente Contable
+Direccion : Peru 830
+Ciudad : Merlo 
+Telefono : 15-6115-6175
+Email : marinaferrandez@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola gente de SEBGON. Les adjunto mi CV para que puedan ingresarme en su base de datos y así poder tenerme en cuenta para futuras búsquedas. Acabo de finalizar varios cursos ADMINISTRATIVOS: “Liquidación de Sueldos” (UBA) + “Asistente contable” y “Operador Sistema Tango” (CETAE). Mi deseo es encontrar un trabajo estable donde pueda seguir capacitándome a través de la práctica. No tengo experiencia laboral en el rubro, pero con lo aprendido en los cursos y mi capacidad de trabajo, creo poder afrontar las diferentes situaciones laborales que se presenten. Por eso, creo que un lugar donde busquen personas responsables y con ganas de aprender, es ideal para mí. 
+Security_code : pz6mc
+Send : Enviar
+
+---------------
+
+Address : 
+Nombre : Matías
+Apellido : Iglesias
+Cargo : Administrativo
+Direccion : San Jose 1722
+Ciudad : Aldo Bonzi
+Telefono : 1140287461
+Email : mati_iglesias@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estoy en la búsqueda de un trabajo en los alrededores de la Ciudad de Córdoba poder continuar con mis estudios en Villa Carlos Paz, de la carrera Guía Profesional de Trekking.
+Security_code : 292zg
+Send : Enviar
+
+---------------
+
+Address : 
+Nombre : Rocio Nair
+Apellido : Rollan
+Cargo : Analista de Créditos y Cobranzas
+Direccion : Av Santa Fe 2686
+Ciudad : CABA
+Telefono : 011 1535064610
+Email : rollanrocio@hotmail.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimado/a:
+Me encuentro en el cambio de puesto laboral, la busqueda se orienta a perfiles orientado en cobranzas,ful time.
+Atte.
+Security_code : kp9vp
+Send : Enviar
+
+---------------
+
+Address : 
+Nombre : Carla Iliana
+Apellido : Di Mario
+Cargo : Secretaria, Recepcionista, derivados.
+Direccion : Ambrosetti 4542
+Ciudad : San Justo 
+Telefono : 46913119
+Email : carladimario@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me presento en carácter de solicitante de empleo, mi nombre es Carla Iliana Di Mario, actualmente poseo 19 años, con analítico en mano; Me caracterizo por ser una persona Proactiva, que no necesita control continuo, aprendo rápido el oficio, y poseo la característica de adecuarme al lugar sea cual fuese, sin ningún inconveniente, puedo trabajar sola, así como también en grupo, me gustaría contar con la posibilidad de encontrar un trabajo que en este momento me permita crecer, adquirir experiencia, como a su vez darme los recursos para poder seguir formándome.
+
+Security_code : s4vsh
+Send : Enviar
+
+---------------
+

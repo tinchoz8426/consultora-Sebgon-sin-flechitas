@@ -1,0 +1,45 @@
+Address : 190.18.123.107
+Nombre : Ezequiel
+Apellido : Senini
+Cargo : Indistinto
+Direccion : Artigas 2042 7° B
+Ciudad : Capital Federal
+Telefono : 45830605
+Email : larrypunk@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Les envío mi cv en el caso de que tengan algún tipo de búsqueda que se adecue a mi perfil. Saludos.
+Security_code : yqmws
+Send : Enviar
+
+---------------
+
+Address : 190.115.63.171
+Nombre : Romina Noelia
+Apellido : Salinas
+Cargo : Cajera, repositora, admiunistrativa
+Direccion : B° Soeva II M-G Casa 20
+Ciudad : Memdoza
+Telefono : 02614526773
+Email : romisalinas_82@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : me gustaria formar parte de un equipo de trabajo de gente responsable y con enfoque en objetivos
+Security_code : xqsr6
+Send : Enviar
+
+---------------
+
+Address : 200.59.11.148
+Nombre : juan
+Apellido : pacheco
+Cargo : administrativo de expedicion y operario para logistica
+Direccion : tortuguita
+Ciudad : buenos aires
+Telefono : 03327457655
+Email : pacheco.pachecojuan.juan@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : tiempo full time y puedo trabajar como operario de logistica como encargado de expedicion
+Security_code : gw8wq
+Send : Enviar
+
+---------------
+

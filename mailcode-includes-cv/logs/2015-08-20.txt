@@ -1,0 +1,266 @@
+Address : 66.102.8.155
+Nombre : Jonatan
+Apellido : Aguilar
+Cargo : Administrativo 
+Direccion : Lavalle 207
+Ciudad : Temperley 
+Telefono : 1160251391
+Email : Jonatan.aguilarleroyer@gmail.com 
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto mi cv para así tengan a bien considerarme en las próximas búsquedas laborales 
+Security_code : Sgspv
+Send : Enviar
+
+---------------
+
+Address : 66.102.8.155
+Nombre : Jonatan
+Apellido : Aguilar
+Cargo : Administrativo 
+Direccion : Lavalle 207
+Ciudad : Temperley 
+Telefono : 1160251391
+Email : Jonatan.aguilarleroyer@gmail.com 
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto mi cv para así tengan a bien considerarme en las próximas búsquedas laborales 
+Security_code : 6dh45
+Send : Enviar
+
+---------------
+
+Address : 179.37.164.28
+Nombre : Andrea Natali
+Apellido : Gasparini
+Cargo : Administración- Licenciatura en Ciencias Ambientales
+Direccion : Mentruyt 1136
+Ciudad : Banfield
+Telefono : 1561611946
+Email : natii.19@live.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Poseo muy buena predisposición. Me encuentro en búsqueda de trabajo debido a que me recibi de Licenciada en Ciencias Ambientales hace 3 meses.
+Security_code : xn6wd
+Send : Enviar
+
+---------------
+
+Address : 179.37.164.28
+Nombre : Andrea Natali
+Apellido : Gasparini
+Cargo : Administración- Licenciatura en Ciencias Ambientales
+Direccion : Mentruyt 1136
+Ciudad : Banfield
+Telefono : 1561611946
+Email : natii.19@live.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Poseo muy buena predisposición. Me recibi hace 3 meses de Licenciada en Ciencias Ambientales y me encuentro en búsqueda de trabajo ya sea en mi area o en administración.
+Security_code : ts7h5
+Send : Enviar
+
+---------------
+
+Address : 74.82.68.144
+Nombre : Sara Mabel 
+Apellido : Cerrudo 
+Cargo : Técnico en Laboratorio 
+Direccion : Calle 511 No.3731 
+Ciudad : Florencio Varela 
+Telefono : 1556906813 
+Email : sarah-smc1@hotmail.com 
+MAX_FILE_SIZE : 2097152
+Mensaje : Soy Técnica en Laboratorio y trabaje en el área de Bacteriológia 5 años,toma de muestras,etc.Cuento con disponibilidad horaria.
+Security_code : rt2z2
+Send : Enviar
+
+---------------
+
+Address : 201.212.5.12
+Nombre : Erica Samanta
+Apellido : Quattrini
+Cargo : operaria
+Direccion : santo domingo nº 4861
+Ciudad : moreno
+Telefono : 1154670131
+Email : ericaquattrini@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : operaria en industriasalimenticias o a fines.
+Security_code : 2fcds
+Send : Enviar
+
+---------------
+
+Address : 190.55.51.195
+Nombre : katy
+Apellido : Barrios
+Cargo : Ejecutiva de Ventas, jefe de ventas, administradora
+Direccion : Arenales  1238
+Ciudad : CABA
+Telefono : 11 21564932
+Email : katybarrioscontreras@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Ofrezco mi CV para su analisis y contar con ustedes para una posicion laboral, en el area de ventas y/o Administracion. Muchas Gracias Katy Barrios
+Security_code : ywyr7
+Send : Enviar
+
+---------------
+
+Address : 190.55.51.195
+Nombre : katy
+Apellido : Barrios
+Cargo : Ejecutiva de Ventas, jefe de ventas, administradora
+Direccion : Arenales  1238
+Ciudad : CABA
+Telefono : 11 21564932
+Email : katybarrioscontreras@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Ofrezco mi CV para su analisis y contar con ustedes para una posicion laboral, en el area de ventas y/o Administracion. Muchas Gracias Katy Barrios
+Security_code : ywyr7
+Send : Enviar
+
+---------------
+
+Address : 190.55.51.195
+Nombre : katy
+Apellido : Barrios
+Cargo : Ejecutiva de Ventas, jefe de ventas, administradora
+Direccion : Arenales  1238
+Ciudad : CABA
+Telefono : 11 21564932
+Email : katybarrioscontreras@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Ofrezco mi CV para su analisis y contar con ustedes para una posicion laboral, en el area de ventas y/o Administracion. Muchas Gracias Katy Barrios
+Security_code : ywyr7
+Send : Enviar
+
+---------------
+
+Address : 190.55.51.195
+Nombre : katy
+Apellido : Barrios
+Cargo : Ejecutiva de Ventas, jefe de ventas, administradora
+Direccion : Arenales  1238
+Ciudad : CABA
+Telefono : 11 21564932
+Email : katybarrioscontreras@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Ofrezco mi CV para su analisis y contar con ustedes para una posicion laboral, en el area de ventas y/o Administracion. Muchas Gracias Katy Barrios
+Security_code : 3349n
+Send : Enviar
+
+---------------
+
+Address : 190.210.82.29
+REF : Sec
+Nombre : Celina 
+Apellido : Martínez Luna
+Cargo : Secretaria Bilingüe
+Direccion : Floresta 91
+Ciudad : Paso del Rey
+Telefono : 0249 154330074
+Email : celinamartinezluna@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados/as,
+Me dirijo a Uds. con el propósito de ser considerada para su búsqueda.
+Cuento con una vasta experiencia como secretaria, recepcionista y asistente. Actualmente trabajo de corresponsal bilingüe por lo cuál me puedo desempeñar muy bien el inglés.
+Soy responsable, proactiva, dinámica. Me gustan los desafíos, la formalidad y el trato cordial, ya que con mi experiencia como recepcionista he podido ponerlo en práctica y afianzarlo en mi persona.
+Les pido ser considerada ya que cuento con los requisitos que buscan y sé que no se desilocionarán.
+Muchas gracias por la oportunidad.
+Atte.
+Celina Martínez Luna
+Security_code : 4dmdt
+Send : Enviar
+
+---------------
+
+Address : 186.62.31.122
+REF : ACO
+Nombre : carolina alejandra
+Apellido : galvan
+Cargo : asesor comercial
+Direccion : carpintero 4872
+Ciudad : ezpeleta
+Telefono : 1554910285
+Email : carolinagalvan@hotmail.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Estoy en busca de trabajo ya si es algo comercial, ya que tengo experiencia y part-time si se puede. Gracias
+Security_code : dq8wc
+Send : Enviar
+
+---------------
+
+Address : 186.62.31.122
+REF : ACO
+Nombre : carolina alejandra
+Apellido : galvan
+Cargo : asesor comercial
+Direccion : carpintero 4872
+Ciudad : ezpeleta
+Telefono : 1554910285
+Email : carolinagalvan@hotmail.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Estoy en busca de trabajo ya si es algo comercial, ya que tengo experiencia y part-time si se puede. Gracias
+Security_code : dq8cw
+Send : Enviar
+
+---------------
+
+Address : 186.62.31.122
+REF : ACO
+Nombre : carolina alejandra
+Apellido : galvan
+Cargo : asesor comercial
+Direccion : carpintero 4872
+Ciudad : ezpeleta
+Telefono : 1554910285
+Email : carolinagalvan@hotmail.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Estoy en busca de trabajo ya si es algo comercial, ya que tengo experiencia y part-time si se puede. Gracias
+Security_code : d9ttv
+Send : Enviar
+
+---------------
+
+Address : 190.231.94.151
+Nombre : Rodrigo Nicolas 
+Apellido : Bretz
+Cargo : operario
+Direccion : 18 de julio 1895
+Ciudad : garin
+Telefono : 1162608937
+Email : rodrigonicolas@outlook.es
+MAX_FILE_SIZE : 2097152
+Mensaje : busco trabajo para operario o operario de produccion
+Security_code : 6tqfk
+Send : Enviar
+
+---------------
+
+Address : 190.16.137.226
+Nombre : Carlos Raúl
+Apellido : Cáceres
+Cargo : agente de propaganda médica
+Direccion : Don Orione 326
+Ciudad : Baranqueras
+Telefono : 362-4714327
+Email : elrauly@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Soy Agente de Propaganda Médica, y quiero ser tenido en cuenta para futuros procesos de selección.
+Security_code : 2rpfb
+Send : Enviar
+
+---------------
+
+Address : 190.16.137.226
+Nombre : Carlos Raúl
+Apellido : Cáceres
+Cargo : agente de propaganda médica
+Direccion : Don Orione 326
+Ciudad : Baranqueras
+Telefono : 362-4714327
+Email : elrauly@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Soy Agente de Propaganda Médica, y quiero ser tenido en cuenta para futuros procesos de selección.
+Security_code : 2rpfb
+Send : Enviar
+
+---------------
+

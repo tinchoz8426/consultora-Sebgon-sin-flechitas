@@ -1,0 +1,116 @@
+Address : 190.195.124.239
+Nombre : Mariela
+Apellido : Rossani Costas
+Cargo : APM o Recep etc
+Direccion : donado
+Ciudad : caba
+Telefono : 1535646199
+Email : marielarossani@telecentro.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : De mi mayor consideración:
+ 
+Me permito molestar su atención, a fin de hacerle llegar adjunto al presente, mi Curriculum Vitae el que da cuenta los antecedentes y la capacitación profesional que  poseo, a los  fines  de  vuestra  consideración, en  la  oportunidad  en  que vuestra  empresa resuelva la incorporación de personal.
+ 
+En la actualidad, me encuentro abocada a la búsqueda de una posición laboral que permita el aprovechamiento de las calidades profesionales que he adquirido y a la vez permita aportar la experiencia reunida en el desarrollo de las actividades laborales que he desempeñado en los últimos tiempos, fundamentalmente en dos compañías que he mencionado en mi Currículum Vitae.
+ 
+Tengo real interés en incorporarme a una empresa de reconocido renombre y trayectoria, en vista al progreso personal y profesional, resultándome particularmente agradable el trabajo en grupo o integrando equipos de trabajo en diferentes áreas de la empresa.
+ 
+                                                
+Sin otro particular, los saluda atentamente.
+
+
+Mariela Rossani Costas 
+DNI 92761547
+
+
+
+
+Security_code : kdrz3
+Send : Enviar
+
+---------------
+
+Address : 190.50.205.159
+Nombre : Julieta
+Apellido : Alvez
+Cargo : Junior
+Direccion : larraya 1772
+Ciudad : Ciudad Autónoma de Buenos Aires
+Telefono : 1563596436
+Email : juliialvez@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Tengo 18 años y estoy buscando un empleo que sea hasta no mas de las 17hs ya que curso en horario vespertino 
+Security_code : qjsg9
+Send : Enviar
+
+---------------
+
+Address : 181.169.182.16
+Nombre : Nicolás Alejandro
+Apellido : Cavaliere
+Cargo : Data entry, cadete administrativo, traductor jr
+Direccion : Roca 1495
+Ciudad : Vicente López, Buenos Aires
+Telefono : 15 5850 4470
+Email : n.cavaliere93@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : De mi mayor consideración,
+
+Por medio de la presente adjunto CV para ser tenido en cuenta en su selección de personal, siguiendo las pautas de su sitio de internet donde se invita a enviarles un CV.
+Llegué a vuestro sitio al encontrarlo como sugerencia en el sitio de búsqueda laboral del Ministerio de Trabajo de la Nación (http://www.trabajo.gov.ar/buscastrabajo/bolsa/).
+
+Un poco de información sobre mi persona:
+
+Mi nombre es Nicolás A. Cavaliere, tengo 22 años y vivo en Vicente López. Zona Norte.
+
+Estoy cursando el curso de Operador de Sistemas Administrativos Contables (sistema Tango) en el insituto IAC, además de esto tengo el certificado CAE (Certificate in Advance English) otorgado por Cambridge English.
+
+Mi experiencia laboral, aunque breve, se limita a tareas administrativas básicas en la empresa ECAMEC S.R.L donde mayormente me manejaba con planillas de excel, atención telefónica y archivo.
+
+Me desenvuelvo naturalmente con la computadora y programas del tipo paquete office ya que me he manejado con ellos desde temprana edad.
+
+Por último quería agregar que poseo gran entusiasmo, ganas de aprender y poder desarrollarme en un ambiente profesional y crecer dentro de una empresa.
+
+ 
+Cordialmente,
+
+Nicolás A. Cavaliere
+
+DNI 37.480.887
+
+Número de cel: 15-5850-4470
+Security_code : 44s2f
+Send : Enviar
+
+---------------
+
+Address : 190.2.108.198
+Nombre : brenda magali
+Apellido : villalba
+Cargo : recepcionista
+Direccion : san luis 5023
+Ciudad : rosario
+Telefono : 4303162
+Email : brendavillalba09@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Búsqueda laboral 
+Security_code : zdp3z
+Send : Enviar
+
+---------------
+
+Address : 190.231.154.29
+Nombre : Alexis Dario
+Apellido : De Yulis
+Cargo : Ventas
+Direccion : Schorodinger 
+Ciudad : Córdoba
+Telefono : 3515646310
+Email : Alexis_ipv94@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola quisiera trabajar para poder ayudar a mi familia
+Security_code : jvfn2
+Send : Enviar
+
+---------------
+

@@ -1,0 +1,39 @@
+Address : 186.58.8.36
+REF : jefe-de-operaciones
+Nombre : Gilda Roxana
+Apellido : Lamorte
+Cargo : Oficial de Negocios, Tesorera, Cajera Bancaria.
+Direccion : Lerma 783
+Ciudad : V Tesei
+Telefono : 44507396
+Email : g_rox@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : 
+
+Buenas tardes,
+                    me encuentro en búsqueda laboral, me considero una persona, emprendedora, proactiva, con ganas de superar los objetivos propuestos, y formar parte de un equipo de trabajo.
+Adjunto mi Cv, para la propuesta que más se ajuste a mi perfil.
+
+Saludos cordiales.
+
+Lamorte, Gilda.
+Security_code : hcsc5
+Send : Enviar
+
+---------------
+
+Address : 190.18.125.8
+Nombre : andrea macrena
+Apellido : gonzalez
+Cargo : enfermera proesional
+Direccion : av. juan carlos cornejo s/n
+Ciudad : salta
+Telefono : 0387-155314622
+Email : maquy_0582@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : hola les dejo mi curriculum por si en algun momento surge un trabajo.gracias
+Security_code : 8bss6
+Send : Enviar
+
+---------------
+

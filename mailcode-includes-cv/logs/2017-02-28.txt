@@ -1,0 +1,183 @@
+Address : 190.105.87.82<br>
+ <br>REF : JPER-1
+ <br>Nombre : Alejandro Tomas 
+ <br>Apellido : Formanowicz 
+ <br>Cargo : Jefe de Recursos Humanos
+ <br>Direccion : Piñeyro 4541
+ <br>Ciudad : Jose Clemente Paz
+ <br>Telefono : 1166744024
+ <br>Email : alejandro0778@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados, adjunto cv actualizado para su postualción, código de referencia JPER-1
+Saludos Cordiales
+
+Tomás Formanowicz
+ <br>Security_code : rcmkc
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.169.101.106<br>
+ <br>Nombre : Florencia Paula
+ <br>Apellido : Merelli
+ <br>Cargo : Selectora de Personal 
+ <br>Direccion : Vergara 3373
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 1523434159
+ <br>Email : flor129_2@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola estoy interesada en formar parte del equipo. Poder desempeñarme en el área laboral obteniendo un crecimiento a nivel profesional
+ <br>Security_code : 3cs8p
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.22.146.240<br>
+ <br>Nombre : Alejandro
+ <br>Apellido : Marquez
+ <br>Cargo : Ventas
+ <br>Direccion : Falucho 1855
+ <br>Ciudad : Mar del Plata
+ <br>Telefono : 223 301 85 20
+ <br>Email : Alejandrowave@outlook.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : •Disponibilidad inmediata
+
+•Documentacion legal para trabajar dentro del pais.
+ <br>Security_code : 9n84c
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.22.146.240<br>
+ <br>Nombre : Alejandro
+ <br>Apellido : Marquez
+ <br>Cargo : Ventas
+ <br>Direccion : Falucho 1855
+ <br>Ciudad : Mar del Plata
+ <br>Telefono : 223 301 85 20
+ <br>Email : Alejandrowave@outlook.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : •Disponibilidad inmediata
+
+•Documentacion legal para trabajar dentro del pais.
+ <br>Security_code : 9n84c
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.22.146.240<br>
+ <br>Nombre : Alejandro
+ <br>Apellido : Marquez
+ <br>Cargo : Ventas
+ <br>Direccion : Falucho 1855
+ <br>Ciudad : Mar del Plata
+ <br>Telefono : 223 301 85 20
+ <br>Email : Alejandrowave@outlook.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : •Disponibilidad inmediata
+
+•Documentacion legal para trabajar dentro del pais.
+ <br>Security_code : 7qvcc
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.95.19.107<br>
+ <br>REF : ROT-1
+ <br>Nombre : Jonas Eduardo
+ <br>Apellido : Almao Mendoza
+ <br>Cargo : Ingeniero Proyectista
+ <br>Direccion : Soldado de la Independencia 1364
+ <br>Ciudad : Capital Federal
+ <br>Telefono : +5491168224723
+ <br>Email : jonas.almao@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola reciban un cordial saludo de mi parte!! me postulo para el puesto de oficina técnica, no he tenido un puesto directo como tal en una empresa pero si he manejado personal de oficina técnica en diferentes proyectos hechos en revit. Espero poder tener una entrevista con ustedes, saludos.
+ <br>Security_code : k3d54
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.108.202.213<br>
+ <br>REF : SP-1
+ <br>Nombre : Luis Alberto
+ <br>Apellido : Acosta
+ <br>Cargo : Supervisor
+ <br>Direccion : Concepcion arenal 1220
+ <br>Ciudad : Pilar
+ <br>Telefono : 1564839133
+ <br>Email : Lsacos-972@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Amplia disponilidad a cualquier cargo sea como operario de produccion,analista de laboratorio como asi también supervicion de producción
+ <br>Security_code : Wv8ff
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.108.202.213<br>
+ <br>REF : SP-1
+ <br>Nombre : Luis Alberto
+ <br>Apellido : Acosta
+ <br>Cargo : Supervisor
+ <br>Direccion : Concepcion arenal 1220
+ <br>Ciudad : Pilar
+ <br>Telefono : 1564839133
+ <br>Email : Lsacos-972@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Amplia disponilidad a cualquier cargo sea como operario de produccion,analista de laboratorio como asi también supervicion de producción
+ <br>Security_code : WV8ff
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.108.202.213<br>
+ <br>REF : SP-1
+ <br>Nombre : Luis Alberto
+ <br>Apellido : Acosta
+ <br>Cargo : Supervisor
+ <br>Direccion : Concepcion arenal 1220
+ <br>Ciudad : Pilar
+ <br>Telefono : 1564839133
+ <br>Email : Lsacos-972@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Amplia disponilidad a cualquier cargo sea como operario de produccion,analista de laboratorio como asi también supervicion de producción
+ <br>Security_code : Fj44g
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.108.202.213<br>
+ <br>REF : SP-1
+ <br>Nombre : Luis Alberto
+ <br>Apellido : Acosta
+ <br>Cargo : Supervisor
+ <br>Direccion : Concepcion arenal 1220
+ <br>Ciudad : Pilar
+ <br>Telefono : 1564839133
+ <br>Email : Lsacos-972@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Amplia disponilidad a cualquier cargo sea como operario de produccion,analista de laboratorio como asi también supervicion de producción
+ <br>Security_code : 5c9h7
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.229.148.134<br>
+ <br>Nombre : Patricio Julián
+ <br>Apellido : Garcia Rolfo
+ <br>Cargo : Analista de RRHH
+ <br>Direccion : Alem, 145
+ <br>Ciudad : San Isidro
+ <br>Telefono : 1532056983
+ <br>Email : patriciogarcia.rolfo@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados, buenas noches, les envío mi CV para que lo tengan en su base de datos. Soy recientemente graduado en Administración de RRHH en la USAL.
+Desde ya muchas gracias.
+
+Saludos
+ <br>Security_code : 2gyjq
+ <br>Send : Enviar
+ <br>
+---------------
+

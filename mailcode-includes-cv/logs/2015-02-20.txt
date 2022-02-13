@@ -1,0 +1,45 @@
+Address : 186.137.179.80
+Nombre : Juliana 
+Apellido : Castrillon
+Cargo : Personal socio ambiental
+Direccion : Paunero 848
+Ciudad : San Miguel, muñi
+Telefono : 1137034099
+Email : jc10_05@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buen día. Adjunto mi curriculum como postulación para personal socio ambiental. Saludos
+Security_code : vdj2n
+Send : Enviar
+
+---------------
+
+Address : 181.28.247.198
+Nombre : Carolina
+Apellido : Hernández
+Cargo : Recepcionista
+Direccion : Ayacucho 702 3°A
+Ciudad : Buenos aires
+Telefono : 1538471033
+Email : carolina_soledad@ymail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Ojalá puedan tenerme en cuenta.
+Security_code : xsgsb
+Send : Enviar
+
+---------------
+
+Address : 190.191.159.184
+Nombre : Adrian
+Apellido : Zimmermann
+Cargo : Abogado
+Direccion : calle 5 
+Ciudad : La Plata
+Telefono : 2920-643733
+Email : zimmermann_adrian@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Procuracion, elaboracion de escritos, atencion al cliente.
+Security_code : vf33k
+Send : Enviar
+
+---------------
+

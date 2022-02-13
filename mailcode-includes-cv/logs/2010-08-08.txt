@@ -1,0 +1,113 @@
+Address : 200.117.174.61
+Nombre : Juliana
+Apellido : Romano Giuliani
+Cargo : Lic. en Criminalistica
+Direccion : Correa 2375
+Ciudad : CABA
+Telefono : 0111555977481
+Email : juliromano@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados le envio mi CV para que me tengan en cuenta en futuras busquedas.
+Security_code : rkt3c
+Send : Enviar
+
+---------------
+
+Address : 200.117.173.51
+Nombre : Magali Ruth
+Apellido : Cortadi
+Cargo : Operario
+Direccion : Puerto Argentino 419
+Ciudad : Campana
+Telefono : 3489444039
+Email : gamma.li@hotmail.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Busco un puesto laboral en la zona que vivo. Tengo amplia experiencia dentro de diferentes empresas. Disponibilidad horaria full time. Excelente relaciòn interpersonal y trabajo grupal.
+Security_code : q6v3z
+Send : Enviar
+
+---------------
+
+Address : 190.30.153.171
+Nombre : Patricia Mabel
+Apellido : Rodriguez Vazquez
+Cargo : Recepcionista/administrativa- call center - Data entry - Auxiliar administrativo
+Direccion : Felix ballester 2918
+Ciudad : San Martin
+Telefono : 47527776
+Email : pm_rod@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Mis busqueda se orienta a un pueto laboral de:
+Auxiliar administrativo
+Recepcionista/Administrativa
+Data Entry
+Call center/atencion al cliente
+Security_code : k2ttt
+Send : Enviar
+
+---------------
+
+Address : 190.48.99.2
+Nombre : Sebastian
+Apellido : Arcidiacono
+Cargo : Repositor, Operario, Cadete, Empleado, Atencion al Cliente, Vendedor
+Direccion : Zañartu 1520
+Ciudad : Buenos Aires
+Telefono : 4923-0324
+Email : sebastianarchi@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Gracias por ayudarme a buscar trabajo
+Security_code : 4nw5b
+Send : Enviar
+
+---------------
+
+Address : 190.48.99.2
+Nombre : Sebastián 
+Apellido : Bongiorno
+Cargo : Empleado, Cadete, Operario, Cajero, Repositor, Atencion al cliente, 
+Direccion : Pichincha 1141 2º C
+Ciudad : Buenos Aires
+Telefono : 4941-6124
+Email : leopoldokiki@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Solo busco por Capital Federal.
+Security_code : zdkh9
+Send : Enviar
+
+---------------
+
+Address : 190.179.1.111
+Nombre : VICTORIA PATRICIA
+Apellido : PAPPALARDO
+Cargo : adm/secretaria/asistente/recpecionista
+Direccion : ramon franco 4221
+Ciudad : remedios de escalada
+Telefono : 1549800251 /42021650
+Email : patricia.pappalardo@speedy.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : ingresar a vuestra base de datos ante un posible puesto laboral.
+Security_code : mp764
+Send : Enviar
+
+---------------
+
+Address : 201.255.54.97
+REF : adper
+Nombre : Sebastian Damian
+Apellido : Gonzalez
+Cargo : 03- ADMINISTRATIVO DE PERSONAL
+Direccion : Pichincha 141; 3ro; B
+Ciudad : Capital FEderal
+Telefono : 011-49525933
+Email : gonzalez_s_d@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Busco poder desempeñarme en la actividad laboral designada; poseo experiencia laboral y es mi deseo y satisfacción de poder decirse así, el que se me brinde esta oportunidad de poder trabajar para ustedes de forma inemdiata. Ofrezco respeto y compromiso. 
+
+Deseo crecer en una empresa en expansión. Soy cumplidor, confiable y busco un trabajo estable y con posibilidad de crecimiento. Poseo muy buena predisposición con el trato de usuarios y un desenvolvimiento correcto en cuanto a maneras y modales. Un perfil técnico. Además de un buen manejo de PC entre otras cosas, y distintos tipos de programas.
+
+Security_code : w3jyd
+Send : Enviar
+
+---------------
+

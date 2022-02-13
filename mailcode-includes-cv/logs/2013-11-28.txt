@@ -1,0 +1,105 @@
+Address : 
+Nombre : Stella 
+Apellido : Basoalto
+Cargo : Operario
+Direccion : Calle 33 n° 25 
+Ciudad : Lima - Zarate
+Telefono : 03487- 15661723
+Email : stella.niko11@hotmail.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Busco empleo temporal o estable con urgencia en Zarate o Lima
+Security_code : 5kbh9
+Send : Enviar
+
+---------------
+
+Address : 
+Nombre : LUCIANO
+Apellido : PAEZ
+Cargo : CARPINTERO OFICIAL
+Direccion : CARLOS GAUDENCIO 1267
+Ciudad : CORDOBA
+Telefono : 152965594
+Email : RATA22@LIVE.COM.AR
+MAX_FILE_SIZE : 2097152
+Mensaje : HOLA ESPERO SU LLAMADO CON MUCHAS GANAS D TRABAJAR GRACIAS
+Security_code : 4X6JT
+Send : Enviar
+
+---------------
+
+Address : 
+Nombre : Martín 
+Apellido : Canales
+Cargo : Asistente Administrativo/ comercio exterior
+Direccion : Costa Rica 2024
+Ciudad : Ituzaingo
+Telefono : 1131344168
+Email : martincanales110@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimado, buenos días mi nombre es Martín Canales, tengo 25 años y estoy buscando salida laboral en un puesto junior del sector administrativo/comercio exterior preferentemente. Recientemente me gradué y obtuve mi licenciatura en Comercio Internacional y es por eso que me veo con buenas posibilidades para cubrir con las exigencias que sean solicitadas, ademas de querer desarrollar el potencial adquirido. Cumplo con todos los requisitos generales que tal  puesto de envergadura solicita. Agradecería que pueda darme la oportunidad de una entrevista.
+Security_code : ntg67
+Send : Enviar
+
+---------------
+
+Address : 
+Nombre : Martín 
+Apellido : Canales
+Cargo : Asistente Administrativo/ comercio exterior
+Direccion : Costa Rica 2024
+Ciudad : Ituzaingo
+Telefono : 1131344168
+Email : martincanales110@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimado, buenos días mi nombre es Martín Canales, tengo 25 años y estoy buscando salida laboral en un puesto junior del sector administrativo/comercio exterior preferentemente. Recientemente me gradué y obtuve mi licenciatura en Comercio Internacional y es por eso que me veo con buenas posibilidades para cubrir con las exigencias que sean solicitadas, ademas de querer desarrollar el potencial adquirido. Cumplo con todos los requisitos generales que tal  puesto de envergadura solicita. Agradecería que pueda darme la oportunidad de una entrevista.
+Security_code : 5fqg8
+Send : Enviar
+
+---------------
+
+Address : 
+Nombre : dayana
+Apellido : sanahuja
+Cargo : atencion al cliente
+Direccion : pasaje pedro j frias 605
+Ciudad : jesus maria cordoba
+Telefono : 03525-15416113
+Email : Day_larenga10@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : ATENCION AL CLIENTE
+Security_code : 3GVKK
+Send : Enviar
+
+---------------
+
+Address : 
+Nombre : Jose Luis
+Apellido : Barrio
+Cargo : operario de deposito
+Direccion : jacobo Watt 5570
+Ciudad : Moreno
+Telefono : 01167066708
+Email : imcovaca@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Les envio mi CV con mi experiencia en el rubro Retail y Logistica en empresas Lideres de consumo masivo
+Security_code : pcb67
+Send : Enviar
+
+---------------
+
+Address : 
+Nombre : Cinthia 
+Apellido : urbina
+Cargo : recepcionista/secretaria
+Direccion : Av,Ing Marconi
+Ciudad : Moron
+Telefono : 1567455224
+Email : cibeur_25@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estoy interesada en el puesto indicado, me encataria crecer dia a dia y crecer personalmente
+Security_code : 3wk6n
+Send : Enviar
+
+---------------
+

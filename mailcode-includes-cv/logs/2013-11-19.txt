@@ -1,0 +1,84 @@
+Address : 
+Nombre : Federico Carlos
+Apellido : Daus
+Cargo : Cadete Administrativo
+Direccion : Vuelta de Obligado 1259 Piso 4 Dpto A
+Ciudad : CABA
+Telefono : 1538337338
+Email : federicodaus@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me dirijo  a Ud. solicitándole una entrevista para cubrir algún puesto por Uds. ofrecido, adjuntando para ello mi currículo.
+                                         Al respecto llevo a su conocimiento  que si bien carezco de una gran experiencia laboral, poseo excelente redacción, buena dicción, manejo del paquete Office, me desenvuelvo con sobrada soltura como para realizar tramites ya sean de tipo bancario como institucional,  etc. en fin creo que no la defraudaré, solo necesito una oportunidad .
+                                          Sin otro particular quedo a la espera de su llamado.
+                                                                                                                            FEDERICO CARLOS DAUS
+                                                                                                                                   DNI 36.528.831
+   Vta. de Obligado 1259 -4to ¨A¨
+   1426- CABA
+   Tel.: 4788-6749
+   C el.: 15 38337338  
+
+Security_code : xs5hd
+Send : Enviar
+
+---------------
+
+Address : 
+Nombre : Emiliano
+Apellido : Szpiro
+Cargo : Operario 
+Direccion : Reservistas Argentinos 2394
+Ciudad : Moreno
+Telefono : 1169774324
+Email : more_nita_teamo@hotmail.es
+MAX_FILE_SIZE : 2097152
+Mensaje : Quiero trabajar por que me gusta, soy comprometido, le dedico mi tiempo y mis ganas al trabajo
+Security_code : snfcd
+Send : Enviar
+
+---------------
+
+Address : 
+Nombre : MARCOS 
+Apellido : MICAELLI
+Cargo : SOLDADOR - HERRERO
+Direccion : OBISPO MALDONADO 2378
+Ciudad : CORDOBA
+Telefono : 156787905
+Email : marcosmicaelli@hotmail.es
+MAX_FILE_SIZE : 2097152
+Mensaje : disponibilidad horaria 24 horas
+Security_code : w7wmj
+Send : Enviar
+
+---------------
+
+Address : 
+Nombre : Marcela xoana antonela
+Apellido : Ferreyros
+Cargo : encargada comercio
+Direccion : Adolfo sordeaux 
+Ciudad : Buenos aires
+Telefono : 1536810181
+Email : isabella_diaz@hotmail.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : ingresé el puesto de encargada,pero me adapto a cualquier puesto,tengo mucha experiencia en atención al cliente,desde ya muchas gracias!
+Security_code : bbv8j
+Send : Enviar
+
+---------------
+
+Address : 
+Nombre : Erika Mariel
+Apellido : Solis
+Cargo : secretaria
+Direccion : caseros 5415
+Ciudad : cordoba
+Telefono : 0351 153872846
+Email : erikamarielsolis@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estoy en la búsqueda de un trabajo solido y con muy buen ambiente laboral
+Security_code : fm356
+Send : Enviar
+
+---------------
+

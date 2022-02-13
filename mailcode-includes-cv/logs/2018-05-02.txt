@@ -1,0 +1,66 @@
+Address : 181.168.71.218<br>
+ <br>Nombre : Maria Florencia
+ <br>Apellido : Arzoz
+ <br>Cargo : Administracion
+ <br>Direccion : 71-2073
+ <br>Ciudad : Necochea
+ <br>Telefono : 2262338578
+ <br>Email : arzozmaflorencia@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Búsqueda Laboral
+ <br>Security_code : 9g584
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.184.250.47<br>
+ <br>Nombre : alfonso raul
+ <br>Apellido : pascal
+ <br>Cargo : operario
+ <br>Direccion : Vito dumas 797 barrio sarmiento villa madero
+ <br>Ciudad : villa madero
+ <br>Telefono : 1169553960
+ <br>Email : alfonsoraulpascal@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : k
+ <br>Security_code : whm93
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 168.90.86.160<br>
+ <br>Nombre : Jorge Alberto
+ <br>Apellido : Pereyra
+ <br>Cargo : Técnico Seguridad e Higiene
+ <br>Direccion : Tomas Guido 5239
+ <br>Ciudad : SAN MIGUEL 
+ <br>Telefono : 01162429010
+ <br>Email : jorgepereyra@outlook.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados,
+Adjunto CV profesional y quedo a su entera disposición, en caso de búsqueda abierta a Técnico en Seguridad e Higiene.
+Muchas gracias.
+
+Atte,
+Jorge Pereyra.
+
+ <br>Security_code : 2czvh
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.235.206.184<br>
+ <br>Nombre : María de los
+ <br>Apellido : Baez
+ <br>Cargo : Operaria/cajera/empleada/recepcionista
+ <br>Direccion : Chile, 2535
+ <br>Ciudad : DON TORCUATO NORTE (CP=1611)
+ <br>Telefono : 01164432733
+ <br>Email : Baez_maria2018@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola buenas tardes estoy en busca de trabajo y me encantaría que me tengan en cuenta en futuras vacantes. Gracias
+ <br>Security_code : d4f7b
+ <br>Send : Enviar
+ <br>
+---------------
+

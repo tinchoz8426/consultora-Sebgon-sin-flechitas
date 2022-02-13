@@ -1,0 +1,33 @@
+Address : 186.158.229.200
+Nombre : Maria Jimena
+Apellido : Garcia
+Cargo : Ejecutiva de Cuentas SR
+Direccion : Lobos 1747
+Ciudad : Castelar
+Telefono : 52919824
+Email : jimenagarcia83@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados,
+Les envio adjunto mi CV a fin de ser tenido en cuenta en búsquedas acordes a mi perfil preferentemente en zona oeste.
+Atte.-
+Security_code : ctpms
+Send : Enviar
+
+---------------
+
+Address : 200.49.206.193
+Nombre : Ayelen
+Apellido : Mansilla
+Cargo : recepcionista , secretaria , cajera 
+Direccion : Pola 4076
+Ciudad : Bs.As
+Telefono : 1545308149
+Email : mansilla.ayelen@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenas Días . Mediante este medio dejo a su disponibilidad mi currículum vitae,ya que ustedes me dan esta posibilidad para poder hacerlo. Estoy en la búsqueda obviamente de trabajo , y uno de mis grandes motivos por el cual quisiera comenzar serían crecer económicamente y laboralmente adquiriendo experiencia de la misma. Muchas gracias por este medio. Espero respuestas y que puedan ayudarme. 
+Atte:Mansilla Ayelen
+Security_code : tgxft
+Send : Enviar
+
+---------------
+

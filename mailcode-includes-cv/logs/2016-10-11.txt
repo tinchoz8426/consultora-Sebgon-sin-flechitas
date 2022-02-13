@@ -1,0 +1,30 @@
+Address : 179.40.172.70<br>
+ <br>Nombre : Karina
+ <br>Apellido : Landriel
+ <br>Cargo : Recepción maquinista
+ <br>Direccion : Andalgalá 2234
+ <br>Ciudad : Buenos aires
+ <br>Telefono : 1535647201
+ <br>Email : Karinalandriel24@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Solicito algún trabajo acordé a mis estudios 
+ <br>Security_code : Xr83
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.168.205.141<br>
+ <br>Nombre : Julieta
+ <br>Apellido : Juarez
+ <br>Cargo : Ventas, atencion al cliente
+ <br>Direccion : Jose Hernandez 5801
+ <br>Ciudad : Vicente López
+ <br>Telefono : 1533755653
+ <br>Email : julietajuarez_09@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Poseo amplia experiencia en ventas y atención al cliente. Disponibilidad horaria full time
+ <br>Security_code : 3n8ph
+ <br>Send : Enviar
+ <br>
+---------------
+

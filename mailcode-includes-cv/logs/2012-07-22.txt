@@ -1,0 +1,30 @@
+Address : 190.172.166.235
+Nombre : lina
+Apellido : soria
+Cargo : tecnico/responsable de seguridad e higiene
+Direccion : 3 de febrero 624
+Ciudad : general roca- rio negro
+Telefono : 0298-154244751
+Email : lina_soria15@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : disponibilidad para viajar y mudanza
+Security_code : syppy
+Send : Enviar
+
+---------------
+
+Address : 201.235.89.74
+Nombre : diego
+Apellido : gomez
+Cargo : ventas y administracion
+Direccion : AV MAIPU 1744 9º G
+Ciudad : BUENOS AIRES
+Telefono : 4797-4248 o 15-56-20-48-68
+Email : diegogomeazar@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : busco crecer y dar un avance en mi vida .
+Security_code : b4ff6
+Send : Enviar
+
+---------------
+

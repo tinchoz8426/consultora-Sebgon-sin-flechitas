@@ -1,0 +1,80 @@
+Address : 181.192.61.56
+REF : GTEP
+Nombre : Mario
+Apellido : Faralli
+Cargo : Gerente de Planta
+Direccion : Rawson 550
+Ciudad : Luj{an
+Telefono : 02323 15519159
+Email : mariofaralli@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Deseo incorporar mi c. v. a su base de datos
+Security_code : my872
+Send : Enviar
+
+---------------
+
+Address : 24.232.11.173
+REF : OEL
+Nombre : Daniel
+Apellido : Torlaschi
+Cargo : Tecnico electricista
+Direccion : Carlos Casares 2800
+Ciudad : Victoria, Bs.As
+Telefono : 1163920036
+Email : daniel_torlaschi@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : 
+De mi interés del anuncio publicado en pagina web, es grato de mi parte adjuntarle mi curriculm y esta carta de
+ Representación, para que tengan en cuenta de mi aptitud.
+Mi  experiencia laboral  hasta la fecha demuestra mi capacidad tanto como en equipo tomar decisiones  y aceptar 
+Responsabilidades, me considero una persona dinámica y un gran trabajador y con gran voluntad de aprender, por eso 
+Creo que soy la persona adecuada para encajar dentro de su equipo y Empresa.
+
+
+A la espera de noticias suyas y con fin de un acuerdo de tener una entrevista personal , desde ya muchas gracias
+
+Saluda Atte
+
+
+
+                                                                                            Daniel  Torlaschi
+
+Security_code : 2f3gm
+Send : Enviar
+
+---------------
+
+Address : 190.244.99.80
+REF : JPL
+Nombre : Daniel
+Apellido : Andrizzi
+Cargo : Jefe de Planta
+Direccion : Francia 2869
+Ciudad : Castelar
+Telefono : 11 5626 7218
+Email : daniel.andrizzi@yahoo.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados,
+Supero el rango de edad de la bùsqueda, aunque mi experiencia y formaciòn puede ser evaluada sin ningún compromiso. Sin otro particular los saluda atte. Daniel Andrizzi
+Security_code : qhx8b
+Send : Enviar
+
+---------------
+
+Address : 190.139.157.5
+Nombre : Alexis
+Apellido : Forti
+Cargo : Ejecutivo comercial
+Direccion : Perdriel 4524
+Ciudad : san martin
+Telefono : 1558334152
+Email : alexisforti@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Mi experiencia profesional en organizaciones rectoras en bienes raíces y organismos administrativos estatales me permitiría aportar al puesto mi alta motivación, eficiencia y capacidad.
+En mi puesto actual me encargo de tareas de administración, y ventas, donde mantengo un entorno funcional que facilita el ingreso de clientes como así también la gestión administrativa de alquileres y el área desarrolladora de negocios. Soy una persona resolutiva, con capacidad de trabajo independiente, hábil a la hora de afrontar y solucionar con éxito los problemas del día a día con escasa supervisión. Me encargo de responder puntualmente a las demandas de clientes y personal interno, compaginando varios proyectos de forma simultánea. Por otro lado, destacaría también que tengo experiencia en oficinas con ambiente laboral en grupos numerosos, con personas a cargo y varias tareas generales en cuanto a la supervisión de la facturación y la gestión de pagos.
+Security_code : qy4w2
+Send : Enviar
+
+---------------
+

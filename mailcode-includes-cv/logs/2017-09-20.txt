@@ -1,0 +1,387 @@
+Address : 190.17.159.69<br>
+ <br>Nombre : gustavo
+ <br>Apellido : bevacqua
+ <br>Cargo : conductor
+ <br>Direccion : alvear 2046
+ <br>Ciudad : Bs As
+ <br>Telefono : 11-6158-6900
+ <br>Email : gustavombevacqua@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Cumplir con los objetivos de la empresa.
+ <br>Security_code : mk63s
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.11<br>
+ <br>REF : chr
+ <br>Nombre : David Ezequiel
+ <br>Apellido : Ybarra
+ <br>Cargo : Chofer
+ <br>Direccion : Patagonia 2206
+ <br>Ciudad : Ituzaingo
+ <br>Telefono : 1135714851
+ <br>Email : eltino04@outlook.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : ..
+ <br>Security_code : N249p
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.16.106.244<br>
+ <br>REF : TM-2
+ <br>Nombre : german federico
+ <br>Apellido : ruiz
+ <br>Cargo : tecnico mecanico
+ <br>Direccion : tomas marquez 1868
+ <br>Ciudad : garin
+ <br>Telefono : 1535177667
+ <br>Email : federicoruiz1868@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenos días envio mi Cv para el puesto de técnico mecanico.
+
+Saludos
+Federico
+ <br>Security_code : Y8qc6
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.7<br>
+ <br>REF : chr
+ <br>Nombre : David Ezequiel
+ <br>Apellido : Ybarra
+ <br>Cargo : Chofer
+ <br>Direccion : Patagonia 2206
+ <br>Ciudad : Ituzaingo
+ <br>Telefono : 1135714851
+ <br>Email : eltino04@outlook.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : ..
+ <br>Security_code : N249p
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.11<br>
+ <br>REF : chr
+ <br>Nombre : David Ezequiel
+ <br>Apellido : Ybarra
+ <br>Cargo : Chofer
+ <br>Direccion : Patagonia 2206
+ <br>Ciudad : Ituzaingo
+ <br>Telefono : 1135714851
+ <br>Email : eltino04@outlook.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : ..
+ <br>Security_code : n249p
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.16.106.244<br>
+ <br>REF : TM-2
+ <br>Nombre : german federico
+ <br>Apellido : ruiz
+ <br>Cargo : tecnico mecanico
+ <br>Direccion : tomas marquez 1868
+ <br>Ciudad : garin
+ <br>Telefono : 1535177667
+ <br>Email : federicoruiz1868@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenos días envió mi cv para el puesto de técnico Mecánico, tengo conocimiento en manejo de herramientas, maquinas pesadas y disponibilidad horaria.
+Saludos
+Federico
+ <br>Security_code : 3rbr3
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.7<br>
+ <br>Nombre : David Ezequiel
+ <br>Apellido : Ybarra
+ <br>Cargo : Chofer
+ <br>Direccion : Patagonia 2206
+ <br>Ciudad : Ituzaingo
+ <br>Telefono : 1135714851
+ <br>Email : eltino04@outlook.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : ...
+ <br>Security_code : fpkn4
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.19.16.244<br>
+ <br>REF : chr
+ <br>Nombre : Hector Esteban 
+ <br>Apellido : Enrique
+ <br>Cargo : Chofer de cargas generales
+ <br>Direccion : Latayette 3314
+ <br>Ciudad : Prov.Bs.As.
+ <br>Telefono : 1566304059
+ <br>Email : hectorestebanenrique@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Registro y curso al dia
+ <br>Security_code : W37v5
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 179.40.139.182<br>
+ <br>REF : chr
+ <br>Nombre : jorge 
+ <br>Apellido : farias
+ <br>Cargo : chofer
+ <br>Direccion : de los incas 466
+ <br>Ciudad : san justo
+ <br>Telefono : 44853606
+ <br>Email : adriancarp31@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : chofer con cnrt al dia registro profesional
+ <br>Security_code : 73djk
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 179.40.139.182<br>
+ <br>REF : chr
+ <br>Nombre : jorge 
+ <br>Apellido : farias
+ <br>Cargo : chofer
+ <br>Direccion : de los incas 466
+ <br>Ciudad : san justo
+ <br>Telefono : 44853606
+ <br>Email : adriancarp31@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : chofer con cnrt al dia registro profesional
+ <br>Security_code : 73djk
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 179.40.139.182<br>
+ <br>REF : chr
+ <br>Nombre : jorge 
+ <br>Apellido : farias
+ <br>Cargo : chofer
+ <br>Direccion : de los incas 466
+ <br>Ciudad : san justo
+ <br>Telefono : 44853606
+ <br>Email : adriancarp31@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : chofer con cnrt al dia registro profesional
+ <br>Security_code : mtyyf
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 179.40.139.182<br>
+ <br>REF : chr
+ <br>Nombre : jorge 
+ <br>Apellido : farias
+ <br>Cargo : chofer
+ <br>Direccion : de los incas 466
+ <br>Ciudad : san justo
+ <br>Telefono : 44853606
+ <br>Email : adriancarp31@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : chofer con cnrt al dia registro profesional
+ <br>Security_code : mtyyf
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 179.40.139.182<br>
+ <br>REF : chr
+ <br>Nombre : jorge
+ <br>Apellido : farias
+ <br>Cargo : chofer
+ <br>Direccion : de los incas 466
+ <br>Ciudad : san justo
+ <br>Telefono : 44853606
+ <br>Email : adriancarp31@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : chofer
+
+ <br>Security_code : knqsy
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 200.10.161.5<br>
+ <br>REF : chr
+ <br>Nombre : Claudio Gaston
+ <br>Apellido : Ruiz
+ <br>Cargo : chofer de Reparto
+ <br>Direccion : Scalabrini Ortiz
+ <br>Ciudad : Merlo
+ <br>Telefono : 1551635573
+ <br>Email : gastonchapy@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Muchas gracias,
+Espero una pronta respuesta.
+Saludos!
+ <br>Security_code : c5dh5
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.50.72.194<br>
+ <br>REF : chr
+ <br>Nombre : Javier Horacio
+ <br>Apellido : Pierandrey
+ <br>Cargo : Chofer
+ <br>Direccion : Rene Favaloro 703, Belgrano y Moreno
+ <br>Ciudad : Luis Guillon
+ <br>Telefono : 1164065401
+ <br>Email : javier.pierandrey@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : necesito el trabajo
+ <br>Security_code : Kymmd
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 170.51.34.236<br>
+ <br>REF : chr
+ <br>Nombre : Victor
+ <br>Apellido : Ameloti
+ <br>Cargo : Chofer
+ <br>Direccion : Navarro 5075
+ <br>Ciudad : Capital Federal
+ <br>Telefono : 45681067
+ <br>Email : vaameloti@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me postulo para el trabajo de chófer que están solicitando. Tengo 31 anos y poseo registro requerido. Desde ya muchas gracias
+ <br>Security_code : dn7hc
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.183.116.206<br>
+ <br>Nombre : Enrique Fernando
+ <br>Apellido : Palomba
+ <br>Cargo : Chofer de Reparto
+ <br>Direccion : Lafayette 2360
+ <br>Ciudad : Rafael Castillo,La Matanza
+ <br>Telefono : 1523449759
+ <br>Email : darkbird97@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Soy una persona familiera ,muy trabajadora ,disciplinada,proactiva.
+ <br>Security_code : p6ydw
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.83.154<br>
+ <br>Nombre : Carlos martin
+ <br>Apellido : Godoy
+ <br>Cargo : Chofer
+ <br>Direccion : 523 e/29 y 30
+ <br>Ciudad : La plata
+ <br>Telefono : 221-3605324
+ <br>Email : atikaguzman@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Empleo
+ <br>Security_code : 6zgkw
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 200.125.120.253<br>
+ <br>REF : chr
+ <br>Nombre : walter
+ <br>Apellido : velazquez
+ <br>Cargo : chofer registro cnrt vigente
+ <br>Direccion : isleta 1870
+ <br>Ciudad : buenos aires valentin alsina
+ <br>Telefono : 1125146797
+ <br>Email : wfvelazquez@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Full tain
+ <br>Security_code : ty8k3
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.178.0.179<br>
+ <br>REF : chr
+ <br>Nombre : marcos antonio
+ <br>Apellido : tarragona
+ <br>Cargo : chofer y manejo de clar
+ <br>Direccion : RAMON FRANCO 4035
+ <br>Ciudad : LANUS
+ <br>Telefono : 16819299
+ <br>Email : tarragonamarcos@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : chofer con mucha esperiencia en reparto rejistros de carga peligrosas iel de carga jenerales al dia
+ <br>Security_code : dg677
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.55.137.230<br>
+ <br>Nombre : Marcela
+ <br>Apellido : Zarabozo
+ <br>Cargo : Encuestadora/ Entrevistadora
+ <br>Direccion : Culpina 975
+ <br>Ciudad : CABA
+ <br>Telefono : 011 5930 8536
+ <br>Email : marceczarabozo@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Agradecere recepcion de CV
+ <br>Security_code : 2y84k
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.46.104.124<br>
+ <br>REF : chr
+ <br>Nombre : EDGARDO DANIEL
+ <br>Apellido : CARDOSO
+ <br>Cargo : CHOFER DE REPARTO
+ <br>Direccion : CURUPAYTI 744
+ <br>Ciudad : LOMAS DEL MIRADOR
+ <br>Telefono : 1567592521
+ <br>Email : edgarcardoso462@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Establecerme y consolidarme en una empresa que me brinde la oportunidad de tener una estabilidad laboral
+ <br>Security_code : pdcnc
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.46.104.124<br>
+ <br>REF : chr
+ <br>Nombre : EDGARDO DANIEL
+ <br>Apellido : CARDOSO
+ <br>Cargo : CHOFER DE REPARTO
+ <br>Direccion : CURUPAYTI 744
+ <br>Ciudad : LOMAS DEL MIRADOR
+ <br>Telefono : 1567592521
+ <br>Email : edgarcardoso462@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Establecerme y consolidarme en una empresa que me brinde la oportunidad de tener una estabilidad laboral
+ <br>Security_code : pdcnc
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.45.90.244<br>
+ <br>REF : chr
+ <br>Nombre : Abel. Hernan 
+ <br>Apellido : Cabello 
+ <br>Cargo :  Carga y des carga. Y chofer 
+ <br>Direccion : Tomas edison 55
+ <br>Ciudad : La matanza bs as
+ <br>Telefono : 1560589797
+ <br>Email : Abelvabello2016@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Yo me postulo para la distribuidora
+ <br>Security_code : 123
+ <br>Send : Enviar
+ <br>
+---------------
+

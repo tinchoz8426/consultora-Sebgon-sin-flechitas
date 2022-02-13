@@ -1,0 +1,137 @@
+Address : 181.95.38.133
+Nombre : Valentina
+Apellido : Bagnis
+Cargo : abogado
+Direccion : Honduras 333
+Ciudad : Rio Cuarto
+Telefono : 0358 156000581
+Email : valen_bag@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me encuentro interesada en puestos de area de legales de empresas o administrativos. Muchas gracuas
+Security_code : 79jmq
+Send : Enviar
+
+---------------
+
+Address : 186.13.3.189
+REF : TECME
+Nombre : nicasio  florencio
+Apellido : burgos
+Cargo : tecnico mecanico
+Direccion : laguna 2951
+Ciudad : capital federal
+Telefono : 1155086300
+Email : flornicburg4910@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados,
+He visto la Oferta Laboral publicada la misma me resultó de gran interés. Por este motivo, les hago llegar mi Currículum Vitae, a fin de ser tenido en cuenta como candidato.
+Quedo a su disposición para ampliar cualquier información necesaria.
+Cordialmente,
+Nicasio  Florencio Burgos
+Security_code : kht3q
+Send : Enviar
+
+---------------
+
+Address : 201.255.153.155
+Nombre : Celeste Victoria
+Apellido : Martinez
+Cargo : Atención al cliente.
+Direccion : Calle 13
+Ciudad : Berazategui
+Telefono : 01159956028
+Email : celestemartinez96@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Con muchas ganas de trabajar para obtener un mejor desarollo personal y profesional.
+Security_code : yyy7w
+Send : Enviar
+
+---------------
+
+Address : 200.43.125.245
+Nombre : alejandro jose
+Apellido : sandoval
+Cargo : administartivo
+Direccion : beuchef 1341
+Ciudad : grand bourg
+Telefono : 156291-2345
+Email : ale.as@ciudad.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : estudiando nuevamente administracion en logistica
+Security_code : vc5bm
+Send : Enviar
+
+---------------
+
+Address : 186.57.134.164
+Nombre : NANCY L
+Apellido : GOMEZ
+Cargo : CAPACITACION Y COACH
+Direccion : Dorrego 3314
+Ciudad : San miguel
+Telefono : 46643938
+Email : credigesto@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me gustaria formar parte de su prestigioso staff.
+Security_code : fcgf9
+Send : Enviar
+
+---------------
+
+Address : 190.230.77.23
+REF : RTC
+Nombre : Marcos Alberto
+Apellido : Albo
+Cargo : Representante Tecnico Comercial
+Direccion : M.R Trelles 1456
+Ciudad : C.A.B.A
+Telefono : 11 6764 2714
+Email : maralbo2004@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : De mi mayor consideración:
+Atento a la convocatoria por uds realizada en referencia a la posición de Representante Tecnico Comercial , cumplo en dar respuesta a la misma enviando mi C.V del cual se desprende mi experiencia , siendo la misma realizada en el país a así como trabajando como apoyatura y asesoramiento técnico en diferentes representaciones en el exterior ,como ser en China , Tailandia , Taiwan , Uruguay , Brasil , Colombia , Venezuela ,Chile ,Italia , Uk , Peru, etc , esperando que la información enviada sea des su interés .
+Sin mas y a la espera de su respuesta , saludo muy atte.
+
+Security_code : 98ny6
+Send : Enviar
+
+---------------
+
+Address : 190.230.77.23
+Nombre : Marcos Alberto
+Apellido : Albo
+Cargo : asesor tecnico comercial
+Direccion : m.r. Trelles 1456
+Ciudad : C.A.B.A
+Telefono : 11 6764 2714
+Email : maralbo2004@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : De mi mayor consideración:
+Atento a la convocatoria por uds realizada en referencia a la posición de Representante Tecnico Comercial , cumplo en dar respuesta a la misma enviando mi C.V del cual se desprende mi experiencia , siendo la misma realizada en el país a así como trabajando como apoyatura y asesoramiento técnico en diferentes representaciones en el exterior ,como ser en China , Tailandia , Taiwan , Uruguay , Brasil , Colombia , Venezuela ,Chile ,Italia , Uk , Peru, etc , esperando que la información enviada sea des su interés .
+Sin mas y a la espera de su respuesta , saludo muy atte.
+
+Security_code : j8t6j
+Send : Enviar
+
+---------------
+
+Address : 201.212.162.25
+REF : GTEP
+Nombre : Ricardo Ernesto
+Apellido : Vicente
+Cargo : Gerente de Planta
+Direccion : Yerbal 1978
+Ciudad : Villa Adelina - San Isidro
+Telefono : 01147008068
+Email : ricardoernestovicente@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Sr. Gerente
+Por intermedio de la presente adjunto mi CV, en virtud de vuestra búsqueda de la posición de >gerente planta.
+Atte.
+
+Ricardo Vicente
+Security_code : 88jxd
+Send : Enviar
+
+---------------
+

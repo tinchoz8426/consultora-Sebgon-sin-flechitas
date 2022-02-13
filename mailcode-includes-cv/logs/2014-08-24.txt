@@ -1,0 +1,157 @@
+Address : 190.194.152.167
+Nombre : Victor
+Apellido : Barros
+Cargo : Empleado
+Direccion : Bermejo5347
+Ciudad : San Justo
+Telefono : 4487 3593
+Email : barrosvictor03@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estoy buscando un puesto como empleado
+Security_code : b6967
+Send : Enviar
+
+---------------
+
+Address : 186.56.180.64
+Nombre : Betiana Monica
+Apellido : Wosniak
+Cargo : Secretaria o Administrativa
+Direccion : Av. Calle Real 805
+Ciudad : Merlo
+Telefono : 1554707372
+Email : polacabet@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Les envio mi CV para ser cargado en su base de datos ante eventuales oportunidades laborales.
+Muchas gracias!!
+Security_code : p4mt2
+Send : Enviar
+
+---------------
+
+Address : 190.55.29.2
+Nombre : Amanda
+Apellido : Llovera
+Cargo : recepcionista
+Direccion : Facundo 574
+Ciudad : caba
+Telefono : 1134380642
+Email : amandall58@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Soy una persona responsable y muy cumplidora que llega siempre a horario y no falta abierta a aprender cosas nuevas manejo basico de computadora buen caracter
+Security_code : 9z9d
+Send : Enviar
+
+---------------
+
+Address : 190.55.29.2
+Nombre : Amanda
+Apellido : Llovera
+Cargo : recepcionista
+Direccion : Facundo 574
+Ciudad : caba
+Telefono : 1134380642
+Email : amandall58@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Soy una persona responsable y muy cumplidora que llega siempre a horario y no falta abierta a aprender cosas nuevas manejo basico de computadora buen caracter
+Security_code : 9zy9d
+Send : Enviar
+
+---------------
+
+Address : 181.168.170.60
+REF : ADMINISTRATIVA-DE-COMPRAS
+Nombre : martin
+Apellido : vidaurreta 
+Cargo : comprador
+Direccion : corrientes 1714
+Ciudad : neuquen
+Telefono : 02995057401
+Email : vidaurreta_martin@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : martin vidaurreta trabajo de cualquier cosa ....
+
+gracias 
+Security_code : dytv3
+Send : Enviar
+
+---------------
+
+Address : 200.125.99.178
+Nombre : Matias
+Apellido : Bevitore
+Cargo : Playero o empleado de peaje
+Direccion : JB Alberdi 2425
+Ciudad : Florencio Varela
+Telefono : 1124253195
+Email : mati.bevitore@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me encuentro en la búsqueda de un puesto part-time, soy estudiante de ingeniería.
+Security_code : hxxf6
+Send : Enviar
+
+---------------
+
+Address : 200.125.99.178
+Nombre : Matias
+Apellido : Bevitore
+Cargo : Playero o empleado de peaje
+Direccion : JB Alberdi 2425
+Ciudad : Florencio Varela
+Telefono : 1124253195
+Email : mati.bevitore@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me encuentro en la búsqueda de un puesto part-time, soy estudiante de ingeniería.
+Security_code : hxxf6
+Send : Enviar
+
+---------------
+
+Address : 200.125.99.178
+Nombre : Matias
+Apellido : Bevitore
+Cargo : Ninguno en particular
+Direccion : JB Alberdi 2425
+Ciudad : Florencio Varela
+Telefono : 1124253195
+Email : mati.bevitore@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me encuentro en la búsqueda de un puesto part-time, soy estudiante de ingeniería.
+Security_code : v352p
+Send : Enviar
+
+---------------
+
+Address : 190.245.15.95
+Nombre : Carolina
+Apellido : Corraro
+Cargo : Senior Comercio Exterior
+Direccion : San Juan 2729 6 E
+Ciudad : Autónoma de Buenos Aires
+Telefono : 156 7009843
+Email : carocorraro@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto al presente CV. Mi experiencia se basa en bancos comerciales pero mi búsqueda actual esta orientada en empresas internacionales o Pymes.
+Full o part time
+
+Saludos Cordiales
+Security_code : xkvst
+Send : Enviar
+
+---------------
+
+Address : 190.246.180.240
+Nombre : Carla Mariela
+Apellido : Moya
+Cargo : gerente de call center
+Direccion : Varela 111
+Ciudad : CABA
+Telefono : 15 5 404 8371
+Email : carlamarielam@yahoo.com
+MAX_FILE_SIZE : 2097152
+Mensaje : tomé los datos de vuestra consultora de la web de Min de Trabajo de Nacion
+Security_code : chfkd
+Send : Enviar
+
+---------------
+

@@ -1,0 +1,42 @@
+Address : 181.192.62.51<br>
+ <br>REF : GTEP
+ <br>Nombre : Armando
+ <br>Apellido : Giacomuzo
+ <br>Cargo : Gte. de Planta
+ <br>Direccion : R25 y Camaño, Pilar del Este, Los Jazmines, L. 347
+ <br>Ciudad : Pilar - Villa Rosa
+ <br>Telefono : 011-15-4-400-4991
+ <br>Email : agiacomuzo@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : ARMANDO GIACOMUZO
+        		Pilar del Este Lote 347-CP.1631  Pilar- Villa Rosa, Buenos Aires
++54-911-4-400-4991  agiacomuzo@hotmail.com
+
+
+PERFIL PROFESIONAL
+Reconocido experto, en Gerenciamiento: Logística, Producción, Planeamiento de Ventas, Ventas, QC, SHE (seguridad e Higiene Industrial), Medio Ambiente y Reducción de Costos.
+
+Más de 20 años de experiencia profesional en roles de Gerenciamiento Senior en Compañías Globales (Toyota, Unilever, Coke). Soy MBA, Ing. Industrial, Coach, bilingüe Ingles – Español, con excelente Portugués, nivel medio en Italiano, y conocimientos básicos de Japonés. Probada experiencia en Producción, Logística, procesos de profesionalización, cambios culturales, Start-Ups, Joint Ventures y tercerizaciones. He dirigido dotaciones de 700 empleados, 4 Plantas, incrementando las ganancias en un 5%, reduciendo tiempos muertos en 97%, alcanzando 87% de satisfacción en los clientes, Cero (0) accidente, y recortando costos por USD 25 Millones. Soy un gerente global orientado al detalle y estrategia, con pasión por mi trabajo.
+
+ <br>Security_code : yv4fm
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.28.218.145<br>
+ <br>Nombre : Florencia
+ <br>Apellido : Pezcara
+ <br>Cargo : Secretaria
+ <br>Direccion : Arenales 1238
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 1559730736
+ <br>Email : fpezcara@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Dejo mi CV para puesto de secretaria.
+
+
+ <br>Security_code : h96hh
+ <br>Send : Enviar
+ <br>
+---------------
+

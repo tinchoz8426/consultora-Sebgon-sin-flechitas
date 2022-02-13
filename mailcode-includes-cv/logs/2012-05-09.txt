@@ -1,0 +1,62 @@
+Address : 186.109.143.70
+Nombre : Matias Sebastian
+Apellido : Rodriguez
+Cargo : Empleado
+Direccion : Pensamiento 1688
+Ciudad : El Talar
+Telefono : 1536540518
+Email : matiasrodri_18@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me postulo para cualquier puesto que este disponible a mi perfil.Tengo experiencia en Caja y Atencion al cliente.
+Desde ya muchas gracias.
+Security_code : nchdj
+Send : Enviar
+
+---------------
+
+Address : 190.194.75.65
+Nombre : Vanesa
+Apellido : Loureiro
+Cargo : Lic. en Trabajo Social
+Direccion : 9 de Julio 1675
+Ciudad : Lanus
+Telefono : 541144228336
+Email : vaneloureiro@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto mi CV para dejar mis datos registrados y cuenten con ellos al momento de necesitar una Lic. en Trabajo Social.
+Desde ya muchas gracias, saludos.
+Security_code : wbbwn
+Send : Enviar
+
+---------------
+
+Address : 200.5.92.168
+Nombre : Diego
+Apellido : Rampoldi
+Cargo : GERENTE AREA BANCOS
+Direccion : Ruiz Huidobro 2019
+Ciudad : Capital Federal
+Telefono : 1539403321/ 4348-0000
+Email : diego.rampoldi@bbvafrances.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto curric para futuras búsquedas en área bancos.
+Security_code : pxsg4
+Send : Enviar
+
+---------------
+
+Address : 190.138.77.248
+Nombre : melinda rocio
+Apellido : lemal
+Cargo : Recepcion/secretaria/telefonista
+Direccion : libertad 4096
+Ciudad : buenos aires
+Telefono : 1164723386
+Email : melindarl19@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : me postulo , espero su respuesta 
+Security_code : ymwpm
+Send : Enviar
+
+---------------
+

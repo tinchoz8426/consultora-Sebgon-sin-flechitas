@@ -1,0 +1,15 @@
+Address : 201.228.247.206
+Nombre : YANEIRA 
+Apellido : CRUZ MORENO
+Cargo : ASISTENTE ADMINISTRATIVO
+Direccion : CRA 78 Nº 69B46 SUR  BOSA
+Ciudad : BOGOTA DC
+Telefono : 7792440-3133653287
+Email : yaneiracruz1979@hotmail.es
+MAX_FILE_SIZE : 2097152
+Mensaje : lograr  experiencia en ambito laboral y desempeñar una actividad emprendodora.
+Security_code : jjnvg
+Send : Enviar
+
+---------------
+

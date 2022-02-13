@@ -1,0 +1,236 @@
+Address : 190.172.80.194
+Nombre : PAOLA
+Apellido : LEDESMA
+Cargo : OPERARIA, ADMISIONISTA, RECEPCIONISTA
+Direccion : ERCILLA 5249
+Ciudad : CABA
+Telefono : 15 6765 5400
+Email : andrea050505@hotmail.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola, dejo adjunto mi c.v para poder ser  parte de sus busquedas de selección. Desde ya muchas gracias.PAOLA LEDESMA
+Security_code : h9f73
+Send : Enviar
+
+---------------
+
+Send : Enviar
+MAX_FILE_SIZE : 2097152
+Mensaje : This is both street smart and ingliletent.
+Email : bq0ckpuwfs@outlook.com
+Ciudad : 0NdwKoNc5an
+Security_code : 9cyrz
+Nombre : 5rOdxUkepqR
+Cargo : MDzQ1NhZjNR3
+Direccion : BtsOVVS24qCN
+Apellido : 5vKq9oriHLk
+Telefono : 2uoAw2nk1T2
+Address : 218.205.17.166
+Attachment : 
+
+---------------
+
+Send : Enviar
+MAX_FILE_SIZE : 2097152
+Mensaje : Hey, that's a clever way of thnkiing about it.
+REF : ACO
+Email : o1u1sifjhj@gmail.com
+Ciudad : HduJ83UYwMA
+Security_code : w88xc
+Nombre : q9NXCJ1D
+Cargo : CFbTH016
+Direccion : 6P9lh3ai1dZ
+Apellido : BF8bwQ32h1J7
+Telefono : a0qzoEMCOLjr
+Address : 222.37.3.51
+Attachment : 
+
+---------------
+
+Send : Enviar
+MAX_FILE_SIZE : 2097152
+Mensaje : Artcelis like this make life so much simpler.
+REF : T.ELE
+Email : q47udg1nm7b@outlook.com
+Ciudad : c0effIp3PC
+Security_code : 5kcng
+Nombre : Gmj3UzEd
+Cargo : LmH9PvrqK
+Direccion : tBXEkr2JM
+Apellido : BhPYuZsK
+Telefono : LU6kKvpX1F
+Address : 218.205.17.140
+Attachment : 
+
+---------------
+
+Send : Enviar
+MAX_FILE_SIZE : 2097152
+Mensaje : I went to tons of links before this, what was I thgniink?
+REF : OEL
+Email : 476gr0h0md@hotmail.com
+Ciudad : ZpgLMdHZG
+Security_code : wjykp
+Nombre : DiL8MHq8gD
+Cargo : FAZ4GvH34pG
+Direccion : gbnuKAFvcfa
+Apellido : 2WyqSULu
+Telefono : IrvD6QxOHTJl
+Address : 218.205.17.144
+Attachment : 
+
+---------------
+
+Address : 186.158.139.118
+Nombre : Héctor  Daniel
+Apellido : Quinteros
+Cargo : seguridad, educación 
+Direccion : Quito 5343
+Ciudad : Isidro Casanova
+Telefono : 1164118489
+Email : copycorba@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Mi nombre Héctor, soy profe de Ciencia Política y quisiera un puesto que están ofreciendo como portero.
+Security_code : 8zdx4
+Send : Enviar
+
+---------------
+
+Address : 190.181.106.100
+Nombre : Yanina Vanesa
+Apellido : Piris
+Cargo : Asesor automotriz, Mandataria matriculada, Capacitación al personal
+Direccion : Scalabrini Ortiz 717
+Ciudad : San Antonio de Padua
+Telefono : 01168523604
+Email : yaninavanesapiris@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Mi objetivo es obtener un cargo en Empresa Concesionaria o Entidad Bancaria donde yo pueda desempeñar mis conocimientos de Crédito Prendario, Leasing, o cualquier diligencia o mandato referido al automotor, como así también capacitación al personal en las cuestiones referidas a mi competencia.
+Security_code : zc849
+Send : Enviar
+
+---------------
+
+Address : 190.245.158.65
+Nombre : Mariela Carla
+Apellido : Gonzalez
+Cargo : Administración/recepción
+Direccion : Jose de Maturana 4799 1° 5
+Ciudad : CABA
+Telefono : 45683659
+Email : gonzalezmariela_91_08@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenas Tardes, le adjunto mi CV con el fin de ingresar a su base de datos para una búsqueda laboral.
+Sesde ya muchas Gracias
+Security_code : gdpsn
+Send : Enviar
+
+---------------
+
+Address : 191.84.169.144
+Nombre : micaela
+Apellido : britez
+Cargo : trabajo
+Direccion : bouchard 3641, 
+Ciudad : jose marmol
+Telefono : 4219-1360
+Email : britezelianamicaela@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : hola tengo 22 años y estoy buscando trabajo tengo muchas ganas de trabajar si me pueden ayudar porfavor.. gracias!!
+Security_code : 6twgz
+Send : Enviar
+
+---------------
+
+Address : 179.40.163.216
+Nombre : Emanuel Dimas
+Apellido : Salteño
+Cargo : TÉCNICO ELECTRÓNICO PARA EMPRESA LÍDER
+Direccion : Olivieri 353
+Ciudad : Isidro Casanova
+Telefono : 15 6714 0516
+Email : emanuel_dimas@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estuve buscando avisos y me encontre con su consultora el aviso correspondiente, desde ya muchas gracias.
+Saludos Cordiales
+Atte
+Emanuel Dimas Salteño
+Security_code : zcbmj
+Send : Enviar
+
+---------------
+
+Address : 190.247.29.78
+Nombre : robert martin 
+Apellido : gabriel guerrero
+Cargo : asistente de oficina
+Direccion : estanizlao dias 1062
+Ciudad : san isidro
+Telefono : 1138927848
+Email : tokert_27@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : estaré muy agradecido  de darme la oprtunidad de poder trabajar gracias a su recomendación 
+Security_code : 8k6cz
+Send : Enviar
+
+---------------
+
+Address : 190.247.29.78
+Nombre : robert martin 
+Apellido : gabriel guerrero
+Cargo : asistente de oficina
+Direccion : estanizlao dias 1062
+Ciudad : san isidro
+Telefono : 1138927848
+Email : tokert_27@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : estaré muy agradecido  de darme la oprtunidad de poder trabajar gracias a su recomendación 
+Security_code : 8k6cz
+Send : Enviar
+
+---------------
+
+Address : 190.247.29.78
+Nombre : robert martin 
+Apellido : gabriel guerrero
+Cargo : asistente de oficina
+Direccion : estanizlao dias 1062
+Ciudad : san isidro
+Telefono : 1138927848
+Email : tokert_27@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : estaré muy agradecido  de darme la oprtunidad de poder trabajar gracias a su recomendación 
+Security_code : 8k6cz
+Send : Enviar
+
+---------------
+
+Address : 190.247.29.78
+Nombre : robert martin 
+Apellido : gabriel guerrero
+Cargo : asistente de oficina
+Direccion : estanizlao dias 1062
+Ciudad : san isidro
+Telefono : 1138927848
+Email : tokert_27@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : estaré muy agradecido  de darme la oprtunidad de poder trabajar gracias a su recomendación 
+Security_code : xgjwr
+Send : Enviar
+
+---------------
+
+Address : 190.247.29.78
+Nombre : robert martin 
+Apellido : gabriel guerrero
+Cargo : asistente de oficina
+Direccion : estanizlao dias 1062
+Ciudad : san isidro
+Telefono : 1138927848
+Email : tokert_27@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : estaré muy agradecido  de darme la oprtunidad de poder trabajar gracias a su recomendación 
+Security_code : xgjwr
+Send : Enviar
+
+---------------
+

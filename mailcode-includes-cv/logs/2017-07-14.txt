@@ -1,0 +1,248 @@
+Address : 181.166.30.110<br>
+ <br>REF : ACO-1
+ <br>Nombre : Rocco
+ <br>Apellido : Guglielmi 
+ <br>Cargo : Analista comercio internacional 
+ <br>Direccion : Juncal 1971
+ <br>Ciudad : C.A.B.A
+ <br>Telefono : 0342155239390
+ <br>Email : Roccoguglielmi@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Lic. En Relaciones Internacionales. Disponibilidad full time
+Salario bruto pretendido: 22.000
+ <br>Security_code : bj4b6
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.195.103.10<br>
+ <br>Nombre : Barbara
+ <br>Apellido : Tajes
+ <br>Cargo : Licenciado en Seguridad e Higiene
+ <br>Direccion : Tirso de Molina 2832
+ <br>Ciudad : Benavidez
+ <br>Telefono : 1163014986
+ <br>Email : barbaramarieltajes@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenos días,
+Mi nombre es Barbara Tajes, licenciada recibida en la Universidad de Flores. Me encuentro disponible para trabajos part time.
+Les adjunto mi Cv para futuras busquedas en la empresa.
+
+Desde ya, muchas gracias!
+ <br>Security_code : sbfy6
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.11<br>
+ <br>REF : TM-2
+ <br>Nombre : Carlos
+ <br>Apellido : Aguirre
+ <br>Cargo : Fresador.mantenimiento
+ <br>Direccion : Los pinos 2784
+ <br>Ciudad : Bs.as
+ <br>Telefono : 1153311985
+ <br>Email : Carua19ca@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me postulo a la vacante solicitada
+ <br>Security_code : Pgrbw
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.9<br>
+ <br>REF : ROT-1
+ <br>Nombre : David
+ <br>Apellido : Núñez
+ <br>Cargo : Responsable oficina técnica
+ <br>Direccion : Thames 2484
+ <br>Ciudad : C.A.B.A.
+ <br>Telefono : 1130116572
+ <br>Email : david.2789@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenos días, mi nombre es David Núñez, soy ingeniero mecánico y me encuentro interesado en la vacante
+ <br>Security_code : Xncyq
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.245.226.79<br>
+ <br>REF : ACO-1
+ <br>Nombre : Magin
+ <br>Apellido : Rodriguez
+ <br>Cargo : Analista de Comercio Exterior
+ <br>Direccion : Palermo Calle Paraguay 5150
+ <br>Ciudad : Buenos aires
+ <br>Telefono : 1133715694
+ <br>Email : rodrimagin11@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Saludos cordiales y atento a cualquier solicitud, gracias
+ <br>Security_code : fc2hy
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.195.114.251<br>
+ <br>REF : ACO-1
+ <br>Nombre : Marco
+ <br>Apellido : Agudelo
+ <br>Cargo : ANALISTA DE COMERCIO INTERNACIONAL/EXTERIOR
+ <br>Direccion : gorriti 3991
+ <br>Ciudad : Buenos Aires, Capital Federal, Palermo
+ <br>Telefono : 1155163599
+ <br>Email : marcogudelo@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas Tardes
+
+Un placer escribirles.
+
+Anexo te envió mi cv, espero sea de su agrado(100% bilingue) y quedo a la espera de Su amable respuesta.
+
+Mi cel es: 11 55163599 pueden escribirme cualquier cosa por whatsapp.
+
+Pd. Poseo Dni y cuil
+
+Todo lo mejor.
+ <br>Security_code : k63x6
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.195.114.251<br>
+ <br>REF : ACO-1
+ <br>Nombre : Marco
+ <br>Apellido : Agudelo
+ <br>Cargo : ANALISTA DE COMERCIO INTERNACIONAL/EXTERIOR
+ <br>Direccion : gorriti 3991
+ <br>Ciudad : Buenos Aires, Capital Federal, Palermo
+ <br>Telefono : 1155163599
+ <br>Email : marcogudelo@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas Tardes
+
+Un placer escribirles.
+
+Anexo te envió mi cv, espero sea de su agrado(100% bilingue) y quedo a la espera de Su amable respuesta.
+
+Mi cel es: 11 55163599 pueden escribirme cualquier cosa por whatsapp.
+
+Pd. Poseo Dni y cuil
+
+Todo lo mejor.
+ <br>Security_code : k63x6
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.12.108.60<br>
+ <br>REF : ACO-1
+ <br>Nombre : Cecilia
+ <br>Apellido : Saffigna
+ <br>Cargo : ANALISTA DE COMERCIO INTERNACIONAL/EXTERIOR 
+ <br>Direccion : Concordia 2546
+ <br>Ciudad : Capital Federal
+ <br>Telefono : 15-6787-9382
+ <br>Email : ceci_saff@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Envío mi CV para que sea considerado en la búsqueda laboral.
+ <br>Security_code : zrzd7
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 200.125.74.78<br>
+ <br>REF : chr
+ <br>Nombre : EZEQUIEL
+ <br>Apellido : BRAVO
+ <br>Cargo : chofer
+ <br>Direccion : CONSEJAL SILVA 2190
+ <br>Ciudad : PABLO PODESTA
+ <br>Telefono : 1157096436
+ <br>Email : embpp10@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estoy a disposicion del puesto publicado, soy responsable y comprometido a las tareas a cumplir.
+ <br>Security_code : fn57x
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.170.231.203<br>
+ <br>REF : ACO-1
+ <br>Nombre : Estefania
+ <br>Apellido : Espel Cuba
+ <br>Cargo : Analista de Comex
+ <br>Direccion : Belgrano
+ <br>Ciudad : CABA
+ <br>Telefono : 1561234245
+ <br>Email : estefania.espel@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : .
+ <br>Security_code : q4cmm
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.139.60.41<br>
+ <br>REF : ACO-1
+ <br>Nombre : Daniel
+ <br>Apellido : Naveda
+ <br>Cargo : ANALISTA DE COMERCIO INTERNACIONAL/EXTERIOR
+ <br>Direccion : Corvalan 3020
+ <br>Ciudad : CABA Buenos Aires
+ <br>Telefono : 1167136518
+ <br>Email : naveda.danielm@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Adjunto mi cv de referencia
+ <br>Security_code : 8r89n
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 179.41.223.126<br>
+ <br>REF : ROT-1
+ <br>Nombre : Ezequiel 
+ <br>Apellido : Fiorito
+ <br>Cargo : RESPONSABLE DE OFICINA TECNICA 
+ <br>Direccion : monseñor de andrea 139, 2do C
+ <br>Ciudad : Hadedo
+ <br>Telefono : 1536562292
+ <br>Email : ezequiel@fioro.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola, como estas? en www.fioro.com.ar hay un link a mi portfolio con casos y mi perfil profesional. Muchas gracias
+ <br>Security_code : nsyq8
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 191.80.163.46<br>
+ <br>REF : chr
+ <br>Nombre : Neri Roberto
+ <br>Apellido : Caceres
+ <br>Cargo : chofer
+ <br>Direccion : lago traful
+ <br>Ciudad : buenos aires
+ <br>Telefono : 4693 5263
+ <br>Email : marizza11@hotmail.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me gustaria incorporarme al equipo de trabajo
+ <br>Security_code : rq4nc
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.235.28.159<br>
+ <br>REF : ROT-1
+ <br>Nombre : Daniel
+ <br>Apellido : Gomez
+ <br>Cargo : prog de cnc
+ <br>Direccion : quintana 4824
+ <br>Ciudad : san fernando
+ <br>Telefono : 1521565970
+ <br>Email : tecmec-sanfer@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : por aviso programador cnc
+ <br>Security_code : 8wdjm
+ <br>Send : Enviar
+ <br>
+---------------
+

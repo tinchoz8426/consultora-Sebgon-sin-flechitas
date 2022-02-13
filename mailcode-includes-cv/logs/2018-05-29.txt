@@ -1,0 +1,265 @@
+Address : 186.129.160.36<br>
+ <br>Nombre : Mariana Ines
+ <br>Apellido : RODRIGUEZ
+ <br>Cargo : administracion
+ <br>Direccion : GUANAHANI 7282
+ <br>Ciudad : MAR DEL PLATA
+ <br>Telefono : 2234364281
+ <br>Email : rodriguez-mariana@live.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : presentación espontanea
+ <br>Security_code : wqh7m
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.46.97.57<br>
+ <br>REF : JPER-1
+ <br>Nombre : Andrea
+ <br>Apellido : Giglio
+ <br>Cargo : Jefe de Personal
+ <br>Direccion : Limay 1597
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 21299476
+ <br>Email : andreafabianagiglio@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados, me gustaría ser considerada para este cargo. Tengo la experiencia y las competencias requeridas. Gracias. 
+ <br>Security_code : pkfgy
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.1.90.96<br>
+ <br>REF : SP-1
+ <br>Nombre : Luis Alberto
+ <br>Apellido : Silva Siviero
+ <br>Cargo : Supervisor de Produccion
+ <br>Direccion : A Storni 2842
+ <br>Ciudad : Garin
+ <br>Telefono : 01158505973
+ <br>Email : luissilva2012@arnet.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Postulo a esta busqueda u a otras similares, estoy a sus ordenes.
+
+ <br>Security_code : wpfpt
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.1.90.96<br>
+ <br>REF : SP-1
+ <br>Nombre : Luis Alberto
+ <br>Apellido : Silva Siviero
+ <br>Cargo : Supervisor de Produccion
+ <br>Direccion : A Storni 2842
+ <br>Ciudad : Garin
+ <br>Telefono : 01158505973
+ <br>Email : luissilva2012@arnet.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Postulo a esta busqueda u a otras similares, estoy a sus ordenes.
+
+ <br>Security_code : wpfpt
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.1.90.96<br>
+ <br>REF : SP-1
+ <br>Nombre : Luis Alberto
+ <br>Apellido : Silva Siviero
+ <br>Cargo : Supervisor de Produccion
+ <br>Direccion : A Storni 2842
+ <br>Ciudad : Garin
+ <br>Telefono : 01158505973
+ <br>Email : luissilva2012@arnet.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Postulo a esta busqueda u a otras similares, estoy a sus ordenes.
+
+ <br>Security_code : p33cn
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.44.121.229<br>
+ <br>Nombre : pablo damian
+ <br>Apellido : cordoba
+ <br>Cargo : produccion
+ <br>Direccion : dias de solis 5662
+ <br>Ciudad : rafael calzada
+ <br>Telefono : 1566796013
+ <br>Email : cordobapablodamian@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : operario con amplia experiencia en lineas de producción manufactura y empaque, muchas ganas de trabajar con disponibilidad horaria full time horas extras pro-activo dinámico con movilidad propia para dirigirme hacia el lugar de trabajo
+ <br>Security_code : mjrr3
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.104.242.58<br>
+ <br>REF : ACO-1
+ <br>Nombre : Roberto
+ <br>Apellido : Caride
+ <br>Cargo : ACO-1
+ <br>Direccion : Sucre 1552 3A
+ <br>Ciudad : CABA
+ <br>Telefono : 1534985276
+ <br>Email : rc1977ar@live.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Señor Gerente del Área de RR.HH, 
+Presente: 
+Me dirijo a Ud. a los efectos de proponerme como colaborador de su empresa y a tal fin le envió mi curriculum vitae. Espero que mi oferta sea valorada positivamente y que me convoque para una entrevista personal en la que pueda ampliar la exposición de mis capacidades. Estaría dispuesto a incorporarme inmediatamente a su empresa para desarrollar cualquier trabajo en relación con mi especialidad. 
+Deseo que valore mi ofrecimiento como una seria posibilidad, puesto que estoy seguro de que será una experiencia muy positiva para ambas partes. 
+Sin más saludo a Ud. muy atte.
+Lic. Roberto Caride 
+ <br>Security_code : mmmtf
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.104.242.58<br>
+ <br>Nombre : Roberto
+ <br>Apellido : Caride
+ <br>Cargo : ACO-1
+ <br>Direccion : Sucre 1552 3A
+ <br>Ciudad : CABA
+ <br>Telefono : 1534985276
+ <br>Email : rc1977ar@live.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Señor Gerente del Área de RR.HH, 
+Presente: 
+Me dirijo a Ud. a los efectos de proponerme como colaborador de su empresa y a tal fin le envió mi curriculum vitae. Espero que mi oferta sea valorada positivamente y que me convoque para una entrevista personal en la que pueda ampliar la exposición de mis capacidades. Estaría dispuesto a incorporarme inmediatamente a su empresa para desarrollar cualquier trabajo en relación con mi especialidad. 
+Deseo que valore mi ofrecimiento como una seria posibilidad, puesto que estoy seguro de que será una experiencia muy positiva para ambas partes. 
+Sin más saludo a Ud. muy atte.
+Lic. Roberto Caride 
+ <br>Security_code : t2g2k
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 161.22.0.1<br>
+ <br>Nombre : Maximiliano
+ <br>Apellido : Torres
+ <br>Cargo : Operario
+ <br>Direccion : El Buceo 6633
+ <br>Ciudad : Del Viso
+ <br>Telefono : 02320474061
+ <br>Email : maximilianoleoneltorres@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Busco desempeñarme como operario, dentro de una fábrica industrial o logística, ya sea en el sector de producción o depósito, realizando tareas manuales y afines a mi experiencia.
+ <br>Security_code : y9nw3
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.9<br>
+ <br>REF : TM-2
+ <br>Nombre : Manuel Angel
+ <br>Apellido : Mouro Mayo
+ <br>Cargo : Mantenimiento 
+ <br>Direccion : Republica Del Líbano 719
+ <br>Ciudad : lanus, este buenos aires
+ <br>Telefono : 1132853929 
+ <br>Email : manuelmouromayo@outlook.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me interesa el puesto de trabajo
+ <br>Security_code : q82q2
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.22.201.147<br>
+ <br>Nombre : javir alejandro
+ <br>Apellido : zapata
+ <br>Cargo : operario quimico
+ <br>Direccion : beron de astrada, 4673
+ <br>Ciudad : lanus
+ <br>Telefono : 01141702707
+ <br>Email : javialezapata@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : hola soy  Javier zapata trabaje   cognis una química del grupo basf me desempeñaba como operador de planta sulfatadora de azufre operador de planta efluente operador de reactores para formular productos químicos operario envasador y carga y descarga tengo movilidad propia y no tengo problema en cambio de residencia desde muchas gracias : acá les mando mi cv trabaje por temporada en clorox como operador formulador de productos químicos manejo de clark validación del producto final analisis de laboratorio ph activo deteminacion de peroxido viscosidad hipoclorito o cloro conductividad actualmente trabajo en sinteplast  actualmente trabajo en sinplast como operador de planta acuoso en recuperación de agua y planta efluente 
+
+
+ <br>Security_code : 82bm2
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.192.215.213<br>
+ <br>REF : SP-1
+ <br>Nombre : Jose
+ <br>Apellido : Cepeda
+ <br>Cargo : Supervisor de Producción
+ <br>Direccion : Ciudadela 1263, Constitución
+ <br>Ciudad : BUENOS AIRES
+ <br>Telefono : 54-9-11-3809-6302
+ <br>Email : JOSECPDA@GMAIL.COM
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Actualmente vivo en Argentina y estoy buscando oportunidades de trabajo. 
+Tengo experiencia en operaciones de producción en la industria Oil&Gas.
+ <br>Security_code : 4rf9z
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.22.182.131<br>
+ <br>Nombre : Silvana
+ <br>Apellido : Angeletti
+ <br>Cargo : Administrativo o Recepcion
+ <br>Direccion : Las Heras 779
+ <br>Ciudad : Monte Grande
+ <br>Telefono : 01164480487
+ <br>Email : silchu.angeletti@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Adjunto CV para posibles búsquedas laborales
+ <br>Security_code : wz427
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.179.168.0<br>
+ <br>Nombre : GABRIELA 
+ <br>Apellido : Arcamone 
+ <br>Cargo : Venta/Cajera/Recepcionista 
+ <br>Direccion : Bvard. Buenos Aires 1751
+ <br>Ciudad : Luis Guillón 
+ <br>Telefono : 0111550429976
+ <br>Email : gabiarcamone@hotmail.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Con muchas ganas de cumplir con cada tarea que me ofrezcan 
+ <br>Security_code : gp4c8
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.188.68.116<br>
+ <br>REF : Ing. quim
+ <br>Nombre : Noelia
+ <br>Apellido : Trevisiol
+ <br>Cargo : jefa de procesos industriales
+ <br>Direccion : 28 nro 537
+ <br>Ciudad : La Plata
+ <br>Telefono : 0221155240479
+ <br>Email : noeliatrevisiol@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Tengo la edad y los conocimientos requeridos.Me gustan los desafíos y me esfuerzo por lograr mis objetivos.Estoy muy interesada en este puesto y quedo a su disposición para ampliar toda información que considere necesaria 
+ <br>Security_code : mdyfk
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.188.68.116<br>
+ <br>REF : Ing. quim
+ <br>Nombre : Noelia
+ <br>Apellido : Trevisiol
+ <br>Cargo : jefa de procesos industriales
+ <br>Direccion : 28 nro 537
+ <br>Ciudad : La Plata
+ <br>Telefono : 0221155240479
+ <br>Email : noeliatrevisiol@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Tengo la edad y los conocimientos requeridos.Me gustan los desafíos y me esfuerzo por lograr mis objetivos.Estoy muy interesada en este puesto y quedo a su disposición para ampliar toda información que considere necesaria 
+ <br>Security_code : mdyfk
+ <br>Send : Enviar
+ <br>
+---------------
+

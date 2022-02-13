@@ -1,0 +1,112 @@
+Address : 186.124.15.1
+Nombre : andrea fabiana  alieno
+Apellido : alieno
+Cargo : telefonista recepcionista
+Direccion : reconquista 4844
+Ciudad : villa ballester
+Telefono : 47398691
+Email : andrea.alieno@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : tengo un a disponibilidad horaria full time ..vivo en zona noreste.., mucha predisposicion para aprender y poner en practica todo mi potencial ..y a trabajar tanto sea en grupo como en forma individual .tengo mucha facilidad en las relaciones interpersonales .muy buen trato  y simpatia y ganas de crecer , tanto sea como en lo personal  como en las tareas que se ma asignen.me necantaria tener la posiblidad de una entrevista  para que me conozcan.bueno , esperando una respuesta positiva ..saludo mu atte .srta .andrea alieno
+Security_code : pyhb7
+Send : Enviar
+
+---------------
+
+Address : 190.50.202.83
+Nombre : Sabrina
+Apellido : Gonçalves
+Cargo : Recepcionista
+Direccion : Massenet
+Ciudad : 763
+Telefono : 4662-1129
+Email : sa763@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : **
+Security_code : m75t2
+Send : Enviar
+
+---------------
+
+Address : 186.19.215.151
+Nombre : Maria Gabriela
+Apellido : Gandur
+Cargo : Empleada administrariva/ asistente 
+Direccion : Agrelo
+Ciudad : 4357
+Telefono : 6380-5622
+Email : gabriela_gandur@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Envio mi cv, ya que me interesaría trabajar en la empresa
+Saludos,
+Muchas gracias!
+
+Security_code : 34v9c
+Send : Enviar
+
+---------------
+
+Address : 201.255.166.83
+Nombre : Mariano
+Apellido : Gómez
+Cargo : Gerencia de Calidad o Dpto de Ventas
+Direccion : Emilio Zolá 6170 1er Piso
+Ciudad : Wilde Este
+Telefono : 0111540413950
+Email : marianopgomez@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Quedo a la espera de una respuesta favorable.
+Cualquier duda o consulta quedo a vuestra entera disposición.
+Muchas gracias.
+Security_code : sqm5w
+Send : Enviar
+
+---------------
+
+Address : 190.188.169.20
+Nombre : Melina
+Apellido : Huk
+Cargo : Secretaria-Recepcionista-Telefonista
+Direccion : Bernardo de Irigoyen 2115
+Ciudad : Buenos Aires
+Telefono : 1540263769
+Email : melinahuk@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenas tardes, Me encuentro en la busqueda de un empleo. Les envio mi Curriculum Vitae, desde ya muchas gracias.
+Security_code : kfk9j
+Send : Enviar
+
+---------------
+
+Address : 190.220.152.90
+Nombre : Diana
+Apellido : Di Giorgio
+Cargo : Jefa de Ventas
+Direccion : Ugarte 2350
+Ciudad : Capital Federal
+Telefono : 011-47834137
+Email : pitchon46@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados Señores, adjunto mi CV para ser evaluado.
+Muchas gracias,
+Diana Di Giorgio
+Security_code : smnt7
+Send : Enviar
+
+---------------
+
+Address : 24.232.77.195
+Nombre : Francisco Javier
+Apellido : Ramirez Torres
+Cargo : Soporte Tecnico 
+Direccion : 25 de Mayo 758 
+Ciudad : Capital Federal, Buenos Aires 
+Telefono : 1566935424
+Email : francisco.ramirez_21@yahoo.es
+MAX_FILE_SIZE : 2097152
+Mensaje : Estoy en la Argentina en la busqueda de un mejor empleo de antemano muchas gracias por tener estos espacios donde gente que busca empleo como yo podemos ser tomados en cuenta, muchas gracias.
+Security_code : ksqkp
+Send : Enviar
+
+---------------
+

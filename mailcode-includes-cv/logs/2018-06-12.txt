@@ -1,0 +1,60 @@
+Address : 181.168.203.217<br>
+ <br>REF : EM
+ <br>Nombre : GREIDY TERESA
+ <br>Apellido : PEREZ LOBO
+ <br>Cargo : Ing. En electricidad 
+ <br>Direccion : Rivadavia 4009
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 1137879787
+ <br>Email : ing.greidyperez@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me encuentro en búsqueda de una oportunidad de empleo, es por esta razón que en el presente adjunto CV con la intención de que me tomen en cuenta en caso de que tengan una vacante disponible que se ajuste a mi perfil. 
+
+Agradecida de antemano 
+Greidy Pérez 
+ <br>Security_code : dgttq
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.17.30.129<br>
+ <br>REF : Ing. quim
+ <br>Nombre : Isvelia 
+ <br>Apellido : Padilla
+ <br>Cargo : Jefa de Procesos Industriales
+ <br>Direccion : General Urquiza 1117
+ <br>Ciudad : Ciudad Autonoma de Buenos Aires
+ <br>Telefono : 541136261014
+ <br>Email : isveliapadilla11@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Ingeniero Químico, cuento con mas de 3 años de experiencia en laboratorios físico
+químicos, de alimentos y de dinámica de procesos e instrumentación; ademas experiencia
+en planta Downsteam como Ingeniero de Procesos en el área petroquímica, como apoyo
+principal al área de servicio y apoyo secundario al proceso principal de producción de
+MTBE. Monitorié puntos críticos y ejecuté proyectos para maximizar la eficiencia del
+proceso, capacité al personal de operaciones y supervisé el cumplimiento de
+recomendaciones. Poseo manejo intermedio de los Simuladores de Procesos Hysys y Pro
+II y del Simulador de Redes de Tuberias Pipephase 9.6, ademas conocimiento sobre
+Control y Manejo de Project 2010 para el cálculo de presupuestos, materiales y Control
+de Projectos; Conocimientos en Seguridad e Higiene. Manejo avanzado de Excel. Sumado
+a eso tengo nivel intermedio (B1) del idioma inglés.
+ <br>Security_code : v9gdj
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.28.95.228<br>
+ <br>Nombre : Facundo
+ <br>Apellido : Armando
+ <br>Cargo : Community Manager
+ <br>Direccion : Arenales 1200
+ <br>Ciudad : Recoleta
+ <br>Telefono : 0349215655114
+ <br>Email : facundoarmando3@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Trabajo desde principio de 2017 en Radio Rivadavia como encargado de las redes sociales
+ <br>Security_code : mnqh4
+ <br>Send : Enviar
+ <br>
+---------------
+

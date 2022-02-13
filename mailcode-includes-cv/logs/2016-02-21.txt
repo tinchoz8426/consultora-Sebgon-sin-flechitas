@@ -1,0 +1,63 @@
+Address : 191.102.19.95
+Nombre : Abril Ayelén
+Apellido : Gómez
+Cargo : Empleada administrativa
+Direccion : cura brochero 6762
+Ciudad : Moreno
+Telefono : 1122787149
+Email : gomezabrilayelen@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Mi objetivo es poder crecer en una entidad pública o privada que me brinde la oportunidad de desarrollar mi capacidad y pro actividad.
+Security_code : fyrgf
+Send : Enviar
+
+---------------
+
+Address : 181.47.11.238
+Nombre : Daniela Sol
+Apellido : Steinman
+Cargo : Secretaria/recepcionista
+Direccion : Yatay 775
+Ciudad : C.A.B.A.
+Telefono : 1126427214
+Email : solsteinman@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Les hago llegar mi CV para futuras busquedas.
+Desde ya muchas gracias
+Security_code : hgb2p
+Send : Enviar
+
+---------------
+
+Address : 190.107.98.138
+REF : GTEP
+Nombre : aldo marcelo
+Apellido : conti
+Cargo : gerente de planta
+Direccion : sarmiento 1854
+Ciudad : san luis
+Telefono : 2657238586
+Email : ing.contimarcelo@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimado Sr:
+                    Por mi experiencia en producción y mantenimiento mecánico en este sector y mi interés en su empresa, considero poder serles de utilidad.  Por este motivo, desearía tener la oportunidad de conversar con ustedes en una entrevista En espera de sus noticias, les saluda atentamente
+Security_code : 2bvmy
+Send : Enviar
+
+---------------
+
+Address : 190.0.181.86
+Nombre : Débora Yasmín
+Apellido : Lamanna
+Cargo : indistinto
+Direccion : El Ceibo 22
+Ciudad : San Antonio de Padua
+Telefono : 1153340358
+Email : debiii_08@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje :   
+Security_code : f8q94
+Send : Enviar
+
+---------------
+

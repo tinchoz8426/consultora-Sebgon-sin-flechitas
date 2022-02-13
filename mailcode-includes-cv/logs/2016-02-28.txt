@@ -1,0 +1,60 @@
+Address : 190.228.106.2
+Nombre : Javier Martin Abelardo
+Apellido : Piccoli
+Cargo : Operario
+Direccion : 9 de julio entre 32 y 33 del oeste 
+Ciudad : Concepcion del uruguay. Entre Rios.
+Telefono : 03442-15490011
+Email : tasadeencendedor@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Obtener un puesto en el cual pueda aplicar, desarrollar mis capacidades  laborales, así como también ampliarlas. 
+Security_code : rkpvv
+Send : Enviar
+
+---------------
+
+Address : 186.62.33.141
+Nombre : Guillermo Nahuel
+Apellido : Salvatore
+Cargo : Administrativo o Reparacion y mantenimiento de computadoras
+Direccion : calle 151 n°686
+Ciudad : Berazategui
+Telefono : 1150175884
+Email : guillesalvatore@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola. Busco empleo en el area administrativa (tengo buen manejo de excel  ), o para reparacion y mantenimiento de computadoras.
+Security_code : jytgm
+Send : Enviar
+
+---------------
+
+Address : 186.23.173.11
+Nombre : Maria Cristina
+Apellido : Palavecino
+Cargo : Administrativa
+Direccion : Franklin
+Ciudad : pablo nogues
+Telefono : 1530045074
+Email : maruaero_9@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Mi postulacion es para el  área administrativa y operativa en la cual pueda transferir y poner en ejecución mi experiencia y habilidades,desarrollarme profesionalmente para el buen desempeño de las funciones asignadas.
+Security_code : tws7r
+Send : Enviar
+
+---------------
+
+Address : 186.158.229.178
+Nombre : Demian
+Apellido : Oyarzabal 
+Cargo : Oyarzabal
+Direccion : Ing. c. Boatti 239
+Ciudad : Moron
+Telefono : 1535487969
+Email : demian_1975ar@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : CV DEMIAN OYARZABAL
+Security_code : py44h
+Send : Enviar
+
+---------------
+

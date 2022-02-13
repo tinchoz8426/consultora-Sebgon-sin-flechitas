@@ -1,0 +1,54 @@
+Address : 190.183.24.29
+Nombre : Lucas
+Apellido : Paul
+Cargo : Transportista
+Direccion : Alem 515
+Ciudad : Paraná
+Telefono : 0343154681717
+Email : lukas_ep18@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Ahí les adjunté mi CV.
+Aguardo respuestas.
+Muchas gracias..
+Security_code : xwszm
+Send : Enviar
+
+---------------
+
+Address : 200.61.26.206
+Nombre : Juan Carlos
+Apellido : Ambrueso
+Cargo : Contador Publico
+Direccion : Membrillar 84 Piso 4 "A"
+Ciudad : CABA
+Telefono : 4634-2934
+Email : amigos_jc@hotmail.com
+
+---------------
+
+Address : 200.61.26.206
+Nombre : Juan Carlos
+Apellido : Ambrueso
+Cargo : Contador Publico
+Direccion : Membrillar 84 Piso 4 "A"
+Ciudad : CABA
+Telefono : 4634-2934
+Email : amigos_jc@hotmail.com
+
+---------------
+
+Address : 200.61.26.206
+Nombre : Juan Carlos
+Apellido : Ambrueso
+Cargo : Contador Publico
+Direccion : Membrillar 84 Piso 4 "A"
+Ciudad : CABA
+Telefono : 4634-2934
+Email : amigos_jc@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Presentación espontanes
+Security_code : qsqwt
+Send : Enviar
+
+---------------
+

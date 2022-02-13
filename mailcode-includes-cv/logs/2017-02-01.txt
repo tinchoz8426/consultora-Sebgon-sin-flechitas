@@ -1,0 +1,320 @@
+Address : 186.0.140.130<br>
+ <br>REF : EP-1
+ <br>Nombre : daniel
+ <br>Apellido : vilca
+ <br>Cargo : encargado
+ <br>Direccion : avellaneda 666
+ <br>Ciudad : merlo
+ <br>Telefono : 1122979411
+ <br>Email : vdanielroberto@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : amplia experiencia
+ <br>Security_code : c3ybf
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.191.244.78<br>
+ <br>Nombre : Dennisse 
+ <br>Apellido : Leon Cuervo
+ <br>Cargo : Adminitrativo
+ <br>Direccion : Alvarez Thomas 774
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 1137772845
+ <br>Email : dyleoncuervo@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas dias, mi nombre es Dennisse León Cuervo por el presente, adjunto envió mi síntesis curricular. Espero puedan considerarme. 
+
+Agradezco su atención y quedo atenta a sus comentarios.
+
+Dennisse León Cuervo 
+ <br>Security_code : gkdqc
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.212.5.12<br>
+ <br>REF : ROT-1
+ <br>Nombre : Oliver
+ <br>Apellido : Froment
+ <br>Cargo : RESPONSABLE DE OFICINA TECNICA
+ <br>Direccion : Paraguay 3745
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 1121936420
+ <br>Email : oliver.froment@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me gustaria postularme en el puesto de RESPONSABLE DE OFICINA TECNICA. Saludos
+ <br>Security_code : kx687
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.231.7.15<br>
+ <br>REF : EP-1
+ <br>Nombre : Lucas Matias
+ <br>Apellido : Diaz
+ <br>Cargo : Encargado de Producción
+ <br>Direccion : Hipolito Irigoyen 435
+ <br>Ciudad : Escobar
+ <br>Telefono : (03489)15-598094
+ <br>Email : lu
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenos dìas!!
+
+Adjunto mi CV actualizado para la búsqueda de "Encargado de Producción". Soy estudiante de Tecnicatura Superior en Procesos Industriales UTN Delta de Campana.Tengo experiencia como operario de procesos continuos, operario de calidad, supervisor de producción con personal a cargo, auditor de ventas y tareas de logística y distribución en Pepsico, etc.
+
+Saludos Cordiales.-
+
+Atte: Lucas Diaz
+ <br>Security_code : n4dxc
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.192.22.123<br>
+ <br>REF : EP-1
+ <br>Nombre : Genesis
+ <br>Apellido : Gallo Mendez 
+ <br>Cargo : Encargado de produccion
+ <br>Direccion : Maipu 359
+ <br>Ciudad : buenos aires
+ <br>Telefono : 1128783005
+ <br>Email : annlocgm@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenos dias, adjunto mi curriculum vitae para la bacante de control de calidad, considero que cumplo con los requisitos, desde el comienzo de la carrera universitaria se me proporcionaron practicas de laboratorio, las cuales fueron reforzadas con los meses de pasantias en la industria farmacéutica y el año que estuve como analista en un proyecto de desarrollo e investigación. 
+ <br>Security_code : cvbf5
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.192.22.123<br>
+ <br>REF : EP-1
+ <br>Nombre : Genesis
+ <br>Apellido : Gallo Mendez 
+ <br>Cargo : Encargado de produccion
+ <br>Direccion : Maipu 359
+ <br>Ciudad : buenos aires
+ <br>Telefono : 1128783005
+ <br>Email : annlocgm@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenos dias, adjunto mi curriculum vitae para la bacante de control de calidad, considero que cumplo con los requisitos, desde el comienzo de la carrera universitaria se me proporcionaron practicas de laboratorio, las cuales fueron reforzadas con los meses de pasantias en la industria farmacéutica y el año que estuve como analista en un proyecto de desarrollo e investigación. 
+ <br>Security_code : cvbf5
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.192.22.123<br>
+ <br>REF : EP-1
+ <br>Nombre : Genesis
+ <br>Apellido : Gallo Mendez 
+ <br>Cargo : Encargado de produccion
+ <br>Direccion : Maipu 359
+ <br>Ciudad : buenos aires
+ <br>Telefono : 1128783005
+ <br>Email : annlocgm@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenos dias, adjunto mi curriculum vitae para la bacante de control de calidad, considero que cumplo con los requisitos, desde el comienzo de la carrera universitaria se me proporcionaron practicas de laboratorio, las cuales fueron reforzadas con los meses de pasantias en la industria farmacéutica y el año que estuve como analista en un proyecto de desarrollo e investigación. 
+ <br>Security_code : qvxpn
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.192.22.123<br>
+ <br>REF : EP-1
+ <br>Nombre : Genesis
+ <br>Apellido : Gallo Mendez 
+ <br>Cargo : Encargado de produccion
+ <br>Direccion : Maipu 359
+ <br>Ciudad : buenos aires
+ <br>Telefono : 1128783005
+ <br>Email : annlocgm@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenos dias, adjunto mi curriculum vitae para la bacante de control de calidad, considero que cumplo con los requisitos, desde el comienzo de la carrera universitaria se me proporcionaron practicas de laboratorio, las cuales fueron reforzadas con los meses de pasantias en la industria farmacéutica y el año que estuve como analista en un proyecto de desarrollo e investigación. 
+ <br>Security_code : zs5v3
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.192.22.123<br>
+ <br>REF : EP-1
+ <br>Nombre : Genesis
+ <br>Apellido : Gallo Mendez 
+ <br>Cargo : Encargado de produccion
+ <br>Direccion : Maipu 359
+ <br>Ciudad : buenos aires
+ <br>Telefono : 1128783005
+ <br>Email : annlocgm@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenos dias, adjunto mi curriculum vitae para la bacante de control de calidad, considero que cumplo con los requisitos, desde el comienzo de la carrera universitaria se me proporcionaron practicas de laboratorio, las cuales fueron reforzadas con los meses de pasantias en la industria farmacéutica y el año que estuve como analista en un proyecto de desarrollo e investigación. 
+ <br>Security_code : zs5v3
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.229.197.126<br>
+ <br>REF : TM-2
+ <br>Nombre : Leonardo Daniel
+ <br>Apellido : gimenez
+ <br>Cargo : Técnico Electromecanico
+ <br>Direccion : ceballos
+ <br>Ciudad : San Martin
+ <br>Telefono : 4720,3908
+ <br>Email : leod.gz@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me resulta de gran interés su empleo por lo cual estoy a su disposición ya que mi experiencia lo adquiere.
+Gracias.
+Atte Leonardo D. Giménez
+ <br>Security_code : NZTCW
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.11<br>
+ <br>REF : Tectron
+ <br>Nombre : Diego
+ <br>Apellido : Vega
+ <br>Cargo : Técnico Electrónico 
+ <br>Direccion : Salvigny 5324
+ <br>Ciudad : gregorio de laferrere
+ <br>Telefono : 1144572604
+ <br>Email : halcon.nocturno74@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Sueldo de bolsillo actual  $ 34000.
+ <br>Security_code : r46kt
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.229.197.126<br>
+ <br>Nombre : Leonardo Daniel
+ <br>Apellido : gimenez
+ <br>Cargo : TECNICO MECANICO
+ <br>Direccion : Ceballos nº8222-Jose Leon Suarez
+ <br>Ciudad : San Martin
+ <br>Telefono : 4720,3908
+ <br>Email : leod.gz@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me resulto de gran interés su propuesta publicada mediante mi experiencia adquirida me postulo con total responsabilidad.Por lo cual estoy a su disposición.
+Desde ya muchas gracias.
+Atte.Leonardo D. Gimenez.
+ <br>Security_code : dwjyr
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.0.140.130<br>
+ <br>REF : EP-1
+ <br>Nombre : daniel
+ <br>Apellido : vilca
+ <br>Cargo : encargado
+ <br>Direccion : avellaneda 666
+ <br>Ciudad : merlo
+ <br>Telefono : 1122979411
+ <br>Email : vdanielroberto@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : amplia experiencia
+ <br>Security_code : mby8z
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.1.247.243<br>
+ <br>REF : SP-1
+ <br>Nombre : carlos alberto s
+ <br>Apellido : salas
+ <br>Cargo : supervisor de produccion 
+ <br>Direccion : itaqui 1718
+ <br>Ciudad : merlo  buenos aires
+ <br>Telefono : 11-39006670
+ <br>Email : carlossalas_constructor@outlook.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : ..-
+ <br>Security_code : rgbtx
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.55.65.84<br>
+ <br>REF : JPER-1
+ <br>Nombre : Angel
+ <br>Apellido : Graf
+ <br>Cargo : RRHH
+ <br>Direccion : Trelles 1698
+ <br>Ciudad : Banfield
+ <br>Telefono : 1154547339
+ <br>Email : aegrrhh@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Remito resume.
+ <br>Security_code : d4hmf
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.174.7.128<br>
+ <br>REF : EP-1
+ <br>Nombre : Diego
+ <br>Apellido : Spina
+ <br>Cargo : Encargado de producciòn
+ <br>Direccion : 515 nro 2465
+ <br>Ciudad : Ringuelet
+ <br>Telefono : 2216903026
+ <br>Email : diegorspina@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Sres. Empresa de producciòn
+De mi consideraciòn
+Adjunto a la presente mi cv y me encuentro a su disposiciòn por cualquier otro dato que estimen necesario
+Atte.
+Ing. Diego Spina
+ <br>Security_code : ZXZrW
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.93.20.49<br>
+ <br>REF : JPER-1
+ <br>Nombre : Liliana
+ <br>Apellido : Aravena
+ <br>Cargo : Jefe de Personal
+ <br>Direccion : Obispo Boneo, 761
+ <br>Ciudad : Santa Fe
+ <br>Telefono : 0342  154633705
+ <br>Email : liliaracos@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Licenciada en Psicología, expertise en la gestión del RRHH y RRLL. Busco seguir desarrollándome en una empresa de primera linea aportando toda mi formación y experiencia con el fin de agregar valor a compañía, y a su vez absorber todos los conocimientos que la misma pueda brindarme.
+ <br>Security_code : hq7gx
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.173.186.120<br>
+ <br>REF : EP-1
+ <br>Nombre : Gustavo Hugo
+ <br>Apellido : Ferro
+ <br>Cargo : Jefe de Producción y/o Mantenimiento
+ <br>Direccion : larrea 1694
+ <br>Ciudad : cañuelas
+ <br>Telefono : 2226423020
+ <br>Email : ferrogustavohugo@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estoy interesado en la propuesta.
+ <br>Security_code : zrqfg
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 179.60.12.218<br>
+ <br>REF : TE-1
+ <br>Nombre : oscar
+ <br>Apellido : Centurión
+ <br>Cargo : Tecnico electricista
+ <br>Direccion : Avear 1938
+ <br>Ciudad : Villa Gobernador Galvez
+ <br>Telefono : 0341 156125658
+ <br>Email : oscareduardocenturion@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Adjunto mi curriculum vitae para su evaluación. Sin otro motivo lo saludo atte.
+ <br>Security_code : cft2q
+ <br>Send : Enviar
+ <br>
+---------------
+

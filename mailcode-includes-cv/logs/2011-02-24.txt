@@ -1,0 +1,34 @@
+Address : 190.229.121.170
+Nombre : Daniel
+Apellido : Campo
+Cargo : Ejecutivo de cuenta, APM, ejecutivo de cuenta
+Direccion : Mercedes 3772 piso 1A
+Ciudad : Capital Federal
+Telefono : 011-4501-7565
+Email : danielgustavocampo@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto mi CV para diferentes posiciones.
+Atte
+Daniel Campo
+
+
+Security_code : p24py
+Send : Enviar
+
+---------------
+
+Address : 186.127.98.77
+Nombre : CECILIA
+Apellido : KUCUK
+Cargo : AYUDANTE O AUXILIAR DE RECURSOS HUMANOS
+Direccion : los eucaliptus 630 M "a" Depto 22
+Ciudad : SALTA CAPITAL
+Telefono : 0387-154039174
+Email : ceciliakucuk@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : ME INTERESARÍA POSTULARME PARA CUALQUIER PUESTO COMO AYUDANTE O AUXILIAR DE RECURSOS HUMANOS YA SEAN PAGOS O AD HONOREN PASANTIAS, ETC MI INTERÉS ES ADQUIRIR EXPERIENCIA EN EL ÁREA DE LA PSICOLOGIA LABORAL Y ORGANIZACIONAL ESPECIALMENTE EN EL ÁREA DE RECURSOS HUMANOS SOY BACHILLER UNIVERSITARIO EN PSICOLOGIA Y ME ENCUENTRO A 8 MATERIAS DE CONCLUIR LA LICENCIATURA EN PSICOLOGIA
+Security_code : 9M76T
+Send : Enviar
+
+---------------
+

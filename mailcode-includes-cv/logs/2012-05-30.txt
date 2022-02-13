@@ -1,0 +1,35 @@
+Address : 186.130.203.85
+Nombre : nahir bettina
+Apellido : barbieri
+Cargo : atencion al cliente
+Direccion : larralde 2102
+Ciudad : moreno
+Telefono : 0111540561203
+Email : nahirb92@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Desearia postularme a los trabajos que se me asignen
+Security_code : yc689
+Send : Enviar
+
+---------------
+
+Address : 190.50.197.218
+Nombre : Yamila Soledad
+Apellido : Silva
+Cargo : Area Legales
+Direccion : Pje. King 857
+Ciudad : Ciudad Madero
+Telefono : 1544457239
+Email : yammysilva@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados:
+
+Envio mi CV para ser tomado en cuenta para puestos de trabajos que se orienten en la busqueda de una joven profesional con dinamismo y entusiasmo para ejercer cualquier tipo de actividad laboral.
+Saluda Atentamente
+
+Dra. Silva Yamila Soledad
+Security_code : py27x
+Send : Enviar
+
+---------------
+

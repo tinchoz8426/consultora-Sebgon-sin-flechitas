@@ -1,0 +1,82 @@
+Address : 186.62.220.251
+Nombre : Alejandro Julian
+Apellido : Zapata
+Cargo : Empleado
+Direccion : Cura Brocherro 7370
+Ciudad : Mar del Plata
+Telefono : 223 4698625
+Email : zapatamora@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola les dejo mi cv para que me puedan tener en cuenta gracias
+Security_code : 6z5cb
+Send : Enviar
+
+---------------
+
+Address : 201.255.70.170
+Nombre : Guillermo
+Apellido : Galarza
+Cargo : General
+Direccion : Rauch 3978 6C
+Ciudad : CABA
+Telefono : +5491183858000
+Email : ggalarza@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : .
+Security_code : 8df34
+Send : Enviar
+
+---------------
+
+Address : 186.153.243.51
+Nombre : Eduardo Luis
+Apellido : Carlis Mazza
+Cargo : tecnico mecanico
+Direccion : Lamadrid 495
+Ciudad : Cordoba
+Telefono : 3512609641
+Email : eduardo.carlis@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : conociemientos de mecanica-
+Manejo de prensas-
+balancines-
+manejo vehicular-
+computacion- paquete office-
+servicio tecnico de redes via online
+
+Security_code : hs7c8
+Send : Enviar
+
+---------------
+
+Address : 190.220.182.11
+Nombre : Claudio
+Apellido : Rodriguez
+Cargo : Operador de Maquina Envasadora
+Direccion : 155 nro 4221
+Ciudad : Platanos
+Telefono : 54338742
+Email : claudiorodriguez972@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola soy Claudio, tengo 19 años y mi idea es progresar y adquirir conocimientos.
+Security_code : 67zp5
+Send : Enviar
+
+---------------
+
+Address : 186.135.103.19
+REF : SPLO
+Nombre : patricio
+Apellido : silva
+Cargo : supervisor de logistica
+Direccion : 25 de mayo 4109
+Ciudad : merlo bs as
+Telefono : 0111566302141
+Email : patriciomartinsilva@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : contacto : de 8 a 18
+Security_code : cr496
+Send : Enviar
+
+---------------
+

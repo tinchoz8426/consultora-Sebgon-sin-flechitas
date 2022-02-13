@@ -1,0 +1,17 @@
+Address : 181.28.207.105
+REF : supervisor-de-elaboracion
+Nombre : juan jose
+Apellido : gandarela
+Cargo : supervisor
+Direccion : garibaldi 3108
+Ciudad : San Fernando
+Telefono : 011-48900430
+Email : juan.j.gandarela@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados: 
+          Duerante 7 añaos,trabaje en La Matanza,asi que la distancia no seria un estorbo
+Security_code : n32mw
+Send : Enviar
+
+---------------
+

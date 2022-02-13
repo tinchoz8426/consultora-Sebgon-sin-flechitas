@@ -1,0 +1,78 @@
+Address : 181.95.21.111
+Nombre : Franco 
+Apellido : Malara
+Cargo : no obstante
+Direccion : Parque Nac. Calilegua 3638
+Ciudad : corboba
+Telefono : 3516880925
+Email : franko-lb-dsiempre@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : estoy dispuesto a concretar cualquier tarea que se me de acargo.
+Security_code : 3q4nq
+Send : Enviar
+
+---------------
+
+Address : 186.136.185.224
+REF : GTE COM.EXT
+Nombre : Juan Manuel
+Apellido : Ocampo
+Cargo : Gte Com.Ext
+Direccion : Condarco 2850 PB C
+Ciudad : CABA
+Telefono : 1521724425
+Email : jocampo@argentina.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Ref Envio de CV
+Security_code : 6pqp2
+Send : Enviar
+
+---------------
+
+Address : 190.179.95.178
+REF : ADMINISTRATIVA-DE-COMPRAS
+Nombre : Natalia
+Apellido : Polischuk
+Cargo : Administrativa de Compras
+Direccion : Diag. España 443
+Ciudad : Neuquén
+Telefono : 299-5074302
+Email : natipolischuk@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola, soy Natalia Polischuk. Les envío mi currículum vitae solicitando me tengan en cuenta en su búsqueda de personal administrativo. Desde ya, muchas gracias.
+Security_code : j8c8j
+Send : Enviar
+
+---------------
+
+Address : 190.19.130.144
+Nombre : Leonardo Daniel
+Apellido : Huberman
+Cargo : Analista en RRHH, RRHH, Seguridad Informática
+Direccion : Avenida Montes de Oca 843 1° C
+Ciudad : Capital Federal
+Telefono : 1562944023
+Email : l_huberman@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Necesito trabajar. Desde ya, muchísimas gracias y si tienen que tenerme en consideración, así será.
+Security_code : 2bnbw
+Send : Enviar
+
+---------------
+
+Address : 190.19.130.144
+REF : TELE
+Nombre : Leonardo
+Apellido : Huberman
+Cargo : Analista en RRHH, RRHH, Seguridad Informática
+Direccion : Avenida Montes de Oca 843 1° C
+Ciudad : Capital Federal
+Telefono : 1562944023
+Email : l_huberman@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Muchas gracias
+Security_code : vmbh3
+Send : Enviar
+
+---------------
+

@@ -1,0 +1,102 @@
+Address : 186.57.31.165
+REF : tecnico
+Nombre : SERGIO
+Apellido : PEREYRA
+Cargo : TÈCNICO
+Direccion : STA. CLARA 307
+Ciudad : LUJÁN
+Telefono : 02323-432315
+Email : sdp5567@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Estoy dispuesto a viajar diariamente, ya que de hecho lo hago por trabajo/estudio.
+Rem. pret. mìn $5000
+Security_code : 5p6dy
+Send : Enviar
+
+---------------
+
+Address : 190.179.233.204
+Nombre : Juan Domingo
+Apellido : García
+Cargo : Higiene y Seguridad
+Direccion : Montagut 2433
+Ciudad : Luzuriaga
+Telefono : 0261-154709561
+Email : juan-garcia@hotmail.com 
+MAX_FILE_SIZE : 2097152
+Mensaje : Envio CV para ser tenido en cuenta de a cuerdo a mi perfil
+
+gracias
+Security_code : v2bh3
+Send : Enviar
+
+---------------
+
+Address : 190.229.158.207
+Nombre : matias
+Apellido : aguirre
+Cargo : operario
+Direccion : las dalias 2828
+Ciudad : maq.savio
+Telefono : 1151145103
+Email : matus12_@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : estoy dispuesto a trabajar con ustedes
+Security_code : 6pckf
+Send : Enviar
+
+---------------
+
+Address : 186.18.117.67
+Nombre : Romina
+Apellido : Zayat
+Cargo : Recepcion Secretaria Asistente Administrativa
+Direccion : Caracas 1564 4A
+Ciudad : Buenos Aires
+Telefono : 4584-6498
+Email : rominazayat@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Quedo a la espera de una posible y pronta entrevista.
+Security_code : 49b6c
+Send : Enviar
+
+---------------
+
+Address : 190.48.121.110
+Nombre : Erica
+Apellido : Codd
+Cargo : CV Erica Codd para puesto de trabajo
+Direccion : Bonorino 622
+Ciudad : Capital Federal
+Telefono : 15-3563-4540
+Email : ericacodd@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : De mi consideración:
+
+En el presente adjunto mi curriculum vitae con el fin de que sea evaluado para el puesto laboral que consideren apropiado.
+
+Sin otro particular, les saluda atentamente. 
+
+Erica Codd
+ericacodd@gmail.com
+
+Security_code : 49w4c
+Send : Enviar
+
+---------------
+
+Address : 190.19.121.106
+Nombre : Maria Segunda
+Apellido : Santamaria
+Cargo : varios
+Direccion : capital federal
+Ciudad : capital federal
+Telefono : 46135509
+Email : mariasegunda@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : soy tecnica en organizacion de eventos, pero podria ocupar otro puesto, si la propuesta es interesante.
+Security_code : xfvtx
+Send : Enviar
+
+---------------
+

@@ -1,0 +1,31 @@
+Address : 190.193.138.68
+Nombre : Sonia Penélope
+Apellido : Barroso
+Cargo : Administrativa
+Direccion : Bernardo de Irigoyen 472 4to 11
+Ciudad : Capital Federal
+Telefono : 43341278/43420305
+Email : barroso_sp@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Mi objetivo es poder progresar en la empresa.
+Security_code : mj5tt
+Send : Enviar
+
+---------------
+
+Address : 186.143.94.192
+REF : tecnico-de-mantenimiento
+Nombre : osvaldo julio
+Apellido : gatti
+Cargo : gerente de operacionesd
+Direccion : Avenida Avelino Rlon 2190
+Ciudad : boulognew sur mer
+Telefono : 011 47354648
+Email : osvaldogatti@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Les puedo brindar dentro de mis conocimientos asesoriamientos judicial en danos y perjuicios como asi tambien sobre confidencialidad, contratos y ademas seguridad social y derecho laboral vigente.
+Security_code : 2xzm3
+Send : Enviar
+
+---------------
+

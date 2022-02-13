@@ -1,0 +1,45 @@
+Address : 190.11.167.155
+Nombre : Antonella
+Apellido : Vega
+Cargo : Secretaria
+Direccion : Santiago y Córdoba
+Ciudad : Rosario
+Telefono : 03462-15642491
+Email : antutu_@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Soy estudiante y necesitaria un trabajo de medio día para poder organizarme, espero su respuesta .Muchas gracias
+Security_code : 5sx3s
+Send : Enviar
+
+---------------
+
+Address : 181.80.155.9
+Nombre : Gonzalo Andres
+Apellido : Cajal
+Cargo : Vendedor- Deposito
+Direccion : Fco Toro 656
+Ciudad : Libertad (Merlo)
+Telefono : 02204950830
+Email : gonzalocajal04@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenas tardes.Tengo disponibilidad full-time y experiencia en diversos rubros.
+Security_code : cbg6k
+Send : Enviar
+
+---------------
+
+Address : 190.51.47.143
+Nombre : Maria Azul
+Apellido : Málaga
+Cargo : Secretaria
+Direccion : Brown 215
+Ciudad : Quilmes
+Telefono : 15 54 96 82 87
+Email : malagaazul@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Quisiera tener un trabajo part time debido a mis estudios universitarios
+Security_code : twknf
+Send : Enviar
+
+---------------
+

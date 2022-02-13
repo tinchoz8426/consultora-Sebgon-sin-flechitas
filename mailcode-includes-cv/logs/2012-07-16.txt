@@ -1,0 +1,47 @@
+Address : 186.136.107.3
+Nombre : Maximiliano
+Apellido : Arjones
+Cargo : Jefe de area 
+Direccion : Felipe Vallese 761
+Ciudad : Capital Federal
+Telefono : 1566163220
+Email : titimonkey@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Les envio mi CV para futuras postulaciones
+Security_code : n9d2m
+Send : Enviar
+
+---------------
+
+Address : 190.221.43.121
+REF : jefe-de-operaciones
+Nombre : maria de los angeles
+Apellido : Refsgaard
+Cargo : analista contable
+Direccion : Perito Moreno N°2476
+Ciudad : puerto madryn
+Telefono : 0280 - 154360800
+Email : angiemadryn@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Dada mi formación en el área contable, así como la experiencia adquirida, considero que podría trabajar en el puesto ofrecido.
+Security_code : tvfzw
+Send : Enviar
+
+---------------
+
+Address : 190.139.235.130
+REF : administrativa-compras
+Nombre : Maria Lujan
+Apellido : Faleiro
+Cargo : administrativa
+Direccion : Alberdi 411
+Ciudad : San nbicolas con residencia en rosario
+Telefono : 0336-154318993
+Email : lujanfale@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : adjunto cv
+Security_code : 9yj9c
+Send : Enviar
+
+---------------
+

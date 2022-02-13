@@ -1,0 +1,233 @@
+Address : 190.190.227.118<br>
+ <br>REF : Tectron
+ <br>Nombre : Antonio 
+ <br>Apellido : Sessa
+ <br>Cargo : Técnico electrónico 
+ <br>Direccion : Roberto Wernicke 1723
+ <br>Ciudad : San isidro
+ <br>Telefono : 011 1554141550
+ <br>Email : adsessa@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me interesa su propuesta. 
+Adjunto mi cv para su consideración. 
+Saludos. Antonio Sessa
+ <br>Security_code : 63tb3
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.41.225.229<br>
+ <br>Nombre : Débora samanta
+ <br>Apellido : Martinez
+ <br>Cargo : no especifico
+ <br>Direccion : ruta 88 entre 153 y 155
+ <br>Ciudad : mar del plata
+ <br>Telefono : 0223-155811940
+ <br>Email : debo-martinez26@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : A quien corresponda.
+estoy buscando empleo.
+Atte.
+Martinez Débora.
+ <br>Security_code : y3pj9
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.28.213.77<br>
+ <br>Nombre : sandra
+ <br>Apellido : gómez
+ <br>Cargo : Analista de Recursos Humanos 
+ <br>Direccion : santos dumont 2500
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 1167005975
+ <br>Email : scgs_89_67@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Mi nombre es Sandra Gómez.  Profesional del área de Recursos Humanos y deseo hacerle llegar mi currículum vitae para  búsquedas de RRHH.
+
+Deseo seguir desarrollándome en los sub-sistemas de reclutamiento, selección, capacitación y adiestramiento, seguridad e higiene laboral, con orientación a un perfil generalista, para seguir creciendo a nivel profesional.
+
+Cuento con experiencia en empresas de servicios, retail y educación superior.
+
+Me encuentro interesada en una oportunidad acorde a mi perfil, cuento con disponibilidad inmediata, full-time.
+
+Me definen las siguientes características personales: dinámica, excelentes relaciones interpersonales, amable, comprometida, motivadora e  innovadora. 
+
+Saludos cordiales, 
+
+Sandra Gómez.
+
+
+ <br>Security_code : 6p8vd
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.105.63.45<br>
+ <br>REF : chr
+ <br>Nombre : Diego
+ <br>Apellido : Villalba
+ <br>Cargo : Chofer
+ <br>Direccion : Av gaspar campos 131
+ <br>Ciudad : Bella vista
+ <br>Telefono : 46682734
+ <br>Email : Diegovillalba181@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola q tal espero si repuesta lo inportante es q tengo ganas de trabajar desde ya muchas gracias 1531560877
+ <br>Security_code : 3jrvt
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.28.182.150<br>
+ <br>REF : ACO-1
+ <br>Nombre : pedro
+ <br>Apellido : vegas
+ <br>Cargo : analista de comercio exterior 
+ <br>Direccion : billingurst 1533
+ <br>Ciudad : buenos aires capital federal
+ <br>Telefono : 1158217732
+ <br>Email : pedro-992@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : estoy interesado en vacantes en los puestos de comercio exterior 
+ <br>Security_code : n5gmj
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 200.125.74.214<br>
+ <br>REF : ACO-1
+ <br>Nombre : Gabriel
+ <br>Apellido : Saavedra
+ <br>Cargo : Analista de Comercio Internacional
+ <br>Direccion : General Enrique Martines 1273
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : +5491127206667
+ <br>Email : gabrielsaavedra16@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me ha parecido interesante su anuncio por lo cual me gustaría aplicar.
+Gracias.
+ <br>Security_code : r9msn
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.23.144.193<br>
+ <br>REF : ACO-1
+ <br>Nombre : Sebastian
+ <br>Apellido : Rovegno
+ <br>Cargo : analista de comercio exterior
+ <br>Direccion : Suarez
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 11-5815-0759
+ <br>Email : sebastianrovegno@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados, espero tengan muy buenos días, les hago llegar mi C.V. y les agradezco de antemano la molestia por la lectura del mismo. 
+ Aguardando la posibilidad de poder tener una entrevista con ustedes.
+ 
+Tengo experiencia en Agencias de Carga (FFWW), en las áreas Comercial, Administrativa y Operativa.  Participe en la formación de la Empresa Cargoyes SRL.
+ Si bien mi fuerte es la coordinación de las cargas, también cuento con experiencia en el seguimiento comercial de cada cliente, el armado de sus cotizaciones, cálculo de rentabilidades, y excelente relación interpersonal con proveedores, facilitando reducciones de costos, y aumentando así las rentabilidades de las cargas.
+ En cuanto a la administración, he sido el encargado de cerrar dos balances consecutivos, y era el responsable de emitir los pagos a los proveedores, como así también volcar toda la información en el sistema operativo de la empresa.
+ Adjunto mi CV y aguardo sus comentarios,
+
+Muchas Gracias
+
+Saludos cordiales,
+
+ <br>Security_code : h78bk
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.23.144.193<br>
+ <br>REF : ACO-1
+ <br>Nombre : Sebastian
+ <br>Apellido : Rovegno
+ <br>Cargo : analista de comercio exterior
+ <br>Direccion : Suarez
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 11-5815-0759
+ <br>Email : sebastianrovegno@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados, espero tengan muy buenos días, les hago llegar mi C.V. y les agradezco de antemano la molestia por la lectura del mismo. 
+ Aguardando la posibilidad de poder tener una entrevista con ustedes.
+ 
+Tengo experiencia en Agencias de Carga (FFWW), en las áreas Comercial, Administrativa y Operativa.  Participe en la formación de la Empresa Cargoyes SRL.
+ Si bien mi fuerte es la coordinación de las cargas, también cuento con experiencia en el seguimiento comercial de cada cliente, el armado de sus cotizaciones, cálculo de rentabilidades, y excelente relación interpersonal con proveedores, facilitando reducciones de costos, y aumentando así las rentabilidades de las cargas.
+ En cuanto a la administración, he sido el encargado de cerrar dos balances consecutivos, y era el responsable de emitir los pagos a los proveedores, como así también volcar toda la información en el sistema operativo de la empresa.
+ Adjunto mi CV y aguardo sus comentarios,
+
+Muchas Gracias
+
+Saludos cordiales,
+
+ <br>Security_code : h78bk
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.23.144.193<br>
+ <br>REF : ACO-1
+ <br>Nombre : Sebastian
+ <br>Apellido : Rovegno
+ <br>Cargo : analista de comercio exterior
+ <br>Direccion : Suarez
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 11-5815-0759
+ <br>Email : sebastianrovegno@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados, espero tengan muy buenos días, les hago llegar mi C.V. y les agradezco de antemano la molestia por la lectura del mismo. 
+ Aguardando la posibilidad de poder tener una entrevista con ustedes.
+ 
+Tengo experiencia en Agencias de Carga (FFWW), en las áreas Comercial, Administrativa y Operativa.  Participe en la formación de la Empresa Cargoyes SRL.
+ Si bien mi fuerte es la coordinación de las cargas, también cuento con experiencia en el seguimiento comercial de cada cliente, el armado de sus cotizaciones, cálculo de rentabilidades, y excelente relación interpersonal con proveedores, facilitando reducciones de costos, y aumentando así las rentabilidades de las cargas.
+ En cuanto a la administración, he sido el encargado de cerrar dos balances consecutivos, y era el responsable de emitir los pagos a los proveedores, como así también volcar toda la información en el sistema operativo de la empresa.
+ Adjunto mi CV y aguardo sus comentarios,
+
+Muchas Gracias
+
+Saludos cordiales,
+
+ <br>Security_code : 3jtxw
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.22.83.139<br>
+ <br>Nombre : Lisi Cintia
+ <br>Apellido : Senabre
+ <br>Cargo : Capacitadores para empresas
+ <br>Direccion : Senillosa, 275
+ <br>Ciudad : Ciudad Autónoma de Buenos Aires
+ <br>Telefono : 005491166112183
+ <br>Email : senabrelisi@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : A quién corresponda,
+Agradecería me consideren para esta búsqueda publicada en Clarin Empleos.
+Quedo atenta a cualquier consulta.
+Saludos Cordiales,
+
+Lisi Senabre
+ <br>Security_code : rbygv
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.48.55.72<br>
+ <br>REF : Tectron
+ <br>Nombre : Pedro Antonio
+ <br>Apellido : Delgado Tobar
+ <br>Cargo : Técnico Eléctrico  
+ <br>Direccion : pergamino lanus Este
+ <br>Ciudad : Buenos Aire
+ <br>Telefono : 15-4099-1202
+ <br>Email : PEDRO_DELGADO_T@YAHOO.COM.AR
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : tengo amplios conocimientos industriales actualmente estoy desempleado. espero vuestra respuesta .
+saluda atte.
+Pedro Delgado
+ <br>Security_code : spz3y
+ <br>Send : Enviar
+ <br>
+---------------
+

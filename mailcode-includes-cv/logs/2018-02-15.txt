@@ -1,0 +1,19 @@
+Address : 186.136.159.207<br>
+ <br>Nombre : valeria soledad
+ <br>Apellido : Quiroz
+ <br>Cargo : Administrativa
+ <br>Direccion : Consejal Ramella 61
+ <br>Ciudad : Haedo
+ <br>Telefono : 1130018882
+ <br>Email : vsq86@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados 
+                 Adjunto mis datos personales y profesionales, esperando cumplir con vuestras expectativas.
+
+
+Saludo Cordial.
+ <br>Security_code : svtwn
+ <br>Send : Enviar
+ <br>
+---------------
+

@@ -1,0 +1,327 @@
+Address : 201.250.60.243
+Nombre : Nicolas Agustin David
+Apellido : Lema Csesztregi
+Cargo : Junior
+Direccion : Broun menendez 430, 7ª8
+Ciudad : Buenos Aires, Capital Federal
+Telefono : 43619032
+Email : nicolas.lema2@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola que tal, mi nombre es Nicolas estoy buscando trabajo por capital federal.
+Dejo mi CV en formato PDF. 
+Security_code : h9syp
+Send : Enviar
+
+---------------
+
+Address : 201.250.60.243
+Nombre : Nicolas Agustin David
+Apellido : Lema Csesztregi
+Cargo : Junior
+Direccion : Broun menendez 430, 7ª8
+Ciudad : Buenos Aires, Capital Federal
+Telefono : 43619032
+Email : nicolas.lema2@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola que tal, mi nombre es Nicolas estoy buscando trabajo por capital federal.
+Dejo mi CV en formato PDF. 
+Security_code : h9syp
+Send : Enviar
+
+---------------
+
+Address : 201.250.60.243
+Nombre : Nicolas Agustin David
+Apellido : Lema Csesztregi
+Cargo : Junior
+Direccion : Broun menendez 430, 7ª8
+Ciudad : Buenos Aires, Capital Federal
+Telefono : 43619032
+Email : nicolas.lema2@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola que tal, mi nombre es Nicolas estoy buscando trabajo por capital federal.
+Dejo mi CV en formato PDF. 
+Security_code : btf8q
+Send : Enviar
+
+---------------
+
+Address : 181.0.4.143
+Nombre : Natalia Romina 
+Apellido : Penise
+Cargo : administrativo
+Direccion : Bº San  Martin torre 4-"A" piso 3º "C"
+Ciudad : san juan
+Telefono : 0264-155114946
+Email : latati840@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : espero poder cumplir con los requisitos para ser parte de su equipo de trabajo... con muchas ganas de progresar, crecer y perfeccionarme
+Security_code : 2pg9g
+Send : Enviar
+
+---------------
+
+Address : 181.31.113.16
+Nombre : Marlene Stefania
+Apellido : Moreno
+Cargo : Secretaria
+Direccion : Medina y Torres 3858
+Ciudad : Córdoba
+Telefono : 3516500256
+Email : marlene.sm94@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Mediante esta solicitud les ha llegar mi CV, en el cual se encuentran mis estudios hasta el dia de la fecha. Saludo atentamente.
+Security_code : rh9er
+Send : Enviar
+
+---------------
+
+Address : 190.137.112.132
+Nombre : cristian alberto
+Apellido : flores
+Cargo : operario
+Direccion : la pirincha 9629
+Ciudad : cordoba
+Telefono : 3518050242
+Email : cristianalbertoflores@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : les entrego mis datos para conseguir un empleo  
+Security_code : 7btz7
+Send : Enviar
+
+---------------
+
+Address : 181.31.245.130
+Nombre : mauro lautaro
+Apellido : passera
+Cargo : junior
+Direccion : de los Genoveces 4081
+Ciudad : cordoba capital
+Telefono : 3517042434
+Email : MLP_93@HOTMAIL.COM
+MAX_FILE_SIZE : 2097152
+Mensaje : desde ya muchísimas gracias por su tiempo.
+saludos cordiales
+Security_code : tcz26
+Send : Enviar
+
+---------------
+
+Address : 186.125.117.229
+REF : ADMINISTRATIVA-DE-COMPRAS
+Nombre : Maria Soledad
+Apellido : Genero
+Cargo : Administrativa de Compras
+Direccion : Ayacucho 625
+Ciudad : Resistencia
+Telefono : 0362-4427027
+Email : sholsito@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Soy altamente productiva y resolutiva, siempre me mantuve por sobre los objetivos establecidos, dinámica, de fácil aprendizaje, muy organizada y responsable orientada al logro de resultados y evolución constante en las tareas asignadas, con fuerte inclinacion para el área administrativa. Saludo Atte
+Security_code : prb5p
+Send : Enviar
+
+---------------
+
+Address : 186.125.117.229
+Nombre : Maria Soledad
+Apellido : Genero
+Cargo : Administracion
+Direccion : Ayacucho 625
+Ciudad : Resistencia
+Telefono : 0362-4427027
+Email : sholsito@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Soy altamente productiva y resolutiva, siempre me mantuve por sobre los objetivos establecidos, dinámica, de fácil aprendizaje, muy organizada y responsable orientada al logro de resultados y evolución constante en las tareas asignadas, con fuerte inclinacion para el área administrativa. Saludo Atte
+Security_code : gfbyr
+Send : Enviar
+
+---------------
+
+Address : 186.124.25.8
+Nombre : Cristina
+Apellido : Sztyrkalo
+Cargo : ADMINISTRATIVA AREA SALUD
+Direccion : Palpa 2437
+Ciudad : Buenos Aires
+Telefono : 4788-6366
+Email : cristinasztyrkalo@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : ENVÍO DATOS PERSONALES 
+MUCHAS GRACIAS
+Security_code : z66C3
+Send : Enviar
+
+---------------
+
+Address : 186.129.251.77
+Nombre : leonardo german
+Apellido : miño
+Cargo : técnico quimico
+Direccion : bahia blanca
+Ciudad : avellaneda
+Telefono : 011 43530546
+Email : leonardo_minio@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : hola buenas tardes estoy interesado en cualquier trabajo que sea de producción o quimica muchas gracias 
+Security_code : 76vfr
+Send : Enviar
+
+---------------
+
+Address : 186.129.251.77
+Nombre : leonardo german
+Apellido : miño
+Cargo : técnico quimico
+Direccion : bahia blanca
+Ciudad : avellaneda
+Telefono : 011 43530546
+Email : leonardo_minio@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : hola buenas tardes estoy interesado en cualquier trabajo que sea de producción o quimica muchas gracias 
+Security_code : 76vfr
+Send : Enviar
+
+---------------
+
+Address : 186.129.251.77
+Nombre : leonardo german
+Apellido : miño
+Cargo : técnico quimico
+Direccion : bahia blanca
+Ciudad : avellaneda
+Telefono : 011 43530546
+Email : leonardo_minio@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : hola buenas tardes estoy interesado en cualquier trabajo que sea de producción o quimica muchas gracias 
+Security_code : 79vfr
+Send : Enviar
+
+---------------
+
+Address : 190.31.245.89
+Nombre : diego adrian
+Apellido : lescano
+Cargo : operario de laboratorio
+Direccion : peru
+Ciudad : vicente lopez
+Telefono : 1155168513
+Email : diego_elenso@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : buenas tardes le dejo mi cv,espero su respuesta,gracias saludo cordial
+Security_code : kgsdd
+Send : Enviar
+
+---------------
+
+Address : 186.129.251.77
+Nombre : leonardo german
+Apellido : miño
+Cargo : técnico quimico
+Direccion : bahia blanca
+Ciudad : avellaneda
+Telefono : 011 43530546
+Email : leonardo_minio@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : hola buenas tarde estoy interesado en cualquier trabajo que sea de producción o químico muchas gracias 
+Security_code : jspcv
+Send : Enviar
+
+---------------
+
+Address : 186.129.251.77
+Nombre : leonardo german
+Apellido : miño
+Cargo : técnico quimico
+Direccion : bahia blanca
+Ciudad : avellaneda
+Telefono : 011 43530546
+Email : leonardo_minio@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : hola buenas tarde estoy interesado en cualquier trabajo que sea de producción o químico muchas gracias 
+Security_code : jspcv
+Send : Enviar
+
+---------------
+
+Address : 186.129.251.77
+Nombre : leonardo german
+Apellido : miño
+Cargo : técnico quimico
+Direccion : bahia blanca
+Ciudad : avellaneda
+Telefono : 011 43530546
+Email : leonardo_minio@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : hola buenas tarde estoy interesado en cualquier trabajo que sea de producción o químico muchas gracias 
+Security_code : jspcv
+Send : Enviar
+
+---------------
+
+Address : 186.129.251.77
+Nombre : leonardo german
+Apellido : m
+Cargo : técnico quimico
+Direccion : bahia blanca
+Ciudad : avellaneda
+Telefono : 011 43530546
+Email : leonardo_minio@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : hola buenas tarde estoy interesado en cualquier trabajo que sea de producción o químico muchas gracias 
+Security_code : xyhwc
+Send : Enviar
+
+---------------
+
+Address : 190.188.60.127
+Nombre : Omar Daniel
+Apellido : Grela
+Cargo : Director/Gerente Comercial /international KAM
+Direccion : Sitio de Montevideo 1743
+Ciudad : Lanús
+Telefono : 011 5753 8957
+Email : grelaomar@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados, 
+
+agradeceré tengan en cuanta mi CV, adjunto, para las búsquedas que procedan vinculadas a este.
+
+Cordiales saludos
+
+Ing. Omar Daniel Grela
+Security_code : gvhf8
+Send : Enviar
+
+---------------
+
+Address : 201.251.0.244
+Nombre : Jessica Mariel
+Apellido : Rojas
+Cargo : operario
+Direccion : Beaucheff 79
+Ciudad : Buenos Aires
+Telefono : 1124541598
+Email : jesiica_96@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Busco trabajo urgente
+Security_code : fzqtk
+Send : Enviar
+
+---------------
+
+Address : 200.126.197.239
+Nombre : Carla Mariel
+Apellido : Servin
+Cargo : Atencion al Cliente
+Direccion : Av. Edison y Av. Chaco
+Ciudad : Resistencia- Chaco
+Telefono : 0362-4338234
+Email : carlamservin@live.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Busco Trabajo.
+Security_code : rs4jv
+Send : Enviar
+
+---------------
+

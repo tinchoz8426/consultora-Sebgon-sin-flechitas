@@ -1,0 +1,83 @@
+Address : 181.31.85.248<br>
+ <br>Nombre : Debora del Milagro
+ <br>Apellido : Brollo
+ <br>Cargo : administracion
+ <br>Direccion : Rodriguez Peña, 3525438102
+ <br>Ciudad : Cordoba
+ <br>Telefono : 03525438102
+ <br>Email : debo.brollo@outlook.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : busco trabajo
+ <br>Security_code : 6bd4r
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.47.214.114<br>
+ <br>REF : ACO-1
+ <br>Nombre : Néstor Facundo
+ <br>Apellido : Lagos
+ <br>Cargo : ANALISTA DE COMEX
+ <br>Direccion : Bulnes 1331, 9B
+ <br>Ciudad : CABA
+ <br>Telefono : 0299154515938
+ <br>Email : facunlagos@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenos días,
+
+Adjunto mi CV para la busqueda en referencia. Quedo a su disposición por mayores detalles si mi perfil es de su interés.
+
+Gracias y saludos
+ <br>Security_code : 2x8hs
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.245.43.28<br>
+ <br>REF : Ing. quim
+ <br>Nombre : Celeste
+ <br>Apellido : Llorens
+ <br>Cargo : Ing. Química
+ <br>Direccion : Almirante Brown 172
+ <br>Ciudad : San Vicente
+ <br>Telefono : 2224447488
+ <br>Email : llorensceleste7@gmail,com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Con la posibilidad de residir tanto en San Vicente como en La Plata.
+ <br>Security_code : ggsrm
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.178.245.107<br>
+ <br>REF : ROT-1
+ <br>Nombre : Abel Fabian
+ <br>Apellido : Ojeda
+ <br>Cargo : RESPONSABLE DE OFICINA TECNICA 
+ <br>Direccion : Lisandro de la torre 3670
+ <br>Ciudad : quilmes
+ <br>Telefono : 1562931559
+ <br>Email : afosoft@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : me encuentro en condiciones de tomar el puesto cuento con los requisitos y la experiencia
+ <br>Security_code : 3bhxy
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.182.12.147<br>
+ <br>REF : ACO
+ <br>Nombre : vilma gladys
+ <br>Apellido : CORMIO
+ <br>Cargo : Asistente Comercial
+ <br>Direccion : Estrada 1131, 1131
+ <br>Ciudad : Avellaneda
+ <br>Telefono : 1165130935
+ <br>Email : gladyscormio@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Interesada en el puesto
+ <br>Security_code : htv87
+ <br>Send : Enviar
+ <br>
+---------------
+

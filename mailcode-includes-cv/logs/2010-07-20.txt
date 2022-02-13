@@ -1,0 +1,115 @@
+Address : 190.225.26.3
+Nombre : Marcos Javier
+Apellido : Morales Lezica
+Cargo : Licenciado en Higiene y Seguridad
+Direccion : 15 de septiembre 3409 Bº Panamericano
+Ciudad : Cordoba capital
+Telefono : 0351 155 428587
+Email : mjmlezica@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Puesto de Licenciado en Higiene y Seguridad publicado en busco jobs para cordoba capital
+Security_code : kjhx2
+Send : Enviar
+
+---------------
+
+Address : 190.19.177.18
+Nombre : Carolina
+Apellido : Del Dó
+Cargo : GTEFIN
+Direccion : 3 de Febrero 2063
+Ciudad : San Fernando
+Telefono : 1556106766
+Email : cdeldo@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Me dirijo a Uds. con el objeto de participar en la búsqueda publicada, dado que de las  características del aviso vislumbro una oportunidad laboral acorde a mis actuales objetivos de carrera.
+
+En cuanto a mi formación soy Contador Público Nacional (UBA),  Licenciada en Administración de Empresas (UBA), he realizado un MBA. Poseo un avanzado dominio del idioma inglés, además de un excelente manejo de herramientas informáticas y sistemas integrados de gestión. Soy una persona proactiva, con alta capacidad de planeamiento y organización, con proyección a largo plazo.
+Considero que puedo realizar un gran aporte en la posición solicitada ya que cuento con más de 10 años de experiencia dentro de las áreas administrativas, contables y financieras de las organizaciones, habiéndome desempeñado en puestos de similares características al solicitado.
+
+Adjunto mi CV, y quedo a vuestra disposición para una entrevista personal en la que pueda ampliar los diferentes aspectos enunciados en el mismo.
+
+Sin otro particular, aprovecho la oportunidad para hacerles llegar mis cordiales saludos.
+
+
+Security_code : c4fvr
+Send : Enviar
+
+---------------
+
+Address : 186.58.179.174
+Nombre : Damian Antonio
+Apellido : Guerrero
+Cargo : Administrativo
+Direccion : 314 A Nº 1236
+Ciudad : Berazategui
+Telefono : 4258-5123
+Email : damianguerrero77@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : De mi mayor consideración:                             Por medio del presente, me dirijo a Ud., con el objeto de solicitarle una entrevista con fines laborales, para tal fin, le adjunto mi curriculum.           Sin otro particular, y esperando una respuesta favorable a lo expuesto, lo saludo atte. 
+
+Security_code : zr3zt
+Send : Enviar
+
+---------------
+
+Address : 190.16.101.143
+Nombre : micaela alejandra
+Apellido : serebrinik
+Cargo : recepcionista
+Direccion : venezuela 4356 12 b
+Ciudad : buenos aires
+Telefono : 49838261
+Email : mikas_15@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : hola les dejo mi curriculum por el anuncio q salio en bumeran gracias
+Security_code : 2mrc5
+Send : Enviar
+
+---------------
+
+Address : 190.227.57.152
+Nombre : Lorena Maria
+Apellido : Carballo Moschetto
+Cargo : Recepcionista
+Direccion : Bermudez 4111
+Ciudad : Gran Buenos Aires 3 de febrero
+Telefono : 1540721972
+Email : lorecar_82@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : adjunto mis datos personales y laborales, así haga a bien usted tenerme en cuenta en sus próximas búsquedas laborales. 
+Security_code : m7vb3
+Send : Enviar
+
+---------------
+
+Address : 190.138.33.178
+Nombre : Natacha
+Apellido : Levin
+Cargo : Asistente Bilingue
+Direccion : Moldes 2556
+Ciudad : Buenos Aires
+Telefono : 5411-4545-2761
+Email : natacha_levin@yahoo.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Muchas gracias
+Security_code : yz45t
+Send : Enviar
+
+---------------
+
+Address : 190.55.159.2
+Nombre : Eliana
+Apellido : Albanesi
+Cargo : Licenciada en Trabao Social
+Direccion : Hornos 351
+Ciudad : Buenos Aires
+Telefono : 1560503620
+Email : elianalbanesi@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Trabajadora Social matriculada. Con movilidad propia. Telefono 1560503620.
+Security_code : vgsmy
+Send : Enviar
+
+---------------
+

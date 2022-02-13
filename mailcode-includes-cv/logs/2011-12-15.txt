@@ -1,0 +1,31 @@
+Address : 190.231.30.96
+Nombre : JESICA ANDREA
+Apellido : ROBIANO
+Cargo : el que este vacante
+Direccion : base marambio
+Ciudad : rio segundo
+Telefono : 0357215503649
+Email : andru_mil456@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : disculpen las molestias ocacionadas,necesito cargar mi curriculum para buscar emlpeo en cordoba o en mi zona porfavor,si me pueden decir a dond elo cargo
+Security_code : 783fz
+Send : Enviar
+
+---------------
+
+Address : 190.179.133.149
+REF : supervisor-de-elaboracion
+Nombre : Natalia
+Apellido : Riestra
+Cargo : Administrativo-secretariado
+Direccion : Semonille
+Ciudad : Menoza
+Telefono : 0261155518101
+Email : natyriestra@hotmail.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Deseo desempeñarme, ofrecer y desarrollar todas mis capacidades, consiguiendo un excelente resultado en la labor y el área asignada, así también adquirir a través de la confianza en mi depositada, una experiencia invaluables, con la cual conseguiré dar un paso extremadamente importante en mi superación personal, junto con el inmenso orgullo de hacer parte de su equipo de trabajo. 
+Security_code : n97cb
+Send : Enviar
+
+---------------
+

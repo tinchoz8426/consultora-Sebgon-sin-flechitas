@@ -1,0 +1,45 @@
+Address : 179.41.211.116
+Nombre : Laura
+Apellido : Albertini
+Cargo : Administrativa
+Direccion : Las Flores 246
+Ciudad : Haedo
+Telefono : 1569530871
+Email : laurav_albertini@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados, envío mi CV para que sea tenido en cuenta para futuras búsquedas laborales.
+Security_code : x2rcz
+Send : Enviar
+
+---------------
+
+Address : 179.41.211.116
+Nombre : Laura
+Apellido : Albertini
+Cargo : Administrativa
+Direccion : Las Flores 246
+Ciudad : Haedo
+Telefono : 1569530871
+Email : laurav_albertini@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Envío mi CV para que sea tenido en cuenta para futuras búsquedas laborales.
+Security_code : d6pzx
+Send : Enviar
+
+---------------
+
+Address : 186.62.199.181
+Nombre : Evelin
+Apellido : Brunini
+Cargo : -
+Direccion : Irala 11485
+Ciudad : mar del plata
+Telefono : 4653247
+Email : evelinbrunini@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : gracias
+Security_code : dfrks
+Send : Enviar
+
+---------------
+

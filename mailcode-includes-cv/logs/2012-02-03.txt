@@ -1,0 +1,63 @@
+Address : 201.231.141.249
+Nombre : Maria Carolina 
+Apellido : Scalella 
+Cargo : Recursos Humanos
+Direccion : Diaz Velez 3841 
+Ciudad : Capital Federal
+Telefono : 1549145390
+Email : carolina.scalella@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me dirijo a ustedes, muy respetuosamente, en la oportunidad de postularme para una posible búsqueda de selección de personal.
+
+Le agradecería el tenerme en cuenta para trabajar con ustedes. Si  les parece conveniente, pueden ponerse en contacto conmigo para concertar una entrevista en la fecha que mejor les convenga. Quedo a la espera de su contestación.
+
+
+Sin otro particular, saluda atentamente.
+
+
+
+Maria Carolina Scalella 
+
+Security_code : f7pc3
+Send : Enviar
+
+---------------
+
+Address : 186.136.88.129
+Nombre : VIVIANA
+Apellido : LISTRANI
+Cargo : RECURSO HUMANOS, RELACIONES PUBLICAS, CAPACITACION, ATENCION AL CLIENTE, SECRETARIA, SELECCION DE PERSONAL
+Direccion : EDISON 2059
+Ciudad : MARTINEZ - BS.AS.
+Telefono : 15 62439136
+Email : vivilistrani@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Agradeceré una pronta y favorable respuesta.
+
+Atte.
+
+Viviana Listrani
+Security_code : sxzrj
+Send : Enviar
+
+---------------
+
+Address : 190.17.247.15
+REF : jefe-de-garantia-de-calidad
+Nombre : Claudia
+Apellido : Giacomino
+Cargo : Jefe de Calidad
+Direccion : Elpidio Gonzalez 3678
+Ciudad : CABA
+Telefono : 15-3248-8615
+Email : claudia.giacomino@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimada Andrea,               Me dirijo a usted con el fin de adjuntar mi CV en relación a la búsqueda de “Jefe de Calidad para importante empresa líder del mercado farmacéutico”.        Cuento con los conocimientos y la experiencia para llevar a cabo las tareas requeridas, los cuales fueron adquiridos a lo largo de 14 años de experiencia en la industria farmacéutica, en laboratorios locales, como ELEA y Bioprofarma (Grupo Bagó) y multinacionales, como Novartis Argentina. Como parte de mi especialización he participado en 3 posgrados relacionados con el área de Calidad. Poseo un amplio conocimiento de la normativa local e internacional y un excelente manejo del idioma inglés oral y escrito, el cual he estado aplicando durante los últimos 6 años de mi carrera.
+Entre mis habilidades personales para estas tareas destaco la capacidad para integrarme y liderar a un equipo de trabajo, el cordial manejo de las relaciones interpersonales, la eficiencia, la responsabilidad y el compromiso para alcanzar los objetivos.            Considero que mi calificación y experiencia laboral me permitirán realizar un gran aporte en esta posición, por lo que confío en que será interesante mantener una entrevista.           Cumplo en informarle que la remuneración bruta pretendida es de $14.000.           Sin otro particular y en espera de una pronta respuesta, saludo a usted muy atentamente. 
+Lic. Claudia Giacomino  
+celular: 15-3248-8615                  mail: claudia.giacomino@gmail.com
+Security_code : 5sffn
+Send : Enviar
+
+---------------
+

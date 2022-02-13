@@ -1,0 +1,51 @@
+Address : 186.191.239.26
+REF : gerente-de-operaciones
+Nombre : miguel angel
+Apellido : Blanco
+Cargo : tecnico
+Direccion : guisasola 815
+Ciudad : tunuyan
+Telefono : 02622-425044, 2622-408226
+Email : milolim@live.com
+MAX_FILE_SIZE : 2097152
+Mensaje : – OBJETIVO LABORAL
+Lograr incorporarme en un ámbito laboral que me permita contribuir en el mismo con mis conocimientos y volcar mis aptitudes personales
+
+Security_code : t2bw2
+Send : Enviar
+
+---------------
+
+Address : 186.191.239.26
+REF : tecnico-de-mantenimiento
+Nombre : Miguel Angel 
+Apellido : Blanco
+Cargo : tecnico
+Direccion : guisasola 815
+Ciudad : tunuyan
+Telefono : 02622-425044, 02622-408226
+Email : miloli@live.com
+MAX_FILE_SIZE : 2097152
+Mensaje : – OBJETIVO LABORAL
+Lograr incorporarme en un ámbito laboral que me permita contribuir en el mismo con mis conocimientos y volcar mis aptitudes personales
+
+Security_code : tmjn9
+Send : Enviar
+
+---------------
+
+Address : 201.250.96.74
+Nombre : david ezequiel
+Apellido : Gorrasi
+Cargo : repositor, cadete, cajero
+Direccion : monte 4820
+Ciudad : capital federal
+Telefono : 46842813
+Email : degorrasi@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : busco trabajo part time o full time
+Security_code : vd3y9
+Send : Enviar
+
+---------------
+

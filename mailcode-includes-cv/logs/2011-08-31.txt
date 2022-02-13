@@ -1,0 +1,33 @@
+Address : 190.173.93.209
+Nombre : Flavio Hernan
+Apellido : Mastelono
+Cargo : Administración
+Direccion : Miranda 1494
+Ciudad : Hurlingham
+Telefono : 4452-6369
+Email : mastelonofh@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados Señores SEBGON.
+Agradecería tengan a bien considerar el CV que les adjunto.
+Atentamente
+Flavio Mastelono
+Security_code : zrqwy
+Send : Enviar
+
+---------------
+
+Address : 181.0.150.125
+Nombre : yanina veronica
+Apellido : yañez
+Cargo : atencion al publico
+Direccion : pecoraro
+Ciudad : trelew
+Telefono : 0296515580266
+Email : yaninavyanez@hotmail.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : desde ya muchas gracias por tener en cuenta mis datos y desearia de poder, ser un trabajo en la ciudad de trelew atte: Yañez Yanina
+Security_code : y37st
+Send : Enviar
+
+---------------
+

@@ -1,0 +1,31 @@
+Address : 186.110.28.21
+Nombre : Gabriel Alberto
+Apellido : Blanc
+Cargo : Supervisor
+Direccion : Marquez de Aviles 2377
+Ciudad : Hulingham
+Telefono : 1561718908
+Email : gblanc81@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Saludos atte.
+Security_code : 26w75
+Send : Enviar
+
+---------------
+
+Address : 190.139.243.155
+Nombre : LORENA
+Apellido : QUAGLIA
+Cargo : RRHH
+Direccion : DOMINGA CULLEN 293
+Ciudad : SAN FRANCISCO - CBA
+Telefono : (03564)15675271
+Email : lorequaglia@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Soy Asistente Social, graduada en el año 2003 en la Escuela de Servicio Social de la ciudad de Santa Fe.         Profesionalmente me he desarrollando desde mi el rol de coordinador / responsable de Recursos Humanos en empresas privadas; buscando alinear el esfuerzo de los empleados con la estrategia de la empresa. 
+                     Sin otro particular, y quedando a la espera de poder concretar una entrevista a fin de ampliar detalles sobre mi currículum vitae y mi experiencia profesional.
+Security_code : y4yvp
+Send : Enviar
+
+---------------
+

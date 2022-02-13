@@ -1,0 +1,98 @@
+Address : 179.0.249.169
+Nombre : CYNTHIA JANET
+Apellido : arguello
+Cargo : auxiliar en seguridad e higiene-atencion al publico
+Direccion : j. m.estrada 26 embalse
+Ciudad : cordoba
+Telefono : 0357115313342
+Email : cjarguello18@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : estoy buscando trabajo me considero una persona  responsable, biuena compañera, cumplidora, flexible.
+Security_code : 9vbkz
+Send : Enviar
+
+---------------
+
+Address : 190.188.189.52
+REF : S.Cal
+Nombre : Alejandro Daniel
+Apellido : Rio
+Cargo : Supervisor de Calidad
+Direccion : Llavallol 1048
+Ciudad : Lanús
+Telefono : +54111561135666
+Email : r.daneel.olivaw.ef@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Tengo el agrado de dirigirme a Uds. con motivo de poner a vuestra consideración mi CV, con relación a la oferta laboral de referencia.
+
+Atte.
+
+Alejandro Rio
+Security_code : y7jvv
+Send : Enviar
+
+---------------
+
+Address : 181.168.208.189
+REF : ADM
+Nombre : NATALIA FLORENCIA
+Apellido : GONZALEZ
+Cargo : ADMINISTRATIVA
+Direccion : SIMBRÓN 4337 - 7° PISO
+Ciudad : CABA
+Telefono : 1533651640
+Email : NATALIAGONZALEZZ@HOTMAIL.COM
+MAX_FILE_SIZE : 2097152
+Mensaje : Hago envío del correspondiente cv, por la oferta laboral publicada. Cuento con disponibilidad horaria y excelente predisposición de aprendizaje y desempeño.
+Security_code : 2x7p6
+Send : Enviar
+
+---------------
+
+Address : 181.168.208.189
+REF : TES
+Nombre : NATALIA FLORENCIA
+Apellido : GONZALEZ
+Cargo : TES
+Direccion : SIMBRÓN 4337 - 7° PISO
+Ciudad : CABA
+Telefono : 1533651640
+Email : NATALIAGONZALEZZ@HOTMAIL.COM
+MAX_FILE_SIZE : 2097152
+Mensaje : Hago envío del correspondiente cv, por la oferta laboral publicada. Cuento con disponibilidad horaria y excelente predisposición de aprendizaje y desempeño.
+Security_code : 9JFHR
+Send : Enviar
+
+---------------
+
+Address : 181.168.208.189
+REF : ADM
+Nombre : NATALIA FLORENCIA
+Apellido : GONZALEZ
+Cargo : ADMINISTRATIVA
+Direccion : SIMBRÓN 4337 - 7° PISO
+Ciudad : CABA
+Telefono : 1533651640
+Email : NATALIAGONZALEZZ@HOTMAIL.COM
+MAX_FILE_SIZE : 2097152
+Mensaje : Hago envío del correspondiente cv, por la oferta laboral publicada. Cuento con disponibilidad horaria y excelente predisposición de aprendizaje y desempeño.
+Security_code : xhxk6
+Send : Enviar
+
+---------------
+
+Address : 181.167.157.11
+Nombre : Sandra
+Apellido : Segal
+Cargo : Administrativa para tareas generales
+Direccion : P. I. Rivera 2561 5B
+Ciudad : Capital Federal
+Telefono : 15-3559-4406
+Email : magasegal@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenos días. Les adjunto mi CV en el que podrán encontrar mis datos personales y experiencia laboral. Realmente estoy muy interesada en la búsqueda ya que tengo experiencia administrativa.  Necesito trabajar de manera inmediata.Muchas gracias y quedo a su disposición para concretar una entrevista laboral si así lo consideran necesario. Saludos. Sandra
+Security_code : 3t874
+Send : Enviar
+
+---------------
+

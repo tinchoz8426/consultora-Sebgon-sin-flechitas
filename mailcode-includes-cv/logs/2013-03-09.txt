@@ -1,0 +1,42 @@
+Address : 181.0.2.139
+Nombre : Melissa
+Apellido : Diaz
+Cargo : Tecnico Quimico
+Direccion : 122 nro 216
+Ciudad : la Plata
+Telefono : 0221 15 5770303
+Email : melissadiaz.dz@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : A quien corresponda
+La Plata, 09 de marzo                de 2013
+De mi consideración: 
+	Es un gusto poder saludarle y hacer contacto con usted, el motivo de la presente es presentarme y solicitarle una oportunidad de trabajo. Por este medio  le envió mi curriculum vitae para que sea tomada en cuenta en sus vacantes disponibles. Me considero una persona muy emprendedora, trabajadora  y de retos. No poseo experiencia, debido mi vocación completa a mis estudios, en la ciudad de La plata; por esta razón, busco trabajo para adquirir experiencia en trabajos orientados a mi futuro titulo. 
+	Sin más por el momento quedo a sus órdenes esperando su respuesta.
+Saludos y Muchas gracias.
+
+Security_code : 22hc6
+Send : Enviar
+
+---------------
+
+Address : 190.55.6.181
+REF : tecnico-electornico
+Nombre : Alejandro
+Apellido : Chichoni
+Cargo : Ing en Alimentos
+Direccion : M. Leguizamon 88
+Ciudad : CABA
+Telefono : 011 20543399
+Email : fliachichoni@infovia.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenos días
+Trabajo en Cargill (Alimentos) ocupando una jefatura en área de Operaciones desde hace más de 5 años. Me pongo en contacto por si le interesa tenerme en su base de datos, para futuras búsquedas acordes a mi perfil profesional.
+Atte
+A. Chichoni
+Ing.  en  Alimentos
+
+Security_code : z376b
+Send : Enviar
+
+---------------
+

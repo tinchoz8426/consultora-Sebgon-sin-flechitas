@@ -1,0 +1,12 @@
+Address : 190.16.203.139
+Nombre : Marcela Alejandra 
+Apellido : Perez
+Empresa : personal
+Telefono : 1154924777
+Email : permarcel@yahoo.com.ar
+Mensaje : Hola. He leido que la empresa se encuentra en la busqueda de personal para la realizacion de informes socioambientales. Estoy interesada en el trabajo ya que poseo una amplia experiencia en la materia, disponibilidad horaria y posibilidad de viajar al interior o al exterior. Poseo movilidad propia. Soy Lic en Sociologia. A la espera de una respuesta favorable, los saludo atentamente. Lic. Marcela Alejandra Perez
+Security_code : pctwb
+Send : Enviar
+
+---------------
+

@@ -1,0 +1,80 @@
+Address : 181.23.227.136
+Nombre : Daniel Mauricio
+Apellido : Demonte
+Cargo : Abogado
+Direccion : Gutemberg 198, Piso 1, Dpto.4
+Ciudad : Mendoza
+Telefono : 0261 156147894
+Email : mauriciodemonte@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Busco trabajo como abogado en la Provincia de Mendoza
+Security_code : rjq3n
+Send : Enviar
+
+---------------
+
+Address : 190.244.237.197
+REF : TECM
+Nombre : Juan 
+Apellido : Noguera
+Cargo : Operario
+Direccion : covepan tres casa 10
+Ciudad : Zarate
+Telefono : 03487 15 530077
+Email : juan_coyi@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Espero una pronta respuesta
+Security_code : nynv8
+Send : Enviar
+
+---------------
+
+Address : 181.109.236.245
+Nombre : Jonatan Ricardo
+Apellido : Zarate
+Cargo : supervisor calidad
+Direccion : j.j paso 672
+Ciudad : Zarate
+Telefono : 03487-15 513304 / 15224363
+Email : jona8312@hotmail.con.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : no puedo cargar el cv envienmen un correo y se los envió gracias
+Security_code : gctns
+Send : Enviar
+
+---------------
+
+Address : 157.92.4.6
+Nombre : Gustavo
+Apellido : Barzala
+Cargo : Jefe de mantenimiento
+Direccion : Colodrero y Clay Fila 14 Casa 8
+Ciudad : La Matanza
+Telefono : 153384971
+Email : barzalaleonice@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Miresponsabilidad de la inclusión para que servir el trabajo mejorar logra la comunicación y la creatividad.
+Security_code : jj2nz
+Send : Enviar
+
+---------------
+
+Address : 181.169.148.25
+Nombre : María de Lourdes
+Apellido : Rodríguez
+Cargo : Administrativa-Tesorera-Recepción-Caja
+Direccion : Av. del Libertador 2640
+Ciudad : Olivos
+Telefono : 4799-7034
+Email : lourdes2721@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenas tardes, me considero una persona activa, responsable, honesta y ordenada.
+Estoy en la búsqueda de un empleo fijo ya sea full time o part time.
+A su disposición para una entrevista.
+Saludo muy atte.,
+Lourdes Rodríguez
+Security_code : 8bt59
+Send : Enviar
+
+---------------
+

@@ -1,0 +1,49 @@
+Address : 187.22.121.109<br>
+ <br>Nombre : alexandre
+ <br>Apellido : doblado vaz
+ <br>Cargo : profesor de educacion fisica
+ <br>Direccion : fonrouge
+ <br>Ciudad : capital federal
+ <br>Telefono : 11 69956178
+ <br>Email : alexandredoblado@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : profesor o entrenador deportivo
+ <br>Security_code : x5hbs
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.2.118.67<br>
+ <br>Nombre : Adriana
+ <br>Apellido : Reta
+ <br>Cargo : Trabajador Social
+ <br>Direccion : B° Parque Belgrano
+ <br>Ciudad : Salta
+ <br>Telefono : 0378-155863030
+ <br>Email : adriana_reta8@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas tardes,  continuación, adjunto mi Curriculum Vitae para un puesto de trabajo acorde mi perfil y al lugar de residencia, en la Provincia de Salta. Ante cualquier duda o consulta quedo a su disposición para concertar una entrevista. Saludos cordiales. Atentamente. 
+Adriana Reta
+Lic. en Trabajo Social. 
+ <br>Security_code : m3KjK
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.2.118.67<br>
+ <br>Nombre : Adriana
+ <br>Apellido : Reta
+ <br>Cargo : Trabajador Social
+ <br>Direccion : B° Parque Belgrano
+ <br>Ciudad : Salta
+ <br>Telefono : 0378-155863030
+ <br>Email : adriana_reta8@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas tardes,  continuación, adjunto mi Curriculum Vitae para un puesto de trabajo acorde mi perfil y al lugar de residencia, en la Provincia de Salta. Ante cualquier duda o consulta quedo a su disposición para concertar una entrevista. Saludos cordiales. Atentamente. 
+Adriana Reta
+Lic. en Trabajo Social. 
+ <br>Security_code : 74sn4
+ <br>Send : Enviar
+ <br>
+---------------
+

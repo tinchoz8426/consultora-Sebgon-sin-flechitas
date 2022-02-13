@@ -1,0 +1,62 @@
+Address : 181.16.74.222
+Nombre : emiliano hernan
+Apellido : loto
+Cargo : operador
+Direccion : tte camilli 451
+Ciudad : moreno
+Telefono : 1565020086
+Email : emiliano.hernan@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : cv actualizado
+Security_code : c33g2
+Send : Enviar
+
+---------------
+
+Address : 186.137.40.196
+Nombre : Pablo
+Apellido : Ortiz Romano
+Cargo : administracion
+Direccion : 472 n°3348
+Ciudad : La Plata
+Telefono : 472 12 82
+Email : pablo.or_@live.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Que tal, me comunico para enviarle mi curriculum, saludos. Atte Pablo.
+Security_code : 3fbfm
+Send : Enviar
+
+---------------
+
+Address : 24.232.94.16
+Nombre : Macarena Irina
+Apellido : Rocco
+Cargo : Recepcion, At al cliente, Telefonista, Ventas
+Direccion : Andonaegui 2867
+Ciudad : Capital Federal
+Telefono : 45222616
+Email : mackirina@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto CV.
+Muchas gracias
+Security_code : JC568
+Send : Enviar
+
+---------------
+
+Address : 24.232.94.16
+Nombre : Macarena Irina
+Apellido : Rocco
+Cargo : Recepcion, At al cliente, Telefonista, Ventas
+Direccion : Andonaegui 2867
+Ciudad : Capital Federal
+Telefono : 45222616
+Email : mackirina@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto CV.
+Muchas gracias
+Security_code : tkwvx
+Send : Enviar
+
+---------------
+

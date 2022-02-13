@@ -1,0 +1,118 @@
+Address : 186.130.3.113<br>
+ <br>REF : GTEP
+ <br>Nombre : martin
+ <br>Apellido : villanueva
+ <br>Cargo : Gerente de Planta
+ <br>Direccion : larralde 1060
+ <br>Ciudad : moron
+ <br>Telefono : 44894615
+ <br>Email : villanueva.martin42@yahoo.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : ADJUNTO MIS REFS.
+ <br>Security_code : smczp
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.139.233.34<br>
+ <br>REF : ENPRO
+ <br>Nombre : Ricardo Esteban
+ <br>Apellido : Valdovinos
+ <br>Cargo : Supervisor de Produccion
+ <br>Direccion : Chayter 1174 
+ <br>Ciudad : Jose Marmol (Alte. Brown - GBA Sur)
+ <br>Telefono : 156725-6918
+ <br>Email : valdovinos.r@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados, presento mi CV como postulante a vacante solicitada para el puesto de Supervisor de Produccion.
+Poseo amplia experiencia de mas de 30 años en la gestion de conduccion de equipos de trabajo.
+A la espera de vuestra respuesta , envio un cordial saludo.
+Atte Ricardo Valdovinos
+ <br>Security_code : 9qwwp
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.139.233.34<br>
+ <br>REF : ENPRO
+ <br>Nombre : Ricardo Esteban
+ <br>Apellido : Valdovinos
+ <br>Cargo : Supervisor de Produccion
+ <br>Direccion : Chayter 1174 
+ <br>Ciudad : Jose Marmol (Alte. Brown - GBA Sur)
+ <br>Telefono : 156725-6918
+ <br>Email : valdovinos.r@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados, presento mi CV como postulante a vacante solicitada para el puesto de Supervisor de Produccion.
+Poseo amplia experiencia de mas de 30 años en la gestion de conduccion de equipos de trabajo.
+A la espera de vuestra respuesta , envio un cordial saludo.
+Atte Ricardo Valdovinos
+ <br>Security_code : 9qwwp
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.141.197.45<br>
+ <br>Nombre : Gustavo
+ <br>Apellido : Rojo
+ <br>Cargo : Mantenimiento
+ <br>Direccion : km 42 Panamericana ramal escobar
+ <br>Ciudad : Ing Maschwitz
+ <br>Telefono : 11 65177720
+ <br>Email : ing.gustavo@live.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : les adjunto mi cv a fin de poder participar en futuras busquedas que se ajusten a mi perfil.
+saludos cordiales
+ <br>Security_code : q2sg4
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.136.121.225<br>
+ <br>Nombre : Camila
+ <br>Apellido : Niedzwiecki
+ <br>Cargo : Psicóloga Evaluadora
+ <br>Direccion : Segui 4684
+ <br>Ciudad : CABA
+ <br>Telefono : 1124860505
+ <br>Email : caminied@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Soy una joven entusiasta con intenciones de continuar mi desarrollo dentro del área de la Psicología Laboral.
+Aspiro a trabajar haciendo uso de mi ingenio y creatividad  en pos del cumplir con los objetivos propuestos.
+Mis expectativas de carrera son adquirir conocimientos y nuevas experiencias que me permitan crecer y superarme día a día. 
+ <br>Security_code : g9y7c
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 179.40.164.44<br>
+ <br>Nombre : Emilio
+ <br>Apellido : Amaya
+ <br>Cargo : Operario
+ <br>Direccion : Beethoven 3379
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 1535034597
+ <br>Email : emiamaya.18@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Quiero formar parte de su equipo, adjunto mi currículum para formar parte de sus búsquedas.
+ <br>Security_code : n395v
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 179.40.164.44<br>
+ <br>REF : T.ELE
+ <br>Nombre : Emilio
+ <br>Apellido : Amaya
+ <br>Cargo : Operario
+ <br>Direccion : Beethoven 3379
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 1535034597
+ <br>Email : emiamaya.18@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Quiero formar parte de su equipo y creo tener los requisitos para el empleo.
+ <br>Security_code : 8nkbg
+ <br>Send : Enviar
+ <br>
+---------------
+

@@ -1,0 +1,152 @@
+Address : 181.46.43.168
+Nombre : Pablo
+Apellido : Navas
+Cargo : Programador Junior/Trainee
+Direccion : Illia 152
+Ciudad : Adrogué
+Telefono : 1132794515
+Email : pablo_h_n@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Muy buena predisposición para realizar capacitaciones, soy responsable en tiempo y forma en el trabajo.
+Security_code : tsqkg
+Send : Enviar
+
+---------------
+
+Address : 181.46.43.168
+Nombre : Pablo
+Apellido : Navas
+Cargo : Programador Junior/Trainee
+Direccion : Illia 152
+Ciudad : Adrogué
+Telefono : 1132794515
+Email : pablo_h_n@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Muy buena predisposición para realizar capacitaciones, soy responsable en tiempo y forma en el trabajo.
+Security_code : tsqkg
+Send : Enviar
+
+---------------
+
+Address : 181.46.43.168
+Nombre : Pablo
+Apellido : Navas
+Cargo : Programador Junior/Trainee
+Direccion : Illia 152
+Ciudad : Adrogué
+Telefono : 1132794515
+Email : pablo_h_n@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Muy buena predisposición para realizar capacitaciones, soy responsable en tiempo y forma en el trabajo.
+Security_code : hgkn4
+Send : Enviar
+
+---------------
+
+Address : 181.46.43.168
+Nombre : Pablo
+Apellido : Navas
+Cargo : Programador Junior/Trainee
+Direccion : Illia 152
+Ciudad : Adrogué
+Telefono : 1132794515
+Email : pablo_h_n@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Muy buena predisposición para realizar capacitaciones, soy responsable en tiempo y forma en el trabajo.
+Security_code : htrb7
+Send : Enviar
+
+---------------
+
+Address : 186.60.8.19
+Nombre : Harold
+Apellido : Carvallo
+Cargo : a seguir
+Direccion : Mitre 1056
+Ciudad : Coronel Suarez, Buenos Aires
+Telefono : 02926 465852
+Email : harstular@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : me gustaria demostrar toda mi experiencia administrativa y gerencial que eh llevado a cabo durante mi proligidad  
+Security_code : qyrjy
+Send : Enviar
+
+---------------
+
+Address : 181.224.113.52
+REF : ANCON
+Nombre : Aldana
+Apellido : Romero
+Cargo : ANALISTA CONTABLE-IMPOSITIVO
+Direccion : Estomba 915
+Ciudad : Bahia Blanca
+Telefono : 0291155046167
+Email : aldanaromero@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto Cv.
+Security_code : hrjcf
+Send : Enviar
+
+---------------
+
+Address : 181.224.113.52
+Nombre : Aldana 
+Apellido : Romero
+Cargo : Administraiva
+Direccion : Estomba 915
+Ciudad : Bahia Blanca
+Telefono : 0291155046167
+Email : aldanaromero@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimado/a:
+De mi mayor consideración:
+
+
+Me dirijo a Uds. a través de la presente  para hacerles llegar mis datos personales y profesionales a fin de ser tenido en cuenta como candidato.
+Me presento como una persona pro-activa, responsable, comprometida, cooperadora,  agradecida y con una clara orientación tanto al cliente como a los objetivos organizacionales. En cuanto a mi formación profesional, soy Técnica en administración con orientación al marketing y actualmente me encuentro cursando el último año de la carrera Contador Publico, cuento con un buen manejo del idioma francés y conocimientos en ingles, así como de herramientas informáticas. 
+Mi objetivo es desarrollarme en un puesto, en el cual pueda aplicar mis conocimientos adquiridos y situarme en constante aprendizaje Por lo cual, estoy más interesada en la oportunidad de su vacante para aplicar mis conocimientos que en la retribución. 
+Estimo que una entrevista será el marco adecuado para profundizar aspectos de mi perfil que puedan resultar de su interés.
+Sin otro particular, lo saluda cordialmente
+
+Aldana Belen Romero
+Security_code : mqp65
+Send : Enviar
+
+---------------
+
+Address : 186.18.216.129
+Nombre : mariana magali
+Apellido : aisburo soula
+Cargo : ADMINISTRATIVO
+Direccion : TRIUNVIRATO 4532
+Ciudad : BUENOS AIRES
+Telefono : 15 4083 0237
+Email : mariana_ais@outlook.es
+MAX_FILE_SIZE : 2097152
+Mensaje : A quien corresponda                                                            
+          Tengo el agrado de dirigirme a esa empresa a los efectos de enviar el CV de mi persona.
+          La medida se hace extensiva para que se me tenga en cuenta ante una futura incorporación a ese plantel.
+          En mi preparación universitaria- dada la carrera que he estudiado- me ha permitido experiencia en relación al trabajo de equipo, priorizando las distintas tareas a desarrollar y la urgencia e importancia que estas ocupan en un rol de trabajo.
+          Mi formación esta dada por los conocimientos adquirido durante mis estudios y  pasantias, poseyendo asimismo conocimientos en idiomas ingles, portugués y de herramientas informáticas. Me considero proactiva y con capacidad de afrontar los retos profesionales que se me impongan. 
+          Sin otro particular, le saludo atentamente
+
+Security_code : 3mn6s
+Send : Enviar
+
+---------------
+
+Address : 186.39.188.141
+Nombre : Abel José
+Apellido : Funes Mosca
+Cargo : Puesto administrativo
+Direccion : Lavalle 724
+Ciudad : Godoy Cruz
+Telefono : 0261 3040233
+Email : abelfunes14@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Puesto administrativo - Medio Día de ser posible (razones de estudio).
+Security_code : 86k6k
+Send : Enviar
+
+---------------
+

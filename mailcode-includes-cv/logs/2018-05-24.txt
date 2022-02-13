@@ -1,0 +1,678 @@
+Address : 181.9.123.25<br>
+ <br>REF : EP-1
+ <br>Nombre : Giselle
+ <br>Apellido : Mazzarello
+ <br>Cargo : Encargada de produccion
+ <br>Direccion : Encina 2700
+ <br>Ciudad : Mariano Acosta
+ <br>Telefono : 1140386620
+ <br>Email : gamazzarello@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas tardes, a continuación adjunto mi CV ya que estoy interesada en el puesto laboral de Encargada de Producción. 
+Desde ya muchas gracias!
+ <br>Security_code : 7ffs6
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 200.109.158.238<br>
+ <br>REF : Ing. quim
+ <br>Nombre : Lorena Thais
+ <br>Apellido : Ceballos Carrero
+ <br>Cargo : Control de calidad
+ <br>Direccion : Res bellavista Apart 3-3 Av las Américas Mérida venezuela
+ <br>Ciudad : Merida
+ <br>Telefono : +584247024053
+ <br>Email : lorenaceballos9@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas Tardes.
+
+
+Por medio del presente correo, deseo hacer de su conocimiento mi profundo interés por la vacante disponible de Ingeniero Químico en esta importante y reconocida Empresa, laborar en esta empresa sería un gran honor para mí dado a que dicha Organización es una de las mas   importantes de Argentina y de América Latina.
+
+Como verá en el mi resumen curricular, el cual adjunto, cuento con una sólida preparación educativa y profesional. Asimismo, he obtenido experiencias a lo largo de mi vida profesional. Considero también que las perspectivas y los intereses de la empresa compaginan perfectamente con mis intereses y aptitudes, por lo que me parece una opción perfecta para mí.
+
+Actualmente no estoy residenciada en Argentina pero mi viaje esta panificado para el 15 de julio y la fecha para la cita del DNI es para la  ultima semana de julio, pero tengo todo lo necesario para llegar  a trabajar de inmediato.
+
+Sin más por el momento, le reitero mi profundo interés y compromiso para laborar en esta empresa, poniendo a continuación n mis datos:
+
+Ing.  Químico
+
+Lorena Thais Ceballos Carrero
+
+Ci: 17.770.844
+ <br>Security_code : 7vk3p
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.125.35.180<br>
+ <br>REF : JPER-1
+ <br>Nombre : Gabriel
+ <br>Apellido : Taboada
+ <br>Cargo : JEFE  DE  PERSONAL
+ <br>Direccion : Moreno, 954
+ <br>Ciudad : San   Isidro
+ <br>Telefono : 1561807476
+ <br>Email : lic.gabrieltaboada777@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Búsqueda  activa  
+ <br>Security_code : whfrh
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.44.92.195<br>
+ <br>REF : ROT-1
+ <br>Nombre : ignacio
+ <br>Apellido : lobos
+ <br>Cargo : responsable de oficina tecnica
+ <br>Direccion : cisneros 5869 
+ <br>Ciudad : buenos aires
+ <br>Telefono : 1164373559
+ <br>Email : rodrigo_1641@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : estimados, espero poder concretar una cita personalmente para que revisen mi perfil como profesional tecnico. gracias
+ <br>Security_code : 3gstq
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.44.92.195<br>
+ <br>REF : ROT-1
+ <br>Nombre : ignacio
+ <br>Apellido : lobos
+ <br>Cargo : ROT-1
+ <br>Direccion : cisneros 5869 
+ <br>Ciudad : buenos aires
+ <br>Telefono : 1164373559
+ <br>Email : rodrigo_1641@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : estimados, espero poder concretar una cita personalmente para que revisen mi perfil como profesional tecnico. gracias
+ <br>Security_code : 3gstq
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.44.92.195<br>
+ <br>REF : ROT-1
+ <br>Nombre : ignacio
+ <br>Apellido : lobos
+ <br>Cargo : ROT-1
+ <br>Direccion : cisneros 5869 
+ <br>Ciudad : buenos aires
+ <br>Telefono : 1164373559
+ <br>Email : rodrigo_1641@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : estimados, espero poder concretar una cita personalmente para que revisen mi perfil como profesional tecnico. gracias
+ <br>Security_code : r9hsx
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.44.92.195<br>
+ <br>REF : ROT-1
+ <br>Nombre : ignacio
+ <br>Apellido : lobos
+ <br>Cargo : ROT-1
+ <br>Direccion : cisneros 5869 
+ <br>Ciudad : buenos aires
+ <br>Telefono : 1164373559
+ <br>Email : rodrigo_1641@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : estimados, espero poder concretar una cita personalmente para que revisen mi perfil como profesional tecnico. gracias
+ <br>Security_code : c5wb4
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.103.86.13<br>
+ <br>REF : ACO-1
+ <br>Nombre : Francisco Antonio
+ <br>Apellido : Contreras Silva
+ <br>Cargo : ANALISTA DE COMERCIO EXTERIOR
+ <br>Direccion : C/BERUTI 3429, PISO 13, APTO F
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 00541127234453
+ <br>Email : ing.francisco.contreras@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : saludos
+ <br>Security_code : s8bpr
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 24.232.200.142<br>
+ <br>REF : SP-1
+ <br>Nombre : Camila Verónica
+ <br>Apellido : García Orosa
+ <br>Cargo : SUPERVISOR DE PRODUCCIÓN
+ <br>Direccion : Nogoyá 4227
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 1551793033
+ <br>Email : vg.camila@hotmail.es
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Señor
+Encargado de Recursos Humanos 
+De mi consideración 
+                                        Me dirijo a usted  con el objeto de postularme para el puesto vacante.
+                                        Mi candidatura le puede resultar de interés ya que cuento con aptitudes para desarrollar de manera eficiente las tareas solicitadas, una amplia disponibilidad horaria, y me desenvuelvo con eficacia a la hora de trabajar en grupo.
+                                        Es de mi interés sumarme al equipo de esta empresa por sus valores y calidad de sus servicios.
+                                        Quedo a disposición para concretar una entrevista con usted y poderle ampliar personalmente la información que le adjunto.
+
+ Le agradezco
+ Saludo cordialmente
+ Camila García Orosa.
+ <br>Security_code : 9p8yf
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 179.38.51.226<br>
+ <br>REF : ROT-1
+ <br>Nombre : jonathan
+ <br>Apellido : Gil Lurgi
+ <br>Cargo : Responsable de oficina tecnica
+ <br>Direccion : San Telmo 
+ <br>Ciudad : caba
+ <br>Telefono : 1136222487
+ <br>Email : jonathanglurgi@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Con muchas ganas de trabajar, pro activo, creativo y responsable.
+ <br>Security_code : xyhqg
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.111.180.98<br>
+ <br>REF : ACO-1
+ <br>Nombre : Pablo Yamil
+ <br>Apellido : Amante
+ <br>Cargo : Comprador
+ <br>Direccion : Ceretti 3356 Dpto. 2
+ <br>Ciudad : CABA
+ <br>Telefono : 1562847493
+ <br>Email : pablo.amantey@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Sueldo Bruto pretendido $ 38.000
+ <br>Security_code : vqvr7
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.22.88.172<br>
+ <br>REF : SP-1
+ <br>Nombre : Oscar Aurelio
+ <br>Apellido : Pace
+ <br>Cargo : Supervisor de Producción
+ <br>Direccion : Rio de Janeiro 2634
+ <br>Ciudad : Lanus
+ <br>Telefono : 011-6939-8955
+ <br>Email : oscarpace06@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Tengo el agrado de dirigirme a uds. a fin de postularme en la busqueda de un Supervisor de Producción.
+Quedo a disposición para evacuar las consultas que consideren oportunas.
+
+Cordialmente
+Oscar Aurelio Pace
+ <br>Security_code : 6zk4v
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.225.228.120<br>
+ <br>REF : JPER-1
+ <br>Nombre : Diego
+ <br>Apellido : Kinsbrunner
+ <br>Cargo : Jefe de Personal
+ <br>Direccion : Moldes 3556 5 E
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 1564652345
+ <br>Email : diego.kinsbrunner@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : A quien corresponda, muy buenas tardes.                
+
+Por la presente, me dirijo a ustedes a los efectos de hacerles llegar mi CV en respuesta al aviso de referencia para ser considerado a dicha búsqueda ya que es el tipo de posiciones que están alineadas a mi perfil y objetivos de carrera.
+
+Actualmente me encuentro en búsqueda de nuevos horizontes laborales, deseando nuevos desafíos, y para ello tengo formación generalista de RRHH tanto en temas hard como soft, contando además con experiencia en planeamiento, control de gestión y mejora de procesos. Asimismo cuento con experiencia en compañías multinacionales de diversos rubros, tanto en la Argentina como en el exterior, además de la experiencia y el conocimiento adicional del sector público.
+
+Busco continuar mi desarrollo profesional en áreas HR pudiendo tomar posiciones de liderazgo generalistas o bien tomar responsabilidades de especialista dentro del área según la posición lo requiera.
+
+Soy una persona con fuerte orientación a la gestión del negocio, capacidad analítica, iniciativa para la búsqueda de soluciones y orientado a resultados; con habilidad de adaptación a diferentes contextos y buen trato interpersonal con los otros. 
+
+Quedo a vuestra entera disposición en caso de que deseen pactar una entrevista para conocer más acerca de otros aspectos de mi perfil que pudieran ser un valor agregado para vuestra compañía.
+ 
+
+Desde ya, muchas gracias y aprovecho para saludarles muy atentamente. 
+
+
+
+
+Diego N. Kinsbrunner
+
+Cel.: +54 11 6465-2345
+Skype: diegokinsbrunner
+
+ <br>Security_code : yzgtb
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 200.5.98.18<br>
+ <br>REF : ROT-1
+ <br>Nombre : MARTIN 
+ <br>Apellido : SILVA
+ <br>Cargo : RESPONSABLE DE OFICINA TECNICA
+ <br>Direccion : los talas 1906
+ <br>Ciudad : la union-ezeiza
+ <br>Telefono : 43214860 - 15 32733923
+ <br>Email : m_silva01@live.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : ESTIMADO;
+ESPERO MI EXPERIENCIA LE SEA DE INTERES Y UTILIDAD AL MOMENTO DE LA SELECCION.
+SALUDOS.
+
+ <br>Security_code : ys6sp
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.90.17.94<br>
+ <br>REF : JPER-1
+ <br>Nombre : Anibal
+ <br>Apellido : Aballe
+ <br>Cargo : Jefe de Personal JPER-1
+ <br>Direccion : Fitz Roy 2489
+ <br>Ciudad : Cap Fed
+ <br>Telefono : 1136107875
+ <br>Email : anibalaballe@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Adjunto CV para ser considerado en la búsqueda de referencia.Cuento con los requerimientos de la posición a cubrir. Mi pretensiones de ingreso mensual se encuentran en el orden de los $28.000 brutos mensuales
+ <br>Security_code : nqxkn
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.191.103.204<br>
+ <br>REF : EP-1
+ <br>Nombre : Miguel
+ <br>Apellido : Iozzo
+ <br>Cargo : encargado de produccion
+ <br>Direccion : llavallol
+ <br>Ciudad : lomas de zamora
+ <br>Telefono : 1141440807
+ <br>Email : iozzgel@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Ingeniero Mecanico con experiencia en produccion
+ <br>Security_code : tgwyq
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.191.103.204<br>
+ <br>REF : EP-1
+ <br>Nombre : Miguel
+ <br>Apellido : Iozzo
+ <br>Cargo : encargado de produccion
+ <br>Direccion : llavallol
+ <br>Ciudad : lomas de zamora
+ <br>Telefono : 1141440807
+ <br>Email : iozzgel@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Ingeniero Mecanico con experiencia en produccion
+ <br>Security_code : tgwyq
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.45.70.133<br>
+ <br>Nombre : Lus
+ <br>Apellido : Marin
+ <br>Cargo : RESPONSABLE DE OFICINA TECNICA
+ <br>Direccion : Juan Ramirez de Velazco 236
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 1121797381
+ <br>Email : luisalfonsomaringonzalez@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Amplia experiencia en ingeniería mecánica, manejo de programas CAD/CAE para diseño de piezas, simulación de desempeño mecánico vía FEA, generación de prototipos rápidos (FDM-Stratasys), escaneo de piezas en 3D (Gom-Atos), análisis termográfico (Flir Systems), Procesos de fabricación necesarios para el maquinado de piezas y simulación de proceso de mecanizado (CAM). Experiencia en proyectos de investigación y desarrollo de aplicaciones de productos plásticos, moldeo por inyección y rotomoldeo
+ <br>Security_code : sgk8m
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.44.122.244<br>
+ <br>Nombre : marcos
+ <br>Apellido : rincon
+ <br>Cargo : administración / deposito
+ <br>Direccion : 7 N°66
+ <br>Ciudad : GUERNICA
+ <br>Telefono : 0111544275516
+ <br>Email : marcosrincon@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : agradezco la lectura de mi curriculum. disponibilidad full time.
+saludos.
+ <br>Security_code : c7n2j
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.139.183.21<br>
+ <br>REF : EP-1
+ <br>Nombre : Cesar
+ <br>Apellido : Henao
+ <br>Cargo : Encargado Produccion
+ <br>Direccion : Maipu 26
+ <br>Ciudad : CABA
+ <br>Telefono : 1134974025
+ <br>Email : cesarh26@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados, buen día.
+
+Me dirijo a ustedes con el fin de hacerles llegar mi Curriculum Vitae, para su consideración. 
+
+Poseo una amplia experiencia en empresas productoras; en la mejora y control de procesos; planificación de la producción, insumos, materias primas y producto terminado; asimismo controles de mermas, de costos y desperdicios; ajuste de formulaciones, mejoras en la productividad. Además gestión de inventarios, warehouse (manejo y control de stock), bill of materials, supply chain; manejo de proveedores-transportistas(Operativo), facturación y supervisión entre otros. Manejo de SAP-MM (Materials Management).
+ 
+No obstante a la experiencia ya adquirida, deseo poder incorporar nuevos conocimientos; tener nuevos desafíos y responsabilidades. Adicionalmente a lo ya escrito, considero que soy una persona resolutiva, con iniciativa, capacidad de trabajo en equipo, capacidad de compaginar varios proyectos de forma simultánea; hábil a la hora de afrontar y solucionar los problemas del día a día; mi pro-actividad, mis ganas de aprender y mí formación actualizada, aportarían elementos importantes a su empresa.
+
+Por ello espero que los datos que aquí encuentren sean de su interés y me de la oportunidad de conocerles en una entrevista donde ustedes podrán ampliar la información que aquí les suministro. Me pueden ubicar telefónicamente al móvil 11-34974025. 
+
+Cordialmente,
+ 
+Cesar Henao.
+D.N.I. 94414025
+ <br>Security_code : t4v7r
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.244.189.4<br>
+ <br>REF : EP-1
+ <br>Nombre : Rodrigo 
+ <br>Apellido : Mendoza
+ <br>Cargo : Encargado de Producción 
+ <br>Direccion : dean funes 1177
+ <br>Ciudad : ciudad autónoma de Buenos Aires
+ <br>Telefono : 1133443357
+ <br>Email : rodrigoemendoza@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Venezolano con vocación laboral, con experiencia en dirección y conformación de equipo de trabajo. cuento con dni provisional y cuil.       
+ <br>Security_code : k9dqf
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.9<br>
+ <br>REF : SP-1
+ <br>Nombre : Roberto Carlos
+ <br>Apellido : Farias
+ <br>Cargo : Supervisor
+ <br>Direccion : A palacios 
+ <br>Ciudad : Grand Bourg
+ <br>Telefono : 1158440930
+ <br>Email : Roberto.c.fariad@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Tengo experiencia hace 22 años como supervisor manejando grupos de trabajo
+ <br>Security_code : 2ps2v
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.50.38.46<br>
+ <br>REF : EP-1
+ <br>Nombre : Abrahana
+ <br>Apellido : Mendoza
+ <br>Cargo : Encargado de producción.
+ <br>Direccion : Lomas de Zamora
+ <br>Ciudad : Lomas de Zamora
+ <br>Telefono : 1134545173
+ <br>Email : abrahanamendoza@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Disponibilidad para cambiar de residencia.
+ <br>Security_code : 6gbgn
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.45.90.3<br>
+ <br>REF : JPER-1
+ <br>Nombre : Cintia
+ <br>Apellido : Acosta
+ <br>Cargo : Jefa de personal
+ <br>Direccion : Florencio Varela 
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 1554190968
+ <br>Email : Cintia.m.a@hotmail.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados, adjunto mi CV para puesto de jefe de RRHH o similar.
+Saludos cordiales.
+Cintia Acosta
+ <br>Security_code : 2l85c
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.45.90.3<br>
+ <br>REF : JPER-1
+ <br>Nombre : Cintia
+ <br>Apellido : Acosta
+ <br>Cargo : Jefa de personal
+ <br>Direccion : Florencio Varela 
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 1554190968
+ <br>Email : Cintia.m.a@hotmail.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados, adjunto mi CV para puesto de jefe de RRHH o similar.
+Saludos cordiales.
+Cintia Acosta
+ <br>Security_code : 2k85c
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.45.90.3<br>
+ <br>REF : JPER-1
+ <br>Nombre : Cintia
+ <br>Apellido : Acosta
+ <br>Cargo : Jefa de personal
+ <br>Direccion : Florencio Varela 
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 1554190968
+ <br>Email : Cintia.m.a@hotmail.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados, adjunto mi CV para puesto de jefe de RRHH o similar.
+Saludos cordiales.
+Cintia Acosta
+ <br>Security_code : qkgvg
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.45.90.3<br>
+ <br>REF : JPER-1
+ <br>Nombre : Cintia
+ <br>Apellido : Acosta
+ <br>Cargo : Jefa de personal
+ <br>Direccion : Florencio Varela 
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 1554190968
+ <br>Email : Cintia.m.a@hotmail.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados, adjunto mi CV para puesto de jefe de RRHH o similar.
+Saludos cordiales.
+Cintia Acosta
+ <br>Security_code : 4nwtw
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.173.230.95<br>
+ <br>REF : SP-1
+ <br>Nombre : Juan Carlos
+ <br>Apellido : Montero
+ <br>Cargo : Supervisor
+ <br>Direccion : Av. Almirante Brown 555 - La Boca
+ <br>Ciudad : La boca
+ <br>Telefono : 43073107
+ <br>Email : carlosgonzalesmontero@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : De amplia experiencia, innovador, motivado, orientado a producir resultados, dinámico, de probada experiencia, colaborador y trabajo en equipo, rápido, con habilidad para resolver problemas, muy emprendedor. Grandes deseos de superación y con proyección de trabajo en equipo, cumpliendo los objetivos asignados aun bajo presión. Considero que de acuerdo a mi experiencia laboral poseo la capacidad suficiente para realizar un complejo trabajo profesional.
+ <br>Security_code : v74yw
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.94.88.29<br>
+ <br>REF : JPER-1
+ <br>Nombre : Hilde 
+ <br>Apellido : Diaz
+ <br>Cargo : Jefe de Personal
+ <br>Direccion : Belgrano R.
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : +5491163550436
+ <br>Email : hildegardediaz1@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : De mi mayor consideración:
+
+
+Conforme al aviso recientemente publicado, adjunto mi CV actualizado para participar de la búsqueda.
+ 
+
+
+Cuento con la experiencia y formación adecuadas, para alcanzar exitosamente las expectativas de la posición. 
+
+Quedo a disposición para concertar una entrevista personal en cuanto lo considere necesario.
+
+ 
+
+Atentamente,
+
+ 
+
+Lic. Hilde Díaz
+
+Cel.: + 54 9 11 6355 0436
+ <br>Security_code : chp74
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.251.134.97<br>
+ <br>REF : SP-1
+ <br>Nombre : NORBERTO
+ <br>Apellido : PEREZ
+ <br>Cargo : SUPERVISOR DE PRODUCCION
+ <br>Direccion : Pastorino 2061, 0
+ <br>Ciudad : El Bolson
+ <br>Telefono : 0294154539346
+ <br>Email : norbertoperez.ar@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : ¡Estoy muy entusiasmado de trabajar con ustedes brindándoles mis servicios!
+ 
+Sres. SEBGON CONSULTORA
+
+Atte. Sr. Gerente RR.HH.
+
+Siendo Ingeniero Mecánico, quiero participar en vuestros desafíos como Ingeniero de Obras y Proyectos, para lo cual le envío mis antecedentes profesionales y le ofrezco toda mi capacidad, pro-actividad y liderazgo.
+
+Poseo amplia experiencia en el diseño de Piping y Stress Analysis en Instalaciones de Superficie sector Oil & Gas, 
+Plantas Químicas, Petroquímicas y Nucleares.
+
+Actualmente estoy trabajando en varios proyectos sector Oil & Gas en la zona de Santa Cruz.
+También poseo amplia experiencia en diseño de recipientes sometidos a presión de acuerdo a ASME VIII.
+
+Poseo capacidad para re-localizarme y estoy listo para trabajar con ustedes!
+Sin otro particular y descontando serles de utilidad, le solicito una entrevista donde poder ampliar mi experiencia.
+Saludo a usted muy atentamente,
+ 
+Ing. Norberto Omar Perez
+Cel: 0294 154 539346
+ 
+P.D. Gracias desde ya por su consideración en lo que tengo para ofrecerles. 
+Pueden contactarme en cualquier momento en mi celular 0294 154 539346 ó a este e-mail, para colaborar con ustedes!
+
+ <br>Security_code : r8t7m
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.188.122.137<br>
+ <br>REF : Ing. quim
+ <br>Nombre : Lorena Thais
+ <br>Apellido : Ceballos Carrero
+ <br>Cargo : Procesos
+ <br>Direccion : Av Las Americas Res Bella Vista Apart 3-3
+ <br>Ciudad : Mérida
+ <br>Telefono : +584247024053
+ <br>Email : lorenaceballos9@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas Tardes.
+
+
+Por medio del presente correo, deseo hacer de su conocimiento mi profundo interés por la vacante disponible de Ingeniero Químico en esta importante y reconocida Empresa, laborar en esta empresa sería un gran honor para mí dado a que dicha Organización es una de las mas   importantes de Argentina y de América Latina.
+
+Como verá en el mi resumen curricular, el cual adjunto, cuento con una sólida preparación educativa y profesional. Asimismo, he obtenido experiencias a lo largo de mi vida profesional. Considero también que las perspectivas y los intereses de la empresa compaginan perfectamente con mis intereses y aptitudes, por lo que me parece una opción perfecta para mí.
+
+Actualmente no estoy residenciada en Argentina pero mi viaje esta panificado para el 15 de julio y la fecha para la cita del DNI es para la  ultima semana de julio, pero tengo todo lo necesario para llegar  a trabajar de inmediato.
+
+Sin más por el momento, le reitero mi profundo interés y compromiso para laborar en esta empresa, poniendo a continuación n mis datos:
+
+Ing.  Químico
+
+Lorena Thais Ceballos Carrero
+
+Ci: 17.770.844
+
+
+ <br>Security_code : yzf9g
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.229.100.172<br>
+ <br>REF : ROT-1
+ <br>Nombre : Oscar
+ <br>Apellido : Hernandez
+ <br>Cargo : tecnico responsable
+ <br>Direccion : humberto 1 820
+ <br>Ciudad : buenos aires
+ <br>Telefono : 1161533803
+ <br>Email : oscar_alberto03@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : CONOCIMIENTOS DE AUTOCAD, REVIT, SKETCHUP, LUIN, Y AUTOCAD CIVIL 3D. 8 AÑOS DE EXPERIENCIA EN EL RAMO DE LA CONSTRUCCION.
+ <br>Security_code : n287v
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.14.212.98<br>
+ <br>REF : SP-1
+ <br>Nombre : Yvan Gustavo
+ <br>Apellido : Vizcaya
+ <br>Cargo : Supervisor de Produccion
+ <br>Direccion : Urbanización Base Sucre Calle 11 Casa No 377
+ <br>Ciudad : Maracay
+ <br>Telefono : 5804243688827
+ <br>Email : vanvizcaya@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Mi experiencia
+ <br>Security_code : fj9y5
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.45.91.24<br>
+ <br>REF : TM-2
+ <br>Nombre : claudio nicolas
+ <br>Apellido : bailoni
+ <br>Cargo : TM 2
+ <br>Direccion : Lisandro de la Torre 3345
+ <br>Ciudad : Ituzaingo
+ <br>Telefono : 1539100969
+ <br>Email : claubailoni1@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me postulo para el puesto de Técnico para mantenimiento.
+ <br>Security_code : qqfyb
+ <br>Send : Enviar
+ <br>
+---------------
+

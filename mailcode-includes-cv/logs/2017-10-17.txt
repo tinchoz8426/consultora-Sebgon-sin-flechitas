@@ -1,0 +1,102 @@
+Address : 181.166.17.98<br>
+ <br>Nombre : Nestor
+ <br>Apellido : Milano
+ <br>Cargo : Ventas turismo atencion al publico
+ <br>Direccion : pietranera 3448
+ <br>Ciudad : santa fe
+ <br>Telefono : 0342154734091
+ <br>Email : nestor.milano@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Espero con ansias novedades. Saludos cordiales.
+ <br>Security_code : sb45d
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.166.17.98<br>
+ <br>Nombre : Nestor
+ <br>Apellido : Milano
+ <br>Cargo : Ventas turismo atencion al publico
+ <br>Direccion : pietranera 3448
+ <br>Ciudad : santa fe
+ <br>Telefono : 0342154734091
+ <br>Email : nestor.milano@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Espero con ansias novedades. Saludos cordiales.
+ <br>Security_code : txkh6
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.183.57.243<br>
+ <br>REF : chr
+ <br>Nombre : jorge alberto 
+ <br>Apellido : pot
+ <br>Cargo : chofer
+ <br>Direccion : padre ustarroz 3292
+ <br>Ciudad : San Miguel
+ <br>Telefono : 1120314905
+ <br>Email : jorgealbertopot@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : chofer carga y descarga
+ <br>Security_code : k563h
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.182.244.216<br>
+ <br>REF : Tectron
+ <br>Nombre : Román
+ <br>Apellido : Campoy
+ <br>Cargo : Técnicos electrónicos
+ <br>Direccion : Necochea 1931
+ <br>Ciudad : Hurlingham
+ <br>Telefono : 1154763412
+ <br>Email : romancampoy@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Les hago llegar mi CV, apostando en un nuevo desafío laboral a la posibilidad de crecimiento dentro de vuestra empresa.
+
+Priorizo hoy también la cercanía de mi domicilio a la locación de mi nuevo empleo.
+
+Mis capacidades técnicas son un agregado de importancia a mi capacidad de gestión, comercialización y liderazgo adquiridos a lo largo de mi experiencia laboral.
+
+Quedando a disposición para propuestas y consultas,
+Atte.
+--
+Román Campoy <+54.11.5476-3412>
+ <br>Security_code : 74gm5
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.176.213.51<br>
+ <br>REF : chr
+ <br>Nombre : gustavo sebastian
+ <br>Apellido : garcia
+ <br>Cargo : chofer de reparto
+ <br>Direccion : jose hernandez 4884
+ <br>Ciudad : g de laferrere
+ <br>Telefono : 1557167987
+ <br>Email : susanasescovar@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : me encuentro en la búsqueda de trabajo. tengo experiencias comprobables
+ <br>Security_code : npjt4
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.109.137.102<br>
+ <br>Nombre : Christian Maximiliano
+ <br>Apellido : Ojeda
+ <br>Cargo : Analista de Comercio Internacional/Exterior
+ <br>Direccion : arcos 2345
+ <br>Ciudad : buenos aires
+ <br>Telefono : 54116 515 5137
+ <br>Email : ojeda.cmaximiliano@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Adjunto mi curriculum, para puesto de Analista de Comercio Internacional/Exterior
+ <br>Security_code : krwpf
+ <br>Send : Enviar
+ <br>
+---------------
+

@@ -1,0 +1,65 @@
+Address : 200.114.138.5<br>
+ <br>Nombre : Saray
+ <br>Apellido : Guevara Osorio
+ <br>Cargo : Recursos Humanos 
+ <br>Direccion : av. Santa Fe 4437
+ <br>Ciudad : Ciudad Autonoma
+ <br>Telefono : 1131816947
+ <br>Email : sarayguevaraosorio@hotmail.es
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Las expectativas que busco en un trabajo se dirigen a desarrollarme  y adquirir experiencia laboral enriquecedora; además de aporta mis conocimientos y competencias al desarrollo y avance de la empresa.
+ <br>Security_code : bvdkr
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.9<br>
+ <br>Nombre : Paola nataliab
+ <br>Apellido : Conti
+ <br>Cargo : Cajera, atención al público, camarera, vendedora
+ <br>Direccion : Bosch 2520
+ <br>Ciudad : Mar del plata
+ <br>Telefono : 2235552490
+ <br>Email : nataliapaola07@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : A la buscada de un empleo para todo el año, tengo amplia experiencia y muchas ganas de trabajar
+ <br>Security_code : Gp82w
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 191.85.151.161<br>
+ <br>REF : EP-1
+ <br>Nombre : Eugenia del Valle
+ <br>Apellido : Rojas Enez
+ <br>Cargo : EP-1
+ <br>Direccion : Luis Saenz Peña 342
+ <br>Ciudad : Capital Federal
+ <br>Telefono : 1127231147
+ <br>Email : eu_rojas@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenos días, adjunto curricuum para postularme a su vacante de empleo. feliz día.
+ <br>Security_code : bxppq
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.173.182.181<br>
+ <br>REF : JPER-1
+ <br>Nombre : RICARDO ADRIAN
+ <br>Apellido : NATALICCHIO
+ <br>Cargo : Jefe de Personal
+ <br>Direccion : BERUTTI 305
+ <br>Ciudad : CORONEL BRANDSEN
+ <br>Telefono : 2223443586
+ <br>Email : BMMR_07@HOTMAIL.COM
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : En relación a vuestra búsqueda de referencia, adjunto mi CV para ser tenido en cuenta en la selección y tener la oportunidad de una entrevista personal donde podré ampliar toda mi experiencia e idoneidad  para el puesto solicitado.
+
+Desde ya muchas gracias por su amable atención. 
+
+ <br>Security_code : dzryf
+ <br>Send : Enviar
+ <br>
+---------------
+

@@ -1,0 +1,98 @@
+Address : 179.38.233.248<br>
+ <br>REF : JPL
+ <br>Nombre : Ariel
+ <br>Apellido : Rodriguez
+ <br>Cargo : Jefe de Planta
+ <br>Direccion : 307
+ <br>Ciudad : Berazategui
+ <br>Telefono : 1122465090
+ <br>Email : ariel.rodriguez.27@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Habilidades de liderazgo, proactivo, comprometido y excelente relación interpersonal. Buen manejo del recurso y amplia capacidad de resolución. Disminución de costos, fuerte conocimiento en mejora continua de procesos , plantas , áreas , maquinarias mecánicas y de alta tecnología. Conocimiento en metodología TPM. Implementaciones.
+	
+
+ <br>Security_code : s8ytb
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 179.38.233.248<br>
+ <br>REF : JPL
+ <br>Nombre : Ariel
+ <br>Apellido : Rodriguez
+ <br>Cargo : Jefe de Planta
+ <br>Direccion : 307
+ <br>Ciudad : Berazategui
+ <br>Telefono : 1122465090
+ <br>Email : ariel.rodriguez.27@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Habilidades de liderazgo, proactivo, comprometido y excelente relación interpersonal. Buen manejo del recurso y amplia capacidad de resolución. Disminución de costos, fuerte conocimiento en mejora continua de procesos , plantas , áreas , maquinarias mecánicas y de alta tecnología. Conocimiento en metodología TPM. Implementaciones.
+	
+
+ <br>Security_code : s8ytb
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 179.38.233.248<br>
+ <br>Nombre : Ariel
+ <br>Apellido : Rodriguez
+ <br>Cargo : Jefe de Planta
+ <br>Direccion : Calle 307 N°595
+ <br>Ciudad : Ranelagh
+ <br>Telefono : 1122465090
+ <br>Email : ariel.rodriguez.27@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Habilidades de liderazgo, proactivo, comprometido y excelente relación interpersonal. Buen manejo del recurso y amplia capacidad de resolución. Disminución de costos, fuerte conocimiento en mejora continua de procesos , plantas , áreas , maquinarias mecánicas y de alta tecnología. Conocimiento en metodología TPM. Implementaciones.
+	
+
+ <br>Security_code : srjvw
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 191.80.246.202<br>
+ <br>Nombre : martin
+ <br>Apellido : padron
+ <br>Cargo : soldador 
+ <br>Direccion : carlos tejedor 1373
+ <br>Ciudad : GBA
+ <br>Telefono : 11 4412 1414
+ <br>Email : martinpadron23@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : mi fuerza de trabajo a su disposición 
+ <br>Security_code : tfd73
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 191.80.246.202<br>
+ <br>Nombre : martin
+ <br>Apellido : padron
+ <br>Cargo : soldador 
+ <br>Direccion : carlos tejedor 1373
+ <br>Ciudad : GBA
+ <br>Telefono : 11 4412 1414
+ <br>Email : martinpadron23@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : soldador con experiencia 
+ <br>Security_code : vrmw9
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.48.152.52<br>
+ <br>Nombre : Damian Dario
+ <br>Apellido : Muñiz
+ <br>Cargo : call center
+ <br>Direccion : schiaffino 40
+ <br>Ciudad : merlo
+ <br>Telefono : 0220-4828945
+ <br>Email : darios.2016@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : quisiera que me contacten para trabajar en call center o ventas personalizadas. Desde ya muchas gracias.
+ <br>Security_code : 6px4x
+ <br>Send : Enviar
+ <br>
+---------------
+

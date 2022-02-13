@@ -1,0 +1,16 @@
+Address : 200.125.107.18<br>
+ <br>REF : JPER-1
+ <br>Nombre : Norman
+ <br>Apellido : Widd Brunetti
+ <br>Cargo : jefe de personal
+ <br>Direccion : san lorenzo 195'
+ <br>Ciudad : Olivos
+ <br>Telefono : 1551016885
+ <br>Email : nwidd@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : envio cv para aplicar al puesto de referencia
+ <br>Security_code : hw854
+ <br>Send : Enviar
+ <br>
+---------------
+

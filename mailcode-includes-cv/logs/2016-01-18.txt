@@ -1,0 +1,152 @@
+Address : 190.210.74.49
+Nombre : ALDANA
+Apellido : LARA
+Cargo : SECRETARIA / ADMINISTRATIVA
+Direccion : SAN LORENZO 6021
+Ciudad : BUENOS AIRES
+Telefono : 1554554149
+Email : aldii.lara@hotmail.es
+MAX_FILE_SIZE : 2097152
+Mensaje : ESTUDIANTE DE ABOGACIA.
+Security_code : 7Q8HZ
+Send : Enviar
+
+---------------
+
+Address : 181.47.232.237
+REF : GTEP
+Nombre : ruben
+Apellido : fernandez
+Cargo : gerente planta
+Direccion : cordoba 1663
+Ciudad : buenos aires
+Telefono : 0111521716858
+Email : lahercetina@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : es de mi agardo poder enviarles mi CV para las postulaciones de referencia 
+
+saludos cordiales 
+rueben fernandez
+Security_code : xk7mg
+Send : Enviar
+
+---------------
+
+Address : 181.31.206.202
+Nombre : Cyntia
+Apellido : Kubiszyn
+Cargo : Otros
+Direccion : Urquiza 321
+Ciudad : Campana
+Telefono : 03489-15633994
+Email : cynn.k@live.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados
+Adjunto mi curriculum para búsquedas laborales
+
+Muchas gracias
+Security_code : 7628k
+Send : Enviar
+
+---------------
+
+Address : 186.23.77.51
+Nombre : Diego Alejandro
+Apellido : Filippo
+Cargo : Jefe de Produccion
+Direccion : Veracruz 1319
+Ciudad : Lanus
+Telefono : 1564472885
+Email : diegoafilippo@outlook.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Sector/Cargo
+Produccion/Deposito/Expedicion
+
+Jefe/Supervisor
+Security_code : vcjvt
+Send : Enviar
+
+---------------
+
+Address : 190.55.246.7
+Nombre : Gabriel Antonio
+Apellido : Guarino
+Cargo : JEFE / GERENTE
+Direccion : Pirovano 684
+Ciudad : Ramos Mejia
+Telefono : 0111551131500
+Email : gguarino214@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Como Contador Público de gestión con perfil generalista y experiencia laboral en las distintas áreas administrativas, en gestión de los recursos humanos, en áreas productivas y comercial; y con profunda capacidad analítica, de resolución de conflictos, proactivo, autónomo y organizado; con capacidad de liderazgo, de trabajo en equipo y de excelentes relaciones interpersonales, como así también con capacidad de trabajar en ambientes dinámicos, bajo presión y multitasking, me pongo a vuestra disposición a los fines sea tenido en cuenta para la búsqueda laboral que están llevando a cabo. 
+Quedo a vuestra disposición para cualquier consulta, o bien para coordinar una entrevista personal.
+Atte.,
+
+Gabriel Guarino
+(011)15-5113-1500
+gguarino214@hotmail.com
+Security_code : vqzs
+Send : Enviar
+
+---------------
+
+Address : 190.172.72.8
+Nombre : Antonella
+Apellido : Fattori Mouzo
+Cargo : Organización de Eventos 
+Direccion : Acasusso 6144
+Ciudad : Buenos Aires
+Telefono : 46421120
+Email : antonellafattorim@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Mi nombre es Antonella Fattori Mouzo, mi objetivo es encontrar una organización que me permita aplicar los conocimientos adquiridos en los años de estudio y formar parte de un equipo de trabajo,consolidarme profesionalmente en una empresa donde los logros personales y el desempeño sean reconocidos. Me considero una persona con capacidad de trabajo en equipo y comprometida con el logro de objetivos.
+
+Security_code : 46545
+Send : Enviar
+
+---------------
+
+Address : 186.62.21.118
+Nombre : blas isaac sandoval
+Apellido : sandoval
+Cargo : Portero-Encargado de Vigilancia-Encargado de Edificio.
+Direccion : Lisandro de la Torre 5030- Berazategui( C.P 1885)
+Ciudad : bERAZATEGUI
+Telefono : 1564937606- 42152237
+Email : blas_sandoval@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenas tardes, he enviado mi C.V.para postularme a vacante de cubrir 2 cargos de portero para Institucion Educativa, cabe agregar que me he desempeñado en funciones similares, con suma experiencia adquirida.
+Security_code : h64mp
+Send : Enviar
+
+---------------
+
+Address : 181.88.245.141
+Nombre : Marcelo
+Apellido : Saluzzo
+Cargo : Técnico Superior en Higiene y Seguridad en el Trabajo
+Direccion : Calle El Hornero nº 593 barrio Los Perales
+Ciudad : San Salvador de Jujuy
+Telefono : (0388) 154105617
+Email : saluzzomarcelo@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Por cualquier tipo de trabajo referido al rubro,tenerme en cuenta, toda la disponibilidad de horario y muchas ganas de trabajar y adquirir experiencia para crecer en conjunto, desde ya muchísimas gracias, saludos.
+Security_code : 9msmh
+Send : Enviar
+
+---------------
+
+Address : 181.14.221.88
+Nombre : claudio gabriel 
+Apellido : tur
+Cargo : operario
+Direccion : garzon y biedma
+Ciudad : rosario
+Telefono : 3415152763
+Email : turclaudio2@outlook.es
+MAX_FILE_SIZE : 2097152
+Mensaje : estoy sin empleo.
+Security_code : tgrgg
+Send : Enviar
+
+---------------
+

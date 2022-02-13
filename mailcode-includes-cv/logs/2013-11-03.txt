@@ -1,0 +1,21 @@
+Address : 
+Nombre : Alan Jesús
+Apellido : Castro
+Cargo : Comercio Exterior
+Direccion : Moll 79
+Ciudad : Navarro, Prov de Bs As
+Telefono : 02227487840
+Email : alan.international.trade@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenos días: Le envío mi CV para su base de datos.
+Si llegara haber algún puesto de trabajo que se 
+adapte a mi CV me gustaría ser parte de ello.
+
+Muchas gracias por su atención.
+Saludos cordiales
+Alan Castro
+Security_code : hbgpq
+Send : Enviar
+
+---------------
+

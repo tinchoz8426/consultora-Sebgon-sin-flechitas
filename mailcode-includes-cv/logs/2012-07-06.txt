@@ -1,0 +1,30 @@
+Address : 190.188.61.252
+Nombre : Agostina
+Apellido : Zóccali
+Cargo : Secretaria
+Direccion : 20 de Septiembre 
+Ciudad : Lanús 
+Telefono : 4247 7295
+Email : ag.oss@live.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Busco empleo como secretaria administrativa. 
+Security_code : wtf3w
+Send : Enviar
+
+---------------
+
+Address : 186.129.215.231
+Nombre : jesus nicolas enrique
+Apellido : viale
+Cargo : operario
+Direccion : amambay 5832
+Ciudad : bs as
+Telefono : 1140924901
+Email : cinbelen@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Necesito con urgencia trabajar
+Security_code : xbffx
+Send : Enviar
+
+---------------
+

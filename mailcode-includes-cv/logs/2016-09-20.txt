@@ -1,0 +1,52 @@
+Address : 186.58.142.85<br>
+ <br>Nombre : Santiago David
+ <br>Apellido : Sosa
+ <br>Cargo : Empleado
+ <br>Direccion : Calle nº 356 altura nº 240
+ <br>Ciudad : Ranelagh
+ <br>Telefono : 1130489291
+ <br>Email : santiago.d.sosa@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola dejo adjuntado mi Cv por si se presenta alguna vacante en su empresa. Espero que me tengan en cuenta desde ya muchas gracias.
+Saludos Cordiales.
+Santiago Sosa.
+ <br>Security_code : PY62P
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 24.232.31.164<br>
+ <br>Nombre : Yazmin
+ <br>Apellido : DI DEO
+ <br>Cargo : auxiliar/junior
+ <br>Direccion : Carrasco 845
+ <br>Ciudad : Villa Luro
+ <br>Telefono : 1134510090
+ <br>Email : yazmindideo@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : 
+A quien corresponda:
+
+Buenos dias, me encuentro en busqueda de trabajo, no exclusivamete en el area gastronomica. Muchas gracias.
+
+Atte. Yazmin Di Deo
+ <br>Security_code : jpjk6
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.143.134.241<br>
+ <br>Nombre : Gisela 
+ <br>Apellido : Desimone 
+ <br>Cargo : eventual
+ <br>Direccion : la porteña 2710
+ <br>Ciudad : merlo bs as
+ <br>Telefono : 1532170251
+ <br>Email : gisedesimone@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Quisiera trabajar de manera eventual en salones u otros y trabajos de fin de semana 
+ <br>Security_code : 2bhh2
+ <br>Send : Enviar
+ <br>
+---------------
+

@@ -1,0 +1,72 @@
+Address : 200.55.11.204
+REF : JM
+Nombre : Dante
+Apellido : Saldivia
+Cargo : Jefe Mantenimiento
+Direccion : Coletta 876
+Ciudad : Campana
+Telefono : 0348915312834
+Email : tpdante@yahoo.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto mi CV para su analisis de acuerdo al puesto de referencia.
+Security_code : mdgvv
+Send : Enviar
+
+---------------
+
+Address : 181.21.149.161
+REF : GT PL
+Nombre : Eduardo Gabriel
+Apellido : Vargas
+Cargo : Gerente de Planta
+Direccion : Panamá 539
+Ciudad : Río Grande
+Telefono : 02964-15-576657
+Email : egvargasm@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados consultores,
+
+Mi nombre es Eduardo Vargas, 41 años, casado y papá de 2 hijos, vivo en Río Grande, Tierra del Fuego.
+
+En este momento estoy trabajando como gerente de planta en una empresa química, con 75 personas a cargo, con sede corporativa en Córdoba. Ya van 18 años de experiencia fabril, con 11 años como jefe de área, gerente de área y instructor de TPM y ahora gerente de planta.
+
+Soy bilingue en inglés, trabajo de manera excelente con personas de diferentes edades, backgrounds y personalidades, armando buenos equipos que se destacan por sus resultados. En este momento, con 11 meses de gestión, redujimos el ausentismo de planta de 20 % a 10 %, aumentamos la producción de 400 000 litros a 1000 000 litros (pto de equilibrio es 800 000), y aumentamos la eficiencia operativa de 40 lts/hora hombre a 90 lts/hora hombre. Al mismo tiempo mantengo una muy buena relación con el gremio y con la gente fuera de convenio, lo que nos ha permitido mantener la paz social pese a tener que dejar ir a algunos revoltosos.
+
+Espero que estos pequeños antecedentes te sirvan para la presentación de mi CV. Leí en Internet que están buscando entre otros un Gerente de Planta y me interesaba postularme para esa posición. Quisiera consultarles la ubicación de ese trabajo, ya que esto para mí y mi familia es muy importante. Estamos buscando volver a climas más benignos.
+
+Saludos
+Security_code : zt8m3
+Send : Enviar
+
+---------------
+
+Address : 200.43.26.242
+Nombre : Augusto
+Apellido : Detona
+Cargo : .
+Direccion : dr del cerro 1702
+Ciudad : Concordia
+Telefono : 345-4272973
+Email : augusto.detona3@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto cv para que se me tenga en cuenta para la seleccion de personal.
+Security_code : vn8br
+Send : Enviar
+
+---------------
+
+Address : 186.138.46.44
+Nombre : GASTON IVAN
+Apellido : TOLOZA
+Cargo : ATENCION AL CLIENTE
+Direccion : TOMAS TAYLOR 5588 
+Ciudad : CORDOBA, CAPITAL
+Telefono : 3517563966
+Email : gaaston.toloza@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : .
+Security_code : tvprs
+Send : Enviar
+
+---------------
+

@@ -1,0 +1,16 @@
+Address : 181.46.239.131<br>
+ <br>REF : JPER-1
+ <br>Nombre : Laura Liliana
+ <br>Apellido : Manzoratte
+ <br>Cargo : Jefe de Personal
+ <br>Direccion : Presidente Peron 2416
+ <br>Ciudad : Quilmes
+ <br>Telefono : 1137044324
+ <br>Email : lmanzoratte@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Envío mi CV donde podrán ver mi experiencia laboral como así también mis estudios alcanzados.
+ <br>Security_code : xq96x
+ <br>Send : Enviar
+ <br>
+---------------
+

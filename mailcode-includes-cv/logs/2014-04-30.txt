@@ -1,0 +1,382 @@
+Address : 186.13.4.252
+Nombre : javier eduardo
+Apellido : saint lary
+Cargo : operario
+Direccion : calle 532 numero 3222
+Ciudad : berazategui
+Telefono : 02229492634
+Email : javieresaintlary@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : necesito trabajar soy cumplidor y muy trabajador
+Security_code : 58szzz
+Send : Enviar
+
+---------------
+
+Address : 186.13.4.252
+Nombre : javier eduardo
+Apellido : saint lary
+Cargo : operario
+Direccion : calle 532 numero 3222
+Ciudad : berazategui
+Telefono : 02229492634
+Email : javieresaintlary@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : necesito trabajar soy cumplidor y muy trabajador
+Security_code : 58szz
+Send : Enviar
+
+---------------
+
+Address : 186.13.4.252
+Nombre : javier eduardo
+Apellido : saint lary
+Cargo : operario
+Direccion : calle 532 numero 3222
+Ciudad : berazategui
+Telefono : 02229492634
+Email : javieresaintlary@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : necesito trabajar soy cumplidor y muy trabajador
+Security_code : YJSVZ
+Send : Enviar
+
+---------------
+
+Address : 186.13.4.252
+Nombre : javier eduardo
+Apellido : saint lary
+Cargo : operario
+Direccion : calle 532 numero 3222
+Ciudad : berazategui
+Telefono : 02229492634
+Email : javieresaintlary@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : necesito trabajar soy cumplidor y muy trabajador
+Security_code : xybt9
+Send : Enviar
+
+---------------
+
+Address : 186.13.4.252
+Nombre : javier eduardo
+Apellido : saint lary
+Cargo : operario
+Direccion : calle 532 numero 3222
+Ciudad : berazategui
+Telefono : 02229492634
+Email : javieresaintlary@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : necesito trabajar soy cumplidor y muy trabajador
+Security_code : 7s4n8
+Send : Enviar
+
+---------------
+
+Address : 181.166.168.147
+Nombre : Romina
+Apellido : Veron
+Cargo : Indeferente
+Direccion : Sargento Cabral 1442
+Ciudad : buenos aires
+Telefono : 1534297625
+Email : ro_veron@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Busco atencion al publico, secretaria, recepcionista o ventas
+Security_code : fxkht
+Send : Enviar
+
+---------------
+
+Address : 181.166.168.147
+Nombre : Romina
+Apellido : Veron
+Cargo : Indeferente
+Direccion : Sargento Cabral 1442
+Ciudad : buenos aires
+Telefono : 1534297625
+Email : ro_veron@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Busco atencion al publico, secretaria, recepcionista o ventas
+Security_code : fxkht
+Send : Enviar
+
+---------------
+
+Address : 181.166.168.147
+Nombre : Romina
+Apellido : Veron
+Cargo : Indeferente
+Direccion : Sargento Cabral 1442
+Ciudad : buenos aires
+Telefono : 1534297625
+Email : ro_veron@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Busco atencion al publico, secretaria, recepcionista o ventas
+Security_code : fxkht
+Send : Enviar
+
+---------------
+
+Address : 181.166.168.147
+Nombre : Romina
+Apellido : Veron
+Cargo : Indeferente
+Direccion : Sargento Cabral 1442
+Ciudad : buenos aires
+Telefono : 1534297625
+Email : ro_veron@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Busco atencion al publico, secretaria, recepcionista o ventas
+Security_code : kdyvv
+Send : Enviar
+
+---------------
+
+Address : 181.166.168.147
+Nombre : Romina
+Apellido : Veron
+Cargo : Indeferente
+Direccion : Sargento Cabral 1442
+Ciudad : buenos aires
+Telefono : 1534297625
+Email : ro_veron@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Busco atencion al publico, secretaria, recepcionista o ventas
+Security_code : jbbc8
+Send : Enviar
+
+---------------
+
+Address : 201.254.98.14
+Nombre : Federico Hernan
+Apellido : Gomez
+Cargo : ADministrativo
+Direccion : Esmeralda 740 - San Nicolas
+Ciudad : CABA
+Telefono : 1550631144
+Email : fokke_2002@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : A quien corresponda: 
+                                    Me dirijo con el propósito de hacer llegar mi Curriculum Vitae, como primer contacto con la empresa, esperando una grata respuesta y desde ya muchas gracias por su atención. Saludos atentamente. 
+
+                                                          Federico H. Gómez
+Security_code : rdxp3
+Send : Enviar
+
+---------------
+
+Address : 190.225.219.195
+Nombre : luis
+Apellido : lang
+Cargo : varios
+Direccion : la rioja 6389
+Ciudad : santa fe
+Telefono : 0342155141740
+Email : luis.lang@live.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenos dias,
+Estaria buscando trabajo, con buenas referencias.
+Muchas gracias.
+Security_code : 3nk85
+Send : Enviar
+
+---------------
+
+Address : 186.18.33.3
+Nombre : Nicolas
+Apellido : Pagotto
+Cargo : Empleado administrativo / Cadete / Personal de limpieza
+Direccion : Triunvirato 1557
+Ciudad : Quilmes
+Telefono : 15-5024-6488
+Email : nicolas.pagotto@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Mi objetivo es ingresar al mercado laboral exitosamente, al tiempo que estaría en contacto con otras personas bajo el mismo ámbito. Ademas, mi deseo es ocupar parte del día haciendo algo productivo sintiéndome útil y, como satisfacción personal, disponer de mi propio dinero para mis gastos personales
+
+Security_code : qbt43
+Send : Enviar
+
+---------------
+
+Address : 186.18.199.106
+Nombre : sabrina gabriela alejandra
+Apellido : bonomi
+Cargo : administrativa, secretaria, recepcionista
+Direccion : zinny 1955
+Ciudad : capitla federal
+Telefono : 1556051468
+Email : bonomi_sabrina@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : a quien corresponda,necesito trabajar, muchas ganas de aprender y crecer
+Security_code : ym8jd
+Send : Enviar
+
+---------------
+
+Address : 186.125.185.11
+Nombre : Augusto Alfredo 
+Apellido : Cespedes
+Cargo : Técnico en Informática
+Direccion : Bº simon bolivar mz 46 casa 30
+Ciudad : Formosa
+Telefono : 543718617567
+Email : augustoacespedes@live.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estoy dispuesto a trabajar en el puesto que este disponible.
+Tengo muchas ganas de trabajar y dar todo lo mejor de mi.
+Security_code : mps72
+Send : Enviar
+
+---------------
+
+Address : 186.125.185.11
+Nombre : Augusto Alfredo 
+Apellido : Cespedes
+Cargo : Técnico en Informática
+Direccion : Bº simon bolivar mz 46 casa 30
+Ciudad : Formosa
+Telefono : 543718617567
+Email : augustoacespedes@live.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estoy dispuesto a trabajar en el puesto que este disponible.
+Tengo muchas ganas de trabajar y dar todo lo mejor de mi.
+Security_code : 8qvyv
+Send : Enviar
+
+---------------
+
+Address : 186.125.185.11
+Nombre : Augusto Alfredo 
+Apellido : Cespedes
+Cargo : Técnico en Informática
+Direccion : Bº simon bolivar mz 46 casa 30
+Ciudad : Formosa
+Telefono : 543718617567
+Email : augustoacespedes@live.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estoy dispuesto a trabajar en el puesto que este disponible.
+Tengo muchas ganas de trabajar y dar todo lo mejor de mi.
+Security_code : 8qvyv
+Send : Enviar
+
+---------------
+
+Address : 200.110.64.201
+Nombre : Arturo
+Apellido : Cantos
+Cargo : GERENTE DE RH
+Direccion : Urb. Cataluna mz. 20 v. 17
+Ciudad : Guayaquil.Ecuador
+Telefono : 593-987439365
+Email : arturo.cantos1@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : soy d Ecuador, me gustaria aplicar en otro pais para crecimiento profesional.
+Security_code : yvwzc
+Send : Enviar
+
+---------------
+
+Address : 186.125.185.11
+Nombre : Augusto Alfredo 
+Apellido : Cespedes
+Cargo : Técnico en Informática
+Direccion : Bº simon bolivar mz 46 casa 30
+Ciudad : Formosa
+Telefono : 543718617567
+Email : augustoacespedes@live.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estoy dispuesto a trabajar en el puesto que este disponible.
+Tengo muchas ganas de trabajar y dar todo lo mejor de mi.
+Security_code : 9nrx7
+Send : Enviar
+
+---------------
+
+Address : 181.166.134.2
+REF : GTE COM.EXT
+Nombre : Leonel Mariano
+Apellido : Privat
+Cargo : Gerente Comercio Exterior
+Direccion : Ameghino 3413
+Ciudad : Saenz Peña, Buenos Aires
+Telefono : 1535012200
+Email : leonelprivat@yahoo.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Ex-Alumno de la Escuela Superior de Comercio Carlos Pellegrini.
+Inglés Avanzado Oral y Escrito.
+Portugués Intermedio.
+Security_code : cq395
+Send : Enviar
+
+---------------
+
+Address : 190.193.76.86
+Nombre : Jorge Esteban
+Apellido : Esandi
+Cargo : encargado
+Direccion : Tristan narvaja 1965
+Ciudad : cordoba
+Telefono : 3515394789
+Email : jorgeesandi@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Muy amables de su parte por recibir mi CV. 
+Desearia que podamos contactarnos personalmente.
+Muchas Gracias!!
+
+Jorge Esandi
+Security_code : k5rd6
+Send : Enviar
+
+---------------
+
+Address : 190.247.155.6
+Nombre : Tomas
+Apellido : Luna
+Cargo : Operario
+Direccion : Sarmiento
+Ciudad : buenos aires
+Telefono : 47315295
+Email : tomi.luna@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto mi CV con el fin de  que sea tomado en cuenta para futuros empleos.
+
+Slds
+
+
+Tomas Luna
+Security_code : 8s79b
+Send : Enviar
+
+---------------
+
+Address : 181.26.182.38
+Nombre : natalia macarena
+Apellido : Garcia
+Cargo : recepcion
+Direccion : Rivadavia 2858
+Ciudad : AVELLANEDA
+Telefono : 1140437209
+Email : garcia_natalia@live.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Espero su llamado a la brevedad.
+Security_code : chwyn
+Send : Enviar
+
+---------------
+
+Address : 190.17.197.159
+Nombre : jorge alberto
+Apellido : uria
+Cargo : ayudante de pasteleria
+Direccion : hubac 5719
+Ciudad : cuidad autonoma de buenos aires
+Telefono : 1533574324
+Email : jorgealbertouria@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : hola les dejo mi hoja de vida gracias.
+Security_code : sdqfk
+Send : Enviar
+
+---------------
+

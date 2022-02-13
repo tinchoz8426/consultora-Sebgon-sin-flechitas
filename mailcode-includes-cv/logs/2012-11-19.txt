@@ -1,0 +1,31 @@
+Address : 190.176.52.94
+Nombre : Damian
+Apellido : Valdez
+Cargo : cajero, repositor, 
+Direccion : b Dolores Prats de Huisi m 47 c 26
+Ciudad : Mendoza
+Telefono : 4390729
+Email : damiansvaldez@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : espero que mi curriculum
+les resulte util 
+Security_code : gs88p
+Send : Enviar
+
+---------------
+
+Address : 190.225.26.81
+Nombre : Julio
+Apellido : Carrario
+Cargo : Disponible
+Direccion : Alem
+Ciudad : Bell Ville
+Telefono : 03537-15655242
+Email : juliocarrario@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje :   
+Security_code : 398kg
+Send : Enviar
+
+---------------
+

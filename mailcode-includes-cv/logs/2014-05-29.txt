@@ -1,0 +1,60 @@
+Address : 190.15.199.227
+Nombre : DANIEL MAURICIO
+Apellido : DEMONTE
+Cargo : ABOGADO Y/O PROCURADOR
+Direccion : Gutemberg 198, Piso 1, Dtpo 4
+Ciudad : MENDOZA
+Telefono : 02614372043 02616147894
+Email : mauriciodemonte@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : BUSCO TRABAJO COMO ABOGADO Y/O PROCURADOR EN LA PROVINCIA DE MENDOZA. 
+Security_code : n5fyq
+Send : Enviar
+
+---------------
+
+Address : 181.1.212.70
+Nombre : Ignacio
+Apellido : Gonzalez
+Cargo : arquitectura 
+Direccion : holmberg y av los incas
+Ciudad : Capital Federal
+Telefono : 011 15-62959746
+Email : ignaciogr_88@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Soy estudiante de arquitectura. EStoy buscando un ambiente laboral dinamico donde pueda aprender.
+Security_code : q8wcx
+Send : Enviar
+
+---------------
+
+Address : 190.16.36.227
+Nombre : Augusto
+Apellido : Gonzalo
+Cargo : Administrativo
+Direccion : Tucumán 3527 6C
+Ciudad : CABA
+Telefono : 1564202136
+Email : agon86@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Tengo deseos de trabajar y aprender. Garantizo responsabilidad y compromiso. Soy abogado matriculado pero busco empleo en cualquier área disponible, no necesariamente legales.
+Security_code : 6bgtb
+Send : Enviar
+
+---------------
+
+Address : 201.254.52.112
+Nombre : Jorgelina
+Apellido : Rebecco Castellini
+Cargo : Psicologa Social
+Direccion : Jenjibre 4339
+Ciudad : Ciudad evita
+Telefono : 1549860141
+Email : jyoryina@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Necesito trabajar. tengo muchas ganas. experiencia laboral de todo tipo. Psicologa social 
+Security_code : ty59k
+Send : Enviar
+
+---------------
+

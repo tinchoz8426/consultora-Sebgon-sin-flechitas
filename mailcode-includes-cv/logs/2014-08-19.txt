@@ -1,0 +1,257 @@
+Address : 181.16.87.35
+Nombre : Maria Laura
+Apellido : Carballo
+Cargo : secretaria-recepcion-u otro
+Direccion : 25 de mayo 1888
+Ciudad : los polvorines
+Telefono : 46632938
+Email : lauritapompa@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : bueno espero poder tener la oportunidad de ser llamada...y cumplir con las expectativas que la empresa requiere
+Security_code : m3wmc
+Send : Enviar
+
+---------------
+
+Address : 190.228.223.105
+Nombre : HERNAN
+Apellido : CABRERA
+Cargo : REPARTO,EMPAQUE,DEPOSITO
+Direccion : 54VIVI MZ 239 CASA Nº9 BARRIO: UNIVERSITARIO 
+Ciudad : CORRIENTES 
+Telefono : 3794665699
+Email : hernangabrielcabrera@outlook.es
+MAX_FILE_SIZE : 2097152
+Mensaje : esperando una respuesta favorable me despido de usted muchas gracias 
+Security_code : q6js3
+Send : Enviar
+
+---------------
+
+Address : 190.30.90.173
+Nombre : Noelia Rosana
+Apellido : Sandoval
+Cargo : Recepcionista
+Direccion : Lopez Mañan 360
+Ciudad : San Miguel de Tucuman
+Telefono : 3816294027
+Email : sandovalnoelia@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenos dias, me postulo para el puesto de Recepcionista, Secretaria o algún otro puesto en el cual necesiten personal
+Security_code : 6d9xw
+Send : Enviar
+
+---------------
+
+Address : 190.17.190.230
+Nombre : Federico Nicolas
+Apellido : Arguello Ferreira dos Santos
+Cargo : Administrativo, Cadete, Analista de creditos, operario
+Direccion : General Guido 2900
+Ciudad : san isidro
+Telefono : 1565467699
+Email : farguello01@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Mando copia de CV
+Security_code : 9nt99
+Send : Enviar
+
+---------------
+
+Address : 190.136.92.68
+Nombre : gerardo matias
+Apellido : gimenez
+Cargo : administrativo
+Direccion : av. undiano 824
+Ciudad : san salvador jujuy
+Telefono : 0388154040795
+Email : concordia_24pr@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : gracias por recibir mi c.v. saludos 
+Security_code : fk2j8
+Send : Enviar
+
+---------------
+
+Address : 181.31.252.80
+Nombre : Julian
+Apellido : Giovannini
+Cargo : Comercial, Marketing, Publicidad y Ventas
+Direccion : Camilo Golgi 6540
+Ciudad : Cordoba
+Telefono : 0351157682024
+Email : giovanninijulian87@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados,
+Adjunto mi CV para futuras ofertas laborales.
+
+A pesar de mi edad tengo una amplia experiencia profesional y laboral.
+
+Muchas gracias.
+Cordialmente.
+Security_code : 3k8g5
+Send : Enviar
+
+---------------
+
+Address : 181.31.252.80
+Nombre : Julian
+Apellido : Giovannini
+Cargo : Comercial, Marketing, Publicidad y Ventas
+Direccion : Camilo Golgi 6540
+Ciudad : Cordoba
+Telefono : 0351157682024
+Email : giovanninijulian87@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados,
+Adjunto mi CV para futuras ofertas laborales.
+
+A pesar de mi edad tengo una amplia experiencia profesional y laboral.
+
+Muchas gracias.
+Cordialmente.
+Security_code : 3k8g5
+Send : Enviar
+
+---------------
+
+Address : 181.31.252.80
+Nombre : Julian
+Apellido : Giovannini
+Cargo : Comercial, Marketing, Publicidad y Ventas
+Direccion : Camilo Golgi 6540
+Ciudad : Cordoba
+Telefono : 0351157682024
+Email : giovanninijulian87@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados,
+Adjunto mi CV para futuras ofertas laborales.
+
+A pesar de mi edad tengo una amplia experiencia profesional y laboral.
+
+Muchas gracias.
+Cordialmente.
+Security_code : 3k8g5
+Send : Enviar
+
+---------------
+
+Address : 181.31.252.80
+REF : GTE COM
+Nombre : Julian
+Apellido : Giovannini
+Cargo : Comercial, Marketing, Publicidad y Ventas
+Direccion : Camilo Golgi 6540
+Ciudad : Cordoba
+Telefono : 0351157682024
+Email : giovanninijulian87@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados,
+
+Adjunto mi CV para su analisis.
+
+Mas alla de mi edad, poseo una amplia experiencia laboral, y una alta capacidad para desarrollar nuevos negocios.
+
+Muchas gracias.
+
+Cordialmente.
+Security_code : vsbpr
+Send : Enviar
+
+---------------
+
+Address : 181.31.252.80
+Nombre : Julian
+Apellido : Giovannini
+Cargo : Comercial, Marketing, Publicidad y Ventas
+Direccion : Camilo Golgi 6540
+Ciudad : Cordoba
+Telefono : 0351157682024
+Email : giovanninijulian87@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados,
+
+Adjunto mi CV para futuras ofertas laborales.
+
+Cordialmente.
+Security_code : h2x9y
+Send : Enviar
+
+---------------
+
+Address : 190.225.100.208
+Nombre : nahuel david
+Apellido : Reineck
+Cargo : operario limpieza
+Direccion : lusio mansilla 2134
+Ciudad : buenos  aires
+Telefono : 1556352074
+Email : reinecknahuel@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : remuneracion pretendida $10000 pesos  mensuales
+Security_code : pf9xj
+Send : Enviar
+
+---------------
+
+Address : 190.49.190.159
+Nombre : Hernan andres 
+Apellido : Acevedo
+Cargo : Atencion al cliente- ventas
+Direccion : manuel estevez 1000 
+Ciudad : Avellaneda
+Telefono : 1157306759
+Email : hernanabd@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenas tardes, les envio mi CV con el fin de poder obtener empleo.
+Desde ya muchas gracias, lo saluda Hernan Andres Acevedo
+Security_code : 95sb5
+Send : Enviar
+
+---------------
+
+Address : 190.221.233.149
+Nombre : Ariel Gonzalo
+Apellido : Rueda 
+Cargo : Auxiliar de Mantenimiento
+Direccion : Virgilio 1742
+Ciudad : Buenos Aires
+Telefono : 1522480178
+Email : arielrueda12@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : .
+Security_code : v2byx
+Send : Enviar
+
+---------------
+
+Address : 190.221.233.149
+Nombre : Ariel Gonzalo
+Apellido : Rueda 
+Cargo : Auxiliar de Mantenimiento
+Direccion : Virgilio 1742
+Ciudad : Buenos Aires
+Telefono : 1522480178
+Email : arielrueda12@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : .
+Security_code : v2byx
+Send : Enviar
+
+---------------
+
+Address : 190.229.16.123
+Nombre : Pamela
+Apellido : Roldan
+Cargo : secretaria
+Direccion : Oca Balda 1030
+Ciudad : Córdoba
+Telefono : 3514782782
+Email : pame_lalokiz92@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : A quien corresponda envío mi curriculum vitae
+Security_code : 6kvg3
+Send : Enviar
+
+---------------
+

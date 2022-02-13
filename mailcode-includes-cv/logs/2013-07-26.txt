@@ -1,0 +1,49 @@
+Address : 190.192.182.106
+Nombre : cecilia
+Apellido : barr
+Cargo : asistente en rrhh
+Direccion : jose cubas 3340
+Ciudad : capital federal
+Telefono : 45722015
+Email : ceciliabarrio87@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Soy Licenciada en Psicología. Me gustaría formar parte de su staff profesional. 
+Security_code : bd58m
+Send : Enviar
+
+---------------
+
+Address : 190.48.114.137
+REF : jefe-de-operaciones
+Nombre : GERMAN PABLO
+Apellido : LEIVA
+Cargo : JEFE DE OPERACIONES/SUPERVISOR
+Direccion : AV. JUAN. B. JUSTO 8109
+Ciudad : CAPITAL FEDERAL
+Telefono : 46323259
+Email : HUMMERARGENTINO@MSN.COM
+MAX_FILE_SIZE : 2097152
+Mensaje : ES DE MI AGRADO PONERME EN CONTACTO CON USTED HAGO LLEGAR MI PERFIL PERSONAL Y PROFESIONAL, POR ESTE MEDIO Y TAMBIEN POR MEDIO DEL SIGUIENTE CORREO consultora@consultorasebgon.com
+AGRADECIDO POR SU ATENCION.
+Security_code : mjv74
+Send : Enviar
+
+---------------
+
+Address : 190.48.114.137
+REF : jefe-de-operaciones
+Nombre : GERMAN PABLO
+Apellido : LEIVA
+Cargo : JEFE DE OPERACIONES/SUPERVISOR
+Direccion : AV. JUAN. B. JUSTO 8109
+Ciudad : CAPITAL FEDERAL
+Telefono : 46323259
+Email : hummerargentino@msn.com
+MAX_FILE_SIZE : 2097152
+Mensaje : ES DE MI AGRADO PONERME EN CONTACTO CON USTED HAGO LLEGAR MI PERFIL PERSONAL Y PROFESIONAL, POR ESTE MEDIO Y TAMBIEN POR MEDIO DEL SIGUIENTE CORREO consultora@consultorasebgon.com
+AGRADECIDO POR SU ATENCION.
+Security_code : mjv74
+Send : Enviar
+
+---------------
+

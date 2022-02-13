@@ -1,0 +1,42 @@
+Address : 179.41.228.22
+Nombre : Claudio
+Apellido : Sanchez
+Cargo : empleado
+Direccion : Pedro Arginas 2295
+Ciudad : Ituzaingo
+Telefono : 4458-1649
+Email : claudioccprv@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Sr. director/a:
+
+ 
+ 
+De mi mayor consideración: me dirijo a usted a fin de solicitar tenga a bien considerarme para el cargo de empleado  que fuera ofrecido en el diario.
+ 
+A tal efecto adjunto mi CV.
+ 
+Esperando una respuesta y quedando a su entera disposición para cualquier requisitoria
+-saludo a usted atentamente.
+                                   
+           
+                                                                            ClaudioAlbertoSanchez 
+Security_code : 9msnc
+Send : Enviar
+
+---------------
+
+Address : 190.245.226.233
+Nombre : Victor 
+Apellido : Velez Santisteban
+Cargo : Administrativo, Atencion al cliente, Customer
+Direccion : Olleros
+Ciudad : Caba
+Telefono : 1536720108
+Email : victorvelezsan@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Por favor agradeceré considerarme para el puesto de Administrativo, atención al cliente o Customer Service
+Security_code : gdkwb
+Send : Enviar
+
+---------------
+

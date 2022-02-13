@@ -1,0 +1,55 @@
+Address : 201.212.133.97
+Nombre : Jimena 
+Apellido : Atala
+Cargo : Selección de personal
+Direccion : Callao 1280 Piso 3º  Dpto 2
+Ciudad : Rosario
+Telefono : (0341)156-298374
+Email : jimena.atala@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Soy Psicóloga egresada en la Universidad Nacional de Rosario, me especializo en selección de personal completa. Elaboración de avisos, preselección de cvs,
+entrevistas, administración de test proyectivos gráficos y psicométricos,y redacción de
+informes.
+Security_code : 7q3dh
+Send : Enviar
+
+---------------
+
+Address : 181.164.230.97
+Nombre : Antonela Magali
+Apellido : Fernández
+Cargo : Selección de Personal
+Direccion : Almirante Brown 465
+Ciudad : Quilmes
+Telefono : 1540931506
+Email : lic.amf@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados, 
+
+Soy Licenciada en Psicología. Adjunto mi Curriculum Vitae, a los fines de que puedan tenerlo en consideración para actuales o futuras búsquedas dentro del área de RRHH.
+
+Desde ya, muchas gracias. 
+
+Saluda Atte.
+
+Lic. Fernández Antonela Magali
+Security_code : d9bn2
+Send : Enviar
+
+---------------
+
+Address : 186.13.1.113
+Nombre : rocio
+Apellido : ramirez
+Cargo : secretaria
+Direccion : pasionaria pasje los abuelos s/n
+Ciudad : corrientes
+Telefono : corrientes
+Email : rosee_93@hotmail.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : hola me encuentro cursando el 4to año del profesorado en artes visuales y busco alguna oferta laboral donde pueda desempeñarme.estudio el profesorado de artes visuales cuya exigencia es la de creatividad.gracias 
+Security_code : 6n8w9
+Send : Enviar
+
+---------------
+

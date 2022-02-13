@@ -1,0 +1,423 @@
+Address : 181.25.230.86<br>
+ <br>REF : JPL
+ <br>Nombre : Gustavo
+ <br>Apellido : Curras
+ <br>Cargo : Jefe de Planta
+ <br>Direccion : Neuquen 75
+ <br>Ciudad : Lomas de Zamora
+ <br>Telefono : 1524255465
+ <br>Email : currasgustavo@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me postulo para Jefe de Planta
+ <br>Security_code : v257z
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.108.110.209<br>
+ <br>REF : GTEP
+ <br>Nombre : Osvaldo
+ <br>Apellido : Rebossio
+ <br>Cargo : Gerente de planta
+ <br>Direccion : Belgrano 1751
+ <br>Ciudad : Zarate
+ <br>Telefono : 03487 15699723
+ <br>Email : odrebossio@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Postulacion
+ <br>Security_code : 7d63x
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.10.74.85<br>
+ <br>REF : JPL
+ <br>Nombre : gaston rodrigo
+ <br>Apellido : spennato
+ <br>Cargo : jefe de planta
+ <br>Direccion : paris 1834
+ <br>Ciudad : prov bs as
+ <br>Telefono : 1123607822
+ <br>Email : spennato_gaston@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : señores
+les djunto mi cv espero este acorde a su necesidas
+desde ya muchas gracias
+atte
+spennato gaston
+ <br>Security_code : hwkyt
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.231.74.126<br>
+ <br>REF : SE.BIL
+ <br>Nombre : Francis Paul
+ <br>Apellido : Nottidge
+ <br>Cargo : traductor bilingue, secretario
+ <br>Direccion : calle bs.as. 668
+ <br>Ciudad : ELDORADO
+ <br>Telefono : 03751 15402377
+ <br>Email : fnottidge@yahoo.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : ciudadano britanico, muy buen manejo del ingles.
+ <br>Security_code : dvybc
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 200.81.156.107<br>
+ <br>REF : GTEP
+ <br>Nombre : Carlos Raul
+ <br>Apellido : Quintanilla
+ <br>Cargo : GERENTE DE PLANTA
+ <br>Direccion : A. STORNI N°3360 LUJAN, BS AS
+ <br>Ciudad : lujan
+ <br>Telefono : 011 (15) 44084945
+ <br>Email : quintaca@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Adjunto mi CV y agradeceré sea considerado mi perfil de carrera profesional para la posición de gerente de planta industria alimenticia. Cuento con importante experiencia en conducción de equipos de trabajos y proactividad para el aprendizaje.
+ <br>Security_code : 2wnd2
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.44.167.240<br>
+ <br>REF : ENPRO
+ <br>Nombre : Mauro
+ <br>Apellido : Barroso
+ <br>Cargo : Encargado
+ <br>Direccion : Islas Orcadas del Sur 1921
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 0297 4189680
+ <br>Email : maurohec@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimado/a.Le adjunto mi presentación curricular para ser evaluada según su propuesta laboral. Saludos Atte. Mauro Barroso
+ <br>Security_code : v6dpz
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.55.170.172<br>
+ <br>REF : SE.BIL
+ <br>Nombre : beatriz
+ <br>Apellido : coldeira
+ <br>Cargo : secretaria bilingue
+ <br>Direccion : jose leon cabezon 3389
+ <br>Ciudad : capital federal
+ <br>Telefono : 11471754565
+ <br>Email : berflax@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Agradecería la posibilidad de una entrevista dado que me considero apropiada para el cargo solicitado. Atte
+ <br>Security_code : cjrxx
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.16.67.65<br>
+ <br>REF : SE.BIL
+ <br>Nombre : Dolores
+ <br>Apellido : Mariezcurrena
+ <br>Cargo : Secretaria Bilingue
+ <br>Direccion : Guayaquil 2075
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 1521927497
+ <br>Email : dmariezcurrena@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Adjunto mi CV para que lo tengan en cuenta en dicha búsqueda. Muchas gracias
+ <br>Security_code : bgktf
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.52.83.226<br>
+ <br>Nombre : nadia
+ <br>Apellido : Oldani.
+ <br>Cargo : administrativa
+ <br>Direccion : Libertad 120
+ <br>Ciudad : 9 de Julio.
+ <br>Telefono : 2317407853
+ <br>Email : nadiaoldani5@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : en busca de un empleo administrativo en mi ciudad
+ <br>Security_code : pk8p9
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.52.83.226<br>
+ <br>Nombre : nadia
+ <br>Apellido : Oldani.
+ <br>Cargo : administrativa
+ <br>Direccion : Libertad 120
+ <br>Ciudad : 9 de Julio.
+ <br>Telefono : 2317407853
+ <br>Email : nadiaoldani5@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : en busca de un empleo administrativo en mi ciudad
+ <br>Security_code : pk8p9
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.139.110.10<br>
+ <br>REF : GTEP
+ <br>Nombre : Jorge
+ <br>Apellido : Comesaña
+ <br>Cargo : Gerente De Planta En Buenos Aires-GBA
+ <br>Direccion : El Ñandú 3173
+ <br>Ciudad : CABA
+ <br>Telefono : 011-61846263
+ <br>Email : comesanj@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados,
+es adjunto mi CV en la seguridad de reunir las condiciones requeridas.
+Quedo a su disposición para conocernos personalmente y ampliar detalles de mi experiencia
+ <br>Security_code : hm2yt
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.25.204.199<br>
+ <br>REF : JPL
+ <br>Nombre : carlos alberto
+ <br>Apellido : olmedo
+ <br>Cargo : Jefe de planta 
+ <br>Direccion : Santa ana n° 3572
+ <br>Ciudad : claypole
+ <br>Telefono : 42771263
+ <br>Email : carlos_olmedo1972@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Vista la Oferta Laboral les hago llegar mis datos personales y profesionales en Currículum Vitae a fin de ser tenido en cuenta como candidato.
+
+Con la convicción de poseer el perfil requerido para un muy buen desempeño en el cargo a cubrir, quedo a entera disposición para hacerle llegar, sea en una entrevista personal o por el medio que se me indique, las ampliaciones y/o la documentación probatoria correspondiente.
+
+Esperando una respuesta positiva lo saluda atentamente.
+OLMEDO CARLOS ALBERTO.
+
+ <br>Security_code : ksfzw
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.25.204.199<br>
+ <br>Nombre : carlos alberto
+ <br>Apellido : olmedo
+ <br>Cargo : Seguridad e higiene
+ <br>Direccion : Santa ana n° 3572
+ <br>Ciudad : claypole
+ <br>Telefono : 42771263
+ <br>Email : carlos_olmedo1972@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Vista la Oferta Laboral en Seguridad E Higiene les hago llegar mis datos personales y profesionales en Currículum Vitae a fin de ser tenido en cuenta como candidato.
+
+Con la convicción de poseer el perfil requerido para un muy buen desempeño en el cargo a cubrir, quedo a entera disposición para hacerle llegar, sea en una entrevista personal o por el medio que se me indique, las ampliaciones y/o la documentación probatoria correspondiente.
+
+Esperando una respuesta positiva lo saluda atentamente.
+OLMEDO CARLOS ALBERTO.
+
+ <br>Security_code : 8wksk
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.125.31.71<br>
+ <br>Nombre : Maria Antonella
+ <br>Apellido : Sarzano
+ <br>Cargo : Diseño Industrial
+ <br>Direccion : Arevalo 1736 
+ <br>Ciudad : Capital Federal 
+ <br>Telefono : (0381) 153525673
+ <br>Email : maantosarzano@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Mi objetivo es poder crecer profesionalmente y dejar todo en el trabajo donde me encuentre.
+
+
+ <br>Security_code : n4rd5
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.31.145.121<br>
+ <br>Nombre : Matias
+ <br>Apellido : Castellano
+ <br>Cargo : pasante de abogado
+ <br>Direccion : Rio de la plata 688, Barrio Altamira
+ <br>Ciudad : Córdoba
+ <br>Telefono : 03512351636
+ <br>Email : caste.mati@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : joven de 25 años, estudiante de derecho en mi ultimo año de carrera y con experiencia en procuracion. 
+ <br>Security_code : 8dkqd
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.31.145.121<br>
+ <br>Nombre : Matias
+ <br>Apellido : Castellano
+ <br>Cargo : pasante de abogado
+ <br>Direccion : Rio de la plata 688, Barrio Altamira
+ <br>Ciudad : Córdoba
+ <br>Telefono : 03512351636
+ <br>Email : caste.mati@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : joven de 25 años, estudiante de derecho en mi ultimo año de carrera y con experiencia en procuracion. 
+ <br>Security_code : 8dkqd
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.31.145.121<br>
+ <br>Nombre : Matias
+ <br>Apellido : Castellano
+ <br>Cargo : pasante de abogado
+ <br>Direccion : Rio de la plata 688, Barrio Altamira
+ <br>Ciudad : Córdoba
+ <br>Telefono : 03512351636
+ <br>Email : caste.mati@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : joven de 25 años, estudiante de derecho en mi ultimo año de carrera y con experiencia en procuracion. 
+ <br>Security_code : 8dkqd
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.190.229.26<br>
+ <br>REF : GTEP
+ <br>Nombre : Luis María
+ <br>Apellido : Monet
+ <br>Cargo : Gerente
+ <br>Direccion : Luis María Drago 1223
+ <br>Ciudad : Villa Adelina-San Isidro
+ <br>Telefono : 1554686330
+ <br>Email : luismonett@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenos Aires , Martes 3 de Mayo de 2016
+
+
+
+
+
+Señor
+Gerente
+Presente
+
+De mi mayor consideración
+                                            Por medio de la presente coloco a su disposición mi CV para ser tenido en cuenta en la selección de personal que se encuentra realizando .
+                                            Considero que tengo la experiencia por ustedes requerida y creo tener las condiciones como para el puesto .
+                                            Con respecto a la remuneración pretendida considero que es un tema para ser tratado personalmente sobre bases más concretas ( posibilidades de Progreso , Desarrollo , Horarios, etc .)
+                                            Sin más y a la espera de una respuesta favorable me despido de usted muy atentamente
+
+
+                                                                                           Ing.Luis María Monet
+                                                                                          Luis María Drago 1223
+                                                                                                  1554686330 
+                                                                                                    4765-3640 
+
+ <br>Security_code : g72d8
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.190.229.26<br>
+ <br>Nombre : Luis María
+ <br>Apellido : Monet
+ <br>Cargo : Gerente
+ <br>Direccion : Luis María Drago 1223
+ <br>Ciudad : Villa Adelina-San Isidro
+ <br>Telefono : 1554686330
+ <br>Email : luismonett@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenos Aires , Martes 3 de Mayo de 2016
+
+
+
+
+
+Señor
+Gerente
+Presente
+
+De mi mayor consideración
+                                            Por medio de la presente coloco a su disposición mi CV para ser tenido en cuenta en la selección de personal que se encuentra realizando .
+                                            Considero que tengo la experiencia por ustedes requerida y creo tener las condiciones como para el puesto .
+                                            Con respecto a la remuneración pretendida considero que es un tema para ser tratado personalmente sobre bases más concretas ( posibilidades de Progreso , Desarrollo , Horarios, etc .)
+                                            Sin más y a la espera de una respuesta favorable me despido de usted muy atentamente
+
+
+                                                                                           Ing.Luis María Monet
+                                                                                          Luis María Drago 1223
+                                                                                                  1554686330 
+                                                                                                    4765-3640 
+
+ <br>Security_code : 35dyp
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.199.165.63<br>
+ <br>REF : GTEP
+ <br>Nombre : RIcardo Guillermo
+ <br>Apellido : Ferreyra
+ <br>Cargo : Gerente de Planta
+ <br>Direccion : Echeverria 164
+ <br>Ciudad : Pergamino
+ <br>Telefono : 02477 414058 / 15 512293
+ <br>Email : rferreyra164@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Envio CV a fin de postular al puesto de Gerente de Planta
+ <br>Security_code : ggvsf
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.90.159.118<br>
+ <br>REF : GTEP
+ <br>Nombre : CARLOS
+ <br>Apellido : GARCIA DOMINGUEZ
+ <br>Cargo : Gerente de Producción
+ <br>Direccion : Estrada 2338
+ <br>Ciudad : Martínez
+ <br>Telefono : 1147939583
+ <br>Email : carlos.gd90@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados,
+Pongo a su disposición mi CV para su evaluación. En espera de tener la oportunidad de una entrevista para ampliar aspectos de mi CV y del puesto ofrecido.
+Gracias
+Carlos H. García
+ <br>Security_code : fsyvv
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.125.138.237<br>
+ <br>Nombre : Carlos
+ <br>Apellido : Medina 
+ <br>Cargo : Gastronomia / turismo
+ <br>Direccion : Uriarte  1864
+ <br>Ciudad : Capital Federal
+ <br>Telefono : 1132778720
+ <br>Email : kronoxx13@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Saludos, 
+
+       Mi experiencia se centra en la parte de alimentos y bebidas para hoteles y restaurantes, cuento con mas de 10 años en este sector. Cuento con amplia experiencia gestionando múltiples unidades de negocios.
+
+Les he copiado my curriculum para que puedan tener un mejor entendimiento de los logros en mi carrera.
+
+Mucho apreciaria la oportunidad de discutir mis calificaciones en mas detalle. Por favor no duden en contactarme.
+
+La remuneración es negociable.
+
+
+Quedo de usted,  
+
+Atentamente
+
+Carlos Medina
+ <br>Security_code : 2vzdw
+ <br>Send : Enviar
+ <br>
+---------------
+

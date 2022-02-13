@@ -1,0 +1,31 @@
+Address : 186.59.102.96
+Nombre : Agustin
+Apellido : Mujica Rodriguez
+Cargo : Repositor - Cajero
+Direccion : San Martin Sur 859
+Ciudad : Mendoza
+Telefono : 02616401425
+Email : thebest03_ricotero@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Busco posibilidad laboral..
+Security_code : ft56n
+Send : Enviar
+
+---------------
+
+Address : 190.31.111.46
+Nombre : franco
+Apellido : ruiz
+Cargo : operari industrial basico
+Direccion : del pericom sin n°
+Ciudad : córdoba
+Telefono : 3512593497
+Email : FrancoEmanuelRuiz@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : hola soy franco ruiz  espero que le guste este curriculum.gracias por su tiempo
+
+Security_code : tj5x4
+Send : Enviar
+
+---------------
+

@@ -1,0 +1,75 @@
+Address : 190.48.203.223
+Nombre : facundo joaquin
+Apellido : Argüello
+Cargo : técnico, empleado, operario.
+Direccion : mayor arenas 1435
+Ciudad : ituzaingo
+Telefono : 44583861
+Email : facu_27_carp@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : gracias por la oportunidad de dejar mi cv, ante cualquier propuesta estoy a disposición. me necesito trabajar. gracias
+Security_code : bgpyy
+Send : Enviar
+
+---------------
+
+Address : 200.114.135.19
+Nombre : Gonzalo
+Apellido : Hasda
+Cargo : Gerente Control de Gestión
+Direccion : Helguera 4130
+Ciudad : Buenos Aires
+Telefono : 45715797
+Email : ghasda@yahoo.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Les adjunto mi CV para ser incorporado en vuestra base de datos y considerado en las búsquedas que consideren pertinentes.
+ 
+Quedo a disposición por cualquier alcaración
+ 
+Muchas Gracias
+ 
+Atte
+ 
+Gonzalo Hasda
+
+
+
+
+
+
+
+
+
+
+
+
+
+Security_code : vjenj
+Send : Enviar
+
+---------------
+
+Address : 200.114.135.19
+Nombre : Gonzalo
+Apellido : Hadsa
+Cargo : Gerente de Control de Gestión
+Direccion : helguera 4130
+Ciudad : Bs As
+Telefono : 45715797
+Email : ghasda@yahoo.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Les adjunto mi CV para ser incorporado en vuestra base de datos y considerado en las búsquedas que consideren pertinentes.
+ 
+Quedo a disposición por cualquier alcaración
+ 
+Muchas Gracias
+ 
+Atte
+ 
+Gonzalo Hasda
+
+Security_code : 52cmq
+Send : Enviar
+
+---------------
+

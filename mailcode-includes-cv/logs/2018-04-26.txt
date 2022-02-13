@@ -1,0 +1,81 @@
+Address : 152.170.137.237<br>
+ <br>Nombre : walter anibal
+ <br>Apellido : viñaveya
+ <br>Cargo : chofer
+ <br>Direccion : candido pujato 2423
+ <br>Ciudad : santa fe
+ <br>Telefono : 3425456859
+ <br>Email : alcarajo2802@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : busco una oportubidad de trabajo estable
+ <br>Security_code : c34cs
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.179.175.9<br>
+ <br>REF : TE-1
+ <br>Nombre : Gustavo
+ <br>Apellido : Astengo
+ <br>Cargo : TE-1 Tecnico
+ <br>Direccion : Pavon 3269
+ <br>Ciudad : Caba
+ <br>Telefono : 15 6509 3431
+ <br>Email : gustavoastengo@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Sres SEBGON, desearía ser incluido en el proceso de busqueda para el proseso de seleccion de personal del puesto mencionado.
+ <br>Security_code : gm5s3
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.47.137.193<br>
+ <br>REF : JPER-1
+ <br>Nombre : Roberto
+ <br>Apellido : Quirico
+ <br>Cargo : Jefe de personal
+ <br>Direccion : Guardia Nacional 225
+ <br>Ciudad : Caba
+ <br>Telefono : 1133774874
+ <br>Email : rbertoquirico.rq@gmail.com 
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me imteresa
+ <br>Security_code : 56gsy
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.165.89.154<br>
+ <br>REF : EP-1
+ <br>Nombre : Alejandro Octavio
+ <br>Apellido : Marquez Landini 
+ <br>Cargo : Encargado de Produccion
+ <br>Direccion : Araoz 1418
+ <br>Ciudad : CABA
+ <br>Telefono : 15 70330025
+ <br>Email : alejoml68@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Soy Ing. Agrónomo, con maestría en Gerencia de Agrosistemas y experiencia agroindustrial en integraciones avícolas, en planta de faena y desposte de aves, también en almacenamiento de materias primas y fabricación de alimentos concentrados para animales. Gracias
+
+ <br>Security_code : 3wnzn
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.165.89.154<br>
+ <br>REF : EP-1
+ <br>Nombre : Alejandro Octavio
+ <br>Apellido : Marquez Landini 
+ <br>Cargo : Encargado de Produccion
+ <br>Direccion : Araoz 1418
+ <br>Ciudad : CABA
+ <br>Telefono : 15 70330025
+ <br>Email : alejoml68@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Soy Ing. Agrónomo, con maestría en Gerencia de Agrosistemas y experiencia agroindustrial en integraciones avícolas, en planta de faena y desposte de aves, también en almacenamiento de materias primas y fabricación de alimentos concentrados para animales. Gracias
+
+ <br>Security_code : 3wnzn
+ <br>Send : Enviar
+ <br>
+---------------
+

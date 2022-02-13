@@ -1,0 +1,137 @@
+Address : 201.254.115.213<br>
+ <br>Nombre : Arelys
+ <br>Apellido : Mijares
+ <br>Cargo : Supervisor Atención al Cliente
+ <br>Direccion : Av. Corrientes 745, CABA
+ <br>Ciudad : Capital Federal
+ <br>Telefono : 1136594669
+ <br>Email : arelysmijares@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Saludos,
+
+Remuneración pretendida: 23.000,00 Neto
+
+Gracias de antemano!
+ <br>Security_code : pmx2z
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.22.111.233<br>
+ <br>REF : SEP
+ <br>Nombre : luis
+ <br>Apellido : julca
+ <br>Cargo : pintura en polvo
+ <br>Direccion : batlle planas 978
+ <br>Ciudad : buenos aires
+ <br>Telefono : 1561078964
+ <br>Email : thiabi_0429@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : espero contar con su busquedad
+ <br>Security_code : 2mtx5
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.177.201.42<br>
+ <br>Nombre : Samira 
+ <br>Apellido : Hasan
+ <br>Cargo : Jefe de planta
+ <br>Direccion : Diaz Velez 4421 1ºC
+ <br>Ciudad : CABA
+ <br>Telefono : 1141618480
+ <br>Email : samiraescorpio@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Envío mi CV para que me tengan en cuenta en alguna búsqueda afin a mi perfil. Atte.
+Farm. Samira Hasan
+ <br>Security_code : 5fmv8
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 179.38.212.131<br>
+ <br>REF : ENPRO
+ <br>Nombre : Ariel 
+ <br>Apellido : Rodriguez
+ <br>Cargo : Encargado de Producción
+ <br>Direccion : Calle 307
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 1122465090
+ <br>Email : ariel.rodriguez.27@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Dispuesto a nuevos desafíos.
+ <br>Security_code : 6x3n4
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 179.38.212.131<br>
+ <br>Nombre : Ariel 
+ <br>Apellido : Rodriguez
+ <br>Cargo : Jefe 
+ <br>Direccion : Calle 307
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 1122465090
+ <br>Email : ariel.rodriguez.27@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Dispuesto a nuevos desafíos.
+ <br>Security_code : t3nxn
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.136.188.197<br>
+ <br>REF : GTEP
+ <br>Nombre : Marcelo
+ <br>Apellido : Begueri Buquet
+ <br>Cargo : Gerente de Planta
+ <br>Direccion : Damaso Valdez 25
+ <br>Ciudad : San Nicolas de los Arroyos
+ <br>Telefono : +5411 5454 4485
+ <br>Email : mbegueri@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenos días
+Mi nombre es Marcelo Begueri Buquet. Tengo 38 años y soy Ingeniero Mecánico de la UBA. Realicé postgrado en Siderurgia.
+Hace 13 años que trabajo en la Organización Techint en Ternium Siderar. Actualmente me desempeño como Gerente de Aseguramiento de Calidad de la Empresa (de sus 8 plantas)
+Anteriormente me desempeñé como Jefe de Planta Serviacero III (centro de servicios) y líneas de Terminación de Laminación en caliente y Logística de Playa de Bobinas.
+Soy auditor de Sistemas Integrados de Gestión, auditor Líder de ISO 9001, TS 16949 y Examinador del Premio Nacional a la Calidad
+Adjunto mi cv con más información.
+Muchas gracias
+Cordiales saludos,
+ <br>Security_code : b57sf
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.143.197.168<br>
+ <br>REF : OEL
+ <br>Nombre : francisco
+ <br>Apellido : Aca Escobar
+ <br>Cargo : electricista
+ <br>Direccion : 151 38y 39
+ <br>Ciudad : la plata san carlos
+ <br>Telefono : 2216770718
+ <br>Email : franciaca70@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Soy electricista y buen responsables
+ <br>Security_code : sebgon consultora en recursos humanos y seguridad corporativa.
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.143.197.168<br>
+ <br>REF : OEL
+ <br>Nombre : francisco
+ <br>Apellido : Aca Escobar
+ <br>Cargo : electricista
+ <br>Direccion : 151 38y 39
+ <br>Ciudad : la plata san carlos
+ <br>Telefono : 2216770718
+ <br>Email : franciaca70@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Soy electricista y buen responsables
+ <br>Security_code : sosmiunicoamor
+ <br>Send : Enviar
+ <br>
+---------------
+

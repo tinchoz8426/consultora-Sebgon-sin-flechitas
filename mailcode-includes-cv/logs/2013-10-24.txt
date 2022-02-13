@@ -1,0 +1,32 @@
+Address : 186.157.220.150
+Nombre : Emanuel
+Apellido : Canavides
+Cargo : Empleado
+Direccion : Mario Bravo 515
+Ciudad : Hurlingham
+Telefono : 1562654684
+Email : emanuel.1191@hotmail.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola buenas dias, me presento, soy Emanuel y me dirijo a usted con el fin de adjuntarle mi CV. Desde ya muchas gracias y saludos cordiales.
+                                                                      atte:                   EMANUEL CANAVIDES. 
+Security_code : mnhjy
+Send : Enviar
+
+---------------
+
+Address : 186.129.205.173
+REF : tecnico-electornico
+Nombre : Pablo
+Apellido : Rodriguez
+Cargo : Tecnico Electrónico
+Direccion : Voissin 3061
+Ciudad : Gregorio de Laferrere
+Telefono : 1168851998
+Email : pablo_rodri@live.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Dejo adjunto mi CV, y solicito en caso de ajustarse mi perfil a sus necesidades una entrevista personal. Muchas Gracias.
+Security_code : py2w3
+Send : Enviar
+
+---------------
+

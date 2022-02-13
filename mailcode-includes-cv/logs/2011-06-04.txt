@@ -1,0 +1,18 @@
+Address : 201.255.11.118
+REF : gerente-de-operaciones
+Nombre : Mariana
+Apellido : Ledesma
+Cargo : Recepcionista / Administrativa/o
+Direccion : Totoral 702
+Ciudad : Gonzalez Catan
+Telefono : 1534689422
+Email : marianaledes24@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me considero una persona muy emprendedora, trabajadora y de retos, cuento con la experiencia necesaria para puestos de operaciones, archivista, recepcionista.
+
+saludos y desde ya muchas gracias.  
+Security_code : 6n5gz
+Send : Enviar
+
+---------------
+

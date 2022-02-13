@@ -1,0 +1,95 @@
+Address : 190.176.154.51
+REF : jefe-de-operaciones
+Nombre : Carmen Carolina
+Apellido : Alcover Andaloro
+Cargo : Esteticista o Promotora
+Direccion : Carlos Thays 3656 2do Bº Unimev.Villa Nueva Gllén.
+Ciudad : Mendoza
+Telefono : 2615321475
+Email : caritq_9@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Como experiencia laboral           puedo mencionar desfiles y sesiones fotográficas para escuela de modelaje  Instituto Roberto Piazza,modelo de Productora Marcelo Reginato y promotora. Desde ya muchas gracias.
+Security_code : kvzvs
+Send : Enviar
+
+---------------
+
+Address : 186.22.197.15
+REF : supervisor-de-elaboracion
+Nombre : duilio
+Apellido : Moyano
+Cargo : tec quimico
+Direccion : gibraltar 937
+Ciudad : tablada
+Telefono : 1130267572
+Email : duiliomoyano2009@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : busco trabajo ,disponibilidad inmediata
+Security_code : jvc2c
+Send : Enviar
+
+---------------
+
+Address : 24.232.24.233
+Nombre : Nadia Ayelén
+Apellido : Rodriguez
+Cargo : Diseño Indumentaria Jr
+Direccion : Lavalle 1509
+Ciudad : San Fernando
+Telefono : 47250355
+Email : nadiaayelenrodriguez@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados,
+                  a continuación adjunto mi cv para ser tenido en cuenta en sus futuras búsquedas laborales. 
+                  Desde ya, muchas gracias.
+                                                           Nadia Rodriguez
+Security_code : vhxjc
+Send : Enviar
+
+---------------
+
+Address : 190.179.156.240
+Nombre : Andrea
+Apellido : Arce Taret
+Cargo : Atención al público
+Direccion : Bahia Blanca 3480
+Ciudad : Mendoza
+Telefono : 02613876691
+Email : andrearcet_11@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me gustaria poder ingresar a la empresa
+Security_code : hkv9f
+Send : Enviar
+
+---------------
+
+Address : 190.246.161.248
+Nombre : juan pablo
+Apellido : rota
+Cargo : vendedor 
+Direccion : pago largo 640
+Ciudad : rosario
+Telefono : 3416661032
+Email : juanpablo_rota@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : adjunto mi cv 
+Security_code : dq7y9
+Send : Enviar
+
+---------------
+
+Address : 190.115.55.148
+Nombre : María Julia
+Apellido : Aznar
+Cargo : Administración
+Direccion : El aguaribay 1332
+Ciudad : Mendoza
+Telefono : 2615938488
+Email : juliaaznar@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me gustaría formar parte de la base de datos.
+Security_code : ry3hn
+Send : Enviar
+
+---------------
+

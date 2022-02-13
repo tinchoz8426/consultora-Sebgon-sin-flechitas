@@ -1,0 +1,170 @@
+Address : 190.195.81.98
+Nombre : Laura
+Apellido : Amarilla
+Cargo : Diseño Gráfico 
+Direccion : Mansilla 2600
+Ciudad : Capital Federal 
+Telefono : 1150619343
+Email : lau.amar2@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : 
+A quién corresponda:
+                    Estoy en la búsqueda de un trabajo como Diseñadora Gráfica, mi profesión; pero también de Administración ya que me he desempeñado en el Rubro. 
+     Saludos atentamente.
+     Laura.
+Security_code : 787pr
+Send : Enviar
+
+---------------
+
+Address : 88.25.194.152
+REF : SUPERVISOR-DE-SEGURIDAD
+Nombre : Josep Mª
+Apellido : Sanchez Bonifasi
+Cargo : Director Seguridad
+Direccion : Alcudia nº 110
+Ciudad : Barcelona
+Telefono : 633869810
+Email : JosepBoni@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados señores,
+
+
+
+
+
+Me dirijo a ustedes con el fin de expresar mi interés para ser considerado ante futuras selecciones que se ajusten a mi perfil. 
+
+
+Como queda detallado en el CV adjunto, estoy habilitado como Director de Seguridad y como Jefe de Seguridad, por la UB y por el Ministerio del Interior. En los últimos años he adquirido experiencia profesional en la dirección y coordinación de equipos,  servicios y clientes de forma paralela en varias comunidades autónomas. Debido al gran numero de empleados que he dirigido, tengo conocimientos amplios en gestión de RR.HH, administración y destreza en la gestión de seguridad para grandes y pequeñas compañías a nivel autonómico y estatal. También tengo práctica en el sector comercial y en  la totalidad de procesos necesarios para el inicio y desarrollo de cualquier ámbito y especialización dentro de la seguridad privada.
+
+Espero tener la oportunidad de conversar con ustedes en una próxima entrevista, para personalmente exponerles mis conocimientos y mi deseo de formar parte de su equipo de profesionales.
+
+Agradezco de antemano la atención que se sirva dar a la presente y sin más, les envío un cordial saludo.
+
+Security_code : vfg5h
+Send : Enviar
+
+---------------
+
+Address : 190.31.56.99
+Nombre : Nicolas
+Apellido : Bustos
+Cargo : todos
+Direccion : G. Carrasco 1985
+Ciudad : Rosario
+Telefono : 156936269
+Email : minirock73@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Espero una respuesta positiva a mi busqueda
+Security_code : x556c
+Send : Enviar
+
+---------------
+
+Address : 200.127.154.93
+Nombre : Jimena
+Apellido : Alcaraz
+Cargo : Comunicación
+Direccion : Rodríguez Peña 1736
+Ciudad : CABA
+Telefono : 11-33148820
+Email : alcaraz.jimena@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimado señor o señora:
+   
+                                      Me comunico para acercarle mi Currículum Vitae,bien pueda tenerlo en consideración para una actual o futura búsqueda laboral.
+
+Soy Licenciada y profesora de Periodismo, graduada en la Universidad del Salvador.
+
+Tengo experiencia en redacción de notas, artículos, opiniones y comentarios para sitios web sobre ofertas gastronómicas y teatrales. También en tareas en agencia de noticias, donde me desempeñé como redactora y editora de notas para formatos web e impreso. 
+
+Actualmente estoy haciendo una pasantía en el Ministerio de Educación de la Ciudad Autónoma de Buenos Aires, en el área de prensa y comunicación, y estoy realizando prácticas en escuelas de enseñanza media, en Comunicación.
+
+
+Le adjunto mi CV y quedo a disposición en todo caso. 
+
+Atentamente,
+
+Jimena Alcaraz
++54- 11-33148820
+Security_code : sqkxk
+Send : Enviar
+
+---------------
+
+Address : 190.173.38.3
+Nombre : Alicia Loreley
+Apellido : Ferreira
+Cargo : recepcioista
+Direccion : Zorrilla 266
+Ciudad : Florencio Varela
+Telefono : 1569115662
+Email : alilor@hotmail.es
+MAX_FILE_SIZE : 2097152
+Mensaje : Disponibilidad inmediata
+Security_code : f8bw5
+Send : Enviar
+
+---------------
+
+Address : 201.176.33.163
+Nombre : tamara
+Apellido : zaccarello
+Cargo : junior
+Direccion : santo domingo 175
+Ciudad : buenos aires
+Telefono : 1138448914
+Email : zaccarellot@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje :   
+Security_code : tmqyn
+Send : Enviar
+
+---------------
+
+Address : 186.12.224.212
+Nombre : Diego
+Apellido : cruz
+Cargo : tornero rectificador
+Direccion : cruz del sur 429
+Ciudad : san miguel
+Telefono : 1126609150
+Email : djsanmiguel66@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : 7años en rectificado trafilacion de rodillos de caucho armado de cilindros moldes para prensas ect desde ya gracias por su tiempo
+Security_code : ds38m
+Send : Enviar
+
+---------------
+
+Address : 190.245.2.13
+Nombre : Paula
+Apellido : Salomone
+Cargo : Team Leader
+Direccion : Rivadavia 4720
+Ciudad : Buenos Aires
+Telefono : 1541577166
+Email : paulasalomone@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : 7 años de experiencia en Cuentas a Cobrar 
+Security_code : ch4dr
+Send : Enviar
+
+---------------
+
+Address : 181.46.175.250
+Nombre : Matias Lucas
+Apellido : De Stefano
+Cargo : junior
+Direccion : Marcos Sastre #4656
+Ciudad : Capital federal 
+Telefono : 1525590989
+Email : matias.destefano@outlook.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Espero que me tengan en cuenta ya que estoy dispuesto aprender rapido y cumplir. 
+Security_code : cx8t5
+Send : Enviar
+
+---------------
+

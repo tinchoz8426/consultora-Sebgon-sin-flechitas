@@ -1,0 +1,61 @@
+Address : 141.0.8.141
+Nombre : Delvis Elizabeth 
+Apellido : Avalos Aguilar
+Cargo : Secretaria, asistente 
+Direccion : Gavilan 960
+Ciudad : Ciudad Autonoma de Buenos Aires
+Telefono : 1155706165
+Email : delvis_960@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Tengo competencia en las buenas relaciones interpersonales; Iniciativa; Dinamismo; Responsabilidad y Compromiso.
+Security_code : b3qh4
+Send : Enviar
+
+---------------
+
+Address : 190.122.198.63
+Nombre : Dalma Fiorella
+Apellido : Garredo
+Cargo : Ayudante o Auxiliar de Higiene y Seguridad
+Direccion : Jose Marti 3860
+Ciudad : Merlo
+Telefono : 0111551113584
+Email : fiore_1594@live.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Espero poder contar con sus requisitos y poder ser parte de su equipo. Muchas Gracias, espero su respuesta.
+Security_code : v35zx
+Send : Enviar
+
+---------------
+
+Address : 190.17.207.23
+Nombre : María Natasha
+Apellido : Casanova
+Cargo : Recepcionista, ventas, acompañante terapeutico, asesora 
+Direccion : humahuaca 3411
+Ciudad : buenos aires
+Telefono : 1558461643
+Email : natasha.casanova@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimada Consutora Sebgon y Asociados les envio mi CV, soy María Natasha Casanova tengo 21 años, soy estudiante de la Carrera de Psicología, tengo muchas ganas de trabajar y poder crecer en un ambiente cálido de trabajo. Espero su respuesta, desde ya muchas gracias. Saludos.
+Security_code : 6v6gv
+Send : Enviar
+
+---------------
+
+Address : 190.17.207.23
+REF : VEN
+Nombre : María Natasha
+Apellido : Casanova
+Cargo : Recepcionista, ventas, acompañante terapeutico, asesora 
+Direccion : humahuaca 3411
+Ciudad : buenos aires
+Telefono : 1558461643
+Email : natasha.casanova@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimado le envio mi CV, soy María Natasha Casanova tengo 21 años, soy estudiante de la Carrera de Psicología, tengo muchas ganas de trabajar y poder crecer en un ambiente cálido de trabajo. Espero su respuesta, desde ya muchas gracias. Saludos.
+Security_code : yzrz7
+Send : Enviar
+
+---------------
+

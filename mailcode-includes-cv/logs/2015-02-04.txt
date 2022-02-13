@@ -1,0 +1,83 @@
+Address : 32.59.64.188
+Nombre : Cecilia
+Apellido : Finarolli
+Cargo : Administrativo/Gerencial
+Direccion : Av. DIrectorio 4289
+Ciudad : Buenos Aires
+Telefono : 1538663356
+Email : ceciliapf86@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenas tardes,
+
+Estoy en la busqueda de empleo, preferentemente relacionado al área gerencial o administrativa.
+Alctualmente soy empleada de IBM Argentina como Team Lead/Manager´s backup a cargo de 30 personas, estoy en el puesto hace mas de dos años, en la empresa hace 6 años.
+En lo personal estoy planeando mudarme al sur, mas precisamente al Bolson
+Les envio mi curriculum para que puedan tenerme en cuenta en oportunidades acordes a mi curricum (el cual adjunto a continuación).
+Actualmente estoy viviendo en Buenos Aires Capital pero planeo estar en El Bolson la primera quincena de Marzo para conocer las posibilidades laborales que hay y poder instalarme.
+
+Gracias!
+Security_code : zk7xv
+Send : Enviar
+
+---------------
+
+Address : 186.61.53.119
+Nombre : Romina Elizabeth
+Apellido : Pacheco
+Cargo : Indistinto
+Direccion : Camino General Belgrano 1151
+Ciudad : Buenos Aires
+Telefono : 1534241721
+Email : romyy_tizz@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola que tal?! Estoy buscando empleo, de cualquier índole. Muchas Gracias.
+Security_code : hrr82
+Send : Enviar
+
+---------------
+
+Address : 190.246.66.82
+Nombre : Sebastian Ignacio
+Apellido : Bermudez
+Cargo : Pasantia
+Direccion : Alvarado 607 4 a
+Ciudad : BS AS
+Telefono : 15-66708698
+Email : sebabermudez@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : busqueda de trabajo
+Security_code : ZVZH5
+Send : Enviar
+
+---------------
+
+Address : 190.246.66.82
+Nombre : Sebastian Ignacio
+Apellido : Bermudez
+Cargo : Pasantia
+Direccion : Alvarado 607 4 a
+Ciudad : BS AS
+Telefono : 15-66708698
+Email : sebabermudez@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : busqueda de trabajo
+Security_code : zbzh5
+Send : Enviar
+
+---------------
+
+Address : 186.22.173.220
+Nombre : Ludmila
+Apellido : gandolfo
+Cargo : administracion
+Direccion : estrada 1717
+Ciudad : buenos aires
+Telefono : 1534495636
+Email : lulaa.soldati@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Espero tener alguna respuesta muchas gracias
+Security_code : tnvd3
+Send : Enviar
+
+---------------
+

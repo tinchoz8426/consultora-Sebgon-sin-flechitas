@@ -1,0 +1,43 @@
+Address : 190.136.32.170
+REF : jefe-de-garantia-de-calidad
+Nombre : Daniel
+Apellido : Real
+Cargo : JEFE DE GARANTÌA DE CALIDAD 
+Direccion : Ranchos 2079
+Ciudad : Castelar
+Telefono : 46277703 - 1565364485
+Email : danielreal@yahoo.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimado, poseo la experiencia requerida para aplicar a la posición que estan buscando cubrir. Si asi lo considera, podemos acordar una reunion para conocernos y que pueda evaluar mis aptitudes para el puesto.
+Security_code : rbtsc
+Send : Enviar
+
+---------------
+
+Address : 190.16.88.121
+Nombre : Salvatore
+Apellido : Lo Iacono
+Cargo : Hoteleria
+Direccion : La Rioja 1110 3I
+Ciudad : Buenos Aires
+Telefono : 1564592672
+Email : salvatoreloiacono@yahoo.it
+MAX_FILE_SIZE : 2097152
+Mensaje : 
+
+De mi mayor consideracion:
+
+Desde mas de veinte años me he desempeñado en sectores  hoteleros. En el CV adjunto detallo mi experiencia en las distintas empresas, donde adquirí solidos conocimientos sobre: rooms division, alimentos y bebidas, housekeeping, venta y marketing, yield y revenue, e-commerce y gerencia hotelera y del capital humano. Además hablo italiano, español, ingles, francés y alemán.
+Realicé cursos orientados a perfeccionar mi conocimientos. Tengo amplios conocimientos de eventos, congresos etc. y desde años  participo en varios talleres profesionales.
+Durante el curso de mi carrera profesional, he aprendido a concentrarme en la satisfacción del cliente y la solución de problemas.
+Soy muy flexible y el diálogo, comunicación y trabajo en equipo son fundamentales para mi. Soy muy responsable y tengo un excelente dominio de mi mismo, manteniendo siempre una actitud positiva ante las dificultades o las situaciones  de tensión. Soy entusiasta, pro-activo y siempre dispuesto a enfrentar y cumplir con nuevos objetivos, mas difíciles.
+Actualmente me he transferido a Buenos Aires, con la expectativa de encontrar una oportunidad para trabajar en este maravilloso país.
+Considero que mis aptitudes, motivacion y creatividad pueden contribuir al crecimiento del sector donde me encuentre.
+Dejo a su criterio la posibilidad de mantener una entrevista para ampliar aspectos de mi perfil.
+
+Saludo muy atentamente.
+Security_code : wqgkf
+Send : Enviar
+
+---------------
+

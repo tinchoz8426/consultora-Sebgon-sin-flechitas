@@ -1,0 +1,64 @@
+Address : 190.18.212.47
+REF : TECNICO-ELECTRONICO
+Nombre : luciano damian
+Apellido : tonici
+Cargo : tecnico electronico
+Direccion : caldas 1886
+Ciudad : buenos aires
+Telefono : 4552-0216
+Email : luciano_defe@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenos días, por la presente me postulo para la vacante mencionada en el aviso, desde ya muchas gracias. saludos cordiales.
+Security_code : f6nkd
+Send : Enviar
+
+---------------
+
+Address : 190.18.212.47
+REF : TECNICO-ELECTRONICO
+Nombre : luciano damian
+Apellido : tonici
+Cargo : tecnico electronico
+Direccion : caldas 1886
+Ciudad : buenos aires
+Telefono : 4552-0216
+Email : luciano_defe@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenos días, por la presente me postulo para la vacante mencionada en el aviso, desde ya muchas gracias. saludos cordiales.
+Security_code : f6nkd
+Send : Enviar
+
+---------------
+
+Address : 190.18.212.47
+REF : TECNICO-ELECTRONICO
+Nombre : luciano damian
+Apellido : tonici
+Cargo : tecnico electronico
+Direccion : caldas 1886
+Ciudad : buenos aires
+Telefono : 4552-0216
+Email : luciano_defe@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenos días, por la presente me postulo para la vacante mencionada en el aviso, desde ya muchas gracias. saludos cordiales.
+Security_code : f6nkd
+Send : Enviar
+
+---------------
+
+Address : 190.18.212.47
+REF : TECNICO-ELECTRONICO
+Nombre : luciano damian
+Apellido : tonici
+Cargo : tecnico electronico
+Direccion : caldas 1886
+Ciudad : buenos aires
+Telefono : 4552-0216
+Email : luciano_defe@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenos días, por la presente me postulo para la vacante mencionada en el aviso, desde ya muchas gracias. saludos cordiales.
+Security_code : 7c4wm
+Send : Enviar
+
+---------------
+

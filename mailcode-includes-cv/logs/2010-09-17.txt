@@ -1,0 +1,28 @@
+Address : 190.135.53.245
+Nombre : Carlos
+Apellido : Rodrigues
+Cargo : Presentación Espontánea
+Direccion : Amenabar 1870
+Ciudad : Buenos Aires
+Telefono : 1559514030
+Email : carmaltez@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenos días 
+
+Mi nombre es Carlos Rodrigues y por medio de la presente quería hacer llegar mis datos personales a fin de que me tengan en cuenta para futuras búsquedas que se adecuen a mi perfil. 
+
+Soy Licenciado en Comercialización con amplia experiencia como Ejecutivo de Negocios Internacionales  con un marcado perfil analítico orientado a resultados. 
+
+Adjunto una copia de mi CV y quedo al aguardo de una entrevista laboral a fin de ampliar los datos que consideren necesarios. 
+
+Sin otro particular saluda muy atte. 
+
+  
+
+Carlos Rodrigues
+
+Security_code : jkj2z
+Send : Enviar
+
+---------------
+

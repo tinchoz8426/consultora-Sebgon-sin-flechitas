@@ -1,0 +1,62 @@
+Address : 190.245.78.27
+REF : adper
+Nombre : Enrique Mario
+Apellido : Navallas
+Cargo : Administrativo de Personal
+Direccion : Ameghino 1664
+Ciudad : Paso del Rey
+Telefono : 011-15-5807-4913
+Email : emnavallas@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto mi CV y quedo a su disposición.
+Security_code : sywh7
+Send : Enviar
+
+---------------
+
+Address : 190.48.182.245
+Nombre : Fernando
+Apellido : Parrotta
+Cargo : Cualquiera
+Direccion : Bolivia 2266
+Ciudad : Moreno
+Telefono : 011-57667084
+Email : tech-computers@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola buenas tardes, queria entrar en la distribuidora de walmart que esta en moreno. Envie CV y me dijeron que solo entraban por agencia. Y me recomendaron de que les envie el CV a ustedes. Desde ya Muchas Gracias. Saludos !!!
+Security_code : n7m4v
+Send : Enviar
+
+---------------
+
+Address : 190.48.182.245
+Nombre : Fernando
+Apellido : Parrotta
+Cargo : Cualquiera
+Direccion : Bolivia 2266
+Ciudad : Moreno
+Telefono : 011-57667084
+Email : tech-computers@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola buenas tardes, yo envie el CV a la distribuidora de Walmart en Moreno, y me dijeron que solo entraban por agencia y me recomendaron que les envie el CV a ustedes. Desde ya muchas Gracias. Saludos!!!
+Security_code : xvqdc
+Send : Enviar
+
+---------------
+
+Address : 190.48.246.225
+REF : adper
+Nombre : Maria Florencia
+Apellido : Prospero
+Cargo : Administrativo de personal
+Direccion : Conesa 1589
+Ciudad : San Miguel
+Telefono : 1534913975
+Email : florpy_14@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Tengo muchas ganas de trabajar, esperare ansiosa novedades. En caso de elegirme pondre lo mejor de mi para realizar un buen trabajo. Lo saluda Atte. Prospero Maria Florencia
+Security_code : w92gv
+Send : Enviar
+
+---------------
+

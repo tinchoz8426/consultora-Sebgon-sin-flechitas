@@ -1,0 +1,45 @@
+Address : 181.197.209.246<br>
+ <br>Nombre : Gaston
+ <br>Apellido : Liernur
+ <br>Cargo : -
+ <br>Direccion : De Angelis 412 
+ <br>Ciudad : Bahia Blanca 
+ <br>Telefono : 2914880646
+ <br>Email : Gastonliernur@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Mi nombre es gaston, tengo 21 años, y soy tecnico electromecanico
+ <br>Security_code : 3qqzr
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.251.91.142<br>
+ <br>Nombre : Iván Victor
+ <br>Apellido : Deleón
+ <br>Cargo : Tecnico
+ <br>Direccion : Guanacache 12.884
+ <br>Ciudad : La Matanza
+ <br>Telefono : 0111554842483
+ <br>Email : ivanvictord@yahoo.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Les entrego mi cv para tenerme en cuenta en las busqueda laboral
+ <br>Security_code : dyntr
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.188.193.136<br>
+ <br>Nombre : María Cora
+ <br>Apellido : Garrote
+ <br>Cargo : Secretaria
+ <br>Direccion : Independencia 1074
+ <br>Ciudad : Mar del Plata
+ <br>Telefono : 2234564108
+ <br>Email : garromaco@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Agradezco entrevista personal
+ <br>Security_code : jpjb8
+ <br>Send : Enviar
+ <br>
+---------------
+

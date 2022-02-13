@@ -1,0 +1,30 @@
+Address : 181.1.147.91
+Nombre : Clarisa
+Apellido : Pobliti
+Cargo : Correctora de medios
+Direccion : Thames 2270
+Ciudad : CABA
+Telefono : 47709237
+Email : poblitic@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Envío mi CV para el puesto de corrección en medios escritos.
+Security_code : dq9dv
+Send : Enviar
+
+---------------
+
+Address : 190.191.102.194
+Nombre : Gabriela
+Apellido : Mansilla
+Cargo : vendedora
+Direccion : Minetto 1006
+Ciudad : Buenos Aires
+Telefono : 20033912
+Email : fiama_sitra@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Mepostulo para vendedora full time 
+Security_code : rykpp
+Send : Enviar
+
+---------------
+

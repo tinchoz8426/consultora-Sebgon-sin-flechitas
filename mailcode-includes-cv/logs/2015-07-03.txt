@@ -1,0 +1,53 @@
+Address : 190.199.134.234
+Nombre : Marlim
+Apellido : Vergara
+Cargo : Ingenieria / Ventas
+Direccion : Mérida, Venezuela
+Ciudad : Mérida
+Telefono : +58 04147392239
+Email : skymverg@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenos dias, adjunto mi CV, estoy en Venezuela pero en unas semanas me mudo a Buenos Aires, Disponibilidad inmediata.
+Security_code : zqhff
+Send : Enviar
+
+---------------
+
+Address : 190.199.134.234
+Nombre : Marlim
+Apellido : Vergara
+Cargo : Ingenieria / Ventas
+Direccion : Mérida, Venezuela
+Ciudad : Mérida
+Telefono : +58 04147392239
+Email : skymverg@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenos dias, adjunto mi CV, estoy en Venezuela pero en unas semanas me mudo a Buenos Aires, Disponibilidad inmediata.
+Security_code : zqhff
+Send : Enviar
+
+---------------
+
+Address : 181.95.114.111
+Nombre : Florencia
+Apellido : Arancibia 
+Cargo : Analista Programador 
+Direccion : Terry 3562
+Ciudad : San Fernando
+Telefono : 45199734
+Email : arancibia_florencia@outlook.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados Sres de Sebgon:
+
+Les hago llegar mis datos personales y profesionales a fin de ser tenida en cuenta como candidata.
+En este momento me encuentro en búsqueda laboral.Cuento con experiencia en  
+análisis funcional, desarrollado Web en lenguaje Php y menejo de base de datos en Sql Server y Pl/sql.
+Me gustaría poder ingresar a una empresa donde me permita crecer y desarrollar mis conocimientos.
+Cuento con disponibilidad full time para una entrevista e incorporación inmediata.
+
+Saludos Cordiales.
+Security_code : jb59r
+Send : Enviar
+
+---------------
+

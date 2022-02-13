@@ -1,0 +1,30 @@
+Address : 181.15.147.170<br>
+ <br>Nombre : Luis Amadeo
+ <br>Apellido : Gomez
+ <br>Cargo : indistinto
+ <br>Direccion : Pergamino 56
+ <br>Ciudad : Zarate
+ <br>Telefono : 011-31777377
+ <br>Email : oagomez_lui@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Adjunto envío mi CV para su consideración. 
+ <br>Security_code : c4n3h
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.58.171.240<br>
+ <br>Nombre : Agustina
+ <br>Apellido : Vargas
+ <br>Cargo : ventas/ atención al cliente 
+ <br>Direccion : alvear 446 
+ <br>Ciudad : san martin 
+ <br>Telefono : 0354415619827
+ <br>Email : AGUSTINAVARGAS96@GMAIL.COM
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : estoy en busca de trabajo, responsable, puntal y buena presencia. 
+ <br>Security_code : 3n5g6
+ <br>Send : Enviar
+ <br>
+---------------
+

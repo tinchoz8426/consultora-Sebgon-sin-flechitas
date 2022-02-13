@@ -1,0 +1,486 @@
+Address : 181.230.137.19<br>
+ <br>REF : ACO-1
+ <br>Nombre : Augusto Otto
+ <br>Apellido : Berninger
+ <br>Cargo : ANALISTA DE COMERCIO INTERNACIONAL/EXTERIOR
+ <br>Direccion : Av. Santa Fé 4437
+ <br>Ciudad : Ciudad Autónoma de Buenos Aires 
+ <br>Telefono : 0332915602251
+ <br>Email : aoberninger@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : .
+ <br>Security_code : hqyqj
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.28.100.252<br>
+ <br>REF : ACO-1
+ <br>Nombre : Nicolás Daniel
+ <br>Apellido : Chinellato
+ <br>Cargo :  ANALISTA DE COMERCIO INTERNACIONAL/EXTERIOR
+ <br>Direccion : Los Coihues 1384
+ <br>Ciudad : Cipolletti
+ <br>Telefono : 2996897496
+ <br>Email : chinellatonicolas6@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Solicitud de Empleo.
+ <br>Security_code : zhr49
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.9.162.122<br>
+ <br>Nombre : Rodrigo
+ <br>Apellido : Ciliberto
+ <br>Cargo : Me desempeñó bien en cualquier tipo de tarea
+ <br>Direccion : Martín de gainza 869
+ <br>Ciudad : Cordoba
+ <br>Telefono : 03516204855
+ <br>Email : no tengo
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Necesito mucho el trabajo y voy a dar lo mejor de mi para el crecimiento de la empresa q desee contratarme
+ <br>Security_code : ghnhx
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.12.108.60<br>
+ <br>REF : ACO-1
+ <br>Nombre : Cecilia
+ <br>Apellido : Saffigna
+ <br>Cargo : ANALISTA DE COMERCIO INTERNACIONAL
+ <br>Direccion : Concordia 2546
+ <br>Ciudad : CABA
+ <br>Telefono : 11-6787-9382
+ <br>Email : cecisaf@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buen día,
+Me gustaría que mi CV sea tenido en consideración para cubrir esta vacante.
+Gracias
+Cordiales saludos
+ <br>Security_code : hmx93
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.166.214.150<br>
+ <br>REF : JPER-1
+ <br>Nombre : René
+ <br>Apellido : Márquez
+ <br>Cargo : Jefe de Personal
+ <br>Direccion : Washington 2803 Coglhan
+ <br>Ciudad : CABA
+ <br>Telefono : 1150032733
+ <br>Email : renemarquez585@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenos días. Un placer. Remito CV para su consideración. Agradecido por su atención, reciban un saludo cordial
+ <br>Security_code : xb345
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.166.214.150<br>
+ <br>REF : JPER-1
+ <br>Nombre : Deneb
+ <br>Apellido : Veitía
+ <br>Cargo : Jefe de Personal
+ <br>Direccion : Washington 2803 Coglhan
+ <br>Ciudad : CABA
+ <br>Telefono : 1127808956
+ <br>Email : davg1529@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenos días. Un placer. Remito CV para su consideración. Agradecido por su atención, reciban un saludo cordial
+ <br>Security_code : 926n9
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.45.90.60<br>
+ <br>Nombre : Victoria
+ <br>Apellido : Sosa
+ <br>Cargo : Tester / administrativa 
+ <br>Direccion : Zapiola 1102
+ <br>Ciudad : Castelar
+ <br>Telefono : 15-5405-5133
+ <br>Email : gvikis@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimado adjunto mi cv , si bien soy Lic en Comercializacion , me dedique los ultimos años a testeo de sistemas, estoy abierta a otras propuestas, atte victoria
+ <br>Security_code : q9425
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 200.5.105.16<br>
+ <br>Nombre : Oscar
+ <br>Apellido : Delgado
+ <br>Cargo : Ingeniero, Supervisor, Planner, Producción
+ <br>Direccion : Jean Jaures 1075 Depto 2
+ <br>Ciudad : Campana
+ <br>Telefono : 03489 15 530888
+ <br>Email : osmaudel@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buen día, soy Oscar Delgado mi formación profesional es Ingeniero en Materiales, pongo a su apreciable consideración mi CV de cara a futuras búsquedas laborales. Me radicaré en la Zona Oeste del GBA en la localidad de Ramos Mejía.
+ <br>Security_code : hh6hq
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.171.220.8<br>
+ <br>REF : JPER-1
+ <br>Nombre : Maria Laura
+ <br>Apellido : Oviedo
+ <br>Cargo : Jefe de RRHH
+ <br>Direccion : Ciudad de la Paz 2039
+ <br>Ciudad : CABA
+ <br>Telefono : 1167545400
+ <br>Email : malalaovi@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados, quedo a disposicion para ampliar cualquier informacion que se requiera,SLds
+ <br>Security_code : bzx4m
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 200.3.95.33<br>
+ <br>REF : SP-1
+ <br>Nombre : Oscar
+ <br>Apellido : Muñoz
+ <br>Cargo : Supervisor de Producción 
+ <br>Direccion : Diaz Velez, 4195
+ <br>Ciudad : Bogota
+ <br>Telefono : 1166399609
+ <br>Email : oscarjmunoz@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Experiencia en manejo de equipos, con estudios de postgrado en Ingeniería Industrial
+ <br>Security_code : skspt
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.47.137.148<br>
+ <br>REF : TE-1
+ <br>Nombre : Fernando
+ <br>Apellido : López
+ <br>Cargo : Técnico Electrónico/Desarrollador
+ <br>Direccion : Bolivia 3274
+ <br>Ciudad : CABA
+ <br>Telefono : 1163722386
+ <br>Email : ferochufer@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola, por favor tenerme en cuenta para sus búsquedas laborales, gracias, Fernando López.
+ <br>Security_code : fy3wy
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.83.8<br>
+ <br>REF : ACO-1
+ <br>Nombre : Tommy
+ <br>Apellido : Reyes
+ <br>Cargo : Comercio exterior
+ <br>Direccion : Avenida del libertador 6022. Belgrano. Capital federal
+ <br>Ciudad : Buenos aires
+ <br>Telefono : 1169018005
+ <br>Email : Tommyreyesrangel@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Profesional en comercio exterior en busca de empleo. 
+ <br>Security_code : Fvjk7
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.231.142.46<br>
+ <br>REF : JPER-1
+ <br>Nombre : Claret 
+ <br>Apellido : Zapata
+ <br>Cargo : Jefe de Personal
+ <br>Direccion : Av. Río de Janeiro 323 Caballito
+ <br>Ciudad : Buenos aires
+ <br>Telefono : 011 36819708
+ <br>Email : zclaret@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Adjunto envio mi resumen de CV, esperando la oportunidad. Cuento con disponibilidad inmediata y Full time
+ <br>Security_code : 26gj7
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.47.109.114<br>
+ <br>REF : ACO-1
+ <br>Nombre : Luis
+ <br>Apellido : Noriega
+ <br>Cargo : Analista de comercio exterior
+ <br>Direccion : Gral Jose Gervasio Artigas, 1801 piso 5 apto 23
+ <br>Ciudad : ciudad autonoma de buenos aire
+ <br>Telefono : 1122546904
+ <br>Email : luisnoriega85@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Con la convicción de poseer el perfil requerido para un muy buen desempeño en el cargo a cubrir, quedo a entera disposición para hacerle llegar, sea en una entrevista personal o por el medio que se me indique, las ampliaciones y/o la documentación probatoria correspondiente.
+
+
+
+Esperando una respuesta positiva lo saluda atentamente,
+
+
+
+Lcdo. Luis Noriega
+ <br>Security_code : s2thq
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.212.251.248<br>
+ <br>REF : TE-1
+ <br>Nombre : Marianny
+ <br>Apellido : Trujillo
+ <br>Cargo : TE-1
+ <br>Direccion : Fray Justo Santa habilidad para negociar, trabajar bajo presión, con calidad y excelencia,
+ <br>Ciudad : buenos aires
+ <br>Telefono : 1131932945
+ <br>Email : mariannytrujillo@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Ingeniero en Electrónica, Mención: Automatización y Control. Con competencias
+sólidas en diseño, planificación y control de sistemas de mantenimiento,
+gerencia, coordinación y supervisión de ejecución de las diferentes fases de
+Ingeniería, estimación de costos y presupuestos de Inversión, Contratación de
+empresas Contratistas, evaluación de proveedores y gestión comercial.
+Programación PLC (Allen Bradley y Siemens), Diseño e Implemento de sistemas
+SCADA, planos eléctricos e instrumentados, y lógica de algoritmos.
+Conocimientos de Instrumentación y calibración de instrumentos.
+Motivada y orientada al logro, comunicación efectiva, proactiva, dinámica,
+habilidad para negociar, trabajar bajo presión, con calidad y excelencia, con un
+alto nivel de profesionalismo, honestidad y dedicación asumiendo con integridad
+los nuevos retos de las organizaciones y empresas que se encuentren en la
+constante búsqueda de lograr altos niveles de productividad, desempeño y
+competitividad.
+ <br>Security_code : T6ZYM
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.125.210.179<br>
+ <br>REF : JPER-1
+ <br>Nombre : GUILLERMO  JULIO
+ <br>Apellido : QUINTANA
+ <br>Cargo : Jefe de Personal
+ <br>Direccion : TOMAS LE BRETON 5856
+ <br>Ciudad : Capital Federal
+ <br>Telefono : 01149409158
+ <br>Email : gjquintana61@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : UNA PERSONA PROACTIVA MUY DIPLOMATICA CON CAPACIDAD PARA TRABAJAR Y LIDERAR GRUPOS, DE EXCELENTE PRESENCIA Y TRATO, MIS OBJETIVOS SON SEGUIR REALIZANDOME EN MI PROFESION AMPLIANDO HORIZONTES Y PODER COMPARTIR MIS CONOCIMIENTOS CON LA EMPRESA A LOS QUE MIS SERVICIOS LE SEAN DE UTILIDAD.
+Ejecutivo, orientado a los Recursos Humanos, comercialización, con amplia experiencia en planeamiento estratégico de ventas, Manejo de personal, Capacitación,  Optimización de recursos, Administración y Control de gestión.
+
+ <br>Security_code : fp46g
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.47.138.238<br>
+ <br>REF : EP-1
+ <br>Nombre : Luis
+ <br>Apellido : Rietzsch
+ <br>Cargo : Encargado de Produccion
+ <br>Direccion : Sarmiento 1432
+ <br>Ciudad : Quilmes
+ <br>Telefono : 21184283 no es celular
+ <br>Email : lrietzsch@yahoo.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me interesa la posición tengo experiencia y soy muy responsable 
+ <br>Security_code : 6h25k
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.47.138.238<br>
+ <br>REF : EP-1
+ <br>Nombre : Luis
+ <br>Apellido : Rietzsch
+ <br>Cargo : Encargado de Produccion
+ <br>Direccion : Sarmiento 1432
+ <br>Ciudad : Quilmes
+ <br>Telefono : 21184283 no es celular
+ <br>Email : lrietzsch@yahoo.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me interesa la posición tengo experiencia y soy muy responsable 
+ <br>Security_code : 7Kcs9
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.50.224.123<br>
+ <br>REF : JPER-1
+ <br>Nombre : Roberto Alejandro
+ <br>Apellido : Sosa
+ <br>Cargo : Jefe de Personal
+ <br>Direccion : Alte Brown 109
+ <br>Ciudad : Quilmes
+ <br>Telefono : 1562096700
+ <br>Email : robertoasosa@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Tengo muchos conocimientos para brindarles
+ <br>Security_code : t54dy
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.13.78.94<br>
+ <br>REF : EP-1
+ <br>Nombre : Eduardo 
+ <br>Apellido : Mejias
+ <br>Cargo : Encargado de produccion
+ <br>Direccion : av. Mayo 1260
+ <br>Ciudad : C.A.B.A
+ <br>Telefono : 1134026007
+ <br>Email : eduardoemr83@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Ingeniero industrial con cinco (5) años de experiencia profesional, amplios conocimientos en planificación de la producción, manejo de SAP, control y manejo de inventarios, supervisión y administración de los recursos humanos , conocimiento de normas ISO 9000-9001,14000,18000, planificación de  manejo de materiales a procesos, supervisión de operaciones de mantenimientos en el área Industrial, Control de documentos.
+ <br>Security_code : bwjq8
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.179.41.46<br>
+ <br>REF : Ing. quim
+ <br>Nombre : Gisela
+ <br>Apellido : Quintero
+ <br>Cargo : Jefa de Producción
+ <br>Direccion : Av. Francisco Acuña de Figueroa
+ <br>Ciudad : CABA
+ <br>Telefono : 1133776263
+ <br>Email : gijoquilan@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estoy interesada en el cargo. Con posibilidad de realizar cambio de domicilio. No poseo vehículo.
+ <br>Security_code : zw4kp
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.216.240.164<br>
+ <br>REF : SP-1
+ <br>Nombre : Tulio
+ <br>Apellido : Oropeza
+ <br>Cargo : Supervisor de Produccian
+ <br>Direccion : Conjunto Residencial Juana la Avanzadora Calle 17, Manzana 54, casa N 04. Maturin - Edo Monagas
+ <br>Ciudad : Maturin - Edo Monagas (Venezuela)
+ <br>Telefono : +58-04140301842
+ <br>Email : tulio.oropeza@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Deseo formar parte de su prestigiosa corporación con el propósito de planificar, dirigir, controlar y asegurar las operaciones de la empresa; optimizando los recursos materiales, financieros y humanos, siendo este último el más importante para alcanzar la meta propuesta, liderando bajo la inspiración y el ejemplo con ética profesional.
+ <br>Security_code : 2ff8p
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.216.240.164<br>
+ <br>REF : EP-1
+ <br>Nombre : Tulio
+ <br>Apellido : Oropeza
+ <br>Cargo : Encargado de Produccion
+ <br>Direccion : Conjunto Residencial Juana la Avanzadora Calle 17, Manzana 54, casa N 04. Maturin - Edo Monagas
+ <br>Ciudad : Maturin - Edo Monagas (Venezuela)
+ <br>Telefono : +58-04140301842
+ <br>Email : tulio.oropeza@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Deseo formar parte de su prestigiosa corporación con el propósito de planificar, dirigir, controlar y asegurar las operaciones de la empresa; optimizando los recursos materiales, financieros y humanos, siendo este último el más importante para alcanzar la meta propuesta, liderando bajo la inspiración y el ejemplo con ética profesional.
+ <br>Security_code : 2g54r
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.208.241.150<br>
+ <br>REF : ROT-1
+ <br>Nombre : JUAN GUILLERMO
+ <br>Apellido : CALLE
+ <br>Cargo : Ingeniero Civil
+ <br>Direccion : Congreso 2300
+ <br>Ciudad : BUENOS AIRES
+ <br>Telefono : 91127364821
+ <br>Email : juanguillermogonzalez@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Anexo CV para su consideracion
+Gracias
+ <br>Security_code : gz7vk
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.208.241.150<br>
+ <br>REF : ROT-1
+ <br>Nombre : JUAN GUILLERMO
+ <br>Apellido : CALLE
+ <br>Cargo : RESPONSABLE DE OFICINA TECNICA 
+ <br>Direccion : Congreso 2300
+ <br>Ciudad : BUENOS AIRES
+ <br>Telefono : 91127364821
+ <br>Email : juanguillermogonzalez@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Ingeniero Civil, enfocado en la dirección, planificación y control de proyectos de obras civiles, edificaciones y urbanismo, presupuestos y licitaciones, inspección y auditoria. Diseño proyectos de ingeniería básica, conceptual y detalle. Profesional con capacidades para el asesoramiento, coordinación, organización, liderazgo, trabajo en equipo.
+ <br>Security_code : 9zjbm
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 200.125.73.231<br>
+ <br>Nombre : Mauro Nahuel
+ <br>Apellido : Martinez
+ <br>Cargo : Chofer de reparto
+ <br>Direccion : Virgenes 5494
+ <br>Ciudad : Gonzalez Catan
+ <br>Telefono : 11-2437-6442
+ <br>Email : martinezmauro_1989@hotmail.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me postulo como chofer de reparto con disponibilidad para realizar los viajes a Cordoba. Incorporacion inmediata.
+ <br>Security_code : x7pvz
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 200.125.73.231<br>
+ <br>Nombre : Mauro Nahuel
+ <br>Apellido : Martinez
+ <br>Cargo : Chofer de reparto
+ <br>Direccion : Virgenes 5494
+ <br>Ciudad : Gonzalez Catan
+ <br>Telefono : 11-2437-6442
+ <br>Email : martinezmauro_1989@hotmail.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me postulo como chofer de reparto con disponibilidad para realizar los viajes a Cordoba. Incorporacion inmediata.
+ <br>Security_code : x7pvz
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.105.62.69<br>
+ <br>REF : EP-1
+ <br>Nombre : Jesus Paucides
+ <br>Apellido : Ortiz Gimenez
+ <br>Cargo : Encargado de Produccion
+ <br>Direccion : Pilar
+ <br>Ciudad : Pilar Centro
+ <br>Telefono : 91151546418
+ <br>Email : ortizg.jesusp@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Profecional con 15 años de experiencia en plantas industriales y manejo de personal.
+ <br>Security_code : qqvsy
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.19.230.90<br>
+ <br>Nombre : esteban
+ <br>Apellido : fleitas
+ <br>Cargo : chofer operario
+ <br>Direccion : Cuba 2737
+ <br>Ciudad : pontevedra
+ <br>Telefono : 1134887126
+ <br>Email : maximo_163@live.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : HOLA TENGO TODO AL DIA PARA MANEJAR. TENGO EL CNRT AL DIA DE CARGAS GENERALES, LNH AL DIA. NECESITO URGENTE UN TRABAJO DE CHOFER OPERARIO.
+CELULAR: 1134887126
+ <br>Security_code : nbtv7
+ <br>Send : Enviar
+ <br>
+---------------
+

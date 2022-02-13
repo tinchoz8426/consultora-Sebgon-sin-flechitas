@@ -1,0 +1,74 @@
+Address : 190.138.78.63
+REF : gerente-de-operaciones
+Nombre : carlos Emilio
+Apellido : Recalde
+Cargo : Tecnico electromecanico/operario
+Direccion : Torquinst 2171 dto 1 Caseros
+Ciudad : Buenos Aires oeste
+Telefono : 4759-9807/ 15-3370-8582
+Email : khalyshugas@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Desde ya muchas gracias
+Security_code : 7k3r2
+Send : Enviar
+
+---------------
+
+Address : 200.122.22.239
+Nombre : Miguel Angel
+Apellido : Lopez
+Cargo : Otros
+Direccion : Darwin 1865
+Ciudad : Lomas de Zamora
+Telefono : 42670279
+Email : lopelandia@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenas tardes, me considero una persona laboralmente estable, respetuoso, trabajador y proactivo.
+Espero poder conseguir un puesto similar al que trabajaba, de todas formas no me molestan los cambios, al contrario me gustan los desafios
+Security_code : kc4yb
+Send : Enviar
+
+---------------
+
+Address : 200.122.22.239
+Nombre : Miguel Angel
+Apellido : Lopez
+Cargo : Otros
+Direccion : darwin 1865
+Ciudad : Lomas de Zamora
+Telefono : 42670279
+Email : lopelandia@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me considero una persona laboralmente muy estable y proactivo
+Security_code : x8699
+Send : Enviar
+
+---------------
+
+Address : 190.138.41.114
+Nombre : Maria Cecilia
+Apellido : Fasola
+Cargo : Administrativo de gestion
+Direccion : Vicente zarza 2550
+Ciudad : Santa Fe
+Telefono : 0342-155382391
+Email : fasolacecilia1@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Desarrollo de tareas de auditoria y control, enmarcadas en el programa                                                  Soy Maria Cecilia fasola, graduada de Contadora Publica Nacional de la Cs económicas de Santa Fe, en la Univesidad Nacional del Litoral.
+  
+  Estoy buscando ingresar en el mercado laboral e ingresar en equipos de trabajo para capacitarme y aplicar los conocimientos adquiridos durante el tiempo de estudio. 
+  
+  Necesito adquirir la experiencia que un estudiante no tiene, generalmente, cuando esta recien recibido.
+  
+  Me interesar tareas de contabilidad de gestion, contables, de auditoria, marketing, analisis de costos,  administracion de inventarios, impuestos, sueldos.
+ 
+  Tengo grandes aspiraciones de crecimiento profesional, y afrontar nuevos desafios, tanto dentro como fuera del pais. Tengo un perfil analítico, con iniciativa y muy buenas habilidades para el trabajo en equipo, y estoy interesada en crecer y desarrollar una carrera a largo plazo.
+
+  Espero que mi CV sea recibido y tenido en cuenta para puestos dinámicos, trabajos en equipo
+
+                                                                          
+Security_code : b9t3v
+Send : Enviar
+
+---------------
+

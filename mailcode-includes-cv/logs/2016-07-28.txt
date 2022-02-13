@@ -1,0 +1,103 @@
+Address : 24.232.56.36<br>
+ <br>REF : JP
+ <br>Nombre : natalia
+ <br>Apellido : valente
+ <br>Cargo : jefe de personal
+ <br>Direccion : caseros 2307
+ <br>Ciudad : caba
+ <br>Telefono : 1555076598
+ <br>Email : nativ_85@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : me postulo a la oferta laboral de jefe de personal, espero tengan presente mi cv para el proceso de selección. a disposición para coordinar una entrevista a fin de ampliar lo expuesto en el mismo.atte
+natalia
+ <br>Security_code : 3cksh
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.230.33.23<br>
+ <br>REF : OEL
+ <br>Nombre : edmundo
+ <br>Apellido : olarte
+ <br>Cargo : oficial electrisista
+ <br>Direccion : crucero belgrano 008 2 de abril cerrilos
+ <br>Ciudad : salta
+ <br>Telefono : 3874290746
+ <br>Email : olrteedmundo@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : edmundo olarte soy oficial electrisista y busco trabajo .gracia x su atencion..
+ <br>Security_code : vxb2n
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.122.78.5<br>
+ <br>REF : GTEP
+ <br>Nombre : Guillermo Luis
+ <br>Apellido : Blasco
+ <br>Cargo : Gerente de Planta , Ref.GTEP
+ <br>Direccion : Pedro de Oñate 416
+ <br>Ciudad : Jesús María - Cba.
+ <br>Telefono : 0351-156220200
+ <br>Email : gblasco@hotmail.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimado Seleccionador : Adjunto al presente mi CV a los fectos de ser tenido en cuenta en la búsqueda de referencia . Pretendo ser remunerado por el cargo ofrecido ntre 55000$ y 65000$. Esperando poder obtener una entrevista para conocernos , aprovecho la oportunidad para saludarlo atentamente.
+Ing. Guillermo L. Blasco
+ <br>Security_code : py5m3
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.122.78.5<br>
+ <br>REF : GTEP
+ <br>Nombre : Guillermo Luis
+ <br>Apellido : Blasco
+ <br>Cargo : Gerente de Planta , Ref.GTEP
+ <br>Direccion : Pedro de Oñate 416
+ <br>Ciudad : Jesús María - Cba.
+ <br>Telefono : 0351-156220200
+ <br>Email : gblasco@hotmail.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimado Seleccionador : Adjunto al presente mi CV a los fectos de ser tenido en cuenta en la búsqueda de referencia . Pretendo ser remunerado por el cargo ofrecido ntre 55000$ y 65000$. Esperando poder obtener una entrevista para conocernos , aprovecho la oportunidad para saludarlo atentamente.
+Ing. Guillermo L. Blasco
+ <br>Security_code : py5m3
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.122.78.5<br>
+ <br>REF : GTEP
+ <br>Nombre : Guillermo Luis
+ <br>Apellido : Blasco
+ <br>Cargo : Gerente de Planta , Ref.GTEP
+ <br>Direccion : Pedro de Oñate 416
+ <br>Ciudad : Jesús María - Cba.
+ <br>Telefono : 0351-156220200
+ <br>Email : gblasco@hotmail.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimado Seleccionador : Adjunto al presente mi CV a los fectos de ser tenido en cuenta en la búsqueda de referencia . Pretendo ser remunerado por el cargo ofrecido ntre 55000$ y 65000$. Esperando poder obtener una entrevista para conocernos , aprovecho la oportunidad para saludarlo atentamente.
+Ing. Guillermo L. Blasco
+ <br>Security_code : wq97b
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 152.169.159.213<br>
+ <br>Nombre : Omar Ariel
+ <br>Apellido : Parrilla
+ <br>Cargo : Encargado de Produccion
+ <br>Direccion : Lambare 220 (P.B.)     
+ <br>Ciudad : Avellaneda
+ <br>Telefono : 1148880350
+ <br>Email : oaparrilla@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me gustaría formar parte de su equipo de trabajo, y es por esto que respondo a la búsqueda, aguardando tener la posibilidad de concretar una entrevista a fin de poder ampliar personalmente mis datos y experiencia laboral.
+Quedando a la espera de una respuesta satisfactoria, saludo atentamente.
+
+Omar A.Parrilla	
+
+ <br>Security_code : 2q95x
+ <br>Send : Enviar
+ <br>
+---------------
+

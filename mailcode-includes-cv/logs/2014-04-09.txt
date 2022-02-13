@@ -1,0 +1,246 @@
+Address : 186.56.244.89
+Nombre : Adrián Sebastián
+Apellido : Moyano
+Cargo : Operario Metalúrgico
+Direccion : Urdaneta
+Ciudad : Libertad
+Telefono : 541131276552
+Email : adriansebastianmoyano@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenos días, les adjunto mi CV, Le adjunto mi CV para registrarme en su base de datos de postulantes, el puesto que quisiera cubrir es el de Operario Metalúrgico, ya que tengo más de siete años de experiencia en el sector.
+
+
+Muchas Gracias
+
+Adrián Sebastián Moyano
+Security_code : v6n22
+Send : Enviar
+
+---------------
+
+Address : 190.189.45.6
+Nombre : Joaquin
+Apellido : LEmus
+Cargo : Administrativo/Contable
+Direccion : M. Belgrano, N°744
+Ciudad : Cipolletti (Rio Negro)
+Telefono : (0299)155044317
+Email : lemus.joaquin@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Soy un estudiante, de 26 años con una formación universitaria en ciencias económicas y también con sólidos conocimientos en el érea técnica. Podría desempeñarme eficazmente tanto en el área contable como administrativa y de servicios empresariales. 
+Security_code : ybd9b
+Send : Enviar
+
+---------------
+
+Address : 200.16.16.13
+Nombre : David Julio
+Apellido : Taborda
+Cargo : Indistinto
+Direccion : Miguel de Mojica 2263
+Ciudad : Córdoba
+Telefono : 0351 4768377
+Email : davidjtaborda@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Envío mi Curriculum Vitae para ser tenido en cuenta en vuestras búsquedas
+Security_code : tz2xy
+Send : Enviar
+
+---------------
+
+Address : 190.19.160.213
+Nombre : Jose German
+Apellido : Tomatis
+Cargo : Indistinto
+Direccion : Martin Rodriguez 1188
+Ciudad : Lincoln
+Telefono : 0294-154789759
+Email : josegermant@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Me acabo de mudar a Lincoln Pcia. Bs. As. y estoy en busqueda de trabajo.
+Security_code : 3g5r7
+Send : Enviar
+
+---------------
+
+Address : 190.246.140.248
+REF : GTE COM
+Nombre : Diego
+Apellido : Cima
+Cargo : Gerente Comercial
+Direccion : Av Uriburu 3935 
+Ciudad : Pilar
+Telefono : +54 9 11 3519 7230
+Email : dfcima@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados,
+
+Comprendiendo claramente los requerimientos de la posición, considero satisfacerlos con amplia solvencia.
+
+Cuento con amplia trayectoria gestionando comercialmente los negocios de prestigiosas compañías     multinacionales de consumo masivo, incluyendo Unilever, The Clorox Company, Nabisco-Terrabusi y General Mills, en las cuales desempeñé funciones de alta gerencia en sus áreas de ventas, marketing y  unidades de negocios, con alcance nacional y regional (LATAM).
+
+Tengo especial interés  en explorar en profundidad esta oportunidad laboral.
+
+Estoy a disposición para programar una entrevista personal en la cual ampliar mis credenciales y evaluar el tipo de contribución que podría aportar al frente de esta Gerencia Comercial.
+
+Saludos cordiales,
+
+Diego Cima
+Cel: +54 9 11 3519 7230
+E-Mail: dfcima@gmail.com
+Skype ID: cimadiego
+Security_code : w9wzz
+Send : Enviar
+
+---------------
+
+Address : 190.52.58.238
+Nombre : Alina
+Apellido : Basso
+Cargo : Administrativo
+Direccion : Patricios
+Ciudad : El Trébol
+Telefono : 3401526329
+Email : alinabassoabigail@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Envío de mi currículum Vitea
+Security_code : z87yt
+Send : Enviar
+
+---------------
+
+Address : 186.57.131.138
+Nombre : Alejandra Gabriela
+Apellido : Chaparro
+Cargo : Docente
+Direccion : Jorge de Kay 2755
+Ciudad : Rafael Castillo
+Telefono : 1167880709
+Email : alechaparro2013@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Busco trabajo donde pueda desempeñarme como docente o como coordinadora. ya que adquirí suficiente experiencia para desenvolverme en estas áreas
+Security_code : 2qrf5
+Send : Enviar
+
+---------------
+
+Address : 186.57.131.138
+Nombre : Alejandra Gabriela
+Apellido : Chaparro
+Cargo : Docente
+Direccion : Jorge de Kay 2755
+Ciudad : Rafael Castillo
+Telefono : 1167880709
+Email : alechaparro2013@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Busco trabajo de docente o coordinadora. Ya que he adquirido suficiente experiencia y habilidades para desenvolverme en estas áreas
+Security_code : pbvpn
+Send : Enviar
+
+---------------
+
+Address : 200.82.107.206
+Nombre : Florencia
+Apellido : Tallatta
+Cargo : Selectora Personal, Recursos Humanos, Psicóloga
+Direccion : Echeverría 2764
+Ciudad : Buenos Aires
+Telefono : 1569349530
+Email : jlor_fnt@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto aquí mi CV, soy Licenciada en Psicología (UBA), actualmente me desempeño como Consultora en una empresa de diseño. Muchas gracias.
+Security_code : 4g9mm
+Send : Enviar
+
+---------------
+
+Address : 200.82.107.206
+Nombre : Florencia
+Apellido : Tallatta
+Cargo : Selectora Personal, Recursos Humanos, Psicóloga
+Direccion : Echeverría 2764
+Ciudad : Buenos Aires
+Telefono : 1569349530
+Email : jlor_fnt@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto aquí mi CV, soy Licenciada en Psicología (UBA), actualmente me desempeño como Consultora en una empresa de diseño. Muchas gracias.
+Security_code : 5j8c4
+Send : Enviar
+
+---------------
+
+Address : 186.22.242.141
+Nombre : Veronica
+Apellido : Gonzalez
+Cargo : Administrativa
+Direccion : Pedro Etchegoyen 577
+Ciudad : Burzaco
+Telefono : 1163217233
+Email : veronicagonzalez50@yahoo.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola, adjunto cv, amplia experiencia en salud
+Security_code : x834y
+Send : Enviar
+
+---------------
+
+Address : 186.22.231.253
+Nombre : Marianella
+Apellido : Cáceres
+Cargo : Administrativa
+Direccion : General Escalada 95
+Ciudad : Avellaneda
+Telefono : 15-4041-3011
+Email : mariicaceres@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estoy en la búsqueda de un empleo part time, ya que me encuentro cursando en la Universidad de Buenos Aires. En lo posible me gustaría conseguir un empleo acorde a mis estudios de Economía, para poder implementar mis conocimientos e ir adquiriendo nuevos. Atte. Marianella B. Cáceres
+Security_code : yrk2c
+Send : Enviar
+
+---------------
+
+Address : 186.22.231.253
+Nombre : Marianella
+Apellido : Cáceres
+Cargo : Administrativa
+Direccion : General Escalada 95
+Ciudad : Avellaneda
+Telefono : 15-4041-3011
+Email : mariicaceres@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estoy en la búsqueda de un empleo part time, ya que me encuentro cursando en la Universidad de Buenos Aires. En lo posible me gustaría conseguir un empleo acorde a mis estudios de Economía, para poder implementar mis conocimientos e ir adquiriendo nuevos. Atte. Marianella B. Cáceres
+Security_code : yrk2c
+Send : Enviar
+
+---------------
+
+Address : 186.22.231.253
+Nombre : Marianella
+Apellido : Cáceres
+Cargo : Administrativa
+Direccion : General Escalada 95
+Ciudad : Avellaneda
+Telefono : 15-4041-3011
+Email : mariicaceres@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estoy en la búsqueda de un empleo part time, ya que me encuentro cursando en la Universidad de Buenos Aires. En lo posible me gustaría conseguir un empleo acorde a mis estudios de Economía, para poder implementar mis conocimientos e ir adquiriendo nuevos. Atte. Marianella B. Cáceres
+Security_code : yrk2c
+Send : Enviar
+
+---------------
+
+Address : 186.22.231.253
+Nombre : Marianella
+Apellido : Cáceres
+Cargo : Administrativa
+Direccion : General Escalada 95
+Ciudad : Avellaneda
+Telefono : 15-4041-3011
+Email : mariicaceres@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estoy en la búsqueda de un empleo donde pueda implementar conocimientos y adquirir  nuevos, relacionado con mi carrera de Administración de la Empresa, en la Universidad de Buenos Aires. Mi preferencia sería horario part time para poder tener tiempo de estudiar.  
+Security_code : pm8qx
+Send : Enviar
+
+---------------
+

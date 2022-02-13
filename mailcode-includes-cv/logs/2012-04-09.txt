@@ -1,0 +1,130 @@
+Address : 190.139.104.147
+REF : jefe-de-operaciones
+Nombre : juan martin
+Apellido : pagola
+Cargo : jefe de operaciones
+Direccion : Bolivar 195 9no “4” 
+Ciudad : san miguel de tucuman
+Telefono : (0381) 15-5370677
+Email : jmpagola99@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : adjunto mi CV y tengo amplia disponibilidad de traslados interprovinciales o donde fuera necesario
+Security_code : b7v85
+Send : Enviar
+
+---------------
+
+Address : 190.177.217.39
+REF : tecnico-quimico
+Nombre : Enrique Omar
+Apellido : Ponce
+Cargo : Técnico-químico
+Direccion : LN Alem 3290, Parque San Martín
+Ciudad : Merlo
+Telefono : 0220-4801587 / 15-5702-3916
+Email : enriqueoponce@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto mi curriculum respondiendo a la convocatoria para el puesto de Técnico-químico. 
+
+Lo saludo atte.
+
+Enrique Omar Ponce
+Security_code : dsvkn
+Send : Enviar
+
+---------------
+
+Address : 190.0.188.23
+Nombre : adriana vera
+Apellido : dutra
+Cargo : niñera
+Direccion : fragata sarmiento
+Ciudad : Prov Bs As
+Telefono : 44810420
+Email : adri_lupila_ab@hotmail.com
+
+---------------
+
+Address : 190.0.188.23
+Nombre : adriana vera
+Apellido : dutra
+Cargo : niñera
+Direccion : fragata sarmiento
+Ciudad : Prov Bs As
+Telefono : 44810420
+Email : adri_lupila_ab@hotmail.com
+
+---------------
+
+Address : 190.0.188.23
+Nombre : Adriana Vera
+Apellido : DUTRA
+Cargo : niñera
+Direccion : fragata sarmiento
+Ciudad : Prov Bs As
+Telefono : 44810420
+Email : adri_lupila_ab@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : BUENOS DIAS ,NECESITO TRABAJO DE NI~ERA  APARTIR DE LA MAÑANA ENTRE 7 Y 8 HORAS  DE LUNES A VIERNES ,TENGO 43 AÑOS ,VIVO EN VILLA UDAONDO PARTIDO DE ITUZAINGO Y TRABAJE EN CASA DE FAMILIA CUIDANDO NIÑOS DURANTE 6 AÑOS. GRACIAS 
+Security_code : y q t 2 k
+Send : Enviar
+
+---------------
+
+Address : 190.0.188.23
+Nombre : Adriana Vera
+Apellido : DUTRA
+Cargo : niñera
+Direccion : fragata sarmiento
+Ciudad : Prov Bs As
+Telefono : 44810420
+Email : adri_lupila_ab@hotmail.com
+
+---------------
+
+Address : 190.0.188.23
+Nombre : Adriana Vera
+Apellido : DUTRA
+Cargo : niñera
+Direccion : fragata sarmiento
+Ciudad : Prov Bs As
+Telefono : 44810420
+Email : adri_lupila_ab@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : BUENOS DIAS ,NECESITO TRABAJO DE NI~ERA  APARTIR DE LA MAÑANA ENTRE 7 Y 8 HORAS  DE LUNES A VIERNES ,TENGO 43 AÑOS ,VIVO EN VILLA UDAONDO PARTIDO DE ITUZAINGO Y TRABAJE EN CASA DE FAMILIA CUIDANDO NIÑOS DURANTE 6 AÑOS. GRACIAS 
+Security_code : yqt2k
+Send : Enviar
+
+---------------
+
+Address : 186.38.35.58
+Nombre : Mariano Luis
+Apellido : Bellada
+Cargo : tec en seguridad e higiene
+Direccion : avellaneda 405
+Ciudad : Guamini
+Telefono : (02923)-15435514
+Email : marianobellada@hotmail.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : espero reciabn mi cv y les agrade!
+espro una pronta repuesta saludos!
+Security_code : s4fkx
+Send : Enviar
+
+---------------
+
+Address : 186.22.200.179
+Nombre : Sabrina Laura
+Apellido : Machicote
+Cargo : Lic en nutricion
+Direccion : Roca 850
+Ciudad : Remedios de Escalada
+Telefono : 4288-2407
+Email : sabrimachi@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Les envio mi CV para que me tengan en cuenta en busquedas de Nutricionista Desde ya muchas gracias Sabrina Machicote
+Security_code : z92fr
+Send : Enviar
+
+---------------
+

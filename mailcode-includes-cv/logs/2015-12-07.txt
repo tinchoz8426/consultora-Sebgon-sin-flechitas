@@ -1,0 +1,24 @@
+Address : 190.245.151.82
+REF : SE.BIL
+Nombre : Sabrina 
+Apellido : Morales
+Cargo : Secretaria Bilingue
+Direccion : Madero 689 Versailles
+Ciudad : Capital Federal
+Telefono : part. 4-644-0532
+Email : bebecitosdeco@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenas Tardes.
+Adjunto les envio mi CV para que sea tenido en cuenta en este puesto, tengo muchos años de experiencia como Secretaria de Direccion.
+Desde ya, muchas gracias.
+
+Atentos saludos.
+
+Sabrina Morales.
+15-6-568-3196
+
+Security_code : 73944
+Send : Enviar
+
+---------------
+

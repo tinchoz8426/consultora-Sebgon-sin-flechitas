@@ -1,0 +1,239 @@
+Address : 190.30.190.144
+Nombre : Maria Elsa
+Apellido : Cesar
+Cargo : Cual se necesite
+Direccion : Jacinto Rios 1318
+Ciudad : Cordoba
+Telefono : 3513634550
+Email : mariaelsacesar@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Mi deseo es poder desempeñarme en las tareas requeridas por el puesto de trabajo demandante.
+Security_code : 84fcv
+Send : Enviar
+
+---------------
+
+Address : 190.193.1.28
+Nombre : Rocío Anahí
+Apellido : Rebolledo
+Cargo : Recursos Humanos O Administración
+Direccion : Pueyrredon 539, barrio Arévalo
+Ciudad : Cipolletti
+Telefono : 299-4044775
+Email : rociooanahi27@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Le dejo mi cv a su disposición a fin de que me tenga en cuenta como posible candidata. Me interesan puestos en el área de RRHH O ADMINISTRACIÓN
+Security_code : ycbwq
+Send : Enviar
+
+---------------
+
+Address : 190.138.152.112
+Nombre : ADRIAN GERARDO 
+Apellido : MARTINEZ
+Cargo : OPERARIO TECNICO
+Direccion : AV ACEVEDO 2884 P3 DTO10
+Ciudad : ROSARIO
+Telefono : 3413731030
+Email : adriangmartinez@hotmail.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : HOLA, DESEARIA POSTULARME COMO EMPLEADO DE PRODUCCION O TECNICO. POSEO POCA EXPERIENCIA, Y CAPACIDAD DE APRENDIZAJE, RESPONSABILIDAD Y BUEN DESARROLLO EN EL PUESTO A OCUPAR.
+Security_code : 22nzs
+Send : Enviar
+
+---------------
+
+Address : 190.189.113.35
+REF : ACO
+Nombre : Adrian Marcelo
+Apellido : D`Errico
+Cargo : Ejecutivo de cuenta/Asesor comercial
+Direccion : Ramón L. Falcón 4457 Dtpto : B
+Ciudad : Capital Federal - barrio de Floresta
+Telefono : 1155625465
+Email : marceloderrico.73@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenas Tardes : dejo un teléfono alternativo : 46363229.Tengo una amplia experiencia comercial,actitud y tengo una excelente predisposición a enfrentar nuevos desafíos y poder brindar mis conocimientos.Muchas gracias. Slds atte. Adrián D`Errico.
+Security_code : xjbw6
+Send : Enviar
+
+---------------
+
+Address : 190.189.113.35
+REF : ACO
+Nombre : Adrian Marcelo
+Apellido : D`Errico
+Cargo : Ejecutivo de cuenta/Asesor comercial
+Direccion : Ramón L. Falcón 4457 Dtpto : B
+Ciudad : Capital Federal - barrio de Floresta
+Telefono : 1155625465
+Email : marceloderrico.73@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenas Tardes : dejo un teléfono alternativo : 46363229.Tengo una amplia experiencia comercial,actitud y tengo una excelente predisposición a enfrentar nuevos desafíos y poder brindar mis conocimientos.Muchas gracias. Slds atte. Adrián D`Errico.
+Security_code : xjbw6
+Send : Enviar
+
+---------------
+
+Address : 190.189.113.35
+Nombre : Adrian Marcelo
+Apellido : D`Errico
+Cargo : Asesor comercial
+Direccion : Ramón L. Falcón 4457 Dtpto : B
+Ciudad : Capital Federal .
+Telefono : 1155625465
+Email : marceloderrico.73@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me encuentro a entera disposición para brindar mi conocimientos con el objetivo claro de poder crecer y hacer crecer a la empresa al cual represento. Slds atte Adrian D`Errico
+Security_code : xtzcf
+Send : Enviar
+
+---------------
+
+Address : 190.189.113.35
+Nombre : Adrian Marcelo
+Apellido : D`Errico
+Cargo : Asesor comercial
+Direccion : Ramón L. Falcón 4457 Dtpto : B
+Ciudad : Capital Federal .
+Telefono : 1155625465
+Email : marceloderrico.73@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me encuentro a entera disposición para brindar mi conocimientos con el objetivo claro de poder crecer y hacer crecer a la empresa al cual represento. Slds atte Adrian D`Errico
+Security_code : 47fnw
+Send : Enviar
+
+---------------
+
+Address : 190.189.113.35
+REF : ACO
+Nombre : Adrian Marcelo
+Apellido : D`Errico
+Cargo : Ejecutivo de cuenta/Asesor comercial
+Direccion : Ramón L. Falcón 4457 Dtpto : B
+Ciudad : Capital Federal - barrio de Floresta
+Telefono : 1155625465
+Email : marceloderrico.73@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenas Tardes : dejo un teléfono alternativo : 46363229.Tengo una amplia experiencia comercial,actitud y tengo una excelente predisposición a enfrentar nuevos desafíos y poder brindar mis conocimientos.Muchas gracias. Slds atte. Adrián D`Errico.
+Security_code : xtzcf
+Send : Enviar
+
+---------------
+
+Address : 190.189.113.35
+REF : ACO
+Nombre : Adrian Marcelo
+Apellido : D`Errico
+Cargo : Ejecutivo de cuenta/Asesor comercial
+Direccion : Ramón L. Falcón 4457 Dtpto : B
+Ciudad : Capital Federal - barrio de Floresta
+Telefono : 1155625465
+Email : marceloderrico.73@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenas Tardes : dejo un teléfono alternativo : 46363229.Tengo una amplia experiencia comercial,actitud y tengo una excelente predisposición a enfrentar nuevos desafíos y poder brindar mis conocimientos.Muchas gracias. Slds atte. Adrián D`Errico.
+Security_code : xtzcf
+Send : Enviar
+
+---------------
+
+Address : 190.189.113.35
+REF : ACO
+Nombre : Adrian Marcelo
+Apellido : D`Errico
+Cargo : Ejecutivo de cuenta/Asesor comercial
+Direccion : Ramón L. Falcón 4457 Dtpto : B
+Ciudad : Capital Federal - barrio de Floresta
+Telefono : 1155625465
+Email : marceloderrico.73@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenas Tardes : dejo un teléfono alternativo : 46363229.Tengo una amplia experiencia comercial,actitud y tengo una excelente predisposición a enfrentar nuevos desafíos y poder brindar mis conocimientos.Muchas gracias. Slds atte. Adrián D`Errico.
+Security_code : 2 y 9 b j
+Send : Enviar
+
+---------------
+
+Address : 190.189.113.35
+REF : ACO
+Nombre : Adrian Marcelo
+Apellido : D`Errico
+Cargo : Ejecutivo de cuenta/Asesor comercial
+Direccion : Ramón L. Falcón 4457 Dtpto : B
+Ciudad : Capital Federal - barrio de Floresta
+Telefono : 1155625465
+Email : marceloderrico.73@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenas Tardes : dejo un teléfono alternativo : 46363229.Tengo una amplia experiencia comercial,actitud y tengo una excelente predisposición a enfrentar nuevos desafíos y poder brindar mis conocimientos.Muchas gracias. Slds atte. Adrián D`Errico.
+Security_code : snhjb
+Send : Enviar
+
+---------------
+
+Address : 200.122.105.144
+Nombre : Michele
+Apellido : Saint-Lary
+Cargo : Controller - Comercial Sr.
+Direccion : Charcas 4070 20 A
+Ciudad : Capital Federal
+Telefono : 011-156-877-8516
+Email : michele.saintlary@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados buenas tardes, 
+
+Les envío en adjunto mi CV para que el mismo pueda ser incorporado a su base de datos y tenido en cuenta para futuras búsquedas que ustedes consideren acordes a mi perfil.
+
+Tengo más de una década de experiencia profesional con especialización en comercio internacional, habiéndome desempeñado exitosamente en puestos de customer service , regional account management, controller y ventas a nivel nacional/regional en empresas multinacionales de primer nivel.
+Desde ya muchas gracias y quedo a su entera disposición para concretar una entrevista o en caso que surjan consultas adicionales sobre mi experiencia laboral. 
+Saludos y gracias de antemano,
+Michele
+
+Security_code : mc46t
+Send : Enviar
+
+---------------
+
+Address : 179.63.200.128
+Nombre : Brenda
+Apellido : Melián
+Cargo : Asistente de Recursos Humanos
+Direccion : Empedrado
+Ciudad : Merlo
+Telefono : 011-15-41964477
+Email : brenda.melian@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje :             
+Security_code : 8q5rw
+Send : Enviar
+
+---------------
+
+Address : 181.119.61.2
+Nombre : Rocio
+Apellido : Dominguez
+Cargo : operaria de limpieza
+Direccion : Belsky 1009
+Ciudad : Merlo Buenos Aires.
+Telefono : 01150223256
+Email : rociodominguez19@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Miobjetivo es encontrar una estabilidad economica.
+Security_code : zj8j2
+Send : Enviar
+
+---------------
+
+Address : 190.188.126.117
+Nombre : Darío Franco
+Apellido : Nussbaum
+Cargo : Comercial/Administrativo/Cobranzas
+Direccion : Amuchastegui 1104
+Ciudad : Rosario
+Telefono : 4566747
+Email : darionuss@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estoy en busca de un empleo donde pueda desarrollarme, demostrar mi interes por capacitarme y mostrar mi buena adaptación a diferentes areas y relaciones interpersonales.
+Security_code : 2dtwk
+Send : Enviar
+
+---------------
+

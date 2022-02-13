@@ -1,0 +1,30 @@
+Address : 190.190.104.4
+Nombre : daniela paula
+Apellido : sanchez
+Cargo : opararia
+Direccion : necochea 2072
+Ciudad : san martin
+Telefono : 47545693
+Email : dana_slata@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estoy buscando trabajo y quisiera que me tomen en cuenta para los puestos que consideren. desde ya muchas gracias.
+Security_code : 9mkq5
+Send : Enviar
+
+---------------
+
+Address : 186.124.22.134
+Nombre : Rocio Belen
+Apellido : Mosquera
+Cargo : Senior .Junior
+Direccion : Santa Maria 2068
+Ciudad : Tigre
+Telefono : 1557603455
+Email : ro_mosquera85@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Mi intencion es poder insertarme en el area de recursos humanos debido a que estoy proxima a recibirme de Licenciada en Psicologia
+Security_code : 4t9jg
+Send : Enviar
+
+---------------
+

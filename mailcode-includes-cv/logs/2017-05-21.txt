@@ -1,0 +1,53 @@
+Address : 66.249.85.11<br>
+ <br>REF : EP-1
+ <br>Nombre : Carlos
+ <br>Apellido : Freitas
+ <br>Cargo : Supervisor
+ <br>Direccion : Guatambú 959
+ <br>Ciudad : Adrogué, Buenos Aires
+ <br>Telefono : 1136215805
+ <br>Email : carlosfmejis@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : El currículum de los estaré enviando cuando nos pongamos en contacto. Gracias
+ <br>Security_code : q7t3q
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.183.113.157<br>
+ <br>Nombre : Romina
+ <br>Apellido : Alvarez Bazán
+ <br>Cargo : Lic. en Trabajo Social
+ <br>Direccion : Ustarroz 956
+ <br>Ciudad : San Miguel
+ <br>Telefono : 01158233263
+ <br>Email : alvarezbazanromina@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Consultora Sebgon
+A quien corresponda
+S/D:
+      Me dirijo a ustedes a fin de enviar el curriculum vitae para postularme en oportunidades laborales  acordes a mi formación. 
+particularmente este fin de semana en una página de búsqueda laboral observe una solicitud para la realización de socioambientales por la zona en la que resido.
+saludos atentamente.
+Lic. Alvarez Bazán Romina 
+ <br>Security_code : 5dd35
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.213.39.193<br>
+ <br>REF : ROT-1
+ <br>Nombre : Lucas
+ <br>Apellido : Acurso
+ <br>Cargo : Encargado oficina tecnica
+ <br>Direccion : esmeralda 2379
+ <br>Ciudad : florida
+ <br>Telefono : 1555265171
+ <br>Email : lucasacurso@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Por medio del presente, me postulo para el trabajo de encargado de oficina tecnica
+ <br>Security_code : 3z33s
+ <br>Send : Enviar
+ <br>
+---------------
+

@@ -1,0 +1,147 @@
+Address : 190.51.39.246
+Nombre : Daiana Jimena
+Apellido : Moio
+Cargo : Vendedora de mostrador
+Direccion : Padre Bruzzone 330
+Ciudad : Ezpeleta
+Telefono : 1568467166
+Email : daianajmoio@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me encuentro en la búsqueda de un empleo que me permita crecer profesionalmente. Me caracteriza el buen trato hacia los demás
+Security_code : b5cw9
+Send : Enviar
+
+---------------
+
+Address : 144.36.62.53
+Nombre : Agustina
+Apellido : Argañaraz Billinghurst
+Cargo : Recursos humanos
+Direccion : Ayacucho 1523 - Recoleta
+Ciudad : Capital Federal
+Telefono : 011153867007
+Email : arganaraz.agustina@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : A continuación envio mi cv en con el objetivo de aplicar a las vacantes disponibles que existan en el área soft de Recursos humanos, es de mi interés poder insertarme en el área de selección y reclutamiento, encontrandome actualmente como asistente de RR-HH en el área de Training para América Latina.
+Security_code : nwzxy
+Send : Enviar
+
+---------------
+
+Address : 144.36.62.53
+Nombre : Agustina
+Apellido : Argañaraz Billinghurst
+Cargo : Recursos humanos
+Direccion : Ayacucho 1523 - Recoleta
+Ciudad : Capital Federal
+Telefono : 011153867007
+Email : arganaraz.agustina@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : A continuación envio mi cv en con el objetivo de aplicar a las vacantes disponibles que existan en el área soft de Recursos humanos, es de mi interés poder insertarme en el área de selección y reclutamiento, encontrandome actualmente como asistente de RR-HH en el área de Training para América Latina.
+Security_code : 5sk5f
+Send : Enviar
+
+---------------
+
+Address : 190.192.171.147
+Nombre : Diego hernan
+Apellido : Capola
+Cargo : chofer/operario
+Direccion : colodrero 925 pontevedra
+Ciudad : Bs As
+Telefono : 1555641433
+Email : marinasoa@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : quisiera que me tengan en cuenta para chofer o algun otro empleo como operario o capacitarmepara el puesto a desarrollar   gracias!
+Security_code : 8s4cn
+Send : Enviar
+
+---------------
+
+Address : 190.192.171.147
+Nombre : Diego hernan
+Apellido : Capola
+Cargo : chofer-operario
+Direccion : colodrero 925 pontevedra
+Ciudad : Bs As
+Telefono : 1555641433
+Email : marinasoa@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : PARA PUESTO DE OPERARIO O CHOFER DE CAMION O CAPACITARME PRA EL PUESTO A OCUPAR GRACIAS!!!
+Security_code : F7G9T
+Send : Enviar
+
+---------------
+
+Address : 186.19.190.210
+Nombre : Debora
+Apellido : Oviedo
+Cargo : Recepcion, administracion, ect
+Direccion : Costa Rica 2040
+Ciudad : Ituzaingo
+Telefono : 1563757612
+Email : deb.oviedo@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : A quien corresponda: Le adjunto mi cv para puestos administrativos,recepcion,auxiliar contable,ect.Teniendo ecperiencia comprobable ne pueestos similares.
+Desde ya muchas gracias.
+Saluda atte.
+Debora
+Security_code : 6jk99
+Send : Enviar
+
+---------------
+
+Address : 190.18.129.5
+Nombre : María Guadalupe
+Apellido : Gabancho
+Cargo : Asistente de Comunicación
+Direccion : Virrey Arredondo 2480 3A
+Ciudad : Capital Federal
+Telefono : 47819212
+Email : guadagabancho@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Soy María Guadalupe Gabancho y tengo 22 años. Me recibí de Licenciada en Comunicación Social en la Universidad de Ciencias Empresariales y Sociales (UCES) en diciembre del 2011, con un promedio general de carrera de 8,95. 
+
+Es de mi mayor interés, ingresar en el campo laboral de la comunicación. Si bien no poseo una gran experiencia laboral, teniendo en cuenta que he concentrado mis esfuerzos en la culminación de la carrera, poseo voluntad y ganas de aprender, capacitarme y desarrollarme en el ámbito profesional.
+
+Poseo un excelente dominio del idioma inglés, oral y escrito, habiendo aprobado el examen  Certificate of Proficiency in English (CPE). Además tengo un nivel intermedio en el idioma francés. Desde hace años tomo clases y participo de talleres de arte. Asimismo, sigo con mucha atención los desarrollos en las áreas de comunicación y prensa, interesándome especialmente por su relación con los procesos de marketing aplicados. 
+
+Siempre encaro los  proyectos y los desafíos con muy buena predisposición y con espíritu abierto y emprendedor. Poseo una actitud positiva y entusiasta al embarcarme en cada trabajo, procurando participar con sentido creativo e innovador en la dinámica grupal establecida. Me caracterizo por ser responsable y perseverante en todo momento.
+
+Agradezco desde ya la atención prestada a la presente, quedando al aguardo de sus novedades.
+
+
+Atentamente, 
+ 
+
+María Guadalupe Gabancho
+ 
+
+
+Virrey Arredondo 2480 3º A (CP: 1426)
+guada_gab@fibertel.com.ar
+guadagabancho@yahoo.com.ar
+
+4 781- 9212
+15 51 11 88 70
+Security_code : jzbx7
+Send : Enviar
+
+---------------
+
+Address : 201.255.175.211
+Nombre : Carolina
+Apellido : Fernandez
+Cargo : Eventos
+Direccion : Lugones 425
+Ciudad : Quilmes
+Telefono : 42244201
+Email : carolina.fz@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Envío mi curriculum vitae, esperando por la búsqueda de personal en el área en que me especializo.
+Saludos Cordiales
+Security_code : h53qk
+Send : Enviar
+
+---------------
+

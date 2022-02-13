@@ -1,0 +1,86 @@
+Address : 186.22.5.63<br>
+ <br>REF : T.ELE
+ <br>Nombre : Edgardo
+ <br>Apellido : Ucha
+ <br>Cargo : Electrónicos para dpto de Producción y Desarrollo
+ <br>Direccion : Av. Directorio  3401 Piso 7
+ <br>Ciudad : CABA
+ <br>Telefono : 20689609
+ <br>Email : edgardoucha@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Amplia experiencia en diseños electrónicos
+ <br>Security_code : gs7z3
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.19.195.122<br>
+ <br>REF : JP
+ <br>Nombre : Alejandro Mauricio
+ <br>Apellido : García
+ <br>Cargo : Jefe de Personal
+ <br>Direccion : Juan Bautista Alberdi 735
+ <br>Ciudad : Monte Grande
+ <br>Telefono : 15-5106-2218
+ <br>Email : alejandro_garcia_villarino@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenos días,
+
+Adjunto CV para postularme a búsqueda de referencia o futuras.
+
+Saludos cordiales
+ <br>Security_code : j78wp
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.133.35.208<br>
+ <br>Nombre : Alfredo Oscar
+ <br>Apellido : Ibañez
+ <br>Cargo : Tecnico Seguridad e Higiene
+ <br>Direccion : Colon 490
+ <br>Ciudad : Rio Grande
+ <br>Telefono : 2964536285
+ <br>Email : alfredooscar28@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas tarde, me dirijo a Ud. a los efectos tengan a bien considerar el presente documento como una enumeración cronológica de mis conocimientos y experiencia, en las actividades y labores detallados. Así mismo brindo toda la información personal necesaria para que Ud. disponga en caso de una eventual vacante. 
+Sin más y quedando a la espera de una respuesta favorable me despido muy Atte. Alfredo Ibañez.
+
+ <br>Security_code : 2tpqf
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 179.60.254.46<br>
+ <br>REF : OEL
+ <br>Nombre : carlos alfredo 
+ <br>Apellido : carrizo
+ <br>Cargo : oficial electricista
+ <br>Direccion : pilcomayo 1230
+ <br>Ciudad : buenos aires
+ <br>Telefono : 42863534
+ <br>Email : alfredocarrizo1230@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Datos personales
+Nombre: Carlos Alfredo
+Apellido: Carrizo
+Fecha de nacimiento: 15/01/1972 
+D.N.I: 22494746
+Cuil: 20-22494746-2
+Estado civil: Casado
+Nacionalidad: Argentino
+Domicilio: Pilcomayo 1230
+Localidad: Banfield oeste
+Partido: Lomas de Zamora
+Código postal: 1828
+TEL: celular:1136257645
+Fijo: 4286-3534
+responsable
+disposponibilidad horaria
+a tiempo completo
+sueldo a combenio uocra
+ <br>Security_code : cbw6j
+ <br>Send : Enviar
+ <br>
+---------------
+

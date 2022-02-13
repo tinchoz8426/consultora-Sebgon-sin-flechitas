@@ -1,0 +1,46 @@
+Address : 186.109.170.40
+Nombre : rodolfo antonio
+Apellido : manfredi
+Cargo : supervisor de seguridad
+Direccion : m.irigoyen 616
+Ciudad : castelar
+Telefono : 1158567819
+Email : r_manfredi@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : me interesa el puesto
+Security_code : tp85r
+Send : Enviar
+
+---------------
+
+Address : 186.182.185.102
+REF : supervisor-seguridad
+Nombre : jorge raul
+Apellido : hermida
+Cargo : supervisor de seguridad
+Direccion : rio negro 702
+Ciudad : el palomar
+Telefono : 47589665
+Email : jorge.elescribidor@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto CV con motivo de acceder a la posibilidad de empleo de supervisor
+Security_code : 89j2w
+Send : Enviar
+
+---------------
+
+Address : 190.173.127.221
+Nombre : Pablo Esteban
+Apellido : Carrazana
+Cargo : Tecnico
+Direccion : Cucha Cucha 681
+Ciudad : Tablada
+Telefono : 011-4442-7999
+Email : pablocarrazana@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Deseo tener  una pronta respuesta.. Muchas Gracias
+Security_code : rf4wd
+Send : Enviar
+
+---------------
+

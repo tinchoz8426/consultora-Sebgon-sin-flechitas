@@ -1,0 +1,15 @@
+Address : 190.229.213.28
+Nombre : Juan Manuel
+Apellido : Rodriguez
+Cargo : Administrativo, At. al Publico, etc
+Direccion : Castelli 2555
+Ciudad : Santa Fe
+Telefono : 0342-154050072
+Email : rodriguezjuanma@hotmail.es
+MAX_FILE_SIZE : 2097152
+Mensaje : Les envio mi CV para que lo tengan encuenta para poder ser parte de su gran empresa, quedo a su estera disposición para cualquier puesta vacante, muchas gracias, sludos cordiales.
+Security_code : n8psj
+Send : Enviar
+
+---------------
+

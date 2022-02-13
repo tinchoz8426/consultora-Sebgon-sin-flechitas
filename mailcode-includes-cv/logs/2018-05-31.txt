@@ -1,0 +1,299 @@
+Address : 201.255.53.60<br>
+ <br>Nombre : Daniel Adrián
+ <br>Apellido : Serrano
+ <br>Cargo : Desarrollos electrónicos. Técnico en electrónica. Programación c# visual studio.net
+ <br>Direccion : Abramo.
+ <br>Ciudad : Merlo
+ <br>Telefono : 0111527142481
+ <br>Email : serrano.das@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados Sres/as de Recursos Humanos.
+
+Tengo el agrado de dirigirme a Ud/s con el objetivo de participar en búsquedas acordes a mi perfil en su empresa. 
+Adjunto mi Currículum Vitae buscando ser incluido en su base de datos por si se produjera alguna vacante.
+En relación a esto, cuento con la experiencia y los conocimientos técnicos necesarios para desarrollar actividades  de acuerdo a los requerimientos de la empresa.
+Además, cuento con un nivel de inglés avanzado y manejo de herramientas informáticas.
+Considero que podría integrar adecuadamente a la organización ya que soy una persona proactiva y con la capacidad para formar parte de un equipo de trabajo en el que se busque permanentemente alcanzar los valores sostenidos en la responsabilidad social empresaria.
+Agradezco la gentileza de su atención y quedo a la espera de sus comentarios. Asimismo, aprovecho esta oportunidad para saludarlo cordialmente.
+
+
+Daniel Adrián Serrano.
+Tel.: 1127142481.
+ <br>Security_code : jfcnm
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.255.53.60<br>
+ <br>REF : TEC. EL
+ <br>Nombre : Daniel Adrián
+ <br>Apellido : Serrano
+ <br>Cargo : Desarrollos electrónicos. Técnico en electrónica. Programación c# visual studio.net
+ <br>Direccion : Abramo.
+ <br>Ciudad : Merlo
+ <br>Telefono : 0111527142481
+ <br>Email : serrano.das@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Muy Sres. míos,
+Con referencia a su anuncio publicado, adjunto mi curriculum vitae.
+Dada mi formación en el área técnica, así como la experiencia adquirida, considero que podría encajar perfectamente en el puesto ofrecido. Quedo a su disposición para ampliar cuanta información estimen necesaria.
+
+A la espera de sus noticias, se despide atentamente,
+
+Daniel Adrián Serrano.
+Tel.: 1127142481.
+
+ <br>Security_code : 5tsss
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.46.97.51<br>
+ <br>REF : TEC. EL
+ <br>Nombre : Mariano
+ <br>Apellido : Llombart
+ <br>Cargo : Técnico Automatización
+ <br>Direccion : Brandsen 1141
+ <br>Ciudad : Avellaneda
+ <br>Telefono : 15 6508 6313
+ <br>Email : mol.tesla@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : CV en Linkedin.
+ <br>Security_code : ff9h6
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.253.36.96<br>
+ <br>REF : TEC. EL
+ <br>Nombre : Fernando
+ <br>Apellido : López
+ <br>Cargo : Técnico Electrónico Especializado
+ <br>Direccion : Bolivia 3274
+ <br>Ciudad : CABA
+ <br>Telefono : 1163722386
+ <br>Email : ferochufer@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola, estoy interesado en la vacante, tengan a bien considerar mi CV, saludos, Fernando
+ <br>Security_code : 465ss
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.44.122.98<br>
+ <br>Nombre : ariel
+ <br>Apellido : Viglione
+ <br>Cargo : Supervisor/jefe de produccion
+ <br>Direccion : chile 1316 don torcuato
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 1568243055
+ <br>Email : arielviglione@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buen día, les envío mi c.v. para que me tengan en cuenta para futuras búsquedas relacionadas a produccion, tengo bastante experiencia en el área.
+
+Gracias
+
+Ariel Viglione
+ <br>Security_code : 87xjh
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.143.134.202<br>
+ <br>REF : TEC. EL
+ <br>Nombre : Luis Gustavo
+ <br>Apellido : Acuña
+ <br>Cargo : Técnico electrónico
+ <br>Direccion : Estrada
+ <br>Ciudad : Don Torcuato
+ <br>Telefono : 1539081835
+ <br>Email : Acunasl@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Técnico electrónico
+Técnico superior en automatización y control
+ <br>Security_code : d7td2
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.141.135.137<br>
+ <br>REF : TEC. EL
+ <br>Nombre : Luis Gustavo
+ <br>Apellido : Acuña
+ <br>Cargo : Técnico electrónico
+ <br>Direccion : Estrada
+ <br>Ciudad : Don Torcuato
+ <br>Telefono : 1539081835
+ <br>Email : Acunasl@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Técnico electrónico
+Técnico superior en automatización y control
+ <br>Security_code : d7td2
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.141.135.137<br>
+ <br>REF : TEC. EL
+ <br>Nombre : Luis Gustavo
+ <br>Apellido : Acuña
+ <br>Cargo : Técnico electrónico
+ <br>Direccion : Estrada
+ <br>Ciudad : Don Torcuato
+ <br>Telefono : 1539081835
+ <br>Email : Acunasl@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Técnico electrónico
+Técnico superior en automatización y control
+ <br>Security_code : fm79y
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 200.8.7.236<br>
+ <br>REF : TM-2
+ <br>Nombre : Juan
+ <br>Apellido : Martinez
+ <br>Cargo : Tecnico Mecanico
+ <br>Direccion : Calle Garces
+ <br>Ciudad : Punto Fijo
+ <br>Telefono : 04246449804
+ <br>Email : martn
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Ingeniero mecánico con 2 años de experiencia en inspección de equipos estáticos y soldaduras.
+ <br>Security_code : gjsdn
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.220.16.50<br>
+ <br>Nombre : Carlos Andrés
+ <br>Apellido : Rodriguez
+ <br>Cargo :  
+ <br>Direccion : Fray Justo Santamaria de Oro 2419 - Palermo
+ <br>Ciudad : CABA
+ <br>Telefono : +5491165162490
+ <br>Email : carlosandres1119@hotmail.es
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas tardes,
+
+Adjunto mi CV de Ing Mecanico para postularme a las diferentes ofertas laborales.
+
+Gracias
+ <br>Security_code : 6g8hg
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.228.223.128<br>
+ <br>Nombre : Gabriela Ana
+ <br>Apellido : Fernández Boiso
+ <br>Cargo : Secretaria Bilingüe
+ <br>Direccion : Darwin 517 1D
+ <br>Ciudad : CABA
+ <br>Telefono : 1530742885
+ <br>Email : gabrielafbv@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : De mi consideración: 
+
+Me dirijo a ustedes  por medio de la presente a fin de participar en eventuales búsquedas que puedan surgir de Secretaria Bilingüe para asistir a medios y altos mandos. 
+
+Debido a mi amplia experiencia laboral en firmas nacionales y multinacionales confío en tener el perfil necesario para el puesto. 
+Me considero una persona con buen manejo de relaciones interpersonales y aptitud para trabajar en equipo.
+
+Agradeciendo desde ya su atención y deseando me brinden la posibilidad de concertar una entrevista laboral donde poder ampliar la información que surge en el CV que les adjunto, los saluda muy atentamente,
+
+Gabriela Fernández Boiso
+15 3074-2885
+
+ <br>Security_code : nm4gb
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.169.142.197<br>
+ <br>REF : JPER-1
+ <br>Nombre : Claudia 
+ <br>Apellido : González
+ <br>Cargo : Jefe de Personal
+ <br>Direccion : Av. Maipú 1744, piso 3 H
+ <br>Ciudad : Vicente López, Bs As.
+ <br>Telefono : 1136692938
+ <br>Email : cgtpersonal@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Sírvanse recibir mi CV con el propósito de aplicar para la posición  publicada por ustedes.
+
+Cordiales saludos
+Claudia González
+ <br>Security_code : jc68h
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.44.121.131<br>
+ <br>REF : TEC. EL
+ <br>Nombre : Martin 
+ <br>Apellido : Werner
+ <br>Cargo : Técnico Electrónico TEC. EL
+ <br>Direccion : Emilio Morello 3076
+ <br>Ciudad : San Andrés
+ <br>Telefono : 1555937890
+ <br>Email : serviciomw@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Quisiera postularme para el puesto de Técnico Electrónico TEC. EL.
+Saludos Cordiales
+ <br>Security_code : vcqdm
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.44.121.131<br>
+ <br>REF : TEC. EL
+ <br>Nombre : Martin 
+ <br>Apellido : Werner
+ <br>Cargo : Técnico Electrónico TEC. EL
+ <br>Direccion : Emilio Morello 3076
+ <br>Ciudad : San Andrés
+ <br>Telefono : 1555937890
+ <br>Email : serviciomw@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Quisiera postularme para el puesto de Técnico Electrónico TEC. EL.
+Saludos Cordiales
+ <br>Security_code : vcwdm
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.44.121.131<br>
+ <br>REF : TEC. EL
+ <br>Nombre : Martin 
+ <br>Apellido : Werner
+ <br>Cargo : Técnico Electrónico TEC. EL
+ <br>Direccion : Emilio Morello 3076
+ <br>Ciudad : San Andrés
+ <br>Telefono : 1555937890
+ <br>Email : serviciomw@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Quisiera postularme para el puesto de Técnico Electrónico TEC. EL.
+Saludos Cordiales
+ <br>Security_code : wm43t
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.181.80.136<br>
+ <br>Nombre : Emiliano Alberto
+ <br>Apellido : Cuscueta
+ <br>Cargo : tecnico Electronico 
+ <br>Direccion : Losn Nogales 2669
+ <br>Ciudad : San antonio de padua-Merlo
+ <br>Telefono : 1161178011
+ <br>Email : emilianocuscueta@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : hola quisiera postularme para este puesto ya que vivo cerca, pero la pagina no me deja,les adjunto el link,gracias 
+https://ar.indeed.com/ver-empleo?jk=4d629e1fe4de2d1f&q=Tecnico+electronico&l=Merlo,+Buenos+Aires&tk=1ceq0u36738vba67&from=ja&alid=5b0e0e57e4b05039e4e9d54a&utm_source=jobseeker_emails&utm_medium=email&utm_campaign=job_alerts&rgtk=1ceq0u36738vba67
+ <br>Security_code : 26rv7
+ <br>Send : Enviar
+ <br>
+---------------
+

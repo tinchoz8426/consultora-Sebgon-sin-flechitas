@@ -1,0 +1,45 @@
+Address : 190.192.114.23
+Nombre : PAOLA BELEN
+Apellido : MONTALENTI
+Cargo : A CONVENIR
+Direccion : AV CORRIENTES 1642
+Ciudad : CAPITAL FEDERAL
+Telefono : 011 1555710130
+Email : BELEN.MONTALENTI@GMAIL.COM
+MAX_FILE_SIZE : 2097152
+Mensaje : Dominio de idioma inglés
+Disponibilidad tiempo completo
+
+Trabajos anteriores:
+
+vendedora
+atención al cliente
+secretaria
+telefonista
+call center
+camarera
+
+
+
+Muchas Gracias
+Security_code : VH4XJ
+Send : Enviar
+
+---------------
+
+Address : 190.231.244.220
+REF : jefe-de-operaciones
+Nombre : Maria Sol
+Apellido : Caceres
+Cargo : apuntadora,control de calidad
+Direccion : 11 de noviembre 1450
+Ciudad : zarate
+Telefono : 03487-15-659410
+Email : solcaceres1987@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : cv.caceres maria sol
+Security_code : ckf7t
+Send : Enviar
+
+---------------
+

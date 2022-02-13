@@ -1,0 +1,27 @@
+Address : 190.55.73.188
+Nombre : Ivan Leonardo 
+Apellido : Paredes 
+Cargo : Futuras Busquedas
+Direccion : Jose Neglia 650 
+Ciudad : Temperley
+Telefono : 1569615962
+Email : aivan1978@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : De mi mayor consideración:
+
+Tengo el agrado de dirigirme a usted con el fin de transmitirle mi deseo de encontrar empleo. A tal efecto adjunto a la presente, mi Cv para ser considerado como candidato en futuras búsquedas que se realicen.
+
+Actualmente he terminado la cursada de Ingeniería Industrial en la Universidad Nacional de Lomas de Zamora (UNLZ) restándome dar los últimos finales de dicha carrera, con lo cual cuento con amplia disponibilidad horaria como posibilidad de radicarme en cualquier región del país. Me considero una persona proactiva, ordenada, perseverante y responsable.
+
+Mi periodo de actividad laboral lo he realizado en Oficina Técnica en la cual colabore en el desarrollo de nuevos productos y como Analista de Ingeniería en una Consultora de Empresas.   
+
+Desde ya muchas gracias, quedo a su entera disposición para una posible y eventual entrevista personal.
+
+Saluda atentamente 
+
+Paredes Iván
+Security_code : p4pbk
+Send : Enviar
+
+---------------
+

@@ -1,0 +1,16 @@
+Address : 190.13.242.20
+REF : gerente-de-operaciones
+Nombre : fernando
+Apellido : arguello
+Cargo : operario
+Direccion : bussolini 4036
+Ciudad : jose c paz
+Telefono : 02320-421978
+Email : fernando_ariel.89@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : me registro para un trabajo.
+Security_code : pgg92
+Send : Enviar
+
+---------------
+

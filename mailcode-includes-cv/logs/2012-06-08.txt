@@ -1,0 +1,68 @@
+Address : 186.57.172.135
+Nombre : fabian jorge
+Apellido : gauna
+Cargo : operario de  deposito/ logistica
+Direccion : rio diamante 1324
+Ciudad : bella vista
+Telefono : 4-668-2182
+Email : fabian26-an@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : desde ya les agradesco tengan a bien ingresar mi curriculum en su base de datos 
+Security_code : pjdtx
+Send : Enviar
+
+---------------
+
+Address : 190.50.206.46
+Nombre : Aníbal Ernesto
+Apellido : Rodríguez
+Cargo : Repositor, Cajero
+Direccion : Marconi 1184
+Ciudad : El Palomar
+Telefono : 1162453297
+Email : anibalrodriguez86@hotmail.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Lograr un buen desempeño en las actividades a realizar, de acuerdo al desarrollo e intereses de la empresa para así poder alcanzar el éxito deseado, con posibilidad de crecimiento profesional en un buen ambiente laboral.
+Security_code : yyvvp
+Send : Enviar
+
+---------------
+
+Address : 190.173.196.113
+Nombre : ANALIA VERONICA
+Apellido : ZOPPO
+Cargo : evaluaciones grafológicas laborales y examenes psicotecnicos
+Direccion : veracruz 962
+Ciudad : lanus
+Telefono : 4241-4356
+Email : analiazoppo@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : consultora sebgon: 
+
+Por medio de la presente me dirijo a ustedes debido a la intención que tengo de trabajar en Empresa.
+Actualmente estoy cursando mi último año en la carrera de Grafología, por cuanto quisiera me tengan en cuentan para poder comenzar a aplicar mi capacitación. 
+Quedo a disposición de ustedes para una entrevista personal.
+Atte.
+Analía Zoppo
+Security_code : 4bv9c
+Send : Enviar
+
+---------------
+
+Address : 186.137.245.239
+REF : tecnico-electornico
+Nombre : CRISTIAN JOEL
+Apellido : paez
+Cargo : tecnico electronico
+Direccion : Bolivia 876 1 piso dto 19
+Ciudad : C.A.B.A.
+Telefono : 0380154799098
+Email : paez_lp@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me presento soy tecnico electronico en automatizacion y robotica, de acuerdo a su pedido cumplo con los requisitos y solicito una entrevista para poder plasmarles mejor mis conocimientos y virtudes. 
+aprovecho la oportunidad para saludarlos atte.
+Security_code : 33jmt
+Send : Enviar
+
+---------------
+

@@ -1,0 +1,129 @@
+Address : 181.23.16.44<br>
+ <br>Nombre : Alejandra
+ <br>Apellido : Olivencia
+ <br>Cargo : administrativo- recepcion
+ <br>Direccion : Marcelo T. De Alvear N°2358
+ <br>Ciudad : Jose C.Paz 
+ <br>Telefono : 1162760968
+ <br>Email : alle13_22@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : buenos dias, les dejo mi cv para algun puesto vigente acorde a mi cv.Gracias
+ <br>Security_code : y3stb
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.244.141.12<br>
+ <br>REF : ACO-1
+ <br>Nombre : Juan Pablo
+ <br>Apellido : Ali
+ <br>Cargo : ANALISTA DE COMERCIO INTERNACIONAL/EXTERIOR
+ <br>Direccion : Nazca 1045
+ <br>Ciudad : Flores
+ <br>Telefono : 011-15-6490-8887
+ <br>Email : juantandil82@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados :
+
+Postulo para el puesto de ANALISTA DE COMERCIO INTERNACIONAL/EXTERIOR , cuento con 9 años de experiencia en el area . 
+
+Gracias 
+ <br>Security_code : hvmdj
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.246.62.65<br>
+ <br>Nombre : Kevin
+ <br>Apellido : Lioi
+ <br>Cargo : Abogado
+ <br>Direccion : Av. Rivadavia 13876 8°L
+ <br>Ciudad : Ramos Mejía
+ <br>Telefono : +541164608255
+ <br>Email : kevinlioi@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Búsqueda de empleo que guarde relación con mi carrera de grado.
+ <br>Security_code : pkrs4
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 191.97.154.155<br>
+ <br>Nombre : Alan Emmanuel
+ <br>Apellido : Alvarez
+ <br>Cargo : Mozo, Atencion al cliente, Repositor, Cadete.
+ <br>Direccion : Gral. Fructuoso Rivera 2724
+ <br>Ciudad : Ituzaingó
+ <br>Telefono : 15-68576095
+ <br>Email : alan.e@hotmail.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Necesito urgente un trabajo, gracias de antemano.
+ <br>Security_code : n4j4f
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 191.97.154.155<br>
+ <br>Nombre : Alan Emmanuel
+ <br>Apellido : Alvarez
+ <br>Cargo : Mozo, Atencion al cliente, Repositor, Cadete.
+ <br>Direccion : Gral. Fructuoso Rivera 2724
+ <br>Ciudad : Ituzaingó
+ <br>Telefono : 15-68576095
+ <br>Email : alan.e@hotmail.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Necesito urgente un trabajo, gracias de antemano.
+ <br>Security_code : n4j4f
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 191.97.154.155<br>
+ <br>Nombre : Alan Emmanuel
+ <br>Apellido : Alvarez
+ <br>Cargo : Mozo, Atencion al cliente, Repositor, Cadete.
+ <br>Direccion : Gral. Fructuoso Rivera 2724
+ <br>Ciudad : Ituzaingó
+ <br>Telefono : 15-68576095
+ <br>Email : alan.e@hotmail.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Necesito urgente un trabajo, gracias de antemano.
+ <br>Security_code : 86spb
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.164.94.68<br>
+ <br>REF : JPER-1
+ <br>Nombre : Anibal
+ <br>Apellido : Aballe
+ <br>Cargo : Jefe de RRHH
+ <br>Direccion : Fitz Roy 2489
+ <br>Ciudad : Cap Fed.
+ <br>Telefono : 47754877
+ <br>Email : anibalaballe@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Adjunto antecedentes personales y laborales para ser evaluados en la búsqueda de Jefe de RRHH. DE considerar que los mismos, se ajustan a los requerimiento y perfil de la posición, me encuentro a su disposición par coordinar una entrvista de trabajo sobre la información que crean pertinente.
+ATTE
+
+Anibal Aballe
+ <br>Security_code : pqrd2
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.164.94.68<br>
+ <br>Nombre : Anibal
+ <br>Apellido : Aballe
+ <br>Cargo : jefe de RRHH
+ <br>Direccion : Fitz Roy 2489
+ <br>Ciudad : Cap Fed.
+ <br>Telefono : 47754877
+ <br>Email : anibalaballe@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : me encuentro en búsqueda activa para reinsertarme laboralmente en posiciones generalistas  en RRHH y con experiencia en la parte Hard y Soft de empresas industriales con importantes dotaciones de personal. Puedo desempeñarme perfectamente como Coordinador y Jefe de RRHH, debido a mi experiencia laboral de mas de 20 años en el área de RRHH
+ <br>Security_code : zmmj4
+ <br>Send : Enviar
+ <br>
+---------------
+

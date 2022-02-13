@@ -1,0 +1,30 @@
+Address : 190.50.201.135
+Nombre : Ana Laura
+Apellido : Rosset
+Cargo : Recepcionista, Estudiante farmacia, recepcionista consultorios, 
+Direccion : chuquisaca 4197
+Ciudad : hurlingham
+Telefono : 44590788
+Email : al.rosset@live.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Curriculum Vitae
+Security_code : ypqrv
+Send : Enviar
+
+---------------
+
+Address : 190.50.219.108
+Nombre : yanina
+Apellido : crisci
+Cargo : administrativo, secretaria, recepcionista, vendedora
+Direccion : anchorena 815
+Ciudad : la lucila- vicente lopez
+Telefono : 47900079
+Email : yanicrisci@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me gustaría postularme para alguna oportunidad laboral la cual desempeñarme de forma efectiva.Gracias!
+Security_code : xxbq5
+Send : Enviar
+
+---------------
+

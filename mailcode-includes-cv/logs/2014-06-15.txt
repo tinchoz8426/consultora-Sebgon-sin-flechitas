@@ -1,0 +1,19 @@
+Address : 181.47.205.99
+Nombre : María José
+Apellido : Castañeiras
+Cargo : Selectora
+Direccion : Valentín Cardozo 2358
+Ciudad : Lomas del Mirador
+Telefono : 1161741777
+Email : majo_181@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Soy Lic. en Psicología y poseo amplia experiencia en selección de personal. Estoy interesada en postularme para el puesto de selectora free lance.
+
+Desde ya muchas gracias.
+
+Saludos
+Security_code : 55ycw
+Send : Enviar
+
+---------------
+

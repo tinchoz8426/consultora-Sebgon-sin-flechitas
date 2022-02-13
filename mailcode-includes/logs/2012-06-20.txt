@@ -1,0 +1,15 @@
+Address : 200.6.193.194
+Nombre : Liz Aleida 
+Apellido : Soto López
+Empresa : MINEDUC
+Telefono : 52621468
+Email : lsoto@mineduc.gob.gt
+Mensaje : Estimados señores
+Agradecería su fina atención al enviarme un video y/o documento sobre capacitación motivacional y liderazgo. 
+Atentamente, 
+Liz Aleida Soto López
+Security_code : 9qrpn
+Send : Enviar
+
+---------------
+

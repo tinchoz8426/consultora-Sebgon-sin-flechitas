@@ -1,0 +1,143 @@
+Address : 66.249.85.11<br>
+ <br>REF : chr
+ <br>Nombre : Federico
+ <br>Apellido : Aquino
+ <br>Cargo : Chofer
+ <br>Direccion : Donato Alvares 1986
+ <br>Ciudad : Quilmes
+ <br>Telefono : 42215005
+ <br>Email : Federicoaquino63@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Quisiera postularme para el puesto de chófer 
+ <br>Security_code : jyvcy
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.7<br>
+ <br>REF : TE-1
+ <br>Nombre : yair 
+ <br>Apellido : fuertes
+ <br>Cargo : Tecnico electronico
+ <br>Direccion : Bombero celiz 683
+ <br>Ciudad : Hurligham
+ <br>Telefono : 1532636361
+ <br>Email : Y.fuertes.97@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Deseo desarollarme en el ambito laboral y poder ser util en lo que me necesiten.
+ <br>Security_code : hj8x6
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.9<br>
+ <br>REF : TE-1
+ <br>Nombre : yair 
+ <br>Apellido : fuertes
+ <br>Cargo : Tecnico electronico
+ <br>Direccion : Bombero celiz 683
+ <br>Ciudad : Hurligham
+ <br>Telefono : 1532636361
+ <br>Email : Y.fuertes.97@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Deseo desarollarme en el ambito laboral y poder ser util en lo que me necesiten.
+ <br>Security_code : hj8x6
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.7<br>
+ <br>REF : TE-1
+ <br>Nombre : yair 
+ <br>Apellido : fuertes
+ <br>Cargo : Tecnico electronico
+ <br>Direccion : Bombero celiz 683
+ <br>Ciudad : Hurligham
+ <br>Telefono : 1532636361
+ <br>Email : Y.fuertes.97@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Deseo desarollarme en el ambito laboral y poder ser util en lo que me necesiten.
+ <br>Security_code : hmt9j
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 206.48.241.69<br>
+ <br>Nombre : Leonel
+ <br>Apellido : Teplizky
+ <br>Cargo : Proyectista/ Diseñador Gráfico
+ <br>Direccion : Vicente López 879
+ <br>Ciudad : Pilar
+ <br>Telefono : 1156929634
+ <br>Email : leo_teplizky@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola soy Diseñador Gráfico, técnico mecánico y actualmente trabajo como proyectista, tengo conocimientos de programas en 2d y 3d.Desde ya muchas gracias.-
+ <br>Security_code : 26mj6
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.45.27.103<br>
+ <br>REF : chr
+ <br>Nombre : fernando ariel
+ <br>Apellido : Montenegro
+ <br>Cargo : chofer profecional
+ <br>Direccion : ferrarotty 437
+ <br>Ciudad : buenos aires
+ <br>Telefono : 1556612766
+ <br>Email : guadalupe18lu@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : me postulo como chofer prefecional 
+
+ <br>Security_code : gfqk5
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.195.26.151<br>
+ <br>REF : Ing. quim
+ <br>Nombre : Rainier Enrique
+ <br>Apellido : Suarez Salazar
+ <br>Cargo : Jefa de producción/ Ingeniera Química
+ <br>Direccion : Sanchez de Bustamante 1644, Piso 2, Aptt B
+ <br>Ciudad : Buenos Aire
+ <br>Telefono : 1162141814
+ <br>Email : Rainier_suarez@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me considero una persona responsable, trabajadora y de retos, estoy en la disponibilidad de atender cualquier oportunidad que se me pueda presentar, ya que voy con intensiones de asumir cualquier reto que se presente.
+ <br>Security_code : 8dfn3
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.195.26.151<br>
+ <br>REF : EP-1
+ <br>Nombre : Rainier Enrique
+ <br>Apellido : Suarez Salazar
+ <br>Cargo : ENCARGADO DE PRODUCCIÓN
+ <br>Direccion : Sanchez de Bustamante 1644, Piso 2, Aptt B
+ <br>Ciudad : Buenos Aire
+ <br>Telefono : 1162141814
+ <br>Email : Rainier_suarez@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me considero una persona responsable, trabajadora y de retos, estoy en la disponibilidad de atender cualquier oportunidad que se me pueda presentar, ya que voy con intensiones de asumir cualquier reto que se presente.
+ <br>Security_code : fh4hk
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 189.230.24.94<br>
+ <br>Nombre : Tania Selene 
+ <br>Apellido : Fuentes Carmona
+ <br>Cargo : Recien egresado economia
+ <br>Direccion : Calle Concepción Lombardo de Miramon No.3 Residencial Lomas Verdes 6ta Sección
+ <br>Ciudad : Mexico
+ <br>Telefono : 5530395411
+ <br>Email : tsfc_2009@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Mi nombre es  Tania Selene Fuentes Carmona y estudie Economía en la Universidad Nacional Autonoma de Mexico
+ <br>Security_code : ccbry
+ <br>Send : Enviar
+ <br>
+---------------
+

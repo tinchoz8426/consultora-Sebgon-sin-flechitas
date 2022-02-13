@@ -1,0 +1,15 @@
+Address : 190.173.104.12
+Nombre : Nicolas
+Apellido : Sidi
+Cargo : Cadete, administracion
+Direccion : alsina 965 
+Ciudad : ramos mejia
+Telefono : 1534477518
+Email : nico.15.92@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me presento ante esta posibilidad de poder ser parte del equipo, actualmente estoy cursando la carrera de educacion fisica por la tarde noche. Disponibilidad horaria full time. Experiencia: cadeteria y ayudante de administracion durante 3 años en inmobiliaria
+Security_code : 6rxrd
+Send : Enviar
+
+---------------
+

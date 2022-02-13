@@ -1,0 +1,467 @@
+Address : 186.60.167.67<br>
+ <br>Nombre : juan
+ <br>Apellido : bustos
+ <br>Cargo : JEFE RRHH
+ <br>Direccion : independencia 818 P 2 C 
+ <br>Ciudad : CABA
+ <br>Telefono : 43079132
+ <br>Email : juanbusto288@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : MI POSTULACION A VUESTRA DISPOSICION
+ <br>Security_code : X5YFW
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.178.139.108<br>
+ <br>Nombre : Sofia
+ <br>Apellido : Albarran
+ <br>Cargo : promoción, atención al publico, ventas, caja, administrativa, camarera, recepcionista
+ <br>Direccion : ayolas 5574
+ <br>Ciudad : mar del plata
+ <br>Telefono : 2234569318
+ <br>Email : sofii.noreply@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje :  A partir de mis estudios realizados, mi experiencia previa y nuevos desafíos, poder alcanzar un óptimo desempeño laboral para un crecimiento tanto personal como profesional y sumar otras experiencias siendo sumamente responsable en el trabajo a desempeñar.   
+ <br>Security_code : sckmx
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.46.36.239<br>
+ <br>REF : SP-1
+ <br>Nombre : daniel
+ <br>Apellido : romero
+ <br>Cargo : supervisor de produccion
+ <br>Direccion : calle 30 1761
+ <br>Ciudad : berazategui
+ <br>Telefono : 1551078811
+ <br>Email : danielbyb@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenos días :En breves palabras les comento que soy dinámico y creativo.Cuento con capacidad para orientar un trabajo en equipo.Tengo conocimiento en completar bacht recort y planillas de produccion. 
+ <br>Security_code : 8bm92
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.141.200.34<br>
+ <br>REF : JPER-1
+ <br>Nombre : PABLO MARIANO
+ <br>Apellido : GOMEZ
+ <br>Cargo : JEFE DE PERSONAL
+ <br>Direccion : LIBERTADOR 2785
+ <br>Ciudad : OLIVOS
+ <br>Telefono : 1559668515
+ <br>Email : pab_mg@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimado/a:
+Por este medio adjunto mi Curriculum Vitae. Estoy interesado en posiciones referidas al área de RRHH,Adm. de Personal, nominas, sueldos y/o compensaciones. Quedo a disposición para cualquier consulta. 
+Desde ya muchas gracias
+Saludos Cordiales
+
+ <br>Security_code : ff9nf
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.141.200.34<br>
+ <br>REF : JPER-1
+ <br>Nombre : PABLO MARIANO
+ <br>Apellido : GOMEZ
+ <br>Cargo : JEFE DE PERSONAL
+ <br>Direccion : LIBERTADOR 2785
+ <br>Ciudad : OLIVOS
+ <br>Telefono : 1559668515
+ <br>Email : pab_mg@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimado/a:
+Por este medio adjunto mi Curriculum Vitae. Estoy interesado en posiciones referidas al área de RRHH, Adm. de Personal, nominas, sueldos y/o compensaciones. Quedo a disposición para cualquier consulta. 
+Desde ya muchas gracias
+Saludos Cordiales
+
+ <br>Security_code : qzqxn
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.18.86.108<br>
+ <br>REF : SP-1
+ <br>Nombre : Oscar Aurelio
+ <br>Apellido : Pace
+ <br>Cargo : Supervisor de Producción
+ <br>Direccion : Rio de Janeiro 2634 
+ <br>Ciudad : Lanus, Bs. As.
+ <br>Telefono : 011-6939-8955
+ <br>Email : oscarpace06@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Tengo el agrado de dirigirme a Ud con motivo de la búsqueda de un Supervisor de Producción,a tal fin adjunto mi cv.
+Quedo a disposición para evacuar las consultas que considere oportunas.
+
+Cordialmente
+Oscar Aurelio Pace
+
+ <br>Security_code : 693rs
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.18.86.108<br>
+ <br>REF : SP-1
+ <br>Nombre : Oscar Aurelio
+ <br>Apellido : Pace
+ <br>Cargo : Supervisor de Producción
+ <br>Direccion : Rio de Janeiro 2634 
+ <br>Ciudad : Lanus, Bs. As.
+ <br>Telefono : 011-6939-8955
+ <br>Email : oscarpace06@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Tengo el agrado de dirigirme a Ud con motivo de la búsqueda de un Supervisor de Producción,a tal fin adjunto mi cv.
+Quedo a disposición para evacuar las consultas que considere oportunas.
+
+Cordialmente
+Oscar Aurelio Pace
+
+ <br>Security_code : 693rs
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.18.86.108<br>
+ <br>REF : SP-1
+ <br>Nombre : Oscar Aurelio
+ <br>Apellido : Pace
+ <br>Cargo : Supervisor de Producción
+ <br>Direccion : Rio de Janeiro 2634 
+ <br>Ciudad : Lanus, Bs. As.
+ <br>Telefono : 011-6939-8955
+ <br>Email : oscarpace06@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Tengo el agrado de dirigirme a Ud con motivo de la búsqueda de un Supervisor de Producción,a tal fin adjunto mi cv.
+Quedo a disposición para evacuar las consultas que considere oportunas.
+
+Cordialmente
+Oscar Aurelio Pace
+
+ <br>Security_code : 693rs
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.18.71.203<br>
+ <br>Nombre : emanuel
+ <br>Apellido : ingrassia
+ <br>Cargo : mantenimiento
+ <br>Direccion : pasaje espronceda
+ <br>Ciudad : argentina
+ <br>Telefono : 1561801818
+ <br>Email : labemanuelingrassia@hotamil.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Datos Personales_______________________________________
+Apellido y Nombre: Ingrassia Emanuel
+Nacionalidad: Argentina
+Domicilio: Pasaje Espronceda 2657 (Dto A) 
+Localidad: Vlla Real,Cap.Federal
+Código Postal: 1408
+Fecha de Nacimiento: 24/04/1987
+Estado Civil: Soltero
+Edad: 29 años
+DNI: 32.981.681
+Teléfonos: 4644-0287/ Cel.: 15-6180-1818
+Mail: labemanuelingrassia@hotmail.com
+
+Educación                                               ____
+
+•	Terciario Universitario Completo: en la Facultad de Odontología de la U.B.A (2009 - 2012).
+      Título: Técnico Universitario de Laboratorio Dental. (Matricula Nacional)
+                                 
+•	Curso de Formación Profesional: "Escuela Técnica Nº35 D.E.18, Ing.E Latzina. (2001-2003).
+      Título: Técnico Mecánico / medio oficial.
+
+•	Secundario completo: "Centro educativo de nivel secundario N°5" (2006-2009).                                                                                                        
+      Título: Perito Comercial Especializado en Administración de Empresas.
+
+•	Primario completo: "Escuela N°19 Antártida Argentina" (1993 -1999).
+                                    
+* Idioma: Inglés básico (oral y escrito).
+* Informática: Windows  - procesadores de texto: Microsoft Word 2016 - Internet  Explorer 8 -Planilla de cálculo: Excel 2016.
+
+
+
+CURSOS REALIZADOS:
+
+•	Tapicería Profesional: de sillones, sillas, amueblamientos en cueros y telas.
+
+•	Soldadura Profesional: eléctrica, estaño, bronce, plata, aluminio, oro. 
+
+•	Carpintería: lustrado de maderas, restauración muebles. 
+
+•	Mantenimiento general: Pintura, Herrería, albañilería, carpintería, cerrajería, electricidad, plomería, entre otros.
+
+Experiencia Laboral_____________________________________
+•	Taller Mecánico: en Martín Coronado Prov. de Bs. As (2000/ 2003).Tareas realizadas: ayudante del mecánico oficial, preparado de pedidos de repuestos automotor, mecánica ligera - frenos, embragues, dirección, tren delantero y trasero, suspensión. "Cierre"                                                                                           
+
+•	Taller de radiadores y tanques de nafta: en Tropezón Prov. de Bs. As (2004/ 2005). Tareas realizadas: Encargado del taller, recepcionista, limpieza de radiadores y tanques del automotor, soldaduras en estaño, plata, bronce, colocación y ventas de repuestos nuevo.
+
+•	Taller Mecánico Civil y de Competición: en San Martín Prov. de Bs. As (2005/ 2006).Tareas realizadas: Encargado del taller, mecánica completa, motores, cajas, tapas de cilindro, carburación, diferenciales.
+
+•	Empresa de Limpieza de Vidrios: en Sáenz peña Prov. de Bs. As (2009/ 2010). Tareas realizadas: manejo de reparto, negocios, empresas, casas.
+
+•	Laboratorio dental SILDENT: en caseros Prov. de Bs. As (2010 hasta marzo 2011).Tareas realizadas encerados.
+
+•	Laboratorio dental JAIME DENTAL: en Parque Patricios Cap. Fed (desde mayo 2011 hasta julio 2011). Tareas realizadas mesa de yeso, encerado.
+
+•	Laboratorio dental BIODENTPLUS: en Villa Urquiza. Cap. Fed (desde junio 2011 hasta diciembre 2011). Tareas realizadas, resinas, dientes provisorios, encerados pernos.
+
+•	Laboratorio dental NATURALEZA DENTAL: en villa Urquiza (desde noviembre 2011 hasta febrero 2011) Tareas realizadas, provisorios, encerados casquetes / pernos, incluido aros.
+
+ACTUALMENTE:
+•	Laboratorio VIVIANA MACCI: en Palermo Cap. Fed. Tareas realizadas: curado de acrílicos, modelos definitivos, administración.
+
+ <br>Security_code : mk9yg
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.19.254.90<br>
+ <br>Nombre : JORGE GABRIEL 
+ <br>Apellido : KOMENDA
+ <br>Cargo : SUPERVISOR DE PRODUCCION
+ <br>Direccion : Av.Francisco Beiro 3351 5 c
+ <br>Ciudad : C.A.B.A.
+ <br>Telefono : 1157176083
+ <br>Email : jgkom06@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : 
+Área de Recursos Humanos,
+
+Les envió en adjunto mi CV dado que me encuentro sumamente interesado en ser parte de su empresa.
+
+Mi nombre es Jorge Gabriel Komenda, tengo más de 15 años experiencia previa como Encargado de Planta y Jefe de Mantenimiento dentro de distintas Industrias, liderando equipos de trabajo, gestionando todo lo relacionado con el área Técnica y aplicando técnicas de Lean Manufacturing en cada sector coordinado. Cuento con amplios conocimientos de AutoCad y Sistema Bejerman. 
+
+Como principales características de mi perfil profesional podría resaltar la vasta y solida experiencia en el área, junto a una gran capacidad de gestión y para la conducción de personas.
+
+Actualmente me encuentro en búsqueda de posiciones de liderazgo en áreas de Mantenimiento Integral de Industrias, así como también dentro del Sector Productivo y totalmente dispuesto a adquirir los conocimientos específicos de su Empresa a fin de poder realizar mi gestión con el mejor standard de Calidad posible.
+
+Quedo a su disposición para ampliar información que estimen necesaria.
+
+Desde ya muchas gracias.
+Saludos.-
+
+Jorge Gabriel Komenda
+jgkom06@yahoo.com.ar
+155-717-6083
+
+
+ <br>Security_code : 5mpt5
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.19.254.90<br>
+ <br>Nombre : JORGE GABRIEL 
+ <br>Apellido : KOMENDA
+ <br>Cargo : SUPERVISOR DE PRODUCCION
+ <br>Direccion : Av.Francisco Beiro 3351 5 c
+ <br>Ciudad : C.A.B.A.
+ <br>Telefono : 1157176083
+ <br>Email : jgkom06@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : 
+Área de Recursos Humanos,
+
+Les envió en adjunto mi CV dado que me encuentro sumamente interesado en ser parte de su empresa.
+
+Mi nombre es Jorge Gabriel Komenda, tengo más de 15 años experiencia previa como Encargado de Planta y Jefe de Mantenimiento dentro de distintas Industrias, liderando equipos de trabajo, gestionando todo lo relacionado con el área Técnica y aplicando técnicas de Lean Manufacturing en cada sector coordinado. Cuento con amplios conocimientos de AutoCad y Sistema Bejerman. 
+
+Como principales características de mi perfil profesional podría resaltar la vasta y solida experiencia en el área, junto a una gran capacidad de gestión y para la conducción de personas.
+
+Actualmente me encuentro en búsqueda de posiciones de liderazgo en áreas de Mantenimiento Integral de Industrias, así como también dentro del Sector Productivo y totalmente dispuesto a adquirir los conocimientos específicos de su Empresa a fin de poder realizar mi gestión con el mejor standard de Calidad posible.
+
+Quedo a su disposición para ampliar información que estimen necesaria.
+
+Desde ya muchas gracias.
+Saludos.-
+
+Jorge Gabriel Komenda
+jgkom06@yahoo.com.ar
+155-717-6083
+
+
+ <br>Security_code : 5mpt5
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.19.254.90<br>
+ <br>Nombre : JORGE GABRIEL 
+ <br>Apellido : KOMENDA
+ <br>Cargo : SUPERVISOR DE PRODUCCION
+ <br>Direccion : Av.Francisco Beiro 3351 5 c
+ <br>Ciudad : C.A.B.A.
+ <br>Telefono : 1157176083
+ <br>Email : jgkom06@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : 
+Área de Recursos Humanos,
+
+Les envió en adjunto mi CV dado que me encuentro sumamente interesado en ser parte de su empresa.
+
+Mi nombre es Jorge Gabriel Komenda, tengo más de 15 años experiencia previa como Encargado de Planta y Jefe de Mantenimiento dentro de distintas Industrias, liderando equipos de trabajo, gestionando todo lo relacionado con el área Técnica y aplicando técnicas de Lean Manufacturing en cada sector coordinado. Cuento con amplios conocimientos de AutoCad y Sistema Bejerman. 
+
+Como principales características de mi perfil profesional podría resaltar la vasta y solida experiencia en el área, junto a una gran capacidad de gestión y para la conducción de personas.
+
+Actualmente me encuentro en búsqueda de posiciones de liderazgo en áreas de Mantenimiento Integral de Industrias, así como también dentro del Sector Productivo y totalmente dispuesto a adquirir los conocimientos específicos de su Empresa a fin de poder realizar mi gestión con el mejor standard de Calidad posible.
+
+Quedo a su disposición para ampliar información que estimen necesaria.
+
+Desde ya muchas gracias.
+Saludos.-
+
+Jorge Gabriel Komenda
+jgkom06@yahoo.com.ar
+155-717-6083
+
+
+ <br>Security_code : mgv5h
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 191.83.173.154<br>
+ <br>REF : EP-1
+ <br>Nombre : Axel 
+ <br>Apellido : Herrera
+ <br>Cargo : ENCARGADO DE PRODUCCIÓN (Referencia EP-1)
+ <br>Direccion : Rodrigo de Triana 2175
+ <br>Ciudad : San Miguel
+ <br>Telefono : (011)1564361286
+ <br>Email : herreaxel@hotmail.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : -
+ <br>Security_code : ydsd5
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 152.169.251.61<br>
+ <br>REF : JPER-1
+ <br>Nombre : Graciela
+ <br>Apellido : Mercado
+ <br>Cargo : Jefatura RRHH
+ <br>Direccion : URRUTIA, 175
+ <br>Ciudad : Capital
+ <br>Telefono : 03513856341
+ <br>Email : gracielamercado@ymail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Un gusto postular con ustedes, adjunto C.V. con antecedentes académicos y experiencia laboral acorde a lo solicitado. Atentamente
+ <br>Security_code : 552D7
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.28.0.134<br>
+ <br>REF : EP-1
+ <br>Nombre : Gabriela
+ <br>Apellido : Erbetta
+ <br>Cargo : Encargado de producción
+ <br>Direccion : Cabrera 2930
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 0223155421302
+ <br>Email : gabyerbetta@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas tardes, me interesa la propuesta. Saludos
+ <br>Security_code : y7vmx
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.103.194.89<br>
+ <br>REF : SP-1
+ <br>Nombre : Alejandro Carlos
+ <br>Apellido : Villera
+ <br>Cargo : Supervisor de Producción
+ <br>Direccion : Moreno 1585
+ <br>Ciudad : Tornquist
+ <br>Telefono : 92914075004
+ <br>Email : alejandrovillera@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : At Sres. RRHH:
+Me dirijo a ustedes con el fin de presentarme y hacerles llegar mi Curriculum Vitae.
+ 	Soy Ingeniero Químico, recibido en la Universidad Nacional del Sur y cuento con una vasta experiencia como Jefe de Planta de Pintura, en conducción de personal, formulación y desarrollo de pinturas para papel, calidad, producción, logística, seguridad laboral y asistencia a clientes así como también en elaborar presupuestos anuales. Esta experiencia fue adquirida principalmente en Ledesma (Fábrica de Azúcar), Papelera del Sur (Cartulinas para envases de alimentos) y en el área de logística en YPF.
+Como Jefe de Planta he gestionado los recursos humanos y materiales para aumentar hasta un 60% la producción de pintura y controlado el stock y logística de materias primas para la producción de 80 tn. / día de pintura.
+Como jefe de Control de Calidad, he tenido a cargo el laboratorio de materias primas, proceso, producto terminado, agua de calderas y efluentes. También fui el responsable de atención a clientes, resolución de No Conformidades, análisis y respuesta de las mismas.
+El trabajo lo desarrollo con responsabilidad, pragmatismo y enfocado al logro de objetivos.  Manteniendo una actitud abierta y positiva a incursionar en nuevas áreas, estoy dispuesto a asumir desafíos y a trasladarme donde el empleo lo requiera.
+Desde ya les agradezco la atención dispensada y quedo a disposición para una entrevista, si así Uds. lo requiriesen.
+
+Atte.
+Alejandro Villera.
+Ing. Químico
+
+ <br>Security_code : 7m7kx
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.231.169.135<br>
+ <br>REF : JPER-1
+ <br>Nombre : Marina Carla
+ <br>Apellido : Freiria
+ <br>Cargo : Jefe de Personal
+ <br>Direccion : Palestina 646 Piso 14 Dpto. 60
+ <br>Ciudad : Ciudad Autonoma de Buenos Aires
+ <br>Telefono : 15.3.678.9997
+ <br>Email : marina_freiria@yahoo.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me gustaría postularme a la posición de Jefe de Personal que publicaron recientemente. 
+
+Poseo amplia experiencia como especialista en Recursos Humanos, referente en temas de estrategia e innovación en RRHH,  marca empleadora, reclutamiento y selección, cultura organizacional, talento, liderazgo, capacitación y desarrollo,  administración de personal, payroll y relaciones laborales, muy buenos conocimientos de la Ley de Contrato de Trabajo y de Convenios Colectivos. 
+ 
+Poseo un manejo excelente de relaciones interpersonales tanto como HR Business Partner, con todo el personal de la empresa, los socios estratégicos y los sindicatos, siempre sin perder de vista los resultados y objetivos.
+ 
+Uno de los pilares de RRHH en los que me he desarrollado especialmente es en cultura organizacional/cambios y desarrollo de talentos.
+ 
+Excelente manejo de inglés tanto escrito como oral, completan mi perfil.
+ 
+Quedo a disposición para agendar una entrevista donde pueda ampliar cualquier punto de interés sobre mi trayectoria profesional.
+ 
+Atentamente,
+ 
+Marina Freiria
+153-678-9997
+ <br>Security_code : nkpzw
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.26.47.38<br>
+ <br>Nombre : Alejandro 
+ <br>Apellido : Medina 
+ <br>Cargo : Encargado 
+ <br>Direccion : Roca 1047
+ <br>Ciudad : Tristán Suárez 
+ <br>Telefono : 01143860456
+ <br>Email : amedina.sthomas08@gmail. Com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Trabajo con seriedad y responsabilidad.
+ <br>Security_code : g8zmj
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.105.43.214<br>
+ <br>REF : SP-1
+ <br>Nombre : juan francisco
+ <br>Apellido : onofrio moreno
+ <br>Cargo : supervisor
+ <br>Direccion : Ambato 2390
+ <br>Ciudad : moreno
+ <br>Telefono : 1566912870
+ <br>Email : onofriojuan@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : A quien corresponda envió mis datos personales a fin de tenerme en cuenta como candidato. 
+Quedo a su disposición para ampliar cualquier información necesaria.
+ <br>Security_code : 57bz8
+ <br>Send : Enviar
+ <br>
+---------------
+

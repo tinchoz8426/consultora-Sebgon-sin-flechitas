@@ -1,0 +1,91 @@
+Address : 190.179.86.165
+Nombre : VIVIAN
+Apellido : ZIBANA
+Cargo : Oficinista de Empresa Petrolera
+Direccion : Francisco Berola 765
+Ciudad : Cinco Saltos 
+Telefono : 2994595184
+Email : vzibana@yahoo.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Acabo de terminar una tecnicatura de Gas y Petróleo. En este momento no tengo archivo para enviarles.
+Gracias x su atención.
+Security_code : rk68n
+Send : Enviar
+
+---------------
+
+Address : 201.231.146.2
+Nombre : Fernando Oscar 
+Apellido : Beñatena 
+Cargo : Operario de produccion Administrativo de deposito
+Direccion : Don Bosco 3825 4º 33 
+Ciudad : CABA 
+Telefono : 15-3756-3144
+Email : fernandoguru@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Me ofrezco para trabajar en algun puesto con el cual tenga experiencia o pueda adquirirla con ganas puesto estable y fijo
+Security_code : nnt5t
+Send : Enviar
+
+---------------
+
+Address : 201.231.146.2
+Nombre : Fernando Oscar 
+Apellido : Beñatena 
+Cargo : Operario de produccion Administrativo de deposito
+Direccion : Don Bosco 3825 4º 33 
+Ciudad : CABA 
+Telefono : 15-3756-3144
+Email : fernandoguru@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Me ofrezco para trabajar en algun puesto con el cual tenga experiencia o pueda adquirirla con ganas puesto estable y fijo
+Security_code : nnt5t
+Send : Enviar
+
+---------------
+
+Address : 201.231.146.2
+Nombre : Fernando Oscar 
+Apellido : Beñatena 
+Cargo : Operario de produccion Administrativo de deposito
+Direccion : Don Bosco 3825 4º 33 
+Ciudad : CABA 
+Telefono : 15-3756-3144
+Email : fernandoguru@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Me ofrezco para trabajar en algun puesto con el cual tenga experiencia o pueda adquirirla con ganas puesto estable y fijo
+Security_code : rdws6
+Send : Enviar
+
+---------------
+
+Address : 201.231.146.2
+Nombre : Fernando Oscar 
+Apellido : Beñatena 
+Cargo : Operario de produccion Administrativo de deposito
+Direccion : Don Bosco 3825 4º 33 
+Ciudad : CABA 
+Telefono : 15-3756-3144
+Email : fernandoguru@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Me ofrezco para trabajar en algun puesto con el cual tenga experiencia o pueda adquirirla con ganas puesto estable y fijo
+Security_code : mgp44
+Send : Enviar
+
+---------------
+
+Address : 186.158.250.111
+Nombre : Carla
+Apellido : Bragagnolo
+Cargo : Diseñadora, secretaria administrativa
+Direccion : Yatay 3630 V illa Nueva Guaymallén
+Ciudad : Mendoza
+Telefono : 261- 155969396
+Email : carlakorla@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estoy en la busqueda de un trabajo donde pueda demostrar mis habilidades y poder conformar un equipo de trabajo.
+Security_code : w54q4
+Send : Enviar
+
+---------------
+

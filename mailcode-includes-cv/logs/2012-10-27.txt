@@ -1,0 +1,15 @@
+Address : 190.172.107.45
+Nombre : Cintia
+Apellido : LEONI
+Cargo : ADMINISTRACIÓN  VENTAS EDUCACIÓN SALUD
+Direccion : Montiel 496
+Ciudad : Bs As
+Telefono : 15-6730-1536
+Email : vanesaleoni@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Sr rrhh: remito mi cv a los fines de que puedan evaluarlo.La busqueda laboral se orienta a cualquier área, más allá de mi formación ,estoy preparada para capacitarme y crecer en cualquier puesto de trabajo.
+Security_code : 3ky8y
+Send : Enviar
+
+---------------
+

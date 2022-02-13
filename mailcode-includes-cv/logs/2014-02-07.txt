@@ -1,0 +1,170 @@
+Address : 190.18.170.29
+Nombre : maria lucrecia
+Apellido : nievas
+Cargo : vendedora o secretaria contable-juridica
+Direccion : bv arturo illia 548 10b
+Ciudad : cordoba
+Telefono : 0351156881294
+Email : lukre_8917@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : esperando una pronta respuesta
+Security_code : qh3wh
+Send : Enviar
+
+---------------
+
+Address : 181.29.32.135
+Nombre : Patricia 
+Apellido : Blaksley
+Cargo : Ejecutivo de Cuentas
+Direccion : uriburu 1312
+Ciudad : Capital Federal
+Telefono : 1167082732
+Email : patodeluxe@yahoo.com
+MAX_FILE_SIZE : 2097152
+Mensaje : otras opciones de cargo consideradas:
+Ejecutivo de Cuentas
+Atención al cliente
+Asistente virtual o presencial
+Asistente /coordinador de marketing
+abierta a considerar otras opciones.
+Security_code : y6hrk
+Send : Enviar
+
+---------------
+
+Address : 190.231.233.182
+Nombre : betani belen
+Apellido : espinosa maldonado
+Cargo : repositor;cajera;auxiliar de farmacia comercio
+Direccion : blamey lafore 2151 b rosedal
+Ciudad : cordoba capital
+Telefono : 351 153498664
+Email : betaniaespinosa23@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : estoy buscando hace bastante y me hace falta mucho el trabajo si me ayudan les voy agradecer muchisimos
+Security_code : bdx7v
+Send : Enviar
+
+---------------
+
+Address : 201.253.67.107
+Nombre : gisela noemi
+Apellido : sequeira
+Cargo : secetaria administrativa
+Direccion : luis gonzalez 972
+Ciudad : belen de escobar
+Telefono : 0111556359349
+Email : sequegi_espa16@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : les envio mi curriculum para que ´puedan evaluarlo y asi formar parte de su empres.MI OBJETIVO ES CRECER EN EL AMBIENTE DE SECRETARIA ADMINISTRATIVA O EL QUE PUESTO AL QUE USTEDES ME PUEDAN OFRECER.SOY UNA PERSONA RESPONSABLE CON ANSIAS DE TRABAJAR Y PREDISPOSICION. DE YA MUCHAS GRACIAS.
+Security_code : 83K2N
+Send : Enviar
+
+---------------
+
+Address : 201.253.67.107
+Nombre : gisela noemi
+Apellido : sequeira
+Cargo : secetaria administrativa
+Direccion : luis gonzalez 972
+Ciudad : belen de escobar
+Telefono : 0111556359349
+Email : sequegi_espa16@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : les envio mi curriculum para que ´puedan evaluarlo y asi formar parte de su empres.MI OBJETIVO ES CRECER EN EL AMBIENTE DE SECRETARIA ADMINISTRATIVA O EL QUE PUESTO AL QUE USTEDES ME PUEDAN OFRECER.SOY UNA PERSONA RESPONSABLE CON ANSIAS DE TRABAJAR Y PREDISPOSICION. DE YA MUCHAS GRACIAS.
+Security_code : mk9cp
+Send : Enviar
+
+---------------
+
+Address : 201.253.67.107
+Nombre : gisela noemi
+Apellido : sequeira
+Cargo : secetaria administrativa
+Direccion : luis gonzalez 972
+Ciudad : belen de escobar
+Telefono : 0111556359349
+Email : sequegi_espa16@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : les envio mi currisculum porque quiero formar parte de su empresa.mi proposito es crecer en el area de secretatia administrativa o en el area que ustedes me ofrezcan soy responsable con ansias de trabajar y predisposicion para aprender y ser parte de este equipo. de ya muchas gracias.
+Security_code : rwcvh
+Send : Enviar
+
+---------------
+
+Address : 201.253.67.107
+Nombre : gisela noemi
+Apellido : sequeira
+Cargo : secetaria administrativa
+Direccion : luis gonzalez 972
+Ciudad : belen de escobar
+Telefono : 0111556359349
+Email : sequegi_espa16@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : LES ENVIO MI CURRICULUM PARA QUE PUEDAN EVALUARLO Y ASI FORMAR PARTE DE SU EMPRESA. SOY UN APRESONA RESPONSABLE CON ANSIAS DE TRABAJAR Y PREDISPOSICION PARA APRENDER MI PROPOSITO ES ADQUIRIR MAS XPERIENCIA EN ELE AREA DE SECRETARIA ADMINISTRATIVA O EL EN PUESTO QUE USTEDES ME OFREZCAN. DE YA MUCHAS GRACIAS.
+Security_code : VJ6TV
+Send : Enviar
+
+---------------
+
+Address : 201.253.67.107
+Nombre : gisela noemi
+Apellido : sequeira
+Cargo : secetaria administrativa
+Direccion : luis gonzalez 972
+Ciudad : belen de escobar
+Telefono : 0111556359349
+Email : sequegi_espa16@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : LES ENVIO MI CURRICULUM PARA QUE PUEDAN EVALUARLO Y ASI FORMAR PARTE DE SU EMPRESA. SOY UN APRESONA RESPONSABLE CON ANSIAS DE TRABAJAR Y PREDISPOSICION PARA APRENDER MI PROPOSITO ES ADQUIRIR MAS XPERIENCIA EN ELE AREA DE SECRETARIA ADMINISTRATIVA O EL EN PUESTO QUE USTEDES ME OFREZCAN. DE YA MUCHAS GRACIAS.
+Security_code : rrzqg
+Send : Enviar
+
+---------------
+
+Address : 186.57.154.80
+Nombre : Federico Emiliano 
+Apellido : Almiron Gonzalez
+Cargo : atencion al cliente, vendedor , Recepcionista
+Direccion : badaraco 719
+Ciudad : bueno aires
+Telefono : 11 3640 2830 / 4458-4190
+Email : federico_emiliano_almiron@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Les agradecería mucho si me consiguieran alguna entrevista laboral , porque sinceramente lo necesito . Saludos
+Security_code : xj93m
+Send : Enviar
+
+---------------
+
+Address : 85.59.79.79
+Nombre : RAQUEL
+Apellido : SANTOS GALVEZ
+Cargo : ADMINISTRATIVO
+Direccion : C/VALDESANCHUELA, 2-3ºB ESC.2
+Ciudad : MADRID
+Telefono : 649364387
+Email : raqueladri9@yahoo.es
+MAX_FILE_SIZE : 2097152
+Mensaje : me gustaria que me seleccionar para trabajar en su empresa
+Security_code : xn3nw
+Send : Enviar
+
+---------------
+
+Address : 186.134.144.95
+Nombre : gerardo
+Apellido : veron
+Cargo : operario
+Direccion : picheuta
+Ciudad : florencio varela
+Telefono : 42878695
+Email : andr3_julian@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : me gustaría ser parte de su equipo
+Security_code : x4zz3
+Send : Enviar
+
+---------------
+

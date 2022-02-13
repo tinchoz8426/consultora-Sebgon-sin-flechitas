@@ -1,0 +1,15 @@
+Address : 186.1.226.201
+Nombre : Romina Anahí
+Apellido : González
+Cargo : Comunicador social
+Direccion : Metán 721
+Ciudad : Buenos Aires
+Telefono : 42851114
+Email : rominaanahigonzalez@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Soy Licenciada en Periodismo y próxima a graduarme en la Licenciatura de Comunicación Social. les adjunto mi CV a fin de que puedan tenerme en cuanta para una de sus búsquedas acorde a mi perfil. Muchas gracias
+Security_code : sy2rp
+Send : Enviar
+
+---------------
+

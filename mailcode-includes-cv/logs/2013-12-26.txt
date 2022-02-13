@@ -1,0 +1,15 @@
+Address : 181.31.115.242
+Nombre : Sergio Martin
+Apellido : Zwierzynski
+Cargo : atenciòn al cliente
+Direccion : Arturo Orgaz 1089
+Ciudad : Cordoba
+Telefono : 0351 152326909
+Email : tecnoahorro@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me desempeño muy bien trabajando en grupo, y busco el progreso laboral.
+Security_code : b8rgn
+Send : Enviar
+
+---------------
+

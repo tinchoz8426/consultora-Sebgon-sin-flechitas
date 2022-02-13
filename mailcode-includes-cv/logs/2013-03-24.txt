@@ -1,0 +1,37 @@
+Address : 181.166.181.216
+Nombre : Juan Jose
+Apellido : Postiglione
+Cargo : EMPLEADO
+Direccion : JUNCAL 1388
+Ciudad : Temperley lomas de zamora
+Telefono : 42434912
+Email : jj_work2013@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenos días, afín de ofrecer mis servicios brindando mi experiencia e idoneidad sobre el curriculum que me antecede y con el objetivo de aprender y tener nuevas experiencias para poder crecer en lo personal y profesional,espero poder sumarme a un equipo de trabajo  que  cumpla con estas características
+Con la idea de contribuir en la búsqueda de referencia y a fin de postularme  a la vacante a ocupar, le hago llegar mi cv. Espero en el mismo pueda encontrar el perfil que este  necesitando.
+
+
+Sin otro particular me encuentro enteramente a su disposición
+
+Atte.
+Postiglione Juan
+Security_code : y4ytn
+Send : Enviar
+
+---------------
+
+Address : 181.29.73.250
+Nombre : Marianela
+Apellido : Rey Ferraro
+Cargo : Recepcionista - Secretaria
+Direccion : Munilla 2319
+Ciudad : Buenos Aires
+Telefono : 4627 - 0811
+Email : marirey_f@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : El envió del currículum vitae se debe a que estoy buscando trabajo y preciso de su asistencia. Muchas gracias
+Security_code : sg9p8
+Send : Enviar
+
+---------------
+

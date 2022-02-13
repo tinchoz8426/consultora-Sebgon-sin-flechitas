@@ -1,0 +1,124 @@
+Address : 200.82.120.246
+Nombre : Alejandro Fabian
+Apellido : Sanchez
+Cargo : Tareas Varias 
+Direccion : Drago 1154
+Ciudad : San Francisco
+Telefono : 15663097
+Email : alejandrofsanchez87@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Dejo mi curriculum esperando ser llamado para algún puesto laboral desde ya muchísimas gracias 
+Security_code : kqr7m
+Send : Enviar
+
+---------------
+
+Address : 201.255.248.200
+Nombre : Leticia
+Apellido : Martinelli
+Cargo : ....
+Direccion : mexico 1800
+Ciudad : buenos aires
+Telefono : 3412103889
+Email : lic.martinellileticia@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : .
+Security_code : 4vt86
+Send : Enviar
+
+---------------
+
+Address : 200.123.160.234
+Nombre : GEORGINA
+Apellido : PONTORIERO
+Cargo : COMUNICACION
+Direccion : DARRAGUEYRA 1053
+Ciudad : BANFIELD
+Telefono : 35354226
+Email : CHOOSE.LIFE@HOTMAIL.COM.AR
+MAX_FILE_SIZE : 2097152
+Mensaje : A quíen corresponda:
+ 
+ Muy buenos días, mi nombre es Georgina Pontoriero.
+Me contacto con Uds. con el motivo de acercarles mi CV.
+En él podrán encontrar información detallada de mi experiencia laboral y mis estudios cursados, así también como objetivos.
+Además, quisiera agregar que el motivo de pensar en un cambio laboral en este momento se debe a mi interés por insertarme cien por ciento en el campo de la comunicación y desarrollar al máximo mis habilidades para ello.
+ 
+Aguardo su respuesta con el fin de coordinar una entrevista.
+Gracias por su tiempo.
+ 
+Saludos Cordiales,
+Georgina.
+
+
+Security_code : mmfhx
+Send : Enviar
+
+---------------
+
+Address : 190.30.242.96
+Nombre : ANA PAULA
+Apellido : HATLAN
+Cargo : RECEPCIONISTA; TELEMARKETER; ATENCION AL CLIENTE; ATENCION AL PUBLICO
+Direccion : PRESIDENTE ROCA 458
+Ciudad : ROSARIO
+Telefono : 0346715448583
+Email : ana_hatlan_7@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : necesito trabajo fijo. 6 hs maxima disponibilidad laboral.
+A la espera de su respuesta, les saluda atentamente.
+Ana Paula Hatlan
+Security_code : yfrzz
+Send : Enviar
+
+---------------
+
+Address : 186.56.7.122
+Nombre : Florencia
+Apellido : Aguilar
+Cargo : administrativa
+Direccion : cepeda 516
+Ciudad : Rio gallegos
+Telefono : 2966511476
+Email : sasha_38_pety@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : hola estoy buscando trabajo, soy mamá y tengo esperiencia en moza y personal de limpieza
+Security_code : cmn6m
+Send : Enviar
+
+---------------
+
+Address : 200.112.143.159
+Nombre : Fabiana Mariela
+Apellido : Gomez
+Cargo : Administrativo
+Direccion : B. Almte Storni Tira k Dpto7
+Ciudad : Ushuaia
+Telefono : 0290115649527
+Email : fgomez@argentina.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto mi Curriculum y de acuerdo a mi perfil profesional espero una respuesta favorable a una entrevista para dar conocer acerca de mi capacidad profesional y personal. 
+Saluda atte. 
+Fabiana Gomez
+Lic. en Administración Asistente en RRHH y Comunicación Social 
+Security_code : mwgcz
+Send : Enviar
+
+---------------
+
+Address : 190.245.214.6
+REF : Asistente-Comercial
+Nombre : Sol
+Apellido : Ferniot
+Cargo : Asistente comercial
+Direccion : Bv. San Juan 222
+Ciudad : Cordoba capital
+Telefono : 3585413784
+Email : solferniot_7@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estoy en busqueda de trabajo afin a mi carrera, o alguno relacionado con secretariado, recepcionista.
+Security_code : zzb79
+Send : Enviar
+
+---------------
+

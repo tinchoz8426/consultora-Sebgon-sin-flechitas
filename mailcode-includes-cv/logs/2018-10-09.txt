@@ -1,0 +1,233 @@
+Address : 200.80.158.127<br>
+ <br>Nombre : pablo
+ <br>Apellido : coll
+ <br>Cargo : gerente general
+ <br>Direccion : balcarce 175 of 107
+ <br>Ciudad : salta
+ <br>Telefono : 0387-156859757
+ <br>Email : pablocoll17@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Envio mi CV
+ <br>Security_code : 9xdry
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.31.85.165<br>
+ <br>Nombre : Miguel Ricardo
+ <br>Apellido : Cristanchi
+ <br>Cargo : Administrativo, Gerencial
+ <br>Direccion : Av. Francisco de Haro 4107
+ <br>Ciudad : Posadas
+ <br>Telefono : 3764813988
+ <br>Email : lic.cristanchi@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenos dias, actualmente trabajo en el Estado, pero cada dia mas cansado de esto, quiero trabajar en empresas privadas donde sea castigado cuando no cumpla y reconocido cuando cumplo los objetivos. 
+Desde ya muy agradecido. 
+ <br>Security_code : wr2bd
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.189.90.24<br>
+ <br>REF : ACO-1
+ <br>Nombre : Bruno
+ <br>Apellido : Lalanne
+ <br>Cargo : analista en comercio exterior
+ <br>Direccion : av lafuente, 1590
+ <br>Ciudad : caba
+ <br>Telefono : 01167166565
+ <br>Email : brunolala85@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me considero una persona responsable, eficiente, creativa, proactiva; de buena adaptabilidad y predisposición para el trabajo en equipo. Con facilidad para aprender y desarrollar nuevas tareas y eficaz en la resolución de conflictos. Buen manejo de relaciones interpersonales.
+Busco desarrollarme y crecer tanto profesional como personalmente en una empresa adquiriendo nuevos conocimientos y habilidades. Servir con responsabilidad y profesionalismo en el puesto realizando una labor de calidad y formando parte del equipo de trabajo para así contribuir a alcanzar las metas y objetivos de la empresa y a su crecimiento integral.
+Saludos cordiales
+Bruno
+
+ <br>Security_code : vw3vw
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 143.0.64.221<br>
+ <br>Nombre : Miguel Angel
+ <br>Apellido : Trejo
+ <br>Cargo : metalurgico
+ <br>Direccion : calle 17 n 842
+ <br>Ciudad : las talitas
+ <br>Telefono : 1138127135
+ <br>Email : trejo_guelo@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : hola les dejo mi curriculum para ser tenido en cuenta, desde ya muchas gracias.
+ <br>Security_code : 9wmry
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 170.51.105.42<br>
+ <br>Nombre : Fernando gabriel
+ <br>Apellido : Montiel
+ <br>Cargo : Operario
+ <br>Direccion : Calle 20 de febrero Nro. 801
+ <br>Ciudad : Hipolito yrigoyen
+ <br>Telefono : 03878 15202089
+ <br>Email : gm413696@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola buen dia,dejo por aqui mi curriculum,espero les pueda ser util a sus pretenciones,desde ya muchas gracias,saludos
+ <br>Security_code : yc397
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.108.188.101<br>
+ <br>Nombre : Mateo
+ <br>Apellido : Picco
+ <br>Cargo : Arquitecto junior
+ <br>Direccion : Av. Libertad 3098
+ <br>Ciudad : Mar del Plata
+ <br>Telefono : 03385 15438692
+ <br>Email : mateopic.mdp@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola, mi nombre es Mateo Picco. Me recibi de arquitecto en febrero del año 2018 y estoy buscando mi primer empleo como profesional. En este momento estoy viviendo en Mar del Plata pero no tengo inconvenientes de cambiar mi lugar de residencia. 
+Desde ya muchas gracias.
+
+Saludos, Arq. Mateo Picco.
+ <br>Security_code : pyxqm
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.9<br>
+ <br>REF : SP-1
+ <br>Nombre : Lucas
+ <br>Apellido : Mendez
+ <br>Cargo : Supervisor de Priduccion
+ <br>Direccion : Zuviria
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 1123386132
+ <br>Email : lucasmmendez@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola buen dia quería por medio de este hacerles llegar mi CV
+ <br>Security_code : V26hg
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.153.126.111<br>
+ <br>REF : EP-1
+ <br>Nombre : Ernesto Fidel
+ <br>Apellido : Ayala
+ <br>Cargo : Encargado de Producción
+ <br>Direccion : Rawson 614
+ <br>Ciudad : Villa Maria
+ <br>Telefono : 3534250166
+ <br>Email : ayala_ef@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimada/o:
+Buenas Tardes.
+Envió mi Curriculum Vitae .
+Cordialmente
+ <br>Security_code : 7skgj
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.11<br>
+ <br>REF : JPER-1
+ <br>Nombre : Roberto
+ <br>Apellido : Quirico
+ <br>Cargo : Jper1
+ <br>Direccion : Zañartu 1520
+ <br>Ciudad : argentina
+ <br>Telefono : 01133774874
+ <br>Email : robertoquirico.rq@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Por experoencia y actitud soy el candidato
+ <br>Security_code : Kqdhk
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.230.17.59<br>
+ <br>Nombre : Patricia
+ <br>Apellido : Cáceres 
+ <br>Cargo : Armado de cajas o envasados
+ <br>Direccion : diagonal ica 226 gral bustos 
+ <br>Ciudad : córdoba 
+ <br>Telefono : 3515478103
+ <br>Email : patrcaceres68@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Necesito trabajar desde casa , porque tengo a mi marido operado del corazón, disculpen y graciast
+ <br>Security_code : t6ptm
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.9.122.56<br>
+ <br>REF : TEC. EL
+ <br>Nombre : Víctor
+ <br>Apellido : Fernández
+ <br>Cargo : Técnico o supervisor eléctrico-electrónico
+ <br>Direccion : Independencia 2207
+ <br>Ciudad : Luján.
+ <br>Telefono : 11 65724673
+ <br>Email : Fernandez.va89@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas tardes, les dejo mi CV. Por favor tenerme en cuenta para la búsqueda de referencia y otras búsquedas que se adapten a mi perfil.
+
+Saludos.
+ <br>Security_code : xgp7t
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.9.122.56<br>
+ <br>REF : TEC. EL
+ <br>Nombre : Víctor
+ <br>Apellido : Fernández
+ <br>Cargo : Técnico o supervisor eléctrico-electrónico
+ <br>Direccion : Independencia 2207
+ <br>Ciudad : Luján
+ <br>Telefono : 11 65724673
+ <br>Email : Fernandez.va89@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas tardes, les dejo mi CV para que lo tengan en cuenta en la búsqueda de referencia. Por favor les pido tenerlo en cuenta también para otras ofertas que se adapten a mi perfil.
+
+Saludos.
+ <br>Security_code : 5x93p
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.9<br>
+ <br>Nombre : Sirvió Alejandro
+ <br>Apellido : Ferreyra
+ <br>Cargo : Supervisor
+ <br>Direccion :  Valentón Alsina 4785
+ <br>Ciudad : Zarate
+ <br>Telefono : 348715323970
+ <br>Email : aleferreyra224@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola soy Alejandro les envió mi CV , saludos.
+
+ <br>Security_code : 5ksq3
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.9<br>
+ <br>Nombre : Sirvió Alejandro
+ <br>Apellido : Ferreyra
+ <br>Cargo : Supervisor
+ <br>Direccion :  Valentón Alsina 4785
+ <br>Ciudad : Zarate
+ <br>Telefono : 348715323970
+ <br>Email : aleferreyra224@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola soy Alejandro les envió mi CV , saludos.
+
+ <br>Security_code : 5ksq3
+ <br>Send : Enviar
+ <br>
+---------------
+

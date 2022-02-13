@@ -1,0 +1,67 @@
+Address : 190.55.233.145
+Nombre : Jorge Horacio
+Apellido : Abán
+Cargo : Espontaneamente
+Direccion : Perón 3430
+Ciudad : CABA
+Telefono : 1531198708
+Email : jorgeaban@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buen día
+Me presento espontaneamente porque estoy iniciando una busqueda laboral.
+Mis estudios y experiencias se desarrollaron en el área comercial de diferentes empresas.Estuve trabajando como Asesor Comercial y Analista de Calidad en mi último trabajo Interbanking.
+Adjunto mi CV, saludos cordiales
+
+-- 
+Jorge Horacio Abán
+
+Security_code : 4p6ba
+Send : Enviar
+
+---------------
+
+Address : 190.1.42.192
+Nombre : mauro damian
+Apellido : navarrete
+Cargo : operador 
+Direccion : jujuy 1030
+Ciudad : bahia blanca
+Telefono : 154649073
+Email : maurodn@hotmail.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : espero su pronta respuesta...
+Security_code : g9xgm
+Send : Enviar
+
+---------------
+
+Address : 190.139.19.55
+Nombre : DAIANA
+Apellido : DE LA ROSA
+Cargo : ADMINISTRACION
+Direccion : POZO DE VARGAS
+Ciudad : BUENOS AIRES
+Telefono : 1536866194
+Email : daianadelarosa@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : CURRICULUM VITAE
+Security_code : jv94p
+Send : Enviar
+
+---------------
+
+Address : 190.139.19.55
+Nombre : Daiana
+Apellido : De La Rosa
+Cargo : administracion
+Direccion : pozo de vargas
+Ciudad : bs.as
+Telefono : 1536866194
+Email : daianadelarosa@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : curriculum
+Security_code : 8fx88
+Send : Enviar
+
+---------------
+

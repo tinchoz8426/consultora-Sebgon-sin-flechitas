@@ -1,0 +1,61 @@
+Address : 190.174.183.40
+Nombre : Jorge
+Apellido : Devincenzi
+Cargo : tecnico mecanico
+Direccion : republica de chile 5166
+Ciudad : tablada
+Telefono : 1167891558
+Email : tondevin-69@libero.it
+MAX_FILE_SIZE : 2097152
+Mensaje : aviso visto en clarin on line para empresa zona merlo
+Security_code : 3yy2t
+Send : Enviar
+
+---------------
+
+Address : 200.71.233.164
+Nombre : Ignacio
+Apellido : Piñeiro
+Cargo : Prensa - Comunicación estratégica
+Direccion : Cullen 5258
+Ciudad : Capital Federal
+Telefono : 1563377496
+Email : igpineiro@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Licenciado en Ciencias de la Comunicación Social (UBA), con orientación en planificación estratégica. Especializado en comunicación institucional en la gestión pública, instituciones privadas y organismos no gubernamentales (ONG). Con experiencia laboral en periodismo y docencia.
+Security_code : s4vrg
+Send : Enviar
+
+---------------
+
+Address : 201.231.194.157
+Nombre : Ricardo Ernesto
+Apellido : Uliano
+Cargo : técnico mecánico
+Direccion : Av Venezuela 4060 2 C
+Ciudad : C:A:B:A
+Telefono : 4981-2742
+Email : uliano.ricardo@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Freelance me dediqué a capacitación maquinaria CNC y diseño 3D. Me postulo para todo cargo posible.Gracias!
+Security_code : sn3mg
+Send : Enviar
+
+---------------
+
+Address : 201.231.194.157
+Nombre : Ricardo Ernesto
+Apellido : Uliano
+Cargo : técnico mecánico
+Direccion : Av Venezuela 4060 2 C
+Ciudad : C:A:B:A
+Telefono : 4981-2742
+Email : uliano.ricardo@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Freelance capacité en maquinaria automatizada CNC y diseño 3D.
+Me postulo a cualquier cargo posible. Gracias!
+Security_code : 2n87w
+Send : Enviar
+
+---------------
+

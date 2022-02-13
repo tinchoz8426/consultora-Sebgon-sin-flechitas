@@ -1,0 +1,115 @@
+Address : 186.22.31.210
+Nombre : Maria Florencia 
+Apellido : Berriolo
+Cargo : Junior
+Direccion : Almafuerte 487
+Ciudad : Buenos Aires
+Telefono : 1161510314
+Email : florberriolo@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estoy buscando un empleo en donde pueda ampliar mis conocimientos y crecer profesionalmente.
+Security_code : 59ymm
+Send : Enviar
+
+---------------
+
+Address : 190.122.215.6
+Nombre : Marcelo Agustin
+Apellido : Montaño
+Cargo : Personal para sociambientales en Buenos Aires-GBA - Consultora Sebgon
+Direccion : Virgilio 2005
+Ciudad : Merlo
+Telefono : 02204989137
+Email : jovenresponsablebuscaempleo@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Sr/a.Empleador:  
+ 
+Por medio de esta carta de presentación,Me dirijo a usted/es con el fin de solicitarle empleo. 
+Le solicito que me tenga en cuenta para su búsqueda de "Personal para sociambientales en Buenos Aires-GBA - Consultora Sebgon". 
+Me llamo Marcelo Agustín Montaño.  
+Tengo 25 Años de Edad y Vivo en Merlo (Zona Oeste del Gran Buenos Aires).  
+Tengo fácil acceso a la zona de Castelar, Como así también a cualquier localidad/partido de zona oeste del gba. 
+Poséo Secundario Completo con Certificado Analítico y Título (Originales y Legalizados por el Ministerio del Interior).
+Mi objetivo es trabajar de inmediato en el puesto,Ya que tengo la convicción de que puedo desempeñarme a la perfección. 
+Tengo una basta experiencia en empresas de seguridad privada como lo son:  
+GESPED SRL,  
+CI5 SA, 
+SEGURARG SRL,  
+LÍDERES SRL 
+PROSEGUR SA.  
+ 
+Tambien fui vendedor de tarjetas de crédito para un call center de Castelar. 
+Téngo aprobado un curso de Armado y Reparacion de Pc, en el Instituto Argentino de Computacion. 
+Le pido que me dé la oportunidad de trabajar para ustedes.
+Tengo muchas ganas de trabajar en el puesto. 
+Poséo Buena Presencia, Buen Trato Con La Gente y Por Sobre Todas Las Cosas Buen Léxico. 
+No poséo antecedéntes penales y mi disponibilidad horaria es Full Time.Tanto de Mañana, Como de Tarde. 
+  
+Desde Ya Muchas Gracias Por Su Atención. 
+Perdón por las molestias ocasionadas.
+
+Atentamente:  
+ 
+Marcelo Agustin Montaño 
+DNI:35.087.874 
+ 
+Posdata: Tengo  
+disponibilidad de incorporación inmediata. 
+De no tener un puesto disponible para mí, Le ruego que al menos me tenga en cuenta, Para una futura incorporación.
+Saludos Cordiales. 
+Security_code : t29cs
+Send : Enviar
+
+---------------
+
+Address : 181.165.1.7
+Nombre : Priscila Brenda
+Apellido : Trabado
+Cargo : vendedora, secretaria. telemarketer, recepcionista
+Direccion : Av Los quilmes 1082
+Ciudad : Bernal
+Telefono : 1540436877
+Email : priichu_bt@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Tengo solo experiencia como vendedora pero me gustaría desempeñar otras tareas para tener mas crecimiento laboral
+Security_code : 5p76t
+Send : Enviar
+
+---------------
+
+Address : 186.134.202.51
+Nombre : Caren Belen
+Apellido : Orellana
+Cargo : cajera
+Direccion : Gabriel Miró 826
+Ciudad : lomas de zamora
+Telefono : 1133291960
+Email : caren_dlomas@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Soy una persona responsable atenta y dinamica.Me gusta el atencion al publico.
+Security_code : 7fbxb
+Send : Enviar
+
+---------------
+
+Address : 186.60.196.177
+Nombre : Maria Alejandra
+Apellido : Luque
+Cargo : Analista Contable
+Direccion : Calle 130 N° 5050
+Ciudad : Berazategui
+Telefono : 1161857223
+Email : maria.alejandra.luque@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Sres:
+Me dirijo a ustedes con el fin de remitirles mi Curriculum Vitae.
+Espero tener la oportunidad de mantener una entrevista, para exponer mis conocimientos y mi deseo de formar parte de su compañía.
+Quedo a la espera de sus noticias.
+Agradezco su atención, saludo atentamente.
+Maria Alejandra Luque
+1561857223/ maria.alejandra.luque@hotmail.com
+Security_code : dytj9
+Send : Enviar
+
+---------------
+

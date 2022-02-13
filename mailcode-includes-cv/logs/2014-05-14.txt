@@ -1,0 +1,189 @@
+Address : 190.139.122.76
+REF : GETECOM
+Nombre : miguel angel 
+Apellido : montes
+Cargo : gerente de compras
+Direccion : esquiu 455
+Ciudad : oran (salta)
+Telefono : 0387815568138
+Email : angelmontes2003@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : adjunto cv. para futura entrevista laboral.
+Security_code : 5czn5
+Send : Enviar
+
+---------------
+
+Address : 190.139.122.76
+REF : GETECOM
+Nombre : miguel angel 
+Apellido : montes
+Cargo : gerente de compras
+Direccion : esquiu 455
+Ciudad : oran (salta)
+Telefono : 0387815568138
+Email : angelmontes2003@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : adjunto cv. para futura entrevista laboral.
+Security_code : 5czn5
+Send : Enviar
+
+---------------
+
+Address : 190.139.122.76
+REF : GETECOM
+Nombre : miguel angel 
+Apellido : montes
+Cargo : gerente de compras
+Direccion : esquiu 455
+Ciudad : oran (salta)
+Telefono : 0387815568138
+Email : angelmontes2003@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : adjunto cv. para futura entrevista laboral.
+Security_code : 5czn5
+Send : Enviar
+
+---------------
+
+Address : 190.139.122.76
+REF : GETECOM
+Nombre : miguel angel 
+Apellido : montes
+Cargo : gerente de compras
+Direccion : esquiu 455
+Ciudad : oran (salta)
+Telefono : 0387815568138
+Email : angelmontes2003@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : adjunto cv. para futura entrevista laboral.
+Security_code : sdjx2
+Send : Enviar
+
+---------------
+
+Address : 190.139.122.76
+REF : GETECOM
+Nombre : miguel angel 
+Apellido : montes
+Cargo : gerente de compras
+Direccion : esquiu 455
+Ciudad : oran (salta)
+Telefono : 0387815568138
+Email : angelmontes2003@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : adjunto cv. para futura entrevista laboral.
+Security_code : bc2jf
+Send : Enviar
+
+---------------
+
+Address : 190.181.83.69
+Nombre : Mónica Elvira
+Apellido : Acuña
+Cargo : Personal para socioambientales
+Direccion : Acerboni 5580
+Ciudad : J.C.Paz
+Telefono : 011-67641919
+Email : monique.acu@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenos días por este medio envío mi CV con el objetivo de concertar una entrevista laboral, me interesa la propuesta laboral.tengo experiencia, aptitudes, formación, capacitación y actitud. atte Mónica E. Acuña
+Security_code : 9rygg
+Send : Enviar
+
+---------------
+
+Address : 201.250.84.210
+Nombre : Néstor Oscar
+Apellido : Penas
+Cargo : Director / Gerente
+Direccion : Pedro Goyena 202 1° Piso
+Ciudad : Autónoma de Buenos Aires
+Telefono : 4921-2603 / 15 5815-5815
+Email : npenas@speedy.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Profesional de la industria de las Telecomunicaciones e Informática, con más de veinte años de experiencia en cargos directivos en empresas multinacionales, en las áreas de Operaciones, Planificación, Abastecimiento y Logística.
+Ejecutivo con marcado perfil generalista, destrezas en la negociación, análisis y toma de decisiones en situaciones complejas, flexibilidad y criterio. Liderazgo de  equipos multidisciplinarios. Capacidad para relacionarse en forma efectiva a distintos niveles y especialidades profesionales.
+	
+Experiencia en planificación, organización, dirección y control de operaciones técnicas y comerciales, implementando estrategias y objetivos.
+
+Security_code : qky8d
+Send : Enviar
+
+---------------
+
+Address : 190.105.109.45
+Nombre : HECTOR
+Apellido : ALANIS
+Cargo : compras
+Direccion : RIVADAVIA 871
+Ciudad : PILAR
+Telefono : (011) 15 35431723
+Email : hectoralanis@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : envio mi cv,para ver la posibilidad de ingreso a   una empresa de materiales de construcción ubicada en el bolsón,es que tengo la posibilidad de radicacion en esa ciudad.saludos cordiales.
+Security_code : w7gcn
+Send : Enviar
+
+---------------
+
+Address : 190.51.160.9
+Nombre : sergio
+Apellido : dominguez
+Cargo : empleado
+Direccion : de la peña 1251
+Ciudad : lanus este
+Telefono : 42303902
+Email : sergiofernand74@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : agradecere tenerme en cuenta.
+Security_code : hpgnr
+Send : Enviar
+
+---------------
+
+Address : 190.51.160.9
+Nombre : sergio
+Apellido : dominguez
+Cargo : empleado
+Direccion : de la peña 1251
+Ciudad : lanus este
+Telefono : 42303902
+Email : sergiofernand74@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : agradecere tenerme en cuenta.
+Security_code : hpgnr
+Send : Enviar
+
+---------------
+
+Address : 190.194.207.102
+Nombre : Giuliano
+Apellido : Felice
+Cargo : Administrativo
+Direccion : Aguero 1668
+Ciudad : Capital Federal
+Telefono : 02345-15-661143 - 011 48252084
+Email : giulianofelice32@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Soy una persona responsable con muchas ganas de trabajar.
+Security_code : n6myn
+Send : Enviar
+
+---------------
+
+Address : 190.194.207.102
+Nombre : Giuliano
+Apellido : Felice
+Cargo : Administrativo
+Direccion : Aguero 1668
+Ciudad : Capital Federal
+Telefono : 02345-15-661143 - 011 48252084
+Email : giulianofelice32@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Soy una persona responsable con muchas ganas de trabajar.
+Security_code : n6myn
+Send : Enviar
+
+---------------
+

@@ -1,0 +1,244 @@
+Address : 181.26.9.240<br>
+ <br>REF : SP-1
+ <br>Nombre : Ricardo Enrique 
+ <br>Apellido : Guerrero 
+ <br>Cargo : Supervisor 
+ <br>Direccion : José C Paz 
+ <br>Ciudad : Buenos Aires 
+ <br>Telefono : 1163350378 
+ <br>Email : ricardoguerrero19@yahoo.es
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Disponibilidad inmediata.Soy extranjero con documentos migratorios actualizados. Y necesito trabajar. Gracias. 
+ <br>Security_code : C7d6t
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.26.9.240<br>
+ <br>Nombre : Ricardo D' Abraham 
+ <br>Apellido : Guerrero Cáceres 
+ <br>Cargo : Operador / Diseñador 
+ <br>Direccion : José C Paz 
+ <br>Ciudad : Buenos Aires 
+ <br>Telefono : 1149451487 
+ <br>Email : Ricardoguerrero53@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Disponible de inmediato. Horario Full Time. Dispuesto a trabajar y aprender nuevas tareas. Requiero poca supervisión y me considero responsable. Soy extranjero y tengo documentos al día,  DNI entre otros.  
+ <br>Security_code : htvn7
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.26.9.240<br>
+ <br>Nombre : Ricardo D' Abraham 
+ <br>Apellido : Guerrero Cáceres 
+ <br>Cargo : Operador / Diseñador 
+ <br>Direccion : José C Paz 
+ <br>Ciudad : Buenos Aires 
+ <br>Telefono : 1149451487 
+ <br>Email : Ricardoguerrero53@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Disponible de inmediato. Horario Full Time. Dispuesto a trabajar y aprender nuevas tareas. Requiero poca supervisión y me considero responsable. Soy extranjero y tengo documentos al día,  DNI entre otros.  
+ <br>Security_code : htvn7
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.26.9.240<br>
+ <br>Nombre : Rudy Maribel 
+ <br>Apellido : Cáceres de Guerrero 
+ <br>Cargo : Secretaria/Operaria 
+ <br>Direccion : José C Paz 
+ <br>Ciudad : Buenos Aires 
+ <br>Telefono : 1163350378 
+ <br>Email : ricardoguerrero19@yahoo.es
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Dispuesta a trabajar en cualquier área que esté acorde a mi experiencia Curricular o como atención al público, limpieza, seguridad, entre otras. 
+ <br>Security_code : Xjh3s
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.26.9.240<br>
+ <br>Nombre : Rudy Maribel 
+ <br>Apellido : Cáceres de Guerrero 
+ <br>Cargo : Secretaria/Operaria 
+ <br>Direccion : José C Paz 
+ <br>Ciudad : Buenos Aires 
+ <br>Telefono : 1163350378 
+ <br>Email : ricardoguerrero19@yahoo.es
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Dispuesta a trabajar en cualquier área que esté acorde a mi experiencia Curricular o como atención al público, limpieza, seguridad, entre otras. 
+ <br>Security_code : xjh3s
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.26.9.240<br>
+ <br>Nombre : Rudy Maribel 
+ <br>Apellido : Cáceres de Guerrero 
+ <br>Cargo : Secretaria/Operaria 
+ <br>Direccion : José C Paz 
+ <br>Ciudad : Buenos Aires 
+ <br>Telefono : 1163350378 
+ <br>Email : ricardoguerrero19@yahoo.es
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Disponible inmediata. Documentos en regla. 
+ <br>Security_code : vgnr4
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 35.203.154.146<br>
+ <br>REF : SP-1
+ <br>Nombre : José
+ <br>Apellido : lizardi
+ <br>Cargo : supervisión de producción 
+ <br>Direccion : french 449
+ <br>Ciudad : buenos Aires 
+ <br>Telefono : 3489326627
+ <br>Email : alejandrojok74@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : profesional capacitado enbwl ma dejo de personal orientado hacia la producción y calidad del producto final 
+ <br>Security_code : fvtzs
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.31.68.97<br>
+ <br>Nombre : Horacio Alfredo 
+ <br>Apellido : Velardez
+ <br>Cargo : Empleado de depósito 
+ <br>Direccion : Dardo rochaDar 1330
+ <br>Ciudad : Bernal
+ <br>Telefono : 42516136
+ <br>Email : cuervo_77v@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Disponibilidad Full time
+ <br>Security_code : dx36p
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.31.68.97<br>
+ <br>Nombre : Horacio Alfredo 
+ <br>Apellido : velardez 
+ <br>Cargo : Empleado de depósito 
+ <br>Direccion : Dardo rocha 1330
+ <br>Ciudad : Bernal
+ <br>Telefono : 42516136
+ <br>Email : cuervo_77v@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Disponibilidad Full time 
+ <br>Security_code : dx36p
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.227.11.213<br>
+ <br>REF : TEC. EL
+ <br>Nombre : Fabián Darío
+ <br>Apellido : Larrinzar
+ <br>Cargo : Técnico
+ <br>Direccion : Guanella 472
+ <br>Ciudad : Santa Lucia Partido de San Pedro
+ <br>Telefono : 1126785720
+ <br>Email : bujobujonet@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados RRHH
+
+Como podrán apreciar en mi CV, comencé a trabajar desde muy joven, tengo la cultura del trabajo arraigada en mí, razón por la cual estoy buscando empleo ya que necesito estar laboralmente activo para seguir desarrollándome y aportar mi experiencia en pos de proyectos y metas de la empresa que me contrate, teniendo en cuenta que la única forma de tener éxito en los objetivos es el trabajo en equipo.
+
+Notas:
+Posibilidad de alquilar alojamiento en zona laboral.
+Disponibilidad inmediata de ingreso.
+Movilidad propia.
+
+Remuneración bruta pretendida $30.000.
+
+Saludos cordiales
+Fabián D. Larrinzar
+
+ <br>Security_code : ftb8s
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.192.62.93<br>
+ <br>REF : SP-1
+ <br>Nombre : Jesus Paucides
+ <br>Apellido : Ortiz Gimenez
+ <br>Cargo : supervisor de produccion 
+ <br>Direccion : Pilar
+ <br>Ciudad : PILAR
+ <br>Telefono : 1151546418
+ <br>Email : ortizg.jesusp@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Profesional disponible
+ <br>Security_code : pz6fy
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.192.62.93<br>
+ <br>Nombre : Karen
+ <br>Apellido : ZABALA CASORLA
+ <br>Cargo : Seguridad e Higiene
+ <br>Direccion : Pilar
+ <br>Ciudad : Pilar
+ <br>Telefono : 1159487779
+ <br>Email : kzabalacasorla@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Disponible
+ <br>Security_code : 52gp9
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.143.201.219<br>
+ <br>Nombre : Sol
+ <br>Apellido : Corradini
+ <br>Cargo : Anal comercio internacional
+ <br>Direccion : Cuna 3158
+ <br>Ciudad : Caba
+ <br>Telefono : 11 4940 8903
+ <br>Email : barbie19719@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Espero me contacten. Esta of la encontre en indeed. Gracias.
+ <br>Security_code : Xcvw5
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.7<br>
+ <br>REF : JPER-1
+ <br>Nombre : BLAS RUBEN
+ <br>Apellido : ALBORNOZ
+ <br>Cargo : RR HH
+ <br>Direccion : 564 nro 377
+ <br>Ciudad : Florencio Varela
+ <br>Telefono : 1158186709
+ <br>Email : rubalbornoz@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me pongo a vuestra disposición.
+ <br>Security_code : m5pyn
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.179.159.4<br>
+ <br>REF : EM
+ <br>Nombre : Matias
+ <br>Apellido : Rejala
+ <br>Cargo : Técnico electromecanico
+ <br>Direccion : Garreador
+ <br>Ciudad : Monte Grande 
+ <br>Telefono : 1159425457
+ <br>Email : siderpan@hotmail.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas tardes me postuló a la búsqueda requerida para técnico electromecánico que es para una química en burzaco
+ <br>Security_code : 9k3jm
+ <br>Send : Enviar
+ <br>
+---------------
+

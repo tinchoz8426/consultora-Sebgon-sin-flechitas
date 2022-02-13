@@ -1,0 +1,68 @@
+Address : 190.19.125.201<br>
+ <br>Nombre : PABLO EMILIANO
+ <br>Apellido : VALLE
+ <br>Cargo : vendedor
+ <br>Direccion : GONCALVES DIAS, 446
+ <br>Ciudad : CAPITAL FEDERAL
+ <br>Telefono : 15-68570011
+ <br>Email : valle.pabloemiliano@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : A quien corresponda:
+                                  
+                                   Me llamo Pablo Valle y me pongo en contacto con la empresa para ofrecer mi currículum con datos personales, profesionales y otros datos de interés, esperando su consideración ahora o en un futuro próximo, para solicitar un puesto en su empresa.
+Me interesaría trabajar en su empresa porque considero que tiene muchas posibilidades de progreso, respaldado por el enorme desarrollo que tiene actualmente el rubro y que el proyecto continúe más adelante.
+En los últimos años mi experiencia laboral estuvo ligado a la venta en industria retail (Easy, Falabella, Garbarino). La facilidad para adquirir nuevos conocimientos y adaptarme a las distintas modalidades de trabajo son mis principales virtudes juntamente con la responsabilidad y profesionalismo que le dedico a cada actividad laboral. Como pueden observar en mi curriculum, adjunto referencias que avalan mis características mencionadas y estoy dispuesto a seguir aprendiendo y desarrollando mi experiencia.
+Pueden ponerse en contacto conmigo mediante mi celular (15) 6857-0011 o bien por mail a valle.pabloemiliano@gmail. com.
+Desde ya, muchas gracias.
+ <br>Security_code : 7sw5j
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.2.50.201<br>
+ <br>REF : ROT-1
+ <br>Nombre : Limberth
+ <br>Apellido : Lema
+ <br>Cargo : Oficina Tecnica
+ <br>Direccion : Av. Rivadavia 1181
+ <br>Ciudad : Capital Federal
+ <br>Telefono : 1128354913
+ <br>Email : limberthlema@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Adjunto remito mi currículo para su consideración
+ <br>Security_code : w47p9
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.22.23.138<br>
+ <br>Nombre : diego javier
+ <br>Apellido : fernandez
+ <br>Cargo : el que este disponoble
+ <br>Direccion : mariano acosta s/n edif. 44 3ª E
+ <br>Ciudad : capital federal
+ <br>Telefono : 15-32600629
+ <br>Email : diegofernandezgrisi@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola soy capaz, responsable con ganas de crecer, estoy abierto a propuestas y experiencias nuevas aparte de las que ya adquirir. Espero me concedan la oportunidad de conocerme como persona y laboriosamente. Espero respuestas Saludos Diego Fernandez
+ <br>Security_code : 798kn
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 191.113.65.166<br>
+ <br>Nombre : carla
+ <br>Apellido : barrios urrutia
+ <br>Cargo : Jefatura
+ <br>Direccion : santos dumont 815, dpto 1701
+ <br>Ciudad : santiago 
+ <br>Telefono : 98797301
+ <br>Email : cbarriosurrutia@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola, dejo mi curriculum, busco alternativas laborales. 
+gracias, 
+ <br>Security_code : 9wd5p
+ <br>Send : Enviar
+ <br>
+---------------
+

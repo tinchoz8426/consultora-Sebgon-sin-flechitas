@@ -1,0 +1,17 @@
+Address : 181.169.83.148
+Nombre : Patricio
+Apellido : Quiroz
+Empresa : Biosidus
+Telefono : 49098000
+Email : quirozpatricio@hotmail.com
+Mensaje : Estimados,
+
+Quisera saber tipos y costos de los informes socioambientales.
+
+Muchas gracias
+Patricio
+Security_code : SVMPR
+Send : Enviar
+
+---------------
+

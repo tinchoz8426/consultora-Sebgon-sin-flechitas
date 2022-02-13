@@ -1,0 +1,169 @@
+Address : 186.182.120.7
+Nombre : Marcela
+Apellido : Moreno Mican
+Cargo : Recursos Humanos
+Direccion : Merlo 2447
+Ciudad : Buenos Aires, Moron , castelar
+Telefono : 1169709894
+Email : marce932@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estoy interesada en trabajar en el área de RRHH, gracias.
+Security_code : Ssj6g
+Send : Enviar
+
+---------------
+
+Address : 186.182.120.7
+Nombre : Marcela
+Apellido : Moreno Mican
+Cargo : Recursos Humanos
+Direccion : Merlo 2447
+Ciudad : Buenos Aires, Moron , castelar
+Telefono : 1169709894
+Email : marce932@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estoy interesada en trabajar en el área de RRHH, gracias.
+Security_code : ssj6g
+Send : Enviar
+
+---------------
+
+Address : 186.182.120.7
+Nombre : Marcela
+Apellido : Moreno Mican
+Cargo : Recursos Humanos
+Direccion : Merlo 2447
+Ciudad : Buenos Aires, Moron , castelar
+Telefono : 1169709894
+Email : marce932@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estoy interesada en trabajar en el área de RRHH, gracias.
+Security_code : ssj6g
+Send : Enviar
+
+---------------
+
+Address : 186.124.28.61
+REF : TES
+Nombre : DANIEL GUSTAVO
+Apellido : VALLE
+Cargo : ADMINISTRATIVO INSTITUTO EDUCATIVO
+Direccion : Asunción 3854 8° A
+Ciudad : C.A.B.A.
+Telefono : 15-5106-3333
+Email : dgvalle55@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : ME CONSIDERO CAPACITADO PARA EL PUESTO POR LO QUE SOLICITO UNA ENTREVISTA PERSONAL 
+GRACIAS
+Security_code : rk7jh
+Send : Enviar
+
+---------------
+
+Address : 186.61.2.136
+Nombre : Sergio Rodolfo
+Apellido : Ardusso
+Cargo : Tesoreria - Administracion - Personal
+Direccion : Alcorta 4391
+Ciudad : Claypole
+Telefono : 011 - 4291-0406  -  15-5176-0051
+Email : sergioardusso@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Solicito empleo 
+Security_code : kp3fr
+Send : Enviar
+
+---------------
+
+Address : 190.138.198.128
+Nombre : Mayra
+Apellido : Capeletti
+Cargo : Ingeniero Agrónomo
+Direccion : 47 número 1748
+Ciudad : Reconquista Santa Fe
+Telefono : 03482 15441279
+Email : mayracapeletti@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimado/a adjunto CV para futuras búsquedas de trabajo
+Security_code : wg3x9
+Send : Enviar
+
+---------------
+
+Address : 190.191.71.89
+Nombre : Yanina
+Apellido : Ojeda
+Cargo : Asistente, Asesor Económico, Consultoría Financierra
+Direccion : 49 entre 2 y 3
+Ciudad : La Plata
+Telefono : 02227 15519208
+Email : yaninarita@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Mi nombre es Yanina Ojeda y soy Licenciada en Economía recientemente graduada. Me encuentro en la busqueda de trabajo, en particular me interesa la asesoría  financiera, ya sea en ámbito público como privado.
+Security_code : g8f86
+Send : Enviar
+
+---------------
+
+Address : 186.23.213.193
+Nombre : patricio jose
+Apellido : Villagran zaccardi
+Cargo : Economista
+Direccion : belgrano 3650 
+Ciudad : caba
+Telefono : 1556570388
+Email : patriciojvillagran@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Envio el CV para ser tenido en cuenta en sus busquedas laborales
+Security_code : m232k
+Send : Enviar
+
+---------------
+
+Address : 190.48.136.68
+Nombre : leonardo
+Apellido : lugones
+Cargo : operario
+Direccion : leopoldo lugones
+Ciudad : moreno
+Telefono : 0237 4665542
+Email : leo_130kof@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : quiero conseguir un empleo 
+Security_code : 6mvsj
+Send : Enviar
+
+---------------
+
+Address : 190.12.104.246
+Nombre : Samuel
+Apellido : Romero
+Cargo : Community Manager
+Direccion : Guemes 4419, Palermo.
+Ciudad : Buenos Aires
+Telefono : +5491162311743
+Email : masuel_53@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Como Licenciado en Administración de Empresas, proporciono la información y los recursos necesarios para contribuir en el proceso de toma de decisiones, basado en los objetivos y el presupuesto de la empresa.
+Es mi interés personal seguir creciendo como Administrador de Empresas, principalmente en Marketing Digital o Social Media Marketing, basado en la optimización de motores de búsqueda (SEO), Search Engine Marketing (SEM) y herramientas como Google Analytics, Facebook Insights y similares.
+Security_code : kzx5r
+Send : Enviar
+
+---------------
+
+Address : 186.23.166.45
+REF : E.DIS
+Nombre : Federico
+Apellido : Jimenez
+Cargo : Técnico
+Direccion : Lamadrid 674
+Ciudad : Avellaneda
+Telefono : 1564494244
+Email : feden.jimenez@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje :  
+Security_code : 6wz9p
+Send : Enviar
+
+---------------
+

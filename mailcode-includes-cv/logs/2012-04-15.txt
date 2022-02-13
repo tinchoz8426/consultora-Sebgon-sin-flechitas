@@ -1,0 +1,48 @@
+Address : 200.117.134.120
+Nombre : Lucas Martin
+Apellido : Nieva
+Cargo : Docente
+Direccion : Córdoba
+Ciudad : Córodba capital
+Telefono : 0351 4841814
+Email : nievalucas14@yahoo.com
+MAX_FILE_SIZE : 2097152
+Mensaje : ESPOSIBLE TRABAJAR EN CUALQUIER PUNTO DEL PAÍS.
+Security_code : 6tyc8
+Send : Enviar
+
+---------------
+
+Address : 201.212.199.64
+Nombre : Alicia
+Apellido : Rivero
+Cargo : Administrativo
+Direccion : independencia 1030
+Ciudad : General Rodriguez
+Telefono : 0237-4842166
+Email : 01115-61860849
+MAX_FILE_SIZE : 2097152
+Mensaje : Les envio mi C.V a fin de ser tenido en cuenta en futuras busquedas laborales. Muchas Gracias.
+Security_code : 6wmw4
+Send : Enviar
+
+---------------
+
+Address : 186.136.136.93
+Nombre : Maria Gisele
+Apellido : Cortizo
+Cargo : Actuario Jr
+Direccion : Soldado de la Independencia 1270
+Ciudad : Buenos Aires Capital federal
+Telefono : 1563812895
+Email : cortizogisele@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me contacto con ustedes a fin de hacerles llegar mi CV de Actuario. 
+Tome conocimiento de ustedes a través de la web del Ministerio de Trabajo. Estoy recién recibida y busco como profesional, trabajo en empresas o instituciones donde requieran de un Actuario, ya sea para el área técnica, riesgos, etc. y asi brindar mis servicios.
+Quedo a su disposición para una pronta entrevista.
+Saludos cordiales
+Security_code : zz8z5
+Send : Enviar
+
+---------------
+

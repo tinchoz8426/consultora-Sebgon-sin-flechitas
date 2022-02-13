@@ -1,0 +1,316 @@
+Address : 181.231.139.228<br>
+ <br>Nombre : gilberto ramon 
+ <br>Apellido : buitrago
+ <br>Cargo : repositor
+ <br>Direccion : calle73 numero 1096
+ <br>Ciudad : la plata
+ <br>Telefono : 0221155605540
+ <br>Email : stevenpit@hotmail.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : espero poder sumarme a su equipo de trabajo 
+ <br>Security_code : hhfp5
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.229.161.64<br>
+ <br>Nombre : José Manuel 
+ <br>Apellido : Bernabé 
+ <br>Cargo : Vendedor, Atención al público,Viajante,facturación online 
+ <br>Direccion : Barrio Ferré 
+ <br>Ciudad : Corrientes 
+ <br>Telefono : (3735)482123
+ <br>Email : Mikiberna2018@gmail.com 
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Tengo una gran capacidad de aprendizaje y predisposición. 
+ <br>Security_code : dcrs7
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.229.161.64<br>
+ <br>Nombre : José Manuel 
+ <br>Apellido : Bernabé 
+ <br>Cargo : Vendedor, Atención al público,Viajante,facturación online 
+ <br>Direccion : Barrio Ferré 
+ <br>Ciudad : Corrientes 
+ <br>Telefono : (3735)482123
+ <br>Email : Mikiberna2018@gmail.com 
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Tengo una gran capacidad de aprendizaje y predisposición. 
+ <br>Security_code : Vpjpr
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.229.161.64<br>
+ <br>Nombre : José Manuel 
+ <br>Apellido : Bernabé 
+ <br>Cargo : Vendedor, Atención al público,Viajante,facturación online 
+ <br>Direccion : Barrio Ferré 
+ <br>Ciudad : Corrientes 
+ <br>Telefono : (3735)482123
+ <br>Email : Mikiberna2018@gmail.com 
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Tengo una gran capacidad de aprendizaje y predisposición. 
+ <br>Security_code : Vpjpr
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.229.161.64<br>
+ <br>Nombre : José Manuel 
+ <br>Apellido : Bernabé 
+ <br>Cargo : Vendedor, Atención al público,Viajante,facturación online 
+ <br>Direccion : Barrio Ferré 
+ <br>Ciudad : Corrientes 
+ <br>Telefono : (3735)482123
+ <br>Email : Mikiberna2018@gmail.com 
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Tengo una gran capacidad de aprendizaje y predisposición. 
+ <br>Security_code : W3p5m
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.166.165.194<br>
+ <br>REF : TEC. EL
+ <br>Nombre : Leandro 
+ <br>Apellido : Godoy
+ <br>Cargo : Tecnico Informático
+ <br>Direccion : David Magdalena 3266
+ <br>Ciudad : Caseros
+ <br>Telefono : 4750-9660
+ <br>Email : leandrogodoy@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Se postula para vacante de Tecnico Informático en función de disposición de amplios conocimientos en el area de informática y tecnología desempeñando tareas de soporte remoto telefónico y onsite a clientes nacionales e internacionales
+
+ <br>Security_code : ytwrw
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 152.168.223.184<br>
+ <br>Nombre : jesus
+ <br>Apellido : Ruiz
+ <br>Cargo : Ing. electrónico
+ <br>Direccion : Av. Belgrano 1185
+ <br>Ciudad : Caba
+ <br>Telefono : 911 27499275
+ <br>Email : jesus.ruizb23@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Soy ing. electricista, con conocimientos en electronica, programacion de microprocesadores y diseño de circuitos digitales.
+ <br>Security_code : p8v97
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.179.45.246<br>
+ <br>Nombre : jorge alberto 
+ <br>Apellido : vento
+ <br>Cargo : APM agente de propaganda medica
+ <br>Direccion : Belisario Roldan 1371
+ <br>Ciudad : Haedo
+ <br>Telefono : 1158302371
+ <br>Email : jorgevento71@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola
+Soy APM egresado en la UAI.
+me postulo para este puesto
+ <br>Security_code : mrdg7
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.179.45.246<br>
+ <br>Nombre : jorge alberto 
+ <br>Apellido : vento
+ <br>Cargo : APM agente de propaganda medica
+ <br>Direccion : Belisario Roldan 1371
+ <br>Ciudad : Haedo
+ <br>Telefono : 1158302371
+ <br>Email : jorgevento71@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola
+Soy APM egresado en la UAI.
+me postulo para este puesto
+ <br>Security_code : ts3xw
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.105.221.221<br>
+ <br>REF : EP-1
+ <br>Nombre : Ernesto Fidel
+ <br>Apellido : Ayala
+ <br>Cargo : Encargado de Producción
+ <br>Direccion : Rawson 614
+ <br>Ciudad : Villa Maria
+ <br>Telefono : 3534250166
+ <br>Email : ayala_ef@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimada/o:
+Buenas Tardes.
+Les envió mi Curriculum Vitae para que me tengan en cuenta a la hora de postulacion según mi perfil o similar .
+Estoy sin trabajo,puedo cambiar de residencia o provincia.
+Cordialmente
+ <br>Security_code : smrmy
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.93.219.97<br>
+ <br>Nombre : Yesica vanesa
+ <br>Apellido : Carmona 
+ <br>Cargo : (3800)
+ <br>Direccion : San Lorenzo norte 
+ <br>Ciudad : Neuquen
+ <br>Telefono : 2996056047
+ <br>Email : yesica-83nqn@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Necesito trabajar para limpieza o ayudante comercio ...
+ <br>Security_code : Xqjs5
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.93.219.97<br>
+ <br>Nombre : Yesica vanesa
+ <br>Apellido : Carmona 
+ <br>Cargo : (3800)
+ <br>Direccion : San Lorenzo norte 
+ <br>Ciudad : Neuquen
+ <br>Telefono : 2996056047
+ <br>Email : yesica-83nqn@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Necesito trabajar para limpieza o ayudante comercio ...
+ <br>Security_code : Xhgym
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.9.132.238<br>
+ <br>Nombre : Enma
+ <br>Apellido : De la cruz Quilca
+ <br>Cargo : Para limpieza
+ <br>Direccion : Av Riestra flores
+ <br>Ciudad : Ciudad de buenos Aires 
+ <br>Telefono : 1152599476
+ <br>Email : enmagledy@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me interesa mucho el trabajo de limpieza ya q tengo ganas de trabajar .
+ <br>Security_code : Zs82d
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.167.169.247<br>
+ <br>REF : SP-1
+ <br>Nombre : Jesus Eduardo
+ <br>Apellido : Quintero Carmona 
+ <br>Cargo : Supervicion de produccion
+ <br>Direccion : Manuel Ugarte , Belgrano
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 1122503999
+ <br>Email : quinterojd@yahoo.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : he trabajado en empresa petrolera y automotriz , donde la planificacion y el control de actividades se hace necesario asi como el manejo de informes KPI.
+ <br>Security_code : 8xp46
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.9.132.238<br>
+ <br>Nombre : Enma
+ <br>Apellido : De la cruz 
+ <br>Cargo : Para cuidar personas mayores ,también de limpieza
+ <br>Direccion : Av Riestra flores 
+ <br>Ciudad : Buenos Aires 
+ <br>Telefono : 1152599476
+ <br>Email : Enmagledy@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me interesa el trabajo de cuidadora ó acompañante y de limpieza ya q ise el curso de cuidadora de persona mayores y servicios domésticos ,tengo muchas ganas de trabajar ya q lo nesecito mucho.
+ <br>Security_code : YS6fk
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.9.132.238<br>
+ <br>Nombre : Enma
+ <br>Apellido : De la cruz 
+ <br>Cargo : Para cuidar personas mayores ,también de limpieza
+ <br>Direccion : Av Riestra flores 
+ <br>Ciudad : Buenos Aires 
+ <br>Telefono : 1152599476
+ <br>Email : Enmagledy@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me interesa el trabajo de cuidadora ó acompañante y de limpieza ya q ise el curso de cuidadora de persona mayores y servicios domésticos ,tengo muchas ganas de trabajar ya q lo nesecito mucho.
+ <br>Security_code : Y 3ymt
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.9.132.238<br>
+ <br>Nombre : Enma
+ <br>Apellido : De la cruz 
+ <br>Cargo : Para cuidar personas mayores ,también de limpieza
+ <br>Direccion : Av Riestra flores 
+ <br>Ciudad : Buenos Aires 
+ <br>Telefono : 1152599476
+ <br>Email : Enmagledy@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me interesa el trabajo de cuidadora ó acompañante y de limpieza ya q ise el curso de cuidadora de persona mayores y servicios domésticos ,tengo muchas ganas de trabajar ya q lo nesecito mucho.
+ <br>Security_code : p6pfj
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.9.132.238<br>
+ <br>Nombre : Enma
+ <br>Apellido : De la cruz 
+ <br>Cargo : Para cuidar personas mayores ,también de limpieza
+ <br>Direccion : Av Riestra flores 
+ <br>Ciudad : Buenos Aires 
+ <br>Telefono : 1152599476
+ <br>Email : Enmagledy@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me interesa el trabajo de cuidadora ó acompañante y de limpieza ya q ise el c persona mayores y servicios doméstico
+ <br>Security_code : Vqp6m
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.9.132.238<br>
+ <br>Nombre : Enma
+ <br>Apellido : De la cruz 
+ <br>Cargo : Para cuidar personas mayores ,también de limpieza
+ <br>Direccion : Av Riestra flores 
+ <br>Ciudad : Buenos Aires 
+ <br>Telefono : 1152599476
+ <br>Email : Enmagledy@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me interesa el trabajo de cuidadora ó acompañante y de limpieza ya q ise el c persona mayores y servicios doméstico
+ <br>Security_code : 9pc9r
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.29.71.19<br>
+ <br>Nombre : MARIA LAURA
+ <br>Apellido : GIULIETTI
+ <br>Cargo : empleada para comercio, administrativa, cajera, etc
+ <br>Direccion : RANGUGNI 2693
+ <br>Ciudad : ITUZAINGO
+ <br>Telefono : 1567664348
+ <br>Email : maria-laura04@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola: les adjunto mi cv esperando que puedan ayudarme a conseguir empleo. 
+Soy una persona muy responsable, honesta y con una gran capacidad de adaptabilidad.
+A la espera de sus noticias.
+M. Laura
+
+ <br>Security_code : phv7d
+ <br>Send : Enviar
+ <br>
+---------------
+

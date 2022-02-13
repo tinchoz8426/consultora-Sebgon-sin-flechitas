@@ -1,0 +1,86 @@
+Address : 190.138.104.138
+Nombre : MARCELA NELIDA
+Apellido : LOPEZ
+Cargo : JEFE DE RR HH
+Direccion : alfonsina storni 2945
+Ciudad : SANTA FE CAPITAL
+Telefono : 0342-154-435639
+Email : marcenelidalopez@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : me interesaria muchisimo ingresar a una organizacion demostrandoles que con personal organizado y calificado pueden duplicar todo producción o ingresos. gracias por su espacio
+Security_code : w3mfj
+Send : Enviar
+
+---------------
+
+Address : 186.57.203.251
+Nombre : Lorena Cynthia
+Apellido : Torres
+Cargo : Grafóloga
+Direccion : Soler 131
+Ciudad : Ramos Mejía
+Telefono : 1531025296
+Email : lorenctorres@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Tengo el agrado de dirigirme a Ud. a fin de acercarle mi C.V con el objetivo de participar en búsquedas acordes a mi  perfil en su empresa. Quedo a vuestra disposición para una entrevista, donde podré profundizar aspectos de mi perfil que consideren necesarios.
+Desde ya agradezco vuestra atención.
+Saludos cordiales,
+Lorena Torres
+Security_code : hKmfx
+Send : Enviar
+
+---------------
+
+Address : 186.57.203.251
+Nombre : Lorena Cynthia
+Apellido : Torres
+Cargo : Grafóloga
+Direccion : Soler 131
+Ciudad : Ramos Mejía
+Telefono : 1531025296
+Email : lorenctorres@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Tengo el agrado de dirigirme a Ud. a fin de acercarle mi C.V con el objetivo de participar en búsquedas acordes a mi  perfil en su empresa. Quedo a vuestra disposición para una entrevista, donde podré profundizar aspectos de mi perfil que consideren necesarios.
+Desde ya agradezco vuestra atención.
+Saludos cordiales,
+Lorena Torres
+Security_code : hKmfx
+Send : Enviar
+
+---------------
+
+Address : 186.57.203.251
+Nombre : Lorena Cynthia
+Apellido : Torres
+Cargo : Grafóloga
+Direccion : Soler 131
+Ciudad : Ramos Mejía
+Telefono : 1531025296
+Email : lorenctorres@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Tengo el agrado de dirigirme a Ud. a fin de acercarle mi C.V con el objetivo de participar en búsquedas acordes a mi  perfil en su empresa. Quedo a vuestra disposición para una entrevista, donde podré profundizar aspectos de mi perfil que consideren necesarios.
+Desde ya agradezco vuestra atención.
+Saludos cordiales,
+Lorena Torres
+Security_code : fs8my
+Send : Enviar
+
+---------------
+
+Address : 186.123.133.89
+REF : administrativa-compras
+Nombre : vanesa
+Apellido : garcia cossio
+Cargo : administrativa-compras
+Direccion : pilcomayo 
+Ciudad : buenos aires
+Telefono : 46935272
+Email : chanel_gc@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : buenas tardes: espero me tenga encuenta.
+             gracias!!
+Security_code : p6r8g
+Send : Enviar
+
+---------------
+

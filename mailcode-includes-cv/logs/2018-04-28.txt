@@ -1,0 +1,272 @@
+Address : 186.18.117.28<br>
+ <br>Nombre : Melina 
+ <br>Apellido : Gonzalez
+ <br>Cargo : Recepcionista/telefonista/atención al cliente
+ <br>Direccion : Migueletes 736
+ <br>Ciudad : Caba
+ <br>Telefono : 1559405258
+ <br>Email : meli.g1993@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas tardes, Mi nombre es Melina González, tengo 24 años, y me encuentro en una búsqueda laboral.
+Tengo experiencia en atención al cliente hace mas de 3 años y fui recepcionista de un consultorio medico por 2 años. Soy muy responsable, organizada y autodidacta. 
+Dejo mi CV adjunto, si les interesa, estoy disponible para coordinar una entrevista. 
+Desde ya muchas gracias!
+Saludos
+Melina
+ <br>Security_code : qg6gd
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.46.97.238<br>
+ <br>REF : EP-1
+ <br>Nombre : Laura
+ <br>Apellido : Ruiz
+ <br>Cargo : Ingeniero Industrial o Ingeniero de procesos
+ <br>Direccion : Triunvirato
+ <br>Ciudad : Quilmes Buenos Aires
+ <br>Telefono : 1134483476
+ <br>Email : laurapaola7@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados Sres.
+Tengo el agrado de dirigirme a Ustedes con el objetivo de participar en búsquedas acordes a mi perfil en su empresa. Adjunto mi Curriculum Vitae buscando ser incluida en su base de datos por si se produjera alguna vacante.
+En relación a esto, cuento con la experiencia y los conocimientos técnicos necesarios para desarrollar actividades en el rubro de su empresa. Además, tengo un nivel de inglés avanzado y manejo herramientas informáticas.
+Considero que podría integrarme adecuadamente a la organización ya que soy una persona proactiva y con capacidad para formar parte de un equipo de trabajo en el que se busque permanentemente alcanzar los valores sostenidos en la responsabilidad social empresarial.
+Agradezco la gentileza de su atención y quedo a la espera de sus comentarios. Asimismo, aprovecho esta oportunidad para saludarlo cordialmente.
+
+
+RUIZ R LAURA P
+ING. QUÍMICA
+CELULAR: 11 3448 3476
+ <br>Security_code : 79bqm
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.88.15<br>
+ <br>REF : TM-2
+ <br>Nombre : Amir 
+ <br>Apellido : Aurea 
+ <br>Cargo : Mantenimiento mecánico 
+ <br>Direccion : 12-24A
+ <br>Ciudad : Buenos Aires 
+ <br>Telefono : +5731674743831
+ <br>Email : amiraurea@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : El día 12 de mayo estaré llegando a Argentina.  Saludos cordiales 
+ <br>Security_code : bd62j
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.88.12<br>
+ <br>REF : TM-2
+ <br>Nombre : Amir 
+ <br>Apellido : Aurea 
+ <br>Cargo : Mantenimiento mecánico 
+ <br>Direccion : 12-24A
+ <br>Ciudad : Buenos Aires 
+ <br>Telefono : +5731674743831
+ <br>Email : amiraurea@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : El día 12 de mayo estaré llegando a Argentina.  Saludos cordiales 
+ <br>Security_code : bd62k
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.88.18<br>
+ <br>REF : TM-2
+ <br>Nombre : Amir 
+ <br>Apellido : Aurea 
+ <br>Cargo : Mantenimiento mecánico 
+ <br>Direccion : 12-24A
+ <br>Ciudad : Buenos Aires 
+ <br>Telefono : +5731674743831
+ <br>Email : amiraurea@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : El día 12 de mayo estaré llegando a Argentina.  Saludos cordiales 
+ <br>Security_code : 7m2m7
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.88.12<br>
+ <br>REF : TM-2
+ <br>Nombre : Amir 
+ <br>Apellido : Aurea 
+ <br>Cargo : Mantenimiento mecánico 
+ <br>Direccion : 12-24A
+ <br>Ciudad : Buenos Aires 
+ <br>Telefono : +5731674743831
+ <br>Email : amiraurea@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : El día 12 de mayo estaré llegando a Argentina.  Saludos cordiales 
+ <br>Security_code : 69rpn
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.210.145.185<br>
+ <br>REF : EP-1
+ <br>Nombre : Manuel
+ <br>Apellido : Rodríguez
+ <br>Cargo : Encargado de Produccion
+ <br>Direccion : Calle Tucuman 914, Piso 5, Apto 511, San Nicolas
+ <br>Ciudad : CABA
+ <br>Telefono :  (+54 911) 6227-3190
+ <br>Email : manexjorge18@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Disponibilidad inmediata
+ <br>Security_code : pwwgt
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.231.72.240<br>
+ <br>REF : EP-1
+ <br>Nombre : Raúl
+ <br>Apellido : Gallardo
+ <br>Cargo : Técnico en Producción
+ <br>Direccion : Av. corrientes 2063
+ <br>Ciudad : CABA
+ <br>Telefono : 92216563134
+ <br>Email : rauldelfin.gallardo@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Since this prestigious automotive business TOYOTA DE VENEZUELA
+introduced me to the fundamental pillars of Toyota Way, respect for
+people and continous improvement (Kaizen) I regard that I can grow
+professionally along with any important business.
+ <br>Security_code : vk4f8
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.11<br>
+ <br>REF : TE-1
+ <br>Nombre : Yoljuan
+ <br>Apellido : Medina
+ <br>Cargo : Técnico eléctrico 
+ <br>Direccion : Castro Barros 338
+ <br>Ciudad : Almagro
+ <br>Telefono : 01123872588
+ <br>Email : yoljuan@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Experiencia en construcción de obras civiles y electromecánicas, instalación y puesta en marcha de equipos eléctricos de potencia. Interpretación y edición de planos entre otras aptitudes. 
+ <br>Security_code : Z6pbt
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 170.51.34.75<br>
+ <br>REF : EP-1
+ <br>Nombre : Diego
+ <br>Apellido : Ortiz
+ <br>Cargo : Encargado
+ <br>Direccion : Pedro cabral 1378
+ <br>Ciudad : Pilar
+ <br>Telefono : 02304349927
+ <br>Email : bgastronomico@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas tardes. Me postulo para el puesto. Saludos 
+ <br>Security_code : Cezzz
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 200.125.72.134<br>
+ <br>REF : EP-1
+ <br>Nombre : luis
+ <br>Apellido : rietzsch
+ <br>Cargo : Encargado de Produccion
+ <br>Direccion : Sarmiento 1432
+ <br>Ciudad : Quilmes
+ <br>Telefono : 21184283 no es celular
+ <br>Email : lrietzsch@yahoo.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me interesa el puesto, tengo la experiencia y conocimientos para el puesto
+ <br>Security_code : pnbxk
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.231.149.30<br>
+ <br>REF : TE-1
+ <br>Nombre : Javier
+ <br>Apellido : Escalona
+ <br>Cargo : Técnico eléctrico 
+ <br>Direccion : TTe. Gral. E. Frias 538
+ <br>Ciudad : CABA
+ <br>Telefono : 2604560638
+ <br>Email : javigescalona@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Les adjunto mi CV actualizado a fin de poder tener una entrevista con ustedes
+ <br>Security_code : pvn34
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.231.149.30<br>
+ <br>REF : TE-1
+ <br>Nombre : Javier
+ <br>Apellido : Escalona
+ <br>Cargo : Técnico eléctrico 
+ <br>Direccion : TTe. Gral. E. Frias 538
+ <br>Ciudad : CABA
+ <br>Telefono : 2604560638
+ <br>Email : javigescalona@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Les adjunto mi CV actualizado a fin de poder tener una entrevista con ustedes
+ <br>Security_code : pvn34n
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.231.149.30<br>
+ <br>REF : TE-1
+ <br>Nombre : Javier
+ <br>Apellido : Escalona
+ <br>Cargo : Técnico eléctrico 
+ <br>Direccion : TTe. Gral. E. Frias 538
+ <br>Ciudad : CABA
+ <br>Telefono : 2604560638
+ <br>Email : javigescalona@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Les adjunto mi CV actualizado a fin de poder tener una entrevista con ustedes
+ <br>Security_code : pv34n
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.231.149.30<br>
+ <br>REF : TE-1
+ <br>Nombre : Javier
+ <br>Apellido : Escalona
+ <br>Cargo : Técnico eléctrico 
+ <br>Direccion : TTe. Gral. E. Frias 538
+ <br>Ciudad : CABA
+ <br>Telefono : 2604560638
+ <br>Email : javigescalona@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Les adjunto mi CV actualizado a fin de poder tener una entrevista con ustedes
+ <br>Security_code : sdk5n
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.164.159.90<br>
+ <br>REF : ACO-1
+ <br>Nombre : Antonio
+ <br>Apellido : Lehrmann
+ <br>Cargo : Analista de comercio internacional
+ <br>Direccion : Araoz 2268
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 1125034569
+ <br>Email : antoniolehrmann@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas noches, cualquier duda sobre referencias o documentos favor de dejarme saber. Gracias.
+ <br>Security_code : by7g3
+ <br>Send : Enviar
+ <br>
+---------------
+

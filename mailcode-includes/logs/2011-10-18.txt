@@ -1,0 +1,28 @@
+Address : 189.235.125.151
+Nombre : ana
+Apellido : mendoza
+Empresa : promercnorc
+Telefono : 8442339228
+Email : anardz1709@hotmail.com
+Mensaje : BUENOS DIAS:
+
+MI PREGUNTA ES SI LOS CURSOS DE MOTIVACION Y LIDERAZGO TIENEN ALGUN COSTO? Y CUAL ES? COMO LOS PUEDO TOMAR Y EN DONDE?
+GRACIAS.
+Security_code : S6ZVQ
+Send : Enviar
+
+---------------
+
+Address : 200.5.122.130
+Nombre : Eliana
+Apellido : Lopez Valencia
+Empresa : ADY 
+Telefono : 0387 155 187 558
+Email : elopezvalencia@adyargentina.com
+Mensaje : Estimados soy de la ciudad de salta y necesitaría pudieran enviarme el programa de desarrollo. Desde ya muchísimas gracias!!
+
+Security_code : k7xv3
+Send : Enviar
+
+---------------
+

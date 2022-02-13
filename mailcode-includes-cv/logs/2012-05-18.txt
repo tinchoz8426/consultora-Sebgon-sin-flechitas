@@ -1,0 +1,62 @@
+Address : 190.192.16.219
+Nombre : Figallo
+Apellido : Mariano Alberto
+Cargo : marketing/comercial
+Direccion : chile 1581 11 B
+Ciudad : CABA
+Telefono : 1132303278
+Email : marianofigallo@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Envio mis antecedentes para vuestra base de datos. Muchas gracias
+Security_code : 996z4
+Send : Enviar
+
+---------------
+
+Address : 190.105.121.201
+Nombre : Mariel
+Apellido : PIÑEIRO
+Cargo : Asistente Secretaria Inglés Portugués
+Direccion : Almafuerte 3901 - uf 1956
+Ciudad : Francisco Alvarez
+Telefono : 15-5839-3039
+Email : mnplll@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto copia de mi CV, para su consideración.
+Anticipadamente grata, me despido cordialmente.
+Mariel PIÑEIRO
+Security_code : mwb7y
+Send : Enviar
+
+---------------
+
+Address : 190.173.206.219
+Nombre : Luciano
+Apellido : bustos
+Cargo : administrativo/ o relacionado a mi perfil 
+Direccion : Cervantes 1268
+Ciudad : Adrogue
+Telefono : 03548-15581891
+Email : inmueblesenlassierras@hotmail.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : en busca de creciemiento profesional y economico.
+Security_code : 4r2t9
+Send : Enviar
+
+---------------
+
+Address : 190.173.206.219
+Nombre : jesica 
+Apellido : aberghina
+Cargo : promotora/administrativa/otros
+Direccion : Cervantes 1268
+Ciudad : Adrogue
+Telefono : 11-33486709
+Email : jesu_701@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : busco crecimiento profesional y economico, buenas relaciones interpersonales.
+Security_code : 23r5k
+Send : Enviar
+
+---------------
+

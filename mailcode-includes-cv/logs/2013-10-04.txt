@@ -1,0 +1,15 @@
+Address : 190.19.253.190
+Nombre : Valeria
+Apellido : Durán
+Cargo : Administrativa/Secretaria/Asistente/Recepcionista
+Direccion : Nogoya 2850 dto1
+Ciudad : Buenos Aires
+Telefono : 1569166178
+Email : vale-duran@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Además de los puestos de trabajos relacionados, les podré ofrecer las referencias que consideren oportunas en caso de que me las soliciten.
+Security_code : chwm3
+Send : Enviar
+
+---------------
+

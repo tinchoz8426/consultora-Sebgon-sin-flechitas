@@ -1,0 +1,31 @@
+Address : 186.19.45.228
+Nombre : Patricia Yanina
+Apellido : Babio
+Cargo : Recepcionista/ Secretaria
+Direccion : José Ballivian 2854
+Ciudad : capital federal
+Telefono : 15-5479-0469
+Email : Patrib_21@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : busco un trabajo que sea relacionado a la organización,recepción,
+atención al público,ya que soy una persona super prolija y organizada
+Security_code : rnqb2
+Send : Enviar
+
+---------------
+
+Address : 186.19.56.195
+Nombre : Nicolás
+Apellido : Cereijo
+Cargo : Administrativo
+Direccion : Brandsen 6069
+Ciudad : Wilde
+Telefono : 1532913372
+Email : ncereijo@yahoo.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me gustaría ser tenido en cuenta para busquedas laborales acorde a mi perfil.
+Security_code : yx64c
+Send : Enviar
+
+---------------
+

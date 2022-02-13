@@ -1,0 +1,168 @@
+Address : 181.95.90.202
+Nombre : analia celeste
+Apellido : burgos
+Cargo : Trabajo Social
+Direccion : Nuñez 2422 102
+Ciudad : Capital Federal
+Telefono : 1559471209
+Email : cele_burgos@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenos días, agradecería la posibilidad de tener una entrevista personal con ustedes. Desde ya muchas gracias.-
+Security_code : n79kw
+Send : Enviar
+
+---------------
+
+Address : 181.167.114.170
+Nombre : Ariel Gonzalo
+Apellido : Conde
+Cargo : Mando medio en Impuestos
+Direccion : Vidal 2376
+Ciudad : CABA
+Telefono : 011 15 5981 0100
+Email : g.ariel.conde@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje :  Atento a mi larga experiencia adquirida en sector impuestos liderando un equipo de trabajo, es que pretendo seguir en el mismo sector como lider de sector. 
+Security_code : 2hrmk
+Send : Enviar
+
+---------------
+
+Address : 181.167.114.170
+Nombre : Ariel Gonzalo
+Apellido : Conde
+Cargo : Mando medio en Impuestos
+Direccion : Vidal 2376
+Ciudad : CABA
+Telefono : 011 15 5981 0100
+Email : g.ariel.conde@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje :  Atento a mi larga experiencia adquirida en sector impuestos liderando un equipo de trabajo, es que pretendo seguir en el mismo sector como lider de sector. 
+Security_code : 2hrmk
+Send : Enviar
+
+---------------
+
+Address : 181.167.114.170
+Nombre : Ariel Gonzalo
+Apellido : Conde
+Cargo : Mando medio en Impuestos
+Direccion : Vidal 2376
+Ciudad : CABA
+Telefono : 011 15 5981 0100
+Email : g.ariel.conde@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje :  Atento a mi larga experiencia adquirida en sector impuestos liderando un equipo de trabajo, es que pretendo seguir en el mismo sector como lider de sector. 
+Security_code : 2hrmk
+Send : Enviar
+
+---------------
+
+Address : 181.167.114.170
+Nombre : Ariel Gonzalo
+Apellido : Conde
+Cargo : Mando medio en Impuestos
+Direccion : Vidal 2376
+Ciudad : CABA
+Telefono : 011 15 5981 0100
+Email : g.ariel.conde@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje :  Atento a mi larga experiencia adquirida en sector impuestos liderando un equipo de trabajo, es que pretendo seguir en el mismo sector como lider de sector. 
+Security_code : 2hrmK
+Send : Enviar
+
+---------------
+
+Address : 181.167.114.170
+Nombre : Ariel Gonzalo
+Apellido : Conde
+Cargo : Mando medio en Impuestos
+Direccion : Vidal 2376
+Ciudad : CABA
+Telefono : 011 15 5981 0100
+Email : g.ariel.conde@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje :  Atento a mi larga experiencia adquirida en sector impuestos liderando un equipo de trabajo, es que pretendo seguir en el mismo sector como lider de sector. 
+Security_code : 6mh68
+Send : Enviar
+
+---------------
+
+Address : 201.231.150.50
+Nombre : Cinthia
+Apellido : Lang
+Cargo : Secretaria administrativa recepcionista
+Direccion : Alvarez Jonte 2468
+Ciudad : CABA
+Telefono : 45821751
+Email : cindylangba@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto envío mi CV. Estoy en la búsqueda de un empleo como secretaria, sec. administrativa, oficinista, trámites, recepcionista, etc. 
+Security_code : Z5W7Z
+Send : Enviar
+
+---------------
+
+Address : 201.253.17.170
+Nombre : Ruben 
+Apellido : Franco
+Cargo : Tecnico en Higiene y Seguridad
+Direccion : Ch. 94, mz 20 casa 16
+Ciudad : Posadas, Misiones
+Telefono : 0376154360267
+Email : ruben_franco_69@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto mi Cv a fin de poder postularme.
+Security_code : 5jgkc
+Send : Enviar
+
+---------------
+
+Address : 201.253.17.170
+Nombre : Ruben 
+Apellido : Franco
+Cargo : Tecnico en Higiene y Seguridad
+Direccion : Ch. 94, mz 20 casa 16
+Ciudad : Posadas, Misiones
+Telefono : 0376154360267
+Email : ruben_franco_69@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto mi Cv a fin de poder postularme.
+Security_code : 5jgkc
+Send : Enviar
+
+---------------
+
+Address : 190.19.82.24
+Nombre : Sergio Alejandro
+Apellido : cordero
+Cargo : Relaciones Laborales
+Direccion : J.B.Alberdi 2464 6 piso
+Ciudad : caba
+Telefono : 1563818020
+Email : sergiocordero1966@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estoy dispuesto a aceptar un puesto simil en Administracion. Gracias
+Security_code : 69mph
+Send : Enviar
+
+---------------
+
+Address : 186.135.102.195
+Nombre : Ana Belén
+Apellido : Puyol Sosa
+Cargo : Administrativo, Contable, Impositivo
+Direccion : M. Rodriguez 3653
+Ciudad : Jose C. Paz
+Telefono : 1541933248
+Email : abpuyol@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimado/a Sr./ Srta:
+Me contacto para hacerle llegar mi curriculum vitae a la espera de ser considerada en alguna oferta laboral acorde a mi perfil y poder llevar a la práctica lo aprendido a lo largo de mi carrera profesional y ampliar mis  experiencia laboral.
+Sin más, saluda atte.
+Puyol, Ana.
+Security_code : hm3gq
+Send : Enviar
+
+---------------
+

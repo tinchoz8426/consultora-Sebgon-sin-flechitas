@@ -1,0 +1,34 @@
+Address : 190.16.144.51
+Nombre : Cecilia
+Apellido : Zanniello
+Cargo : Diseñadora Industrial
+Direccion : Boyaca 551
+Ciudad : Capital Federal
+Telefono : 15-58707045
+Email : ceciliazanniello@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : A quien corresponda, mi nombre es Cecilia Zanniello y soy diseñadora industrial recibida de la Universidad de Buenos Aires. Adjunto mi curriculum para que sea tenido en cuenta para futuras busquedas laborales.
+
+Desde ya muchas gracias
+
+Cecilia Zanniello
+Security_code : dc3s5
+Send : Enviar
+
+---------------
+
+Address : 181.31.90.56
+Nombre : marcos
+Apellido : urbani
+Cargo : legales
+Direccion : abreu de figueroa 2720
+Ciudad : cordoba
+Telefono : 3516335029
+Email : urbanimarcos@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : .
+Security_code : bd7cg
+Send : Enviar
+
+---------------
+

@@ -1,0 +1,342 @@
+Address : 181.17.206.227<br>
+ <br>REF : SP-1
+ <br>Nombre : Alcides 
+ <br>Apellido : Tovar
+ <br>Cargo : Supervisor de Produccion
+ <br>Direccion : Próximo a Residir en Buenos Aires
+ <br>Ciudad : Próximo a Residir en Buenos Aires
+ <br>Telefono : +5804161919871
+ <br>Email : tovaraag@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Supervisor Integral en el Area Industrias y Petrolera, excelente manejo de personal llevando a cabo operaciones con turnos rotativos, formacion y capacitacion al personal a cargo para mejores practicas. capacidad resolutiva y actitud proactiva.   
+ <br>Security_code : yzdhr
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.217.5.82<br>
+ <br>REF : ROT-1
+ <br>Nombre : ELIANA ROSA
+ <br>Apellido : OLLARVES HERRERA
+ <br>Cargo : RESPONSABLE DE OFICINA TECNICA
+ <br>Direccion : CAMPO ALEGRE
+ <br>Ciudad : MARACAY
+ <br>Telefono : 04144932943
+ <br>Email : sphpla0326@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : VENEZOLANA, INTERESADA EN LA OFERTA DE EMPLEO. RESPONSABLE, Y CON DISPONIBILIDAD INMEDIATA. SALUDOS
+ <br>Security_code : 9hn9k
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.191.60.149<br>
+ <br>REF : EP-1
+ <br>Nombre : Victor
+ <br>Apellido : Luna
+ <br>Cargo : Encargado de Produccion
+ <br>Direccion : Lynch 81
+ <br>Ciudad : Avellaneda.
+ <br>Telefono : 1535896195
+ <br>Email : kingsanti@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Experiencia en Unielver, Cognis/BASF, Fedesur(Jugos en polvo) y Refineria de grasas bovinas y aceites vegetales para consumo humano.
+ <br>Security_code : Vqn68
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.191.60.149<br>
+ <br>REF : EP-1
+ <br>Nombre : Victor
+ <br>Apellido : Luna
+ <br>Cargo : Encargado de Produccion
+ <br>Direccion : Lynch 81
+ <br>Ciudad : Avellaneda.
+ <br>Telefono : 1535896195
+ <br>Email : kingsanti@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Experiencia en Unilñever, cognis/BASF, Fedesur (jugos en polvo) y refineria de grasas bovinas y aceites vegetales para consumo Humano.
+ <br>Security_code : fkdh7
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.191.60.149<br>
+ <br>Nombre : Victor
+ <br>Apellido : Luna
+ <br>Cargo : Supervisor Encargado de produccion
+ <br>Direccion : Lynch 81
+ <br>Ciudad : Avellaneda.
+ <br>Telefono : 1535896195
+ <br>Email : kingsanti@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Experiencia en Unilever, Cognis BASF, Fedeser Y Refineria Sudamerica.
+ <br>Security_code : z5w3k
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.47.137.56<br>
+ <br>REF : ACO-1
+ <br>Nombre : ONDINA V.
+ <br>Apellido : PEREZ MORENO
+ <br>Cargo : ANALISTA DE IMPORTACIONES (Ref. ACE17)
+ <br>Direccion : gorriti 3997
+ <br>Ciudad : capital federal
+ <br>Telefono : 5491133316447
+ <br>Email : ondinaperez57@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : disponibilidad inmediata
+ <br>Security_code : zyf2k
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 200.125.73.118<br>
+ <br>REF : JPER-1
+ <br>Nombre : Debora
+ <br>Apellido : Charaf
+ <br>Cargo : Jefe de Personal
+ <br>Direccion : Maza 2166
+ <br>Ciudad : Caba
+ <br>Telefono : 1130576565
+ <br>Email : Charafdebora@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Envío cv
+ <br>Security_code : SVydS
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 200.125.73.118<br>
+ <br>REF : JPER-1
+ <br>Nombre : Debora
+ <br>Apellido : Charaf
+ <br>Cargo : Jefe de Personal
+ <br>Direccion : Maza 2166
+ <br>Ciudad : Caba
+ <br>Telefono : 1130576565
+ <br>Email : Charafdebora@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Envío cv
+ <br>Security_code : svyds
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 200.125.73.118<br>
+ <br>REF : JPER-1
+ <br>Nombre : Debora
+ <br>Apellido : Charaf
+ <br>Cargo : Jefe de Personal
+ <br>Direccion : Maza 2166
+ <br>Ciudad : Caba
+ <br>Telefono : 1130576565
+ <br>Email : Charafdebora@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Envío cv
+ <br>Security_code : ndc68
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 200.125.73.118<br>
+ <br>REF : JPER-1
+ <br>Nombre : Debora
+ <br>Apellido : Charaf
+ <br>Cargo : Jefe de Personal
+ <br>Direccion : Maza 2166
+ <br>Ciudad : Caba
+ <br>Telefono : 1130576565
+ <br>Email : Charafdebora@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Envío cv
+ <br>Security_code : ndc68
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 200.125.73.118<br>
+ <br>REF : JPER-1
+ <br>Nombre : Debora
+ <br>Apellido : Charaf
+ <br>Cargo : Jefe de Personal
+ <br>Direccion : Maza 2166
+ <br>Ciudad : Caba
+ <br>Telefono : 1130576565
+ <br>Email : Charafdebora@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Envío cv
+ <br>Security_code : jcccq
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 168.96.240.2<br>
+ <br>REF : JPER-1
+ <br>Nombre : Guillermo
+ <br>Apellido : Marelli
+ <br>Cargo : Jefe de Personal
+ <br>Direccion : Mendoza 4535
+ <br>Ciudad : Ciudad de Buenos Aires
+ <br>Telefono : 1151323014
+ <br>Email : guillermo_est@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados, les agradecería ser considerado para la busqueda en Ref u otra que consideren de acuerdo a mi perfil. Muchas gracias. Cordiales saludos
+ <br>Security_code : xsmxf
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.170.183.117<br>
+ <br>REF : JPER-1
+ <br>Nombre : Fabian
+ <br>Apellido : Mattarana
+ <br>Cargo : Jefe de Personal
+ <br>Direccion : Freire 3400
+ <br>Ciudad : C.A.B.A.
+ <br>Telefono : 15 6759 6314
+ <br>Email : fmattarana@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : .
+ <br>Security_code : 4K6f8
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.170.183.117<br>
+ <br>REF : JPER-1
+ <br>Nombre : Fabian
+ <br>Apellido : Mattarana
+ <br>Cargo : Jefe de Personal
+ <br>Direccion : Freire 3400
+ <br>Ciudad : C.A.B.A.
+ <br>Telefono : 15 6759 6314
+ <br>Email : fmattarana@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : .
+ <br>Security_code : 4k6f8
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.191.251.59<br>
+ <br>REF : ACO-1
+ <br>Nombre : Carlos
+ <br>Apellido : Méndez
+ <br>Cargo : ANALISTA DE COMERCIO INTERNACIONAL/EXTERIOR ACO-1
+ <br>Direccion : Malabia 2418
+ <br>Ciudad : Palermo
+ <br>Telefono : 1123943691
+ <br>Email : cdanielmg93@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estoy interesado en la propuesta, tengo experiencia en comercio exterior y aduanas, y amplia experiencia en materia administrativa, tengo disponibilidad de ingreso inmediata. 
+ <br>Security_code : dfhhb
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.9<br>
+ <br>REF : SP-1
+ <br>Nombre : Fernando
+ <br>Apellido : Juarez
+ <br>Cargo : Supervisor de Producción y Manufactura en industrias de alimentos o a fines 
+ <br>Direccion : Labarden, 7278
+ <br>Ciudad : Del Viso - Pilar
+ <br>Telefono : +54 9 11 68327662
+ <br>Email : Fernando-juarez@live.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados quisiera poder servirles de ayuda para futuras búsquedas en puestos de supervisión en industrias de alimentos o a fines.
+ <br>Security_code : Jvk2m
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.13.74.82<br>
+ <br>REF : JPER-1
+ <br>Nombre : Miguel Angel
+ <br>Apellido : Gayol
+ <br>Cargo : Jefe de personal
+ <br>Direccion : Piran 902, 
+ <br>Ciudad : Martinez
+ <br>Telefono : 1530763665
+ <br>Email : mklgyol@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Adjunto mi cv, aplicando a la busqueda dw referencia, jefe de personal.
+ <br>Security_code : sr5xt
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 177.39.96.180<br>
+ <br>REF : JPER-1
+ <br>Nombre : Dardo Fernando Geronimo 
+ <br>Apellido : Viñas
+ <br>Cargo : Jefe de personal
+ <br>Direccion : Jufre 250 Piso 8 G
+ <br>Ciudad : Ciudad Autónoma de Buenos Aires
+ <br>Telefono : +5491141986719
+ <br>Email : fernandovinias@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados
+Actualmente soy gerente de payroll de la consultara TMF. Tengo a mi cargo un equipo de doce empleados de categoría senior y más de treinta liquidadores. Soy responsable del servicio de liquidación de nóminas y administración de personal de un total de 60 empresas de diferentes envergaduras. 
+En cuanto a mi pretensión salarial, le comento que actualmente mi remuneración bruta mensual asciende a $ 75.000 más los siguientes beneficios: i) Bono anual garantizado de 1 sueldo bruto, ii) Cobertura de OSDE Plan 310 para todo el grupo familiar, iii) Cochera , iv) Celular y v) Gozo a partir del 2018 de 35 días de vacaciones corridos. En lo referente a mi nivel en inglés es básico, comencé recién este año a capacitarme. Por último resido en la Ciudad Autónoma de Buenos Aires y tengo movilidad propia.
+Adjunto mi CV y espero tengamos la oportunidad de conocernos.
+Agradezco desde ya su tiempo y atención.
+Quedo a su entera disposición.
+Saludos cordiales,
+Fernando
+ <br>Security_code : yvjnx
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.51.167.20<br>
+ <br>REF : TE-1
+ <br>Nombre : Denis
+ <br>Apellido : Hernández
+ <br>Cargo : Tecnico
+ <br>Direccion : Rincon de milberg
+ <br>Ciudad : Tigre
+ <br>Telefono : 1123587792
+ <br>Email : denijavier2@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estoy muy interesado en la vacante disponible
+ <br>Security_code : Pjf52
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.51.167.20<br>
+ <br>REF : TE-1
+ <br>Nombre : Denis
+ <br>Apellido : Hernández
+ <br>Cargo : Tecnico
+ <br>Direccion : Rincon de milberg
+ <br>Ciudad : Tigre
+ <br>Telefono : 1123587792
+ <br>Email : denijavier2@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estoy muy interesado en la vacante disponible
+ <br>Security_code : Pjf52
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.45.90.161<br>
+ <br>REF : SP-1
+ <br>Nombre : Daniel 
+ <br>Apellido : Campos
+ <br>Cargo : Supervisor de Prduccion
+ <br>Direccion : Narcizo de Laprida 1405
+ <br>Ciudad : Vicente Lopez
+ <br>Telefono : 1138164872
+ <br>Email : djcm1983@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Disponibilidad Inmediata, Y con intensión de reubicarme donde así se requiera
+ <br>Security_code : y89sz
+ <br>Send : Enviar
+ <br>
+---------------
+

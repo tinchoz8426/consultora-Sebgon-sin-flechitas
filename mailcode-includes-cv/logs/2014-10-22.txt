@@ -1,0 +1,157 @@
+Address : 190.220.21.227
+Nombre : javier ignacio
+Apellido : rodriguez arriola
+Cargo : Administrativo
+Direccion : thompson 868
+Ciudad : ciudad autonoma de buenos aires
+Telefono : 1161498414
+Email : javi.arriola@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenos días,
+
+hago envió de mi CV.
+
+quedo a disposición,
+
+Javier R. Arriola.
+Security_code : jr5qb
+Send : Enviar
+
+---------------
+
+Address : 190.174.214.190
+Nombre : María Belén
+Apellido : Acuña
+Cargo : Postulación espontánea
+Direccion : Matanza 1936
+Ciudad : Lanús
+Telefono : 1540317603
+Email : belen_acuna@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto mi cv para ser tenida en cuenta en sus futuras búsquedas laborales. 
+Desde ya muchas gracias
+Security_code : 3mkv3
+Send : Enviar
+
+---------------
+
+Address : 181.111.28.74
+Nombre : carolina anabel 
+Apellido : pons
+Cargo : atencion al cliente
+Direccion : SERAPIO OVEGERO 3524
+Ciudad : cordoba
+Telefono : 3512015997
+Email : CAROLINA-PONS@HOTMAIL.COM
+MAX_FILE_SIZE : 2097152
+Mensaje : A quién corresponda: 
+              Buenas tardes, me contacto con ustedes a fin de enviarles mi Curriculum vitae respondiendo al anuncio que publicaron en Internet.
+Espero les interese mi propuesta, quedo a la espera de su respuesta.
+Saludos cordiales.
+
+Carolina A. Pons
+DNI: 33.534.381
+Cel: 0351-152015997
+Security_code : 6xgzt
+Send : Enviar
+
+---------------
+
+Address : 201.219.69.82
+Nombre : Gabriela Roxana
+Apellido : Hobus
+Cargo : Recepción/ Secretaria
+Direccion : Escualos 1119
+Ciudad : Pinamar
+Telefono : 02254 405325
+Email : gabrielarhobus@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados, buenos días.
+
+Me comunico para hacerles llegar mi CV. Soy estudiante de la Licenciatura en Turismo y Hotelería, tengo basta experiencia en hoteles la cual la he adquirido a lo largo de los años que estuve viviendo en Pinamar.
+
+Hoy el deseo de vivir nuevas experiencias me impulsa a generar esta busqueda laboral. Tengo disponibilidad inmediata para viajar y muchas ganas de implementar mis conocimientos en pos del beneficio de lograr una excelencia en el servicio.
+
+He logrado convivir y tratar con diferentes tipos de huéspedes que de acuerdo al tipo de establecimiento tienen expectativas en el servicio por el cual están pagando.
+
+He tenido la oportunidad de ser parte de la puesta en marcha e inauguración del Howard Johnson Hotel & Convention Center Madariaga - Cariló, esta experiencia me enriqueció como persona y como profesional.
+
+Al tratarse de un hotel que pertence a una cadena internacional hay ciertos standares que cumplir, poseen un tipo de Huésped VIP al cual se debe un trato preferencial.
+
+Como es de suponer el inaugurar un hotel supone ciertas situaciones que se debían resolver al momento, desde quejas por incovenientes en el servicio hasta inconvenientes edilicios propios de una construcción nueva.
+
+Toda esta vivencia me brindó la posibilidad de aprender a resolver situacion conflictivas con los huéspedes. Hemos recibido capacitaciones orientadas a la venta, cuidado de la imagen corporativa de la empresa, manejo de quejas, atención personalizada, entre otros temas.
+
+Quedo a su disposición para una entrevista.
+
+Saludos cordiales,
+
+Gabriela Hobus
+Security_code : h6dnj
+Send : Enviar
+
+---------------
+
+Address : 190.210.131.240
+Nombre : Guido Emerson 
+Apellido : Flores Colque
+Cargo : Maestro mayor de obra
+Direccion : Ohiggins 1770
+Ciudad : Buenos Aires
+Telefono : 1568206873
+Email : guidoflm@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenos Aires, 22 Octubre de 2014
+
+Sres. 
+De ACCION-AR
+
+
+De mi mayor consideración:
+			 
+Me dirijo a Uds. por el aviso en la página de Ministerio de trabajo, del corriente mes de Octubre, en el cual solicitan CV para empleos. 
+
+Desde los veinte años me desempeño en sectores área técnica, ya que estoy recibido de Maestro Mayor de Obra. En el CV que adjunto detallo mi experiencia en las distintas empresas, donde adquirí sólidos conocimientos sobre sistemas informática Office, diseño de planos (Autocad), informes de obras, sobrestante y confección de documentación administrativa.
+
+Realicé cursos orientados a perfeccionar mis conocimientos de AUTOCAD, PHOSHOP, EXEL. Tengo amplios conocimientos en manejo de cuadrillas y trabajos en grupo.
+
+Me gustaría ser parte su compañía. Considero que mis aptitudes, motivación y creatividad pueden contribuir al crecimiento del sector donde me encuentre. Dejo a su criterio la posibilidad de mantener una entrevista para ampliar aspectos de mi perfil.
+
+
+Saludo muy atentamente.
+
+Flores Colque Guido Emerson
+
+Celular: 1568206873
+Celular: 1537332878
+I.D.: 54*889*2490
+guidoflm@gmail.com
+
+Security_code : rbbsm
+Send : Enviar
+
+---------------
+
+Address : 190.247.168.130
+Nombre : Juan Pablo
+Apellido : Schamberger
+Cargo : tecnico electromecánico
+Direccion : 46 Nº 315
+Ciudad : La Plata
+Telefono : 2344445875
+Email : jpschamberger@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : He llegado a ustedes a través de un enlace en la página del Ministerio de Trabajo, Empleo y Seguridad Social. 
+Soy Técnico Electromecánico y me resta una materia para recibirme de Ingeniero Mecánico en la UNLP. Necesito realizar las prácticas profesionales requeridas en la carrera, cumpliendo al menos 200 horas de trabajo. Además necesito un empleo para solventar mis gastos y encuentro en ustedes una posibilidad de concretar mis objetivos.
+Tengo disposición full time y muy buena predisposición para iniciar cualquier actividad acorde a mi carrera.
+Desde ya muchas gracias y quedo a disposición para ampliar cualquier información necesaria.
+
+Cordialmente,
+
+                      Juan Pablo Schamberger 
+                       DNI 29958805
+Security_code : zkpz6
+Send : Enviar
+
+---------------
+

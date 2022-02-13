@@ -1,0 +1,46 @@
+Address : 186.130.81.105
+REF : ADMINISTRATIVA-DE-COMPRAS
+Nombre : Natalia
+Apellido : Gonzalez
+Cargo : Administrativa de compras
+Direccion : Olavarria 236
+Ciudad : Ituzaingo
+Telefono : 1563099450
+Email : naty781@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me postulo para cualquier trabajo, gracias.
+Security_code : 796ds
+Send : Enviar
+
+---------------
+
+Address : 190.177.194.133
+Nombre : Lara
+Apellido : Fernandez
+Cargo : maestranza, ventas,recepcionista, empleada de producción, atención al cliente
+Direccion : Talcahuano 658
+Ciudad : Merlo
+Telefono : 11-34183937
+Email : laragabrielafernandez@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me llamo Lara soy de Merlo Bs As. Termine el secundario en el 2011 con analítico en mano. tengo muchas ganas de trabajar soy responsable me gustaría desarrollarme en un buen ámbito laboral para poder formarme profesionalmente y así poder crecer tanto en lo personal como en lo económico. Muchas gracias
+Security_code : sknpd
+Send : Enviar
+
+---------------
+
+Address : 190.225.153.115
+Nombre : Mariana Romina
+Apellido : Acuña
+Cargo : Recursos Humanos
+Direccion : San Vicente  1986
+Ciudad : Jose Leon Suerez
+Telefono : 1540587994
+Email : mariansro10@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : .
+Security_code : y5s3d
+Send : Enviar
+
+---------------
+

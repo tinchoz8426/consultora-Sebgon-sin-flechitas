@@ -1,0 +1,15 @@
+Address : 186.62.11.25
+Nombre : jonatan gabriel
+Apellido : malfatti
+Cargo : operario en produccion,clarkista,embalaje,makinista de todo tipo y embasador de pintura asfaltica
+Direccion : cairo 441
+Ciudad : burzaco
+Telefono : 1557829670
+Email : jonygab@hotmail.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : me siento capasitado para cualquier tipo de trabajo que me quieran otorgar lo cualmi experiencia lo demuestra
+Security_code : 7xvwq
+Send : Enviar
+
+---------------
+

@@ -1,0 +1,30 @@
+Address : 190.30.173.71
+Nombre : saul antonio
+Apellido : juarez
+Cargo : mecanico de mantenimiento
+Direccion : mf c29barrio 1ª de mayo lules
+Ciudad : tucuman
+Telefono : 0381156400382
+Email : saul62@live.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : gracias por recibir mi cv
+Security_code : fsrss
+Send : Enviar
+
+---------------
+
+Address : 186.22.32.67
+Nombre : Sofia
+Apellido : Andrade
+Cargo : Administracion
+Direccion : Tomas Espora 451
+Ciudad : Temperley
+Telefono : 1154862865
+Email : soffi.16@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : CV
+Security_code : 2kkkx
+Send : Enviar
+
+---------------
+

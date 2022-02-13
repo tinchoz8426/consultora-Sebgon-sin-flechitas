@@ -1,0 +1,16 @@
+Address : 190.173.89.47
+Nombre : Daniel
+Apellido : Adler
+Empresa : Fe France
+Telefono : 1154760699
+Email : daniel_adler75@hotmail.com
+Mensaje : buenos dias, requiero cotizar una auditoria de seguridad para mi empresa, soy importador de Bijou
+
+gracias
+
+Daniel
+Security_code : cqhnh
+Send : Enviar
+
+---------------
+

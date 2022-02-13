@@ -1,0 +1,45 @@
+Address : 190.49.43.240
+Nombre : matilde 
+Apellido : ortiz
+Cargo : administrativos
+Direccion : amancay  223
+Ciudad : neuquen
+Telefono : 0299-154295851
+Email : la_chechitaortiz@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenos dias envio adjunto mi curriculum a fin de que se tenga en cuenta para futuros puestos laborales
+Security_code : y4zvx
+Send : Enviar
+
+---------------
+
+Address : 24.232.24.10
+Nombre : maria jimena
+Apellido : correa
+Cargo : administrativa,recepcionista.
+Direccion : pasaje el boyero 765(moron)
+Ciudad : bsas
+Telefono : 1531616947
+Email : jimenalaloca-demoron@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Desde ya muchas gracias.
+Security_code : vmr7t
+Send : Enviar
+
+---------------
+
+Address : 186.13.153.224
+Nombre : Paola Romina 
+Apellido : Gonzalez
+Cargo : atencion al cliente - repositora
+Direccion : Mesa Y castro 2179
+Ciudad : cordoba capital
+Telefono : 4523077
+Email : lapao_10@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : aca dejo mi curriculum.. 
+Security_code : vzx7g
+Send : Enviar
+
+---------------
+

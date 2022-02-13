@@ -1,0 +1,19 @@
+Address : 186.22.248.152
+Nombre : Julian
+Apellido : Stella
+Cargo : Analista
+Direccion : La Rioja 1885 Depto 12
+Ciudad : CABA
+Telefono : 011-156-563-6166
+Email : juliantrx@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Soy Lic en Administracion de Empresas egresado de la facultad de Cs Economicas de la U.B.A.
+Mi experiencia mas reciente reciente la he desarrollado en
+la empresa Hewlett-Packard, dentro del área de finanzas y por un lapso de
+cuatro años.
+
+Security_code : yw7bp
+Send : Enviar
+
+---------------
+

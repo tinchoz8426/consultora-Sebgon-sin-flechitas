@@ -1,0 +1,15 @@
+Address : 186.191.142.4
+Nombre : Analia Verónica
+Apellido : Reguera
+Cargo : atención al público/ operaria
+Direccion : Lacarra 461
+Ciudad : Paso del Rey 
+Telefono : 011 15 62205089
+Email : analiareguera@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : solo busco un trabajo en el que pueda estar en blanco y asi poder seguir adelante
+Security_code : fbvny
+Send : Enviar
+
+---------------
+

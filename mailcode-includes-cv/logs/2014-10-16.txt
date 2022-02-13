@@ -1,0 +1,157 @@
+Address : 201.176.137.60
+Nombre : carlos
+Apellido : alzamora
+Cargo : operario caucho
+Direccion : nazarre 5268
+Ciudad : devoto
+Telefono : 1524244240
+Email : alzamoracarlos@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : tengo amplia experiencia en el rubro
+Security_code : 4vcfr
+Send : Enviar
+
+---------------
+
+Address : 186.22.176.28
+Nombre : juan carlos
+Apellido : pletscher
+Cargo : vendedor
+Direccion : matanza 1225
+Ciudad : avellaneda
+Telefono : 20552676
+Email : juancarloospletscher@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje :  no se 
+Security_code : qd4ph
+Send : Enviar
+
+---------------
+
+Address : 179.37.139.37
+Nombre : leandro
+Apellido : acuña
+Cargo : operario de produccion
+Direccion : Manzana 34 ed C1 2°D
+Ciudad : claypole
+Telefono : 1569205516
+Email : leandro.so@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : tengo la necesidad de trabajar lo más antes posible 
+Security_code : jhkt7
+Send : Enviar
+
+---------------
+
+Address : 190.193.108.85
+REF : GETECOM
+Nombre : Juan Francisco  
+Apellido : Echeto 
+Cargo : Gerente de Compra
+Direccion : Jujuy 2826
+Ciudad : Santa Fe
+Telefono : 01136970931  o 03462668397
+Email : juanfecheto@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Es de mi interés relacionarme laboralmente en el sur de nuestro país. Atte.
+Security_code : gt34m
+Send : Enviar
+
+---------------
+
+Address : 190.193.108.85
+REF : GETECOM
+Nombre : Juan Francisco  
+Apellido : Echeto 
+Cargo : Gerente de Compra
+Direccion : Jujuy 2826
+Ciudad : Santa Fe
+Telefono : 01136970931  o 03462668397
+Email : juanfecheto@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Es de mi interés relacionarme laboralmente en el sur de nuestro país. Atte.
+Security_code : gt34m
+Send : Enviar
+
+---------------
+
+Address : 190.193.108.85
+REF : GETECOM
+Nombre : Juan Francisco  
+Apellido : Echeto 
+Cargo : Gerente de Compra
+Direccion : Jujuy 2826
+Ciudad : Santa Fe
+Telefono : 01136970931  o 03462668397
+Email : juanfecheto@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Es de mi interés relacionarme laboralmente en el sur de nuestro país. Atte.
+Security_code : gt34m
+Send : Enviar
+
+---------------
+
+Address : 190.193.108.85
+REF : GETECOM
+Nombre : Juan Francisco  
+Apellido : Echeto 
+Cargo : Gerente de Compra
+Direccion : Jujuy 2826
+Ciudad : Santa Fe
+Telefono : 01136970931  o 03462668397
+Email : juanfecheto@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Es de mi interés relacionarme laboralmente en el sur de nuestro país. Atte.
+Security_code : gt34m
+Send : Enviar
+
+---------------
+
+Address : 190.193.108.85
+REF : GETECOM
+Nombre : Juan Francisco  
+Apellido : Echeto 
+Cargo : Gerente de Compra
+Direccion : Jujuy 2826
+Ciudad : Santa Fe
+Telefono : 01136970931  o 03462668397
+Email : juanfecheto@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Es de mi interés relacionarme laboralmente en el sur de nuestro país. Atte.
+Security_code : 9zms
+Send : Enviar
+
+---------------
+
+Address : 190.193.108.85
+REF : GETECOM
+Nombre : Juan Francisco  
+Apellido : Echeto 
+Cargo : Gerente de Compra
+Direccion : Jujuy 2826
+Ciudad : Santa Fe
+Telefono : 01136970931  o 03462668397
+Email : juanfecheto@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Es de mi interés relacionarme laboralmente en el sur de nuestro país. Atte.
+Security_code : 5v28d
+Send : Enviar
+
+---------------
+
+Address : 190.193.108.85
+REF : GETECOM
+Nombre : Juan Francisco  
+Apellido : Echeto 
+Cargo : Gerente de Compra
+Direccion : Jujuy 2826
+Ciudad : Santa Fe
+Telefono : 01136970931  o 03462668397
+Email : juanfecheto@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Sres Sebgon, intento enviar mi cv, pero el sistema no me acepta el archivo, tampoco me dice que tipo de archivo acepta. Desde vuestra consultora podrían hacerme llegar una dirección de correo. mus cordialmente. Juan F Echeto- juanfecheto@gmail.com
+Security_code : mjbrr
+Send : Enviar
+
+---------------
+

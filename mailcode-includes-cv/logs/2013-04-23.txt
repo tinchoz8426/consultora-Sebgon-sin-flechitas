@@ -1,0 +1,30 @@
+Address : 181.239.177.243
+Nombre : José Sabino
+Apellido : Ortiz Bergia
+Cargo : Técnico o Auditor Ambiental
+Direccion : Av. Gral. Paz 34 3ro A, Bº Centro
+Ciudad : Córdoba
+Telefono : 03543-15580549
+Email : sabino.ortizbergia@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estoy interesado en desarrollarme profesionalmente dentro del área ambiental de una empresa privada o pública.
+Security_code : byggj
+Send : Enviar
+
+---------------
+
+Address : 181.239.177.243
+Nombre : José Sabino
+Apellido : Ortiz Bergia
+Cargo : Técnico o Auditor Ambiental
+Direccion : Av. Gral. Paz 34 3ro A, Bº Centro
+Ciudad : Córdoba
+Telefono : 03543-15580549
+Email : sabino.ortizbergia@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estoy interesado en desarrollarme profesionalmente dentro del área ambiental de una empresa privada o pública.
+Security_code : kgy5f
+Send : Enviar
+
+---------------
+

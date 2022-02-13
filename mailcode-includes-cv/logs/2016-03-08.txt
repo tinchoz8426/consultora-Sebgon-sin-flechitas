@@ -1,0 +1,194 @@
+Address : 168.226.219.202
+REF : SuP
+Nombre : HECTOR JAVIER
+Apellido : CASTRO
+Cargo : supervisor / jefe de produccion
+Direccion : calle 164 Nº845, quilmes
+Ciudad : buenos aires
+Telefono : 1564618605
+Email : varilla.castro@outlook.es
+MAX_FILE_SIZE : 2097152
+Mensaje : ejecutar plan productivos, control de procesos, media fill, batch records, terceros, auditorias
+Security_code : bv8hW
+Send : Enviar
+
+---------------
+
+Address : 168.226.219.202
+REF : SuP
+Nombre : HECTOR JAVIER
+Apellido : CASTRO
+Cargo : supervisor / jefe de produccion
+Direccion : calle 164 Nº845, quilmes
+Ciudad : buenos aires
+Telefono : 1564618605
+Email : varilla.castro@outlook.es
+MAX_FILE_SIZE : 2097152
+Mensaje : ejecutar plan productivos, control de procesos, media fill, batch records, terceros, auditorias
+Security_code : bv8hw
+Send : Enviar
+
+---------------
+
+Address : 168.226.219.202
+REF : SuP
+Nombre : HECTOR JAVIER
+Apellido : CASTRO
+Cargo : supervisor / jefe de produccion
+Direccion : calle 164 Nº845, quilmes
+Ciudad : buenos aires
+Telefono : 1564618605
+Email : varilla.castro@outlook.es
+MAX_FILE_SIZE : 2097152
+Mensaje : ejecutar plan productivos, control de procesos, media fill, batch records, terceros, auditorias
+Security_code : sxyvt
+Send : Enviar
+
+---------------
+
+Address : 186.139.57.18
+Nombre : María Pia
+Apellido : Martínez
+Cargo : Administrativa
+Direccion : Tandil
+Ciudad : CABA
+Telefono : 1568532744
+Email : martinez_mariapia@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados: Envío mi Currículum esperando corresponder con alguna búsqueda laboral.
+Atte.
+M. Pia Martínez
+Security_code : bxywq
+Send : Enviar
+
+---------------
+
+Address : 186.18.78.157
+Nombre : Yamila Gisela
+Apellido : Eceiza
+Cargo : ABOGADA JUNIOR
+Direccion : Combate de los pozos 143
+Ciudad : CABA
+Telefono : 011-1544176107
+Email : yamilaeceiza@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Atento a que me encuentro en la búsqueda de nuevas oportunidades profesionales, envío mi curriculum vitae para el supuesto de búsqueda de personal para puestos afines.Soy Abogada, recibida en la Universidad de Buenos Aires, habiendo realizado la orientación y la práctica profesional correspondiente al programa de la carrera en la rama del derecho público administrativo. Poseo experiencia laboral en estudio jurídico y he laborado en empresa privada en el área de contrataciones públicas.
+Security_code : cywz7
+Send : Enviar
+
+---------------
+
+Address : 181.16.107.13
+REF : GTEP
+Nombre : Daniel
+Apellido : Oviedo
+Cargo : Gerente de Planta
+Direccion : Santa Teresa de Jesus 2450
+Ciudad : Moreno
+Telefono : 01136109135
+Email : danieloviedo2003@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Tengo amplia experiencia en Manufactura, desarrollada en empresas nacionales y multinacionales, con personal a cargo.
+Security_code : dnbzt
+Send : Enviar
+
+---------------
+
+Address : 190.244.186.181
+Nombre : ezequiel
+Apellido : yattah
+Cargo : ayudante
+Direccion : Av.Brasil y matheu
+Ciudad : buenos aires
+Telefono : 1141615894
+Email : ezequiiel_95@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : tengo disponibilidad horaria. busco ganar alrededor de $6000. 
+Security_code : 5y5h9
+Send : Enviar
+
+---------------
+
+Address : 186.130.198.120
+Nombre : ANGEL CRUZ 
+Apellido : LOPEZ 
+Cargo : VIGILADOR _OPERARIO
+Direccion : LAFINUR 10267
+Ciudad : MORENO
+Telefono : 1168503811
+Email : ANGEL73CRUZ@GMAIL.COM
+MAX_FILE_SIZE : 2097152
+Mensaje : DESDE YA MUCHAS GRACIAS ,ESPERO SU LLAMADO A LA BREVEDAD .
+Security_code : YQNBQ
+Send : Enviar
+
+---------------
+
+Address : 186.130.198.120
+Nombre : ANGEL CRUZ 
+Apellido : LOPEZ 
+Cargo : VIGILADOR _OPERARIO
+Direccion : LAFINUR 10267
+Ciudad : MORENO
+Telefono : 1168503811
+Email : ANGEL73CRUZ@GMAIL.COM
+MAX_FILE_SIZE : 2097152
+Mensaje : DESDE YA MUCHAS GRACIAS ,ESPERO SU LLAMADO A LA BREVEDAD .
+Security_code : r9qm8
+Send : Enviar
+
+---------------
+
+Address : 190.191.218.197
+Nombre : Lucas 
+Apellido : Eramo
+Cargo : Facturista
+Direccion : Virrey Cevallos 167
+Ciudad : C.A.B.A.
+Telefono : 1136327025
+Email : lucaseramo@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenas noches. 
+
+Le envìo mi CV.
+
+Desde ya muchas gracias.
+Security_code : vt5qs
+Send : Enviar
+
+---------------
+
+Address : 190.191.218.197
+Nombre : Lucas
+Apellido : Eramo
+Cargo : Facturista
+Direccion : Virrey Cevallos 167
+Ciudad : C.A.B.A.
+Telefono : 1136327025
+Email : lucaseramo@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenas noche
+
+Le envìo mi CV
+
+Desde ya muchas gracias. 
+Security_code : nwz2b
+Send : Enviar
+
+---------------
+
+Address : 181.239.55.40
+Nombre : enrique martin
+Apellido : alvarenga 
+Cargo : soldador 
+Direccion : betharram 1071
+Ciudad : villa bosch 
+Telefono : 1532635994 (hermana )
+Email : nemesisakira@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : hola buena en el mismo adjunto mi cv para cualquier consulta estoy a su entera disposición desde ya muchas gracias 
+Security_code : 5985q
+Send : Enviar
+
+---------------
+

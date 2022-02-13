@@ -1,0 +1,71 @@
+Address : 201.179.147.14<br>
+ <br>Nombre : JEAN CARLOS
+ <br>Apellido : PIÑA HIDALGO
+ <br>Cargo : ELECTRONICA O INSTRUMENTACION
+ <br>Direccion : MOTAÑESES 2983
+ <br>Ciudad : CABA
+ <br>Telefono : 1126829495
+ <br>Email : jeancarlospinahidalgo@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Ing. en Electrónica con conocimientos en Intrumentacion Industrial,PLC,Unidades de transmisión remota
+ <br>Security_code : q56cb
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.207.79.54<br>
+ <br>REF : TE-1
+ <br>Nombre : RONALD JOSE
+ <br>Apellido : JIMENEZ ZAMBRANO
+ <br>Cargo : TÉCNICO ELECTRICO
+ <br>Direccion : El Tigre
+ <br>Ciudad : El Tigre
+ <br>Telefono : +584262825483
+ <br>Email : jimenezrjs@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : 28 años de experiencia, dispuesto a laboral en cualquier parte del mundo.
+28 años. De Experiencia laboral. Ejerciendo en los Cargos de Técnico Electricista y Supervisor de Electricidad.
+15 años. Sector Petrolero, Mantenimiento y Producción. 
+3 años. Sector Petrolero, Construcción y Fabricación.
+10 años. Sector Industrial, Mantenimiento y Producción
+Habilidades y Destreza en Electricidad, Electrónica, Instrumentación y Mecánica Industrial
+ <br>Security_code : sz86j
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 24.232.58.189<br>
+ <br>Nombre : angel
+ <br>Apellido : Muñoz
+ <br>Cargo : logistica y distribucion
+ <br>Direccion : Sarmiento 1924
+ <br>Ciudad : San Fernando
+ <br>Telefono : 47447281    111551319329
+ <br>Email : angelmunoz77@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Adjunto mi CV para que incluyan en su base de datos para futuras busquedas laborales
+Poseo amplia experiencia en el area de logistica y distribucion como asi tambien en el area de supermercadismo
+Atte 
+Angel Muñoz
+ <br>Security_code : cq3q6
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 200.125.104.66<br>
+ <br>REF : ACO-1
+ <br>Nombre : Nicolas
+ <br>Apellido : Comesaña
+ <br>Cargo : ANALISTA DE COMERCIO INTERNACIONAL/EXTERIOR
+ <br>Direccion : Diaz Velez 2251
+ <br>Ciudad : Adrogue
+ <br>Telefono : 1532832239
+ <br>Email : nicolas_comesana@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados, adjunto CV para que por favor tengan en cuenta en la búsqueda de la referencia.
+Slds,
+ <br>Security_code : kdgyw
+ <br>Send : Enviar
+ <br>
+---------------
+

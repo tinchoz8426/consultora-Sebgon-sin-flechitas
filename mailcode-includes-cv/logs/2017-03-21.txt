@@ -1,0 +1,778 @@
+Address : 200.125.107.65<br>
+ <br>Nombre : Daniel Alberto
+ <br>Apellido : Bustos
+ <br>Cargo : varios
+ <br>Direccion : Estado de israel 2740
+ <br>Ciudad : Buenos aires
+ <br>Telefono : 1557969203
+ <br>Email : dannibustos.e@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola que tal me gustaria formar parte de su equipo de trabajo me encuentro capacitado para brindarle mi mejor Labor, tanto en lo personal como en lo profesional 
+
+saludos muchas gracias!
+ <br>Security_code : j6k53
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 200.125.107.65<br>
+ <br>Nombre : Daniel Alberto
+ <br>Apellido : Bustos
+ <br>Cargo : varios
+ <br>Direccion : Estado de israel 2740
+ <br>Ciudad : Buenos aires
+ <br>Telefono : 1557969203
+ <br>Email : dannibustos.e@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola que tal me gustaria formar parte de su equipo de trabajo me encuentro capacitado para brindarle mi mejor Labor, tanto en lo personal como en lo profesional 
+
+saludos muchas gracias!
+ <br>Security_code : j6k53
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.9<br>
+ <br>REF : chr
+ <br>Nombre : Adrian
+ <br>Apellido : Gonzalez
+ <br>Cargo : Chofer
+ <br>Direccion : Valladolid 1068
+ <br>Ciudad : 9 de abril
+ <br>Telefono : 1132675128
+ <br>Email : aj_gonzalez1977@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Dispinibilidad inmediata.
+ <br>Security_code : fwcgw
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.171.123.104<br>
+ <br>REF : ROT-1
+ <br>Nombre : Guillermo
+ <br>Apellido : Sesoko
+ <br>Cargo : Encargado
+ <br>Direccion : Alsina 14 PB
+ <br>Ciudad : San Isidro
+ <br>Telefono : 1162518950
+ <br>Email : gsesoko88@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenos días,
+Les envío mi currículum para ver si hay posibilidades de contratación. Desde ya, muchas gracias.
+
+Saluda atte.
+
+Guillermo Sesoko
+ <br>Security_code : q8vr5
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.19.94.27<br>
+ <br>REF : chr
+ <br>Nombre : GIULIANO
+ <br>Apellido : RUSSO
+ <br>Cargo : CHOFER REPARTO
+ <br>Direccion : LACROZE 3041
+ <br>Ciudad : CIUDADELA NORTE
+ <br>Telefono : 1138839597
+ <br>Email : eoros_rlz_93@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenos días, atento a vuestra solicitud de Chofer reparto envío mi Cv; y quedo a disposición para futura entrevista;asi mismo, si no es para este puesto tengo experiencia como repositor.
+Saludos
+Giuliano Russo
+ <br>Security_code : 4vp2f
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.9<br>
+ <br>Nombre : carlos
+ <br>Apellido : soto
+ <br>Cargo : Operario chofer licencia profesional
+ <br>Direccion : Santos dumont 369
+ <br>Ciudad : Isidro casanova
+ <br>Telefono : 1549393763
+ <br>Email : carlos_soto_13_01_1993@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estoy sin trabajo nesecito encontrarme un trabajo en blanco con todos los beneficios 
+ <br>Security_code : Fqrky
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.141.138.24<br>
+ <br>REF : chr
+ <br>Nombre : Diego
+ <br>Apellido : Silva
+ <br>Cargo : chofer de reparto
+ <br>Direccion : independencia 1655
+ <br>Ciudad : Merlo
+ <br>Telefono : 1161817460
+ <br>Email : sdiegoemiliano@yahoo.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buen dia...quiero dirijirme a ustedes para postularme a su anuncio y poder ser parte de la empresa. Desde ya muchas gracias
+ <br>Security_code : 87vj2
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.91.141.168<br>
+ <br>REF : chr
+ <br>Nombre : Diego Alejandro
+ <br>Apellido : Szumik
+ <br>Cargo : Chofer
+ <br>Direccion : Chascomus 4611
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 1532581438
+ <br>Email : diegoaszumik@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Chofer con experiencia en mudanzas, repartos con manejo de remitos , boletas y cobranzas.
+ <br>Security_code : gyn48
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.91.141.168<br>
+ <br>Nombre : Diego Alejandro
+ <br>Apellido : Szumik
+ <br>Cargo : Chofer
+ <br>Direccion : Chascomus 4611
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 1532581438
+ <br>Email : diegoaszumik@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Chofer con experiencia en mudanzas, repartos con manejo de remitos y boletas con cobranzas, poseo licencia de conducir valida y Licencia Nacional Habilitante CNRT para Cargas Generales
+ <br>Security_code : ybttq
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.7<br>
+ <br>REF : chr
+ <br>Nombre : Victor
+ <br>Apellido : Aguilar Sanez
+ <br>Cargo : Chofer  conductor profecional
+ <br>Direccion : Espinosa 2899 casa 48
+ <br>Ciudad : Capital federal
+ <br>Telefono : 1553236369
+ <br>Email : titonvilu24@gmail.com 
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Full time
+ <br>Security_code : w8swr
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.11<br>
+ <br>REF : chr
+ <br>Nombre : Alberto
+ <br>Apellido : Perez
+ <br>Cargo : Chofer 
+ <br>Direccion : Ej de los andes 319
+ <br>Ciudad : Lomas de zamora 
+ <br>Telefono : 1539194745
+ <br>Email : alber7008@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Tengo mas de 18 años de exp en rubro tramsporte y como fletero...
+ <br>Security_code : Dj7yk
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.225.159.56<br>
+ <br>Nombre : Gabriel Esteban
+ <br>Apellido : Cabrera 
+ <br>Cargo : Chofer
+ <br>Direccion : Guido spano 1651
+ <br>Ciudad : tTres de febrero
+ <br>Telefono : 15 36710843
+ <br>Email : gabriel.cabrera1966@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Vi el anuncio en esta pagina y me intereso.
+Espero que a la hora de seleccionar me tengan en cuenta.
+Arte.Gabriel  Cabrera 
+ <br>Security_code : 5fzqv
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.9<br>
+ <br>REF : chr
+ <br>Nombre : Fernando Ariel
+ <br>Apellido : Contti
+ <br>Cargo : Chofer
+ <br>Direccion : Avalos, 972
+ <br>Ciudad : Capital federal
+ <br>Telefono : 1574064552
+ <br>Email : Sashimi@live.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Busco empleo en el área de transporte poseo experiencia y referencias comprobables cnrt y pasajeros al dia 
+ <br>Security_code : 9f2fh
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.91.128.150<br>
+ <br>REF : chr
+ <br>Nombre : ricardo manuel
+ <br>Apellido : rodriguez
+ <br>Cargo : chofer
+ <br>Direccion : pernanabuco 2148
+ <br>Ciudad : capital federal
+ <br>Telefono : 1555996115
+ <br>Email : ricardomrodriguez@hotmail.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas tardes : Espero coincidir con el perfil de su búsqueda,desde ya muchas gracias ; 
+
+
+Saluda atte : Ricardo Rodriguez 
+ <br>Security_code : 65y7r
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.7<br>
+ <br>REF : chr
+ <br>Nombre : Fernando Ariel
+ <br>Apellido : Contti
+ <br>Cargo : Chofer
+ <br>Direccion : Avalos, 972
+ <br>Ciudad : Capital federal
+ <br>Telefono : 1574064552
+ <br>Email : Sashimi@live.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Busco empleo en el área de transporte poseo experiencia y referencias comprobables cnrt y pasajeros al dia 
+ <br>Security_code : 9f2fh
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.16.252.37<br>
+ <br>REF : chr
+ <br>Nombre : Diego
+ <br>Apellido : Landaburu
+ <br>Cargo : Chófer
+ <br>Direccion : Quintana 1302
+ <br>Ciudad : Buenos aires Villa Bosch
+ <br>Telefono : 1568622591
+ <br>Email : diegoropero77@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me postulo a la vacante chófer con experiencia en reparto y distribución.
+ <br>Security_code : ctkk9
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.119.80.5<br>
+ <br>Nombre : Mario
+ <br>Apellido : Peralta
+ <br>Cargo : chofer profecional
+ <br>Direccion : CALLE 700 CASA 131
+ <br>Ciudad : Ciudad Evita La Matanza
+ <br>Telefono : 46953258
+ <br>Email : peraltamh48@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : HOLA BUEN DIA 
+ <br>Security_code : ZHFN4
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.143.133.90<br>
+ <br>REF : chr
+ <br>Nombre : Jorge humberto
+ <br>Apellido : Araujo
+ <br>Cargo : Chofer
+ <br>Direccion : Lujan 2211
+ <br>Ciudad : Gregorio de laferrere
+ <br>Telefono : 011  1161412359
+ <br>Email : Jorgeharaujo17@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Deceo q con mi experiencia aportar lo mejor para q la empresa tenga mejor calidad
+ <br>Security_code : Wcpj3
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.1.243.78<br>
+ <br>REF : ACO-1
+ <br>Nombre : Jessica Vanesa
+ <br>Apellido : Gregorio
+ <br>Cargo : ANALISTA DE COMERCIO INTERNACIONAL/EXTERIOR
+ <br>Direccion : Lavallol de acosta 333
+ <br>Ciudad : San antonio de padua
+ <br>Telefono : 0111534746855
+ <br>Email : gregorio.jessica@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados,
+
+Mi nombre es Jessica Gregorio soy Licenciada en Comercio Internacional y en 2015 finalice mi Maestría en Dirección y Gestión de empresas Internacionales en la UAB (Universitat Autónoma de Barcelona).
+
+Me encuentro absolutamente interesada en la vacante ya que sigo buscando obtener experiencia valiosa para formarme profesionalmente en el área de Comercio Internacional por lo que espero que mi perfil sea de su agrado. Tengo para aportar muchas ganas de trabajar, pro actividad, responsabilidad, capacidad de trabajo en equipo y conocimientos. 
+
+Estando a su entera disposición para coordinar una entrevista cuando ud. considere necesario, la saluda atentamente,
+ 
+Lic. Jessica Vanesa Gregorio
+(+54) 9 11 3474 6855
+ <br>Security_code : xd2xb
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.1.243.78<br>
+ <br>REF : ACO-1
+ <br>Nombre : Jessica Vanesa
+ <br>Apellido : Gregorio
+ <br>Cargo : ANALISTA DE COMERCIO INTERNACIONAL/EXTERIOR
+ <br>Direccion : Lavallol de acosta 333
+ <br>Ciudad : San antonio de padua
+ <br>Telefono : 0111534746855
+ <br>Email : gregorio.jessica@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados,
+
+Mi nombre es Jessica Gregorio soy Licenciada en Comercio Internacional y en 2015 finalice mi Maestría en Dirección y Gestión de empresas Internacionales en la UAB (Universitat Autónoma de Barcelona).
+
+Me encuentro absolutamente interesada en la vacante ya que sigo buscando obtener experiencia valiosa para formarme profesionalmente en el área de Comercio Internacional por lo que espero que mi perfil sea de su agrado. Tengo para aportar muchas ganas de trabajar, pro actividad, responsabilidad, capacidad de trabajo en equipo y conocimientos. 
+
+Estando a su entera disposición para coordinar una entrevista cuando ud. considere necesario, la saluda atentamente,
+ 
+Lic. Jessica Vanesa Gregorio
+(+54) 9 11 3474 6855
+ <br>Security_code : cvxrx
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.27.227.84<br>
+ <br>Nombre : oscar alberto 
+ <br>Apellido : grassi
+ <br>Cargo : ventas 
+ <br>Direccion : asamblea 1442
+ <br>Ciudad : capital federal
+ <br>Telefono : 1569121051
+ <br>Email : grassi.oscar84@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : espero tener una entrevista poder mostrar mi desarrollo en seguridad e higiene y poder crecer con la empresa 
+ <br>Security_code : g422y
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.141.133.63<br>
+ <br>REF : chr
+ <br>Nombre : Miguel Leonardo
+ <br>Apellido : Minio
+ <br>Cargo : Chofer 
+ <br>Direccion : Valparaizo 716 Ing Pablo Nogues
+ <br>Ciudad : Malvinas Argentina
+ <br>Telefono : 02320418776
+ <br>Email : miguelo_666@live.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimado.dejo mi cv para que lo evaluen y poder ser parte de la empresa
+ <br>Security_code : mcpff
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 191.80.183.60<br>
+ <br>Nombre : cristian carlos
+ <br>Apellido : portillo
+ <br>Cargo : operario
+ <br>Direccion : santa magdalena 1424
+ <br>Ciudad : 9 de abril
+ <br>Telefono : 4693 7051
+ <br>Email : cristianeoy@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : deseo formar parte de su equipo de trabajo poniendo a su disposición mis años de experiencia,y conocimientos.
+ <br>Security_code : 52np8
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.141.201.168<br>
+ <br>REF : chr
+ <br>Nombre : Segundo 
+ <br>Apellido : García 
+ <br>Cargo : Chofer
+ <br>Direccion : Magdalena 2364 
+ <br>Ciudad : Buenos Aires 
+ <br>Telefono : 1139445731
+ <br>Email : micaperez774@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estoy en busca de empleo con urgencia tengo registro municipal y CNRT soy responsable y me gustaría trabajar 
+ <br>Security_code : P23kx
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.141.201.168<br>
+ <br>REF : chr
+ <br>Nombre : Segundo 
+ <br>Apellido : García 
+ <br>Cargo : Chofer
+ <br>Direccion : Magdalena 2364 
+ <br>Ciudad : Buenos Aires 
+ <br>Telefono : 1139445731
+ <br>Email : micaperez774@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estoy en busca de empleo con urgencia tengo registro municipal y CNRT soy responsable y me gustaría trabajar 
+ <br>Security_code : P23kx
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.141.201.168<br>
+ <br>REF : chr
+ <br>Nombre : Segundo 
+ <br>Apellido : García 
+ <br>Cargo : Chofer
+ <br>Direccion : Magdalena 2364 
+ <br>Ciudad : Buenos Aires 
+ <br>Telefono : 1139445731
+ <br>Email : micaperez774@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estoy en busca de empleo con urgencia tengo registro municipal y CNRT soy responsable y me gustaría trabajar 
+ <br>Security_code : wnjhb
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.139.196.42<br>
+ <br>REF : chr
+ <br>Nombre : Alberto Javier
+ <br>Apellido : Bracamonte
+ <br>Cargo : Chofer
+ <br>Direccion : Varela
+ <br>Ciudad : Marcos Juarez
+ <br>Telefono : 3472-527892
+ <br>Email : javibraca@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : De mi consideración:
+
+Tengo el agrado de dirigirme a Ud. con el objetivo de participar en Búsquedas acorde a mi perfil en su organización. Adjunto le remito mi Curriculum Vitae para postularme para la actual búsqueda o en un futuro próximo.
+ 
+Cuento con  conocimientos en ventas, manejos interpersonales ya que me he desempeñado como  representante comercial en diferentes rubros. Seguridad o sereno. Manejo de camiones de gran porte y volcadores, grúas y montacargas. He trabajado como chofer de taxis y Trafic. Conocimientos básicos de mecánica ligera, electricidad e hidráulica
+
+Tengo un amplio  manejo del Sistema Operativo Manejo Windows desde Word, Excel, Access , todo el entorno de Microsoft Office y otros sistemas operativos como el Open Office , 
+Me considero una persona pro-activa, ordenada, perseverante, responsable y capaz de  formar parte de un equipo de trabajo.
+Con capacidad para poder desarrollar las tareas encomendadas. Solo necesito una oportunidad para demostrar que puedo dar mucho y aportar mucho más. 
+Disponibilidad para radicarme donde sea necesario y/o donde la empresa lo requiera. Y disponibilidad para viajar a cualquier lugar...
+Desde ya muchas gracias y espero una pronta respuesta favorable.
+Lo saludo atte.
+                     Alberto Javier Bracamonte  
+
+ <br>Security_code : q5fd5
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 200.125.106.81<br>
+ <br>REF : chr
+ <br>Nombre : Cristian Gustavo 
+ <br>Apellido : Da Costa
+ <br>Cargo : conductor chofer
+ <br>Direccion : Adolfo Berro 5898
+ <br>Ciudad : Isidro Casanova
+ <br>Telefono : 1535635406
+ <br>Email : cristiandacosta09@hotmail.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola que tal me encantaria formar parte de la empresa espero su llamado dsde ya muchas gracias.
+ <br>Security_code : kjmvk
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 200.125.106.81<br>
+ <br>REF : chr
+ <br>Nombre : Cristian Gustavo 
+ <br>Apellido : Da Costa
+ <br>Cargo : conductor chofer
+ <br>Direccion : Adolfo Berro 5898
+ <br>Ciudad : Isidro Casanova
+ <br>Telefono : 1535635406
+ <br>Email : cristiandacosta09@hotmail.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola que tal me encantaria formar parte de la empresa espero su llamado dsde ya muchas gracias.
+ <br>Security_code : kjmvk
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.182.115.231<br>
+ <br>Nombre : Fabio
+ <br>Apellido : Farcy
+ <br>Cargo : Encargado / Tecnico / Supervisor
+ <br>Direccion : Los Indios 1834
+ <br>Ciudad : Castelar
+ <br>Telefono : 15-6625-5404
+ <br>Email : fabiofarcy@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : en busqueda laboral activa
+ <br>Security_code : ynxdn
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.9<br>
+ <br>REF : chr
+ <br>Nombre : Ismael
+ <br>Apellido : Rodriguez
+ <br>Cargo : Chofer
+ <br>Direccion : Barrio 17 noviembre manzana 11 casa 108
+ <br>Ciudad :  Villa celina
+ <br>Telefono : 1128262941
+ <br>Email : Mirian_morales_2013@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola tengo los registros al dia soy responsable
+
+
+
+
+ <br>Security_code : 7ctmk
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.188.48.76<br>
+ <br>Nombre : Agustina 
+ <br>Apellido : García Urga
+ <br>Cargo : Secretaria/recepcionista
+ <br>Direccion : Montevideo 1288
+ <br>Ciudad : Castelar
+ <br>Telefono : 1569574674
+ <br>Email : agu.urga@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola mi nombre es Agustina, tengo 20 años. Aquí les envío mi cv porque me informaron que están buscando personal. Muchas gracias.
+Espero su respuesta, saludos
+ <br>Security_code : ym9s7
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 191.80.232.32<br>
+ <br>REF : chr
+ <br>Nombre : Javier
+ <br>Apellido : Paez
+ <br>Cargo : Chofer de camion
+ <br>Direccion : Hucal 2651
+ <br>Ciudad : Rafael castillo
+ <br>Telefono : 1131069436
+ <br>Email : Jpaez1976@gmail
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola soy chofer con registro de moyano al día con conocimientos de calles y rutas desde ya gracias
+ <br>Security_code : rnhsx
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 179.40.200.197<br>
+ <br>Nombre : Javier
+ <br>Apellido : Zamora
+ <br>Cargo : Chofer
+ <br>Direccion : Padre mujica 2811 Rafael castillo
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 1125127026
+ <br>Email : Emanuel.javier.1995@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estoy interesado en el puesto de trabajo.saludos
+ <br>Security_code : F63g3
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 179.40.200.197<br>
+ <br>Nombre : Javier
+ <br>Apellido : Zamora
+ <br>Cargo : Chofer
+ <br>Direccion : Padre mujica 2811 Rafael castillo
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 1125127026
+ <br>Email : Emanuel.javier.1995@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estoy interesado en el puesto de trabajo.saludos
+ <br>Security_code : F63g3
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 179.40.200.197<br>
+ <br>Nombre : Javier
+ <br>Apellido : Zamora
+ <br>Cargo : Chofer
+ <br>Direccion : Padre mujica 2811 Rafael castillo
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 1125127026
+ <br>Email : Emanuel.javier.1995@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estoy interesado en el puesto de trabajo.saludos
+ <br>Security_code : 26c5z
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 179.40.200.197<br>
+ <br>Nombre : Javier
+ <br>Apellido : Zamora
+ <br>Cargo : Chofer
+ <br>Direccion : Padre mujica 2811 Rafael castillo
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 1125127026
+ <br>Email : Emanuel.javier.1995@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estoy interesado en el puesto de trabajo.saludos
+ <br>Security_code : 26c5z
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.244.67.111<br>
+ <br>Nombre : Yamile
+ <br>Apellido : Isach
+ <br>Cargo : Camarera - Atención al cliente - Asistente
+ <br>Direccion : Aristobulo del Valle 445
+ <br>Ciudad : Castelar
+ <br>Telefono : 02267-15663769
+ <br>Email : yamile.isach@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : .
+ <br>Security_code : 4nbqj
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.48.230.195<br>
+ <br>REF : chr
+ <br>Nombre : Luis Eduardo
+ <br>Apellido : Valverde Madrid
+ <br>Cargo : Chofer de reparto 
+ <br>Direccion : Alonso pareja
+ <br>Ciudad : González catan
+ <br>Telefono : 02202- 450114 / 1164873732
+ <br>Email : rolouvm@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Tengo xpriencia en reparto confianzas y de calles y localidades
+ <br>Security_code : Szb6c
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.48.230.195<br>
+ <br>REF : chr
+ <br>Nombre : Luis Eduardo
+ <br>Apellido : Valverde Madrid
+ <br>Cargo : Chofer de reparto 
+ <br>Direccion : Alonso pareja
+ <br>Ciudad : González catan
+ <br>Telefono : 02202- 450114 / 1164873732
+ <br>Email : rolouvm@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Tengo xpriencia en reparto confianzas y de calles y localidades
+ <br>Security_code : 2xfpt
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.55.72.45<br>
+ <br>REF : chr
+ <br>Nombre : javier
+ <br>Apellido : Pugliese
+ <br>Cargo : chofer y ayudante
+ <br>Direccion : Simon Bolivar 3920
+ <br>Ciudad : buenos aires
+ <br>Telefono : 35283272
+ <br>Email : javierpugliese2013@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : chofer .ayudante,con conocimientos de mecanica de camiones,registros vigentes y curso al dia
+
+ <br>Security_code : 33wwd
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.51.19.213<br>
+ <br>REF : chr
+ <br>Nombre : Damian
+ <br>Apellido : Hernandez
+ <br>Cargo : chofer de reparto
+ <br>Direccion : pedernera 645
+ <br>Ciudad : Bs As
+ <br>Telefono : 1533438728
+ <br>Email : gabinocapoeira@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : llego temprano
+soy responsable
+de confianza
+soy muy trabajador y cumplidor
+aprendo rapido6vny6
+ <br>Security_code : 6nvny6
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.16.117.19<br>
+ <br>REF : chr
+ <br>Nombre : juan marcelo
+ <br>Apellido : gimenez
+ <br>Cargo : chofer
+ <br>Direccion : haedo 342
+ <br>Ciudad : san miguel
+ <br>Telefono : 1551155919
+ <br>Email : chelotedag19@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : poder contemplar los requerimientos,disponibilidad full time.
+ <br>Security_code : 7hr4y
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.19.103.12<br>
+ <br>REF : chr
+ <br>Nombre : omar silvio
+ <br>Apellido : romero
+ <br>Cargo : chofer mecanico
+ <br>Direccion : gamay 979
+ <br>Ciudad : gonzalez catan
+ <br>Telefono : 1169525275
+ <br>Email : romero812omar@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Necesito trabajar soy chofer y tengo conosimiento mecanica
+ <br>Security_code : kdjnr
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.19.103.12<br>
+ <br>REF : chr
+ <br>Nombre : omar silvio
+ <br>Apellido : romero
+ <br>Cargo : chofer mecanico
+ <br>Direccion : gamay 979
+ <br>Ciudad : gonzalez catan
+ <br>Telefono : 1169525275
+ <br>Email : romero812omar@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Necesito trabajar soy chofer y tengo conosimiento mecanica
+ <br>Security_code : ct65p
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.19.103.12<br>
+ <br>REF : chr
+ <br>Nombre : omar silvio
+ <br>Apellido : romero
+ <br>Cargo : chofer mecanico
+ <br>Direccion : gamay 979
+ <br>Ciudad : gonzalez catan
+ <br>Telefono : 1169525275
+ <br>Email : romero812omar@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Necesito trabajar soy chofer y tengo conosimiento mecanica
+ <br>Security_code : ct65p
+ <br>Send : Enviar
+ <br>
+---------------
+

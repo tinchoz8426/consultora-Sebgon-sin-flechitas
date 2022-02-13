@@ -1,0 +1,138 @@
+Address : 186.108.179.133<br>
+ <br>Nombre : Ana Belen 
+ <br>Apellido : Castro
+ <br>Cargo : *
+ <br>Direccion : Peru 2940
+ <br>Ciudad : San Lorenzo
+ <br>Telefono : 03476 15653126
+ <br>Email : anabelencastro29@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Ocupar un puesto acorde a mis capacidades y aptitudes con posibilidad de desarrollo.
+ <br>Security_code : tZWgy
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.22.239.34<br>
+ <br>REF : SP-1
+ <br>Nombre : Jose 
+ <br>Apellido : Agüero 
+ <br>Cargo : Supervisor 
+ <br>Direccion : Democracia 
+ <br>Ciudad : Moreno 
+ <br>Telefono : 32705754
+ <br>Email : bosterodemoreno@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Salario acorde al puesto de trabajo. 
+Si se debe comenzar de operarios también puede conversarse. 
+ <br>Security_code : dbz58
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.22.239.34<br>
+ <br>Nombre : Jose 
+ <br>Apellido : Agüero 
+ <br>Cargo : Supervisor 
+ <br>Direccion : Democracia 
+ <br>Ciudad : Moreno 
+ <br>Telefono : 32705754
+ <br>Email : bosterodemoreno@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : No importa el puesto de trabajo. Con ganas de trabajar 
+ <br>Security_code : x7pn7
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 200.114.165.111<br>
+ <br>Nombre : Andrea
+ <br>Apellido : Mariotta
+ <br>Cargo : Administrativo/Ventas
+ <br>Direccion : Zeballos 4010 1ro A
+ <br>Ciudad : rosario
+ <br>Telefono : 0341153670558
+ <br>Email : ANDREAMNUCCI@GMAIL.COM
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Llamar por whatsapp!
+ <br>Security_code : r7vh4
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.18.86.40<br>
+ <br>Nombre : Alexis
+ <br>Apellido : Antunez 
+ <br>Cargo : Limpieza 
+ <br>Direccion : Neuquén 
+ <br>Ciudad : Lomas del mirador 
+ <br>Telefono : 1123195976
+ <br>Email : Alemmisiones2016@gmaio.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola cómo están estoy buscando trabajo de lo que sea espero tener suerte tengo mucha experiencia soy de misiones y vivo acá en Bs.As hace 9 año. Gracias 
+ <br>Security_code : b935y
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.46.36.129<br>
+ <br>REF : ROT-1
+ <br>Nombre : Leonardo
+ <br>Apellido : López paz
+ <br>Cargo : Responsable de oficina tecnica
+ <br>Direccion : Madero 808
+ <br>Ciudad : Villa Sarmiento - Morón
+ <br>Telefono : 1555920853
+ <br>Email : leonlopezpaz@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estoy interesado en el puesto de referencia. Tengo 10 años de experiencia en el rubro. Último puesto laboral hasta abril/2018 en famiq como jefe de producción,desarrollo demaquinas y elementos.Manejo de Autocad y inventor. 
+ <br>Security_code : nkyxy
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.9.140.239<br>
+ <br>Nombre : Vanesa sonia
+ <br>Apellido : Soler
+ <br>Cargo : Limpieza
+ <br>Direccion : Paso del portillo 2266
+ <br>Ciudad : Mendoza  -  Argentina 
+ <br>Telefono : 2612426256
+ <br>Email : soniavanesa35@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Soy muy responsable espero yenar las espectativas para poder trabajar para ustedes 
+ <br>Security_code : 84tjf
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.9.140.239<br>
+ <br>Nombre : Vanesa sonia
+ <br>Apellido : Soler
+ <br>Cargo : Limpieza
+ <br>Direccion : Paso del portillo 2266
+ <br>Ciudad : Mendoza  -  Argentina 
+ <br>Telefono : 2612426256
+ <br>Email : soniavanesa35@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Soy muy responsable espero yenar las espectativas para poder trabajar para ustedes 
+ <br>Security_code : 4g675
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 138.36.55.98<br>
+ <br>Nombre : Eliana
+ <br>Apellido : Villlaba
+ <br>Cargo : Auxliar en recursos humanos
+ <br>Direccion : Dr Rivas 2243
+ <br>Ciudad : Rosario
+ <br>Telefono : 155405906
+ <br>Email : Eliana852011@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me gustaría ingresar a la empresa...
+ <br>Security_code : H9b4c
+ <br>Send : Enviar
+ <br>
+---------------
+

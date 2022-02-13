@@ -1,0 +1,15 @@
+Address : 201.255.92.65
+Nombre : david
+Apellido : arguello
+Cargo : capacitacion
+Direccion : 138 bis nro 84
+Ciudad : la plata
+Telefono : 221-5637915
+Email : DVD_A@HOTMAIL.COM
+MAX_FILE_SIZE : 2097152
+Mensaje : me postulo para supervicion y capacitacion
+Security_code : p2y3r
+Send : Enviar
+
+---------------
+

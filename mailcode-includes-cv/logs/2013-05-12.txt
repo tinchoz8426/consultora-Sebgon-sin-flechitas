@@ -1,0 +1,21 @@
+Address : 181.47.90.53
+Nombre : Andrés Antonio
+Apellido : Figueroa
+Cargo : Periodista
+Direccion : Roberto Núñez 4323, 2º B
+Ciudad : Ciudad de Buenos Aires
+Telefono : 20505327
+Email : periodistafigueroa@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Soy el Periodista Profesional y Licenciado en Comunicación Social Andrés Figueroa Cornejo.
+
+Con 15 años de experiencia laboral, he sido editor, redactor, corrector de pruebas y productor de contenidos escritos, radiofónicos, guiones, artículos informativos, de opinión e interpretación;  reportajes, crónicas y entrevistas. Tengo más de 600 publicaciones sobre temas de actualidad, sociedad, política, laboral, salud mental, educación, salud, economía, tanto en medios impresos para todo público, como en emisoras e Internet. Me he desempeñado como Relacionador Público, Productor de Eventos y en Comunicación Estratégica. Cuento con un buen manejo de redes sociales e  inglés.
+
+Mis fortalezas profesionales son la proactividad, liderazgo, iniciativa, creatividad, habilidades pedagógicas, trabajo en equipo y contra reloj, rápida adecuación y solución de problemas no previstos frente a cambios bruscos de situaciones y condiciones, polifuncionalidad y versatilidad.
+
+Cordialmente, Andrés Figueroa C.
+Security_code : kkgqj
+Send : Enviar
+
+---------------
+

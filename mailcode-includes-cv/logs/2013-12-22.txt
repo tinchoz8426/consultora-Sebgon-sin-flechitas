@@ -1,0 +1,47 @@
+Address : 190.48.183.198
+Nombre : Braian 
+Apellido : sosa
+Cargo : operario chofer cualquiera
+Direccion : posta de yatasto 1242
+Ciudad : Merlo, Buenos Aires
+Telefono : 011 1135070081
+Email : Braian_jere@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Soy muy capas, aprendo rapido las tareas que me asignen, estoy a su disposicion, gracias
+Security_code : wccdx
+Send : Enviar
+
+---------------
+
+Address : 186.19.231.78
+Nombre : Teresita
+Apellido : Barambones
+Cargo : Recursos Humanos
+Direccion : Av. Escalada 544 - Pb. B
+Ciudad : Capital Federal
+Telefono : 15 33398697
+Email : barambonesteresita@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados, les envío mi curriculum. Soy psicóloga y me interesaría trabajar en el departamento de Recursos Humanos.
+Saludos,
+Lic. Teresita Barambones
+Security_code : kkw9h
+Send : Enviar
+
+---------------
+
+Address : 190.178.29.193
+Nombre : Rocio Leonela
+Apellido : Rojas
+Cargo : 6000
+Direccion : alberti 998
+Ciudad : junin
+Telefono : 236-154320923
+Email : rocio200457@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : hola,soy una persona muy responsable,exigente, capaz de realizar las tareas que se me encomienden.espero me tengan en cuenta.muchas gracias
+Security_code : mbqh3
+Send : Enviar
+
+---------------
+

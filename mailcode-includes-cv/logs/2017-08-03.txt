@@ -1,0 +1,496 @@
+Address : 186.141.137.238<br>
+ <br>REF : chr
+ <br>Nombre : Luis emilio 
+ <br>Apellido : Jatip
+ <br>Cargo : Chofer
+ <br>Direccion : Jose hernandez 1595
+ <br>Ciudad : Isidro casanova
+ <br>Telefono : 1130928884
+ <br>Email : luisemiliojatip09@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenos dias estoy buscando trabajo tengo 10 años de experiecia en reparto 2 años cono chifer de ruta con cemi me gustaria formar tarte de la empresa muchas gracias saludos
+ <br>Security_code : 6z78f
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.182.116.16<br>
+ <br>Nombre : Maximiliano
+ <br>Apellido : Marques
+ <br>Cargo : administrativo, logistica, ventas
+ <br>Direccion : Bartolome Hidalgo 1584
+ <br>Ciudad : Castelar
+ <br>Telefono : 1537694901
+ <br>Email : maximarques22@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Muchas gracias por tener en cuenta mi curriculum Vitae
+ <br>Security_code : nxd7t
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.182.116.16<br>
+ <br>Nombre : Maximiliano
+ <br>Apellido : Marques
+ <br>Cargo : administrativo, logistica, ventas
+ <br>Direccion : Bartolome Hidalgo 1584
+ <br>Ciudad : Castelar
+ <br>Telefono : 1537694901
+ <br>Email : maximarques22@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Muchas gracias por tener en cuenta mi curriculum Vitae
+ <br>Security_code : nxd7t
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.182.116.16<br>
+ <br>Nombre : Maximiliano
+ <br>Apellido : Marques
+ <br>Cargo : administrativo, logistica, ventas
+ <br>Direccion : Bartolome Hidalgo 1584
+ <br>Ciudad : Castelar
+ <br>Telefono : 1537694901
+ <br>Email : maximarques22@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Muchas gracias por tener en cuenta mi curriculum Vitae
+ <br>Security_code : hj33x
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.18.59.11<br>
+ <br>REF : SP-1
+ <br>Nombre : Fernando Daniel
+ <br>Apellido : Cicchitti
+ <br>Cargo : Supervision de Porduccion
+ <br>Direccion : Arenales 578
+ <br>Ciudad : Campana
+ <br>Telefono : 0348915496887
+ <br>Email : fernando7111@hotmail.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Quedo a disposicion..Saludos
+ <br>Security_code : kqhhm
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.29.158.40<br>
+ <br>REF : chr
+ <br>Nombre : Marcelo
+ <br>Apellido : Gomez
+ <br>Cargo : acompañante
+ <br>Direccion : T. lebreton
+ <br>Ciudad : buenos aires , hurlingham
+ <br>Telefono : 1127040662
+ <br>Email : yamahaybred@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : conocimiento basico de mecanica y excelente predisposicion
+ <br>Security_code : 76rck
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.29.158.40<br>
+ <br>Nombre : Marcelo
+ <br>Apellido : Gomez
+ <br>Cargo : chofer
+ <br>Direccion : T. lebreton
+ <br>Ciudad : buenos aires , hurlingham
+ <br>Telefono : 1127040662
+ <br>Email : yamahaybred@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : conocimiento basico de mecanica y excelente predisposicion. 
+ <br>Security_code : k6bhw
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.20.33.182<br>
+ <br>REF : ACO
+ <br>Nombre : Giuliana Micaela
+ <br>Apellido : Gómez
+ <br>Cargo : RESPONSABLE DE OFICINA TÉCNICA 
+ <br>Direccion : Julian Perez 345
+ <br>Ciudad : Moron
+ <br>Telefono : 01144891676
+ <br>Email : gmgomez.13.11@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Soy estudiante avanzada de Ingeniería Metalúrgica, ya termine de cursar,me encuentro recibida de Técnica Universitaria Metalúrgica, y a nivel secundario soy Técnica en Industria de Procesos Orientación Alimentos. Envío mi curriculum a su empresa con motivo de insertarme en el campo laboral.
+ <br>Security_code : gmqfn
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.173.195.117<br>
+ <br>REF : chr
+ <br>Nombre : carlos alberto
+ <br>Apellido : coronel
+ <br>Cargo : chofer camion
+ <br>Direccion : 127  5243
+ <br>Ciudad : berazategui
+ <br>Telefono : 1537853532   237*664
+ <br>Email : carloscoronel4085@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : chofer con registro profecional y cursos al dia cnrt . experiencia 
+ <br>Security_code : dzvs4
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.173.195.117<br>
+ <br>REF : chr
+ <br>Nombre : carlos alberto
+ <br>Apellido : coronel
+ <br>Cargo : chofer camion
+ <br>Direccion : 127  5243
+ <br>Ciudad : berazategui
+ <br>Telefono : 1537853532   237*664
+ <br>Email : carloscoronel4085@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : chofer con registro profecional y cursos al dia cnrt . experiencia 
+ <br>Security_code : ntpkd
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.61.142.227<br>
+ <br>REF : ACO
+ <br>Nombre : Miriam Romina
+ <br>Apellido : Basando Luque
+ <br>Cargo : Asistente comercial- cajera
+ <br>Direccion : Mariano Balcarce 62
+ <br>Ciudad : Moron
+ <br>Telefono : 1534856210
+ <br>Email : romy-08@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas tardes adjunto cv
+ <br>Security_code : Ytjyb
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.23.36.211<br>
+ <br>REF : chr
+ <br>Nombre : DIEGO HERNAN
+ <br>Apellido : DURANTE
+ <br>Cargo : chofer
+ <br>Direccion : almirante brown 3864
+ <br>Ciudad : lomas del mirador
+ <br>Telefono : 39708786
+ <br>Email : diegodurante2009@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : cuento con todos los registros al dia y una amplia trayectoria como chofer
+ <br>Security_code : kvh75
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.169.84.100<br>
+ <br>Nombre : Oswaldo 
+ <br>Apellido : Fajardo
+ <br>Cargo : ADMINISTRATIVO
+ <br>Direccion : ARENALES 1560
+ <br>Ciudad : CABA
+ <br>Telefono : 15 23926745
+ <br>Email : yayo8393@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buen día, me encuentro en busqueda de una mejor laboral y quisiera enviarle mi CV actualizado para cualquier vacante que se ajuste a mi perfil.
+
+
+Gracias de antemano
+ <br>Security_code : pkp47
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 191.82.95.208<br>
+ <br>REF : SP-1
+ <br>Nombre : Pedro Matias
+ <br>Apellido : DAndrea
+ <br>Cargo : Supervisor de producción
+ <br>Direccion : la golondrina, 45
+ <br>Ciudad : pilar
+ <br>Telefono : 02304424163
+ <br>Email : mdandrea.33@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Movilidad propia.
+Responsabilidad y experiencia.
+ <br>Security_code : 86z6d
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.19.15.252<br>
+ <br>REF : JPER-1
+ <br>Nombre : Laura
+ <br>Apellido : Calvo
+ <br>Cargo : Jefe de personal
+ <br>Direccion : Oliden 1374
+ <br>Ciudad : Caba
+ <br>Telefono : 1156571682
+ <br>Email : Calvolau@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados adjunto mi CV para que puedan evaluarlo ora el puesto de referencia.
+Saludos
+Laura
+ <br>Security_code : kbj4b
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.9<br>
+ <br>REF : chr
+ <br>Nombre : Alejandro
+ <br>Apellido : Rossi
+ <br>Cargo : Chófer
+ <br>Direccion : Quirno costa 1721
+ <br>Ciudad : Bs.ar
+ <br>Telefono : 1564171906
+ <br>Email : Aleisla@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me postulo al puesto de chofer
+ <br>Security_code : 2pw8s
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.9<br>
+ <br>REF : chr
+ <br>Nombre : Alejandro
+ <br>Apellido : Rossi
+ <br>Cargo : Chófer
+ <br>Direccion : Quirno costa 1721
+ <br>Ciudad : Bs.ar
+ <br>Telefono : 1564171906
+ <br>Email : Aleisla@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me postulo al puesto de chofer
+ <br>Security_code : 2pw8s
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.7<br>
+ <br>REF : chr
+ <br>Nombre : Alejandro
+ <br>Apellido : Rossi
+ <br>Cargo : Chófer
+ <br>Direccion : Quirno costa 1721
+ <br>Ciudad : Bs.ar
+ <br>Telefono : 1564171906
+ <br>Email : Aleisla@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me postulo al puesto de chofer
+ <br>Security_code : 2pw8s
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.0.154.98<br>
+ <br>REF : ACO-1
+ <br>Nombre : Maria Eugenia
+ <br>Apellido : melzi
+ <br>Cargo : comercio exterior
+ <br>Direccion : Soldado de la Independencia 1241
+ <br>Ciudad : CABA
+ <br>Telefono : 1533556627
+ <br>Email : melzieuge@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : .
+ <br>Security_code : p6bdt
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.0.154.98<br>
+ <br>REF : ACO-1
+ <br>Nombre : Maria Eugenia
+ <br>Apellido : melzi
+ <br>Cargo : comercio exterior
+ <br>Direccion : Soldado de la Independencia 1241
+ <br>Ciudad : CABA
+ <br>Telefono : 1533556627
+ <br>Email : melzieuge@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : En adjunto encontrarán mi CV.
+ <br>Security_code : p6bdt
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.0.154.98<br>
+ <br>REF : ACO-1
+ <br>Nombre : Maria Eugenia
+ <br>Apellido : melzi
+ <br>Cargo : comercio exterior
+ <br>Direccion : Soldado de la Independencia 1241
+ <br>Ciudad : CABA
+ <br>Telefono : 1533556627
+ <br>Email : melzieuge@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : En adjunto encontrarán mi CV.
+ <br>Security_code : p6bdt
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.0.154.98<br>
+ <br>REF : ACO-1
+ <br>Nombre : Maria Eugenia
+ <br>Apellido : melzi
+ <br>Cargo : comercio exterior
+ <br>Direccion : Soldado de la Independencia 1241
+ <br>Ciudad : CABA
+ <br>Telefono : 1533556627
+ <br>Email : melzieuge@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : En adjunto encontrarán mi CV.
+ <br>Security_code : chsgr
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.7<br>
+ <br>REF : chr
+ <br>Nombre : Jonathan 
+ <br>Apellido : Figal 
+ <br>Cargo : Chofer profesional
+ <br>Direccion : Diego palma 218
+ <br>Ciudad : San isidro
+ <br>Telefono : 1136441476
+ <br>Email : hondajonathan@outlook.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola busco trabajo de chofer tengo registro profesional
+ <br>Security_code : P4wp8
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.90.229.228<br>
+ <br>REF : EP-1
+ <br>Nombre : Carlos Ariel
+ <br>Apellido : Pavichevich
+ <br>Cargo : EP-1
+ <br>Direccion : Suligoy 320
+ <br>Ciudad : Machagai / Chaco
+ <br>Telefono : 0373415414303
+ <br>Email : carlospaise@live.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : De mi mayor consideración  
+                                       
+                 Me dirijo a Uds. con el propósito de enviarle mi Currículum Vitae, en referencia a aspiraciones laborales, en la cual encuentro una oportunidad  interesante, dentro del marco, para establecer lazos y poder integrarme a un  grupo de trabajo, poniendo en práctica actitudes y aptitudes. Manifestando mi compromiso frente a las actividades que se requieran, asumiendo retos y alcanzando las metas que se planifiquen.
+
+Remuneración: acorde a lo que ofrece el mercado. Estoy más interesado en un puesto donde pueda ir progresando personalmente y económicamente, a medida que cumpla los objetivos y expectativas de la empresa.
+            
+                 Sin otro particular, agradeciendo el tiempo dedicado, saludo atentamente.
+ 
+Pavichevich, Carlos Ariel
+ 
+Ingeniero Químico
+                                                                          
+Técnico Universitario en Química
+
+ <br>Security_code : pjkw7
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.57.241.211<br>
+ <br>REF : SP-1
+ <br>Nombre : Mariano Manuel
+ <br>Apellido : López
+ <br>Cargo : SP-1
+ <br>Direccion : Urquiza 3447, dto 2F
+ <br>Ciudad : Santa Fe
+ <br>Telefono : 0342156983882
+ <br>Email : marianomanuellopez@outlook.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas tardes: Me llamo Mariano y me encuentro interesado en la vacante laboral. Por ello, adjunto mi Curriculum Vitae. Gracias. Saludos cordiales.
+ <br>Security_code : 65bpj
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.110.74.34<br>
+ <br>REF : EP-1
+ <br>Nombre : Carlos Ariel
+ <br>Apellido : Pavichevich
+ <br>Cargo : EP-1
+ <br>Direccion : Suligoy 320
+ <br>Ciudad : Machagai / Chaco
+ <br>Telefono : 0373415414303
+ <br>Email : carlospaise@live.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje :                                                         Me dirijo a Uds. con el propósito de enviarle mi Currículum Vitae, en referencia a aspiraciones laborales, en la cual encuentro una oportunidad  interesante, dentro del marco, para establecer lazos y poder integrarme a un  grupo de trabajo, poniendo en práctica actitudes y aptitudes. Manifestando mi compromiso frente a las actividades que se requieran, asumiendo retos y alcanzando las metas que se planifiquen.
+
+Remuneración: acorde a lo que ofrece el mercado. Estoy más interesado en un puesto donde pueda ir progresando personalmente y económicamente, a medida que cumpla los objetivos y expectativas de la empresa.
+            
+                 Sin otro particular, agradeciendo el tiempo dedicado, saludo atentamente.
+ 
+Pavichevich, Carlos Ariel
+ 
+Ingeniero Químico
+                                                                          
+Técnico Universitario en Química
+
+ <br>Security_code : pjkw7
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.90.229.228<br>
+ <br>REF : EP-1
+ <br>Nombre : Carlos Ariel
+ <br>Apellido : Pavichevich
+ <br>Cargo : Encargado de Producción
+ <br>Direccion : Suligoy 320
+ <br>Ciudad : Machagai / Chaco
+ <br>Telefono : 0373415414303
+ <br>Email : carlospaise@live.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje :                                                         Me dirijo a Uds. con el propósito de enviarle mi Currículum Vitae, en referencia a aspiraciones laborales, en la cual encuentro una oportunidad  interesante, dentro del marco, para establecer lazos y poder integrarme a un  grupo de trabajo, poniendo en práctica actitudes y aptitudes. Manifestando mi compromiso frente a las actividades que se requieran, asumiendo retos y alcanzando las metas que se planifiquen.
+
+Remuneración: acorde a lo que ofrece el mercado. Estoy más interesado en un puesto donde pueda ir progresando personalmente y económicamente, a medida que cumpla los objetivos y expectativas de la empresa.
+            
+                 Sin otro particular, agradeciendo el tiempo dedicado, saludo atentamente.
+ 
+Pavichevich, Carlos Ariel
+ 
+Ingeniero Químico
+                                                                          
+Técnico Universitario en Química
+
+ <br>Security_code : pjkw7
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.153.241.11<br>
+ <br>Nombre : Carlos Ariel
+ <br>Apellido : Pavichevich
+ <br>Cargo :  Ingeniero Químico / Técnico Químico
+ <br>Direccion : Suligoy 320
+ <br>Ciudad : Machagai - Chaco
+ <br>Telefono : 03734 15414303
+ <br>Email : carlospaise@live.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : De mi mayor consideración  
+                                       
+                 Me dirijo a Uds. con el propósito de enviarle mi Currículum Vitae, en referencia a aspiraciones laborales, en la cual encuentro una oportunidad  interesante, dentro del marco, para establecer lazos y poder integrarme a un  grupo de trabajo, poniendo en práctica actitudes y aptitudes. Manifestando mi compromiso frente a las actividades que se requieran, asumiendo retos y alcanzando las metas que se planifiquen.
+
+Remuneración: acorde a lo que ofrece el mercado. Estoy más interesado en un puesto donde pueda ir progresando personalmente y económicamente, a medida que cumpla los objetivos y expectativas de la empresa.
+            
+                 Sin otro particular, agradeciendo el tiempo dedicado, saludo atentamente.
+ 
+Pavichevich, Carlos Ariel
+ 
+Ingeniero Químico
+                                                                          
+Técnico Universitario en Química
+
+ <br>Security_code : 6c3hv
+ <br>Send : Enviar
+ <br>
+---------------
+

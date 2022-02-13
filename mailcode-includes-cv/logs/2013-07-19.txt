@@ -1,0 +1,53 @@
+Address : 181.29.244.193
+Nombre : Mailén Antonela
+Apellido : Masat
+Cargo : Arquitectura
+Direccion : 9 de Julio 2855
+Ciudad : Santa Fe
+Telefono : (0342) 154479410
+Email : antomasat@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Soy estudiante de arquitectura y estoy interesada en la obtención de un trabajo del mismo rubro.
+Security_code : mzxpx
+Send : Enviar
+
+---------------
+
+Address : 190.16.200.75
+Nombre : fernando
+Apellido : pizarro
+Cargo : Repositor,Stock,Cadete.
+Direccion : Asunción 5085
+Ciudad : Ciudad de Buenos Aires
+Telefono : 0111558543955
+Email : schach_fer@yahoo.de
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados,
+
+Vista la Posibilidad Laboral les hago llegar mis datos personales y profesionales en Currículum Vitae a fin de ser tenido en cuenta como candidato.
+
+Con la convicción de poseer el perfil requerido para un muy buen desempeño en el cargo a cubrir, quedo a entera disposición para hacerle llegar, sea en una entrevista personal o por el medio que se me indique, las ampliaciones y/o la documentación probatoria correspondiente.
+
+Esperando una respuesta positiva lo saluda atentamente,
+
+    fernando pizarro
+Security_code : bp8cp
+Send : Enviar
+
+---------------
+
+Address : 186.124.184.67
+Nombre : Zulma Elena
+Apellido : Arrieta
+Cargo : Atención al Cliente, Recepcionista, call center
+Direccion : Rivera Indarte 242 4to C
+Ciudad : Cordoba Capital
+Telefono : 0351-157604374
+Email : zea1972@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Disponible para propuesta laboral en Cordoba capital.
+Security_code : 9pc9k
+Send : Enviar
+
+---------------
+

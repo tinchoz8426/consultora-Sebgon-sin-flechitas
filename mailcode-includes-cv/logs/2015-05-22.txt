@@ -1,0 +1,67 @@
+Address : 186.23.19.21
+Nombre : Veronica 
+Apellido : Valdez
+Cargo : Administratriva
+Direccion : Guido 1948
+Ciudad : Capital Federal 
+Telefono : 0351-157411718
+Email : vaver1085@hotmail.com 
+MAX_FILE_SIZE : 2097152
+Mensaje : .
+Security_code : rn56n
+Send : Enviar
+
+---------------
+
+Address : 186.22.118.193
+Nombre : marina manuela
+Apellido : martinez
+Cargo : operaria
+Direccion : sanchez de bustamante 1052
+Ciudad : Buenos Aires
+Telefono : 02320-487947
+Email : marinamanuelamartinez@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : busco trabajo urgente
+Security_code : 2n5mv
+Send : Enviar
+
+---------------
+
+Address : 186.19.184.47
+REF : GT PL
+Nombre : Ezequiel
+Apellido : Pierucci
+Cargo : Gerente de Planta
+Direccion : Capital Federal
+Ciudad : Buenos Aires
+Telefono : 011 15 69434643
+Email : pierucci80@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimado/a, Por medio del presente adjunto mi CV. Un cordial Saludo
+Security_code : z3sfp
+Send : Enviar
+
+---------------
+
+Address : 190.48.80.54
+Nombre : Julieta
+Apellido : Belerenian
+Cargo : Administrativa/Secretaria/Recepcionista
+Direccion : Gral. Cesar Díaz 5744
+Ciudad : CABA
+Telefono : 46838877
+Email : belerenianjulieta@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados Señores:
+Por intermedio de la presente adjunto mi CV para su consideración.
+Me despido quedando a entera disposición sobre el particular. 
+Saluda muy atentamente.
+
+Julieta Belerenian
+
+Security_code : z9cdy
+Send : Enviar
+
+---------------
+

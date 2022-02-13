@@ -1,0 +1,49 @@
+Address : 186.57.135.251<br>
+ <br>REF : JPER-1
+ <br>Nombre : Gustavo Bernardo
+ <br>Apellido : Scheidegger
+ <br>Cargo : Jefe de Personal
+ <br>Direccion : Vitale 500 - Country San Carlos
+ <br>Ciudad : Pablo Nogués
+ <br>Telefono : 1536955547
+ <br>Email : gustavo.scheidegger@speedy.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados colegas: Anexo a Uds. mi CV para postularme al cargo de referencia y quedo a disposición para una eventual entrevista donde podamos profundizar detalles acerca de mi perfil profesional, laboral y personal, Cordiales saludos!
+ <br>Security_code : 3c2t7
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.190.122.152<br>
+ <br>REF : JPER-1
+ <br>Nombre : Sergio Adrian
+ <br>Apellido : Nappi
+ <br>Cargo : Jefe de Personal   JPER-1
+ <br>Direccion : Chaco 4203
+ <br>Ciudad : Villa Ballester
+ <br>Telefono : 1540691100
+ <br>Email : s_nappi@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Disponibilidad Inmediata.
+ <br>Security_code : j8hb2
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 152.171.61.212<br>
+ <br>REF : EP-1
+ <br>Nombre : Luciana Estefanía
+ <br>Apellido : Taraborrelli
+ <br>Cargo : Tecnico en Alimentos
+ <br>Direccion : Florencio Sanchez 1164 PA
+ <br>Ciudad : Pergamino
+ <br>Telefono : 2477340557
+ <br>Email : lucianataraborrelli@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Quisiera saber donde está radicada la empresa que necesita tácnicos. Muchas gracias. 
+Luciana
+ <br>Security_code : 3xhgy
+ <br>Send : Enviar
+ <br>
+---------------
+

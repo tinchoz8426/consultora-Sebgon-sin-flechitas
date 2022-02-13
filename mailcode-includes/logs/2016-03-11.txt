@@ -1,0 +1,15 @@
+Address : 190.210.84.121
+Nombre : Julieta
+Apellido : Sosa
+Empresa : Covedisa
+Telefono : 52191900
+Email : jsosa@covedisa.com.ar
+Mensaje : Buenos días, necesito cotización del servicio, somos una compañia con dos sites del rubro call center.
+
+Cordiales saludos.
+
+Security_code : 9q6nk
+Send : Enviar
+
+---------------
+

@@ -1,0 +1,15 @@
+Address : 201.177.15.208
+Nombre : camila milagros
+Apellido : acosta
+Cargo : tecnico en seguridad e higiene 
+Direccion : ciffone 548
+Ciudad : san vicente
+Telefono : 1537859096
+Email : camilaacosta199412@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : no cuento con experiencia laboral, pero tengo las ganas de aprender.
+Security_code : msfrr
+Send : Enviar
+
+---------------
+

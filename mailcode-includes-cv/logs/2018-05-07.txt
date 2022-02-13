@@ -1,0 +1,61 @@
+Address : 152.168.251.35<br>
+ <br>REF : JPER-1
+ <br>Nombre : RAMON ANTONIO
+ <br>Apellido : PINTO GUERRERO
+ <br>Cargo : ADMINISTRACION DE RRHH
+ <br>Direccion : Jose Antonio Cabrera 3275, Recoleta
+ <br>Ciudad : GBA
+ <br>Telefono : 01127810938
+ <br>Email : pintoramonantonio@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : licdo en administracion con conocimientos amplios en administracion de recursos humanos y de personal
+ <br>Security_code : rs2f8
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 24.232.54.235<br>
+ <br>Nombre : Maria de los Angeles 
+ <br>Apellido : Camacaro Orellana
+ <br>Cargo : Asistente RRHH
+ <br>Direccion : chacarita, jorge newbery 3993
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 1170160372
+ <br>Email : maria_angel85@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenos Días, es un placer para mi enviar mi resumen curricular, espero que pueda ser de su interés y poder trabajar con ustedes gracias de antemano, saludos cordiales
+ <br>Security_code : 69d6m
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 143.202.138.20<br>
+ <br>Nombre : Sergio 
+ <br>Apellido : Castro
+ <br>Cargo : Técnico en Seguridad e higiene 
+ <br>Direccion : Mosconi 3547
+ <br>Ciudad : Pontevedra
+ <br>Telefono : 1124040091
+ <br>Email : scastro84@hotmail.com 
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola, soy sergio castro tecnico en seguridad e higiene matriculado con experiencias y deseos de trabajar.
+ <br>Security_code : 785kh
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 24.232.54.235<br>
+ <br>Nombre : Maria de los Angeles 
+ <br>Apellido : Camacaro Orellana
+ <br>Cargo : Asistente RRHH
+ <br>Direccion : chacarita, jorge newbery 3993
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 1170160372
+ <br>Email : maria_angel85@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenos Días, es un placer para mi enviar mi resumen curricular, espero que pueda ser de su interés y poder trabajar con ustedes gracias de antemano, saludos cordiales
+ <br>Security_code : 69d6m
+ <br>Send : Enviar
+ <br>
+---------------
+

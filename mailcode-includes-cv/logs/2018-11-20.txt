@@ -1,0 +1,386 @@
+Address : 190.99.113.250<br>
+ <br>REF : TM-2
+ <br>Nombre : Alejandro Daniel
+ <br>Apellido : Calandra
+ <br>Cargo : Tecnico mecanico
+ <br>Direccion : Newton 2480
+ <br>Ciudad : moreno
+ <br>Telefono : 01141756007
+ <br>Email : a.d.calandra@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje :  Técnicos mecánicos
+ <br>Security_code : 5dtv7
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.99.113.250<br>
+ <br>REF : TM-2
+ <br>Nombre : Alejandro Daniel
+ <br>Apellido : Calandra
+ <br>Cargo : Tecnico mecanico
+ <br>Direccion : Newton 2480
+ <br>Ciudad : moreno
+ <br>Telefono : 01141756007
+ <br>Email : a.d.calandra@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje :  Técnicos mecánicos
+ <br>Security_code : xgk79
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.166.101.43<br>
+ <br>Nombre : VICTOR
+ <br>Apellido : BELLERA
+ <br>Cargo : Ingeniero mecánico
+ <br>Direccion : Mariano Moreno 4830
+ <br>Ciudad : Caseros
+ <br>Telefono : +5491126666755
+ <br>Email : bellera60@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Adjunto mi cv, para futuras postulaciones, tengo conocimiento en Autodesk inventor y Autocad además controlo excel avanzado
+ <br>Security_code : rz2cm
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.40<br>
+ <br>REF : SP-1
+ <br>Nombre : Lucas
+ <br>Apellido : Mendez
+ <br>Cargo : Supervisor de Priduccion
+ <br>Direccion : Zuviria
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 1123386132
+ <br>Email : lucasmmendez@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola buen dia. Les envio mi cv para que me puedan conocer y tener en cuenta para dicha propuesta.
+ <br>Security_code : b8t8q
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.22.139.34<br>
+ <br>Nombre : Gimena Andrea
+ <br>Apellido : Del Rio
+ <br>Cargo : Analista o Jefatura de RRHH
+ <br>Direccion : Av.Marquez 2521
+ <br>Ciudad : Pablo Podestá
+ <br>Telefono : 1548892635
+ <br>Email : gimena.a.delrio@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenos días, hago llegar mi CV a través de este medio para que me tengan en cuenta en búsquedas acorde a mi perfil, gracias por darme la posibilidad de hacerlo conocer.
+
+Paso a comentar que en la actualidad, me encuentro trabajando en la empresa Americold Logistics Argentina S.A., situada dentro del predio del Mercado Central de Buenos Aires, comencé prestando servicio como personal eventual a través de la agencia Adecco para cubrir una licencia por maternidad y quede efectiva, primero como administrativa, luego sub jefe dentro de convenio y hoy en día como Analista de RRHH fuera de convenio; mi interés por cambiar es por un crecimiento personal, ya que la estructura de la empresa donde trabajo hoy en día no me permite seguir avanzando. 
+ 
+Vivo en la zona de Tres de Febrero, limite con El Palomar, Hurlingham y Morón.
+ 
+
+Finalizo mi presentación diciéndote que la remuneración pretendida neta es de $39.000.- (por supuesto que me encuentro libre a escuchar propuestas si les interesa mi perfil), priorizo mucho el tener como beneficio la obra social (OSDE o alguna de nivel similar), porque hoy en día tengo dicho beneficio y no quisiera perderlo, el mismo se encuentra a cargo de la compañía, para mi grupo familiar.
+ 
+Actualmente mi horario de trabajo es de lunes a viernes de 7 a 16 hs, 
+
+Desde ya muchas gracias por recibir mi cv, me encuentro disponible para ampliar cualquier tipo de información adicional que necesiten.
+ 
+Sin otro particular Saluda atte.
+
+Del Río Gimena Andrea
+ <br>Security_code : 4k8kg
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.18.166.240<br>
+ <br>REF : EP-1
+ <br>Nombre : Wolgfangs Eduardo
+ <br>Apellido : Mendez Pinilla
+ <br>Cargo : Encargado de Produccion
+ <br>Direccion : Oro 2582540
+ <br>Ciudad : Colegiales
+ <br>Telefono : 01139428578
+ <br>Email : wemp_193@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Ingeniero Industrial con 2 años de experiencia en industria de alimentos
+ <br>Security_code : 8byyz
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.44<br>
+ <br>REF : SP-1
+ <br>Nombre : Javier
+ <br>Apellido : Ruiz Rivera
+ <br>Cargo : Supervisor de  Producción
+ <br>Direccion : Av Segurola 1199 apto 11 A
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : +5491170442111
+ <br>Email : javierruizrivera@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas Días Envío CV del ING Javier Ruiz Rivera 
+ <br>Security_code : cq93c
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.230.4.147<br>
+ <br>REF : TE-1
+ <br>Nombre : José Luis
+ <br>Apellido : Guidi
+ <br>Cargo : Técnico electricista
+ <br>Direccion : Neuquén 3165
+ <br>Ciudad : Sáenz Peña
+ <br>Telefono : +541145575438
+ <br>Email : jlguidi1@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Elevo mi CV para su evaluación.
+Muy atte. SLDS.
+ <br>Security_code : bbcff
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.55.109.194<br>
+ <br>REF : EP-1
+ <br>Nombre : Javier
+ <br>Apellido : Herrera
+ <br>Cargo : encargado
+ <br>Direccion : Langueneins 567
+ <br>Ciudad : longchamps
+ <br>Telefono : 1123400694
+ <br>Email : javiersherrera143@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados:
+Tengo el agrado de dirigirme a Ud/s con el objetivo de participar en búsquedas acordes a mi perfil. Adjunto mi Curriculum Vitae buscando ser incluido en su base de datos por si se produjera alguna vacante.
+
+ <br>Security_code : pqhvq
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.55.109.194<br>
+ <br>REF : EP-1
+ <br>Nombre : Javier
+ <br>Apellido : Herrera
+ <br>Cargo : encargado
+ <br>Direccion : Langueneins 567
+ <br>Ciudad : longchamps
+ <br>Telefono : 1123400694
+ <br>Email : javiersherrera143@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados:
+Tengo el agrado de dirigirme a Ud/s con el objetivo de participar en búsquedas acordes a mi perfil. Adjunto mi Curriculum Vitae buscando ser incluido en su base de datos por si se produjera alguna vacante.
+
+ <br>Security_code : qt63r
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.230.4.147<br>
+ <br>REF : SP-1
+ <br>Nombre : José Luis
+ <br>Apellido : Guidi
+ <br>Cargo : Supervisor de Producción
+ <br>Direccion : Neuquén 3165
+ <br>Ciudad : Sáenz Peña
+ <br>Telefono : +541145575438
+ <br>Email : jlguidi1@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Elevo mi CV para su evaluación.
+Muy atte. SLDS.
+ <br>Security_code : 67z3f
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 107.167.104.43<br>
+ <br>Nombre : Rocio belen
+ <br>Apellido : Mansilla
+ <br>Cargo : recurso humano
+ <br>Direccion : figueroa al corta 1057
+ <br>Ciudad : san nicolas
+ <br>Telefono : 3364204627
+ <br>Email : rociomansilla9529@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : estudio recurso humano y atencion al cliente
+ <br>Security_code : 8d96c
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.172.211.96<br>
+ <br>Nombre : Jose Miguel 
+ <br>Apellido : Saavedra
+ <br>Cargo : Operario
+ <br>Direccion : Camacua, 6419
+ <br>Ciudad : Avellaneda
+ <br>Telefono : 42890089
+ <br>Email : jose.saavedra.67@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buen dia le dejo mi cv para algún puesto de trabajo
+ <br>Security_code : BTK3Y
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.172.211.96<br>
+ <br>Nombre : Jose Miguel 
+ <br>Apellido : Saavedra
+ <br>Cargo : Operario
+ <br>Direccion : Camacua, 6419
+ <br>Ciudad : Avellaneda
+ <br>Telefono : 42890089
+ <br>Email : jose.saavedra.67@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buen dia le dejo mi cv para algún puesto de trabajo
+ <br>Security_code : pg7zh
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.104.221.139<br>
+ <br>REF : EP-1
+ <br>Nombre : Anabel Carolina 
+ <br>Apellido : Monzón
+ <br>Cargo : Encargada de producción
+ <br>Direccion : Punta Alta 110
+ <br>Ciudad : Lomas de Zamora
+ <br>Telefono : 42854185
+ <br>Email : monzonanabel@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Soy una persona responsable, capaz de adquirir nuevos conocimiento, con la capacidad de adaptarme al ambiente  de trabajo.
+ <br>Security_code : qzg43
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.104.221.139<br>
+ <br>REF : EP-1
+ <br>Nombre : Anabel Carolina 
+ <br>Apellido : Monzón
+ <br>Cargo : Encargada de producción
+ <br>Direccion : Punta Alta 110
+ <br>Ciudad : Lomas de Zamora
+ <br>Telefono : 42854185
+ <br>Email : monzonanabel@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Soy una persona responsable, capaz de adquirir nuevos conocimiento, con la capacidad de adaptarme al ambiente  de trabajo.
+ <br>Security_code : n2djh
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.44.125.222<br>
+ <br>REF : ROT-1
+ <br>Nombre : Jorge Omar 
+ <br>Apellido : FERREYRA LIBANO 
+ <br>Cargo : Oficina Tecnica 
+ <br>Direccion : Fitz Roy, 4677
+ <br>Ciudad : Isidro Casanova
+ <br>Telefono : 01164445102
+ <br>Email : jorgeferreyra2611@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Les envio mi curriculum para su evaluación 
+ <br>Security_code : wgynq
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.176.217.214<br>
+ <br>REF : ROT-1
+ <br>Nombre : Fernanda
+ <br>Apellido : Bertolini
+ <br>Cargo : responsable de oficina técnica
+ <br>Direccion : Corrientes 1985
+ <br>Ciudad : CABA
+ <br>Telefono : 02954518373
+ <br>Email : mfernandabertolini@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenos días estimado/as, ante la vacante para responsable de oficina técnica les acerco mi cv. Soy arquitecta, egresada de la UNLP, tengo experiencia en diseño de piezas/ muebles y trabajo de taller de router CNC. Estoy atenta a cualquier consulta para ampliar  información necesaria.  sdos,
+Fernanda Bertolini
+ <br>Security_code : w54k2
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 170.231.177.5<br>
+ <br>REF : EP-1
+ <br>Nombre : Jesús Ramón
+ <br>Apellido : Mora Moreno
+ <br>Cargo : Encargado de Producción Ref: EP-1
+ <br>Direccion : Carlos Calvo 590, Barrio Habitat
+ <br>Ciudad : PILAR (CP=1629)
+ <br>Telefono : 01150405911
+ <br>Email : jesusmora86@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Interesado en la vavante de encargado de producción
+ <br>Security_code : x4j2w
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 179.36.70.197<br>
+ <br>REF : EP-1
+ <br>Nombre : Juan Carlos
+ <br>Apellido : Carrion
+ <br>Cargo : Jefe Produccion
+ <br>Direccion : Parque Patricios
+ <br>Ciudad : CABA
+ <br>Telefono : 01137733763
+ <br>Email : juancarlosdeportes@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Saludos, aunque no aplique para la posicion le pido por favor tomarme en cuenta para otras posiciones 
+ <br>Security_code : 78352
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.18.131.16<br>
+ <br>REF : SP-1
+ <br>Nombre : Francisco Orlando
+ <br>Apellido : Contreras 
+ <br>Cargo : supervisor
+ <br>Direccion : Jose Andres Pacheco de Melo
+ <br>Ciudad : caba
+ <br>Telefono : 1126581838
+ <br>Email : ingfranor@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : 
+Soy una Persona con capacidades de emprendimiento, pensamiento crítico, liderazgo y toma de decisiones, así como las actitudes y valores necesarios para enfrentar con éxito las exigencias Requeridas Velo por el cumpliendo de los objetivos, tanto de producción, como los estratégicos, Aportando  mejoras en la organización
+ <br>Security_code : cxnhv
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.18.131.16<br>
+ <br>Nombre : Francisco Orlando
+ <br>Apellido : Contreras 
+ <br>Cargo : coordinador
+ <br>Direccion : Jose Andres Pacheco de Melo
+ <br>Ciudad : caba
+ <br>Telefono : 1126581838
+ <br>Email : ingfranor@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : 
+Soy una Persona con capacidades de emprendimiento, pensamiento crítico, liderazgo y toma de decisiones, así como las actitudes y valores necesarios para enfrentar con éxito las exigencias Requeridas Velo por el cumpliendo de los objetivos, tanto de producción, como los estratégicos, Aportando  mejoras en la organización
+ <br>Security_code : kkk5p
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.178.227.214<br>
+ <br>REF : ROT-1
+ <br>Nombre : Alejandro
+ <br>Apellido : Romero
+ <br>Cargo : Responsable Oficina Tecnica
+ <br>Direccion : Grito de Alcorta 3423
+ <br>Ciudad : Moron
+ <br>Telefono : 1134522511
+ <br>Email : aleromero2002@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Espero poder reunirme para una entrevista personal
+ <br>Security_code : p3qwp
+ <br>Send : Enviar
+ <br>
+---------------
+

@@ -1,0 +1,32 @@
+Address : 201.220.146.223<br>
+ <br>REF : JPER-1
+ <br>Nombre : Gabriel Fernando
+ <br>Apellido : Martinez
+ <br>Cargo : Jefe de Recursos Humanos
+ <br>Direccion : 11 DE SEPTIEMBRE 2862
+ <br>Ciudad : CABA
+ <br>Telefono : 0111563545900
+ <br>Email : gfm2803@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Postulacion
+ <br>Security_code : 94trb
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.167.212.169<br>
+ <br>REF : TEC. EL
+ <br>Nombre : Javier Alonso
+ <br>Apellido : Duque Rodas
+ <br>Cargo : TÉCNICOS ELECTRÓNICOS ESPECIALIZADOS
+ <br>Direccion : O'higgins 2120
+ <br>Ciudad : Capital federal Buenos Aires
+ <br>Telefono : 1131507404
+ <br>Email : jduqer@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Adjunto envio mi CV para la vacante de tecnico electronico especializado
+ <br>Security_code : sx8mt
+ <br>Send : Enviar
+ <br>
+---------------
+

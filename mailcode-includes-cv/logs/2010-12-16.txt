@@ -1,0 +1,30 @@
+Address : 201.254.98.54
+Nombre : Lucila
+Apellido : Aued
+Cargo : Selección de personal
+Direccion : Las Casuarinas 2505
+Ciudad : Pilar
+Telefono : (02322)470-035/115981-9832
+Email : lucilaaued@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Orientada a ocupar posiciones de responsabilidad en el área de R.R.H.H
+Security_code : cb5q6
+Send : Enviar
+
+---------------
+
+Address : 186.129.203.77
+Nombre : Maria Belen
+Apellido : Suarez
+Cargo : Recursos humanos
+Direccion : Belgrano 620
+Ciudad : Ramos Mejia
+Telefono : 153-322-2343
+Email : belen_suarez@live.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Envio  mi cv a fin de que lo tengan en consideración para busquedas acordes a mi perfil
+Security_code : zp37y
+Send : Enviar
+
+---------------
+

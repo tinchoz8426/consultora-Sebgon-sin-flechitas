@@ -1,0 +1,205 @@
+Address : 179.38.184.192<br>
+ <br>Nombre : Nara abigail
+ <br>Apellido : Ponce
+ <br>Cargo : Operadora
+ <br>Direccion : 28 numero 4172
+ <br>Ciudad : Berazategui
+ <br>Telefono : 1130925204
+ <br>Email : naraabigailponce@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Tengo experiencia en ventas de call center y al público .
+ <br>Security_code : d6t4f
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.104.47.42<br>
+ <br>Nombre : Italo Martin
+ <br>Apellido : Dicesari
+ <br>Cargo : Chofer Profecional
+ <br>Direccion : Jun de Garay 4146
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 11 25049797
+ <br>Email : martin.dicesari@outlook.comk
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me gustaría ser contactado por trabajo ya llevo tiempo en la búsqueda y no e tenido suerte ,espero respuestas
+ <br>Security_code : 4dq7v
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.178.55.153<br>
+ <br>REF : ACO-1
+ <br>Nombre : Ariel Eduardo
+ <br>Apellido : CRISTAL
+ <br>Cargo : ANALISTA DE COMERCIO INTERNACIONAL/EXTERIOR 
+ <br>Direccion : R  ALFONSIN 1933
+ <br>Ciudad : LANUS
+ <br>Telefono : 1531648835
+ <br>Email : acristal40@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Lanús , 24 de marzo  de 2017
+ 
+Sres., 
+SEBGON CONSULTORES 
+Attn: RRHH
+Presente 
+ 
+De mi consideración: 
+Me dirijo a Ud. con el objeto de ofrecer mis servicios de acuerdo con su aviso publicado en LinkedIn
+Considero, según el mismo que mi perfil se adecua a sus requerimientos: poseo experiencia en la función y periódicamente me capacito a fin de actualizar mis conocimientos.
+Es mi intención posicionarme en una empresa, la cual me permita desarrollarme, y en la que se requiera un alto nivel de profesionalidad en el desempeño de las tareas. 
+Cabe destacar que poseo  habilidades de Liderar y ser Liderado, tengo mucha flexibilidad a la hora de emprender nuevos desafíos  .A tal fin ajunto mi Curriculum Vitae
+Quedo por lo tanto a vuestra disposición para ampliar la información que acompaño en el caso de resultar mi propuesta de su interés.
+ Asimismo agradezco la atención prestada a la presente, y sin más saludo a Uds. muy atentamente.
+ 
+ 
+ 
+ARIEL EDUARDO CRISTAL
+
+ <br>Security_code : bxv34
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.23.73.134<br>
+ <br>REF : chr
+ <br>Nombre : david jose
+ <br>Apellido : roldan
+ <br>Cargo : chofer de reparto
+ <br>Direccion : batalla de chacabuco 1743
+ <br>Ciudad : florencio varela
+ <br>Telefono : 1140927162
+ <br>Email : davidroldan@hotmail.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : buen día el motívo del mensaje es para dejár mis datos de contacto para trabajár con utds,desde ya muchas gracias por su atención y espéro su respuesta a la brevedad.
+ <br>Security_code : 2d9k4
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 179.41.178.147<br>
+ <br>Nombre : daniel ernesto
+ <br>Apellido : cornaglia
+ <br>Cargo : chofer
+ <br>Direccion : vogel 2463
+ <br>Ciudad : buenos aires 
+ <br>Telefono : 1120317928
+ <br>Email : taunusamarillo@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : responsable sin problemas de horarios
+ <br>Security_code : xwb73
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.105.11.212<br>
+ <br>Nombre : Mario
+ <br>Apellido : Faralli
+ <br>Cargo : Producción
+ <br>Direccion : Rawson 550
+ <br>Ciudad : Luján Bs As
+ <br>Telefono : 0232315519159
+ <br>Email : mariofaralli@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Deseo participar de la búsqueda de encargado de producción para zona oeste
+ <br>Security_code : dyngv
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 200.127.67.32<br>
+ <br>REF : chr
+ <br>Nombre : Ricardo Benito
+ <br>Apellido : Ledesma
+ <br>Cargo : chofer
+ <br>Direccion : Las Camelias 6977
+ <br>Ciudad : BuenosAires
+ <br>Telefono : 4841 9190
+ <br>Email : ribeledesma@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas tardes soy de San Martin en estos momentos estoy desocupado y necesito el empleo gracias por leer mi mje
+ <br>Security_code : tdk3g
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 152.170.90.44<br>
+ <br>REF : chr
+ <br>Nombre : Diego Emiliano
+ <br>Apellido : Silva
+ <br>Cargo : Chofer de reparto
+ <br>Direccion : Independencia 1655
+ <br>Ciudad : Merlo
+ <br>Telefono : 1161817460
+ <br>Email : sdiegoemiliano@yahoo.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas tardes,deseo postularme a la busqueda de chofer porque me considero con la responsabilidad y experiencia para ocuparlo pero mas haya de mis palabras quisiera demostrarlo con hechos si me dan la oportunidad de hacerlo...desde ya muchas gracias...atte cordiales saludos de mi parte.
+ <br>Security_code : d854r
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.175.118.180<br>
+ <br>REF : chr
+ <br>Nombre : Cristian
+ <br>Apellido : Schegtel
+ <br>Cargo : Chofer
+ <br>Direccion : Azopardo 2737 moreno
+ <br>Ciudad : Buenos aires
+ <br>Telefono : 1557424315
+ <br>Email : cristianmarceloschegtel@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Registro de la CNRT para cargas generales al dia
+ <br>Security_code : G8gww
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.175.118.180<br>
+ <br>REF : chr
+ <br>Nombre : Cristian
+ <br>Apellido : Schegtel
+ <br>Cargo : Chofer
+ <br>Direccion : Azopardo 2737 moreno
+ <br>Ciudad : Buenos aires
+ <br>Telefono : 1557424315
+ <br>Email : cristianmarceloschegtel@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Registro de la CNRT para cargas generales al dia
+ <br>Security_code : g8gww
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.142.121.247<br>
+ <br>REF : chr
+ <br>Nombre : alfredo jose
+ <br>Apellido : arcia padron
+ <br>Cargo : chofer
+ <br>Direccion : nunez grecia 2931  1c
+ <br>Ciudad : buenos aires
+ <br>Telefono : 04263124335 wasap
+ <br>Email : alfredo_arcia@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : soy tecnico electricista y durante 2 anos maneje un camion iveco 40-12 repartiendo mercancias de ferreteria
+ <br>Security_code : 36w5s
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.142.121.247<br>
+ <br>Nombre : alfredo jose
+ <br>Apellido : arcia padron
+ <br>Cargo : tecnico electricista
+ <br>Direccion : nunez grecia 2931  1c
+ <br>Ciudad : buenos aires
+ <br>Telefono : 04263124335 wasap
+ <br>Email : alfredo_arcia@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : manejo camiones,soy tecnico electricista para obras de construccion de urbanismos,ctros comerciales 
+ <br>Security_code : kvc98
+ <br>Send : Enviar
+ <br>
+---------------
+

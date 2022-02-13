@@ -1,0 +1,61 @@
+Address : 186.57.145.218
+REF : responsable-mantenimiento
+Nombre : francisco
+Apellido : Sorbo
+Cargo : Responsable
+Direccion : Tapalque 335
+Ciudad : Tapalque
+Telefono : 4699-0189
+Email : sorbofrancisco@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Su aviso Solicitando Responsable de Mantenimiento con experiencia en industria textil o Papelera  ha despertado mi interés.
+Creo estar capacitado para desempeñar un puesto de esa naturaleza por lo que le envío mi CV.
+Yo soy Ingeniero mecánico recibido en la UTN, Casado, dos hijos y tengo 8 años de experiencia en Ingeniería de Proyectos en la Industria alimenticia y 10 años de experiencia en la industria textil en Ingeniería de Proyecto y Mantenimiento.
+Desearía tener la oportunidad de ampliar mis antecedentes personales y laborales en una entrevista personal.
+Agradezco vuestra atención y quedo al aguardo de noticias suyas.
+
+Saludos cordiales
+
+Ing. Francisco Sorbo
+TE. 011-15-55266291
+
+Security_code : yvr54
+Send : Enviar
+
+---------------
+
+Address : 186.130.96.243
+Nombre : Diana Anabel
+Apellido : Luna
+Cargo : Recepcionista
+Direccion : Irigoin 577
+Ciudad : Longchamps
+Telefono : 4279-1635
+Email : luna-diana@live.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Esoty en la busqueda de trabajo estable, permanente que me permita poder creser como ser humano y poder temrinar mis estuios universitarios.
+Security_code : cq2y9
+Send : Enviar
+
+---------------
+
+Address : 201.231.212.117
+Nombre : Vanesa
+Apellido : Frias
+Cargo : Supervisor de elaboración
+Direccion : Loyola 11 
+Ciudad : CABA
+Telefono : 1561185062
+Email : friasvanesa@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados,
+
+Mediante el presente me postulo para el puesto de Supervisor de elaboración publicado en la página Laborarosario.
+Dede ya muchas gracias!
+Atte.
+Vanesa Frías
+Security_code : tc62x
+Send : Enviar
+
+---------------
+

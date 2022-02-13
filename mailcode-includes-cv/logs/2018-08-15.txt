@@ -1,0 +1,98 @@
+Address : 200.85.121.6<br>
+ <br>Nombre : Juan Manuel
+ <br>Apellido : Rodriguez Péndola
+ <br>Cargo : Vendedor
+ <br>Direccion : San Martín 1140
+ <br>Ciudad : Presidente Derqui
+ <br>Telefono : 02304485478
+ <br>Email : rodriguez_pendola@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Quedo a su disposición, por cualquier consulta este es mi número de móvil 01126443776.
+ <br>Security_code : vnwtn
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.90.100.101<br>
+ <br>Nombre : sofia 
+ <br>Apellido : guevara
+ <br>Cargo : ventas
+ <br>Direccion : mexico 285 bis
+ <br>Ciudad : rosario
+ <br>Telefono : 0341 152039052
+ <br>Email : sofi.guevara@live.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola, me llamo Sofia y me encuentro en la busqueda laboral en el rubro comercial y ventas.
+ <br>Security_code : v2nzq
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.27<br>
+ <br>Nombre : Orlando
+ <br>Apellido : Insaurralde
+ <br>Cargo : Trabajador aocial
+ <br>Direccion : Belgrano 560
+ <br>Ciudad : San Miguel
+ <br>Telefono : 1167302719
+ <br>Email : orlanyn@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenos días.
+Envió CV. para ser evaluado y tenido en cuenta para posible cargo. 
+Atte.
+Orlando Insaurralde
+ <br>Security_code : Wh48q
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.167.244.107<br>
+ <br>REF : EP-1
+ <br>Nombre : Rafael
+ <br>Apellido : Carrillo
+ <br>Cargo : Encargado de producción
+ <br>Direccion : Disponobilidad a residenciarme en cualquier parte del pais
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 54 9 11 3519-7191
+ <br>Email : rafaelcarrillo@hotmail.es
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados, anexo resumen curricular para su evaluación, Ing de Alimentos con mas de 15 años de experiencia en la industria de alimentos (Embotelladoras, farmaceutica, carnicas, embutidos, harinas y deshidratados), conocimientos de Sap, BPM, TPM, Windows, Seguridad e higiene laboral, espero sea de su interes con la posibilidad de incorporarme a su equipo de trabajo.
+ <br>Security_code : kypxv
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.167.244.107<br>
+ <br>REF : EP-1
+ <br>Nombre : Rafael
+ <br>Apellido : Carrillo
+ <br>Cargo : Encargado de producción
+ <br>Direccion : Disponobilidad a residenciarme en cualquier parte del pais
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 54 9 11 3519-7191
+ <br>Email : rafaelcarrillo@hotmail.es
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados, anexo resumen curricular para su evaluación, Ing de Alimentos con mas de 15 años de experiencia en la industria de alimentos (Embotelladoras, farmaceutica, carnicas, embutidos, harinas y deshidratados), conocimientos de Sap, BPM, TPM, Windows, Seguridad e higiene laboral, espero sea de su interes con la posibilidad de incorporarme a su equipo de trabajo.
+ <br>Security_code : kypxv
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.188.138.80<br>
+ <br>REF : ACO-1
+ <br>Nombre : Matias
+ <br>Apellido : Barraza
+ <br>Cargo : ANALISTA DE COMERCIO INTERNACIONAL/EXTERIOR
+ <br>Direccion : Circ 5, secc 1, manzana 10, casa 5.
+ <br>Ciudad : Ciudad Evita
+ <br>Telefono : 01121791901
+ <br>Email : matias.barraza@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas tardes, les adjunto mi Curriculum Vitae
+
+Gracias y saludos cordiales
+ <br>Security_code : y3bzn
+ <br>Send : Enviar
+ <br>
+---------------
+

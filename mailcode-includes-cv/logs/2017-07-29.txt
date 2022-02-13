@@ -1,0 +1,52 @@
+Address : 186.141.197.111<br>
+ <br>REF : chr
+ <br>Nombre : Luis emilio
+ <br>Apellido : Jatip
+ <br>Cargo : Chofer
+ <br>Direccion : Jose hernandez 1595
+ <br>Ciudad : Buenos aires
+ <br>Telefono : 1130928884
+ <br>Email : luisemiliojatip09@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenos dias los molesto por el aviso tego experiencia en el trabajo de reparto trabaje en transporte vera entregando mencaderia en los dia% oficial electrisista con conocimiento en mecanica 
+ <br>Security_code : nn82h
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.139.23.137<br>
+ <br>REF : Tectron
+ <br>Nombre : Diego
+ <br>Apellido : Iza
+ <br>Cargo :  TÉCNICO ELECTRÓNICO (Tectron)
+ <br>Direccion : Bolivar 456
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 1123910189
+ <br>Email : diego_ramiro_165@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buen día
+Adjunto la hoja de vida
+espero cumpla las expectativas
+Saludos
+Diego Iza
+
+ <br>Security_code : vbqxs
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.23.11.114<br>
+ <br>Nombre : Yesica eliana
+ <br>Apellido : oviedo
+ <br>Cargo : tecnico seguridad y higiene
+ <br>Direccion : lujan sierra 3269
+ <br>Ciudad : moreno
+ <br>Telefono : 1134521735
+ <br>Email : yesica-eliana@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : hola estoy en busqueda de empleo, soy de zona oeste. desde ya muchas gracias
+ <br>Security_code : 5fwxg
+ <br>Send : Enviar
+ <br>
+---------------
+

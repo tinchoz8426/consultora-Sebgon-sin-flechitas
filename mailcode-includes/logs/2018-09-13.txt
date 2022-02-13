@@ -1,0 +1,12 @@
+Address : 190.245.230.146
+ <br>Nombre : Germán
+ <br>Apellido : Martínez
+ <br>Empresa : Escuela Modelo
+ <br>Telefono : 1
+ <br>Email : german.24993@gmail.com
+ <br>Mensaje : Buenas noches. Quería saber el costo de 2 planes de evacuación y contingencia (1 para jardín y 1 para escuela primaria) y sus respectivas cargas de fuego. ¡Muchísimas gracias!
+ <br>Security_code : tprnq
+ <br>Send : Enviar
+ <br>
+---------------
+

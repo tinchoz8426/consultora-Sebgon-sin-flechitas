@@ -1,0 +1,12 @@
+Address : 190.50.37.206
+Nombre : david
+Apellido : cattoni
+Empresa : heladeria
+Telefono : 0221155373003
+Email : davidcattoni@yahoo.com.ar
+Mensaje : hola, queria consultarles cual seria el valor estimativo de una medicion de carga de fuego para una heladeria en un local de 70 m2? gracias
+Security_code : rrmp8
+Send : Enviar
+
+---------------
+

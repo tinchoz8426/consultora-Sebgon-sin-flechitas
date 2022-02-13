@@ -1,0 +1,31 @@
+Address : 190.17.50.32
+Nombre : María Victoria
+Apellido : Formia
+Cargo : Ingeniero 
+Direccion : Ayacucho 1616
+Ciudad : Rosario
+Telefono : 0341-4266736
+Email : victoriaformia@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Soy una persona responsable y organizada, con estudios en Ingeniería Industrial y experiencia laboral tanto en área Industrial como Servicios. 
+
+Security_code : xtrmn
+Send : Enviar
+
+---------------
+
+Address : 190.48.159.173
+Nombre : Alejandra
+Apellido : Wainberg
+Cargo : atencion al publico/ cajas
+Direccion : soldado de la frotera 5130
+Ciudad : capital federal
+Telefono : 46050019
+Email : jptaximetro@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : hola me gustaria conseguir un tabajo part-time. muchas gracias
+Security_code : kxjf5
+Send : Enviar
+
+---------------
+

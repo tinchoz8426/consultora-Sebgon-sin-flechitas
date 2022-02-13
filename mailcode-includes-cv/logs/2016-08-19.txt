@@ -1,0 +1,186 @@
+Address : 190.231.252.131<br>
+ <br>REF : OEL
+ <br>Nombre : Ramiro Manuel
+ <br>Apellido : Quinteros Barja
+ <br>Cargo : Oficial electricista
+ <br>Direccion : Belgrano 4525
+ <br>Ciudad : Caseros -Tres de Febrero-
+ <br>Telefono : +541557299003
+ <br>Email : ramiroquinteros1@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : remuneración pretendida alrededor de $ 15.000
+ <br>Security_code : pbp7n
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 107.167.107.214<br>
+ <br>Nombre : Melina
+ <br>Apellido : soberon
+ <br>Cargo : administrativa
+ <br>Direccion : Bilbao
+ <br>Ciudad : merlo
+ <br>Telefono : 0220)4890870
+ <br>Email : mely.soberon@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : buenas !!!les dejo mi cv.... 
+gracias!!
+
+ <br>Security_code : t2b64
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.130.18.25<br>
+ <br>Nombre : Silvia Esther
+ <br>Apellido : Jaime
+ <br>Cargo : Gerente/Jefe de RR HH
+ <br>Direccion : Sourdeaux
+ <br>Ciudad : Bella Vista
+ <br>Telefono : 1560182149
+ <br>Email : sjaimegatica@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados quedo a disposición para ampliar cualquier información.
+ <br>Security_code : z9q8m
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.137.139.189<br>
+ <br>REF : E.DIS
+ <br>Nombre : DIego
+ <br>Apellido : Cadeddu
+ <br>Cargo : Oficina tecnica
+ <br>Direccion : juan. B. justo N°4259
+ <br>Ciudad : Buenos aires
+ <br>Telefono : 1530303632
+ <br>Email : diegocadeddu7@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenos días, mi nombre es Diego Cadeddú y soy estudiante de diseño industrial, estoy en segundo cursando segundo año y me interesaría insertarme en el mercado laboral. Adjunto mi curriculum por cualquier oportunidad que surja. Muchas gracias
+ <br>Security_code : 4dhcv
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.137.127.14<br>
+ <br>REF : JP
+ <br>Nombre : LEONARDO
+ <br>Apellido : FERNANDEZ
+ <br>Cargo : Jefe de Personal
+ <br>Direccion : nuñez, 2638
+ <br>Ciudad : nuñez
+ <br>Telefono : 1150401308
+ <br>Email : leonardoc.fernandez64@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Envio Curriculum vitae
+ <br>Security_code : wwb6w
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.50.213.132<br>
+ <br>REF : GTEP
+ <br>Nombre : Adrian
+ <br>Apellido : Cereghetti
+ <br>Cargo : Gerente de Planta
+ <br>Direccion : Sargento Cabral 786
+ <br>Ciudad : Bernal
+ <br>Telefono : 1536472774
+ <br>Email : adriancereghetti@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimado,
+Tengo amplia experiencia en distintas industrias (Autopartista, Metalúrgica, producción de embalajes para Alimentos, farmacéuticas y laboratorio).
+Tuve a cargo varias áreas (Producción, Mantenimiento, Ingeniera, Logística, Mejora Continua), siendo mi especialidad Producción,  tengo vasta experiencia en normas de calidad, seguridad y medio ambiente, normas de calidad ISO 9001, ISO/TS 16949, ISO 14001 (Sistema de Gestión Ambiental) OHAS 18001 (Sistema de Gestión de Seguridad y Salud).
+Quedo a su disposición.
+Saludos
+Adrián Cereghetti
+
+ <br>Security_code : v2fnh
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 179.41.154.129<br>
+ <br>REF : JP
+ <br>Nombre : Mario Alberto
+ <br>Apellido : Baffico
+ <br>Cargo : Responsable de RRHH
+ <br>Direccion : Rondeau 1048
+ <br>Ciudad : Ramos Mejia - Buenos Aires
+ <br>Telefono : 4620-2276
+ <br>Email : marioder5@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Sr. Gerente: 
+Adjunto CV a fin de sr considerado para el puesto. Saludo a Ud. muy atte. 
+
+     Mario A. Baffico 
+     TE: 4620-2276 
+ <br>Security_code : fjnhh
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.0.211.151<br>
+ <br>REF : tecm
+ <br>Nombre : Gustavo
+ <br>Apellido : Lucero
+ <br>Cargo : tecnico mecanico de maquinas y herramientas
+ <br>Direccion : pringles 4826
+ <br>Ciudad : Tablada
+ <br>Telefono : 011-5913-0046
+ <br>Email : guslucero2.0@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola espero cumplir los requisitos y bien ver referencias laboral,desde ya muchas gracias.
+Atentamente:Gustavo Lucero
+ <br>Security_code : wfgxw
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.245.229.42<br>
+ <br>Nombre : omar
+ <br>Apellido : perez
+ <br>Cargo : sup. prduccion
+ <br>Direccion : calle  85-741
+ <br>Ciudad : necochea
+ <br>Telefono : 02262 15602785
+ <br>Email : omar_perez05@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estoy  interesado en búsquedas ingeniero mantenimiento
+ <br>Security_code : 6n8p8
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.61.177.228<br>
+ <br>REF : GTEP
+ <br>Nombre : hector
+ <br>Apellido : chiariglione
+ <br>Cargo : gerente de planta
+ <br>Direccion : solis 1397
+ <br>Ciudad : hurlingham
+ <br>Telefono : 44527393
+ <br>Email : hectorchiariglione@live.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Gerente de planta alimenticia
+ <br>Security_code : 64n2p
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.61.177.228<br>
+ <br>REF : GTEP
+ <br>Nombre : hector
+ <br>Apellido : chiariglione
+ <br>Cargo : gerente de planta
+ <br>Direccion : solis 1397
+ <br>Ciudad : hurlingham
+ <br>Telefono : 44527393
+ <br>Email : hectorchiariglione@live.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Gerente de planta alimenticia
+ <br>Security_code : 64n2p
+ <br>Send : Enviar
+ <br>
+---------------
+

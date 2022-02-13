@@ -1,0 +1,48 @@
+Address : 181.164.253.136<br>
+ <br>REF : ACO-1
+ <br>Nombre : Mariano
+ <br>Apellido : Del Pópolo
+ <br>Cargo : ANALISTA DE COMERCIO INTERNACIONAL/EXTERIOR
+ <br>Direccion : Guido 515
+ <br>Ciudad : Quilmes
+ <br>Telefono : 01142570142
+ <br>Email : mariano.delpopolo@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Envío adjunto mi CV e información de contacto.
+ <br>Security_code : gdnmy
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.18.45.32<br>
+ <br>REF : ACO-1
+ <br>Nombre : Ricardo 
+ <br>Apellido : Holst 
+ <br>Cargo : ACO-1
+ <br>Direccion : Sargento Cabral 849
+ <br>Ciudad : Martinez 
+ <br>Telefono : 15-2170-3951
+ <br>Email : rholst22@gmail.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Adjunto mi CV 
+ <br>Security_code : pdy2g
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.20.68.48<br>
+ <br>REF : Tectron
+ <br>Nombre : Fabian Fernando
+ <br>Apellido : Frattini
+ <br>Cargo : Tecnico electrónico 
+ <br>Direccion : altolaguirre1124
+ <br>Ciudad : Merlo
+ <br>Telefono : 1127111931
+ <br>Email : fabian.frattini@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Adjunto mi cv muchas gracias 
+ <br>Security_code : K4jcy
+ <br>Send : Enviar
+ <br>
+---------------
+

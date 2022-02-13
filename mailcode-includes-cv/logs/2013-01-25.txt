@@ -1,0 +1,53 @@
+Address : 190.179.243.225
+REF : administrativo-logistica
+Nombre : Federico
+Apellido : Pellegrini
+Cargo : ADMINISTRATIVO DE LOGÍSTICA
+Direccion : chaco 1505
+Ciudad : Las Heras
+Telefono : 2612405655
+Email : fepelleg@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Quisiera postularme a la vacante y también a todas aquellas en las que pueda coincidir con mi perfil . Gracias
+Security_code : 67bbj
+Send : Enviar
+
+---------------
+
+Address : 190.17.177.137
+Nombre : Mario Antonio
+Apellido : Herrera
+Cargo : Automotriz
+Direccion : Baltazar Gracian 809
+Ciudad : don Torcuato
+Telefono : 1567657371
+Email : mario-herrera79@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados,
+
+Le hago llegar mis datos personales y profesionales en Currículum Vitae a fin de ser tenido en cuenta como candidato en sus busquedas  laborales.
+
+Esperando una respuesta positiva lo saluda atentamente,
+
+Mario Antonio Herrera
+
+Security_code : m75n9
+Send : Enviar
+
+---------------
+
+Address : 186.123.133.188
+Nombre : Eliana
+Apellido : Muchiutti
+Cargo : Recepcionista
+Direccion : San Luis 456
+Ciudad : Paraná
+Telefono : 0343155033707
+Email : elimuch@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Mis objetivos laborales consisten en la adquisicion de nuevos aprendizajes y nuevas experiencias
+Security_code : v94m2
+Send : Enviar
+
+---------------
+

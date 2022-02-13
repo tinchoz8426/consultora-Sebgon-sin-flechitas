@@ -1,0 +1,76 @@
+Address : 190.193.251.8
+Nombre : Romina Andrea
+Apellido : Tempesta
+Cargo : Administración
+Direccion : Centenario 735
+Ciudad : Rosario
+Telefono : 0341- 155615218
+Email : r.tempesta@live.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : gkcmx
+Security_code : gkcmx
+Send : Enviar
+
+---------------
+
+Address : 190.176.5.92
+Nombre : roberto
+Apellido : llalen
+Cargo : ayudante de cocina, mozo
+Direccion : cornelio saavedra
+Ciudad : guaymallen
+Telefono : 0261156913811
+Email : robertollalen@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : A traves de este medio me comunico con ustedes para lograr una posibilidad de trabajo ya que cuento con experiencia en el rubro soy responsable,dinamico, con ganas de progresar
+Security_code : mvph2
+Send : Enviar
+
+---------------
+
+Address : 181.1.237.252
+Nombre : Diego
+Apellido : Stivanello
+Cargo : manteniminto
+Direccion : 1°de mayo 2072
+Ciudad : zarate
+Telefono : 03487-15696305
+Email : diegostivanello@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Mis expectativas son lograr un buen desarrollo en el area laboral y personal,captando las expectativas del empleador.
+Desde ya muchas gracias.
+Security_code : 2ttcx
+Send : Enviar
+
+---------------
+
+Address : 190.174.204.134
+Nombre : mariano
+Apellido : latorre
+Cargo : bachero,limpieza,cadete
+Direccion : palacios1221
+Ciudad : banfield
+Telefono : 4248 6035 o 1532662898
+Email : ezequiellatorre871@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : les mando mi cv 
+Security_code : n6shc
+Send : Enviar
+
+---------------
+
+Address : 186.109.198.121
+Nombre : Mariana de los Angeles
+Apellido : Galvan
+Cargo : atencion al cliente
+Direccion : piedrabuena 345
+Ciudad : Boulogne sur mer
+Telefono : 47654933
+Email : marian.g89@live.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Atención al cliente
+Security_code : 7b2t4
+Send : Enviar
+
+---------------
+

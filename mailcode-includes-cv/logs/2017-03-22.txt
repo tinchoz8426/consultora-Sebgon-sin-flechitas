@@ -1,0 +1,307 @@
+Address : 186.158.136.165<br>
+ <br>REF : chr
+ <br>Nombre : Marcelo René
+ <br>Apellido : Altamirano
+ <br>Cargo : Chofer
+ <br>Direccion : 9 de julio 
+ <br>Ciudad : Bs As
+ <br>Telefono : 111549869609
+ <br>Email : Marceloaltamirano1985@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Registros al día con dos años de vigencia para renovar gran manejo en camiones con chasis bateas balancín y de largo porte experiencia comprobables y con referencia de cada empleo ..Saludos 
+ <br>Security_code : Kxjpf
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.179.145.104<br>
+ <br>REF : chr
+ <br>Nombre : sergio
+ <br>Apellido : godoy
+ <br>Cargo : chofer
+ <br>Direccion : ing huergo 2349
+ <br>Ciudad : monte grande
+ <br>Telefono : 42901583
+ <br>Email : sergidavidgodoy@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : espero respuesta
+ <br>Security_code : K22pb
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 191.84.35.250<br>
+ <br>REF : chr
+ <br>Nombre : Leonel
+ <br>Apellido : Tarello
+ <br>Cargo : Chofer de reparto
+ <br>Direccion : Paraguay 1997, san justo
+ <br>Ciudad : Buenos aires
+ <br>Telefono : 1135107505
+ <br>Email : Tarello.leonel@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buen día adjunto mi currículum ya que estoy buscando empleo. Cuento con movilidad para trabajarm (renault kangoo año 2010). Espero su llamado. Muchas gracias.
+ <br>Security_code : Qk4kn
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 191.84.35.250<br>
+ <br>REF : chr
+ <br>Nombre : Leonel
+ <br>Apellido : Tarello
+ <br>Cargo : Chofer de reparto
+ <br>Direccion : Paraguay 1997, san justo
+ <br>Ciudad : Buenos aires
+ <br>Telefono : 1135107505
+ <br>Email : Tarello.leonel@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buen día adjunto mi currículum ya que estoy buscando empleo. Cuento con movilidad para trabajarm (renault kangoo año 2010). Espero su llamado. Muchas gracias.
+ <br>Security_code : Qk4kn
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 191.84.35.250<br>
+ <br>REF : chr
+ <br>Nombre : Leonel
+ <br>Apellido : Tarello
+ <br>Cargo : Chofer de reparto
+ <br>Direccion : Paraguay 1997, san justo
+ <br>Ciudad : Buenos aires
+ <br>Telefono : 1135107505
+ <br>Email : Tarello.leonel@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buen día adjunto mi currículum ya que estoy buscando empleo. Cuento con movilidad para trabajarm (renault kangoo año 2010). Espero su llamado. Muchas gracias.
+ <br>Security_code : 6fjm5
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 200.45.218.31<br>
+ <br>Nombre : Santiago
+ <br>Apellido : Maril
+ <br>Cargo : Jefatura/Gerencia
+ <br>Direccion : Corredor Bancalaria 3901 - Barrio Santa Barbara - Lote 993
+ <br>Ciudad : General Pacheco
+ <br>Telefono : 15-2543-2511
+ <br>Email : santiagomaril@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me encuentro en busca de nuevos desafíos profesionales para continuar desarrollando mi expertise en áreas tales como Consultoría, Investigación de Mercado, Category Management, Marketing o Trade Marketing. 
+Con una sólida experiencia de mas de 20 años de experiencia en mercado de consumo masivo desarrollados en el área Comercial, Marketing, Trade Marketing y Retail, en empresas como Carrefour Argentina, Nielsen Argentina, Nielsen España, CMS y La Cumbre San Luis (Hileret), mi objetivo hoy es poder aplicar mis competencias actuales y desarrollar nuevas dentro de empresas de consumo masivo de primera línea.
+Quedo a su disposición a fin de profundizar sobre aspectos y contenidos en el CV adjunto,  o bien acordar una entrevista
+
+ <br>Security_code : pr6xj
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.13.6.96<br>
+ <br>REF : chr
+ <br>Nombre : Nestor alejandro
+ <br>Apellido : Acosta
+ <br>Cargo : Como contuctor de camionetas o camiones sin acoplado
+ <br>Direccion : Urquiza 692
+ <br>Ciudad : San andres giles bs as
+ <br>Telefono : 23255921292
+ <br>Email : Nestorale56@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Tengo registro profecional 
+ <br>Security_code : x8gvy
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 179.41.205.20<br>
+ <br>REF : chr
+ <br>Nombre : pablo ariel alejandro
+ <br>Apellido : humano
+ <br>Cargo : chofer de reparto
+ <br>Direccion : alcorta 3772
+ <br>Ciudad : loma del mirador
+ <br>Telefono : 11-3209-9015
+ <br>Email : pablo.humano@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : tengo experiencia de chofer cat. c y E trabajos de en chasis modificaciones mecanica lijera de autos y camiones. buen trato y empeñozo en ventas
+ <br>Security_code : 9yvt2
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.175.109.180<br>
+ <br>REF : chr
+ <br>Nombre : ariel
+ <br>Apellido : salinas
+ <br>Cargo : chofer
+ <br>Direccion : payro 1641
+ <br>Ciudad : b.s  a.s
+ <br>Telefono : 011-15-5703-1455
+ <br>Email : ariel_salinas79@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : hola soy ariel estoy sin trabajo y me interesa su anuncio tengo disponibilidad horaria y muchas ganas de trabajar
+ <br>Security_code : kfr4c
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.104.247.52<br>
+ <br>REF : chr
+ <br>Nombre : alberto mauricio
+ <br>Apellido : zegarra torres
+ <br>Cargo : chofer
+ <br>Direccion : varela 1950 flores cap. fed
+ <br>Ciudad : buenos aires
+ <br>Telefono : 1534447455
+ <br>Email : betito641@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : disponibilidad inmediata chofer profesional 
+ <br>Security_code : pv7x7
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 200.125.105.215<br>
+ <br>Nombre : Dario
+ <br>Apellido : Insaurralde
+ <br>Cargo : Chofer
+ <br>Direccion : La rioja 163
+ <br>Ciudad : San vicente
+ <br>Telefono : 0222415544808
+ <br>Email : Darioginsaurralde@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : 5qtt7
+ <br>Security_code : 9yqbr
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 200.125.105.215<br>
+ <br>Nombre : Dario
+ <br>Apellido : Insaurralde
+ <br>Cargo : Chofer
+ <br>Direccion : La rioja 163
+ <br>Ciudad : San vicente
+ <br>Telefono : 0222415544808
+ <br>Email : Darioginsaurralde@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : 5qtt7
+ <br>Security_code : 9yqbr
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 198.12.32.3<br>
+ <br>REF : chr
+ <br>Nombre : Maximiliano Ezequiel
+ <br>Apellido : Mendoza
+ <br>Cargo : Chofer de reparto y manejo de remitos
+ <br>Direccion : Calle 805 N 1640
+ <br>Ciudad : Buenos aires
+ <br>Telefono : 1151565688
+ <br>Email : Sanesped.11@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Tengo conocimientos en armado de pedidos y control de remitos y facturas , registro CNRT 
+ <br>Security_code : 82pcm
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.246.75.27<br>
+ <br>REF : Tectron
+ <br>Nombre : Pablo Enrique
+ <br>Apellido : ABADIE
+ <br>Cargo : Técnico / ingeniero electrónico
+ <br>Direccion : Av. Gaona 2131
+ <br>Ciudad : Ramos Mejia
+ <br>Telefono : 4656-6223 / 15-5609-7359
+ <br>Email : pablo_abadie@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas tardes, estoy interesado en ofertas para técnicos en electrónica, ingeniería de desarrollo, producto, seguridad electrónica, etc.
+Por favor encuentre adjunto mi CV.
+Muchas gracias. 
+ <br>Security_code : xj5pv
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.22.53.184<br>
+ <br>REF : chr
+ <br>Nombre : Juan Manuel 
+ <br>Apellido : Rozo Chaves
+ <br>Cargo : Chofer
+ <br>Direccion : Amenabar 2221
+ <br>Ciudad : ciudad capital
+ <br>Telefono : 1127319520
+ <br>Email : jumaro99@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Dispuesto a dar el 100% actitud positiva, conocimientos de mecánica y conducción.
+estoy para servir
+ <br>Security_code : gtfz8
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 191.83.229.192<br>
+ <br>REF : chr
+ <br>Nombre : Angel enrique
+ <br>Apellido : Fernandez
+ <br>Cargo : Chofer
+ <br>Direccion : Pedro uriarte 2622
+ <br>Ciudad : Santa maria
+ <br>Telefono : 1139524078
+ <br>Email : Angelfernandez201691@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me llamo fernandez angel tengo34 años y cuento con 9 años de expetiencia como chofer..cuento con la documentacion y registros al dia... 
+ <br>Security_code : Nkbwv
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 191.83.229.192<br>
+ <br>REF : chr
+ <br>Nombre : Angel enrique
+ <br>Apellido : Fernandez
+ <br>Cargo : Chofer
+ <br>Direccion : Pedro uriarte 2622
+ <br>Ciudad : Santa maria
+ <br>Telefono : 1139524078
+ <br>Email : Angelfernandez201691@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me llamo fernandez angel tengo34 años y cuento con 9 años de expetiencia como chofer..cuento con la documentacion y registros al dia... 
+ <br>Security_code : Nkbwv
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.25.206.253<br>
+ <br>REF : chr
+ <br>Nombre : Cesar 
+ <br>Apellido : Martinez
+ <br>Cargo : Chofer
+ <br>Direccion : Lavalle 3500
+ <br>Ciudad : Monte Grande
+ <br>Telefono : 1124394675
+ <br>Email : cocoawin@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Necesito trabajar. Por favor. Soy muy responsable y no tengo inconvenientes con ningún tipo de trabajo.
+ <br>Security_code : bqsff
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.139.88.80<br>
+ <br>REF : chr
+ <br>Nombre : Emmanuel
+ <br>Apellido : Sachi
+ <br>Cargo : chofer
+ <br>Direccion : gandara2563
+ <br>Ciudad : parque chas
+ <br>Telefono : 1131602994
+ <br>Email : esachi81@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : estoy en busca de trabajo, trabajar en equipo y un buen ambiente del mismo. graxias
+ <br>Security_code : tkx8r
+ <br>Send : Enviar
+ <br>
+---------------
+

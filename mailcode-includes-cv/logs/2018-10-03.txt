@@ -1,0 +1,186 @@
+Address : 186.13.71.195<br>
+ <br>REF : TEC. EL
+ <br>Nombre : Matías 
+ <br>Apellido : Ruggeri
+ <br>Cargo : Técnico electrónico especializado
+ <br>Direccion : Carlos Casares 2240
+ <br>Ciudad : Morón
+ <br>Telefono : 1162898672
+ <br>Email : mdruggeri@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenos días, quería postularme al empleo de técnico electrónico especializado. Gracias!
+ <br>Security_code : cvgdr
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.59.159.221<br>
+ <br>REF : TEC. EL
+ <br>Nombre : daniel
+ <br>Apellido : rovella
+ <br>Cargo : Tecnico electronico especializado
+ <br>Direccion : Pallares 1937
+ <br>Ciudad : Lanus Oeste
+ <br>Telefono : 1557938088
+ <br>Email : danielrovella@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buen Dia estoy interesado en el puesto de tecnico electronico especializado
+ <br>Security_code : tg8cj
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.105.221.161<br>
+ <br>Nombre : Damian Alejandro
+ <br>Apellido : Gallotti
+ <br>Cargo : encargado de deposito,droguerias,transporte,logistica
+ <br>Direccion : Mendoza 1263
+ <br>Ciudad : villa maria
+ <br>Telefono : 353 4 285 240
+ <br>Email : damiantalleres123@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buen dia,dejo mi cv
+ <br>Security_code : bbgnp
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.141.197.76<br>
+ <br>REF : EM
+ <br>Nombre : Manuel Alfredo
+ <br>Apellido : Espinola Chamorro
+ <br>Cargo : mantenimiento general
+ <br>Direccion : catamarca 3701(ex2035)
+ <br>Ciudad : Quilmes Oeste
+ <br>Telefono : 1167309356
+ <br>Email : espinolamanuel513@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Persona muy responsable,con ganas de seguir creciendo en lo personal y laboral. Sumar positivo siempre busncando superarse.
+ <br>Security_code : phbr9
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.141.197.76<br>
+ <br>REF : EM
+ <br>Nombre : Manuel Alfredo
+ <br>Apellido : Espinola Chamorro
+ <br>Cargo : mantenimiento general
+ <br>Direccion : catamarca 3701(ex2035)
+ <br>Ciudad : Quilmes Oeste
+ <br>Telefono : 1167309356
+ <br>Email : espinolamanuel513@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Persona muy responsable,con ganas de seguir creciendo en lo personal y laboral. Sumar positivo siempre busncando superarse.
+ <br>Security_code : phbr9
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 168.194.204.87<br>
+ <br>Nombre : Gonzalo Francisco
+ <br>Apellido : Rodriguez Astesiano
+ <br>Cargo : Atención al cliente, bancos, ventas, administrativos
+ <br>Direccion : San Martin 1351
+ <br>Ciudad : Mendoza
+ <br>Telefono : 2613301000
+ <br>Email : gonzalorodriguezastesiano@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Soy una persona proactiva, con un marcado perfil hacia la venta, la atención al cliente y el trabajo en grupo. 
+
+Como graduado de la Universidad de Congreso en Comunicación e Imagen Institucional, he realizado prácticas en agencias de publicidad, y mis primeros trabajos han estado relacionados con los medios de comunicación. 
+
+Por medio de las herramientas ya adquiridas, mi propósito es sumar conocimientos nuevos y lograr las metas y objetivos establecidos por el empleador.  
+
+ <br>Security_code : ms293
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.178.53.25<br>
+ <br>REF : TEC. EL
+ <br>Nombre : Juan Pablo
+ <br>Apellido : Marchisio
+ <br>Cargo : tec
+ <br>Direccion : Elizalde 544
+ <br>Ciudad : Lanus
+ <br>Telefono : 1169801126
+ <br>Email : jpm68@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenos días:
+Me dirijo a ustedes con el fin de remitirles mi Currriculum Vitae para aspirar a búsquedas acordes a mi perfil. 
+Soy estudiante avanzado en la carrera ingeniería, habiendo trabajado casi 2 años controlando stock críticos entre otras funciones desempeñandome en departamento de producción, ademas de haber trabajado los últimos 5 años en el área de ingeniería, ademas de mas de 10 años trabajando como técnico electrónico en diferentes empresas. 
+Adjunto el curriculum para en el caso que mi perfil coincida con lo buscado se pongan en contacto.
+Desde ya muchas Gracias!
+
+ <br>Security_code : 985x3
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.29.105.6<br>
+ <br>Nombre : Antonela
+ <br>Apellido : González
+ <br>Cargo : Vendedora, repositora, secretaria
+ <br>Direccion : Portugal 703
+ <br>Ciudad : Mar del plata
+ <br>Telefono : 2494569694
+ <br>Email : antonelalilen@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Actualmente vivo en Tandil pero con ganas de mudarme y progresar en mdp. Tengo experiencia sin hijos 24 años y disponibilidad full time
+ <br>Security_code : d3tdm
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.17.110.2<br>
+ <br>REF : ACO-1
+ <br>Nombre : Yarwins
+ <br>Apellido : Romero
+ <br>Cargo : ANALISTA DE COMERCIO INTERNACIONAL/EXTERIOR
+ <br>Direccion : La plata, 67 e 117 y 118
+ <br>Ciudad : La plata
+ <br>Telefono : 01126519294
+ <br>Email : yarwins13@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola muy buenas, mucho gusto Yarwins Romero  para servirles, estoy interesado en postularme para tener el privilegio de formar parte de su empresa, disponibilidad inmediata, soy un profesional de 28 años de edad de nacionalidad venezolana, documentación al día, mis profesiones son: Lic. en Administración y Gestion,  Licenciado en Comercio Exterior, y técnico aeronáutico. Capaz de aceptar y adaptarme a cualquier labor u oficio, sin importar cual sea la labor o el cargo, para así mostrar con mucho esfuerzo y entusiasmo mi potencial y mis  capacidades; y ayudarle o servirle en lo que ustedes necesiten, para satisfacer sus necesidades en la labor o area que lo requiera, y aportar mi granito de arena para hacer crecer su empresa, compañía o institución..... Muchas gracias
+
+ATTE  Yarwins Romero
+ <br>Security_code : qbqzz
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.137.24.148<br>
+ <br>Nombre : Lucio
+ <br>Apellido : Reyna Novillo
+ <br>Cargo : Administrativo
+ <br>Direccion : Tejeda 4208
+ <br>Ciudad : Cordoba
+ <br>Telefono : 03515148149
+ <br>Email : lucio_reyna@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Solo para la provincia de Cordoba. Gracias
+ <br>Security_code : 9wkyd
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.166.160.161<br>
+ <br>REF : TEC. EL
+ <br>Nombre : Leandro 
+ <br>Apellido : Godoy
+ <br>Cargo : Tecnico Informático
+ <br>Direccion : David Magdalena 3266
+ <br>Ciudad : Caseros
+ <br>Telefono : 4750-9660
+ <br>Email : leandrogodoy@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Se realiza postulación para Tecnico Electronico para la jornada de lunes a viernes.
+
+Gracias
+ <br>Security_code : mppnw
+ <br>Send : Enviar
+ <br>
+---------------
+

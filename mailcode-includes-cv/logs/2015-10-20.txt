@@ -1,0 +1,62 @@
+Address : 190.226.189.228
+REF : ADM
+Nombre : Yenifer
+Apellido : Viedma Mendez
+Cargo : ADM
+Direccion : Amenabar 660
+Ciudad : Capital Federal
+Telefono : 1153434079
+Email : yeniferviedma@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Disponibilidad Inmediata
+Remuneración bruta pretendida $10.000
+Security_code : n7gzp
+Send : Enviar
+
+---------------
+
+Address : 201.213.145.225
+Nombre : Jose Luis 
+Apellido : Piesco
+Cargo : Tesorero
+Direccion : Fontela 210
+Ciudad : Temperley
+Telefono : 1559260880
+Email : pepe_cele@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : REf.Tesorero
+Security_code : 4ktxh
+Send : Enviar
+
+---------------
+
+Address : 201.213.145.225
+Nombre : Jose Luis
+Apellido : Piesco
+Cargo : Tesorero
+Direccion : Fontela 210
+Ciudad : Temperley
+Telefono : 1559260880
+Email : pepe_cele@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Ref.Tesorero
+Security_code : 3g7kb
+Send : Enviar
+
+---------------
+
+Address : 190.105.23.196
+Nombre : Juan Ignacio
+Apellido : Capelli
+Cargo : control calidad
+Direccion : las glicinas 1096
+Ciudad : Pilar
+Telefono : 1150413702
+Email : capellijuanignacio@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Técnico químico con experiencia.
+Security_code : h2th8
+Send : Enviar
+
+---------------
+

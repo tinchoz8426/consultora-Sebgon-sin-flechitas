@@ -1,0 +1,15 @@
+Address : 190.230.66.47
+Nombre : Rocio Magali
+Apellido : Tasca
+Cargo : Recepcionista/Secretaria/At. al cliente
+Direccion : Lavalleja 173 4º30
+Ciudad : Capital Federal
+Telefono : 1561452560
+Email : rociomtasca@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : También acepto otras busquedas que no sean del cargo al que me postulé.
+Security_code : yxz65
+Send : Enviar
+
+---------------
+

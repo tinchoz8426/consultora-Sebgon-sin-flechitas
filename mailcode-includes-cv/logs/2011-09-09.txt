@@ -1,0 +1,45 @@
+Address : 190.48.221.121
+Nombre : Sergio
+Apellido : Naranjo
+Cargo : Contador Junior
+Direccion : Miro 2388
+Ciudad : San Justo
+Telefono : 44612205
+Email : sergio.naranjo.93@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : .
+Security_code : rsgd6
+Send : Enviar
+
+---------------
+
+Address : 190.172.195.172
+Nombre : Jéssica 
+Apellido : Rao
+Cargo : comercio internacional
+Direccion : Germán Abdala 2614
+Ciudad : Isidro Casanova
+Telefono : 46253422
+Email : jessie.joii@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me encantaría ya encontrarme trabajando en un oficio especifico a mi carrera, desde si, muchas gracias
+Security_code : kd44s
+Send : Enviar
+
+---------------
+
+Address : 190.174.42.237
+Nombre : Yamila
+Apellido : Sosa
+Cargo : administrativa
+Direccion : sucre 1115
+Ciudad : morón
+Telefono : 4628-1312
+Email : sosa.yamila@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : espero que me puedan brindar la posibilidad de crecer profesionalmente, de superarme a mi misma en el desarrollo de una actividad laboral
+Security_code : 4nbvz
+Send : Enviar
+
+---------------
+

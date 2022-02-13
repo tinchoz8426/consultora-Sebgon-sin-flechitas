@@ -1,0 +1,86 @@
+Address : 190.246.135.8
+REF : Asistente-Contable
+Nombre : Maximiliano Ezequiel
+Apellido : Moreno
+Cargo : Asistente-Contable
+Direccion : Miguel A Carcano 1536 B° Los Platanos
+Ciudad : Cordoba Capital
+Telefono : 03514658789
+Email : maximilianoe.moreno@hotmail.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Me comunico hacia ustedes para brindarles mis habilidades.
+Security_code : sknxm
+Send : Enviar
+
+---------------
+
+Address : 190.17.140.159
+Nombre : Eleonora
+Apellido : Diez
+Cargo : Administrativo
+Direccion : Ministro Carrillo 44, dpto. 9
+Ciudad : Haedo
+Telefono : 15-4025-7581
+Email : eleonora.diez@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados,
+
+De mi consideración:
+ 
+Tengo el agrado de dirigirme a Uds. a fin de acercarles mi CV, para eventuales búsquedas acordes a mi perfil.
+Cuento con una valiosa experiencia en distintas áreas de la industria de la hospitalidad, siendo mi mayor interés las áreas administrativas, de organización y comunicación.
+Estimo que una entrevista será el marco adecuado para profundizar aspectos de mi perfil que puedan resultar de su interés.
+ 
+Cordialmente,
+
+Eleonora Diez.
+Security_code : yc3mf
+Send : Enviar
+
+---------------
+
+Address : 201.235.151.42
+Nombre : Erica Estefania
+Apellido : Aguero  Aguirre
+Cargo : telefonista- secretaria
+Direccion : Av carcano 280 
+Ciudad : Cordoba
+Telefono : 4853812
+Email : asterissco.tef@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estoy completamente capacitada para cubrir el puesto solicitado.
+Security_code : jtm8k
+Send : Enviar
+
+---------------
+
+Address : 190.179.163.141
+Nombre : LILA  SANTINA
+Apellido : ERRANTE
+Cargo : ADMINISTRATIVA
+Direccion : FORMOSA 2249
+Ciudad : GODOY  CRUZ - MENDOZA
+Telefono : 0261 422007
+Email : lila_err@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Le envío CV para ser evaluado. Busco empleo administrativo, jornada completa.
+Security_code : vnqcm
+Send : Enviar
+
+---------------
+
+Address : 190.18.173.28
+Nombre : Gaston Ezequiel
+Apellido : Fuensalida Acosta
+Cargo : Indiferente
+Direccion : Obispo Salguero 638  Dto:13B
+Ciudad : Cordoba
+Telefono : 0351-153639005
+Email : gastonfuensalida@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Necesito el trabajo para mantenerme y continuar con mis estudios.
+Security_code : 4nbf3
+Send : Enviar
+
+---------------
+

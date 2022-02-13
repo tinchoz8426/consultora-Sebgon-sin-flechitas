@@ -1,0 +1,79 @@
+Address : 186.19.67.44<br>
+ <br>REF : TM-2
+ <br>Nombre : Diego Gabriel
+ <br>Apellido : Perandones
+ <br>Cargo : Mantenimiento
+ <br>Direccion : Agrelo 531
+ <br>Ciudad : Llavallol
+ <br>Telefono : 15.65136318
+ <br>Email : Gaby78yca@hotmail.es
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Último trabajo club náutico mantenimiento de embarcaciones pintura soldadura electricidad ,mecánica .títulos de tornería mecánica .y refrigera ion
+ <br>Security_code : Q8ngb
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.19.67.44<br>
+ <br>Nombre : Diego Gabriel
+ <br>Apellido : Perandones
+ <br>Cargo : Mantenimiento
+ <br>Direccion : Agrelo 531
+ <br>Ciudad : Llavallol
+ <br>Telefono : 15.65136318
+ <br>Email : Gaby78yca@hotmail.es
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Curso tornero mecánico refrigeración ..soldadura pintura en fibrado electricidad.
+ <br>Security_code : R3phy
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.28<br>
+ <br>Nombre : Rocio
+ <br>Apellido : Amado
+ <br>Cargo : Secretaria
+ <br>Direccion : Monte cristo
+ <br>Ciudad : Córdoba
+ <br>Telefono : 3574403762
+ <br>Email : rocioamado098@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola Necesito trabajo y tengo experiencia como secretaria
+ <br>Security_code : d7hxb
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.44.125.16<br>
+ <br>REF : SP-1
+ <br>Nombre : Marcelo Daniel
+ <br>Apellido : Flores
+ <br>Cargo : Supervisor de Produccion
+ <br>Direccion : Cavour 3006
+ <br>Ciudad : Lanus Oeste
+ <br>Telefono : 120837279
+ <br>Email : marcelodanielf512@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Gracias x compartir mi curriculun para futuras vacantes laborales .
+ <br>Security_code : 32cq3
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 200.16.132.195<br>
+ <br>Nombre : Patricio Gonzalo
+ <br>Apellido : Ferrairone
+ <br>Cargo : Administracion Varios
+ <br>Direccion : 9 de julio 3485 4 a
+ <br>Ciudad : Mar del Plata
+ <br>Telefono : 02974096390
+ <br>Email : pato2234@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas tardes, le envio como archivo adjunto mi cv, para ser tenido en cuenta, en una futura entrevista laboral.
+Muchas gracias.
+Saludos.
+ <br>Security_code : x2n2f
+ <br>Send : Enviar
+ <br>
+---------------
+

@@ -1,0 +1,69 @@
+Address : 186.19.230.63<br>
+ <br>REF : ROT-1
+ <br>Nombre : Luis 
+ <br>Apellido : Stivanello
+ <br>Cargo : Responsable de oficina tecnica
+ <br>Direccion : Quiroz 2285
+ <br>Ciudad : Ituzaingo
+ <br>Telefono : 1554982792 1549893632 46616962
+ <br>Email : luisstiv@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Responsable y dispuesto a nuevos desafios
+ <br>Security_code : rzq2t
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.19.230.63<br>
+ <br>REF : ROT-1
+ <br>Nombre : Luis 
+ <br>Apellido : Stivanello
+ <br>Cargo : Responsable de oficina tecnica
+ <br>Direccion : Quiroz 2285
+ <br>Ciudad : Ituzaingo
+ <br>Telefono : 1554982792 1549893632 46616962
+ <br>Email : luisstiv@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Responsable y dispuesto a nuevos desafios
+ <br>Security_code : pfyjs
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.139.68.79<br>
+ <br>REF : ACO-1
+ <br>Nombre : Daniel Raúl  
+ <br>Apellido : Guastadisegno
+ <br>Cargo : Analista comercio internacional
+ <br>Direccion : Pedernera 540, 1B
+ <br>Ciudad : CABA
+ <br>Telefono : 11 44070474
+ <br>Email : guastad@yahoo.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Les adjunto mi cv . a fin de que pueda ser considerado en la búsqueda de referencia.
+ <br>Security_code : vvh8q
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 200.114.195.171<br>
+ <br>Nombre : Estefania
+ <br>Apellido : Albanese
+ <br>Cargo : Arquitecta
+ <br>Direccion : Comandante Luis Piedra Buena 3628
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 2235028468
+ <br>Email : estefaniaalbanese35@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas tardes,
+Estoy en la búsqueda de nuevas oportunidades laborales. 
+Envio en archivo adjunto el C.V. Si debo enviarlo a otra dirección de e mail favor de enviármelo y a quién eventualmente debo dirigirme. 
+
+
+Muchas gracias, 
+Arq. Estefania Albanese
+ <br>Security_code : bbngv
+ <br>Send : Enviar
+ <br>
+---------------
+

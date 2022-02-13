@@ -1,0 +1,92 @@
+Address : 200.117.115.92
+Nombre : Luciana Belen
+Apellido : ATANASOFF
+Cargo : Responsable
+Direccion : Romualdo Baez 5340 Camino san carlos
+Ciudad : Cba capital
+Telefono : 3518071250
+Email : luchi.atanasoff@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estoy en una busqueda de empleo Inmediata. En mi curriculum dejo en constancia mis objetivos y mis aspiraciones. Muchas gracias.
+
+ATANASOFF, luciana
+Security_code : qg853
+Send : Enviar
+
+---------------
+
+Address : 186.130.192.38
+Nombre : Evelin Alejandra
+Apellido : valenzuela
+Cargo : empleada 
+Direccion : Maldonado 3422
+Ciudad : Merlo
+Telefono : 02204931553
+Email : evelin_valenzuela@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : hola espero que me tengan en cuenta tengo muchas ganas de trabajar gracias 
+Security_code : 8j7tp
+Send : Enviar
+
+---------------
+
+Address : 186.130.192.38
+Nombre : Evelin Alejandra
+Apellido : valenzuela
+Cargo : empleada 
+Direccion : Maldonado 3422
+Ciudad : Merlo
+Telefono : 02204931553
+Email : evelin_valenzuela94@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : hola espero que me tengan en cuenta tengo muchas ganas de trabajar gracias 
+Security_code : y6mf6
+Send : Enviar
+
+---------------
+
+Address : 186.130.192.38
+Nombre : Evelin Alejandra
+Apellido : Valenzuela
+Cargo : empleada 
+Direccion : Maldonado 3422
+Ciudad : Merlo
+Telefono : 02204931553
+Email : evelin_valenzuela94@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : HOLA ESPERO QUE ME TENGAN EN CUENTA TENGO MUCHAS GANAS DE TRABAJAR MUCHAS GRACIAS
+Security_code : 4gbvr
+Send : Enviar
+
+---------------
+
+Address : 186.130.192.38
+Nombre : Evelin Alejandra
+Apellido : Valenzuela
+Cargo : empleada de limpieza
+Direccion : Maldonado 3422
+Ciudad : Merlo
+Telefono : 02204931553
+Email : evelin_valenzuela94@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : tengo ganas de trabajar y desarrollarme laboralmente
+Security_code : zrhy3
+Send : Enviar
+
+---------------
+
+Address : 186.130.192.38
+Nombre : Evelin Alejandra
+Apellido : Valenzuela
+Cargo : empleada de limpieza
+Direccion : Maldonado 3422
+Ciudad : Merlo
+Telefono : 02204931553
+Email : gonzalo-v@hotmail.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : tengo ganas de trabajar y desarrollarme laboralmente
+Security_code : zrhy3
+Send : Enviar
+
+---------------
+

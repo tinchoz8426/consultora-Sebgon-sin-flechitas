@@ -1,0 +1,90 @@
+Address : 190.49.51.169
+Nombre : eduardo alberto
+Apellido : fernandez
+Cargo : comercio 
+Direccion : rotary internacional 1150
+Ciudad : cipolletti
+Telefono : 299-156300459
+Email : djcone66@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : va lo solicitado , esperando su llamado quedo a su entera disposicion
+Security_code : k3w6z
+Send : Enviar
+
+---------------
+
+Address : 201.213.76.109
+Nombre : rodrigo
+Apellido : rojas
+Cargo : clarkista
+Direccion : patricias argentinas 710
+Ciudad : bueno aires merlo
+Telefono : 011-15-3727-4686
+Email : rodri_ybr@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : me gustaria volver al trabajo fabril
+Security_code : q3yzp
+Send : Enviar
+
+---------------
+
+Address : 190.48.182.245
+Nombre : Fernando
+Apellido : Parrotta
+Cargo : Cualquiera
+Direccion : Bolivia 2266
+Ciudad : Moreno
+Telefono : 11-57667084
+Email : tech-computers@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola, yo envia un CV a la distribuidora Walmart de Moreno, y me dijeron que solo entraban por agencia, y me recomendaron que envie el CV a ustedes. Desde ya muchas gracias. Saludos !!!
+Security_code : 4pydq
+Send : Enviar
+
+---------------
+
+Address : 186.56.192.244
+Nombre : Flavia
+Apellido : Gurevich
+Cargo : Comunicaciones
+Direccion : Campichuelo 606
+Ciudad : Capital federal
+Telefono : 49828544
+Email : flavia_gurevich@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados:
+Mi nombre es Flavia Gurevich, les adjunto mi CV con la expectativa de ser tenida en cuenta en  búsquedas laborales. 
+               
+Soy Licenciada en Ciencias de la Comunicación y cuento con varios años de experiencia en el área de Comunicaciones internas & Capacitación.
+ 
+Mi objetivo es seguir desarrollándome, tanto en lo profesional como en lo personal, en una organización aportando mis conocimientos y capacidades de trabajo en equipo y compromiso, contribuyendo al cumplimiento de los objetivos estratégicos de la organización.      
+           
+
+                 Considero que mis conocimientos pueden ser de utilidad en su empresa.
+
+                 Saludo atentamente y quedo a la espera de una entrevista,
+
+
+                                                                                                          
+                                                                                                                                          Lic. Flavia Gurevich
+                                                                                                                                               28.643.032
+Security_code : 246pn
+Send : Enviar
+
+---------------
+
+Address : 186.58.27.196
+Nombre : Nancy Diana
+Apellido : Alcaraz
+Cargo : administrativa,recepcionista,atencion al publico.
+Direccion : Valentin gomez 4376
+Ciudad : Gregorio de Laferrere
+Telefono : 011-4467-1476
+Email : nancylauty@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Muchas Gracias.
+Security_code : rj5xt
+Send : Enviar
+
+---------------
+

@@ -1,0 +1,118 @@
+Address : 186.129.4.130
+REF : jefe-de-operaciones
+Nombre : Marcelo Jose
+Apellido : Graziani
+Cargo : vendedor
+Direccion : Cruz del Sur 1321
+Ciudad : San Miguel
+Telefono : 44554907 
+Email : aletizmarc@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje :                                                                           Curriculum Vitae
+ 
+
+Apellido:  Graziani
+Nombres: Marcelo Jose
+Edad: 38 Años
+Estado civil: Casado
+Hijos: 3
+Domicilio: Cruz del Sur 1321, San Miguel (1663)
+Telefono: (011)44554907  (Casa)
+Celula: 1539483788
+
+Experiencias  Laborales:
+07/2001 a 10/2010 EG3 Red(petrobras) ,maipu 1 piso 22-c1084aba Ciudad Autonoma de Buenos Aires, Ocupacion : Operario de Playa en la EESS Hiper
+San Miguel
+12/1997 a 07/2001  Agencia de Viajes Mitre Tur ,AV. Mitre 926 San Miguel
+Ocupacion: Tareas adminiistrativas /carga de facturacion compra/ventas/caja chica , cadete
+tel:4451-3480
+07/1997 a 10/ 1997 Esco sa. Av.Gaspar Campos 5889 Jose C Paz, Ocupacion : 
+Coordinador y Ventas 
+03/1995 a 01/1997 Metrovias sa (trans.ferrov.de pasajeros) ,Av. Bartolome Mitre 3342 
+Capital Federal, Ocupacion : Boletero de subterraneos
+tel:4959-6800
+
+Formacion : Primaria : Escuela Modelo ,Bella Vista
+                    Secundario:Colegio Nacional y Anexo Comercial ing.Adolfo Sordeaux
+                   de Bella Vista .
+                   Titulo: Perito Mercantil con experiencia en Auxiliar contable .
+Cursos Realizados: OP. de P.C . Compet. Sistemas Operativos bajo entorno grafico ,
+Inst.Superior Mariano Moreno.
+Programa de Capacitacion Primaria sobre Buenas Practicas de Manufactura (BPM) de Alimentos .
+Programa de contencion de incendio,Planta de Refineria de Petrobras .
+Operador de Rampa ,Angar 1 Aeropuerto Internacional de San Fernando .
+Security_code : 5cmdm
+Send : Enviar
+
+---------------
+
+Address : 190.193.125.23
+Nombre : María Eugenia
+Apellido : Fernández Coria
+Cargo : abogada
+Direccion : Moreno 2926
+Ciudad : Santa Fe
+Telefono : 0342 - 154469774
+Email : eugeniafernandezcoria@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Saludos cordiales.
+Security_code : 3bj82
+Send : Enviar
+
+---------------
+
+Address : 186.137.167.99
+Nombre : Yamila
+Apellido : Canosa
+Cargo : Secretaria
+Direccion : Carlos María Ramírez 1597
+Ciudad : Capital Federal
+Telefono : 1564471633
+Email : yncanosa@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados, 
+
+Me contacto con ustedes para hacerles llegar mi curriculum. 
+En el caso que les interesen mi experiencia laboral y mi formación, tengo disponibilidad para poder concretar una entrevista.
+
+Muchas gracias, saludos.
+
+
+Yamila Canosa
+Security_code : kd2f4
+Send : Enviar
+
+---------------
+
+Address : 186.142.26.215
+Nombre : Mario 
+Apellido : Briggs
+Cargo : Mantenimiento
+Direccion : Lenoir y Rocher Valet C16 M"D" B Jose Dolores Santa Lucia
+Ciudad : San Juan
+Telefono : 0264-4276626
+Email : briggs-mario@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Aca les envio mi curriculum.
+Muchas gracias y quedo a su entera disposicion.
+Security_code : nsf79
+Send : Enviar
+
+---------------
+
+Address : 186.142.26.215
+Nombre : Mario 
+Apellido : Briggs
+Cargo : Mantenimiento
+Direccion : Lenoir y Rocher Valet C16 M"D" B Jose Dolores Santa Lucia
+Ciudad : San Juan
+Telefono : 0264-4276626
+Email : briggs-mario@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Aca les envio mi curriculum.
+Muchas gracias y quedo a su entera disposicion.
+Security_code : nsf79
+Send : Enviar
+
+---------------
+

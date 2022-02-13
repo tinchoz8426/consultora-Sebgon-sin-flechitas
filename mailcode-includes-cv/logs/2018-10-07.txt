@@ -1,0 +1,97 @@
+Address : 200.68.78.171<br>
+ <br>REF : TEC. EL
+ <br>Nombre : Jose Manuel
+ <br>Apellido : Medrano Lugo
+ <br>Cargo : Ingeniero Electronico
+ <br>Direccion : La Pampa 2349 Piso 1 Depto A
+ <br>Ciudad : Ciudad Autonoma de Buenos Aires
+ <br>Telefono : 1139240688
+ <br>Email : jocmedrano96@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Adjunto CV
+ <br>Security_code : s7r4z
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.59.181.172<br>
+ <br>REF : TEC. EL
+ <br>Nombre : Daniel
+ <br>Apellido : Rovella
+ <br>Cargo : Tecnico electronico especializado 
+ <br>Direccion : Pallares 1937
+ <br>Ciudad : Lanus oeste
+ <br>Telefono : 1557938088
+ <br>Email : Danielrovella@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estoy en busqueda laboral activa.
+Le adjunto mi CV para postularme por empleo de tecnico electronico especializado. 
+ <br>Security_code : 9nnxy
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.164.56.49<br>
+ <br>Nombre : Martin Alejandro
+ <br>Apellido : Dalcol
+ <br>Cargo : Recursos Humanos
+ <br>Direccion : Dean Funes 2011, Parque Patricios
+ <br>Ciudad : Ciudad Autónoma de Buenos Aires
+ <br>Telefono : 1169760467
+ <br>Email : martindalcol@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Desarrollo distintas funciones en RRHH (jefe de RRHH, Supervisor de Personal, Analista Sr. Administración de Personal y Hard).
+teniendo amplios conocimientos en convenios ( UOCRA, UECARA, EMPLEADOS DE COMERCIO, CAMIONEROS, FUERA DE CONVENIO, SOEVA, UATRE, SEAMARA, CAPATACES, AAEMM, GUINCHEROS, CARGA Y DESCARGA, UOM).
+Mis objetivos tanto en lo personal como en lo profesional es ser parte de un equipo de trabajo, donde el crecimiento ademas de lo personal se destace en el crecimiento de la Empresa.
+ <br>Security_code : 6bh6t
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.11<br>
+ <br>Nombre : Lorena
+ <br>Apellido : De Micheli
+ <br>Cargo : Cajera . Repositora. Vendedora
+ <br>Direccion : 237viv. MZ b casa 82
+ <br>Ciudad : Corrientes capital 
+ <br>Telefono : 3794685309
+ <br>Email : lorenademicheli82@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Tengo muchas ganas de trabajar .
+ <br>Security_code : r6Wkk
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.11<br>
+ <br>Nombre : Lorena
+ <br>Apellido : De Micheli
+ <br>Cargo : Cajera . Repositora. Vendedora
+ <br>Direccion : 237viv. MZ b casa 82
+ <br>Ciudad : Corrientes capital 
+ <br>Telefono : 3794685309
+ <br>Email : lorenademicheli82@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Tengo muchas ganas de trabajar .
+ <br>Security_code : r6Wkk
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.228.128.204<br>
+ <br>Nombre : Adrián 
+ <br>Apellido : Gauna 
+ <br>Cargo : empleado
+ <br>Direccion : Pedro Pico 431
+ <br>Ciudad : Bahía Blanca 
+ <br>Telefono : 2914271196
+ <br>Email : adrigauna.ag@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : buenas tardes!! estoy en la búsqueda de trabajo en atención al cliente o gastronomía, poseo experiencia y responsabilidad.
+Saludos!
+
+ <br>Security_code : zgz4z
+ <br>Send : Enviar
+ <br>
+---------------
+

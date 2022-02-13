@@ -1,0 +1,43 @@
+Address : 190.137.191.49
+Nombre : matias
+Apellido : frias
+Cargo : empleado
+Direccion : dr riva 355
+Ciudad : rosario
+Telefono : 341 4643659
+Email : mat_y9@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Busco trabajo
+Security_code : xw7mg
+Send : Enviar
+
+---------------
+
+Address : 190.18.35.41
+Nombre : Tamara
+Apellido : Harpe
+Cargo : Diseñador gráfico
+Direccion : Libertador 745
+Ciudad : buenos aires
+Telefono : 1554611154
+Email : tamara_harpe@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola,
+Mi nombre es Tamara Harpe y desde hace siete años trabajo como diseñadora, primero en un estudio y luego por mi cuenta.
+
+Les adjunto mi CV y portfolio con algunas muestras de trabajos realizados para clientes reales y experiencia laboral.
+
+Ilustro a mano alzada y digitalmente. Realicé diseños para Acindar, Bárbara Diez, Moeller IP Advisors y Knauf entre otros.
+
+En Facebook tengo subida una mayor variedad de trabajos y proyectos personales.
+
+El link es: www.facebook.com/tamara.harpe.profesional
+
+Les mando un saludo, espero que estemos en contacto.
+Muchas gracias, 
+Tamara Harpe
+Security_code : nwnsw
+Send : Enviar
+
+---------------
+

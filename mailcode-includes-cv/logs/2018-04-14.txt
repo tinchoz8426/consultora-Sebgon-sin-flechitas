@@ -1,0 +1,64 @@
+Address : 66.249.85.28<br>
+ <br>Nombre : Alvaro gabriel
+ <br>Apellido : Sajama
+ <br>Cargo : Atencion al publico
+ <br>Direccion : Campo verde calle 61 llte 9 manzana32
+ <br>Ciudad : San salvador de jujuy
+ <br>Telefono : 3885395096
+ <br>Email : gabrielsajama9@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me considero muy responsable y dispuesto a desarrollar cualquier cargo que me den.
+ <br>Security_code : pr8m3
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.47.137.139<br>
+ <br>Nombre : Gaston
+ <br>Apellido : Guido
+ <br>Cargo : Cadete
+ <br>Direccion : Bartolome Hidalgo
+ <br>Ciudad : CABA
+ <br>Telefono : 1140800908
+ <br>Email : gaston_alva_96@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola,estoy interesado en participar en el equipo de trabajo,les dejo mi contacto.
+ Muchas gracias.
+ <br>Security_code : 2nt37
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 170.245.170.146<br>
+ <br>Nombre : Magali
+ <br>Apellido : Oldani
+ <br>Cargo : Administrativo
+ <br>Direccion : Libertad 120
+ <br>Ciudad : 9 de Julio.
+ <br>Telefono : 2317-535923
+ <br>Email : magalioldani@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buen dia, me dirijo a ustedes con el fin de encontrar un empleo acorde a mi profesión que permita desarrollarme de manera intensa sobre el área de administración.
+desde ya muchísimas gracias por su atención.
+
+Magali Oldani 
+ <br>Security_code : z9v5j
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.23.123.191<br>
+ <br>Nombre : Diego
+ <br>Apellido : Nasillo
+ <br>Cargo : Compras
+ <br>Direccion : Pedro Ignacio Rivera 4366
+ <br>Ciudad : CABA
+ <br>Telefono : 1122559962
+ <br>Email : diegonasillo@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : .
+ <br>Security_code : k2gcw
+ <br>Send : Enviar
+ <br>
+---------------
+

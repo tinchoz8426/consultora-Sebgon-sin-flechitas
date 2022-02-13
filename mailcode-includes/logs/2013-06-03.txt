@@ -1,0 +1,16 @@
+Address : 200.107.59.150
+Nombre : Lcdo. Jesse
+Apellido : Navarro
+Empresa : Ministerio de Educación
+Telefono : 0985971942
+Email : jesse.navarro@educacion.gob.ec
+Mensaje : Estimados:
+
+El Ministerio de educación del Ecuador, desea evaluar a sus 150.000 docentes con las pruebas VERITAS; si uds las poseen por favor contctarse conmigo y enviar un presupuesto técnico - económico
+
+Saludos
+Security_code : pcgwz
+Send : Enviar
+
+---------------
+

@@ -1,0 +1,15 @@
+Address : 190.179.170.34
+Nombre : Nelson
+Apellido : Amarfil
+Cargo : Ventas
+Direccion : Barrio Cooperativa de Bermejo m C c25
+Ciudad : Mendoza
+Telefono : 261-4510245
+Email : n_90@live.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola. Quisiera saber si hay una propuesta con respecto a mi curriculm vitae. Muchas Gracias.
+Security_code : gccwx
+Send : Enviar
+
+---------------
+

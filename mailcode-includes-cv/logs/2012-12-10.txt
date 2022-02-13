@@ -1,0 +1,45 @@
+Address : 190.192.122.187
+REF : jefe-de-operaciones
+Nombre : Agustin
+Apellido : Weyland
+Cargo : Paralegal
+Direccion : Sarmiento 2106 5 "A"
+Ciudad : Ciudad Autonoma de Buenos Aires
+Telefono : 1562481701
+Email : agustinweyland@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenos Aires, 10 de Diciembre de 2012
+ 
+Sres. Consultora Segbon
+ 
+De mi mayor consideración:
+ 
+Hace más aproximadamente 10 años me desempeño como asistente legal. Cuento con amplia experiencia en habiendo adquirido conocimientos en un juzgado nacional en lo Civil, y con posterioridad en estudios jurídicos particulares.
+ 
+Durante este tiempo, también adquirí vasta experiencia, no solo en la redacción de demandas y todos los escritos correspondientes al desarrollo de un litigio, sino también en procedimientos administrativos y en negociaciones extrajudiciales, audiencias, y asesoramiento al cliente.
+ 
+Me interesa fuertemente el derecho societario, y el derecho ambiental; los que considero de suma importancia, teniendo en cuenta el momento en que vivimos.
+ 
+Sé que mi motivación, curiosidad y creatividad pueden contribuir al crecimiento de la empresa. Espero la posibilidad de mantener una entrevista para ampliar aspectos de mi perfil.
+ 
+Saludo atentamente,
+Security_code : k2hty
+Send : Enviar
+
+---------------
+
+Address : 200.50.247.176
+Nombre : emanuel ruben
+Apellido : cardozo
+Cargo : tecnico electronico
+Direccion : guillermo relly 160
+Ciudad : marcos paz
+Telefono : 011-15-21568576
+Email : emanuelruben@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : con muchas ganas de trabajar
+Security_code : j679k
+Send : Enviar
+
+---------------
+

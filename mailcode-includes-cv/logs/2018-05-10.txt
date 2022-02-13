@@ -1,0 +1,36 @@
+Address : 190.178.190.197<br>
+ <br>REF : ROT-1
+ <br>Nombre : Javier
+ <br>Apellido : Flores
+ <br>Cargo : RESPONSABLE DE OFICINA TECNICA 
+ <br>Direccion : Florentino Ameghino 671
+ <br>Ciudad : Ramos Mejia
+ <br>Telefono : 01122422627
+ <br>Email : JAVIERFLO2000@GMAIL.COM
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : los saludo cordialmente 
+ <br>Security_code : gf7q6
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.229.160.23<br>
+ <br>Nombre : Leonel
+ <br>Apellido : Castañeira
+ <br>Cargo : Seguridad e Higiene
+ <br>Direccion : Hipólito Yrigoyen 2526
+ <br>Ciudad : CABA
+ <br>Telefono : 221-543-2218
+ <br>Email : leonelcsta@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas tardes.
+Soy técnico en Seguridad e Higiene, soy del interior de la provincia de Buenos Aires, actualmente viviendo en Capital Federal.
+Estoy en búsqueda de alguna oferta laboral. 
+Le adjunto mi curriculum y me pongo a disposición.
+Espero su respuesta, le agradezco de antemano
+Atte. Leonel Castañeira
+ <br>Security_code : dfkqd
+ <br>Send : Enviar
+ <br>
+---------------
+

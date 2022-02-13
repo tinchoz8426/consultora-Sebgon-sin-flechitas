@@ -1,0 +1,117 @@
+Address : 186.138.222.45
+Nombre : Gustavo Nicolás
+Apellido : Echegaray
+Cargo : Secretario Jurídico
+Direccion : República del Líbano 1473
+Ciudad : Gral. Roca - Río Negro
+Telefono : 2995756102
+Email : gusnicolas333@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Busco un puesto como secretario jurídico. Disponibilidad full-time
+Security_code : rqmn7
+Send : Enviar
+
+---------------
+
+Address : 190.225.3.104
+Nombre : emanuel
+Apellido : selvetti
+Cargo : emanuelselvetti
+Direccion : pavlov 1363
+Ciudad : rosario
+Telefono : 3413123637
+Email : emmanuelselvetti@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Curriculum Vitae
+
+
+    Datos personales  
+
+•	Nombre y apellido:  Emanuel Fabio selvetti
+•	DNI:  18856912
+•	CUIL: 23-18856912-3
+•	Fecha de nacimiento: 21/8/88
+•	Edad: 27
+•	Domicilio:  pavlov 1363
+•	Localidad:  Rosario
+•	Nacionalidad:  argentina
+•	Estado civil:  soltero
+•	Teléfonos: 3413123637
+
+    Estudios cursados
+
+•	Primarios: completos :escuela nº825 leopoldo herrera
+•	Secundarios: completos:escuela nº69 gabriel carrasco
+
+Experiencia laboral y referencias
+
+•	Pto.San Martin.tarea realizada instalaciones eletricas y montaje.{1/2 oficial
+•	Hotel casino.rosario.tarea realizada intalaciones eletricas.{cem.el.co}.{1/2 oficial
+•	Estación de sevicio Shell.playero
+•	Pinturería Integrada.cordoba y Pvcias unidas
+•	Oficial alvanil.soldador{1/2ofciial
+•	Todo tipo de mantenimiento
+•	Credencial de registro laboral 
+	
+    Objetivos laborales
+
+Formar parte de  su grupo de trabajo sirviendo y siendo útil con el objeto de concretar mi  proyecto  de crecimiento personal. Debido a esto me pongo a su disposición para formar parte de su empresa comprometiéndome a cumplir con reglas y normas de trabajo y seguridad que usted considere adecuadas para el correcto desempeño de las tareas a realizar.
+
+Security_code : fx6xd
+Send : Enviar
+
+---------------
+
+Address : 201.231.202.105
+Nombre : maria fernanda
+Apellido : estela
+Cargo : administracion
+Direccion : bulnes 741 7° D
+Ciudad : Capital Federal
+Telefono : 01161100023
+Email : fernandaestela1984@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Mi nombre es Fernanda, he desempeñando durante 9 años tareas en el área administrativa.
+Mis expectativas son encontrar una empresa la cual pueda crecer y seguir capacitándome en nuevas tareas. Estoy buscando un cambio, que seguro será muy positivo para mi persona.
+Security_code : pmbpv
+Send : Enviar
+
+---------------
+
+Address : 190.18.138.43
+Nombre : Juan Antonio
+Apellido : Obregón 
+Cargo : Supervisor Call Center
+Direccion : Ciudad De La Paz 1512
+Ciudad : Capital Federal
+Telefono : 011 1564637617
+Email : jaoapplepk@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Motivado por un buen trabajo en equipo, elevadas metas y beneficios, trabajando para sobre pasarlas. Siendo también responsable guiando a mis compañeros, de hacer que las cosas sucedan en el mercado a través de los retos de cada día.
+Teniendo en cuenta que mis intereses profesionales abocan en esta misma dirección, les agradecería que consideren la posibilidad de que mantengamos una entrevista con el fin de ampliar todos los aspectos de interés necesarios.
+
+Security_code : jfzm2
+Send : Enviar
+
+---------------
+
+Address : 190.17.203.201
+Nombre : Anabel
+Apellido : Ares
+Cargo : Administrativa
+Direccion : Bartolomé Mitre 4324
+Ciudad : CABA
+Telefono : 1568704058
+Email : anabel.ares1@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : A quien corresponda:
+                               Envío adjunto mi CV a fin de que sea evaluado para empleos con un perfil acorde.
+                                Muchas gracias.
+                                Saluda atte.
+                                                 Anabel Ares.
+
+Security_code : q6m9s
+Send : Enviar
+
+---------------
+

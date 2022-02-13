@@ -1,0 +1,30 @@
+Address : 168.226.196.168
+Nombre : Claudia 
+Apellido : De Pablo
+Cargo : Secretaria bilingue
+Direccion : Eistein 2867
+Ciudad : mar del plata
+Telefono : 0223-4841001
+Email : depabloclaudia@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Necesito trabajar en mar del plata.
+Security_code : 69tp3
+Send : Enviar
+
+---------------
+
+Address : 190.177.181.99
+Nombre : SERGIO
+Apellido : GARCIA
+Cargo : indistinto
+Direccion : COLON 741
+Ciudad : PTO SAN JULIAN
+Telefono : 2966-15312222
+Email : garciasergio.o@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Busco empleo
+Security_code : 76hjz
+Send : Enviar
+
+---------------
+

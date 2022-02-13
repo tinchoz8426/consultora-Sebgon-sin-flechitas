@@ -1,0 +1,79 @@
+Address : 
+Nombre : cristian
+Apellido : louzao
+Cargo : encargado de edificio
+Direccion : charcas 4368
+Ciudad : bs as
+Telefono : 47741377
+Email : cristian_luza@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : me encuentro en la búsqueda de empleo de encargado de edifico,ya que me desempeño en el puesto hace 6años,buen manejo de bombas,ascensores,calderas etc,desde ya muchas gracias
+Security_code : 4bwfk
+Send : Enviar
+
+---------------
+
+Address : 
+REF : TECNICO-QUIMICO
+Nombre : Nicolas
+Apellido : Galtieri
+Cargo : Tecnico Quimico
+Direccion : Tte agneta 1820
+Ciudad : Rosario
+Telefono : 0341-153236960
+Email : nicolas.galtieri@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : me interesa esta propuesta laboral , ya que , estoy desempleado y con muchas ganas de formarme en el área industrial
+Security_code : 7w7x4
+Send : Enviar
+
+---------------
+
+Address : 
+REF : Asistente-Contable
+Nombre : GABRIELA
+Apellido : DALMAZZO
+Cargo :  Asistente-Contable
+Direccion : MZNA 18-CASA 14-Bº SMATA II
+Ciudad : CORDOBA
+Telefono : 0354115663740
+Email : gabrieladalmazzo@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados: envío mi curriculum para el puesto mencionado.
+
+Saludos
+Security_code : 8qhxt
+Send : Enviar
+
+---------------
+
+Address : 
+Nombre : ANA LIA
+Apellido : ZELAIBE
+Cargo : VENDEDORA/ SECRETARIA/RECEP
+Direccion : PASAJE CAMPO DE LAS CARRERAS 1615
+Ciudad : SAN MIGUEL DE TUCUMAN
+Telefono : 381-156916616
+Email : annkekoa@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : busco trabajo ya sea de vendedora de salon o terreno, administrativa , secretaria o recepcionista ... atte
+Security_code : k57xk
+Send : Enviar
+
+---------------
+
+Address : 
+Nombre : federico gonzalo
+Apellido : gimenez
+Cargo : carpintero aluminio o madera
+Direccion : saravia 789 barrio gral busto
+Ciudad : cordoba
+Telefono : 3514736911
+Email : fede_romi_14@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : necesito mucho trabajar, estoy dispuesto a cumplir con todo el trabajo q se me asigne y a poner todo de mi parte para que salga todo impecable
+Security_code : s4hmv
+Send : Enviar
+
+---------------
+

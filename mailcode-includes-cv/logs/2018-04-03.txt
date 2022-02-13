@@ -1,0 +1,237 @@
+Address : 186.88.177.3<br>
+ <br>REF : TE-1
+ <br>Nombre : JEAN CARLOS
+ <br>Apellido : MAZA RUIZ
+ <br>Cargo : TÉCNICO ELÉCTRICO
+ <br>Direccion : BUENOS AIRES
+ <br>Ciudad : BUENOS AIRES
+ <br>Telefono : +584265829367
+ <br>Email : jeancarlos2100@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : BUENOS DIAS
+ <br>Security_code : 2393w
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 200.41.192.74<br>
+ <br>REF : EP-1
+ <br>Nombre : nicolas
+ <br>Apellido : dittloff
+ <br>Cargo : encargado de produccion
+ <br>Direccion : monroe 1607
+ <br>Ciudad : quilmes
+ <br>Telefono : 1153440956
+ <br>Email : nicodittloff@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : adjunto cv
+ <br>Security_code : gdbk4
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.191.63.98<br>
+ <br>REF : EP-1
+ <br>Nombre : Victor
+ <br>Apellido : Luna
+ <br>Cargo : Encargado de produccion.
+ <br>Direccion : Cnel Lynch
+ <br>Ciudad : Avellaneda.
+ <br>Telefono : 1535896195
+ <br>Email : kingsanti@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Experiencia formada en Unilever,BASF, Fedesur (Jugos Rindedos) Y Refineria sudamericana (grasas vacunas i aceites vegetales)  
+ <br>Security_code : wk8gc
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.191.63.98<br>
+ <br>REF : EP-1
+ <br>Nombre : Victor
+ <br>Apellido : Luna
+ <br>Cargo : Encargado de produccion.
+ <br>Direccion : Cnel Lynch
+ <br>Ciudad : Avellaneda.
+ <br>Telefono : 1535896195
+ <br>Email : kingsanti@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Experiencia formada en Unilever, BASF, Fedesur (jugos Rindedos) Refineria sudamericana de grasas.(grasas vacunas y aceites vegetales) 
+ <br>Security_code : k8gqb
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.172.235.210<br>
+ <br>Nombre : vicenta
+ <br>Apellido : basque
+ <br>Cargo : cuidadora o empleada domestica
+ <br>Direccion : 891 n 2225
+ <br>Ciudad : san fco solano
+ <br>Telefono : 1142129115
+ <br>Email : vicentabasque@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : busco trabajo por los fines de semana temporario 
+ <br>Security_code : w373p
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.172.235.210<br>
+ <br>Nombre : vicenta
+ <br>Apellido : basque
+ <br>Cargo : cuidadora o empleada domestica
+ <br>Direccion : 891 n 2225
+ <br>Ciudad : san fco solano
+ <br>Telefono : 1142129115
+ <br>Email : vicentabasque@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : busco trabajo por los fines de semana temporario 
+ <br>Security_code : w373p
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.192.62.227<br>
+ <br>REF : EP-1
+ <br>Nombre : Marcelo 
+ <br>Apellido : Stier
+ <br>Cargo : ENCARGADO PRODUCCION 
+ <br>Direccion : CHARCAS
+ <br>Ciudad : PILAR
+ <br>Telefono : 011 15 4998 4737
+ <br>Email : marcelo.f.stier@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Postulación referida a:
+Referencia : EP-1 
+ENCARGADO DE PRODUCCIÓN 
+ <br>Security_code : 5c7bg
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.244.118.194<br>
+ <br>Nombre : Sofia Anabella 
+ <br>Apellido : Desimone 
+ <br>Cargo : Laboratorio 
+ <br>Direccion : Malabia  655 
+ <br>Ciudad : Buenos Aires 
+ <br>Telefono : 1558539351
+ <br>Email : sofiaanabella26@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estudiante de Biotecnologia actualmente me encuentro cursando las ultimas materias. 
+ <br>Security_code : pxhmk
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 152.168.232.144<br>
+ <br>Nombre : Alejandro
+ <br>Apellido : Bigolin
+ <br>Cargo : Gerencia/Jefatura
+ <br>Direccion : San Juan 3567
+ <br>Ciudad : Villa Ballester
+ <br>Telefono : 1567267519
+ <br>Email : abigolin@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Economista y Master en Finanzas.  
+Profesional con sólida experiencia en Planificación, Administración, Finanzas, adquirida en 
+empresas industriales de primera línea, con clara visión de negocios, orientado a resultados con habilidad de negociación y liderazgo de equipos de trabajo desarrollada hace más de ocho años. 
+Experiencia en manejo de presupuestos de U$S 10M de Net Income. 
+Interesado en Data Analytics y Artificial Intelligence.
+
+ <br>Security_code : k5cfb
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.56.76.194<br>
+ <br>Nombre : lujan
+ <br>Apellido : Zatti
+ <br>Cargo : tecnico de higiene y seguridad
+ <br>Direccion : Mansilla 152
+ <br>Ciudad : pergamino
+ <br>Telefono : 02477695225
+ <br>Email : luji1105@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : busco mi primera experiencia laboral.  
+ <br>Security_code : h376p
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.216.19.19<br>
+ <br>Nombre : osvaldos
+ <br>Apellido : martinez
+ <br>Cargo : seguridad higiene 
+ <br>Direccion : chacabuco 44
+ <br>Ciudad : rivadavia-mendoza
+ <br>Telefono : 263-4212044
+ <br>Email : martinezosvaldosh@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Por este medio les dejo mi cv para que me tengan en cuenta en posibles puestos de trbajo. 
+ <br>Security_code : g89nw
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.7<br>
+ <br>Nombre : Vanesa
+ <br>Apellido : López
+ <br>Cargo : Operaria de producción
+ <br>Direccion : Magallanes 1959(libertad)
+ <br>Ciudad : Merlo
+ <br>Telefono : 1131328425
+ <br>Email : vanesaelilopez@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Necesito trabajar y me postulo para lo que esté disponible, me han dicho que uds incorporan personal para okebon, y si es así me gustaría postularme para operaria de producción ya que yo trabajé en tostadas Riera anteriormente. Desde ya muchas gracias
+ <br>Security_code : dr7wf
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.209.64.150<br>
+ <br>Nombre : Ana Melina
+ <br>Apellido : Biglieri
+ <br>Cargo : Trabajadora Social
+ <br>Direccion : Santiago del Estero
+ <br>Ciudad : Santiago del Estero
+ <br>Telefono : 3855995039
+ <br>Email : tukyclo@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola, soy Trabajadora Social residente en la provincia de Santiago del Estero. 
+ <br>Security_code : 9n6f5
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.209.64.150<br>
+ <br>Nombre : Ana Melina
+ <br>Apellido : Biglieri
+ <br>Cargo : Trabajadora Social
+ <br>Direccion : Santiago del Estero
+ <br>Ciudad : Santiago del Estero
+ <br>Telefono : 3855995039
+ <br>Email : tukyclo@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola, soy Trabajadora Social residente en la provincia de Santiago del Estero. 
+ <br>Security_code : 9n6f5
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.209.64.150<br>
+ <br>Nombre : Ana Melina
+ <br>Apellido : Biglieri
+ <br>Cargo : Trabajadora Social
+ <br>Direccion : Santiago del Estero
+ <br>Ciudad : Santiago del Estero
+ <br>Telefono : 3855995039
+ <br>Email : tukyclo@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola, soy Trabajadora Social residente en la provincia de Santiago del Estero. 
+ <br>Security_code : 8z2kc
+ <br>Send : Enviar
+ <br>
+---------------
+

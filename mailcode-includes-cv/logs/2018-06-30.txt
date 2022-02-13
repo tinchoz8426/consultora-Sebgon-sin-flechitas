@@ -1,0 +1,158 @@
+Address : 186.182.106.197<br>
+ <br>REF : TEC. EL
+ <br>Nombre : Matías
+ <br>Apellido : Ruggeri
+ <br>Cargo : Técnico electrónico especializado
+ <br>Direccion : Carlos Casares al 2200
+ <br>Ciudad : Morón
+ <br>Telefono : 1162898672
+ <br>Email : mdruggeri@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenos días, adjunto CV para postular. Gracias
+ <br>Security_code : t26w5
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.204.114.107<br>
+ <br>REF : ROT-1
+ <br>Nombre : Edgar Jose
+ <br>Apellido : Otero Pericana
+ <br>Cargo : proyectista CAD
+ <br>Direccion : calle general fris 1302 dock sud
+ <br>Ciudad : buenos aires
+ <br>Telefono : 5491154591188
+ <br>Email : oteroeh@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : solicitud de empleo
+ <br>Security_code : 9wj7s
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.204.114.107<br>
+ <br>REF : ROT-1
+ <br>Nombre : Edgar Jose
+ <br>Apellido : Otero Pericana
+ <br>Cargo : proyectista CAD
+ <br>Direccion : carlos caseres 1022
+ <br>Ciudad : buenos aires
+ <br>Telefono : 5491154591188
+ <br>Email : oteroeh@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : solicitud de empleo
+ <br>Security_code : mrr9c
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.204.114.107<br>
+ <br>REF : ROT-1
+ <br>Nombre : Edgar Jose
+ <br>Apellido : Otero Pericana
+ <br>Cargo : proyectista CAD
+ <br>Direccion : carlos caseres 1022
+ <br>Ciudad : carlos caseres 1022 castelar buenos aires province
+ <br>Telefono : 5491154591188
+ <br>Email : oteroeh@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : solicitud de empleo
+ <br>Security_code : 4xptf
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.204.114.107<br>
+ <br>REF : ROT-1
+ <br>Nombre : Edgar Jose
+ <br>Apellido : Otero Pericana
+ <br>Cargo : proyectista CAD
+ <br>Direccion : calle general frias 1302 dock sud
+ <br>Ciudad :  buenos aires 
+ <br>Telefono : 5491154591188
+ <br>Email : oteroeh@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : solicitud de empleo
+ <br>Security_code : 653xv
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.7<br>
+ <br>REF : TEC. EL
+ <br>Nombre : Martiniano
+ <br>Apellido : Punzi
+ <br>Cargo : Técnico electrónico especializado 
+ <br>Direccion : Comandante Peredo 1499
+ <br>Ciudad : Ituzaingó
+ <br>Telefono : 1156582366
+ <br>Email : marty77ar@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Responsable eficaz resolutivo buena respuesta bajo presión lider
+ <br>Security_code : zj2bk
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.141.133.148<br>
+ <br>REF : TEC. EL
+ <br>Nombre : Dario fabian
+ <br>Apellido : Almiron
+ <br>Cargo : Tecnico electronico
+ <br>Direccion : 87 y 121 
+ <br>Ciudad : La plata
+ <br>Telefono : 221 4369858
+ <br>Email :  dario_unlp@hotmail.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : -
+ <br>Security_code : R8hbj
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.141.133.148<br>
+ <br>REF : TEC. EL
+ <br>Nombre : Dario fabian
+ <br>Apellido : Almiron
+ <br>Cargo : Tecnico electronico especializado
+ <br>Direccion : 87 y 121 
+ <br>Ciudad : La plata
+ <br>Telefono : 221 4369858
+ <br>Email :  dario_unlp@hotmail.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : -
+ <br>Security_code : R8hbj
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.46.193.8<br>
+ <br>Nombre : Marisol
+ <br>Apellido : Duran
+ <br>Cargo : Psicologa Social
+ <br>Direccion : pueyrredon 3456
+ <br>Ciudad : Garin
+ <br>Telefono : 1165567015
+ <br>Email : decoduran30@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : les dejo mis datos para una futura búsqueda laboral desde ya muchas gracias
+ <br>Security_code : 47cyf
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.255.184.248<br>
+ <br>Nombre : German Alejandro
+ <br>Apellido : Monzon
+ <br>Cargo : Tecnico electromecanico
+ <br>Direccion : buenos aires 625
+ <br>Ciudad : Ezpeleta
+ <br>Telefono : 1159595882
+ <br>Email : german.monzon.box@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Busco trabajo para el área de mantenimiento, poseo conocimientos mecánicos 
+ <br>Security_code : bp9y3
+ <br>Send : Enviar
+ <br>
+---------------
+

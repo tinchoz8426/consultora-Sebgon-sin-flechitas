@@ -1,0 +1,195 @@
+Address : 179.38.246.192<br>
+ <br>REF : chr
+ <br>Nombre : CHRISTIAN ALBERTO
+ <br>Apellido : ELETA
+ <br>Cargo : CHOFER REPARTO
+ <br>Direccion : Vergara 3107 
+ <br>Ciudad : Berazategui
+ <br>Telefono : 1163361129
+ <br>Email : eletachris@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : registro cnrt cargas generales en vigencia
+ <br>Security_code : g2yv3
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.45.241.212<br>
+ <br>REF : chr
+ <br>Nombre : mario
+ <br>Apellido : tapia
+ <br>Cargo : coordinador/supervisor/ chofer de reparto
+ <br>Direccion : lira, 3030
+ <br>Ciudad : Rafael Castillo
+ <br>Telefono : 1553102620/1531808529
+ <br>Email : mario.1979.tapia@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : QUIERE PERTENECER A LA COMPANIA ,DISPUESTO A TRABAJAR DIA A DIA REPORTANDO A JEFES DE AREA
+ <br>Security_code : shpbv
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.11<br>
+ <br>REF : ACO-1
+ <br>Nombre : Zacarias
+ <br>Apellido : Gutierrez
+ <br>Cargo : Analista de comercio exterior
+ <br>Direccion : Liniers 1719
+ <br>Ciudad : Quilmes
+ <br>Telefono : 1149378071
+ <br>Email : zacariasgutierrez@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Actualmente en la busqueda de mi prinera experiencia en el area.
+ <br>Security_code : vdgjy
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.9<br>
+ <br>REF : ACO-1
+ <br>Nombre : Zacarias
+ <br>Apellido : Gutierrez
+ <br>Cargo : Analista de comercio exterior
+ <br>Direccion : Liniers 1719
+ <br>Ciudad : Quilmes
+ <br>Telefono : 1149378071
+ <br>Email : zacariasgutierrez@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Actualmente en la busqueda de mi prinera experiencia en el area.
+ <br>Security_code : vdgjy
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.45.241.212<br>
+ <br>Nombre : mario
+ <br>Apellido : tapia
+ <br>Cargo : supervisor de operaciones/cordinador
+ <br>Direccion : lira, 3030
+ <br>Ciudad : gregorio de laferrere
+ <br>Telefono : 1553102620/1531808529
+ <br>Email : mario.1979.tapia@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : crecer dia a dia con la compania
+ <br>Security_code : 6vczw
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.45.241.212<br>
+ <br>Nombre : mario
+ <br>Apellido : tapia
+ <br>Cargo : supervisor de operaciones/cordinador
+ <br>Direccion : lira, 3030
+ <br>Ciudad : gregorio de laferrere
+ <br>Telefono : 1553102620/1531808529
+ <br>Email : mario.1979.tapia@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : crecer dia a dia con la compania
+ <br>Security_code : 6vczw
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.45.241.212<br>
+ <br>Nombre : mario
+ <br>Apellido : tapia
+ <br>Cargo : supervisor de operaciones/cordinador
+ <br>Direccion : lira, 3030
+ <br>Ciudad : gregorio de laferrere
+ <br>Telefono : 1553102620/1531808529
+ <br>Email : mario.1979.tapia@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : crecer dia a dia con la compania
+ <br>Security_code : pcqb8
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.45.241.212<br>
+ <br>Nombre : mario
+ <br>Apellido : tapia
+ <br>Cargo : supervisor de operaciones/cordinador
+ <br>Direccion : lira, 3030
+ <br>Ciudad : gregorio de laferrere
+ <br>Telefono : 1553102620/1531808529
+ <br>Email : mario.1979.tapia@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : crecer dia a dia con la compania
+ <br>Security_code : ww5mv
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.45.241.212<br>
+ <br>Nombre : mario
+ <br>Apellido : tapia
+ <br>Cargo : supervisor de operaciones/cordinador
+ <br>Direccion : lira, 3030
+ <br>Ciudad : gregorio de laferrere
+ <br>Telefono : 1553102620/1531808529
+ <br>Email : mario.1979.tapia@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : crecer dia a dia con la compania
+ <br>Security_code : q47fn
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.45.241.212<br>
+ <br>Nombre : mario
+ <br>Apellido : tapia
+ <br>Cargo : supervisor de operaciones/cordinador
+ <br>Direccion : lira, 3030
+ <br>Ciudad : gregorio de laferrere
+ <br>Telefono : 1553102620/1531808529
+ <br>Email : mario.1979.tapia@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : crecer dia a dia con la compania
+ <br>Security_code : z3wmc
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.158.195.250<br>
+ <br>REF : Tectron
+ <br>Nombre : Carlos Ezequiel
+ <br>Apellido : Hamm
+ <br>Cargo : Técnico electrónico
+ <br>Direccion : Calle 150 Nro 1268
+ <br>Ciudad : Berazategui
+ <br>Telefono : 1136468472
+ <br>Email : carlosezequielhamm@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Envío mi CV para el puesto de técnico electrónico y para que lo tengan en cuenta para puestos similares.
+
+Saludos!
+ <br>Security_code : 8kdvp
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.202.222.4<br>
+ <br>REF : Tectron
+ <br>Nombre : Nestor
+ <br>Apellido : Ripoll
+ <br>Cargo : Técnico  Electrponico
+ <br>Direccion : Venezuela - Las Palmas
+ <br>Ciudad : Guarenas / Plaza
+ <br>Telefono : 04125644470
+ <br>Email : ripollnestor@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas noches Srs. SEBGON CONSULTORA; saludos cordiales
+ 
+He visto su oferta laboral vinculada con la vacante de Técnico Electrónico, publicada por su página Web, la misma me resultó de gran interés. Por este motivo, les hago llegar mi síntesis curricular a fin de ser tenido en cuenta como candidato. Quedo a su entera disposición para ampliar cualquier información necesaria.
+ Cordialmente,
+  Néstor Ivan Ripoll
+ Cel: +584125644470 / +584268023850 / +584169310270 / +582123952191
+ Objetivos Laborales: Formar parte de un equipo de trabajo con visión innovadora y orientada al crecimiento y desarrollo profesional, en donde el aporte de mis conocimientos contribuya a la obtención de los objetivos y metas de la empresa.
+
+ <br>Security_code : 7kxbr
+ <br>Send : Enviar
+ <br>
+---------------
+

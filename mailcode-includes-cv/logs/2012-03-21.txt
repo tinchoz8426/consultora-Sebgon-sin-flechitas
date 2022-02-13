@@ -1,0 +1,16 @@
+Address : 190.230.26.154
+REF : jefe-de-operaciones
+Nombre : Roberto Antonio
+Apellido : Figueroa
+Cargo : Jefe de Operaciones
+Direccion : corrientes 1052
+Ciudad : Cosquín
+Telefono : 03541-15672921
+Email : pico87_rnr@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : espero a la brevedad su llamado y cuento con mi mayor disponibilidad horaria para desempeñarme en el puesto que necesiten
+Security_code : mqkwv
+Send : Enviar
+
+---------------
+

@@ -1,0 +1,57 @@
+Address : 186.153.196.8
+Nombre : Diego
+Apellido : Putero
+Cargo : Comercial/Ventas/Marketing/Planeamiento
+Direccion : Américo Tonda 9312
+Ciudad : Rosario
+Telefono : 0341153452746
+Email : diegoputero@arnet.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola, de acuerdo a lo que se indica en vuestro sitio les adjunto mi CV.
+
+Soy Ing. Industrial con formación de posgrado en dirección de empresas, marketing, ventas, etc. y con amplia experiencia, desarrollada en empresas de primera línea, en gerenciamiento de áreas comerciales, de planeamiento comercial y gestión integral de negocios.
+
+Actualmente resido en la ciudad de Rosario pero tengo disponibilidad para cambiar mi lugar de residencia.
+
+Saludos cordiales.
+
+Diego Putero.
+
+Security_code : m2dfx
+Send : Enviar
+
+---------------
+
+Address : 64.116.230.130
+Nombre : José Lindor
+Apellido : Caceres
+Cargo : Gerencia de Recursos Humanos
+Direccion : L. S. Peña 1091
+Ciudad : Temperley - Lomas de Zamora
+Telefono : 113 174 0560
+Email : josecaceres66@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto cv para ser aplicado a posibles búsquedas de Gerencia de RR.HH.
+Muchas gracias.
+
+Security_code : g8sxd
+Send : Enviar
+
+---------------
+
+Address : 190.50.221.106
+REF : AFAC
+Nombre : Yazmin 
+Apellido : Beliz
+Cargo :  AFAC
+Direccion : yapeyu 993 lomas del mirados
+Ciudad : buenos aires
+Telefono : 1553190173
+Email : yazminbeliz@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto mi cv para postularme a la busqueda de referencia. saludos cordiales.
+Security_code : 6psjw
+Send : Enviar
+
+---------------
+

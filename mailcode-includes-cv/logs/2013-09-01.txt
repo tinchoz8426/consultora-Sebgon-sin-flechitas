@@ -1,0 +1,15 @@
+Address : 190.51.179.126
+Nombre : Araceli
+Apellido : Farias
+Cargo : Recepcionista/Telefonista/Atencion al cliente
+Direccion : calle 833 num 878 
+Ciudad : Quilmes
+Telefono : 1544115606
+Email : araceli_nfarias@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Les envío mi cv para que puedan tenerlo en cuenta ante el surgimiento de una propuesta laboral.Muchas gracias.
+Security_code : 6r5g4
+Send : Enviar
+
+---------------
+

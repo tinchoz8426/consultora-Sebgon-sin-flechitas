@@ -1,0 +1,81 @@
+Address : 190.16.164.252
+Nombre : Solange
+Apellido : Miranda
+Cargo : atencion al cliente
+Direccion : san blas 2429
+Ciudad : caba
+Telefono : 1159381387
+Email : solange1984@live.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Mis espectativas es ser parte de un grupo de trabajo en atencion al cliente
+Security_code : dzj3n
+Send : Enviar
+
+---------------
+
+Address : 190.16.164.252
+Nombre : Solange
+Apellido : Miranda
+Cargo : atencion al cliente
+Direccion : san blas 2429
+Ciudad : caba
+Telefono : 1159381387
+Email : solange1984@live.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Mis espectativas es ser parte de un grupo de trabajo en atencion al cliente
+Security_code : dzj3n
+Send : Enviar
+
+---------------
+
+Address : 190.16.164.252
+Nombre : Solange
+Apellido : Miranda
+Cargo : atencion al cliente
+Direccion : san blas 2429
+Ciudad : caba
+Telefono : 1159381387
+Email : solange1984@live.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Mis espectativas es ser parte de un grupo de trabajo en atencion al cliente
+Security_code : hj7my
+Send : Enviar
+
+---------------
+
+Address : 190.174.24.35
+Nombre : Jose Marcos
+Apellido : Rojas
+Cargo : Operario
+Direccion : Comandante Grandville 23
+Ciudad : San Justo
+Telefono : 1124616239
+Email : todoxamorati2013@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : ESTIMADOS SEÑORES.
+A través del presente quiero solicitar, formar parte de la empresa para poder desarrollar la experiencia obtenida en estos años.
+                                                                                                                                                                 Muy Atte. José Marcos Rojas.
+
+Security_code : 4vthy
+Send : Enviar
+
+---------------
+
+Address : 190.174.24.35
+Nombre : Jose Marcos
+Apellido : Rojas
+Cargo : Operario
+Direccion : Comandante Grandville 23
+Ciudad : San Justo
+Telefono : 1124616239
+Email : todoxamorati2013@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : ESTIMADOS SEÑORES.
+A través del presente quiero solicitar, formar parte de la empresa para poder desarrollar la experiencia obtenida en estos años.
+                                                                                                                                                                 Muy Atte. José Marcos Rojas.
+
+Security_code : ssz8x
+Send : Enviar
+
+---------------
+

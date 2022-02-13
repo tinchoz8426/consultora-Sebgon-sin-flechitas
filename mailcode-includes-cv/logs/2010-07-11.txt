@@ -1,0 +1,75 @@
+Address : 190.16.251.227
+Nombre : Yesica Mariela
+Apellido : Schmidt
+Cargo : secretaria, recepcionista
+Direccion : J.P. Tamborini 5351
+Ciudad : cap fed
+Telefono : 45454761
+Email : yesi_nefertari07@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : .
+Security_code : 7m8q6
+Send : Enviar
+
+---------------
+
+Address : 186.56.145.197
+Nombre : Luciano Fabian
+Apellido : Salinas
+Cargo : Operario
+Direccion : Campora 1819
+Ciudad : Merlo
+Telefono : 15-69862223
+Email : pasionroja_666@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : .
+Security_code : jzvxr
+Send : Enviar
+
+---------------
+
+Address : 186.125.65.247
+Nombre : Monica Liliana
+Apellido : Dadario
+Cargo : Administrativa sistemas de salud
+Direccion : bulnes 1844
+Ciudad : capital
+Telefono : 011-4821-2001 15-35980621
+Email : monicad08@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Les mando mi Cv ,para radicarme en Mardel Plata,esperando su respuesta  saluda Att. Monica L.Dadario
+Security_code : txmnx
+Send : Enviar
+
+---------------
+
+Address : 190.224.105.225
+Nombre : mayra ileana
+Apellido : landi
+Cargo : Administrativa
+Direccion : pje galvan 2691
+Ciudad : caseros
+Telefono : 4734-4085
+Email : mayralandi@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : soy masoteraupeuta, esteticista a esto me dedico en mistiempos libres.
+Security_code : c7yvm
+Send : Enviar
+
+---------------
+
+Address : 190.55.210.106
+Nombre : Debora
+Apellido : Barth
+Cargo : cadete administrativa
+Direccion : ibarrola 7057
+Ciudad : liniers
+Telefono : 1530405817
+Email : mellamodebora@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : No tengo experiencia laboral, y me gustaria entrar al mundo laboral.
+Security_code : 975pv
+Send : Enviar
+
+---------------
+

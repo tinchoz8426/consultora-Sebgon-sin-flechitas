@@ -1,0 +1,125 @@
+Address : 200.45.75.5
+Nombre : Diego
+Apellido : Arquero
+Cargo : PM & BA
+Direccion : Tierra del Fuego 474
+Ciudad : Monte Grande
+Telefono : +5491145362614
+Email : dharquero@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenas tardes, quedo a disposición para coordinar una entrevista donde me expongan sus necesidades y yo pueda presentarles mis intereses.
+
+Cordiales Saludos.
+
+Atte. Diego Arquero.
+Security_code : pjpjf
+Send : Enviar
+
+---------------
+
+Address : 200.45.75.5
+Nombre : Diego
+Apellido : Arquero
+Cargo : PM & BA
+Direccion : Tierra del Fuego 474
+Ciudad : Monte Grande
+Telefono : +5491145362614
+Email : dharquero@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenas tardes, quedo a disposición para coordinar una entrevista donde me expongan sus necesidades y yo pueda presentarles mis intereses.
+
+Cordiales Saludos.
+
+Atte. Diego Arquero.
+Security_code : pjpjf
+Send : Enviar
+
+---------------
+
+Address : 190.224.206.127
+Nombre : SANTIAGO EZEQUIEL
+Apellido : CACERES
+Cargo : ADMINISTRACION; VENTAS; EDUCACIÓN FÍSICA
+Direccion : WILSON 2592
+Ciudad : CORDOBA, CAPITAL
+Telefono : 351-6873432/0351-4790068
+Email : santiagocaceres9@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Acabo de llegar de México, y necesito insertarme laboralmente.
+Security_code : h9sd9
+Send : Enviar
+
+---------------
+
+Address : 181.168.72.14
+Nombre : Fernando Enrique
+Apellido : Orio
+Cargo : Gerente
+Direccion : Benito Lynch 2664 4to B
+Ciudad : Buenos Aires
+Telefono : 1162260370
+Email : fernandoenrique.orio@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto CV y mi postulacion para puesto de Gerente de planta
+Security_code : 6sj67
+Send : Enviar
+
+---------------
+
+Address : 181.23.72.230
+Nombre : facundo juan eduardo
+Apellido : Godoy
+Cargo : operario maquinista
+Direccion : las hortencias 100 merlo
+Ciudad : merlo
+Telefono : 11-3266-7813   (0220)498-6297
+Email : facu-30@hotmail.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : CURRICULUM VITAE
+
+NOMBRE:  Facundo Juan Eduardo Godoy
+FECHA DE NACIMIENTO: 30/08/1984 
+ EDAD: 30 años 
+DNI: 31.176.145 CUIL: 20-31176145-6
+DOMICILIO: Las Hortencias Nº100 y Las Anemonas    
+LOCALIDAD: Agustin Ferrari-Merlo  
+CODIGO POSTAL:   1723 
+ESTADO CIVIL: Soltero 
+ HIJOS: 2( dos)  Edades: 9 y 6 años  
+ NACIONALIDAD: Argentino 
+TELEFONO CELULAR: (011)15-3266-7813   (0220)498-6297
+ESTUDIOS CURSADOS:Primario Completo EGB Nº21 Gauchos de Guemes
+Secundario Incompleto 
+
+
+EXPERIENCIA LABORAL:
+CGR GAMFER S.A: (Fca DE Autopartes)
+DIRECCION: Colpayo Nº264 Lomas del Mirador
+TAREAS DESEMPEÑADAS: Operario calificado en Balancines macanicos y automaticos. maquinista ( manipulacion de maquinas pulpo para la fabricacion de resortes) Maquinist( manipulacion y puesta a punto de maquina zig-zag de resortes para asientos de autos y camionetas) prensista
+INGRESO: 19/09/2005  EGRESO: 09/02/2007 Mudanza de planta a virrey del pino
+
+PIRELLI NEUMATICOS S.A.I.c
+DIRECCION: Cervantes Nº1901 Merlo
+TAREAS DESEMPEÑADA:  Operador Armador de Auto radial.
+SECTOR: Armado operador 1º Fase y 2º Fase. Cambio de medidas y Camaretas de grupos Porta Talones. Movimientos de Materiales( Chofer)
+INGRESO: 09/04/2007      EGRESO: 05/02/2010  Reesructuracion de Personal  telefono. 4489-6600
+
+AJEC AUTOADHESIVOS S.A
+tarea desempeñada: Maquinista en el sector tela medicinal e industrial,en maquina aplicadora de dorso y adhesivo. fraccionadora rebobinadora de rollos tela para cortes a medida. Maquinista en sector polipropileno. aplicacion de adhesivos en bobinas de poli de 1330 mm y 1430mm. preparacion de colores, Maquinista en sector fraccionamiento de bobinas de poli con ayudante en maquinas TG de diferentes medidas. fraccionamiento de bobinas de papel 
+ingreso: 02/09/2010          egreso: 24/06/2013  falta de produccion sector tela por la empresa al no estar habilitada por ANMAT  direccion saenz 126- merlo 
+
+ZANELLA S.A MOTOS (agencia)
+sector motores y reparacion, ensamble en graldesde octubre de 2013 disponibilidad fulltime
+direccion: oliden 4136 y av san martin fco alverez partido: Gral rodriguez
+egreso: 06/03/2014 por cierre de linea de ensamble fco alvarez
+telefono : 4629-5256 interno 205 alejandro coria rrhh
+
+Riasa srl( laboratorio) contrato por la empresa
+sector: maquinista en sector adhesivado hotmel. maquinista en sector corte de bobinas. maquinista en sector dorso (charvotronic)
+Ingreso:04/08/2014   Egreso: 03/02/2015   Finalizacion de contrato 
+direccion: paso 1432 cuidadela  telefono: 4488-0011 int. 102 lorena luna rr.hh
+Security_code : szsx7
+Send : Enviar
+
+---------------
+

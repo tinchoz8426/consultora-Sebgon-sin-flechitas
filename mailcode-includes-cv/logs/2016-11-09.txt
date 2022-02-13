@@ -1,0 +1,15 @@
+Address : 190.194.254.117<br>
+ <br>Nombre : Paola Cecilia
+ <br>Apellido : Herrera
+ <br>Cargo : Jefe de Recursos Humanos
+ <br>Direccion : 22 Nº 2059
+ <br>Ciudad : La Plata
+ <br>Telefono : 0221 155465959
+ <br>Email : paoceciherrera@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Les envío mis CV con el fin de postularme al cargo. Puedo realizar tareas de selección de personal, capacitación y afines.
+ <br>Security_code : bgzbf
+ <br>Send : Enviar
+ <br>
+---------------
+

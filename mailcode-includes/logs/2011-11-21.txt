@@ -1,0 +1,12 @@
+Address : 190.195.132.188
+Nombre : Maria Paz
+Apellido : Cortez
+Empresa : Cooperativa Cristal
+Telefono : 0221-4234408
+Email : mariapaz@cooperativacristal.com.ar
+Mensaje : Buenas tardes, desde nuestra empresa estamos interesados en adquirir una capacitación en Ventas y Administración. Le dejo nuestro teléfono para que se pongan en contacto para mas info.Saludos
+Security_code : wp4jy
+Send : Enviar
+
+---------------
+

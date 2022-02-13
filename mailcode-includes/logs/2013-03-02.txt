@@ -1,0 +1,25 @@
+Address : 190.193.148.210
+Nombre : Sebastian
+Apellido : Vaccaro
+Empresa : Transportes
+Telefono : 1558473625
+Email : seenvac@hotmail.com
+Mensaje : Quiero asesorarme sobre los servicios y costos de vuestra empresa para la busqueda de un chofer para camioneta para reparto en CABA y GBA. Mi telefono es 155-847-3625, Gracias
+Security_code : snv6q
+Send : Enviar
+
+---------------
+
+Address : 206.132.109.78
+Nombre : Daniel
+Apellido : Negro
+Empresa : Daniel Negro
+Telefono : 2664-275007
+Email : danielnegro49@yahoo.com.ar
+Mensaje : Estimados: Soy Ingeniero en Seguridad Ambiental, recido en San Luis Capital. Ofrezco mis servicios para la zona de San Luis.
+saludos 
+Security_code : dbtw5
+Send : Enviar
+
+---------------
+

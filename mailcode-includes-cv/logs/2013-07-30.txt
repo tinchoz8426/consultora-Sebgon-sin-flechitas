@@ -1,0 +1,31 @@
+Address : 190.174.146.164
+REF : administrativa-compras
+Nombre : Maria Fernanda 
+Apellido : Ferreras
+Cargo : administrativa-compras
+Direccion : El Chacho 319
+Ciudad : Ituzaingo
+Telefono : 46219956
+Email : fernanda.ferreras@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Pretensiones salariales de $8500 netos.
+Security_code : m3t98
+Send : Enviar
+
+---------------
+
+Address : 181.47.205.171
+Nombre : YAMILA 
+Apellido : FAZIO
+Cargo : RECEPCIONISTA/SECRETARIA
+Direccion : ARGERICH 1918
+Ciudad : SAN JUSTO
+Telefono : 15-3165-2916
+Email : yamilafazio@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me encuentro en la búsqueda de un empleo seguro, confiable, rentable y que me permita desarrollarme, tanto a nivel personal como profesional. Me considero una persona puntual, responsable, íntegra y capaz de trabajar bajo presión; soy muy detallista y me interesan mucho los desafíos. Me interesa que haya un ambiente laboral agradable, donde nos ayudemos entre todos a cumplir nuestros objetivos. Disponibilidad horaria: part- time.
+Security_code : 456g6
+Send : Enviar
+
+---------------
+

@@ -1,0 +1,140 @@
+Address : 45.226.184.17<br>
+ <br>Nombre : Matias
+ <br>Apellido : Garcia
+ <br>Cargo : El que sea
+ <br>Direccion : republica del salvador 2975
+ <br>Ciudad : Rosario
+ <br>Telefono : 3416242010
+ <br>Email : patriciorey19@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estoy dispuesto a trabajar y en ver las ofertas que ustedes proponen.
+ <br>Security_code : k92qt
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.171.171.78<br>
+ <br>Nombre : lucas
+ <br>Apellido : leyes
+ <br>Cargo : Operador Maquinista vial
+ <br>Direccion : 9 esq/ 148
+ <br>Ciudad : la plata , berisso
+ <br>Telefono : 02214613514
+ <br>Email : lucasleyes398@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola buenos dias estoy buscando trabajo y se me hace imposible encontrar un trabajo espero que me ayuden muchas gracias
+ <br>Security_code : zqdwm
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.171.171.78<br>
+ <br>Nombre : lucas
+ <br>Apellido : leyes
+ <br>Cargo : Operador Maquinista vial
+ <br>Direccion : 9 esq/ 148
+ <br>Ciudad : la plata 
+ <br>Telefono : 02214613514
+ <br>Email : lucasleyes398@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola buenos dias estoy buscando trabajo y se me hace imposible encontrar un trabajo espero que me ayuden muchas gracias
+ <br>Security_code : zqdwmc8s3b
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.171.171.78<br>
+ <br>Nombre : lucas
+ <br>Apellido : leyes
+ <br>Cargo : Operador Maquinista vial
+ <br>Direccion : 9 esq/ 148
+ <br>Ciudad : la plata 
+ <br>Telefono : 02214613514
+ <br>Email : lucasleyes398@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola buenos dias estoy buscando trabajo y se me hace imposible encontrar un trabajo espero que me ayuden muchas gracias
+ <br>Security_code : hvfw4
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.165.18.19<br>
+ <br>REF : TEC. EL
+ <br>Nombre : Miguel Angel
+ <br>Apellido : Torres
+ <br>Cargo : Técnico Electrónico
+ <br>Direccion : Guanahani 3531
+ <br>Ciudad : Mar del Plata
+ <br>Telefono : 02233035264
+ <br>Email : matelectronico@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Mi objetivo es formar parte de su grupo laboral.-
+ <br>Security_code : z4nym
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.185.55.74<br>
+ <br>REF : SP-1
+ <br>Nombre : Cesar Jose
+ <br>Apellido : Pinto Sanchez
+ <br>Cargo : Supervisor de Producción
+ <br>Direccion : Venezuela 1657, Monserrat - CABA
+ <br>Ciudad : Caba - Argentina
+ <br>Telefono : 11 5141-3311 
+ <br>Email : cesarcabaarg@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Soy un profesional, pro activo y dispuesto asumir reto, disposición para adquirir y compartir conocimientos. disponibilidad inmediata.
+ <br>Security_code : pjs6j
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 24.232.80.137<br>
+ <br>Nombre : martin
+ <br>Apellido : soto
+ <br>Cargo : ayudante de cocina
+ <br>Direccion : libertad 167
+ <br>Ciudad : cba.
+ <br>Telefono : 0351-4234682
+ <br>Email : tinchode
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : espero tener buenas y positivas respuestas. dado que me gustaria mucho cumplir con los requerimientos y deseos de la empresa.
+
+
+
+ <br>Security_code : 8zbz7
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.209.79.174<br>
+ <br>Nombre : Hector
+ <br>Apellido : Ortiz
+ <br>Cargo : Reponedor o limpieza
+ <br>Direccion : Barrio mariano moreno
+ <br>Ciudad : San juan 
+ <br>Telefono : 2645773821
+ <br>Email : Rogeliou66@gmail
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Pra postularme como limpiez para  carrefour 
+ <br>Security_code : Cvhfh
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.141.200.51<br>
+ <br>Nombre : Miriam liliana
+ <br>Apellido : Zarate
+ <br>Cargo : Limpieza
+ <br>Direccion : Calle 127numero 4703
+ <br>Ciudad : Buenos aires
+ <br>Telefono : 1151474533
+ <br>Email : mirian.zarate02@hotmail.con
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : También tengo experiencia en clínica y banco
+ <br>Security_code : t6vfq
+ <br>Send : Enviar
+ <br>
+---------------
+

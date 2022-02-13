@@ -1,0 +1,19 @@
+Address : 138.186.217.175<br>
+ <br>REF : ROT-1
+ <br>Nombre : cristian miguel
+ <br>Apellido : martinez
+ <br>Cargo : dibujante proyectista
+ <br>Direccion : serrano 1225
+ <br>Ciudad : San Vicente 
+ <br>Telefono : 01138197574
+ <br>Email : cristian_mtz88@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimado
+hago presente mi cv , con la intención de cubrir el puesto solicitado. agradezco su tiempo y espero con ansias su respuesta.
+saludos cordiales
+cristian 
+ <br>Security_code : j62fs
+ <br>Send : Enviar
+ <br>
+---------------
+

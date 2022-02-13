@@ -1,0 +1,94 @@
+Address : 190.174.22.77
+Nombre : PATRICIA ALEJANDRA
+Apellido : PERROTTA
+Cargo : SECRETARIA, PERIODISTA
+Direccion : BOATTI 408 2A
+Ciudad : MORON
+Telefono : 4483-1441
+Email : perrottap@ciudad.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Soy Lic. en Periodismo y busco trabajo como secretaria, asistente o dentro del area de comunicacion de una empresa.
+Security_code : 4pb63
+Send : Enviar
+
+---------------
+
+Address : 186.136.111.204
+Nombre : Mercado
+Apellido : Laura
+Cargo : Recepcionista/Administrativa/Atencion al Cliente
+Direccion : Bacacay 953   4  c
+Ciudad : Capital Federal
+Telefono : 1560123467
+Email : laurasmercado@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Con la convicción de poseer el perfil requerido para un muy buen desempeño en el cargo a cubrir, quedo a entera disposición para una entrevista personal o por el medio que se me indique.
+
+Esperando una respuesta positiva lo saluda atentamente,
+Laura Soledad Mercado.
+Security_code : 8d4cv
+Send : Enviar
+
+---------------
+
+Address : 200.125.69.133
+Nombre : jazmín
+Apellido : rodriguez
+Cargo : administrativa /recepcionista
+Direccion : gral artigas 3169
+Ciudad : capital federal
+Telefono : 1561565183
+Email : jazmin.rodriguez73@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me gustaria poder formar parte del el equipo al cual sea adecuado a mi perfil, estoy buscando en capital federal y de administrativa o bien recepcionista,un saludo 
+Security_code : tvjkj
+Send : Enviar
+
+---------------
+
+Address : 201.255.30.119
+Nombre : Maiten
+Apellido : de la Calle
+Cargo : REC
+Direccion : Jose Bonifacio 847
+Ciudad : Capital Federal
+Telefono : 15 6907 3385
+Email : dlc-m@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Tengo el agrado de dirigirme a Ud. con el fin de transmitirle mi deseo de ocupar el puesto laboral vacante, de recepcionista. A tal efecto adjunto, a la presente, mis datos personales y profesionales en Currículum Vitae a fin de ser tenida en cuenta como candidata.
+
+Pongo en su conocimiento que poseo los requerimientos necesarios para ocupar este puesto.  
+
+Quedo a la espera de su respuesta.
+
+Me despido atte.
+Maiten de la Calle.    
+
+
+Security_code : 4ZSR3
+Send : Enviar
+
+---------------
+
+Address : 186.63.23.189
+Nombre : Florencia
+Apellido : Yaccarino
+Cargo : asistente
+Direccion : Comandante Franco 21
+Ciudad : Bernal
+Telefono : 156-453-9433
+Email : floryaccarino@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me llamo Florencia Yaccarino y soy Licenciada en Comunicación Social. Solicito que me consideren para las vecantes que surgan dentro del campo de la comunicación y el periodismo.
+ 
+Quedo a su disposición para ampliar cuanta información estimen necesaria. 
+ 
+Desde ya muchas gracias, 
+  
+-- 
+Florencia Yaccarino
+Security_code : hfjhs
+Send : Enviar
+
+---------------
+

@@ -1,0 +1,20 @@
+Address : 201.251.182.130
+Nombre : Gonzalo
+Apellido : Gesualdo
+Cargo : Administrativo
+Direccion : Convención 397
+Ciudad : Haedo
+Telefono : 15-5473-0507
+Email : gonzalo.gesualdo@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenas tardes, le envío mi currículum a fin de que sea agregado a su base de datos para futuras búsquedas laborales. 
+Preferentemente busco un trabajo (administrativo, repositor, recepcionista, secretario, cadete, etc)  de 8 a 17hs o 9 a 18hs.
+
+Muchísimas gracias,
+Gonzalo.
+
+Security_code : kdysk
+Send : Enviar
+
+---------------
+

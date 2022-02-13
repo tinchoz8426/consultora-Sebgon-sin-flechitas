@@ -1,0 +1,118 @@
+Address : 190.246.200.175
+Nombre : barbara
+Apellido : lobertini
+Cargo : atención al cliente 
+Direccion : colon 775
+Ciudad : córdoba 
+Telefono : 3512491583
+Email : reeynna_21@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola Buenos días acá les dejo mi cv espero su respuesta desde ya muchas gracias
+Security_code : 9373b
+Send : Enviar
+
+---------------
+
+Address : 190.188.40.91
+Nombre : Agustina Mariela
+Apellido : Dondero
+Cargo : Cobranzas, Backoffice, administrativo.
+Direccion : Urquiza 2295
+Ciudad : Quilmes
+Telefono : 011-1533791307
+Email : agustinadondero@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : A quien corresponda envío mi CV a fin de conseguir una entrevista laboral. 
+Security_code : ftwrv
+Send : Enviar
+
+---------------
+
+Address : 190.31.133.225
+Nombre : XIMENA
+Apellido : NOGUEROL
+Cargo : legales
+Direccion : Av. cabildo 1350. piso 11
+Ciudad : capital federal
+Telefono : 47853747
+Email : xime_noguerol@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me dirijo a Ud. en virtud de que estoy en búsqueda laboral relacionada con el área de legales. A tal efecto adjunto al presente mi CV con foto actualizada, a fin de que puedan realizar una primera evaluación.
+
+Agradeciendo desde ya su atención al presente, lo saludo atentamente.
+Security_code : 8qxp7
+Send : Enviar
+
+---------------
+
+Address : 190.48.146.194
+Nombre : Dafne Cynthia
+Apellido : Gomez
+Cargo : ANALISTA JR. DE RRHH
+Direccion : BERNERDEZ 3551
+Ciudad : MORON
+Telefono : 15-30897395
+Email : dafne_gomez@hotmail.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenos días,mi nombre es Dafne,soy de zona oeste,estudiante de último año de Relaciones laborales y estoy en busca de un empleo que me permita adquirir nuevas experiencias en el área.Tengo muy buenas relaciones interpersonales,capacidad analítica y responsabilidad.Dejo mi cv a la espera de una respuesta favorable.
+Security_code : 8qxp7
+Send : Enviar
+
+---------------
+
+Address : 190.193.112.105
+Nombre : Carlos Javier
+Apellido : Costa
+Cargo : Administrativo, encargado, auxiliar
+Direccion : Pedro Zenteno 2135
+Ciudad : Santa Fe
+Telefono : 0342-154393239
+Email : ccarlosjavier@live.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : A quién corresponda:
+
+Me pongo en contacto con ustedes para ofrecerle mi currículum con mis datos personales, profesionales y otros datos de interés por si necesita cubrir ahora o en un futuro próximo, alguna vacante o nuevo puesto.
+
+Me considero una persona dispuesta y atenta al trabajo, con gran dedicación y responsabilidad a las tareas asignadas. Pro-activo y dinámico liderando grupos. Buscando siempre la mejora de la empresa en sus procedimientos y rendimiento logrando así un incremento en el nivel del servicio al cliente. Espero que consideren mi propuesta.
+
+Estoy a su entera disposición, esperando noticias suyas.
+
+Un cordial saludo.
+
+Costa, Carlos Javier.
+Analista Industrial.
+Security_code : 7bygd
+Send : Enviar
+
+---------------
+
+Address : 181.15.177.85
+Nombre : Maria Laura
+Apellido : Genesio
+Cargo : Junior
+Direccion : Atahualpa Yupanqui 330, Barrio Valle Escondido, Km 16
+Ciudad : San Carlos de Bariloche
+Telefono : 294 481 6389
+Email : laurigenesio@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Recientemente me recibí como Ingeniera Industrial y busco adquirir diferentes experiencias laborales y de vida, que no necesariamente se relacionen con mi profesión. A partir de la experiencia busco crecer como persona y considero sumamente importante las relaciones dentro del ámbito de trabajo. 
+Security_code : jyz9g
+Send : Enviar
+
+---------------
+
+Address : 190.48.216.148
+Nombre : Eileen
+Apellido : Wilson
+Cargo : rrhh
+Direccion : Portugal110
+Ciudad : Ituzaingó
+Telefono : 1557588964
+Email : eiwilson_89@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Envío mi CV para ser considerada en búsquedas acordes a mi perfil.
+Security_code : 6h6jy
+Send : Enviar
+
+---------------
+

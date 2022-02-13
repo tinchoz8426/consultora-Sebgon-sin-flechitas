@@ -1,0 +1,68 @@
+Address : 191.84.119.79<br>
+ <br>Nombre : Marcelo Fabian
+ <br>Apellido : Sena
+ <br>Cargo : Encargado de Producción
+ <br>Direccion : Ipela 636
+ <br>Ciudad : Isidro Casanova
+ <br>Telefono : 46269832
+ <br>Email : sena.fabian1@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola, dejo a su disposición mi cv, muchas gracias! Saludos.
+ <br>Security_code : n6h53
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 200.47.52.92<br>
+ <br>REF : EP-1
+ <br>Nombre : Vicente Adrian 
+ <br>Apellido : Arteca
+ <br>Cargo : Encargado de producción
+ <br>Direccion : Estrada 2170 1º A
+ <br>Ciudad : San Martin
+ <br>Telefono : 1150982155
+ <br>Email : avarteca@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenos días, el motivo de la presente es para ser evaluado en la búsqueda de Encargado de Producción para planta Alimenticia. Tengo amplia experiencia en Supervisión en rubro Cosmético y Alimenticio. De ser mi perfil se su interés quedo a la espera de su contacto.
+ <br>Security_code : 2hhkc
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.235.60.185<br>
+ <br>Nombre : Maria Ines
+ <br>Apellido : Maldonado
+ <br>Cargo : Jefe RRHH - Jefe de Administración
+ <br>Direccion : Fta. Sarmiento 1497 
+ <br>Ciudad : CABA
+ <br>Telefono : 15-6824-0493
+ <br>Email : minesmaldon@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me dirijo a ustedes ya que me encuentro en un proceso de búsqueda activa de empleo.
+En ese sentido, le adjunto mi currículum vitae y donde podrán observar  mi vasta experiencia en el Área de Recursos Humanos. 
+Mi carrera laboral se ha desarrollado también en el Área contable e impositiva, en la actualidad estoy cumpliendo doce años como única responsable de RRHH, teniendo a mi cargo también el Departamento Administrativo, siendo responsable del Balance y de la liquidación de impuestos.
+Pondré a disposición, en la oportunidad de una entrevista, mis referencias laborales en las cuales podrán constatar mi entera dedicación al trabajo y total alineación con los objetivos de todas las empresas en la que he trabajado.
+Sin otro particular, saludo a Uds. muy atte.
+María Inés Maldonado
+
+ <br>Security_code : 69tpd
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.245.83.239<br>
+ <br>REF : JPER-1
+ <br>Nombre : Sergio
+ <br>Apellido : Kuhle
+ <br>Cargo : Jefe de Personal
+ <br>Direccion : Marquez 3180
+ <br>Ciudad : San isidro
+ <br>Telefono : 11315347008
+ <br>Email : sgkuhle@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Adjunto CV para aplicar a la búsqueda de referencia. Muchas gracias
+ <br>Security_code : 259m9
+ <br>Send : Enviar
+ <br>
+---------------
+

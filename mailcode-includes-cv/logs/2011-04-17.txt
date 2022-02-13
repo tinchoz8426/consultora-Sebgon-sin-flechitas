@@ -1,0 +1,39 @@
+Address : 190.30.80.30
+Nombre : MARIANELA
+Apellido : SANCHEZ
+Cargo : CAPACITADOR NOA
+Direccion : CORRIENTES
+Ciudad : TUCUMAN
+Telefono : 0381-154133787
+Email : marianelaxxx@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : SOY EXPERTA EN CAPACITACION IN COMPANY, dado mis años trabajando con grupos de trabajo, a la vanguardia de la motivacion laboral
+Security_code : 58ftt
+Send : Enviar
+
+---------------
+
+Address : 186.108.234.112
+Nombre : Carolina
+Apellido : Gonzalez
+Cargo : capacitador
+Direccion : alberdi 77
+Ciudad : tucuman
+Telefono : 0381 4617470
+Email : gcarolina@uolsinectis.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenos Dias
+
+Le escribo para acercarle mi Curriculum vitae el cual adujunto en un archivo. Alli puede encontrar mis referencias laborales y personales. Yo por mi parte tengo ganas de trabajar y Asumir desafios en cualquier puesto de trabajo que crea que vaya con mi perfil, yo pondre lo mejor de mi parte para dar lo mejor de mi conocimiento y formacion. Creo que mi formacion en marketing me da un amplio expectro laboral y podria desempeñarme en distintas tareas. 
+
+Espero que alguien con mi perfil les sea util en la busqueda del puesto de trabajo. Yo por mi parte tengo las ganas y el entusiasmo de afrontar nuevos retos y perspectivas laborales. 
+
+Esperando su respuesta para tener una entrevista en donde podamos conocernos mejor. Independendientemente si puede ayudarme o no,  le agradezco por su tiempo en tomarme en cuenta. Saludos.
+
+
+Lic. Carolina Gonzalez
+Security_code : 6dv9h
+Send : Enviar
+
+---------------
+

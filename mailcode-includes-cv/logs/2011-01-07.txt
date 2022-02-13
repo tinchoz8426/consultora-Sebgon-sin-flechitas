@@ -1,0 +1,32 @@
+Address : 190.18.236.173
+Nombre : María Celeste
+Apellido : Rosso
+Cargo : Profesional
+Direccion : 24 de Septiembre 1123
+Ciudad : Córdoba
+Telefono : 0351 152159609
+Email : rosso.celeste@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados,
+Les envio mi CV para que lo tengan en cuenta en alguna futura selección acorde al perfil. Desde ya Muchas Gracias.
+Atte, Celeste
+Security_code : zj68q
+Send : Enviar
+
+---------------
+
+Address : 186.111.97.160
+Nombre : Alberto Martín 
+Apellido : Calvi
+Cargo : administrativo, operario, entre otros
+Direccion : Riobamba 59
+Ciudad : General Rodrìguez (Bs As)
+Telefono : 0111565526701/0111531564643
+Email : martin.calvi@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Me encuentro en la búsqueda de un empleo relacionado con mi perfil. Sin embargo,estoy dispuesto a aceptar puestos de trabajos diversos. 
+Security_code : khf3b
+Send : Enviar
+
+---------------
+

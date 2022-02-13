@@ -1,0 +1,61 @@
+Address : 181.231.100.205<br>
+ <br>Nombre : Alejandro Fabian
+ <br>Apellido : Elias
+ <br>Cargo : Abogado
+ <br>Direccion : 24 E 47 y 48 Nro 794
+ <br>Ciudad : La Plata
+ <br>Telefono : 2215902897
+ <br>Email : alejandrofabianelias@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estoy en busqueda laboral, para desempeñarme como abogado junior. 
+ <br>Security_code : f8whs
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.176.45.211<br>
+ <br>REF : SuP
+ <br>Nombre : Ariel
+ <br>Apellido : Hryhorasz
+ <br>Cargo : Supervisor de Producción
+ <br>Direccion : Montgolfier 511 casa 141
+ <br>Ciudad : Isidro Casanova
+ <br>Telefono : 1155960391
+ <br>Email : arielfernandoriorach@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Remuneración pretendida: $30000 brutos
+ <br>Security_code : pyjq9
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.192.231.212<br>
+ <br>Nombre : Tamara
+ <br>Apellido : Luna
+ <br>Cargo : tecnico en seguridad e higiene
+ <br>Direccion : Salta 279
+ <br>Ciudad : Lanus
+ <br>Telefono : 2944600395
+ <br>Email : tamluna@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : tecnica matricula
+ <br>Security_code : s68m2
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.181.64.234<br>
+ <br>Nombre : tamara marisol
+ <br>Apellido : scattone
+ <br>Cargo : abogada
+ <br>Direccion : el zonda
+ <br>Ciudad : buenos aires
+ <br>Telefono : 1560384454
+ <br>Email : tamarascattone3@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : envio mi cv
+ <br>Security_code : r8wys
+ <br>Send : Enviar
+ <br>
+---------------
+

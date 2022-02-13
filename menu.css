@@ -1,0 +1,42 @@
+/* The menu styling */
+/* Remove the padding, margins and bullets from the lists */
+.menu, .menu ul {list-style-type:none; padding:0; margin:0;}
+.menu {margin:0px 20px 80px 0px;}
+/* for IE7 to position the tables correctly */
+.menu {position:relative; float:left;}
+
+/* for IE5.5 and IE6 to position the tables corectly */
+* html .menu {position:static;}
+
+/* Set up the size of the list items and float left to place inline */
+.menu li {background:#CBD8E2; width:166px; height:24px; margin:2px 0 0 0; border:1px solid #BFCFDB;}
+
+/* Give the sub level list item a diffent background color to make it 'stand out'. */
+.menu li.sub {
+	background-color: #BBCBD9;
+}
+/* Style and position the table so it takes no part in the menu function. The font size is necessary for IE5.5 */
+.menu table, .menu ul ul table {border-collapse:collapse; width:0; height:0; position:absolute; bottom: 0; top:auto; left:0; font-size:1em;}
+.menu ul table, .menu ul ul ul table {top:5px; bottom:auto;}
+
+/* Default link styling */
+.menu li a {display:block; color:#666666; font-family:arial, sans-serif; font-size:11px; line-height:24px; width:166px; text-decoration:none; text-indent:7px;}
+
+/* Style the list OR link hover. Depends on which browser is used */
+.menu a:hover {color:#FFFFFF; background:#c7663c; text-decoration: underline;}
+
+/* For all browsers except IE5.5 and IE6 to keep the hover state through the menu cascade. */
+.menu :hover > a {color:#FFFFFF; background:#c7663c; text-decoration: underline;}
+
+/* Give the link OR list a relative position. Depends on which browser is used */
+.menu li.sub:hover, .menu li.sub a:hover {position:relative;}
+
+/* keep the 'next' level invisible by placing it off screen. */
+.menu ul, 
+.menu :hover ul ul, 
+.menu :hover ul :hover ul ul {position:absolute;left:-9999px; width:166px;}
+
+/* Position the flyout sub levels to the right or left when hovering over the sub level list OR link. */
+.menu :hover ul {padding:3px 3px; left:-164px; bottom:0px; background:transparent url(transparent.gif); padding-top:8px;}
+.menu :hover ul :hover ul {padding:0px 3px; left:-164px; top:auto; top:-5px; bottom:auto;}
+.menu :hover ul :hover ul :hover ul {padding:0px 3px; left:100px; bottom:0px; top:auto;}

@@ -1,0 +1,15 @@
+Address : 190.224.205.33
+Nombre : MARIO ORLANDO
+Apellido : VALDEZ
+Cargo : CUALQUIERA 
+Direccion : PERU 3390
+Ciudad : SAN LORENZO
+Telefono : 03476459116
+Email : palaypala_25@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : estoy full time
+Security_code : ysfmf
+Send : Enviar
+
+---------------
+

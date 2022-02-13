@@ -1,0 +1,23 @@
+Address : 186.18.232.116
+Nombre : Natalia
+Apellido : Gomez
+Cargo : Analista
+Direccion : French 2769
+Ciudad : Capital Federal
+Telefono : 1531030707
+Email : tnatalia.gomez@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenos días, 
+
+En este primer contacto con ustedes, me complace adjuntar para su conocimiento mis antecedentes laborales. Al respecto, les agradezco que ustedes incorporen tales antecedentes en su base de datos, de tal forma de ser considerado como candidata potencial en aquellas búsquedas que se adecuen al perfil descripto. 
+Desde ya, me complacerá mantener con ustedes las entrevistas que consideren necesarias.
+
+Muchas gracias
+Saludos,
+Natalia Gomez
+Licenciada en Higiene y Seguridad
+Security_code : fyyt8
+Send : Enviar
+
+---------------
+

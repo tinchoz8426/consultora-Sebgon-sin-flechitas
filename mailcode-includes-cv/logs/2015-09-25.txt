@@ -1,0 +1,66 @@
+Address : 181.170.251.130
+Nombre : diego
+Apellido : pastor
+Cargo : tecnico; help desk
+Direccion : av cabildo 112
+Ciudad : bsas
+Telefono : 1153125806
+Email : pastor.diegoramon@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenas tardes consultora SEBGON, envio a continuacion mi cv, desde ya muchas gracias
+Security_code : rxm92
+Send : Enviar
+
+---------------
+
+Address : 186.138.146.77
+Nombre : Maria Belen 
+Apellido : Bertier
+Cargo : Contador Publico
+Direccion : Belgrano 21523
+Ciudad : Ituzaingo
+Telefono : 1568379819
+Email : belenbertier@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimado
+
+Envío CV para ser considerado en las búsquedas laborales acordes a mi perfil.
+
+Saludos cordiales,
+
+Belén Bertie
+Security_code : spdyw
+Send : Enviar
+
+---------------
+
+Address : 186.141.130.113
+Nombre : Yanina Florencia
+Apellido : Baiz Guzman
+Cargo : Recepcion/ administracion
+Direccion : guemes
+Ciudad : buenos aires
+Telefono : 1150408428
+Email : florencia1991_b@outlook.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Estoy interesada en areas comerciales y administrativas. Esoero se contacten conmigo oronto, slufos coordiales.
+Security_code : 6xfzh
+Send : Enviar
+
+---------------
+
+Address : 186.141.130.113
+Nombre : Yanina Florencia
+Apellido : Baiz Guzman
+Cargo : Recepcion/ administracion
+Direccion : guemes
+Ciudad : buenos aires
+Telefono : 1150408428
+Email : florencia1991_b@outlook.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Estoy interesada en areas comerciales y administrativas. Esoero se contacten conmigo pronto saludos coordiales.
+Security_code : 6xfzh
+Send : Enviar
+
+---------------
+

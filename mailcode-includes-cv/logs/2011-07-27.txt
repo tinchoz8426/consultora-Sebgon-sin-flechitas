@@ -1,0 +1,62 @@
+Address : 200.123.148.201
+Nombre : Gimena
+Apellido : Moyano
+Cargo : Operario
+Direccion : Barceló 1446,
+Ciudad : Avellaneda, Villa Dominico, Zona Sur, Gran Bs. As.
+Telefono : (011)1549703125
+Email : gimena_moyano@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Dispuesta a aprender conocimientos y/u oficios nuevos.
+Security_code : k55dk
+Send : Enviar
+
+---------------
+
+Address : 186.110.236.254
+Nombre : Jorge 
+Apellido : Sánchez
+Cargo : Tec Sup en Seg & Hig
+Direccion : Martin Fierro 1047
+Ciudad : Las Heras Mendoza
+Telefono : (0261) 1564 35 276
+Email : ja_sanchez_74@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados:
+ 
+Por el presente les hago llegar mi CV para poder conformar su base de datos y ante la necesidad de tener que contar con un Técnico Superior en Seguridad e Higiene, saber que cuentan con un personal altamente calificado y con la experiencia necesaria para poder hacer frente a cualquier reto.
+ 
+Una basta experiencia en empresas y proyectos de primer nivel avalan mis palabras.
+ 
+Sin otro particular los saluda atte.
+ 
+Jorge Sánchez
+Tec en Seg&Hig
+Mat: TTP 0628
+
+Security_code : cxbdf
+Send : Enviar
+
+---------------
+
+Address : 190.18.13.12
+Nombre : NATALIA VANESA
+Apellido : PIACENTINO
+Cargo : asistente-abogada jr.
+Direccion : CHARLONE 2082
+Ciudad : CAPITAL FEDERAL
+Telefono : 01145512571 1556679251
+Email : naty_piacentino@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : 
+A quien corresponda:
+ Le envío aquí mi CV para una posible entrevista laboral.
+ Mi pretensión remunerativa es de $2000-$2500 o a convenir.
+ Desde ya, muchas gracias.
+
+ Natalia Piacentino
+Security_code : bh447
+Send : Enviar
+
+---------------
+

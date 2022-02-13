@@ -1,0 +1,66 @@
+Address : 186.61.74.249
+Nombre : Gustavo
+Apellido : Duda
+Cargo : Diseñador gráfico
+Direccion : Pilcomayo 3315
+Ciudad : Buenos Aires - Lanús
+Telefono : 011 1530994781
+Email : gustawduda@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estoy en busca en un puesto como diseñador gráfico.
+Security_code : xxt3t
+Send : Enviar
+
+---------------
+
+Address : 190.194.9.155
+Nombre : Tamara Agostina
+Apellido : Silvestri
+Cargo : recursos humanos
+Direccion : Cabos del Lago 
+Ciudad : nordelta
+Telefono : 1551454286
+Email : tamis_tam@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : soy licenciada en RRHH envio mi cv 
+Security_code : 47nx2
+Send : Enviar
+
+---------------
+
+Address : 200.114.174.132
+Nombre : Feil
+Apellido : Gisel
+Cargo : Recepcionista
+Direccion : Villanueva 1055
+Ciudad : Capital Federal
+Telefono : 1562722696
+Email : gisele_feil@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Recepcionista
+Security_code : 69jpb
+Send : Enviar
+
+---------------
+
+Address : 186.19.207.113
+Nombre : Juan Martin
+Apellido : Araujo
+Cargo : Administrativo / Sistemas
+Direccion : Ejercito Argentino 651 dpto 17
+Ciudad : Adrogue, Buenos Aires
+Telefono : 11444497355
+Email : jmaraujo10@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hago envío de curriculum, estoy dispuestos a ingresar a otros puestos que mi perfil encaje en sus búsquedas.
+
+Muchas gracias por su atención. 
+
+Saludos.
+
+Juan Martín.
+Security_code : vs3gz
+Send : Enviar
+
+---------------
+

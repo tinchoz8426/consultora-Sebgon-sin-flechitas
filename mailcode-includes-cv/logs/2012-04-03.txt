@@ -1,0 +1,119 @@
+Address : 190.50.215.7
+Nombre : Facundo Nicolás 
+Apellido : Rodriguez
+Cargo : vendedor
+Direccion : garavano 74
+Ciudad : buenos aires
+Telefono : 44880936
+Email : nikorodriguezf@hotmail.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : son dinamico y aprendo rapido
+Security_code : 339nt
+Send : Enviar
+
+---------------
+
+Address : 190.16.238.94
+Nombre : Maria Andrea
+Apellido : Bragado
+Cargo : Supervisora de comedores industriales
+Direccion : Jufre 250 12 G
+Ciudad : CABA
+Telefono : 011- 4777-2226
+Email : andreabragado@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenos días: adjunto mi curriculum para que me tengan encuenta en la busqueda de tareas acorde a mi experiencia. Saludos. Andrea Bragado
+Security_code : vksfx
+Send : Enviar
+
+---------------
+
+Address : 186.23.242.32
+REF : administrativo-logistica
+Nombre : Alejandro
+Apellido : Lagos
+Cargo : Administrativo de Logistica
+Direccion : Rucci 764
+Ciudad : Ciudadela
+Telefono : 1565046424
+Email : lagos1982@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimada, estoy interesado en la propuesta laboral, me encuentro capacitado para poder ejercer con la misma teniendo por objetivo por cumplir con las necesidades de la empresa. En espera de un respueta favorable quedo a disposicion de Ustedes.
+Slds Cordiales.
+Security_code : tbkzq
+Send : Enviar
+
+---------------
+
+Address : 190.151.155.119
+Nombre : cristian alejandro
+Apellido : la paz
+Cargo : operario
+Direccion : 11 de noviembre 1820
+Ciudad : zarate
+Telefono : 03487-15-535481
+Email : cristianla@argentina.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me postulo para el empleo, desde ya muchas gracias
+Security_code : 7fn5f
+Send : Enviar
+
+---------------
+
+Address : 201.250.84.81
+Nombre : Juan Manuel
+Apellido : Rezaval
+Cargo : Asistente de Marketing
+Direccion : Morelos 525
+Ciudad : Capital Federal
+Telefono : 46311297
+Email : jmrezaval@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me gustaría tener la posibilidad de poder acceder al puesto de asistente de marketing.
+Mi disponibilidad horaria de 8 a 18hrs. 
+Security_code : yn5d8
+Send : Enviar
+
+---------------
+
+Address : 201.250.84.81
+Nombre : Juan Manuel
+Apellido : Rezaval
+Cargo : Asistente de Marketing
+Direccion : Morelos 525
+Ciudad : Capital Federal
+Telefono : 46311297
+Email : jmrezaval@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Mi disponibilidad horaria es de 8 a 18hs.
+Security_code : vbrkk
+Send : Enviar
+
+---------------
+
+Address : 190.191.13.79
+Nombre : Alejandro
+Apellido : Luciani
+Cargo : Contador Publico
+Direccion : Alte Brown Nº 1758
+Ciudad : Mar Del Plata
+Telefono : 0223-155900300
+Email : apantallale@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados:
+                envio en archivo adjunto mi Curriculum Vitae a fin de que sea evaluado y considerado en sus busquedas laborales.
+ 
+Tengo 27 años, soy Contador Publico, graduado en la Universidad Nacional de La Plata, en la actualidad me desempeño en el area impositiva en una importante empresa aseguradora, en la ciudad de La Plata, pero a partir del 15 de Abril 2012 me radicare en la ciudad de Mar Del Plata.
+ 
+ Espero ser considerado, garantizando gran compromiso, responsabilidad y entusiasmo para el aprendizaje, crecimiento y desarrolo constante.
+ 
+Desde ya muchas gracias.
+ 
+Saludo Atentamente
+Alejandro Luciani
+
+Security_code : 5n9db
+Send : Enviar
+
+---------------
+

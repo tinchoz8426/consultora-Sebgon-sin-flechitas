@@ -1,0 +1,15 @@
+Address : 186.129.11.114
+Nombre : carlos enrique
+Apellido : rivera
+Cargo : operario
+Direccion : guanella 1468
+Ciudad : buenos aires/ aldo bonzi
+Telefono : 44623792
+Email : carlos_enrique_rivera@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : estoy capacitado para cumplir cualquier tarea y trabajo
+Security_code : j7jz2
+Send : Enviar
+
+---------------
+

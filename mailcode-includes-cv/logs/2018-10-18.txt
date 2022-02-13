@@ -1,0 +1,182 @@
+Address : 186.12.6.202<br>
+ <br>Nombre : Bryan 
+ <br>Apellido : Vierci 
+ <br>Cargo : Administración 
+ <br>Direccion : Córdoba 558
+ <br>Ciudad : Rafaela
+ <br>Telefono : 3492270428
+ <br>Email : Bryanvierci5@gmail.com 
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Cualquier cargo 
+ <br>Security_code : Fbk5j
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.247.96.189<br>
+ <br>REF : ROT-1
+ <br>Nombre : Leonardo Angel
+ <br>Apellido : Gherbi
+ <br>Cargo : Ingeniero 
+ <br>Direccion : 33 n° 1112
+ <br>Ciudad : la plata
+ <br>Telefono : 2216412112
+ <br>Email : leogherbi@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Aqui le envio de manera adjunta mi CV. Soy ingeniero Mecanico graduado en la universidad de la plata. Tengo un perfil proactivo, comprometido y con muchas ganas de trabajar y aprender dia a dia.
+ <br>Security_code : 7cr36
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.247.96.189<br>
+ <br>Nombre : Leonardo Angel
+ <br>Apellido : Gherbi
+ <br>Cargo : Ingeniero 
+ <br>Direccion : 33 n° 1112
+ <br>Ciudad : la plata
+ <br>Telefono : 2216412112
+ <br>Email : leogherbi@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Soy Ingeniero mecánico graduado en la universidad nacional de la plata. Tengo un perfil proactivo, comprometido y con muchas ganas de trabajar y aprender dia a dia.
+ <br>Security_code : 8kwhm
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.247.96.189<br>
+ <br>Nombre : Leonardo Angel
+ <br>Apellido : Gherbi
+ <br>Cargo : Ingeniero 
+ <br>Direccion : 33 n° 1112
+ <br>Ciudad : la plata
+ <br>Telefono : 2216412112
+ <br>Email : leogherbi@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Soy Ingeniero mecánico graduado en la universidad nacional de la plata. Tengo un perfil proactivo, comprometido y con muchas ganas de trabajar y aprender dia a dia.
+ <br>Security_code : 8kwhm
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.247.96.189<br>
+ <br>Nombre : Leonardo Angel
+ <br>Apellido : Gherbi
+ <br>Cargo : Ingeniero 
+ <br>Direccion : 33 n° 1112
+ <br>Ciudad : la plata
+ <br>Telefono : 2216412112
+ <br>Email : leogherbi@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Soy Ingeniero mecánico graduado en la universidad nacional de la plata. Tengo un perfil proactivo, comprometido y con muchas ganas de trabajar y aprender dia a dia.
+ <br>Security_code : 8Kwhm
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.247.96.189<br>
+ <br>Nombre : Leonardo Angel
+ <br>Apellido : Gherbi
+ <br>Cargo : Ingeniero 
+ <br>Direccion : 33 n° 1112
+ <br>Ciudad : la plata
+ <br>Telefono : 2216412112
+ <br>Email : leogherbi@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Soy Ingeniero mecánico graduado en la universidad nacional de la plata. Tengo un perfil proactivo, comprometido y con muchas ganas de trabajar y aprender dia a dia.
+ <br>Security_code : 8Kwhm
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 24.232.223.237<br>
+ <br>Nombre : PABLO DAMIAN 
+ <br>Apellido : VITELLI
+ <br>Cargo : CONTADOR PUBLICO
+ <br>Direccion : NEMESIO TREJO 5240 DTO 2
+ <br>Ciudad : Monte Castro
+ <br>Telefono : 68026384
+ <br>Email : PDHV72@YAHOO.COM.AR
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : busco desarrollarme en una empresa en un puesto senior contable o de supervision o jefatura
+ <br>Security_code : 4dn3r
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.141.133.152<br>
+ <br>REF : TEC. EL
+ <br>Nombre : Jean Carlos
+ <br>Apellido : Villamizar
+ <br>Cargo : técnico electrónico
+ <br>Direccion : calle bacacay flores 2532
+ <br>Ciudad : buenos aires caba
+ <br>Telefono : 1122527888
+ <br>Email : jeancarlosvillamizarjcv@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola buenas tardes les escribe Jean carlos villamizar.para postularme al cargo fe electrónico industrial soy técnico superior instrumentista industrial con más de 10 años de experiencia en el area eléctrica electrónica industrial  anexo mi cv.
+ <br>Security_code : c797c
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.18.4.74<br>
+ <br>Nombre : ruben jose
+ <br>Apellido : padron mendez
+ <br>Cargo : administracion
+ <br>Direccion : lavalle 2346 balvanera
+ <br>Ciudad : caba
+ <br>Telefono : 1132306309
+ <br>Email : rubenpadronm@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : soy licenciado en administracion de empresas con especializacion en gerencia empresarial buscando empleo en una organizacion publica privada grande, mediana o pyme donde pueda poner a dispocision todos mis conocimientos y experiencia en el area administrativa contable de manera eficaz y eficiente
+ <br>Security_code : 8qgr9
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.9<br>
+ <br>Nombre : crispin
+ <br>Apellido : ortellado
+ <br>Cargo : encargado de planta
+ <br>Direccion : Ricardo Gutiérrez 2236
+ <br>Ciudad : Pilar
+ <br>Telefono : 01158682475
+ <br>Email : ortellado1415@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : me gustaría formar parte de ustedes
+ <br>Security_code : cKqd7
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.7<br>
+ <br>Nombre : crispin
+ <br>Apellido : ortellado
+ <br>Cargo : encargado de planta
+ <br>Direccion : Ricardo Gutiérrez 2236
+ <br>Ciudad : Pilar
+ <br>Telefono : 01158682475
+ <br>Email : ortellado1415@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : me gustaría formar parte de ustedes
+ <br>Security_code : 4Kx95
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.108.254.107<br>
+ <br>Nombre : José 
+ <br>Apellido : Michaux
+ <br>Cargo : Chifer
+ <br>Direccion : Leopoldo Lugones 2116
+ <br>Ciudad : Centenario
+ <br>Telefono : 2995850315
+ <br>Email : jose-r-michaux@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola buenas tardes me dirijo a usted con el afán de trabajar en su empresa ya que cuento con los carnet de cargas generales y cargas peligrosas vigentes, cuento con amplia experiencia en soldaduras y trabajos en planta en producción de gas y petróleo desde ya muchas gracias 
+ <br>Security_code : q652f
+ <br>Send : Enviar
+ <br>
+---------------
+

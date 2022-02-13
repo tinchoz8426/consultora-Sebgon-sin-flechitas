@@ -1,0 +1,33 @@
+Address : 186.128.79.195
+Nombre : GUILLERMO
+Apellido : FAVRE
+Cargo : SUPERVISOR
+Direccion : volponi 2592 
+Ciudad : MENDOZA
+Telefono : 02614934078
+Email : derbycorpo@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Necesito trabajo zona provincia de Mendoza.
+Security_code : 7km98
+Send : Enviar
+
+---------------
+
+Address : 186.56.222.34
+REF : TLP
+Nombre : Patricio Adriel
+Apellido : Murphy
+Cargo : TÉCNICO PARA LABORATORIO DE ELECTRÓNICA Y SISTEMAS DE PLANTA
+Direccion : paraguay 455
+Ciudad : Merlo
+Telefono : 0220 4827131
+Email : patricioadrielmurphy@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Mi nombre es Patricio Murphy, soy Técnico Superior en Automatización, Control y Robótica y Técnico Electromecánico. Trabajé como técnico de mantenimiento para RSG electromecánica, empresa tercerizada en el sector de expedición en Massalin Particules (mec III y el Shipping), pudiendo trabajar con los líderes del sector Carlos Bertolotti, Sergio Gómez y Eduardo Guevara, como así también conocer la metodología de trabajo de la empresa. También he trabajado como Técnico de Mantenimiento en la empresa Fargo de Villa Tesei.
+Espero cumplir con sus espectativas. 
+Gracias.
+Security_code : c8tfz
+Send : Enviar
+
+---------------
+

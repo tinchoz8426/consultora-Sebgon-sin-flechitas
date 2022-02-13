@@ -1,0 +1,98 @@
+Address : 190.246.11.9
+Nombre : Aldana Belen
+Apellido : De Simone
+Cargo : Recepcionista/Secretaria/Asistente
+Direccion : Tuyuti 2000
+Ciudad : Valentin Alsina Lanus O. GBA Sur
+Telefono : (011)1569576960
+Email : aldy_1702@live.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Tengo el agrado de dirigirme hacia ustedes con el fin de transmitirles mi deseo en firme de incorporarme a su organizacion.
+Me presento como una persona que asume su grado de resposabilidad, flexible, creativa, orientada al logro de los resultados, a la resolucion y evolucion de las tareas asignadas.
+Security_code : 3v8vj
+Send : Enviar
+
+---------------
+
+Address : 186.57.153.190
+Nombre : Maria Gisela
+Apellido : Romano
+Cargo : Varios
+Direccion : Gustavo A. Becquer 2461
+Ciudad : castelar
+Telefono : 1537804258
+Email : dragiselaromano@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola mi nombre es Gisela Romano, Soy abogada y tengo una discapacidad motriz. Quería a través de este medio dejar mi Curriculum Vitae, y de ser posible una oportunidad para demostrar plenamente mis capacidades.
+Desde ya muchísimas gracias por su tiempo y anhelo que me tengan en cuenta .
+Security_code : vpw3b
+Send : Enviar
+
+---------------
+
+Address : 186.18.246.29
+Nombre : Pablo
+Apellido : Buonsante
+Cargo : RRHH jr
+Direccion : Guemes 4759
+Ciudad : CABA
+Telefono : 47734535
+Email : buonsantepablo@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto mi CV, para posibles puestos de trabajo dentro del area de rrhh
+Security_code : nm65c
+Send : Enviar
+
+---------------
+
+Address : 190.244.2.77
+Nombre : Daniel
+Apellido : Piñeiro
+Cargo : Gerente de Marketing / Gerente Comercial
+Direccion : Superi 4747
+Ciudad : CABA
+Telefono : 4542 6930 / 15 6865 3034
+Email : piñeirodan@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto mis antecedentes para formar parte de su Base de Ejecutivos con potencial para cubrir posiciones en gerencias de Marketing y/o Area Comercial.
+Atte,
+Daniel Piñeiro
+Security_code : mjbkw
+Send : Enviar
+
+---------------
+
+Address : 190.139.251.58
+Nombre : damian
+Apellido : priotti
+Cargo : soldador
+Direccion : manuel a de castro
+Ciudad : pilar
+Telefono : 0351-155055458
+Email : javier_brisuela17@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : busco empleo en la ciudad de cordoba
+Security_code : 2snmy
+Send : Enviar
+
+---------------
+
+Address : 186.191.72.211
+Nombre : Erica
+Apellido : Aschemager
+Cargo : Supervisor de Limpieza
+Direccion : San Pedro
+Ciudad : Castelar Norte
+Telefono : 44890392
+Email : erica_aschemager@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimado/a:
+Me dirijo a UD. a fin de hacerle llegar mi CV para cualquier búsqueda futura de Supervisora de Limpieza en clinicas privadas de zona oeste.
+Desde ya, muchas gracias,
+Lo/a saluda muy cordialmente,
+Erica Aschemager.
+Security_code : 2b3f4
+Send : Enviar
+
+---------------
+

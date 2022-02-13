@@ -1,0 +1,33 @@
+Address : 181.170.177.50
+REF : JP
+Nombre : Juan Manuel
+Apellido : Revuelta
+Cargo : Jefe de Planta
+Direccion : Ibera 2012 2b
+Ciudad : Caba
+Telefono : 011561329091
+Email : juanmanuelrevuelta@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto mi cv.
+Ante cualquier consulta; a su disposición.
+Gracias.
+Security_code : pykb4
+Send : Enviar
+
+---------------
+
+Address : 181.118.251.217
+Nombre : christian adolfo
+Apellido : neuvirt
+Cargo : operario
+Direccion : Las Madreselvas 
+Ciudad : del viso
+Telefono : 0111569564545
+Email : christian_neuvirt@hotmail.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : estimados; A continuación les adjunto mi C.V para ser analizado por vuestra empresa.
+Security_code : mfd7p
+Send : Enviar
+
+---------------
+

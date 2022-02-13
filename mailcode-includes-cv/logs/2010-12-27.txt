@@ -1,0 +1,30 @@
+Address : 190.174.31.249
+Nombre : Gabriela
+Apellido : Albín
+Cargo : Auxiliar Contable, Administrativa. Cadete. 
+Direccion : Andalgalá 5361 
+Ciudad : Isidro Casanova
+Telefono : 46945484
+Email : gabriela_albin@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Con muchas ansías espero una pronta oferta laboral. Desde ya muchas gracias. Saluda Atte. Albín, Gabriela
+Security_code : b826n
+Send : Enviar
+
+---------------
+
+Address : 190.188.173.75
+Nombre : carolina
+Apellido : Rampogna
+Cargo : psicologia
+Direccion : Esmeralda 3206 2º D
+Ciudad : Florida, Buenos Aires
+Telefono : 02941-15320754
+Email : carolinarampogna@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estoy interesada en un empleo en el que pueda desempeñarme profesionalmente en la areas en las que estoy capacitada.
+Security_code : yvs2g
+Send : Enviar
+
+---------------
+

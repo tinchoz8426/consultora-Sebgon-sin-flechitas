@@ -1,0 +1,177 @@
+Address : 190.94.168.220<br>
+ <br>Nombre : MARCOS
+ <br>Apellido : ZEHENDER
+ <br>Cargo : ADMINISTRACION
+ <br>Direccion : CONSTITUCION 916
+ <br>Ciudad : ROSARIO
+ <br>Telefono : 3413667240
+ <br>Email : marcos.j.zehender@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Renumeracion pretendida de +8000. 
+
+RESPONSABILIDAD. 
+COMPROMETIDO.
+PRESENCIA.
+PUNTUALIDAD.
+RESPETO.
+SOLIDARIDAD.
+BUEN TRABAJO EN EQUIPO.
+ <br>Security_code : hwwkh
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.226.104.237<br>
+ <br>Nombre : Priscila micaela
+ <br>Apellido : Vaca
+ <br>Cargo : Repositora
+ <br>Direccion : Jose astigueta 231
+ <br>Ciudad : Cordoba
+ <br>Telefono : 3517643772
+ <br>Email : priscilavaca98@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Cv
+ <br>Security_code : vy6s9
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.226.104.237<br>
+ <br>Nombre : Priscila micaela
+ <br>Apellido : Vaca
+ <br>Cargo : Repositora
+ <br>Direccion : Jose astigueta 231
+ <br>Ciudad : Cordoba
+ <br>Telefono : 3517643772
+ <br>Email : priscilavaca98@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Cv
+ <br>Security_code : Cdyvf
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 200.80.203.210<br>
+ <br>Nombre : JOSE ORLANDO
+ <br>Apellido : TORRE
+ <br>Cargo : ADMINISTRATIVO 
+ <br>Direccion : B°UNIMEV TORRE T 2 PISO 8 DPTO B
+ <br>Ciudad : MENDOZA
+ <br>Telefono : 02614264465 /02615759944
+ <br>Email : josestorre@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buen dia dejo mi cv,a su disposición para que sea evaluado. Muchas gracias
+ <br>Security_code : RBXW2
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 200.80.203.210<br>
+ <br>Nombre : JOSE ORLANDO
+ <br>Apellido : TORRE
+ <br>Cargo : ADMINISTRATIVO 
+ <br>Direccion : B°UNIMEV TORRE T 2 PISO 8 DPTO B
+ <br>Ciudad : MENDOZA
+ <br>Telefono : 02614264465 /02615759944
+ <br>Email : josestorre@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buen dia dejo mi cv,a su disposición para que sea evaluado. Muchas gracias
+ <br>Security_code : RBXW2
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 200.80.203.210<br>
+ <br>Nombre : JOSE ORLANDO
+ <br>Apellido : TORRE
+ <br>Cargo : ADMINISTRATIVO 
+ <br>Direccion : B°UNIMEV TORRE T 2 PISO 8 DPTO B
+ <br>Ciudad : MENDOZA
+ <br>Telefono : 02614264465 /02615759944
+ <br>Email : josestorre@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buen dia dejo mi cv,a su disposición para que sea evaluado. Muchas gracias
+ <br>Security_code : RBXW2
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.185.255.110<br>
+ <br>Nombre : Franco
+ <br>Apellido : Campanella
+ <br>Cargo : tecnico en seguridad e higiene
+ <br>Direccion : Pasaje Celso Valla, 227
+ <br>Ciudad : Gral. Acha
+ <br>Telefono : 0295415335003
+ <br>Email : campa_frnco@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me gradué el año pasado de técnico superior en seguridad e higiene y me encuentro en la búsqueda de empleo, tengo facilidad para radicarme en la ciudad de Bahía Blanca y Puerto Madryn; pero estoy dispuesto a trasladarme a cualquier parte del país.
+ <br>Security_code : q8mj6
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 209.13.159.122<br>
+ <br>REF : JPER-1
+ <br>Nombre : Juan Ignacio
+ <br>Apellido : Laurino
+ <br>Cargo : Jefe de Personal
+ <br>Direccion : Mitre 117
+ <br>Ciudad : Moron
+ <br>Telefono : 1563026713
+ <br>Email : juan.laurino85@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estoy interesado en cubrir la posición
+ <br>Security_code : 346fg
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 24.232.90.42<br>
+ <br>REF : ACO
+ <br>Nombre : Silvana
+ <br>Apellido : Garcia
+ <br>Cargo : Asistente Comercial
+ <br>Direccion : San Martin 900
+ <br>Ciudad : CABA
+ <br>Telefono : 1556935520
+ <br>Email : silvanag1803@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Adjunto CV para ser evaluada.
+Gracias.
+ <br>Security_code : 9bppy
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.1.244.202<br>
+ <br>REF : SP-1
+ <br>Nombre : Leonardo
+ <br>Apellido : Díaz
+ <br>Cargo : Supervisor de Producción 
+ <br>Direccion : Billinghurst 1384
+ <br>Ciudad : CABA
+ <br>Telefono : 1127792462
+ <br>Email : leodleda@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas tardes, anexo mi CV con la seguridad de que a través de mis prevías experiencias laborales y mi formación academica, mi perfil es apto para la vacante y por supuesto para cumplir correctamente con todas las funciones que el mismo amerita. 
+ <br>Security_code : ccyy8
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.1.244.202<br>
+ <br>Nombre : Leonardo
+ <br>Apellido : Díaz
+ <br>Cargo : Supervisor 
+ <br>Direccion : Billinghurst 1384
+ <br>Ciudad : CABA
+ <br>Telefono : 1127792462
+ <br>Email : leodleda@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas tardes, anexo mi CV con la finalidad de que sea tomado en cuenta para futuras contrataciones. 
+ <br>Security_code : xf9qy
+ <br>Send : Enviar
+ <br>
+---------------
+

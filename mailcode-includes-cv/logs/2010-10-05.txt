@@ -1,0 +1,24 @@
+Address : 190.245.179.175
+Nombre : Daniel
+Apellido : Cantale
+Cargo : GERENTE DE OPERACIONES
+Direccion : Arregui 4567
+Ciudad : Buenos Aires
+Telefono : 45668785
+Email : dcantale@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados Senores,
+He leido el aviso publicado y noto que se encuentran en la busqueda de un gerente de operaciones con mi perfil.
+En los últimos años he desarrollado una vasta experiencia en posiciones de alta responsabilidad en empresas multinacionales especializadas en proyectos industriales de mediana y gran envergadura habiendo obtenido logros remarcables en mi gestión. Planificación adecuada, clara definición de objetivos, control presupuestario y de gestión, logística de materiales, coordinación de ingeniería, resolución de conflictos, negociación con clientes, proveedores, contratistas y sindicatos, fueron algunos de los trabajos realizados.
+
+Como habrá visto, poseo todas las características del perfil que Ud. describe
+En un mercado tan diverso como el actual, confieso no saber establecer una cifra en cuanto a remuneración. Presupongo que lo que ustedes tienen previsto será lo lógico de mercado. Dado que mi interés predominante es el “proyecto laboral”, preferiría escuchar vuestra propuesta, más adelante.
+
+Adjunto mi currículum vitae, y, antes de despedirme, quiero decirle que me encantaría poder tener la oportunidad de ser entrevistado en persona para aclarar estos puntos que aqui no pude hacer, en aras de la sintesis.
+Sin mas, le envia saludos cordiales,
+Daniel Cantale
+Security_code : jjxh5
+Send : Enviar
+
+---------------
+

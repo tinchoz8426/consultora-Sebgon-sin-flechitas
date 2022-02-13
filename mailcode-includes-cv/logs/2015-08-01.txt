@@ -1,0 +1,80 @@
+Address : 200.52.161.65
+Nombre : José Manuel
+Apellido : Rivas Saucedo
+Cargo : Operaciones, mantenimiento o construcción
+Direccion : Valle bonito 176
+Ciudad : Guaymas,Son.
+Telefono : 6221207064
+Email : jomarivass@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Mas de diez años en manufactura, construcción y mantenimiento
+Security_code : ddqpx
+Send : Enviar
+
+---------------
+
+Address : 181.21.138.95
+Nombre : Eduardo Gabriel
+Apellido : Vargas
+Cargo : Gerente de Planta
+Direccion : Panamá 539
+Ciudad : Río Grande
+Telefono : 02964-15-576657
+Email : egvargasm@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados, acabo de ver en Linkedin una postulación para Gerente de PLanta, quisiera acercar mi postulación por este medio.
+
+Gracias
+Security_code : mnv8b
+Send : Enviar
+
+---------------
+
+Address : 181.166.171.170
+Nombre : Angelica
+Apellido : Guzman
+Cargo : administrativa o recepcionista
+Direccion : Argañaraz 1265
+Ciudad : Avellaneda
+Telefono : 111530532737
+Email : angieguzman2009@live.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Me dirijo para adjuntar mi cv con la experiencia adquirida. 
+A la espera de una entrevista desde ya muchas gracias.
+Security_code : zpr6w
+Send : Enviar
+
+---------------
+
+Address : 181.166.171.170
+Nombre : Angelica
+Apellido : Guzman
+Cargo : administrativa o recepcionista
+Direccion : Argañaraz 1265
+Ciudad : Avellaneda
+Telefono : 111530532737
+Email : angieguzman2009@live.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Me dirijo para adjuntar mi cv con la experiencia adquirida. 
+A la espera de una entrevista desde ya muchas gracias.
+Security_code : zpr6w
+Send : Enviar
+
+---------------
+
+Address : 181.166.171.170
+Nombre : Angelica
+Apellido : Guzman
+Cargo : administrativa o recepcionista
+Direccion : Argañaraz 1265
+Ciudad : Avellaneda
+Telefono : 111530532737
+Email : angieguzman2009@live.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Me dirijo para adjuntar mi cv con la experiencia adquirida. 
+A la espera de una entrevista desde ya muchas gracias.
+Security_code : zpr6w
+Send : Enviar
+
+---------------
+

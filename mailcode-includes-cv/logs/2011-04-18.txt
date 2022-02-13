@@ -1,0 +1,17 @@
+Address : 190.229.98.149
+Nombre : Lorena Beatriz
+Apellido : Cunzolo
+Cargo : Capacitadora
+Direccion : Corrientes 665 depto 5
+Ciudad : Salta
+Telefono : 0387154132471
+Email : triz71@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buen día.
+Envío Currículum para consideración. 
+Saludo atte.
+Security_code : 92tkt
+Send : Enviar
+
+---------------
+

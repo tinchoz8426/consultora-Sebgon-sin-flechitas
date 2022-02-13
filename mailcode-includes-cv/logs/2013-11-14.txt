@@ -1,0 +1,172 @@
+Address : 
+Nombre : Jorge Adrian
+Apellido : Sequeira Dominguez
+Cargo : Encargado / Supervisor
+Direccion : Dolore de huici 2660
+Ciudad : Hurlingham
+Telefono : 011 44522170
+Email : jorge_sequeira85@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Desarrollarme profesionalmente.
+Security_code : pxtc9
+Send : Enviar
+
+---------------
+
+Address : 
+REF : Asistente-Contable
+Nombre : erica
+Apellido : rosenbaum
+Cargo : administrativo
+Direccion : pasaje 2
+Ciudad : funes
+Telefono : 0341-153008822
+Email : ger_2602@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola buenos días le envío mi currículum. 
+Espero pronta respuesta.
+SALUDA ATTE
+Magali.
+Security_code : b5qh3
+Send : Enviar
+
+---------------
+
+Address : 
+REF : Asistente-Comercial
+Nombre : erica
+Apellido : rosenbaum
+Cargo : asistente
+Direccion : buenos aires y belgrano
+Ciudad : funes
+Telefono : 0341-153008822
+Email : ger_2602@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola buenos dias, le envio adjunto el curriculum, espero pronta rspuesta.
+Saluda atte.
+rosenbaum
+Security_code : pxvq9
+Send : Enviar
+
+---------------
+
+Address : 
+REF : ADMINISTRATIVO-DE-LOGISTICA
+Nombre : Daniel Ernesto
+Apellido : Reyes
+Cargo : Administrativo logística
+Direccion : castelli 376
+Ciudad : CABA
+Telefono : 48663693
+Email : reyesdaniel1@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Remuneración pretendida $8000
+Security_code : q7vkn
+Send : Enviar
+
+---------------
+
+Address : 
+Nombre : Federico
+Apellido : Groesman
+Cargo : Cocinero
+Direccion : San Nicolás 835
+Ciudad : C.A.B.A
+Telefono : 2355461070
+Email : federico.groesman@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Aspiro a encontrar un trabajo que me permita desempeñarme en el área gastronómica.
+Security_code : knxn2
+Send : Enviar
+
+---------------
+
+Address : 
+Nombre : Marcela Alejandra
+Apellido : Lopez 
+Cargo : Atencion al cliente
+Direccion : Av 24 de septiembre 1435
+Ciudad : cordoba
+Telefono : 3512161331
+Email : marce_fra@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Aqui adjunto mi cv ,disponibilidad full time ,puestos :Adm,atencion al cliente,Marketing ,Recepcion.
+Security_code : vhpsd
+Send : Enviar
+
+---------------
+
+Address : 
+Nombre : Marcela Alejandra
+Apellido : Lopez 
+Cargo : Atencion al cliente
+Direccion : Av 24 de septiembre 1435
+Ciudad : cordoba
+Telefono : 3512161331
+Email : marce_fra@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Atencion al cliente.
+Security_code : 4sg2r
+Send : Enviar
+
+---------------
+
+Address : 
+Nombre : Victor
+Apellido : Sotelo
+Cargo : Administratico o cadete
+Direccion : Irala 1179 2do piso
+Ciudad : Capital Federal
+Telefono : 1168810363
+Email : victorsotelo07@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimado Sr/Sra
+
+Me pongo en contacto con usted para ofrecerle mi currículum con mis datos personales y profesionales por si necesita cubrir, ahora o en un futuro próximo el puesto ofrecido por usted.
+
+Tengo potencial, muchas ganas de trabajar y crecer en el ámbito del trabajo, soy confiable, responsable, dinámico, y sobre todo buena persona.. Ademas para poder pagar mis estudios de Despachante de Aduanas.
+
+Puede ponerse en contacto conmigo mediante mi móvil (1168810363). Espero recibir pronto noticias suyas sobre mi candidatura y sobre las posibilidades de obtener el trabajo, mediante una entrevista personal. Saludos
+
+Remuneracion Pretendida entre $3500 y $4500 o a convenir entre ambas partes.
+
+
+
+Referencias:
+
+Barrakas/Distribuidora Independiente
+
+Maximiliano Garcia (Jefe)
+
+Movil: 1535108270 
+Security_code : 4dkf3
+Send : Enviar
+
+---------------
+
+Address : 
+Nombre : marianela messina
+Apellido : messina
+Cargo : VARIOS
+Direccion : HELGUERA 1300
+Ciudad : CAPITAL FEDERAL
+Telefono : 1566278942
+Email : azulnella@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me desempeño en Wall Street Institute como responsable máxima de la gestión del centro.  Teniendo a cargo las 12 personas que componen el staff y los 500 alumnos que cursan diariamente.
+- Coordino el seguimiento de todas las tareas que realizan mis colaboradores. 
+Participo del proceso de seleccionar y capacitar el personal a cargo.
+- Soy responsable de motivar y guiar a los asesores comerciales para alcanzar los objetivos mensuales.
+-Gestiono las cobranzas.
+- Realizo las reuniones de staff como comunicación interna del equipo de trabajo.
+- Llevo a cargo tareas de marketing del centro, alianzas inter empresarial, etc.
+
+Gracias a cumplir con la performance comercial demandada por la empresa durante todo el año 2010, obtuve el premio otorgado a nivel nacional a mejor Gerente General de la red.
+
+Destaco además que en función de los resultados por mi desempeño y gestión como Gerente General en diferentes Unidades de Comercio, en el año 2013 me han ascendido a la Gerencia de la Sucursal más importante a nivel nacional.
+
+Security_code : NX6ZZ
+Send : Enviar
+
+---------------
+

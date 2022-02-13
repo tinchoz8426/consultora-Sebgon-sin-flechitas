@@ -1,0 +1,33 @@
+Address : 190.244.122.72
+Nombre : Sebastian
+Apellido : Mallo
+Cargo : Compras
+Direccion : Av garcia del rio 2704 dto 4
+Ciudad : autonoma de bs as
+Telefono : 1560577032
+Email : sebastianmallo@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : De mi mayor consideración:
+
+
+					Me dirijo a ustedes con el fin de poner en conocimiento mi disposición para desarrollarme en el campo laboral.
+Me encuentro interesado en insertarme en su organización, ya que considero importante continuar capacitándome y adquirir mayor experiencia.
+Adjunto una copia de mi curriculum vitae y espero con interés el ser llamado para una entrevista donde poder ampliar mi información y en la que se me evalúe personalmente.
+
+
+
+
+					Agradezco su atención y saludo atentamente.
+
+
+	
+
+							Sebastián Mallo
+                                                                                   
+
+
+Security_code : 7jm5s
+Send : Enviar
+
+---------------
+

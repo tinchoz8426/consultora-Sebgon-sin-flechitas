@@ -1,0 +1,60 @@
+Address : 201.252.202.152
+Nombre : Gaston Edgardo
+Apellido : Fink
+Cargo : administrativo- empleado de comercio
+Direccion : solis 2632
+Ciudad : Santa Fe, Argentina
+Telefono : 0342-154686311
+Email : gastonfink@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Tengo una amplia disponibilidad horaria, tengo carnet d conducir en tramite hasta 15/02/2013.
+Security_code : 78ktg
+Send : Enviar
+
+---------------
+
+Address : 201.252.202.152
+Nombre : Roxana Yanina
+Apellido : Gomez
+Cargo : Empleada de comercio
+Direccion : solis 2632
+Ciudad : Santa Fe, Argentina
+Telefono : 0342-154232033
+Email : yani_serbin_26@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : me interesan tambien empleos en supermercados.
+Security_code : 59bks
+Send : Enviar
+
+---------------
+
+Address : 190.17.86.63
+Nombre : Francisco Javier
+Apellido : Reboyras Samiz
+Cargo : Atención al público
+Direccion : Obispo trejo 1094 1ro "D"
+Ciudad : Córdoba
+Telefono : 03582-15408047
+Email : panchojf_3@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Busco trabajo en atención al público, ya que considero que tenco cualidades para el cargo, como son: respeto, buena educación, culto, y sé hablar correctamente.
+Security_code : 4hzys
+Send : Enviar
+
+---------------
+
+Address : 190.17.86.63
+Nombre : Francisco Javier
+Apellido : Reboyras Samiz
+Cargo : Atención al público
+Direccion : Obispo trejo 1094 1ro "D"
+Ciudad : Córdoba
+Telefono : 03582.15408047
+Email : panchojf_3@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Busco trabajo en atención al público, ya que considero que tengo buenas cualidades para el puesto, como son: respeto, honestidad, soy culto, sé hablar correctamente y soy elocuente.
+Security_code : xnv8h
+Send : Enviar
+
+---------------
+

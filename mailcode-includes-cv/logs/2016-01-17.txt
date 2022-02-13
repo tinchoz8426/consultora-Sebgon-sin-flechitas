@@ -1,0 +1,62 @@
+Address : 190.115.120.197
+REF : JPL
+Nombre : Héctor Ramón
+Apellido : Mansilla
+Cargo : Jefe de Planta
+Direccion : B° Cerro de la Cruz - Manzana 258 - Casa 7
+Ciudad : San Luis
+Telefono : 02664 938688
+Email : hector_mansilla@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : A quien corresponda:
+Estoy radicado en San Luis, pero no tengo ningún inconveniente en radicarme en cualquier lugar del país.
+Soy oriundo de Bs As y estudié en la UTN de General Pacheco.
+Soy Ingeniero Mecánico y tengo un posgrado en Ingeniería Laboral (Higiene y Seguridad Industrial).
+Mi experiencia laboral me desarrolló en todas las áreas de manufactura.
+
+Saludos cordiales,
+
+Ing. Héctor R. Mansilla
+DNI 13.363.846
+Cel. 0266 4938688
+Skype: hector.mansilla15
+
+Security_code : xxjx9
+Send : Enviar
+
+---------------
+
+Address : 181.117.0.14
+Nombre : jonatan cesar 
+Apellido : maciel
+Cargo : operario
+Direccion : porchia 2886
+Ciudad : buenos aires, lanus
+Telefono : 1564170816
+Email : jcmaciel736@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola q tal, dejo mi cv adjunto para q me temgan en cuenta laboralmente . gracias y exitos
+Security_code : jn6yc
+Send : Enviar
+
+---------------
+
+Address : 191.81.25.195
+REF : RTC
+Nombre : JORGE
+Apellido : ORCHOW
+Cargo : VENTAS EMPRESA CONSTRUCTORA
+Direccion : BAHIA ESPERANZA 52. 
+Ciudad : MONTE GRANDE
+Telefono : 01138584616
+Email : jorgeorchow@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados:
+           Adjunto mi CV para su conocimiento y consideración.
+
+Muchas gracias. Atte. Jorge Orchow.
+Security_code : f3wxm
+Send : Enviar
+
+---------------
+

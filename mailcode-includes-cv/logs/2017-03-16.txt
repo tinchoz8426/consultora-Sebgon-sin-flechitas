@@ -1,0 +1,95 @@
+Address : 191.103.30.134<br>
+ <br>Nombre : manuel
+ <br>Apellido : Tsakoumagkos Aredez
+ <br>Cargo : directivo
+ <br>Direccion : mapuches 1684
+ <br>Ciudad : La Rioja
+ <br>Telefono : 3804397622
+ <br>Email : manu.jt93@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Tengo 23 años, estoy estudiando arquitectura en la universidad Nacional de La Rioja. llevo el 85% de materias cursadas y rendidas, este año estoy comenzando a tesis para recibirme. Mi expectativa es realizarla en otros país (Colombia o Republica dominicana) por los convenios que presenta la universidad, y finalizarla a comienzos del 2018
+ <br>Security_code : 7qhyy
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 191.103.30.134<br>
+ <br>Nombre : manuel
+ <br>Apellido : Tsakoumagkos Aredez
+ <br>Cargo : arquitecto
+ <br>Direccion : mapuches 1684
+ <br>Ciudad : La Rioja
+ <br>Telefono : 3804397622
+ <br>Email : manu.jt93@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Tengo 23 años, estoy estudiando arquitectura en la universidad Nacional de La Rioja. llevo el 85% de materias cursadas y rendidas, este año estoy comenzando a tesis para recibirme. Mi expectativa es realizarla en otros país (Colombia o Republica dominicana) por los convenios que presenta la universidad, y finalizarla a comienzos del 2018
+ <br>Security_code : 8jwhq
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.28<br>
+ <br>Nombre : Lorena soledad
+ <br>Apellido : Marcial
+ <br>Cargo : Limpieza
+ <br>Direccion : Ripamonti, 3334
+ <br>Ciudad : Castelar
+ <br>Telefono : 1566151169
+ <br>Email : lsm_alex@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Busco trabajo para limpieza
+ <br>Security_code : gz78f
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 179.36.142.90<br>
+ <br>REF : SP-1
+ <br>Nombre : Juan Carlos 
+ <br>Apellido : Quintana
+ <br>Cargo : supervisor de Produccion 
+ <br>Direccion : Musladini 1280
+ <br>Ciudad : Pilar
+ <br>Telefono : 0230432900
+ <br>Email : jucarlos1280@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados , adjunto el CV , 
+muchas gracias 
+ <br>Security_code : kyxvq
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.167.14.127<br>
+ <br>Nombre : Juanita Sol
+ <br>Apellido : Gimenez
+ <br>Cargo : Administrativa
+ <br>Direccion : Nuñez
+ <br>Ciudad : caba
+ <br>Telefono : 01164832606
+ <br>Email : juanita.sol1974@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas tardes: Me pongo en contacto con Ud. con el fin de tener una oportunidad laboral en el área de Administración, adjunto CV, a la espera de una pronta respuesta.
+Atte.
+Juanita Sol Gimenez
+Técnico en Administración de Empresas
+ <br>Security_code : 3xx5r
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.177.198.43<br>
+ <br>Nombre : EDUARDO
+ <br>Apellido : OVEJERO
+ <br>Cargo : CHOFER CAMION
+ <br>Direccion : BATALLA DE MAIPU 2970
+ <br>Ciudad : BUENOS AIRES
+ <br>Telefono : 11265623339
+ <br>Email : eduove.990@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenos dias me postulo para chofer corta,media y larga distancia.
+ <br>Security_code : pmd4p
+ <br>Send : Enviar
+ <br>
+---------------
+

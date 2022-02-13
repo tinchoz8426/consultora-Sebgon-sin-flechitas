@@ -1,0 +1,82 @@
+Address : 181.45.147.43<br>
+ <br>Nombre : Natalia Belen
+ <br>Apellido : Zambrana
+ <br>Cargo : Cajera- Empleada- Moza- Bachera- Ayudante
+ <br>Direccion : Lanceros 97
+ <br>Ciudad : Haedo
+ <br>Telefono : 20583786
+ <br>Email : natalia.zambrana@yahoo.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola. 
+Mi nombre es Natalia Belen Zambrana, tengo 18 años, soy de Haedo. Me encuentro en la búsqueda de un empleo para poder adquirir experiencia, ya que no poseo por el momento, pero tengo muchas ganas de trabajar, sin ninguna pretensión. Me relaciono con las personas fácilmente, soy simpática, buena presencia, cordial y dinámica. Aspiro a cualquier puesto. 
+ 
+ <br>Security_code : qkf5y
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.19.141.47<br>
+ <br>Nombre : JUAN RAMON
+ <br>Apellido : OSCARE
+ <br>Cargo : SEGURIDAD 
+ <br>Direccion : CIUDAD DE EZPERANSA 1891
+ <br>Ciudad : RAFAELA
+ <br>Telefono : 3492612173
+ <br>Email : juanchooscare@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : busco trabajo de seguridad . con experiencia y sin problemas de horarios rotativos . 
+ <br>Security_code : m4v9g
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.216.67.50<br>
+ <br>Nombre : Osvaldo 
+ <br>Apellido : Martinez
+ <br>Cargo : SEGURIDAD HIGIENE 
+ <br>Direccion : Chacabuco 44
+ <br>Ciudad : Rivadavia Mendoza
+ <br>Telefono : 263-4212044
+ <br>Email : martinezosvaldosh@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Osvaldo Martinez tec. seguridad higiene y estudiante de licenciatura(cursado terminado y aprobado, tesis en desarrollo) 
+ <br>Security_code : KJF4Q
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.167.76.160<br>
+ <br>Nombre : Luciana Soledad
+ <br>Apellido : Martinez
+ <br>Cargo : Vendedora, promotora, camarera
+ <br>Direccion : Olazabal 3115 5A
+ <br>Ciudad : Ciudad Autonoma de Buenos Aires
+ <br>Telefono : (011)15-6056-1100
+ <br>Email : lulimartinez94@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenos dias, 
+Estoy buscando trabajo por temporada en Mar del Plata. 
+Si bien soy de Capital, voy a estar en Mar del Plata Enero y Febrero.
+Tengo disponibilidad Part-time o Full-time.
+Desde ya muchas gracias.
+Luciana
+ <br>Security_code : npkyr
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 47.60.33.13<br>
+ <br>Nombre : Josué
+ <br>Apellido : Flores López
+ <br>Cargo : Auditor
+ <br>Direccion : C/ Villalobos 42 7C
+ <br>Ciudad : Madrid
+ <br>Telefono : 647558865
+ <br>Email : jflopez23@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Desde el año 2007 presto servicio en Prosegur en diferentes empresas a nivel nacional. Además de lo descrito en el archivo adjunto, actualmente estoy realizando el curso de Ciberdelincuencia y seguridad informática
+ <br>Security_code : nb6gm
+ <br>Send : Enviar
+ <br>
+---------------
+

@@ -1,0 +1,32 @@
+Address : 190.227.128.23
+Nombre : sergio martin
+Apellido : villalba
+Cargo : operario maquinista hornero empaque
+Direccion : luis piedra buena 5491
+Ciudad : moreno
+Telefono : 1168792013
+Email : natystraffella@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola buenos días me dirijo a ustedes por q quiero formar parte de su empresa ya que mi desempeño es el genero alimenticio por mi experiencia laboral desde ya muchas gracias..
+Security_code : 44bj4
+Send : Enviar
+
+---------------
+
+Address : 186.125.94.171
+REF : trilingue
+Nombre : Xian
+Apellido : Zhu
+Cargo : Recepcionista trilingue
+Direccion : Zabala 2164
+Ciudad : CABA
+Telefono : 1160205116
+Email : caiyin2@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimado Sr.
+Soy universitaria y trilingue, He trabajado de modelo durante tres anos en China y he tenido mucha experiencia brindando servicio a delegaciones y atendiendo ceremonias en China. Soy servicial, amable responsable, ordenada y tengo buena presencia. Y tengo muchas ganas de trabajar. Gracias por su tiempo.
+Security_code : zp222
+Send : Enviar
+
+---------------
+

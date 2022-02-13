@@ -1,0 +1,60 @@
+Address : 186.125.11.208
+Nombre : Juan Cruz
+Apellido : Bonacorsi
+Cargo : tecnico en seguridad e higiene
+Direccion : alberdi 953
+Ciudad : salta
+Telefono : 0291 154 253236
+Email : juancruzbonacorsi@hotmail.com
+
+---------------
+
+Address : 186.125.11.208
+Nombre : Juan Cruz
+Apellido : Bonacorsi
+Cargo : tecnico en seguridad e higiene
+Direccion : alberdi 953
+Ciudad : salta
+Telefono : 0291 154 253236
+Email : juancruzbonacorsi@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : De mi mayor consideración: 
+
+Tengo el agrado de dirigirme a Uds. con el fin de transmitirles mi deseo en firme de incorporarme a su organización. A tal efecto adjunto, junto a la presente, mi CV. 
+
+Me presento como una persona activa, responsable, creativa, flexible, orientada al logro de resultados y a la resolución y evolución constante en las tareas asignadas. 
+
+El objetivo que me he impuesto, es el de formar parte del personal de una empresa prestigiosa, confiable y con proyectos ambiciosos. 
+
+Si fuera necesario podría acercarme personalmente para cualquier consulta adicional o entrevista personal.  
+
+Pongo, además, en su conocimiento que estoy en condiciones de asumir la responsabilidad de este empleo en forma inmediata, y con amplia disponibilidad de horarios. 
+
+Quedando a la espera de su respuesta. 
+
+Me despido atte. 
+
+Security_code : 3s2xj
+Send : Enviar
+
+---------------
+
+Address : 190.137.17.107
+Nombre : Rosario
+Apellido : Sanchez
+Cargo : vean coveniente
+Direccion : av.dorrego 219
+Ciudad : caba
+Telefono : 48558612
+Email : rosimedic@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto mi curriculum vitae, en caso de que se ajuste a sus búsquedas laborales.
+
+Atte.
+Rosario M. Sanchez
+
+Security_code : bmp3j
+Send : Enviar
+
+---------------
+

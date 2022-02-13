@@ -1,0 +1,16 @@
+Address : 179.49.104.172
+REF : OEL
+Nombre : walter
+Apellido : guadia
+Cargo : oficial
+Direccion : buenos aires 230
+Ciudad : tortuguitas
+Telefono :  02320 620201
+Email : walterguadia-@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : hola que tal,me interesa el puesto,dejo mi cv.espero su llamado.gracias
+Security_code : rvznp
+Send : Enviar
+
+---------------
+

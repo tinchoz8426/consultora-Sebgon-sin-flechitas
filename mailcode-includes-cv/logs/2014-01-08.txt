@@ -1,0 +1,139 @@
+Address : 186.13.4.191
+Nombre : Valeria Ayelen
+Apellido : Heredia
+Cargo : Atencion al Cliente
+Direccion : Carlos Gardel 219
+Ciudad : Palomar
+Telefono : 47586879
+Email : valerita_alma@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estoy interesada en encontrar un trabajo urgente, ya que tengo planes de irme a vivir a Bs.As
+Security_code : wkx2z
+Send : Enviar
+
+---------------
+
+Address : 186.13.4.191
+Nombre : Valeria Ayelen
+Apellido : Heredia
+Cargo : Atencion al Cliente
+Direccion : Carlos Gardel 219
+Ciudad : Palomar
+Telefono : 47586879
+Email : valerita_alma@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estoy interesada en encontrar un trabajo urgente, ya que tengo planes de irme a vivir a Bs.As
+Security_code : wkx2z
+Send : Enviar
+
+---------------
+
+Address : 190.177.104.18
+Nombre : Silvina Natalia
+Apellido : Sanchez
+Cargo : Asistente
+Direccion : Bº Comercio I casa 161, calle Julio Cortázar
+Ciudad : Puerto Madryn
+Telefono : +5492804393094
+Email : soranoai@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me gusta dar lo mejor y hacer lo mejor posible; pongo mucha dedicación en lo que hago, teniendo como prioridad mejorar la calidad de mi lugar de trabajo. Me gusta la honestidad y la lealtad, la responsabilidad incluso ante los errores. Quizás mo tenga una personalidad destacada, pero cuido las pequeñas cosas, los detalles que resaltan las cosas mayores. Esperando contar con su consideración, desde ya muchas gracias!
+Security_code : xnmcm
+Send : Enviar
+
+---------------
+
+Address : 190.176.151.1
+Nombre : ALBERTO MARTIN
+Apellido : DAVILA
+Cargo : OPERARIO 
+Direccion : marcelo T. alvera 53 mayord drummond
+Ciudad : MENDOZA
+Telefono : 4982916 /2613065280
+Email : maddavila@outlook.es
+MAX_FILE_SIZE : 2097152
+Mensaje : LES PIDO UNA OPORTUNIDAD DESDE YA MUCAS GRACIAS 
+Security_code : t4pz5
+Send : Enviar
+
+---------------
+
+Address : 186.59.42.113
+Nombre : emiliano
+Apellido : dominguez
+Cargo : cajero o repositor
+Direccion : cordoba
+Ciudad : mendoza
+Telefono : 2614221388
+Email : emi.d27@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Necesito trabajar espero q puedan ver mi curriculum
+Security_code : fkrsz
+Send : Enviar
+
+---------------
+
+Address : 190.191.254.107
+Nombre : Rafael Antonio 
+Apellido : Rossetti 
+Cargo : Ingeniero Junior
+Direccion : Buenos Aires 1050
+Ciudad : Corrientes
+Telefono : 543794660012
+Email : rafaelantoniorossetti@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Rendí mi última materia de Ingeniería Electromecánica a fines de agosto de 2013 y tuve un par de experiencias laborales cortas en las cuales no me senti motivado. Busco un trabajo donde pueda adquirir experiencia, trabajar en equipo y llevar adelante grandes desafios, tengo capacidad de liderar un grupo, soy muy perseverante, me gusta que las cosas se hagan bien y optimizar los recursos, necesito motivación para poder desarrollarme, soy muy perfeccionasta. Mi nivel de Ingles y mis conocimientos en informática actualmente son básicos,los mismos están en proceso de mejora.  
+Security_code : 6787z
+Send : Enviar
+
+---------------
+
+Address : 190.174.2.201
+Nombre : belen agustina
+Apellido : muñoz
+Cargo : vendedora
+Direccion : j. b. de marquez 4174
+Ciudad : moron
+Telefono : 46977164
+Email : m-belen-agustina@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : curriculum
+Security_code : n44q9
+Send : Enviar
+
+---------------
+
+Address : 186.122.44.111
+Nombre : Lisia Rossana
+Apellido : Tiepermann
+Cargo : Trabajadora Social
+Direccion : Miguel Gutierrez 1650
+Ciudad : Formosa
+Telefono : 3704-834805
+Email : lisiatiepermann@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : me interesa saber sobre la oferta laboral, que tienen para los Trabajadores Sociales en la Cuidad de Formosa.
+En espera de una pronta respuesta me despido atentamente.
+Security_code : 67t7d
+Send : Enviar
+
+---------------
+
+Address : 190.179.0.109
+Nombre : david
+Apellido : meza
+Cargo : tecnico en segurida e higiene
+Direccion : juan fco segui 662 entre calle 14 y 12
+Ciudad : florencio varela
+Telefono : 1167408137/1142372706
+Email : davidmeza1983@live.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Este año me estoy recibiendo de Tècnico Superior en Seguridad E Higiene y ando buscando una oportunidad laboral para iniciarme en dicha actividad profesional.
+si desean les envio mi CV. Mil gracias y disculpen las molestias ocasionadas.
+
+atte david meza.
+Security_code : bfjjy
+Send : Enviar
+
+---------------
+

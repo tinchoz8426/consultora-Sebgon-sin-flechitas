@@ -1,0 +1,221 @@
+Address : 190.17.194.58
+Nombre : Leticia Paula
+Apellido : Pappalardo
+Cargo : Administrativo
+Direccion : alte segui
+Ciudad : Capital Federal
+Telefono : 1530398625
+Email : letipappalardo@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Disponibilidad part-time preferentemente turno mañana.
+Security_code : 3m474
+Send : Enviar
+
+---------------
+
+Address : 190.49.182.44
+Nombre : Patricia
+Apellido : Rosales
+Cargo : administración
+Direccion : Las Piedras 3456
+Ciudad : Buenos Aires
+Telefono : 1550133065
+Email : teodelina12@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : soy emprendedora y responsable. .. 
+Security_code : hvfb5
+Send : Enviar
+
+---------------
+
+Address : 186.125.126.52
+Nombre : Hernán Alejandro
+Apellido : Roitbarg
+Cargo : Consultor
+Direccion : San juan 2957
+Ciudad : Santa fe
+Telefono : 0342 155970166
+Email : hroit@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Se planea lograr experiencia laboral como economista.
+Security_code : dyvy5
+Send : Enviar
+
+---------------
+
+Address : 186.124.160.58
+Nombre : PABLO
+Apellido : MEDINA
+Cargo : EMPLEADO ADMINISTRATIVO
+Direccion : AV. INDEPENDENCIA 2156
+Ciudad : SAN MIGUEL DE TUCUMAN
+Telefono : 0381 - 156433519
+Email : paulm_j@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : me gustaría trabajar en cualquier empresa para poder brindarles mis servicios y dedicación a la que corresponda.
+Security_code : 7q6z5
+Send : Enviar
+
+---------------
+
+Address : 190.190.106.41
+Nombre : Maria de los Angeles
+Apellido : Gonzalez
+Cargo : relaciones publicas
+Direccion : triunvirato 4069
+Ciudad : san justo
+Telefono : 01144662220
+Email : angeles_uriel_23@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Busco un empleo acorde a mis capacidades,quiero sentirm util y capaz para el trabajo a desarrollar,las busquedas de empleos muchas veces resultan frustrantes,pero siempre es bueno intentarlo. Gracias
+Security_code : 3qdqy
+Send : Enviar
+
+---------------
+
+Address : 190.179.216.131
+Nombre : david
+Apellido : hurtado
+Cargo : tecnico electricista 
+Direccion : bordin 480
+Ciudad : mendoza 
+Telefono : 206155932460
+Email : david.hur10@hotmail..com
+MAX_FILE_SIZE : 2097152
+Mensaje : Desearia formar parte de su empresa,estoy en la busqueda de un empleo,.. disponibilidad  horaria, mi aspiraciòn es desarrollarme tanto profesional como personalmente en las tareas asignadas.Tengo deseos de aprender y adaptarme a demandas laborales de diversas indoles ya que soy muy emprendedor y me gusta perfeccionarme cada vez. Tengo conocimientos de inglés,excelente dominio del paquete office, internet, outlook express y diversas herramientas informáticas.
+Security_code : 8pn23
+Send : Enviar
+
+---------------
+
+Address : 181.51.180.88
+Nombre : Valentina
+Apellido : Cardona Rendón
+Cargo : Profesional en salud ocupacional
+Direccion : Colombia
+Ciudad : Caldas
+Telefono : +573145116689
+Email : valen.601@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Profesional en Salud ocupacional y seguridad industral
+Security_code : 78tn9
+Send : Enviar
+
+---------------
+
+Address : 186.136.225.113
+Nombre : Barbara Yanina
+Apellido : Bertelli
+Cargo : Recepcionista
+Direccion : Carlos villate 215
+Ciudad : Buenos Aires
+Telefono : 1531633802
+Email : barbara_bertelli@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Mi orientación está centrada sobre el Aérea de Hotelería, Gastronomía y Turismo. Completé el curso de Chef Profesional buscando ampliar mi conocimiento en el área gastronómica orientada a hostelería puesto que mi ideal es el manejo de la sección Gastronómica en Empresas asociadas al rubro. 
+Actualmente estoy en busca de presentarme como puente entre el cliente y lo que él espera como un excelente servicio de parte del hotel; apuntando a realizarme sobre el trato directo con los mismos y así progresar en mi campo sobre la parte de Administración Hotelera.
+Security_code : BTM9C
+Send : Enviar
+
+---------------
+
+Address : 190.194.161.88
+Nombre : María Belén
+Apellido : Bouvier
+Cargo : Comunicadora/Prensa
+Direccion : Soler 3834
+Ciudad : Capital Federal
+Telefono : 1158361544
+Email : mbelen.bouvier@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje :  
+Security_code : vtt5f
+Send : Enviar
+
+---------------
+
+Address : 190.184.238.116
+Nombre : Jazmín
+Apellido : Cusse Peschiera
+Cargo : Gestión Cultural
+Direccion : Anasagasti 2064
+Ciudad : CABA
+Telefono : (011)15-68246569
+Email : jazmin_cusse@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenos días, 
+mi nombre es Jazmín y soy Lic. en Artes. Estoy en busca de un empleo en el área de Arte y Cultura (gestión/producción, comunicación, recepción y secretaría, administración, etc). Adjunto cv y agradecería que me tuviesen en cuenta para cualquier oportunidad que surja. 
+Saluda atte, 
+Jazmín Cusse
+Security_code : g4psm
+Send : Enviar
+
+---------------
+
+Address : 200.55.59.226
+Nombre : Romina
+Apellido : Zoratti
+Cargo : Radiologa
+Direccion : rawson 395
+Ciudad : san vicente
+Telefono : 0222515510740
+Email : rominazoratti@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto mi cv para que pueda ser tenido en cuenta ante una búsqueda en el sector salud.
+Security_code : qsq8n
+Send : Enviar
+
+---------------
+
+Address : 190.193.170.181
+Nombre : Sabrina Soledad
+Apellido : Campos 
+Cargo : Comunicación - Capacitación
+Direccion : Irigoyen 78
+Ciudad : CABA
+Telefono : 1532186391
+Email : sabrifields@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados,
+por medio del presente hago llegar mi CV a fin de ser tenido en cuenta en posibles búsquedas laborales que estén realizando. 
+Soy Periodista, actualmente cursando los últimos años de la Lic. en Comunicación, y poseo años de experiencia en las áreas de Capacitación dentro de RRHH -tanto en análisis de necesidades, desarrollo e implementación, como en dictado de trainings presenciales e E-Learning en castellano o inglés-, para distintas audiencias. Así como también me he desempeñado en lo que respecta a Comunicación Interna y desarrollo de contenidos en distintos proyectos. 
+
+Sin otro particular, quedo a su disposición en caso de que consideren mi perfil se adecue a alguna de sus búsquedas. 
+Muchas gracias y saludos cordiales,
+
+Sabrina Campos
+Security_code : 968cd
+Send : Enviar
+
+---------------
+
+Address : 190.55.160.110
+Nombre : Martín Sebastian 
+Apellido : Griz
+Cargo : Varios / Chofer / Empleado etc
+Direccion : Posadas 685 PB A 
+Ciudad : Ramos Mejia
+Telefono : 1544190358
+Email : martin.s.griz@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Busco trabajo.-
+Security_code : fmcsh
+Send : Enviar
+
+---------------
+
+Address : 179.37.210.8
+Nombre : Cristian Adrian
+Apellido : Fabris
+Cargo : Investigacion y Desarrollo en Biotecnologia
+Direccion : Reconquista 1173
+Ciudad : Luis Guillon
+Telefono : 15-59495703
+Email : evolucion60@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estoy interesado en poder desarrollarme laboralmente en una empresa de biotecnología animal, vegetal o en empresas de investigación y desarrollo de biofármacos, purificación de proteías,etc.
+Security_code : 7kzn8
+Send : Enviar
+
+---------------
+

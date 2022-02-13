@@ -1,0 +1,273 @@
+Address : 186.158.138.85
+REF : TECME
+Nombre : Javier 
+Apellido : Palavecino 
+Cargo : Tecnico mecánico
+Direccion : hilario cuadros 453
+Ciudad : merlo
+Telefono : 1167918610
+Email : jjjavierpala@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Aca les dejo mi cv.gracias
+Security_code : 8jcfg
+Send : Enviar
+
+---------------
+
+Address : 200.114.249.85
+REF : RTC
+Nombre : santiago
+Apellido : strauss
+Cargo : rtc
+Direccion : chile 1600 pilar
+Ciudad : bs as
+Telefono : 011-2331-9319
+Email : straussantiago@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : ventas
+Security_code : gq7pt
+Send : Enviar
+
+---------------
+
+Address : 181.47.8.10
+Nombre : Xenia Julieta
+Apellido : Lapponi Mora
+Cargo : atencion al cliente , Hoteleria, turismo
+Direccion : honorio Pueyrredon 527 1B Caballito
+Ciudad : Caba
+Telefono : 1540858132
+Email : xeniajuliet@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buen dia:
+
+Deseo ofrecer mi c.v con toda mi experiencia adjunta detallada
+Security_code : g3445
+Send : Enviar
+
+---------------
+
+Address : 181.47.173.78
+REF : RTC
+Nombre : Pablo Ariel
+Apellido : Quinze
+Cargo : Representante Técnico Comercial
+Direccion : Pasaje Cuyo
+Ciudad : Villa Ballester
+Telefono : 15-2341-3893
+Email : pabloarielq@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : A quien corresponda:
+Como podrá ver soy un arquitecto con 10 años de experiencia en el rubro realizando resoluciones tecno-constructivos en forma expeditiva frente a cada diverso desafío que surgen en cada obra. Poseo un trato cordial y sumamente profesional con cada cliente, escuchándolo e interpretando sus necesidades logrando a fin de lograr su satisfacción integral basado en cada expectativa. A fin de encontrar la satisfacción profesional y personal con lo que me rodea día a día en mi trabajo.
+
+Desde ya agradezco su respuesta y aguardo a la misma.
+
+Security_code : b4b25
+Send : Enviar
+
+---------------
+
+Address : 179.60.98.14
+REF : RTC
+Nombre : Nicolás
+Apellido : Gabriel
+Cargo : Quiroga 
+Direccion : David Luque 140
+Ciudad : Córdoba
+Telefono : 0357115561485
+Email : nicogq90@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Ingeniero Químico de 26 años de edad.Resido en Cba., pero tengo plena disponibilidad para re ubicarme y cambiar de residencia. Soy una persona con muy buenas relaciones interpersonales y capacidad de negociación, que adquirí gracias a más de 5 años de trabajo en Rotaract, programa juvenil de Rotary, donde se forma a las personas como profesionales y líderes. Además, tengo experiencia en el rubro comercial de construcción, dado que trabajo y trabajé a lo largo de la carrera y actualmente en una empresa familiar dedicada a dicho rubro. Los demás datos de importancia, están indicados en mi CV que adjunto. Desde ya muchas gracias,
+
+Saludos,
+
+Nicolás Gabriel Quiroga
+
+Tel: 03571-15561485
+Security_code : 7qzpv
+Send : Enviar
+
+---------------
+
+Address : 190.48.18.129
+REF : RTC
+Nombre : Gerardo
+Apellido : Biagetti
+Cargo : Representante Tecnico Comercial.
+Direccion : Asolfo Alsina 487
+Ciudad : Junìn
+Telefono : 2364698514
+Email : gerardo_biagetti@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : A quien corresponda de mi mayor consideración:
+
+ 						 Tengo el gusto de remitirles mi currículum vitae con el objetivo de participar en el proceso de selección.
+Como van a poder apreciar, llevo años en la  profesión Comercial. He participado de diferentes cursos, como también soy graduado universitario de la carrera Administración de Empresas.
+Por otra parte, me considero como un apasionado por la venta y/o la promoción. De excelente dicción, compromiso, responsabilidad y honestidad.
+Por estas razones, desearía tengan en cuenta mi candidatura en la selección que uds convocan. Solicitando una entrevista personal para poder exponer mis habilidades y actitudes para la comercialización.
+
+Sin mas dejos mi Currículum Vitae y mis saludos.
+Atentamente.
+Gerardo Biagetti. 
+0236-154698514
+
+Security_code : 9mjq7
+Send : Enviar
+
+---------------
+
+Address : 181.28.168.205
+Nombre : ARIEL
+Apellido : SOLLAZZO
+Cargo : JEFE/GERENTE/SUPERVISOR
+Direccion : MANUELA PEDRAZA3867
+Ciudad : CARAPACHAY
+Telefono : 011-58186251
+Email : roxyfran7@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : les hago llegar mis datos personales y profesionales en Currículum Vitae a fin de ser tenido en cuenta como candidato.
+
+Con la convicción de poseer el perfil requerido para un muy buen desempeño en el cargo a cubrir, quedo a entera disposición para hacerle llegar, sea en una entrevista personal o por el medio que se me indique, las ampliaciones y/o la documentación probatoria correspondiente.
+
+Esperando una respuesta positiva lo saluda atentamente,
+
+ARIEL SOLLAZZO 
+Security_code : nbgfm
+Send : Enviar
+
+---------------
+
+Address : 181.28.168.205
+Nombre : ARIEL
+Apellido : SOLLAZZO
+Cargo : JEFE/GERENTE/SUPERVISOR
+Direccion : MANUELA PEDRAZA3867
+Ciudad : CARAPACHAY
+Telefono : 011-58186251
+Email : roxyfran7@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : les hago llegar mis datos personales y profesionales en Currículum Vitae a fin de ser tenido en cuenta como candidato.
+
+Con la convicción de poseer el perfil requerido para un muy buen desempeño en el cargo a cubrir, quedo a entera disposición para hacerle llegar, sea en una entrevista personal o por el medio que se me indique, las ampliaciones y/o la documentación probatoria correspondiente.
+
+Esperando una respuesta positiva lo saluda atentamente,
+
+ARIEL SOLLAZZO 
+Security_code : nbgfm
+Send : Enviar
+
+---------------
+
+Address : 181.28.168.205
+Nombre : ARIEL
+Apellido : SOLLAZZO
+Cargo : JEFE/GERENTE/SUPERVISOR
+Direccion : MANUELA PEDRAZA3867
+Ciudad : CARAPACHAY
+Telefono : 011-58186251
+Email : roxyfran7@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : les hago llegar mis datos personales y profesionales en Currículum Vitae a fin de ser tenido en cuenta como candidato.
+
+Con la convicción de poseer el perfil requerido para un muy buen desempeño en el cargo a cubrir, quedo a entera disposición para hacerle llegar, sea en una entrevista personal o por el medio que se me indique, las ampliaciones y/o la documentación probatoria correspondiente.
+
+Esperando una respuesta positiva lo saluda atentamente,
+
+ARIEL SOLLAZZO 
+Security_code : h9tf4
+Send : Enviar
+
+---------------
+
+Address : 181.28.168.205
+Nombre : ARIEL
+Apellido : SOLLAZZO
+Cargo : JEFE/GERENTE/SUPERVISOR
+Direccion : MANUELA PEDRAZA3867
+Ciudad : CARAPACHAY
+Telefono : 011-58186251
+Email : roxyfran7@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : les hago llegar mis datos personales y profesionales en Currículum Vitae a fin de ser tenido en cuenta como candidato.
+
+Con la convicción de poseer el perfil requerido para un muy buen desempeño en el cargo a cubrir, quedo a entera disposición para hacerle llegar, sea en una entrevista personal o por el medio que se me indique, las ampliaciones y/o la documentación probatoria correspondiente.
+
+Esperando una respuesta positiva lo saluda atentamente,
+
+ARIEL SOLLAZZO 
+Security_code : 7rm2y
+Send : Enviar
+
+---------------
+
+Address : 181.45.124.137
+REF : SuP
+Nombre : Alejandro Rodolfo
+Apellido : VERA
+Cargo : SUPERVISOR
+Direccion : Lavalleja 226  
+Ciudad : Ituzaingo
+Telefono : 3669-6401
+Email : ale251069@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenos Aires, 17 de Marzo de 2016 
+Consultora Sebgon 
+De mi mayor consideración,
+
+Tengo el agrado de dirigirme a Ud. para hacerle llegar mi curriculum vitae, con el fin de que pueda considerarlo en la búsqueda de personal,  
+Destacándole mi máximo interés en cualquier oportunidad de crecimiento profesional, quedo a su total disposición para proveerle más información o para concertar una entrevista personal, si Ud. lo considera apropiado.
+
+Alejandro R. Viera TEL. 3669-6401
+cel. 15-5459-8142 
+ale251069@yahoo.com.ar
+Security_code : z3hbh
+Send : Enviar
+
+---------------
+
+Address : 201.177.26.54
+REF : TLP
+Nombre : Jusguel
+Apellido : lopez
+Cargo : tecnico electrico
+Direccion : uspallata 939
+Ciudad : capital federal
+Telefono : 1123798347
+Email : jusguel@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estoy interezado en pertenecer a una valiosa empresa donde pueda poner a su disposicion mis conocimientos y adquirir mucho mas de ustedes. estoy full interesado. espero su respuesta.
+Security_code : p4hj4
+Send : Enviar
+
+---------------
+
+Address : 181.95.212.212
+Nombre : maximiliano
+Apellido : andrada
+Cargo : cadete
+Direccion : jose cabero 4842
+Ciudad : cordoba
+Telefono : 3513210976
+Email : maxiandrada36@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : busco trabajo en el puesto que usted necesite
+Security_code : rwym5
+Send : Enviar
+
+---------------
+
+Address : 186.122.28.51
+Nombre : federico 
+Apellido : zoppi
+Cargo : montaje tableros electrico
+Direccion : el ceibo 920
+Ciudad : haedo, buenos aires
+Telefono : 1167555032
+Email : fedez94@hotmail.it
+MAX_FILE_SIZE : 2097152
+Mensaje : vengo de italia, y ace un mes que estoy aca necesito empleo para estableserme en buenos aires. trabaje 3 años en montaje pero no se leer los planes todavia!pero tengo mucha predisposicion. perdonenme la letra.
+Security_code : tk3m6
+Send : Enviar
+
+---------------
+

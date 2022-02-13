@@ -1,0 +1,232 @@
+Address : 181.94.151.94<br>
+ <br>Nombre : Victor Adrian
+ <br>Apellido : Franco
+ <br>Cargo : Jefe de Oficina Tecnica
+ <br>Direccion : Corrientes y Fuerza Aerea
+ <br>Ciudad : Formosa Capital
+ <br>Telefono : 3704431738
+ <br>Email : francovaf@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Envio mi cv, cuento con basta experiencia en obras nacionales como jefe de oficina tecnica tambien me he desempeñado como sub jefe de oficina tecnica, inspector de obra civil y en mis inicios como topografo.
+ <br>Security_code : ptg72
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.25.203.187<br>
+ <br>REF : JPER-1
+ <br>Nombre : Luis
+ <br>Apellido : Carducci
+ <br>Cargo : Jefe de personal
+ <br>Direccion : Velázquez 2343
+ <br>Ciudad : Los Polvorines 
+ <br>Telefono : 1144560141
+ <br>Email : carducciluis@speedy.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Adjunto mi cv para postularme a la vacante de jefe de personal
+ <br>Security_code : q68x7
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.174.183.13<br>
+ <br>Nombre : Paola 
+ <br>Apellido : Guglielmelli
+ <br>Cargo : Comercio exterior
+ <br>Direccion : Guglielmellipaola@gmail.com
+ <br>Ciudad : Lujan
+ <br>Telefono : 0232315662252
+ <br>Email : guglielmellipaola@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados,
+
+Me encuentro en búsqueda activa laboral, agradecería que tenga en cuenta mi cv para futuras búsquedas.
+ <br>Security_code : xxyb8
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.182.165.115<br>
+ <br>REF : EP-1
+ <br>Nombre : Santiago
+ <br>Apellido : MLac
+ <br>Cargo : Encargado de Producción
+ <br>Direccion : San Martín 375 3ro C
+ <br>Ciudad : Morón
+ <br>Telefono : 11-5509-2853
+ <br>Email : santiagomlac@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Creo contar con la experiencia. soy de zona oeste- Morón. con disponibilidad inmediata. Saludos
+ <br>Security_code : 727n3
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.130.76.127<br>
+ <br>REF : JPER-1
+ <br>Nombre : Juan Ignacio
+ <br>Apellido : Laurino
+ <br>Cargo : Jefe de Personal
+ <br>Direccion : Mitre 117
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 1567256847
+ <br>Email : juan.laurino85@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Busco formar parte de una empresa con un ambiente proactivo y motivante, donde el trabajo en equipo sea considerado un valor importante. Allí, deseo poder aplicar todos mis conocimientos y mi experiencia en el sector de Recursos Humanos, así como también aportar todo el bagaje adquirido liderando equipos, con el objeto de afrontar desafíos y lograr contribuir en el alcance de los resultados de la compañía.
+ <br>Security_code : nhsqs
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.46.119.34<br>
+ <br>Nombre : marcelo adrian
+ <br>Apellido : lazarte
+ <br>Cargo : seguridad privada/custodia
+ <br>Direccion : barragan 3180
+ <br>Ciudad : gonzalez catan
+ <br>Telefono : 20842237
+ <br>Email : adrianmarcelolazarte1969a@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : full time
+ <br>Security_code : s67ft
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.55.155.212<br>
+ <br>REF : ROT-1
+ <br>Nombre : Esteban
+ <br>Apellido : Pozo
+ <br>Cargo : Responsable de Oficina Tecnica
+ <br>Direccion : laguna, 1200
+ <br>Ciudad : parque avellaneda
+ <br>Telefono : 1559118307
+ <br>Email : pozo.esteban1978@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados: Adjunto C.V. como primer paso en vuestra selección de personal. Saludos cordiales.
+Esteban Pozo.
+ <br>Security_code : 4mc59
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 170.51.34.174<br>
+ <br>Nombre : Nadia elizabeth
+ <br>Apellido : Lopez godoy
+ <br>Cargo : Operaria
+ <br>Direccion : San cayetano 870
+ <br>Ciudad : Pte derqui _ pilar .bs.as 
+ <br>Telefono : 01127059881
+ <br>Email : nadialopezgodoy@gmail.com 
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Quisiera dar a conocer mi experiencia laboral y el compromiso que lleva el tener un trabajo ya que lo necesito con suma urgencia y se desempeñarme en varias áreas laborales desde ya muchísimas gracias 
+ <br>Security_code : 724n4
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.209.69.35<br>
+ <br>Nombre : Patricio
+ <br>Apellido : Parra
+ <br>Cargo : Ayudante de soldador, amolador , ayudante mecánico de bomba , disposición en cualquier tarea laboral
+ <br>Direccion : Chubut 630
+ <br>Ciudad : Catriel
+ <br>Telefono : 2995738467
+ <br>Email : parrapatricio74@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : tengo cualquier disposición horaria , ayudar al progreso de la empresa ,mucha disposición en aprender nuevos trabajos con mucha responsabilidad .
+ <br>Security_code : cnfp6
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 170.51.35.29<br>
+ <br>Nombre : Veronica
+ <br>Apellido : Barrios
+ <br>Cargo : Empleado de limpieza
+ <br>Direccion : Asamblea 2288
+ <br>Ciudad : Buenos aires
+ <br>Telefono : 1164048455
+ <br>Email : Barriosveronica952@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Muchas ganas de trabajar muy cumplidora 
+ <br>Security_code : dmsxh
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 138.97.176.138<br>
+ <br>Nombre : Luciano
+ <br>Apellido : Mesas
+ <br>Cargo : Chofer, mantenimiento
+ <br>Direccion : Bombal 725
+ <br>Ciudad : San rafael
+ <br>Telefono : 2974724706
+ <br>Email : Ginaquiroz93@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Luciano 
+ <br>Security_code : J7ssy
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 138.97.176.138<br>
+ <br>Nombre : Luciano
+ <br>Apellido : Mesas
+ <br>Cargo : Chofer, mantenimiento
+ <br>Direccion : Bombal 725
+ <br>Ciudad : San rafael
+ <br>Telefono : 2974724706
+ <br>Email : Ginaquiroz93@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Luciano 
+ <br>Security_code : S9df8
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 138.97.176.138<br>
+ <br>Nombre : Luciano
+ <br>Apellido : Mesas
+ <br>Cargo : Chofer, mantenimiento
+ <br>Direccion : Bombal 725
+ <br>Ciudad : San rafael
+ <br>Telefono : 2974724706
+ <br>Email : Ginaquiroz93@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Luciano 
+ <br>Security_code : Wqnm6
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 138.97.176.138<br>
+ <br>Nombre : Luciano
+ <br>Apellido : Mesas
+ <br>Cargo : Chofer, mantenimiento
+ <br>Direccion : Bombal 725
+ <br>Ciudad : San rafael
+ <br>Telefono : 2974724706
+ <br>Email : Ginaquiroz93@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Luciano 
+ <br>Security_code : Y5tzd
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 138.97.176.138<br>
+ <br>Nombre : Luciano
+ <br>Apellido : Mesas
+ <br>Cargo : Chofer, mantenimiento
+ <br>Direccion : Bombal 725
+ <br>Ciudad : San rafael
+ <br>Telefono : 2974724706
+ <br>Email : Ginaquiroz93@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Luciano 
+ <br>Security_code : Ys7jq
+ <br>Send : Enviar
+ <br>
+---------------
+

@@ -1,0 +1,97 @@
+Address : 190.244.145.199
+Nombre : valeria
+Apellido : guardado
+Cargo : atencion al cliente-ventas
+Direccion : williams morris 515
+Ciudad : Buenos Aires
+Telefono : 1555062270
+Email : valeriaguart@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenos dias.Adjunto mi curriculum.El puesto al que aspiro es el de atencion al cliente,ventas,administracion.Muchas gracias.
+Security_code : vwhfg
+Send : Enviar
+
+---------------
+
+Address : 186.158.61.20
+REF : jefe-de-operaciones
+Nombre : Armando Dario
+Apellido : cid
+Cargo : jefe-de-operaciones
+Direccion : Mexico casa 10
+Ciudad : centenario
+Telefono : 299 155953293
+Email : dario_cent@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola, no tengo la edad que ustedes requieren, pero tengo anplio conocimiento en seguridad privada, tanto teoria como practica, al igual que en manejo defensivo y ofensivo.
+MI remuneracion pretendida es de acuerdo al trabajo a desmpeñar.
+Desde ya muchas gracias. y espero su pronta respuesta.
+Security_code : wtxb2
+Send : Enviar
+
+---------------
+
+Address : 186.158.61.20
+REF : supervisor-seguridad
+Nombre : Armando Dario
+Apellido : cid
+Cargo : supervisor-seguridad
+Direccion : Mexico casa 10
+Ciudad : centenario
+Telefono : 299 155953293
+Email : dario_cent@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola,no tengo la edad que ustedes requieren,pero poseo amplio conocimiento en seguridad privada,tanto en teoría como practica.
+Desde ya muchas gracias.
+Espero su pronta respuesta.
+Security_code : nrxs6
+Send : Enviar
+
+---------------
+
+Address : 186.134.6.11
+Nombre : cristian daniel
+Apellido : suarez
+Cargo : oficial electricista y mantenimiento general
+Direccion : jose hernandez 5029 
+Ciudad : laferrere
+Telefono : 011-154-098-1729
+Email : crisdani45@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : buenas tardes me gustaría trabajar en el área de mantenimiento de alguna empresa no tengo problemas de horarios y poseo disponibilidad inmediata mi área preferida es la eléctrica y tengo conocimientos en plomeria 
+Security_code : kdxmf
+Send : Enviar
+
+---------------
+
+Address : 190.193.223.170
+Nombre : Natalia
+Apellido : Kallsten
+Cargo : Asistente Social
+Direccion : El Salvador 4573
+Ciudad : CABA
+Telefono : 0336154314536
+Email : nataliakallsten@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me encunetro en la búsqueda de un empleo que me permita seguir creciendo y aprendiendo ademas de brindar mis conocimientos.
+Security_code : s8vwj
+Send : Enviar
+
+---------------
+
+Address : 190.226.190.165
+REF : administrativa-compras
+Nombre : rosa maria 
+Apellido : rodriguez scoot 
+Cargo : a requerimiento 
+Direccion : cas20 manzana82 altos de podesta 
+Ciudad : buenos aires
+Telefono : 1563557912
+Email : rosarodriguez726@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : solicito  empleo a requerimiento de vuestra empresa
+Security_code : 2vt3z
+Send : Enviar
+
+---------------
+

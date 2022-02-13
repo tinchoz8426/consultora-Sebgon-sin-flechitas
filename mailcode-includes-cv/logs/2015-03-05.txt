@@ -1,0 +1,187 @@
+Address : 190.55.24.48
+Nombre : Damian
+Apellido : Rodriguez
+Cargo : Soporte tecnico
+Direccion : 33 orientales 1221
+Ciudad : Capital Federal
+Telefono : 1531463056
+Email : rodriguezarata.d@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me gustaría encontrar un puesto relacionado con sistemas para crecer profesionalmente.
+Security_code : ptyf2
+Send : Enviar
+
+---------------
+
+Address : 186.13.3.197
+Nombre : Carlos
+Apellido : Urrutia
+Cargo : Trabajador Social
+Direccion : El gaucho 1210
+Ciudad : Merlo, BsAs
+Telefono : 1133597319
+Email : carlyurrutia@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola: quedo a disposición por la oferta laboral para trabajadores sociales
+Security_code : xr5y5
+Send : Enviar
+
+---------------
+
+Address : 186.13.3.197
+Nombre : Carlos
+Apellido : Urrutia
+Cargo : Trabajador Social
+Direccion : El gaucho 1210
+Ciudad : Merlo, BsAs
+Telefono : 1133597319
+Email : carlyurrutia@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola: quedo a disposicion por la oferta laboral para trabajadores sociales, gracias
+Security_code : xr5y5
+Send : Enviar
+
+---------------
+
+Address : 186.13.3.197
+Nombre : Carlos
+Apellido : Urrutia
+Cargo : Trabajador Social
+Direccion : El gaucho 1210
+Ciudad : Merlo, BsAs
+Telefono : 1133597319
+Email : carlyurrutia@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola: quedo a disposición por la oferta laboral para trabajadores sociales, gracias
+Security_code : 883dd
+Send : Enviar
+
+---------------
+
+Address : 190.105.41.230
+Nombre : Jesus
+Apellido : Rodriguez
+Cargo : logistica operario
+Direccion : pirovano 1340
+Ciudad : Moreno
+Telefono : 1120001864 - 1556694848
+Email : jesus_kapo5@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : hola que tal me gustaria trabajar de lo que sea...full time
+Security_code : sbj6h
+Send : Enviar
+
+---------------
+
+Address : 190.105.41.230
+Nombre : Jesus
+Apellido : Rodriguez
+Cargo : logistica operario
+Direccion : pirovano 1340
+Ciudad : Moreno
+Telefono : 1120001864 - 1556694848
+Email : jesus_kapo5@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : hola que tal me gustaria trabajar de lo que sea...full time
+Security_code : sbj6h
+Send : Enviar
+
+---------------
+
+Address : 190.105.41.230
+Nombre : Jesus
+Apellido : Rodriguez
+Cargo : logistica operario
+Direccion : pirovano 1340
+Ciudad : Moreno
+Telefono : 1120001864 - 1556694848
+Email : jesus_kapo5@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : hola que tal me gustaria trabajar de lo que sea...full time
+Security_code : sbj6h
+Send : Enviar
+
+---------------
+
+Address : 190.105.41.230
+Nombre : Jesus
+Apellido : Rodriguez
+Cargo : logistica operario
+Direccion : pirovano 1340
+Ciudad : Moreno
+Telefono : 1120001864 - 1556694848
+Email : jesus_kapo5@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : hola que tal,disponibilidad full time 
+Security_code : b53jv
+Send : Enviar
+
+---------------
+
+Address : 186.134.227.58
+Nombre : Rodrigo
+Apellido : Galarza 
+Cargo : reparto depocitos empresas metalurjicas
+Direccion : colombia 2323
+Ciudad : Quilmes oeste
+Telefono : 42107715
+Email : rodrigo_ess@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola me dirijo a ustedes por busqueda de un empleo soy responsable trabajador y se que no los voy a desepcionar desde ya muchisimas gracias Rodrigo E. Galarza
+Security_code : zyxtx
+Send : Enviar
+
+---------------
+
+Address : 190.195.85.43
+Nombre : Cecilia
+Apellido : Passarini
+Cargo : Arquitecta
+Direccion : charcas 3131
+Ciudad : Capital Federal
+Telefono : 1536409546
+Email : arq.cpassarini@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : estoy buscando empleo en el area de arquitectura, reformas, diseño de interiores
+Security_code : bwkbr
+Send : Enviar
+
+---------------
+
+Address : 181.164.244.136
+Nombre : Mirta
+Apellido : Taboada
+Cargo : Recepcionista/Asistente/Secretaria
+Direccion : Allison Bell 1560
+Ciudad : Quilmes
+Telefono : 1138960860
+Email : mir.taboada@live.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Tengo disponibilidad inmediata full time.
+
+
+Muchas gracias,
+
+Saludos cordiales,
+
+Mirta Taboada
+Security_code : s6f3b
+Send : Enviar
+
+---------------
+
+Address : 190.173.199.234
+Nombre : CRISTIAN DANIEL
+Apellido : APIS
+Cargo : OPERARIO
+Direccion : ALBARRACIN 2943
+Ciudad : LANUS
+Telefono : 01142205981
+Email : apiscristian@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : GRACIAS POR SU ATENCION.
+Security_code : WPRY3
+Send : Enviar
+
+---------------
+

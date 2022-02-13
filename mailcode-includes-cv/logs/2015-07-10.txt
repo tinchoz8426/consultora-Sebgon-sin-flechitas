@@ -1,0 +1,107 @@
+Address : 190.48.166.111
+Nombre : Gabriel Enrique
+Apellido : Núñez
+Cargo : electrónico-electricista / mantenimiento - laboratorio
+Direccion : Ricardo Gutierrez 2321
+Ciudad : moreno
+Telefono : 011-15-5938-6281
+Email : gab_en_nu@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : esta oferta laboral es comentada por mi amigo y ex compañero en Fate sr. sebastián souza, quien desempeña actualmente y desde hace varios años tareas similares en la empresa MP. 
+saludo atte. 
+Gabriel E. Nuñez
+Security_code : q66mp
+Send : Enviar
+
+---------------
+
+Address : 186.153.43.32
+Nombre : Marion
+Apellido : Keller
+Cargo : Seleccion de Personal
+Direccion : San Luis 4158
+Ciudad : Buenos Aires
+Telefono : 1144307726
+Email : marionkellerb@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Interesada en ganar experiencia en el área de consultoria, selección de personal.
+Security_code : vcmw7
+Send : Enviar
+
+---------------
+
+Address : 186.153.43.32
+Nombre : Marion
+Apellido : Keller
+Cargo : Seleccion de Personal
+Direccion : San Luis 4158
+Ciudad : Buenos Aires
+Telefono : 1144307726
+Email : marionkellerb@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Interesada en ganar experiencia en el área de consultoria, selección de personal.
+Security_code : vcmw7
+Send : Enviar
+
+---------------
+
+Address : 186.153.43.32
+Nombre : Marion
+Apellido : Keller
+Cargo : Seleccion de Personal
+Direccion : San Luis 4158
+Ciudad : Buenos Aires
+Telefono : 1144307726
+Email : marionkellerb@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Interesada en ganar experiencia en el área de consultoria, selección de personal.
+Security_code : 3zm6c
+Send : Enviar
+
+---------------
+
+Address : 24.232.133.233
+Nombre : Valeria Lucia
+Apellido : Oljenick
+Cargo : Recursos Humanos
+Direccion : Manuel Belzu 1820
+Ciudad : Buenos Aires
+Telefono : 1533171720
+Email : valeriaoljenick@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Part time por el turno tarde
+Security_code : xfmkv
+Send : Enviar
+
+---------------
+
+Address : 181.118.67.200
+Nombre : yuliana
+Apellido : rodriguez
+Cargo : cajera, administracion, atencion al publico 
+Direccion : b juan fanzolato mna b casa 7
+Ciudad : rawson
+Telefono : 02644288787
+Email : yulianitahh420@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : tener la posibilidad de demostrar los conocimientos adquiridos, como asi tambien mi capacidad de aprendizaje, superacion, y compromiso
+Security_code : t2xt6
+Send : Enviar
+
+---------------
+
+Address : 181.118.67.200
+Nombre : yuliana
+Apellido : rodriguez
+Cargo : cajera, administracion, atencion al publico 
+Direccion : b juan fanzolato mna b casa 7
+Ciudad : rawson
+Telefono : 02644288787
+Email : yulianitahh420@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : tener la posibilidad de demostrar los conocimientos adquiridos, como asi tambien mi capacidad de aprendizaje, superacion, y compromiso
+Security_code : t2xt6
+Send : Enviar
+
+---------------
+

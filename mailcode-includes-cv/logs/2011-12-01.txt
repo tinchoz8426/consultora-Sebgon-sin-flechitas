@@ -1,0 +1,30 @@
+Address : 190.194.58.141
+Nombre : natalia
+Apellido : iglesias
+Cargo : secretaria recepcionista
+Direccion : reconquista 2047
+Ciudad : b as
+Telefono : 1551317281
+Email : nat._87@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : busqueda de empleo
+Security_code : xn4ty
+Send : Enviar
+
+---------------
+
+Address : 190.31.6.5
+Nombre : silvio
+Apellido : sarthou
+Cargo : cajero administrativo
+Direccion : junin 2090
+Ciudad : san martin
+Telefono : 01147539689
+Email : el.23@live.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : me encuentro sin empleo en estos momentos,les envio mi c.v cuento con gran formación laboral.
+Security_code : k65k9
+Send : Enviar
+
+---------------
+

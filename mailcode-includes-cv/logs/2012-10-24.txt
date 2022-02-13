@@ -1,0 +1,78 @@
+Address : 200.125.76.75
+REF : jefe-de-operaciones
+Nombre : Dario
+Apellido : Mercado
+Cargo : Jefe de Operaciones
+Direccion : Pasaje. Dr. Norberto Quirno Costa N. 1274
+Ciudad : Ciudad Autónoma de Bs.As.
+Telefono : 39725781
+Email : dario2809@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Mi orientación es Operativa de depósitos, Logística, manejo de transportes, trabajo en equipo, un solucionador de problemas, con experiencia en Depósitos Fiscales y operaciones portuarias.
+Security_code : y5tdg
+Send : Enviar
+
+---------------
+
+Address : 200.125.76.75
+REF : administrativo-logistica
+Nombre : Dario
+Apellido : Mercado
+Cargo : Administrativo de Logística.
+Direccion : Pasaje. Dr. Norberto Quirno Costa N. 1274
+Ciudad : Ciudad autonoma de Bs.As.
+Telefono : 39725781
+Email : dario2809@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Cuento con amplia experiencia, tanto administrativa como operativa. 
+Security_code : m548y
+Send : Enviar
+
+---------------
+
+Address : 186.56.82.160
+Nombre : Walter Dario
+Apellido : Lujan
+Cargo : Clarkista/ Operario de expedicion/deposito
+Direccion : Acoyte 12414
+Ciudad : Virrey del Pino, Bs. As.
+Telefono : 15-6014-0792          02202-491002
+Email : walterlujan82@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Necesito conseguir un empleo que me permita seguir progresando.
+Security_code : xfmfv
+Send : Enviar
+
+---------------
+
+Address : 186.56.82.160
+Nombre : Walter Dario
+Apellido : Lujan
+Cargo : Clarkista/ Operario de expedicion/deposito
+Direccion : Acoyte 12414
+Ciudad : Virrey del Pino, Bs. As.
+Telefono : 15-6014-0792          02202-491002
+Email : walterlujan82@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Espero me ayuden a conseguir un empleo para seguir progresando.
+Security_code : 6nfpd
+Send : Enviar
+
+---------------
+
+Address : 190.31.71.77
+Nombre : Rubén Oscar
+Apellido : Rotela
+Cargo : Comercialización y ventas. Area de negocios
+Direccion : Av. Santa Fe 615
+Ciudad : Córdoba
+Telefono : 0351 4724776
+Email : rrotela7@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto CV para Vtra evaluación.
+Atte
+Security_code : ymknb
+Send : Enviar
+
+---------------
+

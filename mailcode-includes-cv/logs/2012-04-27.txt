@@ -1,0 +1,46 @@
+Address : 200.89.129.94
+REF : jefe-de-operaciones
+Nombre : Luciana
+Apellido : De Roo
+Cargo : Administrativo/ventas/cajas
+Direccion : Maria Ester Perez nº 1516
+Ciudad : Luján
+Telefono : 0232315665134
+Email : lucianaderoo@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estoy buscando un trabajo donde pueda desarrollar mis conocimientos y pueda permanecer
+Security_code : xbqhb
+Send : Enviar
+
+---------------
+
+Address : 201.216.217.189
+Nombre : mariano
+Apellido : pinna 
+Cargo : repositor 
+Direccion : barrio alberdi . av colon y pasaje lemos 
+Ciudad : cordoba 
+Telefono : 0261 156 01 02 62 
+Email : marianocjs@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : capacidad para cualquier area de trabajo . 
+Security_code : h3xxd
+Send : Enviar
+
+---------------
+
+Address : 190.17.170.59
+Nombre : Lucas Gabriel
+Apellido : Valerio
+Cargo : Pasantía
+Direccion : Sarmiento 884
+Ciudad : Campana
+Telefono : 3489-637287
+Email : lucasvalerio@fibertel.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Estudiante de la carrera de Contador Público cursando 3er. año.
+Security_code : zgz5s
+Send : Enviar
+
+---------------
+

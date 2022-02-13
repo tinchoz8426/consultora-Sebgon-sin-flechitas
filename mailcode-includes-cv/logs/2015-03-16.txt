@@ -1,0 +1,90 @@
+Address : 190.183.2.122
+Nombre : Andres 
+Apellido : Lodolo
+Cargo : Empleado
+Direccion : Pascual Palma 317
+Ciudad : Parana
+Telefono : 4236680
+Email : andreslodolo8@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto cv, para futuro trabajo. gracias
+Security_code : 2ykws
+Send : Enviar
+
+---------------
+
+Address : 181.45.146.157
+Nombre : Mercedes
+Apellido : Riccelli
+Cargo : Coordinadora de Grupos- Psicóloga Social 
+Direccion : Pueyrredon 
+Ciudad : Haedo
+Telefono : 1530574492
+Email : mercericcelli@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Búsqueda laboral
+Security_code : t7kyq
+Send : Enviar
+
+---------------
+
+Address : 181.45.146.157
+Nombre : Mercedes
+Apellido : Riccelli
+Cargo : Coordinadora de Grupos- Psicóloga Social 
+Direccion : Pueyrredon 
+Ciudad : Haedo
+Telefono : 1530574492
+Email : mercericcelli@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Búsqueda laboral
+Security_code : t7kyq
+Send : Enviar
+
+---------------
+
+Address : 186.23.229.22
+Nombre : Nicolas Francisco
+Apellido : Domanico
+Cargo : Coordinador/Asistente
+Direccion : Pasteur 2510
+Ciudad : San Justo
+Telefono : 1538822123
+Email : nicolasfranciscodomanico@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Deseo formar parte de su staff. 
+Security_code : bczbd
+Send : Enviar
+
+---------------
+
+Address : 190.31.92.242
+Nombre : Magdalena 
+Apellido : Trias
+Cargo : recepcionista
+Direccion : Juramento 1347 5A
+Ciudad : CABA
+Telefono : 1535415656
+Email : maguitrias@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : estoy interesada en postularme a un empleo part time, preferible turno tarde
+Security_code : 6bgkj
+Send : Enviar
+
+---------------
+
+Address : 186.22.170.194
+Nombre : Paola
+Apellido : Imbriale
+Cargo : Abogada
+Direccion : Convencion 761
+Ciudad : Tablada
+Telefono : 44544565
+Email : pao.2.i@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : CARGO CV
+Security_code : t9pch
+Send : Enviar
+
+---------------
+

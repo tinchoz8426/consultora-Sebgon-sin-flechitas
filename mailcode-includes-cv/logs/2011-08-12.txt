@@ -1,0 +1,43 @@
+Address : 190.195.35.62
+REF : gerente-de-operaciones
+Nombre : Maria sofia
+Apellido : Maccarrone
+Cargo : Secretaria, recepcionista, asistente, telefonista
+Direccion : j. salguero 1969 1
+Ciudad : Capital federal
+Telefono : 1565126451
+Email : sofaa.m@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : ESTUDIOS REALIZADOS
+Administración de Empresas, UBA (en curso)
+Secundario: Osvaldo Magnasco (2005-2008) Técnico en Administración de Empresas, 
+Instituto Corazón de María (2009-año de egreso) con orientación en Administración de Empresas.
+Primaria: Ursula Llames de La puente.
+
+EXPERIENCIA LABORAL
+Arcos Dorados S.A.
+Atención al público, anfitriona, ventas (planificación de ventas diarias y mensual), ventas telefónicas, marketing, tareas administrativas (tareas de archivo, ordenamiento y destrucción de la documentación), recursos humanos (legajos, convocación de nuevos empleados), recepción de llamadas, resolución de problemas, etc. (2008- Actualidad)
+Consultorio odontológico Dr. Mazzone
+Secretaria, recepcionista, armado de turnos (2007)
+Estudio de arquitectura Arq. Angelo Maccarrone 
+Secretaria, recepcionista, tareas varias (2006)
+
+IDIOMAS
+Italiano -oral y escrito avanzado en CECIE. (2000-2006)
+Inglés - oral y escrito básico en escuela Primaria y Secundaria
+Francés - básico en W. Posse. (2007)
+ 
+
+INFORMATICA
+Sistema operativo Windows
+Programas de Office
+Curso de java y computación en Fundación Proydesa, Suipacha 280 (2008).
+
+OTROS CURSOS
+Protocolo y Ceremonial, Universidad de Palermo.
+
+Security_code : wcrdd
+Send : Enviar
+
+---------------
+

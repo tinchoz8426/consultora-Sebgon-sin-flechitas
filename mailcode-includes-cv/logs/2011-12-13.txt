@@ -1,0 +1,32 @@
+Address : 190.191.217.217
+Nombre : Valeria
+Apellido : Rey
+Cargo : Marketing
+Direccion : Zapata 124
+Ciudad : Capital Federa
+Telefono : 1541660007
+Email : valuroi@yahoo.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto mi CV para ser considerado en posibles bùsquedas.
+Gracias
+Valeria Rey
+Security_code : 6rfst
+Send : Enviar
+
+---------------
+
+Address : 190.176.176.89
+Nombre : Horacio
+Apellido : Naselli
+Cargo : Asistente/Auxiliar Administrativo
+Direccion : Patricias mendocinas 643 Las Heras
+Ciudad : Mendoza
+Telefono : 02614306597
+Email : h.r.naselli@live.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Desearía formar parte de una organización para poder desarrollar mis conocimientos, cumpliendo y superando en todo momento las expectativas y necesidades laborares que se me presenten o se me requieran, con posibilidades de crecimiento profesional en un buen ambiente laboral.
+Security_code : 5f3x3
+Send : Enviar
+
+---------------
+

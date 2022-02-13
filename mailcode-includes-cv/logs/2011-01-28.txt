@@ -1,0 +1,15 @@
+Address : 190.48.151.50
+Nombre : Barbara
+Apellido : Lamanna Acuña
+Cargo : Recepción, administrativa
+Direccion : Santiago del Estero 2921
+Ciudad : Merlo
+Telefono : 1561971690
+Email : barbylam@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Busco un empleo part-time para acompañar  mis estudios
+Security_code : 8x9n6
+Send : Enviar
+
+---------------
+

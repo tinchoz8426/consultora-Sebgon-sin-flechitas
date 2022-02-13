@@ -1,0 +1,32 @@
+Address : 190.194.163.169
+Nombre : Monica Daiana
+Apellido : Velasquez
+Cargo : Diseño de interiores
+Direccion : Jeronimo Salguero 2294
+Ciudad : CABA
+Telefono : 1560141409
+Email : mdv.daiana@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola, les adjunto mi curriculum vitae para que me tengan en cuenta en cualquier puesto referido a la decoración, diseño de interiores o afines. Soy Estudiante de Diseño de interiores, tengo todas las materias de la carrera cursada por ende estoy disponible Full Time.
+Gracias y Saludos 
+Daiana Velasquez
+Security_code : 93md8
+Send : Enviar
+
+---------------
+
+Address : 201.212.107.141
+Nombre : Yanina
+Apellido : Piscione
+Cargo : cualquiera
+Direccion : zavalla 3853
+Ciudad : Rosario
+Telefono : 0341 5859555
+Email : yanina.piscione@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Soy una persona muy impetuosa y con muchas ganas de trabajar. Quiero poder superarme día a día en mi trabajo.
+Security_code : njvv3
+Send : Enviar
+
+---------------
+

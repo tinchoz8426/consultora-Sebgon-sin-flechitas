@@ -1,0 +1,171 @@
+Address : 190.228.136.108
+Nombre : Virginia
+Apellido : Martin
+Cargo : Gerente de Empresas de Salud
+Direccion : Roque Celentano 273
+Ciudad : Alta Gracia Cordoba
+Telefono : 351-6163443
+Email : vm_1967_1@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Preferentemente, ciudad de Cordoba
+Security_code : w7dbq
+Send : Enviar
+
+---------------
+
+Address : 186.19.21.36
+Nombre : Soledad Cynthia 
+Apellido : Villalba
+Cargo : Atención al cliente.
+Direccion : General Rodríguez 768
+Ciudad : Lanús 
+Telefono : 15-5859-6269
+Email : soledad_villalba@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : De mi consideración:
+
+Tengo el agrado de dirigirme a usted con el objeto de participar en búsquedas acordes a mi perfil en su empresa. El motivo de la presente es presentarme y solicitarle una oportunidad de trabajo. Por este medio le envio mi curriculum vitae para que sea tomado en cuenta en sus vacantes disponibles.
+
+Me considero una persona muy emprendedora, trabajadora y de retos, cuento con la experiencia necesaria para puestos de cajas y administración y una gran habilidad en atención al cliente. 
+Desde joven he demostrado mucha responsabilidad, y lealtad a mi trabajo. Mi aspiración y deseo más grande es poder desarrollarme en una empresa renombrada como la suya, donde pueda crecer profesionalmente y personalmente. 
+
+Quedo a su entera disposición ante una eventual entrevista personal con el objetivo de profundizar aspectos de mi perfil que resulten de su interés. 
+
+Sin otro particular, aprovecho esta oportunidad para saludarlo cordialmente. 
+
+Villalba Soledad Cynthia.
+Security_code : 857qr
+Send : Enviar
+
+---------------
+
+Address : 186.140.192.9
+REF : electromecanico
+Nombre : federico
+Apellido : barsi
+Cargo : tecnico electromecanico
+Direccion : simon bolivar 358
+Ciudad : bahia blanca
+Telefono : 0291 4883139
+Email : federicobarsi@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : te deji mi cv para el puesto requerido por ustedes
+Security_code : gq9zx
+Send : Enviar
+
+---------------
+
+Address : 190.174.41.27
+REF : electromecanico
+Nombre : malvina soledad
+Apellido : carabajal
+Cargo : aperaria-produccion
+Direccion : tinogasta 287
+Ciudad : isidro casanova
+Telefono : 4694-7616--1567074261
+Email : malso55@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola les mando mi curriculum..
+Security_code : yn3bd
+Send : Enviar
+
+---------------
+
+Address : 200.3.217.105
+REF : electromecanico
+Nombre : Luis Fernando
+Apellido : Ramirez
+Cargo : empleado, oficial electricista
+Direccion : parque belgrano dpto 6 etapa 4 block 47
+Ciudad : salta
+Telefono : 0387-154148519
+Email : michifr@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : bueno no tengo mucha experiencia en motores pero si en electricidad desde ya muchisima gracias por leer este pequeñño msj estoy dispuesto a dar lo mejor de mi por que me interesa el trabajo y me hace falta gracia s
+Security_code : w8vjz
+Send : Enviar
+
+---------------
+
+Address : 190.138.166.193
+Nombre : Nadia
+Apellido : Maini
+Cargo : Técnica en Seguridad e Higiene - Control Ambiental.
+Direccion : Izarra 605
+Ciudad : Villa Constitución
+Telefono : 03400 - 475101
+Email : gimenezmaini@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estoy en la búsqueda de una experiencia laboral sólida. Por esa razón le adjunto mi CV.
+Soy técnica en Seguridad e Higiene industrial y control ambiental.
+Security_code : tsk53
+Send : Enviar
+
+---------------
+
+Address : 190.173.117.13
+Nombre : Romina 
+Apellido : Leguizamon
+Cargo : Administrativo, atencion al cliente
+Direccion : Dolores de Huicci 3132
+Ciudad : Hurlingham
+Telefono : 1566922360
+Email : romipl97@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Es mi intención manifestarle mi interés por integrarme a su equipo de trabajo. Tengo como objetivo desempeñarme en una posición que permita brindar mis conocimientos y experiencia y crecer en mi desarrollo profesional. 
+
+
+	Deseo tener una entrevista con Usted para poder ampliarle mis conocimientos y experiencia. 
+       
+            
+	Adjunto mi curriculum vitae quedando a la espera de su llamado.
+
+Saludo a Usted muy atentamente, 
+
+
+
+	Leguizamón Romina
+
+Security_code : dwbdf
+Send : Enviar
+
+---------------
+
+Address : 201.255.101.73
+Nombre : Horacio Rodolfo
+Apellido : Etchevest
+Cargo : Jefe Coordinador Contador Público
+Direccion : 476 N° 3206
+Ciudad : City Bell
+Telefono : 0221 472 1126
+Email : horacio.etchevest@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Soy un profesional con más de 25 años de experiencia laboral en distinto tipo de organizaciones, responsable, orientado al trabajo en equipo y al logro de resultados, con habilidades para negociar y generar productivas relaciones interpersonales y un activo colaborador en la solución de problemas. 
+Estas características permiten contar con el conocimiento adecuado para definir acciones administrativas correctas y proponer el diseño de flujo de información del proceso administrativo que agilice el cumplimiento de obligaciones legales y la toma de decisiones más conveniente.
+ Agradeciendo su tiempo quedo a la espera de concretar una entrevista laboral.
+ Atte. Horacio R. Etchevest
+
+Security_code : 45xmj
+Send : Enviar
+
+---------------
+
+Address : 201.255.101.73
+Nombre : Horacio Rodolfo
+Apellido : Etchevest
+Cargo : Jefe Coordinador Contador Público
+Direccion : 476 N° 3206
+Ciudad : City Bell
+Telefono : 0221 472 1126
+Email : horacio.etchevest@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Soy un profesional con más de 25 años de experiencia laboral en distinto tipo de organizaciones, responsable, orientado al trabajo en equipo y al logro de resultados, con habilidades para negociar y generar productivas relaciones interpersonales y un activo colaborador en la solución de problemas. 
+Estas características permiten contar con el conocimiento adecuado para definir acciones administrativas correctas y proponer el diseño de flujo de información del proceso administrativo que agilice el cumplimiento de obligaciones legales y la toma de decisiones más conveniente.
+ Agradeciendo su tiempo quedo a la espera de concretar una entrevista laboral.
+ Atte. Horacio R. Etchevest
+
+Security_code : rwntm
+Send : Enviar
+
+---------------
+

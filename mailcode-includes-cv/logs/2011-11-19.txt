@@ -1,0 +1,15 @@
+Address : 186.135.5.30
+Nombre : jorge david
+Apellido : gallo
+Cargo : operario
+Direccion : rossini 67
+Ciudad : merlo
+Telefono : 02204800484
+Email : jdgmerlo@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : hola me llamo david estoy buscando trabajo, preferentemente relacionado con informatica. gracias
+Security_code : x43w8
+Send : Enviar
+
+---------------
+

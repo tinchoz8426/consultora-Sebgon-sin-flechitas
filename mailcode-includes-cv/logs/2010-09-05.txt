@@ -1,0 +1,16 @@
+Address : 190.49.110.249
+REF : gerente-financiero
+Nombre : MARIANA
+Apellido : CAPARROS
+Cargo : ADMINISTRATIVO
+Direccion : IRALA 4391
+Ciudad : MAR DEL PLATA
+Telefono : 02234899213/155511143
+Email : marianmdq@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : En la actualidad estoy viviendo en Mar del Plata,tengo muchas ganas de migrar a otra ciudad.
+Security_code : vmfrq
+Send : Enviar
+
+---------------
+

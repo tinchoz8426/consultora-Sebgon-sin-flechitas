@@ -1,0 +1,153 @@
+Address : 190.192.205.143<br>
+ <br>Nombre : María Soledad
+ <br>Apellido :  Giménez
+ <br>Cargo : Repositora cajera limpieza 
+ <br>Direccion : Besares 4650
+ <br>Ciudad : Cuidadela
+ <br>Telefono : 1135586738
+ <br>Email : enzoyjuli@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Necesito trabajar x la mañana 
+ <br>Security_code : nttd6
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.27<br>
+ <br>Nombre : Juan jose sanchez
+ <br>Apellido : Sanchez
+ <br>Cargo : Operario
+ <br>Direccion : Nicasio Oroño 1867
+ <br>Ciudad : Ituzaingó
+ <br>Telefono : 1537580914
+ <br>Email : juanjosesanchez1986raby@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Es la primera vez después de 14 años en la que estoy desempleado desde enero sin tener ni siquiera una entrevista
+ <br>Security_code : 4h54z
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.29.178.171<br>
+ <br>Nombre : Mariela Ethel 
+ <br>Apellido : Gigli 
+ <br>Cargo : Administrativa 
+ <br>Direccion : Bv. Vélez Sarsfield 787
+ <br>Ciudad : Villa maria,Córdoba 
+ <br>Telefono : (353) 4760598
+ <br>Email : MariG_287@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estoy en la búsqueda de trabajo,dentro de mis capacidades,para una vida de progreso y mejora.
+ <br>Security_code : drpzs
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.29.178.171<br>
+ <br>Nombre : Mariela Ethel 
+ <br>Apellido : Gigli 
+ <br>Cargo : Administrativa 
+ <br>Direccion : Bv. Vélez Sarsfield 787
+ <br>Ciudad : Villa maria,Córdoba 
+ <br>Telefono : (353) 4760598
+ <br>Email : MariG_287@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estoy en la búsqueda de trabajo,dentro de mis capacidades,para una vida de progreso y mejora.
+ <br>Security_code : drpzs
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.29.178.171<br>
+ <br>Nombre : Mariela Ethel 
+ <br>Apellido : Gigli 
+ <br>Cargo : Administrativa 
+ <br>Direccion : Bv. Vélez Sarsfield 787
+ <br>Ciudad : Villa maria,Córdoba 
+ <br>Telefono : (353) 4760598
+ <br>Email : MariG_287@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estoy en la búsqueda de trabajo,dentro de mis capacidades,para una vida de progreso y mejora.
+ <br>Security_code : drpzs
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.29.178.171<br>
+ <br>Nombre : Mariela Ethel 
+ <br>Apellido : Gigli
+ <br>Cargo : Administrativo 
+ <br>Direccion : Bv. Vélez Sarsfield 787
+ <br>Ciudad : Villa maría, Córdoba 
+ <br>Telefono : (353) 4760598
+ <br>Email : MariG_287@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estoy la búsqueda de trabajo,dentro de mis capacidades,para una vida de progreso y de mejora.
+ <br>Security_code : npc2y
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.244.59.201<br>
+ <br>REF : TEC. EL
+ <br>Nombre : carlos
+ <br>Apellido : monico
+ <br>Cargo : técnico electrónico especializado
+ <br>Direccion : thorne 927, ituzaingo
+ <br>Ciudad : ITUZAINGO (CP=1714)
+ <br>Telefono : 01153840857
+ <br>Email : monicocd@gmail.com 
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : deseria tener una entrevista por favor para extender mas sobre mis logros y experiencia laboral
+ <br>Security_code : dbjxb
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.46.165.87<br>
+ <br>Nombre : yriani yasmin
+ <br>Apellido : alvarez blanco
+ <br>Cargo : almacenista administrativo vendedora
+ <br>Direccion : av.mexico 2850, balvanera caba
+ <br>Ciudad : buenos aires
+ <br>Telefono : 1144710805
+ <br>Email : ariannie15k@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Responsable, honesta,disposicion de aprendizaje,proactiva,trabajo en equipo.disposicion de crecimiento laboral y personal.
+Disposicion full time
+ <br>Security_code : 8t46s
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.105.144.63<br>
+ <br>Nombre : Diego
+ <br>Apellido : Palacio
+ <br>Cargo : Operario
+ <br>Direccion : Blanco encalada 2376
+ <br>Ciudad : Rosario
+ <br>Telefono : 3412554365
+ <br>Email : Caserioeliana5@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Quiero postularme a algun puesto de trabajo acorde a mis experiencia,o aprender sobre algun rubro nuevo,muchas gracias
+ <br>Security_code : V3rvc
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.95.225.42<br>
+ <br>REF : ACO-1
+ <br>Nombre : Pablo Daniel
+ <br>Apellido : Juri
+ <br>Cargo : ANALISTA DE COMERCIO INTERNACIONAL/EXTERIOR
+ <br>Direccion : Carlos A. López 2491 2º "D"
+ <br>Ciudad : Capital Federal
+ <br>Telefono : 1535620211
+ <br>Email : juripablo@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Adjunto CV para la oferta de referencia
+ <br>Security_code : r76kg
+ <br>Send : Enviar
+ <br>
+---------------
+

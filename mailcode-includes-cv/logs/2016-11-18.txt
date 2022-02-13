@@ -1,0 +1,72 @@
+Address : 190.3.27.134<br>
+ <br>REF : ROT-1
+ <br>Nombre : sergio
+ <br>Apellido : martinez
+ <br>Cargo : Proyectista /programador
+ <br>Direccion : Villates 4002
+ <br>Ciudad : Vicente Lopez
+ <br>Telefono : 1150023544
+ <br>Email : sergiomart78@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Adjunto. cv
+ <br>Security_code : trknw
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.3.27.134<br>
+ <br>REF : ROT-1
+ <br>Nombre : sergio
+ <br>Apellido : martinez
+ <br>Cargo : Proyectista /programador
+ <br>Direccion : Villates 4002
+ <br>Ciudad : Vicente Lopez
+ <br>Telefono : 1150023544
+ <br>Email : sergiomart78@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Adjunto. cv
+ <br>Security_code : trknw
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.143.134.216<br>
+ <br>REF : JPER-1
+ <br>Nombre : Alejandro Tomas 
+ <br>Apellido : Formanowicz 
+ <br>Cargo : Jefe de Recursos Humanos
+ <br>Direccion : Piñeyro 4541
+ <br>Ciudad : Jose Clemente Paz
+ <br>Telefono : 1166744024
+ <br>Email : alejandro0778@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados: Les envío mi cv para su evaluacion a cubrir el puesto de Jede de RRHH
+
+Saludos Cordiales 
+
+Tomás Formanowicz
+ <br>Security_code : ckjvt
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.143.134.216<br>
+ <br>Nombre : Alejandro Tomas 
+ <br>Apellido : Formanowicz 
+ <br>Cargo : Jefe de Recursos Humanos
+ <br>Direccion : Piñeyro 4541
+ <br>Ciudad : Jose Clemente Paz
+ <br>Telefono : 1166744024
+ <br>Email : alejandro0778@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados:
+          Les envio mi cv para ser evaluado en futuras búsquedas según mi perfil experiencia y capacidades.
+
+Saludos Cordiales 
+
+Tomás Formanowicz
+ <br>Security_code : gz8hx
+ <br>Send : Enviar
+ <br>
+---------------
+

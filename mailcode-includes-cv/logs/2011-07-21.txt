@@ -1,0 +1,26 @@
+Address : 201.231.189.37
+Nombre : María Guilllermina
+Apellido : Arbeleche
+Cargo : Finanzas
+Direccion : Neochea 229 8 B
+Ciudad : Salta
+Telefono : 3875051751
+Email : guillemaria@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Tengo el agrado de dirigirme a Ud. a fin de acercarle mi CV, para eventuales búsquedas acordes a mi perfil.
+
+En cuanto a mi formación, soy Contadora Pública Nacional egresada de la UCA con experiencia financiera en el área de Risk & Control Managment. Me considero proactiva y con capacidad de liderazgo. 
+
+Una entrevista será el marco adecuado donde pueda profundizar aspectos de mi perfil que resulten de su interés. 
+
+Sin otro particular, aprovecho esta oportunidad para saludarlo/a cordialmente. 
+
+María Guillermina Arbeleche 
+Cel. 15 5051751
+guillemaria@yahoo.com.ar
+
+Security_code : rvp72
+Send : Enviar
+
+---------------
+

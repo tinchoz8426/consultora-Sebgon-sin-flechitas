@@ -1,0 +1,205 @@
+Address : 190.178.66.129<br>
+ <br>Nombre : Romina
+ <br>Apellido : Vicencio
+ <br>Cargo : Empleada en estación de servicio
+ <br>Direccion : Eva Perón 292
+ <br>Ciudad : Villa Regina
+ <br>Telefono : 2984320703
+ <br>Email : RomiVicencio@hotmail.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Le saludo atte adjunto q7e tengo experiencia en trabajos administrativos
+ <br>Security_code : cc94s
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.30.7.165<br>
+ <br>REF : ACO-1
+ <br>Nombre : Daniel
+ <br>Apellido : Urrutia
+ <br>Cargo : analista de comercio exterior
+ <br>Direccion : Somoza 1021
+ <br>Ciudad : San Nicolás de los Arroyos
+ <br>Telefono : 03364453908
+ <br>Email : urrutiadanieldavid@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Dejo disponible dicha información ya que estoy estudiando comercio internacional. Estoy en ultimo año y  me gustaría implementar los conocimientos adquiridos.
+ <br>Security_code : j63zq
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 200.59.80.22<br>
+ <br>Nombre : Pablo David
+ <br>Apellido : Gomez Cortez
+ <br>Cargo : venta
+ <br>Direccion : florida 3618 este medanito rawson
+ <br>Ciudad : san juan
+ <br>Telefono : 2644510265
+ <br>Email : pablo_sj87@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : busco empleo
+ <br>Security_code : q5yx8
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.59.181.172<br>
+ <br>REF : TEC. EL
+ <br>Nombre : Daniel
+ <br>Apellido : Rovella
+ <br>Cargo : Tecnico
+ <br>Direccion : Pallares 1937
+ <br>Ciudad : Lanus Oeste
+ <br>Telefono : 1557938088
+ <br>Email : danielrovella@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buen Dìa.
+les adminto mi Cv para postularme como tecnico electronico.
+ <br>Security_code : zf5hr
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.106.120.192<br>
+ <br>Nombre : DAVID MARTIN
+ <br>Apellido : RIOS 
+ <br>Cargo : OPERARIO/CHOFER/LOGISTICA
+ <br>Direccion : RIVADAVIA 1696
+ <br>Ciudad : ROSARIO
+ <br>Telefono : 3412602457
+ <br>Email : riosdavidmartin111@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : DESDE YA MUCHAS GRACIAS POR SU TIEMPO, A DISPOSICIÓN PARA UNA ENTREVISTA LABORAL. SIN MAS ATTE RIOS DAVID MARTIN 5/10/2018.
+ <br>Security_code : shv2s
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 35.211.73.12<br>
+ <br>REF : SP-1
+ <br>Nombre : Jose
+ <br>Apellido : Briceño
+ <br>Cargo : Supervisor
+ <br>Direccion : Cañada de Gómez 1346
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 1150159761
+ <br>Email : josebritell@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Tengo experiencia en el manejo de personal.
+ <br>Security_code : zgzrt
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 35.211.73.12<br>
+ <br>REF : SP-1
+ <br>Nombre : Jose
+ <br>Apellido : Briceño
+ <br>Cargo : Supervisor
+ <br>Direccion : Cañada de Gómez 1346
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 1150159761
+ <br>Email : josebritell@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Tengo experiencia en el manejo de personal.
+ <br>Security_code : zgzrt
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 35.211.73.12<br>
+ <br>REF : SP-1
+ <br>Nombre : Jose
+ <br>Apellido : Briceño
+ <br>Cargo : Supervisor
+ <br>Direccion : Cañada de Gómez 1346
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 1150159761
+ <br>Email : josebritell@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Tengo experiencia en el manejo de personal.
+ <br>Security_code : zgzrt
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 35.211.73.12<br>
+ <br>REF : SP-1
+ <br>Nombre : Jose
+ <br>Apellido : Briceño
+ <br>Cargo : Supervisor
+ <br>Direccion : Cañada de Gómez 1346
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 1150159761
+ <br>Email : josebritell@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Tengo experiencia en el manejo de personal.
+ <br>Security_code : zgzrt
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 35.211.73.12<br>
+ <br>REF : SP-1
+ <br>Nombre : Jose
+ <br>Apellido : Briceño
+ <br>Cargo : Supervisor
+ <br>Direccion : Cañada de Gómez 1346
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 1150159761
+ <br>Email : josebritell@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Tengo experiencia en el manejo de personal.
+ <br>Security_code : zgzrt
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 35.211.73.12<br>
+ <br>REF : SP-1
+ <br>Nombre : Jose
+ <br>Apellido : Briceño
+ <br>Cargo : Supervisor
+ <br>Direccion : Cañada de Gómez 1346
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 1150159761
+ <br>Email : josebritell@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Tengo experiencia en el manejo de personal.
+ <br>Security_code : zgzrt
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.125.185.11<br>
+ <br>Nombre : Iván
+ <br>Apellido : Chávez
+ <br>Cargo : Ayudante
+ <br>Direccion : B Eva Perón M14 C36
+ <br>Ciudad : Formosa _ Capital
+ <br>Telefono : 3704926524
+ <br>Email : Chavezivan@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Busco Trabajo
+ <br>Security_code : Wfks8
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.111.206.122<br>
+ <br>REF : TEC. EL
+ <br>Nombre : luis
+ <br>Apellido : aldana
+ <br>Cargo : tecnico
+ <br>Direccion : sta maria de oro 1210
+ <br>Ciudad : moron
+ <br>Telefono : 1553311137
+ <br>Email : luisalberto.aldana@pmi.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : hola: me postulo al puesto de tecnico
+ <br>Security_code : 9cnh7
+ <br>Send : Enviar
+ <br>
+---------------
+

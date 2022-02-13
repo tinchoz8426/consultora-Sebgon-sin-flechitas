@@ -1,0 +1,141 @@
+Address : 190.231.84.233
+Nombre : Noelia
+Apellido : Marrella
+Cargo : Atención al cliente
+Direccion : Miguel Angel 1352
+Ciudad : Jose Leon Suarez
+Telefono : 1563689499
+Email : noe_marrella@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Deseo postularme para puestos de atención al cliente (call center, vendedora de salon, caja, camarera)
+Security_code : mhpjc
+Send : Enviar
+
+---------------
+
+Address : 190.231.84.233
+Nombre : Noelia
+Apellido : Marrella
+Cargo : Atención al cliente
+Direccion : Miguel Angel 1352
+Ciudad : Jose Leon Suarez
+Telefono : 1563689499
+Email : noe_marrella@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Deseo postularme para puestos de atención al cliente (call center, vendedora de salon, caja, camarera)
+Security_code : mhpjc
+Send : Enviar
+
+---------------
+
+Address : 186.61.62.125
+Nombre : Omar Ernesto
+Apellido : Brañeiro
+Cargo : ADMINISTRACION,COORDINACION,TRANSPORTE
+Direccion : E. Fernandz 1724
+Ciudad : Lanus Oeste
+Telefono : 1142621447
+Email : omarbra@outlook.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Cv Omar Brañeiro,53 años,amplia experiencia y continuidad laboral.Muy Responsable
+Security_code : cm88f
+Send : Enviar
+
+---------------
+
+Address : 186.61.62.125
+Nombre : Omar Ernesto
+Apellido : Brañeiro
+Cargo : ADMINISTRACION,COORDINACION,TRANSPORTE
+Direccion : E. Fernandz 1724
+Ciudad : Lanus Oeste
+Telefono : 1142621447
+Email : omarbra@outlook.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Cv Omar Brañeiro,53 años,amplia experiencia y continuidad laboral.Muy Responsable
+Security_code : cm88f
+Send : Enviar
+
+---------------
+
+Address : 186.61.62.125
+Nombre : Omar Ernesto
+Apellido : Brañeiro
+Cargo : ADMINISTRACION,COORDINACION,TRANSPORTE
+Direccion : E. Fernandz 1724
+Ciudad : Lanus Oeste
+Telefono : 1142621447
+Email : omarbra@outlook.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Cv Omar Brañeiro,53 años,amplia experiencia y continuidad laboral.Muy Responsable
+Security_code : cm88f
+Send : Enviar
+
+---------------
+
+Address : 186.61.62.125
+Nombre : Omar Ernesto
+Apellido : Brañeiro
+Cargo : ADMINISTRACION,COORDINACION,TRANSPORTE
+Direccion : E. Fernandz 1724
+Ciudad : Lanus Oeste
+Telefono : 1142621447
+Email : omarbra@outlook.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Cv Omar Brañeiro,53 años,amplia experiencia y continuidad laboral.Muy Responsable
+Security_code : dfrb7
+Send : Enviar
+
+---------------
+
+Address : 190.99.113.1
+Nombre : Analía
+Apellido : Sesin
+Cargo : Recepcionista-Secretaria Administrativa
+Direccion : Aquino 2208
+Ciudad : Ituzaingo
+Telefono : 1135864467
+Email : nataliaanalia.rs@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto mi Curriculum Vitae y quedo disponible para una entrevista de trabajo cuando ustedes lo dispongan.
+Muchas Gracias
+Security_code : skj2c
+Send : Enviar
+
+---------------
+
+Address : 186.59.50.112
+Nombre : Marianela
+Apellido : Serafini
+Cargo : Psicóloga
+Direccion : Hipólito Yrigoyen 2021
+Ciudad : San Juan
+Telefono : 2645080409
+Email : marianela.serafini@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados, les envío mi Curriculum Vitae para que sea analizado por las autoridades correspondientes. Soy Licenciada en Psicología y me encuentro en la búsqueda de de nuevas oportunidades que me ayuden a crecer y desarrollarme profesionalmente en el universo del hombre y su conducta tanto a nivel laboral como clínico. Mi formación ayudaría mucho a la empresa en cuanto al área de recursos humanos y selección de personal en el área de San Juan.
+Sin otro particular los saludo atentamente.
+Marianela Serafini
+Lic. en Psicología
+M.P. 1272
+Security_code : pfj2g
+Send : Enviar
+
+---------------
+
+Address : 181.28.114.187
+Nombre : Agustina Soledad
+Apellido : Román
+Cargo : Psicóloga
+Direccion : Julián Alvarez 2710
+Ciudad : Buenos Aires, Capital Federal
+Telefono : 1530159497
+Email : romanagus@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : A quien corresponda: Me llamo Agustina Román y soy Lic. en Psicología, adjunto mi CV ya que estoy buscando trabajo afin. Quedo a su disposición, muchas gracias.
+Lic. Agustina Román
+Security_code : ckt63
+Send : Enviar
+
+---------------
+

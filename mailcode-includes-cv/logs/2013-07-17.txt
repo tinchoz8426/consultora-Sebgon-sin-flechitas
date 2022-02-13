@@ -1,0 +1,19 @@
+Address : 181.29.29.101
+Nombre : Micaela Paula
+Apellido : Canavese
+Cargo : Relaciones Públicas/Comunicación
+Direccion : Pacheco de Melo 1941. Piso 7. Dpto.22
+Ciudad : Recoleta- Capital Federal
+Telefono : 3493-15417728
+Email : micaelacanavese@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : A quien corresponda:
+Adjunto cv a fin de que sea registrado en la base de datos de su consultora y pueda ser tenido en cuenta en futuras búsquedas laborales acordes a mi perfil.
+Agradeciendo la atención y a la espera de una repsuesta favorable,
+Saludo Atte.
+Micaela Canavese. 
+Security_code : xy68f
+Send : Enviar
+
+---------------
+

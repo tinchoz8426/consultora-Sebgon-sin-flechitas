@@ -1,0 +1,84 @@
+Address : 201.253.17.195
+Nombre : Ariel
+Apellido : Brizuela
+Cargo : Encuestador
+Direccion : Barrio 245 Ituzaingó y Jauretche
+Ciudad : Posadas
+Telefono : +54376-15-4659742
+Email : brizuelaa.bis@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados:
+Envío mi CV ante una eventual postualación.
+Atte. Gracias 
+Security_code : 34tvm
+Send : Enviar
+
+---------------
+
+Address : 201.253.17.195
+Nombre : Ariel
+Apellido : Brizuela
+Cargo : Encuestador
+Direccion : Barrio 245 Ituzaingó y Jauretche
+Ciudad : Posadas
+Telefono : +54376-15-4659742
+Email : brizuelaa.bis@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados:
+Envío mi CV ante una eventual postualación.
+Atte. Gracias 
+Security_code : 34tvm
+Send : Enviar
+
+---------------
+
+Address : 190.178.83.70
+Nombre : VANESA
+Apellido : FERNANDEZ
+Cargo : ADMINISTRATIVA CONTABLE
+Direccion : SAN MARTIN Nº 400
+Ciudad : EL HOYO 
+Telefono : 0280154852234
+Email : vanesafer.f85@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Poder ser considerada para el área Administrativa, considero que cuento con las características que se necesitan para desarrollar en forma eficiente las tareas que me sean asignadas. Me considero responsable y constante.
+Security_code : zybds
+Send : Enviar
+
+---------------
+
+Address : 190.192.182.103
+REF : GTE COM.EXT
+Nombre : Daniel
+Apellido : Dal Bo
+Cargo : Gerente de Comercio Exterior
+Direccion : Capdevila 3353 1B
+Ciudad : CABA
+Telefono : +541145451345
+Email : danieldalbo@fibertel.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : De mi mayor consideración, remito a Ustedes mi CV a efectos de ser analizado para la posición Gerente de Comercio Exterior. Atentamente. 
+Lic Daniel Dal Bo
+Security_code : ds5zw
+Send : Enviar
+
+---------------
+
+Address : 186.134.52.196
+Nombre : Esteban
+Apellido : Reilly
+Cargo : Comercial - Ventas
+Direccion : Arredondo 2441 Dpto. 4
+Ciudad : Castelar
+Telefono : 11 3640 1564
+Email : estebanareilly@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados Señores:
+Les pido me consideren para futuras búsquedas donde pueda ajustarse mi perfil, tratándose de un joven de 55 años.
+Cordiales saludos.
+Esteban Reilly.
+Security_code : t6s79
+Send : Enviar
+
+---------------
+

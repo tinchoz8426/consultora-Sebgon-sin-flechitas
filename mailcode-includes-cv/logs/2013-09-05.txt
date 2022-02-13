@@ -1,0 +1,30 @@
+Address : 190.173.104.155
+Nombre : Liliana Inés
+Apellido : Palleiro
+Cargo : Cajera bancaria/Tesorería
+Direccion : Felix Frias 3113
+Ciudad : Hurlingham
+Telefono : 15-55664083
+Email : lilianapalleiro@hotmail.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Deseo ser parte de una empresa que me permita la posibilidad de crecer profesionalmente.
+Security_code : j4dds
+Send : Enviar
+
+---------------
+
+Address : 190.176.37.196
+Nombre : Palomo
+Apellido : Maria Fernanda
+Cargo : Lic en Trabajo Social
+Direccion : Barrio Mebna 1 etapa mna B casa 12
+Ciudad : san Martin Mendoza
+Telefono : 0261155875914
+Email : mfernandapalomo@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Ofrezco mi servic para la realización de informes socioambientales en el ámbito laboral en las distintas ciudades de la Pcia. de Mendoza.   
+Security_code : bh4tr
+Send : Enviar
+
+---------------
+

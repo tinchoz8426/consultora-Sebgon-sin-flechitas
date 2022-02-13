@@ -1,0 +1,51 @@
+Address : 201.252.93.25
+REF : gerente-de-operaciones
+Nombre : Sebastian Ezequiel
+Apellido : Romero
+Cargo : Repositor externo/interno
+Direccion : Aristobulo del Valle 6903
+Ciudad : Jose Leon Suarez (San Martin) Prov. Bs As
+Telefono : 47203745
+Email : seba_romero_13@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje :                     CURRICULUM VITAE
+
+Datos personales:
+-Apellido: Romero
+-Nombre: Sebastián Ezequiel
+-Fecha de nacimiento: 20/09/1992
+-DNI: 37.184.546
+-Edad: 18 años
+-Domicilio: Aristóbulo Del Valle 6903
+-Localidad: José León Suárez
+-Partido: San Martín
+-Código Postal: 1655
+-Teléfono: 4720-3745
+-Estado Civil: Soltero
+
+Disponibilidad horaria:
+-De  lunes a domingos Full time
+ 
+
+Experiencia laboral:
+-Empresa: Arcos Dorados (MC Donall´s)
+-Empresa: Procter (Agencia: Bayton)
+-Empresa: Altozano (La Loma)                                            -Atención al cliente
+-manejo en caja                          
+-Repocitor externo
+- Repocitor interno
+-Volantero
+-Ayudante de maestro panadero
+-Ayudante de maestro de cocina
+-Encargado de cocina
+-Limpieza
+
+Objetivos a cumplir:
+
+-Cumplir en tiempo y forma con el trabajo que me demande la empresa.
+
+Security_code : cks7m
+Send : Enviar
+
+---------------
+

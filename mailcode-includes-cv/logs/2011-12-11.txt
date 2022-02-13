@@ -1,0 +1,36 @@
+Address : 190.50.221.150
+REF : jefe-de-garantia-de-calidad
+Nombre : Fernanda
+Apellido : Torres
+Cargo :  jefe-de-garantia-de-calidad 
+Direccion : 25 de mayo 837
+Ciudad : Ciudadela
+Telefono : 15-3203-3208
+Email : fernandatorres2001@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados, adjunto mi CV para postularme al puesto de referencia 2248154.
+Saludos cordiales,
+Bioq. Fernanda Torres
+Security_code : 3rmfh
+Send : Enviar
+
+---------------
+
+Address : 186.56.202.229
+REF : administrativo-logistica
+Nombre : Anabella Andrea
+Apellido : Coba Bruzzo
+Cargo : Administrativa
+Direccion : 9 de julio  443
+Ciudad : Merlo
+Telefono : 02204830158
+Email : ana.coba@live.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Le envio mi cv, espero dar con el perfil deseado.
+Aguardo su respuesta.
+Anabella
+Security_code : nyf5f
+Send : Enviar
+
+---------------
+

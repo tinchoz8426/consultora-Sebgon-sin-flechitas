@@ -1,0 +1,70 @@
+Address : 195.55.52.211
+Nombre : Pierre Pora
+Apellido : Pora
+Cargo : Gerente de Logística & Supply Chain
+Direccion : 139 c/MARQUES DE COMILLAS
+Ciudad : SABADELL
+Telefono : 34625351637
+Email : pierrepora@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimada señora,
+Le envío mi Currículum Vitae para su consideración y aprovecho para manifestarle mi interés en trabajar como Gerente de Logística,  que es lo que estado haciendo durante los últimos diez años en sectores muy diversos (distribución, automoción, productos electrónicos etc…).
+Actualmente,  estoy trabajando como Logistics Manager lo que me ha permitido fortalecer mi conocimiento de la gestión de presupuesto, mi capacidad de negociación con proveedores, mejora de procesos logísticos, y la gestión de equipos.
+También comentarle que resido en España pero mi objetivo es instalarme en Argentina por motivos personales en marzo 2012.
+Quedo a su entera disposición para proporcionarle cualquier otra información que pudiese interesarle, y si lo considera oportuno, para una entrevista. 
+Esperando sus noticias, le agradezco su atención y aprovecho la ocasión para saludarle atentamente.
+Pierre Pora
+
+Security_code : 96ypz
+Send : Enviar
+
+---------------
+
+Address : 190.193.108.219
+Nombre : Edit Leonor
+Apellido : Samalloa
+Cargo : Recursos Humanos
+Direccion : Pedro Ferré 3277
+Ciudad : Santa Fe
+Telefono : 0342-156144861
+Email : edit.samalloa@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me dirijo a Uds. con motivo de acerles conocer mi basta experiencia en elaboración de socioambientales y trabajos con Recursos Humanos. 
+Para ampliar mi perfil los invito a visitar creserh.com.ar
+Los saludo atentamente.
+Edit Samalloa
+Security_code : vtmjb
+Send : Enviar
+
+---------------
+
+Address : 190.174.188.33
+Nombre : Damian
+Apellido : Muratore
+Cargo : operario para media jornada
+Direccion : Pasaje Manuel Sola 4469
+Ciudad : villa Devoto
+Telefono : 4568-3549
+Email : damianmuratore@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : estoy dispuesto a trabajar media jornada
+Security_code : crnkp
+Send : Enviar
+
+---------------
+
+Address : 186.129.2.81
+Nombre : maria andrea
+Apellido : dos santos
+Cargo : operaria
+Direccion : andonaegui 836
+Ciudad : tesey
+Telefono : 44504085  1162539812
+Email : andre_dossantos69@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : hola busco trabajo urgente como operaria produccion por mi edad no concigo
+Security_code : rkfgg
+Send : Enviar
+
+---------------
+

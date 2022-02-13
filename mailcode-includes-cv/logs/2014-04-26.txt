@@ -1,0 +1,123 @@
+Address : 181.27.190.175
+Nombre : carla 
+Apellido : spinelli
+Cargo : preventista
+Direccion : luis viale 1050
+Ciudad : burzaco
+Telefono : 1530511170
+Email : scarlaviviana@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : busco empleo 
+Security_code : kmjzv
+Send : Enviar
+
+---------------
+
+Address : 181.27.190.175
+Nombre : carla 
+Apellido : spinelli
+Cargo : preventista
+Direccion : luis viale 1050
+Ciudad : burzaco
+Telefono : 1530511170
+Email : scarlaviviana@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : busco empleo 
+Security_code : kmjzv
+Send : Enviar
+
+---------------
+
+Address : 181.27.190.175
+Nombre : carla 
+Apellido : spinelli
+Cargo : preventista
+Direccion : luis viale 1050
+Ciudad : burzaco
+Telefono : 1530511170
+Email : scarlaviviana@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : busco empleo 
+Security_code : mtp27
+Send : Enviar
+
+---------------
+
+Address : 190.225.16.81
+Nombre : Lucas Nicolas
+Apellido : Zalazar
+Cargo : addministrativos, servicios, ventas
+Direccion : Av. General Paz 142 piso 6
+Ciudad : cordoba
+Telefono : 3516665225
+Email : lucasmillo144@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estoy buscando mi primer experiencia laboral con muchas ganas de aprender y progresar
+Security_code : h3s6t
+Send : Enviar
+
+---------------
+
+Address : 190.48.198.181
+Nombre : cristian
+Apellido : charrelli
+Cargo : Operario
+Direccion : acha 140
+Ciudad : moron
+Telefono : 1564383234
+Email : cristian_charrelli@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola que tal, les dejo mi CV para futuras propuestas laborales desde ya muchas gracias.
+Security_code : c4nkz
+Send : Enviar
+
+---------------
+
+Address : 190.51.51.74
+Nombre : Celeste
+Apellido : Candia
+Cargo : Recepcionista, empleada administrativa, atención al cliente.
+Direccion : Trole 563
+Ciudad : Bs as
+Telefono : 15-2474-0444
+Email : celcandia@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Mi disponibilidad es inmediata. Full time.
+Security_code : 64972
+Send : Enviar
+
+---------------
+
+Address : 190.51.51.74
+Nombre : Celeste
+Apellido : Candia
+Cargo : Recepcionista, empleada administrativa, atención al cliente.
+Direccion : Trole 563
+Ciudad : Bs as
+Telefono : 15-2474-0444
+Email : celcandia@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Mi disponibilidad es inmediata. Full time.
+Security_code : g39kc
+Send : Enviar
+
+---------------
+
+Address : 190.55.72.48
+Nombre : Yamila Soledad 
+Apellido : Hernandez
+Cargo : administrativa
+Direccion : azopardo 3675 
+Ciudad : Rafael Calzada
+Telefono : 1136769428
+Email : yshernandez@outlook.es
+MAX_FILE_SIZE : 2097152
+Mensaje : LE ENVIO MI CURRICULUM Y LO DEJO A SU DISPOSICION CON EL FIN DE ACORDAR UNA POSIBLE ENTREVISTA.
+DESDE YA MUCHAS GRACIAS.
+
+SALUDA ATENTAMENTE YAMILA HERNANDEZ.
+Security_code : d9zgk
+Send : Enviar
+
+---------------
+

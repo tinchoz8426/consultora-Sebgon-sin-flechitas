@@ -1,0 +1,122 @@
+Address : 186.19.25.144
+Nombre : Maresa
+Apellido : Baldi
+Cargo : tecnica en seguridad e higiene y control ambiental industrial
+Direccion : Adolfo Alsina 851 monoblok B1 Dto 28
+Ciudad : Buenos Aires
+Telefono : 01142010880
+Email : maresabaldi@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados, estoy recibida en la carrera de técnico superior en seguridad e higiene y control ambiental industrial. 
+Aspiro a formar parte de un grupo de profesionales responsables en la seguridad e higiene  de sus empleados y comprometidos con el medio ambiente en pos de mejores condiciones.
+
+Security_code : 44p4z
+Send : Enviar
+
+---------------
+
+Address : 201.212.240.229
+Nombre : Erika
+Apellido : Contreras
+Cargo : Secretaria
+Direccion : Tres Sargentos 2145
+Ciudad : Argentina
+Telefono : 1541851925
+Email : erikabcontreras@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : A quien corresponda: Envio CV para el puesto que consideren conveniente, desde ya muchas gracias.
+Security_code : mgm97
+Send : Enviar
+
+---------------
+
+Address : 190.175.30.203
+Nombre : Mariana Beatriz
+Apellido : Broglia de Suarez
+Cargo : Empleada administrativa-recepcionista-asistente-atenciòn al cliente
+Direccion : Lacarra 3500 Edif 56 Ex 40 Nudo 5 Piso 7º Depto “M” 
+Ciudad : Capital Federal
+Telefono : 1554787068
+Email : marianabroglia@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Envìo de cv
+Security_code : tm9xw
+Send : Enviar
+
+---------------
+
+Address : 190.175.30.203
+Nombre : Mariana Beatriz
+Apellido : Broglia de Suarez
+Cargo : Empleada administrativa-recepcionista-asistente-atenciòn al cliente
+Direccion : Lacarra 3500 Edif 56 Ex 40 Nudo 5 Piso 7º Depto “M” 
+Ciudad : Capital Federal
+Telefono : 1554787068
+Email : marianabroglia@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Envìo de cv
+Security_code : tm9xw
+Send : Enviar
+
+---------------
+
+Address : 190.175.30.203
+Nombre : Mariana Beatriz
+Apellido : Broglia de Suarez
+Cargo : Empleada administrativa-recepcionista-asistente-atenciòn al cliente
+Direccion : Lacarra 3500 Edif 56 Ex 40 Nudo 5 Piso 7º Depto “M” 
+Ciudad : Capital Federal
+Telefono : 1554787068
+Email : marianabroglia@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Envìo de cv
+Security_code : tm9xw
+Send : Enviar
+
+---------------
+
+Address : 190.175.30.203
+Nombre : Mariana Beatriz
+Apellido : Broglia de Suarez
+Cargo : Empleada administrativa-recepcionista-asistente-atenciòn al cliente
+Direccion : Lacarra 3500 Edif 56 Ex 40 Nudo 5 Piso 7º Depto “M” 
+Ciudad : Capital Federal
+Telefono : 1554787068
+Email : marianabroglia@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Envìo de cv
+Security_code : xfvgf
+Send : Enviar
+
+---------------
+
+Address : 190.175.30.203
+Nombre : Roberto Ariel
+Apellido : Suarez
+Cargo : Mantenimiento
+Direccion : Lacarra 3500 Edif 56 Ex 40 Nudo 5 Piso 7º Depto “M” 
+Ciudad : Capital Federal
+Telefono : 1525851959
+Email : suarezrobertoariel@yahoo.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Envìo de cv
+Security_code : 72gth
+Send : Enviar
+
+---------------
+
+Address : 191.80.210.72
+Nombre : Delia
+Apellido : Mansilla
+Cargo : asistente de rr.hh, auxiliar rr.hh
+Direccion : Riobamba 340 tapiales
+Ciudad : La Matanza
+Telefono : 44426197
+Email : deliamansilla49@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Si bien no cuento con mucha experiencia, tengo muchas ganas de aprender y de realizar las tareas de la manera mas eficaz posible.
+Security_code : 873rz
+Send : Enviar
+
+---------------
+

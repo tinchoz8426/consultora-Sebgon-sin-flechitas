@@ -1,0 +1,156 @@
+Address : 190.247.206.16
+Nombre : Liz 
+Apellido : Cardozo Isasi
+Cargo : TELEMARKETER
+Direccion : HUMAHUACA 4043 PB D
+Ciudad : CABA
+Telefono : 1539489006
+Email : liz.c.isasi@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me gustaria formar parte de esta consultora y poder encontrar algún trabajo. Cuento con su llamado. Desde ya muchas gracias!
+Security_code : 6Y2Q4
+Send : Enviar
+
+---------------
+
+Address : 190.247.206.16
+Nombre : Liz 
+Apellido : Cardozo Isasi
+Cargo : TELEMARKETER
+Direccion : HUMAHUACA 4043 PB D
+Ciudad : CABA
+Telefono : 1539489006
+Email : liz.c.isasi@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me gustaria formar parte de esta consultora y poder encontrar algún trabajo. Cuento con su llamado. Desde ya muchas gracias!
+Security_code : 6y2q4
+Send : Enviar
+
+---------------
+
+Address : 190.247.206.16
+Nombre : Liz 
+Apellido : Cardozo Isasi
+Cargo : TELEMARKETER
+Direccion : HUMAHUACA 4043 PB D
+Ciudad : CABA
+Telefono : 1539489006
+Email : liz.c.isasi@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me gustaria formar parte de esta consultora y poder encontrar algún trabajo. Cuento con su llamado. Desde ya muchas gracias!
+Security_code : hz7dr
+Send : Enviar
+
+---------------
+
+Address : 186.23.9.239
+REF : GTE COM
+Nombre : Carlos Ariel
+Apellido : Rodriguez
+Cargo : Gerente Comercial
+Direccion : Araujo 2810
+Ciudad : Lugano
+Telefono : 1537849961
+Email : arielrodriz@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buen día
+Les envió mi CV porque me interesa su propuesta de trabajo, mi remuneración pretendida es de $6500, quedo a su entera disposición.
+
+desde ya muchas gracias
+Ariel Rodriguez
+Security_code : 23rzc
+Send : Enviar
+
+---------------
+
+Address : 200.5.222.81
+Nombre : GERARDO RAFAEL
+Apellido : MOREIRA
+Cargo : INFORMES SOCIO-AMBIENTAL
+Direccion : RIO GALLEGOS
+Ciudad : RIO GALLEGOS
+Telefono : 2966616376
+Email : misiogerafa@live.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : PERS DE GNA, EN ACTIVIDAD, CON CAPACIDAD DE RESPONDER RESPONSABLEMENTE INFORMES AMBIENTALES.
+Security_code : hyrdj
+Send : Enviar
+
+---------------
+
+Address : 186.18.79.167
+Nombre : Daiana Jimena
+Apellido : Serrano
+Cargo : tecnico en seguridad e higiene
+Direccion : ESTADOS UNIDOS 
+Ciudad : caba
+Telefono : 1538182420
+Email : dj_serrano85@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : b
+Security_code : wwbzf
+Send : Enviar
+
+---------------
+
+Address : 200.69.243.121
+Nombre : NICOLAS 
+Apellido : CALAMARI
+Cargo : ASISTENTE / AUXILIAR / JUNIOR
+Direccion : REVERENDA MADRE ISABEL FERNANDEZ 1168
+Ciudad : SAENZ PEÑA PCIA. BUENOS AIRES
+Telefono : 1147579513
+Email : calamari.nicolas@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados: Remito mi CV para que lo tengan en consideración para cualquier oportunidad laboral que estimen acorde a mi perfil.
+Muchas gracias.
+Security_code : zpg9p
+Send : Enviar
+
+---------------
+
+Address : 186.23.250.8
+Nombre : cristian ariel
+Apellido : vila
+Cargo : tecnico tornero paralelo
+Direccion : rodriguez peña 127
+Ciudad : ramos mejia
+Telefono : 2074 2094
+Email : arielvila2@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : responsable , educado con ganas de trabajar en equipo
+Security_code : t9j4m
+Send : Enviar
+
+---------------
+
+Address : 186.23.250.8
+Nombre : cristian ariel
+Apellido : vila
+Cargo : tecnico tornero paralelo
+Direccion : rodriguez peña 127
+Ciudad : ramos mejia
+Telefono : 2074 2094
+Email : arielvila2@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : esducado ,responsable , experiencia en trabajo en equipo 
+Security_code : g76qv
+Send : Enviar
+
+---------------
+
+Address : 190.183.30.250
+Nombre : carla Marilin
+Apellido : Paradelo
+Cargo : secretaria
+Direccion : Villaguay 569
+Ciudad : Paraná
+Telefono : (0343)155230694
+Email : marilynparadelo@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : estoy interesada en trabajar, necestio realmente el trabajo quiero una oportunidad. Gracias
+Security_code : bnjj8
+Send : Enviar
+
+---------------
+

@@ -1,0 +1,15 @@
+Address : 186.143.101.133
+Nombre : Osvaldo Julio
+Apellido : Gatti
+Cargo : auditor
+Direccion : Avenida Avelino Rolon 2190
+Ciudad : Boulogne Sur Mer
+Telefono : 4735/4648
+Email : osvaldogatti@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Me dirijo a Ud lña presente,para postularme a un empleo dentro de su compañ{ia, le puedo brindar experiencia y conocimiento de mis dos profesiones, y actualmente me encuentro cursando el primer año de la Maestria en Seguridad Publica, unica en latinoamerica. Gracias
+Security_code : zrt2p
+Send : Enviar
+
+---------------
+

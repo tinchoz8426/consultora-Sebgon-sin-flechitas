@@ -1,0 +1,51 @@
+Address : 186.141.165.1<br>
+ <br>Nombre : Mariana
+ <br>Apellido : Santiago
+ <br>Cargo : Cualquiera
+ <br>Direccion : Ayacucho 8235
+ <br>Ciudad : Mar del Plata
+ <br>Telefono : 2236878152
+ <br>Email : matildasanviero@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Poseo capacidad de aprendizaje y disponibilidad.
+ <br>Security_code : hfv37
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.28<br>
+ <br>Nombre : Marisa 
+ <br>Apellido : Hosenen
+ <br>Cargo : Cargo el que se encuentre disponible..como para mí perfil
+ <br>Direccion : Luis Maggui 1583
+ <br>Ciudad : Rafela
+ <br>Telefono : 3492638795
+ <br>Email : marisahosenen@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenos días..me dirijo a ustedes con el propósito de pertenecer a su empresa .. gracias saludos..
+ <br>Security_code : 2r7gz
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.169.84.22<br>
+ <br>Nombre : Dulce
+ <br>Apellido : Fernandez
+ <br>Cargo : Recepcion-Administrativa-Vendedora
+ <br>Direccion : Ramos Mejia
+ <br>Ciudad : Ramos Mejia
+ <br>Telefono : 01134660808
+ <br>Email : dulceaishafernandez@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenos días, mi objetivo es crecer y desarrollarme como profesional, adquirir conocimientos y llevarlos a la práctica. Por otro lado, puedo aportar trabajo en equipo, manejo de relaciones interpersonales, honestidad y compromiso laboral.
+
+Agradecería me tomen en cuentan para sus búsquedas.
+
+Dulce Fernandez
+
+
+ <br>Security_code : sqk47
+ <br>Send : Enviar
+ <br>
+---------------
+

@@ -1,0 +1,30 @@
+Address : 190.51.115.22
+Nombre : Hilda Alicia
+Apellido : Irrazabal Gimenez
+Cargo : Cajera. Recepcionista. Cadeta
+Direccion : Aguaribay 3078
+Ciudad : Ituzaingo
+Telefono : 44814015
+Email : irrazabal.hilda@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Cv
+Security_code : rrtk5
+Send : Enviar
+
+---------------
+
+Address : 190.51.43.200
+Nombre : Alejandro David
+Apellido : Navarro
+Cargo : Técnico Químico 
+Direccion : calle 150e/39y40
+Ciudad : Berazategui
+Telefono : 1159636813
+Email : navarroalejandro.94@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : busco un trabajo para poder crecer a nivel profesional 
+Security_code : c9zq3
+Send : Enviar
+
+---------------
+

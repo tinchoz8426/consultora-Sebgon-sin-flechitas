@@ -1,0 +1,63 @@
+Address : 190.137.49.107
+Nombre : Diego Ezequiel
+Apellido : Troitiño
+Cargo : Seguridad e Higiene
+Direccion : Santa Fe 2442
+Ciudad : San Miguel de Tucuman
+Telefono : 3814199973
+Email : diegotroitino@live.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Lic. en Seguridad e Higiene
+Security_code : f74h6
+Send : Enviar
+
+---------------
+
+Address : 200.123.176.185
+Nombre : luis marcelo
+Apellido : nuñez 
+Cargo : encargado
+Direccion : 107 n 1005
+Ciudad : buenos aires
+Telefono : 1568020781
+Email : silvina@valcomext.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : ando buscando trabajo de forma inmediata, mi intencion es Desarrollar mi capacidad y experiencia en una empresa que ofrezca perspectivas para mi formación  profesional. Y alcanzar las metas y los requisitos laborales en forma eficiente y responsable, desarrollando al máximo mis conocimientos.
+Security_code : myxvp
+Send : Enviar
+
+---------------
+
+Address : 186.130.203.82
+Nombre : Guido
+Apellido : Fontanarrosa
+Cargo : Diseñador- asistente produccion -Vendedor-promotor
+Direccion : Medrano 833 4 c
+Ciudad : Capital Federal
+Telefono : 1168187998
+Email : guido.fontanarrosa@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : A quien Corresponda, De mi mayor consideración adjunto mi información curricular.
+Quedo al aguardo de futuras solicitudes laborales.
+Atentamente,
+Guido Fontanarrosa
+Security_code : cnckt
+Send : Enviar
+
+---------------
+
+Address : 186.122.136.189
+Nombre : Lisandro Carlos
+Apellido : Barrera
+Cargo : Guardavidas
+Direccion : Adrogue 1861
+Ciudad : Hurlingham
+Telefono : 1557801815
+Email : lisandrobarrera161@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Busco algún puesto como guardavidas, también puedo desenvolverme como chofer privado y/o administrativo.
+Security_code : prfr5
+Send : Enviar
+
+---------------
+

@@ -1,0 +1,70 @@
+Address : 181.167.112.183<br>
+ <br>Nombre : María Fernanda 
+ <br>Apellido : Chourio Guanchez
+ <br>Cargo : Ing de calidad / proyectos
+ <br>Direccion : Av. Cabildo 4486
+ <br>Ciudad : Capital Federal - Buenos Aires
+ <br>Telefono : 15-33614432
+ <br>Email : mfer.chourio@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados, adjunto mi CV para que me tengan en cuenta en el proceso de selección de un profesional con mi perfil. 
+
+Muchas gracias
+
+Saludos cordiales
+ <br>Security_code : g2vw5
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 200.45.182.190<br>
+ <br>REF : EP-1
+ <br>Nombre : daniel
+ <br>Apellido : chamorro
+ <br>Cargo : encargado produccion
+ <br>Direccion : maipu 5810
+ <br>Ciudad : san martin buenos aires
+ <br>Telefono : 15 6838 1384
+ <br>Email : chamorrodaniel969@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : me interesa el puesto ofrecido cuento con experiencia en mejoras de produccion cuidando recursos fabriles como humanos utilizando regla 5M para llevar a cabo objetivos establecidos. 
+controlando estandares de calidad en proceso y control de producto final.
+ <br>Security_code : pdydm
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.247.19.88<br>
+ <br>REF : Tectron
+ <br>Nombre : Pablo
+ <br>Apellido : Volpe
+ <br>Cargo : TÉCNICOS ELECTRÓNICOS
+ <br>Direccion : Av. Perón 2526 5B
+ <br>Ciudad : Victoria - San Fernando
+ <br>Telefono : 1112452656
+ <br>Email : pablovolpe80@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados, por medio de la presente deseo postularme para el puesto que estan publicando.
+Considero que soy el indicado ya que cuento con experiencia en las caracteristicas que requiere el cargo. Desde ya muchas gracias y quedo a la espera de su respuesta.
+ <br>Security_code : kx6hv
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.247.19.88<br>
+ <br>REF : ROT-1
+ <br>Nombre : Pablo
+ <br>Apellido : Volpe
+ <br>Cargo : Responsable de oficina tecnica
+ <br>Direccion : Av. Perón 2526 5B
+ <br>Ciudad : Victoria - San Fernando
+ <br>Telefono : 1112452656
+ <br>Email : pablovolpe80@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados, por medio de la presente deseo postularme para el puesto que estan publicando.
+Considero que soy el indicado ya que cuento con experiencia en las caracteristicas que requiere el cargo. Desde ya muchas gracias y quedo a la espera de su respuesta.
+ <br>Security_code : rvryz
+ <br>Send : Enviar
+ <br>
+---------------
+

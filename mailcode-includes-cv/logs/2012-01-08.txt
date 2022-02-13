@@ -1,0 +1,20 @@
+Address : 201.231.160.214
+Nombre : Luciano Marcos 
+Apellido : Cava
+Cargo : Comunicación, publicidad, Ventas, Servicios inmobiliarios
+Direccion : Perón 3530, 3b
+Ciudad : Bs. As. Cap.
+Telefono : 1531383699
+Email : lucianocava@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : De mi mayor consideración.
+  
+Mi nombre es Luciano Marcos Cava, trabajo en el área de ventas y servicios (inmobiliarios y de comunicación), le escribo a fin de hacerle llegar mi curriculum actualizado a fin de ser considerado en sus futuras convocatorias para su staff de ventas o atención al cliente. 
+ 
+Sin más me despido agradeciendo su atención y le envió un muy cordial saludo.
+Atte. Luciano Cava / Cel: 1531383699 
+Security_code : t4fqx
+Send : Enviar
+
+---------------
+

@@ -1,0 +1,71 @@
+Address : 181.199.145.7
+REF : OEL
+Nombre : Federico
+Apellido : Mercerat
+Cargo : Técnico Electricista
+Direccion : balcarce
+Ciudad : Rosario
+Telefono : 3415922490
+Email : federicomercerat@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : vi el anuncio y me intereso
+Security_code : 74d5r
+Send : Enviar
+
+---------------
+
+Address : 190.245.167.49
+Nombre : Jessica Judith
+Apellido : Rinaldi
+Cargo : Atencion al cliente
+Direccion : Alcaraz 5956  dto04 PB
+Ciudad : capital federal
+Telefono : 1530134052
+Email : jessj_76@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : experiencia en atencion al cliente; administrativa; ventas
+Security_code : sxf8w
+Send : Enviar
+
+---------------
+
+Address : 181.45.10.118
+REF : COM
+Nombre : Gisella soledad
+Apellido : Iudati
+Cargo : Vendedora
+Direccion : Centenera 4010
+Ciudad : San justo buenos aires
+Telefono : 1558892566
+Email : Soledadiudati@gmaill.com
+MAX_FILE_SIZE : 2097152
+Mensaje : ●Datos personales:
+• Nombres:Gisella Soledad
+• Apellido: Iudati
+• Edad: 22 años
+• Fecha de nacimiento: 26-oct-1993
+• Dni: 37.674.723
+• Cuil: 27-37.674.723-4
+• Domicilio: Centenera 4010
+• Localidad: San Justo
+●Contacto:
+•Celular: 1558892566
+• Telefono fijo: 4691.2242
+•Correo Electronico: soledadiudati@gmail.com
+●Formacion:
+•Primaria: completa(Manuela Pedraza) 
+•Secundaria: completa(E.e.m.n°11) 
+●Experiencia Laboral:
+•Fiambrera en supermercado Luna(oct 2009 a dic 2010)
+•Celu Service SRL(Mayo 2015 a nov 2015)
+-Cargo: empleada de salon(temporal)
+-Tareas desempeñadas: Venta y atencion al publico en local a calle
+-Referencia: 4651-0540 Jonathan Baez (encargado)
+• Tienda de ropa Nash(av. Rivadavia 18.249 moron) (dic 2015 a feb 2016)
+●Disponibilidad horaria: Full tim
+
+Security_code : Jggyx
+Send : Enviar
+
+---------------
+

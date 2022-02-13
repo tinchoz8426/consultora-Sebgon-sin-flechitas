@@ -1,0 +1,31 @@
+Address : 190.30.228.195
+REF : gerente-de-operaciones
+Nombre : Norberto Anibal 
+Apellido : Cociña
+Cargo : Gerente de Operaciones
+Direccion : Lacroze 6145 
+Ciudad : Villa Ballester
+Telefono : 011-4729-5872
+Email : mocaco@arnet.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto mi CV. 
+Security_code : 97brq
+Send : Enviar
+
+---------------
+
+Address : 190.172.212.69
+Nombre : mariana
+Apellido : lancellotti echegaray
+Cargo : secretaria recepcionista
+Direccion : benavente 2450
+Ciudad : buenos aires
+Telefono : 1553110841
+Email : marlancellotti@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : queria dejarles mi CV para poder postularme al puesto de secretaria en la zona oeste, creo que es par time. Gracias 
+Security_code : 6s8gy
+Send : Enviar
+
+---------------
+

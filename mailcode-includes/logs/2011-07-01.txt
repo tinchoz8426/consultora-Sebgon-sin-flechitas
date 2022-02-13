@@ -1,0 +1,14 @@
+Address : 190.31.106.139
+Nombre : rita
+Apellido : vieyra
+Empresa : Hotelera
+Telefono : 03875-489878
+Email : ritavieyra86@hotmail.com
+Mensaje : informacion sobre cursos de capacitacion de rrhh.
+ resolucion y negosioacion de conflicto... y otros cursos
+
+Security_code : q59c5
+Send : Enviar
+
+---------------
+

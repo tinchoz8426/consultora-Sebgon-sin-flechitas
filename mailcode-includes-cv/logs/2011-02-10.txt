@@ -1,0 +1,45 @@
+Address : 186.137.62.65
+Nombre : Juan Manuel
+Apellido : Agüero
+Cargo : -
+Direccion : 461b nº 2076
+Ciudad : City Bell
+Telefono : 0221 4722746
+Email : juanmaguero@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Agradeceré se me comunique si disponen de alguna oferta laboral en la ciudad de La Plata
+Security_code : mpg8x
+Send : Enviar
+
+---------------
+
+Address : 186.137.117.107
+Nombre : Ruben Oscar
+Apellido : Regueiro
+Cargo : Encargado de Local - Jefe de Sector 
+Direccion : Tnogasta 3816 3 14
+Ciudad : Autonoma de Bs.As.
+Telefono : 45025351
+Email : ruben.regueiro@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : poder desarrollar mis concimientos adquiridos en mis años de experiencia en el rubro
+Security_code : fdw2r
+Send : Enviar
+
+---------------
+
+Address : 201.234.19.254
+Nombre : veronica
+Apellido : rios
+Cargo : rrhh
+Direccion : general pinto 
+Ciudad : san fernando
+Telefono : 1521696680
+Email : lic.rios@live.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Mi interes es formar parte de un grupo de profesionales que me permitan seguir desarrollandome como profesional
+Security_code : 3g7k6
+Send : Enviar
+
+---------------
+

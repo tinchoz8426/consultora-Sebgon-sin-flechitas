@@ -1,0 +1,12 @@
+Address : 200.41.127.97
+Nombre : Lucas
+Apellido : Granieri
+Empresa : Malteria Pampa
+Telefono : (02923)499399 Int 234
+Email : Granierl@mpampa.com.ar
+Mensaje : Buenas tardes, mi nombre es Lucas Granieri y estoy a cargo de la gestión de los entrenamientos de Malteria Pampa. Estamos interesados en reaalizar un "día de campo", con el objetivo de que los lideres de la empresa sociabilicen y reciban algunas capacitaciones de liderazgo, coaching, comunicación, etc. Favor podrán pasarnos algun temario y presupuesta para tener en cuenta. Muchas gracias, Lucas Granieri.
+Security_code : kj3js
+Send : Enviar
+
+---------------
+

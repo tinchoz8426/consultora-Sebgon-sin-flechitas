@@ -1,0 +1,355 @@
+Address : 200.114.148.81<br>
+ <br>Nombre : Agustin
+ <br>Apellido : Sanchez
+ <br>Cargo : Técnico Electricista
+ <br>Direccion : Fragata Sarmiento 1436
+ <br>Ciudad : Merlo
+ <br>Telefono : 1124561711
+ <br>Email : agustinluciosanchez@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados, dejo adjunto mi CV, soy técnico electricista, resido en la zona de San Antonio de Padua(Merlo). Muchas gracias. Agustín Sanchez
+ <br>Security_code : fzkpg
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 200.114.148.81<br>
+ <br>Nombre : Agustin
+ <br>Apellido : Sanchez
+ <br>Cargo : Técnico Electricista
+ <br>Direccion : Fragata Sarmiento 1436
+ <br>Ciudad : Merlo
+ <br>Telefono : 1524561711
+ <br>Email : agustinluciosanchez@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados dejo adjunto mi CV y mis datos de contacto. Soy Técnico Electricista y resido en la zona de Padua(Merlo). Muchas Gracias
+ <br>Security_code : fpn4m
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 200.125.105.85<br>
+ <br>REF : ROT-1
+ <br>Nombre : Luis
+ <br>Apellido : Quinteros
+ <br>Cargo : proyectista mecanico
+ <br>Direccion : san isidro 965
+ <br>Ciudad : Ituzaingo
+ <br>Telefono : 15 55686093
+ <br>Email : luiggi_2519@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : sueldo pretendido 28000$ en mano 
+ <br>Security_code : szbvm
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.18.94.202<br>
+ <br>REF : chr
+ <br>Nombre : santiago
+ <br>Apellido : monteros
+ <br>Cargo : chofer
+ <br>Direccion : brandsen 562
+ <br>Ciudad : ezeiza
+ <br>Telefono : 1532480660
+ <br>Email : santiago.monteros@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : ganas y predisposición 
+ <br>Security_code : dfsns
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.245.71.163<br>
+ <br>REF : chr
+ <br>Nombre : Matias
+ <br>Apellido : Lafuente
+ <br>Cargo : Chofer
+ <br>Direccion : Jose bonifacio2169
+ <br>Ciudad : Flores
+ <br>Telefono : 1522205011
+ <br>Email : matiasalejsndrolafuente@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Soy chofer con carnt cnrt
+ <br>Security_code : g5gp9
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.182.110.220<br>
+ <br>Nombre : Paula Verónica
+ <br>Apellido : Behigo
+ <br>Cargo : Recepcionista
+ <br>Direccion : Benito villanueva 2745
+ <br>Ciudad : Castelar
+ <br>Telefono : 1558559174
+ <br>Email : pbehigo@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Envío mi CV, para futuras busquedas laborales.
+ <br>Security_code : xjw8p
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 179.37.138.116<br>
+ <br>REF : chr
+ <br>Nombre : Javier Horacio
+ <br>Apellido : Pierandrey
+ <br>Cargo : Chofer
+ <br>Direccion : Rene Favaloro 703
+ <br>Ciudad : Luis Guillon
+ <br>Telefono : 1164065401
+ <br>Email : javier.pierandrey@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Deseo ese puesto de trabajo.Soy proactivo educado y trabador.
+Saludos cordiales
+Javier
+ <br>Security_code : 53dns
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.7<br>
+ <br>REF : chr
+ <br>Nombre : Jorge
+ <br>Apellido : Moretto
+ <br>Cargo : Chofer
+ <br>Direccion : Sthepenson 2760
+ <br>Ciudad : Caseros
+ <br>Telefono : 1528662802
+ <br>Email : Tanomoretto@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : De mi consideracion me dirijo a ustedes con el objetivo de formar parte del staf de personas que se desempeñan en esa empresa,dado de que considero que mi conocimiento y experiencia me permitiran cumplir con los objetivos de la misma. Desde ya muchas gracias. Jorge Antonio Moretto.
+ <br>Security_code : v2b6h
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.9<br>
+ <br>REF : chr
+ <br>Nombre : Jorge
+ <br>Apellido : Moretto
+ <br>Cargo : Chofer
+ <br>Direccion : Sthepenson 2760
+ <br>Ciudad : Caseros
+ <br>Telefono : 1528662802
+ <br>Email : Tanomoretto@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : De mi consideracion me dirijo a ustedes con el objetivo de formar parte del staf de personas que se desempeñan en esa empresa,dado de que considero que mi conocimiento y experiencia me permitiran cumplir con los objetivos de la misma. Desde ya muchas gracias. Jorge Antonio Moretto.
+ <br>Security_code : v2b6h
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.7<br>
+ <br>REF : chr
+ <br>Nombre : Jorge
+ <br>Apellido : Moretto
+ <br>Cargo : Chofer
+ <br>Direccion : Sthepenson 2760
+ <br>Ciudad : Caseros
+ <br>Telefono : 1528662802
+ <br>Email : Tanomoretto@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : De mi consideracion me dirijo a ustedes con el objetivo de formar parte del staf de personas que se desempeñan en esa empresa,dado de que considero que mi conocimiento y experiencia me permitiran cumplir con los objetivos de la misma. Desde ya muchas gracias. Jorge Antonio Moretto.
+ <br>Security_code : 7ptp6
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.9<br>
+ <br>REF : chr
+ <br>Nombre : Jorge
+ <br>Apellido : Moretto
+ <br>Cargo : Chofer
+ <br>Direccion : Sthepenson 2760
+ <br>Ciudad : Caseros
+ <br>Telefono : 1528662802
+ <br>Email : Tanomoretto@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : De mi consideracion me dirijo a ustedes con el objetivo de formar parte del staf de personas que se desempeñan en esa empresa,dado de que considero que mi conocimiento y experiencia me permitiran cumplir con los objetivos de la misma. Desde ya muchas gracias. Jorge Antonio Moretto.
+ <br>Security_code : Dyps5
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.9<br>
+ <br>REF : chr
+ <br>Nombre : Jorge
+ <br>Apellido : Moretto
+ <br>Cargo : Chofer
+ <br>Direccion : Sthepenson 2760
+ <br>Ciudad : Caseros
+ <br>Telefono : 1528662802
+ <br>Email : Tanomoretto@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : De mi consideracion me dirijo a ustedes con el objetivo de formar parte del staf de personas que se desempeñan en esa empresa,dado de que considero que mi conocimiento y experiencia me permitiran cumplir con los objetivos de la misma. Desde ya muchas gracias. Jorge Antonio Moretto.
+ <br>Security_code : 896fc
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.11<br>
+ <br>REF : chr
+ <br>Nombre : Jorge
+ <br>Apellido : Moretto
+ <br>Cargo : Chofer
+ <br>Direccion : Sthepenson 2760
+ <br>Ciudad : Caseros
+ <br>Telefono : 1528662802
+ <br>Email : Tanomoretto@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : De mi consideracion me dirijo a ustedes con el objetivo de formar parte del staf de personas que se desempeñan en esa empresa,dado de que considero que mi conocimiento y experiencia me permitiran cumplir con los objetivos de la misma. Desde ya muchas gracias. Jorge Antonio Moretto.
+ <br>Security_code : 896fc
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.11<br>
+ <br>REF : chr
+ <br>Nombre : Jorge
+ <br>Apellido : Moretto
+ <br>Cargo : Chofer
+ <br>Direccion : Sthepenson 2760
+ <br>Ciudad : Caseros
+ <br>Telefono : 1528662802
+ <br>Email : Tanomoretto@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : De mi consideracion me dirijo a ustedes con el objetivo de formar parte del staf de personas que se desempeñan en esa empresa,dado de que considero que mi conocimiento y experiencia me permitiran cumplir con los objetivos de la misma. Desde ya muchas gracias. Jorge Antonio Moretto.
+ <br>Security_code : Jfq4q
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.7<br>
+ <br>REF : chr
+ <br>Nombre : Jorge
+ <br>Apellido : Moretto
+ <br>Cargo : Chofer
+ <br>Direccion : Sthepenson 2760
+ <br>Ciudad : Caseros
+ <br>Telefono : 1528662802
+ <br>Email : Tanomoretto@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : De mi consideracion me dirijo a ustedes con el objetivo de formar parte del staf de personas que se desempeñan en esa empresa,dado de que considero que mi conocimiento y experiencia me permitiran cumplir con los objetivos de la misma. Desde ya muchas gracias. Jorge Antonio Moretto.
+ <br>Security_code : gk4qg
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.138.114.242<br>
+ <br>REF : ROT-1
+ <br>Nombre : Jose Luis
+ <br>Apellido : Montenegro
+ <br>Cargo : Responsable de Oficina tecnica
+ <br>Direccion : Fray Mamerto esquiu 4603
+ <br>Ciudad : caseros
+ <br>Telefono : 4734 6605
+ <br>Email : jl_montenegro@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me ofrezco para ocupar el cargo, gracias
+ <br>Security_code : 84c5s
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.27<br>
+ <br>REF : chr
+ <br>Nombre : Jorge
+ <br>Apellido : Moretto
+ <br>Cargo : Chofer
+ <br>Direccion : Sthepenson 2760
+ <br>Ciudad : Caseros
+ <br>Telefono : 1528662802
+ <br>Email : Tanomoretto@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : De mi consideracion me dirijo a ustedes con el objetivo de formar parte del staf de personas que se desempeñan en esa empresa,dado de que considero que mi conocimiento y experiencia me permitiran cumplir con los objetivos de la misma. Desde ya muchas gracias. Jorge Antonio Moretto.
+ <br>Security_code : Vwz2j
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.28<br>
+ <br>REF : chr
+ <br>Nombre : Jorge
+ <br>Apellido : Moretto
+ <br>Cargo : Chofer
+ <br>Direccion : Sthepenson 2760
+ <br>Ciudad : Caseros
+ <br>Telefono : 1528662802
+ <br>Email : Tanomoretto@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : De mi consideracion me dirijo a ustedes con el objetivo de formar parte del staf de personas que se desempeñan en esa empresa,dado de que considero que mi conocimiento y experiencia me permitiran cumplir con los objetivos de la misma. Desde ya muchas gracias. Jorge Antonio Moretto.
+ <br>Security_code : 5qt9q
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.254.5.21<br>
+ <br>REF : chr
+ <br>Nombre : cristian
+ <br>Apellido : torres
+ <br>Cargo : chofer 
+ <br>Direccion : Alejandro magariños Cervantes 5445pb
+ <br>Ciudad : capital Federal 
+ <br>Telefono : 1141454695 
+ <br>Email : cristianalejandro.torres@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola mi nombre es Cristian y me gustaría un trabajo de chofer gracias
+ <br>Security_code : x2z7g
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 191.80.193.164<br>
+ <br>REF : chr
+ <br>Nombre : Javier
+ <br>Apellido : Paez
+ <br>Cargo : Chofer de camion
+ <br>Direccion : Hucal 2651
+ <br>Ciudad : Rafael castillo
+ <br>Telefono : 1131069436
+ <br>Email : Jpaez1976@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola soy chofer con registro profesional de cargas generales y peligrosa..Y tengo camioneta para trabajar x mi cuenta
+ <br>Security_code : rttgx
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.141.200.28<br>
+ <br>REF : ROT-1
+ <br>Nombre : Carlos
+ <br>Apellido : Sierra
+ <br>Cargo : Dibujante proyectista
+ <br>Direccion : Av. Donato alvarez 956
+ <br>Ciudad : Bs. As.
+ <br>Telefono : 1136938786
+ <br>Email : carlos_le_sierra@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Ofresco mi postulacion
+Y si no cumplo con sus espectativas de perfil
+Ofrezco mis servicios como freelance 
+Desde ya gracoas ppr su atención. 
+ <br>Security_code : 8564b
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.189.184.191<br>
+ <br>REF : chr
+ <br>Nombre : jose
+ <br>Apellido : cardon
+ <br>Cargo : chofer
+ <br>Direccion : fray luis beltran 2777
+ <br>Ciudad : benavidez
+ <br>Telefono : 1125742881
+ <br>Email : josecardon37@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : deseo poner mis conosimiento a disposicion de lla enpresa
+
+ <br>Security_code : jsv2p
+ <br>Send : Enviar
+ <br>
+---------------
+

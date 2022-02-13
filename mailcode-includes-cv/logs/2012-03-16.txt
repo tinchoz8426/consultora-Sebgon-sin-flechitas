@@ -1,0 +1,31 @@
+Address : 190.50.165.90
+Nombre : Magalí Aldana
+Apellido : Sánchez
+Cargo : Pasantia
+Direccion : Gaboto
+Ciudad : La Matanza
+Telefono : 1159648762
+Email : sanchez.maga@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Busco capacitación o pasantía con una jornada laboral de 4 horas diarias. Gracias
+Security_code : ck4rq
+Send : Enviar
+
+---------------
+
+Address : 190.179.226.103
+REF : administrativo-logistica
+Nombre : oscar antonio
+Apellido : pasanante
+Cargo : administrativo logistica
+Direccion : pedro vargas 2506 dorrego
+Ciudad : mendoza
+Telefono : 15696824
+Email : ospasanante@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : remuneracio pretentida convenio laboral 
+Security_code : dbmt7
+Send : Enviar
+
+---------------
+

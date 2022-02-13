@@ -1,0 +1,122 @@
+Address : 200.45.93.156
+Nombre : Marina
+Apellido : Ferro
+Cargo : Recepcionista
+Direccion : Franco 7020
+Ciudad : Palomar
+Telefono : 1535660345
+Email : mari.ferro@live.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : En búsqueda laboral, adaptación a diferentes puestos de trabajo.
+Security_code : xcryj
+Send : Enviar
+
+---------------
+
+Address : 190.189.78.133
+REF : administrativa-compras
+Nombre : Lia Kimie
+Apellido : Sakurai
+Cargo : ADministrativa
+Direccion : Mariano Acosta 366
+Ciudad : Monte Grande
+Telefono : 1566471937
+Email : kimbasakurai@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Mi situación actual es desempleada, y mi experiencia como administrativa me me ayudo a incorporar conocimientos, con total manejo del Tango y Excel, entre otros.
+Security_code : j8wx9
+Send : Enviar
+
+---------------
+
+Address : 190.189.78.133
+REF : administrativa-compras
+Nombre : Lia Kimie
+Apellido : Sakurai
+Cargo : Administrativa
+Direccion : Mariano Acosta 366
+Ciudad : Monte Grande
+Telefono : 1566471937
+Email : kimbasakurai@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Mi situación actual es desempleada, y mi experiencia como administrativa me me ayudo a incorporar conocimientos, con total manejo del Tango y Excel, entre otros.
+Security_code : j8wx9
+Send : Enviar
+
+---------------
+
+Address : 190.244.28.181
+Nombre : VERONICA
+Apellido : ZABOT
+Cargo : asistente de ventas
+Direccion : guayra 1810
+Ciudad : c.a.b.a
+Telefono : 0111562551978
+Email : verozabot@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me pongo en contacto con ustedes para ofrecerle mi currículum con mis datos personales,  profesionales y otros datos de interés, por si necesita cubrir, ahora o en un futuro próximo, el puesto más acorde a mí perfil.
+
+ 
+
+Saludos cordiales,
+
+ 
+
+Verónica Zabot
+
+ 
+
+Security_code : 6hjzf
+Send : Enviar
+
+---------------
+
+Address : 186.153.89.6
+Nombre : Diego Javier
+Apellido : Doy
+Cargo : Administrativo - Gerencia - Hotelería 
+Direccion : El Urú 163
+Ciudad : Puerto Iguazú
+Telefono : 03757-15513818
+Email : diegodoy81@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenos días, me comunico con ustedes para integrar su base de datos en caso de búsqueda. Tengo experincia en hotelería y actualmente soy gerente comercial de una empresa de exportación. Sin otro particular me despido atentamente.
+Security_code : hzgw7
+Send : Enviar
+
+---------------
+
+Address : 186.58.42.70
+Nombre : Paola Gisele
+Apellido : Parra
+Cargo : Recepcionista-telefonista-Administartiva
+Direccion : Luis Vernet 6007
+Ciudad : Laferrere
+Telefono : 1537289059
+Email : paola.giselep@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : A quien corresponda:
+
+Deje mis datos y mi Curriculum Vitae para poder postularme segun mis conocoçimientos adquiridos.
+Security_code : qg3jh
+Send : Enviar
+
+---------------
+
+Address : 190.189.220.29
+REF : gerente-produccion
+Nombre : Gabriel Omar
+Apellido : Battan
+Cargo : Gerente de Calidad, Produccion, Planta
+Direccion : Rivadavia 721 1°D
+Ciudad : Cañuelas
+Telefono : 011-1557468635
+Email : gbattan@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados, adjunto mi Curriculum Vitae. En caso que consideren que mi perfil aplique para una búsqueda no duden en contactarme.
+Sds.-
+Security_code : v3572
+Send : Enviar
+
+---------------
+

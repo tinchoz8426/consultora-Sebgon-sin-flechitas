@@ -1,0 +1,36 @@
+Address : 190.191.109.232
+Nombre : Andrea
+Apellido : Lugones
+Cargo : Licenciada en trabajo social
+Direccion : 49 Nº434 Dpto 1 "A"
+Ciudad : La Plata
+Telefono : 0221-155769557
+Email : andylugones@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Tengo el agrado de dirigirme a Usted con el objeto de participar en búsquedas acordes a mi perfil.
+En cuanto  a mi formación soy Licenciada en Trabajo Social recibida en el mes de abril del presente año en la Universidad Nacional de La Plata (titulo en trámite). Cuento con un nivel básico del manejo de inglés y bueno en herramientas informáticas. Me considero una persona dinámica, activa y con capacidad para desempeñarme en diferentes tareas tanto sola como en equipo.
+Security_code : 79z33
+Send : Enviar
+
+---------------
+
+Address : 190.55.28.113
+Nombre : Jean Paul
+Apellido : Arnao
+Cargo :  Diseñador Grafico
+Direccion : Mozart 2474
+Ciudad : Buenos Aires
+Telefono : 1530369648
+Email : jeanpaul_dm@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Muy señores míos:
+
+Soy un estudiante del 4to año de Diseño Gráfico. Estoy muy interesado en trabajar para ustedes; y estaría dispuesto a aportar mi esfuerzo y formar parte de su equipo humano. 
+Les envío mi currículum vitae. Del mismo quiero destacar mis conocimientos de, Creación de imágenes y piezas gráficas, Presentaciones multimedia, animaciones y páginas Web.
+Quedo a la espera de sus noticias por si tuvieran a bien citarme para una entrevista personal. Aprovecho para enviarles un cordial saludo.
+
+Security_code : p8stk
+Send : Enviar
+
+---------------
+

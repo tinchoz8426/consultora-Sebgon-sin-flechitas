@@ -1,0 +1,78 @@
+Address : 200.127.150.74<br>
+ <br>REF : Ing. quim
+ <br>Nombre : Noelia Alejandra 
+ <br>Apellido : Vallejos Hochstrasser
+ <br>Cargo : Ing. Quim
+ <br>Direccion : Av. Almirante Brown 2255
+ <br>Ciudad : Lomas de Zamora
+ <br>Telefono : 011-1528475207
+ <br>Email : noevallejoshoch@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados, adjunto mi CV para el puesto de Jefa de producción.
+Gracias
+ <br>Security_code : 629jz
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.124.174.188<br>
+ <br>Nombre : agustina
+ <br>Apellido : rocha
+ <br>Cargo : administrativa
+ <br>Direccion : lisboa 572
+ <br>Ciudad : santa clara del mar
+ <br>Telefono : 02234504303
+ <br>Email : agustinayazminrocha@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estoy buscando empleo en el área administrativa, tengo disponibilidad horaria. estudio derecho en la universidad de mar del plata.
+ <br>Security_code : s53km
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.29.69.155<br>
+ <br>REF : JPER-1
+ <br>Nombre : KARINA
+ <br>Apellido : UGONE
+ <br>Cargo : JEFE DE PERSONAL
+ <br>Direccion : ITUZAINGO 1232 PISO 2 A
+ <br>Ciudad : LANUS
+ <br>Telefono : 1569524957
+ <br>Email : karinaugone@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados: Envio mi CV a fin de ser evaluado para la busqueda de referencia. Saludo cordialmente.
+ <br>Security_code : qmygh
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.169.164.15<br>
+ <br>Nombre : Marcelo
+ <br>Apellido : Dominguez
+ <br>Cargo : Operador planta de agua o efluentes
+ <br>Direccion : Vergara 3298
+ <br>Ciudad : Vicente López
+ <br>Telefono : 1541745653
+ <br>Email : marcedom17@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Soy Técnico Químico y poseo basta experiencia en operaciones y control de calidad.
+ <br>Security_code : ttq34
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.137.48.137<br>
+ <br>Nombre : Héctor
+ <br>Apellido : Peon
+ <br>Cargo : Ingeniero
+ <br>Direccion : 11
+ <br>Ciudad : City Bell
+ <br>Telefono : 0221-4723257
+ <br>Email : hectorpeon13@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Soy estudiante de Ingenieria Electromecanica proximo a graduarme.
+ <br>Security_code : dtvnh
+ <br>Send : Enviar
+ <br>
+---------------
+

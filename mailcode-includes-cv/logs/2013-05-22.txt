@@ -1,0 +1,126 @@
+Address : 190.247.5.47
+Nombre : Eloisa
+Apellido : Otero
+Cargo : a definir
+Direccion : Chile 995
+Ciudad : San Isidro. Buenos Aires
+Telefono : 0111540492708
+Email : eloisyotero@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Durante toda mi trayectoria me he desempeñado en los sectores de Marketing, Publicidad y el área Comercial especialmente en la Industria de Retail. He trabajado en empresas nacionales y multinacionales, pequeñas, medianas y grandes, con productos y servicios muy variados. 
+
+Me considero una persona proactiva y con mucha iniciativa, no me asustan los desafíos, soy perseverante hasta conseguirlos y tengo la capacidad para resolver situaciones complejas con creatividad y practicidad. Poseo un buen manejo de las relaciones interpersonales y negociación, con una fuerte orientación a resultados.
+
+Me interesa ser partícipe de una organización dinámica, donde pueda volcar mis conocimientos y experiencias, y a su vez adquirir nuevas herramientas y habilidades, poder contribuir a fortalecer la gestión de negocios actuales y cooperar en la definición e implementación de estrategias comerciales, de marketing y comunicación a largo plazo. Considero que soy generadora de importantes cambios en los lugares que me desempeño.
+
+Security_code : xtvy8
+Send : Enviar
+
+---------------
+
+Address : 186.63.9.79
+Nombre : Roman
+Apellido : Bautista
+Cargo : operario de produccion
+Direccion : Eva Peron 6378
+Ciudad : C.A.B.A
+Telefono : 4686-4867
+Email : bautista_roman@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Con respecto a mi remuneración, esta pretendida entre
+4600 – 5000$
+
+Security_code : 7w7m7
+Send : Enviar
+
+---------------
+
+Address : 186.59.24.223
+Nombre : guillermo gustavo
+Apellido : olguin guevara
+Cargo : oficial multiple, mantenimiento
+Direccion : soberania 74
+Ciudad : lujan de cuyo
+Telefono : 02612041486
+Email : gusticandelin28@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : busco trabajo de full time, referencias comprobables..
+Security_code : w93dk
+Send : Enviar
+
+---------------
+
+Address : 190.19.121.130
+REF : jefe-de-operaciones
+Nombre : Patricio SR
+Apellido : Garabello
+Cargo : Postulación espontánea
+Direccion : Av. Pedro Goyena 550
+Ciudad : Caballito
+Telefono : 1533606544
+Email : patriciogarabello@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : A quien corresponda,
+
+Por el presente, adjunto mi CV, para que conozcan mi perfil a través del mismo, y mi interés profesional, ya que estoy acercándome al final de mi Carrera en Comercio Internacional. Asimismo me gustaría que me tengan presente para alguna posición acorde a mi experiencia.
+
+
+Mi experiencia laboral hasta la fecha, demuestra mi gran capacidad para trabajar en equipo, y aceptar tareas y responsabilidades, en forma creciente.  Me considero una persona responsable, organizada, trabajadora, creativa, dinámica,  y con gran voluntad de aprender en forma continua, características que creo pueden sumar valor agregado a una organización.
+
+Desde ya muchas gracias por darme la oportunidad de ingresar mis datos laborales por este medio.
+
+Saludo Atte,
+
+Patricio Garabello.
+Security_code : 693qf
+Send : Enviar
+
+---------------
+
+Address : 186.136.167.215
+Nombre : Rosana
+Apellido : Fortunati
+Cargo : Gerente Abastecimiento-Planificación-Supply Chain
+Direccion : Cabildo 66
+Ciudad : CABA
+Telefono : 111557094171
+Email : rosanafortunati@fibertel.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : 
+Estimados Sres.
+
+Tengo el agrado de acercarles mis antecedentes profesionales para vuestra oportuna consideración.
+
+Dentro de mi disciplina, mi mayor interés y concomitantemente mis mejores competencias, radican en la planificación estratégica y su implementación exitosa de la mano de un concienzudo tratamiento de los recursos humanos.  
+
+Quedo por tanto desde ya a disposición para de manera personal ampliar todo detalle que así sea requerido.
+
+Muy atentamente
+
+ 
+
+Rosana Fortunati
+
+0111557094171
+
+Security_code : c6tsj
+Send : Enviar
+
+---------------
+
+Address : 190.188.87.49
+REF : jefe-de-operaciones
+Nombre : alejandro javier
+Apellido : pereyra
+Cargo : jefe de operacios
+Direccion : 16 n 1822 e69 y 70
+Ciudad : la plata
+Telefono : 0221-156478803
+Email : apereyra72@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : saludo muy atententamente a la espera de una entrevista personal
+Security_code : vtnhz
+Send : Enviar
+
+---------------
+

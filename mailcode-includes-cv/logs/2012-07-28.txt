@@ -1,0 +1,30 @@
+Address : 190.245.109.32
+Nombre : Maria Florencia
+Apellido : Calitri
+Cargo : Jr RRHH
+Direccion : Campichuelo
+Ciudad : Capital Federal
+Telefono : 1531648519
+Email : flor_calitri@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola estoy en proceso de busqueda laboral, dentro de capital federal
+Security_code : hq98w
+Send : Enviar
+
+---------------
+
+Address : 200.82.117.4
+Nombre : Marisa Silvia
+Apellido : Dasso
+Cargo : Cargos de dirección
+Direccion : Andrés Chazarreta 1764
+Ciudad : Córdoba
+Telefono : 351 4661448
+Email : dasso.marisa@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Envio CV para evaluaciçon referida a cargos de dirección, gerencia y coordinación de grupos de trabajo
+Security_code : 58vbz
+Send : Enviar
+
+---------------
+

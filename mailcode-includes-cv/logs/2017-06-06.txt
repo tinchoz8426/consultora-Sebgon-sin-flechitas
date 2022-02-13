@@ -1,0 +1,223 @@
+Address : 181.111.179.250<br>
+ <br>Nombre : Federico
+ <br>Apellido : Lizarraga
+ <br>Cargo : Analista en higiene y seguridad
+ <br>Direccion : Cucha Cucha 1477
+ <br>Ciudad : Capital Federal
+ <br>Telefono : 1156674301
+ <br>Email : federicogastonlizarraga@gmail.co
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenos días, estoy búsqueda de un cambio laboral, adjunto encontrará mi CV.
+
+ <br>Security_code : jhw3m
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.192.0.136<br>
+ <br>Nombre : Elsa Gabriela
+ <br>Apellido : Montes Mamani
+ <br>Cargo : Administrativa
+ <br>Direccion : Olazabal 1245
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 0225515417976
+ <br>Email : monteselsagabriela@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Actualmente me encuentro en un proceso de transición laboral, deseando dar con un nuevo proyecto que me permita nutrir la experiencia que posee su estudio, poder plasmar mis conocimientos  adquiridos en la UNMDP facultad de Derecho.
+      
+       Dado al interés que su estudio jurídico despierta en mi, luego de revisar mi CV adjuntado a la misma, le ruego considere la posibilidad de mantener una entrevista personal. 
+       Agradezco su tiempo y atención.
+      
+        Atentamente Montes Elsa Gabriela
+ <br>Security_code : 9cn4r
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.136.67.39<br>
+ <br>REF : ACO-1
+ <br>Nombre : Santiago 
+ <br>Apellido : Matute Fellheimer
+ <br>Cargo : Analista de comercio internacional/exterior
+ <br>Direccion : Edison 337 Martinez
+ <br>Ciudad : San Isidro
+ <br>Telefono : 11 5606 5792
+ <br>Email : santi_matfell@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Soy proactivo y muy postivo, nunca voy a decir que "no puedo" y si hay algo que no sé aprendo rapido. Cuento con un nivel de inglés avanzado, y francés bilingue. Y si en algo soy bueno es en las relaciones interpersonales. Espero con ansias su respuesta. Muchas gracias
+ <br>Security_code : qtyyx
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.111.232.155<br>
+ <br>REF : EP-1
+ <br>Nombre : José Luis
+ <br>Apellido : Báez
+ <br>Cargo : Encargado de Produccion
+ <br>Direccion : Av. Rivadavia 1182
+ <br>Ciudad : CABA
+ <br>Telefono : 26633655
+ <br>Email : ing.jlbaez@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : CV
+ <br>Security_code : g55b2
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 191.85.190.31<br>
+ <br>REF : ACO-1
+ <br>Nombre : Santiago Martin
+ <br>Apellido : Pavese
+ <br>Cargo : ANALISTA DE COMERCIO INTERNACIONAL/EXTERIOR
+ <br>Direccion : Montevideo, 104
+ <br>Ciudad : CABA
+ <br>Telefono : 011-15-6008-7599
+ <br>Email : osvpavese@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas tardes estimados, adjunto mi cv para postularme a la búsqueda.
+Muchas gracias.
+
+Saludos cordiales.
+
+Santiago Pavese
+ <br>Security_code : vgd26
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 177.247.117.17<br>
+ <br>REF : ACO-1
+ <br>Nombre : Ramon
+ <br>Apellido : Ruiz
+ <br>Cargo : Analista de comercio internacional/exterior
+ <br>Direccion : Juan Alvarez #910, Barrio de San Sebastian
+ <br>Ciudad : Toluca
+ <br>Telefono : (712) 114 0880
+ <br>Email : ramon.e.ruizch@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas tardes. 
+Reciban un cordial saludo, les hago llegar mi CV para postular me a la vacante de Analista de Comercio Internacional/Exterior.
+Por su atención gracias.
+Ramon Ruíz
+ <br>Security_code : ddr9v
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.51.55.65<br>
+ <br>REF : chr
+ <br>Nombre : Gabriel
+ <br>Apellido : Barbari
+ <br>Cargo : Chofer
+ <br>Direccion : Esquel 13o9
+ <br>Ciudad : Buenos aires  (ezpeleta)
+ <br>Telefono : 1151438049
+ <br>Email : gabriel.barbari75@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola busco trabajo creo poder desempeñarme bien en el lugar asignado soy puntual . Repetuso serio
+ <br>Security_code : 2nwrz
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.51.55.65<br>
+ <br>REF : chr
+ <br>Nombre : Gabriel
+ <br>Apellido : Barbari
+ <br>Cargo : Chofer
+ <br>Direccion : Esquel 13o9
+ <br>Ciudad : Buenos aires  (ezpeleta)
+ <br>Telefono : 1151438049
+ <br>Email : gabriel.barbari75@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola busco trabajo creo poder desempeñarme bien en el lugar asignado soy puntual . Repetuso serio
+ <br>Security_code : 2nwrz
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.51.55.65<br>
+ <br>REF : chr
+ <br>Nombre : Gabriel
+ <br>Apellido : Barbari
+ <br>Cargo : Chofer
+ <br>Direccion : Esquel 13o9
+ <br>Ciudad : Buenos aires  (ezpeleta)
+ <br>Telefono : 1151438049
+ <br>Email : gabriel.barbari75@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola busco trabajo creo poder desempeñarme bien en el lugar asignado soy puntual . Repetuso serio
+ <br>Security_code :       rx5dg
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.51.55.65<br>
+ <br>REF : chr
+ <br>Nombre : Gabriel
+ <br>Apellido : Barbari
+ <br>Cargo : Chofer
+ <br>Direccion : Esquel 13o9
+ <br>Ciudad : Buenos aires  (ezpeleta)
+ <br>Telefono : 1151438049
+ <br>Email : gabriel.barbari75@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola busco trabajo creo poder desempeñarme bien en el lugar asignado soy puntual . Repetuso serio
+ <br>Security_code :       rx5dg
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.51.55.65<br>
+ <br>REF : chr
+ <br>Nombre : Gabriel
+ <br>Apellido : Barbari
+ <br>Cargo : Chofer
+ <br>Direccion : Esquel 13o9
+ <br>Ciudad : Buenos aires  (ezpeleta)
+ <br>Telefono : 1151438049
+ <br>Email : gabriel.barbari75@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola busco trabajo creo poder desempeñarme bien en el lugar asignado soy puntual . Repetuso serio
+ <br>Security_code :       rx5dg
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 143.202.139.159<br>
+ <br>REF : EP-1
+ <br>Nombre : Marco Matias
+ <br>Apellido : Mendieta
+ <br>Cargo : Produccion
+ <br>Direccion : Muñiz 4110
+ <br>Ciudad : Pontevedra
+ <br>Telefono : 0111536663947
+ <br>Email : matydg14@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Muchas ganas de trabajar y aprender, Disponibilidad FULLTIME. Puntualidad y Responsabilidad. ZONA MERLO
+ <br>Security_code : hgby5
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.141.198.248<br>
+ <br>REF : chr
+ <br>Nombre : silvio martin
+ <br>Apellido : bonavita
+ <br>Cargo : chofer y clarkista
+ <br>Direccion : zepita 5545
+ <br>Ciudad : buenos aires la matanza
+ <br>Telefono : 1130842809 ( 02202494858 padres)
+ <br>Email : smartinbonavita@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola que tal soy Martín, me gustaría incorporarme a su equipo de trabajo, le cuento que trabaje 10 años de reparto propio con una ford 100.
+Se muy bien en el tema del reparto y muy buena relación con la jente. Los últimos dos años y medio trabaje para un mayorista en lo cual yo cargaba un camion fiat iveco y descargaba mercaderia que el mayorista compraba, todo lo hacia con un klar y hacía reparto que la mayoría eran chinos. Me gusta mucho el tema de reparto y trató con la jente, en la calle aprendí muchas cosa. Y lo último tres meses estoy de ayudante en un taller mecánico. Le cuento que me gusta la mecánica pero me tiro más por el reparto, un motivo es por que estoy pagando una casa por mes y por mala suerte no me alcansa para vivir y pagar la cuota. 
+En lo cual tengo dos hijo hermoso que me gusta darle todos los gusto que estén a mi alcancé. Bueno muchas gracias por su tiempo y espero poder estar en su grupo de trabajo. muchas Gracias por ahora!!! 
+Le dejo este número por si no se puede comunicarse a lo que le deje (1154968992 es de mi señora) que tenga un buen día... 
+ <br>Security_code : fjfzn
+ <br>Send : Enviar
+ <br>
+---------------
+

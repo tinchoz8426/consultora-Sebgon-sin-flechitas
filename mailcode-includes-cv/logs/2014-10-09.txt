@@ -1,0 +1,15 @@
+Address : 186.128.22.58
+Nombre : FABIO DANIEL
+Apellido : GODOY CICCONE
+Cargo : Gerente de Compras
+Direccion : Gargantini 250 Rivadavia Mendoza
+Ciudad : Rivadavia - Mendoza
+Telefono : 2634547288
+Email : fabiodaniel_godoy@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Puedo trasladarme en forma inmediata
+Security_code : vgx4r
+Send : Enviar
+
+---------------
+

@@ -1,0 +1,115 @@
+Address : 190.230.146.95
+Nombre : Adriana
+Apellido : Aguirre
+Cargo : Limpieza y Atención al Cliente
+Direccion : Calle 501 nº 830
+Ciudad : Rosario
+Telefono : 3412657141
+Email : adrianaaguirre050@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Soy una persona responsable, dinámica, organizada, ordenada, con aspiraciones, deseos de superación y metas basadas en el logro de objetivos; aprendo con rapidez y me intereso por cumplir de manera adecuada con la puntualidad, honestidad y responsabilidad en las distintas actividades que realizo.
+Security_code : t4zk9
+Send : Enviar
+
+---------------
+
+Address : 190.230.146.95
+Nombre : Adriana
+Apellido : Aguirre
+Cargo : Limpieza y Atención al Cliente
+Direccion : Calle 501 nº 830
+Ciudad : Rosario
+Telefono : 3412657141
+Email : adrianaaguirre050@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Soy una persona responsable, dinámica, organizada, ordenada, con aspiraciones, deseos de superación y metas basadas en el logro de objetivos; aprendo con rapidez y me intereso por cumplir de manera adecuada con la puntualidad, honestidad y responsabilidad en las distintas actividades que realizo.
+Security_code : wp9bm
+Send : Enviar
+
+---------------
+
+Address : 181.45.0.214
+Nombre : Mariluz
+Apellido : Grau
+Cargo : Responsable de programación de producción
+Direccion : Castelli 1783
+Ciudad : San Vicente
+Telefono : 01150386830
+Email : mariluzgrau@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buen dia estimados,
+
+Agradezco considerar mi CV para esta oferta.
+
+Security_code : bz7q8
+Send : Enviar
+
+---------------
+
+Address : 190.173.4.201
+REF : TEQ
+Nombre : Nadia Cecilia
+Apellido : Ruiz
+Cargo : Tecnica Quimica
+Direccion : Felix Lora 535 
+Ciudad : Claypole
+Telefono : 1569107116
+Email : ruiznadiacecilia@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenas tardes,
+Me postulo a este empleo ya que estoy interesada en seguir adquiriendo experiencia en el campo quimico, en el cual yo me forme, y tambien porque vivo cerca de burzaco y me conviene encontrar un trabajo cerca de mi casa.
+Ojala me tengan en cuenta para esta u otra oferta de trabajo.
+Saludos!
+Security_code : whs38
+Send : Enviar
+
+---------------
+
+Address : 179.39.145.97
+Nombre : Valeria
+Apellido : Nurnberg
+Cargo : Tecnica Quimica
+Direccion : Alfredo Palacios 
+Ciudad : Buenos Aires
+Telefono : 1566703261
+Email : venurnberg@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estoy en la busqueda de puesto para Tecnica Quimica
+Security_code : kmrzf
+Send : Enviar
+
+---------------
+
+Address : 201.253.239.196
+Nombre : Roberto Antonio
+Apellido : Cerda Pacheco
+Cargo : Ing. Quimico
+Direccion : Av. Crisologo Larralde 2255, Torre 3C, piso 8, depto D
+Ciudad : Tigre
+Telefono : 1131223828
+Email : roance83@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Profesional de la ingeniería, con experiencia técnico comercial. Conocimientos en diversas áreas y en la industria, enfocados hacia la minería, procesos químicos, industria alimentaria y del plástico, así como  sistemas de tratamiento de aguas. Con desempeño  en  empresas  donde la participación activa  en  un grupo multidisciplinario de profesionales, favoreció una rica experiencia, dando soluciones integrales en virtud de la satisfacción a los clientes y los objetivos de la empresa.
+Security_code : fnjqf
+Send : Enviar
+
+---------------
+
+Address : 181.164.117.176
+Nombre : Hernán
+Apellido : Di Nucci
+Cargo : tecnología
+Direccion : BVD 2N°68
+Ciudad : Chascomús
+Telefono : 02241697525
+Email : hmdinucci@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola envío mi CV. Saludos
+
+Hernán Di Nucci
+Fotógrafo profesional, Lic. en Biotecnología
+Security_code : tg6tv
+Send : Enviar
+
+---------------
+

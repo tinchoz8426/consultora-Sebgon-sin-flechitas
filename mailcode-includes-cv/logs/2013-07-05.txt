@@ -1,0 +1,28 @@
+Address : 24.232.12.34
+Nombre : Diego Amilcar
+Apellido : Vaccario
+Cargo : rrhh o Administrativo o Ventas
+Direccion : Delgado 1428
+Ciudad : Capital Federal
+Telefono : 45512032 y 1555154270
+Email : vaccario@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Atte. Sr. Director
+                                              Elevo a Ud. Mis Antecedentes Laborales y Universitarios, para que los mismos puedan ser tenidos en cuenta, para futuras búsquedas laborales
+
+Soy Técnico Electromecánico y Lic. en RRHH. 
+He trabajado como Encargado de Comercial, en Consultora de Recursos Humanos, generando contactos comerciales y Vendiendo a grandes y medianas empresas los servicios de la Consultora.
+
+He sido Asistente de RRHH en Duracell Argentina, manejando escalas remunerativas, presentismo y evaluación de personal. Tareas Administrativas
+
+Me he desempeñado en el rol de Intendente, en una Guardería Náutica (en San Fernando, Bs. As) , teniendo a cargo 40 personas,  manejado el Área Administrativa, Comercial y Operativa.
+
+Poseo disponibilidad horaria full time.
+Vivo en Colegiales, C.A.B.A.
+
+A la espera una futura entrevista laboral, lo saludo.
+Security_code : vq2tv
+Send : Enviar
+
+---------------
+

@@ -1,0 +1,51 @@
+Address : 190.174.96.204<br>
+ <br>REF : JPER-1
+ <br>Nombre : Mario Fabian
+ <br>Apellido : Lange
+ <br>Cargo : JPER-1
+ <br>Direccion : calle 28 n 967 city bell
+ <br>Ciudad : city bell
+ <br>Telefono : 01166806637
+ <br>Email : mariofabianlange@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados
+Adjunto Cv, a vuestra disposicion para entrevista.
+Gracias
+Fabian Lange
+ <br>Security_code : 39xq9
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 191.84.9.68<br>
+ <br>REF : ROT-1
+ <br>Nombre : Javier
+ <br>Apellido : Flores
+ <br>Cargo : RESPONSABLE DE OFICINA TECNICA 
+ <br>Direccion : Florentino Ameghino 671
+ <br>Ciudad : Buenos Aires Villa Sarmiento
+ <br>Telefono : 111522422627
+ <br>Email : javierflo2000@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Posibilidad de realizar prueba sin compromiso
+gracias 
+ <br>Security_code : ph6wp
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.10.53.115<br>
+ <br>Nombre : leonardo
+ <br>Apellido : faraci
+ <br>Cargo : chofer de camion
+ <br>Direccion : 11 de septiembre 2541
+ <br>Ciudad : bs as
+ <br>Telefono : 1560440077
+ <br>Email : leofaraci@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : quisiera postularme para algun puesto de trabajo de chofer de camion
+ <br>Security_code : 3f627
+ <br>Send : Enviar
+ <br>
+---------------
+

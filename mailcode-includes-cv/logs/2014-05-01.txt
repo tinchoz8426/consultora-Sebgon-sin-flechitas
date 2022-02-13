@@ -1,0 +1,75 @@
+Address : 186.133.253.17
+Nombre : Angie
+Apellido : Yucra
+Cargo : Promotora
+Direccion : Misiones 1245
+Ciudad : Merlo-Libertad
+Telefono : 542204975980
+Email : angie_sole_2007@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Espero que nos pongamos en contacto.Gracias.
+Security_code : n89qc
+Send : Enviar
+
+---------------
+
+Address : 190.183.48.39
+Nombre : GABRIELA ALEJANDRA
+Apellido : SOLIOZ
+Cargo : CONTADORA
+Direccion : SAN MARTIN 387
+Ciudad : PARANA
+Telefono : 0343-154563575
+Email : GABYSOLIOZ@HOTMAIL.COM
+MAX_FILE_SIZE : 2097152
+Mensaje : ME POSTULO COMO CONTADORA O ALGUN CARGO RELACIONADO CON LA PROFESION
+Security_code : 8XW7V
+Send : Enviar
+
+---------------
+
+Address : 190.183.48.39
+Nombre : GABRIELA ALEJANDRA
+Apellido : SOLIOZ
+Cargo : CONTADORA
+Direccion : SAN MARTIN 387
+Ciudad : PARANA-ENTRE RIOS
+Telefono : 0343-154563575
+Email : GABYSOLIOZ@HOTMAIL.COM
+MAX_FILE_SIZE : 2097152
+Mensaje : ME POSTULO COMO CONTADORA O ALGUN PUESTO RELACIONADO CON LA PROFESION
+Security_code : ftdhs
+Send : Enviar
+
+---------------
+
+Address : 181.95.84.223
+Nombre : juan pablo
+Apellido : marquez
+Cargo : repositor o operario
+Direccion : calle 1345 numero 2458
+Ciudad : rosario
+Telefono : 3413503335
+Email : juanpa_317@hotmail.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : hola estoy en la busqueda de empleo en la ciudad de marcos juarez en mi curriculum podran ver mi experiencia laboral igual no tengo problema de trabajar en otros rubros aprendo enseguida
+Security_code : j95jb
+Send : Enviar
+
+---------------
+
+Address : 190.244.176.173
+Nombre : Romina Alexandra
+Apellido : Guaymas
+Cargo : cajera/ recepcion/ limpieza/ promocion
+Direccion : virrey liniers 1960
+Ciudad : caba
+Telefono : 49122268
+Email : ro.guaymas@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : me encuentro en la búsqueda laboral, soy una persona muy predispuesta, con iniciativa  
+Security_code : rjqs4
+Send : Enviar
+
+---------------
+

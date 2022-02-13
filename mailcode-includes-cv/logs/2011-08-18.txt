@@ -1,0 +1,53 @@
+Address : 200.114.201.114
+Nombre : gisela 
+Apellido : camera
+Cargo : auxiliar de recursos humanos
+Direccion : malabia 2283
+Ciudad : capital federal
+Telefono : 48322712
+Email : cameragisela@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : espero su llamado
+Security_code : m7jy2
+Send : Enviar
+
+---------------
+
+Address : 190.31.57.227
+Nombre : Paola María de Luján
+Apellido : Pardo
+Cargo : Administrativa,Supervisora, Atención al cliente
+Direccion : Brown 4081
+Ciudad : Rosario
+Telefono : 156034537
+Email : paolamlpardo@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Tengo el agrado de dirigirme a usted para postularme a  futuras vacantes de la empresa.
+                  Poseo una sólida formación de supervisón y coordinación con personal a cargo, administración general, ventas telefónica, atención al cliente, adquirida en las actividades de empresas que he trabajado por lo que estoy acostumbrada a tomar decisiones y a trabajar en equipo. Me considero capaz de desarrollar tareas en donde se deba construir y trabajar creativamente y, por la experiencia profesional desarrollada, manejo criterios de eficiencia y eficacia en el desempeño de mis funciones.
+                  Creo en la formación continua, por lo que siempre estoy haciendo cursos de perfeccionamiento o aquellos que pueden serme útiles para mi desempeño laboral. Me considero una persona polivalente y dinámica, a quién le agrada mucho el contacto con otras personas.                    
+                  Estoy dispuesta a emprender nuevos desafíos profesionales y creo que cumplo con los requisitos para ocupar un puesto en su empresa.
+ 
+Esperando su grata respuesta, le saluda atentamente. 
+
+
+
+Security_code : 87dpv
+Send : Enviar
+
+---------------
+
+Address : 190.244.208.64
+Nombre : lucas emanuel 
+Apellido : ialea
+Cargo : juridico-administrativo
+Direccion : barrio luz y fuerza casa 15
+Ciudad : balcarce
+Telefono : 02266 430791
+Email : lucas_ialea@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : joven, responsable,recibido en tiempo y forma, con muchas ganas de tener un empleo -
+Security_code : x42xf
+Send : Enviar
+
+---------------
+

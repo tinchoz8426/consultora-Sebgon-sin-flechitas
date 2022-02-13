@@ -1,0 +1,14 @@
+Address : 179.0.4.128
+ <br>Nombre : Nadia
+ <br>Apellido : Daza
+ <br>Empresa : Exigencias S.R.L
+ <br>Telefono : 1558108149
+ <br>Email : nadiadaza@hotmail.com
+ <br>Mensaje : Estimados, Estamos evaluando incorporar en nuestra organización, Exigencias S.R.L, capacitaciones a nuestros empleados. Nos recomendaron sus servicios y nos gustaría si nos pueden brindar más información (carga horaria, principales aspectos y presupuestos) acerca de los siguientes cursos:Formación en managment	Liderazgo y Motivación
+	Trabajo en Equipo - Team Building
+
+ <br>Security_code : rg8zp
+ <br>Send : Enviar
+ <br>
+---------------
+

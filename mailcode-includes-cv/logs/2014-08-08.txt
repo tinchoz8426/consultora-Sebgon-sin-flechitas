@@ -1,0 +1,138 @@
+Address : 190.189.91.170
+Nombre : Alejandra
+Apellido : Albornoz
+Cargo : Administrativa
+Direccion : Pizarro 6772
+Ciudad : Capital Federal
+Telefono : 1563597699
+Email : ale.albornoz1985@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola, estoy buscando trabajo, les envío mi CV. Espero pronta rpta, muchas gracias. 
+
+Security_code : g9scc
+Send : Enviar
+
+---------------
+
+Address : 190.245.67.171
+Nombre : Felix Guillermo
+Apellido : Fernandez
+Cargo : Presentación espontanea
+Direccion : Caseros 878
+Ciudad : Vicente Lopez
+Telefono : 15 6447 0321
+Email : fernandezspratt@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me contacto con ustedes con el fin de enviarles mis antecedentes y comentarles mis expectativas de desarrollo profesional.
+Durante mi trayectoria de más de 25 años ocupando posiciones gerenciales dentro del área de Administración y Finanzas en Xerox Corp. Y en Newell Rubbermaid Inc., he participado y colaborado activamente con el resto de los sectores de la organización, lo cual me ha permitido adquirir, no solo amplia experiencia en mi ámbito específico sino también una visión global e integral de los negocios. 
+Sumado a esto, el hecho de haber transitado varias situaciones de crisis (internas y externas), me han permitido desarrollar las habilidades y capacidades necesarias para tomar las decisiones acordes, actuando con flexibilidad y rapidez logrando alcanzar los resultados esperados maximizando las oportunidades que ofrecen estos entornos cambiantes. 
+Quedo a su disposición para que, en el caso que lo consideren conveniente, concertar una entrevista donde pueda ampliarles detalles de mi perfil profesional.
+A la espera de su respuesta, los saludo atentamente
+Félix Guillermo Fernández
+
+Security_code : 55b7k
+Send : Enviar
+
+---------------
+
+Address : 190.179.32.142
+Nombre : Juan Ariel
+Apellido : Rodriguez
+Cargo : operario
+Direccion : donato alvarez 5387
+Ciudad : Lomas de zamora
+Telefono : 42707707
+Email : mika-teamomucho@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : estoy buscando trabajo de operario o con lo que tenga que ver en empresa 
+Security_code : t4wzm
+Send : Enviar
+
+---------------
+
+Address : 181.25.224.126
+Nombre : Nicolas
+Apellido : Sosa
+Cargo : Empleado
+Direccion : Garay 4380
+Ciudad : Temperley
+Telefono : 42647698
+Email : nicko__Fc@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Espero poder contar con la ayuda de Sebgon para conseguir un empleo.
+Security_code : tm3v6
+Send : Enviar
+
+---------------
+
+Address : 181.25.224.126
+Nombre : Nicolas
+Apellido : Sosa
+Cargo : Empleado
+Direccion : Garay 4380
+Ciudad : Temperley
+Telefono : 42647698
+Email : nicko__Fc@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Espero poder contar con la ayuda de Sebgon para conseguir un empleo.
+Security_code : tm3v6
+Send : Enviar
+
+---------------
+
+Address : 190.19.124.57
+Nombre : Matias
+Apellido : Galdino
+Cargo : Administrativo
+Direccion : Piedras 1309
+Ciudad : Buenos Aires caba.
+Telefono : 1530329471
+Email : galdinomatiasezequiel@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Mi objetivo es crecer y ampliar mis capacidades en nuevas áreas de
+trabajo, aprovechando la experiencia adquirida.
+Security_code : b5r43
+Send : Enviar
+
+---------------
+
+Address : 181.168.238.70
+Nombre : José Enrique
+Apellido : Castro
+Cargo : Encagado gastronomía
+Direccion : 3 de Febrero 3888
+Ciudad : Mar del Plata
+Telefono : 0223-476-4638
+Email : josenriquecastro_@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : De mi consideración:
+Tengo el agrado de dirigirme a Ud. con el objeto de participar en búsquedas acordes a mi perfil en su empresa. Adjunto le remito mi Curriculum Vitae para que me incluyeran en su base de datos por si se produjera alguna vacante.
+
+Quedo a su entera disposición ante una eventual entrevista personal  con el objetivo de profundizar aspectos de mi perfil que resulten de su interés. 
+ Sin otro particular, aprovecho esta oportunidad para saludarlo cordialmente.
+
+José Castro 
+
+Security_code : qw78h
+Send : Enviar
+
+---------------
+
+Address : 181.167.7.216
+Nombre : Francisco
+Apellido : Toledo
+Cargo : Arquitecto
+Direccion : Ruiz Huidobro 3621
+Ciudad : CABA
+Telefono : 15-6-746-8947
+Email : franciscoltoledo@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Soy una persona activa, responsable, creativa, flexible, orientada al logro de resultados y a la resolución y evolución constante en las tareas asignadas. 
+
+El objetivo que me he impuesto, es el de formar parte del personal de una empresa prestigiosa, confiable y con proyectos ambiciosos. 
+
+Security_code : gmpsm
+Send : Enviar
+
+---------------
+

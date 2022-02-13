@@ -1,0 +1,76 @@
+Address : 181.91.122.34
+Nombre : MARIA CONSTANZA
+Apellido : MARTIN 
+Cargo : SELECCION DE PERSONAL
+Direccion : MENDOZA 739
+Ciudad : CORRIENTES CAPITAL
+Telefono : 379154399079
+Email : constanzamartin.g@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me encuentro más que interesada en trabajar con ustedes.
+
+Security_code : f6xq5
+Send : Enviar
+
+---------------
+
+Address : 190.178.192.140
+Nombre : brenda
+Apellido : riera
+Cargo : atención al público negocio
+Direccion : w.morris 6062
+Ciudad : mar del plata
+Telefono : 2236916325
+Email : breemevhy@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Busco trabajo atención al publico negocio moda
+Security_code : q69xm
+Send : Enviar
+
+---------------
+
+Address : 201.252.190.245
+Nombre : jorge diego
+Apellido : Rodriguez
+Cargo : operario de producción, repositor 
+Direccion : López Cabrera block 8 casa 2 san carlos
+Ciudad : cordoba
+Telefono : 03515222338
+Email : jorge_diego_rodriguez86@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenas tardes estoy en la búsqueda laboral soy responsable me gusta aprender y progresar tengo muchas ganas de trabajar desde ya muchas gracias
+Security_code : 65hxn
+Send : Enviar
+
+---------------
+
+Address : 181.166.180.121
+Nombre : Carla
+Apellido : Souza Garcia
+Cargo : Administración, Compras
+Direccion : Loria 580-lomas de zamora
+Ciudad : Buenos Aires
+Telefono : 42439177
+Email : carla.brar@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados: Me gustaría que me tengan en cuenta para futuros puestos en el sector de compras, administración o a fines. Desde ya, muchas gracias!
+Security_code : wd9v6
+Send : Enviar
+
+---------------
+
+Address : 186.56.196.254
+Nombre : roberto
+Apellido : rodriguez
+Cargo : administrativo
+Direccion : berutti 1906
+Ciudad : merlo
+Telefono : 1139236007
+Email : robertosebastianr@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : dejo  mi cv para ser considerado en alguna de sus busqueda de acorde a mi perfil
+Security_code : 3n24f
+Send : Enviar
+
+---------------
+

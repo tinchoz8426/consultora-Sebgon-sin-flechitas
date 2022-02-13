@@ -1,0 +1,45 @@
+Address : 190.30.133.226
+Nombre : viviana
+Apellido : diaz
+Cargo : administracion ventas, compras, operaria, atencion al cliente, call center, por hora, 
+Direccion : saavedra 1643 dto. 2
+Ciudad : gral san martin
+Telefono : 48398021
+Email : vizaid_439@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : hace 3 meses que busco trabajo, dispongo de horario, alquilo y tengo dos hijas, mi necesidad es urgente, gracias
+Security_code : qrrrt
+Send : Enviar
+
+---------------
+
+Address : 201.255.112.204
+Nombre : ignacio
+Apellido : rasse
+Cargo : administrativo
+Direccion : 65 N° 370
+Ciudad : la plata
+Telefono : 0221 4863492
+Email : ignaciorasse@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : por favor necesito trabajar tengo disponibilidad horaria  y soy muy eficaz
+Security_code : cvs7h
+Send : Enviar
+
+---------------
+
+Address : 190.174.127.194
+Nombre : Ana Laura
+Apellido : Furriol
+Cargo : Administración/ Recepción/ Ventas/Atención al cliente
+Direccion : Dr. Monte 2364
+Ciudad : Morón
+Telefono : 15-6852-7488
+Email : anafurriol@yahoo.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me contacto con ustedes en función de mi búsqueda de un empleo part-time que me permita seguir estudiando. Estoy a su disposición y espero su respuesta. Desde ya, muchas gracias.
+Security_code : 8c3cq
+Send : Enviar
+
+---------------
+

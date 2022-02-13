@@ -1,0 +1,16 @@
+Address : 200.123.189.49
+Nombre : Rolando
+Apellido : Marchisio
+Empresa : Club del Vino S.A
+Telefono : 52738360
+Email : rmarchisio@clubdelvino.com.ar
+Mensaje : Estimados necesito saber el presupuesto para realizar un informe policial, socio- economico- financiero  y el informe de juicios laborales de un candidato que quiero incorporar a mi empresa.
+Ademas del costo saber como es el procedimiento y que informacion les debo pasar del postulante.
+Muchas gracias 
+Rolando Marchisio
+Gerente de RRHH
+Security_code : dyprn
+Send : Enviar
+
+---------------
+

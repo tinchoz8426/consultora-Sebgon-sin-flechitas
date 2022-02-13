@@ -1,0 +1,88 @@
+Address : 66.249.85.7<br>
+ <br>REF : TM-2
+ <br>Nombre : Pablo
+ <br>Apellido : Lombardo
+ <br>Cargo : Mecanico
+ <br>Direccion : Irala
+ <br>Ciudad : Mar del plata
+ <br>Telefono : 155133289
+ <br>Email : pablolombardo1983@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Mucha experiencia como tornero mecánico, mantenimiento mecanico
+ <br>Security_code : 29gxx
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.18.202.89<br>
+ <br>REF : ACO-1
+ <br>Nombre : SERGIO LUIS
+ <br>Apellido : FARIOLI
+ <br>Cargo : ANALISTA DE COMERCIO EXTERIOR
+ <br>Direccion : formosa 1834
+ <br>Ciudad : LANUS (CP=1824)
+ <br>Telefono : 39691160
+ <br>Email : sergiofarioli@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Amplia experiencia en comercio exterior
+Contador
+ <br>Security_code : 7dvy3
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.18.202.89<br>
+ <br>REF : ACO-1
+ <br>Nombre : SERGIO LUIS
+ <br>Apellido : FARIOLI
+ <br>Cargo : ANALISTA DE COMERCIO EXTERIOR
+ <br>Direccion : formosa 1834
+ <br>Ciudad : LANUS (CP=1824)
+ <br>Telefono : 39691160
+ <br>Email : sergiofarioli@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Amplia experiencia en comercio exterior
+Contador
+ <br>Security_code : 7dvy3
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.151.146.84<br>
+ <br>REF : JPER-1
+ <br>Nombre : Angel
+ <br>Apellido : Notti
+ <br>Cargo : Jefe de Peersonal (JPER-1)
+ <br>Direccion : Ruta 9 Km 86,5
+ <br>Ciudad : Zarate
+ <br>Telefono : 011-15-3682-5754
+ <br>Email : angel_notti@yahoo.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas tardes, estoy  muy interesado en participar de la búsqueda de referencia.
+Adjunto podrán encontrar mi CV.-
+Desde ya muchas gracias.-
+
+Angel.-
+ <br>Security_code : gk3gb
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.122.204.193<br>
+ <br>REF : ROT-1
+ <br>Nombre : Luis Alberto
+ <br>Apellido : Becerra
+ <br>Cargo : Responsable de Oficina Tecnica
+ <br>Direccion : Paul Groussac 51
+ <br>Ciudad : Merlo
+ <br>Telefono : 1130140689
+ <br>Email : l.a.becerra.1983@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Mi nombre es Luis Becerra y estoy en la búsqueda de empleo en alguna empresa metalúrgica donde pueda tener la posibilidad de trabajar principalmente además de aprender, progresar y donde se valore las ganas de crecer. Soy una persona responsable que siempre trata de mejorar los métodos de trabajo para optimizar los tiempos y la calidad de las tareas, espero tener la posibilidad de demostrarlo en alguna gran
+empresa, tengo 6 años de experiencia en el armado de grandes estructuras metálicas, soldador calificado, operario en guillotinas, plegadoras, balancín y agujereadoras, asistente en oficina técnica durante 2 años, conocimiento de herramientas de medición, programador y operario de pantógrafo CNC, experiencia en Autocad, amplia experiencia en Inventor Profesional, Excel, Word, quedo a disposición.
+
+ <br>Security_code : k7ng2
+ <br>Send : Enviar
+ <br>
+---------------
+

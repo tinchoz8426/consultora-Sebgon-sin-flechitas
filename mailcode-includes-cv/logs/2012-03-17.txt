@@ -1,0 +1,32 @@
+Address : 186.18.210.135
+Nombre : Julieta
+Apellido : Cucca
+Cargo : Atención al Cliente
+Direccion : Salguero 1674 1 D
+Ciudad : Ciudad de Buenos Aires
+Telefono : 1566595551
+Email : cuccajulieta@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenos días. Me llamo Julieta, tengo 23 años y estoy buscando empleo, los puestos a los que aspiro son atención al cliente, administrativa o data entry. Desde ya, muchas gracias.
+Security_code : jbz6b
+Send : Enviar
+
+---------------
+
+Address : 190.172.219.71
+Nombre : Matías Santiago
+Apellido : Belardita
+Cargo : producción audiovisual
+Direccion : Guido Spano 1545
+Ciudad : Ramos Mejía
+Telefono : 4443-1787
+Email : matiasbelardita@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Me dirijo a Uds., adjuntando antecedentes personales y formación para su evaluación.
+Actualmente,  me encuentro cursando 2º año de la carrera de Producción Integral de Televisión, en el Instituto privado TEA Imagen.
+Tengo interés en adquirir conocimientos, experiencia en el medio y comenzar a desempeñarme dentro del ámbito de la comunicación audio-visual.
+Security_code : 45m6x
+Send : Enviar
+
+---------------
+

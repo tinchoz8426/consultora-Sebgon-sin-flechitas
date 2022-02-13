@@ -1,0 +1,33 @@
+Address : 181.31.232.131
+Nombre : Favio René
+Apellido : Perich
+Cargo : Cualquiera
+Direccion : Arcamendia 712
+Ciudad : Buenos Aires
+Telefono : 1555610075
+Email : favio_rene@hotmail.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Mi objetivo laboral es adquirir conocimiento como así también formarme profesionalmente en todos los aspectos posibles.
+Capaz de adaptarme a los cambios sin inconvenientes.
+
+Security_code : 2sxzt
+Send : Enviar
+
+---------------
+
+Address : 181.109.169.90
+Nombre : Fabian
+Apellido : Ferrari
+Cargo : Tecnico
+Direccion : Forest 402
+Ciudad : Libertad
+Telefono : 1134871098
+Email : fabianferrari@live.com
+MAX_FILE_SIZE : 2097152
+Mensaje : estimados:
+estoy en busqueda de un puesto laboral en el area tecnica o produccion . estoy interesado en alguna propuesta para massalin particulares . saludos .
+Security_code : tjv4q
+Send : Enviar
+
+---------------
+

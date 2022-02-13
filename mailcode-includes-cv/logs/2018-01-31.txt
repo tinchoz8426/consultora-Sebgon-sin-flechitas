@@ -1,0 +1,58 @@
+Address : 181.229.139.102<br>
+ <br>Nombre : Víctor 
+ <br>Apellido : López Bórquez
+ <br>Cargo : Análisis, auditoria de seguridad o análogos
+ <br>Direccion : 4 y 50
+ <br>Ciudad : La Plata
+ <br>Telefono : 221 609876
+ <br>Email : lopez_asc@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Graduado en la Universidad de la Policía Federal en el año 2004, con experiencia en seguridad patrimonial y servicios prestados en fuerza policial. 
+ <br>Security_code : 5hpqz
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.166.96.203<br>
+ <br>Nombre : julian
+ <br>Apellido : reynares
+ <br>Cargo : busco trabajo
+ <br>Direccion : milenio de polonia 3267
+ <br>Ciudad : santa fe
+ <br>Telefono : 3425278177
+ <br>Email : julianreynares7@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : busco trabajo 
+joven 20 años secundario pendiente 2 materias, 1.80 delgado
+ <br>Security_code : hmqhj
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.28.60.9<br>
+ <br>Nombre : Carolina
+ <br>Apellido : Mónaco
+ <br>Cargo : Capacitacion y Desarrollo
+ <br>Direccion : carolinamonaco91@gmail.com
+ <br>Ciudad : Capital Federal
+ <br>Telefono : 2346543236
+ <br>Email : carolinamonaco91@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados:
+​​Mi nombre es Carolina Mónaco, ​t​engo 26 años y vivo en Ciudad Autónoma de Buenos Aires (CABA).
+​Soy Psicopedagoga y estoy enfocando mi perfil profesional hacia la labor de Recursos Humanos: trabajo en organizaciones, capacitación, evaluación de desempeño y selección de personal. 
+He realizado diferentes cursos hacia el área de Recursos Humanos y Capacitación,  con la proyección de realizar posgrado en Psicopedagogía Laboral. 
+Envío a ustedes mi Curriculum Vitae, con el fin de que lo visualicen y consideren poder ​realizar mi ​​aport​e​.
+
+Me encuentro a su disposición y con muchas ganas de adquirir experiencia.
+
+Me apasiona este campo, soy proactiva y tengo muchas ganas de aprender.
+
+Desde ya, muchas gracias.
+
+Saludos cordiales.
+ <br>Security_code : rmgc9
+ <br>Send : Enviar
+ <br>
+---------------
+

@@ -1,0 +1,60 @@
+Address : 201.255.237.197
+Nombre : Guadalupe Ailsa
+Apellido : Iturralde
+Cargo : Secretaria Administrativa
+Direccion : Osorio 2099
+Ciudad : Lanús Oeste
+Telefono : 1524649432
+Email : guadalupeailsa@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Desde ya Muchas Gracias.
+Security_code : z3s97
+Send : Enviar
+
+---------------
+
+Address : 181.22.169.185
+Nombre : cintia ayelen 
+Apellido : arce
+Cargo : atencion al cliente
+Direccion : rufino inda 2341
+Ciudad : mar del plata
+Telefono : 4818877
+Email : cintia_aye1996@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : estoy en busqueda de trabajo, urgente.. capaz de adaptarme a cualquier tipo de trabajo
+Security_code : K9h5t
+Send : Enviar
+
+---------------
+
+Address : 176.10.104.234
+Nombre : Bradley
+Apellido : 83968
+Cargo : rtjHfbSrqfWdCRMLCIs
+Direccion : EkArRyKNzHPvN
+Ciudad : NY
+Telefono : 93922562371
+Email : lucas2d44@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : 3fPOO9 http://www.FyLitCl7Pf7kjQdDUOLQOuaxTXbj5iNG.com
+Security_code : pJg6nW
+Send : Enviar
+
+---------------
+
+Address : 188.143.232.13
+Nombre : Bradley
+Apellido : 3140
+Cargo : UQhyiwhZTRfRDTLPNP
+Direccion : YQkKSMepYnwbWFNJL
+Ciudad : NY
+Telefono : 80331007869
+Email : lucas2d44@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : 1hmkKk http://www.FyLitCl7Pf7kjQdDUOLQOuaxTXbj5iNG.com
+Security_code : CQp3vA
+Send : Enviar
+
+---------------
+

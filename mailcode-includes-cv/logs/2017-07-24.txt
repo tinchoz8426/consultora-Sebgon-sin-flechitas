@@ -1,0 +1,86 @@
+Address : 190.48.40.135<br>
+ <br>REF : Tectron
+ <br>Nombre : Pedro Antonio
+ <br>Apellido : Delgado Tobar
+ <br>Cargo : Técnico Eléctrico  
+ <br>Direccion : Dr. Lorenzo Guarrachino
+ <br>Ciudad : Buenos Aire
+ <br>Telefono : 15-4099-1202
+ <br>Email : PEDRO_DELGADO_T@YAHOO.COM.AR
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Sr. envio mi CV para tecnico y si los requiere de Supervisor.
+ <br>Security_code : by4gj
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 168.0.57.11<br>
+ <br>Nombre : Juan
+ <br>Apellido : Servadei
+ <br>Cargo : Consultor en Seguridad Corporativa
+ <br>Direccion : Monseñor De Andrea 291, Haedo
+ <br>Ciudad : Haedo
+ <br>Telefono : 1159825831
+ <br>Email : juanservadei@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados les envio mi CV para cualquier necesidad que puedan llegar a tener. Les comento que he desarrollado trabajos como profesional independiente en importantes empresas y urbanizaciones privadas tanto en la porvincia de Córdoba como en Buenos Aires.
+ <br>Security_code : r5fpt
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.166.200.110<br>
+ <br>REF : ROT-1
+ <br>Nombre : Francisco A.
+ <br>Apellido : Fazio
+ <br>Cargo : RESPONSABLE DE OFICINA TECNICA 
+ <br>Direccion : Boedo 510
+ <br>Ciudad : Lomas de Zamora
+ <br>Telefono : 1554588137
+ <br>Email : paco_sub@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Diseñador Industrial (uba) con experiencia y orientado a desarrollo d producto e ingeniería inversa.
+Lógico, pragmático uso de sentido común, capacidad de trabajar en forma interdisciplinaria.
+Actualmente cursando una Especialización en Plásticos (INTI) e incursionando en Catia y Abaqus.
+Cuento con experiencia en solidworks y programas de diseño, realización d planos y gestión d prototipos, por lo q puedo resultar una opción interesante para ustedes.
+Ganas d seguir aprendiendo, capacitando y superandome.
+
+Atte Francisco
+
+Pd_ Enviaré porfolio con trabajos al mail q indiquen
+ <br>Security_code : d996j
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.177.29.28<br>
+ <br>Nombre : Eduardo Rodolfo
+ <br>Apellido : Thom
+ <br>Cargo : Chofer Distribuidor
+ <br>Direccion : calle 280n3863
+ <br>Ciudad : Berazategui
+ <br>Telefono : 1149390981
+ <br>Email : eduthom2016@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estoy dispuesto a trabajar en el puesto acorde al que ustedes crean mas conveniente por mi perfil.
+ <br>Security_code : ygx9g
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.122.195.213<br>
+ <br>REF : chr
+ <br>Nombre : Daniel
+ <br>Apellido : Bogao
+ <br>Cargo : Chofer
+ <br>Direccion : DeanFunes3905
+ <br>Ciudad : Merlo
+ <br>Telefono : 1122417123
+ <br>Email : danibogao13@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Postulacion chofer ambulancia
+ <br>Security_code : qwx64
+ <br>Send : Enviar
+ <br>
+---------------
+

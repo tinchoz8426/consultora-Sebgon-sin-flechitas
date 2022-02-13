@@ -1,0 +1,64 @@
+Address : 186.56.171.218
+REF : adper
+Nombre : SILVIA MICAELA
+Apellido : ETCHART
+Cargo : ADMINISTRATIVO DE PERSONAL
+Direccion : PASAJE SARRATEA 115
+Ciudad : merlo, buenos aires
+Telefono : 011-15-6130-4903
+Email : micaelaetchart@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenos Aires, Agosto de 2010.
+Sres. 
+
+De mi consideración: 
+Tengo el agrado de dirigirme a Ustedes a fin de acercarles mi CV, para eventuales búsquedas acordes a mi perfil. Cuento con una valiosa experiencia en atención al cliente.
+En cuanto a mi formación, soy Técnica en Operaciones Hoteleras, en la cual tengo amplia experiencia.  En este me encuentro estudiando la carrera de RRHH en la Universidad de Morón.
+Me oriento a ocupar posiciones relacionadas con RRHH.  Estimo que una entrevista será el marco adecuado para profundizar aspectos de mi perfil que puedan resultar de su interés. 
+Cordialmente,
+Micaela Etchart.
+Tel. 0220-4851317
+Cel. 15-6130-4903
+micaelaetchart@gmail.com 
+
+Security_code : hfwh9
+Send : Enviar
+
+---------------
+
+Address : 190.1.33.20
+Nombre : Antonela
+Apellido : Nasberg
+Cargo : Administrativa
+Direccion : Brown 1539
+Ciudad : Bahía Blanca
+Telefono : (0291) 154 615157
+Email : antiina@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenas tardes, les adjunto mi currículum, soy estudiante de la tecnicatura en seguridad e higieney control ambiental industrial, actualmente estoy cursando el último año.
+
+Saludos...
+
+Antonela.
+Security_code : b3g24
+Send : Enviar
+
+---------------
+
+Address : 190.230.0.98
+REF : gerente-financiero
+Nombre : jonatan samuel 
+Apellido : acosta
+Cargo : operario/atencion al cliente
+Direccion : 21 de junio 2909
+Ciudad : San Martín
+Telefono : 47293214
+Email : jony_rescate@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estere a la espera de alguna oferta de trabajo.
+Desde ya muchas gracias.
+Security_code : 53jmj
+Send : Enviar
+
+---------------
+

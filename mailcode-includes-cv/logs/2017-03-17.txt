@@ -1,0 +1,83 @@
+Address : 181.109.168.78<br>
+ <br>Nombre : Magali
+ <br>Apellido : Burgos
+ <br>Cargo : Ventas
+ <br>Direccion : 179 y 154
+ <br>Ciudad : Batan
+ <br>Telefono : 2236006825
+ <br>Email : magaliburgos31@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : *termino secundario en 2017
+*Cuil:27-39591424-9
+*estudio operador de informáticas para oficinas
+ <br>Security_code : K8jkg
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.22.47.227<br>
+ <br>REF : ROT-1
+ <br>Nombre : Cruz
+ <br>Apellido : Mariana Javiera
+ <br>Cargo : Responsable de oficina tecnica
+ <br>Direccion : Hudson 2008
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 20714188
+ <br>Email : mjavieracruz@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola estoy interesada en trabajar con ustedes espero les interese mi perfil.
+Saludos
+ <br>Security_code : ymvy8
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.19.228.14<br>
+ <br>REF : ROT-1
+ <br>Nombre : Luis
+ <br>Apellido : Quinteros
+ <br>Cargo : proyectista mecanico
+ <br>Direccion : san isidro 965
+ <br>Ciudad : Ituzaingo
+ <br>Telefono : 15 55686093
+ <br>Email : luiggi_2519@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : programa de CNC utilazado Lantek de Euromac
+ <br>Security_code : w2477
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.30.49.205<br>
+ <br>Nombre : Sergio Antonio
+ <br>Apellido : Maggi
+ <br>Cargo : Administrativo, Técnico
+ <br>Direccion : Chacra 94, Mz. 26, Calle 76, Casa 03
+ <br>Ciudad : Posadas
+ <br>Telefono : 3764672060
+ <br>Email : smaggi@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Administrativo, Técnico
+ <br>Security_code : 95prv
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.44.79.38<br>
+ <br>Nombre : mariana
+ <br>Apellido : Marchini
+ <br>Cargo : administrativo
+ <br>Direccion : santos dumont 194
+ <br>Ciudad : ituzaingo
+ <br>Telefono : 11-56181506
+ <br>Email : marianna-@live.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me encuentro en la búsqueda laboral, me desempeño en el ámbito de la salud como personal administrativo de laboratorios de análisis clínicos.
+Mi interés es continuar especializándome en la actividad aplicando la experiencia adquirida en el área y perfeccionarme en lo necesario para mi crecimiento y desarrollo laboral.
+EXPERIENCIA
+Administrativa
+ <br>Security_code : qx7j2
+ <br>Send : Enviar
+ <br>
+---------------
+

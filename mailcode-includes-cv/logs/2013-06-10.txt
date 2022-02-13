@@ -1,0 +1,44 @@
+Address : 201.253.171.173
+Nombre : Nicolás 
+Apellido : Belaustegui
+Cargo : Operario
+Direccion : Copernico 86
+Ciudad : Escobar
+Telefono : 0348 154698106
+Email : nicocharrua_83@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenos dias,
+ Aqui les dejo adunto mi CV, espero tener la oportunidad de ser entrevistado pronto por ustedes.
+ Desde ya muchas gracias.
+Security_code : bkw56
+Send : Enviar
+
+---------------
+
+Address : 186.22.57.97
+Nombre : Maite Soledad
+Apellido : Martin
+Cargo : Marketing,Comunicaciones o Atención al Cliente
+Direccion : Bartolome Mitre 2100
+Ciudad : Capital Federal
+Telefono : 1531113083
+Email : maittus@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : A quien corresponda:
+ 
+Mi nombre es Maite Martin y soy Lic. en Relaciones Públicas egresada de la Universidad Argentina de la Empresa (UADE). En la actualidad me encuentro sin trabajo desde el 30 de abril a partir del momento en el que me desvincule de la empresa Level 3 Argentina.
+ 
+Me  dirijo a ustedes a fin de enviarle mi cv para que el mismo, de ser posible, sea considerando en dicha búsqueda profesional o incluido en sus bases de datos y así considerado en otras futuras.
+
+Quedo a su disposición y desde ya muchas gracias
+ 
+Saluda atentamente
+ 
+Maite Martin
+15.3111.3083
+
+Security_code : rwjmj
+Send : Enviar
+
+---------------
+

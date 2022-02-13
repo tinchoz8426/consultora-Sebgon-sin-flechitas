@@ -1,0 +1,40 @@
+Address : 186.18.37.170
+Nombre : Silvana 
+Apellido : Pereira
+Cargo : Administrativo
+Direccion : Miguel Gomez Bao 155 
+Ciudad : Buerzaco
+Telefono : 35292372
+Email : silpereira74@mail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Solo disponible para Zona Sur
+Security_code : vybwh
+Send : Enviar
+
+---------------
+
+Address : 200.125.113.86
+Nombre : Jorge Horacio
+Apellido : Abán
+Cargo : espontanea
+Direccion : PERON 3430
+Ciudad : CABA
+Telefono : 1531198708
+Email : jorgeaban@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados
+
+Me dirijo a ustedes para presentarme espontáneamente porque estoy iniciando una búsqueda laboral. 
+
+Mi experiencia laboral se desarrolló en el área comercial de diferentes empresas. Estuve trabajando como Asesor Comercial y Analista de Calidad en mi último trabajo Interbanking.
+
+Adjunto mi CV y me pongo a su disposición para que analicemos alguna búsqueda acorde a mi perfíl.
+
+Agradezco su tiempo, saludos cordiales.
+
+Jorge Horacio Abán
+Security_code : xtgr3
+Send : Enviar
+
+---------------
+

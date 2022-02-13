@@ -1,0 +1,189 @@
+Address : 190.17.148.80
+Nombre : Joel
+Apellido : Libertino
+Cargo : Administrativo
+Direccion : Pte Peron 2709
+Ciudad : Buenos Aires
+Telefono : 46501076
+Email : joellibertino26@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Busco trabajo de Administrativo
+Security_code : db5wn
+Send : Enviar
+
+---------------
+
+Address : 186.22.86.254
+Nombre : Ezequiel
+Apellido : Russo
+Cargo : ENPRO
+Direccion : Quito 94
+Ciudad : Provincia de Buenos Aires
+Telefono : 0223-156863204-20686437
+Email : eze_r1987@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Carta presentación personal de CV
+Russo Gustavo Ezequiel
+Quito 94
+Lanus Oeste CP 1824
+A quien corresponda
+Me pongo en contacto con ustedes para ofrecerle mi currículum con mis datos personales,  y otros datos de interés, por si necesita cubrir, ahora o en un futuro próximo algun puesto de trabajo. Pueden ustedes ponerse en contacto conmigo mediante mi celular (0223-15-6863204)/ fijo (20686437). Espero recibir pronto noticias suyas sobre mi candidatura y sobre las posibilidades de trabajar en su empresa, mediante una entrevista personal.
+Estoy a su entera disposición, esperando sus noticias.
+Un cordial saludo.
+Russo Ezequiel
+
+Security_code : r9m7m
+Send : Enviar
+
+---------------
+
+Address : 181.88.205.165
+REF : TECELEC
+Nombre : pablo martin
+Apellido : schultze
+Cargo : tecelec
+Direccion : barrio gral s martin monoblock 22 3 F
+Ciudad : caba
+Telefono : 1533470714
+Email : schultzepablo@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : cv
+Security_code : zxwjh
+Send : Enviar
+
+---------------
+
+Address : 24.232.202.22
+Nombre : Laura
+Apellido : Dirisio de Elias
+Cargo : Responsable de imagen, Visual, Comunicación, Project Manager, Diseñadora gráfica, Branding, Asistente de producto, etc.
+Direccion : Gavilán
+Ciudad : Caba
+Telefono : 1569431737
+Email : dglauraelias@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenas tardes, envío por este medio mi Curriculum Vitae con el objetivo de ser parte de un equipo de trabajo al que quiero brindar toda la pasión, inspirar excelencia y ser parte de la definición nuevas fronteras en la empresa.
+
+Saludo a Ud. muy atte.
+
+Laura Elias
+Security_code : zryt6
+Send : Enviar
+
+---------------
+
+Address : 190.17.25.125
+Nombre : LUIS 
+Apellido : REYES
+Cargo : VENDEDOR
+Direccion : LEZICA 4002
+Ciudad : CAPITAL FEDERAL
+Telefono : 1133069297
+Email : banday11@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : uenas tardes,
+
+Adjunto me permito enviar mi CV con el fin de aplicar a alguna vacante que se ajuste a mi perfil.
+
+
+Agradezco su atención y oportunidad,
+
+Atentamente,
+
+Luis Reyes
+Ce. 11 33069297
+Security_code : y73bf
+Send : Enviar
+
+---------------
+
+Address : 190.17.25.125
+Nombre : TATIANA
+Apellido : RODRIGUEZ GOMEZ
+Cargo : ESTUDIANTE PSICOLOGIA
+Direccion : LEZICA 4002
+Ciudad : CAPITAL FEDERAL
+Telefono : 1161218993
+Email : TAROGOM@GMAIL.COM
+MAX_FILE_SIZE : 2097152
+Mensaje : uenas tardes,
+
+Adjunto me permito enviar mi CV con el fin de aplicar a alguna vacante que se ajuste a mi perfil.
+
+
+Agradezco su atención y oportunidad,
+
+Atentamente,
+
+Tatiana Rodriguez
+Security_code : xj34d
+Send : Enviar
+
+---------------
+
+Address : 179.42.169.115
+Nombre : Juan Pablo
+Apellido : Simón
+Cargo : Administrativo
+Direccion : San Juan Bosco 867
+Ciudad : San Rafael, Mendoza
+Telefono : 2604290108
+Email : juampi.simon@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Mi compromiso es el de ofrecer los conocimientos que poseo a la compañía que me brinde la oportunidad, trabajando arduamente con integridad, honestidad y compromiso; participando de manera efectiva en las actividades que promueven el éxito continuo, tanto personal como de la empresa.
+Security_code : mfvz6
+Send : Enviar
+
+---------------
+
+Address : 186.138.208.239
+REF : ASCO
+Nombre : Alejandra
+Apellido : Argentino
+Cargo : Asesor Comercial
+Direccion : Andonaegui 2618 CABA
+Ciudad : Pueyrredon y Alegría, Haedo
+Telefono : 1140974446
+Email : alejandra.argentino@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados Señores,
+Adjunto CV a fin de ser tenida en cuenta para el puesto de Asesora Comercial, donde mi perfil pueda ser aplicado;  y, así poder desempeñarme aportando mis habilidades y experiencia.
+Quedo a las órdenes por cualquier consulta o ampliación de información.
+Cordialmente
+Alejandra Argentino
+
+Security_code : cypcg
+Send : Enviar
+
+---------------
+
+Address : 186.60.139.197
+Nombre : Vanesa Noemi
+Apellido : Hernandez
+Cargo : Administración
+Direccion : calle Rivadavia número 431
+Ciudad : Coronel Brandsen
+Telefono : 02223-15436736
+Email : vanessa-93@live.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Estoy interesada en encontrar un trabajo tanto por necesidad pero también para poder ir conociendo el mundo laboral de la carrera que estoy estudiando.
+Security_code : 2hfjh
+Send : Enviar
+
+---------------
+
+Address : 186.60.139.197
+Nombre : Vanesa Noemi
+Apellido : Hernandez
+Cargo : Administración
+Direccion : calle Rivadavia número 431
+Ciudad : Coronel Brandsen
+Telefono : 02223-15436736
+Email : vanessa-93@live.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Estoy interesada en encontrar un trabajo tanto por necesidad pero también para poder ir conociendo el mundo laboral de la carrera que estoy estudiando.
+Security_code : 2hfjh
+Send : Enviar
+
+---------------
+

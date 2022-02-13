@@ -1,0 +1,69 @@
+Address : 170.51.143.190
+REF : adper
+Nombre : jose
+Apellido : delgado
+Cargo : administrativo
+Direccion : velez sarfil 1348 
+Ciudad : mendoza
+Telefono : 4317481
+Email : josequroga@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : busco en atencion al cliente y aministrativo
+Security_code : qcxcb
+Send : Enviar
+
+---------------
+
+Address : 190.19.9.128
+REF : gerente-financiero
+Nombre : Fernando
+Apellido : Donnianni
+Cargo : Director Tecnico/Co-Director tecnico/Farmaceutico/Sistema de gestion de calidad/producción
+Direccion : Av Alberdi 326
+Ciudad : CABA
+Telefono : 49214701
+Email : donnianni@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me dirijo a Uds. para incorporar mi perfil a su base de datos y así poder aplicar para futuras búsquedas. 
+
+Desde hace 15 años que me desempeño en la industria farmacéutica en áreas de Producción, Calidad, Planeamiento, Asuntos Regulatorios y Dirección Técnica. En el CV que adjunto detallo mi experiencia en las distintas empresas y áreas, donde adquirí sólidos conocimientos sobre el negocio de la industria y su operación.
+
+Soy Farmacéutico con un postgrado en Calidad y realicé diversos cursos orientados a perfeccionar mis conocimientos y cualidades personales.
+
+Me gustaría ser parte de una empresa que ofrezca oportunidades de desarrollo profesional y económico. Considero que mis aptitudes personales y profesionales pueden contribuir al crecimiento del sector donde me encuentre. Dejo a su criterio la posibilidad de mantener una entrevista para ampliar aspectos de mi perfil.
+
+Security_code : d3m5n
+Send : Enviar
+
+---------------
+
+Address : 201.213.186.64
+Nombre : sabrina
+Apellido : sandroni
+Cargo : adminitracion general/asintencia
+Direccion : menendez y pelayo 1672
+Ciudad : tigre
+Telefono : 1562072092
+Email : sabrinasandroni88@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estoy cursando materias del ultimo año del secundario.
+Security_code : myw5j
+Send : Enviar
+
+---------------
+
+Address : 190.191.119.156
+Nombre : Federico
+Apellido : Gagliardi
+Cargo : tecnico
+Direccion : diagonal 73 nº2829
+Ciudad : la plata
+Telefono : 221 15-5997602
+Email : federico_gagliardi86@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : k
+Security_code : fcjxn
+Send : Enviar
+
+---------------
+

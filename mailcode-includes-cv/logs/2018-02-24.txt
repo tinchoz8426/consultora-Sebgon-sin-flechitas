@@ -1,0 +1,269 @@
+Address : 190.181.96.96<br>
+ <br>Nombre : MANUEL ENRIQUE
+ <br>Apellido : ALDERETE
+ <br>Cargo : Chofer de reparto
+ <br>Direccion : Matorras 2285
+ <br>Ciudad : Merlo
+ <br>Telefono : 1139397222
+ <br>Email : manualderete22@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola...tengo experiencia en reparto..cuento con registro profesional
+ <br>Security_code : 4h6wm
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.247.163.208<br>
+ <br>Nombre : VIRGINIA
+ <br>Apellido : MARRA
+ <br>Cargo : TRADUCTOR/REDACTOR/CORRECTOR
+ <br>Direccion : CALLE 2 693
+ <br>Ciudad : LA PLATA
+ <br>Telefono : 02215937290
+ <br>Email : VIR_LT@HOTMAIL.COM
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : ESTIMADOS:ESTOY EN BÚSQUEDA DE TRABAJO EN EL AREA DE TRADUCCIÓN, CORRECCIÓN O REDACCIÓN DE TEXTOS.
+ <br>Security_code : 62byc
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.83.8<br>
+ <br>REF : ACO-1
+ <br>Nombre : Jorge
+ <br>Apellido : Vásquez
+ <br>Cargo : Analista de comercio internacional/exterior
+ <br>Direccion : Hipolito Yrigoyen 3685
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 1158300427
+ <br>Email : jlvasquezbustillo@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Profesional en aduanas y comercio exterior, responsable, proactivo, dominio de inglés y herramientas informáticas
+ <br>Security_code : dpr89
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.141.137.106<br>
+ <br>REF : Ing. quim
+ <br>Nombre : Gloria del Carmen
+ <br>Apellido : Blanco
+ <br>Cargo : Jefa de Producción
+ <br>Direccion : Av Circunvalación 25 de Mayo 1436
+ <br>Ciudad : 28 de Noviembre
+ <br>Telefono : 2902406814
+ <br>Email : gloricar70@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me desempeñé como Jefe de Sección Planta de Tratamiento de Agua y Efluentes en Central Termoeléctrica 14 Mineros en Río Turbio. Estoy en búsqueda laboral activa y deseo continuar con mi trabajo en forma profesional.
+ <br>Security_code : sdyjw
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.13.244.47<br>
+ <br>REF : JPER-1
+ <br>Nombre : Norman
+ <br>Apellido : Widd
+ <br>Cargo : JPER-1
+ <br>Direccion : Monroe 4035
+ <br>Ciudad : CABA
+ <br>Telefono : (011) 1551016885
+ <br>Email :  nwidd@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Adjunto CV
+ <br>Security_code : dtbpj
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.55.164.89<br>
+ <br>REF : JPER-1
+ <br>Nombre : Roberto
+ <br>Apellido : Quirico
+ <br>Cargo : Jefe de personal
+ <br>Direccion : Guardia Nacional
+ <br>Ciudad : argentina
+ <br>Telefono : 1133774874
+ <br>Email : robertoquirico.rq@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Soy el candidato
+ <br>Security_code : 5fk3b
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.47.139.178<br>
+ <br>REF : SP-1
+ <br>Nombre : JOSE ANTONIO
+ <br>Apellido : GONZALEZ BORGES
+ <br>Cargo : MEDICO VETERINARIO SUPERVISOR DE CRIADERO EN LA INDUSTRIA AVICOLA
+ <br>Direccion : lanus 
+ <br>Ciudad : buenos aires
+ <br>Telefono : 911 15 33360945
+ <br>Email : joseantoniogonzalezborges1984@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : hola 
+ <br>Security_code : bb77c
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.20.130.170<br>
+ <br>REF : EP-1
+ <br>Nombre : EMILIO GUSTAVO
+ <br>Apellido : ROBLES
+ <br>Cargo : ENCARGADO DE PRODUCCION
+ <br>Direccion : AZCUENAGA, 826
+ <br>Ciudad : LAS HERAS
+ <br>Telefono : 2613670453
+ <br>Email : ger-robles@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : buenas tardes 
+ <br>Security_code : 6yybn
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.20.130.170<br>
+ <br>Nombre : EMILIO
+ <br>Apellido : ROBLES
+ <br>Cargo : ENCARGADO DE PRODUCCION
+ <br>Direccion : AZCUENAGA, 826
+ <br>Ciudad : LAS HERAS
+ <br>Telefono : 92613670453
+ <br>Email : ger-robles@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : soy una persona trabajadora,humilde,con grandes actitudes de organizacion y liderazgo y con la aptitud de crecer profecional y personal, desde ya muchas gracias .-
+
+        atte GUSTAVO ROBLES.-
+ <br>Security_code : r78pg
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.174.202.244<br>
+ <br>REF : JPER-1
+ <br>Nombre : ROBERTO
+ <br>Apellido : FERREIRA
+ <br>Cargo : JPER-1
+ <br>Direccion : JOSE INGENIEROS
+ <br>Ciudad : BOSQUES
+ <br>Telefono : 42219753
+ <br>Email : robertomf1004@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Tengo experiencia en Personal.
+ <br>Security_code : vcv9s
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.22.173.68<br>
+ <br>REF : SP-1
+ <br>Nombre : Maximiliano
+ <br>Apellido : Grosso
+ <br>Cargo : supervisor de produccion
+ <br>Direccion : Paysandu 1315
+ <br>Ciudad : Avellaneda
+ <br>Telefono : 1141727747
+ <br>Email : me_grosso@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados
+          En este momento me encuentro sin empleo, mi objetivo es obtener un puesto en la empresa donde poder contribuir con mi experiencia en prácticas laborales, en anteriores trabajos y con las habilidades adquiridas durante mi formación en el logro de metas generales de la empresa y del cargo que solicito, superarme a mí mismo en todos los aspectos de mi vida, brindando lo mejor de mí cada día, tanto a nivel laboral como en el ámbito personal.
+          Tengo amplia experiencia en control de calidad, análisis Físico Químicos y Microbiológicos,  Planificación de la producción y de turnos de trabajo, como así también manejo y Control de personal a cargo, asimismo poseo 10 años de experiencia en procesos continuos, tales como bebidas, pastas deshidratadas, embutidos, envases, refinería de aceite, síntesis química y AMS en industrias farmoquímica.
+          Quedo a su disposición para ampliar cualquier información necesaria.
+
+          Asimismo agrego información de Referencias:
+- Lic. Luis Sanchez (Gerente en RR.HH.) MAPRIMED-ROEMMERS
+116.201.3064
+- Lic. Francisco Bisi (Jefe de Higiene, Seguridad y Medio Ambiente) MAPRIMED-ROEMMERS
+155.403.5806
+- Ing. Químico José Silva (Jefe de Producción) MAPRIMED-ROEMMERS
+116.769.3638
+- ing. Industrial Mariano Villaverde (Jefe de Sintesis quimica/farmoquimica) MAPRIMED-ROEMMERS
+113.126.2301
+
+ <br>Security_code : skzqx
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.173.150.162<br>
+ <br>REF : JPER-1
+ <br>Nombre : juan
+ <br>Apellido : bustos
+ <br>Cargo : jefe rr hh
+ <br>Direccion : independencia 818 p 2 c
+ <br>Ciudad : caba
+ <br>Telefono : 91163582599
+ <br>Email : juanbusto288@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : .
+ <br>Security_code : 47ztb
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.143.198.82<br>
+ <br>REF : ROT-1
+ <br>Nombre : Pablo
+ <br>Apellido : Romano
+ <br>Cargo : Reaponsable de Oficina Tecnica
+ <br>Direccion : Libertad 4069
+ <br>Ciudad : Florida Oeste
+ <br>Telefono : 155 959 9883
+ <br>Email : plromano@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estoy disponible para próxima entrevista.
+Saludos cordiales
+ <br>Security_code : yb6z6
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.173.172.21<br>
+ <br>REF : Ing. quim
+ <br>Nombre : Yeniree del Valle
+ <br>Apellido : Moreno Rivas
+ <br>Cargo : jefa de procesos industriales
+ <br>Direccion : Rio de janeiro
+ <br>Ciudad : buenos aires
+ <br>Telefono : +5491127448242
+ <br>Email : yenireemorenor@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estoy interesada en el puesto de trabajo y agradezco la oportunidad que puedan ofrecerme, las funciones que solicitan ya las he desempeñado en mi trabajo anterior.
+ <br>Security_code : jsh8b
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 200.90.74.40<br>
+ <br>REF : EP-1
+ <br>Nombre : Luis
+ <br>Apellido : Moncada
+ <br>Cargo : Encargado de Producción 
+ <br>Direccion : Residencia Yuma 26 San Diego
+ <br>Ciudad : Valencia
+ <br>Telefono : +584124872041
+ <br>Email : luismon82@live.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : estimados aunque  estoy en Venezuela estoy dispuesto  viajar, para radicarme en Argentina.
+ <br>Security_code : rf2hx
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.17.73.104<br>
+ <br>Nombre : carlos alberto
+ <br>Apellido : ferrari
+ <br>Cargo : EP-1
+ <br>Direccion : rio de janeiro 1667
+ <br>Ciudad : martinez
+ <br>Telefono : 1544307122
+ <br>Email : carlosferrari567@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : VISTO EL AVISO LES HAGO LLEGAR MI CURRICULUM VITAE
+ <br>Security_code : 2S24R
+ <br>Send : Enviar
+ <br>
+---------------
+

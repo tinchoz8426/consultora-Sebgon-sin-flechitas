@@ -1,0 +1,62 @@
+Address : 201.255.249.200<br>
+ <br>Nombre : Daiana
+ <br>Apellido : godoy
+ <br>Cargo : auxiliar en seguridad e higiene
+ <br>Direccion : av de los autonomistas 2719
+ <br>Ciudad : berazategui
+ <br>Telefono : 1130743869
+ <br>Email : daiana.mgodoy@yahoo.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : me encuentro en la búsqueda de un empleo para lograr crecer profesionalmente y aportar mi conocimiento a la empresa que me encuentre
+ <br>Security_code : YPJHF
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.13.78.112<br>
+ <br>Nombre : Camila
+ <br>Apellido : Gomez
+ <br>Cargo : Vendedora, cajera, promotora
+ <br>Direccion : Eizaguirre 2251
+ <br>Ciudad : LA MATANZA
+ <br>Telefono : 1151195780
+ <br>Email : Cami-gomezz@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Quisiera postularme , tengo muchas ganas de trabajar, tengo disponibilidad horaria.
+ <br>Security_code : 2km3h
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.137.201.121<br>
+ <br>Nombre : Dante Guido
+ <br>Apellido : Amarilla
+ <br>Cargo : operario
+ <br>Direccion : ranqueles 3523
+ <br>Ciudad : rosario
+ <br>Telefono : 3413303302
+ <br>Email : dante23@live.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : BUEN DIA, ACA LES DEJO MI C.V ME OJALA ME PUEDAN CONSEGUIR TRABAJO. SALUDOS.
+ <br>Security_code : 95NC6
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.139.33.129<br>
+ <br>Nombre : Debora Yael
+ <br>Apellido : Romaniello
+ <br>Cargo : Administrativo
+ <br>Direccion : General E. Munilla 2410
+ <br>Ciudad : Castelar
+ <br>Telefono : 1557716069
+ <br>Email : deboraromanielo@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Adjunto mi Curriculum para que sea tenido en cuenta.
+
+
+ <br>Security_code : mrqfn
+ <br>Send : Enviar
+ <br>
+---------------
+

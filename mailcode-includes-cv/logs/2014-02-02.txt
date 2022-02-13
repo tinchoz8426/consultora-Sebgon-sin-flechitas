@@ -1,0 +1,46 @@
+Address : 181.25.207.162
+Nombre : Mariel Elizabeth 
+Apellido : Peger
+Cargo : operario en deposito /repositor
+Direccion : jacaranda 1552
+Ciudad : buenos aires
+Telefono : 1530724737
+Email : pufi.amy.yumi@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : hola mi nombre en Mariel y estoy solicitando empleo en art time. ya que estoy empezando la facultad. desde ya muchas gracias.
+Security_code : 79qw5
+Send : Enviar
+
+---------------
+
+Address : 190.176.8.72
+Nombre : pablo
+Apellido : arias
+Cargo : supervisor
+Direccion : m de rosas
+Ciudad : mendoza
+Telefono : 261-6272008
+Email : pabloarias2011@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : busco un trabajo medio dia relacionado con mi carrera para poder progresar profesionalmente.
+Security_code : 76jg8
+Send : Enviar
+
+---------------
+
+Address : 181.20.69.176
+Nombre : Jonathan Alexis
+Apellido : Cahn
+Cargo : Junior en Recursos Humanos
+Direccion : Mario Bravo 732 2 A
+Ciudad : Capital Federal
+Telefono : 154972-4542
+Email : jonycahn@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me encuentro en la búsqueda de un primer empleo en Recursos Humanos, para adquirir un mayor aprendizaje y poder desarrollar mis habilidades que beneficien a la organización y a mis logros personales.
+Soy proactivo, dinámico, responsable y me adapto fácilmente al trabajo en equipo.
+Security_code : rtfk9
+Send : Enviar
+
+---------------
+

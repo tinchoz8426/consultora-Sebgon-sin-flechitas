@@ -1,0 +1,879 @@
+Address : 181.168.201.168
+Nombre : carolina soledad
+Apellido : chiappero
+Cargo : recepcionista
+Direccion : alfonsina storni 6090
+Ciudad : munro
+Telefono : 1557392754
+Email : soledadchiappero@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Desde ya muchas gracias.
+
+Security_code : g6pk3
+Send : Enviar
+
+---------------
+
+Address : 190.216.77.242
+Nombre : Lucía Victoria
+Apellido : Gómez Veltri
+Cargo : Asistente ejecutiva bilingüe
+Direccion : Güemes 3946
+Ciudad : CABA
+Telefono : 0348715661717
+Email : v.gomez.v@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenos días. Adjunto mi CV para participar en futuros procesos de selección.
+Saludos cordiales,
+
+Victoria
+Security_code : s2ywd
+Send : Enviar
+
+---------------
+
+Address : 181.164.239.41
+Nombre : German
+Apellido : Gorosito
+Cargo : Tecnico mecanico zona sur
+Direccion : Lisandro de La Torre 2112
+Ciudad : Quilmes Oeste
+Telefono : 011/20475610
+Email : tecnicomecanico777@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola estimada Ana, le adjunto mi curriculum vitae, para un puesto de tecnico de mantenimiento, para zona sur, que figura en avisos de internet
+Security_code : scm4v
+Send : Enviar
+
+---------------
+
+Address : 181.164.239.41
+Nombre : German Alberto
+Apellido : Gorosito
+Cargo : Tecnico mecanico zona sur
+Direccion : Lisandro de La Torre 2112
+Ciudad : Quilmes Oeste
+Telefono : 011/20475610
+Email : tecnicomecanico777@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Cv tecnico mecanico zona sur
+Security_code : 3xbb9
+Send : Enviar
+
+---------------
+
+Address : 181.164.239.41
+Nombre : German Alberto
+Apellido : Gorosito
+Cargo : Tecnico mecanico zona sur
+Direccion : Lisandro de La Torre 2112
+Ciudad : Quilmes Oeste
+Telefono : 011/20475610
+Email : tecnicomecanico777@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : GOROSITO GERMÁN ALBERTO
+ 
+Edad: 39
+Hijos: 3                                                                        
+Domicilio: Lisandro de La Torre 2112
+Localidad: Quilmes Oeste
+Teléfono Casa: (011)1554229782        Celular  : 1532695985
+Mail:  tecnicomecanico777gmail.com 
+Estudios: 
+Primarios completos: Escuela San Pablo 
+Secundario completo:  ESCUELAS TÉCNICAS RAGGIO ( CABA) 1993
+Titulo:    TÉCNICO MECÁNICO ( Titulo actualizado en  2014 Nuevo Analítico)
+Otros estudios y/o cursos:
+Higiene y seguridad industrial, Operación de PC, Normas de sanitizacion,y Buena Manufactura  (GMP),e ingles técnico, en Unilever de Argentina, Shering-Plough. y Felfort 
+Conocimiento de modernas normas  de gestión de la calidad, Kaizen 
+TPM. Normas ISO 9000,14000, conocimientos de hidráulica y neumática.
+Capacitación GMP, para trabajos en área estéril (blanca o gris),en inyectables, polvos y acondicionado beta y no beta lactamicos.
+Calderería Básica en Laboratorio Internacional Argentino
+Neumática aplicada en Festo, de Martínez.
+
+EXPERIENCIA LABORAL:
+
+LABORATORIO INTERNACIONAL ARGENTINO
+Desde: 08/11 Hasta 12/14( 3 años )
+Causal de egreso: Reestructuración
+Puesto: Mecánico de línea Producción, acondicionamiento polvos y líquidos, beta y no betalactamicos.
+Tareas realizadas:
+Reparaciones electromecánicas, soldadura sanitaria Tig, soldadura eléctrica, tornería, reparaciones eléctricas de mediana complejidad, planeamiento de mejoras, mantenimientos preventivos, correctivos
+Reparación  y  acondicionamiento de maquinas dosificadoras de polvos  beta y no betalactamicos marca Bosch y Macofar, precintadoras automáticas, estuchadoras y codificadoras de estuches, sector frasco ampollas.
+Mecánico de línea en envasamiento de líquidos, blisteras (Blipack-Cricca),estuchadoras.
+Mecánico de servicios: reposiciones eléctricas, aire comprimido, agua, plantas purificadoras de agua por osmosis inversa, generadores de vapor puro e industrial, destiladores,etc.
+Equipos manuales desionizadores de agua
+Equipos codificadores de estuches/cajas MARKEM IMAGE, JAIME 1000, CRAYON IMAGE
+Trabaje en plantas de Pompeya(Caba) y Quilmes Oeste
+Dirección: Planta Quilmes: Av. 12 de Octubre 444,y Planta Pompeya: Tabare 1641 Caba
+
+
+ LA DELICIA  FELIPE FORT    (Chocolates Felfort)
+ 
+Desde: 02/06-----Hasta: 12/10( 5 años )
+
+Dirección: Gascón 329 Almagro Capital federal
+
+Causal de egreso: Finalización de contrato por agencia
+
+Puesto: Mecánico de línea de maquinas de envoltura
+
+Tareas realizadas: Reparación y mantenimiento de maquinas de envoltura y estuchado de tabletas, bombones, cereales, caramelos y confites, soporte técnico a operadores maquinistas en producción.
+Manejo de maquinas herramientas de taller:
+Torno paralelo,fresa,limadora,rectificadora de copa, trazado y construcción de piezas y/o reparaciones, soldaduras de arco,oxiacetileno,corte con plasma y soplete,etc,elementos de medición(calibre,micrómetro,comparador,etc)
+Equipos codificadores INK-JET ( Puesta a punto, reparaciones varias, desobturaciones, en Markem Image )
+
+Conocimientos específicos en equipos de envuelto:
+
+Mainar,Fripack,Rasch,Bologna,Cama,Eurocigma,Autowrappers,GD Bologna, Nagema,Corazza,Chocotech, SIG ,CAM,Masipack, Emzo, Thevopharm ,Lobopack  
+Hermepack, Megapack (tipo flow pack.
+
+Trabajo informalmente como supervisor / programador de mantenimiento mecánico, realizando la planificación, orden y control de ejecución de los mantenimientos preventivos y correctivos, de todas las maquinas, cuya implementación no existía en esta empresa.
+Chequeo y compra de repuestos, negociación con proveedores, y supervisión de obras de contratistas.
+Control de matafuegos, y entrega de elementos de seguridad.
+Gestión de mejoras a la calidad
+Conocimientos de las normas ISO, aprendidos en Unilever de Argentina.
+Implementación del mantenimiento total productivo TPM
+Establecimiento de un orden especifico diario, quincenal, mensual, semestral, anual de mantenimientos
+Manejo de PC Word, Excel
+10 mecánicos a cargo
+Evaluaciones en conjunto con jefes de otros departamentos, y trato con auditores
+
+
+
+
+
+
+
+
+
+MONTAJES CICSA
+
+(Mantenimiento en laboratorio
+Farmacéutico  Shering-Plough)
+Desde: 05/02------Hasta: 01/06    ( 3.5 años)
+Dirección: J. León Cabezón 3637. Cap.Fed BS AS
+Causal de egreso: Reestructuración  por fin de concesión empresa contratista Cicsa
+Puesto: Mecánico de acondicionado, y empaque.
+Tareas realizadas: Mantenimiento de líneas de empaque, de sólidos, y cremas, mant preventivo, correctivo, cambios de formato y soporte técnico a los operadores maquinistas en producción, tareas de mantenimiento preventivo y correctivo, reparaciones y construcción de piezas con maquinas herramientas, soldaduras de  arco / autógena, TIG ( Argón) 
+Cambios de formato, y reparaciones en:
+
+Estuchadoras de carga Horizontal: Cartopack ppm, Cam con traslado de 
+estuches a peine, Marchesini, con extracción de estuches por tambor rotativo con ventosas, Cam similar a Marchesini. 
+Llenadoras: Monoblock, Cozzoli, Newman con tapadorasTower, Hermeta, en la fabricación jarabes, y gotas. Empomadoras de tubos metálicos: Comadis, Tema
+Blisteras: Uhlmann, CAM y Blipack, Etiquetadoras: Etimack, Baw,Arca etc.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+ELIDA PONDS (Laboratorio cosmético)
+
+Desde :06/96----Hasta:04/02  ( 6 años)    ,
+Puesto: Maquinista , luego Técnico mecánico de línea de envasamiento
+Tareas realizadas: Producción y mantenimiento de envasadoras, llenadoras de líquidos, poucheras, especialización en aerosoles:  reparación y cambios de formato equipos Aero Fill,mantenimientos preventivos,correctivos,segun manuales originales de maquinas, puesta a punto, control de proceso con instrumentos de medición y pesaje, control de  tareas, programación y limpieza de equipos  codificadores,( video  jet, marsh, unicornio, Jaime 1000), conocimiento y aplicación  de normas de buena manufactura, (GMP),regulación de estuchadoras, acondicionamiento y envasado con 
+blisteras, agrupadores, reparación y mantenimiento equipos robóticos de paletizado automático, hornos de termo contraído
+pedido de materiales por PC,(sist.manet), mantenimiento total productivo (TPM), regulaciones, reparaciones mecánicas, neumáticas, y eléctricas, trabajos Kaizen de mantenimiento provenientes de chequeos de TPM, manejo de personal a cargo.
+Reparación y formateados en equipos de llenado de liquidos: Ronchi,Tema,Volpack,etc
+Causal de egreso: Reestructuracion por traslado de gente de planta Avellaneda
+Dirección: Descartes 2040 Tortuguitas  BS AS
+
+REFERENCIAS LABORALES
+
+Mauricio Wartzaska: Gerente General de Mantenimiento en de todas las plantas de Buenos Aires.(La Plata,Pompeya,Quilmes,Liniers,Pilar,etc)LABORATORIO INTERNACIONAL ARGENTINO.
+Tel:1536976780
+
+ Gabriel Cozzolino. Jefe de Mantenimiento. LABORATORIO INTERNACIONAL ARGENTINO PLANTA POMPEYA
+Tel. (011) 1536848329.
+
+Claudio Grandoli. Supervisor Mantenimiento . LABORATORIO INTERNACIONAL ARGENTINO PLANTA QUILMES
+Tel. (011) 36934337.
+ 
+ 
+Oscar Franco. Supervisor Mantenimiento . FELFORT
+Tel. (011) 46180000.
+ 
+ 
+Rosignoli. Gerente de Producción PLANTA ELIDA PONDS TORTUGUITAS Tel. (02320) 551421. 
+
+Security_code : 3xbb9
+Send : Enviar
+
+---------------
+
+Address : 181.164.239.41
+Nombre : German Alberto
+Apellido : Gorosito
+Cargo : Tecnico mecanico zona sur
+Direccion : Lisandro de La Torre 2112
+Ciudad : Quilmes Oeste
+Telefono : 011/20475610
+Email : tecnicomecanico777@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : GOROSITO GERMÁN ALBERTO
+ 
+Edad: 39
+Hijos: 3                                                                        
+Domicilio: Lisandro de La Torre 2112
+Localidad: Quilmes Oeste
+Teléfono Casa: (011)1554229782        Celular  : 1532695985
+Mail:  tecnicomecanico777gmail.com 
+Estudios: 
+Primarios completos: Escuela San Pablo 
+Secundario completo:  ESCUELAS TÉCNICAS RAGGIO ( CABA) 1993
+Titulo:    TÉCNICO MECÁNICO ( Titulo actualizado en  2014 Nuevo Analítico)
+Otros estudios y/o cursos:
+Higiene y seguridad industrial, Operación de PC, Normas de sanitizacion,y Buena Manufactura  (GMP),e ingles técnico, en Unilever de Argentina, Shering-Plough. y Felfort 
+Conocimiento de modernas normas  de gestión de la calidad, Kaizen 
+TPM. Normas ISO 9000,14000, conocimientos de hidráulica y neumática.
+Capacitación GMP, para trabajos en área estéril (blanca o gris),en inyectables, polvos y acondicionado beta y no beta lactamicos.
+Calderería Básica en Laboratorio Internacional Argentino
+Neumática aplicada en Festo, de Martínez.
+
+EXPERIENCIA LABORAL:
+
+LABORATORIO INTERNACIONAL ARGENTINO
+Desde: 08/11 Hasta 12/14( 3 años )
+Causal de egreso: Reestructuración
+Puesto: Mecánico de línea Producción, acondicionamiento polvos y líquidos, beta y no betalactamicos.
+Tareas realizadas:
+Reparaciones electromecánicas, soldadura sanitaria Tig, soldadura eléctrica, tornería, reparaciones eléctricas de mediana complejidad, planeamiento de mejoras, mantenimientos preventivos, correctivos
+Reparación  y  acondicionamiento de maquinas dosificadoras de polvos  beta y no betalactamicos marca Bosch y Macofar, precintadoras automáticas, estuchadoras y codificadoras de estuches, sector frasco ampollas.
+Mecánico de línea en envasamiento de líquidos, blisteras (Blipack-Cricca),estuchadoras.
+Mecánico de servicios: reposiciones eléctricas, aire comprimido, agua, plantas purificadoras de agua por osmosis inversa, generadores de vapor puro e industrial, destiladores,etc.
+Equipos manuales desionizadores de agua
+Equipos codificadores de estuches/cajas MARKEM IMAGE, JAIME 1000, CRAYON IMAGE
+Trabaje en plantas de Pompeya(Caba) y Quilmes Oeste
+Dirección: Planta Quilmes: Av. 12 de Octubre 444,y Planta Pompeya: Tabare 1641 Caba
+
+
+ LA DELICIA  FELIPE FORT    (Chocolates Felfort)
+ 
+Desde: 02/06-----Hasta: 12/10( 5 años )
+
+Dirección: Gascón 329 Almagro Capital federal
+
+Causal de egreso: Finalización de contrato por agencia
+
+Puesto: Mecánico de línea de maquinas de envoltura
+
+Tareas realizadas: Reparación y mantenimiento de maquinas de envoltura y estuchado de tabletas, bombones, cereales, caramelos y confites, soporte técnico a operadores maquinistas en producción.
+Manejo de maquinas herramientas de taller:
+Torno paralelo,fresa,limadora,rectificadora de copa, trazado y construcción de piezas y/o reparaciones, soldaduras de arco,oxiacetileno,corte con plasma y soplete,etc,elementos de medición(calibre,micrómetro,comparador,etc)
+Equipos codificadores INK-JET ( Puesta a punto, reparaciones varias, desobturaciones, en Markem Image )
+
+Conocimientos específicos en equipos de envuelto:
+
+Mainar,Fripack,Rasch,Bologna,Cama,Eurocigma,Autowrappers,GD Bologna, Nagema,Corazza,Chocotech, SIG ,CAM,Masipack, Emzo, Thevopharm ,Lobopack  
+Hermepack, Megapack (tipo flow pack.
+
+Trabajo informalmente como supervisor / programador de mantenimiento mecánico, realizando la planificación, orden y control de ejecución de los mantenimientos preventivos y correctivos, de todas las maquinas, cuya implementación no existía en esta empresa.
+Chequeo y compra de repuestos, negociación con proveedores, y supervisión de obras de contratistas.
+Control de matafuegos, y entrega de elementos de seguridad.
+Gestión de mejoras a la calidad
+Conocimientos de las normas ISO, aprendidos en Unilever de Argentina.
+Implementación del mantenimiento total productivo TPM
+Establecimiento de un orden especifico diario, quincenal, mensual, semestral, anual de mantenimientos
+Manejo de PC Word, Excel
+10 mecánicos a cargo
+Evaluaciones en conjunto con jefes de otros departamentos, y trato con auditores
+
+
+
+
+
+
+
+
+
+MONTAJES CICSA
+
+(Mantenimiento en laboratorio
+Farmacéutico  Shering-Plough)
+Desde: 05/02------Hasta: 01/06    ( 3.5 años)
+Dirección: J. León Cabezón 3637. Cap.Fed BS AS
+Causal de egreso: Reestructuración  por fin de concesión empresa contratista Cicsa
+Puesto: Mecánico de acondicionado, y empaque.
+Tareas realizadas: Mantenimiento de líneas de empaque, de sólidos, y cremas, mant preventivo, correctivo, cambios de formato y soporte técnico a los operadores maquinistas en producción, tareas de mantenimiento preventivo y correctivo, reparaciones y construcción de piezas con maquinas herramientas, soldaduras de  arco / autógena, TIG ( Argón) 
+Cambios de formato, y reparaciones en:
+
+Estuchadoras de carga Horizontal: Cartopack ppm, Cam con traslado de 
+estuches a peine, Marchesini, con extracción de estuches por tambor rotativo con ventosas, Cam similar a Marchesini. 
+Llenadoras: Monoblock, Cozzoli, Newman con tapadorasTower, Hermeta, en la fabricación jarabes, y gotas. Empomadoras de tubos metálicos: Comadis, Tema
+Blisteras: Uhlmann, CAM y Blipack, Etiquetadoras: Etimack, Baw,Arca etc.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+ELIDA PONDS (Laboratorio cosmético)
+
+Desde :06/96----Hasta:04/02  ( 6 años)    ,
+Puesto: Maquinista , luego Técnico mecánico de línea de envasamiento
+Tareas realizadas: Producción y mantenimiento de envasadoras, llenadoras de líquidos, poucheras, especialización en aerosoles:  reparación y cambios de formato equipos Aero Fill,mantenimientos preventivos,correctivos,segun manuales originales de maquinas, puesta a punto, control de proceso con instrumentos de medición y pesaje, control de  tareas, programación y limpieza de equipos  codificadores,( video  jet, marsh, unicornio, Jaime 1000), conocimiento y aplicación  de normas de buena manufactura, (GMP),regulación de estuchadoras, acondicionamiento y envasado con 
+blisteras, agrupadores, reparación y mantenimiento equipos robóticos de paletizado automático, hornos de termo contraído
+pedido de materiales por PC,(sist.manet), mantenimiento total productivo (TPM), regulaciones, reparaciones mecánicas, neumáticas, y eléctricas, trabajos Kaizen de mantenimiento provenientes de chequeos de TPM, manejo de personal a cargo.
+Reparación y formateados en equipos de llenado de liquidos: Ronchi,Tema,Volpack,etc
+Causal de egreso: Reestructuracion por traslado de gente de planta Avellaneda
+Dirección: Descartes 2040 Tortuguitas  BS AS
+
+REFERENCIAS LABORALES
+
+Mauricio Wartzaska: Gerente General de Mantenimiento en de todas las plantas de Buenos Aires.(La Plata,Pompeya,Quilmes,Liniers,Pilar,etc)LABORATORIO INTERNACIONAL ARGENTINO.
+Tel:1536976780
+
+ Gabriel Cozzolino. Jefe de Mantenimiento. LABORATORIO INTERNACIONAL ARGENTINO PLANTA POMPEYA
+Tel. (011) 1536848329.
+
+Claudio Grandoli. Supervisor Mantenimiento . LABORATORIO INTERNACIONAL ARGENTINO PLANTA QUILMES
+Tel. (011) 36934337.
+ 
+ 
+Oscar Franco. Supervisor Mantenimiento . FELFORT
+Tel. (011) 46180000.
+ 
+ 
+Rosignoli. Gerente de Producción PLANTA ELIDA PONDS TORTUGUITAS Tel. (02320) 551421. 
+
+Security_code : 54vyp
+Send : Enviar
+
+---------------
+
+Address : 181.164.239.41
+Nombre : German Alberto
+Apellido : Gorosito
+Cargo : Tecnico mecanico zona sur
+Direccion : Lisandro de La Torre 2112
+Ciudad : Quilmes Oeste
+Telefono : 011/20475610
+Email : tecnicomecanico777@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : GOROSITO GERMÁN ALBERTO
+ 
+Edad: 39
+Hijos: 3                                                                        
+Domicilio: Lisandro de La Torre 2112
+Localidad: Quilmes Oeste
+Teléfono Casa: (011)1554229782        Celular  : 1532695985
+Mail:  tecnicomecanico777gmail.com 
+Estudios: 
+Primarios completos: Escuela San Pablo 
+Secundario completo:  ESCUELAS TÉCNICAS RAGGIO ( CABA) 1993
+Titulo:    TÉCNICO MECÁNICO ( Titulo actualizado en  2014 Nuevo Analítico)
+Otros estudios y/o cursos:
+Higiene y seguridad industrial, Operación de PC, Normas de sanitizacion,y Buena Manufactura  (GMP),e ingles técnico, en Unilever de Argentina, Shering-Plough. y Felfort 
+Conocimiento de modernas normas  de gestión de la calidad, Kaizen 
+TPM. Normas ISO 9000,14000, conocimientos de hidráulica y neumática.
+Capacitación GMP, para trabajos en área estéril (blanca o gris),en inyectables, polvos y acondicionado beta y no beta lactamicos.
+Calderería Básica en Laboratorio Internacional Argentino
+Neumática aplicada en Festo, de Martínez.
+
+EXPERIENCIA LABORAL:
+
+LABORATORIO INTERNACIONAL ARGENTINO
+Desde: 08/11 Hasta 12/14( 3 años )
+Causal de egreso: Reestructuración
+Puesto: Mecánico de línea Producción, acondicionamiento polvos y líquidos, beta y no betalactamicos.
+Tareas realizadas:
+Reparaciones electromecánicas, soldadura sanitaria Tig, soldadura eléctrica, tornería, reparaciones eléctricas de mediana complejidad, planeamiento de mejoras, mantenimientos preventivos, correctivos
+Reparación  y  acondicionamiento de maquinas dosificadoras de polvos  beta y no betalactamicos marca Bosch y Macofar, precintadoras automáticas, estuchadoras y codificadoras de estuches, sector frasco ampollas.
+Mecánico de línea en envasamiento de líquidos, blisteras (Blipack-Cricca),estuchadoras.
+Mecánico de servicios: reposiciones eléctricas, aire comprimido, agua, plantas purificadoras de agua por osmosis inversa, generadores de vapor puro e industrial, destiladores,etc.
+Equipos manuales desionizadores de agua
+Equipos codificadores de estuches/cajas MARKEM IMAGE, JAIME 1000, CRAYON IMAGE
+Trabaje en plantas de Pompeya(Caba) y Quilmes Oeste
+Dirección: Planta Quilmes: Av. 12 de Octubre 444,y Planta Pompeya: Tabare 1641 Caba
+
+
+ LA DELICIA  FELIPE FORT    (Chocolates Felfort)
+ 
+Desde: 02/06-----Hasta: 12/10( 5 años )
+
+Dirección: Gascón 329 Almagro Capital federal
+
+Causal de egreso: Finalización de contrato por agencia
+
+Puesto: Mecánico de línea de maquinas de envoltura
+
+Tareas realizadas: Reparación y mantenimiento de maquinas de envoltura y estuchado de tabletas, bombones, cereales, caramelos y confites, soporte técnico a operadores maquinistas en producción.
+Manejo de maquinas herramientas de taller:
+Torno paralelo,fresa,limadora,rectificadora de copa, trazado y construcción de piezas y/o reparaciones, soldaduras de arco,oxiacetileno,corte con plasma y soplete,etc,elementos de medición(calibre,micrómetro,comparador,etc)
+Equipos codificadores INK-JET ( Puesta a punto, reparaciones varias, desobturaciones, en Markem Image )
+
+Conocimientos específicos en equipos de envuelto:
+
+Mainar,Fripack,Rasch,Bologna,Cama,Eurocigma,Autowrappers,GD Bologna, Nagema,Corazza,Chocotech, SIG ,CAM,Masipack, Emzo, Thevopharm ,Lobopack  
+Hermepack, Megapack (tipo flow pack.
+
+Trabajo informalmente como supervisor / programador de mantenimiento mecánico, realizando la planificación, orden y control de ejecución de los mantenimientos preventivos y correctivos, de todas las maquinas, cuya implementación no existía en esta empresa.
+Chequeo y compra de repuestos, negociación con proveedores, y supervisión de obras de contratistas.
+Control de matafuegos, y entrega de elementos de seguridad.
+Gestión de mejoras a la calidad
+Conocimientos de las normas ISO, aprendidos en Unilever de Argentina.
+Implementación del mantenimiento total productivo TPM
+Establecimiento de un orden especifico diario, quincenal, mensual, semestral, anual de mantenimientos
+Manejo de PC Word, Excel
+10 mecánicos a cargo
+Evaluaciones en conjunto con jefes de otros departamentos, y trato con auditores
+
+
+
+
+
+
+
+
+
+MONTAJES CICSA
+
+(Mantenimiento en laboratorio
+Farmacéutico  Shering-Plough)
+Desde: 05/02------Hasta: 01/06    ( 3.5 años)
+Dirección: J. León Cabezón 3637. Cap.Fed BS AS
+Causal de egreso: Reestructuración  por fin de concesión empresa contratista Cicsa
+Puesto: Mecánico de acondicionado, y empaque.
+Tareas realizadas: Mantenimiento de líneas de empaque, de sólidos, y cremas, mant preventivo, correctivo, cambios de formato y soporte técnico a los operadores maquinistas en producción, tareas de mantenimiento preventivo y correctivo, reparaciones y construcción de piezas con maquinas herramientas, soldaduras de  arco / autógena, TIG ( Argón) 
+Cambios de formato, y reparaciones en:
+
+Estuchadoras de carga Horizontal: Cartopack ppm, Cam con traslado de 
+estuches a peine, Marchesini, con extracción de estuches por tambor rotativo con ventosas, Cam similar a Marchesini. 
+Llenadoras: Monoblock, Cozzoli, Newman con tapadorasTower, Hermeta, en la fabricación jarabes, y gotas. Empomadoras de tubos metálicos: Comadis, Tema
+Blisteras: Uhlmann, CAM y Blipack, Etiquetadoras: Etimack, Baw,Arca etc.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+ELIDA PONDS (Laboratorio cosmético)
+
+Desde :06/96----Hasta:04/02  ( 6 años)    ,
+Puesto: Maquinista , luego Técnico mecánico de línea de envasamiento
+Tareas realizadas: Producción y mantenimiento de envasadoras, llenadoras de líquidos, poucheras, especialización en aerosoles:  reparación y cambios de formato equipos Aero Fill,mantenimientos preventivos,correctivos,segun manuales originales de maquinas, puesta a punto, control de proceso con instrumentos de medición y pesaje, control de  tareas, programación y limpieza de equipos  codificadores,( video  jet, marsh, unicornio, Jaime 1000), conocimiento y aplicación  de normas de buena manufactura, (GMP),regulación de estuchadoras, acondicionamiento y envasado con 
+blisteras, agrupadores, reparación y mantenimiento equipos robóticos de paletizado automático, hornos de termo contraído
+pedido de materiales por PC,(sist.manet), mantenimiento total productivo (TPM), regulaciones, reparaciones mecánicas, neumáticas, y eléctricas, trabajos Kaizen de mantenimiento provenientes de chequeos de TPM, manejo de personal a cargo.
+Reparación y formateados en equipos de llenado de liquidos: Ronchi,Tema,Volpack,etc
+Causal de egreso: Reestructuracion por traslado de gente de planta Avellaneda
+Dirección: Descartes 2040 Tortuguitas  BS AS
+
+REFERENCIAS LABORALES
+
+Mauricio Wartzaska: Gerente General de Mantenimiento en de todas las plantas de Buenos Aires.(La Plata,Pompeya,Quilmes,Liniers,Pilar,etc)LABORATORIO INTERNACIONAL ARGENTINO.
+Tel:1536976780
+
+ Gabriel Cozzolino. Jefe de Mantenimiento. LABORATORIO INTERNACIONAL ARGENTINO PLANTA POMPEYA
+Tel. (011) 1536848329.
+
+Claudio Grandoli. Supervisor Mantenimiento . LABORATORIO INTERNACIONAL ARGENTINO PLANTA QUILMES
+Tel. (011) 36934337.
+ 
+ 
+Oscar Franco. Supervisor Mantenimiento . FELFORT
+Tel. (011) 46180000.
+ 
+ 
+Rosignoli. Gerente de Producción PLANTA ELIDA PONDS TORTUGUITAS Tel. (02320) 551421. 
+
+Security_code : v3ck8
+Send : Enviar
+
+---------------
+
+Address : 181.164.239.41
+Nombre : German Alberto
+Apellido : Gorosito
+Cargo : Tecnico mecanico zona sur
+Direccion : Lisandro de La Torre 2112
+Ciudad : Quilmes Oeste
+Telefono : 011/20475610
+Email : tecnicomecanico777@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : GOROSITO GERMÁN ALBERTO
+ 
+Edad: 39
+Hijos: 3                                                                        
+Domicilio: Lisandro de La Torre 2112
+Localidad: Quilmes Oeste
+Teléfono Casa: (011)1554229782        Celular  : 1532695985
+Mail:  tecnicomecanico777gmail.com 
+Estudios: 
+Primarios completos: Escuela San Pablo 
+Secundario completo:  ESCUELAS TÉCNICAS RAGGIO ( CABA) 1993
+Titulo:    TÉCNICO MECÁNICO ( Titulo actualizado en  2014 Nuevo Analítico)
+Otros estudios y/o cursos:
+Higiene y seguridad industrial, Operación de PC, Normas de sanitizacion,y Buena Manufactura  (GMP),e ingles técnico, en Unilever de Argentina, Shering-Plough. y Felfort 
+Conocimiento de modernas normas  de gestión de la calidad, Kaizen 
+TPM. Normas ISO 9000,14000, conocimientos de hidráulica y neumática.
+Capacitación GMP, para trabajos en área estéril (blanca o gris),en inyectables, polvos y acondicionado beta y no beta lactamicos.
+Calderería Básica en Laboratorio Internacional Argentino
+Neumática aplicada en Festo, de Martínez.
+
+EXPERIENCIA LABORAL:
+
+LABORATORIO INTERNACIONAL ARGENTINO
+Desde: 08/11 Hasta 12/14( 3 años )
+Causal de egreso: Reestructuración
+Puesto: Mecánico de línea Producción, acondicionamiento polvos y líquidos, beta y no betalactamicos.
+Tareas realizadas:
+Reparaciones electromecánicas, soldadura sanitaria Tig, soldadura eléctrica, tornería, reparaciones eléctricas de mediana complejidad, planeamiento de mejoras, mantenimientos preventivos, correctivos
+Reparación  y  acondicionamiento de maquinas dosificadoras de polvos  beta y no betalactamicos marca Bosch y Macofar, precintadoras automáticas, estuchadoras y codificadoras de estuches, sector frasco ampollas.
+Mecánico de línea en envasamiento de líquidos, blisteras (Blipack-Cricca),estuchadoras.
+Mecánico de servicios: reposiciones eléctricas, aire comprimido, agua, plantas purificadoras de agua por osmosis inversa, generadores de vapor puro e industrial, destiladores,etc.
+Equipos manuales desionizadores de agua
+Equipos codificadores de estuches/cajas MARKEM IMAGE, JAIME 1000, CRAYON IMAGE
+Trabaje en plantas de Pompeya(Caba) y Quilmes Oeste
+Dirección: Planta Quilmes: Av. 12 de Octubre 444,y Planta Pompeya: Tabare 1641 Caba
+
+
+ LA DELICIA  FELIPE FORT    (Chocolates Felfort)
+ 
+Desde: 02/06-----Hasta: 12/10( 5 años )
+
+Dirección: Gascón 329 Almagro Capital federal
+
+Causal de egreso: Finalización de contrato por agencia
+
+Puesto: Mecánico de línea de maquinas de envoltura
+
+Tareas realizadas: Reparación y mantenimiento de maquinas de envoltura y estuchado de tabletas, bombones, cereales, caramelos y confites, soporte técnico a operadores maquinistas en producción.
+Manejo de maquinas herramientas de taller:
+Torno paralelo,fresa,limadora,rectificadora de copa, trazado y construcción de piezas y/o reparaciones, soldaduras de arco,oxiacetileno,corte con plasma y soplete,etc,elementos de medición(calibre,micrómetro,comparador,etc)
+Equipos codificadores INK-JET ( Puesta a punto, reparaciones varias, desobturaciones, en Markem Image )
+
+Conocimientos específicos en equipos de envuelto:
+
+Mainar,Fripack,Rasch,Bologna,Cama,Eurocigma,Autowrappers,GD Bologna, Nagema,Corazza,Chocotech, SIG ,CAM,Masipack, Emzo, Thevopharm ,Lobopack  
+Hermepack, Megapack (tipo flow pack.
+
+Trabajo informalmente como supervisor / programador de mantenimiento mecánico, realizando la planificación, orden y control de ejecución de los mantenimientos preventivos y correctivos, de todas las maquinas, cuya implementación no existía en esta empresa.
+Chequeo y compra de repuestos, negociación con proveedores, y supervisión de obras de contratistas.
+Control de matafuegos, y entrega de elementos de seguridad.
+Gestión de mejoras a la calidad
+Conocimientos de las normas ISO, aprendidos en Unilever de Argentina.
+Implementación del mantenimiento total productivo TPM
+Establecimiento de un orden especifico diario, quincenal, mensual, semestral, anual de mantenimientos
+Manejo de PC Word, Excel
+10 mecánicos a cargo
+Evaluaciones en conjunto con jefes de otros departamentos, y trato con auditores
+
+
+
+
+
+
+
+
+
+MONTAJES CICSA
+
+(Mantenimiento en laboratorio
+Farmacéutico  Shering-Plough)
+Desde: 05/02------Hasta: 01/06    ( 3.5 años)
+Dirección: J. León Cabezón 3637. Cap.Fed BS AS
+Causal de egreso: Reestructuración  por fin de concesión empresa contratista Cicsa
+Puesto: Mecánico de acondicionado, y empaque.
+Tareas realizadas: Mantenimiento de líneas de empaque, de sólidos, y cremas, mant preventivo, correctivo, cambios de formato y soporte técnico a los operadores maquinistas en producción, tareas de mantenimiento preventivo y correctivo, reparaciones y construcción de piezas con maquinas herramientas, soldaduras de  arco / autógena, TIG ( Argón) 
+Cambios de formato, y reparaciones en:
+
+Estuchadoras de carga Horizontal: Cartopack ppm, Cam con traslado de 
+estuches a peine, Marchesini, con extracción de estuches por tambor rotativo con ventosas, Cam similar a Marchesini. 
+Llenadoras: Monoblock, Cozzoli, Newman con tapadorasTower, Hermeta, en la fabricación jarabes, y gotas. Empomadoras de tubos metálicos: Comadis, Tema
+Blisteras: Uhlmann, CAM y Blipack, Etiquetadoras: Etimack, Baw,Arca etc.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+ELIDA PONDS (Laboratorio cosmético)
+
+Desde :06/96----Hasta:04/02  ( 6 años)    ,
+Puesto: Maquinista , luego Técnico mecánico de línea de envasamiento
+Tareas realizadas: Producción y mantenimiento de envasadoras, llenadoras de líquidos, poucheras, especialización en aerosoles:  reparación y cambios de formato equipos Aero Fill,mantenimientos preventivos,correctivos,segun manuales originales de maquinas, puesta a punto, control de proceso con instrumentos de medición y pesaje, control de  tareas, programación y limpieza de equipos  codificadores,( video  jet, marsh, unicornio, Jaime 1000), conocimiento y aplicación  de normas de buena manufactura, (GMP),regulación de estuchadoras, acondicionamiento y envasado con 
+blisteras, agrupadores, reparación y mantenimiento equipos robóticos de paletizado automático, hornos de termo contraído
+pedido de materiales por PC,(sist.manet), mantenimiento total productivo (TPM), regulaciones, reparaciones mecánicas, neumáticas, y eléctricas, trabajos Kaizen de mantenimiento provenientes de chequeos de TPM, manejo de personal a cargo.
+Reparación y formateados en equipos de llenado de liquidos: Ronchi,Tema,Volpack,etc
+Causal de egreso: Reestructuracion por traslado de gente de planta Avellaneda
+Dirección: Descartes 2040 Tortuguitas  BS AS
+
+REFERENCIAS LABORALES
+
+Mauricio Wartzaska: Gerente General de Mantenimiento en de todas las plantas de Buenos Aires.(La Plata,Pompeya,Quilmes,Liniers,Pilar,etc)LABORATORIO INTERNACIONAL ARGENTINO.
+Tel:1536976780
+
+ Gabriel Cozzolino. Jefe de Mantenimiento. LABORATORIO INTERNACIONAL ARGENTINO PLANTA POMPEYA
+Tel. (011) 1536848329.
+
+Claudio Grandoli. Supervisor Mantenimiento . LABORATORIO INTERNACIONAL ARGENTINO PLANTA QUILMES
+Tel. (011) 36934337.
+ 
+ 
+Oscar Franco. Supervisor Mantenimiento . FELFORT
+Tel. (011) 46180000.
+ 
+ 
+Rosignoli. Gerente de Producción PLANTA ELIDA PONDS TORTUGUITAS Tel. (02320) 551421. 
+
+Security_code : 3xbb9
+Send : Enviar
+
+---------------
+
+Address : 181.164.239.41
+Nombre : German Alberto
+Apellido : Gorosito
+Cargo : Tecnico mecanico zona sur
+Direccion : Lisandro de La Torre 2112
+Ciudad : Quilmes Oeste
+Telefono : 011/20475610
+Email : tecnicomecanico777@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : GOROSITO GERMÁN ALBERTO
+ 
+Edad: 39
+Hijos: 3                                                                        
+Domicilio: Lisandro de La Torre 2112
+Localidad: Quilmes Oeste
+Teléfono Casa: (011)1554229782        Celular  : 1532695985
+Mail:  tecnicomecanico777gmail.com 
+Estudios: 
+Primarios completos: Escuela San Pablo 
+Secundario completo:  ESCUELAS TÉCNICAS RAGGIO ( CABA) 1993
+Titulo:    TÉCNICO MECÁNICO ( Titulo actualizado en  2014 Nuevo Analítico)
+Otros estudios y/o cursos:
+Higiene y seguridad industrial, Operación de PC, Normas de sanitizacion,y Buena Manufactura  (GMP),e ingles técnico, en Unilever de Argentina, Shering-Plough. y Felfort 
+Conocimiento de modernas normas  de gestión de la calidad, Kaizen 
+TPM. Normas ISO 9000,14000, conocimientos de hidráulica y neumática.
+Capacitación GMP, para trabajos en área estéril (blanca o gris),en inyectables, polvos y acondicionado beta y no beta lactamicos.
+Calderería Básica en Laboratorio Internacional Argentino
+Neumática aplicada en Festo, de Martínez.
+
+EXPERIENCIA LABORAL:
+
+LABORATORIO INTERNACIONAL ARGENTINO
+Desde: 08/11 Hasta 12/14( 3 años )
+Causal de egreso: Reestructuración
+Puesto: Mecánico de línea Producción, acondicionamiento polvos y líquidos, beta y no betalactamicos.
+Tareas realizadas:
+Reparaciones electromecánicas, soldadura sanitaria Tig, soldadura eléctrica, tornería, reparaciones eléctricas de mediana complejidad, planeamiento de mejoras, mantenimientos preventivos, correctivos
+Reparación  y  acondicionamiento de maquinas dosificadoras de polvos  beta y no betalactamicos marca Bosch y Macofar, precintadoras automáticas, estuchadoras y codificadoras de estuches, sector frasco ampollas.
+Mecánico de línea en envasamiento de líquidos, blisteras (Blipack-Cricca),estuchadoras.
+Mecánico de servicios: reposiciones eléctricas, aire comprimido, agua, plantas purificadoras de agua por osmosis inversa, generadores de vapor puro e industrial, destiladores,etc.
+Equipos manuales desionizadores de agua
+Equipos codificadores de estuches/cajas MARKEM IMAGE, JAIME 1000, CRAYON IMAGE
+Trabaje en plantas de Pompeya(Caba) y Quilmes Oeste
+Dirección: Planta Quilmes: Av. 12 de Octubre 444,y Planta Pompeya: Tabare 1641 Caba
+
+
+ LA DELICIA  FELIPE FORT    (Chocolates Felfort)
+ 
+Desde: 02/06-----Hasta: 12/10( 5 años )
+
+Dirección: Gascón 329 Almagro Capital federal
+
+Causal de egreso: Finalización de contrato por agencia
+
+Puesto: Mecánico de línea de maquinas de envoltura
+
+Tareas realizadas: Reparación y mantenimiento de maquinas de envoltura y estuchado de tabletas, bombones, cereales, caramelos y confites, soporte técnico a operadores maquinistas en producción.
+Manejo de maquinas herramientas de taller:
+Torno paralelo,fresa,limadora,rectificadora de copa, trazado y construcción de piezas y/o reparaciones, soldaduras de arco,oxiacetileno,corte con plasma y soplete,etc,elementos de medición(calibre,micrómetro,comparador,etc)
+Equipos codificadores INK-JET ( Puesta a punto, reparaciones varias, desobturaciones, en Markem Image )
+
+Conocimientos específicos en equipos de envuelto:
+
+Mainar,Fripack,Rasch,Bologna,Cama,Eurocigma,Autowrappers,GD Bologna, Nagema,Corazza,Chocotech, SIG ,CAM,Masipack, Emzo, Thevopharm ,Lobopack  
+Hermepack, Megapack (tipo flow pack.
+
+Trabajo informalmente como supervisor / programador de mantenimiento mecánico, realizando la planificación, orden y control de ejecución de los mantenimientos preventivos y correctivos, de todas las maquinas, cuya implementación no existía en esta empresa.
+Chequeo y compra de repuestos, negociación con proveedores, y supervisión de obras de contratistas.
+Control de matafuegos, y entrega de elementos de seguridad.
+Gestión de mejoras a la calidad
+Conocimientos de las normas ISO, aprendidos en Unilever de Argentina.
+Implementación del mantenimiento total productivo TPM
+Establecimiento de un orden especifico diario, quincenal, mensual, semestral, anual de mantenimientos
+Manejo de PC Word, Excel
+10 mecánicos a cargo
+Evaluaciones en conjunto con jefes de otros departamentos, y trato con auditores
+
+
+
+
+
+
+
+
+
+MONTAJES CICSA
+
+(Mantenimiento en laboratorio
+Farmacéutico  Shering-Plough)
+Desde: 05/02------Hasta: 01/06    ( 3.5 años)
+Dirección: J. León Cabezón 3637. Cap.Fed BS AS
+Causal de egreso: Reestructuración  por fin de concesión empresa contratista Cicsa
+Puesto: Mecánico de acondicionado, y empaque.
+Tareas realizadas: Mantenimiento de líneas de empaque, de sólidos, y cremas, mant preventivo, correctivo, cambios de formato y soporte técnico a los operadores maquinistas en producción, tareas de mantenimiento preventivo y correctivo, reparaciones y construcción de piezas con maquinas herramientas, soldaduras de  arco / autógena, TIG ( Argón) 
+Cambios de formato, y reparaciones en:
+
+Estuchadoras de carga Horizontal: Cartopack ppm, Cam con traslado de 
+estuches a peine, Marchesini, con extracción de estuches por tambor rotativo con ventosas, Cam similar a Marchesini. 
+Llenadoras: Monoblock, Cozzoli, Newman con tapadorasTower, Hermeta, en la fabricación jarabes, y gotas. Empomadoras de tubos metálicos: Comadis, Tema
+Blisteras: Uhlmann, CAM y Blipack, Etiquetadoras: Etimack, Baw,Arca etc.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+ELIDA PONDS (Laboratorio cosmético)
+
+Desde :06/96----Hasta:04/02  ( 6 años)    ,
+Puesto: Maquinista , luego Técnico mecánico de línea de envasamiento
+Tareas realizadas: Producción y mantenimiento de envasadoras, llenadoras de líquidos, poucheras, especialización en aerosoles:  reparación y cambios de formato equipos Aero Fill,mantenimientos preventivos,correctivos,segun manuales originales de maquinas, puesta a punto, control de proceso con instrumentos de medición y pesaje, control de  tareas, programación y limpieza de equipos  codificadores,( video  jet, marsh, unicornio, Jaime 1000), conocimiento y aplicación  de normas de buena manufactura, (GMP),regulación de estuchadoras, acondicionamiento y envasado con 
+blisteras, agrupadores, reparación y mantenimiento equipos robóticos de paletizado automático, hornos de termo contraído
+pedido de materiales por PC,(sist.manet), mantenimiento total productivo (TPM), regulaciones, reparaciones mecánicas, neumáticas, y eléctricas, trabajos Kaizen de mantenimiento provenientes de chequeos de TPM, manejo de personal a cargo.
+Reparación y formateados en equipos de llenado de liquidos: Ronchi,Tema,Volpack,etc
+Causal de egreso: Reestructuracion por traslado de gente de planta Avellaneda
+Dirección: Descartes 2040 Tortuguitas  BS AS
+
+REFERENCIAS LABORALES
+
+Mauricio Wartzaska: Gerente General de Mantenimiento en de todas las plantas de Buenos Aires.(La Plata,Pompeya,Quilmes,Liniers,Pilar,etc)LABORATORIO INTERNACIONAL ARGENTINO.
+Tel:1536976780
+
+ Gabriel Cozzolino. Jefe de Mantenimiento. LABORATORIO INTERNACIONAL ARGENTINO PLANTA POMPEYA
+Tel. (011) 1536848329.
+
+Claudio Grandoli. Supervisor Mantenimiento . LABORATORIO INTERNACIONAL ARGENTINO PLANTA QUILMES
+Tel. (011) 36934337.
+ 
+ 
+Oscar Franco. Supervisor Mantenimiento . FELFORT
+Tel. (011) 46180000.
+ 
+ 
+Rosignoli. Gerente de Producción PLANTA ELIDA PONDS TORTUGUITAS Tel. (02320) 551421. 
+
+Security_code : vrf3y
+Send : Enviar
+
+---------------
+
+Address : 186.124.246.204
+Nombre : Juan Carlos
+Apellido : Gonzalez
+Cargo : Contador Publico Nac.
+Direccion : Chacra 251 calle 141 casa H15
+Ciudad : Posadas, Misiones
+Telefono : 376154790379
+Email : juanchigonza@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : BUSCO TRABAJO RELACIONADO A MI CARRERA UNIVERSITARIA.
+Security_code : KWpr4
+Send : Enviar
+
+---------------
+
+Address : 181.47.45.248
+Nombre : Priscila Carla
+Apellido : de San Juan
+Cargo : Organizadora de Eventos/ TCP- Azafata de Vuelo/ Administrativa/ Secretaria
+Direccion : Av. Díaz Vélez 5425 pb "a"
+Ciudad : Capital Federal
+Telefono : (011) 1537651376
+Email : prisciladesanjuan@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Busco desempeñar y aplicar mis aptitudes como responsabilidad, puntualidad, pro actividad y organización, de esta manera crecer laboral y personalmente, y  así brindar eficiencia  en la labor que se me asigne.
+Security_code : tgvwn
+Send : Enviar
+
+---------------
+
+Address : 201.255.41.2
+Nombre : Camilo Andrés
+Apellido : Chaparro Chaparro 
+Cargo : Cobranza, Atención al cliente, enter otros cargos relacionados en el area administrativa.
+Direccion : Bartolome Mitre 1980 Piso 4 Ap 35
+Ciudad : Capital federal
+Telefono : 1139482534
+Email : camicha1979@yahoo.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Tengo el agrado de dirigirme a usted con el objeto de participar en búsquedas acordes a mi perfil, Soy licenciado en Administración de Empresas. 
+Estoy en la búsqueda de nuevos retos que enriquezcan y fortalezcan mi formación empresarial.
+Soy una persona con un alto nivel de compromiso, con facilidades para trabajar en equipo, enfocado a resultados y entusiasta.
+ 
+Security_code : skpsc
+Send : Enviar
+
+---------------
+
+Address : 201.255.41.2
+Nombre : Camilo Andrés
+Apellido : Chaparro Chaparro
+Cargo : Cobranza, Atención al cliente y Administrativos
+Direccion : Bartolo mitre 1980 P 4 Ap 35
+Ciudad : Buenos Aires
+Telefono : 1139481534
+Email : camicha1979@yahoo.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Tengo el agrado de dirigirme a usted con el objeto de participar en búsquedas acordes a mi perfil. Soy Licenciado en Administración de Empresas de Colombia.
+Estoy en la búsqueda de nuevos retos que enriquezcan y fortalezcan mi formación empresarial.
+Soy una persona con un alto nivel de compromiso, con facilidades para trabajar en equipo, enfocado a resultados y entusiasta. 
+Security_code : 3g7zs
+Send : Enviar
+
+---------------
+

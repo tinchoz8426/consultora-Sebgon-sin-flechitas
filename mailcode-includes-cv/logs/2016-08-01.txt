@@ -1,0 +1,995 @@
+Address : 186.158.137.235<br>
+ <br>REF : OEL
+ <br>Nombre : Alejandro
+ <br>Apellido : Gutierrez Flores
+ <br>Cargo : electricista
+ <br>Direccion : av.cruz 5440
+ <br>Ciudad : Capital Federal
+ <br>Telefono : 115885024
+ <br>Email : alegu_87@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : De 2014 a 2016 me dedique al rubro del cableado estrucuturado, en el CV se detalla en los lugares que me desempeñe. 
+ <br>Security_code : hzzm8
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.44.175.58<br>
+ <br>REF : ENPRO
+ <br>Nombre : Walter
+ <br>Apellido : Benitez
+ <br>Cargo : Auxiliar/Encargado
+ <br>Direccion : Brasilia nº 1353
+ <br>Ciudad : guernica
+ <br>Telefono : 1169229029
+ <br>Email : wal-2016@outlook.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimado empleador: Minombre es Walter Benitez, su oferta laboral me parece interesante, ya que cuento con buena voluntad para aprender cualquier conocimiento requerido para el  puesto, Predisposición para trabajar en equipo, Libreta sanitaria al día, titulo y Analítico, Nunca falto al trabajo, No me Importaría trabajar días Festivos o Feriados. le envío mi Currículum, para poder ser tomado en cuenta como candidato. Cordialmemte Walter Benitez
+ <br>Security_code : y9pg6
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.135.6.248<br>
+ <br>REF : SE.BIL
+ <br>Nombre : Ana
+ <br>Apellido : ARDUINI
+ <br>Cargo : secretaria
+ <br>Direccion : sanchez de bustamante 223
+ <br>Ciudad : almagro
+ <br>Telefono : 01136151647
+ <br>Email : italiaapa@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados,
+He visto la Oferta Laboral publicada y la misma me resultó de gran interés. 
+Por este motivo, les hago llegar mi Currículum Vitae, a fin de ser tenido en cuenta como candidato.
+Quedo a su disposición para ampliar cualquier información necesaria.
+Cordialmente,
+Ana Arduini
+ <br>Security_code : dfxq8
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.169.18.26<br>
+ <br>REF : GTEP
+ <br>Nombre : Fabio
+ <br>Apellido : Pignato
+ <br>Cargo : Gerente de Planta 
+ <br>Direccion : El Ñandu 1424
+ <br>Ciudad : Pilar - Buenos Aires
+ <br>Telefono : 15 1157438162
+ <br>Email : fabiopignato@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : adjunto CV
+ <br>Security_code : 32pwc
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.231.240.178<br>
+ <br>Nombre : María Paula
+ <br>Apellido : Korsic 
+ <br>Cargo : Aseguramiento o garantía de calidad 
+ <br>Direccion : Pasaje de las ciencias 75
+ <br>Ciudad : Rincón de Milberg
+ <br>Telefono : 1565542759
+ <br>Email : Pauli.korsic@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Adjunto mi CV ya que me encuentro en búsqueda laboral activa. 
+Mi área de expertise es Aseguramiento de la calidad y producción habiendo practicado ambas en compañías farmacéuticas con y sin planta productiva. 
+Mi formación académica es ingeniería química. 
+
+Quedo a disposición.
+ <br>Security_code : Wx3b9
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.231.240.178<br>
+ <br>Nombre : María Paula
+ <br>Apellido : Korsic 
+ <br>Cargo : Aseguramiento o garantía de calidad 
+ <br>Direccion : Pasaje de las ciencias 75
+ <br>Ciudad : Rincón de Milberg
+ <br>Telefono : 1565542759
+ <br>Email : Pauli.korsic@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Adjunto mi CV ya que me encuentro en búsqueda laboral activa. 
+Mi área de expertise es Aseguramiento de la calidad y producción habiendo practicado ambas en compañías farmacéuticas con y sin planta productiva. 
+Mi formación académica es ingeniería química. 
+
+Quedo a disposición.
+ <br>Security_code : WX m3b9
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.231.240.178<br>
+ <br>Nombre : María Paula
+ <br>Apellido : Korsic 
+ <br>Cargo : Aseguramiento o garantía de calidad 
+ <br>Direccion : Pasaje de las ciencias 75
+ <br>Ciudad : Rincón de Milberg
+ <br>Telefono : 1565542759
+ <br>Email : Pauli.korsic@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Adjunto mi CV ya que me encuentro en búsqueda laboral activa. 
+Mi área de expertise es Aseguramiento de la calidad y producción habiendo practicado ambas en compañías farmacéuticas con y sin planta productiva. 
+Mi formación académica es ingeniería química. 
+
+Quedo a disposición.
+ <br>Security_code : WX3b9
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.231.240.178<br>
+ <br>Nombre : María Paula
+ <br>Apellido : Korsic 
+ <br>Cargo : Aseguramiento o garantía de calidad 
+ <br>Direccion : Pasaje de las ciencias 75
+ <br>Ciudad : Rincón de Milberg
+ <br>Telefono : 1565542759
+ <br>Email : Pauli.korsic@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Adjunto mi CV ya que me encuentro en búsqueda laboral activa. 
+Mi área de expertise es Aseguramiento de la calidad y producción habiendo practicado ambas en compañías farmacéuticas con y sin planta productiva. 
+Mi formación académica es ingeniería química. 
+
+Quedo a disposición.
+ <br>Security_code : ftcgm
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.231.142.217<br>
+ <br>Nombre : Daiana
+ <br>Apellido : Luiselli
+ <br>Cargo : Administrativo - Recursos Humanos
+ <br>Direccion : Av. Balbin 2312, 4 D
+ <br>Ciudad : Caba
+ <br>Telefono : 1139451876
+ <br>Email : luisellidaiana@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Actualmente me encuentro en búsqueda de mi primera experiencia laboral en el área de Recursos Humanos dentro de empresas en las que pueda aprender y desarrollarme profesionalmente.
+ 
+Les envió adjunto mi CV.
+ 
+Quedo a su disposición para ampliar información que estimen necesaria.
+ <br>Security_code : kpz6k
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.18.86.108<br>
+ <br>REF : GTEP
+ <br>Nombre : Oscar Aurelio
+ <br>Apellido : Pace
+ <br>Cargo : Gerente de Planta
+ <br>Direccion : Río de Janeiro 2634
+ <br>Ciudad : Lanus, Bs. As.
+ <br>Telefono : 11-6939-8955
+ <br>Email : oscarpace06@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Tengo el agrado de dirigirme a Uds, a fin de postulante al puesto de Gerente de Planta.
+Quedó a disposición para las consultas que consideren oportunas.
+Atte.
+Oscar Aurelio Pace
+ <br>Security_code : cjkq7
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.136.138.30<br>
+ <br>REF : JPL
+ <br>Nombre : Germán
+ <br>Apellido : Traub
+ <br>Cargo : Gerente/Jefe
+ <br>Direccion : Vidal 1557   6A
+ <br>Ciudad : Capital Federal
+ <br>Telefono : 47803182
+ <br>Email : german.traub@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Profesional de amplia experiencia en las áreas de reatail, logística y servicio,-
+ <br>Security_code : yqw6k
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.11.151.30<br>
+ <br>Nombre : Ruben Ernesto
+ <br>Apellido : Ciaffi
+ <br>Cargo : Responsable de Programador de la Produccion
+ <br>Direccion : Lote 7 Manzana 33 Villa Privada San Alfonso
+ <br>Ciudad : Saldan - Cordoba
+ <br>Telefono : 0351 155900891
+ <br>Email : ruben_ciaffi@live.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Senores:
+Sebgon Consultora
+Presente
+
+Me dirijo a Uds. a los efectos de cubrir la vacante de la referencia.
+A tal efecto, adjunto mi CV, a fin de ser tenido en cuenta como candidato.
+Quedo a su disposicion para ampliar cualquier información necesaria.
+Cordialmente
+Ruben E. Ciaffi
+0351 155900891
+ <br>Security_code : c27jx
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 152.169.169.205<br>
+ <br>REF : JEOTEC
+ <br>Nombre : Rodrigo José
+ <br>Apellido : Elaskar
+ <br>Cargo : JEOTEC
+ <br>Direccion : J.V. Gonzalez 987, Glew
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 011-156-459-6523
+ <br>Email : rodrigoelaskar@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenos días, adjunto a continuación mis antecedentes para la búsqueda que están realizando.
+
+Cordialmente
+
+Rodrigo
+ <br>Security_code : 65r6p
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 200.4.59.195<br>
+ <br>REF : SE.BIL
+ <br>Nombre : Maria Vanina
+ <br>Apellido : Demianczuk
+ <br>Cargo : SE.BIL
+ <br>Direccion : Eva Peron 990
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 1138296758
+ <br>Email : mvdemi@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Adjunto mi CV para la búsqueda de referencia
+ <br>Security_code : k9fsn
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.111.174.10<br>
+ <br>REF : JPL
+ <br>Nombre : Dario Gustavo
+ <br>Apellido : Molina
+ <br>Cargo : Jefe de planta alimenticia
+ <br>Direccion : Mendoza 1162
+ <br>Ciudad : San Jorge-Santa Fe
+ <br>Telefono : 0264-155803693/03406-15642890
+ <br>Email : dachi_004@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : De mi mayor consideración. Me dirijo a Uds. con el propósito de postularme formalmente al puesto de referencia. Con tal motivo, pongo a vuestra disposición mis antecedentes personales, académicos y laborales. 
+Sin otro particular y a la espera de un próximo contacto, los saludo atentamente.
+
+Lic Dario Molina
+ <br>Security_code : bmc43
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.128.46.136<br>
+ <br>REF : GTEP
+ <br>Nombre : Raul
+ <br>Apellido : Barroso
+ <br>Cargo : Gerente de planta
+ <br>Direccion : San Martin Sur 487 P7 D2
+ <br>Ciudad : Godoy Cruz , Mendoza
+ <br>Telefono : 2616515141
+ <br>Email : raul_h_barroso@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados Sres,
+Soy Raúl Barroso, Ingeniero Químico con un Posgrado en Ingeniería en Calidad.  
+Tengo 25 años de experiencia en procesos industriales, laboratorios, desarrollo de productos químicos y proyectos. 
+Mi perfil está orientado a la Gerencia General de Operaciones, con más de 15 años de experiencia en la misma, he supervisado la Gerencia de Planta, la Gerencia de Producción, la Gerencia Operativa en Servicios Petroleros en Oil & Gas, Refinería, Petroquímica y Plantas de Tratamiento de Agua de producción e inyección en yacimientos, refinerías y minería, la Gerencia Operativa de campo, la Gerencia de Desarrollo de productos con sus respectivos laboratorios y la Gerencia de Ventas. 
+He sido responsable de las sucursales/bases operativas y de insertar en el mercado servicios y productos innovadores.
+Como Gerente General de Operaciones en PQB de Venezuela C.A., además de supervisar las gerencias mencionadas tuve a cargo también la Gerencia de Planta de fabricación de productos químicos, supervisando al Jefe de Planta. Fui el responsable final de la logística de producción y distribución de los productos y de la compra de materia prima nacional e internacional, supervisando a los encargados de logística y de compras.
+Tengo experiencia en manejo de presupuestos de ventas e inversiones, en la mencionada compañía fui el responsable de un presupuesto de 20.000.000 U$D/año, de todos los centros de costos y posterior control de gestión y seguimiento (planta, producción, operación y ventas). 
+Fui el responsable de las políticas de la compañía, y tuve la responsabilidad final de la implementación y seguimiento de la Gestión de Calidad, Seguridad Industrial y Medio Ambiente.
+A cargo de personal administrativo, técnico, profesionales y gerentes de área.
+Mi experiencia la he adquirido en Argentina y Venezuela. 
+Desde noviembre del 2011 me dedico a la actividad privada, en el área técnica he desarrollado trabajos como consultor de empresas de servicios petroleros y mineros.
+Soy un profesional con autonomía para el trabajo, y por motivos laborales he vivido en Buenos Aires, Santa Cruz y 8 años Venezuela. 
+
+Agradezco sus comentarios.
+
+Cordialmente,
+
+Raúl Barroso
+ <br>Security_code : 8hxp2
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.44.203.215<br>
+ <br>REF : JPL
+ <br>Nombre : Daniel Luis
+ <br>Apellido : Riera
+ <br>Cargo : Jefe de planta 
+ <br>Direccion : Juncal 833
+ <br>Ciudad : Aldo Bonzi
+ <br>Telefono : 44422134
+ <br>Email : danielluisriera@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Les hago llegar mi CV y quedo a vuestra entera disposición
+ <br>Security_code : ptp2x
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.44.203.215<br>
+ <br>REF : JPL
+ <br>Nombre : Daniel Luis
+ <br>Apellido : Riera
+ <br>Cargo : Jefe de planta 
+ <br>Direccion : Juncal 833
+ <br>Ciudad : Aldo Bonzi
+ <br>Telefono : 44422134
+ <br>Email : danielluisriera@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Les hago llegar mi CV y quedo a vuestra entera disposición
+ <br>Security_code : ptp2x
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 200.59.6.229<br>
+ <br>REF : JEOTEC
+ <br>Nombre : Javier
+ <br>Apellido : Skorupski
+ <br>Cargo : JEOTEC
+ <br>Direccion : Gamarra 1855
+ <br>Ciudad : Villa Urquiza
+ <br>Telefono : 1165923233
+ <br>Email : javierskorupski@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenos días, mi nombre es Javier Skorupski.
+Soy Diseñador Industrial, Me presento a ustedes por la búsqueda de Jefe de Oficina técnica.
+Para la cual puedo aportar más de 6 años de experiencia trabajando en investigación y desarrollo de productos, con funciones de liderazgo oficina técnica y 3 años en gestión de fabricación.
+Todos los productos de los que he sido parte, fueron desarrollados para el mercado metalúrgico y metal-mecánico, en los que se trabajó  bajo estándares de calidad como ISO 9000 e ISO 13485 (normas de calidad específicas en productos médicos).
+Cuento con más de 7 años de experiencia con los Software Solidworks, Autocad, y otros programas.
+Mi trabajo es proactivo y en gran parte es autogestionado, considero que los mejores resultados los he obtenido trabajando en equipo.
+Mi enfoque está dirigido a  facilitar la implementación y fabricación industrial de los productos, sin descuidar su estética y diseño original. 
+Trabajo constantemente con proveedores extranjeros, manejando tanto definiciones técnicas como cotizaciones en inglés avanzado (escritura, lectura, conversación) y en otros idiomas latinos. 
+Puedo destacar entre otros estudios mi título secundario de Técnico  Electromecánico,  que me da un conocimiento profundo de las maquinarias existentes.
+Mi orientación principal es hacia el desarrollo de productos, la creación de soluciones de fabricación y oportunidades de perfeccionamiento en la fabricación de productos existentes. 
+Adjunto el enlace para mi perfil de Linkedin
+https://ar.linkedin.com/in/javierskorupski
+Estoy a su disposición para ampliar la información enviada en una entrevista.
+
+ <br>Security_code : 5ndfh
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.230.174.252<br>
+ <br>REF : SE.BIL
+ <br>Nombre : Guadalupe
+ <br>Apellido : Avanza
+ <br>Cargo : Recepcion Bilingue
+ <br>Direccion : Ciudad de la Paz 1866
+ <br>Ciudad : Belgrano
+ <br>Telefono : 1155668521
+ <br>Email : guadalupeavanza@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Envio cv para puesto que solicitan.
+Atte,
+Guadalupe
+ <br>Security_code : b23w3
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.103.151.121<br>
+ <br>REF : TECELEC
+ <br>Nombre : Luis Sebastián 
+ <br>Apellido : Vallejos 
+ <br>Cargo : TECELEC
+ <br>Direccion : Junín 218
+ <br>Ciudad : Tigre
+ <br>Telefono : 1562432987
+ <br>Email : seba_lsv18@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Envío mi currículum Vitae para la búsqueda 
+ <br>Security_code : x4gpx
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.19.239.225<br>
+ <br>Nombre : JULIETA 
+ <br>Apellido : TURSI
+ <br>Cargo : ANALISTA DE FACTURACION
+ <br>Direccion : Simon de Iriondo 1121
+ <br>Ciudad : Victoria
+ <br>Telefono : 1557064031
+ <br>Email : tursi.julieta@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados, 
+
+Buenas tardes, adjunto mi cv para que si es posible lo tengan en cuenta para la búsqueda o para algún puesto que consideren con mi perfil.
+
+
+Muchas gracias,
+Saludos
+JULIETA TURSI
+ <br>Security_code : kjc7g
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.188.182.45<br>
+ <br>REF : TES
+ <br>Nombre : Eduardo Guillermo
+ <br>Apellido : Vogt
+ <br>Cargo : Tesorero
+ <br>Direccion : 9 de julio 809
+ <br>Ciudad : Temperley
+ <br>Telefono : 115 113 2395
+ <br>Email : egvogt@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Adjunto CV de acuerdo a lo solicitado.
+A su disposicion.
+Atte
+ <br>Security_code : q3bch
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.136.219.38<br>
+ <br>REF : GTEP
+ <br>Nombre : Miguel Ángel
+ <br>Apellido : Beltrán
+ <br>Cargo : Gerente de Planta
+ <br>Direccion : Rosario 639 - 2°I
+ <br>Ciudad : CABA
+ <br>Telefono : 1550417992
+ <br>Email : m_abeltran@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados,
+SEGBON Consultora
+
+De mí mayor consideración. 
+
+El objetivo de esta misiva es hacer llegar a su conocimiento el interés propio para participar en la postulación a la posición de referencia como Gerente de Planta, en alusión a mi trayectoria laboral he ocupado cargos de responsabilidad con logros y desempeños de trascendencia en el contexto de organizaciones industriales con importante expertise y background adquirido, los mismos con diferentes nombramientos y cuyas funciones aplican en carácter solido a los requisitos solicitados en la búsqueda.
+Siendo un agregado de valor la implementación de políticas adecuadas al Gerenciamiento y Gestión de los Procesos Integrales de Planta y Operación Industrial, estos últimos puntos reflejados en los correspondientes Indicadores de Gestión. 
+Esta citada observación encuadrada dentro de un marco respetuoso de fuerte coacción con las diferentes áreas de la Compañía, bajo este escenario pongo a su disposición mi CV actualizado con los detalles solicitados completos.
+Sin más que expresar en esta particular, y agradeciendo su amable atención quedo a su disposición ante un posible eventual al respecto.
+
+Le envío un saludo cordial. 
+
+Miguel Ángel Beltrán 
+
+ <br>Security_code : xx7dk
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 200.125.84.182<br>
+ <br>Nombre : Lucas 
+ <br>Apellido : Mosso Bancalari
+ <br>Cargo : Ingeniero Químico
+ <br>Direccion : Vidt 2016
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 1166823957
+ <br>Email : lucasmossobancalari@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola, dejo CV. Tengo experiencia como proyectista en oficina técnica
+ <br>Security_code : 3svgd
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.231.133.22<br>
+ <br>REF : JEOTEC
+ <br>Nombre : Ignacio
+ <br>Apellido : Faue
+ <br>Cargo : Ingenieria Industrial
+ <br>Direccion : Medrano 21
+ <br>Ciudad : CABA
+ <br>Telefono : 1559730392
+ <br>Email : ignacio.faue2016@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimado/a:
+                 de mi mayor consideración, en vista  de la Oferta Laboral Estudiante de Ingenieria Industrial les hago llegar mis datos personales en Currículum Vitae a fin de ser tenido en cuenta como candidato.
+Esperando una respuesta positiva lo saluda atentamente,
+Ignacio Faue
+
+
+ <br>Security_code : ssskk
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.195.233.80<br>
+ <br>REF : GTEP
+ <br>Nombre : Orlando
+ <br>Apellido : Parrado
+ <br>Cargo : Gerente de Planta
+ <br>Direccion : Cullen 4941
+ <br>Ciudad : CABA
+ <br>Telefono : 011 4070 2655
+ <br>Email : fparrado2002@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : En referencia a vuestro aviso solicitando un Gerente de Planta es que les envío mi CV.
+En cuanto a la remuneración deseada serìa de unos $ 120.000 los cuales obviamente podrìan variar en funciòn de otros beneficios.
+Saludos cordiales.
+Orlando Parrado 
+ <br>Security_code : vwb38
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.231.133.22<br>
+ <br>Nombre : Ignacio
+ <br>Apellido : Faue
+ <br>Cargo : Ingenieria Industrial
+ <br>Direccion : Medrano 21
+ <br>Ciudad : CABA
+ <br>Telefono : 1559730392
+ <br>Email : ignacio.faue2016@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : 
+Estimado/a:
+                 de mi mayor consideración, en vista  de la Oferta Laboral Estudiante de Ingenieria Industrial les hago llegar mis datos personales en Currículum Vitae a fin de ser tenido en cuenta como candidato.
+Esperando una respuesta positiva lo saluda atentamente,
+Ignacio Faue
+
+ <br>Security_code : 7qhqf
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.230.70.51<br>
+ <br>Nombre : MARIA JULIA
+ <br>Apellido : LINARES
+ <br>Cargo : RECEPCION / PRENSA 
+ <br>Direccion : GUTENBERG 3929
+ <br>Ciudad : CABA
+ <br>Telefono : 1166899261
+ <br>Email : majulinares@hotmail.coM
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas tardes, me gustaría que me tengan en cuenta para las ofertas laborales que tengan sobre: el departamento de prensa, recepcionista o secretaria. Adjunto CV.
+
+Saludos cordiales.
+ <br>Security_code : ghvxv
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 179.60.208.18<br>
+ <br>REF : GTEP
+ <br>Nombre : Federico Enrique
+ <br>Apellido : Suriani
+ <br>Cargo : Gerente de Planta
+ <br>Direccion : Avenida Corrientes 4528 4B
+ <br>Ciudad : Capital Federal
+ <br>Telefono : 48637495
+ <br>Email : surianifederico@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me dirijo a Uds en respuesta al aviso publicado hoy en internet (Indeed) donde solicitan un Gerente de Planta.Les anexo mi CV donde podrán ver que tengo una amplia  experiencia en alimentos y he trabajado formando equipos de mejoras y gestión operativa de plantas. Gestioné importantes proyectos con buenos resultados. Aspiro a una remuneración que oscile entre los $70.000 y $80.000 sobre la que estoy dispuesto a conversar  de acuerdo a las responsabilidades del puesto. A la espera de una entrevista personal para ampliar lo expuesto, los saluda atte.
+Federico Suriani  
+ <br>Security_code : ch8r9
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.17.182.121<br>
+ <br>Nombre : Walter Nicolas
+ <br>Apellido : Pavelka
+ <br>Cargo : Tecnico Quimico
+ <br>Direccion : Sanabria 2192
+ <br>Ciudad : CABA
+ <br>Telefono : 1565852192
+ <br>Email : paveuno@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas tardes, me dirijo a ustedes para entregarles mi CV para sus proximas busquedas de tecnico quimico. Desde ya, por su tiempo y atención, muchas gracias. Saludos cordiales
+ <br>Security_code : 9mjmk
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.228.134.122<br>
+ <br>REF : GTEP
+ <br>Nombre : Jorge Alberto
+ <br>Apellido : Pinnola
+ <br>Cargo : Gerente de Planta
+ <br>Direccion : Ramon y Cajal 2982
+ <br>Ciudad : Bahia Blanca
+ <br>Telefono : 0111566591596
+ <br>Email : jpinnola@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : De mi mayor consideración:
+
+                                             Tengo el agrado de dirigirme a Uds. con el objeto de presentar mi C.V. y ofrecer mis servicios para la posición de la referencia.
+
+Como profesional, cuento con el conocimiento, aptitudes y experiencia necesarios para cubrir el perfil solicitado, adquiridos ocupando puestos Gerenciales y de Dirección durante más de 35 años en Empresas Multinacionales de primer nivel.
+
+Deben saber que mis principales fortalezas son visión estratégica, capacidad de análisis, modelización, coordinación y dirección de equipos de trabajo y compromiso con los resultados.
+
+Por otro lado puedo ofrecer que la contratación sea bajo relación de dependencia o freelance.
+
+Quedo a Vuestra disposición para cualquier aclaración, ampliación de información o para concertar 
+una entrevista personal en la que pueda exponer en más detalle mis experiencias y logros laborales.
+
+Agradecido por el tiempo dispensado a la presente, los saluda cordialmente.
+
+                                                                                                       
+
+                                                                                                             Lic. Jorge Pinnola 
+     
+
+ <br>Security_code : 4mr8y
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.190.239.126<br>
+ <br>Nombre : Lisandro
+ <br>Apellido : Firpo
+ <br>Cargo : Auditor -- Consultor - Analista Politico
+ <br>Direccion : choele Choel
+ <br>Ciudad : Lanus
+ <br>Telefono : 0111530245705
+ <br>Email : lisandrofirpo@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados,envío mi CV.
+Desde ya muchas gracias.
+ <br>Security_code : c7ggy
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.18.169.66<br>
+ <br>REF : SE.BIL
+ <br>Nombre : Bibiana 
+ <br>Apellido : Midaglia
+ <br>Cargo : Secretaria Bilingue
+ <br>Direccion : Nogoya 3200
+ <br>Ciudad : CABA
+ <br>Telefono : 1565302095
+ <br>Email : bibiana-lore@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Envio mi cv para vuestra evaluacion
+ <br>Security_code : 74b6b
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.50.201.14<br>
+ <br>REF : JPL
+ <br>Nombre : Adrian
+ <br>Apellido : Cereghetti
+ <br>Cargo : Jefe de Planta
+ <br>Direccion : Sargento Cabral 786
+ <br>Ciudad : Bernal
+ <br>Telefono : 1536472774
+ <br>Email : adriancereghetti@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimado, soy un profesional con vasta experiencia Manufactura y gestión de planta industriales, con más de 20 años de trayectoria en empresas nacionales y multinacionales.
+Experiencia en plantas con líneas de producción continua o método de trabajo por lotes.
+
+Durante mi carrera tuve la oportunidad de trabajar en distintos áreas lo que me permite tener una visión global de las necesidades de la empresa, me desempeñe en IT (Sistemas), Ingeniería, Mantenimiento, Producción, Logistica y áreas de mejora continua como Lean Manufacturing, implementando distintas herramientas de gestión como 5S, KanBan, SMED, Gestión Visual en piso de planta, TPM, herramientas informáticas para cálculo de KPI´s, MRP, Datación, Gestión de Stock, etc.
+
+Buenas relaciones interpersonales, proactivo y orientado a los resultados en tiempo y forma, y con alta calidad. Capacidad para interactuar con el equipo, permitiéndome organizar los procesos rápidamente, flexible ante los cambios y motivado por los desafíos y logros en el trabajo.
+
+Saludos
+
+ <br>Security_code : 78mc8
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.50.201.14<br>
+ <br>REF : GTEP
+ <br>Nombre : Adrian
+ <br>Apellido : Cereghetti
+ <br>Cargo : Gerente de Planta
+ <br>Direccion : Sargento Cabral 786
+ <br>Ciudad : Bernal
+ <br>Telefono : 1536472774
+ <br>Email : a.
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimado, soy un profesional con vasta experiencia Manufactura y gestión de planta industriales, con más de 20 años de trayectoria en empresas nacionales y multinacionales.
+Experiencia en plantas con líneas de producción continua o método de trabajo por lotes.
+
+Durante mi carrera tuve la oportunidad de trabajar en distintos áreas lo que me permite tener una visión global de las necesidades de la empresa, me desempeñe en IT (Sistemas), Ingeniería, Mantenimiento, Producción, Logistica y áreas de mejora continua como Lean Manufacturing, implementando distintas herramientas de gestión como 5S, KanBan, SMED, Gestión Visual en piso de planta, TPM, herramientas informáticas para cálculo de KPI´s, MRP, Datación, Gestión de Stock, etc.
+
+Buenas relaciones interpersonales, proactivo y orientado a los resultados en tiempo y forma, y con alta calidad. Capacidad para interactuar con el equipo, permitiéndome organizar los procesos rápidamente, flexible ante los cambios y motivado por los desafíos y logros en el trabajo.
+
+Saludos
+
+ <br>Security_code : 7mgmv
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.182.34.145<br>
+ <br>REF : GTEP
+ <br>Nombre : MARCELO
+ <br>Apellido : Francisco
+ <br>Cargo : Gerente de planta
+ <br>Direccion : Lucena 3958
+ <br>Ciudad : Avellaneda
+ <br>Telefono : 1539397394
+ <br>Email : mafranc1@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Adjunto cv para el puesto ofrecido.
+ <br>Security_code : k2y3h
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.136.70.214<br>
+ <br>REF : E.DIS
+ <br>Nombre : Guido
+ <br>Apellido : Forte
+ <br>Cargo : Diseñador Industrial
+ <br>Direccion : Castro Barros 2827
+ <br>Ciudad : Martinez
+ <br>Telefono : 1158791557
+ <br>Email : guidoforte@outlook.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Les hago llegar mis deseos de formar parte del proceso de selección para el puesto de diseñador industrial.
+ <br>Security_code : 724ts
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.50.201.14<br>
+ <br>Nombre : Adrian
+ <br>Apellido : Cereghetti
+ <br>Cargo : Gerente / Jefe / Producción / Planta
+ <br>Direccion : Sargento Cabral 786
+ <br>Ciudad : Bernal
+ <br>Telefono : 1536472774
+ <br>Email : adriancereghetti@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Profesional con vasta experiencia Manufactura y gestión de planta industriales, con más de 20 años de trayectoria en empresas nacionales y multinacionales.
+Experiencia en plantas con líneas de producción continua o método de trabajo por lotes.
+
+Durante mi carrera tuve la oportunidad de trabajar en distintos áreas lo que me permite tener una visión global de las necesidades de la empresa, me desempeñe en IT (Sistemas), Ingeniería, Mantenimiento, Producción y áreas de mejora continua como Lean Manufacturing, implementando distintas herramientas de gestión como 5S, KanBan, SMED, Gestión Visual en piso de planta, TPM, herramientas informáticas para cálculo de KPI´s, MRP, Datación, Gestión de Stock, etc.
+
+Buenas relaciones interpersonales, proactivo y orientado a los resultados en tiempo y forma, y con alta calidad. Capacidad para interactuar con el equipo, permitiéndome organizar los procesos rápidamente, flexible ante los cambios y motivado por los desafíos y logros en el trabajo.
+
+ <br>Security_code : 7ktkp
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.50.201.14<br>
+ <br>Nombre : Adrian
+ <br>Apellido : Cereghetti
+ <br>Cargo : Gerente / Jefe / Producción / Planta
+ <br>Direccion : Sargento Cabral 786
+ <br>Ciudad : Bernal
+ <br>Telefono : 1536472774
+ <br>Email : adriancereghetti@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Profesional con vasta experiencia Manufactura y gestión de planta industriales, con más de 20 años de trayectoria en empresas nacionales y multinacionales.
+Experiencia en plantas con líneas de producción continua o método de trabajo por lotes.
+
+Durante mi carrera tuve la oportunidad de trabajar en distintos áreas lo que me permite tener una visión global de las necesidades de la empresa, me desempeñe en IT (Sistemas), Ingeniería, Mantenimiento, Producción y áreas de mejora continua como Lean Manufacturing, implementando distintas herramientas de gestión como 5S, KanBan, SMED, Gestión Visual en piso de planta, TPM, herramientas informáticas para cálculo de KPI´s, MRP, Datación, Gestión de Stock, etc.
+
+Buenas relaciones interpersonales, proactivo y orientado a los resultados en tiempo y forma, y con alta calidad. Capacidad para interactuar con el equipo, permitiéndome organizar los procesos rápidamente, flexible ante los cambios y motivado por los desafíos y logros en el trabajo.
+
+ <br>Security_code : 7ktkp
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.50.201.14<br>
+ <br>Nombre : Adrian
+ <br>Apellido : Cereghetti
+ <br>Cargo : Gerente / Jefe / Producción / Planta
+ <br>Direccion : Sargento Cabral 786
+ <br>Ciudad : Bernal
+ <br>Telefono : 1536472774
+ <br>Email : adriancereghetti@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Profesional con vasta experiencia Manufactura y gestión de planta industriales, con más de 20 años de trayectoria en empresas nacionales y multinacionales.
+Experiencia en plantas con líneas de producción continua o método de trabajo por lotes.
+
+Durante mi carrera tuve la oportunidad de trabajar en distintos áreas lo que me permite tener una visión global de las necesidades de la empresa, me desempeñe en IT (Sistemas), Ingeniería, Mantenimiento, Producción y áreas de mejora continua como Lean Manufacturing, implementando distintas herramientas de gestión como 5S, KanBan, SMED, Gestión Visual en piso de planta, TPM, herramientas informáticas para cálculo de KPI´s, MRP, Datación, Gestión de Stock, etc.
+
+Buenas relaciones interpersonales, proactivo y orientado a los resultados en tiempo y forma, y con alta calidad. Capacidad para interactuar con el equipo, permitiéndome organizar los procesos rápidamente, flexible ante los cambios y motivado por los desafíos y logros en el trabajo.
+
+ <br>Security_code : ntrc4
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.50.201.14<br>
+ <br>REF : JPL
+ <br>Nombre : Adrian
+ <br>Apellido : Cereghetti
+ <br>Cargo : Jefe de Planta
+ <br>Direccion : Sargento Cabral 786
+ <br>Ciudad : Bernal
+ <br>Telefono : 1536472774
+ <br>Email : adriancereghetti@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Profesional con vasta experiencia Manufactura y gestión de planta industriales, con más de 20 años de trayectoria en empresas nacionales y multinacionales.
+Experiencia en plantas con líneas de producción continua o método de trabajo por lotes.
+
+Durante mi carrera tuve la oportunidad de trabajar en distintos áreas lo que me permite tener una visión global de las necesidades de la empresa, me desempeñe en IT (Sistemas), Ingeniería, Mantenimiento, Producción y áreas de mejora continua como Lean Manufacturing, implementando distintas herramientas de gestión como 5S, KanBan, SMED, Gestión Visual en piso de planta, TPM, herramientas informáticas para cálculo de KPI´s, MRP, Datación, Gestión de Stock, etc.
+
+Buenas relaciones interpersonales, proactivo y orientado a los resultados en tiempo y forma, y con alta calidad. Capacidad para interactuar con el equipo, permitiéndome organizar los procesos rápidamente, flexible ante los cambios y motivado por los desafíos y logros en el trabajo.
+
+ <br>Security_code : 7fm48
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.50.201.14<br>
+ <br>REF : GTEP
+ <br>Nombre : Adrian
+ <br>Apellido : Cereghetti
+ <br>Cargo : Gerente de Planta
+ <br>Direccion : Sargento Cabral 786
+ <br>Ciudad : Bernal
+ <br>Telefono : 1536472774
+ <br>Email : adriancereghetti@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Profesional con vasta experiencia Manufactura y gestión de planta industriales, con más de 20 años de trayectoria en empresas nacionales y multinacionales.
+Experiencia en plantas con líneas de producción continua o método de trabajo por lotes.
+
+Durante mi carrera tuve la oportunidad de trabajar en distintos áreas lo que me permite tener una visión global de las necesidades de la empresa, me desempeñe en IT (Sistemas), Ingeniería, Mantenimiento, Producción y áreas de mejora continua como Lean Manufacturing, implementando distintas herramientas de gestión como 5S, KanBan, SMED, Gestión Visual en piso de planta, TPM, herramientas informáticas para cálculo de KPI´s, MRP, Datación, Gestión de Stock, etc.
+
+Buenas relaciones interpersonales, proactivo y orientado a los resultados en tiempo y forma, y con alta calidad. Capacidad para interactuar con el equipo, permitiéndome organizar los procesos rápidamente, flexible ante los cambios y motivado por los desafíos y logros en el trabajo.
+
+ <br>Security_code : zkyvy
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 191.84.239.73<br>
+ <br>Nombre : Daniel
+ <br>Apellido : Mustillo
+ <br>Cargo : Empleado
+ <br>Direccion : calle 123 N°1234
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 42805597 / 15030789038
+ <br>Email : daniel_y_nadamas@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Adjunto curriculum para postularme al puesto que la empresa considere necesario.
+
+
+Desde ya, muchas gracias.
+ <br>Security_code : j5379
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 191.84.239.73<br>
+ <br>Nombre : Daniel
+ <br>Apellido : Mustillo
+ <br>Cargo : Empleado
+ <br>Direccion : calle 123 N°1234
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 42805597 / 15030789038
+ <br>Email : daniel_y_nadamas@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Adjunto curriculum para postularme al puesto que la empresa considere necesario.
+
+
+Desde ya, muchas gracias.
+ <br>Security_code : j5379
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 191.84.239.73<br>
+ <br>Nombre : Daniel
+ <br>Apellido : Mustillo
+ <br>Cargo : Empleado
+ <br>Direccion : calle 123 N°1234
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 42805597 / 15030789038
+ <br>Email : daniel_y_nadamas@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Adjunto curriculum para postularme al puesto que la empresa considere necesario.
+
+
+Desde ya, muchas gracias.
+ <br>Security_code : 5bdmm
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.23.85.182<br>
+ <br>REF : OEL
+ <br>Nombre : francisco javier
+ <br>Apellido : fernandez
+ <br>Cargo : oficial electricista
+ <br>Direccion : euskadi 1457
+ <br>Ciudad : Banfield
+ <br>Telefono : 42738347
+ <br>Email : francisco-fernandez1977@outlook.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Oficial electricista Tengo 16 años de experiencia en el rubro eléctrico, interpretacion de planos, cañeria a la vista y embutida, colocacion de bandejas porta cables, armado de puestos de trabajos, cableao y conexionado de tableros, se de iluminación, mantenimiento en lugares de gran envergadura , soldadura eléctrica, manejo y puesta en marcha de grupos electrógenos, operario en producción, carnet de conducir (B1), atento al puesto asignado, perfil proactivo y capaz, Excelente manejo de relaciones interpersonales, disponible para viajar al interior y exterior del pais...
+ <br>Security_code : 37zf9
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 200.73.152.174<br>
+ <br>REF : JPL
+ <br>Nombre : gaston rorigo
+ <br>Apellido : spennato
+ <br>Cargo : jefe de planta
+ <br>Direccion : paris 1834
+ <br>Ciudad : pablo podesta
+ <br>Telefono : 15223313166
+ <br>Email : spennato_gaston@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : señores:
+les adjunto mi cv espero este acorde a su necesidad
+desde ya muchas gracias
+atte
+Spennato Gaston
+ <br>Security_code : cbjt9
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 200.73.152.174<br>
+ <br>REF : JPL
+ <br>Nombre : gaston rorigo
+ <br>Apellido : spennato
+ <br>Cargo : jefe de planta
+ <br>Direccion : paris 1834
+ <br>Ciudad : pablo podesta
+ <br>Telefono : 15223313166
+ <br>Email : spennato_gaston@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : señores:
+les adjunto mi cv espero este acorde a su necesidad
+desde ya muchas gracias
+atte
+Spennato Gaston
+ <br>Security_code : cbjt9
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.17.99.188<br>
+ <br>REF : GTEP
+ <br>Nombre : Mabel
+ <br>Apellido : Neyra
+ <br>Cargo : Gerente de planta
+ <br>Direccion : Pringles 1162, 1, F
+ <br>Ciudad : CABA
+ <br>Telefono : 1551099983
+ <br>Email : nekemist@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Tengo 12 años de trabajo en pyme alimenticia, conhHabilidad para discriminar prioridades. Buen manejo de relaciones interpersonales, Habilidad analítica, Síntesis y Orientación a resultados. Negociación, mesura, equilibrio, razonabilidad.
+ <br>Security_code : cx2pd
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.17.99.188<br>
+ <br>REF : GTEP
+ <br>Nombre : Mabel
+ <br>Apellido : Neyra
+ <br>Cargo : Gerente de planta
+ <br>Direccion : Pringles 1162, 1, F
+ <br>Ciudad : CABA
+ <br>Telefono : 1551099983
+ <br>Email : nekemist@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Tengo 12 años de trabajo en pyme alimenticia, conhHabilidad para discriminar prioridades. Buen manejo de relaciones interpersonales, Habilidad analítica, Síntesis y Orientación a resultados. Negociación, mesura, equilibrio, razonabilidad.
+ <br>Security_code : cx2pd
+ <br>Send : Enviar
+ <br>
+---------------
+

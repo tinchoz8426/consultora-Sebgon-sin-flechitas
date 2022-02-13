@@ -1,0 +1,103 @@
+Address : 201.255.53.214
+Nombre : Gregorio
+Apellido : Martinez Gonzalez
+Cargo : Supervisor / Responsable Calidad
+Direccion : Ancon 4243
+Ciudad : Gonzalez Catan, Bs As.
+Telefono : 1163764298
+Email : margony01@yahoo.es
+MAX_FILE_SIZE : 2097152
+Mensaje : Buen dia.
+Me encuentro buscando trabajo de manera activa. Mi perfil profesional de adecua para ocupar cargos de responsabilidad, le adjunto mi CV a fin de que lo pueda evaluar y postularme a vacantes acordes que puedan surgir. Muchas gracias.
+
+Gregorio
+Security_code : pjkpb
+Send : Enviar
+
+---------------
+
+Address : 141.0.9.78
+Nombre : Daniel Juan
+Apellido : Castro
+Cargo : Tecnico
+Direccion : Paunero 968
+Ciudad : Bahia Blanca
+Telefono : 0291-4553714
+Email : dajucastro@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenos dias adjunto mi CV a fin de postularme a algun puesto de trabajo que pudiera surgir.
+Atentamente 
+Daniel Castro
+Security_code : 95vv7
+Send : Enviar
+
+---------------
+
+Address : 141.0.9.78
+Nombre : Daniel Juan
+Apellido : Castro
+Cargo : Tecnico
+Direccion : Paunero 968
+Ciudad : Bahia Blanca
+Telefono : 0291-4553714
+Email : dajucastro@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenos dias adjunto mi CV a fin de postularme a algun puesto de trabajo que pudiera surgir.
+Atentamente 
+Daniel Castro
+Security_code : 95v v 7
+Send : Enviar
+
+---------------
+
+Address : 141.0.9.78
+Nombre : Daniel Juan
+Apellido : Castro
+Cargo : Tecnico
+Direccion : Paunero 968
+Ciudad : Bahia Blanca
+Telefono : 0291-4553714
+Email : dajucastro@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenos dias adjunto mi CV a fin de postularme a algun puesto de trabajo que pudiera surgir.
+Atentamente 
+Daniel Castro
+Security_code : tq6f4
+Send : Enviar
+
+---------------
+
+Address : 141.0.9.78
+Nombre : Daniel Juan
+Apellido : Castro
+Cargo : Tecnico
+Direccion : Paunero 968
+Ciudad : Bahia Blanca
+Telefono : 0291-4553714
+Email : dajucastro@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenos dias adjunto mi CV a fin de postularme a algun puesto de trabajo que pudiera surgir.
+Atentamente 
+Daniel Castro
+Security_code : tq6f4
+Send : Enviar
+
+---------------
+
+Address : 190.224.154.194
+REF : TES
+Nombre : Hernan
+Apellido : Quiros
+Cargo : Tersorero
+Direccion : Larrea 1365 piso 3 depto A
+Ciudad : Ciudad Autónoma de Buenos Aires
+Telefono : 15-5579-5359
+Email : hernan.quiros@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados, adjunto CV aplicando a la vancante de referencia y quedo a disposición por cualquier consulta que requieran por este tema.
+Cordiales saludos
+Security_code : cdsyq
+Send : Enviar
+
+---------------
+

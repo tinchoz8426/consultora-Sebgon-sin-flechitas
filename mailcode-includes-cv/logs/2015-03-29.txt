@@ -1,0 +1,40 @@
+Address : 66.60.49.187
+REF : GERENTE-DE-PRODUCCION
+Nombre : Ezequiel
+Apellido : Monzon
+Cargo : Gerente de  Produccion
+Direccion : Condarco 2300
+Ciudad : Merlo
+Telefono : 1534862450
+Email : ezequiel_monzon@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Postulacion
+Security_code : pyp2z
+Send : Enviar
+
+---------------
+
+Address : 200.81.172.23
+REF : ANCON
+Nombre : Natalia
+Apellido : Segovia
+Cargo : Analista contable
+Direccion : Juan de Dios
+Ciudad : Guernica
+Telefono : 0111554663370
+Email : nataliasegovia01@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimado: 
+         Tengo el agrado de remitirle mi Currículum Vitae con el objetivo de participar en el proceso de selección.
+         Como puede apreciar en el mismo, soy Técnica Superior en Administración Contable y estoy realizando la Licenciatura en Economía Empresarial.
+        Cuento con muchas ganas de trabajar y predisposición para aprender todo lo necesario que el puesto requiera, me considero una persona eficaz y eficiente para desarrollarme en el puesto.
+Por estas razones, desearía tenga en cuenta mi candidatura en la selección que usted convoqué.
+ 
+         Sin otro particular, le saluda cordialmente.
+  
+Natalia  Segovia.
+Security_code : qxtnh
+Send : Enviar
+
+---------------
+

@@ -1,0 +1,60 @@
+Address : 190.247.48.234
+Nombre : Maria Rosa
+Apellido : Melograna
+Cargo : Liquidadora sueldos / Jefa Recursos Humanos 
+Direccion : Bogotá 827 
+Ciudad : Capital Federal
+Telefono : 44331406
+Email : melogranamaria@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Capital Federal, 7 de enero de 2012
+ 
+De mi consideración:
+ 
+Tengo el agrado de dirigirme a Uds., a fin de acercarles mi CV, para eventuales búsquedas acordes a mi perfil.
+ 
+Cuento con una valiosa experiencia en el Área de Recursos Humanos de Empresas Multinacionales.
+ 
+Estimo que una entrevista será el marco adecuado para profundizar aspectos de mi perfil que puedan resultar de su interés.
+ 
+Cordialmente.
+ 
+Maria Rosa Melograna 
+
+Security_code : 6hm3h
+Send : Enviar
+
+---------------
+
+Address : 190.176.133.194
+REF : supervisor-de-elaboracion
+Nombre : mauricio damian
+Apellido : giraudi
+Cargo : Licenciando en Kinesiologia y Fisioterapia
+Direccion : salta 334
+Ciudad : villa mercedes
+Telefono : 0351-153661630
+Email : damiangiraudi@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Posibilidad de mudarme a otra localidad, provincia o pais de manera inmediata
+Security_code : xwr7x
+Send : Enviar
+
+---------------
+
+Address : 186.58.26.6
+REF : tecnico-electornico
+Nombre : cesar
+Apellido : escobar
+Cargo : operario produccion/metalurguico
+Direccion : beethoven1400 dto7
+Ciudad : hurlingham
+Telefono : 46621383
+Email : cesar.ironzero@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : busco empleo
+Security_code : fw34z
+Send : Enviar
+
+---------------
+

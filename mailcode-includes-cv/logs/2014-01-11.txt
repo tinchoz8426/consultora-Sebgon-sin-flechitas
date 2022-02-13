@@ -1,0 +1,105 @@
+Address : 201.213.64.121
+Nombre : Juan Carlos
+Apellido : Cuqui Torreblanca
+Cargo : Gerente de RRHH y Relaciones Laborales
+Direccion : Suipacha 257
+Ciudad : Cipolletti
+Telefono : 542994391741
+Email : torreblancacuquijc@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Envio mi CV., para alguna busqueda sobre RRHH y/o Relaciones Laborales.
+Security_code : fgwyf
+Send : Enviar
+
+---------------
+
+Address : 201.253.90.96
+Nombre : Cristian Leonardo
+Apellido : Vega
+Cargo : Empleado
+Direccion : Chapisgasta 8546 Arguello
+Ciudad : Cordoba
+Telefono : 0351 156620202
+Email : Leoo.rocks@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : MUCHAS GRACIAS POR SU ATENCION
+Security_code : CQ8GY
+Send : Enviar
+
+---------------
+
+Address : 201.253.90.96
+Nombre : Cristian Leonardo
+Apellido : Vega
+Cargo : Empleado
+Direccion : Chapisgasta 8546 Arguello
+Ciudad : Cordoba
+Telefono : 0351 156620202
+Email : Leoo.rocks@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : MUCHAS GRACIAS POR SU ATENCION
+Security_code : cq8gy
+Send : Enviar
+
+---------------
+
+Address : 201.253.90.96
+Nombre : Cristian Leonardo
+Apellido : Vega
+Cargo : Empleado
+Direccion : Chapisgasta 8546 Arguello
+Ciudad : Cordoba
+Telefono : 0351 156620202
+Email : Leoo.rocks@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : MUCHAS GRACIAS POR SU ATENCION
+Security_code : dbqnk
+Send : Enviar
+
+---------------
+
+Address : 190.188.174.195
+Nombre : JIMENA GUADALUPE
+Apellido : CHALA
+Cargo : ADMINISTRATIVA
+Direccion : ARENALES 3333
+Ciudad : FLORIDA
+Telefono : 0111540575544
+Email : jimena_527@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Me gustaria contactar con una empresa seria para poder desarrollarme   y crecer en el puesto asignado
+Security_code : 2nznk
+Send : Enviar
+
+---------------
+
+Address : 190.193.248.46
+Nombre : Ileana
+Apellido : Balloni
+Cargo : tecnicon en higiene y seguridad
+Direccion : san lorenzo 1937
+Ciudad : pueblo esther
+Telefono : 03402 15458769
+Email : ileballoni@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : soy técnica en higiene y seguridad y estoy buscando trabajo
+Security_code : qxgtb
+Send : Enviar
+
+---------------
+
+Address : 24.232.170.249
+Nombre : Adrián Alejandro
+Apellido : Paredes
+Cargo : Indistinto
+Direccion : Marconi 1286
+Ciudad : Mar del Plata
+Telefono : 223 - 6341529
+Email : aaparedes@live.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Estoy Desempleado Y Necesito Trabajar, No Importa Cual Fuere El Trabajo A Desarrollar
+Security_code : Kjccj
+Send : Enviar
+
+---------------
+

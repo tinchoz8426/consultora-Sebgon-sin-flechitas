@@ -1,0 +1,147 @@
+Address : 190.17.79.152
+REF : OPM
+Nombre : diego
+Apellido : bolumini
+Cargo : operador maquina envasadora
+Direccion : capital federal
+Ciudad : capital federal
+Telefono : 1138467382
+Email : diegobolumini@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados; adjunto mi CV para la posible incorporación a sus equipos de
+trabajo.
+Sin más atte
+Diego Bolumini
+Security_code : s747d
+Send : Enviar
+
+---------------
+
+Address : 190.230.22.181
+Nombre : Ana Belen 
+Apellido : San Martin
+Cargo : recursos humanos 
+Direccion : Maciel 230
+Ciudad : Cordoba
+Telefono : 157399599
+Email : anis_cba@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Lo que motiva mi interés en la busqueda de trabajo es principalmente crecer en un ámbito laboral que cumpla con mis aspiraciones tanto económica como personales ya que considero de importancia  trabajar con otros, establecer vínculos de respeto, solidaridad y compañerismo que me permita lograr un desarrollo personal sustentado en la experiencia y el aprendizaje continuo.
+Security_code : n9xk3
+Send : Enviar
+
+---------------
+
+Address : 181.110.162.246
+Nombre : Jessica
+Apellido : Cabral
+Cargo : Auxiliar en Recursos Humanos o Secretaria
+Direccion : Rio Suquia 185
+Ciudad : Rio Primero - Córdoba
+Telefono : 03574409126
+Email : jessica.-cabral@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me dirijo a usted para hacerle llegar mi curriculum vitae, en el mismo podrá encontrar mis datos personales, estudios y experiencia laboral.
+
+Deseo poder ser parte de su base de datos ya que estoy interesada en obtener un empleo, como auxiliar en Recursos Humanos, Secretaria o Auxiliar de Administración.
+
+Desde ya muchas gracias.
+
+Saludos Cordiales
+
+Jessica Cabral
+Security_code : g8tyb
+Send : Enviar
+
+---------------
+
+Address : 181.110.162.246
+Nombre : Jessica
+Apellido : Cabral
+Cargo : Auxiliar en Recursos Humanos o Secretaria
+Direccion : Rio Suquia 185
+Ciudad : Rio Primero - Córdoba
+Telefono : 03574409126
+Email : jessica.-cabral@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me dirijo a usted para hacerle llegar mi curriculum vitae, en el mismo podrá encontrar mis datos personales, estudios y experiencia laboral.
+
+Deseo poder ser parte de su base de datos ya que estoy interesada en obtener un empleo, como auxiliar en Recursos Humanos, Secretaria o Auxiliar de Administración.
+
+Desde ya muchas gracias.
+
+Saludos Cordiales
+
+Jessica Cabral
+Security_code : g8tyb
+Send : Enviar
+
+---------------
+
+Address : 186.135.60.28
+REF : SPLO
+Nombre : patricio
+Apellido : silva
+Cargo : supervisor de logistica
+Direccion : 25 de mayo 4109
+Ciudad : Merlo
+Telefono : 0111566302141
+Email : patriciomartinsilva@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : estimada/o, me postulo para esta o futuras busquedas que vayan de acuerdo con mi perfil, estoy a disposicion para entrevista cuando lo dispongan, gracias.
+Security_code : t4qyt
+Send : Enviar
+
+---------------
+
+Address : 181.192.49.136
+Nombre : SAMMY
+Apellido : GUARDAMINO
+Cargo : VENDEDOR ,REPOSITOR
+Direccion : GENERAL MOSCONI
+Ciudad : LOS POLVORINES
+Telefono : 1540268844
+Email : felix_31_9@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : SR/A: 
+          
+                            Me es grato manifestar mi alto interés por formar parte su prestigiosa consultora, dejo adjuntado mi CV, en espera de su
+                               respuesta, le envío un cordial saludo.
+
+                                                            Atte: Sammy Guardamino
+Security_code : 5x8hd
+Send : Enviar
+
+---------------
+
+Address : 181.31.247.170
+Nombre : Lourdes
+Apellido : Herrera
+Cargo : Preceptor
+Direccion : Bv. Los Hungaros 4160 Dpto 2 B° Los Boulevares
+Ciudad : Cordoba
+Telefono : 3513483227
+Email : luli.herrera93@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Contactese en cualquier momento y hora.
+Muchas Gracias
+Security_code : 5yjtm
+Send : Enviar
+
+---------------
+
+Address : 190.55.58.119
+Nombre : Johanna Mariel 
+Apellido : Sacalovich 
+Cargo : Psicóloga
+Direccion : Valentin Gomez 3370 4*24 
+Ciudad : Caba 
+Telefono : 1549481433 
+Email : joysaca@gmail.com 
+MAX_FILE_SIZE : 2097152
+Mensaje : Poseo experiencia en el ámbito clínico y educativo
+Security_code : wfzm4
+Send : Enviar
+
+---------------
+

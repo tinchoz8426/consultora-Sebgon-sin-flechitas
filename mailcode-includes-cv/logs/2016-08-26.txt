@@ -1,0 +1,145 @@
+Address : 200.80.235.92<br>
+ <br>REF : GTEP
+ <br>Nombre : Luis Ernesto
+ <br>Apellido : Coro
+ <br>Cargo : Gerente de Planta
+ <br>Direccion : Freire 1984
+ <br>Ciudad : Caba
+ <br>Telefono : 1541995505
+ <br>Email : ing.lcoro@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados, les envío mis antecedentes personales a fin de ser evaluados en la búsqueda de referencia
+ <br>Security_code : jp66x
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.23.121.139<br>
+ <br>REF : COM
+ <br>Nombre : Paula Cecilia
+ <br>Apellido : Scuzarello
+ <br>Cargo : Vendedor de calle 
+ <br>Direccion : Quesada
+ <br>Ciudad : Capital Federal
+ <br>Telefono : 91150013032
+ <br>Email : pscuzarello@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : CV Scuzarello Paula
+ <br>Security_code : 54pgi
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 200.70.47.178<br>
+ <br>REF : JPL
+ <br>Nombre : Pablo Mauro
+ <br>Apellido : Flores
+ <br>Cargo : Jefe de planta
+ <br>Direccion : Corrientes 1907
+ <br>Ciudad : Martinez
+ <br>Telefono : 1565484687
+ <br>Email : pablomauroflores@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados Sres, agradecería, consideren mis antecedentes, para la búsqueda de referencia
+ <br>Security_code : 4nqjz
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.164.55.102<br>
+ <br>Nombre : david
+ <br>Apellido : martino
+ <br>Cargo : soldador
+ <br>Direccion : j.v.gonzales 1087
+ <br>Ciudad : lomaz de zamora
+ <br>Telefono : 1561457947
+ <br>Email : ee3773717
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje :  soldador cañista especializado con mucha experienciia
+ <br>Security_code : v844m
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.231.205.177<br>
+ <br>REF : OEL
+ <br>Nombre : GERARDO
+ <br>Apellido : LEDESMA
+ <br>Cargo : Oficial Electricista, con experiencia
+ <br>Direccion : Yatay. Nº 783
+ <br>Ciudad : C.A.B.A
+ <br>Telefono : 15 45578768
+ <br>Email : gledesma@dotercom.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados, cuento con amplia experiencia como oficial electricista y cableado estructurado de voz, datos e imagen en cobre y fibra óptica.
+ <br>Security_code : 5qpfm
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.212.161.189<br>
+ <br>Nombre : luciana
+ <br>Apellido : candas
+ <br>Cargo : ATENCION AL CLIENTE
+ <br>Direccion : Ascasubi 5847, Carlos tejedor 3440
+ <br>Ciudad : Carapachay
+ <br>Telefono : 1154183199
+ <br>Email : luciana.candas@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Soy estudiante de diseño de imagen y sonido en la UBA y tengo muchas energías para complementar el estudio con un buen empleo
+ <br>Security_code : 2qj6j
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 179.60.209.183<br>
+ <br>REF : GTEP
+ <br>Nombre : Federico Enrique
+ <br>Apellido : Suriani
+ <br>Cargo : Gerente de Planta
+ <br>Direccion : Avenida Corrientes 4528 4B
+ <br>Ciudad : buenos aires
+ <br>Telefono : 011 15 3666 4901
+ <br>Email : surianifederico@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me dirijo a Uds. en respuesta al aviso publicado en internet el pasado 1 de Agosto, solicitando un Gerente de Planta.
+	Envío adjunto mi CV donde podrán observar que soy Ingeniero Químico con 5 años de experiencia  como Gerente de Producción en La Fármaco Argentina.
+Poseo amplios conocimientos en la gestión operativa de plantas y en la dirección y desarrollo de equipos de mejora. Facilidad para interactuar con clientes internos y externos. Dinámico, con visión global y fuertemente orientado a resultados. Buen manejo de la comunicación y las relaciones interpersonales.
+A la espera de una entrevista personal donde tendré la oportunidad de ampliar lo expuesto, los saluda atte.
+Federico Suriani
+ <br>Security_code : wsdd2
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.221.85.13<br>
+ <br>Nombre : FGSSS
+ <br>Apellido : SS
+ <br>Cargo : SSS
+ <br>Direccion : SSSG
+ <br>Ciudad : sS
+ <br>Telefono : 272752752
+ <br>Email : AFFA.FASD@WDQWD.COM
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : NFGNFGNFGN
+ <br>Security_code : bprks
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 200.45.151.77<br>
+ <br>REF : JP
+ <br>Nombre : Jorge
+ <br>Apellido : Muntaner
+ <br>Cargo : Gerente/Jefe de personal
+ <br>Direccion : Jose Murias 839
+ <br>Ciudad : Haed0
+ <br>Telefono : 01132345500
+ <br>Email : jorgemuntaner@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : - 
+ <br>Security_code : wf7d5
+ <br>Send : Enviar
+ <br>
+---------------
+

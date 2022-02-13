@@ -1,0 +1,31 @@
+Address : 24.232.98.134
+REF : administrativa-compras
+Nombre : analia amalia
+Apellido : salva
+Cargo : administrativa
+Direccion : B° Castañares block Ñ 3° 274 GRUPO 480
+Ciudad : SALTA-CAPITAL
+Telefono : 155381464
+Email : amy-424@hotmail.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Me esmero en mi trabajo aportando todos mi conocimientos y poniendo mucho esmero para aprender y ampliarlos. Soy muy responsable.
+Security_code : mh2tj
+Send : Enviar
+
+---------------
+
+Address : 190.175.96.189
+Nombre : M. Juliana
+Apellido : Paolucci
+Cargo : Administrativa/Recepción
+Direccion : Munilla 2635
+Ciudad : Buenos Aires
+Telefono : 1557251817
+Email : j.paolucci89@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : A quien corresponda, aquí adjunto mi curriculum. Desde ya, muchas gracias. J. Paolucci.
+Security_code : 7hwh7
+Send : Enviar
+
+---------------
+

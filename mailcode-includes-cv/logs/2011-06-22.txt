@@ -1,0 +1,15 @@
+Address : 190.13.254.175
+Nombre : joseph
+Apellido : campos
+Cargo : tecnico dibujante en autocad
+Direccion : los olmos 359
+Ciudad : malvinas argentina
+Telefono : 02320-554216
+Email : tollo1992@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Joven con muchas gabas de trabajr y superacion laboral.
+Security_code : yh94x
+Send : Enviar
+
+---------------
+

@@ -1,0 +1,31 @@
+Address : 190.137.5.101
+REF : electromecanico
+Nombre : Pedro Oscar
+Apellido : Laszczewski
+Cargo : Operario
+Direccion : Rodriguez Peña 2547
+Ciudad : Cordoba
+Telefono : 3516214442
+Email : pedrooscar1970@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Experiencia en manejo de maquinas herramientas,trabajo en lineas de produccion.Disponibilidad fulltime.
+Security_code : 42tjk
+Send : Enviar
+
+---------------
+
+Address : 201.235.7.238
+Nombre : Juan Manuel
+Apellido : Ponte
+Cargo : Varios
+Direccion : Arevalo 2210 6
+Ciudad : Capital Federal
+Telefono : 47765385
+Email : juanmanuelponte@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto mi CV ante para ser considerado en futuras busquedas.
+Security_code : xj7wz
+Send : Enviar
+
+---------------
+

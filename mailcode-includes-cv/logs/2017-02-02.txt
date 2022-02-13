@@ -1,0 +1,181 @@
+Address : 66.249.85.11<br>
+ <br>REF : SP-1
+ <br>Nombre : Alberto Omar
+ <br>Apellido : Spinetti
+ <br>Cargo : Supervisor de producción
+ <br>Direccion : Uriarte 1693
+ <br>Ciudad : José León Suárez
+ <br>Telefono : 1139208185
+ <br>Email : Albsj1@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Tengo disposición inmediata para el puesto ofrecido.
+ <br>Security_code : Dpzk2
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.11<br>
+ <br>REF : SP-1
+ <br>Nombre : Alberto Omar
+ <br>Apellido : Spinetti
+ <br>Cargo : Supervisor de producción
+ <br>Direccion : Uriarte 1693
+ <br>Ciudad : José León Suárez
+ <br>Telefono : 1139208185
+ <br>Email : Albsj1@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Tengo disposición inmediata para el puesto ofrecido.
+ <br>Security_code : Dpzk2
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.167.62.10<br>
+ <br>REF : EP-1
+ <br>Nombre : Federico
+ <br>Apellido : Gómez Forti
+ <br>Cargo : Encargado de Produccion
+ <br>Direccion : Vta de Obligado
+ <br>Ciudad : caba
+ <br>Telefono : 11 5474 0539
+ <br>Email : gomezfortif@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estoy interesado en el puesto, avisenme por favor si mi perfil es el que estan buscando.
+Mucha gracias.
+ <br>Security_code : hhzp8
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 179.41.239.197<br>
+ <br>REF : ROT-1
+ <br>Nombre : Marcelo Daniel
+ <br>Apellido : Reitano
+ <br>Cargo : RESPONSABLE OFICINA TECNICA
+ <br>Direccion : Agrelo 1015
+ <br>Ciudad : Villa Madero
+ <br>Telefono : 4454-0909
+ <br>Email : mdreitano@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me interesa la propuesta. Ofr. Cordiales saludosezco idoneidad y transparencia
+ <br>Security_code : 4zftn
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 179.41.239.197<br>
+ <br>REF : ROT-1
+ <br>Nombre : Marcelo Daniel
+ <br>Apellido : Reitano
+ <br>Cargo : RESPONSABLE OFICINA TECNICA
+ <br>Direccion : Agrelo 1015
+ <br>Ciudad : Villa Madero
+ <br>Telefono : 4454-0909
+ <br>Email : mdreitano@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me interesa la propuesta. Ofr. Cordiales saludosezco idoneidad y transparencia
+ <br>Security_code : 4zftn
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 179.41.239.197<br>
+ <br>REF : ROT-1
+ <br>Nombre : Marcelo Daniel
+ <br>Apellido : Reitano
+ <br>Cargo : RESPONSABLE OFICINA TECNICA
+ <br>Direccion : Agrelo 1015
+ <br>Ciudad : Villa Madero
+ <br>Telefono : 4454-0909
+ <br>Email : mdreitano@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me interesa la propuesta. Ofr. Cordiales saludosezco idoneidad y transparencia
+ <br>Security_code : qhyhh
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 179.41.239.197<br>
+ <br>REF : ROT-1
+ <br>Nombre : Marcelo Daniel
+ <br>Apellido : Reitano
+ <br>Cargo : RESPONSABLE OFICINA TECNICA
+ <br>Direccion : Agrelo 1015
+ <br>Ciudad : Villa Madero
+ <br>Telefono : 4454-0909
+ <br>Email : mdreitano@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me interesa la propuesta. Ofr. Cordiales saludosezco idoneidad y transparencia
+ <br>Security_code : wd8xp
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.195.109.14<br>
+ <br>REF : ROT-1
+ <br>Nombre : Oliver
+ <br>Apellido : Froment
+ <br>Cargo : RESPONSABLE DE OFICINA TECNICA
+ <br>Direccion : Paraguay 3745
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 1121936420
+ <br>Email : oliver.froment@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Saludos
+ <br>Security_code : pmwff
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.171.27.168<br>
+ <br>REF : EP-1
+ <br>Nombre : Sali 
+ <br>Apellido : Casas 
+ <br>Cargo : Encargado de producción
+ <br>Direccion : Av de los constituyentes 5893
+ <br>Ciudad : Capital Federal
+ <br>Telefono : 1124750746
+ <br>Email : sycasasw@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Cordial Saludo.
+Soy  médica veterinaria, especialista en inocuidad y calidad agroalimentaria, con experiencia en producción animal, manufactura de productos alimenticios y conocimientos en las herramientas que permiten el aseguramiento de la calidad de los alimentos en las etapas de producción.  Su oferta me resulta de gran interés. Envío mi  Currículum, a fin de ser tenido en cuenta como candidato.
+Quedo a su disposición para ampliar cualquier información necesaria y  agradezco su atención. 
+Atte.
+Sali Casas
+
+ <br>Security_code : x9gqy
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.193.206.33<br>
+ <br>Nombre : Sebastian Gabriel
+ <br>Apellido : Banchero
+ <br>Cargo : Operario/Encargado
+ <br>Direccion : Psj. Dalia 6456
+ <br>Ciudad : Rosario
+ <br>Telefono : 341-3782421
+ <br>Email : banchero_sebastian@yahoo.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Espero obtener una pronta respuesta por parte de vuestra empresa. Desde ya muchas Gracias.
+ <br>Security_code : xbcpk
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.19.57.154<br>
+ <br>REF : ROT-1
+ <br>Nombre : ignacio
+ <br>Apellido : olivieri
+ <br>Cargo : Gestor
+ <br>Direccion : laprida 1714
+ <br>Ciudad : Buenos aires
+ <br>Telefono : 1534492621
+ <br>Email : ignaciosebasgbs@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola buen dia tengo mas de 5 años de experiencia en Autocad y 3ds Max. Estaria intersado a esta propuesta. Un Saludo Codial!
+ <br>Security_code : 2mwsv
+ <br>Send : Enviar
+ <br>
+---------------
+

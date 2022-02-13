@@ -1,0 +1,60 @@
+Address : 186.59.61.64<br>
+ <br>Nombre : cecilia
+ <br>Apellido : valenzuela
+ <br>Cargo : Administrativa
+ <br>Direccion : ing. mitre 1453
+ <br>Ciudad : temperley
+ <br>Telefono : 15-57297120
+ <br>Email : cecivalenzuela90@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : buenas tardes, envio mi cv para puesto de trabajo encontrado en empleos clarin para administrativa tareas generales en una quimica. ya que por la pagina no me permite postular
+ <br>Security_code : k5tgn
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.19.81.88<br>
+ <br>Nombre : maria cecilia
+ <br>Apellido : cunto
+ <br>Cargo : recepcionista, atención al público, vendedora
+ <br>Direccion : azopardo monoblock 19 B, 2 A
+ <br>Ciudad : Adrogué
+ <br>Telefono : 1169440665
+ <br>Email : cecu1971@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Experiencia en tareas de atención al público, ventas, recepción
+ <br>Security_code : t27cm
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.164.53.47<br>
+ <br>Nombre : Sheila Tamara
+ <br>Apellido : Rost
+ <br>Cargo : Administrativa 
+ <br>Direccion : Lujan 278
+ <br>Ciudad : Llavallol
+ <br>Telefono : 1131839168
+ <br>Email : sheila.t.rost@live.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Disponible para incorporación inmediata
+ <br>Security_code : zdj89
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.164.53.47<br>
+ <br>Nombre : Sheila Tamara
+ <br>Apellido : Rost
+ <br>Cargo : Administrativa 
+ <br>Direccion : Lujan 278
+ <br>Ciudad : Llavallol
+ <br>Telefono : 1131839168
+ <br>Email : sheila.t.rost@live.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Disponible para incorporación inmediata
+ <br>Security_code : zdj89
+ <br>Send : Enviar
+ <br>
+---------------
+

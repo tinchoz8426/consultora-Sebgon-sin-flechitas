@@ -1,0 +1,64 @@
+Address : 200.125.107.224<br>
+ <br>Nombre : Paola Luciana
+ <br>Apellido : Quiña
+ <br>Cargo : Administrativa
+ <br>Direccion : Yapeyú 1547
+ <br>Ciudad : -Longchamps
+ <br>Telefono : 1552575150
+ <br>Email : paoluci@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenos días,les envio mi CV, para el puesto de Adm, que salio en computrabajo, para la zona sur, Burzaco.
+Sin otro particular lo saludo muy atte.
+Paola Quiña
+ <br>Security_code : mf9tq
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.210.231.187<br>
+ <br>Nombre : Corina
+ <br>Apellido : Avalos
+ <br>Cargo : Trabajadora Social
+ <br>Direccion : Moreno 2220
+ <br>Ciudad : CABA
+ <br>Telefono : 1168913009
+ <br>Email : corina-avalos@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Soy Licenciada en Trabajo Social. Me gustaría desempeñarme realizando informes socioambientales a quienes lo requieran. Muchas gracias.
+ <br>Security_code : sgmb8
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.27<br>
+ <br>Nombre : Nancy
+ <br>Apellido : Maya
+ <br>Cargo : Lic en trabajo social
+ <br>Direccion : Larsen 762
+ <br>Ciudad : Buenos aires
+ <br>Telefono : 1133226343
+ <br>Email : nancymaya2009@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Lic en trabajo social, cursando acompañante terapeutico, matrícula nacional y provincial
+ <br>Security_code : yygk6
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.210.26.162<br>
+ <br>Nombre : Jorge 
+ <br>Apellido : Arenas
+ <br>Cargo : Jefe Obras-Mantenimiento
+ <br>Direccion : Av.Juan B.Justo
+ <br>Ciudad : CAPITAL FEDERAL
+ <br>Telefono : 15 3574 9697
+ <br>Email : jorgeoarenas@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Agradeceré la oportunidad de un primer contacto
+
+Atentamente- Jorge Arenas 15-3574-9697
+ <br>Security_code : wk77q
+ <br>Send : Enviar
+ <br>
+---------------
+

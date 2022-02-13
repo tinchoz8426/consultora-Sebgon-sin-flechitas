@@ -1,0 +1,61 @@
+Address : 190.50.193.67<br>
+ <br>REF : JPER-1
+ <br>Nombre : Alejandro 
+ <br>Apellido : De Palma 
+ <br>Cargo : Jefe de Personal (JPER-1)
+ <br>Direccion : Lavalle 82
+ <br>Ciudad : Avellaneda
+ <br>Telefono : 1555070954
+ <br>Email : alejandrorrtt@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Le escribo en respuesta de su aviso de Jefe de Personal publicada en vuestro Portal.
+
+Cuento con 13 años de experiencia en el área de RRHH en la industria alimenticia. 
+
+Mi último puesto fue Jefe de RR.HH. con reporte directo a la Dirección de una Compañía Agroalimenticia con una dotación de 430 empleados. 
+
+A diario trato temas de administración de personal, relaciones laborales, selección, seguridad e higiene, comunicaciones internas y diferentes servicios del área como ser el comedor y la seguridad patrimonial como así también la mejora de políticas y procedimientos del sector.
+
+Soy Lic. en Relaciones del Trabajo, tengo 34 años, resido en Avellaneda –GBA Sur-, y  cuento con movilidad propia.
+
+Desde ya, muchas gracias.
+
+Cordialmente.
+
+Alejandro de Palma.
+
+ <br>Security_code : 9wtxj
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 143.0.78.130<br>
+ <br>Nombre : Marcelo
+ <br>Apellido : Oubiña
+ <br>Cargo : call center o administrativo
+ <br>Direccion : Estanislao del Canmpo 545
+ <br>Ciudad : Avellaneda
+ <br>Telefono : 1521571019
+ <br>Email : marcelojoaquin96@outlook.es
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : tuve experiencia vendiendo seguros en forma telefonica, soy muy responsable, puntual y extrovertido.
+ <br>Security_code : xdhf4
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 24.232.188.11<br>
+ <br>Nombre : Matias
+ <br>Apellido : Perez
+ <br>Cargo : Temporario
+ <br>Direccion : Origone 8446
+ <br>Ciudad : Mar Del Plata
+ <br>Telefono : 2235293496
+ <br>Email : maat.mmdq@live.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : -
+ <br>Security_code : rwsy6
+ <br>Send : Enviar
+ <br>
+---------------
+

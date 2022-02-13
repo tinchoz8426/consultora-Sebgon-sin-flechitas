@@ -1,0 +1,48 @@
+Address : 181.166.172.241<br>
+ <br>Nombre : Martín
+ <br>Apellido : Monaco
+ <br>Cargo : Cadete,Empleado,etc
+ <br>Direccion : Italia
+ <br>Ciudad : Lomas de Zamora
+ <br>Telefono : 1535089118
+ <br>Email : tincho.monaco@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Queriadas personas de Consultoras Sebgon, les dejo mi curriculm. Muchas Gracias,    Martin Monaco
+ <br>Security_code : w2rkm
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.11<br>
+ <br>Nombre : Rocío Ayelen 
+ <br>Apellido : Proz
+ <br>Cargo : REPOSITORA 
+ <br>Direccion : Cuzco 2265
+ <br>Ciudad : HURLINGHAM 
+ <br>Telefono : 1137737083
+ <br>Email : Ayelen.proz@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Espero repuesta 
+ <br>Security_code : 4pbyw
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.29.117.101<br>
+ <br>Nombre : Jorge
+ <br>Apellido : Latorre
+ <br>Cargo : Gerencia o Dirección
+ <br>Direccion : Pedro I. Rivera 2563 8 A
+ <br>Ciudad : CABA
+ <br>Telefono : 1561480041
+ <br>Email : gustavo_latorre@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados.
+Envio mi CV para su consideración.
+Saludos Cordiales.
+Jorge Latorre
+ <br>Security_code : 56Yd6
+ <br>Send : Enviar
+ <br>
+---------------
+

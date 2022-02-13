@@ -1,0 +1,91 @@
+Address : 179.37.214.190
+Nombre : yesica
+Apellido : giordano
+Cargo : comercial/venta/seretaria/atencion al cliente
+Direccion : lituañia 639
+Ciudad : buenos aires
+Telefono : 42649153
+Email : yesica_giordano@yahoo.es
+MAX_FILE_SIZE : 2097152
+Mensaje : poder trabajar en un empresa para ampliar mis conocimientos en el area administrativa.
+Security_code : bpmwt
+Send : Enviar
+
+---------------
+
+Address : 190.173.82.139
+Nombre : David Alejandro
+Apellido : Cardoso
+Cargo : Administrativo-Ventas-Cajero
+Direccion : Esnaola 3614
+Ciudad : San Justo
+Telefono : (011)4484-6612
+Email : david-alej@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola, espero tener una oportunidad laboral con Uds. me siento como en la parte Administrativa y Ventas. Atte. David Cardoso.
+Security_code : 8tm5w
+Send : Enviar
+
+---------------
+
+Address : 179.27.40.35
+Nombre : Alejandra 
+Apellido : Cáceres Lenci
+Cargo : Asistente Legal7Administrativa/Asistente en Seguridad
+Direccion : Daniel Muñoz 2186 bis Ap. 19
+Ciudad : Montevideo/Uruguay
+Telefono : 091359031
+Email : alec82_68@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Solicito ser considerada en futuros Procesos de selección de personal; actualmente me encuentro trabajando en el área de seguridad, medio ambiente y salud de Constructora OAS (Proyecto GNLS del Plata); es de mi interés seguir formándome en el área. Desde ya gracias. Saludos cordiales. 
+Security_code : v2prq
+Send : Enviar
+
+---------------
+
+Address : 181.15.190.219
+Nombre : Paola Tamara
+Apellido : Correa
+Cargo : Abogada- asesoria legal
+Direccion : barrio grippo, calle 208, casa 7025
+Ciudad : Posadas
+Telefono : 3764731175
+Email : paolatcorrea@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Tengo la espectativa de crecer en experiencia, como el integrarme al ámbito social laboral con el fin de obtener un puesto permanente realizando tareas pertinentes a mi profesión, y a la vez de ser lo más eficiente posible en el cumplimiento de los objetivos pretendidos por el lugar en el que me desempeñe.
+Security_code : dmb6n
+Send : Enviar
+
+---------------
+
+Address : 181.26.146.129
+REF : ANCON
+Nombre : Nancy Marina
+Apellido : Luna
+Cargo : Analista contable
+Direccion : Sierra de Guasayan 484
+Ciudad : Monte Grande
+Telefono : 42721538 
+Email : nml7@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados, adjunto mi cv para su consideración en esta o cualquier otra búsqueda en la cual pueda aplicar acorde a mi perfil, soy contadora egresada de la UBA con honores y cuento con amplia experiencias en contabilidad, costos y gestión en empresas multinacionales de primera linea. Muchas gracias, saludos, Nancy.
+Security_code : kjjqj
+Send : Enviar
+
+---------------
+
+Address : 24.232.202.87
+Nombre : Rocio Belen
+Apellido : Lucini
+Cargo : Secretaria
+Direccion : Habana 2958
+Ciudad : CABA
+Telefono : 1166292627
+Email : belenlucini@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Mi nombre es Rocio Lucini, estoy en la busqueda laboral ya sea part time o full time de lunes a viernes turno mañana/tarde. 
+Security_code : 3fgg5
+Send : Enviar
+
+---------------
+

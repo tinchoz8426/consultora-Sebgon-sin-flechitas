@@ -1,0 +1,16 @@
+Address : 190.176.129.164
+Nombre : Ivana
+Apellido : Quintavalla
+Cargo : Lic. o Téc. en Higiene y Seguridad
+Direccion : Lavalle 1460
+Ciudad : Guaymallén - San José
+Telefono : 261 - 155683704      (0261) 4455607
+Email : ivanaquintavalla22@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Mi nombre es Ivana Quintavalla, soy Lic. y Téc. en Higiene y Seguridad en el trabajo. Con el deseo de formar parte de la empresa y ser considerada en posibles oportunidades laborales, adjunto mi CV.
+Saludos
+Security_code : 5jk7c
+Send : Enviar
+
+---------------
+

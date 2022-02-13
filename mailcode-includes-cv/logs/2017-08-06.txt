@@ -1,0 +1,46 @@
+Address : 190.55.145.12<br>
+ <br>Nombre : Carlos
+ <br>Apellido : Aguirre
+ <br>Cargo : tecnico mecanico
+ <br>Direccion : Los pinos
+ <br>Ciudad : Longchamps
+ <br>Telefono : 1553311985
+ <br>Email : carua19ca@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : me postulo a la vacante tecnico mecanico
+ <br>Security_code : 7chfb
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.45.160.173<br>
+ <br>REF : chr
+ <br>Nombre : fernando ariel
+ <br>Apellido : montenegro
+ <br>Cargo : chofer
+ <br>Direccion : ferraroty 437
+ <br>Ciudad : monte grande
+ <br>Telefono : 20861664
+ <br>Email : guadalupe18lu@hotmail.coml
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : me interesa el puesto cuento con total disponibilida para ingreso rapido
+ <br>Security_code : ybmxc
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.128.11.230<br>
+ <br>Nombre : Mariana 
+ <br>Apellido : Ramirez 
+ <br>Cargo : Vacantes acorde a mi perfil
+ <br>Direccion : 25 de mayo 469 las heras
+ <br>Ciudad : Mendoza
+ <br>Telefono : 2615671654
+ <br>Email : marianajramirez1@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Presentacion espontanea : mi cv 
+ <br>Security_code : j6kbk
+ <br>Send : Enviar
+ <br>
+---------------
+

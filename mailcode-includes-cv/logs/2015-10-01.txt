@@ -1,0 +1,84 @@
+Address : 186.19.1.158
+REF : ADM
+Nombre : Marcela
+Apellido : Dubini
+Cargo : Administrativa / Asistente Comercial
+Direccion : Cangallo 856
+Ciudad : Ramos Mejia
+Telefono : 35293533 / 1162820842
+Email : mardubini@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenos dias, adjunto mi CV Para ser tenedida en cuenta para puesto acorde a mi perfil,desde ya muchas gracias.Saludos Cordiales. Marcela Dubini
+Security_code : 2nc9b
+Send : Enviar
+
+---------------
+
+Address : 190.244.166.126
+Nombre : enzo maximiliano
+Apellido : medina
+Cargo : operario
+Direccion : chiclana 933
+Ciudad : campana
+Telefono : 03487-15332167
+Email : enzom.medina@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : buena actitud, ganas de trabajar. 
+Security_code : wphnk
+Send : Enviar
+
+---------------
+
+Address : 186.128.27.29
+Nombre : María Belén
+Apellido : Soberbio
+Cargo : Ingeniero
+Direccion : Remedios Escalada de San Martín 1129
+Ciudad : San Juan
+Telefono : 02645041858
+Email : belensoberbio@live.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados,
+
+Me dirijo a ustedes de la manera más atenta para hacerles llegar mi Curriculum Vitae para que puedan considerarlo en un puesto vacante
+
+Security_code : br4pp
+Send : Enviar
+
+---------------
+
+Address : 181.10.40.218
+REF : JPL
+Nombre : Pablo Barney 
+Apellido : Zicarelli
+Cargo : JPL
+Direccion : White 6960
+Ciudad : Rosario
+Telefono : 341 6727980
+Email : bpz75@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buen dia
+Tengo el agrado de hacerle llegar mi curriculum, ya que me encuentro en la busqueda activa de trabajo para mi crecimiento profesional.
+Mi perfil se adapta a la búsqueda en cuestión, ya que cuento con una amplia experiencia en la dirección de equipos, procesos y gerenciamiento de empresas.
+Agradeceria mucho me tengan en cuenta y entrevisten para conocer todo mi potencial.
+A su disposición, lo saludo muy atte.
+Security_code : s7q48
+Send : Enviar
+
+---------------
+
+Address : 138.97.200.21
+Nombre : Micaela
+Apellido : Herrera
+Cargo : Administracion
+Direccion : Almafuerte 1630
+Ciudad : San Nicolas de los Arroyos
+Telefono : 0336 154672186
+Email : micaela_herrera_1987@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenas noches quisiera obtener un trabajo de medio tiempo
+Security_code : h8kn6
+Send : Enviar
+
+---------------
+

@@ -1,0 +1,104 @@
+Address : 181.46.136.146<br>
+ <br>REF : TM-2
+ <br>Nombre : Carlos
+ <br>Apellido : Aguirre
+ <br>Cargo : fresador
+ <br>Direccion : Los pinos
+ <br>Ciudad : Longchamps
+ <br>Telefono : 1153311985
+ <br>Email : carua19ca@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : me postulo p el puesto de mantenimientos
+ <br>Security_code : q2p5t
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.141.201.125<br>
+ <br>REF : EP-1
+ <br>Nombre : GASTON DAVID
+ <br>Apellido : LEGUIZAMON
+ <br>Cargo : Supervisor
+ <br>Direccion : CIRCUNVALACION 1415
+ <br>Ciudad : GUERNICA
+ <br>Telefono : 1144134149
+ <br>Email : mandatarioleguizamon@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : He trabajado en Bridgestone y he desempeñado las tareas de su búsqueda,he sido también bombero dentro de planta y soy rescatista en espacios confinados he logrado mejoras continúas que hasta La actualidad se siguen aplicando orden y limpieza son mí fuerte y un excelente trato para los operarios y personal sindical mí lema es operario trabajando tranquilo ayuda a q se esmere más por su trabajo hay q escucharlos también para crear un muy buen ambiente laboral y prestar atención en los pedidos de mejora continúa
+ <br>Security_code : 52ztx
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.19.197.198<br>
+ <br>Nombre : Veronica Lucia
+ <br>Apellido : Arizaga
+ <br>Cargo : Indistinto
+ <br>Direccion : olivera lavie 3215
+ <br>Ciudad : Longchamps
+ <br>Telefono : 15218354467
+ <br>Email : vero.arizaga@hotmail.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Envio CV adjunto y me encuentro a entera disponibilidad para desarrollar en cuanto sea necesario.
+ <br>Security_code : 24dfz
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.23.200.130<br>
+ <br>REF : SP-1
+ <br>Nombre : Ricardo Daniel
+ <br>Apellido : Alvarez
+ <br>Cargo : Supervisor o Jefe de Producción
+ <br>Direccion : Av. Rivadavia, 6163
+ <br>Ciudad : CABALLITO
+ <br>Telefono : 1568095863
+ <br>Email : ricardoalvarez_44@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buen día.
+Adjunto mi CV para postularme al puesto de Supervisor de Producción.
+Muchas gracias.
+Saludo muy atte.
+
+Ricardo Alvarez
+ <br>Security_code : q6cdr
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.23.200.130<br>
+ <br>Nombre : Ricardo Daniel
+ <br>Apellido : Alvarez
+ <br>Cargo : Supervisor o Jefe de Producción
+ <br>Direccion : Av. Rivadavia, 6163
+ <br>Ciudad : CABALLITO
+ <br>Telefono : 1568095863
+ <br>Email : ricardoalvarez_44@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buen día.
+Actualmente estoy trabajando, pero buscando un nuevo empleo, como Supervisor o Jefe de Producción.
+Muchas gracias.
+Saludo muy atte.
+
+Ricardo Alvarez 
+
+ <br>Security_code : nmn2z
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.29.84.219<br>
+ <br>Nombre : Cristian nicolas
+ <br>Apellido : medina arijon
+ <br>Cargo : Atencion al cliente
+ <br>Direccion : Pirovano 138
+ <br>Ciudad : Moron
+ <br>Telefono : 1165879487
+ <br>Email : nicolasmedinaa12@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Curriculum
+ <br>Security_code : 2sktp
+ <br>Send : Enviar
+ <br>
+---------------
+

@@ -1,0 +1,91 @@
+Address : 186.18.15.223<br>
+ <br>Nombre : Julieta Anahí
+ <br>Apellido : Mutti Tovar
+ <br>Cargo : Atención al público
+ <br>Direccion : Avenida Entre Ríos 852
+ <br>Ciudad : Capital Federal
+ <br>Telefono : 1122851534
+ <br>Email : julieta_mutti@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Disponibilidad horaria_ lunes a viernes fulltime
+ <br>Security_code : xw9tj
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 178.175.131.194<br>
+ <br>Nombre : Yaisel
+ <br>Apellido : Hurtado
+ <br>Cargo : Administrador de Sistemas Linux | Desarrollador de Software
+ <br>Direccion : La Lisa
+ <br>Ciudad : La Habana, Cuba
+ <br>Telefono : +53 54705670
+ <br>Email : hurta2yaisel@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Soy cubano residente en Cuba, Ingeniero en Ciencias Informáticas, quiero viajar fuera de Cuba para vivir y trabajar en Argentina. Acá les dejo mi CV por si se da alguna oportunidad de trabajo. Saludos.
+ <br>Security_code : g7s9p
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 191.84.73.176<br>
+ <br>Nombre : Alejandro
+ <br>Apellido : Pascual
+ <br>Cargo : Mantenimiento
+ <br>Direccion : Almagro 3970
+ <br>Ciudad : Ituzaingo
+ <br>Telefono : 1559309269
+ <br>Email : alejandropascual83@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas tardes, dejo adjunto mi cv para que lo tengan en cuenta en futuras búsquedas laborales.
+ <br>Security_code : bcxq9
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 191.80.72.245<br>
+ <br>Nombre : Pablo Daniel
+ <br>Apellido : Mehle
+ <br>Cargo : Oficina Técnica / Diseño / Ingeniería
+ <br>Direccion : Ramallo 804
+ <br>Ciudad : Francisco Alvarez
+ <br>Telefono : 011 1534668357
+ <br>Email : pablo_mehle88@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas tardes,
+Adjunto CV con la intención de hallar un puesto de trabajo, acorde a mi perspectiva profesional.
+ <br>Security_code : wswkb
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.194.231.149<br>
+ <br>Nombre : maria florencia
+ <br>Apellido : sauer reynoso
+ <br>Cargo : asistente
+ <br>Direccion : julian alvarez 2749
+ <br>Ciudad : CABA
+ <br>Telefono : 1535040306
+ <br>Email : flor.sauer@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Tengo experiencia el Liderazgo de equipos de trabajo, siempre tuve personal a cargo,me gusta el trabajo en equipo
+ <br>Security_code : hvp7t
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.252.30.248<br>
+ <br>Nombre : Jorge
+ <br>Apellido : Racco
+ <br>Cargo : VENDEDOR
+ <br>Direccion : guido y spano 804
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 1535880110
+ <br>Email : luz_racco@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje :  Maestro mayor de obras, proyecto y dirección de obras, planos, refacción y ampliación. Trabaje en el municipio de 3 de febrero como jefe de departamento de obras viales.Tambien trabaje muchos años como visitador medico, vendedor y corredor.
+ <br>Security_code : mddq4
+ <br>Send : Enviar
+ <br>
+---------------
+

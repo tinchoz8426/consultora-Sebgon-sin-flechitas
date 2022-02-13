@@ -1,0 +1,47 @@
+Address : 190.55.237.18
+Nombre : Viviana Monica
+Apellido : Fanigliulo
+Cargo : Liquidador de sueldos y jornales
+Direccion : Emilio Lamarca 1213
+Ciudad : Caba
+Telefono : 15-5653-2014
+Email : vi642003@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Buen dia, adjunto mi CV para ser incorporado a vuestra base de datos. Muchas gracias.
+Security_code : hdvhp
+Send : Enviar
+
+---------------
+
+Address : 190.55.246.73
+Nombre : Salazar 
+Apellido : Andrea Natalia
+Cargo : auxiliar
+Direccion : Beron de Astrada 
+Ciudad : San Justo
+Telefono : 1565658655
+Email : salazar-natalia@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Dejo mi cv, esperando una pronta respuesta. desde ya muchas gracias.-
+Security_code : 8q9dr
+Send : Enviar
+
+---------------
+
+Address : 201.255.100.155
+REF : contador
+Nombre : Marcela Fabiana
+Apellido : Rodriguez
+Cargo : Trabajo Social
+Direccion : 504 Nº 1153
+Ciudad : M.B.Gonnet - La Plata - Bs.As.
+Telefono : (0221) 15-554-5326
+Email : marcero_05@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenos dias, a traves de una pagina de busqueda de empleo, me entere de la convocatoria de profesionales de Trabajo Social, para realizar socioambientales, a tal fin y en caso que la busqueda de la consultora este dirigida a la ciudad de La Plata y alrededores, por favor tengase presente mi CV, atte. Marcela 
+
+Security_code : tgdrw
+Send : Enviar
+
+---------------
+

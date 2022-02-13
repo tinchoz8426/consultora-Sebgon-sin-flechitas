@@ -1,0 +1,95 @@
+Address : 181.44.139.224<br>
+ <br>REF : chr
+ <br>Nombre : Fabian
+ <br>Apellido : Riz
+ <br>Cargo : chofer
+ <br>Direccion : f.segui 2493
+ <br>Ciudad : Capital Federal
+ <br>Telefono : j1163973711
+ <br>Email : fabian_riz@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : me postulo como chofer
+ <br>Security_code : jqhgp
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.19.130.81<br>
+ <br>Nombre : Domingo
+ <br>Apellido : Gonzalez
+ <br>Cargo : Ingeniero electronico
+ <br>Direccion : SAN LUIS, 2815
+ <br>Ciudad : CIUDAD AUTONOMA BUENOS AIRES
+ <br>Telefono : 1127275078
+ <br>Email : domingo.gonzalezp@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : enfocado a trabajos de automatizacion industrial o telecomunicaciones
+ <br>Security_code : md9s3
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.230.197.145<br>
+ <br>Nombre : stefani
+ <br>Apellido : melgar rodriguez
+ <br>Cargo : marketing o atencion al cliente
+ <br>Direccion : 11 de septiembre 4049
+ <br>Ciudad : mar del plata
+ <br>Telefono : 2236967417
+ <br>Email : stefanimelgar@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : buenas tardes, el trabajo de marketing no mas de 6 hs gracias
+ <br>Security_code : 98w9g
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 5.188.211.21<br>
+ <br>REF : ROT-1
+ <br>Nombre : JimmiNi
+ <br>Apellido : 770005
+ <br>Cargo : huimueHPMOBXy
+ <br>Direccion : FUGkNNzwaxaYAT
+ <br>Ciudad : NY
+ <br>Telefono : 89832393041
+ <br>Email : jimosa4ccf2@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : FnSSyM http://www.FyLitCl7Pf7ojQdDUOLQOuaxTXbj5iNG.com
+ <br>Security_code : n8gqST
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.217.246.149<br>
+ <br>Nombre : Lucas Paul
+ <br>Apellido : Hordodji
+ <br>Cargo : Ingeniero Quimico
+ <br>Direccion : Barrio Banco Hipotecario Mz 75 Pc 13
+ <br>Ciudad : San Bernardo
+ <br>Telefono : 3735411152
+ <br>Email : lucaspaul_1987@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Envio mi cv para ser tenido en cuenta en una oportunidad laboral. Tengo disponibilidad para radicarme en cualquier punto del país. 
+ <br>Security_code : jwzz2
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.191.102.81<br>
+ <br>REF : ROT-1
+ <br>Nombre : Antonieta
+ <br>Apellido : Bianchi
+ <br>Cargo : Responsable de Oficina Técnica
+ <br>Direccion : Belgrano 448
+ <br>Ciudad : Lomas de Zamora
+ <br>Telefono : 91143923691
+ <br>Email : antubianchi@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buen día,
+Estoy interesada en el puesto. Adjunto está mi CV.
+Muchas gracias.
+ <br>Security_code : r4fqr
+ <br>Send : Enviar
+ <br>
+---------------
+

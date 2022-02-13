@@ -1,0 +1,145 @@
+Address : 190.14.175.227
+Nombre : Marjorie
+Apellido : Gonzalez
+Cargo : Indistisnto-área Minería o Petróleo
+Direccion : 144 Victorica, Los Tordos
+Ciudad : Cipolletti
+Telefono : 154320540
+Email : laboratorio.m.vasquez@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Gracias
+Security_code : vrdgp
+Send : Enviar
+
+---------------
+
+Address : 190.14.175.227
+Nombre : Marjorie
+Apellido : Gonzalez
+Cargo : Indististinto- Área mineria o petróleo
+Direccion : 144 Victorica, Los Tordos
+Ciudad : Cipolletti
+Telefono : 02995340523
+Email : laboratorio.m.vasquez@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : gracias
+Security_code : cv7ry
+Send : Enviar
+
+---------------
+
+Address : 190.31.235.99
+Nombre : juan ignacio
+Apellido : cunille
+Cargo : administrativo
+Direccion : avenida maipu 3684 1 a
+Ciudad : buenos aires
+Telefono : 1524542035
+Email : jcunille@hotmail.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : me gustaria trabajar en el area administrativa de la empresa, donde tengo mi mayor experiencia laboral
+Security_code : sb9wj
+Send : Enviar
+
+---------------
+
+Address : 186.128.30.100
+Nombre : Pablo Leonardo
+Apellido : Simon
+Cargo : operario
+Direccion : Fausto arenas 351
+Ciudad : Rivadavia
+Telefono : 0263-4445381//2634685072
+Email : plsnardo@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola, estoy en la busqueda de trabajo, tengo experiencia en bodega, fraccionmiento y/o mantenimiento, se soldar, electricidad,estoy dispuesto a trajajar en cualquier puesto q de requiera o ha aprender otra cosa comopor ejemplo en una empresa petrolera como aprendis. desde ya muchas gracias.
+Security_code : fb5mz
+Send : Enviar
+
+---------------
+
+Address : 186.23.34.56
+Nombre : Sergio Alejandro
+Apellido : Gonzalez
+Cargo : Supervisor, Team Leader, Administrativo
+Direccion : Vilela 2217 1° A
+Ciudad : Capital Federal
+Telefono : 1555275899
+Email : gonzalez.sergioalejandro@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados, buenos día.
+Les adjunto copia de mi Curricum Vitae para que sea incorporado dentro de su base de datos.
+Me considero una persona emprendedora, carismática, dinámica y responsable; con ganas de asumir desafíos y con un excelente manejo de las relaciones interpersonales; tengo facilidad en el aprendizaje de tareas en general y me integro con facilidad en distintos equipos de trabajo. Cuento con experiencia en la gestión de equipos, planeamiento e implementación de procesos de mejora, con certificación en ITIL y sólidos conocimientos en norma COPC.
+Durante mis 10 años de experiencia he prestado servicios para empresas de los rubros salud, banca y finanzas, automotriz y help desk; con exposición a clientes internos y externos
+Desde ya muchas gracias.
+Saluda a Uds. Atte.
+Security_code : c6r9g
+Send : Enviar
+
+---------------
+
+Address : 186.23.34.56
+Nombre : Sergio Alejandro
+Apellido : Gonzalez
+Cargo : Supervisor, Team Leader, Administrativo
+Direccion : Vilela 2217 1° A
+Ciudad : Capital Federal
+Telefono : 1555275899
+Email : gonzalez.sergioalejandro@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados, buenos día.
+Les adjunto copia de mi Curricum Vitae para que sea incorporado dentro de su base de datos.
+Me considero una persona emprendedora, carismática, dinámica y responsable; con ganas de asumir desafíos y con un excelente manejo de las relaciones interpersonales; tengo facilidad en el aprendizaje de tareas en general y me integro con facilidad en distintos equipos de trabajo. Cuento con experiencia en la gestión de equipos, planeamiento e implementación de procesos de mejora, con certificación en ITIL y sólidos conocimientos en norma COPC.
+Durante mis 10 años de experiencia he prestado servicios para empresas de los rubros salud, banca y finanzas, automotriz y help desk; con exposición a clientes internos y externos
+Desde ya muchas gracias.
+Saluda a Uds. Atte.
+Security_code : c6r9g
+Send : Enviar
+
+---------------
+
+Address : 200.80.233.234
+Nombre : Flavio
+Apellido : Chiarot
+Cargo : Empleado;Areas SEguros o Gestoria
+Direccion : Oro 1400
+Ciudad : Ramos Mejia
+Telefono : 01143053426
+Email : rsandra@agremiados.com.at
+MAX_FILE_SIZE : 2097152
+Mensaje : Presento a Uds mi CV quedando a la espera de poder concretar entrevista para futuras busquedas laborales. Atentamente.-
+Security_code : cvs2s
+Send : Enviar
+
+---------------
+
+Address : 186.58.74.109
+Nombre : Micaela Belen
+Apellido : Acevedo
+Cargo : Limpieza - Niñera
+Direccion : Hilario de Almeira
+Ciudad : Buenos Aires
+Telefono : 46267631
+Email : mikaa_alem_15@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Busco Trabajo urgente.Analitico en mano y Profesora de Danza Tambien con titulo en mano.
+Security_code : cqv8d
+Send : Enviar
+
+---------------
+
+Address : 190.183.183.107
+Nombre : Hector Anibal
+Apellido : Galeano
+Cargo : Asesor en sistemas de seguridad
+Direccion : Cocepción del Bermejo
+Ciudad : Resistencia
+Telefono : 362-4239553
+Email : Hectoranibal2000@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Soy ampliamente capas de desarrollar dicha tarea
+Security_code : kmptt
+Send : Enviar
+
+---------------
+

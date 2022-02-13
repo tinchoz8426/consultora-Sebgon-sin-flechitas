@@ -1,0 +1,98 @@
+Address : 201.250.109.121
+Nombre : Diego 
+Apellido : Ross
+Cargo : Jefatura / Supervisión
+Direccion : Centenera 1363
+Ciudad : Capital 
+Telefono : 49229490
+Email : arossdiego@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados:
+ 
+Tengo el agrado de dirigirme a Uds. con el objeto de que puedan tener en consideración mi CV, que adjunto en el mail, para el caso de tener alguna búsqueda relacionada con mi perfil.
+
+ 
+En base a mi experiencia laboral, en la cual desarrollé mis funciones por 13 años, como Jefe de la Central de Monitoreo, Operaciones y Call Center en la Empresa Prosegur, además de ser Encargado de un local gastronómico durante otros 5 años, considero que reúno las capacidades necesarias para cumplir de forma efectiva con cualquier trabajo en el cual se requiera una persona para liderar, controlar e instruir equipos de trabajo.
+
+ 
+Mi posición en Prosegur tenía a cargo 60 personas, divididas en 7 equipos de trabajo, que controlaban la seguridad patrimonial de 52000 abonados. Entre mis funciones se encontraban tres que considero fundamentales para el desenvolvimiento efectivo de todo emprendimiento: el Coaching permanente al personal, el control de las estadísticas de trabajo y la constante evaluación y optimización de las normativas de procedimiento. 
+ 
+En Diluna, emprendimiento gastronómico, tenía a cargo a 8 personas, además del manejo de proveedores, así como también el control de stock y de los procesos de compras de materias primas.
+ 
+Por último, mi formación Docente (Profesor de Educación Física) y mi experiencia como Entrenador deportivo (entrenador de equipos de voleibol desde hace 20 años), hacen que el concepto de trabajo en equipo y la formación y capacitación permanente sean pilares fundamentales de mi estrategia en la conducción de grupos.
+ 
+  
+ 
+Estaría sumamente agradecido de poder formar parte de alguna selección.
+ 
+ 
+Diego Fernando Ross
+
+
+Security_code : tfwnq
+Send : Enviar
+
+---------------
+
+Address : 190.189.72.4
+Nombre : OLGA MIRIAM
+Apellido : PEREZ
+Cargo : TRABAJADORA SOCIAL
+Direccion : FRANCIA 575
+Ciudad : MAR DEL PLATA
+Telefono : (0223) 4753934/ 154-987460
+Email : olgamp2@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Tengo experiencia profesional en la realizacion de informes socioambientales.
+Poseo movilidad propia y posibilidades de traslado a localidades cercanas a Mar del Plata.
+Estoy inscripta como monotributista y poseo  recibo oficial.
+Security_code : tgvwb
+Send : Enviar
+
+---------------
+
+Address : 190.179.195.190
+Nombre : Laura Sol
+Apellido : Gross
+Cargo : Pasante Ing. Industrial
+Direccion : Los Sauces 742
+Ciudad : Las Heras 
+Telefono : 0261-156954983
+Email : laurasolgross@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Acabo de terminar de rendir la totalidad de las materias de mi carrera, por lo que me encuentro en busca de pasantías.
+Security_code : qkhnv
+Send : Enviar
+
+---------------
+
+Address : 190.50.33.250
+Nombre : Florencia
+Apellido : Paoletti
+Cargo : Trabajadora Social
+Direccion : 155 nº 1619
+Ciudad : La Plata
+Telefono : 221-4508146
+Email : floppy_4a@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Les envio mi CVC para personal socioambiental o para cualquier actividad que requiera de mi profesion.Desde ya muchas gracias.
+Security_code : dmgzq
+Send : Enviar
+
+---------------
+
+Address : 190.31.49.220
+Nombre : Francisco Enrique 
+Apellido : Arcadi
+Cargo : operario
+Direccion : Schweitzer 7780
+Ciudad : Rosario
+Telefono : 4512967
+Email : micaela.arc@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : nececito trabjar
+Security_code : pr28q
+Send : Enviar
+
+---------------
+

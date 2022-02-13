@@ -1,0 +1,176 @@
+Address : 168.197.200.3<br>
+ <br>Nombre : Darian
+ <br>Apellido : Saraceno
+ <br>Cargo : tecnico en seguridad e higiene, licenciado en diagnostico y gestion ambiental
+ <br>Direccion : paz 51 
+ <br>Ciudad : tandil
+ <br>Telefono : 0231415443480
+ <br>Email : dariansaraceno@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : buenas tardes, les dejo mi cv, con el fin de obtener una entrevista laboral, resido en tandil, soy tecnico en seguridad e higiene.
+ <br>Security_code : f5gj7
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.179.162.75<br>
+ <br>REF : JPER-1
+ <br>Nombre : Roberto
+ <br>Apellido : Quirico
+ <br>Cargo : Jefe de personal
+ <br>Direccion : Guardia Nacional
+ <br>Ciudad : argentina
+ <br>Telefono : 1133774874
+ <br>Email : robertoquirico.rq@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Soy la persona
+ <br>Security_code : S2y3c
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.38.44.215<br>
+ <br>REF : ACO
+ <br>Nombre : Nelson
+ <br>Apellido : Inciarte
+ <br>Cargo : Asesor Comercial
+ <br>Direccion : Wenceslao de Tata 4561 7¨ A Caseros. Localidad Tres de Febrero
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 91127121653
+ <br>Email : ninciarte75@yahoo.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Poseo mas 20 años de experiencia en Ventas en consumo masivo y el área Industrial. preparacio con nielsen, Omega Air, Airtac Pneumatic, Schneider (Telemecanique)
+ <br>Security_code : q92gv
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 165.227.32.9<br>
+ <br>REF : ACO-1
+ <br>Nombre : Darwin Jose 
+ <br>Apellido : Gil Malave
+ <br>Cargo : Asistente Comercial
+ <br>Direccion : San José de Calasánz 752
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 116909 3316
+ <br>Email : josedarwin_gil@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas, 
+
+Envio mi Curriculum para la vacante de Asistente Comercial. 
+
+Licdo. Darwin Gil 
+ <br>Security_code : 464ym
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.167.101.7<br>
+ <br>REF : ACO-1
+ <br>Nombre : Carlos Maria
+ <br>Apellido : Marturet
+ <br>Cargo :  Compartir en redes sociales Mostrar más opciones ANALISTA DE COMERCIO INTERNACIONAL/EXTERIOR
+ <br>Direccion : AV GARCIA DEL RIO 2687 CABA
+ <br>Ciudad : CABA
+ <br>Telefono : 1562989795
+ <br>Email : carmarturet@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : ANALISTA DE COMERCIO INTERNACIONAL/EXTERIOR
+ <br>Security_code : xsmz5
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.135.132.68<br>
+ <br>REF : ACO
+ <br>Nombre : Ana
+ <br>Apellido : Arduini
+ <br>Cargo : Recepcionista
+ <br>Direccion : S.Bustamante 223
+ <br>Ciudad : Capital Federal
+ <br>Telefono : 1536151647
+ <br>Email : italiaapa@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados,
+He visto la Oferta Laboral publicada y la misma me resultó de gran interés. 
+Por este motivo, les hago llegar mi Currículum Vitae, a fin de ser tenida en cuenta como candidata.
+Quedo a su disposición para ampliar cualquier información necesaria.
+Cordialmente,
+Ana Arduini
+
+ <br>Security_code : 8p833t
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 168.90.86.180<br>
+ <br>REF : ACO-1
+ <br>Nombre : Fabricio 
+ <br>Apellido : Grisolía 
+ <br>Cargo : Analista en comercio internacional 
+ <br>Direccion : Pablo Coster 1176
+ <br>Ciudad : Bella vista, Buenos Aires 
+ <br>Telefono : 1535078666
+ <br>Email : Fabri.grisolia@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Actualmente sin trabajo 
+ <br>Security_code : W5xwd
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 168.90.86.180<br>
+ <br>REF : ACO-1
+ <br>Nombre : Fabricio 
+ <br>Apellido : Grisolía 
+ <br>Cargo : Analista en comercio internacional 
+ <br>Direccion : Pablo Coster 1176
+ <br>Ciudad : Bella vista, Buenos Aires 
+ <br>Telefono : 1535078666
+ <br>Email : Fabri.grisolia@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Actualmente sin trabajo 
+ <br>Security_code : W5xwd
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 168.90.86.180<br>
+ <br>REF : ACO-1
+ <br>Nombre : Fabricio 
+ <br>Apellido : Grisolía 
+ <br>Cargo : Analista en comercio internacional 
+ <br>Direccion : Pablo Coster 1176
+ <br>Ciudad : Bella vista, Buenos Aires 
+ <br>Telefono : 1535078666
+ <br>Email : Fabri.grisolia@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Actualmente sin trabajo 
+ <br>Security_code : w5xwd
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.47.136.239<br>
+ <br>REF : ROT-1
+ <br>Nombre : Oliver
+ <br>Apellido : Froment
+ <br>Cargo : Responsable Oficina Tecnica
+ <br>Direccion : Yatay 549
+ <br>Ciudad : Buenos Aires
+ <br>Telefono : 1121936420
+ <br>Email : oliver.froment@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados.
+ 
+Es para mí un gran gusto saludarles. Les Escribo porque me encuentro en búsqueda de un empleo que me permita continuar con mi crecimiento profesional, como Ingeniero Civil, les comento que para mí es sumamente valiosa cualquier oportunidad de empleo que me permitan demostrar mis habilidades y capacidades de trabajo.
+
+
+Les adjunto mi Hoja de Vida, donde podrán encontrar un resumen de las actividades que he desarrollado al igual que mis habilidades y destrezas.
+ 
+Muchas gracias por su colaboración
+ <br>Security_code : m6pwx
+ <br>Send : Enviar
+ <br>
+---------------
+

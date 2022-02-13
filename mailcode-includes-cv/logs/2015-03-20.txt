@@ -1,0 +1,71 @@
+Address : 181.28.189.242
+Nombre : ARMANDO MARCELO
+Apellido : DIAZ
+Cargo : INDIFERENTE
+Direccion : LARREA 
+Ciudad : CASEROS
+Telefono : 1565928256
+Email : armandoymay@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : SOLICITO EMPLEO PARA SOLVENTAR GASTOS DE MI FAMILIA
+Security_code : SS8TP
+Send : Enviar
+
+---------------
+
+Address : 190.137.230.114
+Nombre : Mariana Gabriela
+Apellido : Rojas
+Cargo : Administrativa
+Direccion : Las Piedras 1026
+Ciudad : San Miguel de Tucuman
+Telefono : 3814628886
+Email : mgr_007@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Envio mi Cv
+Security_code : 873jy
+Send : Enviar
+
+---------------
+
+Address : 186.134.60.188
+Nombre : Guillermo
+Apellido : Sosnitsky
+Cargo : Administrativo
+Direccion : ALGARROBOS 1079
+Ciudad : Buenos Aires - Parque Leloir
+Telefono : 4621-8265
+Email : guillesos@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenos Aires 20 de Marzo de 2015
+ 
+ Sres.: Segbon
+
+
+De mi consideración.
+
+En este primer contacto con ustedes, me complace adjuntar mi curriculum para el conocimiento de mis antecedentes.
+
+Al respecto, agradezco que ustedes incorporen tales antecedentes en su
+base de datos, de tal forma de ser considerado como candidato potencial en
+aquellas búsquedas que se adecuen al perfil descripto.
+
+Como indica mi currículum vitae, adjunto al presente, soy un joven de 34 años con actitud proactiva, organizado, tenaz y adaptable a diferentes entornos laborales. Actualmente me encuentro en 2do. Año de la carrera de Abogacía en la Universidad Argentina de la Empresa, cuento con un buen nivel de Ingles y un excelente manejo de herramientas informáticas (Word, Excel, PowerPoint, Access).
+
+Se completa mi perfil con una variada experiencia en el área de seguros, en tareas administrativas, con productores de seguros he desempeñado tareas de seguimiento de siniestros, en una importante compañía de seguros he desempeñado tareas de emisión de pólizas del ramo automotor y riesgos varios, con organizadores de seguros me he desempeñado como analista de siniestros, y en una importante productora de espectáculos tareas de administración.
+
+Desde ya, me complacerá mantener con ustedes las entrevistas que consideren
+necesarias.
+
+A la espera de sus novedades, lo saludo atentamente.
+ 
+Guillermo Sosnitsky
+156-266-4323 (Móvil)
+4621-8265 (Mensajes)
+guillesos@hotmail.com 
+
+Security_code : scg5q
+Send : Enviar
+
+---------------
+

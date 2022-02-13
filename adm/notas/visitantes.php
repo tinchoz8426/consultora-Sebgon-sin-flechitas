@@ -1,0 +1,1 @@
+$eldiadehoy=$_POST['ANIOFECHA']."-".$_POST['MESFECHA']."-".$_POST['DIAFECHA'];

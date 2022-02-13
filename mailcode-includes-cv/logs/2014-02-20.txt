@@ -1,0 +1,50 @@
+Address : 201.212.246.127
+REF : GERENTE-DE-SUPPLY-CHAIN
+Nombre : MAXIMILIANO
+Apellido : LOZA
+Cargo : GTE. SUPPLY CHAIN
+Direccion : Pringles 4184
+Ciudad : Florida
+Telefono : 15 5759-9715
+Email : maximilianoloza@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Les adjunto mi cv con mis antecedentes personales y me encuentro a vuestra disponibilidad para una futura entrevista.
+Security_code : z5t2h
+Send : Enviar
+
+---------------
+
+Address : 107.150.1.247
+Nombre : matt
+Apellido : 425358
+Cargo : GiFhoyepyYUPg
+Direccion : tBHbWzkFPuNTI
+Ciudad : NY
+Telefono : 92624586747
+Email : sbdh47tf@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : 7moWLW http://www.MHyzKpN7h4ERauvS72jUbdI0HeKxuZom.com
+Security_code : AMWc47
+Send : Enviar
+
+---------------
+
+Address : 190.49.187.21
+Nombre : Hector Fernando
+Apellido : Benitez
+Cargo : Cadete Administrativo
+Direccion : Virgilio 395
+Ciudad : Lomas de Zamora
+Telefono : 42830466
+Email : hector.fernando.benitez@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenas Tardes
+Enfoco mi busqueda en un puesto de cadete administrativo, me encuentro realizando la carrera de Lic Psicologia y participando de cursos para una futura proyeccion.
+Adjunto mi c.v
+
+Saludo Cordial 
+Security_code : qx5kt
+Send : Enviar
+
+---------------
+

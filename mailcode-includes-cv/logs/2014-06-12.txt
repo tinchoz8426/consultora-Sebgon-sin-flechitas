@@ -1,0 +1,61 @@
+Address : 190.55.21.241
+Nombre : Elizabeth Andrea
+Apellido : Morrone
+Cargo : Administrativa/Recepcionista
+Direccion : Castro 1131 3º B
+Ciudad : Capital Federal
+Telefono : 1564211075
+Email : legolas4977@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenos dias. Adjunto mi CV para futuras busquedas laborales.
+Security_code : yg3br
+Send : Enviar
+
+---------------
+
+Address : 186.137.84.57
+Nombre : RODOLFO MAXIMILIANO
+Apellido : IBAÑEZ
+Cargo : RRHH
+Direccion : Moldes 2658 5 D
+Ciudad : C.A.B.A.
+Telefono : 4543-8480
+Email : maxiiiba@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Elevo adjunto mi CV a efectos de ser tenido en cuenta en alguna futura búsqueda laboral-
+Atte
+Security_code : rkx32
+Send : Enviar
+
+---------------
+
+Address : 186.134.75.47
+Nombre : Diego Martin
+Apellido : Lescano
+Cargo : Operario
+Direccion : N. Davila 1375
+Ciudad : Rafael Castillo
+Telefono : 44761357
+Email : lescanito@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Disponibilidad de horarios, responsabilidad.
+Security_code : v9m96
+Send : Enviar
+
+---------------
+
+Address : 186.134.75.47
+Nombre : Diego Martin
+Apellido : Lescano
+Cargo : Operario
+Direccion : N. Davila 1375
+Ciudad : Rafael Castillo
+Telefono : 44761357
+Email : lescanito@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Disponibilidad de horarios, responsabilidad.
+Security_code : wnddh
+Send : Enviar
+
+---------------
+

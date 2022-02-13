@@ -1,0 +1,76 @@
+Address : 83.43.26.71
+Nombre : Andrea
+Apellido : Llompart Guiao
+Cargo : Administrativa, otros
+Direccion : C/ Vascongadas 55 2º B
+Ciudad : Puero del Rosario
+Telefono : 0034-649393764
+Email : andreallompartguiao@yahoo.es
+MAX_FILE_SIZE : 2097152
+Mensaje : Quiero volver a Argentina.
+Security_code : mfdsf
+Send : Enviar
+
+---------------
+
+Address : 83.43.26.71
+Nombre : Luciano
+Apellido : Dévora Arteaga
+Cargo : Recursos Humanos, otros
+Direccion : C/ Vascongadas 55 2º B
+Ciudad : Puerto del Rosario
+Telefono : 0034- 649664113
+Email : granca_1984@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Soy Diplomado en Relaciones Laborales, y mi novia es Argentina, desearía poder trabajar en Argentina, ya que actualmente en España me encuentro desempleado.
+Security_code : b9bb9
+Send : Enviar
+
+---------------
+
+Address : 83.43.26.71
+Nombre : Luciano
+Apellido : Dévora Arteaga
+Cargo : Recursos Humanos, otros
+Direccion : C/Vascongadas 55 2º B
+Ciudad : Puerto del Rosario
+Telefono : 0034-649664113
+Email : granca_1984@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Deseo irme para Argentina a trabajar
+Security_code : 4dqr5
+Send : Enviar
+
+---------------
+
+Address : 83.43.26.71
+Nombre : luciano
+Apellido : dévora arteaga
+Cargo : recursos humanos, otros
+Direccion : vascongadas 55 2º b
+Ciudad : puerto del rosario
+Telefono : 0034-649664113
+Email : granca_1984@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Deseo trabajar en argentina
+Security_code : 2rz6p
+Send : Enviar
+
+---------------
+
+Address : 186.60.22.127
+REF : tecnico-electornico
+Nombre : leandro
+Apellido : alberdi
+Cargo : tecnico-electromecanico
+Direccion : canada 76 
+Ciudad : bahia blanca
+Telefono : 0291-154238787
+Email : ruso_alberdi@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : ..
+Security_code : nyy53
+Send : Enviar
+
+---------------
+

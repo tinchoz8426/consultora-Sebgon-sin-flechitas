@@ -1,0 +1,92 @@
+Address : 200.117.34.152
+Nombre : ricardo cesar
+Apellido : canteros
+Cargo : encargado de mantenimiento mecanico
+Direccion : Barrio las Marias II
+Ciudad : San Salvador de Jujuy
+Telefono : 0388615400138
+Email : ruizmar1978@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Busco trabajo en cualquier punto del pais.
+Security_code : wjf4k
+Send : Enviar
+
+---------------
+
+Address : 186.57.158.45
+Nombre : Judith daiana
+Apellido : Diaz
+Cargo : administracion, recepcionista
+Direccion : Thorne 1250
+Ciudad : buenos aires
+Telefono : 1549745745
+Email : yuly_1155@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola me llamo Judith y me encantaría encontrar un trabajo en blanco, soy muy responsable y aprendo muy rápido lo que me asignen.
+Security_code : wj6x3
+Send : Enviar
+
+---------------
+
+Address : 201.251.125.53
+Nombre : carlos
+Apellido : cordero
+Cargo : auditor o administrativo
+Direccion : iturri 1816
+Ciudad : Merlo, buenos aires, argentina
+Telefono : 011-1565460636
+Email : solrac_8788@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estoy muy interesado en el puesto para auditor interno en massalin particulares s.a. en la planta en Merlo, ya que estoy capacitado para el puesto y me es muy cercano a mi domicilio y es una empresa Multinacional en la cual se puede Progresar y crecer profecionalmente.
+desde ya muchas gracias por recibir mi solicitud.
+atte. Carlos
+Security_code : wtsjf
+Send : Enviar
+
+---------------
+
+Address : 181.29.206.238
+Nombre : Tamara
+Apellido : Mercado
+Cargo : Atención al público
+Direccion : Robin Ferreyra 3834
+Ciudad : Córdoba Capital
+Telefono : 351-155150198
+Email : tamaramercado1611@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Les dejo mi currículo para cualquier pedido laboral, en el que mi experiencia sea útil para tal. Desde ya muchas gracias 
+Security_code : p8d7v
+Send : Enviar
+
+---------------
+
+Address : 190.183.62.76
+Nombre : Juan
+Apellido : Barbosa
+Cargo : Aministrativo, asistente
+Direccion : Pasaje Martinez 2612
+Ciudad : Santa Fe
+Telefono : 3437412088
+Email : juanjbarbosa@outlook.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Busqueda  de empleo
+Security_code : 39qc6
+Send : Enviar
+
+---------------
+
+Address : 201.180.104.231
+Nombre : Yamila
+Apellido : Pasten
+Cargo : Administrativa
+Direccion : Antequera 235
+Ciudad : Merlo
+Telefono : 0111530353649
+Email : yampasten@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : .
+Security_code : ch6fs
+Send : Enviar
+
+---------------
+

@@ -1,0 +1,32 @@
+Address : 66.249.85.9<br>
+ <br>REF : TECME
+ <br>Nombre : Gonzalo
+ <br>Apellido : Ruiz
+ <br>Cargo : Responsable Comercial Regional
+ <br>Direccion : Apolinario rivas 1238
+ <br>Ciudad : Cordoba 
+ <br>Telefono : 3513733456
+ <br>Email : gon.ruiz@hotmail.com 
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Adjunto CV para ser analizado ante próximas búsquedas comerciales.
+Gracias 
+ <br>Security_code : j2bvz
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.59.163.73<br>
+ <br>Nombre : Yesica Soledad
+ <br>Apellido : Vidoz
+ <br>Cargo : Técnico en higiene y seguridad en el trabajo
+ <br>Direccion : calle 42 numero 5160
+ <br>Ciudad : Berazategui
+ <br>Telefono : 0221-5773093
+ <br>Email : ysvidoz@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola mi nombre es Yesica Vidoz, estoy recien recibida de técnica superior en higiene y seguridad en el trabajo, me interesaria poder ocupar un puesto de trabajo en SEBGON.Desde ya muchas gracias.
+ <br>Security_code : f2tgx
+ <br>Send : Enviar
+ <br>
+---------------
+

@@ -1,0 +1,48 @@
+Address : 190.55.130.244
+Nombre : Pablo
+Apellido : Di Alessandro
+Cargo : -
+Direccion : Cuenca 2300
+Ciudad : Ciudad Autonoma de Buenos Aires
+Telefono : 45012394
+Email : pablodialessandro@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : A quien corresponda
+
+                                                   Adjunto mi currículum vitae con fin de ser ingresado en vuestra base de datos
+para futuras búsquedas de personal técnico.
+                                                   Desde ya agradezco su atención y aprovecho la oportunidad para enviarle mis
+cordiales saludos.
+
+                                                   Atte.
+                                                   Pablo Di Alessandro
+
+Security_code : qyvk7
+Send : Enviar
+
+---------------
+
+Address : 190.220.169.21
+Nombre : Christian
+Apellido : Maynard
+Cargo : Empleado administrativo
+Direccion : Catamarca 131
+Ciudad : Mendoza
+Telefono : 02615266259
+Email : chmaynard20@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenos días.
+
+
+Le envío mi CV para que puedan tenerlo en cuenta desde su base de datos.
+
+
+Saludos. 
+
+
+Christian Maynard. 
+Security_code : yzkg4
+Send : Enviar
+
+---------------
+

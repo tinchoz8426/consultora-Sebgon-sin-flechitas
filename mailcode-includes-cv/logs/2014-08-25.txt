@@ -1,0 +1,322 @@
+Address : 87.223.4.39
+Nombre : Jorge Rubén
+Apellido : Fernández
+Cargo : Ingeniero Agrónomo
+Direccion : Melcior de Guardia 30, 2do.-3ra.
+Ciudad : Almacelles (España)
+Telefono : +34-973740112
+Email : jorgefndez@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Busco trabajo en mi profesión. Tengo la intención de retornar al país. Un saludo atento.
+Security_code : 96c8m
+Send : Enviar
+
+---------------
+
+Address : 190.192.133.26
+Nombre : Claudio Oscar
+Apellido : Rilo
+Cargo : Chofer Ejecutivo
+Direccion : Burela 1670
+Ciudad : Capital Federal
+Telefono : 011-6700-0778
+Email : claudiorilo@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimado Selector,
+Le escribo en respuesta al aviso publicado, a fin de hacerle llegar mis antecedente para la posición de Chofer Ejecutivo.
+Como podrá observar en el Curriculum Vitae adjunto, tengo un muy buen nivel de inglés, experiencia en la posición en empresas de primera línea y conocimiento de diversas herramientas informáticas que incluyen Office e Internet.
+En cuanto a mis características personales, se destacan la flexibilidad y la buena predisposición para trabajar en equipo. Soy una persona discreta y confiable.
+Quedo a disposición para realizar las entrevistas que Ud. considere necesarias.
+Saludos cordiales,
+
+Claudio Rilo
+
+Security_code : f998d
+Send : Enviar
+
+---------------
+
+Address : 190.226.125.153
+Nombre : denise sofia
+Apellido : fogolin
+Cargo : recepcion
+Direccion : paraguay 1850
+Ciudad : rosario
+Telefono : 0341-3414373
+Email : denisefogolin@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Quiero cambiar de trabajo porque en el actual tengo horario de cortado, quisiera de corrido.
+Security_code : mb676
+Send : Enviar
+
+---------------
+
+Address : 200.114.158.139
+Nombre : Juan Pablo
+Apellido : Mórtola
+Cargo : Agente de Propaganda Médica
+Direccion : Paysandu 1174 1 A
+Ciudad : Ciudad Autónoma de Buenos Aires
+Telefono : 1164763084
+Email : jpmortola1705@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Atento a una posibilidad para el puesto de agente de propaganda médica
+Security_code : ynxs9
+Send : Enviar
+
+---------------
+
+Address : 200.114.158.139
+Nombre : Juan Pablo
+Apellido : Mórtola
+Cargo : Agente de Propaganda Médica
+Direccion : Paysandu 1174 1 A
+Ciudad : Ciudad Autónoma de Buenos Aires
+Telefono : 1164763084
+Email : jpmortola1705@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Atento a una posibilidad para el puesto de agente de propaganda médica
+Security_code : rnyzp
+Send : Enviar
+
+---------------
+
+Address : 190.190.130.143
+Nombre : mariano 
+Apellido : castillo
+Cargo : personal administrativo 
+Direccion : Amadeo Grass 4091
+Ciudad : córdoba 
+Telefono : 4825865
+Email : mariano_castillo11@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Soy una persona que aprende rápido las cosas, paciente y creativo. me gusta relacionarme con las personas. Tuve de experiencia laboral haber trabajado en un kiosco atendiendo al publico y también trabaje en un estudio de investigaciones y liquidaciones cumpliendo función de releva miento de accidentes laborales de la empresa Sancor seguros.
+Security_code : 6gk3b
+Send : Enviar
+
+---------------
+
+Address : 186.134.138.197
+Nombre : María Clara
+Apellido : Cornacchia
+Cargo : Varios
+Direccion : Manuel Castro 2880
+Ciudad : Lanús
+Telefono : 1539450794
+Email : mariaclaracornacchia@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto mi curriculum vitae en el podrá observar mi experiencia y mis estudios. Me considero una persona muy responsable y comprometida, tengo muchas ganas de trabajar, mi objetivo es demostrar y desarrollar todas mis capacidades.
+Security_code : np7js
+Send : Enviar
+
+---------------
+
+Address : 190.48.127.66
+Nombre : María Sofía
+Apellido : Lattanzio
+Cargo : Asistente administrativa, recepcionista, secretaria.
+Direccion : Gavilán 960
+Ciudad : Buenos Aires, Capital Federal
+Telefono : 1564777528
+Email : sofia.lattanzio@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me llamo María Sofía Lattanzio, tengo 20 años y estoy en busca de un trabajo part time para poder continuar con mis estudios. Tengo una disponibilidad de 8:00am a 15:30pm
+Security_code : vmr33
+Send : Enviar
+
+---------------
+
+Address : 190.48.127.66
+Nombre : María Sofía
+Apellido : Lattanzio
+Cargo : Asistente administrativa, recepcionista, secretaria.
+Direccion : Gavilán 960
+Ciudad : Buenos Aires, Capital Federal
+Telefono : 1564777528
+Email : sofia.lattanzio@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me llamo María Sofía Lattanzio, tengo 20 años y estoy en busca de un trabajo part time para poder continuar con mis estudios. Tengo una disponibilidad de 8:00am a 15:30pm
+Security_code : vmr33
+Send : Enviar
+
+---------------
+
+Address : 190.48.127.66
+Nombre : María Sofía
+Apellido : Lattanzio
+Cargo : Asistente administrativa, recepcionista, secretaria.
+Direccion : Gavilán 960
+Ciudad : Buenos Aires, Capital Federal
+Telefono : 1564777528
+Email : sofia.lattanzio@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me llamo María Sofía Lattanzio, tengo 20 años y estoy en busca de un trabajo part time para poder continuar con mis estudios. Tengo una disponibilidad de 8:00am a 15:30pm
+Security_code : m4nw5
+Send : Enviar
+
+---------------
+
+Address : 190.48.127.66
+Nombre : María Sofía
+Apellido : Lattanzio
+Cargo : Asistente administrativa, recepcionista, secretaria.
+Direccion : Gavilán 960
+Ciudad : Buenos Aires, Capital Federal
+Telefono : 1564777528
+Email : sofia.lattanzio@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me llamo María Sofía Lattanzio, tengo 20 años y estoy en busca de un trabajo part time para poder continuar con mis estudios. Tengo una disponibilidad de 8:00am a 15:30pm
+Security_code : 7cmrd
+Send : Enviar
+
+---------------
+
+Address : 190.189.214.31
+Nombre : Cristina Elizabeth
+Apellido :  Gamarra
+Cargo : RRHH
+Direccion : Velez Sarsfield 296 Dto 1B
+Ciudad : Avellaneda
+Telefono : 42035994
+Email : cristinagamarraq@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me pongo en contacto con ustedes para ofrecerle mi currículum con mis datos personales, y estudios. Si bien no cuento no experiencia, deseo poder aportar lo mejor de mí para un futuro profesional.
+
+Estoy a su entera disposición, esperando sus noticias. 
+
+Un cordial saludo. 
+Cristina Gamarra
+Security_code : v3pgb
+Send : Enviar
+
+---------------
+
+Address : 186.153.248.115
+Nombre : Cristian
+Apellido : Paredes
+Cargo : lo que sea 
+Direccion : Agustin Garzon 4269
+Ciudad : Cordoba
+Telefono : 3512686007
+Email : cristian91cab
+MAX_FILE_SIZE : 2097152
+Mensaje : necesito trabajo urgente por que voy a tener familia 
+Security_code : dm488
+Send : Enviar
+
+---------------
+
+Address : 186.153.248.115
+Nombre : Cristian
+Apellido : Paredes
+Cargo : lo que sea 
+Direccion : Agustin Garzon 4269
+Ciudad : Cordoba
+Telefono : 3512686007
+Email : cristian91cab
+MAX_FILE_SIZE : 2097152
+Mensaje : necesito trabajo urgente por que voy a tener familia 
+Security_code : w83x2
+Send : Enviar
+
+---------------
+
+Address : 190.55.122.58
+Nombre : Nicolas Esteban
+Apellido : Dinzelbacher
+Cargo : Cadete Administrativo
+Direccion : Juana Azurduy 2281
+Ciudad : Buenos Aires
+Telefono : 1560508415
+Email : nicobacher@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : A quien corresponda envio mi cv postulandome a posibles busquedas que coincidan con mi perfil. Desde ya muchas gracias Saluda Atte Nicolas Dinzelbacher 
+Security_code : n2rzw
+Send : Enviar
+
+---------------
+
+Address : 186.134.43.116
+Nombre : Juan Arnaldo 
+Apellido : Larre
+Cargo : ejecutvo comercial ventas
+Direccion : mariano escalada 1603
+Ciudad : haedo
+Telefono : 01146504896
+Email : jalarre@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : busco trabajo en el area comercial ventas tengo 34 años trabajando en el area comercial 
+Security_code : xjzcx
+Send : Enviar
+
+---------------
+
+Address : 186.129.133.180
+Nombre : Sofia 
+Apellido : Grigera
+Cargo : recepcionista
+Direccion : castro barros 470
+Ciudad : hurlingham
+Telefono : 1551142312
+Email : sofia.grigera@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenos dias,
+me encuentro en busqueda laboral activa.
+Quedo a su entera disposicion.
+
+Saluda atte.
+Security_code : 2w984
+Send : Enviar
+
+---------------
+
+Address : 190.31.201.93
+Nombre : Pamela
+Apellido : Roldan
+Cargo : secretaria o administrativa
+Direccion : Oca Balda 1030
+Ciudad : Córdoba
+Telefono : 3514782782
+Email : pamelaroldan4gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : A quien corresponda envío mi curriculum vitae.
+Security_code : j8pxf
+Send : Enviar
+
+---------------
+
+Address : 190.31.201.93
+Nombre : Pamela
+Apellido : Roldan
+Cargo : secretaria o administrativa
+Direccion : Oca Balda 1030
+Ciudad : Córdoba
+Telefono : 3514782782
+Email : pamelaroldan4gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : A quien corresponda envío mi curriculum vitae
+Security_code : fjggw
+Send : Enviar
+
+---------------
+
+Address : 190.245.50.198
+Nombre : LORENA
+Apellido : AGOTE
+Cargo : ADMINISTRACION
+Direccion : MALVINAS ARGENTINAS 859
+Ciudad : CAPITAL FEDERAL
+Telefono : 541140427123
+Email : lva1307@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : A quien corresponda, 
+Atte.
+
+Adjunto Currículum vitae para ser considerado de acuerdo a ofertas de trabajo en relación a conocimientos, capacidades y habilidades adquiridas.
+
+Atte.
+Security_code : 6g6t4
+Send : Enviar
+
+---------------
+

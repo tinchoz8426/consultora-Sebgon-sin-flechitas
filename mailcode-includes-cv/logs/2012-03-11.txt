@@ -1,0 +1,46 @@
+Address : 190.19.77.204
+Nombre : Diana Marcela
+Apellido : Rodríguez Ortiz
+Cargo : Trabajadora Social
+Direccion : Venezuela 1155 casa 1
+Ciudad : Capital Federal
+Telefono : 1565419242
+Email : diamaroz1283@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buen día, 
+Envío adjunto mi currículo para que sea estudiado por ustedes y seleccionado para el cargo en mención. 
+Security_code : jrry4
+Send : Enviar
+
+---------------
+
+Address : 190.175.148.207
+Nombre : María Eliana 
+Apellido : Bertozzi
+Cargo : administrativa contable
+Direccion : Francisco Evans 376
+Ciudad : Lujan de Cuyo
+Telefono : 4981525
+Email : m.eliana.bertozzi@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenas tardes!estoy buscando empleo, me interesaría mucho formarme como profesional, ya que no tengo mucha experiencia, y a la vez superarme y crecer. Espero tener la oportunidad de mostrar mis conocimientos. Muchas gracias.
+Security_code : bccpq
+Send : Enviar
+
+---------------
+
+Address : 190.172.240.122
+Nombre : Luis Alberto
+Apellido : La Giusa 
+Cargo : Jefe RR.HH
+Direccion : Honduras 2235
+Ciudad : Haedo
+Telefono : 1567888311
+Email : llagiusa70@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Postución para puestos generalista de RR.HH. Coordinación o Jefatura de RR.HH.
+Security_code : sfyq8
+Send : Enviar
+
+---------------
+

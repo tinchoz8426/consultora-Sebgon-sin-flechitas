@@ -1,0 +1,65 @@
+Address : 200.42.11.42
+Nombre : Verónica Soledad
+Apellido : Díaz
+Cargo : Dto. de Compras
+Direccion : Aguapey 1490
+Ciudad : Merlo
+Telefono : 1564755953
+Email : verosoldiaz@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Sres. Segbon
+Dto Rec. Humanos,
+ 
+De mi consideración: 
+Tengo el agrado de dirigirme a Uds. a fin de acercarles mi CV para búsquedas en el área administrativa y de Compras. Cuento con una valiosa experiencia en estos sectores.
+ 
+Me oriento a ocupar posiciones de responsabilidad en Áreas de Compras. Soy una persona dinámica, proactiva y autónoma. Estimo que una entrevista será el marco adecuado para profundizar aspectos de mi perfil que puedan resultar de su interés. 
+
+Cordialmente,
+Verónica Díaz
+
+Security_code : fy46s
+Send : Enviar
+
+---------------
+
+Address : 200.42.11.42
+Nombre : Verónica Soledad
+Apellido : Díaz
+Cargo : Dto. de Compras
+Direccion : Aguapey 1490
+Ciudad : Merlo
+Telefono : 1564755953
+Email : verosoldiaz@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Sres. Sebgon
+Dto Rec. Humanos,
+ 
+De mi consideración: 
+Tengo el agrado de dirigirme a Uds. a fin de acercarles mi CV para búsquedas en el área administrativa y de Compras. Cuento con una valiosa experiencia en estos sectores.
+ 
+Me oriento a ocupar posiciones de responsabilidad en Áreas de Compras. Soy una persona dinámica, proactiva y autónoma. Estimo que una entrevista será el marco adecuado para profundizar aspectos de mi perfil que puedan resultar de su interés. 
+
+Cordialmente,
+Verónica Díaz
+
+Security_code : 2j5rd
+Send : Enviar
+
+---------------
+
+Address : 201.250.55.237
+Nombre : Jorge
+Apellido : Puglia
+Cargo : Gerente de compras
+Direccion : Congreso 1639
+Ciudad : Haedo
+Telefono : 15-6397-2108
+Email : JPUGLIA@LIVE.COM.AR
+MAX_FILE_SIZE : 2097152
+Mensaje : Para que sea considerado en busquedas asociadas con mi perfil
+Security_code : 4zrfr
+Send : Enviar
+
+---------------
+

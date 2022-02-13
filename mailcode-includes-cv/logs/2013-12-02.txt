@@ -1,0 +1,171 @@
+Address : 
+Nombre : Chabeli
+Apellido : rodriguez
+Cargo : Formar parte de la Base de Datos
+Direccion : Achaval 240
+Ciudad : CABA
+Telefono : 1134721993
+Email : chabelirodriguez@hotmail.es
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimado/a Empleador/a,
+
+
+Mi nombre es Chabeli Rodriguez y soy estudiante de ciencia política en la Universidad de Buenos Aires. Escribo con la intención de presentarme y postularme para formar parte de su equipo de trabajo. El motivo de mi postulación son mis ansias de poder ejercer o bien tener una aproximación a la práctica de la profesión. Me hallo particularmente interesada en formar parte de su equipo de trabajo por mis ansias y expectativas de crecimiento personal y profesional.
+
+Si bien estoy en los primeros años de la carrera, quiero poder ganar la mayor experiencia posible para ser una profesional bien formada y que pueda tanto aportar como nutrirse del mercado laboral y del crecimiento y desarrollo del país. Creo fervientemente que es inherente para la concreción de este perfeccionamiento que se trabaje no solo desde el rol del profesional sino además desde el rol de ciudadano. Es por eso que he participado de proyectos que combinan y fomentan la participación ciudadana en los problemas de la comunidad y se interrelacionan de manera directa con mis estudios en el área de las ciencias sociales.
+
+Parte de mi experiencia la gané viviendo, estudiando y trabajando en los últimos ocho meses en el Reino Unido, donde forme parte de una fundación llamada Oxfordshire Community Foundation, en la localidad de Oxford, Inglaterra. Allí comencé con una pasantía en el área administrativa y luego de que esta terminara fui incorporada al equipo en el área de creación de proyectos que se enfocaba en buscar, crear, promover y concretar proyectos que ataquen y resuelvan una determinada problemática con una iniciativa que involucre a instituciones o bien a miembros de la comunidad. En este puesto me desempeñé siendo la coordinadora encargada de las relaciones institucionales con universidades, colegios y escuelas de lengua inglesa para extranjeros para la organización de eventos y festivales enfocados en diversos problemas que se encuentran en condado de Oxfordshire.
+
+Si bien mi trabajo en OCF era completamente diferente a las áreas y trabajos que se pueden llevar a cabo en el puesto para el cual me postulo, considero que tengo la seriedad, responsabilidad, capacidad y entusiasmo requeridos para aportar a su equipo de trabajo. Lo veo como una oportunidad interesante y enriquecedora para mi formación y crecimiento tanto personal como profesional, así como para su equipo por los aportes y las ganas que puedan recibir de mi persona. Es justamente esta variedad de intereses y mi perfil proactivo y dinámico el que me predispone de buena manera para desempeñarme en diferentes áreas.
+
+Muchas gracias por haber dedicado tiempo a la lectura de esta carta. Quedo así a su disposición para un posible encuentro, me voy a estar comunicando en estos días para hablar de mi postulación. ¡Estoy segura de que no se arrepentirá!
+
+
+Atentamente, 
+
+
+Chabeli Rodriguez
+Security_code : 3xmdb
+Send : Enviar
+
+---------------
+
+Address : 
+Nombre : julieta
+Apellido : riquelme
+Cargo : call center
+Direccion : la pampa 545
+Ciudad : cordoba 
+Telefono : 03516765368
+Email : lapilbul@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : espero que puedan encontrar algo adecuado para mi :) desde ya muchas gracias 
+Security_code : hcjjz
+Send : Enviar
+
+---------------
+
+Address : 
+Nombre : Rebeca
+Apellido : Mattano
+Cargo : Comunicación
+Direccion : Medina 365
+Ciudad : CABA
+Telefono : 1551814675
+Email : mattanorebeca@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados
+Soy Lic en comunicación, busco trabajo en áreas de comunicación. Adjunto mi cv. Saludos
+Security_code : 859hv
+Send : Enviar
+
+---------------
+
+Address : 
+Nombre : lautaro
+Apellido : sevilla
+Cargo : repositor
+Direccion : 24 de septiembre 1770 2A
+Ciudad : cordoba 
+Telefono : 4525095
+Email : lautarosevilla10@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : con muchas ganas de trabajar y gran adaptacion al area de trabajo
+Security_code : ytx5p
+Send : Enviar
+
+---------------
+
+Address : 
+Nombre : fgdaf
+Apellido : dfg
+Cargo : fdgfdg
+Direccion : fdg
+Ciudad : ddfg
+Telefono : 12.52752572
+Email : dsfds@fdgdfg
+MAX_FILE_SIZE : 2097152
+Mensaje : 6yhtfhrfgdfgfg
+Security_code : kwcm2
+Send : Enviar
+
+---------------
+
+Address : 
+Nombre : fsd
+Apellido : dfds
+Cargo : sdfsdf
+Direccion : sdfdsf
+Ciudad : sfsdfsf
+Telefono : sdfs
+Email : fsdfss
+MAX_FILE_SIZE : 2097152
+Mensaje : y6tyrtyhtrhrthgfh
+Security_code : fqpff
+Send : Enviar
+
+---------------
+
+Address : 
+REF : Asistente-Contable
+Nombre : test
+Apellido : test
+Cargo : test
+Direccion : test
+Ciudad : test
+Telefono : test
+Email : test@test.com
+MAX_FILE_SIZE : 2097152
+Mensaje : asd
+Security_code : d8fwh
+Send : Enviar
+
+---------------
+
+Address : 
+REF : Asistente-Contable
+Nombre : test
+Apellido : test
+Cargo : test
+Direccion : test
+Ciudad : test
+Telefono : test
+Email : test@test.com
+MAX_FILE_SIZE : 2097152
+Mensaje : asd
+Security_code : d8fwh
+Send : Enviar
+
+---------------
+
+Address : 
+REF : Asistente-Contable
+Nombre : test
+Apellido : test
+Cargo : test
+Direccion : test
+Ciudad : test
+Telefono : test
+Email : test@test.com
+MAX_FILE_SIZE : 2097152
+Mensaje : asd
+Security_code : 43zdv
+Send : Enviar
+
+---------------
+
+Address : 
+Nombre : Vanesa
+Apellido : Palmieri
+Cargo : PROMOTORA-VENTAS-RECEPCION
+Direccion : PIZARRO 90
+Ciudad : RAMOS MEJIA
+Telefono : 154 4039052
+Email : vanesa.palmieri@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : envio CV!
+Security_code : sxzcm
+Send : Enviar
+
+---------------
+

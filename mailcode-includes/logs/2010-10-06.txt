@@ -1,0 +1,13 @@
+Address : 201.254.169.149
+Nombre : Juan
+Apellido : Malacalza
+Empresa : Tauro Automotores S.A.
+Telefono : 02396-1561-2057
+Email : jmalacalza@tauroautomotores.com.ar
+Mensaje : Solicito informacion de curso y/o seminarios para capacitaciones de personal de mandos medios.
+Muchas gracias.
+Security_code : 4mkrb
+Send : Enviar
+
+---------------
+

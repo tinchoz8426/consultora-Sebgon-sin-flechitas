@@ -1,0 +1,123 @@
+Address : 191.80.247.25
+REF : OME
+Nombre : lucas dario
+Apellido : jaime
+Cargo : maquinista
+Direccion : zufriategui 1539
+Ciudad : isidro casanova
+Telefono : 46260708
+Email : sharonurijaime@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola me postulo al puesto ya tengo conocimiento en manejo de maquinarias desde la elaboracion hasta la envoltura. Trabaje 12 años para la delicia felipe fort ,mi trabajo era maquinista ficial
+Security_code : rhnnx
+Send : Enviar
+
+---------------
+
+Address : 186.22.134.196
+Nombre : Nicolas Martin 
+Apellido : Fons
+Cargo : Ayudante de Cocina
+Direccion : La Haya 2723
+Ciudad : Isidro Casanova
+Telefono : 44853847
+Email : nicolasmartinfons@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Busco de manera urgente trabajo Part Time, por motivos de estudios.
+Security_code : 4xybz
+Send : Enviar
+
+---------------
+
+Address : 186.22.134.196
+Nombre : Nicolas Martin 
+Apellido : Fons
+Cargo : Ayudante de Cocina
+Direccion : La Haya 2723
+Ciudad : Isidro Casanova
+Telefono : 44853847
+Email : nicolasmartinfons@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Busco de manera urgente trabajo Part Time, por motivos de estudios.
+Security_code : 4xybz
+Send : Enviar
+
+---------------
+
+Address : 186.22.134.196
+Nombre : Nicolas Martin 
+Apellido : Fons
+Cargo : Ayudante de Cocina
+Direccion : La Haya 2723
+Ciudad : Isidro Casanova
+Telefono : 44853847
+Email : nicolasmartinfons@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Busco de manera urgente trabajo Part Time, por motivos de estudios.
+Security_code : 4xybz
+Send : Enviar
+
+---------------
+
+Address : 186.22.134.196
+Nombre : Nicolas Martin 
+Apellido : Fons
+Cargo : Ayudante de Cocina
+Direccion : La Haya 2723
+Ciudad : Isidro Casanova
+Telefono : 44853847
+Email : nicolasmartinfons@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Busco de manera urgente trabajo Part Time, por motivos de estudios.
+Security_code : s294v
+Send : Enviar
+
+---------------
+
+Address : 186.148.83.10
+Nombre : Gregorio
+Apellido : Martinez Gonzalez
+Cargo : Jefe Calidad
+Direccion : Ancon 4243
+Ciudad : Gonzalez Catan
+Telefono : 1163764298
+Email : margony01@yahoo.es
+MAX_FILE_SIZE : 2097152
+Mensaje : Gerencia de RRHH
+Security_code : w3hxm
+Send : Enviar
+
+---------------
+
+Address : 181.91.194.118
+Nombre : Laura Cristina 
+Apellido : Rojas
+Cargo : Asistente Social
+Direccion : Echegaray 1064 
+Ciudad : Formosa 
+Telefono : 370 154531703
+Email : lauracrojas@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me gustaría considerar ofertas laborales que se complementen y/o sean otra opción a mi trabajo actual. Saludos y a su disposición
+Security_code : qs377
+Send : Enviar
+
+---------------
+
+Address : 200.123.173.29
+Nombre : Rossana 
+Apellido : Ramirez
+Cargo : Gerencia
+Direccion : Picuart
+Ciudad : Esteban Echeverría
+Telefono : 1553830628
+Email : rossana_664@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimado me gustaría que analizaran mi CV, espero que sea de su interés.
+Saludos cordiales.
+Rossana
+Security_code : 83pz3
+Send : Enviar
+
+---------------
+

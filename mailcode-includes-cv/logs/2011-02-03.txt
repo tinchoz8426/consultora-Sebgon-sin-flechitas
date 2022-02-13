@@ -1,0 +1,73 @@
+Address : 201.235.57.18
+REF : gerente-de-operaciones
+Nombre : Paola
+Apellido : Pardo
+Cargo : Recepcionista, Secretaria, Administrativa,Atencion al cliente
+Direccion : Brown 4081
+Ciudad : Rosario
+Telefono : 156034537
+Email : lapao75ok@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Gracias por recibir mi curriculum y espero una pronta respuesta.
+Security_code : ghkvv
+Send : Enviar
+
+---------------
+
+Address : 190.55.215.156
+REF : tecnico-de-mantenimiento
+Nombre : Mariano Javier
+Apellido : Rios
+Cargo : .
+Direccion : A. M. Cervantes 1619 2do 10
+Ciudad : C.A. Buenos Aires
+Telefono : 011 4584 0890
+Email : riosm@arnet.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Si bien mi perfil no se ajusta a ninguna de las busquedas actuales, pretendo sumar mi CV a su base de datos para que sea tenido en cuenta en futuras busquedas.
+Security_code : srv47
+Send : Enviar
+
+---------------
+
+Address : 186.56.134.4
+Nombre : Diego Ezequiel
+Apellido : Idone
+Cargo : Supervisor Producción-Control Calidad-Analista Laboratorio-Cheker de Línea
+Direccion : Las Heras 725
+Ciudad : San Antonio de Padua ( GBA Oeste )
+Telefono : 15 6541 3394
+Email : diegoidone@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimado/a:
+
+Me dirijo a ud. por este medio con el fin de acercarle mis datos personales y profesionales en Curriculum Vitae a fin de ser tenido en cuenta como candidato.
+En caso de poseer el perfil requerido para el puesto a cubrir, quedo a vuestra disposición para concretar una entrevista.
+
+Remuneración Pretendida a convenir 
+ 
+Saludo Atte.
+
+Idone Diego
+Cel : (011)  15 6541-3394
+Security_code : gjy4h
+Send : Enviar
+
+---------------
+
+Address : 190.0.168.110
+Nombre : Paula 
+Apellido : Diaz
+Cargo : Recepcionista-Administrativo
+Direccion : Veragua 4803
+Ciudad : Buenos Aires
+Telefono : 15-34085903
+Email : diaz-paula@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenas tardes, envío mi CV para postularme al puesto laboral de "recepcionista- Administrativo" publicado el dia 02/02/2011 en LABORALROSARIO.COM
+Me considero una persona capaz de cumplir con las tareas a desarrollar y con suficiente experiencia como para trabajar activa y eficientemente. Espero que consideren mi curriculum y tener la posibilidad de una entrevista laboral.
+Security_code : 3fkzc
+Send : Enviar
+
+---------------
+

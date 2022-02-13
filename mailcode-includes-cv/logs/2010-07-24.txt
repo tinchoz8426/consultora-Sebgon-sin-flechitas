@@ -1,0 +1,16 @@
+Address : 190.228.239.122
+REF : jefe_de_produccion
+Nombre : José Andrés 
+Apellido : Vega
+Cargo : Jefe de Producción
+Direccion : Avenida Patria 1198
+Ciudad : Villa Nueva Çórdoba
+Telefono : (0353) 4912231
+Email : JOSEVEGA_LOI@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Por si no consiguen Ingeniero Industrial, yo puedo cumplir la misma función. Saludos
+Security_code : zp5qb
+Send : Enviar
+
+---------------
+

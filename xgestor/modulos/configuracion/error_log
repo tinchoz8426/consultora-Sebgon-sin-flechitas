@@ -1,0 +1,4 @@
+[18-Nov-2020 14:00:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function busca_registro() in /home/xz7khky4kgub/public_html/test/xgestor/modulos/configuracion/menu_opciones.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/xz7khky4kgub/public_html/test/xgestor/modulos/configuracion/menu_opciones.php on line 1

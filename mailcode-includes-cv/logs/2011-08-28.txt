@@ -1,0 +1,20 @@
+Address : 186.18.173.202
+Nombre : Daniela
+Apellido : Pinto
+Cargo : Administrativo
+Direccion : Bogota 4069
+Ciudad : Capital Federal
+Telefono : 1551084455
+Email : danielapinto89@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Vista la Oferta Laboral les hago llegar mis datos personales y profesionales en Currículum Vitae a fin de ser tenido en cuenta como candidato.
+
+Con la convicción de poseer el perfil requerido para un muy buen desempeño en el cargo a cubrir, quedo a entera disposición para hacerle llegar, sea en una entrevista personal o por el medio que se me indique, las ampliaciones y/o la documentación probatoria correspondiente.
+
+Esperando una respuesta positiva lo saluda atentamente,
+	  Daniela Pinto
+Security_code : qb5xs
+Send : Enviar
+
+---------------
+

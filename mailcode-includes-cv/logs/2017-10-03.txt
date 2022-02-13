@@ -1,0 +1,88 @@
+Address : 186.33.235.137<br>
+ <br>REF : Ing. quim
+ <br>Nombre : Maria del Carmen
+ <br>Apellido : Baspineiro Jimenez
+ <br>Cargo :  Jefa de Producción
+ <br>Direccion : Humberto Primo 3259
+ <br>Ciudad : Capital federal, San Cristóbal
+ <br>Telefono : 387 5366828
+ <br>Email : maritabaspi@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Tengo el agrado de dirigirme a Ud. con el objetivo de ser considerada en el puesto de trabajo ofrecido, ya que me encuentro competente para cubrirlo. Adjunto mi Currículum Vitae donde detallo con más exactitud todos mis datos personales y logros; entre ellos los más destacados son, además de estar graduada de la carrera Ingeniería Química, mi manejo intermedio de inglés, herramientas informáticas y programas que complementan mi carrera.
+Considero que podría integrarme adecuadamente, ya que soy una persona proactiva, con muchas ganas de aprender y desarrollarme dentro del área laboral; con la capacidad para formar parte de un equipo de trabajo en el que se busque permanentemente alcanzar objetivos de mejora continua en todos los aspectos.
+Quedo a su entera disposición ante una eventual entrevista personal con el objetivo de profundizar aspectos de mi perfil que resulten de su interés.
+En el caso de no ser lo que están buscando les pido que me tengan en cuenta para otros puestos laborales que puedan surgir.
+Un cordial saludo.
+ <br>Security_code : mct2b
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 179.40.227.243<br>
+ <br>Nombre : Jorge 
+ <br>Apellido : Rojas Espinola 
+ <br>Cargo : Cadete / operario
+ <br>Direccion : Arengreen 174
+ <br>Ciudad : Ituzaingo, Buenos Aires
+ <br>Telefono : 1146240426
+ <br>Email : jorgerojasespinola@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados, estoy en la busqueda desesperada de un trabajo estable. Soy una persona sumamente responsable, puntual y con buena presencia. 
+Me desarrollo y adapto en cualquier puesto de trabajo.
+
+Desde ya, agradezco su ayuda
+
+Saludos
+ <br>Security_code : g5rq7
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.18.225.166<br>
+ <br>REF : chr
+ <br>Nombre : JAVIER
+ <br>Apellido : KALINA
+ <br>Cargo : CHOFER
+ <br>Direccion : MONTIEL 2010
+ <br>Ciudad : CABA
+ <br>Telefono : 1563088345
+ <br>Email : pregolini@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : chofer
+ <br>Security_code : j4wp2
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.9.154.95<br>
+ <br>REF : chr
+ <br>Nombre : Sebastian
+ <br>Apellido : Antequera
+ <br>Cargo : Chofer
+ <br>Direccion : 20 de junio 
+ <br>Ciudad : Tartagal
+ <br>Telefono : 3873636974
+ <br>Email : sebastian.antequera@yahoo.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Disponibilidad para viajar
+ <br>Security_code : g2gqx
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.49.175.1<br>
+ <br>REF : chr
+ <br>Nombre : Miguel Adolfo
+ <br>Apellido : Passarino
+ <br>Cargo : Chofer
+ <br>Direccion : Cicheros 519
+ <br>Ciudad : El Jagüel
+ <br>Telefono : 43679729
+ <br>Email : migueladolfopassarino@gmqil.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Chofer reparto mercaderia
+ <br>Security_code : rvt76
+ <br>Send : Enviar
+ <br>
+---------------
+

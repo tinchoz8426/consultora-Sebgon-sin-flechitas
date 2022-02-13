@@ -1,0 +1,16 @@
+Address : 190.194.25.83
+REF : jefe-de-operaciones
+Nombre : Franco
+Apellido : Heredia 
+Cargo : Atencion al cliente
+Direccion : boedo 1715
+Ciudad : cordoba
+Telefono : 4554583
+Email : francoheredia07@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola quisiera tener alguna novedad sobre algun trabajo. Muchas gracias
+Security_code : 32pqw
+Send : Enviar
+
+---------------
+

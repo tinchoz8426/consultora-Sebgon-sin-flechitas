@@ -1,0 +1,30 @@
+Address : 190.173.67.32
+Nombre : Andrea
+Apellido : Rodriguez
+Cargo : adminstrativo / secretaria / recepcionista
+Direccion : Rivadavia 8338
+Ciudad : CABA
+Telefono : 1165555585
+Email : andytarodriguez@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : disponible full time sa, do y feriados
+Security_code : nghtm
+Send : Enviar
+
+---------------
+
+Address : 190.177.200.233
+Nombre : Aixa Mailen
+Apellido : Seco
+Cargo : Trabajador social
+Direccion : Julian castro 1569
+Ciudad : Merlo
+Telefono : 0111562415238
+Email : maiseco@outlook.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenas tarde mi nombre es Mailen, estoy interesada por cubrir el puesto para la realización de socioambientales. Saludos cordiales
+Security_code : fqcdz
+Send : Enviar
+
+---------------
+

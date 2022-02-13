@@ -1,0 +1,16 @@
+Address : 190.228.253.123
+REF : tecnico-electornico
+Nombre : Adriana
+Apellido : Sandrigo
+Cargo : Recursos Humanos
+Direccion : Moreno 1475
+Ciudad : Rosario
+Telefono : 155314201
+Email : adrisandrigo@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hago llegar mi curriculum vitae para ser tenida en cuenta en sus futuras búsquedas acordes a mi perfil. 
+Security_code : nw57p
+Send : Enviar
+
+---------------
+

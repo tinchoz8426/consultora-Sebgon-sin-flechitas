@@ -1,0 +1,143 @@
+Address : 186.141.199.104<br>
+ <br>Nombre : MANUEL ENRIQUE
+ <br>Apellido : ALDERETE
+ <br>Cargo : Chofer de reparto
+ <br>Direccion : Matorras 2285
+ <br>Ciudad : Merlo
+ <br>Telefono : 1139397222
+ <br>Email : manualderete22@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola...necesito una entrevista laboral..
+ <br>Security_code : 6w9x3
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.141.199.104<br>
+ <br>Nombre : MANUEL ENRIQUE
+ <br>Apellido : ALDERETE
+ <br>Cargo : Chofer de reparto
+ <br>Direccion : Matorras 2285
+ <br>Ciudad : Merlo
+ <br>Telefono : 1139397222
+ <br>Email : manualderete22@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Hola..necesito entrevista laboral
+ <br>Security_code : dmt9m
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.124.231.68<br>
+ <br>REF : EP-1
+ <br>Nombre : Luis Alberto
+ <br>Apellido : Silva Siviero
+ <br>Cargo : Encargado de Produccion
+ <br>Direccion : A Storni 2842
+ <br>Ciudad : Garin
+ <br>Telefono : 01158505973
+ <br>Email : luissilva2012@arnet.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Remito mi CV,para postularme a esta busqueda. Estoy a sus ordenes.
+ <br>Security_code : v776h
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.124.231.68<br>
+ <br>REF : EP-1
+ <br>Nombre : Luis Alberto
+ <br>Apellido : Silva Siviero
+ <br>Cargo : Encargado de Produccion
+ <br>Direccion : A Storni 2842
+ <br>Ciudad : Garin
+ <br>Telefono : 01158505973
+ <br>Email : luissilva2012@arnet.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Remito mi CV,para postularme a esta busqueda. Estoy a sus ordenes.
+ <br>Security_code : v776h
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.165.89.154<br>
+ <br>REF : EP-1
+ <br>Nombre : Alejandro Octavio
+ <br>Apellido : Márquez Landini
+ <br>Cargo : Encargado de Produccion
+ <br>Direccion : Araoz 1418
+ <br>Ciudad : CABA
+ <br>Telefono : 11 70330025
+ <br>Email : alejoml68@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buen día. Creo que poseo la formación académica y la experiencia profesional para ocupar este cargo.
+ <br>Security_code : vfz5t
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.192.62.217<br>
+ <br>REF : ACO-1
+ <br>Nombre : RITA
+ <br>Apellido : INTILI
+ <br>Cargo : ANALISTA DE COMERCIO INTERNACIONAL
+ <br>Direccion : HELGUERA 152
+ <br>Ciudad : LOMAS DEL MIRADOR
+ <br>Telefono : 1550578093
+ <br>Email : ritaintili@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Soy Lic. en comercio internacional y me interesa esta oferta labiral. Ademas, estoy comenzando dos posgrados, uno de ciencias economicas y el otro de negocios internacionales.
+ <br>Security_code : 6w9ck
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.11<br>
+ <br>REF : EP-1
+ <br>Nombre : Daniel 
+ <br>Apellido : Martire
+ <br>Cargo : Supervisor -Encagado.
+ <br>Direccion : Eva Perón 1160
+ <br>Ciudad : Pilar Buenos Aires
+ <br>Telefono : 0230-15-4521070
+ <br>Email : jorgedanielmartire@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Mi nombre es Daniel Martire tengo 46 años y soy de Pilar Buenos Aires, estoy en la búsqueda de empleo. Trabajé 15 años en Bimbo como Maestro en Manufactura y puesta a Punto de las maquinarias computarizadas con mas de 20 personas a cargo y haciendo en mantenimiento preventivo y correctivo a las mismas... Trabajé 4 años en el Taller Mecanico de Fargo haciendo el mantenimiento de los vehiculos propios de la Empresa. Actualmente entre otras cosas me dedico a hacer electricidad domiciliaria. Tengo 4 año de Mecanico industrial. (No soy recibido) busco 1 empleo donde poder crecer en lo personal y profecional.
+ <br>Security_code : rqrj6
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.105.85.32<br>
+ <br>REF : EP-1
+ <br>Nombre : Néstor
+ <br>Apellido : Fernández
+ <br>Cargo : supervisor 
+ <br>Direccion : puerto principe 583
+ <br>Ciudad : Tortuguitas
+ <br>Telefono : 1168330841
+ <br>Email : nesfran10@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estoy interesado en el puesto que estan solicitando 
+ <br>Security_code : 56vkr
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.117.236.73<br>
+ <br>REF : JPER-1
+ <br>Nombre : Elmer
+ <br>Apellido : Alcántara Coronel
+ <br>Cargo : Jefe se personal
+ <br>Direccion : Julio cesar 1342
+ <br>Ciudad : José León Suárez
+ <br>Telefono : 11_32788240
+ <br>Email : elm13@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Adjunto CV por aviso publicado en este medio.
+Una entrevista personal será el marco adecuado para desglosar aspectos que le sean de su interés.
+ <br>Security_code : Drsdq
+ <br>Send : Enviar
+ <br>
+---------------
+

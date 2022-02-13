@@ -1,0 +1,33 @@
+Address : 181.44.240.15<br>
+ <br>REF : TEC. EL
+ <br>Nombre : Tomás
+ <br>Apellido : O'Sullivan
+ <br>Cargo : TÉCNICOS ELECTRÓNICOS ESPECIALIZADOS
+ <br>Direccion : Dr. Eguia 1561
+ <br>Ciudad : Pilar
+ <br>Telefono : 1536199537
+ <br>Email : tomiosullivan@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Envío mi Curriculum pasa su consideración.
+Cualquier consulta a disposición.
+Saludos
+ <br>Security_code : mwhhy
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.216.245.145<br>
+ <br>Nombre : Manuela
+ <br>Apellido : Postigo
+ <br>Cargo : trabajadora social
+ <br>Direccion : teodoro garcia 1721
+ <br>Ciudad : buenos aires. belgrano
+ <br>Telefono : 1540447912
+ <br>Email : manu_postigo@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me postulo para el puesto de trabajadora social. 
+ <br>Security_code : y5gmr
+ <br>Send : Enviar
+ <br>
+---------------
+

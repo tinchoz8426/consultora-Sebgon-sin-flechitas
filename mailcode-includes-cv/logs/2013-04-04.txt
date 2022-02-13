@@ -1,0 +1,89 @@
+Address : 190.177.248.25
+REF : administrativo-logistica
+Nombre : Diego
+Apellido : Pereyra
+Cargo : Administrativo-logística
+Direccion : Ameghino 1030
+Ciudad : Merlo
+Telefono : 15-6720-1483
+Email : diego.pereyra.ddi@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Supervisor Logística/Producción
+Security_code : cnmhj
+Send : Enviar
+
+---------------
+
+Address : 186.23.196.4
+REF : jefe-de-operaciones
+Nombre : Juan Manuel Almiron
+Apellido : Almiron
+Cargo : apm
+Direccion : Florentino Ameghino 1287
+Ciudad : Esteban Echeverria
+Telefono : 0111557287188
+Email : jma.399@gmail.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados,
+
+Les hago llegar mis datos personales y profesionales en Currículum Vitae a fin de ser tenido en cuenta como candidato.
+
+Con la convicción de poseer el perfil requerido para un muy buen desempeño en el cargo a cubrir, quedo a entera disposición para hacerle llegar, sea en una entrevista personal o por el medio que se me indique, las ampliaciones y/o la documentación probatoria correspondiente.
+
+Esperando una respuesta positiva lo saluda atentamente,
+
+Juan M. Almirón 
+
+Security_code : hktmx
+Send : Enviar
+
+---------------
+
+Address : 186.59.91.127
+Nombre : Elbio Dario
+Apellido : Allapiz
+Cargo : comercial
+Direccion : Río Limay 3006
+Ciudad : Mendoza
+Telefono : 261 156895175
+Email : eallapiz@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estoy en la búsqueda de trabajo en el sector comercial, tengo disponibilidad horaria,y ganas de emprender nuevos desafíos. Saludos
+Security_code : xtxw5
+Send : Enviar
+
+---------------
+
+Address : 190.137.16.20
+Nombre : Marcelo 
+Apellido : Costilla
+Cargo : LIC.EN SEGURIDAD E HIGIENE
+Direccion : Paraguay 2571
+Ciudad : CAPITAL FEDERAL
+Telefono : 15-69073100
+Email : marcelo22ventas@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Estmados señores.
+Les envío mi CV a fín de considerar mi incorporación al Staff de Preventores de Higiene y Seguridad,
+Estoy a vustra disposición para ampliar información sobre mi actividad profesional.
+Saludos Cordiales
+Security_code : wqjz9
+Send : Enviar
+
+---------------
+
+Address : 201.251.134.121
+Nombre : Emilio
+Apellido : Aagaard
+Cargo : -
+Direccion : Caviahue
+Ciudad : El Bolson
+Telefono : (0291) 154366077
+Email : emilioaa2@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Soy Ingeniero Mecánico en busca de trabajo.
+Security_code : 3rp9x
+Send : Enviar
+
+---------------
+

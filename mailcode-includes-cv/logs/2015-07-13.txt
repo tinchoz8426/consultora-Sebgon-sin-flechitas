@@ -1,0 +1,151 @@
+Address : 190.16.118.84
+Nombre : María de los Ángeles
+Apellido : Berardi
+Cargo : Administrativa/recepcionista/atención al cliente
+Direccion : Lavalle 3940
+Ciudad : Capital Federal
+Telefono : 1522619500
+Email : angeles.berardi@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me interesa mucho encontrar un empleo, soy una persona  con muchas ganas de trabajar aprender y estoy dispuesta a poner mucho empeño a mi próximo trabajo. Soy ordenada, detallista,  y me gusta cumplir con las expectativas laborales. Gracias
+Security_code : g3gz9
+Send : Enviar
+
+---------------
+
+Address : 190.138.69.177
+Nombre : cecilia
+Apellido : silva
+Cargo : Mantenimiento, operaria
+Direccion : jose ingenieros 8435
+Ciudad : rosario
+Telefono : 152780017
+Email : cecilia.silva.-@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : hola me postulo para cualquier puesto disponible, puedo aprender rapido, espero su llamado. gracias
+Security_code : y852g
+Send : Enviar
+
+---------------
+
+Address : 190.138.69.177
+Nombre : cecilia
+Apellido : silva
+Cargo : Mantenimiento, operaria
+Direccion : jose ingenieros 8435
+Ciudad : rosario
+Telefono : 152780017
+Email : cecilia.silva.-@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : hola me postulo para cualquier puesto disponible, puedo aprender rapido, espero su llamado. gracias
+Security_code : y852g
+Send : Enviar
+
+---------------
+
+Address : 190.138.69.177
+Nombre : cecilia
+Apellido : silva
+Cargo : Mantenimiento, operaria
+Direccion : jose ingenieros 8435
+Ciudad : rosario
+Telefono : 152780017
+Email : cecilia.silva.-@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : hola me postulo para cualquier puesto disponible, puedo aprender rapido, espero su llamado. gracias
+Security_code : y852g
+Send : Enviar
+
+---------------
+
+Address : 190.138.69.177
+Nombre : cecilia
+Apellido : silva
+Cargo : Mantenimiento, operaria
+Direccion : jose ingenieros 8435
+Ciudad : rosario
+Telefono : 152780017
+Email : cecilia.silva.-@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : ME POSTULO PARA CUALQIER PUESTO DISPONIBLE, GRACIAS
+Security_code : 25Y97
+Send : Enviar
+
+---------------
+
+Address : 190.138.69.177
+Nombre : cecilia
+Apellido : silva
+Cargo : Mantenimiento, operaria
+Direccion : jose ingenieros 8435
+Ciudad : rosario
+Telefono : 3412780017
+Email : cecilia.silva.-@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : ME POSTULO PARA CUALQIER PUESTO DISPONIBLE, GRACIAS
+Security_code : 25y97
+Send : Enviar
+
+---------------
+
+Address : 186.23.65.58
+Nombre : Fernando
+Apellido : Torres
+Cargo : cadete
+Direccion : ricardo rojas 2236
+Ciudad : Burzaco
+Telefono : 1551752605
+Email : fertorres37@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Desearía formar parte de su organización para poder desarrollar mis conocimientos, con posibilidades de crecimiento profesional en un buen ambiente laboral.
+Security_code : 4gh42
+Send : Enviar
+
+---------------
+
+Address : 186.109.149.230
+REF : OPM
+Nombre : maximiliano
+Apellido : rodriguez
+Cargo : operario de produccion alimenticia
+Direccion : san franscisco 1474 
+Ciudad : caseros 
+Telefono : 1121663245
+Email : elchino_millodealma@hotmail.es
+MAX_FILE_SIZE : 2097152
+Mensaje : me gustaria poder encontrar trabajo gracias 
+Security_code : cy6h9
+Send : Enviar
+
+---------------
+
+Address : 181.104.3.58
+Nombre : francisco
+Apellido : marquez
+Cargo : operario
+Direccion : maria de la serna 2829
+Ciudad : cordoba
+Telefono : 03512174757
+Email : franciscomarquez0102@gamil.com
+MAX_FILE_SIZE : 2097152
+Mensaje : full time
+Security_code : mk23w
+Send : Enviar
+
+---------------
+
+Address : 181.104.3.58
+Nombre : francisco
+Apellido : marquez
+Cargo : operario
+Direccion : maria de la serna 2829
+Ciudad : cordoba
+Telefono : 03512174757
+Email : franciscomarquez0102@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : full time
+Security_code : mk23w
+Send : Enviar
+
+---------------
+

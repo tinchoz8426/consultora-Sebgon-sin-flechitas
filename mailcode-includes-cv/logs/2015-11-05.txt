@@ -1,0 +1,59 @@
+Address : 181.167.3.181
+REF : GTEP
+Nombre : leandro Diego
+Apellido : Expósito
+Cargo : Gerente de Planta
+Direccion : Nuñez 2439
+Ciudad : Ciudad Autónoma de Bs. As.
+Telefono : 01160123380
+Email : leandroexposito@yahoo.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me gustaría tener la posibilidad de postularme para esta posición. Gracias
+Security_code : j34nr
+Send : Enviar
+
+---------------
+
+Address : 200.114.132.151
+Nombre : RONALD
+Apellido : CALZADILLA
+Cargo : Gerente de Planta
+Direccion : Valentin Virasoro 1986, villa crespo, capital federal
+Ciudad : Capital Federal
+Telefono : 1123461055
+Email : dlanor1030@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : ingeniero electrónico con experiencia en planta de primer nivel
+Security_code : m43w7
+Send : Enviar
+
+---------------
+
+Address : 190.115.120.197
+REF : JPL
+Nombre : Héctor Ramón
+Apellido : Mansilla
+Cargo : Jefe de Planta
+Direccion : B° Cerro de la Cruz - Manzana 258 - Casa 7
+Ciudad : San Luis
+Telefono : 0266 4938688
+Email : hector_mansilla@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : A quien corresponda:
+Estoy radicado en San Luis, pero no tengo ningún inconveniente en radicarme en cualquier lugar del país.
+Soy oriundo de Bs As y estudié en la UTN de General Pacheco.
+Soy Ingeniero Mecánico y tengo un posgrado en Ingeniería Laboral (Higiene y Seguridad Industrial).
+Mi experiencia laboral me desarrolló en todas las áreas de manufactura.
+
+Saludos cordiales,
+
+Ing. Héctor R. Mansilla
+DNI 13.363.846
+Cel. 0266 4938688
+Skype: hector.mansilla15
+
+Security_code : ynjry
+Send : Enviar
+
+---------------
+

@@ -1,0 +1,45 @@
+Address : 179.36.131.143
+Nombre : miguel angel
+Apellido : frias
+Cargo : operario, laboratorio,comprimidor y distribucion
+Direccion : epecuen 719
+Ciudad : buenos aires
+Telefono : (0220)4972746
+Email : sneek_miguel@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : gracias..
+Security_code : ncfq2
+Send : Enviar
+
+---------------
+
+Address : 190.227.59.19
+Nombre : Brenca Carolina
+Apellido : Fernández
+Cargo : Administrativa
+Direccion : Bermúdez 1194
+Ciudad : CABA
+Telefono : 1149475333
+Email : fernandez.brenda.carolina@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Envío mi CV para ser tenida en cuenta en sus postulaciones laborales.
+Security_code : zyhvs
+Send : Enviar
+
+---------------
+
+Address : 190.227.59.19
+Nombre : Brenca Carolina
+Apellido : Fernández
+Cargo : Administrativa
+Direccion : Bermúdez 1194
+Ciudad : CABA
+Telefono : 1149475333
+Email : fernandez.brenda.carolina@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Envío mi CV para ser tenida en cuenta en sus postulaciones laborales.
+Security_code : zyhvs
+Send : Enviar
+
+---------------
+

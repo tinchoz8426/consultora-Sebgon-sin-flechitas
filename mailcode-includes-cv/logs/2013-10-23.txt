@@ -1,0 +1,15 @@
+Address : 190.175.66.116
+Nombre : Federico
+Apellido : Acosta
+Cargo : operario
+Direccion : Melincue
+Ciudad : buenos aires
+Telefono : 1557468906
+Email : fede_f_acosta@hotmail.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : envio de cv necesito trabajar
+Security_code : s8cq2
+Send : Enviar
+
+---------------
+

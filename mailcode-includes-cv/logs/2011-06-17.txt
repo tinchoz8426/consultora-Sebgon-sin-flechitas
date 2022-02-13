@@ -1,0 +1,77 @@
+Address : 190.244.61.236
+Nombre : María Sol
+Apellido : Ferreyra
+Cargo : Asistente Jr. de recursos humanos
+Direccion : Vedia 2058
+Ciudad : Capital Federal
+Telefono : 1535981635
+Email : sol.ferreyra@hotmail.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola, qué tal?
+Mi nombre es María Sol Ferreyra. Soy licenciada en psicología y estoy interesada en ingresar a trabajar en el área de recursos humanos. Muchas gracias.
+Security_code : 8xcxf
+Send : Enviar
+
+---------------
+
+Address : 190.50.12.128
+REF : gerente-de-operaciones
+Nombre : Evelyn
+Apellido : Vignale
+Cargo : Administrativa
+Direccion : 68 n° 2024
+Ciudad : La Plata
+Telefono : 0221-4505580
+Email : eve2414@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Disponibilidad horaria
+Security_code : v2pqx
+Send : Enviar
+
+---------------
+
+Address : 190.176.203.5
+Nombre : Renata Laura
+Apellido : Ciani
+Cargo : empleada o auxiliar contable
+Direccion : Cacique Inacayal
+Ciudad : Trelew
+Telefono : 02965-847307
+Email : rennie_c@live.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : les adjunto mi CV. Soy estudiante de Cs Economicas de la UNPSJB de la ciudad de Trelew.
+Security_code : m2j5y
+Send : Enviar
+
+---------------
+
+Address : 190.105.29.65
+Nombre : Pablo
+Apellido : Manjón
+Cargo : Back Office o área comercial en entidad bancaria
+Direccion : Aconcagua 300
+Ciudad : Ing. Maschwitz
+Telefono : 1565052496
+Email : pablo_manjonar@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenos días, mi nombre es Pablo Manjón. Adjunto mi Curriculum Vitae con el fin de que me consideren para presentes o futuras ofertas laborales afines a mi perfil. Muchas gracias.
+Security_code : rbb7k
+Send : Enviar
+
+---------------
+
+Address : 186.19.112.163
+Nombre : Nadia Maribel
+Apellido : Ruhl
+Cargo : Indistinto
+Direccion : Carrasco 355 Dto. 5
+Ciudad : Villa Luzuriaga
+Telefono : 1568940299
+Email : nanu_m14@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Mediante este contacto les envío mis datos para postularme a sus ofertas de empleo. Muchas gracias.
+Security_code : px95j
+Send : Enviar
+
+---------------
+

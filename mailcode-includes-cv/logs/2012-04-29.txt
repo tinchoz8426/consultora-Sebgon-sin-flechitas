@@ -1,0 +1,68 @@
+Address : 186.134.20.64
+REF : supervisor-de-elaboracion
+Nombre : ricardo daniel
+Apellido : marco
+Cargo : supervisor de produccion
+Direccion : benito juarez (actual miguel cané)
+Ciudad : haedo
+Telefono : 4443-5480
+Email : ridamar27@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Sr.:
+        Me dirijo a usted en respuesta al aviso publicado.
+ Creo cumplir con los requisitos solicitados, por lo que me postulo para el puesto. Mis referencias se encuentran en el CV  y a su disposición.       
+
+ De ser de su interés, estoy dispuesto a realizar una entrevista en fecha y hora a convenir.
+       A la espera de una respuesta satisfactoria, saludo atte.
+
+                                                                          Ricardo D.  Marco
+                                                                             DNI: 13596763
+                            
+
+Security_code : pmcnb
+Send : Enviar
+
+---------------
+
+Address : 186.134.20.64
+REF : tecnico-quimico
+Nombre : ricardo
+Apellido : marco
+Cargo : tecnico quimico
+Direccion : b.juarez 2786
+Ciudad : haedo
+Telefono : 44435480
+Email : ridamar27@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Sr.:
+        Me dirijo a usted en respuesta al aviso publicado.
+ Creo cumplir con los requisitos solicitados, por lo que me postulo para el puesto. Mis referencias se encuentran en el CV  y a su disposición.       
+
+ De ser de su interés, estoy dispuesto a realizar una entrevista en fecha y hora a convenir.
+       A la espera de una respuesta satisfactoria, saludo atte.
+
+                                                                          Ricardo D.  Marco
+                                                                             DNI: 13596763
+                            
+
+Security_code : hw574
+Send : Enviar
+
+---------------
+
+Address : 186.142.31.64
+REF : tecnico-quimico
+Nombre : Daina Antonela
+Apellido : Olmedo
+Cargo : atencion al cliente o a una empresa
+Direccion : lucio casarin 1939
+Ciudad : rafaela
+Telefono : 3492-15661596
+Email : anto_morocha17@hotmail.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : por favor necesito un trabajo ya!!
+Security_code : vtpds
+Send : Enviar
+
+---------------
+

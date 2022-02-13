@@ -1,0 +1,103 @@
+Address : 186.153.227.186
+Nombre : Mariano
+Apellido : Rivarola Vocos
+Cargo : Gerente
+Direccion : 12 de Octubre s/n - Rio Ceballos
+Ciudad : Córdoba
+Telefono : 03543454175
+Email : marianorivarola@yahoo.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Envío mi CV resumido para ser tenido en cuenta en vuestras búsquedas. Atte.
+Security_code : dkbt5
+Send : Enviar
+
+---------------
+
+Address : 190.105.89.218
+Nombre : Elio Sebastián
+Apellido : Mazmud
+Cargo : Seguridad
+Direccion : Paunero 1904 2° A
+Ciudad : San Miguel
+Telefono : 46678454
+Email : seba.mazmud@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Envío mi curriculum vitae, soy técnico en seguridad y curso la licenciatura
+Security_code : dn6tq
+Send : Enviar
+
+---------------
+
+Address : 190.113.164.211
+Nombre : Félix Pablo
+Apellido : Jarmolowicz
+Cargo : Administrativo-contable o VENDEDOR
+Direccion : Agustín Alvarez 451 - Casa "B-VII" - Barrio AMDE
+Ciudad : Gral. San Martín - Mendoza
+Telefono : 03563-15497362
+Email : pablo_jarmo@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados, buenos días. Envío mi C.V. para que sea tenido en cuenta por Uds. ante la necesidad de personal que se adecue a mi perfil.
+Atte. y quedo a vuestra disposición.
+Security_code : rcmqf
+Send : Enviar
+
+---------------
+
+Address : 201.255.166.34
+Nombre : giselle
+Apellido : coria
+Cargo : admnisitrativa
+Direccion : yatay 3112
+Ciudad : lanus
+Telefono : 42098842
+Email : gisecoria@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Envio mis datos, para postularma a algun aviso de administracion.
+Security_code : dhhsw
+Send : Enviar
+
+---------------
+
+Address : 190.19.42.219
+Nombre : Fernando
+Apellido : Boccazzi
+Cargo : Productor Ejecutivo - Productor Comercial - Creativo - Realizador
+Direccion : Beauchef 725 piso 4 dto A 
+Ciudad : CABA
+Telefono : +54 11 4923 5956
+Email : fernando@noztoccoop.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Atención Consultora en RRHH Sebgon:
+
+Me pongo en contacto con ustedes interesado en los servicios de consultoría que ofrecen a fin de agradecerles ser tenido en cuenta para futuras búsquedas laborales compatibles con mi perfil. 
+
+Como podrán desprender de mi historia de vida, tengo una importante carrera en medios que he llevado con gran amor, pasión y desprendimiento. Durante una gran parte de mi vida he servido a través de los programas y acciones que he producido/dirigido a la comunicación de importantes marcas como Panasonic, Ford y otras, tanto con contenidos ad hoc, acciones virales y eventos de alto impacto mediático (como por ejemplo la "Gira de la Amistad" en las Islas Malvinas) así en TV como en Web y gráfica. 
+
+Mi formación de campo ha sido orientada fuertemente tanto en el perfil comercial como el creativo, desde la producción general y ejecutiva a la realización, obteniendo una visión global que me ha permitido generar acciones de gran eficiencia. 
+
+He llevado adelante importantes logros tanto en relación de dependencia como en mis emprendimientos personales.
+
+En estos momentos, dando por concluido mi ciclo freelance, me encuentro en la búsqueda de insertarme en el staff de una compañía sólida que valore el buen clima de trabajo y el compañerismo, pudiendo ofrecer todo el bagaje de formación y contactos para seguir creciendo junto a su productora.
+
+Tengo interés ya sea en continuar mi carrera profesional en la ciudad de Buenos Aires o como en la ciudad de Córdoba o San Luis. 
+
+Mi dedicación es full time y la remuneración pretendida es ampliamente conversable en función de la proyección y garantías de cada empresa, así como de las responsabilidades a adquirir. 
+
+Desde ya muchísimas gracias por su atención, me despido poniéndome a su disposición para una entrevista personal en la que pueda explayarme con mayor profundidad acerca de las motivaciones y cualidades que tengo para ofrecer y aportar a las empresas.  
+
+
+Un cordial saludo,
+
+---
+Fernando Boccazzi 
+fernando@boccazzi.com.ar 
+cel: (+54 9 11) 5651-1125
+(+5411) 4923-5956
+
+
+Security_code : 5s46c
+Send : Enviar
+
+---------------
+

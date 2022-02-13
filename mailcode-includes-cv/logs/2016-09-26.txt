@@ -1,0 +1,40 @@
+Address : 181.45.179.176<br>
+ <br>Nombre : Maite
+ <br>Apellido : Moschin
+ <br>Cargo : Administrativa/Atencion al cliente
+ <br>Direccion : Rio de Janeiro 3377
+ <br>Ciudad : castelar
+ <br>Telefono : 011- 15 6569 1030
+ <br>Email : maitemoschin@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : A  quien corresponda:
+
+                                      A través del presente, adjunto mi CV para ser considerada para las presentes y futuras búsquedas laborales en su institución.
+Poseo mas de 4 años de experiencia laboral en recepción, facturación, atención al cliente, trámites con obras sociales y bancarios.
+Dispongo disponibilidad horaria full time, movilidad propia y la posibilidad de incorporación inmediata.
+
+Desde ya, muchas gracias,
+
+Saluda atte.,
+
+Maite Moschin
+ <br>Security_code : 7stpz
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.138.246.67<br>
+ <br>Nombre : Agustina
+ <br>Apellido : Brunello
+ <br>Cargo : Atencion al cliente
+ <br>Direccion : Emperanza 1197
+ <br>Ciudad : Ituzaingo - Buenos Aires
+ <br>Telefono : 1554743297
+ <br>Email : agus.brunello@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estoy en la busqueda de un trabajo estable que me permita continuar con mis estudios.
+ <br>Security_code : stgc8
+ <br>Send : Enviar
+ <br>
+---------------
+

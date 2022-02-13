@@ -1,0 +1,15 @@
+Address : 190.174.67.117
+Nombre : Pamela Romina
+Apellido : Surza
+Cargo : recepcionista/ secretaria
+Direccion : calle 49A Nº 6147
+Ciudad : Berazategui
+Telefono : 42150329
+Email : ro_mynick@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hace mucho que busco trabajo y no consigo. Espero que me puedan ayudar.
+Security_code : j6hvw
+Send : Enviar
+
+---------------
+

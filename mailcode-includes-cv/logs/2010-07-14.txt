@@ -1,0 +1,141 @@
+Address : 190.244.172.250
+Nombre : Vanina
+Apellido : Peralta
+Cargo : Recepcionista
+Direccion : Maza 1246
+Ciudad : C.A.B.A
+Telefono : 4932-8254
+Email : vanina.peralta@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : A quien corresponda 
+
+Envío el C-Vitae solicitado
+Atentamente
+
+Vanina Peralta
+Security_code : pt85x
+Send : Enviar
+
+---------------
+
+Address : 168.226.40.110
+Nombre : Cluadio Ariel
+Apellido : Fernandez
+Cargo : Varios
+Direccion : Cte. Grandville 2475
+Ciudad : Rafael Castillo
+Telefono : 011-4690-0030
+Email : aryel.fernandez@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : El propósito es, adquirir conocimiento y experiencia en el campo.
+Security_code : q7qqg
+Send : Enviar
+
+---------------
+
+Address : 190.137.24.36
+Nombre : Cecilia Viviana 
+Apellido : González
+Cargo : Administrativa
+Direccion : Saladillo 635 Castelar Sur
+Ciudad : Bs As
+Telefono : 4624-6797
+Email : ceciliagonzalez07@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me dirijo a ustedes con el próposito de tener en algun momento la posibilidad de ser entrevistada por ustedes y asi poder dejarles una imagen con respecto a mi persona y mis conocimientos.
+Gracias.
+Aguardo su entrevista.
+Cecilia González
+Security_code : KY7D3
+Send : Enviar
+
+---------------
+
+Address : 190.137.24.36
+Nombre : Cecilia Viviana
+Apellido : González
+Cargo : Administrativa
+Direccion : Saladillo 635 Castelar Sur
+Ciudad : Bs. As
+Telefono : 4624-6797
+Email : ceciliagonzalez07@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me dirijo a ustedes con el propósito de hacerles llegar mi Cv, para asi poder tener en alguna oportunidad una entrevista con ustedes.
+Gracias
+Security_code : 4pk5m
+Send : Enviar
+
+---------------
+
+Address : 209.13.159.250
+Nombre : christian
+Apellido : garofalo
+Cargo : Analista - Responsable
+Direccion : vedia 30
+Ciudad : avellaneda
+Telefono : 1565399009
+Email : chgg1971@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Envio CV. me interesa trabajar en areas de Calidad, Aseguramiento de la Calidad,
+S, Higiene y Medio Ambiente
+Security_code : msk5x
+Send : Enviar
+
+---------------
+
+Address : 190.176.196.5
+Nombre : Facundo Agustín
+Apellido : Carranza
+Cargo : Técnico Sup. en Seguridad e Higiene Laboral
+Direccion : Bulnes 1615
+Ciudad : Capital Federal
+Telefono : 011-37870425
+Email : carranzafacundo.a@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimado Destinatario:
+ 
+Me dirijo a usted con el propósito de presentarme y dar a conocer mi perfil profesional. 
+Durante mi formación me he desempeñado en actividades de diversa índole, destacando la capacidad para planificar, organizar, dirigir y liderar la actividad laboral; así como también gran versatilidad para adaptarme a cualquier puesto de trabajo. 
+Desde el año 2005 administrando personal.
+ 
+Me gusta trabajar con la gente, capacitar y entrenar a otros. Educar y ser educado. Resolver problemas e implementar soluciones.
+Encuentro particular interés en los recursos humanos, el trabajo en equipo, la comunicación estratégica, las relaciones interpersonales, la salud y seguridad de mis pares, como también la integridad del ambiente laboral. 
+Mis objetivos se encuentran relacionados con la posibilidad de adquirir la experiencia necesaria para progresar día a día en el mundo laboral. 
+Integrar la promoción y actualización de estudios como herramienta para el crecimiento profesional. 
+Y fundamentalmente, hacer lo que me gusta.
+A su disposición, adjunto Currículum Vitae.
+Desde ya, muchas gracias por su tiempo.
+ 
+Cordialmente.
+ 
+Facundo Agustín Carranza.
+
+
+Security_code : 3582t
+Send : Enviar
+
+---------------
+
+Address : 190.183.25.88
+Nombre : María Paula
+Apellido : García de Jong
+Cargo : Realización de Informes Socio ambientales
+Direccion : Monteverdo Nº 1789
+Ciudad : Paraná
+Telefono : 0343-4228847
+Email : lapolillaar@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Por la presente, la que suscribe, Licenciada en Trabajo Social García María Paula Matricula Profesional Nº 906; envia adjunto Curriculum Vitae; cumplimentando con los requisitos necesarios para dicho trabajo.
+Cabe aclarar que es de mi interés personal y profesional ser aspirante a dicha propuesta; puesto que poseo la experiencia,formación, resposabilidad y compromiso profesional necesarios para la función a desempeñar.
+Es de destacar que el Trabajo Social como disciplina del Campo de las Ciencias Sociales posee los argumentos y herramientas necesarios para la intervención en lo social; entendiendo al Trabajador Social como un sujeto de conocimiento que propicia a la relación Estado- Sociedad, Sujeto-Comunidad.
+Sin más, le saludo a Ud. muy atentamente y a la espera de una respuesta favorable.
+ 
+Lic. en Trabajo Social
+García María Paula
+Mat. Prof. Nº 906
+Paraná Entre Ríos.-
+Security_code : fwrdg
+Send : Enviar
+
+---------------
+

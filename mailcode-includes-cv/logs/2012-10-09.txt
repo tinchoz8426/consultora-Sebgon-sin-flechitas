@@ -1,0 +1,16 @@
+Address : 190.174.182.201
+Nombre : soledad
+Apellido : gil
+Cargo : atencion al cliente,recepcion
+Direccion : gluk 3840
+Ciudad : hurlingham
+Telefono : 44599125
+Email : soledadgil_2005@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : hola:estoy en la busqueda de empleo tengo experiencia en ventas,atencion al cliente,tambien me desempeño muy bien en el area de recepcion.
+muchas gracias.
+Security_code : xd3sr
+Send : Enviar
+
+---------------
+

@@ -1,0 +1,110 @@
+Address : 190.247.145.232
+Nombre : Daniel
+Apellido : Segura
+Cargo : Operario Deposito
+Direccion : Ave. Dardo Rocha 
+Ciudad : Tigre
+Telefono : 1535723989
+Email : seguradaniel_03@hotmail.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Mediante la presente, les dejo mi C.V para obtener una oportunidad laboral. saludos atte. Segura Daniel
+Security_code : jr8zj
+Send : Enviar
+
+---------------
+
+Address : 190.247.145.232
+Nombre : mariela
+Apellido : ferrari lopez
+Cargo : operaria deposito
+Direccion : Ave Dardo Rocha
+Ciudad : Tigre
+Telefono : 1565218186
+Email : tomak06@hotmail.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Mediante la presente, dejo a su dispocision mi Curriculum. 
+Security_code : bcsn6
+Send : Enviar
+
+---------------
+
+Address : 190.48.122.72
+REF : jefe-de-operaciones
+Nombre : stella
+Apellido : Rodriguez
+Cargo : Empleada 
+Direccion : Mrtiniano Leguizamon 3751
+Ciudad : Buenos aires 
+Telefono : 46021510
+Email : titi_teamo_30@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : deseo adquirir mas experiencia laboral y desempeñarme a cualquier puesto laboral que se me asigne ya que mi situacion económica no es muy buena desde ya muchas gracias 
+Security_code : nj4q8
+Send : Enviar
+
+---------------
+
+Address : 190.195.111.81
+Nombre : Mónica
+Apellido : Tisocco
+Cargo : Secretaria Ejecutiva Bilingüe
+Direccion : Agüero 1450
+Ciudad : CABA
+Telefono : 15 6324 4477
+Email : m.tisocco@fibertel.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenas tardes, les envío mi CV para vuestras búsquedas laborales como Secretaria Ejecutiva Bilingüe. Muchas gracias.
+Mónica Tisocco
+Security_code : z4wmq
+Send : Enviar
+
+---------------
+
+Address : 190.195.111.81
+Nombre : Mónica
+Apellido : Tisocco
+Cargo : Secretaria Ejecutiva Bilingüe
+Direccion : Agüero 1450
+Ciudad : CABA
+Telefono : 15 6324 4477
+Email : m.tisocco@fibertel.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenas tardes, les envío mi CV para vuestras búsquedas laborales como Secretaria Ejecutiva Bilingüe. Muchas gracias.
+Mónica Tisocco
+Security_code : Z4wmq
+Send : Enviar
+
+---------------
+
+Address : 190.195.111.81
+Nombre : Mónica
+Apellido : Tisocco
+Cargo : Secretaria Ejecutiva Bilingüe
+Direccion : Agüero 1450
+Ciudad : CABA
+Telefono : 15 6324 4477
+Email : m.tisocco@fibertel.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenas tardes, les envío mi CV para vuestras búsquedas laborales como Secretaria Ejecutiva Bilingüe. Muchas gracias.
+Mónica Tisocco
+Security_code : z4wmq
+Send : Enviar
+
+---------------
+
+Address : 190.195.111.81
+Nombre : Mónica
+Apellido : Tisocco
+Cargo : Secretaria Ejecutiva Bilingüe
+Direccion : Agüero 1450
+Ciudad : CABA
+Telefono : 15 6324 4477
+Email : m.tisocco@fibertel.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenas tardes, les envío mi CV para vuestras búsquedas laborales como Secretaria Ejecutiva Bilingüe. Muchas gracias.
+Mónica Tisocco
+Security_code : 4767x
+Send : Enviar
+
+---------------
+

@@ -1,0 +1,58 @@
+Address : 186.84.110.185
+Nombre : dania
+Apellido : mahecha araque
+Cargo : analista de seguridad
+Direccion : manzana 59 a casa 4 topacio
+Ciudad : ibague
+Telefono :   (8)  2787194
+Email : grafoshir@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : PERFIL
+Tecnica en criminalistica y perito en grafologia y documentologia con experiencia de 3 años en areas de la investigacion
+Security_code : x76xk
+Send : Enviar
+
+---------------
+
+Address : 181.21.131.253
+Nombre : ALFREDO
+Apellido : CRISTAUDO
+Cargo : EMPLEADO
+Direccion : DEL SALMÒN 367
+Ciudad : MONTE HERMOSO 8153 (PCIA BS AS)
+Telefono : 02915220188
+Email : alfredocristaudo@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : BILINGÜE ITALIANO ESPAÑOL...
+ME RECIBÌ EN ITALIA.
+Security_code : ns33f
+Send : Enviar
+
+---------------
+
+Address : 190.48.165.210
+Nombre : Francisco
+Apellido : Flores
+Cargo : Todos
+Direccion : Ruta 8 km 56 y 1/2
+Ciudad : Pilar
+Telefono : 011 15 31802570
+Email : franflores95@gmail.com
+
+---------------
+
+Address : 186.13.7.151
+Nombre : cesar isaias 
+Apellido : tentor
+Cargo : soldador, secretario, encargado de area.
+Direccion : obera 
+Ciudad : obera 
+Telefono : 03755-15698941
+Email : cesartentor@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : hola soy cesar tentor y estoy en la busqueda de empleo, ya sea do lo que fuere en cualquier provincia, se mucho de computacion, secundaria completa y dos años se ciencias politicas , trabaje como encargado de empresa con mas de 100 empleados , manejo de liquidacion, encargado de area textil. soldador, chofer, mantenimiento en general.
+Security_code : d9x9v
+Send : Enviar
+
+---------------
+

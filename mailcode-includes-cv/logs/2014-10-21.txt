@@ -1,0 +1,111 @@
+Address : 190.230.176.8
+REF : GERENTE-DE-PRODUCCION
+Nombre : Eduardo
+Apellido : Aiassa
+Cargo : Gerente de Producción
+Direccion : Navarro 3546
+Ciudad : Capital Federal
+Telefono : 15-5737-8680
+Email : eduardo.aiassa@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Agradezco la posibilidad de postulación para ésta u otras oportunidades acorde a mi perfil gerencial. Gracias
+Security_code : wwrqd
+Send : Enviar
+
+---------------
+
+Address : 190.230.176.8
+REF : GERENTE-DE-PRODUCCION
+Nombre : Eduardo
+Apellido : Aiassa
+Cargo : Gerente de Producción
+Direccion : Navarro 3546
+Ciudad : Capital Federal
+Telefono : 15-5737-8680
+Email : eduardo.aiassa@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Agradezco la posibilidad de postulación para ésta u otras oportunidades acorde a mi perfil gerencial. Gracias
+Security_code : wwrqd
+Send : Enviar
+
+---------------
+
+Address : 200.69.41.250
+Nombre : Mariela
+Apellido : Padovani
+Cargo : atención al cliente/recepción/administración
+Direccion : Fragio 955
+Ciudad : Ituzaingó
+Telefono : 15-66869230
+Email : marielapadovani@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados, adjunto mi currículum a fin de ser tenida en cuenta en presentes y futuras búsquedas.
+
+Saludos cordiales
+Mariela Padovani
+Security_code : vzmgz
+Send : Enviar
+
+---------------
+
+Address : 186.19.223.127
+Nombre : Micaela Noe
+Apellido : Canova
+Cargo : ADM/CADETE/PRODUCCION/ETC
+Direccion : Lucio v Lopez 729
+Ciudad : Temperley
+Telefono : 1565747944
+Email : goteanestrellas@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Dios los bendiga !
+Security_code : vcqx8
+Send : Enviar
+
+---------------
+
+Address : 181.88.180.242
+REF : GERENTE-DE-PRODUCCION
+Nombre : Pedro Angel
+Apellido : Balanda
+Cargo : jefe de area vivero
+Direccion : ruta 12 km 7,5
+Ciudad : posadas
+Telefono : 03755-15649174
+Email : angelbalanda@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : estimados dejo mi CV y quedo a su disposicion
+Security_code : xft9c
+Send : Enviar
+
+---------------
+
+Address : 181.228.177.251
+Nombre : Horacio
+Apellido : Viganotti
+Cargo : Administracion
+Direccion : Pi y Margall 420 10° R
+Ciudad : Capital Federal
+Telefono : 011 155684657
+Email : hviganotti@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados, les adjunto mi CV para posibles busquedas
+Security_code : q7xzk
+Send : Enviar
+
+---------------
+
+Address : 181.46.37.143
+Nombre : ignacio
+Apellido : sanglar
+Cargo : abogado
+Direccion : victoria 185
+Ciudad : bernal
+Telefono : 20701595
+Email : ignaciosanlar@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : hola
+Security_code : 96yp9
+Send : Enviar
+
+---------------
+

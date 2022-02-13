@@ -1,0 +1,34 @@
+Address : 186.129.219.175
+Nombre : Antonella Soledad
+Apellido : Rodriguez
+Cargo : Administrativa, Telemarketer, cajera, atencion al cliente
+Direccion : J. Mazzini 2015 
+Ciudad : Hurlingham
+Telefono : 1123056571
+Email : antosole2011@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto mi CV para postularme en las busquedas de atencion al cliente, administrativa, telemarketer, cajera o vendedora. Muchas gracias.
+atte.
+Antonella.
+Security_code : 77pzc
+Send : Enviar
+
+---------------
+
+Address : 190.50.177.154
+Nombre : Marcela Caludia
+Apellido : Fernandez
+Cargo : Capacitador para directivos
+Direccion : Alvear 444
+Ciudad : Ramos Mejia
+Telefono : 155 1123584
+Email : marcelaclaudiaf@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados:
+Soy profesional con amplia experiencia en el desarrollo, dictado y seguimiento de aprendizajes. Estoy a su disposición para concertar una entrevista donde estoy segura que será para beneficio mutuo. Cordialmente
+Marcela Fernández
+Security_code : 3nsrq
+Send : Enviar
+
+---------------
+

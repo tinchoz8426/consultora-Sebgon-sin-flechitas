@@ -1,0 +1,136 @@
+Address : 186.22.137.122
+Nombre : María José
+Apellido : Isola
+Cargo : Quiero formar parte de la Base de Datos
+Direccion : Anchorena 1451 6 B
+Ciudad : CABA
+Telefono : 48218966
+Email : mariajoseisola@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados Consultora Sebgon:
+Les envío mi CV para formar parte de su base de datos. 
+Busco trabajo como Secretaria Ejecutiva o Asistente de Comunicación. 
+Soy Licenciada en Relaciones Públicas y Correctora de Textos. 
+Quedo a su disposición. 
+​María José Isola​
+Security_code : 5jj4y
+Send : Enviar
+
+---------------
+
+Address : 186.22.137.122
+Nombre : María José
+Apellido : Isola
+Cargo : Quiero formar parte de la Base de Datos
+Direccion : Anchorena 1451 6 B
+Ciudad : CABA
+Telefono : 48218966
+Email : mariajoseisola@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados Consultora Sebgon:
+Les envío mi CV para formar parte de su base de datos. 
+Busco trabajo como Secretaria Ejecutiva o Asistente de Comunicación. 
+Soy Licenciada en Relaciones Públicas y Correctora de Textos. 
+Quedo a su disposición. 
+​María José Isola​
+Security_code : 5jj4y
+Send : Enviar
+
+---------------
+
+Address : 186.22.137.122
+Nombre : María José
+Apellido : Isola
+Cargo : Quiero formar parte de la Base de Datos
+Direccion : Anchorena 1451 6 B
+Ciudad : CABA
+Telefono : 48218966
+Email : mariajoseisola@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados Consultora Sebgon:
+Les envío mi CV para formar parte de su base de datos. 
+Busco trabajo como Secretaria Ejecutiva o Asistente de Comunicación. 
+Soy Licenciada en Relaciones Públicas y Correctora de Textos. 
+Quedo a su disposición. 
+​María José Isola​
+Security_code : rm22n
+Send : Enviar
+
+---------------
+
+Address : 190.173.161.153
+Nombre : victor miguel
+Apellido : marsiglia
+Cargo : peluquero/repositor parra supermercado/chofer
+Direccion : E. Larreta 4317
+Ciudad : ituzaingo
+Telefono : 1550947998
+Email : victorm1@live.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : hola tengo 54 años , no fumo ,no tomo ningún tipo de remedios soy responsable. acepto trabajos medio tiempo .
+Security_code : rpdhg
+Send : Enviar
+
+---------------
+
+Address : 181.25.160.35
+Nombre : daniela giselle
+Apellido : flores
+Cargo : vendedora o maestranza
+Direccion : gatica 341
+Ciudad : neuquen capital
+Telefono : 2995122833
+Email : nany22_nqn@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : hola que tal ando en busca de trabajo.espero su respuesta.soy muy responsable
+Security_code : hbpsh
+Send : Enviar
+
+---------------
+
+Address : 181.31.35.109
+Nombre : Paula
+Apellido : Haftel
+Cargo : Vendedora
+Direccion : Reybaud 1762
+Ciudad : Don Torcuato
+Telefono : 47418796
+Email : paulahaftel@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Tengo discapacidad: Trastorno Bipolar.
+Security_code : 8m5d3
+Send : Enviar
+
+---------------
+
+Address : 181.118.223.154
+Nombre : daniela soledad
+Apellido : molina
+Cargo : operaria
+Direccion : virgilio 4123
+Ciudad : buenos aires
+Telefono : 01142737652
+Email : daniela.soledad.molina@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : busco trabajo con suma urgencia  
+Security_code : jxwg3
+Send : Enviar
+
+---------------
+
+Address : 186.134.223.31
+Nombre : Macarena
+Apellido : Castelao
+Cargo : Secretaria
+Direccion : nazar 893
+Ciudad : lanus
+Telefono : 1564658591
+Email : macarenacastelao@live.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Envío mi curriculum vitae para que me tenga en cuenta para los puestos de secretaria, recepcionista, asistente o fotógrafo.
+Muchas Gracias.
+Security_code : nf7zb
+Send : Enviar
+
+---------------
+

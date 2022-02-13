@@ -1,0 +1,146 @@
+Address : 66.249.83.35<br>
+ <br>Nombre : Jorge
+ <br>Apellido : Arca
+ <br>Cargo : Jefe operaciones
+ <br>Direccion : Bahía blanca 1852
+ <br>Ciudad : Caba
+ <br>Telefono : 1169776471
+ <br>Email : jormdp@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Sres. Estoy en la búsqueda laboral.
+ <br>Security_code : 99b8j
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.83.32<br>
+ <br>Nombre : Rocio
+ <br>Apellido : Norez
+ <br>Cargo : Administración , mantenimiento , cajera
+ <br>Direccion : Alfonsina Storni 488
+ <br>Ciudad : Zárate
+ <br>Telefono : 3487702970
+ <br>Email : Marisabelrocionorez@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Busco Trabajo.
+ <br>Security_code : Rrmnf
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.83.38<br>
+ <br>Nombre : Rocio
+ <br>Apellido : Norez
+ <br>Cargo : Administración , mantenimiento , cajera
+ <br>Direccion : Alfonsina Storni 488
+ <br>Ciudad : Zárate
+ <br>Telefono : 3487702970
+ <br>Email : Marisabelrocionorez@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Busco Trabajo.
+ <br>Security_code : rrmnf
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.83.35<br>
+ <br>Nombre : Rocio
+ <br>Apellido : Norez
+ <br>Cargo : Administración , mantenimiento , cajera
+ <br>Direccion : Alfonsina Storni 488
+ <br>Ciudad : Zárate
+ <br>Telefono : 3487702970
+ <br>Email : Marisabelrocionorez@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Busco Trabajo.
+ <br>Security_code : d6m3v
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.166.23.225<br>
+ <br>Nombre : FRANCISCO
+ <br>Apellido : tomatis
+ <br>Cargo : -
+ <br>Direccion : eva peron 2856
+ <br>Ciudad : Santa Fe
+ <br>Telefono : 03498434092
+ <br>Email : tomatisfrancisco@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenos días,
+Mi nombre es Francisco Tomatis, santafesino de 23 años de edad. 
+Soy Técnico Universitario en Evaluación Ambiental (Julio, 2017) y reciente recibido de Licenciado en Ciencias Ambientales (Mayo, 2018), ambas carreras correspondientes a la Universidad Católica de Santa Fe.
+Me comunico bajo el interés de poder formar parte de un equipo de trabajo donde se involucren directamente en busca de la responsabilidad  ambiental y la sustentabilidad.  
+Debido a mi formación, me especializo en evaluaciones ambientales, sistemas de gestión ambiental, control de calidad, ordenación territorial, planeamiento, gestión integral de residuos urbanos e industriales, formación y manejo de equipos de trabajo multidisciplinario, energías renovables, inspecciones y auditorias, entre otras.
+Motivado en poder progresar como profesional y desarrollar mis capacidades, tanto técnicas y humanas, dejaré mi CV, atento a novedades.
+Actualmente vivo la ciudad de Santa Fe, pero no tendría problemas en cuanto a la movilidad hacia otras localidades. Personalmente lo considero un progreso el poder vivir nuevas experiencias.
+
+Saludos coordiales.
+
+ <br>Security_code : sdzx9
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 186.182.106.197<br>
+ <br>REF : TEC. EL
+ <br>Nombre : Matías
+ <br>Apellido : Ruggeri
+ <br>Cargo : Técnico electrónico especializado
+ <br>Direccion : Carlos Casares 2240
+ <br>Ciudad : Morón
+ <br>Telefono : 1162898672
+ <br>Email : mdruggeri@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Adjunto CV.
+ <br>Security_code : brj7h
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.47.137.90<br>
+ <br>REF : ACO-1
+ <br>Nombre : Francisco
+ <br>Apellido : Blanco
+ <br>Cargo : ANALISTA DE COMERCIO INTERNACIONAL/EXTERIOR
+ <br>Direccion : oro, 2366
+ <br>Ciudad : C.A.B.A
+ <br>Telefono : 1166677542
+ <br>Email : dafranciscoblanco@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Para puesto de trabajo 
+ <br>Security_code : pxzps
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.244.114.63<br>
+ <br>Nombre : Iara
+ <br>Apellido : salomone
+ <br>Cargo : Administrativo o comercial
+ <br>Direccion : rodriguez peña
+ <br>Ciudad : Castelar
+ <br>Telefono : 1141624329
+ <br>Email : iara.salomone1@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Envio mi cv para futuras vacantes laborales en sector comercial/administrativo. 
+ <br>Security_code : y4c3z
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.17.36.77<br>
+ <br>Nombre : Deysi
+ <br>Apellido : condori
+ <br>Cargo : Tecnico en higiene y seguridad
+ <br>Direccion : Urquiza 69
+ <br>Ciudad : cordoba
+ <br>Telefono : 341-2729920
+ <br>Email : deysi_condori@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Horario full time
+ <br>Security_code : 84YVn
+ <br>Send : Enviar
+ <br>
+---------------
+

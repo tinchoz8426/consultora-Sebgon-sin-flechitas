@@ -1,0 +1,197 @@
+Address : 186.19.111.16
+Nombre : Martín Leandro
+Apellido : Latorre
+Cargo : Operario
+Direccion : Cardoso 4060
+Ciudad : Avellaneda
+Telefono : 1557415235
+Email : martinleandrolatorre@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Poder desempeñarme en un ámbito laboral en el cual brindar mi mayor esfuerzo, capacitarme  y aportar todos mis conocimientos para obtener los mejores resultados.
+Security_code : 62t2d
+Send : Enviar
+
+---------------
+
+Address : 190.138.34.165
+Nombre : Francisco
+Apellido : Nervegna 
+Cargo : Asistente administrativo 
+Direccion : Pacheco 2833
+Ciudad : Capital Federal 
+Telefono : 45224607
+Email : francisconervegna@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : El motivo del msj es claro, me encuentro en la busqueda de un empleo. Tengo facilidad de aprender tareas nuevas. Responsable y con muchas ganas de trabajar. 
+Security_code : zkp7n
+Send : Enviar
+
+---------------
+
+Address : 190.189.251.122
+Nombre : Silvina
+Apellido : Alberti Trepicchio
+Cargo : psicóloga
+Direccion : Sarmiento 1848
+Ciudad : Capital Federal
+Telefono : 011-15-40443339
+Email : silvina_at@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estoy interesada en conseguir un trabajo en el área de la educación o de la clínica
+Security_code : fh9kr
+Send : Enviar
+
+---------------
+
+Address : 190.175.18.236
+Nombre : Erica
+Apellido : Aguirre
+Cargo : psicologo
+Direccion : Hipolito Yrigoyen 3722 11 D
+Ciudad : CABA
+Telefono : 1136721868
+Email : ey.aguirre@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : A quien corresponda:
+
+Me pongo en contacto con ustedes para ofrecerle mi currículum vitae con mis datos personales,  profesionales y otros datos de interés, por si necesita cubrir, ahora o en un futuro próximo, algún puesto en referencia al ámbito de psicología.
+
+Como puede usted comprobar en el mismo, tengo experiencia en el mundo de la psicología, estando dispuesta a seguir aprendiendo y sabiendo que puedo aportar nuevas ideas y frescura al lugar de trabajo.
+
+Pueden ustedes ponerse en contacto conmigo mediante mi  móvil (1136721868) o mi mail. Espero recibir pronto noticias suyas sobre mi candidatura y sobre las posibilidades de trabajar con uds., mediante una entrevista personal.
+ 
+
+Estoy a su entera disposición, esperando sus noticias.
+
+ 
+
+Un cordial saludo
+Security_code : 3hx5k
+Send : Enviar
+
+---------------
+
+Address : 190.151.146.182
+Nombre : Hugo 
+Apellido : Mendez
+Cargo : Mantenimiento
+Direccion : Storni 650
+Ciudad : zarate
+Telefono : 03487571937
+Email : hugo_ciro.benja@hotmail.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Disponibilidad horaria y mucha voluntad de trabajar ortangando mi mejor esfuerzo y voluntad desde ya muchas gracias 
+Security_code : qh8k8
+Send : Enviar
+
+---------------
+
+Address : 190.137.16.58
+Nombre : maria jazmin
+Apellido : zingaropoli
+Cargo : administracion 
+Direccion : luis viale 870 
+Ciudad : capital federal
+Telefono : 1558687842
+Email : mariajazminzingaropoli@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto mi CV por si sale alguna oferta laboral , acorde a mi perfil , atte.
+Security_code : 76x4h
+Send : Enviar
+
+---------------
+
+Address : 190.230.54.166
+Nombre : Arturo Federico
+Apellido : Sandoval
+Cargo : Consultor
+Direccion : Av. Gonzalez Lelong 1530
+Ciudad : Formosa
+Telefono : 0370-154850286
+Email : simeret2000@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenas tardes, adjunto mi CV, con la intensión de ser parte de esta empresa.
+saludos.
+Federico.-
+Security_code : dk986
+Send : Enviar
+
+---------------
+
+Address : 190.190.134.213
+Nombre : jimena
+Apellido : cornejo
+Cargo : secretaria
+Direccion : pasaje carlos carreras b°villa cabrera
+Ciudad : cordoba
+Telefono : 4895432
+Email : jimecat@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : necesito trabajo urgente y tengo disponibilidad full time 
+Security_code : fqkjd
+Send : Enviar
+
+---------------
+
+Address : 190.210.165.123
+Nombre : Romina
+Apellido : Ibarra
+Cargo : Administracion. Recepcion
+Direccion : Victor Hugo 558
+Ciudad : Wilde
+Telefono : 1553257813
+Email : RominaNatalin.Ibarra@Hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Necesito empleo. Disponibilidad horaria. Buena presencia. incorporacion inmediata
+Security_code : xhc24
+Send : Enviar
+
+---------------
+
+Address : 190.31.74.7
+REF : TELE
+Nombre : valeria
+Apellido : eroles
+Cargo : tele marketing 
+Direccion : bartolome mitre 
+Ciudad : cordoba
+Telefono : 3512621970
+Email : valeriaeroles@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : necesito trabajo urgente  propongo poner toda mi dedicación 
+Security_code : fmxsy
+Send : Enviar
+
+---------------
+
+Address : 190.31.74.7
+REF : GETECOM
+Nombre : valeria
+Apellido : eroles
+Cargo : vendedora 
+Direccion : bartolome mitre
+Ciudad : la calera
+Telefono : 3512621970
+Email : valeriaeroles@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : necesito trabajo 
+Security_code : 7kfqv
+Send : Enviar
+
+---------------
+
+Address : 186.39.250.209
+Nombre : Mauricio
+Apellido : Durán
+Cargo : operario
+Direccion : 261-4973808
+Ciudad : Maipú
+Telefono : 5492615461341
+Email : mauri_topo09@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Le envio mi Cv por la necesidad de encontrar empleo
+Security_code : 3yh35
+Send : Enviar
+
+---------------
+

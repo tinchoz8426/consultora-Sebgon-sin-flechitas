@@ -1,0 +1,33 @@
+Address : 190.192.210.48
+Nombre : María Constanza
+Apellido : Pedrosa
+Cargo : Psicologa
+Direccion : Asunción
+Ciudad : Capital
+Telefono : 1559943731
+Email : Pedrosa.mcp@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Mi nombre es María Constanza Pedrosa, Licenciada en Psicología. Me contacto con usted por medio de su pagina web. Estoy muy interesada en formar parte de la consultora, dentro de mi área de especialización. Estaré a la espera de una entrevista en el momento que usted considere oportuno. Desde ya, muchas gracias.
+
+Saludos cordiales.
+Constanza.
+Security_code : kj5gs
+Send : Enviar
+
+---------------
+
+Address : 186.18.142.252
+Nombre : Florencia Belén
+Apellido : Roglio Alfonso
+Cargo : Empleado
+Direccion : Buchardo 2769
+Ciudad : V. Luzuriaga
+Telefono : 2063-5935
+Email : florencia_roglio_a@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Busco empleo
+Security_code : qrhhx
+Send : Enviar
+
+---------------
+

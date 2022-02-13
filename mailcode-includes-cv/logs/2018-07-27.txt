@@ -1,0 +1,47 @@
+Address : 66.249.85.7<br>
+ <br>REF : TEC. EL
+ <br>Nombre : Daniel
+ <br>Apellido : Del castaño
+ <br>Cargo : Técnico de Mantenimiento
+ <br>Direccion : Fragata sarmiento 1656
+ <br>Ciudad : Merlo
+ <br>Telefono : 1166696687
+ <br>Email : danieldelcasta05@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Es importante mencionar que en pocos meses me estaré mudando hacia la localidad de gral Rodriguez
+ <br>Security_code : 9t4wz
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 66.249.85.7<br>
+ <br>REF : TEC. EL
+ <br>Nombre : Daniel
+ <br>Apellido : Del castaño
+ <br>Cargo : Técnico de Mantenimiento
+ <br>Direccion : Fragata sarmiento 1656
+ <br>Ciudad : Merlo
+ <br>Telefono : 1166696687
+ <br>Email : danieldelcasta05@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Es importante mencionar que en pocos meses me estaré mudando hacia la localidad de gral Rodriguez
+ <br>Security_code : 9t4wz
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 168.90.11.4<br>
+ <br>Nombre : Pablo
+ <br>Apellido : Egües
+ <br>Cargo : Administrador de Obras
+ <br>Direccion : Moreno 33 - 1ª - A
+ <br>Ciudad : PUERTO MADRYN
+ <br>Telefono : 0280154554211
+ <br>Email : pabloegues@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Me especializo en Administración de Obras civiles ej: Rutas, Gasoductos, Plantas de Gas.
+ <br>Security_code : r99dz
+ <br>Send : Enviar
+ <br>
+---------------
+

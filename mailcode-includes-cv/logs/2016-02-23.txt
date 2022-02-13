@@ -1,0 +1,169 @@
+Address : 24.232.109.205
+Nombre : maximiliano
+Apellido : santillan
+Cargo : soldador
+Direccion : gandolfo
+Ciudad : san fernando
+Telefono : 1530555899
+Email : msantillan75@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : soldador combinado calificado
+Security_code : f3x84
+Send : Enviar
+
+---------------
+
+Address : 186.136.68.192
+Nombre : María Luján
+Apellido : Toro
+Cargo : Administrativo
+Direccion : Paysandú 2080
+Ciudad : Ituzaingó
+Telefono : 1536742435
+Email : marilutoro@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto mi CV actualizado
+Security_code : f2dc2
+Send : Enviar
+
+---------------
+
+Address : 201.251.50.146
+Nombre : JESSICA
+Apellido : LOPEZ
+Cargo : ADMINISTRATIVO, SERVICIO AL CLIENTE, ASESORA DE VENTAS
+Direccion : calle 27 entre calles  84 y 86
+Ciudad : Mar del sud
+Telefono : +541166564461
+Email : jessymariana007@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Habilidades de adaptación y aprendizaje al puesto de trabajo. Responsable y con vocacion de servicio.
+Disponibilidad horaria y geográfica.
+Security_code : 238Z4
+Send : Enviar
+
+---------------
+
+Address : 200.126.162.23
+Nombre : Maria Florencia
+Apellido : Tarragona
+Cargo : Arquitecta
+Direccion : Aguirre 964
+Ciudad : CABA
+Telefono : 0221 15 5909418
+Email : florencia84@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Busco empleo como arquitecta.
+Security_code : dk735
+Send : Enviar
+
+---------------
+
+Address : 190.57.207.229
+Nombre : Antonela 
+Apellido : Guastaferri
+Cargo : administrativa . Recepción Atención al cliente
+Direccion : Lago Traful
+Ciudad : Pilar
+Telefono : 1167255021
+Email : a.v.guastaferri@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenas Tardes.
+
+Mi nombre es Antonela Guastaferri. vivo en Pilar, estoy en búsqueda de empleo.
+Busco algún empleo, de Recepcionista, Administrativa, Atención al publico.
+
+
+Gracias.
+
+Cordiales Saludos
+Security_code : f6fms
+Send : Enviar
+
+---------------
+
+Address : 190.57.207.229
+Nombre : Antonela 
+Apellido : Guastaferri
+Cargo : administrativa . Recepción Atención al cliente
+Direccion : Lago Traful
+Ciudad : Pilar
+Telefono : 1167255021
+Email : a.v.guastaferri@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenas Tardes.
+
+Mi nombre es Antonela Guastaferri. vivo en Pilar, estoy en búsqueda de empleo.
+Busco algún empleo, de Recepcionista, Administrativa, Atención al publico.
+
+
+Gracias.
+
+Cordiales Saludos
+Security_code : f6fms
+Send : Enviar
+
+---------------
+
+Address : 190.57.207.229
+Nombre : Antonela 
+Apellido : Guastaferri
+Cargo : administrativa . Recepción Atención al cliente
+Direccion : Lago Traful
+Ciudad : Pilar
+Telefono : 1167255021
+Email : a.v.guastaferri@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenas Tardes.
+
+Mi nombre es Antonela Guastaferri. vivo en Pilar, estoy en búsqueda de empleo.
+Busco algún empleo, de Recepcionista, Administrativa, Atención al publico.
+
+
+Gracias.
+
+Cordiales Saludos
+Security_code : jyr8d
+Send : Enviar
+
+---------------
+
+Address : 190.57.207.229
+Nombre : Antonela 
+Apellido : Guastaferri
+Cargo : administrativa . Recepción Atención al cliente
+Direccion : Lago Traful
+Ciudad : Pilar
+Telefono : 1167255021
+Email : a.v.guastaferri@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenas Tardes.
+
+Mi nombre es Antonela Guastaferri. vivo en Pilar, estoy en búsqueda de empleo.
+Busco algún empleo, de Recepcionista, Administrativa, Atención al publico.
+
+
+Gracias.
+
+Cordiales Saludos
+Security_code : jyr8d
+Send : Enviar
+
+---------------
+
+Address : 181.169.189.73
+Nombre : Emiliano Matías
+Apellido : Felice
+Cargo : Encargado
+Direccion : Av. Maipú 1068
+Ciudad : Buenos Aires, GBA NORTE. Vicente López 
+Telefono : 1544082193
+Email : emilianomfelice@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Envío adjunto mi curriculum vitae. Desde ya, muchas gracias.
+Emiliano Matías Felice
+Security_code : qscs7
+Send : Enviar
+
+---------------
+

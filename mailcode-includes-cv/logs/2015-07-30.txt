@@ -1,0 +1,113 @@
+Address : 186.59.23.92
+Nombre : Diego
+Apellido : Quintero
+Cargo : Ventas y repositor
+Direccion : Cabo San Pedro 2282 - Godoy Cruz.
+Ciudad : Mendoza
+Telefono : (0261)- 155765021
+Email : diego.s.quintero@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje :  Hola, buen día estimados:, soy Quintero Diego Samuel. Tengo 23 años, soy de Mendoza -  Argentina y me gustaría formar parte de su equipo de trabajo ya que cuento con experiencia comprobable en ventas/atención al cliente  y repositor en Falabella, Mendoza Plaza Shopping. Tengo secundario completo y disponibilidad horaria full time para viajar y trabajar, ademas de tener entusiasmo en desempeñarme en nuevas áreas y aprender ingles es una de mis prioridades. Muchas gracias por la oportunidad y quedo a su disposición para ampliar la información que considere necesaria. Saludos cordiales.
+Security_code : swz88
+Send : Enviar
+
+---------------
+
+Address : 181.228.19.163
+Nombre : Lorena
+Apellido : Fabro
+Cargo : Administrativa/Recepcionista/Cajera/Atención al público
+Direccion : 3 de febrero 1770
+Ciudad : Paraná
+Telefono : 3434382323
+Email : lorefa19@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto Cv para que me tengan en cuenta para futuras vacantes al cual mi perfil encaje. Atte.Lorena Fabro
+Security_code : s89p9
+Send : Enviar
+
+---------------
+
+Address : 190.189.149.146
+Nombre : Diego Fernando
+Apellido : Lilli
+Cargo : Gerente - Jefe de Operaciones - Auditor
+Direccion : Somellera 1831
+Ciudad : Adrogue
+Telefono : 11-4293-2026
+Email : dlilli@outlook.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados:
+De mi mayor consideración. Junto a la presente acerco mi Curriculum Vitae con la finalidad de ser considerado para alguna búsqueda laboral actual o futura. Es mi intención poder volver insertarme en el mercado laboral con la mayor brevedad posible. 
+Espero que  alguna de mis capacidades pueda ser de utilidad para ustedes.
+Deseo desarrollarme con compromiso, profesionalismo, responsabilidad y eficacia en su empresa. Experiencias técnicas varias, estrategias de Coaching, Aiki Trainer y 20 años de KnowHow son mi mayor aliado a la hora de enfrentar cada proyecto.
+Desde ya agradezco su tiempo y colaboración.
+Saludos Cordiales.
+Diego Fernando Lilli
+
+Security_code : 3m62s
+Send : Enviar
+
+---------------
+
+Address : 190.19.125.102
+Nombre : martin
+Apellido : aronis
+Cargo : diseño grafico
+Direccion : Vélez Sarsfield 161 Piso 10 Dto. 10
+Ciudad : caba
+Telefono : 1555160096
+Email : martinaronis@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Proactivo, responsable, creativo, flexible, orientado al logro de resultados y a la resolución y evolución constante en las tareas asignadas. Mi objetivo es de formar parte del personal de una empresa confiable y con proyectos ambiciosos, en la cual pueda desarrollar todas mis aptitudes tanto para el crecimiento de la organización, como para el mío profesional. 
+Security_code : y45jf
+Send : Enviar
+
+---------------
+
+Address : 186.18.6.171
+Nombre : Tania
+Apellido : Rivero
+Cargo : Vendedora o cajera
+Direccion : Pedro goyena 5780
+Ciudad : Buenos aires
+Telefono : 1559402520
+Email : publicidades14@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Espero mi perfil sirva para algun puesto..
+Security_code : 9473q
+Send : Enviar
+
+---------------
+
+Address : 186.56.199.85
+Nombre : gladis elizabeth
+Apellido : castillo
+Cargo : operaria
+Direccion : einstein 
+Ciudad : moreno
+Telefono : 01134414555
+Email : gla120922@hotmail.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : hola, ingrese mi c.v. para poder formar parte de la agencia y asi poder postularme en algun puesto y conseguir trabajo. 
+Security_code : ftcbq
+Send : Enviar
+
+---------------
+
+Address : 200.82.115.9
+Nombre : Sebastian  
+Apellido : Enrst 
+Cargo : Recursos Humanos / Capacitacion
+Direccion : Pasteur 1933, El Talar
+Ciudad : Buenos Aires
+Telefono : 1530741913
+Email : seba19e@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenos días , ante todo me presento soy Sebastian Enrst . el motivo de este mail es para comentarle y hacerle llegar mi CV para  postularme actuales o futuras búsquedas laborales de acuerdo a mi perfil, tengo 19 años , secundario completo , iniciando la carrera de Licenciatura en Recursos Humanos, cuento con experiencia en empresa de Recursos Humanos como así también en la parte de producción de una multinacional muy conocida. a continuación detallo mi Cv y adjunto el mismo C/foto
+
+Security_code : 5pydr
+Send : Enviar
+
+---------------
+

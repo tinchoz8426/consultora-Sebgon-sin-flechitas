@@ -1,0 +1,15 @@
+Address : 201.216.198.29
+Nombre : Diego
+Apellido : Gonzalez
+Empresa : Soenergy International
+Telefono : 011 43313606
+Email : diego.gonzalez@soenergy.com.ar
+Mensaje : Los contacto por que estamos en la búsqueda de un taller de liderazgo para gerentes de área y mandos medio. 
+Quisiera saber que programas ofrecen para cubrir los siguientes temas: Comunicación efectiva, Presentaciones de alto impacto, Desarrollo de otros, Liderazgo 
+Muchas gracias
+
+Security_code : pthpf
+Send : Enviar
+
+---------------
+

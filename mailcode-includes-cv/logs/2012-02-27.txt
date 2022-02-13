@@ -1,0 +1,31 @@
+Address : 200.5.96.106
+Nombre : Maria Jose
+Apellido : Eastoe
+Cargo : Administrativo
+Direccion : Cervantes Saavedra 2812
+Ciudad : rio Gallegos
+Telefono : 2604559286
+Email : mariajose_eastoe@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados asoc de Sebgon:aqui les dejo mi cv para que lo tengan en cuenta para la vacante que surja,mi necesidad de trabajo es de toma inmediata.Desde ya muchas gracias,saluda atte.Maria Jose Eastoe
+Security_code : br4hq
+Send : Enviar
+
+---------------
+
+Address : 190.216.32.141
+REF : supervisor-seguridad
+Nombre : sergio
+Apellido : flores
+Cargo : responsable en higiene y seguridad en el trabajo
+Direccion : B° guillermo cano m-a c-18
+Ciudad : mendoza
+Telefono : 0263-154413075
+Email : yeiko36@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : me agrada comunicarles que me he recibido hace poco y quisiera ser parte  de vuestro equipo de trabajo aprendiendo.
+Security_code : fpcsd
+Send : Enviar
+
+---------------
+

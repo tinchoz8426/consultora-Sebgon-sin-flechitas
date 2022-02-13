@@ -1,0 +1,31 @@
+Address : 190.173.113.150
+Nombre : Florencia Natalin
+Apellido : Mansilla
+Cargo : Empleada administractiva, secretaria,vendedora
+Direccion : Ozanam 1422
+Ciudad : Moron
+Telefono : 1552218589
+Email : mansilla_flor@hotmail.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : desearia tener algun tipo de entrevista con ustedes, desde ya muchas gracias.
+saludos
+Security_code : dyxmd
+Send : Enviar
+
+---------------
+
+Address : 186.19.240.77
+Nombre : Yésica Belén
+Apellido : Greco
+Cargo : Secretaria/Telefonista/Vendedora/Administrativa
+Direccion : Rivera Indarte
+Ciudad : San Justo
+Telefono : 1567374112
+Email : grecoyesica@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Curriculum Vitae
+Security_code : wjctz
+Send : Enviar
+
+---------------
+

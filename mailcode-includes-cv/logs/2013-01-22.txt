@@ -1,0 +1,62 @@
+Address : 201.231.201.121
+Nombre : Favio Daniel
+Apellido : Morinico
+Cargo : Soporte Tecnico - Tareas de oficina - Telemarketer - Cajero - Ventas
+Direccion : Estado de Israel 4309 piso 1 dpto G
+Ciudad : Buenos Aires Capital Federal - Villa Crespo
+Telefono : 1562574156
+Email : favio.morinico@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenas Tardes mi nombre es Favio y les dejo mi curriculum a la pronta espera de una respuesta. Desde ya muchas gracias.
+Security_code : cw8fy
+Send : Enviar
+
+---------------
+
+Address : 190.226.193.110
+REF : tecnico-electornico
+Nombre : Silvio
+Apellido : Ramírez
+Cargo : Técnico
+Direccion : Rómulo Noya 878 3A
+Ciudad : Zárate
+Telefono : 3442643071
+Email : silvioramirez@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Postulación
+Security_code : ngh28
+Send : Enviar
+
+---------------
+
+Address : 190.244.102.149
+REF : jefe-de-operaciones
+Nombre : Sergio
+Apellido : Smurra
+Cargo : Administrador-AS400
+Direccion : Jaramillo 2877
+Ciudad : caba
+Telefono : 47024804
+Email : ssmurra@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Para ser tenido en cuenta en futuras busquedas
+Security_code : 3cwmp
+Send : Enviar
+
+---------------
+
+Address : 190.178.171.195
+Nombre : Maximiliano
+Apellido : Diaz D'Esposito
+Cargo : Ingeniero Químico
+Direccion : Sanchez de Bustamante 2088
+Ciudad : Ciudad Autónoma de Buenos Aires
+Telefono : 0223155378849
+Email : maxidiazdesp@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Ingeniero Químico recibido el 7 de Diciembre del 2012 de la  UNMDP. Resido en Capital Federal.
+Security_code : 47cqt
+Send : Enviar
+
+---------------
+

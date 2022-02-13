@@ -1,0 +1,107 @@
+Address : 190.172.8.167
+Nombre : miguel
+Apellido : prado saenz
+Cargo : Adminstrativo
+Direccion : cerrito
+Ciudad : CABA
+Telefono : 1136527740
+Email : miguelprado93s@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Les envío mi CV.
+Security_code : 3w8sn
+Send : Enviar
+
+---------------
+
+Address : 190.172.8.167
+Nombre : miguel
+Apellido : prado saenz
+Cargo : Adminstrativo
+Direccion : cerrito
+Ciudad : CABA
+Telefono : 1136527740
+Email : miguelprado93s@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Les envío mi CV.
+Security_code : 3w8sn
+Send : Enviar
+
+---------------
+
+Address : 66.249.83.72
+Nombre : Hernan Sebastian 
+Apellido : LLanos
+Cargo : supervisor-jefe-encargado
+Direccion : Jorge Newbery 615
+Ciudad : Jose c Paz
+Telefono : 1124459676
+Email : llanoshs@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados les envío mi CV para que me tengan en cuenta, desde ya muchas gracias
+Security_code : y9rtp
+Send : Enviar
+
+---------------
+
+Address : 190.225.95.54
+Nombre : Pablo
+Apellido : Muñoz
+Cargo : Calidad
+Direccion : Chubut 1240
+Ciudad : San Martin
+Telefono : 1161531750
+Email : pabloamunoz@hotmail.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Seria de mi interés poder tener una entrevista con ustdes
+Security_code : wntfs
+Send : Enviar
+
+---------------
+
+Address : 181.228.177.116
+Nombre : Lorena
+Apellido : Farace
+Cargo : secretaria o administrativa
+Direccion : W. Villafañe 1496
+Ciudad : Caba
+Telefono : 1560447123
+Email : lorefarace@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Tengo el agrado de dirigirme a ud. a fin de solicitarle tenga a bien evaluar mi CV y si segùn vuestro criterio amerite la posibilidad de contar con una entrevista, en la bùsqueda de una salida laboral, ya que servirà como una experiencia enriquecedora en lo que a crecimiento personal y profesional se refiere.
+Agradeciendo la atenciòn dispensada y a la espera de una respuesta, saluda muy atte.
+      Lorena Farace
+Security_code : 48 gkc
+Send : Enviar
+
+---------------
+
+Address : 190.194.253.249
+Nombre : Emiliano
+Apellido : Garcia
+Cargo : arquitecto / diseñador
+Direccion : 28 n 4845 Gonnet
+Ciudad : La Plata
+Telefono : 0221 15 4361424
+Email : eng_arqlp@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Envio mi CV, Gracias
+Security_code : mk6x6
+Send : Enviar
+
+---------------
+
+Address : 186.182.229.180
+Nombre : Natalia
+Apellido : Wolff
+Cargo : Varios
+Direccion : Av. America481 6 A
+Ciudad : Buenos Aires
+Telefono : 1555052960
+Email : natynegu@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : En busqueda laboral, proactiva, con ganas de trabajar y desarrollarme en lo profesional y laboral
+Security_code : ffb7g
+Send : Enviar
+
+---------------
+

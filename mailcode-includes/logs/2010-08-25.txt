@@ -1,0 +1,24 @@
+Address : 201.254.33.135
+Nombre : Guillermo
+Apellido : Aguilera
+Empresa : Calzado
+Telefono : 011-1562661945
+Email : guille0511@hotmail.com
+Mensaje : Podrian cotizarme la habilitacion de un cilindro de compresor, muchas gracias.
+Security_code : 7cmjt
+Send : Enviar
+
+---------------
+
+Address : 187.132.199.101
+Nombre : nayeli
+Apellido : lara gallegos
+Empresa : catsa
+Telefono : 7821227385
+Email : querryyy@hotmail.com
+Mensaje : como capacitar al personal o darle la capacitacion necesaria
+Security_code : 5bp6m
+Send : Enviar
+
+---------------
+

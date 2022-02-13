@@ -1,0 +1,19 @@
+Address : 200.32.90.34
+Nombre : Carolina
+Apellido : Capistrano
+Empresa : Molino Cañuelas
+Telefono : 421002
+Email : capistranoc@molca.com.ar
+Mensaje : Buenos dias,
+
+Mi nombre es Carolina, y soy analista de selección de una importante industria alimenticia. Nos encontramos actualmente en la busqueda de un nuevo proveedor de informes ambientales. Tomo contacto con uds. con la intención de consultarles que tipo de información brindan sus informes, y cuales serían los costos. 
+
+Desde ya, muchas gracias.
+
+Saludos cordiales,
+Carolina
+Security_code : rjprn
+Send : Enviar
+
+---------------
+

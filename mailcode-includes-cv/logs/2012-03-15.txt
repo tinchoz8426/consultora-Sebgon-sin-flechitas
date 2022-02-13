@@ -1,0 +1,62 @@
+Address : 186.134.20.223
+Nombre : david augusto
+Apellido : lorenzi
+Cargo : personal de limpieza
+Direccion : patiño 3468
+Ciudad : moron
+Telefono : 1533836883
+Email : lorenzidavid1989@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Dejo adjunto mi curriculum vitae y una fotografía,desde ya muchas gracias
+Espero su llamado.
+
+David Lorenzi
+Security_code : 7yvr4
+Send : Enviar
+
+---------------
+
+Address : 190.189.107.34
+Nombre : Reynaldo Anibal
+Apellido : Muscari
+Cargo : Consultor SAP HR
+Direccion : Gral. Eugenio Garzón 3346
+Ciudad : Capital Federal - Flores
+Telefono : 011-15-5-971-2094 // 011-4-613-8099
+Email : ramuscari@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me desempeño como freelance desde 04/2010. En los módulos de Gestión de Capacitación y Datos Maestros. Cuento con la capacidad para trabajar tanto solo como en equipo, puedo tomar decisiones y aceptar responsabilidades, me considero dinámico, trabajador y con mucha voluntad para aprender y progresar. Cuento con disponibilidad Full time y puedo incorporarme a la empresa de forma inmediata, estoy dispuesto a viajar y cuento con la documentación al día.
+Estoy a su disposición.
+Desde ya Gracias y Saludos...
+Reynaldo A. Muscari
+
+Security_code : fzs8x
+Send : Enviar
+
+---------------
+
+Address : 190.30.198.91
+Nombre : Pedro Eugenio
+Apellido : Muñoz Torres
+Cargo : gerente de mantenimiento o infraestructura
+Direccion : Nicolas Avellaneda 2485
+Ciudad : Cordoba
+Telefono : 0351-153379141
+Email : m_t_pedro@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenos días, por la presente le envío adjunto mi curriculum vitae para ser considerado al momento de una búsqueda relacionada con la dirección y coordinación de infraestructura o mantenimiento.
+Mi experiencia y conocimientos le pueden ser de gran utilidad para la optimización de las tareas de mantenimiento. Realizando planificaciones anuales de mantenimiento preventivo y correctivo y evaluando las relaciones costo beneficio y aportando a la seguridad e higiene en el trabajo.
+Mi experiencia laboral como responsable de área y manejo de personal es comprobable.
+
+Actualmente brindo mis servicios para una empresa muy importante del rubro salud en la ciudad de Córdoba, pero si existiera una mejor propuesta lo consideraría.
+
+Contactos:
+Muñoz Torres Pedro E.
+Bachiller en produccion de bienes y servicios 
+(0351)153-379141
+
+Security_code : tfzx6
+Send : Enviar
+
+---------------
+

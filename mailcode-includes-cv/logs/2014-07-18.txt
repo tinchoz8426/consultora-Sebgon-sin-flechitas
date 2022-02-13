@@ -1,0 +1,99 @@
+Address : 201.176.139.61
+Nombre : micaela
+Apellido : mansilla
+Cargo : el que me den
+Direccion : caseros
+Ciudad : san miguel
+Telefono : 1159332713
+Email : miik_94@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : aprender y progresar laboralmente, y poder desempeñarme en cualquier area disponible.
+Security_code : ycz7n
+Send : Enviar
+
+---------------
+
+Address : 181.225.16.121
+Nombre : YALILE
+Apellido : MONTOYA
+Cargo : tecnico superior en seguridad e higiene laboral 
+Direccion : JULIO RICARDO SANCHEZ
+Ciudad : NEUQUEN
+Telefono : 299-155198670
+Email : yalimontoya@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Carta de presentación
+
+
+
+
+Estimados: 
+                   
+
+Me dirijo a ustedes con el fin de hacer llegar mi curriculum  vitae para realizar la postulación de las siguientes vacantes. 
+
+
+Quisiera que la empresa me tenga en cuenta para poder obtener un trabajo, ya que hace tiempo que estoy buscando y no he tenido la oportunidad de poder obtenerlo. Es por ello que me gustaría poder trabajar en su empresa porque sé que esta tiene mucho que ofrecerme y me encantaría ser parte de ustedes. 
+
+Siguiendo vuestra conversación quiero aclara que no tengo experiencia en el campo a lo referido en este caso el petróleo, pero una cosa que puedo asegurarles, de que soy una persona muy responsable y con disponibilidad de viajar sin inconveniente alguno.
+
+También debo aclarar que necesito mucho trabajar y me gustaría poder tener la oportunidad, ya que hace mucho que vengo insistiendo para poder ingresar a su empresa, sin más que decir me despido atte.
+
+Security_code : 9bw8p
+Send : Enviar
+
+---------------
+
+Address : 200.45.244.205
+Nombre : Martín
+Apellido : Candio Abbura
+Cargo : Periodista
+Direccion : Avenida Belgrano 3277
+Ciudad : CABA
+Telefono : 1533891510
+Email : martinc.20@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimado/a:
+
+ 
+
+Mi nombre es Martín Candio Abbura, tengo 21 años, y me recibí, en 2013, de técnico superior en periodismo, en TEA. Cuento con experiencia en medios: he trabajado para la web "Solo Ascenso", cubriendo la campaña del club Ferrocarril Oeste y en estos momentos, me desempeño como colaborador freelance para la revista "Aviones.com", del gremio APTA, aparte de trabajar en 3 programas de radio como co-conductor.
+
+Atte.
+
+Martín Candio Abbura
+Security_code : j464g
+Send : Enviar
+
+---------------
+
+Address : 201.231.161.208
+Nombre : Jonathan
+Apellido : Milea 
+Cargo : Administrativo - Analista Jr. de Recursos Humanos 
+Direccion : Peron 3451
+Ciudad : Capital Federal 
+Telefono : 1559337514
+Email : jonathan_milea@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto mi cv para futuras búsquedas laborales que realicen , muchas gracias 
+Security_code : 2bkzn
+Send : Enviar
+
+---------------
+
+Address : 186.23.132.55
+Nombre : Marcelo
+Apellido : Lobo
+Cargo : administración, data entry, atención al cliente
+Direccion : Av. Pedro Goyena 1387  Dpto:4
+Ciudad : capital federal
+Telefono : 4432-1386
+Email : marce_lobo_90@live.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Me gustaría desempeñarme en áreas acorde a mis estudios.
+Security_code : 5bykw
+Send : Enviar
+
+---------------
+

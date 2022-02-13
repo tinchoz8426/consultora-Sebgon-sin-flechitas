@@ -1,0 +1,35 @@
+Address : 200.123.137.138
+Nombre : María del Carmen
+Apellido : Santo
+Cargo : Responsable de area
+Direccion : Juan B. Justo 6130
+Ciudad : CABA
+Telefono : 4581-8543
+Email : mariadelcsanto@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados, les adjunto mi cv para que sea tenido en cuenta en futuras búsquedas. Muchas gracias!
+Security_code : 6gqvw
+Send : Enviar
+
+---------------
+
+Address : 186.22.119.56
+Nombre : Antonella 
+Apellido : Centurion
+Cargo : RECEPCIONISTA
+Direccion : Cruz del sur 1977
+Ciudad : El Talar
+Telefono : 47260395
+Email : anttoxeneize_15@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenas Tardes,
+Les envío mi CV a fin de que lo tengan en cuenta en sus búsquedas laborales.
+Saluda Atte. 
+
+Antonella Centurión.
+
+Security_code : hcyd7
+Send : Enviar
+
+---------------
+

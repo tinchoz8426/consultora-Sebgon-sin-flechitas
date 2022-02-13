@@ -1,0 +1,113 @@
+Address : 186.23.33.196
+Nombre : Sol
+Apellido : Gavazzo
+Cargo : administrativa
+Direccion : J. L. Borges 2258
+Ciudad : C.A.B.A.
+Telefono : 4777-1269
+Email : solgavazzo@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados: por adjunto envío CV a evaluar para la generación de puesto de trabajo que se ajuste al perfil. Atte. Sol Gavazzo.
+Security_code : 947kj
+Send : Enviar
+
+---------------
+
+Address : 186.23.33.196
+Nombre : Sol
+Apellido : Gavazzo
+Cargo : administrativa
+Direccion : J. L. Borges 2258
+Ciudad : C.A.B.A.
+Telefono : 4777-1269
+Email : solgavazzo@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados: por adjunto envío CV a evaluar para la generación de puesto de trabajo que se ajuste al perfil. Atte. Sol Gavazzo.
+Security_code : 947kj
+Send : Enviar
+
+---------------
+
+Address : 190.174.170.41
+Nombre : Haydee
+Apellido : Catania
+Cargo : Decoradora de interiores o administrativa
+Direccion : pje.coligue 2980
+Ciudad : capital federal
+Telefono : 011-4639-4743
+Email : haydeecatania@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : adjunto mi curriculum vitae..
+Security_code : tcrmy
+Send : Enviar
+
+---------------
+
+Address : 190.174.170.41
+Nombre : Haydee
+Apellido : Catania
+Cargo : Decoradora de interiores o administrativa
+Direccion : pje.coligue 2980
+Ciudad : capital federal
+Telefono : 011-4639-4743
+Email : haydeecatania@hotmail.com
+
+---------------
+
+Address : 190.174.170.41
+Nombre : Haydee
+Apellido : Catania
+Cargo : Decoradora de interiores o administrativa
+Direccion : pje.coligue 2980
+Ciudad : capital federal
+Telefono : 011-4639-4743
+Email : haydeecatania@hotmail.com
+
+---------------
+
+Address : 190.137.251.233
+Nombre : Mauricio
+Apellido : Doroni
+Cargo : Técnico, Administrativo, etc.
+Direccion : Moreno 1282
+Ciudad : Fighiera Santa Fé
+Telefono : 03402 470245
+Email : mauriciodoroni@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Buenas tardes, gracias por su amable atención y quedo a la espera de una respuesta favorable.
+Saludos cordiales
+Security_code : 5q868
+Send : Enviar
+
+---------------
+
+Address : 186.19.189.254
+Nombre : María Belén
+Apellido : Dos Reis
+Cargo : ventas
+Direccion : San José de Clasanz 147/ 11E° 
+Ciudad : Capital Federal
+Telefono : 15-65232122
+Email : belendosreiis@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Amplia capasidad comercial
+Security_code : f89f7
+Send : Enviar
+
+---------------
+
+Address : 186.19.189.254
+Nombre : María Belén
+Apellido : Dos Reis
+Cargo : ventas
+Direccion : San José de Clasanz 147/ 11E° 
+Ciudad : Capital Federal
+Telefono : 15-65232122
+Email : belendosreiis@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Amplia capasidad comercial
+Security_code : f89f7
+Send : Enviar
+
+---------------
+

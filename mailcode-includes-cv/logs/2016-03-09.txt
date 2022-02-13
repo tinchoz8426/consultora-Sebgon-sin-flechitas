@@ -1,0 +1,158 @@
+Address : 200.68.240.88
+REF : OEL
+Nombre : jorge
+Apellido : merlo
+Cargo : oficial electricista
+Direccion : armesti 2894
+Ciudad : Banfield
+Telefono : 1167224509
+Email : jorge.merlo10@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Tengo mucha experiencia en electricidad industrial
+Security_code : vgbjg
+Send : Enviar
+
+---------------
+
+Address : 190.176.141.140
+REF : TECELEC
+Nombre : Nicolas Arian
+Apellido : Lucero Biondo
+Cargo : Ing. para Automatización Industrial
+Direccion : Quintana 4170, Villa Nueva de Guaymallén
+Ciudad : Mendoza
+Telefono : +54 261 3091954
+Email : lucerobiondo@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Envío mi CV para postulación de programador de PLC y manejo de herramientas SCADA/HMI.
+Security_code : t9pk8
+Send : Enviar
+
+---------------
+
+Address : 201.250.166.226
+Nombre : pablo cesar
+Apellido : gonzalez
+Cargo : soldador
+Direccion : yapeyu 1148
+Ciudad : paso del rey
+Telefono : 0111565466842
+Email : pcgonzalez2005@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : soldador asme IX
+Security_code : xxK5s
+Send : Enviar
+
+---------------
+
+Address : 201.250.166.226
+Nombre : pablo cesar
+Apellido : gonzalez
+Cargo : soldador
+Direccion : yapeyu 1148
+Ciudad : paso del rey
+Telefono : 0111565466842
+Email : pcgonzalez2005@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : soldador merlo
+Security_code : f7d2c
+Send : Enviar
+
+---------------
+
+Address : 181.189.139.82
+Nombre : Estefani Ruvit
+Apellido : Hernandez Arevalo
+Cargo : Secretaria
+Direccion : Ciudad Quetzal, 
+Ciudad : Guatemala
+Telefono : 40795289
+Email : ruvitheernandez18@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Necesito trabajo de secretaria.
+Security_code : s6qws
+Send : Enviar
+
+---------------
+
+Address : 181.189.139.82
+Nombre : Estefani Ruvit
+Apellido : Hernandez Arevalo
+Cargo : Secretaria
+Direccion : Ciudad Quetzal, 
+Ciudad : Guatemala
+Telefono : 40795289
+Email : ruvitheernandez18@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Necesito trabajo de secretaria.
+Security_code : s6qws
+Send : Enviar
+
+---------------
+
+Address : 186.129.22.235
+Nombre : Estefania
+Apellido : Borghelli
+Cargo : Recepcionista
+Direccion : Avellaneda 4515
+Ciudad : Capital Federal
+Telefono : 1552627822
+Email : e.borghelli@live.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados,
+Me dirijo a ustedes con el objeto de manifestarles mi  interés en que consideren mi candidatura a un puesto que se ajuste a mi perfil.
+Con mi formación y especialización en las distintas áreas administrativas, cuyo detalle podrán observar en el CV que les adjunto, confío en reunir los requisitos necesarios para el desempeño de una función en vuestra Empresa.
+Desde ya agradezco la atención prestada y deseando obtener una entrevista para ampliar en detalles.
+
+Saludos.
+Atte. Borghelli, Estefania.
+Security_code : qpfxh
+Send : Enviar
+
+---------------
+
+Address : 66.102.8.154
+Nombre : Oscar Eduardo
+Apellido : Paiz
+Cargo : Cañista
+Direccion : De los Inmigrantes 1584
+Ciudad : Campana
+Telefono : 3489696384
+Email : anglosajón 1584@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados, el motivo del mensaje es postularme para toda tipo de oferta laboral, relacionada con piping
+Security_code : ggbm4
+Send : Enviar
+
+---------------
+
+Address : 66.102.8.160
+Nombre : Oscar Eduardo
+Apellido : Paiz
+Cargo : Cañista
+Direccion : De los Inmigrantes 1584
+Ciudad : Campana
+Telefono : 3489696384
+Email : anglosajón 1584@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimados, el motivo del mensaje es postularme para toda tipo de oferta laboral, relacionada con piping
+Security_code : ggbm4
+Send : Enviar
+
+---------------
+
+Address : 181.228.176.217
+Nombre : Tomás Pedro
+Apellido : Costa
+Cargo : Vendedor, Cadete, asistente comercial, etc...
+Direccion : Muñiz 1673
+Ciudad : Capital federal
+Telefono : 011 1540768369
+Email : costa_0838@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Personalidad proactiva y productiva. experiencia en muchos ámbitos laborales y capacidad reflexiva. 
+Security_code : qhrqs
+Send : Enviar
+
+---------------
+

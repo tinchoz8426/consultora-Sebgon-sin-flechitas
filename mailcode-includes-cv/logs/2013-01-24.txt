@@ -1,0 +1,56 @@
+Address : 200.117.248.143
+Nombre : MARIA VALERIA
+Apellido : RAMOS CHAILAN
+Cargo : analista en recursos humanos o afines
+Direccion : av rep del libano 650
+Ciudad : salta
+Telefono : 0387 155144707
+Email : valerch@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : hola sres sebgon adjunto a lapresnet mi cv actualizado para que sea evaluado ante cualquier vacante o anuncio relativoa los recursos humanos
+muchas gracias
+Security_code : ycq9x
+Send : Enviar
+
+---------------
+
+Address : 186.19.62.20
+Nombre : Romina Natalia
+Apellido : Mezzina
+Cargo : administrativa
+Direccion : Wenceslao Villafañe 1080
+Ciudad : Capital Federal
+Telefono : 39656132
+Email : romina26-09@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola dejo mi numero de celular 1564466070
+Security_code : vg4dq
+Send : Enviar
+
+---------------
+
+Address : 186.125.226.103
+Nombre : sergio
+Apellido : iovino
+Cargo : almacen
+Direccion : 3 de febrero; buenos aires
+Ciudad : martin coronado 1682
+Telefono : 1562897561
+Email : drsergioiovino@yahoo.it
+MAX_FILE_SIZE : 2097152
+Mensaje : Estimado coordinador,
+ 
+Como un recién graduado de veterinaria de 34años a partir de Génova, Italia, estoy enviando por correo una solicitudde información a una posición abierta.
+
+He enviado mi CV.
+
+Espero con interés escuchar de usted.
+ 
+Un cordial saludo.
+ 
+Dr. S Iovino
+Security_code : bmmtr
+Send : Enviar
+
+---------------
+

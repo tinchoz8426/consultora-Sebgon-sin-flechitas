@@ -1,0 +1,50 @@
+Address : 190.74.176.95<br>
+ <br>REF : ROT-1
+ <br>Nombre : Juan Carlos
+ <br>Apellido : Serrano Castillo
+ <br>Cargo : responsable de oficina tecnica
+ <br>Direccion : venezuela
+ <br>Ciudad : cumana
+ <br>Telefono : (+58)02934673908
+ <br>Email : jcserracas@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buen dia envio mi resumen curricular optando al cargo de responsable de oficina técnica.
+ <br>Security_code : 7gb4z
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.91.255.217<br>
+ <br>Nombre : Luciana 
+ <br>Apellido : Burgos
+ <br>Cargo : Administración
+ <br>Direccion : Sarandí 4355
+ <br>Ciudad : Villa Ballester
+ <br>Telefono : 1530943911
+ <br>Email : luciana10vanesa05burgos82@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados,
+Estoy buscando algun cargo a ocupar vicnulado con la administración de capacitaciones, o bien secretariado.
+A su vez me interesa mucho el rubro Textil o bien mencionado Indumentaria.
+Muchas Gracias!
+ <br>Security_code : hddj8
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.111.244.177<br>
+ <br>REF : ACO-1
+ <br>Nombre : Ana Laura 
+ <br>Apellido : Chaparro
+ <br>Cargo : Analista de Comercio Exterior
+ <br>Direccion : Agustin de la Vega 
+ <br>Ciudad : Martin coronado
+ <br>Telefono : 1534674549
+ <br>Email : analaura.chaparro@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : .
+ <br>Security_code : mcn2j
+ <br>Send : Enviar
+ <br>
+---------------
+

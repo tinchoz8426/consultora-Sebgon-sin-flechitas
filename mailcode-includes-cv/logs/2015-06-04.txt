@@ -1,0 +1,56 @@
+Address : 190.51.140.137
+REF : GT PL
+Nombre : David
+Apellido : Astur
+Cargo : Gerente de Plaant
+Direccion : Bynnon 1866
+Ciudad : Adrogue
+Telefono : 1565733882
+Email : davidjcv@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : 
+Estimados Señores de SEBGON;
+
+Los requerimientos planteados en el aviso publicado por Uds. me hacen presuponer una oportunidad laboral acorde a mis actuales objetivos de carrera.
+Por mi parte soy Ingeniero Industrial, MBA con sólida experiencia en el área de operaciones. Durante mi carrera laboral, he tenido a cargo áreas de Producción, mantenimiento, Excelencia operacional, calidad, compras, higiene y seguridad, logística y Post venta.
+Le hago llegar mi CV actualizado y me gustaría mucho coordinar una reunión para poder conocernos y discutir mi background donde ustedes podrán analizar y tenerme en cuenta para ésta búsqueda o futuras donde considere que mi perfil pudiera aplicar.
+Quedo a la espera de vuestra gentil respuesta.
+ 
+At. Ing. David Astur
+      156 573 3882
+
+Security_code : 4y8fy
+Send : Enviar
+
+---------------
+
+Address : 190.2.11.245
+Nombre : María Eugenia
+Apellido : Agüero
+Cargo : Administrativa/Recepcionista
+Direccion : Av. Montes de Oca 310 - 2ºB
+Ciudad : Capital Federal
+Telefono : 1531400384
+Email : euge.aguero93@live.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Me considero una persona organizada, con muchas ganas de aprender y capacitarme.
+Security_code : 7wqbx
+Send : Enviar
+
+---------------
+
+Address : 186.13.7.139
+Nombre : Noemi ivana
+Apellido : Barrios
+Cargo : atención al público, recepcionista
+Direccion : meangolarra 785 Pte Perón 354 casa 9
+Ciudad : Puerto Madryn, Chubut
+Telefono : 2804520992
+Email : ivanabarrios83@gmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Quisiera una oportunidad laboral tengo estudios secundario completo y algunos cursos ojalá se comuniquen y me den un voto de confíanza.muchas gracias!
+Security_code : svh47
+Send : Enviar
+
+---------------
+

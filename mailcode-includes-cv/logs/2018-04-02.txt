@@ -1,0 +1,110 @@
+Address : 143.208.46.28<br>
+ <br>REF : TE-1
+ <br>Nombre : Yohanny
+ <br>Apellido : Bermudez
+ <br>Cargo : Técnico instrumentista 
+ <br>Direccion : Neuquén 
+ <br>Ciudad : Neuquen
+ <br>Telefono : +549 11 2477 4601
+ <br>Email : yohannybermudez@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Buenas tardes ofreciendo mis servicios para el cargo solicitado
+ <br>Security_code : v246n
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 201.179.11.196<br>
+ <br>Nombre : JEAN EDUARDO
+ <br>Apellido : TAMOY LAREZ
+ <br>Cargo : DISPONIBLE PARA CUALQUIER CARGO
+ <br>Direccion : GERONIMO SALGUERO 1247
+ <br>Ciudad : PALERMO
+ <br>Telefono : +54 91124040009
+ <br>Email : tamoyj7@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : DISPONIBLE PARA DESEMPEÑAR CUALQUIER  CARGA QUE TENGA LA EMRESA 
+ <br>Security_code : whcwv
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.49.115.192<br>
+ <br>REF : EP-1
+ <br>Nombre : EMILIO GUSTAVO
+ <br>Apellido : ROBLES
+ <br>Cargo : ENCARGADO DE PRODUCCION
+ <br>Direccion : AZCUENAGA, 826
+ <br>Ciudad : LAS HERAS
+ <br>Telefono : 2616921021
+ <br>Email : ger-robles@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : 22 años de experiencia
+ <br>Security_code : vh7d6
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.49.115.192<br>
+ <br>REF : EP-1
+ <br>Nombre : EMILIO GUSTAVO
+ <br>Apellido : ROBLES
+ <br>Cargo : ENCARGADO DE PRODUCCION
+ <br>Direccion : AZCUENAGA, 826
+ <br>Ciudad : LAS HERAS
+ <br>Telefono : 2616921021
+ <br>Email : ger-robles@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : 22 años de experiencia
+ <br>Security_code : vh7d6
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 190.49.115.192<br>
+ <br>Nombre : EMILIO GUSTAVO
+ <br>Apellido : ROBLES
+ <br>Cargo : ENCARGADO DE PRODUCCION
+ <br>Direccion : AZCUENAGA, 826
+ <br>Ciudad : LAS HERAS
+ <br>Telefono : 2616921021
+ <br>Email : ger-robles@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : 22 años de experiencia
+ <br>Security_code : jby3r
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.47.138.19<br>
+ <br>REF : JPER-1
+ <br>Nombre : RICARDO HORACIO
+ <br>Apellido : LUACES
+ <br>Cargo : JEFE DE PERSONAL 
+ <br>Direccion : Alcorta, 661
+ <br>Ciudad : Troncos del Talar
+ <br>Telefono : 1531023051
+ <br>Email : rrll1967@yahoo.com.ar
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Tengo el agrado de dirigirme a ustedes, poniendo a Vuestra consideracion mi CV, interesado en la busqueda de la referencia (JPER-1). Atte: Ricardo Luaces
+ <br>Security_code : mvcnm
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 181.46.97.48<br>
+ <br>REF : EP-1
+ <br>Nombre : Pedro 
+ <br>Apellido : Barrios 
+ <br>Cargo : Encargado de Producción 
+ <br>Direccion : Patricios 265 Torres pueyrredon 
+ <br>Ciudad : Avellaneda 
+ <br>Telefono : 1126935589
+ <br>Email : Pbarrioscas@gmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : me encuentro en búsqueda laboral activa.Tengo muchos años de experiencia en la manufactura de pinturas y recubrimientos de alto desempeño.  Mi carrera de profesional ha estado enmarcada desde análisis de laboratorio hasta la Gerencia de Control de calidad.  También tengo experiencia como supervisor del sistema productivo en la elaboración de papel y servilletas. Agradezco si en su base de datos tiene alguna búsqueda acorde a mi perfil o si tiene información en su red sobre alguna oferta laboral no dude en contactarme. 
+ <br>Security_code : bc6nq
+ <br>Send : Enviar
+ <br>
+---------------
+

@@ -1,0 +1,31 @@
+Address : 190.225.96.91
+Nombre : claudia elizabeth
+Apellido : romero
+Cargo : empleada
+Direccion : las margaritas 7185
+Ciudad : buenos aires
+Telefono : 01148419184
+Email : romeroclaudia11@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : muchas ganas de trabajar
+Security_code : 648pn
+Send : Enviar
+
+---------------
+
+Address : 190.190.111.112
+REF : tecnico-de-mantenimiento
+Nombre : Laura Veronica
+Apellido : Bacco
+Cargo : Administrativa de RRHH 
+Direccion : Tacuari 405
+Ciudad : Haedo, Buenos Aires
+Telefono : 44437064
+Email : lveronicabacco@yahoo.com.ar
+MAX_FILE_SIZE : 2097152
+Mensaje : Mi objetivo personal es poder insertarme en una organizacion que permita tanto mi desarrollo profesional y personal.
+Security_code : 3pf59
+Send : Enviar
+
+---------------
+

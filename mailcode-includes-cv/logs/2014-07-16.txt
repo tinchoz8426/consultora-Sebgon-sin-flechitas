@@ -1,0 +1,46 @@
+Address : 190.17.149.183
+Nombre : GASTON
+Apellido : MARTINI
+Cargo : Técnico mantenimiento Electricidad
+Direccion : Dr ignacio Arieta 281
+Ciudad : Villa luzuriaga-San Justo
+Telefono : 541144435246
+Email : gastonmar07@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : A quien corresponda
+Gracias
+Security_code : cr755
+Send : Enviar
+
+---------------
+
+Address : 186.134.175.14
+Nombre : Ruth
+Apellido : Ledesma
+Cargo : atencion al cliente
+Direccion : misiones 965
+Ciudad : san jose alte brown
+Telefono : 1564862341
+Email : shilen.iss@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Adjunto mi cv por si tienen algun puesto disponible
+Security_code : ngkhs
+Send : Enviar
+
+---------------
+
+Address : 181.28.255.195
+Nombre : Maria Florencia
+Apellido : Speroni
+Cargo : Posible empleo en medios
+Direccion : Av. Sta fe 2069 1B
+Ciudad : Capital Federal
+Telefono : 48233913
+Email : florsperoni@hotmail.com
+MAX_FILE_SIZE : 2097152
+Mensaje : Hola! Envío mi material para una posible búsqueda que se adapte a mi perfil
+Security_code : 35j7b
+Send : Enviar
+
+---------------
+

@@ -1,0 +1,39 @@
+Address : 190.244.59.48<br>
+ <br>Nombre : PABLO
+ <br>Apellido : PACINI
+ <br>Cargo : MARKETING
+ <br>Direccion : Del Cielito 832
+ <br>Ciudad : Parque Leloir, Bs. As.
+ <br>Telefono : 1568178657
+ <br>Email : pablopacini@hotmail.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : Estimados,
+                   Buenas tardes, les adjunto mi CV para aplicar a búsquedas en el área de Marketing, Comunicaciones o Compras.
+
+
+Quedo a disposición.
+
+
+Muchas Gracias!
+Saludos Cordiales,
+Pablo.
+ <br>Security_code : 4jkcx
+ <br>Send : Enviar
+ <br>
+---------------
+
+Address : 180.189.144.116<br>
+ <br>Nombre : Fernando
+ <br>Apellido : Martins
+ <br>Cargo : Gerente de ventas
+ <br>Direccion : Paso 82
+ <br>Ciudad : Avellaneda
+ <br>Telefono : 59843535
+ <br>Email : fernando.d.martins@outlook.com
+ <br>MAX_FILE_SIZE : 2097152
+ <br>Mensaje : quisiera saber que posibilidades hay de conseguir trabajo
+ <br>Security_code : cgpfx
+ <br>Send : Enviar
+ <br>
+---------------
+
