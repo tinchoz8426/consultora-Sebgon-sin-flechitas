@@ -604,7 +604,7 @@ ul.style2 li {
   align-items: center;
   margin-bottom: 12px;
   bottom: 0;
-  left: calc(50% - 65px);
+  left: calc(50% - 60px);
 }
 .slider-navigation .nav-btn{
   width: 12px;
@@ -636,7 +636,7 @@ ul.style2 li {
 .button-video {
   cursor: pointer;
   position: absolute;
-  top: 440px;
+  top: 58%;
   left: calc(50% - 65px);
   z-index: 9999;
   padding: 10px 30px;
